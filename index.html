@@ -94,10 +94,7 @@
 
     xhr.onload = function() {
 
-      _dataNotFound(xhr);
-
-      console.log(xhr.response);
-      console.log(xhr.response === []);
+      _isDataNotFound(xhr);
       _showYearMonth(xhr, thisYearMonth);
 
       // olタグの取得は画面ロード時の１回のみにする
@@ -151,9 +148,11 @@
 
         xhr.onload = function() {
 
-          _dataNotFound(xhr);
+          _isDataNotFound(xhr);
 
           console.log(xhr.response);
+          console.log(xhr.response === []);
+          console.log(xhr.response === Array(0));
           _showYearMonth(xhr, yearMonth);
 
           const olTag = document.getElementById("ranking");
@@ -178,7 +177,7 @@
     xhr.send();
   }
 
-  function _dataNotFound(xhr) {
+  function _isDataNotFound(xhr) {
     if (xhr.status === 404) {
       alert("データ取得に失敗しました。");
       document.getElementById("yearMonth").textContent = "★★★　ごめんね　★★★"
@@ -188,7 +187,7 @@
 
   function _showYearMonth(xhr, yearMonth) {
     let month = document.getElementById("yearMonth");
-    if (xhr.response === []) {
+    if (xhr.response === Array(0)) {
       month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
       return;
     }
