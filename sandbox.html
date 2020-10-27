@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+
+  <a href="">aa</a>
+
+  <script>
+  const start_datetime = new Date("2020-08-01");
+  const now_datetime = new Date().toISOString().slice(0,7);
+
+  var now = new Date();
+  var daysOfYear = [];
+  for (var d = new Date(2012, 0, 1); d <= now; d.setDate(d.getDate() + 1)) {
+      daysOfYear.push(new Date(d));
+  }
+
+  const updateView = () => {
+  const pages = {
+    "/": `
+      <h1>Vanilla SPA</h1>
+    `,
+    "/home": `
+      <h1>ようこそ！</h1>
+    `,
+    "/profile": `
+      <h1>私は太郎です。</h1>
+    `
+  };
+  document.getElementById("app").innerHTML = pages[window.location.pathname];
+};
+
+document.querySelectorAll("a").forEach(a => {
+  a.onclick = event => {
+    event.preventDefault();//アンカーリンクのデフォルト挙動をdisable
+    window.history.pushState(null, "", a.href);
+    updateView();//ここで定義した関数を発火
+  };
+});
+  </script>
+</body>
+</html>

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Qiita殿堂入りのホームページです" />
+<title>Qiita殿堂入りのホームページ</title>
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .wrapper {
+    display: flex;
+  }
+  .nav-wrapper {
+    height: 100vh;
+    width: 27%;
+    border-right: solid 1px;
+    background-color: #f0f0ff;
+  }
+  .nav {
+    margin-top: 43px;
+    margin-left: 18px;
+  }
+  .contents-wrapper {
+    background-image: url("./dendo.png");
+    height: 100vh;
+    width: 100%;
+  }
+  .heading {
+    margin-top: 35px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 32px;
+  }
+  .yearMonth {
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+  .nav-icon::before {
+    content: "●";
+    margin-right: 2px;
+  }
+  .month {
+    padding: 2px;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  ul {
+    padding: 0;
+    maring: 0;
+  }
+  p {
+    padding: 0;
+    margin: 0;
+  }
+  #ranking {
+    margin-left: 240px;
+  }
+  #ranking li {
+    margin-bottom: .5rem;
+  }
+
+</style>
+</head>
+<body>
+  <div class="wrapper">
+    <nav class="nav-wrapper">
+      <ul id="sidebar" class="nav">
+      </ul>
+    </nav>
+
+    <main class="contents-wrapper">
+      <h1 class="heading">Qiita殿堂入りのホームページ（開発中）</h1>
+      <p id="yearMonth" class="yearMonth"></p>
+      <ol id="ranking"></ol>
+    </main>
+  </div>
+
+  <script src="./quicklink.js"></script>
+  <script>
+  window.addEventListener('DOMContentLoaded', function() {
+
+    // 初期表示データ
+    let xhr = new XMLHttpRequest();
+    let thisYearMonth = new Date().toISOString().slice(0,7)
+    _request(xhr, thisYearMonth);
+
+    xhr.onload = function() {
+
+      _errorHandle(xhr);
+
+      // olタグの取得は画面ロード時の１回のみにする
+      const olTag = document.getElementById("ranking");
+
+      xhr.response.forEach(function(json) {
+        _showRanking(json, olTag);
+      });
+    }
+    _showYearMonth(thisYearMonth);
+
+    // 左サイドバーの年月リンクを作成する
+    const sideBar = document.getElementById("sidebar");
+    const sideBarInner = document.createElement("div");
+
+    let startDate = new Date(2018,11,1);
+    while(startDate < new Date()) {
+      let sideATag = document.createElement("a");
+
+      startDate = new Date(startDate.setMonth(startDate.getMonth() + 1));
+
+      let YearMonth = startDate.toISOString().slice(0,7)
+      sideATag.href = "/hoge/" + YearMonth + ".json";
+      sideATag.id = YearMonth;
+      sideATag.className = "month";
+      sideATag.textContent = parseInt(startDate.toISOString().slice(5,7), 10) + "月";
+
+      sidebar.insertBefore(sideATag, sidebar.firstChild);
+
+      // 12月で年を表示する
+      if (startDate.getMonth() == 0) {
+        let sidePTag = document.createElement("p");
+        sidePTag.textContent = startDate.getFullYear() - 1 + "年";
+        sidePTag.className = "nav-icon";
+        sidebar.insertBefore(sidePTag, sidebar.firstChild);
+      }
+    }
+    // ループ後に今年の年を追加
+    const thisYear = document.createElement("p");
+    thisYear.textContent = new Date().getFullYear() + "年";
+    thisYear.className = "nav-icon";
+    sidebar.insertBefore(thisYear, sidebar.firstChild);
+
+    // サイドバー描画後に配置
+    document.querySelectorAll("#sidebar > a").forEach(function(a) {
+      a.onclick = function(event) {
+        event.preventDefault();
+
+        let xhr = new XMLHttpRequest();
+        _request(xhr, event.currentTarget.id);
+
+        xhr.onload = function() {
+
+          _errorHandle(xhr);
+
+          const olTag = document.getElementById("ranking");
+          olTag.innerHTML = "";
+
+          xhr.response.forEach(function(json) {
+            _showRanking(json, olTag);
+          });
+        }
+        _showYearMonth(event.currentTarget.id);
+      }
+    });
+  });
+
+  window.addEventListener('load', function() {
+    // DOM描画後にquicklinkを実行
+    quicklink.listen();
+  });
+
+  function _request(xhr, yyyymm) {
+    xhr.open('GET', './' + yyyymm +'.json');
+    xhr.responseType = 'json';
+    xhr.send();
+  }
+
+  function _errorHandle(xhr) {
+    if (xhr.status === 404) {
+      alert("データ取得に失敗しました。");
+      document.getElementById("yearMonth").textContent = "★★★　ごめんね　★★★"
+      return;
+    }
+  }
+
+  function _showRanking(json, olTag) {
+    let liTag = document.createElement("li");
+    let pTag = document.createElement("p");
+    let aTag = document.createElement("a");
+    aTag.href = json.url;
+    aTag.target = "_blank";
+    aTag.rel="noopener";
+    aTag.textContent = json.title;
+
+    let bottomPTag = document.createElement("p");
+    let bottomATag = document.createElement("a");
+    bottomPTag.textContent = json.likes_count + " LGTM　by ";
+    bottomATag.href = "https://qiita.com/" + json.id;
+    bottomATag.textContent = json.id
+    // let updatedAt = json.updated_at.slice(0, 10);
+
+    olTag.appendChild(liTag).appendChild(pTag).appendChild(aTag);
+    olTag.appendChild(liTag).appendChild(bottomPTag).appendChild(bottomATag);
+  }
+
+  function _showYearMonth(yearMonth) {
+    let month = document.getElementById("yearMonth");
+    month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
+  }
+
+  </script>
+</body>
+</html>
