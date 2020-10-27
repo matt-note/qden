@@ -149,6 +149,8 @@
 
           _errorHandle(xhr);
 
+          console.log(xhr.response);
+
           const olTag = document.getElementById("ranking");
           olTag.innerHTML = "";
 
@@ -202,11 +204,6 @@
 
   function _showYearMonth(yearMonth) {
     let month = document.getElementById("yearMonth");
-
-    if (json.length === 0) {
-      month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはまだありません　★★★";
-      return;
-    }
     month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
   }
 
