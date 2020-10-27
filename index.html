@@ -116,7 +116,7 @@
       startDate = new Date(startDate.setMonth(startDate.getMonth() + 1));
 
       let YearMonth = startDate.toISOString().slice(0,7)
-      sideATag.href = "/hoge/" + YearMonth + ".json";
+      sideATag.href = "./data/" + YearMonth + ".json";
       sideATag.id = YearMonth;
       sideATag.className = "month";
       sideATag.textContent = parseInt(startDate.toISOString().slice(5,7), 10) + "月";
@@ -167,7 +167,7 @@
   });
 
   function _request(xhr, yyyymm) {
-    xhr.open('GET', './' + yyyymm +'.json');
+    xhr.open('GET', './data/' + yyyymm +'.json');
     xhr.responseType = 'json';
     xhr.send();
   }
