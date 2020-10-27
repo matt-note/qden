@@ -151,8 +151,9 @@
           _isDataNotFound(xhr);
 
           console.log(xhr.response);
-          console.log(xhr.response === []);
-          console.log(xhr.response === Array(0));
+          console.log(xhr.response == []);
+          console.log(xhr.response == Array(0));
+          console.log(xhr.response.length);
           _showYearMonth(xhr, yearMonth);
 
           const olTag = document.getElementById("ranking");
@@ -187,7 +188,7 @@
 
   function _showYearMonth(xhr, yearMonth) {
     let month = document.getElementById("yearMonth");
-    if (xhr.response === Array(0)) {
+    if (xhr.response == Array(0)) {
       month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
       return;
     }
