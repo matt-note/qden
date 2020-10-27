@@ -97,8 +97,19 @@
 
       _errorHandle(xhr);
 
+      console.log(xhr.response);
+
+      let month = document.getElementById("yearMonth");
+      if (xhr.response.length === 0) {
+        month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
+      } else {
+        month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
+      }
+
       // olタグの取得は画面ロード時の１回のみにする
       const olTag = document.getElementById("ranking");
+
+
 
       xhr.response.forEach(function(json) {
         _showRanking(json, olTag);
@@ -151,6 +162,15 @@
         xhr.onload = function() {
 
           _errorHandle(xhr);
+          
+          console.log(xhr.response);
+
+          let month = document.getElementById("yearMonth");
+          if (xhr.response.length === 0) {
+            month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
+          } else {
+            month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
+          }
 
           const olTag = document.getElementById("ranking");
           olTag.innerHTML = "";
@@ -183,13 +203,7 @@
   }
 
   function _showYearMonth(xhr, yearMonth) {
-    let month = document.getElementById("yearMonth");
 
-    if (xhr.response.length === 0) {
-      month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
-    } else {
-      month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
-    }
   }
 
   function _showRanking(json, olTag) {
