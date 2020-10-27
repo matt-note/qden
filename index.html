@@ -146,14 +146,15 @@
         event.preventDefault();
 
         let xhr = new XMLHttpRequest();
-        _request(xhr, event.currentTarget.id);
+        let yearMonth = event.currentTarget.id;
+        _request(xhr, yearMonth);
 
         xhr.onload = function() {
 
           _dataNotFound(xhr);
 
           console.log(xhr.response);
-          _showYearMonth(xhr, event.currentTarget.id);
+          _showYearMonth(xhr, yearMonth);
 
           const olTag = document.getElementById("ranking");
           olTag.innerHTML = "";
