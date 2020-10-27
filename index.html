@@ -91,11 +91,11 @@
     let xhr = new XMLHttpRequest();
     let thisYearMonth = new Date().toISOString().slice(0,7)
     _request(xhr, thisYearMonth);
+    _showYearMonth(xhr, thisYearMonth);
 
     xhr.onload = function() {
 
       _errorHandle(xhr);
-      _showYearMonth(xhr, thisYearMonth);
 
       // olタグの取得は画面ロード時の１回のみにする
       const olTag = document.getElementById("ranking");
@@ -146,11 +146,11 @@
 
         let xhr = new XMLHttpRequest();
         _request(xhr, event.currentTarget.id);
+        _showYearMonth(xhr, event.currentTarget.id);
 
         xhr.onload = function() {
 
           _errorHandle(xhr);
-          _showYearMonth(xhr, event.currentTarget.id);
 
           const olTag = document.getElementById("ranking");
           olTag.innerHTML = "";
