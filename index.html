@@ -95,6 +95,7 @@
     xhr.onload = function() {
 
       _errorHandle(xhr);
+      _showYearMonth(xhr, thisYearMonth);
 
       // olタグの取得は画面ロード時の１回のみにする
       const olTag = document.getElementById("ranking");
@@ -103,7 +104,6 @@
         _showRanking(json, olTag);
       });
     }
-    _showYearMonth(thisYearMonth);
 
     // 左サイドバーの年月リンクを作成する
     const sideBar = document.getElementById("sidebar");
@@ -142,14 +142,15 @@
       a.onclick = function(event) {
         event.preventDefault();
 
+        _showYearMonth(event.currentTarget.id);
+
         let xhr = new XMLHttpRequest();
         _request(xhr, event.currentTarget.id);
 
         xhr.onload = function() {
 
           _errorHandle(xhr);
-
-          console.log(xhr.response);
+          _showYearMonth(xhr, event.currentTarget.id);
 
           const olTag = document.getElementById("ranking");
           olTag.innerHTML = "";
@@ -158,7 +159,6 @@
             _showRanking(json, olTag);
           });
         }
-        _showYearMonth(event.currentTarget.id);
       }
     });
   });
@@ -182,6 +182,16 @@
     }
   }
 
+  function _showYearMonth(xhr, yearMonth) {
+    let month = document.getElementById("yearMonth");
+
+    if (xhr.response.length === 0) {
+      month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
+    } else {
+      month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
+    }
+  }
+
   function _showRanking(json, olTag) {
     let liTag = document.createElement("li");
     let pTag = document.createElement("p");
@@ -201,12 +211,6 @@
     olTag.appendChild(liTag).appendChild(pTag).appendChild(aTag);
     olTag.appendChild(liTag).appendChild(bottomPTag).appendChild(bottomATag);
   }
-
-  function _showYearMonth(yearMonth) {
-    let month = document.getElementById("yearMonth");
-    month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
-  }
-
   </script>
 </body>
 </html>
