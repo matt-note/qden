@@ -189,8 +189,9 @@
     let month = document.getElementById("yearMonth");
     if (xhr.response === []) {
       month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
-    } else {
-      month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
+      return;
+    }
+    month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
     }
   }
 
