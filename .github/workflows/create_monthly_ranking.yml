@@ -12,4 +12,4 @@ jobs:
         shell: bash
         run: |
           bash aa_month.sh
-          cat aa_month.sh
+          cat month.csv
