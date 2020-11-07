@@ -11,5 +11,4 @@ jobs:
       - name: Checkout submodules
         shell: bash
         run: |
-          bash hoge.sh
-          pwd
+          bash aa_month.sh

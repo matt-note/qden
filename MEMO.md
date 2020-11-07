@@ -81,11 +81,6 @@ new Date().toISOString().slice(0,7)
 普通に > でファイル上書きやんという。いちいち、rm,touchしなくてええやんという。
 ファイルなかったら新規作成してくれるやんという。
 
-## GitHub Actionsで bashファイルを実行
-下記のようにして、普通に実行できるとのこと
-run: |
-  sh ./scripts/moveFile.sh
-
 
 ##
 とりあえず、二月分くらい jsonファイルを作ってみて、それを表示してみる
