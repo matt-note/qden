@@ -7,4 +7,4 @@ jobs:
   create_monthly_ranking:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hello World!"
+      - run: bash ${GITHUB_WORKSPACE}/hoge.sh
