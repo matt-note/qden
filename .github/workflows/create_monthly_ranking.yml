@@ -7,4 +7,9 @@ jobs:
   create_monthly_ranking:
     runs-on: ubuntu-latest
     steps:
-      - run: bash ${GITHUB_WORKSPACE}/hoge.sh
+      - uses: actions/checkout@v2
+      - name: Checkout submodules
+        shell: bash
+        run: |
+          bash hoge.sh
+          pwd
