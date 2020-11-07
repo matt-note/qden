@@ -26,6 +26,7 @@
   }
   .contents-wrapper {
     background-image: url("./dendo.png");
+    background-repeat: repeat-x;
     height: 100vh;
     width: 100%;
   }
@@ -181,9 +182,9 @@
     }
   }
 
-  function _showYearMonth(jsonLength, yearMonth) {
+  function _showYearMonth(arrayLength, yearMonth) {
     let month = document.getElementById("yearMonth");
-    if (jsonLength === 0) {
+    if (arrayLength === 0) {
       month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
       return;
     }

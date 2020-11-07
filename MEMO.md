@@ -96,12 +96,12 @@ new Date(date.setMonth(date.getMonth()+1));
 
 
 
-## サービス名は Qiitaranとする・・？ それかQdenn
-殿堂入りの用語はすでに使っているサイトがあるので、Qiitaのランキングサイトとする。（これもあるけど。）
-Qiita 殿堂入りでもアクセスできるように、用語を入れておく。
+## CSSで折りたたむサイドバー
+https://www.youtube.com/watch?v=V0O4pY2xX10
 
 ## PWA化する
 Vanilla JavaSciptでもPWAにできるとのこと。
+-> ホーム画面に追加する機能を作りたい。
 
 ## 阿部寛の背景のフォント
 https://www.dafontfree.net/freefonts-lucida-calligraphy-f133251.htm
