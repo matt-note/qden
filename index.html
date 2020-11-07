@@ -25,10 +25,11 @@
     margin-left: 18px;
   }
   .contents-wrapper {
-    background-image: url("./dendo.png");
-    background-repeat: repeat-x;
     height: 100vh;
     width: 100%;
+  }
+  .bg-repeat {
+    background-image: url("./dendo.png");
   }
   .heading {
     margin-top: 35px;
@@ -78,8 +79,10 @@
     </nav>
 
     <main class="contents-wrapper">
-      <h1 class="heading">Qiita殿堂入りのホームページ（開発中）</h1>
-      <p id="yearMonth" class="yearMonth"></p>
+      <div class="bg-repeat">
+        <h1 class="heading">Qiita殿堂入りのホームページ（開発中）</h1>
+        <p id="yearMonth" class="yearMonth"></p>
+      </div>
       <ol id="ranking"></ol>
     </main>
   </div>
