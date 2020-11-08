@@ -14,5 +14,6 @@ jobs:
           bash aa_month.sh
           git config --global user.name "matt-note"
           git config --global user.email "${{ secrets.EMAIL }}"
-          git commit -am "From GitHub Actions..."
+          git add .
+          git commit -m "From GitHub Actions..."
           git push
