@@ -42,18 +42,26 @@ curl -G \
 -- ランキングで10件表示
 curl -G \
   --data-urlencode "page=1" \
-  --data-urlencode "per_page=10" \
-  --data-urlencode "query=created:>2020-10 stocks:>300" \
+  --data-urlencode "per_page=100" \
+  --data-urlencode "query=created:>2020-11 stocks:>262" \
 -H 'Authorization: Bearer c32dd88c4bdff501c8ab63f2b72b7b7547a1a44b' 'https://qiita.com/api/v2/items' | \
 jq '. | map({ title: .title, url: .url, likes_count: .likes_count, created_at: .created_at ,updated_at: .updated_at, id: .user.id}) | sort_by(.likes_count) | reverse' > ranking.json
 
 -- 2020-09から2020-10までの記事で pageとは・・？
 curl -G \
-  --data-urlencode "page=3" \
-  --data-urlencode "per_page=10" \
-  --data-urlencode "query=created:>2020-09-01 created:<2020-10 stocks:>300" \
+  --data-urlencode "page=1" \
+  --data-urlencode "per_page=100" \
+  --data-urlencode "query=created:>2020-11-01 created:<2020-10 stocks:>262" \
 -H 'Authorization: Bearer c32dd88c4bdff501c8ab63f2b72b7b7547a1a44b' 'https://qiita.com/api/v2/items' | \
-jq '. | map({ title: .title, url: .url, likes_count: .likes_count, created_at: .created_at ,updated_at: .updated_at, id: .user.id}) | sort_by(.likes_count) | reverse' > ranking.json
+jq '. | map({ title: .title, url: .url, likes_count: .likes_count, created_at: .created_at, updated_at: .updated_at, id: .user.id}) | sort_by(.likes_count) | reverse' > ranking.json
+
+## ページネーションの仕様
+https://qiita.com/api/v2/docs#%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+
+これらのAPIには、1から始まるページ番号を表すpageパラメータと、
+1ページあたりに含まれる要素数を表すper_pageパラメータを指定することができます。
+pageの初期値は1、pageの最大値は100に設定されています。
+また、per_pageの初期値は20、per_pageの最大値は100に設定されています。
 
 
 ## 月ごとの記事を取得
