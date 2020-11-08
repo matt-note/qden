@@ -17,7 +17,7 @@ while [ 1 ] ; do
 
   # 日付をファイルに書き込み
   # > だけだと無限ループになる。
-  touch data/${TEMP_YM[:0:4]}-${TEMP_YM[:5:6]}.json
+  touch data/${TEMP_YM:0:4}-${TEMP_YM:5:6}.json
 
   # 日付をインクリメント
   TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y%m%d"`
