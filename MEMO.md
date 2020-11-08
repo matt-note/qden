@@ -39,7 +39,7 @@ curl -G \
   --data-urlencode "query=:>2020-10 stocks:>100" \
 -H 'Authorization: Bearer c32dd88c4bdff501c8ab63f2b72b7b7547a1a44b' 'https://qiita.com/api/v2/items' | jq .
 
--- ランキングで10件表示
+-- ランキングで100件表示
 curl -G \
   --data-urlencode "page=1" \
   --data-urlencode "per_page=100" \
