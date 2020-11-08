@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# MacでGNUのdateコマンドを使うには、gdateコマンドとなる。もどかしい。。
-START_YM=2020-09-16
+# 開始日付と実行時日付を設定
+START_YM=2019-09-16
 END_YM=`date +%Y-%m-%d`
 
 TEMP_YM=$START_YM
