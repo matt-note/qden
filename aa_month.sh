@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 開始日付と実行時日付を設定
-START_YM=2020-09-16
+START_YM=2020-09-01
 END_YM=`date +%Y-%m-%d`
 
 TEMP_YM=$START_YM
@@ -12,7 +12,7 @@ while [ 1 ] ; do
     break
   fi
 
-  LIMIT_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m"`
+  LIMIT_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
 
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
