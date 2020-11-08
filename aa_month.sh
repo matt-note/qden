@@ -15,7 +15,7 @@ while [ 1 ] ; do
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
   curl -G \
-    --data-urlencode "query=created:>2020-09-01 created:<2020-11 stocks:>262" \
+    --data-urlencode "query=created:>2020-10-01 created:<2020-11 stocks:>262" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
   -H 'Authorization: Bearer ${{ secrets.QIITA_TOKEN }}' 'https://qiita.com/api/v2/items' | \
