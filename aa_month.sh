@@ -4,9 +4,6 @@
 START_YM=20200816
 END_YM=`date +%Y%m%d`
 
-# 新規ファイルは >>で作成できるので、過去のファイルは削除。
-rm month.csv
-
 TEMP_YM=$START_YM
 while [ 1 ] ; do
 
@@ -15,9 +12,8 @@ while [ 1 ] ; do
     break
   fi
 
-  # 日付をファイルに書き込み
-  # > だけだと無限ループになる。
-  touch data/${TEMP_YM:0:4}-${TEMP_YM:5:6}.json
+  # 一旦、ファイル作成を確認
+  echo "hoge" > data/${TEMP_YM:0:4}-${TEMP_YM:5:6}.json
 
   # 日付をインクリメント
   TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y%m%d"`
