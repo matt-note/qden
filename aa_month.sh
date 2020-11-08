@@ -13,7 +13,12 @@ while [ 1 ] ; do
   fi
 
   # 一旦、ファイル作成を確認
-  echo "hoge" > data/${TEMP_YM:0:7}.json
+  curl -G \
+    --data-urlencode "page=1" \
+    --data-urlencode "per_page=100" \
+    --data-urlencode "query=created:>2020-11-01 created:<2020-10 stocks:>262" \
+  -H 'Authorization: Bearer ${{ secrets.QIITA_TOKEN }}' 'https://qiita.com/api/v2/items' | \
+  jq '. | map({ title: .title, url: .url, likes_count: .likes_count, created_at: .created_at, updated_at: .updated_at, id: .user.id}) | sort_by(.likes_count) | reverse' > data/${TEMP_YM:0:7}.json
 
   # 日付をインクリメント 20201108
   TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
