@@ -15,9 +15,9 @@ while [ 1 ] ; do
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
   curl -G \
-    --data-urlencode "query=created:>2020-10-01 created:<2020-11 stocks:>262" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
+    --data-urlencode "query=created:>2020-10-01 created:<2020-11 stocks:>262" \
   -H 'Authorization: Bearer ${{ secrets.QIITA_TOKEN }}' 'https://qiita.com/api/v2/items' | \
   jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > data/${TEMP_YM:0:7}.json
 
