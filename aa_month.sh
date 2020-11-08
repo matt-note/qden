@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 開始日付と実行時日付を設定
-START_YM=2020-09-01
+START_YM=2020-09-16
 END_YM=`date +%Y-%m-%d`
 
 TEMP_YM=$START_YM
@@ -12,12 +12,10 @@ while [ 1 ] ; do
     break
   fi
 
-  LIMIT_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
-
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
   curl -G \
-    --data-urlencode "query=created:>${TEMP_YM} created:<${LIMIT_YM} stocks:>262" \
+    --data-urlencode "query=created:>${TEMP_YM} created:<2020-11 stocks:>262" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
   -H 'Authorization: Bearer ${{ secrets.QIITA_TOKEN }}' 'https://qiita.com/api/v2/items' | \
