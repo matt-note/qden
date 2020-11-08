@@ -20,8 +20,9 @@
   .wrapper {
     display: flex;
   }
+  /* TODO: ランキング数が多い場合だと、これでは高さが足りない、、。サイドバーの要素を増やしたら解決する・・？ */
   .nav-wrapper {
-    height: 100%;
+    height: 100vh;
     width: 27%;
     border-right: solid 1px;
     background-color: #f0f0ff;
@@ -90,6 +91,8 @@
         <p id="yearMonth" class="yearMonth"></p>
       </div>
       <ol id="ranking"></ol>
+
+      <footer></footer>
     </main>
   </div>
 

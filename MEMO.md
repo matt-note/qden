@@ -69,6 +69,12 @@ query で created:2017-01 など指定して月毎に取得することで解決
 https://developer.kaizenplatform.com/entry/takus/2018-04-26/
 
 
+## GitHub Actions で commit & push
+https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action
+-> checkout v2でかなり簡単に作成できるようになったらしい。
+   知らなかった。。
+
+
 ## Macのdate
 MacはBSD Unixベースらしく、GUN Linuxのコマンドと若干差位がある。
 -> なんてこった。
