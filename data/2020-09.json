@@ -1,210 +1,266 @@
 [
   {
-    "title": "エンジニアなら知っておきたい生産性を爆上げするツール8選",
-    "url": "https://qiita.com/yukiji/items/7b5e88c9da7b6f658de5",
-    "likes_count": 2396,
-    "created_at": "2020-10-15T09:07:36+09:00",
-    "updated_at": "2020-10-16T11:20:09+09:00",
+    "title": "1分でも早く仕事を終わらせるためにVSCodeにできること",
+    "url": "https://qiita.com/EaE/items/4ca1b35396eba682a86f",
+    "likes_count": 1909,
+    "created_at": "2020-09-29T08:58:02+09:00",
+    "updated_at": "2020-10-01T01:14:27+09:00",
+    "id": "EaE"
+  },
+  {
+    "title": "フルスタックエンジニアになるためのモダンな8つのプロジェクト",
+    "url": "https://qiita.com/kanye__east/items/77a9746e9b98abbb97e6",
+    "likes_count": 1555,
+    "created_at": "2020-09-17T12:05:47+09:00",
+    "updated_at": "2020-09-18T03:14:35+09:00",
+    "id": "kanye__east"
+  },
+  {
+    "title": "あなたがまだ使っていないかもしれないHTML5の便利機能10選",
+    "url": "https://qiita.com/kanye__east/items/9b419aac982c5323c429",
+    "likes_count": 1361,
+    "created_at": "2020-09-22T12:06:28+09:00",
+    "updated_at": "2020-10-01T05:57:59+09:00",
+    "id": "kanye__east"
+  },
+  {
+    "title": "JavaScript学習ロードマップ",
+    "url": "https://qiita.com/yukiji/items/ae2dbbd34f8557d5af19",
+    "likes_count": 1305,
+    "created_at": "2020-09-02T09:39:45+09:00",
+    "updated_at": "2020-09-02T19:00:06+09:00",
     "id": "yukiji"
   },
   {
-    "title": "個人開発・スタートアップで採用すべき最強のアーキテクチャを考えた",
-    "url": "https://qiita.com/yuno_miyako/items/fad33456d9c32d8f4483",
-    "likes_count": 1717,
-    "created_at": "2020-10-28T20:55:17+09:00",
-    "updated_at": "2020-10-30T14:46:21+09:00",
-    "id": "yuno_miyako"
+    "title": "SQL記述者全員が理解すべきSELECT文の論理的な処理順序のお話",
+    "url": "https://qiita.com/k_0120/items/a27ea1fc3b9bddc77fa1",
+    "likes_count": 1291,
+    "created_at": "2020-09-19T14:22:19+09:00",
+    "updated_at": "2020-09-30T12:35:03+09:00",
+    "id": "k_0120"
   },
   {
-    "title": "Node.jsとはなにか？なぜみんな使っているのか？",
-    "url": "https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb",
-    "likes_count": 1489,
-    "created_at": "2020-10-15T19:42:40+09:00",
-    "updated_at": "2020-10-17T12:56:00+09:00",
-    "id": "non_cal"
+    "title": "Dockerを体系的に学べる公式チュートリアル和訳",
+    "url": "https://qiita.com/Michinosuke/items/5778e0d9e9c04038903c",
+    "likes_count": 1287,
+    "created_at": "2020-09-13T17:48:24+09:00",
+    "updated_at": "2020-11-19T23:36:55+09:00",
+    "id": "Michinosuke"
   },
   {
-    "title": "画像認識の大革命。AI界で話題爆発中の「Vision Transformer」を解説！",
-    "url": "https://qiita.com/omiita/items/0049ade809c4817670d7",
-    "likes_count": 1113,
-    "created_at": "2020-10-12T10:29:09+09:00",
-    "updated_at": "2020-10-24T15:18:40+09:00",
-    "id": "omiita"
+    "title": "画面をデザインするということ",
+    "url": "https://qiita.com/megumu-u/items/73b728ad1d381717d731",
+    "likes_count": 1275,
+    "created_at": "2020-09-14T07:51:14+09:00",
+    "updated_at": "2020-09-17T09:32:03+09:00",
+    "id": "megumu-u"
   },
   {
-    "title": "Pythonのオブジェクト指向プログラミングを完全理解",
-    "url": "https://qiita.com/kaitolucifer/items/926ed9bc08426ad8e835",
-    "likes_count": 1020,
-    "created_at": "2020-11-01T06:13:45+09:00",
-    "updated_at": "2020-11-14T12:51:01+09:00",
+    "title": "【Python】Pythonicなコードの書き方🐍",
+    "url": "https://qiita.com/_masa_u/items/b21c493a82e8aba8993f",
+    "likes_count": 1193,
+    "created_at": "2020-09-06T19:15:02+09:00",
+    "updated_at": "2020-09-25T21:23:06+09:00",
+    "id": "_masa_u"
+  },
+  {
+    "title": "【C#】インターフェイスの利点が理解できない人は「インターフェイスには３つのタイプがある」ことを理解しよう",
+    "url": "https://qiita.com/yutorisan/items/d28386f168f2f3ab166d",
+    "likes_count": 1088,
+    "created_at": "2020-09-09T02:03:42+09:00",
+    "updated_at": "2020-09-15T22:52:46+09:00",
+    "id": "yutorisan"
+  },
+  {
+    "title": "なぜ我々は頑なにforを避けるのか",
+    "url": "https://qiita.com/tetsuya-zama/items/11e19b9da4892eb365c4",
+    "likes_count": 1086,
+    "created_at": "2020-09-22T19:03:03+09:00",
+    "updated_at": "2020-09-24T19:43:02+09:00",
+    "id": "tetsuya-zama"
+  },
+  {
+    "title": "Python初学者のためのPandas100本ノック",
+    "url": "https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c",
+    "likes_count": 941,
+    "created_at": "2020-09-25T18:23:27+09:00",
+    "updated_at": "2020-10-22T22:51:53+09:00",
+    "id": "kunishou"
+  },
+  {
+    "title": "伸びるエンジニア、伸びないエンジニア",
+    "url": "https://qiita.com/rf_p/items/2480ad77c856e42b19b3",
+    "likes_count": 880,
+    "created_at": "2020-09-30T23:30:04+09:00",
+    "updated_at": "2020-10-02T17:20:01+09:00",
+    "id": "rf_p"
+  },
+  {
+    "title": "オブジェクト指向は単なる【整理術】だよ",
+    "url": "https://qiita.com/br_branch/items/2aa9859d4da41991bbb7",
+    "likes_count": 645,
+    "created_at": "2020-09-11T16:53:22+09:00",
+    "updated_at": "2020-09-13T19:32:51+09:00",
+    "id": "br_branch"
+  },
+  {
+    "title": "読み手をイライラさせない技術記事などを書くために最低限守ったほうがいいこと",
+    "url": "https://qiita.com/freddi_/items/fe8e878187f315d80d87",
+    "likes_count": 640,
+    "created_at": "2020-09-10T01:14:26+09:00",
+    "updated_at": "2020-09-15T16:26:56+09:00",
+    "id": "freddi_"
+  },
+  {
+    "title": "機械学習で競馬の回収率100%超えを達成した話",
+    "url": "https://qiita.com/Mshimia/items/6c54d82b3792925b8199",
+    "likes_count": 589,
+    "created_at": "2020-09-03T11:57:36+09:00",
+    "updated_at": "2020-09-05T13:59:07+09:00",
+    "id": "Mshimia"
+  },
+  {
+    "title": "10分で自分のGitHubプロフィールをカッコ良くする",
+    "url": "https://qiita.com/Hassan/items/134009209f5709f892b1",
+    "likes_count": 567,
+    "created_at": "2020-09-06T12:30:34+09:00",
+    "updated_at": "2020-09-10T21:30:40+09:00",
+    "id": "Hassan"
+  },
+  {
+    "title": "実務経験約6ヶ月の僕が実務で使ってない技術だらけでWebアプリを0から開発してみた話",
+    "url": "https://qiita.com/shimotaroo/items/409e77dfb121dd40ac1d",
+    "likes_count": 543,
+    "created_at": "2020-09-19T18:28:15+09:00",
+    "updated_at": "2020-11-18T00:45:44+09:00",
+    "id": "shimotaroo"
+  },
+  {
+    "title": "なぜ我々はアウトプットをするべきなのか",
+    "url": "https://qiita.com/hinora/items/ddf50293c35691470640",
+    "likes_count": 520,
+    "created_at": "2020-09-30T23:32:11+09:00",
+    "updated_at": "2020-10-02T19:14:36+09:00",
+    "id": "hinora"
+  },
+  {
+    "title": "ディープラーニングを学び始めた方へ　東京大学／松尾豊教授の動画",
+    "url": "https://qiita.com/jun40vn/items/d91ee94a73bce826a1d1",
+    "likes_count": 477,
+    "created_at": "2020-09-06T22:29:42+09:00",
+    "updated_at": "2020-09-09T14:07:22+09:00",
+    "id": "jun40vn"
+  },
+  {
+    "title": "Pythonの非同期プログラミングを完全理解",
+    "url": "https://qiita.com/kaitolucifer/items/3476158ba5bd8751e022",
+    "likes_count": 470,
+    "created_at": "2020-09-29T00:12:06+09:00",
+    "updated_at": "2020-11-18T21:46:09+09:00",
     "id": "kaitolucifer"
   },
   {
-    "title": "入門書を終えた人に捧げる、社会人のためのGit中級編",
-    "url": "https://qiita.com/yamamoto7/items/fe15a1e7e360b4015fae",
-    "likes_count": 752,
-    "created_at": "2020-10-08T12:33:19+09:00",
-    "updated_at": "2020-10-15T23:49:54+09:00",
-    "id": "yamamoto7"
+    "title": "オブジェクト指向歴25年のオブジェクト指向おじさんが語るオブジェクト指向設計の処方箋",
+    "url": "https://qiita.com/hayashida-katsutoshi/items/ef2e59219ba0942d3225",
+    "likes_count": 443,
+    "created_at": "2020-09-15T15:30:11+09:00",
+    "updated_at": "2020-09-21T16:38:45+09:00",
+    "id": "hayashida-katsutoshi"
   },
   {
-    "title": "【JS・TS】コーディングTips集",
-    "url": "https://qiita.com/k-penguin-sato/items/81fbf561d2c4b68c74cc",
-    "likes_count": 749,
-    "created_at": "2020-10-15T08:34:17+09:00",
-    "updated_at": "2020-10-16T14:48:37+09:00",
-    "id": "k-penguin-sato"
+    "title": "モバイルアプリにおけるUIデザイン",
+    "url": "https://qiita.com/mark_1975M/items/eabdd95ac1de64e4fe1b",
+    "likes_count": 427,
+    "created_at": "2020-09-29T14:00:42+09:00",
+    "updated_at": "2020-10-07T15:27:48+09:00",
+    "id": "mark_1975M"
   },
   {
-    "title": "AWSで10万円溶かした話",
-    "url": "https://qiita.com/revvve44/items/4d95d451898b1e023919",
-    "likes_count": 747,
-    "created_at": "2020-10-05T19:13:23+09:00",
-    "updated_at": "2020-10-18T21:00:05+09:00",
-    "id": "revvve44"
+    "title": "TypeScriptの\"型\"を学びたいあなたへ。type-challengesのすゝめ",
+    "url": "https://qiita.com/ryo2132/items/925b96838dd8cca7cebd",
+    "likes_count": 423,
+    "created_at": "2020-09-05T21:23:59+09:00",
+    "updated_at": "2020-09-06T20:26:22+09:00",
+    "id": "ryo2132"
   },
   {
-    "title": "海外と日本のエンジニアの様々な比較",
-    "url": "https://qiita.com/dg4101/items/1e7c2f1c7fa4fcc2f41d",
-    "likes_count": 732,
-    "created_at": "2020-10-30T05:24:55+09:00",
-    "updated_at": "2020-11-20T07:25:01+09:00",
-    "id": "dg4101"
+    "title": "旧石器時代のポインタをご利用の皆様へ ～provenance入門～",
+    "url": "https://qiita.com/__pandaman64__/items/1788a90ae5be79cc908b",
+    "likes_count": 386,
+    "created_at": "2020-09-06T22:30:30+09:00",
+    "updated_at": "2020-09-08T09:40:33+09:00",
+    "id": "__pandaman64__"
   },
   {
-    "title": "憧れのTypeScriptフルスタック環境がコマンド1発で作れる超軽量フレームワーク「frourio」",
-    "url": "https://qiita.com/m_mitsuhide/items/00b139bb565dddf8006a",
-    "likes_count": 691,
-    "created_at": "2020-10-09T03:33:40+09:00",
-    "updated_at": "2020-11-05T09:31:15+09:00",
-    "id": "m_mitsuhide"
-  },
-  {
-    "title": "「この位置にｐｒｉｎｔｆが無いとなぜか動かないんだ。」",
-    "url": "https://qiita.com/fujitanozomu/items/8b7d9e4e51baf0764dfc",
-    "likes_count": 687,
-    "created_at": "2020-10-17T22:49:19+09:00",
-    "updated_at": "2020-10-23T14:11:24+09:00",
-    "id": "fujitanozomu"
-  },
-  {
-    "title": "完全栄養マクドナルド食の線型計画による実装～もしマクドナルドだけで生活すると栄養バランスはどうなるのか？～",
-    "url": "https://qiita.com/youwht/items/9098d560f28d16aa5567",
-    "likes_count": 664,
-    "created_at": "2020-10-18T05:48:07+09:00",
-    "updated_at": "2020-10-18T05:48:07+09:00",
-    "id": "youwht"
-  },
-  {
-    "title": "未経験からコロナ禍でも自社開発企業へ転職できました",
-    "url": "https://qiita.com/ashketcham/items/8ab3626feb9b4228f358",
-    "likes_count": 657,
-    "created_at": "2020-10-05T11:43:36+09:00",
-    "updated_at": "2020-10-18T10:33:48+09:00",
-    "id": "ashketcham"
-  },
-  {
-    "title": "ワイ「なに！？ライブラリをラップするやと！？」",
-    "url": "https://qiita.com/Yametaro/items/111ce26637d6a3c2e763",
-    "likes_count": 618,
-    "created_at": "2020-10-25T17:09:43+09:00",
-    "updated_at": "2020-10-29T23:02:25+09:00",
-    "id": "Yametaro"
-  },
-  {
-    "title": "個人開発とかで成功したり、失敗してきたプロダクト22選",
-    "url": "https://qiita.com/svfreerider/items/9f2718fb573cf35dff93",
-    "likes_count": 595,
-    "created_at": "2020-10-07T09:41:58+09:00",
-    "updated_at": "2020-10-08T06:36:30+09:00",
-    "id": "svfreerider"
-  },
-  {
-    "title": "社会人デビューから1年6ヶ月の間に読み漁った技術書20冊をまとめました。",
-    "url": "https://qiita.com/aki_number16/items/b2f72fa7bb95a8306c42",
-    "likes_count": 565,
-    "created_at": "2020-10-20T09:39:29+09:00",
-    "updated_at": "2020-10-20T09:39:29+09:00",
-    "id": "aki_number16"
-  },
-  {
-    "title": "jsライブラリ選定はopenbaseが超絶便利",
-    "url": "https://qiita.com/kojikanao/items/9fa4d95e174eb2dc516d",
-    "likes_count": 529,
-    "created_at": "2020-10-10T05:32:48+09:00",
-    "updated_at": "2020-10-10T05:32:48+09:00",
-    "id": "kojikanao"
-  },
-  {
-    "title": "Google Apps Script でよく使うスニペット集 30 選",
-    "url": "https://qiita.com/tanabee/items/5de3e8715be759ce1c7f",
-    "likes_count": 475,
-    "created_at": "2020-10-18T10:37:15+09:00",
-    "updated_at": "2020-10-21T22:32:54+09:00",
-    "id": "tanabee"
-  },
-  {
-    "title": "テーブル設計を遅らせることでユーザー体験の最大化を狙える!?米国式最新開発手法「ADD」とは。。",
-    "url": "https://qiita.com/masaki_u/items/2e3cb180313408b43dfe",
-    "likes_count": 467,
-    "created_at": "2020-10-23T22:40:32+09:00",
-    "updated_at": "2020-10-26T22:29:51+09:00",
-    "id": "masaki_u"
-  },
-  {
-    "title": "【まったく新しい最高のブラウザ】Braveブラウザでインターネットの仕組みとありかたを変えよう。",
-    "url": "https://qiita.com/NP_Systems/items/43213990274467d8f7e9",
+    "title": "新サービスZennが面白い！",
+    "url": "https://qiita.com/engineerhikaru/items/d3be9d731a5327a1ed70",
     "likes_count": 358,
-    "created_at": "2020-10-31T23:28:50+09:00",
-    "updated_at": "2020-11-03T22:19:47+09:00",
-    "id": "NP_Systems"
+    "created_at": "2020-09-17T05:34:33+09:00",
+    "updated_at": "2020-09-18T14:07:02+09:00",
+    "id": "engineerhikaru"
   },
   {
-    "title": "中国で流行っているミニアプリが日本でも流行り始めているらしい",
-    "url": "https://qiita.com/yagi_eng/items/433fb34d635a454739d7",
-    "likes_count": 336,
-    "created_at": "2020-10-21T11:37:48+09:00",
-    "updated_at": "2020-10-27T13:30:05+09:00",
+    "title": "【初心者向け】データベースのテーブル設計で僕が意識している6つのこと",
+    "url": "https://qiita.com/himanakuroneko/items/b59336bacf373ac3dfef",
+    "likes_count": 330,
+    "created_at": "2020-09-22T09:29:19+09:00",
+    "updated_at": "2020-09-24T16:03:46+09:00",
+    "id": "himanakuroneko"
+  },
+  {
+    "title": "PyTorchでの学習・推論を高速化するコツ集",
+    "url": "https://qiita.com/sugulu_Ogawa_ISID/items/62f5f7adee083d96a587",
+    "likes_count": 328,
+    "created_at": "2020-09-08T08:10:21+09:00",
+    "updated_at": "2020-09-11T07:39:25+09:00",
+    "id": "sugulu_Ogawa_ISID"
+  },
+  {
+    "title": "AWS公式『現代的なウェブアプリケーションの構築』ハンズオンのハマリどころ",
+    "url": "https://qiita.com/tomoya_oka/items/2ed2a59d803dd3170fef",
+    "likes_count": 308,
+    "created_at": "2020-09-05T15:28:24+09:00",
+    "updated_at": "2020-09-07T07:41:50+09:00",
+    "id": "tomoya_oka"
+  },
+  {
+    "title": "Goプロジェクトのはじめかたとおすすめライブラリ8.5選。ひな形にも使えるサンプルもあるよ。",
+    "url": "https://qiita.com/yagi_eng/items/65cd812107362d36ae86",
+    "likes_count": 279,
+    "created_at": "2020-09-07T07:50:12+09:00",
+    "updated_at": "2020-11-03T11:13:36+09:00",
     "id": "yagi_eng"
   },
   {
-    "title": "「ふりかえりの手法をたくさん学ぼう」で紹介された手法まとめ",
-    "url": "https://qiita.com/98lerr/items/423a3e8ee44e118091bf",
-    "likes_count": 322,
-    "created_at": "2020-10-06T23:49:18+09:00",
-    "updated_at": "2020-11-07T22:22:28+09:00",
-    "id": "98lerr"
+    "title": "SwiftUI100本ノック",
+    "url": "https://qiita.com/takoikatakotako/items/0838d1bb7a15ad1edb87",
+    "likes_count": 261,
+    "created_at": "2020-09-27T18:30:45+09:00",
+    "updated_at": "2020-09-27T18:33:41+09:00",
+    "id": "takoikatakotako"
   },
   {
-    "title": "【JavaScript】分からない部分まとめてみたら最強だった件",
-    "url": "https://qiita.com/TeppeiMimachi/items/b3528b4f37b06383b3cc",
-    "likes_count": 315,
-    "created_at": "2020-10-11T20:35:15+09:00",
-    "updated_at": "2020-11-05T13:22:34+09:00",
-    "id": "TeppeiMimachi"
+    "title": "エンジニアが効率よく仕事を進めるためのメモ術",
+    "url": "https://qiita.com/sato_626/items/2e865d741f3eda033d82",
+    "likes_count": 229,
+    "created_at": "2020-09-17T10:06:57+09:00",
+    "updated_at": "2020-11-16T09:07:02+09:00",
+    "id": "sato_626"
   },
   {
-    "title": "React学習を楽にしてくれるJavaScriptでの関数型プログラミングの基礎知識",
-    "url": "https://qiita.com/terry_6518/items/4b39826d9ee76076a0a7",
-    "likes_count": 302,
-    "created_at": "2020-10-30T17:03:57+09:00",
-    "updated_at": "2020-11-02T16:53:10+09:00",
-    "id": "terry_6518"
+    "title": "VSCodeをIDE化する方法",
+    "url": "https://qiita.com/Midoliy/items/d19dc8c1c97078b1e640",
+    "likes_count": 215,
+    "created_at": "2020-09-14T19:29:01+09:00",
+    "updated_at": "2020-09-23T12:40:37+09:00",
+    "id": "Midoliy"
   },
   {
-    "title": "Pythonで型を極める【Python 3.9対応】",
-    "url": "https://qiita.com/papi_tokei/items/bf652696d6b98f23565a",
-    "likes_count": 274,
-    "created_at": "2020-10-24T22:12:37+09:00",
-    "updated_at": "2020-10-28T09:52:17+09:00",
-    "id": "papi_tokei"
-  },
-  {
-    "title": "【初中級編】Go言語を始める方のための落とし穴、問題の解決方法やよくある間違い",
-    "url": "https://qiita.com/tutuz/items/fedb8e3a1137d046f418",
-    "likes_count": 235,
-    "created_at": "2020-10-07T07:08:30+09:00",
-    "updated_at": "2020-10-07T07:08:30+09:00",
-    "id": "tutuz"
+    "title": "インターネットの本質から理解できるプロトコル「BGP」についてまとめた！",
+    "url": "https://qiita.com/x5dwimpejx/items/2a84b3466c7b834d5853",
+    "likes_count": 209,
+    "created_at": "2020-09-24T17:39:48+09:00",
+    "updated_at": "2020-10-16T16:49:18+09:00",
+    "id": "x5dwimpejx"
   }
 ]
