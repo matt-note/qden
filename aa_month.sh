@@ -5,7 +5,7 @@ START_YM=2020-07-01
 END_YM=`date +%Y-%m-%d`
 
 if [ ! -f data/${END_YM:0:7}.json ]; then
-  "[]" > data/${END_YM:0:7}.json
+  echo "[]" > data/${END_YM:0:7}.json
 fi
 
 TEMP_YM=$START_YM
