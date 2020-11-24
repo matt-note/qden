@@ -3,6 +3,9 @@ name: Create Monthly Ranking
 on:
   workflow_dispatch:
 
+env:
+  QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
+
 jobs:
   create_monthly_ranking:
     runs-on: ubuntu-latest

@@ -21,7 +21,7 @@ while [ 1 ] ; do
   -H 'Authorization: Bearer c32dd88c4bdff501c8ab63f2b72b7b7547a1a44b' 'https://qiita.com/api/v2/items' | \
   jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > ./data/${TEMP_YM:0:7}.json
 
-  echo ${{ secrets.QIITA_TOKEN }}
+  echo $QIITA_TOKEN
 
   # 月を1加算
   TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
