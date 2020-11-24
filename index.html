@@ -22,7 +22,7 @@
   }
   /* TODO: ランキング数が多い場合だと、これでは高さが足りない、、。サイドバーの要素を増やしたら解決する・・？ */
   .nav-wrapper {
-    height: 100vh;
+    height: 100%;
     width: 27%;
     border-right: solid 1px;
     background-color: #f0f0ff;
@@ -57,6 +57,7 @@
   }
   a {
     text-decoration: none;
+    display: block;
   }
   a:hover {
     text-decoration: underline;
@@ -224,5 +225,10 @@
     olTag.appendChild(liTag).appendChild(bottomPTag).appendChild(bottomATag);
   }
   </script>
+  <style>
+  .nav-wrapper {
+    height: 100%;
+  }
+  </style>
 </body>
 </html>
