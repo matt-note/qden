@@ -12,6 +12,9 @@ while [ 1 ] ; do
     break
   fi
 
+  # debug
+  echo $TEMP_YM
+
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
   curl -G \
