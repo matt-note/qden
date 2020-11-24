@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 開始日付と実行時日付を設定
-START_YM=2020-09-01
+START_YM=2020-07-01
 END_YM=`date +%Y-%m-%d`
 
 TEMP_YM=$START_YM
@@ -12,6 +12,11 @@ while [ 1 ] ; do
     break
   fi
 
+  echo $TEMP_YM
+
+  # 月を1加算
+  TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
+
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
   curl -G \
@@ -21,6 +26,4 @@ while [ 1 ] ; do
   -H 'Authorization: Bearer '$QIITA_TOKEN 'https://qiita.com/api/v2/items' | \
   jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > ./data/${TEMP_YM:0:7}.json
 
-  # 月を1加算
-  TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
 done
