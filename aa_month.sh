@@ -13,20 +13,15 @@ while [ 1 ] ; do
   fi
 
   # 一旦、ファイル作成を確認
-  # 欲しい期間のデータを取得できるか確認 ${{ secrets.QIITA_TOKEN }}
+  # 欲しい期間のデータを取得できるか確認
   curl -G \
-    --data-urlencode "query=created:>2020-10-01 created:<2020-11 stocks:>262" \
+    --data-urlencode "query=created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>262" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
   -H 'Authorization: Bearer c32dd88c4bdff501c8ab63f2b72b7b7547a1a44b' 'https://qiita.com/api/v2/items' | \
   jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > ./data/${TEMP_YM:0:7}.json
 
-  curl -G \
-    --data-urlencode "query=created:>2020-10-01 created:<2020-11 stocks:>262" \
-    --data-urlencode "page=1" \
-    --data-urlencode "per_page=100" \
-  -H 'Authorization: Bearer c32dd88c4bdff501c8ab63f2b72b7b7547a1a44b' 'https://qiita.com/api/v2/items' | \
-  jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > ranking.json
+  echo ${{ secrets.QIITA_TOKEN }}
 
   # 月を1加算
   TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
