@@ -68,7 +68,7 @@ https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action
 
 
 ## Macのdate
-MacはBSD Unixベースらしく、GUN Linuxのコマンドと若干差位がある。
+MacはBSD Unixベースらしく、GNU Linuxのコマンドと若干差位がある。
 -> なんてこった。
 https://tatsuno-system.co.jp/2016/06/27/mac%E3%81%A7date%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%8C%E9%81%95%E3%81%86%E4%BB%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
 
