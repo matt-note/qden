@@ -5,7 +5,7 @@ START_YM=2020-07-01
 END_YM=`date +%Y-%m-%d`
 
 if [ ! -f data/${END_YM:0:7}.json ]; then
-  [] > data/${END_YM:0:7}.json
+  "[]" > data/${END_YM:0:7}.json
 fi
 
 TEMP_YM=$START_YM
@@ -18,7 +18,7 @@ while [ 1 ] ; do
 
   echo $TEMP_YM
 
-  ## 
+  ##
 
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
