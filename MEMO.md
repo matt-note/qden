@@ -95,7 +95,16 @@ new Date().toISOString().slice(0,7)
 let date = new Date(2020, 10, 11);
 new Date(date.setMonth(date.getMonth()+1));
 
+## cronの試験。別リポジトリを作成する
 
+on:
+  schedule:
+    - cron: '2 0 * * *'
+    - cron: '3 0 * * *'
+
+- 月初めは、日本時間の0:00に実行したい。
+- それと別で日曜日の夜に更新をかける
+の２段構え。そもそも、２こ設定できるのか不明なので、試す。
 
 ## CSSで折りたたむサイドバー
 https://www.youtube.com/watch?v=V0O4pY2xX10
