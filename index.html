@@ -37,9 +37,6 @@
     background-color: #fff;
     background-image: url("./dendo.png");
   }
-  .bg-repeat {
-    /* background-image: url("./dendo.png"); */
-  }
   .heading {
     margin-top: 35px;
     margin-bottom: 20px;
@@ -73,7 +70,8 @@
     margin: 0;
   }
   #ranking {
-    margin-left: 240px;
+    margin-left: 215px;
+    padding: 16px;
     width: 800px;
     background-color: #fff;
   }
@@ -94,10 +92,8 @@
     </nav>
 
     <main class="contents-wrapper">
-      <div class="bg-repeat">
-        <h1 class="heading">Qiita殿堂入りのホームページ（開発中）</h1>
-        <p id="yearMonth" class="yearMonth"></p>
-      </div>
+      <h1 class="heading">Qiita殿堂入りのホームページ（開発中）</h1>
+      <p id="yearMonth" class="yearMonth"></p>
       <ol id="ranking"></ol>
 
       <footer></footer>
@@ -159,7 +155,7 @@
     thisYear.className = "nav-icon";
     sidebar.insertBefore(thisYear, sidebar.firstChild);
 
-    // サイドバー描画後に配置
+    // サイドバーのリンクをクリックした時のデータ表示。サイドバー描画後にこのコードを配置しないとエラーになる。
     document.querySelectorAll("#sidebar > a").forEach(function(a) {
       a.onclick = function(event) {
         event.preventDefault();
