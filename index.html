@@ -47,12 +47,16 @@
   }
   .yearMonth {
     text-align: center;
-    margin-bottom: .5rem;
+    margin-bottom: 12px;
+  }
+  .nav-icon-top::before {
+    content: "●";
+    margin-right: 2px;
+    color: rgb(255, 204, 204);
   }
   .nav-icon::before {
     content: "●";
     margin-right: 2px;
-    color: pink;
   }
   .month {
     padding: 2px;
@@ -74,7 +78,8 @@
   }
   #ranking {
     margin-left: 220px;
-    padding-left: 20px;
+    padding-top: 8px;
+    padding-left: 30px;
     width: 760px;
     background-color: #fff;
   }
@@ -95,7 +100,7 @@
     </nav>
 
     <main class="contents-wrapper">
-      <h1 class="heading">Qiita殿堂入りのホームページ（開発中）</h1>
+      <h1 class="heading">Qiita殿堂入りのホームページ（β）</h1>
       <p id="yearMonth" class="yearMonth"></p>
       <ol id="ranking"></ol>
 
@@ -155,7 +160,7 @@
     // ループ後に今年の年を追加
     const thisYear = document.createElement("p");
     thisYear.textContent = new Date().getFullYear() + "年";
-    thisYear.className = "nav-icon";
+    thisYear.className = "nav-icon-top";
     sidebar.insertBefore(thisYear, sidebar.firstChild);
 
     // サイドバーのリンクをクリックした時のデータ表示。サイドバー描画後にこのコードを配置しないとエラーになる。
