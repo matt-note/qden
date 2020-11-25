@@ -21,7 +21,6 @@
   .wrapper {
     display: flex;
   }
-  /* TODO: ランキング数が多い場合だと、これでは高さが足りない、、。サイドバーの要素を増やしたら解決する・・？ */
   .nav-wrapper {
     height: 100%;
     width: 27%;
@@ -29,6 +28,9 @@
   .nav {
     margin-top: 43px;
     margin-left: 18px;
+  }
+  .nav a {
+    display: inline-block;
   }
   .contents-wrapper {
     height: 100%;
@@ -50,6 +52,7 @@
   .nav-icon::before {
     content: "●";
     margin-right: 2px;
+    color: pink;
   }
   .month {
     padding: 2px;
@@ -63,16 +66,16 @@
   }
   ul {
     padding: 0;
-    maring: 0;
+    margin: 0;
   }
   p {
     padding: 0;
     margin: 0;
   }
   #ranking {
-    margin-left: 215px;
-    padding: 16px;
-    width: 800px;
+    margin-left: 220px;
+    padding-left: 20px;
+    width: 760px;
     background-color: #fff;
   }
   #ranking li {
