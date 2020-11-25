@@ -63,7 +63,6 @@
   }
   a {
     text-decoration: none;
-    display: inline-block;
   }
   a:hover {
     text-decoration: underline;
@@ -229,7 +228,10 @@
     let bottomATag = document.createElement("a");
     bottomPTag.textContent = json.likes_count + " LGTM　by ";
     bottomATag.href = "https://qiita.com/" + json.id;
-    bottomATag.textContent = json.id
+    bottomATag.target = "_blank";
+    bottomATag.rel="noopener";
+    bottomATag.textContent = json.id;
+    
     // let updatedAt = json.updated_at.slice(0, 10);
 
     olTag.appendChild(liTag).appendChild(pTag).appendChild(aTag);
