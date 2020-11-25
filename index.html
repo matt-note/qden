@@ -54,9 +54,15 @@
     margin-right: 2px;
     color: rgb(255, 204, 204);
   }
-  .nav-icon::before {
+  .nav-icon-0::before {
     content: "●";
     margin-right: 2px;
+    color: rgb(0, 255, 0);
+  }
+  .nav-icon-1::before {
+    content: "●";
+    margin-right: 2px;
+    color: rgb(51, 255, 255);
   }
   .month {
     padding: 2px;
@@ -133,6 +139,9 @@
     const sideBar = document.getElementById("sidebar");
     const sideBarInner = document.createElement("div");
 
+    // ●の色分けのために使用
+    let counter = 0;
+
     // TODO: あとで開始年月日を直書きする。良い定数にするやり方があるだろうか・・？
     let startDate = new Date(2018,11,1);
     while(startDate < new Date()) {
@@ -152,8 +161,10 @@
       if (startDate.getMonth() == 0) {
         let sidePTag = document.createElement("p");
         sidePTag.textContent = startDate.getFullYear() - 1 + "年";
-        sidePTag.className = "nav-icon";
+        sidePTag.className = "nav-icon-" + counter % 6;  // 0〜5の6つの色で分ける
         sidebar.insertBefore(sidePTag, sidebar.firstChild);
+
+        counter += 1; //
       }
     }
     // ループ後に今年の年を追加
@@ -231,7 +242,7 @@
     bottomATag.target = "_blank";
     bottomATag.rel="noopener";
     bottomATag.textContent = json.id;
-    
+
     // let updatedAt = json.updated_at.slice(0, 10);
 
     olTag.appendChild(liTag).appendChild(pTag).appendChild(aTag);
