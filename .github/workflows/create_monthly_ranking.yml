@@ -3,8 +3,8 @@ name: Create Monthly Ranking
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * MON'
-    # -> 毎月1日と月曜日の0:00に実行
+    - cron: '0 3 1 * MON'
+    # -> 毎月1日と月曜日の3:00（深夜）に実行。
 
 env:
   QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
@@ -19,6 +19,7 @@ jobs:
         shell: bash
         run: |
           echo $TZ
+          date
           bash aa_month.sh
           git config --global user.name "matt-note"
           git config --global user.email "${{ secrets.EMAIL }}"

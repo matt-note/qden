@@ -16,6 +16,7 @@
   }
   body {
     height: 100%;
+    background-color: #f0f0ff;
   }
   .wrapper {
     display: flex;
@@ -24,8 +25,6 @@
   .nav-wrapper {
     height: 100%;
     width: 27%;
-    border-right: solid 1px;
-    background-color: #f0f0ff;
   }
   .nav {
     margin-top: 43px;
@@ -34,9 +33,12 @@
   .contents-wrapper {
     height: 100vh;
     width: 100%;
+    border-left: solid 1px;
+    background-color: #fff;
+    background-image: url("./dendo.png");
   }
   .bg-repeat {
-    background-image: url("./dendo.png");
+    /* background-image: url("./dendo.png"); */
   }
   .heading {
     margin-top: 35px;
@@ -225,10 +227,5 @@
     olTag.appendChild(liTag).appendChild(bottomPTag).appendChild(bottomATag);
   }
   </script>
-  <style>
-  .nav-wrapper {
-    height: 100%;
-  }
-  </style>
 </body>
 </html>
