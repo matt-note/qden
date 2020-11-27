@@ -222,7 +222,9 @@
 
   window.addEventListener('load', function() {
     // DOM描画後にquicklinkを実行
-    quicklink.listen();
+    setTimeout(function() {
+      quicklink.listen();
+    }, 1000);
   });
 
   function _request(xhr, yyyymm) {
