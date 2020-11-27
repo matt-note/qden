@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 開始日付と実行時日付を設定
-START_YM=2019-12-01
+START_YM=2020-01-01
 END_YM=`date +%Y-%m-%d`
 
 TEMP_YM=$START_YM
