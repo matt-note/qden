@@ -115,10 +115,11 @@
     margin-bottom: 10px;
   }
   .title > a {
+    font-size: 0.9em
     font-weight: bold;
   }
   .description {
-    font-size: 0.9em;
+    font-size: 0.8em;
   }
   footer {
     height: 100px;
@@ -286,7 +287,7 @@
     // 作成年月と更新年月が異なる場合は、記事が更新されていることを表示する。
     if (json.created_at.slice(0, 6) !== json.updated_at.slice(0, 6)) {
       let bottomSpanTag = document.createElement("span")
-      bottomSpanTag.textContent = "　　● Updated " + json.updated_at.slice(0, 10);
+      bottomSpanTag.textContent = "　　■ Updated " + json.updated_at.slice(0, 10);
       bottomPElement.appendChild(bottomSpanTag);
     }
   }
