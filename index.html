@@ -262,25 +262,24 @@
     aTag.rel="noopener";
     aTag.textContent = json.title;
 
-    let createdAt = json.created_at.slice(0, 6);
-    let updatedAt = json.updated_at.slice(0, 6);
-
-    // 作成年月と更新年月が異なる場合は、記事が更新されていることを表示する。
-    let bottomSpanTag = document.createElement("span")
-    if (createdAt !== updatedAt) {
-      bottomSpanTag.textContent = json.updated_at.slice(0, 9);
-    }
-
     let bottomPTag = document.createElement("p");
     let bottomATag = document.createElement("a");
     bottomPTag.textContent = json.likes_count + " LGTM　by ";
+    bottomPTag.id = "bottom_p"
     bottomATag.href = "https://qiita.com/" + json.id;
     bottomATag.target = "_blank";
     bottomATag.rel="noopener";
     bottomATag.textContent = json.id;
 
     olTag.appendChild(liTag).appendChild(pTag).appendChild(aTag);
-    olTag.appendChild(liTag).appendChild(bottomPTag).appendChild(bottomATag).appendChild(bottomSpanTag);
+    olTag.appendChild(liTag).appendChild(bottomPTag).appendChild(bottomATag);
+
+    // 作成年月と更新年月が異なる場合は、記事が更新されていることを表示する。
+    if (json.created_at.slice(0, 6) !== json.updated_at.slice(0, 6)) {
+      let bottomSpanTag = document.createElement("span")
+      bottomSpanTag.textContent = json.updated_at.slice(0, 9);
+      document.getElementById("bottom_p").appendChild(bottomSpanTag);
+    }
   }
   </script>
 </body>
