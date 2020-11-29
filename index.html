@@ -82,7 +82,7 @@
     margin-right: 2px;
     color: rgb(51, 51, 153);
   }
-  .nav-icon-4::before {
+  .nav-icon-5::before {
     content: "●";
     margin-right: 2px;
     color: rgb(204, 0, 204);
@@ -105,9 +105,9 @@
     margin: 0;
   }
   #ranking {
-    margin-left: 220px;
+    margin-left: 210px;
     padding-top: 8px;
-    padding-left: 30px;
+    padding-left: 40px;
     width: 760px;
     background-color: #fff;
   }
@@ -135,7 +135,10 @@
     </main>
   </div>
 
-  <script src="./quicklink.js"></script>
+  <script>
+  // https://unpkg.com/quicklink@2.0.0/dist/quicklink.umd.js
+  !function(n,e){"object"==typeof exports&&"undefined"!=typeof module?e(exports):"function"==typeof define&&define.amd?define(["exports"],e):e(n.quicklink={})}(this,function(n){function e(n){return new Promise(function(e,t,o){(o=new XMLHttpRequest).open("GET",n,o.withCredentials=!0),o.onload=function(){200===o.status?e():t()},o.send()})}var t,o=(t=document.createElement("link")).relList&&t.relList.supports&&t.relList.supports("prefetch")?function(n){return new Promise(function(e,t,o){(o=document.createElement("link")).rel="prefetch",o.href=n,o.onload=e,o.onerror=t,document.head.appendChild(o)})}:e,i=window.requestIdleCallback||function(n){var e=Date.now();return setTimeout(function(){n({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-e))}})},1)},r=new Set;function c(n,t,i){if(!(i=navigator.connection)||!i.saveData&&!/2g/.test(i.effectiveType))return Promise.all([].concat(n).map(function(n){if(!r.has(n))return r.add(n),(t?function(n){return window.fetch?fetch(n,{credentials:"include"}):e(n)}:o)(new URL(n,location.href).toString())}))}n.listen=function(n){if(n||(n={}),window.IntersectionObserver){var e=function(n){n=n||1;var e=[],t=0;function o(){t<n&&e.length>0&&(e.shift()(),t++)}return[function(n){e.push(n)>1||o()},function(){t--,o()}]}(n.throttle||1/0),t=e[0],o=e[1],u=n.limit||1/0,f=n.origins||[location.hostname],s=n.ignores||[],a=n.timeoutFn||i,l=new IntersectionObserver(function(e){e.forEach(function(e){e.isIntersecting&&(l.unobserve(e=e.target),r.size<u&&t(function(){c(e.href,n.priority).then(o).catch(function(e){o(),n.onError&&n.onError(e)})}))})});return a(function(){(n.el||document).querySelectorAll("a").forEach(function(n){f.length&&!f.includes(n.hostname)||function n(e,t){return Array.isArray(t)?t.some(function(t){return n(e,t)}):(t.test||t).call(t,e.href,e)}(n,s)||l.observe(n)})},{timeout:n.timeout||2e3}),function(){r.clear(),l.disconnect()}}},n.prefetch=c});
+  </script>
   <script>
   window.addEventListener('DOMContentLoaded', function() {
 
@@ -161,7 +164,7 @@
     const sideBar = document.getElementById("sidebar");
     const sideBarInner = document.createElement("div");
 
-    // ●の色分けのために使用
+    // サイドバーの●の色分けのために使用
     let counter = 0;
 
     // TODO: あとで開始年月日を直書きする。良い定数にするやり方があるだろうか・・？
@@ -259,6 +262,15 @@
     aTag.rel="noopener";
     aTag.textContent = json.title;
 
+    let createdAt = json.created_at.slice(0. 6);
+    let updatedAt = json.updated_at.slice(0, 6);
+
+    // 作成年月と更新年月が異なる場合は、記事が更新されていることを表示する。
+    let bottomSpanTag = document.createElement("span")
+    if (createdAt !== updatedAt) {
+      bottomSpanTag.textContent = json.updated_at.slice(0, 9);
+    }
+
     let bottomPTag = document.createElement("p");
     let bottomATag = document.createElement("a");
     bottomPTag.textContent = json.likes_count + " LGTM　by ";
@@ -267,10 +279,8 @@
     bottomATag.rel="noopener";
     bottomATag.textContent = json.id;
 
-    // let updatedAt = json.updated_at.slice(0, 10);
-
     olTag.appendChild(liTag).appendChild(pTag).appendChild(aTag);
-    olTag.appendChild(liTag).appendChild(bottomPTag).appendChild(bottomATag);
+    olTag.appendChild(liTag).appendChild(bottomPTag).appendChild(bottomATag).appendChild(bottomSpanTag);
   }
   </script>
 </body>
