@@ -2,7 +2,7 @@
   {
     "title": "メンバーに恨まれそうな3つのコードレビュー施策を徹底したら、逆にメンバーが爆速で成長した話",
     "url": "https://qiita.com/gakuri/items/f4970aea8de5fa9bf016",
-    "likes_count": 3363,
+    "likes_count": 3364,
     "created_at": "2020-02-05T08:16:59+09:00",
     "updated_at": "2020-02-24T08:09:41+09:00",
     "id": "gakuri"
@@ -18,7 +18,7 @@
   {
     "title": "2020年にWebフロントエンドを勉強する人が作るべきたったひとつのアプリ",
     "url": "https://qiita.com/Dragon-taro/items/03f322dee15b19c33613",
-    "likes_count": 2314,
+    "likes_count": 2315,
     "created_at": "2020-02-04T11:01:51+09:00",
     "updated_at": "2020-02-09T10:52:17+09:00",
     "id": "Dragon-taro"
@@ -26,7 +26,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】",
     "url": "https://qiita.com/e869120/items/f1c6f98364d1443148b3",
-    "likes_count": 2051,
+    "likes_count": 2053,
     "created_at": "2020-02-19T19:00:12+09:00",
     "updated_at": "2020-08-03T18:45:32+09:00",
     "id": "e869120"
@@ -42,7 +42,7 @@
   {
     "title": "【動画付き】 draw.io 使い方まとめ 〜エンジニアでなくても使えるTips集〜",
     "url": "https://qiita.com/G-awa/items/8fd414700b68b2bcafcc",
-    "likes_count": 1733,
+    "likes_count": 1734,
     "created_at": "2020-02-09T23:07:17+09:00",
     "updated_at": "2020-02-09T23:09:21+09:00",
     "id": "G-awa"
@@ -64,20 +64,20 @@
     "id": "honehoney"
   },
   {
+    "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】",
+    "url": "https://qiita.com/e869120/items/eb50fdaece12be418faa",
+    "likes_count": 1341,
+    "created_at": "2020-02-19T19:00:56+09:00",
+    "updated_at": "2020-08-03T18:26:53+09:00",
+    "id": "e869120"
+  },
+  {
     "title": "DXを大幅に低下させるDocker for Macを捨ててMac最速のDocker環境を手に入れる",
     "url": "https://qiita.com/yuki_ycino/items/cb21cf91a39ddd61f484",
     "likes_count": 1340,
     "created_at": "2020-02-17T12:07:47+09:00",
     "updated_at": "2020-05-26T17:31:27+09:00",
     "id": "yuki_ycino"
-  },
-  {
-    "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】",
-    "url": "https://qiita.com/e869120/items/eb50fdaece12be418faa",
-    "likes_count": 1337,
-    "created_at": "2020-02-19T19:00:56+09:00",
-    "updated_at": "2020-08-03T18:26:53+09:00",
-    "id": "e869120"
   },
   {
     "title": "「募ってはいるが、募集はしていない」 人たちへ",
@@ -90,10 +90,18 @@
   {
     "title": "WEB開発に役に立つAPI一覧+API毎に関連するQiita記事を分類 ！",
     "url": "https://qiita.com/hamaup/items/cd7212aa1d0b1f0e37de",
-    "likes_count": 1185,
+    "likes_count": 1186,
     "created_at": "2020-02-03T11:56:05+09:00",
     "updated_at": "2020-03-05T19:35:55+09:00",
     "id": "hamaup"
+  },
+  {
+    "title": "TypeScriptをプロダクト開発に使う上でのベストプラクティスと心得",
+    "url": "https://qiita.com/jagaapple/items/ce0da04be28c35dc7d4f",
+    "likes_count": 1177,
+    "created_at": "2020-02-04T21:25:15+09:00",
+    "updated_at": "2020-10-31T21:56:09+09:00",
+    "id": "jagaapple"
   },
   {
     "title": "CSS(SCSS) で作るペルソナ5 風メッセージウィンドウ",
@@ -104,17 +112,9 @@
     "id": "dd0125"
   },
   {
-    "title": "TypeScriptをプロダクト開発に使う上でのベストプラクティスと心得",
-    "url": "https://qiita.com/jagaapple/items/ce0da04be28c35dc7d4f",
-    "likes_count": 1176,
-    "created_at": "2020-02-04T21:25:15+09:00",
-    "updated_at": "2020-10-31T21:56:09+09:00",
-    "id": "jagaapple"
-  },
-  {
     "title": "2020年現在のNewSQLについて",
     "url": "https://qiita.com/tzkoba/items/5316c6eac66510233115",
-    "likes_count": 1098,
+    "likes_count": 1099,
     "created_at": "2020-02-26T18:34:57+09:00",
     "updated_at": "2020-05-02T23:54:12+09:00",
     "id": "tzkoba"
@@ -130,7 +130,7 @@
   {
     "title": "Pythonでゼロからでもサービス開発・公開できる学習ロードマップ",
     "url": "https://qiita.com/Saku731/items/52a3bbacd002f26f408e",
-    "likes_count": 1038,
+    "likes_count": 1037,
     "created_at": "2020-02-16T10:47:51+09:00",
     "updated_at": "2020-07-17T21:58:35+09:00",
     "id": "Saku731"
@@ -194,7 +194,7 @@
   {
     "title": "個人的にオススメしたいTech系YouTuberたち",
     "url": "https://qiita.com/yuki-naka/items/09928cf3f206c56ee0c2",
-    "likes_count": 663,
+    "likes_count": 664,
     "created_at": "2020-02-09T22:49:44+09:00",
     "updated_at": "2020-02-09T22:49:44+09:00",
     "id": "yuki-naka"
@@ -202,7 +202,7 @@
   {
     "title": "Webpack チャンク最適 テクニック",
     "url": "https://qiita.com/mizchi/items/418be9abee5f785696f0",
-    "likes_count": 644,
+    "likes_count": 646,
     "created_at": "2020-02-25T17:19:47+09:00",
     "updated_at": "2020-02-25T17:35:36+09:00",
     "id": "mizchi"
@@ -258,7 +258,7 @@
   {
     "title": "ラズパイ4で作るディスプレイ付きKubernetesクラスター",
     "url": "https://qiita.com/reireias/items/0d87de18f43f27a8ed9b",
-    "likes_count": 457,
+    "likes_count": 459,
     "created_at": "2020-02-12T07:44:27+09:00",
     "updated_at": "2020-02-25T10:57:20+09:00",
     "id": "reireias"
@@ -288,20 +288,20 @@
     "id": "YuichiroMinato"
   },
   {
+    "title": "高校生が自作OS（オペレーティングシステム）を作ってみた。",
+    "url": "https://qiita.com/kkent030315/items/0060880ae0a99715b000",
+    "likes_count": 439,
+    "created_at": "2020-02-05T04:43:47+09:00",
+    "updated_at": "2020-02-06T16:27:08+09:00",
+    "id": "kkent030315"
+  },
+  {
     "title": "Django(Python)でシステム開発できるようになる記事_入門編",
     "url": "https://qiita.com/Saku731/items/ed64190a12a4498b9446",
     "likes_count": 439,
     "created_at": "2020-02-16T10:50:36+09:00",
     "updated_at": "2020-08-19T17:15:19+09:00",
     "id": "Saku731"
-  },
-  {
-    "title": "高校生が自作OS（オペレーティングシステム）を作ってみた。",
-    "url": "https://qiita.com/kkent030315/items/0060880ae0a99715b000",
-    "likes_count": 438,
-    "created_at": "2020-02-05T04:43:47+09:00",
-    "updated_at": "2020-02-06T16:27:08+09:00",
-    "id": "kkent030315"
   },
   {
     "title": "CSSでグリッチっぽい表現をやる",
@@ -338,7 +338,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【上級編：目指せレッドコーダー！】",
     "url": "https://qiita.com/e869120/items/acba3dd8649d913102b5",
-    "likes_count": 377,
+    "likes_count": 378,
     "created_at": "2020-02-19T19:01:19+09:00",
     "updated_at": "2020-08-03T18:40:54+09:00",
     "id": "e869120"
