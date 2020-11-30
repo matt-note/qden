@@ -1,0 +1,802 @@
+[
+  {
+    "title": "新人プログラマに正月休み中を使って読んでみてほしい技術書をセレクトしてみた。",
+    "url": "https://qiita.com/hirokidaichi/items/d30714f0698dcff1200f",
+    "likes_count": 2913,
+    "created_at": "2014-12-18T21:49:50+09:00",
+    "updated_at": "2018-02-20T09:54:50+09:00",
+    "id": "hirokidaichi"
+  },
+  {
+    "title": "最近の行儀のよい JavaScript の書き方",
+    "url": "https://qiita.com/kaiinui/items/22a75d2adc56a40da7b7",
+    "likes_count": 2378,
+    "created_at": "2014-12-21T03:59:19+09:00",
+    "updated_at": "2016-12-02T16:18:05+09:00",
+    "id": "kaiinui"
+  },
+  {
+    "title": "jq コマンドを使う日常のご紹介",
+    "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
+    "likes_count": 2066,
+    "created_at": "2014-12-17T02:26:16+09:00",
+    "updated_at": "2019-06-08T10:42:54+09:00",
+    "id": "takeshinoda@github"
+  },
+  {
+    "title": "SEO嫌いにお送りするSEO策。これでもうSEOについてしばらく考えなくて良いぜ！！",
+    "url": "https://qiita.com/taiyop/items/050c6749fb693dae8f82",
+    "likes_count": 1733,
+    "created_at": "2014-12-30T01:28:18+09:00",
+    "updated_at": "2015-01-07T21:48:03+09:00",
+    "id": "taiyop"
+  },
+  {
+    "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
+    "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
+    "likes_count": 1652,
+    "created_at": "2014-12-08T08:44:49+09:00",
+    "updated_at": "2018-01-25T21:45:47+09:00",
+    "id": "jnchito"
+  },
+  {
+    "title": "homebrewとは何者か。仕組みについて調べてみた",
+    "url": "https://qiita.com/omega999/items/6f65217b81ad3fffe7e6",
+    "likes_count": 1566,
+    "created_at": "2014-12-04T20:41:15+09:00",
+    "updated_at": "2014-12-04T20:41:15+09:00",
+    "id": "omega999"
+  },
+  {
+    "title": "JSON Web Token の効用",
+    "url": "https://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a",
+    "likes_count": 1389,
+    "created_at": "2014-12-14T18:43:28+09:00",
+    "updated_at": "2017-06-12T14:23:23+09:00",
+    "id": "kaiinui"
+  },
+  {
+    "title": "機械学習をこれから始める人に押さえておいてほしいこと",
+    "url": "https://qiita.com/IshitaTakeshi/items/4607d9f729babd273960",
+    "likes_count": 1298,
+    "created_at": "2014-12-06T10:35:31+09:00",
+    "updated_at": "2016-04-05T20:14:24+09:00",
+    "id": "IshitaTakeshi"
+  },
+  {
+    "title": "今更だけどPromise入門",
+    "url": "https://qiita.com/koki_cheese/items/c559da338a3d307c9d88",
+    "likes_count": 1234,
+    "created_at": "2014-12-05T00:00:05+09:00",
+    "updated_at": "2014-12-05T12:10:26+09:00",
+    "id": "koki_cheese"
+  },
+  {
+    "title": "個人のスマホアプリ開発者がParseを使うべき15の理由",
+    "url": "https://qiita.com/koyopro/items/b9891aa7bb596b958d7e",
+    "likes_count": 1220,
+    "created_at": "2014-12-20T13:53:04+09:00",
+    "updated_at": "2016-01-29T10:06:33+09:00",
+    "id": "koyopro"
+  },
+  {
+    "title": "マイクロソフトはどうやってBingをFPGAで実装したか",
+    "url": "https://qiita.com/kazunori279/items/6f517648e8a408254a50",
+    "likes_count": 1212,
+    "created_at": "2014-12-08T10:44:08+09:00",
+    "updated_at": "2015-01-22T16:01:02+09:00",
+    "id": "kazunori279"
+  },
+  {
+    "title": "早く知ってたら良かったrailsの技",
+    "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
+    "likes_count": 1194,
+    "created_at": "2014-12-18T19:05:33+09:00",
+    "updated_at": "2014-12-18T19:06:40+09:00",
+    "id": "k-shogo"
+  },
+  {
+    "title": "RSA鍵、証明書のファイルフォーマットについて",
+    "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
+    "likes_count": 1182,
+    "created_at": "2014-12-26T13:31:10+09:00",
+    "updated_at": "2020-07-21T15:48:03+09:00",
+    "id": "kunichiko"
+  },
+  {
+    "title": "テスト環境で使えるクレジットカード番号",
+    "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
+    "likes_count": 1084,
+    "created_at": "2014-12-10T11:27:03+09:00",
+    "updated_at": "2014-12-10T11:27:03+09:00",
+    "id": "mimoe"
+  },
+  {
+    "title": "機械学習はじめの一歩に役立つ記事のまとめ",
+    "url": "https://qiita.com/shu223/items/9cbde46c0690f1952750",
+    "likes_count": 960,
+    "created_at": "2014-12-09T20:34:42+09:00",
+    "updated_at": "2014-12-09T20:55:48+09:00",
+    "id": "shu223"
+  },
+  {
+    "title": "ターミナルマルチプレクサ tmux をカスタマイズする",
+    "url": "https://qiita.com/b4b4r07/items/01359e8a3066d1c37edc",
+    "likes_count": 869,
+    "created_at": "2014-12-04T01:07:48+09:00",
+    "updated_at": "2019-11-14T11:00:47+09:00",
+    "id": "b4b4r07"
+  },
+  {
+    "title": "iOSとの比較つき!Androidでこんなアプリ,こんな機能を作りたかったらこれを見ろ！作りたいアプリに対応するクラス、ライブラリのまとめ！",
+    "url": "https://qiita.com/appwatcher/items/7d270de99d63bb9f2be4",
+    "likes_count": 858,
+    "created_at": "2014-12-07T12:26:51+09:00",
+    "updated_at": "2016-09-26T09:48:37+09:00",
+    "id": "appwatcher"
+  },
+  {
+    "title": "JavaScriptでforEach, filter, map, reduceとか",
+    "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
+    "likes_count": 824,
+    "created_at": "2014-12-21T00:42:04+09:00",
+    "updated_at": "2018-09-23T17:07:32+09:00",
+    "id": "itagakishintaro"
+  },
+  {
+    "title": "今更聞けないpryの使い方と便利プラグイン集",
+    "url": "https://qiita.com/k0kubun/items/b118e9ccaef8707c4d9f",
+    "likes_count": 810,
+    "created_at": "2014-12-21T17:57:43+09:00",
+    "updated_at": "2016-01-16T21:49:45+09:00",
+    "id": "k0kubun"
+  },
+  {
+    "title": "現場で使うGitのテクニック",
+    "url": "https://qiita.com/treby/items/9184251b545d9ebc3198",
+    "likes_count": 795,
+    "created_at": "2014-12-23T21:18:22+09:00",
+    "updated_at": "2020-05-28T16:39:38+09:00",
+    "id": "treby"
+  },
+  {
+    "title": "私のJavaScript情報の集め方",
+    "url": "https://qiita.com/koba04/items/ba2381776d394633de72",
+    "likes_count": 759,
+    "created_at": "2014-12-23T13:32:37+09:00",
+    "updated_at": "2014-12-24T00:09:20+09:00",
+    "id": "koba04"
+  },
+  {
+    "title": "AWS EC2 Amazon Linuxインスタンス起動後、最初にやることまとめ（SysVinit編）",
+    "url": "https://qiita.com/yangci/items/ef2ab9b6f0d28bad0881",
+    "likes_count": 748,
+    "created_at": "2014-12-17T14:48:05+09:00",
+    "updated_at": "2017-04-25T16:04:31+09:00",
+    "id": "yangci"
+  },
+  {
+    "title": "IE10 以下を切る場合の JavaScript チェックリスト",
+    "url": "https://qiita.com/Jxck_/items/fe8a1c49cac717e52ae3",
+    "likes_count": 726,
+    "created_at": "2014-12-18T18:27:14+09:00",
+    "updated_at": "2014-12-23T22:04:48+09:00",
+    "id": "Jxck_"
+  },
+  {
+    "title": "UIViewControllerのライフサイクル",
+    "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
+    "likes_count": 693,
+    "created_at": "2014-12-24T22:11:02+09:00",
+    "updated_at": "2014-12-24T22:11:02+09:00",
+    "id": "motokiee"
+  },
+  {
+    "title": "DDDで設計するならCQRSの利用を検討すべき",
+    "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
+    "likes_count": 682,
+    "created_at": "2014-12-28T11:51:45+09:00",
+    "updated_at": "2015-11-02T16:48:49+09:00",
+    "id": "ledmonster"
+  },
+  {
+    "title": "【Vim入門】ノーマルVimで使えると便利かもなコマンド10つ",
+    "url": "https://qiita.com/simeji/items/527478831eb561b06c17",
+    "likes_count": 671,
+    "created_at": "2014-12-17T04:18:57+09:00",
+    "updated_at": "2015-12-31T22:01:30+09:00",
+    "id": "simeji"
+  },
+  {
+    "title": "Slack BotをGASでいい感じで書くためのライブラリを作った",
+    "url": "https://qiita.com/soundTricker/items/43267609a870fc9c7453",
+    "likes_count": 647,
+    "created_at": "2014-12-08T14:13:04+09:00",
+    "updated_at": "2018-12-20T19:25:02+09:00",
+    "id": "soundTricker"
+  },
+  {
+    "title": "初心者向けGithubへのPullRequest方法",
+    "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
+    "likes_count": 642,
+    "created_at": "2014-12-17T23:28:14+09:00",
+    "updated_at": "2014-12-19T09:14:55+09:00",
+    "id": "samurai_runner"
+  },
+  {
+    "title": "2014年 Webアプリケーションフレームワークトレンド（PHP / Java / Ruby / Python / Perl）",
+    "url": "https://qiita.com/shukotang/items/055058b33b553b48c164",
+    "likes_count": 640,
+    "created_at": "2014-12-16T23:47:04+09:00",
+    "updated_at": "2015-10-27T19:49:54+09:00",
+    "id": "shukotang"
+  },
+  {
+    "title": "B-treeインデックス入門",
+    "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
+    "likes_count": 633,
+    "created_at": "2014-12-11T23:33:29+09:00",
+    "updated_at": "2014-12-12T09:27:12+09:00",
+    "id": "kiyodori"
+  },
+  {
+    "title": "俺のJSライブラリの世界観(2014末版)",
+    "url": "https://qiita.com/mizchi/items/62f6bda6d3e077de14a9",
+    "likes_count": 624,
+    "created_at": "2014-12-11T11:03:54+09:00",
+    "updated_at": "2014-12-11T11:13:38+09:00",
+    "id": "mizchi"
+  },
+  {
+    "title": "[翻訳] android best practice",
+    "url": "https://qiita.com/kgmyshin/items/a2358d54ffb3c5435d11",
+    "likes_count": 617,
+    "created_at": "2014-12-11T09:53:51+09:00",
+    "updated_at": "2017-05-07T18:38:58+09:00",
+    "id": "kgmyshin"
+  },
+  {
+    "title": "米googleの研究者が開発したWord2Vecで自然言語処理(独自データ)",
+    "url": "https://qiita.com/okappy/items/e16639178ba85edfee72",
+    "likes_count": 610,
+    "created_at": "2014-12-09T12:19:38+09:00",
+    "updated_at": "2015-06-08T19:13:20+09:00",
+    "id": "okappy"
+  },
+  {
+    "title": "React.jsのComponent Lifecycle",
+    "url": "https://qiita.com/koba04/items/66e9c5be8f2e31f28461",
+    "likes_count": 609,
+    "created_at": "2014-12-08T14:31:58+09:00",
+    "updated_at": "2014-12-08T14:37:45+09:00",
+    "id": "koba04"
+  },
+  {
+    "title": "Rubyの凄く面白い特徴をRailsのコードを例に解説",
+    "url": "https://qiita.com/shinya_131/items/901b9c70642b1e1f9227",
+    "likes_count": 607,
+    "created_at": "2014-12-06T23:47:56+09:00",
+    "updated_at": "2014-12-08T22:52:17+09:00",
+    "id": "shinya_131"
+  },
+  {
+    "title": "RailsでいろんなSNSとOAuth連携/ログインする方法",
+    "url": "https://qiita.com/awakia/items/03dd68dea5f15dc46c15",
+    "likes_count": 589,
+    "created_at": "2014-12-03T19:04:30+09:00",
+    "updated_at": "2015-03-17T14:32:32+09:00",
+    "id": "awakia"
+  },
+  {
+    "title": "DynamoDB ベストプラクティス",
+    "url": "https://qiita.com/inouet/items/bcf9467a65b27c362ecf",
+    "likes_count": 585,
+    "created_at": "2014-12-17T04:08:17+09:00",
+    "updated_at": "2014-12-17T13:25:50+09:00",
+    "id": "inouet"
+  },
+  {
+    "title": "Groovyを知らない人のためのbuild.gradle読み書き入門",
+    "url": "https://qiita.com/opengl-8080/items/a0bb31fb20cb6505188b",
+    "likes_count": 583,
+    "created_at": "2014-12-15T00:57:20+09:00",
+    "updated_at": "2019-01-13T10:32:56+09:00",
+    "id": "opengl-8080"
+  },
+  {
+    "title": "Spring MVCのコントローラでの戻り値いろいろ",
+    "url": "https://qiita.com/tag1216/items/3680b92cf96eb5a170f0",
+    "likes_count": 581,
+    "created_at": "2014-12-17T22:18:43+09:00",
+    "updated_at": "2014-12-17T22:21:08+09:00",
+    "id": "tag1216"
+  },
+  {
+    "title": "AppStore申請に必要なリソースを爆速で用意する（スクショやタイトル、キーワードなど）",
+    "url": "https://qiita.com/himara2/items/900efb7c17c049a6beec",
+    "likes_count": 563,
+    "created_at": "2014-12-15T19:08:07+09:00",
+    "updated_at": "2014-12-15T19:25:39+09:00",
+    "id": "himara2"
+  },
+  {
+    "title": "zshの外部プラグインまとめ",
+    "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
+    "likes_count": 556,
+    "created_at": "2014-12-25T00:15:28+09:00",
+    "updated_at": "2015-03-10T00:02:36+09:00",
+    "id": "mollifier"
+  },
+  {
+    "title": "アメリカに何の縁もないプログラマが渡米して働くには？",
+    "url": "https://qiita.com/keiono/items/3d950a20cdc4d54f8245",
+    "likes_count": 542,
+    "created_at": "2014-12-07T15:04:08+09:00",
+    "updated_at": "2014-12-09T08:03:08+09:00",
+    "id": "keiono"
+  },
+  {
+    "title": "iPhone(実機)の通信ログ(パケットのキャプチャ)を簡単に取得する方法",
+    "url": "https://qiita.com/shirochan/items/cdb244b12cf5d08d4766",
+    "likes_count": 540,
+    "created_at": "2014-12-10T14:07:44+09:00",
+    "updated_at": "2020-06-02T16:21:15+09:00",
+    "id": "shirochan"
+  },
+  {
+    "title": "「Git補完をしらない」「git statusを1日100回は使う」そんなあなたに朗報【git-completionとgit-prompt】",
+    "url": "https://qiita.com/varmil/items/9b0aeafa85975474e9b6",
+    "likes_count": 532,
+    "created_at": "2014-12-12T14:42:05+09:00",
+    "updated_at": "2019-06-10T08:36:44+09:00",
+    "id": "varmil"
+  },
+  {
+    "title": "CaffeでDeep Learning つまずきやすいところを中心に",
+    "url": "https://qiita.com/__uchi_k__/items/8333f80529bb3498e32f",
+    "likes_count": 528,
+    "created_at": "2014-12-11T22:15:21+09:00",
+    "updated_at": "2014-12-13T02:40:12+09:00",
+    "id": "__uchi_k__"
+  },
+  {
+    "title": "Rails開発で有用な便利Gem一覧：2014年版",
+    "url": "https://qiita.com/shu_0115/items/b9dd17c01e1e6bd65e71",
+    "likes_count": 516,
+    "created_at": "2014-12-11T14:10:37+09:00",
+    "updated_at": "2015-03-05T16:51:32+09:00",
+    "id": "shu_0115"
+  },
+  {
+    "title": "PythonでさくっとWebスクレイピングする (JavaScript読み込みにも対応しつつ)",
+    "url": "https://qiita.com/beatinaniwa/items/72b777e23ef2390e13f8",
+    "likes_count": 509,
+    "created_at": "2014-12-25T01:23:03+09:00",
+    "updated_at": "2014-12-25T01:27:54+09:00",
+    "id": "beatinaniwa"
+  },
+  {
+    "title": "RBMから考えるDeep Learning　～黒魔術を添えて～",
+    "url": "https://qiita.com/t_Signull/items/f776aecb4909b7c5c116",
+    "likes_count": 507,
+    "created_at": "2014-12-06T22:29:38+09:00",
+    "updated_at": "2014-12-18T22:01:59+09:00",
+    "id": "t_Signull"
+  },
+  {
+    "title": "nginxパフォーマンスチューニング〜静的コンテンツ配信編〜",
+    "url": "https://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd",
+    "likes_count": 499,
+    "created_at": "2014-12-16T03:53:44+09:00",
+    "updated_at": "2015-12-08T21:59:14+09:00",
+    "id": "cubicdaiya"
+  },
+  {
+    "title": "PostgreSQL のパフォーマンスチューニング",
+    "url": "https://qiita.com/cuzic/items/f9b846e6171a54079d77",
+    "likes_count": 487,
+    "created_at": "2014-12-12T22:45:03+09:00",
+    "updated_at": "2014-12-31T22:15:46+09:00",
+    "id": "cuzic"
+  },
+  {
+    "title": "MacにPostgreSQLをインストール",
+    "url": "https://qiita.com/_daisuke/items/13996621cf51f835494b",
+    "likes_count": 484,
+    "created_at": "2014-12-23T13:56:20+09:00",
+    "updated_at": "2015-01-06T22:59:39+09:00",
+    "id": "_daisuke"
+  },
+  {
+    "title": ".bash_profileと.bashrcについて",
+    "url": "https://qiita.com/shyamahira/items/260862743e4c9794b5d2",
+    "likes_count": 482,
+    "created_at": "2014-12-20T23:26:00+09:00",
+    "updated_at": "2014-12-20T23:26:00+09:00",
+    "id": "shyamahira"
+  },
+  {
+    "title": "本気で使う Docker",
+    "url": "https://qiita.com/rosylilly/items/08f4c0771e2ca92a72aa",
+    "likes_count": 476,
+    "created_at": "2014-12-25T23:33:09+09:00",
+    "updated_at": "2014-12-31T21:36:00+09:00",
+    "id": "rosylilly"
+  },
+  {
+    "title": "How to use CanCan / CanCanCan",
+    "url": "https://qiita.com/umanoda/items/679419ce30d1996628ed",
+    "likes_count": 466,
+    "created_at": "2014-12-20T21:47:33+09:00",
+    "updated_at": "2016-11-16T23:26:05+09:00",
+    "id": "umanoda"
+  },
+  {
+    "title": "Swiftの勉強をするために、Swiftでアプリを一から作ってみた話",
+    "url": "https://qiita.com/k_kinukawa/items/767eb305d888e85c6b4e",
+    "likes_count": 459,
+    "created_at": "2014-12-23T23:52:20+09:00",
+    "updated_at": "2014-12-28T10:35:23+09:00",
+    "id": "k_kinukawa"
+  },
+  {
+    "title": "React.jsとFlux",
+    "url": "https://qiita.com/koba04/items/b32ba449d753fdb2b597",
+    "likes_count": 447,
+    "created_at": "2014-12-22T14:24:46+09:00",
+    "updated_at": "2015-03-05T17:04:01+09:00",
+    "id": "koba04"
+  },
+  {
+    "title": "今こそ復習したい、iOSアプリのディレクトリ構成",
+    "url": "https://qiita.com/tototti/items/8646405f47cc56a59722",
+    "likes_count": 446,
+    "created_at": "2014-12-24T23:54:27+09:00",
+    "updated_at": "2016-05-11T23:42:11+09:00",
+    "id": "tototti"
+  },
+  {
+    "title": "Windows上でVirtualBox+Vagrant+CentOSによる仮想環境構築",
+    "url": "https://qiita.com/hiroyasu55/items/11a4c996b0c62450940f",
+    "likes_count": 438,
+    "created_at": "2014-12-17T11:23:54+09:00",
+    "updated_at": "2016-05-05T12:55:58+09:00",
+    "id": "hiroyasu55"
+  },
+  {
+    "title": "デザイナーがこうやってGit覚えて大好きになったよ♡",
+    "url": "https://qiita.com/yunico-jp/items/87bdd13971e82833f6bb",
+    "likes_count": 436,
+    "created_at": "2014-12-15T11:40:24+09:00",
+    "updated_at": "2018-06-18T11:02:37+09:00",
+    "id": "yunico-jp"
+  },
+  {
+    "title": "Activity のライフサイクル再確認",
+    "url": "https://qiita.com/calciolife/items/39b2696a9a03e8591d40",
+    "likes_count": 428,
+    "created_at": "2014-12-21T22:51:50+09:00",
+    "updated_at": "2014-12-21T22:55:26+09:00",
+    "id": "calciolife"
+  },
+  {
+    "title": "むずかしくないWPF",
+    "url": "https://qiita.com/karno/items/f30f661b40d9adec6a6d",
+    "likes_count": 424,
+    "created_at": "2014-12-12T20:31:59+09:00",
+    "updated_at": "2016-02-02T21:47:33+09:00",
+    "id": "karno"
+  },
+  {
+    "title": "Githubで特定のpull requestをローカルに持ってくる",
+    "url": "https://qiita.com/tarr1124/items/d807887418671adbc46f",
+    "likes_count": 421,
+    "created_at": "2014-12-15T17:30:18+09:00",
+    "updated_at": "2019-07-12T14:23:50+09:00",
+    "id": "tarr1124"
+  },
+  {
+    "title": "React.jsでPropやStateを使ってComponent間のやりとりをする",
+    "url": "https://qiita.com/koba04/items/43200b6fd6e6f43f0d8d",
+    "likes_count": 414,
+    "created_at": "2014-12-07T01:05:31+09:00",
+    "updated_at": "2015-01-12T22:38:12+09:00",
+    "id": "koba04"
+  },
+  {
+    "title": "コストを下げろと言われたら~AWSでまずやること~",
+    "url": "https://qiita.com/gucchon/items/33731a18e5b457f2bd34",
+    "likes_count": 412,
+    "created_at": "2014-12-08T22:39:58+09:00",
+    "updated_at": "2014-12-09T22:20:53+09:00",
+    "id": "gucchon"
+  },
+  {
+    "title": "Webスクレイピングの法律周りの話をしよう！",
+    "url": "https://qiita.com/nezuq/items/3cc9772118ad112c18dc",
+    "likes_count": 406,
+    "created_at": "2014-12-03T23:55:41+09:00",
+    "updated_at": "2020-09-09T07:37:42+09:00",
+    "id": "nezuq"
+  },
+  {
+    "title": "Nginxのパフォーマンスを極限にするための考察",
+    "url": "https://qiita.com/iwai/items/1e29adbdd269380167d2",
+    "likes_count": 401,
+    "created_at": "2014-12-03T19:13:35+09:00",
+    "updated_at": "2015-03-31T11:50:59+09:00",
+    "id": "iwai"
+  },
+  {
+    "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
+    "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
+    "likes_count": 394,
+    "created_at": "2014-12-10T11:37:15+09:00",
+    "updated_at": "2015-07-03T17:53:15+09:00",
+    "id": "izumin5210"
+  },
+  {
+    "title": "ErlangとGolangを比較してみる",
+    "url": "https://qiita.com/soranoba/items/68d57b4635a2917f3c73",
+    "likes_count": 393,
+    "created_at": "2014-12-05T00:42:12+09:00",
+    "updated_at": "2016-05-28T14:56:59+09:00",
+    "id": "soranoba"
+  },
+  {
+    "title": "React.jsのProp",
+    "url": "https://qiita.com/koba04/items/bc13d1f42964278ae14e",
+    "likes_count": 391,
+    "created_at": "2014-12-05T14:29:05+09:00",
+    "updated_at": "2015-05-02T23:35:45+09:00",
+    "id": "koba04"
+  },
+  {
+    "title": "5分で作るPROXYサーバー",
+    "url": "https://qiita.com/pcnikki/items/404329f9ad9cb6e235d4",
+    "likes_count": 387,
+    "created_at": "2014-12-06T00:48:09+09:00",
+    "updated_at": "2015-10-16T11:01:46+09:00",
+    "id": "pcnikki"
+  },
+  {
+    "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
+    "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
+    "likes_count": 382,
+    "created_at": "2014-12-26T17:08:08+09:00",
+    "updated_at": "2014-12-26T17:08:08+09:00",
+    "id": "mimoe"
+  },
+  {
+    "title": "Linuxbrew のススメ",
+    "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
+    "likes_count": 377,
+    "created_at": "2014-12-19T08:53:15+09:00",
+    "updated_at": "2019-02-22T11:21:56+09:00",
+    "id": "thermes"
+  },
+  {
+    "title": "SVMを使いこなす！チェックポイント8つ",
+    "url": "https://qiita.com/pika_shi/items/5e59bcf69e85fdd9edb2",
+    "likes_count": 374,
+    "created_at": "2014-12-16T08:22:35+09:00",
+    "updated_at": "2014-12-16T08:22:35+09:00",
+    "id": "pika_shi"
+  },
+  {
+    "title": "Makefileの関数",
+    "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
+    "likes_count": 368,
+    "created_at": "2014-12-24T21:58:53+09:00",
+    "updated_at": "2017-05-15T10:21:03+09:00",
+    "id": "chibi929"
+  },
+  {
+    "title": "rails管理画面系gem比較してみた",
+    "url": "https://qiita.com/baban/items/f751fb05c4d2367878aa",
+    "likes_count": 363,
+    "created_at": "2014-12-23T23:12:29+09:00",
+    "updated_at": "2019-12-05T14:13:35+09:00",
+    "id": "baban"
+  },
+  {
+    "title": "RaspberryPiで人感センサーを作る",
+    "url": "https://qiita.com/inaBowBow/items/dca01622d086f113db00",
+    "likes_count": 346,
+    "created_at": "2014-12-07T16:08:49+09:00",
+    "updated_at": "2019-03-16T02:24:24+09:00",
+    "id": "inaBowBow"
+  },
+  {
+    "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
+    "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
+    "likes_count": 345,
+    "created_at": "2014-12-18T22:53:36+09:00",
+    "updated_at": "2015-02-14T18:30:30+09:00",
+    "id": "y_hokkey"
+  },
+  {
+    "title": "xcodeでAutoLayoutでレスポンシブデザイン",
+    "url": "https://qiita.com/teradonburi/items/94b89379aa5a0bfdc71d",
+    "likes_count": 337,
+    "created_at": "2014-12-27T16:41:54+09:00",
+    "updated_at": "2016-02-14T17:36:15+09:00",
+    "id": "teradonburi"
+  },
+  {
+    "title": "Sprockets再考 モダンなJSのエコシステムとRailsのより良い関係を探す",
+    "url": "https://qiita.com/joker1007/items/9068e223744b3ac8c6dd",
+    "likes_count": 327,
+    "created_at": "2014-12-05T16:38:05+09:00",
+    "updated_at": "2014-12-06T18:42:26+09:00",
+    "id": "joker1007"
+  },
+  {
+    "title": "Railsで定期的にバッチ回す「Whenever」",
+    "url": "https://qiita.com/yumiyon/items/388fbb84450f49a6ab0d",
+    "likes_count": 324,
+    "created_at": "2014-12-20T08:11:30+09:00",
+    "updated_at": "2018-02-06T12:39:09+09:00",
+    "id": "yumiyon"
+  },
+  {
+    "title": "Singleton パターンの使いどころをまとめてみた",
+    "url": "https://qiita.com/trashtoy/items/eea5dcfb1eb003101cc9",
+    "likes_count": 317,
+    "created_at": "2014-12-19T20:22:05+09:00",
+    "updated_at": "2014-12-19T20:22:05+09:00",
+    "id": "trashtoy"
+  },
+  {
+    "title": "phpDocumentorの書き方",
+    "url": "https://qiita.com/itosho/items/0f809e067a9e4a41515e",
+    "likes_count": 317,
+    "created_at": "2014-12-22T14:21:26+09:00",
+    "updated_at": "2015-01-15T19:46:15+09:00",
+    "id": "itosho"
+  },
+  {
+    "title": "Ruby でラインメモリプロファイラ",
+    "url": "https://qiita.com/sonots/items/c14b3e3ca8e6f7dfb651",
+    "likes_count": 308,
+    "created_at": "2014-12-08T00:50:14+09:00",
+    "updated_at": "2017-05-17T16:15:05+09:00",
+    "id": "sonots"
+  },
+  {
+    "title": "Rails 4.1以降のコンソールコマンドは必ず bin/ を付けなきゃいけないの？",
+    "url": "https://qiita.com/jnchito/items/c5a0848144203dce6e26",
+    "likes_count": 307,
+    "created_at": "2014-12-31T21:38:43+09:00",
+    "updated_at": "2014-12-31T21:56:54+09:00",
+    "id": "jnchito"
+  },
+  {
+    "title": "お仕事で知っておけば便利。コマンドを叩くだけで使えるワンライナーチートシート",
+    "url": "https://qiita.com/taiyop/items/bfeeb41259cb0d083d88",
+    "likes_count": 294,
+    "created_at": "2014-12-28T11:32:19+09:00",
+    "updated_at": "2015-01-10T11:50:04+09:00",
+    "id": "taiyop"
+  },
+  {
+    "title": "Golang パフォーマンスチューニング",
+    "url": "https://qiita.com/naoina/items/d71ddfab31f4b29f6693",
+    "likes_count": 293,
+    "created_at": "2014-12-17T00:26:14+09:00",
+    "updated_at": "2014-12-17T14:35:31+09:00",
+    "id": "naoina"
+  },
+  {
+    "title": "Core Bluetooth with Swift （ObjCのおまけ付き）",
+    "url": "https://qiita.com/shu223/items/78614325ce25bf7f4379",
+    "likes_count": 288,
+    "created_at": "2014-12-12T18:21:56+09:00",
+    "updated_at": "2016-06-10T16:02:24+09:00",
+    "id": "shu223"
+  },
+  {
+    "title": "Qiita の記事の見出しに Font-Awesome を利用して見栄えを良くする #qiita",
+    "url": "https://qiita.com/tbpgr/items/361d8aaa38fb57d75216",
+    "likes_count": 288,
+    "created_at": "2014-12-15T22:38:03+09:00",
+    "updated_at": "2017-06-18T22:48:59+09:00",
+    "id": "tbpgr"
+  },
+  {
+    "title": "Python ビット演算 超入門",
+    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
+    "likes_count": 281,
+    "created_at": "2014-12-14T19:50:10+09:00",
+    "updated_at": "2014-12-15T17:50:09+09:00",
+    "id": "7shi"
+  },
+  {
+    "title": "Linux ネットワークパフォーマンスの機能強化",
+    "url": "https://qiita.com/hkajikawa/items/34b21583b216aede0f95",
+    "likes_count": 277,
+    "created_at": "2014-12-18T12:05:09+09:00",
+    "updated_at": "2014-12-18T12:05:09+09:00",
+    "id": "hkajikawa"
+  },
+  {
+    "title": "SwiftでCoreData",
+    "url": "https://qiita.com/watanave/items/4da9f4bc97247f780af8",
+    "likes_count": 276,
+    "created_at": "2014-12-04T23:16:35+09:00",
+    "updated_at": "2014-12-04T23:16:35+09:00",
+    "id": "watanave"
+  },
+  {
+    "title": "ボタン電池1個で数年持つ無線ドア開閉センサを作る",
+    "url": "https://qiita.com/ksasao/items/1a221843894fdb57677b",
+    "likes_count": 275,
+    "created_at": "2014-12-05T23:58:47+09:00",
+    "updated_at": "2019-11-09T22:42:58+09:00",
+    "id": "ksasao"
+  },
+  {
+    "title": "ニューラルネットワークと深層学習(和訳)",
+    "url": "https://qiita.com/nushio/items/7bc4a32d8e27e8b5b751",
+    "likes_count": 273,
+    "created_at": "2014-12-05T14:46:22+09:00",
+    "updated_at": "2014-12-05T15:36:14+09:00",
+    "id": "nushio"
+  },
+  {
+    "title": "知らないと損?RubyMine(IntelliJ)で役立つ細かいテクニック７つ",
+    "url": "https://qiita.com/Avene/items/756c17f87d28d2ee47a4",
+    "likes_count": 273,
+    "created_at": "2014-12-20T16:17:06+09:00",
+    "updated_at": "2016-02-19T22:29:48+09:00",
+    "id": "Avene"
+  },
+  {
+    "title": "use-packageで可読性の高いinit.elを書く",
+    "url": "https://qiita.com/kai2nenobu/items/5dfae3767514584f5220",
+    "likes_count": 271,
+    "created_at": "2014-12-07T22:06:03+09:00",
+    "updated_at": "2016-03-08T22:43:32+09:00",
+    "id": "kai2nenobu"
+  },
+  {
+    "title": "JavaEEをはじめよう！",
+    "url": "https://qiita.com/tkxlab/items/3c0d4073defacb1215f5",
+    "likes_count": 271,
+    "created_at": "2014-12-08T20:45:06+09:00",
+    "updated_at": "2016-10-16T15:02:19+09:00",
+    "id": "tkxlab"
+  },
+  {
+    "title": "[iOS]FabricでTwitterクライアントを作った",
+    "url": "https://qiita.com/daichiro/items/bf0460f420acac3c04fc",
+    "likes_count": 269,
+    "created_at": "2014-12-08T03:02:54+09:00",
+    "updated_at": "2015-03-11T02:29:11+09:00",
+    "id": "daichiro"
+  },
+  {
+    "title": "[Swift]APIで取得したJSONをswiftyJSONでパースして、天気情報をUITableViewで表示。お天気アプリを作ってみる。",
+    "url": "https://qiita.com/yonell/items/c5432207868fa2d5cfc9",
+    "likes_count": 269,
+    "created_at": "2014-12-28T12:55:54+09:00",
+    "updated_at": "2017-05-09T14:33:02+09:00",
+    "id": "yonell"
+  },
+  {
+    "title": "AWSでデプロイとスケーリングを自動化する方法まとめ",
+    "url": "https://qiita.com/hiro_koba_jp/items/eb438945d64c3d765e04",
+    "likes_count": 262,
+    "created_at": "2014-12-24T00:00:35+09:00",
+    "updated_at": "2014-12-25T11:18:46+09:00",
+    "id": "hiro_koba_jp"
+  },
+  {
+    "title": "Unity2Dのこれだけは覚えておけ！集",
+    "url": "https://qiita.com/asiram/items/3b2875731efdc34bc65a",
+    "likes_count": 250,
+    "created_at": "2014-12-19T19:31:38+09:00",
+    "updated_at": "2014-12-19T19:31:38+09:00",
+    "id": "asiram"
+  }
+]

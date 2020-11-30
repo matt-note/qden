@@ -1,0 +1,578 @@
+[
+  {
+    "title": "非デザイナーエンジニアが一人でWebサービスを作るときに便利なツール32選",
+    "url": "https://qiita.com/okappy/items/119e31cae9aa9bd9da6d",
+    "likes_count": 6509,
+    "created_at": "2014-09-19T02:53:10+09:00",
+    "updated_at": "2015-07-09T01:12:38+09:00",
+    "id": "okappy"
+  },
+  {
+    "title": "VagrantとDockerについて名前しか知らなかったので試した",
+    "url": "https://qiita.com/hidekuro/items/fc12344d36d996198e96",
+    "likes_count": 3174,
+    "created_at": "2014-09-12T18:53:57+09:00",
+    "updated_at": "2019-12-02T22:54:36+09:00",
+    "id": "hidekuro"
+  },
+  {
+    "title": "クラスの命名のアンチパターン",
+    "url": "https://qiita.com/magicant/items/8134edf969f9629fa66e",
+    "likes_count": 2598,
+    "created_at": "2014-09-04T16:37:27+09:00",
+    "updated_at": "2016-06-22T18:16:28+09:00",
+    "id": "magicant"
+  },
+  {
+    "title": "iPhone/iPad/Apple Watch解像度(画面サイズ)早見表",
+    "url": "https://qiita.com/tomohisaota/items/f8857d01f328e34fb551",
+    "likes_count": 2470,
+    "created_at": "2014-09-12T09:33:06+09:00",
+    "updated_at": "2020-10-23T08:33:52+09:00",
+    "id": "tomohisaota"
+  },
+  {
+    "title": "PlantUML Cheat Sheet",
+    "url": "https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48",
+    "likes_count": 2252,
+    "created_at": "2014-09-22T22:11:54+09:00",
+    "updated_at": "2019-10-23T17:58:40+09:00",
+    "id": "ogomr"
+  },
+  {
+    "title": "rails generate migrationコマンドまとめ",
+    "url": "https://qiita.com/zaru/items/cde2c46b6126867a1a64",
+    "likes_count": 1878,
+    "created_at": "2014-09-09T19:57:54+09:00",
+    "updated_at": "2018-11-06T21:09:19+09:00",
+    "id": "zaru"
+  },
+  {
+    "title": "ActiveRecordのjoinsとpreloadとincludesとeager_loadの違い",
+    "url": "https://qiita.com/k0kubun/items/80c5a5494f53bb88dc58",
+    "likes_count": 1760,
+    "created_at": "2014-09-05T01:13:43+09:00",
+    "updated_at": "2016-02-12T04:58:27+09:00",
+    "id": "k0kubun"
+  },
+  {
+    "title": "Homebrew使い方まとめ",
+    "url": "https://qiita.com/vintersnow/items/fca0be79cdc28bd2f5e4",
+    "likes_count": 1120,
+    "created_at": "2014-09-14T10:11:54+09:00",
+    "updated_at": "2019-06-30T12:35:22+09:00",
+    "id": "vintersnow"
+  },
+  {
+    "title": "オブジェクト指向の法則集",
+    "url": "https://qiita.com/kenjihiranabe/items/9eddc70e279861992274",
+    "likes_count": 1078,
+    "created_at": "2014-09-10T19:14:55+09:00",
+    "updated_at": "2017-05-23T15:44:33+09:00",
+    "id": "kenjihiranabe"
+  },
+  {
+    "title": "[Git]コミットの取り消し、打ち消し、上書き",
+    "url": "https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed",
+    "likes_count": 1020,
+    "created_at": "2014-09-12T18:43:31+09:00",
+    "updated_at": "2016-03-16T21:10:46+09:00",
+    "id": "shuntaro_tamura"
+  },
+  {
+    "title": "サーバサイドエンジニアでも押えておきたい！コアJavaScriptの基本知識",
+    "url": "https://qiita.com/hkusu/items/e06f04e804e130140f17",
+    "likes_count": 926,
+    "created_at": "2014-09-16T11:06:03+09:00",
+    "updated_at": "2016-01-26T09:05:07+09:00",
+    "id": "hkusu"
+  },
+  {
+    "title": "各OSのリリース日とサポート終了日を表にまとめてみた",
+    "url": "https://qiita.com/yunano/items/4757f86f9e92bb4f503f",
+    "likes_count": 901,
+    "created_at": "2014-09-11T08:39:03+09:00",
+    "updated_at": "2020-03-23T09:04:49+09:00",
+    "id": "yunano"
+  },
+  {
+    "title": "topコマンドの使い方",
+    "url": "https://qiita.com/k0kubun/items/7368c323d90f24a00c2f",
+    "likes_count": 843,
+    "created_at": "2014-09-08T19:25:53+09:00",
+    "updated_at": "2014-09-08T19:43:44+09:00",
+    "id": "k0kubun"
+  },
+  {
+    "title": "iPhone6/iPhone6 Plusの画面対応について",
+    "url": "https://qiita.com/uebo/items/854c284ed11aca741d93",
+    "likes_count": 836,
+    "created_at": "2014-09-10T21:05:23+09:00",
+    "updated_at": "2014-09-12T00:05:49+09:00",
+    "id": "uebo"
+  },
+  {
+    "title": "WEB ページの読み込み時間を短くしよう",
+    "url": "https://qiita.com/tomochan154/items/2e2dc7b6eca006b41afb",
+    "likes_count": 817,
+    "created_at": "2014-09-10T10:03:55+09:00",
+    "updated_at": "2014-09-10T23:32:05+09:00",
+    "id": "tomochan154"
+  },
+  {
+    "title": "Cコンパイラをスクラッチから開発してみた（日記）",
+    "url": "https://qiita.com/ruiu/items/4d471216b71ab48d8b74",
+    "likes_count": 794,
+    "created_at": "2014-09-07T05:42:21+09:00",
+    "updated_at": "2015-12-08T23:50:52+09:00",
+    "id": "ruiu"
+  },
+  {
+    "title": "Pythonのイテレータとジェネレータ",
+    "url": "https://qiita.com/tomotaka_ito/items/35f3eb108f587022fa09",
+    "likes_count": 787,
+    "created_at": "2014-09-17T08:44:04+09:00",
+    "updated_at": "2020-10-26T09:28:48+09:00",
+    "id": "tomotaka_ito"
+  },
+  {
+    "title": "スクリプトインジェクション入門",
+    "url": "https://qiita.com/tomochan154/items/a93c56536c78d1faff0f",
+    "likes_count": 694,
+    "created_at": "2014-09-20T21:42:35+09:00",
+    "updated_at": "2014-09-20T21:53:08+09:00",
+    "id": "tomochan154"
+  },
+  {
+    "title": "vim-plugin NERDTree で開発効率をアップする！",
+    "url": "https://qiita.com/zwirky/items/0209579a635b4f9c95ee",
+    "likes_count": 681,
+    "created_at": "2014-09-05T21:27:40+09:00",
+    "updated_at": "2014-09-05T21:27:40+09:00",
+    "id": "zwirky"
+  },
+  {
+    "title": "Java 8 \"Optional\" ～ これからのnullとの付き合い方 ～",
+    "url": "https://qiita.com/shindooo/items/815d651a72f568112910",
+    "likes_count": 663,
+    "created_at": "2014-09-14T00:00:04+09:00",
+    "updated_at": "2018-05-05T07:56:03+09:00",
+    "id": "shindooo"
+  },
+  {
+    "title": "QAエンジニア",
+    "url": "https://qiita.com/jun2014/items/32ec77be1056f546aada",
+    "likes_count": 658,
+    "created_at": "2014-09-27T01:14:29+09:00",
+    "updated_at": "2020-11-30T19:55:15+09:00",
+    "id": "jun2014"
+  },
+  {
+    "title": "最低限書いておきたいPHPのDocコメント",
+    "url": "https://qiita.com/motoyan-qwt/items/ee973666f1105435822c",
+    "likes_count": 624,
+    "created_at": "2014-09-26T22:18:21+09:00",
+    "updated_at": "2014-10-01T09:36:41+09:00",
+    "id": "motoyan-qwt"
+  },
+  {
+    "title": "技術的負債",
+    "url": "https://qiita.com/erukiti/items/9cc7850250268582dde7",
+    "likes_count": 608,
+    "created_at": "2014-09-27T00:11:43+09:00",
+    "updated_at": "2014-09-29T14:25:15+09:00",
+    "id": "erukiti"
+  },
+  {
+    "title": "pecoの基礎の基礎",
+    "url": "https://qiita.com/xtetsuji/items/05f6f4c1b17854cdd75b",
+    "likes_count": 597,
+    "created_at": "2014-09-11T23:23:08+09:00",
+    "updated_at": "2015-02-18T22:10:24+09:00",
+    "id": "xtetsuji"
+  },
+  {
+    "title": "Ansible 入門",
+    "url": "https://qiita.com/ArimaRyunosuke/items/1f9d840311584d8160bc",
+    "likes_count": 593,
+    "created_at": "2014-09-19T19:21:16+09:00",
+    "updated_at": "2015-02-06T20:48:48+09:00",
+    "id": "ArimaRyunosuke"
+  },
+  {
+    "title": "超絶初心者のためのフロント入門（HTML、CSS、JavaScript）",
+    "url": "https://qiita.com/shuntaro_tamura/items/c9b2fec0f3a9f7d1e987",
+    "likes_count": 591,
+    "created_at": "2014-09-21T05:19:04+09:00",
+    "updated_at": "2016-03-16T21:09:31+09:00",
+    "id": "shuntaro_tamura"
+  },
+  {
+    "title": "システムの負荷の原因を切り分ける方法",
+    "url": "https://qiita.com/k0kubun/items/8ab1dfa7c0359d8e618d",
+    "likes_count": 579,
+    "created_at": "2014-09-08T22:46:12+09:00",
+    "updated_at": "2014-09-08T22:52:51+09:00",
+    "id": "k0kubun"
+  },
+  {
+    "title": "Slack / Hubot / GitHub / CircleCI によるChatOpsなデプロイ方法",
+    "url": "https://qiita.com/kiriki-qwt/items/26bdf537169891b22653",
+    "likes_count": 577,
+    "created_at": "2014-09-08T15:26:56+09:00",
+    "updated_at": "2019-03-07T19:07:12+09:00",
+    "id": "kiriki-qwt"
+  },
+  {
+    "title": "cloudBitとIFTTTで「おとうさんいまどこメーター」を作る",
+    "url": "https://qiita.com/kazunori279/items/7dbbb525ab0cf6d5d9b5",
+    "likes_count": 574,
+    "created_at": "2014-09-08T14:37:03+09:00",
+    "updated_at": "2014-09-09T21:21:41+09:00",
+    "id": "kazunori279"
+  },
+  {
+    "title": "AレコードとCNAMEレコードの違い",
+    "url": "https://qiita.com/PharaohKJ/items/b6a933b7f79afe8a32e1",
+    "likes_count": 555,
+    "created_at": "2014-10-01T02:33:36+09:00",
+    "updated_at": "2017-11-05T18:41:28+09:00",
+    "id": "PharaohKJ"
+  },
+  {
+    "title": "データベースにindexを張る方法",
+    "url": "https://qiita.com/seiya1121/items/fb074d727c6f40a55f22",
+    "likes_count": 546,
+    "created_at": "2014-09-05T15:19:27+09:00",
+    "updated_at": "2017-01-10T16:38:09+09:00",
+    "id": "seiya1121"
+  },
+  {
+    "title": "microservicesに分割する際に注意するべき5つのこと",
+    "url": "https://qiita.com/hirokidaichi/items/bf81f1f6f7ca3d694aae",
+    "likes_count": 530,
+    "created_at": "2014-09-09T01:01:51+09:00",
+    "updated_at": "2019-03-17T00:39:41+09:00",
+    "id": "hirokidaichi"
+  },
+  {
+    "title": "モバイルアプリ開発者のための mitmproxy 入門",
+    "url": "https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68",
+    "likes_count": 512,
+    "created_at": "2014-09-02T12:33:59+09:00",
+    "updated_at": "2014-10-06T16:26:51+09:00",
+    "id": "hkurokawa"
+  },
+  {
+    "title": "Windows 8.1ではじめるイマドキの開発環境",
+    "url": "https://qiita.com/koduki/items/a833d22c7d8cf6f8f55e",
+    "likes_count": 500,
+    "created_at": "2014-09-23T18:41:12+09:00",
+    "updated_at": "2014-09-25T23:29:12+09:00",
+    "id": "koduki"
+  },
+  {
+    "title": "コピペしてすぐ使えるアラートダイアログ集",
+    "url": "https://qiita.com/suzukihr/items/8973527ebb8bb35f6bb8",
+    "likes_count": 495,
+    "created_at": "2014-09-08T20:30:21+09:00",
+    "updated_at": "2019-12-24T17:31:22+09:00",
+    "id": "suzukihr"
+  },
+  {
+    "title": "GitHub 製エディタ Atom入門",
+    "url": "https://qiita.com/k2works/items/1d25888fb3a05058e48f",
+    "likes_count": 486,
+    "created_at": "2014-09-02T10:50:38+09:00",
+    "updated_at": "2014-09-12T10:03:29+09:00",
+    "id": "k2works"
+  },
+  {
+    "title": "[デザイナー向け] iPhoneアプリに必要な画像・アイコン",
+    "url": "https://qiita.com/ttsubono/items/9d2bc4a0584715dfb856",
+    "likes_count": 477,
+    "created_at": "2014-09-19T22:11:14+09:00",
+    "updated_at": "2015-06-05T21:45:56+09:00",
+    "id": "ttsubono"
+  },
+  {
+    "title": "初めてコードレビューされる人のためのpull requestとcommitの作り方",
+    "url": "https://qiita.com/reikubonaga/items/e3b3b19c14d4ef4efb95",
+    "likes_count": 475,
+    "created_at": "2014-09-04T11:29:14+09:00",
+    "updated_at": "2016-11-09T10:42:05+09:00",
+    "id": "reikubonaga"
+  },
+  {
+    "title": "Backbone.js 使い方メモ",
+    "url": "https://qiita.com/opengl-8080/items/36e9b380c64ba7766511",
+    "likes_count": 466,
+    "created_at": "2014-09-11T00:45:39+09:00",
+    "updated_at": "2015-12-12T09:31:50+09:00",
+    "id": "opengl-8080"
+  },
+  {
+    "title": "Android エンジニアが知っておきたい UX アンチパターン",
+    "url": "https://qiita.com/suzukihr/items/8af797cfdf2f178da1bc",
+    "likes_count": 464,
+    "created_at": "2014-09-29T00:57:51+09:00",
+    "updated_at": "2014-09-29T00:57:51+09:00",
+    "id": "suzukihr"
+  },
+  {
+    "title": "[C++] STLの型の使い分け",
+    "url": "https://qiita.com/h_hiro_/items/a83a8fd2391d4a3f0e1c",
+    "likes_count": 456,
+    "created_at": "2014-09-17T00:35:46+09:00",
+    "updated_at": "2019-02-02T02:11:04+09:00",
+    "id": "h_hiro_"
+  },
+  {
+    "title": "Promiseと仲良くなって気持ち良く非同期処理を書こう",
+    "url": "https://qiita.com/progre/items/03626b7f4655007d8cb2",
+    "likes_count": 453,
+    "created_at": "2014-09-29T22:06:30+09:00",
+    "updated_at": "2014-09-29T22:06:30+09:00",
+    "id": "progre"
+  },
+  {
+    "title": "【プログラマ英語】それ認証って意味じゃないですよ（厳密には）",
+    "url": "https://qiita.com/usk81/items/9e1b58dd173472f071c0",
+    "likes_count": 433,
+    "created_at": "2014-09-20T17:16:55+09:00",
+    "updated_at": "2014-09-20T17:16:55+09:00",
+    "id": "usk81"
+  },
+  {
+    "title": "新TestFlightの使用方法",
+    "url": "https://qiita.com/Raugh/items/9e803fbb03391cf1b388",
+    "likes_count": 430,
+    "created_at": "2014-09-25T21:37:09+09:00",
+    "updated_at": "2017-09-08T13:23:57+09:00",
+    "id": "Raugh"
+  },
+  {
+    "title": "WEBページに設定しておくと良いHTTPヘッダとかメタタグとか",
+    "url": "https://qiita.com/nightyknite/items/1b8070d1e31083ee79ee",
+    "likes_count": 425,
+    "created_at": "2014-09-22T16:39:38+09:00",
+    "updated_at": "2020-05-24T23:01:34+09:00",
+    "id": "nightyknite"
+  },
+  {
+    "title": "Bluetooth Low Energy（BLE）/ iBeaconとは",
+    "url": "https://qiita.com/miyatay/items/4d4ce4ccd7905ddc0144",
+    "likes_count": 423,
+    "created_at": "2014-09-16T11:03:46+09:00",
+    "updated_at": "2014-10-21T15:06:12+09:00",
+    "id": "miyatay"
+  },
+  {
+    "title": "load averageを見てシステムの負荷を確認する",
+    "url": "https://qiita.com/k0kubun/items/8065f5cf2da7605c8043",
+    "likes_count": 413,
+    "created_at": "2014-09-08T21:08:18+09:00",
+    "updated_at": "2014-09-08T21:24:13+09:00",
+    "id": "k0kubun"
+  },
+  {
+    "title": "IoTやるならまず知っておきたいパーツ屋・オンラインショップ",
+    "url": "https://qiita.com/kazuph/items/86a1f88e06ff874abe68",
+    "likes_count": 398,
+    "created_at": "2014-09-14T16:55:30+09:00",
+    "updated_at": "2018-11-26T09:36:11+09:00",
+    "id": "kazuph"
+  },
+  {
+    "title": "CentOS7でサービスの管理方法が変わった！",
+    "url": "https://qiita.com/haisaihiroki/items/c38cb3c0a331db9b6f69",
+    "likes_count": 397,
+    "created_at": "2014-09-12T21:14:25+09:00",
+    "updated_at": "2015-03-16T23:14:13+09:00",
+    "id": "haisaihiroki"
+  },
+  {
+    "title": "Rubyの文字列連結に関して知っておくべきこと",
+    "url": "https://qiita.com/Kta-M/items/c7c2fb0b61b11d3a2c48",
+    "likes_count": 397,
+    "created_at": "2014-09-29T07:24:45+09:00",
+    "updated_at": "2019-02-27T08:35:54+09:00",
+    "id": "Kta-M"
+  },
+  {
+    "title": "iOSデバイス一覧表",
+    "url": "https://qiita.com/takkyun/items/814aa45beee422a5f0c6",
+    "likes_count": 385,
+    "created_at": "2014-09-11T05:01:40+09:00",
+    "updated_at": "2020-10-24T08:35:04+09:00",
+    "id": "takkyun"
+  },
+  {
+    "title": "ASP.NET MVC 開発を始める前に理解しておきたいこと",
+    "url": "https://qiita.com/kazuhisam3/items/f056819172d2b6d36a8c",
+    "likes_count": 375,
+    "created_at": "2014-09-05T12:26:57+09:00",
+    "updated_at": "2014-09-05T12:26:57+09:00",
+    "id": "kazuhisam3"
+  },
+  {
+    "title": "nc コマンド 使い方メモ",
+    "url": "https://qiita.com/yasuhiroki/items/d470829ab2e30ee6203f",
+    "likes_count": 371,
+    "created_at": "2014-09-23T02:52:08+09:00",
+    "updated_at": "2016-09-09T00:56:19+09:00",
+    "id": "yasuhiroki"
+  },
+  {
+    "title": "Javaエンジニアがいまさら始めるRuby開発環境",
+    "url": "https://qiita.com/ko2ic/items/9204f5dba907dab37a1b",
+    "likes_count": 358,
+    "created_at": "2014-09-08T00:19:49+09:00",
+    "updated_at": "2017-01-25T22:27:19+09:00",
+    "id": "ko2ic"
+  },
+  {
+    "title": "Macでsshfsを使ってローカルからリモートのファイルを触る",
+    "url": "https://qiita.com/ysk24ok/items/bb148530a55a4e55d99b",
+    "likes_count": 354,
+    "created_at": "2014-09-12T14:57:33+09:00",
+    "updated_at": "2019-03-06T09:57:41+09:00",
+    "id": "ysk24ok"
+  },
+  {
+    "title": "Dockerを導入する（CentOS版）",
+    "url": "https://qiita.com/zwirky/items/991f61a231f4e198a320",
+    "likes_count": 341,
+    "created_at": "2014-09-08T19:25:58+09:00",
+    "updated_at": "2016-10-07T12:25:36+09:00",
+    "id": "zwirky"
+  },
+  {
+    "title": "SublimeText 3の基本設定",
+    "url": "https://qiita.com/lunatea/items/7101572e159f98369bc9",
+    "likes_count": 341,
+    "created_at": "2014-09-25T19:10:32+09:00",
+    "updated_at": "2017-06-20T13:52:04+09:00",
+    "id": "lunatea"
+  },
+  {
+    "title": "体で覚えるVue.js - ViewModel生成編 〜 JSおくのほそ道 #022",
+    "url": "https://qiita.com/hosomichi/items/3faf74b7141081731a75",
+    "likes_count": 334,
+    "created_at": "2014-09-17T18:20:40+09:00",
+    "updated_at": "2017-07-16T14:22:24+09:00",
+    "id": "hosomichi"
+  },
+  {
+    "title": "AltJSの選び方フローチャート",
+    "url": "https://qiita.com/mizchi/items/c5f101cfab8fd456ca20",
+    "likes_count": 319,
+    "created_at": "2014-09-11T13:42:44+09:00",
+    "updated_at": "2014-09-11T14:50:12+09:00",
+    "id": "mizchi"
+  },
+  {
+    "title": "JavaScriptのテンプレートエンジンHandlebars入門",
+    "url": "https://qiita.com/sassy_watson/items/f9947624876bf75a9eff",
+    "likes_count": 316,
+    "created_at": "2014-09-06T11:27:32+09:00",
+    "updated_at": "2016-08-17T09:36:34+09:00",
+    "id": "sassy_watson"
+  },
+  {
+    "title": "Material Design を全力で取り込んだはてなブックマークリーダーを作ってみた",
+    "url": "https://qiita.com/suzukihr/items/6a4d4b6e48a05f900a86",
+    "likes_count": 312,
+    "created_at": "2014-09-30T19:01:00+09:00",
+    "updated_at": "2014-10-09T18:27:56+09:00",
+    "id": "suzukihr"
+  },
+  {
+    "title": "ubuntu ユーザを追加して sudo 権限をつける",
+    "url": "https://qiita.com/white_aspara25/items/c1b9d02310b4731bfbaa",
+    "likes_count": 309,
+    "created_at": "2014-09-05T13:55:00+09:00",
+    "updated_at": "2014-09-05T13:55:00+09:00",
+    "id": "white_aspara25"
+  },
+  {
+    "title": "体で覚えるVue.js - ディレクティブ編 〜 JSおくのほそ道 #023",
+    "url": "https://qiita.com/hosomichi/items/25041c1d46452de84aa6",
+    "likes_count": 307,
+    "created_at": "2014-09-17T18:22:08+09:00",
+    "updated_at": "2017-07-16T14:21:56+09:00",
+    "id": "hosomichi"
+  },
+  {
+    "title": "Appleに超特急レビューをお願いするには",
+    "url": "https://qiita.com/Raugh/items/a9d971bcf0005719aa22",
+    "likes_count": 300,
+    "created_at": "2014-09-08T17:49:52+09:00",
+    "updated_at": "2016-01-22T10:55:44+09:00",
+    "id": "Raugh"
+  },
+  {
+    "title": "iOS 8 の新機能のサンプルコード集『iOS8-Sampler』",
+    "url": "https://qiita.com/shu223/items/5c5df2ad9484c7abdb30",
+    "likes_count": 291,
+    "created_at": "2014-09-18T04:22:44+09:00",
+    "updated_at": "2015-02-18T21:39:00+09:00",
+    "id": "shu223"
+  },
+  {
+    "title": "SizeClassesとXcode6でのAutoLayoutの謎マージン",
+    "url": "https://qiita.com/uskiita/items/c643f5868f60b496911e",
+    "likes_count": 290,
+    "created_at": "2014-09-18T17:40:03+09:00",
+    "updated_at": "2015-05-25T21:26:54+09:00",
+    "id": "uskiita"
+  },
+  {
+    "title": "「iPhoneアプリの数値計測したいんだけど」と言われた君へ",
+    "url": "https://qiita.com/masaki925/items/2a6bd81747d7660c0bee",
+    "likes_count": 287,
+    "created_at": "2014-09-23T12:49:41+09:00",
+    "updated_at": "2014-09-30T13:46:17+09:00",
+    "id": "masaki925"
+  },
+  {
+    "title": "Gitの基本的な使い方メモ",
+    "url": "https://qiita.com/opengl-8080/items/451c5967cbbc262f4f0d",
+    "likes_count": 279,
+    "created_at": "2014-09-14T16:48:14+09:00",
+    "updated_at": "2016-05-08T00:52:43+09:00",
+    "id": "opengl-8080"
+  },
+  {
+    "title": "AFNetworkのSwift版 Alamofireを試してみた",
+    "url": "https://qiita.com/susieyy/items/bbad93e4bbf48ae69326",
+    "likes_count": 278,
+    "created_at": "2014-09-07T13:41:31+09:00",
+    "updated_at": "2014-09-07T13:41:31+09:00",
+    "id": "susieyy"
+  },
+  {
+    "title": "deviseをAPIで利用しやすくする -Token Authenticationの追加-",
+    "url": "https://qiita.com/k-shogo/items/6d687c38b0f7b3ade6f5",
+    "likes_count": 278,
+    "created_at": "2014-09-14T19:43:02+09:00",
+    "updated_at": "2014-09-15T12:56:09+09:00",
+    "id": "k-shogo"
+  },
+  {
+    "title": "Go の開発環境は IntelliJ IDEA + golang plugin がマトモだった",
+    "url": "https://qiita.com/kaiinui/items/433eb86c022ffcad0bea",
+    "likes_count": 274,
+    "created_at": "2014-09-14T23:07:21+09:00",
+    "updated_at": "2016-01-25T14:33:27+09:00",
+    "id": "kaiinui"
+  },
+  {
+    "title": "iOSで独自Viewを作る時の5つのTips",
+    "url": "https://qiita.com/kikuchy/items/f1d6731d804b63cf7a29",
+    "likes_count": 272,
+    "created_at": "2014-09-13T17:06:49+09:00",
+    "updated_at": "2014-09-13T17:06:49+09:00",
+    "id": "kikuchy"
+  }
+]
