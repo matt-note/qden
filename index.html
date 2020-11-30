@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics - これはheadタグの一番上に配置する必要がある-->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7V04XFXQ9P"></script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -144,6 +144,7 @@
     </main>
   </div>
 
+  <!-- これはbodyタグの下に配置。DOMの描画に悪影響があったため。ここに配置しても問題なし。 -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}

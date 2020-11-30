@@ -3,8 +3,9 @@ name: Create Monthly Ranking
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * MON'
-    # -> 毎月1日と月曜日の0:00（深夜）に実行。
+    - cron: '0 15 28-31 * SUN'
+    - cron: '0 15 28-31 * * /usr/bin/test $( date --date '+1 day' +\%d ) -eq 1'
+    # -> 毎月1日と月曜日のUTC15:00（JST0:00,深夜）に実行。
 
 env:
   QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}

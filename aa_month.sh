@@ -23,6 +23,7 @@ while [ 1 ] ; do
     --data-urlencode "query=created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>262" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
+    --silent \
   -H 'Authorization: Bearer '$QIITA_TOKEN 'https://qiita.com/api/v2/items' | \
   jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > data/${TEMP_YM:0:7}.json
 
