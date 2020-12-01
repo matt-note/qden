@@ -2,7 +2,7 @@
   {
     "title": "翻訳: WebAPI 設計のベストプラクティス",
     "url": "https://qiita.com/mserizawa/items/b833e407d89abd21ee72",
-    "likes_count": 5084,
+    "likes_count": 5086,
     "created_at": "2016-03-24T03:18:36+09:00",
     "updated_at": "2017-12-17T15:13:02+09:00",
     "id": "mserizawa"
@@ -42,7 +42,7 @@
   {
     "title": "nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する",
     "url": "https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc",
-    "likes_count": 1693,
+    "likes_count": 1696,
     "created_at": "2016-03-18T01:08:31+09:00",
     "updated_at": "2018-04-09T09:05:54+09:00",
     "id": "kotarella1110"
@@ -74,7 +74,7 @@
   {
     "title": "sedでこういう時はどう書く?",
     "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
-    "likes_count": 1315,
+    "likes_count": 1317,
     "created_at": "2016-03-04T11:57:25+09:00",
     "updated_at": "2018-10-25T10:59:12+09:00",
     "id": "hirohiro77"
@@ -90,7 +90,7 @@
   {
     "title": "Chrome拡張の開発方法まとめ　その1：概念編",
     "url": "https://qiita.com/k7a/items/26d7a22233ecdf48fed8",
-    "likes_count": 1072,
+    "likes_count": 1074,
     "created_at": "2016-03-14T00:11:37+09:00",
     "updated_at": "2016-03-15T20:42:35+09:00",
     "id": "k7a"
@@ -122,7 +122,7 @@
   {
     "title": "pythonの内包表記を少し詳しく",
     "url": "https://qiita.com/y__sama/items/a2c458de97c4aa5a98e7",
-    "likes_count": 942,
+    "likes_count": 944,
     "created_at": "2016-03-14T20:39:02+09:00",
     "updated_at": "2018-01-02T14:52:54+09:00",
     "id": "y__sama"
@@ -178,7 +178,7 @@
   {
     "title": "クラウドサービスIBM Bluemixを無料で使うノウハウまとめ",
     "url": "https://qiita.com/zuhito/items/86e7ad47d14937d3e9b6",
-    "likes_count": 664,
+    "likes_count": 663,
     "created_at": "2016-03-29T21:58:41+09:00",
     "updated_at": "2018-07-29T23:00:19+09:00",
     "id": "zuhito"
@@ -306,7 +306,7 @@
   {
     "title": "TypeScriptを使ってReactのチュートリアルを進めると捗るかなと思った(実際捗る)",
     "url": "https://qiita.com/m0a/items/d723259cdeebe382b5f6",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2016-03-16T00:18:13+09:00",
     "updated_at": "2020-03-22T16:25:09+09:00",
     "id": "m0a"
@@ -330,7 +330,7 @@
   {
     "title": "Bundlerの使い方",
     "url": "https://qiita.com/oshou/items/6283c2315dc7dd244aef",
-    "likes_count": 448,
+    "likes_count": 449,
     "created_at": "2016-03-28T00:21:17+09:00",
     "updated_at": "2017-02-03T18:11:09+09:00",
     "id": "oshou"
@@ -512,20 +512,20 @@
     "id": "nownabe"
   },
   {
-    "title": "Go の echo ってWebサーバーでサクッと REST しちゃう",
-    "url": "https://qiita.com/ezaki/items/62e806ae42828bb3567a",
-    "likes_count": 339,
-    "created_at": "2016-03-14T21:32:37+09:00",
-    "updated_at": "2019-12-12T10:45:01+09:00",
-    "id": "ezaki"
-  },
-  {
     "title": "ディープラーニング（TensorFlow）を使用した株価予想",
     "url": "https://qiita.com/yai/items/5ec5bbfbcc53c9770c40",
     "likes_count": 339,
     "created_at": "2016-03-24T20:37:18+09:00",
     "updated_at": "2016-03-28T14:42:20+09:00",
     "id": "yai"
+  },
+  {
+    "title": "Go の echo ってWebサーバーでサクッと REST しちゃう",
+    "url": "https://qiita.com/ezaki/items/62e806ae42828bb3567a",
+    "likes_count": 338,
+    "created_at": "2016-03-14T21:32:37+09:00",
+    "updated_at": "2019-12-12T10:45:01+09:00",
+    "id": "ezaki"
   },
   {
     "title": "データサイエンティストに向けたコーディング環境Jupyter Notebookの勧め",
@@ -554,7 +554,7 @@
   {
     "title": "WordPressで3000万PV/月のサイトをさくらのクラウドに構築した話",
     "url": "https://qiita.com/yousan/items/bf0bb0a2758f297585cc",
-    "likes_count": 330,
+    "likes_count": 329,
     "created_at": "2016-03-21T12:05:33+09:00",
     "updated_at": "2016-03-29T15:30:45+09:00",
     "id": "yousan"
@@ -562,7 +562,7 @@
   {
     "title": "kubernetes : kubectlコマンド一覧",
     "url": "https://qiita.com/suzukihi724/items/241f7241d297a2d4a55c",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2016-03-06T10:35:19+09:00",
     "updated_at": "2020-08-14T08:56:05+09:00",
     "id": "suzukihi724"
@@ -626,7 +626,7 @@
   {
     "title": "wgetでこういう時はこうする!!",
     "url": "https://qiita.com/hirohiro77/items/b774908436ec032df719",
-    "likes_count": 285,
+    "likes_count": 286,
     "created_at": "2016-03-07T14:47:05+09:00",
     "updated_at": "2019-01-07T20:51:05+09:00",
     "id": "hirohiro77"

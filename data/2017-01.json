@@ -18,7 +18,7 @@
   {
     "title": "機械学習をゼロから1ヵ月間勉強し続けた結果",
     "url": "https://qiita.com/junichiro/items/3457e33e502086a200f1",
-    "likes_count": 1072,
+    "likes_count": 1073,
     "created_at": "2017-01-10T17:57:08+09:00",
     "updated_at": "2020-11-24T23:30:20+09:00",
     "id": "junichiro"
@@ -26,7 +26,7 @@
   {
     "title": "辛くない、英語で会話できるようになるまでのお金のかからない楽しい英語勉強法、エンジニアこそ英語",
     "url": "https://qiita.com/masalennon/items/96adc909ef0b71f85d6a",
-    "likes_count": 1067,
+    "likes_count": 1068,
     "created_at": "2017-01-17T08:40:00+09:00",
     "updated_at": "2019-11-07T23:37:33+09:00",
     "id": "masalennon"
@@ -50,7 +50,7 @@
   {
     "title": "Qiita マークダウン記法 一覧表・チートシート",
     "url": "https://qiita.com/kamorits/items/6f342da395ad57468ae3",
-    "likes_count": 981,
+    "likes_count": 983,
     "created_at": "2017-01-18T13:43:38+09:00",
     "updated_at": "2020-04-29T16:50:51+09:00",
     "id": "kamorits"
@@ -170,7 +170,7 @@
   {
     "title": "TypeScriptチュートリアル① -環境構築編-",
     "url": "https://qiita.com/ochiochi/items/efdaa0ae7d8c972c8103",
-    "likes_count": 503,
+    "likes_count": 504,
     "created_at": "2017-01-19T12:15:12+09:00",
     "updated_at": "2018-03-20T15:32:03+09:00",
     "id": "ochiochi"
@@ -266,10 +266,18 @@
   {
     "title": "OAuth 2.0 の解説サイトを漁る前に",
     "url": "https://qiita.com/kojisaiki/items/48adf59d5d634fd330af",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2017-01-30T21:13:24+09:00",
     "updated_at": "2020-03-11T12:59:51+09:00",
     "id": "kojisaiki"
+  },
+  {
+    "title": "CASE式で条件分岐をSQL文に任せる",
+    "url": "https://qiita.com/sfp_waterwalker/items/acc7f95f6ab5aa5412f3",
+    "likes_count": 399,
+    "created_at": "2017-01-18T20:21:41+09:00",
+    "updated_at": "2020-08-19T20:35:22+09:00",
+    "id": "sfp_waterwalker"
   },
   {
     "title": "機械学習で精度が出ない時にやることまとめ",
@@ -278,14 +286,6 @@
     "created_at": "2017-01-10T11:25:21+09:00",
     "updated_at": "2019-05-29T17:32:44+09:00",
     "id": "junichiro"
-  },
-  {
-    "title": "CASE式で条件分岐をSQL文に任せる",
-    "url": "https://qiita.com/sfp_waterwalker/items/acc7f95f6ab5aa5412f3",
-    "likes_count": 398,
-    "created_at": "2017-01-18T20:21:41+09:00",
-    "updated_at": "2020-08-19T20:35:22+09:00",
-    "id": "sfp_waterwalker"
   },
   {
     "title": "Python Kivyの使い方① ～Kv Languageの基本～",
@@ -346,7 +346,7 @@
   {
     "title": "git rebase についてまとめてみた",
     "url": "https://qiita.com/KTakata/items/d33185fc0457c08654a5",
-    "likes_count": 349,
+    "likes_count": 350,
     "created_at": "2017-01-17T19:56:41+09:00",
     "updated_at": "2020-01-22T09:15:19+09:00",
     "id": "KTakata"
@@ -354,7 +354,7 @@
   {
     "title": "railsで多対多のアソシエーションの作り方と、出来ること",
     "url": "https://qiita.com/Kohei_Kishimoto0214/items/cb9a3d3da57708fb52c9",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2017-01-19T13:34:56+09:00",
     "updated_at": "2017-06-26T18:27:04+09:00",
     "id": "Kohei_Kishimoto0214"
@@ -442,7 +442,7 @@
   {
     "title": "DockerでポータブルなLinux開発環境(GUI付き)を構築する",
     "url": "https://qiita.com/gitcell/items/8b1f154edc26def7ecce",
-    "likes_count": 228,
+    "likes_count": 229,
     "created_at": "2017-01-09T11:01:16+09:00",
     "updated_at": "2017-01-11T10:06:32+09:00",
     "id": "gitcell"
