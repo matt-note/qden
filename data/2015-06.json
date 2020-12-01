@@ -162,7 +162,7 @@
   {
     "title": "良いコードを書く技術（まとめ）",
     "url": "https://qiita.com/NoriakiOshita/items/e60ab5bb01b90d927ae5",
-    "likes_count": 648,
+    "likes_count": 649,
     "created_at": "2015-06-18T23:40:21+09:00",
     "updated_at": "2020-03-26T07:28:53+09:00",
     "id": "NoriakiOshita"
@@ -192,20 +192,20 @@
     "id": "konta220"
   },
   {
+    "title": "JavaScript つい忘れてしまう配列のソート方法",
+    "url": "https://qiita.com/PianoScoreJP/items/f0ff7345229871039672",
+    "likes_count": 562,
+    "created_at": "2015-06-15T11:12:46+09:00",
+    "updated_at": "2015-06-15T15:01:10+09:00",
+    "id": "PianoScoreJP"
+  },
+  {
     "title": "ssh公開鍵認証設定まとめ",
     "url": "https://qiita.com/ir-yk/items/af8550fea92b5c5f7fca",
     "likes_count": 562,
     "created_at": "2015-06-30T21:40:35+09:00",
     "updated_at": "2019-06-11T11:51:16+09:00",
     "id": "ir-yk"
-  },
-  {
-    "title": "JavaScript つい忘れてしまう配列のソート方法",
-    "url": "https://qiita.com/PianoScoreJP/items/f0ff7345229871039672",
-    "likes_count": 561,
-    "created_at": "2015-06-15T11:12:46+09:00",
-    "updated_at": "2015-06-15T15:01:10+09:00",
-    "id": "PianoScoreJP"
   },
   {
     "title": "言語別：パスワード向けの正規表現",
@@ -288,20 +288,20 @@
     "id": "matsujun"
   },
   {
+    "title": "設定ファイル記述言語 TOML",
+    "url": "https://qiita.com/b4b4r07/items/77c327742fc2256d6cbe",
+    "likes_count": 439,
+    "created_at": "2015-06-12T15:36:05+09:00",
+    "updated_at": "2020-04-07T13:56:49+09:00",
+    "id": "b4b4r07"
+  },
+  {
     "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
     "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
     "likes_count": 439,
     "created_at": "2015-06-18T14:31:26+09:00",
     "updated_at": "2020-02-03T08:43:46+09:00",
     "id": "uzresk"
-  },
-  {
-    "title": "設定ファイル記述言語 TOML",
-    "url": "https://qiita.com/b4b4r07/items/77c327742fc2256d6cbe",
-    "likes_count": 438,
-    "created_at": "2015-06-12T15:36:05+09:00",
-    "updated_at": "2020-04-07T13:56:49+09:00",
-    "id": "b4b4r07"
   },
   {
     "title": "デキる人に見えるズルい仕事テクニック",
@@ -346,7 +346,7 @@
   {
     "title": "依存性注入(DI)の解説とやり方",
     "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2015-06-21T16:57:46+09:00",
     "updated_at": "2017-11-28T22:04:50+09:00",
     "id": "1000k"
@@ -370,10 +370,18 @@
   {
     "title": "Railsでdeviseひとつで複数モデルを管理しよう",
     "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2015-06-27T22:31:44+09:00",
     "updated_at": "2015-06-27T22:34:35+09:00",
     "id": "Yama-to"
+  },
+  {
+    "title": "ActiveRecordで生SQLを使いたいときに便利なメソッド達",
+    "url": "https://qiita.com/yut_h1979/items/4cb3d9a3b3fc87ca0435",
+    "likes_count": 362,
+    "created_at": "2015-06-28T10:43:57+09:00",
+    "updated_at": "2015-06-28T10:43:57+09:00",
+    "id": "yut_h1979"
   },
   {
     "title": "新米エンジニア(アプリ・インフラエンジニア問わず)に知っておいてほしいトラブルシューティング入門 はじめの一歩編",
@@ -382,14 +390,6 @@
     "created_at": "2015-06-15T15:22:23+09:00",
     "updated_at": "2015-06-24T17:53:36+09:00",
     "id": "keigodasu"
-  },
-  {
-    "title": "ActiveRecordで生SQLを使いたいときに便利なメソッド達",
-    "url": "https://qiita.com/yut_h1979/items/4cb3d9a3b3fc87ca0435",
-    "likes_count": 361,
-    "created_at": "2015-06-28T10:43:57+09:00",
-    "updated_at": "2015-06-28T10:43:57+09:00",
-    "id": "yut_h1979"
   },
   {
     "title": "javascriptイディオム集",
@@ -434,7 +434,7 @@
   {
     "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
     "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2015-06-10T07:55:27+09:00",
     "updated_at": "2015-06-10T11:36:54+09:00",
     "id": "jnchito"
@@ -458,7 +458,7 @@
   {
     "title": "まずはここから！Linuxサーバでカジュアルに作業ログを取得する方法",
     "url": "https://qiita.com/keigodasu/items/3eebbc079274ad8dd2c2",
-    "likes_count": 324,
+    "likes_count": 325,
     "created_at": "2015-06-24T13:52:06+09:00",
     "updated_at": "2015-06-25T08:33:55+09:00",
     "id": "keigodasu"
@@ -474,7 +474,7 @@
   {
     "title": "Qiita/Github/Slack/Discord 絵文字一覧",
     "url": "https://qiita.com/yamadashy/items/ae673f2bae8f1525b6af",
-    "likes_count": 297,
+    "likes_count": 296,
     "created_at": "2015-06-16T22:26:16+09:00",
     "updated_at": "2018-11-21T15:45:06+09:00",
     "id": "yamadashy"
