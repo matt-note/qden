@@ -17,10 +17,9 @@ while [ 1 ] ; do
 
   echo "*** "$TEMP_YM" ***"
 
-  # 一旦、ファイル作成を確認
-  # 欲しい期間のデータを取得できるか確認
+  # データ取得
   curl -G \
-    --data-urlencode "query=created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>262" \
+    --data-urlencode "query=created:>=$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>=262" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
     --silent \

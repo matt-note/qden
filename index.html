@@ -30,6 +30,7 @@
   .nav {
     margin-top: 43px;
     margin-left: 18px;
+    border-left: solid 1px;
   }
   .nav a {
     display: inline-block;
@@ -52,7 +53,7 @@
     margin-bottom: 12px;
   }
   .nav p {
-    margin-top: 6px;
+    margin-top: 12px;
   }
   .nav-icon-top::before {
     content: "●";
@@ -199,8 +200,8 @@
 
       sidebar.insertBefore(sideATag, sidebar.firstChild);
 
-      // 12月で年を表示する
-      if (startDate.getMonth() == 0) {
+      // ためし
+      if (startDate.getMonth() == 11) {
         let sidePTag = document.createElement("p");
         sidePTag.textContent = startDate.getFullYear() - 1 + "年";
         sidePTag.className = "nav-icon-" + counter % 6;  // 0〜5の6つの色で分ける
