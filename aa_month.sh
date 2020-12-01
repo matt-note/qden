@@ -19,7 +19,7 @@ while [ 1 ] ; do
 
   # データ取得。Qiitaでは「以上」の検索ができないっぽいので、「同日+より多い日付」で検索。
   curl -G \
-    --data-urlencode "created:$TEMP_YM created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
+    --data-urlencode "created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
     --silent \
