@@ -13,13 +13,14 @@ while [ 1 ] ; do
   fi
 
   # 月を1加算
-  TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
+  TEMP_YM=`date -d "$TEMP_YM -1 days + 1 month" "+%Y-%m-%d"`
 
   echo "*** "$TEMP_YM" ***"
 
-  # データ取得
+  # Qiitaでは「以上」の検索ができないっぽい。
+  # つまり、月初1日のデータを取得するには、created:> で月末を指定する必要がある。
   curl -G \
-    --data-urlencode "query=created:>=$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>=262" \
+    --data-urlencode "query=created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
     --silent \
