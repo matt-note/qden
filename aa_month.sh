@@ -13,9 +13,9 @@ while [ 1 ] ; do
   fi
 
   # 月を1加算して月末の日付となるように設定
-  TEMP_YM=`date -d "$TEMP_YM + 1 month - 1 days" "+%Y-%m-%d"`
-
-  echo "*** 1: "$TEMP_YM" ***"
+  #TEMP_YM=`date -d "$TEMP_YM + 1 month - 1 days" "+%Y-%m-%d"`
+  TEMP_YM=`date -d "$TEMP_YM + 1 month" "+%Y-%m-%d"` # いったん、うまく行った時のやつで動かす
+  #echo "*** 1: "$TEMP_YM" ***"
 
   # データ取得。Qiitaは「以上」の検索ができないっぽい。
   curl -G \
@@ -24,10 +24,10 @@ while [ 1 ] ; do
     --data-urlencode "per_page=100" \
     --silent \
   -H 'Authorization: Bearer '$QIITA_TOKEN 'https://qiita.com/api/v2/items' | \
-  jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > data/$(date -d "$TEMP_YM +1 day" "+%Y-%m" | cut -c 1-7).json
+  jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > data/$(date -d "$TEMP_YM" "+%Y-%m").json
 
   # 月初に戻しておく。
-  TEMP_YM=`date -d "$TEMP_YM + 1 days" "+%Y-%m-%d"`
+  #TEMP_YM=`date -d "$TEMP_YM + 1 days" "+%Y-%m-%d"`
 
-  echo "*** 2: "$TEMP_YM" ***"
+  #echo "*** 2: "$TEMP_YM" ***"
 done
