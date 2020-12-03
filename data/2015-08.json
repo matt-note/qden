@@ -2,7 +2,7 @@
   {
     "title": "Cookieとセッションをちゃんと理解する",
     "url": "https://qiita.com/hththt/items/07136ad74127999df271",
-    "likes_count": 2138,
+    "likes_count": 2142,
     "created_at": "2015-08-07T19:37:58+09:00",
     "updated_at": "2020-01-20T12:54:29+09:00",
     "id": "hththt"
@@ -26,7 +26,7 @@
   {
     "title": "ターミナルのディレクトリ移動を高速化する",
     "url": "https://qiita.com/b4b4r07/items/2cf90da00a4c2c7b7e60",
-    "likes_count": 1119,
+    "likes_count": 1120,
     "created_at": "2015-08-07T19:43:53+09:00",
     "updated_at": "2016-02-29T17:53:30+09:00",
     "id": "b4b4r07"
@@ -42,7 +42,7 @@
   {
     "title": "プログラミングスタイルガイドのスタイルガイド",
     "url": "https://qiita.com/yugui/items/960b0da38a15c4d6917b",
-    "likes_count": 941,
+    "likes_count": 942,
     "created_at": "2015-08-25T23:19:44+09:00",
     "updated_at": "2018-12-15T07:51:52+09:00",
     "id": "yugui"
@@ -82,7 +82,7 @@
   {
     "title": "Linuxの対話がめんどくさい?そんな時こそ自動化だ！-expect編-",
     "url": "https://qiita.com/ine1127/items/cd6bc91174635016db9b",
-    "likes_count": 750,
+    "likes_count": 751,
     "created_at": "2015-08-08T14:58:15+09:00",
     "updated_at": "2017-11-20T13:13:57+09:00",
     "id": "ine1127"
@@ -98,7 +98,7 @@
   {
     "title": "JavaScript の イテレータ を極める！",
     "url": "https://qiita.com/kura07/items/cf168a7ea20e8c2554c6",
-    "likes_count": 715,
+    "likes_count": 716,
     "created_at": "2015-08-16T20:51:50+09:00",
     "updated_at": "2017-03-14T00:53:13+09:00",
     "id": "kura07"
@@ -122,7 +122,7 @@
   {
     "title": "JavaScript の ジェネレータ を極める！",
     "url": "https://qiita.com/kura07/items/d1a57ea64ef5c3de8528",
-    "likes_count": 649,
+    "likes_count": 650,
     "created_at": "2015-08-16T20:52:05+09:00",
     "updated_at": "2017-03-14T00:39:44+09:00",
     "id": "kura07"
@@ -146,7 +146,7 @@
   {
     "title": "package.json のチルダ(~) とキャレット(^)",
     "url": "https://qiita.com/sotarok/items/4ebd4cfedab186355867",
-    "likes_count": 586,
+    "likes_count": 587,
     "created_at": "2015-08-20T10:42:26+09:00",
     "updated_at": "2016-08-01T11:49:47+09:00",
     "id": "sotarok"
@@ -178,7 +178,7 @@
   {
     "title": "これが最強のMVC(iOS)",
     "url": "https://qiita.com/koitaro/items/b3a924245fd72f22871a",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2015-08-29T16:02:27+09:00",
     "updated_at": "2015-09-01T17:41:07+09:00",
     "id": "koitaro"
@@ -290,7 +290,7 @@
   {
     "title": "プログラマー初学の人へ61の質問",
     "url": "https://qiita.com/syou007/items/3e0c14512ee29659ec82",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2015-08-27T10:40:44+09:00",
     "updated_at": "2016-10-05T12:24:07+09:00",
     "id": "syou007"
@@ -306,7 +306,7 @@
   {
     "title": "SVGをcss/jsで操作するときに知っておきたいこと",
     "url": "https://qiita.com/nekoneko-wanwan/items/26bf366c17a6f240fccd",
-    "likes_count": 288,
+    "likes_count": 289,
     "created_at": "2015-08-26T18:38:43+09:00",
     "updated_at": "2017-02-10T00:43:27+09:00",
     "id": "nekoneko-wanwan"
@@ -318,6 +318,14 @@
     "created_at": "2015-08-02T19:34:32+09:00",
     "updated_at": "2016-04-18T11:08:27+09:00",
     "id": "snowsunny"
+  },
+  {
+    "title": "【Android】RecyclerViewの基本的な実装",
+    "url": "https://qiita.com/HideMatsu/items/a9ab48608e4f681d31fe",
+    "likes_count": 284,
+    "created_at": "2015-08-13T12:14:41+09:00",
+    "updated_at": "2016-08-24T20:10:37+09:00",
+    "id": "HideMatsu"
   },
   {
     "title": "モナドについてSwiftで説明してみた",
@@ -342,14 +350,6 @@
     "created_at": "2015-08-09T23:42:34+09:00",
     "updated_at": "2017-12-19T08:55:21+09:00",
     "id": "shikato"
-  },
-  {
-    "title": "【Android】RecyclerViewの基本的な実装",
-    "url": "https://qiita.com/HideMatsu/items/a9ab48608e4f681d31fe",
-    "likes_count": 283,
-    "created_at": "2015-08-13T12:14:41+09:00",
-    "updated_at": "2016-08-24T20:10:37+09:00",
-    "id": "HideMatsu"
   },
   {
     "title": "Electron + Mithrilで、ふつうのデスクトップアプリを作る",
@@ -378,7 +378,7 @@
   {
     "title": "matplotlibでリアルタイム描画",
     "url": "https://qiita.com/hausen6/items/b1b54f7325745ae43e47",
-    "likes_count": 274,
+    "likes_count": 275,
     "created_at": "2015-08-04T14:21:35+09:00",
     "updated_at": "2016-01-12T03:25:00+09:00",
     "id": "hausen6"
