@@ -13,7 +13,7 @@ while [ 1 ] ; do
   fi
 
   # 月を1加算して月末の日付となるように設定
-  TEMP_YM=`date -d "$TEMP_YM + 1 month - 1 days" "+%Y-%m-%d"`
+  TEMP_YM=`date -d "$TEMP_YM + 1 month - 1 day" "+%Y-%m-%d"`
   # TEMP_YM=`date -d "$TEMP_YM + 1 month" "+%Y-%m-%d"` # いったん、うまく行った時のやつで動かす
   echo "*** 月初: "$TEMP_YM" ***"
 
@@ -24,7 +24,7 @@ while [ 1 ] ; do
     --data-urlencode "per_page=100" \
     --silent \
   -H 'Authorization: Bearer '$QIITA_TOKEN 'https://qiita.com/api/v2/items' | \
-  jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > data/$(date -d "$TEMP_YM" "+%Y-%m").json
+  jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > data/$(date -d "$TEMP_YM + 1 day" "+%Y-%m").json
 
   # 月初に戻しておく。
   TEMP_YM=`date -d "$TEMP_YM + 1 days" "+%Y-%m-%d"`
