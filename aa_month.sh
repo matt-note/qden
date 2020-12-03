@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # 開始日付と実行時日付を設定
@@ -22,7 +21,7 @@ while [ 1 ] ; do
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
   curl -G \
-    --data-urlencode "query=created:>$(date -d "$TEMP_YM -1 day" "+Y-%m-%d") created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
+    --data-urlencode "query=created:>$(date -d "$TEMP_YM -1 day" "+%Y-%m-%d") created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
     --silent \
