@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2433,
+    "likes_count": 2434,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2322,
+    "likes_count": 2324,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -26,7 +26,7 @@
   {
     "title": "未経験者が認識してなさそうなTIPS",
     "url": "https://qiita.com/Nao9syu/items/0950527548a08ff9d8c9",
-    "likes_count": 1206,
+    "likes_count": 1207,
     "created_at": "2018-01-25T15:48:23+09:00",
     "updated_at": "2018-07-17T09:28:46+09:00",
     "id": "Nao9syu"
@@ -82,7 +82,7 @@
   {
     "title": "Pythonでパワポの説明資料（報告書）を生成する",
     "url": "https://qiita.com/code_440/items/22e8539da465686496d3",
-    "likes_count": 677,
+    "likes_count": 678,
     "created_at": "2018-01-02T20:39:29+09:00",
     "updated_at": "2018-01-02T20:41:50+09:00",
     "id": "code_440"
@@ -90,7 +90,7 @@
   {
     "title": "ノンデザイナーでもイケてるLPを作成する方法",
     "url": "https://qiita.com/teradonburi/items/412f65147525ff34dbbd",
-    "likes_count": 676,
+    "likes_count": 677,
     "created_at": "2018-01-03T12:38:52+09:00",
     "updated_at": "2018-12-24T17:21:21+09:00",
     "id": "teradonburi"
@@ -106,7 +106,7 @@
   {
     "title": "【Codewars】ブラウザでコーディングの基礎からトレーニングできるサイト (ブラウザでvimが使えて32種類のプログラミング言語に対応。4000個以上の問題が投稿されています！)",
     "url": "https://qiita.com/javacommons/items/7c473cda7825ab99e08c",
-    "likes_count": 642,
+    "likes_count": 643,
     "created_at": "2018-01-10T21:26:00+09:00",
     "updated_at": "2020-11-30T17:13:15+09:00",
     "id": "javacommons"
@@ -146,7 +146,7 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 601,
+    "likes_count": 603,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
@@ -154,7 +154,7 @@
   {
     "title": "Googleフォームを自在にカスタマイズする",
     "url": "https://qiita.com/rb6412/items/fa077cbf820faca30598",
-    "likes_count": 585,
+    "likes_count": 587,
     "created_at": "2018-01-30T17:17:25+09:00",
     "updated_at": "2020-02-27T15:04:23+09:00",
     "id": "rb6412"
@@ -226,7 +226,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 443,
+    "likes_count": 445,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -240,20 +240,20 @@
     "id": "alpaca_taichou"
   },
   {
+    "title": "viコマンド（vimコマンド）リファレンス",
+    "url": "https://qiita.com/pe-ta/items/0510bee10bcfd88afeee",
+    "likes_count": 375,
+    "created_at": "2018-01-23T13:50:14+09:00",
+    "updated_at": "2020-04-20T19:10:29+09:00",
+    "id": "pe-ta"
+  },
+  {
     "title": "anyenv + macOS環境構築",
     "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
     "likes_count": 374,
     "created_at": "2018-01-12T14:53:20+09:00",
     "updated_at": "2020-02-08T15:08:52+09:00",
     "id": "rinpa"
-  },
-  {
-    "title": "viコマンド（vimコマンド）リファレンス",
-    "url": "https://qiita.com/pe-ta/items/0510bee10bcfd88afeee",
-    "likes_count": 373,
-    "created_at": "2018-01-23T13:50:14+09:00",
-    "updated_at": "2020-04-20T19:10:29+09:00",
-    "id": "pe-ta"
   },
   {
     "title": "Swiftでブロックチェーンを実装してみる",
@@ -288,6 +288,22 @@
     "id": "ishizakiiii"
   },
   {
+    "title": "Railsのファットモデル問題に対処する前に読んでほしい記事",
+    "url": "https://qiita.com/klriutsa/items/8d7381f437c225c64a5f",
+    "likes_count": 351,
+    "created_at": "2018-01-22T16:50:13+09:00",
+    "updated_at": "2018-01-23T10:36:06+09:00",
+    "id": "klriutsa"
+  },
+  {
+    "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
+    "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
+    "likes_count": 350,
+    "created_at": "2018-01-15T07:18:08+09:00",
+    "updated_at": "2019-11-04T16:49:32+09:00",
+    "id": "Nossa"
+  },
+  {
     "title": "PythonでTwitter API を利用していろいろ遊んでみる",
     "url": "https://qiita.com/bakira/items/00743d10ec42993f85eb",
     "likes_count": 349,
@@ -296,25 +312,9 @@
     "id": "bakira"
   },
   {
-    "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
-    "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
-    "likes_count": 349,
-    "created_at": "2018-01-15T07:18:08+09:00",
-    "updated_at": "2019-11-04T16:49:32+09:00",
-    "id": "Nossa"
-  },
-  {
-    "title": "Railsのファットモデル問題に対処する前に読んでほしい記事",
-    "url": "https://qiita.com/klriutsa/items/8d7381f437c225c64a5f",
-    "likes_count": 349,
-    "created_at": "2018-01-22T16:50:13+09:00",
-    "updated_at": "2018-01-23T10:36:06+09:00",
-    "id": "klriutsa"
-  },
-  {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 347,
+    "likes_count": 349,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
@@ -346,7 +346,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
@@ -354,7 +354,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 293,
+    "likes_count": 294,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"

@@ -2,7 +2,7 @@
   {
     "title": "プログラマが独立・起業する時によくするミスと対策 まとめ",
     "url": "https://qiita.com/hshimo/items/776e3ca62be51c3bdc89",
-    "likes_count": 2793,
+    "likes_count": 2795,
     "created_at": "2014-04-07T15:22:02+09:00",
     "updated_at": "2020-06-11T15:44:42+09:00",
     "id": "hshimo"
@@ -18,7 +18,7 @@
   {
     "title": "本当に正しい .bashrc と .bash_profile の使ひ分け",
     "url": "https://qiita.com/magicant/items/d3bb7ea1192e63fba850",
-    "likes_count": 1730,
+    "likes_count": 1733,
     "created_at": "2014-04-16T10:49:22+09:00",
     "updated_at": "2019-06-07T13:58:46+09:00",
     "id": "magicant"
@@ -50,7 +50,7 @@
   {
     "title": "Pythonのデコレータを理解するための12Step",
     "url": "https://qiita.com/_rdtr/items/d3bc1a8d4b7eb375c368",
-    "likes_count": 1202,
+    "likes_count": 1206,
     "created_at": "2014-04-07T00:08:16+09:00",
     "updated_at": "2018-08-23T13:59:06+09:00",
     "id": "_rdtr"
@@ -114,7 +114,7 @@
   {
     "title": "iOSライブラリ管理ツール「CocoaPods」の使用方法",
     "url": "https://qiita.com/satoken0417/items/479bcdf91cff2634ffb1",
-    "likes_count": 747,
+    "likes_count": 748,
     "created_at": "2014-04-07T19:23:08+09:00",
     "updated_at": "2017-03-23T12:22:32+09:00",
     "id": "satoken0417"
@@ -122,7 +122,7 @@
   {
     "title": "ぜんぶTIME_WAITのせいだ！",
     "url": "https://qiita.com/kuni-nakaji/items/c07004c7d9e5bb683bc2",
-    "likes_count": 725,
+    "likes_count": 726,
     "created_at": "2014-04-15T02:39:18+09:00",
     "updated_at": "2018-01-04T17:16:48+09:00",
     "id": "kuni-nakaji"
@@ -144,6 +144,14 @@
     "id": "kou"
   },
   {
+    "title": "IPythonの使い方",
+    "url": "https://qiita.com/5t111111/items/7852e13ace6de288042f",
+    "likes_count": 582,
+    "created_at": "2014-04-15T22:44:37+09:00",
+    "updated_at": "2014-04-15T22:48:25+09:00",
+    "id": "5t111111"
+  },
+  {
     "title": "【個人メモ】CentOS環境に登録するyumリポジトリ",
     "url": "https://qiita.com/futoase/items/0ca6b61cb88194c90367",
     "likes_count": 581,
@@ -152,17 +160,9 @@
     "id": "futoase"
   },
   {
-    "title": "IPythonの使い方",
-    "url": "https://qiita.com/5t111111/items/7852e13ace6de288042f",
-    "likes_count": 581,
-    "created_at": "2014-04-15T22:44:37+09:00",
-    "updated_at": "2014-04-15T22:48:25+09:00",
-    "id": "5t111111"
-  },
-  {
     "title": "【Linux】タイムゾーン(Timezone)の変更",
     "url": "https://qiita.com/azusanakano/items/b39bd22504313884a7c3",
-    "likes_count": 573,
+    "likes_count": 574,
     "created_at": "2014-04-04T07:12:09+09:00",
     "updated_at": "2015-12-21T16:46:33+09:00",
     "id": "azusanakano"
@@ -186,7 +186,7 @@
   {
     "title": "Atomエディタで使って気に入ったpackageとか",
     "url": "https://qiita.com/horimislime/items/72de9580125151ac6af0",
-    "likes_count": 532,
+    "likes_count": 533,
     "created_at": "2014-04-09T14:01:11+09:00",
     "updated_at": "2014-04-09T14:01:11+09:00",
     "id": "horimislime"
@@ -210,7 +210,7 @@
   {
     "title": "もう参照渡しとは言わせない",
     "url": "https://qiita.com/mdstoy/items/2ef4ada6f88341466783",
-    "likes_count": 478,
+    "likes_count": 479,
     "created_at": "2014-04-25T00:34:52+09:00",
     "updated_at": "2020-08-06T00:51:33+09:00",
     "id": "mdstoy"
@@ -314,7 +314,7 @@
   {
     "title": "Railsのセキュリティ対策で調べた事",
     "url": "https://qiita.com/sutetotanuki/items/5eda6bbb5532dd64529a",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2014-04-21T17:07:30+09:00",
     "updated_at": "2019-06-11T10:34:05+09:00",
     "id": "sutetotanuki"
@@ -354,7 +354,7 @@
   {
     "title": "Express 4 をはじめよう",
     "url": "https://qiita.com/hoshi-takanori/items/2128a6cf1dbb533379a2",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2014-04-15T16:57:51+09:00",
     "updated_at": "2014-07-07T00:17:36+09:00",
     "id": "hoshi-takanori"
@@ -378,7 +378,7 @@
   {
     "title": "Makefile ことはじめ",
     "url": "https://qiita.com/kasei-san/items/ad25df63260e86c5cc71",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2014-04-15T09:52:08+09:00",
     "updated_at": "2015-01-22T12:37:28+09:00",
     "id": "kasei-san"
