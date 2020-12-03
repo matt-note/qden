@@ -200,7 +200,7 @@
       sidebar.insertBefore(sideATag, sidebar.firstChild);
 
       // ためし
-      if (startDate.getMonth() == 11) {
+      if (startDate.getMonth() == 0) {
         let sidePTag = document.createElement("p");
         sidePTag.textContent = startDate.getFullYear() - 1 + "年";
         sidePTag.className = "nav-icon-" + counter % 6;  // 0〜5の6つの色で分ける

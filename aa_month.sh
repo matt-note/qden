@@ -16,12 +16,13 @@ while [ 1 ] ; do
   # 月を1加算
   TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
 
-  echo "*** "$TEMP_YM" ***"
+  # echo "*** "$TEMP_YM" ***"
+  echo $(date -d "$TEMP_YM -1 day" "+Y-%m-%d")
 
   # 一旦、ファイル作成を確認
   # 欲しい期間のデータを取得できるか確認
   curl -G \
-    --data-urlencode "query=created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
+    --data-urlencode "query=created:>$(date -d "$TEMP_YM -1 day" "+Y-%m-%d") created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
     --silent \
