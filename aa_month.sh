@@ -13,13 +13,14 @@ while [ 1 ] ; do
   fi
 
   # 月を1加算して月末の日付となるように設定
-  #TEMP_YM=`date -d "$TEMP_YM + 1 month - 1 days" "+%Y-%m-%d"`
-  TEMP_YM=`date -d "$TEMP_YM + 1 month" "+%Y-%m-%d"` # いったん、うまく行った時のやつで動かす
-  #echo "*** 1: "$TEMP_YM" ***"
+  TEMP_YM=`date -d "$TEMP_YM + 1 month - 1 days" "+%Y-%m-%d"`
+  # TEMP_YM=`date -d "$TEMP_YM + 1 month" "+%Y-%m-%d"` # いったん、うまく行った時のやつで動かす
+  echo "*** 月初: "$TEMP_YM" ***"
 
   # データ取得。Qiitaは「以上」の検索ができないっぽい。
   curl -G \
-    --data-urlencode "created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
+    # --data-urlencode "created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
+    --data-urlencode "query=created:>$TEMP_YM created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261"
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
     --silent \
@@ -27,7 +28,7 @@ while [ 1 ] ; do
   jq '. | map({ title: .title?, url: .url?, likes_count: .likes_count?, created_at: .created_at?, updated_at: .updated_at?, id: .user.id?}) | sort_by(.likes_count) | reverse' > data/$(date -d "$TEMP_YM" "+%Y-%m").json
 
   # 月初に戻しておく。
-  #TEMP_YM=`date -d "$TEMP_YM + 1 days" "+%Y-%m-%d"`
+  TEMP_YM=`date -d "$TEMP_YM + 1 days" "+%Y-%m-%d"`
 
-  #echo "*** 2: "$TEMP_YM" ***"
+  echo "*** 月末: "$TEMP_YM" ***"
 done
