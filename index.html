@@ -210,10 +210,12 @@
       }
     }
     // ループ後に今年の年を追加
-    const thisYear = document.createElement("p");
-    thisYear.textContent = new Date().getFullYear() + "年";
-    thisYear.className = "nav-icon-top";
-    sidebar.insertBefore(thisYear, sidebar.firstChild);
+    if (startDate.getMonth() != 0) {
+      const thisYear = document.createElement("p");
+      thisYear.textContent = new Date().getFullYear() + "年";
+      thisYear.className = "nav-icon-top";
+      sidebar.insertBefore(thisYear, sidebar.firstChild);
+    }
 
     // サイドバーのリンクをクリックした時のデータ表示。サイドバー描画後にこのコードを配置しないとエラーになる。
     document.querySelectorAll("#sidebar > a").forEach(function(a) {
