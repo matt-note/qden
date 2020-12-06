@@ -2,7 +2,7 @@
   {
     "title": "2019年のDevOps/MLOpsエンジニアの標準的スキルセット",
     "url": "https://qiita.com/poly_soft/items/8dd105341869f93b129c",
-    "likes_count": 1443,
+    "likes_count": 1446,
     "created_at": "2019-08-21T16:57:57+09:00",
     "updated_at": "2019-08-27T14:43:19+09:00",
     "id": "poly_soft"
@@ -10,7 +10,7 @@
   {
     "title": "なんとなく CORS がわかる...はもう終わりにする。",
     "url": "https://qiita.com/att55/items/2154a8aad8bf1409db2b",
-    "likes_count": 1056,
+    "likes_count": 1059,
     "created_at": "2019-08-15T01:24:06+09:00",
     "updated_at": "2020-09-14T10:27:14+09:00",
     "id": "att55"
@@ -26,7 +26,7 @@
   {
     "title": "15年間システム開発業を営んで来た結果の最適解",
     "url": "https://qiita.com/jjaji80/items/b6713ec86079fe053a24",
-    "likes_count": 992,
+    "likes_count": 991,
     "created_at": "2019-08-27T08:51:59+09:00",
     "updated_at": "2019-08-29T17:40:20+09:00",
     "id": "jjaji80"
@@ -50,7 +50,7 @@
   {
     "title": "これで完璧！今さら振り返る CSRF 対策と同一オリジンポリシーの基礎",
     "url": "https://qiita.com/mpyw/items/0595f07736cfa5b1f50c",
-    "likes_count": 817,
+    "likes_count": 818,
     "created_at": "2019-08-31T02:45:11+09:00",
     "updated_at": "2019-09-02T04:09:06+09:00",
     "id": "mpyw"
@@ -98,7 +98,7 @@
   {
     "title": "git switchとrestoreの役割と機能について",
     "url": "https://qiita.com/yukibear/items/4f88a5c0e4b1801ee952",
-    "likes_count": 565,
+    "likes_count": 566,
     "created_at": "2019-08-20T04:02:28+09:00",
     "updated_at": "2020-09-15T03:35:19+09:00",
     "id": "yukibear"
@@ -130,7 +130,7 @@
   {
     "title": "XGBoost論文を丁寧に解説する(1)",
     "url": "https://qiita.com/triwave33/items/aad60f25485a4595b5c8",
-    "likes_count": 550,
+    "likes_count": 551,
     "created_at": "2019-08-08T22:11:19+09:00",
     "updated_at": "2020-10-01T19:28:30+09:00",
     "id": "triwave33"
@@ -232,20 +232,20 @@
     "id": "megumu-u"
   },
   {
-    "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
-    "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
-    "likes_count": 362,
-    "created_at": "2019-08-23T18:43:20+09:00",
-    "updated_at": "2020-08-12T16:41:47+09:00",
-    "id": "tegnike"
-  },
-  {
     "title": "Reactを使ったモダンなフロントエンド開発の環境構築",
     "url": "https://qiita.com/toshi-toma/items/8ee55304f09b5840b9a4",
-    "likes_count": 361,
+    "likes_count": 363,
     "created_at": "2019-08-18T21:30:26+09:00",
     "updated_at": "2019-09-23T10:56:23+09:00",
     "id": "toshi-toma"
+  },
+  {
+    "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
+    "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
+    "likes_count": 363,
+    "created_at": "2019-08-23T18:43:20+09:00",
+    "updated_at": "2020-08-12T16:41:47+09:00",
+    "id": "tegnike"
   },
   {
     "title": "Django実践開発入門",
@@ -258,7 +258,7 @@
   {
     "title": "Vue.jsとCSSアニメーションでラーメンタイマーを作る + Firebaseで簡単公開",
     "url": "https://qiita.com/aocattleya/items/3faa42b5d27a0f608785",
-    "likes_count": 332,
+    "likes_count": 333,
     "created_at": "2019-08-27T19:35:27+09:00",
     "updated_at": "2019-11-14T14:41:53+09:00",
     "id": "aocattleya"
@@ -266,7 +266,7 @@
   {
     "title": "「ただのプログラマ」で終わらないためには",
     "url": "https://qiita.com/sorabin/items/3cae75d4428a96ccbbd3",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2019-08-30T14:44:10+09:00",
     "updated_at": "2019-09-03T14:45:54+09:00",
     "id": "sorabin"
@@ -274,7 +274,7 @@
   {
     "title": "KAGGLEでどこから手を付けていいか分からず学ぶことが多すぎてまとめてみた",
     "url": "https://qiita.com/aokikenichi/items/50dd3f086ef174f61fd6",
-    "likes_count": 304,
+    "likes_count": 305,
     "created_at": "2019-08-04T11:01:00+09:00",
     "updated_at": "2019-08-04T11:01:00+09:00",
     "id": "aokikenichi"
@@ -306,7 +306,7 @@
   {
     "title": "機械学習にとって大切なことは全部MSE(平均二乗誤差)が教えてくれた",
     "url": "https://qiita.com/riversun/items/b691cc0fa8a8a8f42013",
-    "likes_count": 233,
+    "likes_count": 234,
     "created_at": "2019-08-26T07:54:17+09:00",
     "updated_at": "2019-10-06T12:48:20+09:00",
     "id": "riversun"
@@ -314,7 +314,7 @@
   {
     "title": "データサイエンスにオススメの本80冊！",
     "url": "https://qiita.com/Octoparse_Japan/items/1e933122fba3a9c8dbe7",
-    "likes_count": 224,
+    "likes_count": 225,
     "created_at": "2019-08-14T17:46:14+09:00",
     "updated_at": "2020-06-24T15:48:33+09:00",
     "id": "Octoparse_Japan"
