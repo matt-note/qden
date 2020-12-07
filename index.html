@@ -119,6 +119,12 @@
   #ranking li {
     margin-bottom: 10px;
   }
+  #ranking li:first {
+    padding-top: 10px;
+  }
+  #ranking li:last {
+    padding-bottom: 10px;
+  }
   .title > a {
     font-size: 0.9em;
     font-weight: 600;
@@ -126,9 +132,7 @@
   .description {
     font-size: 0.8em;
   }
-  .py-10 {
-    padding: 10px 0;
-  }
+
   footer {
     height: 100px;
   }
@@ -307,13 +311,6 @@
       bottomSpanTag.textContent = "　　■ Updated " + json.updated_at.slice(0, 10);
       bottomPElement.appendChild(bottomSpanTag);
     }
-
-    if (Object.keys(json).length != 0) {
-      olTag.classList.add("py-10");
-    } else {
-      olTag.classList.remove("py-10");
-    }
-    console.log(Object.keys(json).length);
   }
   </script>
 </body>
