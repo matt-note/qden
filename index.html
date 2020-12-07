@@ -308,11 +308,12 @@
       bottomPElement.appendChild(bottomSpanTag);
     }
 
-    olTag.classList.remove("py-10");
     if (Ojbect.keys(json).length != 0) {
       olTag.classList.add("py-10");
+    } else {
+      olTag.classList.remove("py-10");
     }
-    console.log(Ojbect.keys(json).length);
+    console.log(Object.keys(json).length);
   }
   </script>
 </body>
