@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4411,
+    "likes_count": 4415,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3196,
+    "likes_count": 3200,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 1941,
+    "likes_count": 1943,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1736,
+    "likes_count": 1737,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -42,7 +42,7 @@
   {
     "title": "いまさら聞けないLinuxとメモリの基礎＆vmstatの詳しい使い方",
     "url": "https://qiita.com/kunihirotanaka/items/70d43d48757aea79de2d",
-    "likes_count": 1467,
+    "likes_count": 1468,
     "created_at": "2016-12-25T13:48:22+09:00",
     "updated_at": "2016-12-26T11:43:00+09:00",
     "id": "kunihirotanaka"
@@ -58,7 +58,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1317,
+    "likes_count": 1318,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2020-11-28T01:43:38+09:00",
     "id": "soarflat"
@@ -74,7 +74,7 @@
   {
     "title": "次世代監視の大本命！ Prometheus を実運用してみた",
     "url": "https://qiita.com/sugitak/items/ff8f5ad845283c5915d2",
-    "likes_count": 1279,
+    "likes_count": 1280,
     "created_at": "2016-12-09T05:00:44+09:00",
     "updated_at": "2016-12-14T13:48:02+09:00",
     "id": "sugitak"
@@ -82,7 +82,7 @@
   {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1270,
+    "likes_count": 1272,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
@@ -106,7 +106,7 @@
   {
     "title": "初心者がchainerで線画着色してみた。わりとできた。",
     "url": "https://qiita.com/taizan/items/cf77fd37ec3a0bef5d9d",
-    "likes_count": 1049,
+    "likes_count": 1050,
     "created_at": "2016-12-25T17:58:54+09:00",
     "updated_at": "2017-01-31T00:15:46+09:00",
     "id": "taizan"
@@ -114,9 +114,9 @@
   {
     "title": "kubernetes初心者のための入門ハンズオン",
     "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
-    "likes_count": 1002,
+    "likes_count": 1003,
     "created_at": "2016-12-10T00:01:31+09:00",
-    "updated_at": "2019-05-30T18:47:40+09:00",
+    "updated_at": "2020-12-05T20:23:32+09:00",
     "id": "mihirat"
   },
   {
@@ -128,6 +128,14 @@
     "id": "joker1007"
   },
   {
+    "title": "Webhookとは？",
+    "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
+    "likes_count": 853,
+    "created_at": "2016-12-17T12:54:09+09:00",
+    "updated_at": "2020-11-28T01:43:27+09:00",
+    "id": "soarflat"
+  },
+  {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
     "likes_count": 852,
@@ -136,28 +144,20 @@
     "id": "acple@github"
   },
   {
-    "title": "Webhookとは？",
-    "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 850,
-    "created_at": "2016-12-17T12:54:09+09:00",
-    "updated_at": "2020-11-28T01:43:27+09:00",
-    "id": "soarflat"
+    "title": "絵で理解するWord2vecの仕組み",
+    "url": "https://qiita.com/Hironsan/items/11b388575a058dc8a46a",
+    "likes_count": 811,
+    "created_at": "2016-12-10T10:26:38+09:00",
+    "updated_at": "2016-12-10T12:50:54+09:00",
+    "id": "Hironsan"
   },
   {
     "title": "ゆるふわPandasチートシート",
     "url": "https://qiita.com/tanemaki/items/2ed05e258ef4c9e6caac",
-    "likes_count": 809,
+    "likes_count": 810,
     "created_at": "2016-12-06T00:51:42+09:00",
     "updated_at": "2018-06-18T15:35:20+09:00",
     "id": "tanemaki"
-  },
-  {
-    "title": "絵で理解するWord2vecの仕組み",
-    "url": "https://qiita.com/Hironsan/items/11b388575a058dc8a46a",
-    "likes_count": 809,
-    "created_at": "2016-12-10T10:26:38+09:00",
-    "updated_at": "2016-12-10T12:50:54+09:00",
-    "id": "Hironsan"
   },
   {
     "title": "そろそろプログラマーもFPGAを触ってみよう！",
@@ -178,7 +178,7 @@
   {
     "title": "大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察",
     "url": "https://qiita.com/tmknom/items/be5c4b350f561991f2f5",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2016-12-20T18:24:22+09:00",
     "updated_at": "2018-08-12T01:43:05+09:00",
     "id": "tmknom"
@@ -192,20 +192,20 @@
     "id": "eve_yk"
   },
   {
+    "title": "Clean ArchitectureでAPI Serverを構築してみる",
+    "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
+    "likes_count": 715,
+    "created_at": "2016-12-11T00:03:29+09:00",
+    "updated_at": "2019-10-09T11:09:12+09:00",
+    "id": "hirotakan"
+  },
+  {
     "title": "2016年のディープラーニング論文100選",
     "url": "https://qiita.com/sakaiakira/items/9da1edda802c4884865c",
     "likes_count": 711,
     "created_at": "2016-12-11T17:19:10+09:00",
     "updated_at": "2017-12-18T13:16:57+09:00",
     "id": "sakaiakira"
-  },
-  {
-    "title": "Clean ArchitectureでAPI Serverを構築してみる",
-    "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 709,
-    "created_at": "2016-12-11T00:03:29+09:00",
-    "updated_at": "2019-10-09T11:09:12+09:00",
-    "id": "hirotakan"
   },
   {
     "title": "Amazon Dash Buttonを(正しくない方向で)使ってみた",
@@ -226,7 +226,7 @@
   {
     "title": "良いエンジニアを採用するための方法論",
     "url": "https://qiita.com/dorarep/items/b9f7f6ff6e1bc344cf0a",
-    "likes_count": 623,
+    "likes_count": 624,
     "created_at": "2016-12-05T14:14:10+09:00",
     "updated_at": "2020-08-05T22:57:31+09:00",
     "id": "dorarep"
@@ -258,10 +258,18 @@
   {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
+  },
+  {
+    "title": "ようこそ！Electron入門",
+    "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
+    "likes_count": 588,
+    "created_at": "2016-12-28T14:02:01+09:00",
+    "updated_at": "2019-11-22T19:57:05+09:00",
+    "id": "umamichi"
   },
   {
     "title": "原理原則で理解するDocker",
@@ -278,14 +286,6 @@
     "created_at": "2016-12-26T23:43:49+09:00",
     "updated_at": "2020-09-19T11:01:47+09:00",
     "id": "buntafujikawa"
-  },
-  {
-    "title": "ようこそ！Electron入門",
-    "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
-    "likes_count": 585,
-    "created_at": "2016-12-28T14:02:01+09:00",
-    "updated_at": "2019-11-22T19:57:05+09:00",
-    "id": "umamichi"
   },
   {
     "title": "電気工事士の資格を取ってコンセントやスイッチを改造しようぜ",
@@ -306,7 +306,7 @@
   {
     "title": "React Nativeとは何なのか",
     "url": "https://qiita.com/Iwark/items/7c27e919bb71f8b256f6",
-    "likes_count": 561,
+    "likes_count": 562,
     "created_at": "2016-12-02T02:20:35+09:00",
     "updated_at": "2016-12-02T02:20:35+09:00",
     "id": "Iwark"
@@ -314,7 +314,7 @@
   {
     "title": "難しいGitコマンドは、仕組みから理解してみよう",
     "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
-    "likes_count": 555,
+    "likes_count": 556,
     "created_at": "2016-12-22T00:02:20+09:00",
     "updated_at": "2018-11-13T23:20:28+09:00",
     "id": "_ha1f"
@@ -322,7 +322,7 @@
   {
     "title": "Gitのブランチモデルについて",
     "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 546,
+    "likes_count": 547,
     "created_at": "2016-12-05T00:04:34+09:00",
     "updated_at": "2016-12-05T00:12:43+09:00",
     "id": "y-okudera"
@@ -346,7 +346,7 @@
   {
     "title": "React、Angularになじめなかった僕に手を差し伸べてくれたVue.js",
     "url": "https://qiita.com/samuraikun/items/bb2939296bbead341293",
-    "likes_count": 527,
+    "likes_count": 528,
     "created_at": "2016-12-31T00:09:06+09:00",
     "updated_at": "2017-01-09T17:03:57+09:00",
     "id": "samuraikun"
@@ -362,7 +362,7 @@
   {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
-    "likes_count": 503,
+    "likes_count": 508,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
@@ -402,7 +402,7 @@
   {
     "title": "基本/詳細設計って呼び方やめませんか",
     "url": "https://qiita.com/garbagetown/items/a3ae46595f7c49e587a0",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2016-12-14T18:08:06+09:00",
     "updated_at": "2016-12-18T01:24:21+09:00",
     "id": "garbagetown"
@@ -410,7 +410,7 @@
   {
     "title": "転職する時に必ずチェックしたい募集要項",
     "url": "https://qiita.com/ma3tk/items/3336c9a245b86a6c448f",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2016-12-15T00:04:29+09:00",
     "updated_at": "2017-06-12T09:47:31+09:00",
     "id": "ma3tk"
@@ -442,7 +442,7 @@
   {
     "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
     "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
-    "likes_count": 459,
+    "likes_count": 460,
     "created_at": "2016-12-03T15:46:25+09:00",
     "updated_at": "2016-12-03T15:46:25+09:00",
     "id": "inosy22"
@@ -506,7 +506,7 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 403,
+    "likes_count": 405,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
@@ -546,7 +546,7 @@
   {
     "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
     "url": "https://qiita.com/narukun/items/326bd50a78cf34371169",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2016-12-23T18:57:30+09:00",
     "updated_at": "2020-02-06T13:59:09+09:00",
     "id": "narukun"
@@ -680,6 +680,14 @@
     "id": "bl-lia"
   },
   {
+    "title": "firebase realtime database でよく使う rule",
+    "url": "https://qiita.com/mironal/items/b93742e8ef72b3268beb",
+    "likes_count": 301,
+    "created_at": "2016-12-05T00:00:54+09:00",
+    "updated_at": "2017-11-08T09:14:32+09:00",
+    "id": "mironal"
+  },
+  {
     "title": "Docker & Docker-Composeの基本的な使い方",
     "url": "https://qiita.com/koka/items/3d3d4ee5680f92a0ad89",
     "likes_count": 298,
@@ -714,7 +722,7 @@
   {
     "title": "残業したくないあなたに：データ構造とアルゴリズム",
     "url": "https://qiita.com/GushiSnow/items/70765a7cae52c0a1b2b8",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2016-12-26T07:44:45+09:00",
     "updated_at": "2017-04-16T09:17:23+09:00",
     "id": "GushiSnow"
@@ -746,7 +754,7 @@
   {
     "title": "未経験からエンジニアとして働くようになるまでにやったこと、思ったこと",
     "url": "https://qiita.com/suy0n9/items/d1bfbd823d8b6dc562be",
-    "likes_count": 217,
+    "likes_count": 218,
     "created_at": "2016-12-13T12:38:02+09:00",
     "updated_at": "2017-02-17T10:28:03+09:00",
     "id": "suy0n9"

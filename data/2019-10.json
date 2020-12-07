@@ -10,7 +10,7 @@
   {
     "title": "3年かけてたどり着いた英語記事を読むための方法",
     "url": "https://qiita.com/tomoyamachi/items/cdb2ccb78c6c9651e0ab",
-    "likes_count": 2377,
+    "likes_count": 2378,
     "created_at": "2019-10-25T08:12:23+09:00",
     "updated_at": "2019-10-27T03:06:05+09:00",
     "id": "tomoyamachi"
@@ -18,7 +18,7 @@
   {
     "title": "4歳娘「パパ、セッションとCookieってなあに？」",
     "url": "https://qiita.com/Yametaro/items/9b65a21940e001554719",
-    "likes_count": 2079,
+    "likes_count": 2081,
     "created_at": "2019-10-22T22:39:35+09:00",
     "updated_at": "2020-11-10T11:19:53+09:00",
     "id": "Yametaro"
@@ -34,7 +34,7 @@
   {
     "title": "Webエンジニア1年目の自分に捧げたい本・記事を超まとめ",
     "url": "https://qiita.com/virtual_techX/items/35034d28cdb9255367ba",
-    "likes_count": 1746,
+    "likes_count": 1751,
     "created_at": "2019-10-30T15:21:54+09:00",
     "updated_at": "2020-01-09T12:41:10+09:00",
     "id": "virtual_techX"
@@ -130,7 +130,7 @@
   {
     "title": "自称IT企業があまりにITを使わずに嫌になって野に下った俺が紹介するWindowsの自動化の方法",
     "url": "https://qiita.com/mima_ita/items/453bb6c313e459c44689",
-    "likes_count": 810,
+    "likes_count": 812,
     "created_at": "2019-10-17T14:22:20+09:00",
     "updated_at": "2019-10-21T22:29:11+09:00",
     "id": "mima_ita"
@@ -184,19 +184,19 @@
     "id": "uhyo"
   },
   {
+    "title": "【2019年版】UIとUXデザイントレンド",
+    "url": "https://qiita.com/baby-degu/items/c3fc3b038e937112d999",
+    "likes_count": 628,
+    "created_at": "2019-10-06T17:07:48+09:00",
+    "updated_at": "2020-06-06T19:26:02+09:00",
+    "id": "baby-degu"
+  },
+  {
     "title": "今すぐJavaScriptデバッグ効率を上げるconsoleテクニック",
     "url": "https://qiita.com/baby-degu/items/2c5cd103df54206ca401",
     "likes_count": 628,
     "created_at": "2019-10-13T08:58:47+09:00",
     "updated_at": "2020-06-06T19:27:18+09:00",
-    "id": "baby-degu"
-  },
-  {
-    "title": "【2019年版】UIとUXデザイントレンド",
-    "url": "https://qiita.com/baby-degu/items/c3fc3b038e937112d999",
-    "likes_count": 627,
-    "created_at": "2019-10-06T17:07:48+09:00",
-    "updated_at": "2020-06-06T19:26:02+09:00",
     "id": "baby-degu"
   },
   {
@@ -234,7 +234,7 @@
   {
     "title": "JavaScriptの配列操作に役立つ13のヒントとトリック",
     "url": "https://qiita.com/rana_kualu/items/24e5b6009ad831102db4",
-    "likes_count": 536,
+    "likes_count": 537,
     "created_at": "2019-10-28T19:21:05+09:00",
     "updated_at": "2019-10-30T22:53:37+09:00",
     "id": "rana_kualu"
@@ -266,10 +266,18 @@
   {
     "title": "未経験者には全てが黒魔術に見える呪いがある",
     "url": "https://qiita.com/mackey0022/items/73f77873facc22e22c8c",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2019-10-16T08:46:46+09:00",
     "updated_at": "2020-04-10T09:16:57+09:00",
     "id": "mackey0022"
+  },
+  {
+    "title": "Rustはこうやって勉強するといいんじゃないか、という一例",
+    "url": "https://qiita.com/TakaakiFuruse/items/13e9ad9d1efe7e17811c",
+    "likes_count": 470,
+    "created_at": "2019-10-24T11:58:04+09:00",
+    "updated_at": "2020-08-29T10:29:52+09:00",
+    "id": "TakaakiFuruse"
   },
   {
     "title": "Vue.jsを習得するためにやった事 まとめ（随時更新）",
@@ -278,14 +286,6 @@
     "created_at": "2019-10-27T21:15:49+09:00",
     "updated_at": "2020-01-07T16:15:48+09:00",
     "id": "i-ryo"
-  },
-  {
-    "title": "Rustはこうやって勉強するといいんじゃないか、という一例",
-    "url": "https://qiita.com/TakaakiFuruse/items/13e9ad9d1efe7e17811c",
-    "likes_count": 469,
-    "created_at": "2019-10-24T11:58:04+09:00",
-    "updated_at": "2020-08-29T10:29:52+09:00",
-    "id": "TakaakiFuruse"
   },
   {
     "title": "『イラストで読む AI 入門』読書メモ 01 : AI ブームの歴史 (パーセプトロン, バックプロパゲーション, ディープラーニング)",
@@ -298,7 +298,7 @@
   {
     "title": "2019年最強の画像認識モデルEfficientNet解説",
     "url": "https://qiita.com/omiita/items/83643f78baabfa210ab1",
-    "likes_count": 455,
+    "likes_count": 456,
     "created_at": "2019-10-30T18:25:06+09:00",
     "updated_at": "2020-04-21T16:09:21+09:00",
     "id": "omiita"
@@ -346,7 +346,7 @@
   {
     "title": "Tkinterを使うのであればPySimpleGUIを使ってみたらという話",
     "url": "https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2019-10-02T23:49:13+09:00",
     "updated_at": "2020-11-16T20:33:56+09:00",
     "id": "dario_okazaki"

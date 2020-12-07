@@ -10,7 +10,7 @@
   {
     "title": "webpack 4 入門",
     "url": "https://qiita.com/soarflat/items/28bf799f7e0335b68186",
-    "likes_count": 2089,
+    "likes_count": 2091,
     "created_at": "2017-02-02T03:21:09+09:00",
     "updated_at": "2020-11-28T01:43:15+09:00",
     "id": "soarflat"
@@ -50,7 +50,7 @@
   {
     "title": "【動画付き】Rails 5.1で作るVue.jsアプリケーション ～Herokuデプロイからシステムテストまで～",
     "url": "https://qiita.com/jnchito/items/30ab14ebf29b945559f6",
-    "likes_count": 762,
+    "likes_count": 761,
     "created_at": "2017-02-27T10:24:15+09:00",
     "updated_at": "2017-05-03T12:40:00+09:00",
     "id": "jnchito"
@@ -58,7 +58,7 @@
   {
     "title": "HTTPとPOSTとGET",
     "url": "https://qiita.com/Sekky0905/items/dff3d0da059d6f5bfabf",
-    "likes_count": 688,
+    "likes_count": 691,
     "created_at": "2017-02-25T15:54:37+09:00",
     "updated_at": "2018-09-06T14:30:10+09:00",
     "id": "Sekky0905"
@@ -98,7 +98,7 @@
   {
     "title": "エンジニアの転職メモ",
     "url": "https://qiita.com/yama-t/items/0dc67cda41a2eb710eeb",
-    "likes_count": 528,
+    "likes_count": 530,
     "created_at": "2017-02-14T19:23:49+09:00",
     "updated_at": "2020-03-11T22:02:17+09:00",
     "id": "yama-t"
@@ -146,7 +146,7 @@
   {
     "title": "Pythonistaなら知らないと恥ずかしい計算量のはなし",
     "url": "https://qiita.com/Hironsan/items/68161ee16b1c9d7b25fb",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2017-02-27T09:02:55+09:00",
     "updated_at": "2017-02-27T12:10:16+09:00",
     "id": "Hironsan"
@@ -154,7 +154,7 @@
   {
     "title": "Rails で includes して N+1 問題対策",
     "url": "https://qiita.com/hirotakasasaki/items/e0be0b3fd7b0eb350327",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2017-02-11T00:44:25+09:00",
     "updated_at": "2017-02-11T13:36:03+09:00",
     "id": "hirotakasasaki"
@@ -202,7 +202,7 @@
   {
     "title": "Awesome Node.js : 素晴しい Node.js フレームワーク・ライブラリ・ソフトウェア・リソースの数々",
     "url": "https://qiita.com/hatai/items/61030176a254cbe7ff2b",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2017-02-17T17:52:44+09:00",
     "updated_at": "2019-11-01T14:08:58+09:00",
     "id": "hatai"
@@ -210,7 +210,7 @@
   {
     "title": "macOS で Visual Studio Code を使うためのアレコレ (2020/09/26)",
     "url": "https://qiita.com/satokaz/items/6a6a0d9b6489ec2d1803",
-    "likes_count": 379,
+    "likes_count": 380,
     "created_at": "2017-02-23T09:51:21+09:00",
     "updated_at": "2020-10-04T23:39:40+09:00",
     "id": "satokaz"
@@ -242,7 +242,7 @@
   {
     "title": "Python3基礎文法",
     "url": "https://qiita.com/Fendo181/items/a934e4f94021115efb2e",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2017-02-21T18:43:54+09:00",
     "updated_at": "2020-05-04T22:19:05+09:00",
     "id": "Fendo181"
@@ -250,7 +250,7 @@
   {
     "title": "オレだよオレオレ認証局で証明書つくる",
     "url": "https://qiita.com/ll_kuma_ll/items/13c962a6a74874af39c6",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2017-02-10T01:03:24+09:00",
     "updated_at": "2019-12-18T18:26:37+09:00",
     "id": "ll_kuma_ll"
@@ -272,6 +272,14 @@
     "id": "wakamesoba98"
   },
   {
+    "title": "SSD: Single Shot MultiBox Detector 高速リアルタイム物体検出デモをKerasで試す",
+    "url": "https://qiita.com/PonDad/items/6f9e6d9397951cadc6be",
+    "likes_count": 311,
+    "created_at": "2017-02-13T23:37:07+09:00",
+    "updated_at": "2018-02-22T22:16:49+09:00",
+    "id": "PonDad"
+  },
+  {
     "title": "Railsでcarrierwaveを使ってAWS S3に画像をアップロードする手順を画像付きで説明する",
     "url": "https://qiita.com/junara/items/1899f23c091bcee3b058",
     "likes_count": 311,
@@ -280,12 +288,12 @@
     "id": "junara"
   },
   {
-    "title": "SSD: Single Shot MultiBox Detector 高速リアルタイム物体検出デモをKerasで試す",
-    "url": "https://qiita.com/PonDad/items/6f9e6d9397951cadc6be",
-    "likes_count": 310,
-    "created_at": "2017-02-13T23:37:07+09:00",
-    "updated_at": "2018-02-22T22:16:49+09:00",
-    "id": "PonDad"
+    "title": "簡単なウインドウアプリ(GUI)開発のまとめ(Windows偏)",
+    "url": "https://qiita.com/yosgspec/items/810843f863075d33a093",
+    "likes_count": 300,
+    "created_at": "2017-02-06T03:02:28+09:00",
+    "updated_at": "2018-12-08T10:38:26+09:00",
+    "id": "yosgspec"
   },
   {
     "title": "Pythonのジェネレーターってなんのためにあるのかをなるべく分かりやすく説明しようと試みた",
@@ -296,25 +304,9 @@
     "id": "keitakurita"
   },
   {
-    "title": "簡単なウインドウアプリ(GUI)開発のまとめ(Windows偏)",
-    "url": "https://qiita.com/yosgspec/items/810843f863075d33a093",
-    "likes_count": 297,
-    "created_at": "2017-02-06T03:02:28+09:00",
-    "updated_at": "2018-12-08T10:38:26+09:00",
-    "id": "yosgspec"
-  },
-  {
-    "title": "文章をベクトル化して類似文章の検索",
-    "url": "https://qiita.com/akira_/items/f9bb46cad6834da32367",
-    "likes_count": 296,
-    "created_at": "2017-02-26T22:34:43+09:00",
-    "updated_at": "2017-02-26T22:34:43+09:00",
-    "id": "akira_"
-  },
-  {
     "title": "CSSフレームワーク BULMA チュートリアル①",
     "url": "https://qiita.com/ochiochi/items/de1afd2d3fc8f6d3ea55",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2017-02-10T11:41:12+09:00",
     "updated_at": "2020-03-29T14:02:53+09:00",
     "id": "ochiochi"
@@ -354,7 +346,7 @@
   {
     "title": "Sphinxを便利にして、みんなに使ってもらいたい",
     "url": "https://qiita.com/pashango2/items/d1b379b699af85b529ce",
-    "likes_count": 268,
+    "likes_count": 270,
     "created_at": "2017-02-04T16:42:49+09:00",
     "updated_at": "2017-03-06T13:52:24+09:00",
     "id": "pashango2"
@@ -362,7 +354,7 @@
   {
     "title": "[Python]強化学習(DQN)を実装しながらKerasに慣れる",
     "url": "https://qiita.com/yukiB/items/0a3faa759ca5561e12f8",
-    "likes_count": 257,
+    "likes_count": 258,
     "created_at": "2017-02-17T11:43:48+09:00",
     "updated_at": "2017-10-20T15:59:52+09:00",
     "id": "yukiB"
