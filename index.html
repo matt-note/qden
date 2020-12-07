@@ -241,11 +241,6 @@
 
           xhr.response.forEach(function(json) {
             _showRanking(json, olTag);
-
-            // JSONに要素がある場合は、ol要素の上下にパディングを追加
-            if (Object.keys(json).length !== 0) {
-              olTag.classList.add("py-10");
-            }
           });
         }
       }
@@ -311,6 +306,11 @@
       let bottomSpanTag = document.createElement("span")
       bottomSpanTag.textContent = "　　■ Updated " + json.updated_at.slice(0, 10);
       bottomPElement.appendChild(bottomSpanTag);
+    }
+
+    // JSONに要素がある場合は、ol要素の上下にパディングを追加
+    if olTag.children.length !== 0 {
+      olTag.classList.add("py-10");
     }
   }
   </script>
