@@ -21,13 +21,16 @@
     background-color: #f0f0ff;
   }
   .wrapper {
-    display: flex;
-    flex-direction: column;
+    /* display: flex; */
+    display: table;
+    border-collapse: collapse;
+    width: 100%;
   }
   .nav-wrapper {
+    display: table-cell;
     height: 100%;
     width: 27%;
-    flex: 1 0 auto; /* */
+    /* flex: 1 0 auto; */
   }
   .nav {
     margin-top: 43px;
@@ -37,7 +40,8 @@
     display: inline-block;
   }
   .contents-wrapper {
-    flex: 1 0 auto; /* */
+    /* flex: 1 0 auto; */
+    display: table-cell;
     height: 100%;
     width: 100%;
     border-left: solid 1px;
