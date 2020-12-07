@@ -21,16 +21,14 @@
     background-color: #f0f0ff;
   }
   .wrapper {
-    /* display: flex; */
     display: table;
     border-collapse: collapse;
     width: 100%;
   }
   .nav-wrapper {
-    display: table-cell;
+    display: table-cell; /**/
     height: 100%;
-    width: 27%;
-    /* flex: 1 0 auto; */
+    width: 20%;
   }
   .nav {
     margin-top: 43px;
@@ -40,8 +38,7 @@
     display: inline-block;
   }
   .contents-wrapper {
-    /* flex: 1 0 auto; */
-    display: table-cell;
+    display: table-cell; /**/
     height: 100%;
     width: 100%;
     border-left: solid 1px;
@@ -192,7 +189,6 @@
     // サイドバーの●の色分けのために使用
     let counter = 0;
 
-    // TODO: あとで開始年月日を直書きする。良い定数にするやり方があるだろうか・・？
     let startDate = new Date(2011,8,1);
     while(startDate < new Date()) {
       let sideATag = document.createElement("a");
@@ -207,7 +203,7 @@
 
       sidebar.insertBefore(sideATag, sidebar.firstChild);
 
-      // ためし
+      // ためし 0
       if (startDate.getMonth() == 0) {
         let sidePTag = document.createElement("p");
         sidePTag.textContent = startDate.getFullYear() - 1 + "年";
