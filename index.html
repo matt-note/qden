@@ -308,8 +308,7 @@
       bottomPElement.appendChild(bottomSpanTag);
     }
 
-    // JSONに要素がある場合は、ol要素の上下にパディングを追加
-    if olTag.children.length !== 0 {
+    if (olTag.children.length !== 0) {
       olTag.classList.add("py-10");
     }
   }
