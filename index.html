@@ -21,12 +21,12 @@
     background-color: #f0f0ff;
   }
   .wrapper {
-    display: table;
+    display: table; /*親要素*/
     border-collapse: collapse;
     width: 100%;
   }
   .nav-wrapper {
-    display: table-cell; /**/
+    display: table-cell; /*子要素*/
     height: 100%;
     width: 20%;
   }
@@ -38,7 +38,7 @@
     display: inline-block;
   }
   .contents-wrapper {
-    display: table-cell; /**/
+    display: table-cell; /*子要素*/
     height: 100%;
     width: 100%;
     border-left: solid 1px;
@@ -111,9 +111,12 @@
     margin: 0;
   }
   #ranking {
-    margin-left: 200px;
-    padding-left: 40px;
+    /* margin-left: 200px;
+    padding-left: 40px; */
+    display: flex;
+    justify-content: center;
     width: 760px;
+    border-radius: 4px;
     background-color: #fff;
   }
   #ranking li {
@@ -132,7 +135,6 @@
   .description {
     font-size: 0.8em;
   }
-
   footer {
     height: 100px;
   }
