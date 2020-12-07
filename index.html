@@ -112,7 +112,6 @@
   }
   #ranking {
     margin-left: 200px;
-    padding-top: 8px;
     padding-left: 40px;
     width: 760px;
     background-color: #fff;
@@ -127,7 +126,9 @@
   .description {
     font-size: 0.8em;
   }
-
+  .py-10 {
+    padding: 10px 0;
+  }
   footer {
     height: 100px;
   }
@@ -306,6 +307,12 @@
       bottomSpanTag.textContent = "　　■ Updated " + json.updated_at.slice(0, 10);
       bottomPElement.appendChild(bottomSpanTag);
     }
+
+    // JSONに要素がある場合は、ol要素の上下にパディングを追加
+    if (Object.keys(json).length != 0) {
+      olTag.classList.add("py-10");
+    }
+
   }
   </script>
 </body>
