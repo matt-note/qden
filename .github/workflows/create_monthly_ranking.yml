@@ -1,11 +1,10 @@
-name: qden
+name: Create Monthly Ranking
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 15 28-31 * SUN'
-    # -> 毎月1日と月曜日のUTC15:00（JST0:00,深夜）に実行。
-    #    とにかく毎月1日の0:00には確実に実行したいから、ざっくり28-31でやる。
+    - cron: '0 15 * * *'
+    # -> 毎日 UTC15:00（JST0:00,深夜）に実行。
 
 env:
   QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
