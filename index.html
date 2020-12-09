@@ -173,6 +173,12 @@
       width: 92%;
       padding-left: 30px;
     }
+    #ranking li {
+      pading-top: 12px;
+    }
+    #ranking li:first-chiild {
+      padding-top: 6px;
+    }
 
   }
 </style>
@@ -300,9 +306,11 @@
     let nav = document.getElementById("nav-wrapper");
     nav.style.setProperty("display", "block", "important");
     nav.style.setProperty("width", "100%", "important");
-    nav.style.setProperty("border-left", "none", "important");
+    nav.style.setProperty("border-right", "none", "important");
 
     document.getElementById("wrapper").style.display = "block";
+
+    document.getElementById("ranking").innerHTML = "";
   });
 
   function _request(xhr, yyyymm) {
