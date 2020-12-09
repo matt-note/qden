@@ -36,7 +36,6 @@
     display: table-cell; /*子要素*/
     height: 100%;
     width: 20%;
-    margin-bottom: 20px;
     border-right: solid 1px black;
   }
   .nav {
@@ -118,14 +117,14 @@
     padding: 0;
     margin: 0;
   }
-  .menu-wrapper {
+  #menu-wrapper {
     display: none;
   }
   .menu-circle {
     color: #8bdf4c;
   }
   #ranking {
-    width: 75%;
+    width: 65%;
     padding-left: 40px;
     margin: 0 auto;
     border-radius: 8px;
@@ -154,8 +153,9 @@
     /* 画面が小さい時に適用される */
     .nav-wrapper {
       display: none;
+      z-index: 1;
     }
-    .menu-wrapper {
+    #menu-wrapper {
       display: inline-block;
       padding: 6px;
       margin-top: 10px;
@@ -185,7 +185,7 @@
     </nav>
 
     <main class="contents-wrapper">
-      <span class="menu-wrapper">
+      <span id="menu-wrapper">
         <span class="menu-circle">● </span><span class="menu">メニュー</span>
       </span>
       <h1 class="heading">Qiita殿堂入りのホームページ（β）</h1>
@@ -288,6 +288,10 @@
   window.addEventListener('load', function() {
     // DOM描画後にquicklinkを実行
       quicklink.listen();
+  });
+
+  document.getElementById("menu-wrapper").addEventListener("click", function() {
+    this.style.display = "block"
   });
 
   function _request(xhr, yyyymm) {
