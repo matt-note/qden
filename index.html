@@ -179,7 +179,9 @@
     #ranking li:first-chiild {
       padding-top: 6px;
     }
-
+    .month {
+      padding: 5px 8px;
+    }
   }
 </style>
 </head>
@@ -307,10 +309,12 @@
     nav.style.setProperty("display", "block", "important");
     nav.style.setProperty("width", "100%", "important");
     nav.style.setProperty("border-right", "none", "important");
+    nav.style.setProperty("position", "relative", "important");
+    nav.style.setProperty("background", "color", "#f0f0ff");
 
-    document.getElementById("wrapper").style.display = "block";
-
-    document.getElementById("ranking").innerHTML = "";
+    let wrapper = document.getElementById("wrapper").
+    wrapper.style.display = "block";
+    wrapper.style.position = "absolute";
   });
 
   function _request(xhr, yyyymm) {
