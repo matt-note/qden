@@ -307,16 +307,17 @@
 
   document.getElementById("menu-wrapper").addEventListener("click", function() {
     this.style.display = "none";
-    let nav = document.getElementById("nav-wrapper");
-    nav.style.setProperty("display", "block", "important");
-    nav.style.setProperty("width", "100%", "important");
-    nav.style.setProperty("border-right", "none", "important");
-    nav.style.setProperty("position", "relative", "important");
-    nav.style.setProperty("background", "color", "#f0f0ff");
 
     let wrapper = document.getElementById("wrapper");
     wrapper.style.display = "block";
-    wrapper.style.position = "absolute";
+    wrapper.style.position = "relative";
+
+    let nav = document.getElementById("nav-wrapper");
+    nav.style.setProperty("display", "block", "important");
+    nav.style.setProperty("position", "absolute", "important");
+    nav.style.setProperty("width", "100%", "important");
+    nav.style.setProperty("border-right", "none", "important");
+    nav.style.setProperty("background", "color", "#f0f0ff");
   });
 
   function _request(xhr, yyyymm) {
