@@ -66,6 +66,9 @@
   .nav p {
     margin-top: 14px;
   }
+  .nav p:last-child {
+    margin-bottom: 20px;
+  }
   .nav-icon-top::before {
     content: "●";
     margin-right: 2px;
@@ -118,6 +121,12 @@
     padding: 0;
     margin: 0;
   }
+  .menu-wrapper {
+    display: none;
+  }
+  .menu-circle {
+    color: #8bdf4c;
+  }
   #ranking {
     width: 75%;
     padding-left: 40px;
@@ -152,6 +161,9 @@
     .heading {
       font-size: 20px;
     }
+    #ranking {
+      width: 90%;
+    }
 
   }
 </style>
@@ -163,6 +175,9 @@
       </ul>
     </nav>
 
+    <span class="menu-wrapper">
+      <span class="menu-circle">● </span><span class="menu">メニュー</span>
+    </span>
     <main class="contents-wrapper">
       <h1 class="heading">Qiita殿堂入りのホームページ（β）</h1>
       <p id="yearMonth" class="yearMonth"></p>
