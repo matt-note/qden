@@ -291,7 +291,10 @@
   });
 
   document.getElementById("menu-wrapper").addEventListener("click", function() {
-    this.style.display = "block"
+    this.style.display = "none";
+    let nav = document.getElementById("nav-wrapper")
+    nav.style.display = "block";
+    nav.style.width = "100%";
   });
 
   function _request(xhr, yyyymm) {
