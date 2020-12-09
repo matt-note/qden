@@ -178,7 +178,7 @@
 </style>
 </head>
 <body>
-  <div class="wrapper">
+  <div id="wrapper" class="wrapper">
     <nav id="nav-wrapper" class="nav-wrapper">
       <ul id="sidebar" class="nav">
       </ul>
@@ -295,6 +295,9 @@
     let nav = document.getElementById("nav-wrapper");
     nav.style.setProperty("display", "block", "important");
     nav.style.setProperty("width", "100%", "important");
+    nav.style.setProperty("border-left", "none", "important");
+
+    document.getElementById("wrapper").style.display = "block";
   });
 
   function _request(xhr, yyyymm) {
