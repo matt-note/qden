@@ -152,10 +152,15 @@
   }
   @media screen and (max-width: 480px) { /*PC前提で作っちゃったため*/
     /* 画面が小さい時に適用される */
+    .nav-wrapper {
+      display: none;
+    }
     .menu-wrapper {
       display: block;
       padding: 4px;
-      margin-bottom: 4px;
+      margin-left: 4px;
+      background: #fff;
+      border: 1px solid;
     }
     .heading {
       font-size: 20px;
