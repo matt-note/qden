@@ -290,10 +290,12 @@
           });
         }
 
-        // メニューを閉じる
-        let nav = document.getElementById("nav-wrapper");
-        nav.style.setProperty("display", "none", "important");
-        document.getElementById("menu-wrapper").style.display = "inline-block";
+        // メニューを閉じる。小さい画面の場合。
+        if (document.getElementById("wrapper").clientWidth < 480) {
+          let nav = document.getElementById("nav-wrapper");
+          nav.style.setProperty("display", "none", "important");
+          document.getElementById("menu-wrapper").style.display = "inline-block";
+        }
       }
     });
   });
