@@ -292,9 +292,9 @@
 
   document.getElementById("menu-wrapper").addEventListener("click", function() {
     this.style.display = "none";
-    let nav = document.getElementById("nav-wrapper")
-    nav.style.display = "block";
-    nav.style.width = "100%";
+    let nav = document.getElementById("nav-wrapper");
+    nav.style.setProperty("display", "block", "important");
+    nav.style.setProperty("width", "100%", "important");
   });
 
   function _request(xhr, yyyymm) {
