@@ -62,6 +62,9 @@
     text-align: center;
     margin-bottom: 12px;
   }
+  .nav {
+    margin-bottom: 20px;
+  }
   .nav p {
     margin-top: 14px;
   }
@@ -305,13 +308,6 @@
         }
 
         _toggleMenu();
-
-        // メニューを閉じる。小さい画面の場合。
-        // if (document.getElementById("wrapper").clientWidth < 480) {
-        //   let nav = document.getElementById("nav-wrapper");
-        //   nav.style.setProperty("display", "none", "important");
-        //   document.getElementById("menu-wrapper").style.display = "inline-block";
-        // }
       }
     });
   });
@@ -323,19 +319,6 @@
 
   document.getElementById("menu-wrapper").addEventListener("click", function() {
     _toggleMenu();
-    // this.style.display = "none";
-
-    // let wrapper = document.getElementById("wrapper");
-    // wrapper.style.display = "block";
-    // wrapper.style.position = "relative";
-
-    // let nav = document.getElementById("nav-wrapper");
-    // nav.style.setProperty("display", "block", "important");
-    // nav.style.setProperty("position", "absolute", "important");
-    // nav.style.setProperty("width", "100%", "important");
-    // nav.style.setProperty("border-right", "none", "important");
-    // nav.style.setProperty("background-color", "#f0f0ff", "important");
-    // nav.classList.toggle("open-nav-wrapper");
   });
 
   function _request(xhr, yyyymm) {
@@ -393,6 +376,7 @@
     }
   }
 
+  // メニューの開閉を操作
   function _toggleMenu() {
     document.getElementById("wrapper").classList.toggle("open-wrapper");
     document.getElementById("nav-wrapper").classList.toggle("open-nav-wrapper");
