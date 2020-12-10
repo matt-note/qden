@@ -2,7 +2,7 @@
   {
     "title": "JavaプログラマのためのKotlin入門",
     "url": "https://qiita.com/koher/items/bcc58c01c6ff2ece658f",
-    "likes_count": 1412,
+    "likes_count": 1414,
     "created_at": "2017-05-18T23:02:31+09:00",
     "updated_at": "2020-09-13T12:24:20+09:00",
     "id": "koher"
@@ -10,15 +10,15 @@
   {
     "title": "Pythonのテキスト作りました",
     "url": "https://qiita.com/KatsunoriNakamura/items/b465b0cf05b1b7fd4975",
-    "likes_count": 1266,
+    "likes_count": 1270,
     "created_at": "2017-05-16T12:28:24+09:00",
-    "updated_at": "2020-12-06T18:07:49+09:00",
+    "updated_at": "2020-12-08T20:58:59+09:00",
     "id": "KatsunoriNakamura"
   },
   {
     "title": "はじめての Elasticsearch",
     "url": "https://qiita.com/nskydiving/items/1c2dc4e0b9c98d164329",
-    "likes_count": 1189,
+    "likes_count": 1194,
     "created_at": "2017-05-06T17:18:31+09:00",
     "updated_at": "2019-05-26T15:50:09+09:00",
     "id": "nskydiving"
@@ -26,7 +26,7 @@
   {
     "title": "gRPCって何？",
     "url": "https://qiita.com/oohira/items/63b5ccb2bf1a913659d6",
-    "likes_count": 1184,
+    "likes_count": 1187,
     "created_at": "2017-05-25T17:42:34+09:00",
     "updated_at": "2019-06-27T19:39:34+09:00",
     "id": "oohira"
@@ -42,7 +42,7 @@
   {
     "title": "venv: Python 仮想環境管理",
     "url": "https://qiita.com/fiftystorm36/items/b2fd47cf32c7694adc2e",
-    "likes_count": 809,
+    "likes_count": 814,
     "created_at": "2017-05-12T18:03:07+09:00",
     "updated_at": "2019-10-11T13:08:54+09:00",
     "id": "fiftystorm36"
@@ -50,7 +50,7 @@
   {
     "title": "TypeScriptのInterfaceとTypeの比較",
     "url": "https://qiita.com/tkrkt/items/d01b96363e58a7df830e",
-    "likes_count": 779,
+    "likes_count": 782,
     "created_at": "2017-05-26T20:17:16+09:00",
     "updated_at": "2019-04-16T10:41:08+09:00",
     "id": "tkrkt"
@@ -58,7 +58,7 @@
   {
     "title": "機械学習の情報を手法を中心にざっくり整理",
     "url": "https://qiita.com/ishizakiiii/items/f6909696c616fd6294ca",
-    "likes_count": 759,
+    "likes_count": 758,
     "created_at": "2017-05-07T22:02:55+09:00",
     "updated_at": "2017-05-13T09:36:37+09:00",
     "id": "ishizakiiii"
@@ -74,7 +74,7 @@
   {
     "title": "Rails deviseで使えるようになるヘルパーメソッド一覧",
     "url": "https://qiita.com/tobita0000/items/866de191635e6d74e392",
-    "likes_count": 717,
+    "likes_count": 720,
     "created_at": "2017-05-07T14:55:10+09:00",
     "updated_at": "2017-05-07T15:00:03+09:00",
     "id": "tobita0000"
@@ -90,31 +90,31 @@
   {
     "title": "yarnチートシート",
     "url": "https://qiita.com/morrr/items/558bf64cd619ebdacd3d",
-    "likes_count": 666,
+    "likes_count": 667,
     "created_at": "2017-05-25T19:54:37+09:00",
     "updated_at": "2017-06-14T13:06:59+09:00",
     "id": "morrr"
   },
   {
-    "title": "JavaプログラマがKotlinでつまづきがちなところ",
-    "url": "https://qiita.com/koher/items/d9411a00986f14683a3f",
-    "likes_count": 652,
-    "created_at": "2017-05-22T22:24:12+09:00",
-    "updated_at": "2017-12-29T17:37:55+09:00",
-    "id": "koher"
-  },
-  {
     "title": "Flaskの簡単な使い方",
     "url": "https://qiita.com/zaburo/items/5091041a5afb2a7dffc8",
-    "likes_count": 647,
+    "likes_count": 655,
     "created_at": "2017-05-10T19:25:51+09:00",
     "updated_at": "2019-07-16T16:53:20+09:00",
     "id": "zaburo"
   },
   {
+    "title": "JavaプログラマがKotlinでつまづきがちなところ",
+    "url": "https://qiita.com/koher/items/d9411a00986f14683a3f",
+    "likes_count": 653,
+    "created_at": "2017-05-22T22:24:12+09:00",
+    "updated_at": "2017-12-29T17:37:55+09:00",
+    "id": "koher"
+  },
+  {
     "title": "OSI参照モデルまとめ",
     "url": "https://qiita.com/tatsuya4150/items/474b60beed0c04d5d999",
-    "likes_count": 624,
+    "likes_count": 626,
     "created_at": "2017-05-28T18:11:43+09:00",
     "updated_at": "2020-07-07T15:34:33+09:00",
     "id": "tatsuya4150"
@@ -130,7 +130,7 @@
   {
     "title": "GCE の無料枠のサーバを立るときに、初見でハマりそうなところ",
     "url": "https://qiita.com/ndxbn/items/7ef0a96e409a5b5837bd",
-    "likes_count": 550,
+    "likes_count": 551,
     "created_at": "2017-05-22T09:53:51+09:00",
     "updated_at": "2019-04-16T23:12:39+09:00",
     "id": "ndxbn"
@@ -176,20 +176,20 @@
     "id": "Ushio"
   },
   {
+    "title": "今さら聞けないWebSocket~WebSocketとは~",
+    "url": "https://qiita.com/chihiro/items/9d280704c6eff8603389",
+    "likes_count": 474,
+    "created_at": "2017-05-04T21:19:17+09:00",
+    "updated_at": "2019-05-06T16:03:42+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "おじさんが若者たちにモテるためのモダンなHTML/CSSマークアップ",
     "url": "https://qiita.com/kyoyababa/items/b07b6a4afac3bd970617",
     "likes_count": 474,
     "created_at": "2017-05-20T12:36:10+09:00",
     "updated_at": "2017-06-10T13:41:42+09:00",
     "id": "kyoyababa"
-  },
-  {
-    "title": "今さら聞けないWebSocket~WebSocketとは~",
-    "url": "https://qiita.com/chihiro/items/9d280704c6eff8603389",
-    "likes_count": 473,
-    "created_at": "2017-05-04T21:19:17+09:00",
-    "updated_at": "2019-05-06T16:03:42+09:00",
-    "id": "chihiro"
   },
   {
     "title": "もうmeta要素を迷わない！最低限入れるべきmeta要素のまとめ",
@@ -210,7 +210,7 @@
   {
     "title": "OpenPoseを動かしてみた。",
     "url": "https://qiita.com/nnn112358/items/a4490d85dac5827db53b",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2017-05-06T20:41:21+09:00",
     "updated_at": "2017-12-28T09:59:15+09:00",
     "id": "nnn112358"
@@ -226,7 +226,7 @@
   {
     "title": "MkDocsによるドキュメント作成",
     "url": "https://qiita.com/mebiusbox2/items/a61d42878266af969e3c",
-    "likes_count": 349,
+    "likes_count": 351,
     "created_at": "2017-05-04T22:25:57+09:00",
     "updated_at": "2019-03-30T22:37:14+09:00",
     "id": "mebiusbox2"
@@ -234,7 +234,7 @@
   {
     "title": "ライトニングpytorch入門",
     "url": "https://qiita.com/sh-tatsuno/items/42fccff90c98103dffc9",
-    "likes_count": 329,
+    "likes_count": 331,
     "created_at": "2017-05-08T15:59:08+09:00",
     "updated_at": "2018-07-05T09:27:33+09:00",
     "id": "sh-tatsuno"
@@ -258,7 +258,7 @@
   {
     "title": "Eloquent をおさらい",
     "url": "https://qiita.com/shosho/items/5ca6bdb880b130260586",
-    "likes_count": 304,
+    "likes_count": 305,
     "created_at": "2017-05-31T13:27:10+09:00",
     "updated_at": "2019-01-22T17:35:09+09:00",
     "id": "shosho"
@@ -274,7 +274,7 @@
   {
     "title": "MySQL EXPLAINのそれぞれの項目についての覚書",
     "url": "https://qiita.com/kzbandai/items/ea02727f4bb539fcedb5",
-    "likes_count": 284,
+    "likes_count": 290,
     "created_at": "2017-05-07T23:41:44+09:00",
     "updated_at": "2020-07-07T14:14:22+09:00",
     "id": "kzbandai"
@@ -282,7 +282,7 @@
   {
     "title": "いますぐ使う CloudFront",
     "url": "https://qiita.com/sasasin/items/0f0ec1a90af6295589f9",
-    "likes_count": 280,
+    "likes_count": 284,
     "created_at": "2017-05-23T12:20:21+09:00",
     "updated_at": "2018-11-02T19:12:14+09:00",
     "id": "sasasin"
@@ -298,7 +298,7 @@
   {
     "title": "Laravel 5.7で基本的なCRUDを作る",
     "url": "https://qiita.com/sutara79/items/ef30fcdfb7afcb2188ea",
-    "likes_count": 235,
+    "likes_count": 236,
     "created_at": "2017-05-22T17:07:53+09:00",
     "updated_at": "2018-09-14T19:39:18+09:00",
     "id": "sutara79"
