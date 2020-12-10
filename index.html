@@ -149,6 +149,13 @@
   footer {
     height: 100px;
   }
+  .open-nav-wrapper {
+    display: block;
+    position: absolute;
+    width: 100%;
+    border-right: none;
+    background-color: #f0f0ff;
+  }
   @media screen and (max-width: 480px) { /*PC前提で作っちゃったため*/
     /* 画面が小さい時に適用される */
     .nav-wrapper {
@@ -313,11 +320,12 @@
     wrapper.style.position = "relative";
 
     let nav = document.getElementById("nav-wrapper");
-    nav.style.setProperty("display", "block", "important");
-    nav.style.setProperty("position", "absolute", "important");
-    nav.style.setProperty("width", "100%", "important");
-    nav.style.setProperty("border-right", "none", "important");
-    nav.style.setProperty("background-color", "#f0f0ff", "important");
+    // nav.style.setProperty("display", "block", "important");
+    // nav.style.setProperty("position", "absolute", "important");
+    // nav.style.setProperty("width", "100%", "important");
+    // nav.style.setProperty("border-right", "none", "important");
+    // nav.style.setProperty("background-color", "#f0f0ff", "important");
+    nav.classList.toggle("open-nav-wrapper");
   });
 
   function _request(xhr, yyyymm) {
