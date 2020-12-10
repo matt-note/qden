@@ -166,7 +166,7 @@
   .close-menu-wrapper {
     display: none;
   }
-  #updated {
+  .updated {
     margin-left: 30px;
   }
   @media screen and (max-width: 480px) { /*PC前提で作っちゃったため*/
@@ -194,7 +194,7 @@
       padding-left: 30px;
     }
     #ranking li {
-      pading-top: 12px;
+      padding-top: 12px;
     }
     #ranking li:first-chiild {
       padding-top: 6px;
@@ -202,7 +202,7 @@
     .month {
       padding: 5px 8px;
     }
-    #updated {
+    .updated {
       margin: 0;
       display: block;
     }
@@ -314,7 +314,9 @@
           });
         }
 
-        _toggleMenu();
+        if (document.getElementById("wrapper").clientWidth < 480) {
+          _toggleMenu();
+        }
       }
     });
   });
