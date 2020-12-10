@@ -149,12 +149,19 @@
   footer {
     height: 100px;
   }
-  .open-nav-wrapper {
+  .open-wrapper {
     display: block;
+    position: relative;
+  }
+  .open-nav-wrapper {
+    display: block !important;
     position: absolute;
     width: 100%;
     border-right: none;
     background-color: #f0f0ff;
+  }
+  .close-menu-wrapper {
+    display: none;
   }
   @media screen and (max-width: 480px) { /*PC前提で作っちゃったため*/
     /* 画面が小さい時に適用される */
@@ -313,19 +320,20 @@
   });
 
   document.getElementById("menu-wrapper").addEventListener("click", function() {
-    this.style.display = "none";
+    _toggleMenu();
+    // this.style.display = "none";
 
-    let wrapper = document.getElementById("wrapper");
-    wrapper.style.display = "block";
-    wrapper.style.position = "relative";
+    // let wrapper = document.getElementById("wrapper");
+    // wrapper.style.display = "block";
+    // wrapper.style.position = "relative";
 
-    let nav = document.getElementById("nav-wrapper");
+    // let nav = document.getElementById("nav-wrapper");
     // nav.style.setProperty("display", "block", "important");
     // nav.style.setProperty("position", "absolute", "important");
     // nav.style.setProperty("width", "100%", "important");
     // nav.style.setProperty("border-right", "none", "important");
     // nav.style.setProperty("background-color", "#f0f0ff", "important");
-    nav.classList.toggle("open-nav-wrapper");
+    // nav.classList.toggle("open-nav-wrapper");
   });
 
   function _request(xhr, yyyymm) {
@@ -381,6 +389,12 @@
       bottomSpanTag.textContent = "　　■ Updated " + json.updated_at.slice(0, 10);
       bottomPElement.appendChild(bottomSpanTag);
     }
+  }
+
+  _toggleMenu() {
+    document.getElementById("wrapper").classList.toggle("open-wrapper");
+    document.getElementById("nav-wrapper").classList.toggle("open-nav-wrapper");
+    document.getElementById("menu-wrapper").classList.toggle("close-menu-wrapper");
   }
   </script>
 </body>
