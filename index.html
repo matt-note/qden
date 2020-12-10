@@ -203,7 +203,7 @@
       padding: 5px 8px;
     }
     .updated {
-      margin: 0;
+      margin: 2px 0 0 0;
       display: block;
     }
   }
@@ -314,7 +314,8 @@
           });
         }
 
-        if (document.getElementById("wrapper").clientWidth < 480) {
+        // メニュー表示時のクラスを持つ場合に実行
+        if (document.getElementById("wrapper").classList.contains("open-wrapper")) {
           _toggleMenu();
         }
       }
