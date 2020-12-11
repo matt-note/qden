@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 4509,
+    "likes_count": 4511,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 2903,
+    "likes_count": 2905,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2020-03-12T13:17:33+09:00",
     "id": "suin"
@@ -50,7 +50,7 @@
   {
     "title": "mermaid.jsが素晴らしいけどなかなか使ってる人見かけないので実例晒す(追記あり)",
     "url": "https://qiita.com/uzuki_aoba/items/a01f8b0b52ced69c8092",
-    "likes_count": 1578,
+    "likes_count": 1579,
     "created_at": "2015-05-24T01:24:10+09:00",
     "updated_at": "2017-03-13T04:13:20+09:00",
     "id": "uzuki_aoba"
@@ -106,7 +106,7 @@
   {
     "title": "【bat】Windowsのバッチファイル(*.bat)の書き方自分用まとめ",
     "url": "https://qiita.com/sksmnagisa/items/8c4c1788af44cc1dc63a",
-    "likes_count": 1136,
+    "likes_count": 1137,
     "created_at": "2015-05-14T20:42:49+09:00",
     "updated_at": "2016-11-28T14:38:21+09:00",
     "id": "sksmnagisa"
@@ -242,7 +242,7 @@
   {
     "title": "カーディナリティについてまとめてみた",
     "url": "https://qiita.com/soyanchu/items/034be19a2e3cb87b2efb",
-    "likes_count": 568,
+    "likes_count": 569,
     "created_at": "2015-05-12T11:48:17+09:00",
     "updated_at": "2015-05-12T11:48:17+09:00",
     "id": "soyanchu"
@@ -498,7 +498,7 @@
   {
     "title": "[超初心者向け]やっと納得、Unityを初めて触ると出てくるC#の何だあれの答え",
     "url": "https://qiita.com/JunShimura/items/3c2e23bb77cc9085bfda",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2015-05-22T14:21:39+09:00",
     "updated_at": "2016-10-19T21:15:54+09:00",
     "id": "JunShimura"
@@ -552,20 +552,20 @@
     "id": "hkusu"
   },
   {
+    "title": "XMLHttpRequest についてのメモ",
+    "url": "https://qiita.com/sirone/items/412b2a171dccb11e1bb6",
+    "likes_count": 285,
+    "created_at": "2015-05-05T21:39:06+09:00",
+    "updated_at": "2020-05-06T12:44:11+09:00",
+    "id": "sirone"
+  },
+  {
     "title": "HubotとTwilio APIを使ってSlackから電話をかけてピザを注文してみる",
     "url": "https://qiita.com/hbkr/items/cab42902c3a63752a867",
     "likes_count": 285,
     "created_at": "2015-06-01T02:53:29+09:00",
     "updated_at": "2015-06-01T15:00:42+09:00",
     "id": "hbkr"
-  },
-  {
-    "title": "XMLHttpRequest についてのメモ",
-    "url": "https://qiita.com/sirone/items/412b2a171dccb11e1bb6",
-    "likes_count": 284,
-    "created_at": "2015-05-05T21:39:06+09:00",
-    "updated_at": "2020-05-06T12:44:11+09:00",
-    "id": "sirone"
   },
   {
     "title": "瞬殺で作るMesos + Chronos + Marathon + Dockerクラスタ環境",

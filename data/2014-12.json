@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2072,
+    "likes_count": 2074,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -42,7 +42,7 @@
   {
     "title": "homebrewとは何者か。仕組みについて調べてみた",
     "url": "https://qiita.com/omega999/items/6f65217b81ad3fffe7e6",
-    "likes_count": 1569,
+    "likes_count": 1570,
     "created_at": "2014-12-04T20:41:15+09:00",
     "updated_at": "2014-12-04T20:41:15+09:00",
     "id": "omega999"
@@ -106,7 +106,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1092,
+    "likes_count": 1093,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -234,7 +234,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 638,
+    "likes_count": 639,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -290,7 +290,7 @@
   {
     "title": "DynamoDB ベストプラクティス",
     "url": "https://qiita.com/inouet/items/bcf9467a65b27c362ecf",
-    "likes_count": 586,
+    "likes_count": 587,
     "created_at": "2014-12-17T04:08:17+09:00",
     "updated_at": "2014-12-17T13:25:50+09:00",
     "id": "inouet"
@@ -330,7 +330,7 @@
   {
     "title": "iPhone(実機)の通信ログ(パケットのキャプチャ)を簡単に取得する方法",
     "url": "https://qiita.com/shirochan/items/cdb244b12cf5d08d4766",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2014-12-10T14:07:44+09:00",
     "updated_at": "2020-06-02T16:21:15+09:00",
     "id": "shirochan"
@@ -504,6 +504,14 @@
     "id": "gucchon"
   },
   {
+    "title": "Webスクレイピングの法律周りの話をしよう！",
+    "url": "https://qiita.com/nezuq/items/3cc9772118ad112c18dc",
+    "likes_count": 406,
+    "created_at": "2014-12-03T23:55:41+09:00",
+    "updated_at": "2020-09-09T07:37:42+09:00",
+    "id": "nezuq"
+  },
+  {
     "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
     "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
     "likes_count": 395,
@@ -586,7 +594,7 @@
   {
     "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
     "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2014-12-18T22:53:36+09:00",
     "updated_at": "2015-02-14T18:30:30+09:00",
     "id": "y_hokkey"
@@ -598,14 +606,6 @@
     "created_at": "2014-12-27T16:41:54+09:00",
     "updated_at": "2016-02-14T17:36:15+09:00",
     "id": "teradonburi"
-  },
-  {
-    "title": "React.jsの地味だけど重要なkeyについて",
-    "url": "https://qiita.com/koba04/items/a4d23245d246c53cd49d",
-    "likes_count": 328,
-    "created_at": "2014-12-11T14:54:17+09:00",
-    "updated_at": "2014-12-11T15:03:06+09:00",
-    "id": "koba04"
   },
   {
     "title": "Sprockets再考 モダンなJSのエコシステムとRailsのより良い関係を探す",

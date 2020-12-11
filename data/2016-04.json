@@ -34,7 +34,7 @@
   {
     "title": "知識0から始めるVim講座",
     "url": "https://qiita.com/JpnLavender/items/fabcc79b4ab0d52e1f6d",
-    "likes_count": 1694,
+    "likes_count": 1695,
     "created_at": "2016-04-20T13:39:15+09:00",
     "updated_at": "2016-07-18T12:55:03+09:00",
     "id": "JpnLavender"
@@ -42,7 +42,7 @@
   {
     "title": "iOS ヒューマンインターフェースの原則",
     "url": "https://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38",
-    "likes_count": 1612,
+    "likes_count": 1613,
     "created_at": "2016-04-03T05:27:56+09:00",
     "updated_at": "2019-03-01T04:21:27+09:00",
     "id": "usagimaru"
@@ -50,7 +50,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1551,
+    "likes_count": 1557,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -66,7 +66,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1385,
+    "likes_count": 1387,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -130,7 +130,7 @@
   {
     "title": "Excelファイルを C# と VB.NET で読み込む \"正しい\" 方法",
     "url": "https://qiita.com/midori44/items/acab9106e6dad9653e73",
-    "likes_count": 847,
+    "likes_count": 848,
     "created_at": "2016-04-11T08:46:25+09:00",
     "updated_at": "2016-04-11T13:19:46+09:00",
     "id": "midori44"
@@ -154,7 +154,7 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 774,
+    "likes_count": 775,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
@@ -162,7 +162,7 @@
   {
     "title": "Promiseについて0から勉強してみた",
     "url": "https://qiita.com/toshihirock/items/e49b66f8685a8510bd76",
-    "likes_count": 760,
+    "likes_count": 761,
     "created_at": "2016-04-10T07:32:44+09:00",
     "updated_at": "2016-04-17T15:28:26+09:00",
     "id": "toshihirock"
@@ -226,7 +226,7 @@
   {
     "title": "Markdown風テキストでダイアグラムが描けるWebツール",
     "url": "https://qiita.com/wakufactory/items/8a0cf4ffdd52936f7469",
-    "likes_count": 637,
+    "likes_count": 638,
     "created_at": "2016-04-18T23:54:09+09:00",
     "updated_at": "2016-04-25T18:51:00+09:00",
     "id": "wakufactory"
@@ -266,7 +266,7 @@
   {
     "title": "SSL/TLS（SSL3.0～TLS1.2）のハンドシェイクを復習する",
     "url": "https://qiita.com/n-i-e/items/41673fd16d7bd1189a29",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2016-04-12T00:17:03+09:00",
     "updated_at": "2018-09-03T18:51:40+09:00",
     "id": "n-i-e"
@@ -346,7 +346,7 @@
   {
     "title": "ttyとかptsとかについて確認してみる",
     "url": "https://qiita.com/toshihirock/items/22de12f99b5c40365369",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2016-04-28T22:23:17+09:00",
     "updated_at": "2016-04-28T22:23:17+09:00",
     "id": "toshihirock"
@@ -472,20 +472,20 @@
     "id": "jabba"
   },
   {
+    "title": "ファイルディスクリプタについて理解する",
+    "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
+    "likes_count": 353,
+    "created_at": "2016-04-22T22:51:58+09:00",
+    "updated_at": "2016-04-22T22:51:58+09:00",
+    "id": "toshihirock"
+  },
+  {
     "title": "Realm Swiftのまとめ",
     "url": "https://qiita.com/See_Ku/items/6211690df3c56255fde4",
     "likes_count": 352,
     "created_at": "2016-04-21T09:55:21+09:00",
     "updated_at": "2016-05-27T14:58:13+09:00",
     "id": "See_Ku"
-  },
-  {
-    "title": "ファイルディスクリプタについて理解する",
-    "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 352,
-    "created_at": "2016-04-22T22:51:58+09:00",
-    "updated_at": "2016-04-22T22:51:58+09:00",
-    "id": "toshihirock"
   },
   {
     "title": "CUDAとOpenCLどっちがいいの？",
@@ -546,7 +546,7 @@
   {
     "title": "オンラインでプログラミングして実行できるサイト",
     "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2016-04-28T08:59:43+09:00",
     "updated_at": "2017-12-01T09:34:20+09:00",
     "id": "tttamaki"

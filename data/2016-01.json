@@ -2,7 +2,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 3761,
+    "likes_count": 3762,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -26,7 +26,7 @@
   {
     "title": "不思議の国のSE用語",
     "url": "https://qiita.com/t_nakayama0714/items/478a8ed3a9ae143ad854",
-    "likes_count": 3126,
+    "likes_count": 3127,
     "created_at": "2016-01-08T02:47:09+09:00",
     "updated_at": "2020-09-18T19:43:16+09:00",
     "id": "t_nakayama0714"
@@ -210,7 +210,7 @@
   {
     "title": "Bootstrapのグリッドシステムについてまとめてみた",
     "url": "https://qiita.com/akatsuki174/items/53b7367b04ed0b066bbf",
-    "likes_count": 736,
+    "likes_count": 737,
     "created_at": "2016-01-05T23:36:20+09:00",
     "updated_at": "2016-01-06T12:25:24+09:00",
     "id": "akatsuki174"
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
     "url": "https://qiita.com/wadahiro/items/eb50ac6bbe2e18cf8813",
-    "likes_count": 629,
+    "likes_count": 630,
     "created_at": "2016-01-27T02:08:49+09:00",
     "updated_at": "2018-06-18T12:00:54+09:00",
     "id": "wadahiro"
@@ -272,20 +272,20 @@
     "id": "GOROman"
   },
   {
+    "title": "(DB・サーバー構築編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
+    "url": "https://qiita.com/naoki_mochizuki/items/22cfbf4bf7ec95f6ac1c",
+    "likes_count": 546,
+    "created_at": "2016-01-10T16:40:33+09:00",
+    "updated_at": "2019-01-17T11:55:51+09:00",
+    "id": "naoki_mochizuki"
+  },
+  {
     "title": "git commit時に英語でメッセージ書くためのヒントを表示する",
     "url": "https://qiita.com/sagaraya/items/60e983856e16dc571f22",
     "likes_count": 545,
     "created_at": "2016-01-08T00:12:28+09:00",
     "updated_at": "2016-01-08T22:30:24+09:00",
     "id": "sagaraya"
-  },
-  {
-    "title": "(DB・サーバー構築編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
-    "url": "https://qiita.com/naoki_mochizuki/items/22cfbf4bf7ec95f6ac1c",
-    "likes_count": 545,
-    "created_at": "2016-01-10T16:40:33+09:00",
-    "updated_at": "2019-01-17T11:55:51+09:00",
-    "id": "naoki_mochizuki"
   },
   {
     "title": "【新人教育 資料】第1章 UMLまでの道 〜オブジェクト指向編〜",
@@ -298,7 +298,7 @@
   {
     "title": "【チュートリアル】機械学習を使って30分で固有表現抽出器を作る",
     "url": "https://qiita.com/Hironsan/items/326b66711eb4196aa9d4",
-    "likes_count": 538,
+    "likes_count": 539,
     "created_at": "2016-01-29T10:52:07+09:00",
     "updated_at": "2017-05-03T11:28:35+09:00",
     "id": "Hironsan"
@@ -378,7 +378,7 @@
   {
     "title": "TypeScript超入門(2)：構文を理解する",
     "url": "https://qiita.com/ringtail003/items/7ccf992f18b768e0e633",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2016-01-09T16:56:38+09:00",
     "updated_at": "2018-10-17T21:23:09+09:00",
     "id": "ringtail003"
@@ -410,7 +410,7 @@
   {
     "title": "ニューラルネットワーク、多様体、トポロジー",
     "url": "https://qiita.com/KojiOhki/items/af2241027b00f892d2bd",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2016-01-15T14:53:37+09:00",
     "updated_at": "2018-01-26T10:59:00+09:00",
     "id": "KojiOhki"
@@ -418,7 +418,7 @@
   {
     "title": "爆速でターミナルを使うためのショートカット集",
     "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2016-01-19T01:33:35+09:00",
     "updated_at": "2019-12-23T11:08:38+09:00",
     "id": "akito"
@@ -552,20 +552,20 @@
     "id": "hideji2"
   },
   {
+    "title": "DockerのVolume機能について実験してみたことをまとめます",
+    "url": "https://qiita.com/namutaka/items/f6a574f75f0997a1bb1d",
+    "likes_count": 320,
+    "created_at": "2016-01-04T01:31:49+09:00",
+    "updated_at": "2017-12-22T17:08:59+09:00",
+    "id": "namutaka"
+  },
+  {
     "title": "Rollupがちょうどいい感じ",
     "url": "https://qiita.com/cognitom/items/e3ac0da00241f427dad6",
     "likes_count": 320,
     "created_at": "2016-01-21T23:49:33+09:00",
     "updated_at": "2016-12-03T13:15:45+09:00",
     "id": "cognitom"
-  },
-  {
-    "title": "DockerのVolume機能について実験してみたことをまとめます",
-    "url": "https://qiita.com/namutaka/items/f6a574f75f0997a1bb1d",
-    "likes_count": 319,
-    "created_at": "2016-01-04T01:31:49+09:00",
-    "updated_at": "2017-12-22T17:08:59+09:00",
-    "id": "namutaka"
   },
   {
     "title": "AWS EC2でWebサーバーを構築してみる",
@@ -600,20 +600,20 @@
     "id": "nekoneko-wanwan"
   },
   {
+    "title": "[Python]Numpyの参照、抽出、結合",
+    "url": "https://qiita.com/supersaiakujin/items/d63c73bb7b5aac43898a",
+    "likes_count": 298,
+    "created_at": "2016-01-04T23:40:35+09:00",
+    "updated_at": "2018-10-05T12:46:11+09:00",
+    "id": "supersaiakujin"
+  },
+  {
     "title": "機械学習のデータセット画像枚数を増やす方法",
     "url": "https://qiita.com/bohemian916/items/9630661cd5292240f8c7",
     "likes_count": 298,
     "created_at": "2016-01-07T12:44:39+09:00",
     "updated_at": "2016-04-06T10:55:37+09:00",
     "id": "bohemian916"
-  },
-  {
-    "title": "[Python]Numpyの参照、抽出、結合",
-    "url": "https://qiita.com/supersaiakujin/items/d63c73bb7b5aac43898a",
-    "likes_count": 297,
-    "created_at": "2016-01-04T23:40:35+09:00",
-    "updated_at": "2018-10-05T12:46:11+09:00",
-    "id": "supersaiakujin"
   },
   {
     "title": "UIWebViewを使わない理由とWKWebViewを使う理由",
@@ -650,7 +650,7 @@
   {
     "title": "MyBatis 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/a9b5d4038f19d4813ee6",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2016-01-03T16:40:30+09:00",
     "updated_at": "2016-01-03T23:05:17+09:00",
     "id": "opengl-8080"
