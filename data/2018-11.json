@@ -42,7 +42,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1292,
+    "likes_count": 1293,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -50,7 +50,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1269,
+    "likes_count": 1271,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2020-02-05T14:53:08+09:00",
     "id": "elipmoc101"
@@ -74,7 +74,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1183,
+    "likes_count": 1184,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -122,7 +122,7 @@
   {
     "title": "【保存版・初心者向け】Python 目的別チュートリアル",
     "url": "https://qiita.com/tani_AI_Academy/items/3edc5effeb386ae3caa9",
-    "likes_count": 973,
+    "likes_count": 974,
     "created_at": "2018-11-12T11:51:01+09:00",
     "updated_at": "2020-03-15T19:44:41+09:00",
     "id": "tani_AI_Academy"
@@ -202,7 +202,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 663,
+    "likes_count": 664,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -290,7 +290,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 455,
+    "likes_count": 456,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2019-12-29T23:17:28+09:00",
     "id": "ryuichi1208"
@@ -370,7 +370,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -424,6 +424,14 @@
     "id": "rana_kualu"
   },
   {
+    "title": "統計検定２級に楽に合格する方法",
+    "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
+    "likes_count": 348,
+    "created_at": "2018-11-28T12:58:31+09:00",
+    "updated_at": "2018-11-28T13:29:26+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
     "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
     "likes_count": 347,
@@ -432,12 +440,12 @@
     "id": "amishiro"
   },
   {
-    "title": "統計検定２級に楽に合格する方法",
-    "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 347,
-    "created_at": "2018-11-28T12:58:31+09:00",
-    "updated_at": "2018-11-28T13:29:26+09:00",
-    "id": "okoppe8"
+    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
+    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
+    "likes_count": 343,
+    "created_at": "2018-11-06T02:18:59+09:00",
+    "updated_at": "2018-11-06T02:18:59+09:00",
+    "id": "psychoroid"
   },
   {
     "title": "オレオレ流Python可視化 チートシート ※随時更新※",
@@ -446,14 +454,6 @@
     "created_at": "2018-11-01T18:22:27+09:00",
     "updated_at": "2018-12-16T14:13:48+09:00",
     "id": "takapy0210"
-  },
-  {
-    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
-    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 342,
-    "created_at": "2018-11-06T02:18:59+09:00",
-    "updated_at": "2018-11-06T02:18:59+09:00",
-    "id": "psychoroid"
   },
   {
     "title": "正規表現を可視化してまとめたチートシート",

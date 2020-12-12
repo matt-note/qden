@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4591,
+    "likes_count": 4594,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2274,
+    "likes_count": 2277,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2020-07-25T13:47:36+09:00",
     "id": "tani_AI_Academy"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1402,
+    "likes_count": 1403,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2018-05-21T11:58:14+09:00",
     "id": "mikesorae"
@@ -74,7 +74,7 @@
   {
     "title": "Dockerについてなるべくわかりやすく説明する",
     "url": "https://qiita.com/rawHam/items/80ba13d2d2d56dba411e",
-    "likes_count": 1384,
+    "likes_count": 1385,
     "created_at": "2018-05-12T19:51:25+09:00",
     "updated_at": "2019-09-13T09:56:44+09:00",
     "id": "rawHam"
@@ -178,7 +178,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 625,
+    "likes_count": 626,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -202,7 +202,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 603,
+    "likes_count": 606,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -282,7 +282,7 @@
   {
     "title": "Javaのサポートについてのまとめ2018",
     "url": "https://qiita.com/nowokay/items/edb5c5df4dbfc4a99ffb",
-    "likes_count": 529,
+    "likes_count": 530,
     "created_at": "2018-05-07T13:19:40+09:00",
     "updated_at": "2020-03-25T20:37:39+09:00",
     "id": "nowokay"
@@ -306,7 +306,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 510,
+    "likes_count": 513,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2020-09-03T15:39:51+09:00",
     "id": "hiyuzawa"
@@ -314,7 +314,7 @@
   {
     "title": "Django未経験者に送るDjango入門ロードマップ",
     "url": "https://qiita.com/nossey/items/03e114a7b728a8b2ae55",
-    "likes_count": 502,
+    "likes_count": 504,
     "created_at": "2018-05-20T04:31:55+09:00",
     "updated_at": "2019-10-09T23:01:05+09:00",
     "id": "nossey"
@@ -352,20 +352,20 @@
     "id": "kyogom"
   },
   {
+    "title": "Pythonのlambdaって分かりやすい",
+    "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
+    "likes_count": 457,
+    "created_at": "2018-05-20T14:33:53+09:00",
+    "updated_at": "2020-11-06T12:05:03+09:00",
+    "id": "nagataaaas"
+  },
+  {
     "title": "2018年Vue.jsを使ってる人には知って欲しいオブジェクトと配列の操作のベストプラクティス",
     "url": "https://qiita.com/kahirokunn/items/9ece44e4327946583a00",
     "likes_count": 457,
     "created_at": "2018-05-22T13:25:41+09:00",
     "updated_at": "2019-11-20T11:57:14+09:00",
     "id": "kahirokunn"
-  },
-  {
-    "title": "Pythonのlambdaって分かりやすい",
-    "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 456,
-    "created_at": "2018-05-20T14:33:53+09:00",
-    "updated_at": "2020-11-06T12:05:03+09:00",
-    "id": "nagataaaas"
   },
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
@@ -458,7 +458,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
