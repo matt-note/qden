@@ -206,6 +206,19 @@
       margin: 2px 0 0 0;
       display: block;
     }
+    #scrollToTop {
+      display: none;
+      position: fixed;
+      right: 10px;
+      bottom: 10px;
+      width: 50px;
+      height: 50px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    .open-scrollToTop {
+      display: block;
+    }
   }
 </style>
 </head>
@@ -336,11 +349,17 @@
       quicklink.listen();
   });
 
+  // 上へボタン表示
+  let scrollToTop = document.getElementById("scrollToTop");
   window.addEventListener("scroll", function() {
-    if (window.pageYOffset > 100 ) {
+    if (window.pageYOffset > 100 && !scrollToTop.classList.contains("open-scrollToTop")) {
       console.log("scrolled!!");
-      // document.getElementById("scrollToTop").classList.toggle("open-scrollToTop");
+      scrollToTop.classList.toggle("open-scrollToTop");
     }
+  });
+  
+  scrollTop.addEventListener("click", function() {
+    _scrollToTop();
   });
 
   function _request(xhr, yyyymm) {
