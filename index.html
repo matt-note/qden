@@ -239,7 +239,7 @@
       <p id="yearMonth" class="yearMonth"></p>
       <ol id="ranking"></ol>
       <button id="scrollToTop">
-        <span> ▲ 上へ </span>
+        <span>▲</span>
       </button>
 
       <footer></footer>
@@ -354,8 +354,11 @@
   // 上へボタン表示
   let scrollToTop = document.getElementById("scrollToTop");
   window.addEventListener("scroll", function() {
-    if (window.pageYOffset > 100 && !scrollToTop.classList.contains("open-scrollToTop")) {
-      console.log("scrolled!!");
+    if (window.pageYOffset > 100) {
+      if (!scrollToTop.classList.contains("open-scrollToTop")) {
+        scrollToTop.classList.toggle("open-scrollToTop");
+      }
+    } else {
       scrollToTop.classList.toggle("open-scrollToTop");
     }
   });
