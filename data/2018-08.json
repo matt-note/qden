@@ -2,7 +2,7 @@
   {
     "title": "いまさらだけどDockerに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/44860fbda1a34a001fc1",
-    "likes_count": 3926,
+    "likes_count": 3940,
     "created_at": "2018-08-08T08:31:56+09:00",
     "updated_at": "2020-06-09T14:01:44+09:00",
     "id": "gold-kou"
@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 3028,
+    "likes_count": 3043,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2020-03-10T11:49:29+09:00",
     "id": "gold-kou"
@@ -26,7 +26,7 @@
   {
     "title": "「世界最悪のログイン処理コード」を解説してみた",
     "url": "https://qiita.com/YSRKEN/items/0095cf75be3f607b0f98",
-    "likes_count": 1647,
+    "likes_count": 1646,
     "created_at": "2018-08-11T21:45:29+09:00",
     "updated_at": "2018-09-22T21:44:31+09:00",
     "id": "YSRKEN"
@@ -34,7 +34,7 @@
   {
     "title": "Firebaseを使い始めたら人生が変わった(ような気がした)",
     "url": "https://qiita.com/owen/items/c51c6ec27c9e2f5804b0",
-    "likes_count": 1575,
+    "likes_count": 1576,
     "created_at": "2018-08-31T00:06:46+09:00",
     "updated_at": "2018-08-31T00:06:46+09:00",
     "id": "owen"
@@ -42,7 +42,7 @@
   {
     "title": "プログラマが知っているとよい色使い(JIS安全色)",
     "url": "https://qiita.com/kaizen_nagoya/items/cb7eb3199b0b98904a35",
-    "likes_count": 1461,
+    "likes_count": 1464,
     "created_at": "2018-08-14T14:36:55+09:00",
     "updated_at": "2020-08-06T19:59:38+09:00",
     "id": "kaizen_nagoya"
@@ -66,7 +66,7 @@
   {
     "title": "モダンなJava開発ガイド (2018年版)",
     "url": "https://qiita.com/yoichiwo7/items/17190cb440ab7d253cea",
-    "likes_count": 1155,
+    "likes_count": 1158,
     "created_at": "2018-08-24T17:07:24+09:00",
     "updated_at": "2018-09-01T14:34:53+09:00",
     "id": "yoichiwo7"
@@ -74,7 +74,7 @@
   {
     "title": "「1000000007 で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜",
     "url": "https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a",
-    "likes_count": 1099,
+    "likes_count": 1103,
     "created_at": "2018-08-01T21:37:04+09:00",
     "updated_at": "2020-11-04T04:27:51+09:00",
     "id": "drken"
@@ -82,7 +82,7 @@
   {
     "title": "「さようなら ImageMagick」の考察",
     "url": "https://qiita.com/yoya/items/2076c1f5137d4041e3aa",
-    "likes_count": 950,
+    "likes_count": 953,
     "created_at": "2018-08-26T03:32:39+09:00",
     "updated_at": "2020-07-10T18:14:49+09:00",
     "id": "yoya"
@@ -98,7 +98,7 @@
   {
     "title": "ポリモーフィズムを活用するとなぜ if や switch  が消えるのか？",
     "url": "https://qiita.com/Nossa/items/a93024e653ff939115c6",
-    "likes_count": 865,
+    "likes_count": 866,
     "created_at": "2018-08-07T07:13:20+09:00",
     "updated_at": "2019-05-09T13:00:37+09:00",
     "id": "Nossa"
@@ -106,7 +106,7 @@
   {
     "title": "JavaScriptのイベントをたくさん見られるサイトを作る",
     "url": "https://qiita.com/nishinoshake/items/9333faad731f5ecaaccd",
-    "likes_count": 653,
+    "likes_count": 652,
     "created_at": "2018-08-06T10:24:50+09:00",
     "updated_at": "2018-08-08T18:36:10+09:00",
     "id": "nishinoshake"
@@ -114,10 +114,18 @@
   {
     "title": "JavaScriptのpreventDefault()って難しくない？preventDefault()を使うための前提知識",
     "url": "https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae",
-    "likes_count": 630,
+    "likes_count": 640,
     "created_at": "2018-08-19T23:18:15+09:00",
     "updated_at": "2019-12-10T12:44:59+09:00",
     "id": "tochiji"
+  },
+  {
+    "title": "TODO: 以外のアノテーションコメントをまとめた",
+    "url": "https://qiita.com/taka-kawa/items/673716d77795c937d422",
+    "likes_count": 583,
+    "created_at": "2018-08-18T23:17:23+09:00",
+    "updated_at": "2019-03-22T19:58:02+09:00",
+    "id": "taka-kawa"
   },
   {
     "title": "JavaScript おじさんが教える本当の Modern JavaScript 入門 1",
@@ -130,23 +138,15 @@
   {
     "title": "SPA(Single Page Application)の学習、そこに高度なスキルなどいらない",
     "url": "https://qiita.com/SoraKumo/items/ded7cec28b3b8792bb88",
-    "likes_count": 580,
+    "likes_count": 581,
     "created_at": "2018-08-28T10:20:31+09:00",
     "updated_at": "2018-08-30T16:13:46+09:00",
     "id": "SoraKumo"
   },
   {
-    "title": "TODO: 以外のアノテーションコメントをまとめた",
-    "url": "https://qiita.com/taka-kawa/items/673716d77795c937d422",
-    "likes_count": 574,
-    "created_at": "2018-08-18T23:17:23+09:00",
-    "updated_at": "2019-03-22T19:58:02+09:00",
-    "id": "taka-kawa"
-  },
-  {
     "title": "【無料】Qiitaの殿堂を作った物語【簡単】",
     "url": "https://qiita.com/youwht/items/9851c2ac9024633fc04e",
-    "likes_count": 529,
+    "likes_count": 530,
     "created_at": "2018-08-05T11:40:45+09:00",
     "updated_at": "2019-11-19T19:20:51+09:00",
     "id": "youwht"
@@ -154,7 +154,7 @@
   {
     "title": "知識を構造化する20のルール(『エンジニアの知的生産術』内紹介)",
     "url": "https://qiita.com/Ishio/items/4ef8d2bceb51594c8ba6",
-    "likes_count": 522,
+    "likes_count": 523,
     "created_at": "2018-08-25T13:53:45+09:00",
     "updated_at": "2018-09-05T18:32:52+09:00",
     "id": "Ishio"
@@ -170,7 +170,7 @@
   {
     "title": "あなたのサイトのjpeg画像は過剰品質である。多分。",
     "url": "https://qiita.com/masato_makino/items/28cc2d82d66dbdb12d9a",
-    "likes_count": 489,
+    "likes_count": 488,
     "created_at": "2018-08-15T21:18:34+09:00",
     "updated_at": "2020-09-28T14:34:43+09:00",
     "id": "masato_makino"
@@ -184,6 +184,14 @@
     "id": "ariaki"
   },
   {
+    "title": "【初心者向け】Anacondaで仮想環境を作ってみる",
+    "url": "https://qiita.com/ozaki_physics/items/985188feb92570e5b82d",
+    "likes_count": 461,
+    "created_at": "2018-08-09T17:19:50+09:00",
+    "updated_at": "2020-06-06T04:37:08+09:00",
+    "id": "ozaki_physics"
+  },
+  {
     "title": "【35歳プログラミング未経験者】が暗号通貨エンジニアに転職するためにしたこと",
     "url": "https://qiita.com/adrenaline0206/items/24157ed2a4587cec3c40",
     "likes_count": 459,
@@ -194,7 +202,7 @@
   {
     "title": "プログラミング未経験者がエンジニアとして配属されるまでに使った書籍と学習コンテンツ",
     "url": "https://qiita.com/KakkiiiiKyg/items/8949cdf5d31b5c7addcd",
-    "likes_count": 458,
+    "likes_count": 457,
     "created_at": "2018-08-12T22:28:36+09:00",
     "updated_at": "2018-08-12T22:28:36+09:00",
     "id": "KakkiiiiKyg"
@@ -216,14 +224,6 @@
     "id": "gounx2"
   },
   {
-    "title": "【初心者向け】Anacondaで仮想環境を作ってみる",
-    "url": "https://qiita.com/ozaki_physics/items/985188feb92570e5b82d",
-    "likes_count": 450,
-    "created_at": "2018-08-09T17:19:50+09:00",
-    "updated_at": "2020-06-06T04:37:08+09:00",
-    "id": "ozaki_physics"
-  },
-  {
     "title": "マサコの知らない自作キーボードの世界",
     "url": "https://qiita.com/sirojake/items/8c60148c03c248fc6a6e",
     "likes_count": 449,
@@ -234,7 +234,7 @@
   {
     "title": "ちゃんと理解するCode Splitting",
     "url": "https://qiita.com/seya/items/06b160adb7801ae9e66f",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2018-08-06T07:59:37+09:00",
     "updated_at": "2018-08-06T07:59:37+09:00",
     "id": "seya"
@@ -242,7 +242,7 @@
   {
     "title": "【保存版】Udemy 350コース突破記念 講師に全力 リスペクト企画 オススメ コース紹介【入門者向け】",
     "url": "https://qiita.com/kurosawa_kuro/items/d3927bdaa68b02a42036",
-    "likes_count": 426,
+    "likes_count": 428,
     "created_at": "2018-08-15T18:32:30+09:00",
     "updated_at": "2019-12-10T11:26:51+09:00",
     "id": "kurosawa_kuro"
@@ -250,7 +250,7 @@
   {
     "title": "チョットできるGoプログラマーになるための詳解GoDoc",
     "url": "https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce",
-    "likes_count": 416,
+    "likes_count": 418,
     "created_at": "2018-08-28T10:40:49+09:00",
     "updated_at": "2020-09-20T16:41:28+09:00",
     "id": "shibukawa"
@@ -266,7 +266,7 @@
   {
     "title": "Git コンフリクト解消手順",
     "url": "https://qiita.com/crarrry/items/c5964512e21e383b73da",
-    "likes_count": 395,
+    "likes_count": 397,
     "created_at": "2018-08-02T08:34:29+09:00",
     "updated_at": "2018-08-03T08:16:36+09:00",
     "id": "crarrry"
@@ -274,7 +274,7 @@
   {
     "title": "DockerfileのCMDとENTRYPOINTを改めて解説する",
     "url": "https://qiita.com/uehaj/items/e6dd013e28593c26372d",
-    "likes_count": 385,
+    "likes_count": 388,
     "created_at": "2018-08-14T13:46:59+09:00",
     "updated_at": "2020-02-28T11:08:50+09:00",
     "id": "uehaj"
@@ -282,31 +282,31 @@
   {
     "title": "まるごとSemantic UIでWebサービスを作った話",
     "url": "https://qiita.com/Yuta_Fujiwara/items/8abeda1b92dcaf505149",
-    "likes_count": 374,
+    "likes_count": 379,
     "created_at": "2018-08-13T08:35:15+09:00",
     "updated_at": "2018-08-15T09:48:32+09:00",
     "id": "Yuta_Fujiwara"
   },
   {
-    "title": "クリーンアーキテクチャの書籍を読んだのでAPIサーバを実装してみた",
-    "url": "https://qiita.com/yoshinori_hisakawa/items/f934178d4bd476c8da32",
-    "likes_count": 373,
-    "created_at": "2018-08-19T11:35:29+09:00",
-    "updated_at": "2018-08-20T12:44:01+09:00",
-    "id": "yoshinori_hisakawa"
-  },
-  {
     "title": "firebaseでサーバレスなSPAアプリを作った話",
     "url": "https://qiita.com/g0e/items/d911effa49fdac5eada2",
-    "likes_count": 372,
+    "likes_count": 373,
     "created_at": "2018-08-10T17:40:58+09:00",
     "updated_at": "2018-08-20T22:41:32+09:00",
     "id": "g0e"
   },
   {
+    "title": "クリーンアーキテクチャの書籍を読んだのでAPIサーバを実装してみた",
+    "url": "https://qiita.com/yoshinori_hisakawa/items/f934178d4bd476c8da32",
+    "likes_count": 372,
+    "created_at": "2018-08-19T11:35:29+09:00",
+    "updated_at": "2018-08-20T12:44:01+09:00",
+    "id": "yoshinori_hisakawa"
+  },
+  {
     "title": "初心者向けdocker-composeコマンド逆引き",
     "url": "https://qiita.com/okyk/items/a374ddb3f853d1688820",
-    "likes_count": 364,
+    "likes_count": 368,
     "created_at": "2018-08-26T11:54:14+09:00",
     "updated_at": "2018-08-26T11:54:14+09:00",
     "id": "okyk"
@@ -322,26 +322,26 @@
   {
     "title": "AWS FargateとTerraformで最強＆簡単なインフラ環境を目指す",
     "url": "https://qiita.com/tarumzu/items/2d7ed918f230fea957e8",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2018-08-16T00:42:24+09:00",
     "updated_at": "2020-04-14T23:23:26+09:00",
     "id": "tarumzu"
   },
   {
-    "title": "JavaScript 正規表現まとめ",
-    "url": "https://qiita.com/iLLviA/items/b6bf680cd2408edd050f",
-    "likes_count": 335,
-    "created_at": "2018-08-17T08:19:03+09:00",
-    "updated_at": "2018-08-19T17:12:43+09:00",
-    "id": "iLLviA"
-  },
-  {
     "title": "[作業効率化] Jupyterの拡張機能を全部調べてみた",
     "url": "https://qiita.com/simonritchie/items/88161c806197a0b84174",
-    "likes_count": 334,
+    "likes_count": 338,
     "created_at": "2018-08-13T00:31:47+09:00",
     "updated_at": "2020-05-08T20:19:40+09:00",
     "id": "simonritchie"
+  },
+  {
+    "title": "JavaScript 正規表現まとめ",
+    "url": "https://qiita.com/iLLviA/items/b6bf680cd2408edd050f",
+    "likes_count": 338,
+    "created_at": "2018-08-17T08:19:03+09:00",
+    "updated_at": "2018-08-19T17:12:43+09:00",
+    "id": "iLLviA"
   },
   {
     "title": "Twitterのツイートを分析して、どういうツイートがRTされやすいのか分析してみた",
@@ -362,7 +362,7 @@
   {
     "title": "Webpacker使うなら最低限これだけは知っておいてほしいこと",
     "url": "https://qiita.com/chimame/items/8d3d6f4afea675cffa7d",
-    "likes_count": 296,
+    "likes_count": 301,
     "created_at": "2018-08-07T15:12:45+09:00",
     "updated_at": "2019-12-18T12:05:23+09:00",
     "id": "chimame"
@@ -386,10 +386,18 @@
   {
     "title": "【Pythonで多分人気2位のWebアプリケーションフレームワーク】Flaskの基本をわかりやすくまとめる",
     "url": "https://qiita.com/gold-kou/items/00e265aadc2112b0f56a",
-    "likes_count": 264,
+    "likes_count": 268,
     "created_at": "2018-08-09T08:21:36+09:00",
     "updated_at": "2019-11-21T15:41:46+09:00",
     "id": "gold-kou"
+  },
+  {
+    "title": "【Git】新人エンジニア、git pushまでの道",
+    "url": "https://qiita.com/yukibe/items/9ef9d54f2e7d53cfb51c",
+    "likes_count": 252,
+    "created_at": "2018-08-11T17:46:51+09:00",
+    "updated_at": "2018-08-11T17:55:08+09:00",
+    "id": "yukibe"
   },
   {
     "title": "株価予測WEBアプリを作ってみた(Python,Django,Heroku)",

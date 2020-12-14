@@ -2,7 +2,7 @@
   {
     "title": "【CSS3】@keyframes と animation 関連のまとめ",
     "url": "https://qiita.com/7968/items/1d999354e00db53bcbd8",
-    "likes_count": 1062,
+    "likes_count": 1068,
     "created_at": "2017-06-28T10:05:37+09:00",
     "updated_at": "2020-04-15T08:40:59+09:00",
     "id": "7968"
@@ -18,7 +18,7 @@
   {
     "title": "GitHub APIから学ぶ次世代のAPI実装方式GraphQL",
     "url": "https://qiita.com/icoxfog417/items/92214aed64f47dfeade5",
-    "likes_count": 968,
+    "likes_count": 967,
     "created_at": "2017-06-21T16:47:49+09:00",
     "updated_at": "2017-06-22T11:11:42+09:00",
     "id": "icoxfog417"
@@ -34,7 +34,7 @@
   {
     "title": "藤井四段で学ぶ最尤推定、MAP推定、ベイズ推定",
     "url": "https://qiita.com/jyori112/items/80b21422b15753a1c5a4",
-    "likes_count": 650,
+    "likes_count": 651,
     "created_at": "2017-06-25T21:21:45+09:00",
     "updated_at": "2020-01-08T03:45:59+09:00",
     "id": "jyori112"
@@ -42,7 +42,7 @@
   {
     "title": "Git、GitHubを教える時に使いたい資料まとめ",
     "url": "https://qiita.com/yuyakato/items/41751848add5dfd5289c",
-    "likes_count": 629,
+    "likes_count": 630,
     "created_at": "2017-06-01T16:56:15+09:00",
     "updated_at": "2017-06-14T13:46:18+09:00",
     "id": "yuyakato"
@@ -50,7 +50,7 @@
   {
     "title": "react-router@v4を使ってみよう：シンプルなtutorial",
     "url": "https://qiita.com/muijp/items/b4ca1773580317e7112e",
-    "likes_count": 605,
+    "likes_count": 606,
     "created_at": "2017-06-27T15:36:55+09:00",
     "updated_at": "2019-02-16T11:58:07+09:00",
     "id": "muijp"
@@ -58,7 +58,7 @@
   {
     "title": "プロジェクト管理のエモいはなし",
     "url": "https://qiita.com/furu8ma/items/5d146c22a5739743aa55",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2017-06-19T05:09:23+09:00",
     "updated_at": "2017-06-19T07:59:09+09:00",
     "id": "furu8ma"
@@ -66,7 +66,7 @@
   {
     "title": "機械学習の超初心者が、みんなが良いと言う記事を読んでまとめてみた",
     "url": "https://qiita.com/2ko2ko/items/bae866695dfdd4a4b5b5",
-    "likes_count": 579,
+    "likes_count": 582,
     "created_at": "2017-06-21T14:16:42+09:00",
     "updated_at": "2020-02-06T09:31:16+09:00",
     "id": "2ko2ko"
@@ -96,20 +96,20 @@
     "id": "masarufuruya"
   },
   {
+    "title": "ES6のexportについて詳しく調べた",
+    "url": "https://qiita.com/senou/items/a2f7a0f717d8aadabbf7",
+    "likes_count": 504,
+    "created_at": "2017-06-25T19:19:38+09:00",
+    "updated_at": "2020-02-10T08:04:21+09:00",
+    "id": "senou"
+  },
+  {
     "title": "趣味でディープラーニングするための GPU 環境を安上がりに作る方法",
     "url": "https://qiita.com/hoto17296/items/16f57b319a0293bd2688",
     "likes_count": 498,
     "created_at": "2017-06-07T19:25:13+09:00",
     "updated_at": "2018-09-18T20:00:19+09:00",
     "id": "hoto17296"
-  },
-  {
-    "title": "ES6のexportについて詳しく調べた",
-    "url": "https://qiita.com/senou/items/a2f7a0f717d8aadabbf7",
-    "likes_count": 498,
-    "created_at": "2017-06-25T19:19:38+09:00",
-    "updated_at": "2020-02-10T08:04:21+09:00",
-    "id": "senou"
   },
   {
     "title": "Deepに理解する深層学習による物体検出 by Keras",
@@ -122,7 +122,7 @@
   {
     "title": "Udemyで学べる機械学習を全部見てみたんで、お勧め報告",
     "url": "https://qiita.com/kurosawa_kuro/items/63e13e6336613d79493a",
-    "likes_count": 448,
+    "likes_count": 450,
     "created_at": "2017-06-14T20:30:37+09:00",
     "updated_at": "2019-09-20T17:22:44+09:00",
     "id": "kurosawa_kuro"
@@ -130,7 +130,7 @@
   {
     "title": "今日からUnity + Visual Studio Codeを用いた快適な開発生活(随時更新中)",
     "url": "https://qiita.com/4_mio_11/items/e7b0a5e65c89ac9d6d7f",
-    "likes_count": 437,
+    "likes_count": 441,
     "created_at": "2017-06-09T21:30:29+09:00",
     "updated_at": "2020-12-05T17:23:11+09:00",
     "id": "4_mio_11"
@@ -138,7 +138,7 @@
   {
     "title": "基礎からはじめる物理ベースレンダリング",
     "url": "https://qiita.com/mebiusbox2/items/e7063c5dfe1424e0d01a",
-    "likes_count": 431,
+    "likes_count": 432,
     "created_at": "2017-07-01T01:52:01+09:00",
     "updated_at": "2020-02-08T09:35:44+09:00",
     "id": "mebiusbox2"
@@ -170,7 +170,7 @@
   {
     "title": "pyenvのインストール、使い方、pythonのバージョン切り替えできない時の対処法",
     "url": "https://qiita.com/koooooo/items/b21d87ffe2b56d0c589b",
-    "likes_count": 400,
+    "likes_count": 401,
     "created_at": "2017-06-23T03:11:51+09:00",
     "updated_at": "2018-06-28T23:31:26+09:00",
     "id": "koooooo"
@@ -178,7 +178,7 @@
   {
     "title": "活性化関数のまとめ（ステップ、シグモイド、ReLU、ソフトマックス、恒等関数）",
     "url": "https://qiita.com/namitop/items/d3d5091c7d0ab669195f",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2017-06-21T02:03:18+09:00",
     "updated_at": "2017-10-01T23:05:39+09:00",
     "id": "namitop"
@@ -186,7 +186,7 @@
   {
     "title": "Laravel キャッシュクリア系コマンドなど",
     "url": "https://qiita.com/Ping/items/10ada8d069e13d729701",
-    "likes_count": 375,
+    "likes_count": 378,
     "created_at": "2017-06-08T18:15:44+09:00",
     "updated_at": "2018-03-22T13:49:36+09:00",
     "id": "Ping"
@@ -216,6 +216,22 @@
     "id": "tamura__246"
   },
   {
+    "title": "AWS：無料でSSL証明書を取得する方法",
+    "url": "https://qiita.com/iwaseasahi/items/1687426add4124899fe3",
+    "likes_count": 334,
+    "created_at": "2017-06-03T12:00:34+09:00",
+    "updated_at": "2018-01-13T09:40:51+09:00",
+    "id": "iwaseasahi"
+  },
+  {
+    "title": "UIKitのView表示ライフサイクルを理解する",
+    "url": "https://qiita.com/shtnkgm/items/f133f73baaa71172efb2",
+    "likes_count": 329,
+    "created_at": "2017-06-16T00:33:03+09:00",
+    "updated_at": "2018-01-13T10:23:44+09:00",
+    "id": "shtnkgm"
+  },
+  {
     "title": "フロントエンドの未来の話",
     "url": "https://qiita.com/kurosame/items/af0716f73da45812d224",
     "likes_count": 328,
@@ -224,25 +240,9 @@
     "id": "kurosame"
   },
   {
-    "title": "AWS：無料でSSL証明書を取得する方法",
-    "url": "https://qiita.com/iwaseasahi/items/1687426add4124899fe3",
-    "likes_count": 327,
-    "created_at": "2017-06-03T12:00:34+09:00",
-    "updated_at": "2018-01-13T09:40:51+09:00",
-    "id": "iwaseasahi"
-  },
-  {
-    "title": "UIKitのView表示ライフサイクルを理解する",
-    "url": "https://qiita.com/shtnkgm/items/f133f73baaa71172efb2",
-    "likes_count": 326,
-    "created_at": "2017-06-16T00:33:03+09:00",
-    "updated_at": "2018-01-13T10:23:44+09:00",
-    "id": "shtnkgm"
-  },
-  {
     "title": "よく聞くUMLって何？",
     "url": "https://qiita.com/github129/items/80d39f2f043489033076",
-    "likes_count": 325,
+    "likes_count": 324,
     "created_at": "2017-06-15T19:51:58+09:00",
     "updated_at": "2017-06-18T21:59:38+09:00",
     "id": "github129"
@@ -258,7 +258,7 @@
   {
     "title": "Kotlin + Architecture Component + Dagger2によるAndroidアプリ設計",
     "url": "https://qiita.com/satorufujiwara/items/0f95ccfc3820d3ee1370",
-    "likes_count": 307,
+    "likes_count": 309,
     "created_at": "2017-06-12T09:27:07+09:00",
     "updated_at": "2017-09-13T14:02:55+09:00",
     "id": "satorufujiwara"
@@ -266,10 +266,18 @@
   {
     "title": "【Python3】ログイン機能付サイトでスクレイピング【requests】【BeautifulSoup】",
     "url": "https://qiita.com/syunyo/items/36af8bcb501baf8c7014",
-    "likes_count": 304,
+    "likes_count": 307,
     "created_at": "2017-06-04T03:20:23+09:00",
     "updated_at": "2018-02-19T04:09:45+09:00",
     "id": "syunyo"
+  },
+  {
+    "title": "FactoryBot(FactoryGirl)チートシート",
+    "url": "https://qiita.com/morrr/items/f1d3ac46b029ccddd017",
+    "likes_count": 277,
+    "created_at": "2017-06-08T22:14:35+09:00",
+    "updated_at": "2019-11-24T09:17:00+09:00",
+    "id": "morrr"
   },
   {
     "title": "競技プログラミングって何？ (はじめての高校生向け)",
@@ -288,9 +296,17 @@
     "id": "tomoyukilabs"
   },
   {
+    "title": "Gitを使ってPull Requestを投げるまで",
+    "url": "https://qiita.com/takamii228/items/80c0996a0b5fa39337bd",
+    "likes_count": 258,
+    "created_at": "2017-06-10T11:34:44+09:00",
+    "updated_at": "2019-12-21T02:09:03+09:00",
+    "id": "takamii228"
+  },
+  {
     "title": "【herokuコマンド】createからdestroyまで",
     "url": "https://qiita.com/chihiro/items/5c3ff400f6cb99deb945",
-    "likes_count": 237,
+    "likes_count": 240,
     "created_at": "2017-06-11T19:54:32+09:00",
     "updated_at": "2019-08-28T08:50:45+09:00",
     "id": "chihiro"
