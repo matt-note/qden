@@ -314,6 +314,8 @@
           });
         }
 
+        _scrollToTop();
+
         // メニュー表示時のクラスを持つ場合に実行
         if (document.getElementById("wrapper").classList.contains("open-wrapper")) {
           _toggleMenu();
@@ -392,6 +394,10 @@
     document.getElementById("wrapper").classList.toggle("open-wrapper");
     document.getElementById("nav-wrapper").classList.toggle("open-nav-wrapper");
     document.getElementById("menu-wrapper").classList.toggle("close-menu-wrapper");
+  }
+
+  function _scrollToTop() {
+    window.scrollTo(0, 0);
   }
   </script>
 </body>
