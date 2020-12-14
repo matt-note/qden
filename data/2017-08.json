@@ -2,7 +2,7 @@
   {
     "title": "今さら人に聞けない Kubernetes とは？",
     "url": "https://qiita.com/MahoTakara/items/85096f8b2632c802ab22",
-    "likes_count": 2363,
+    "likes_count": 2365,
     "created_at": "2017-08-24T17:12:43+09:00",
     "updated_at": "2019-10-11T09:22:22+09:00",
     "id": "MahoTakara"
@@ -10,7 +10,7 @@
   {
     "title": "async/await 入門（JavaScript）",
     "url": "https://qiita.com/soarflat/items/1a9613e023200bbebcb3",
-    "likes_count": 2344,
+    "likes_count": 2345,
     "created_at": "2017-08-03T14:25:22+09:00",
     "updated_at": "2020-11-28T01:42:42+09:00",
     "id": "soarflat"
@@ -18,7 +18,7 @@
   {
     "title": "VS Code の便利なショートカットキー",
     "url": "https://qiita.com/12345/items/64f4372fbca041e949d0",
-    "likes_count": 2242,
+    "likes_count": 2245,
     "created_at": "2017-08-13T07:04:56+09:00",
     "updated_at": "2019-10-16T12:23:28+09:00",
     "id": "12345"
@@ -26,7 +26,7 @@
   {
     "title": "優秀な技術者を追い出してしまう方法",
     "url": "https://qiita.com/nonbiri15/items/961543c6460432289a02",
-    "likes_count": 1777,
+    "likes_count": 1778,
     "created_at": "2017-08-12T14:31:39+09:00",
     "updated_at": "2018-10-25T01:27:25+09:00",
     "id": "nonbiri15"
@@ -50,7 +50,7 @@
   {
     "title": "一番詳しいCSS設計規則BEMのマニュアル",
     "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
-    "likes_count": 1224,
+    "likes_count": 1225,
     "created_at": "2017-08-30T20:48:41+09:00",
     "updated_at": "2019-07-16T17:00:50+09:00",
     "id": "Takuan_Oishii"
@@ -58,7 +58,7 @@
   {
     "title": "<script> タグに async / defer を付けた場合のタイミング",
     "url": "https://qiita.com/phanect/items/82c85ea4b8f9c373d684",
-    "likes_count": 1135,
+    "likes_count": 1136,
     "created_at": "2017-08-05T21:05:47+09:00",
     "updated_at": "2019-02-23T10:01:33+09:00",
     "id": "phanect"
@@ -66,7 +66,7 @@
   {
     "title": "Swaggerの概要をまとめてみた。",
     "url": "https://qiita.com/gcyata/items/342073fa7607fd4082bd",
-    "likes_count": 992,
+    "likes_count": 995,
     "created_at": "2017-08-25T18:03:53+09:00",
     "updated_at": "2018-02-17T23:09:25+09:00",
     "id": "gcyata"
@@ -74,7 +74,7 @@
   {
     "title": "JavaScriptフレームワーク選定の議論",
     "url": "https://qiita.com/azu/items/2921f62127b8d3a1aa03",
-    "likes_count": 933,
+    "likes_count": 934,
     "created_at": "2017-08-02T20:09:31+09:00",
     "updated_at": "2017-08-08T14:20:37+09:00",
     "id": "azu"
@@ -160,6 +160,14 @@
     "id": "icoxfog417"
   },
   {
+    "title": "Pythonを速くしたいときにやったこと",
+    "url": "https://qiita.com/shaka/items/f180ae4dc945dc7b9066",
+    "likes_count": 401,
+    "created_at": "2017-08-08T23:28:35+09:00",
+    "updated_at": "2020-10-17T21:08:21+09:00",
+    "id": "shaka"
+  },
+  {
     "title": "--headless時代の本命？ Chrome を Node.jsから操作するライブラリ puppeteer について",
     "url": "https://qiita.com/Quramy/items/26058e83e898ec2ec078",
     "likes_count": 401,
@@ -176,17 +184,9 @@
     "id": "ognek"
   },
   {
-    "title": "Pythonを速くしたいときにやったこと",
-    "url": "https://qiita.com/shaka/items/f180ae4dc945dc7b9066",
-    "likes_count": 398,
-    "created_at": "2017-08-08T23:28:35+09:00",
-    "updated_at": "2020-10-17T21:08:21+09:00",
-    "id": "shaka"
-  },
-  {
     "title": "Capybaraチートシート",
     "url": "https://qiita.com/morrr/items/0e24251c049180218db4",
-    "likes_count": 390,
+    "likes_count": 391,
     "created_at": "2017-08-20T01:45:12+09:00",
     "updated_at": "2017-08-20T01:45:12+09:00",
     "id": "morrr"
@@ -258,7 +258,7 @@
   {
     "title": "Docker + Rails + Puma + Nginx + MySQL",
     "url": "https://qiita.com/eighty8/items/0288ab9c127ddb683315",
-    "likes_count": 274,
+    "likes_count": 275,
     "created_at": "2017-08-25T17:37:17+09:00",
     "updated_at": "2019-10-28T21:48:44+09:00",
     "id": "eighty8"
