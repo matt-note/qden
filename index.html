@@ -169,6 +169,20 @@
   .updated {
     margin-left: 30px;
   }
+  #scrollToTop {
+    display: none;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    padding: 4px;
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .open-scrollToTop {
+    display: block;
+  }
   @media screen and (max-width: 480px) { /*PC前提で作っちゃったため*/
     /* 画面が小さい時に適用される */
     .nav-wrapper {
@@ -206,19 +220,7 @@
       margin: 2px 0 0 0;
       display: block;
     }
-    #scrollToTop {
-      display: none;
-      position: fixed;
-      right: 10px;
-      bottom: 10px;
-      width: 50px;
-      height: 50px;
-      border-radius: 8px;
-      cursor: pointer;
-    }
-    .open-scrollToTop {
-      display: block;
-    }
+    /* 画面が小さい時に適用される */
   }
 </style>
 </head>
@@ -237,7 +239,7 @@
       <p id="yearMonth" class="yearMonth"></p>
       <ol id="ranking"></ol>
       <button id="scrollToTop">
-        <span>▲ 上へ</span>
+        <span> ▲ 上へ </span>
       </button>
 
       <footer></footer>
