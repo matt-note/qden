@@ -4,8 +4,6 @@
 START_YM=2011-08-01
 END_YM=`date +%Y-%m-%d`
 
-echo $TZ
-
 TEMP_YM=$START_YM
 while [ 1 ] ; do
 
@@ -20,8 +18,7 @@ while [ 1 ] ; do
   # 月末を確認
   date -d "$TEMP_YM -1 day" "+%Y-%m-%d"
 
-  # 一旦、ファイル作成を確認
-  # 欲しい期間のデータを取得できるか確認
+  # yyyymmごとのデータ取得を実行
   curl -G \
     --data-urlencode "query=created:>$(date -d "$TEMP_YM -1 day" "+%Y-%m-%d") created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
     --data-urlencode "page=1" \
