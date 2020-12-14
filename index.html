@@ -223,6 +223,9 @@
       <h1 class="heading">Qiita殿堂入りのホームページ（β）</h1>
       <p id="yearMonth" class="yearMonth"></p>
       <ol id="ranking"></ol>
+      <button id="scrollToTop">
+        <span>▲ 上へ</span>
+      </button>
 
       <footer></footer>
     </main>
@@ -324,13 +327,20 @@
     });
   });
 
-  window.addEventListener('load', function() {
+  document.getElementById("menu-wrapper").addEventListener("click", function() {
+    _toggleMenu();
+  });
+
+  window.addEventListener("load", function() {
     // DOM描画後にquicklinkを実行
       quicklink.listen();
   });
 
-  document.getElementById("menu-wrapper").addEventListener("click", function() {
-    _toggleMenu();
+  window.addEventListener("scroll", function() {
+    if (window.pageYOffset > 100 ) {
+      console.log("scrolled!!");
+      // document.getElementById("scrollToTop").classList.toggle("open-scrollToTop");
+    }
   });
 
   function _request(xhr, yyyymm) {
