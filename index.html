@@ -358,8 +358,11 @@
       if (!scrollToTop.classList.contains("open-scrollToTop")) {
         scrollToTop.classList.toggle("open-scrollToTop");
       }
-    } else {
-      scrollToTop.classList.toggle("open-scrollToTop");
+    }
+    if (window.pageYOffset < 100) {
+      if (scrollToTop.classList.contains("open-scrollToTop")) {
+        scrollToTop.classList.toggle("open-scrollToTop");
+      }
     }
   });
 
