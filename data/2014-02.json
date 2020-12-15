@@ -2,7 +2,7 @@
   {
     "title": "iOSでこんなアプリ,こんな機能を作りたかったらこれを見ろ！作りたいアプリに対応するクラス、フレームワーク、ライブラリのまとめ！",
     "url": "https://qiita.com/appwatcher/items/b02255026a3ee6d95142",
-    "likes_count": 2200,
+    "likes_count": 2201,
     "created_at": "2014-02-22T13:58:37+09:00",
     "updated_at": "2016-09-26T09:48:03+09:00",
     "id": "appwatcher"
@@ -10,7 +10,7 @@
   {
     "title": "Dockerコマンドメモ",
     "url": "https://qiita.com/curseoff/items/a9e64ad01d673abb6866",
-    "likes_count": 1977,
+    "likes_count": 1978,
     "created_at": "2014-02-03T23:11:04+09:00",
     "updated_at": "2018-12-09T22:31:23+09:00",
     "id": "curseoff"
@@ -58,7 +58,7 @@
   {
     "title": "Zsh 入門者のための超速設定ガイド",
     "url": "https://qiita.com/uasi/items/c4288dd835a65eb9d709",
-    "likes_count": 896,
+    "likes_count": 895,
     "created_at": "2014-02-02T14:00:14+09:00",
     "updated_at": "2019-12-09T19:49:26+09:00",
     "id": "uasi"
@@ -90,7 +90,7 @@
   {
     "title": ".bash_profile ? .bashrc ? いろいろあるけどこいつらなにもの？",
     "url": "https://qiita.com/hirokishirai/items/5a529c8395c4b336bf31",
-    "likes_count": 830,
+    "likes_count": 832,
     "created_at": "2014-02-17T05:02:00+09:00",
     "updated_at": "2017-07-14T17:38:00+09:00",
     "id": "hirokishirai"
@@ -106,7 +106,7 @@
   {
     "title": "SSH接続エラー回避方法：.ssh/known_hostsから特定のホストを削除する/削除しないで対処する3つの方法",
     "url": "https://qiita.com/grgrjnjn/items/8ca33b64ea0406e12938",
-    "likes_count": 813,
+    "likes_count": 814,
     "created_at": "2014-02-28T19:28:51+09:00",
     "updated_at": "2020-01-24T21:28:53+09:00",
     "id": "grgrjnjn"
@@ -114,7 +114,7 @@
   {
     "title": "経験ゼロでもできるプログラミング現場の単体テスト",
     "url": "https://qiita.com/disc99/items/177bdf6352de463fdc87",
-    "likes_count": 800,
+    "likes_count": 802,
     "created_at": "2014-02-20T02:46:19+09:00",
     "updated_at": "2016-11-03T15:32:27+09:00",
     "id": "disc99"
@@ -122,7 +122,7 @@
   {
     "title": "anyenvで開発環境を整える",
     "url": "https://qiita.com/luckypool/items/f1e756e9d3e9786ad9ea",
-    "likes_count": 696,
+    "likes_count": 697,
     "created_at": "2014-02-04T14:55:08+09:00",
     "updated_at": "2014-03-18T14:34:45+09:00",
     "id": "luckypool"
@@ -210,7 +210,7 @@
   {
     "title": "MacにJava(JDK)をインストール",
     "url": "https://qiita.com/ryo0301/items/3c9a02e03b4e9a41f576",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2014-02-17T16:32:45+09:00",
     "updated_at": "2015-01-26T16:22:48+09:00",
     "id": "ryo0301"
@@ -264,6 +264,14 @@
     "id": "kou"
   },
   {
+    "title": "シンボリックリンクの作成と削除",
+    "url": "https://qiita.com/colorrabbit/items/2e99304bd92201261c60",
+    "likes_count": 418,
+    "created_at": "2014-02-05T16:31:29+09:00",
+    "updated_at": "2014-02-05T18:10:07+09:00",
+    "id": "colorrabbit"
+  },
+  {
     "title": "SMACSSによるCSS設計",
     "url": "https://qiita.com/matsui-a/items/9b9188904d160a3ec223",
     "likes_count": 418,
@@ -278,14 +286,6 @@
     "created_at": "2014-02-10T18:25:07+09:00",
     "updated_at": "2017-01-17T00:39:28+09:00",
     "id": "budougumi0617"
-  },
-  {
-    "title": "シンボリックリンクの作成と削除",
-    "url": "https://qiita.com/colorrabbit/items/2e99304bd92201261c60",
-    "likes_count": 417,
-    "created_at": "2014-02-05T16:31:29+09:00",
-    "updated_at": "2014-02-05T18:10:07+09:00",
-    "id": "colorrabbit"
   },
   {
     "title": "DeployGateでiOSアプリを配布する方法",
@@ -314,7 +314,7 @@
   {
     "title": "美しいOnClickListenerの実装方法(を教えてください)",
     "url": "https://qiita.com/t2low/items/8ac683c7ebf4b6dd1b41",
-    "likes_count": 374,
+    "likes_count": 375,
     "created_at": "2014-02-28T20:44:30+09:00",
     "updated_at": "2014-03-09T23:42:21+09:00",
     "id": "t2low"
@@ -410,7 +410,7 @@
   {
     "title": "javascriptで文字コード変換",
     "url": "https://qiita.com/weal/items/3b3ddfb8157047119554",
-    "likes_count": 258,
+    "likes_count": 259,
     "created_at": "2014-02-21T02:19:30+09:00",
     "updated_at": "2017-11-08T13:20:58+09:00",
     "id": "weal"
