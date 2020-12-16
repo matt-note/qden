@@ -294,7 +294,7 @@
       <span id="menu-wrapper">
         <span class="menu-circle">● </span><span class="menu">メニュー</span>
       </span>
-      <h1 class="heading">Qiita殿堂入りのホームページ（β）</h1>
+      <h1 class="heading">Qiita殿堂入りのホームページ</h1>
       <p id="yearMonth" class="yearMonth"></p>
       <ol id="ranking"></ol>
       <button id="scrollToTop">
@@ -304,8 +304,8 @@
         <div id="modalBg" class="modalBg"></div>
         <div class="modalWrapper">
           <div class="modalContents">
-            <h1>Here are modal without jQuery!</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <h1>アクセス解析ツールについて</h1>
+            <p>当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。このGoogleアナリティクスはトラフィックデータの収集のためにクッキー（Cookie）を使用しております。トラフィックデータは匿名で収集されており、個人を特定するものではありません。</p>
           </div>
           <div id="closeModal" class="closeModal">
             ×
@@ -443,17 +443,23 @@
   });
 
   // modal
-  const modalArea = document.getElementById('modalArea');
+  // const modalArea = document.getElementById('modalArea');
   const openModal = document.getElementById('openModal');
   const closeModal = document.getElementById('closeModal');
   const modalBg = document.getElementById('modalBg');
-  const toggle = [openModal,closeModal,modalBg];
+  // const toggle = [openModal,closeModal,modalBg];
 
-  for(let i=0, len=toggle.length ; i<len ; i++){
-    toggle[i].addEventListener('click',function(){
-      modalArea.classList.toggle('is-show');
-    },false);
-  }
+  [openModal,closeModal,modalBg].forEach(function(toggle) {
+    toggle.addEventListener('click',function(){
+      document.getElementById('modalArea').classList.toggle('is-show');
+    });
+  });
+
+  // for(let i=0, len=toggle.length ; i<len ; i++){
+  //   toggle.addEventListener('click',function(){
+  //     document.getElementById('modalArea').classList.toggle('is-show');
+  //   });
+  // }
 
 
   function _request(xhr, yyyymm) {
