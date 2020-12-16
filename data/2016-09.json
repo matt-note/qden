@@ -2,7 +2,7 @@
   {
     "title": "不安とストレスから解放される見積りとスケジュール方法",
     "url": "https://qiita.com/hirokidaichi/items/5a204a57a200569f755d",
-    "likes_count": 2928,
+    "likes_count": 2929,
     "created_at": "2016-09-09T00:59:09+09:00",
     "updated_at": "2018-12-11T14:20:41+09:00",
     "id": "hirokidaichi"
@@ -10,7 +10,7 @@
   {
     "title": "Vue.js を vue-cli を使ってシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/dde495d6a8ad1c25fa43",
-    "likes_count": 1845,
+    "likes_count": 1848,
     "created_at": "2016-09-11T00:09:02+09:00",
     "updated_at": "2020-07-13T11:18:21+09:00",
     "id": "567000"
@@ -50,7 +50,7 @@
   {
     "title": "Webpackってどんなもの？",
     "url": "https://qiita.com/kamykn/items/45fb4690ace32216ca25",
-    "likes_count": 1104,
+    "likes_count": 1105,
     "created_at": "2016-09-17T14:48:58+09:00",
     "updated_at": "2016-09-19T19:22:07+09:00",
     "id": "kamykn"
@@ -122,7 +122,7 @@
   {
     "title": "RESTful APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/0647c30ef596cedf4bf2",
-    "likes_count": 735,
+    "likes_count": 738,
     "created_at": "2016-09-05T07:36:21+09:00",
     "updated_at": "2016-09-05T07:36:21+09:00",
     "id": "NagaokaKenichi"
@@ -146,10 +146,18 @@
   {
     "title": "若手エンジニアを不幸にしないための開発の「べからず」集",
     "url": "https://qiita.com/nonbiri15/items/80e75fbdc358d9144215",
-    "likes_count": 725,
+    "likes_count": 727,
     "created_at": "2016-09-10T21:09:46+09:00",
     "updated_at": "2020-08-27T02:07:32+09:00",
     "id": "nonbiri15"
+  },
+  {
+    "title": "Rails における内部結合、外部結合まとめ",
+    "url": "https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30",
+    "likes_count": 718,
+    "created_at": "2016-09-04T00:45:31+09:00",
+    "updated_at": "2020-10-28T00:43:04+09:00",
+    "id": "yuyasat"
   },
   {
     "title": "Android Studioの超高速コーディングを支える技術（テクニック）",
@@ -158,14 +166,6 @@
     "created_at": "2016-09-14T00:03:05+09:00",
     "updated_at": "2016-09-15T00:06:19+09:00",
     "id": "yuya_presto"
-  },
-  {
-    "title": "Rails における内部結合、外部結合まとめ",
-    "url": "https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30",
-    "likes_count": 716,
-    "created_at": "2016-09-04T00:45:31+09:00",
-    "updated_at": "2020-10-28T00:43:04+09:00",
-    "id": "yuyasat"
   },
   {
     "title": "なぜHaskellを学ぶと良いか",
@@ -186,7 +186,7 @@
   {
     "title": "aptコマンドチートシート",
     "url": "https://qiita.com/SUZUKI_Masaya/items/1fd9489e631c78e5b007",
-    "likes_count": 677,
+    "likes_count": 679,
     "created_at": "2016-09-23T15:55:30+09:00",
     "updated_at": "2020-06-27T08:55:38+09:00",
     "id": "SUZUKI_Masaya"
@@ -210,7 +210,7 @@
   {
     "title": "UniRx入門 その1",
     "url": "https://qiita.com/toRisouP/items/2f1643e344c741dd94f8",
-    "likes_count": 632,
+    "likes_count": 633,
     "created_at": "2016-09-05T03:06:26+09:00",
     "updated_at": "2020-11-09T15:01:13+09:00",
     "id": "toRisouP"
@@ -250,7 +250,7 @@
   {
     "title": "React.jsの知っておいて損はないTips",
     "url": "https://qiita.com/endam/items/1bde821c4b29f9b663da",
-    "likes_count": 543,
+    "likes_count": 545,
     "created_at": "2016-09-21T05:55:09+09:00",
     "updated_at": "2016-09-22T16:41:34+09:00",
     "id": "endam"
@@ -290,7 +290,7 @@
   {
     "title": "nginxについてまとめ(設定編)",
     "url": "https://qiita.com/morrr/items/7c97f0d2e46f7a8ec967",
-    "likes_count": 471,
+    "likes_count": 473,
     "created_at": "2016-09-08T22:17:25+09:00",
     "updated_at": "2020-06-17T14:23:27+09:00",
     "id": "morrr"
@@ -490,7 +490,7 @@
   {
     "title": "【まとめ】Vagrant コマンド一覧",
     "url": "https://qiita.com/oreo3@github/items/4054a4120ccc249676d9",
-    "likes_count": 281,
+    "likes_count": 282,
     "created_at": "2016-09-14T08:38:28+09:00",
     "updated_at": "2020-06-12T10:48:54+09:00",
     "id": "oreo3@github"
@@ -498,7 +498,7 @@
   {
     "title": "よく使うcurlコマンドのオプションまとめ（14個）",
     "url": "https://qiita.com/shtnkgm/items/45b4cd274fa813d29539",
-    "likes_count": 268,
+    "likes_count": 269,
     "created_at": "2016-09-20T22:09:49+09:00",
     "updated_at": "2019-02-02T10:27:46+09:00",
     "id": "shtnkgm"
