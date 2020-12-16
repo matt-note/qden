@@ -207,7 +207,7 @@
     transform:translate(-50%,-50%);
     width: 70%;
     max-width: 500px;
-    padding: 10px 30px;
+    padding: 30px 30px;
     background-color: #fff;
   }
 
@@ -222,16 +222,6 @@
     visibility: visible;
     opacity : 1;
   }
-  /* モーダルCSSここまで */
-
-  /* 以下ボタンスタイル */
-  /* button {
-    padding: 10px;
-    background-color: #fff;
-    border: 1px solid #282828;
-    border-radius: 2px;
-    cursor: pointer;
-  } */
 
   #openModal {
     margin: 0 0 30px 20px;
@@ -443,24 +433,15 @@
   });
 
   // modal
-  // const modalArea = document.getElementById('modalArea');
   const openModal = document.getElementById('openModal');
   const closeModal = document.getElementById('closeModal');
   const modalBg = document.getElementById('modalBg');
-  // const toggle = [openModal,closeModal,modalBg];
 
   [openModal,closeModal,modalBg].forEach(function(toggle) {
     toggle.addEventListener('click',function(){
       document.getElementById('modalArea').classList.toggle('is-show');
     });
   });
-
-  // for(let i=0, len=toggle.length ; i<len ; i++){
-  //   toggle.addEventListener('click',function(){
-  //     document.getElementById('modalArea').classList.toggle('is-show');
-  //   });
-  // }
-
 
   function _request(xhr, yyyymm) {
     xhr.open('GET', './data/' + yyyymm +'.json');
