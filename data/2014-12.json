@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマに正月休み中を使って読んでみてほしい技術書をセレクトしてみた。",
     "url": "https://qiita.com/hirokidaichi/items/d30714f0698dcff1200f",
-    "likes_count": 2918,
+    "likes_count": 2919,
     "created_at": "2014-12-18T21:49:50+09:00",
     "updated_at": "2018-02-20T09:54:50+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "SEO嫌いにお送りするSEO策。これでもうSEOについてしばらく考えなくて良いぜ！！",
     "url": "https://qiita.com/taiyop/items/050c6749fb693dae8f82",
-    "likes_count": 1733,
+    "likes_count": 1734,
     "created_at": "2014-12-30T01:28:18+09:00",
     "updated_at": "2015-01-07T21:48:03+09:00",
     "id": "taiyop"
@@ -34,7 +34,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1661,
+    "likes_count": 1663,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2018-01-25T21:45:47+09:00",
     "id": "jnchito"
@@ -42,7 +42,7 @@
   {
     "title": "homebrewとは何者か。仕組みについて調べてみた",
     "url": "https://qiita.com/omega999/items/6f65217b81ad3fffe7e6",
-    "likes_count": 1571,
+    "likes_count": 1572,
     "created_at": "2014-12-04T20:41:15+09:00",
     "updated_at": "2014-12-04T20:41:15+09:00",
     "id": "omega999"
@@ -98,7 +98,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1187,
+    "likes_count": 1188,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -138,7 +138,7 @@
   {
     "title": "JavaScriptでforEach, filter, map, reduceとか",
     "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
-    "likes_count": 828,
+    "likes_count": 829,
     "created_at": "2014-12-21T00:42:04+09:00",
     "updated_at": "2018-09-23T17:07:32+09:00",
     "id": "itagakishintaro"
@@ -194,7 +194,7 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 685,
+    "likes_count": 686,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
@@ -314,7 +314,7 @@
   {
     "title": "zshの外部プラグインまとめ",
     "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2014-12-25T00:15:28+09:00",
     "updated_at": "2015-03-10T00:02:36+09:00",
     "id": "mollifier"
@@ -394,7 +394,7 @@
   {
     "title": ".bash_profileと.bashrcについて",
     "url": "https://qiita.com/shyamahira/items/260862743e4c9794b5d2",
-    "likes_count": 487,
+    "likes_count": 488,
     "created_at": "2014-12-20T23:26:00+09:00",
     "updated_at": "2014-12-20T23:26:00+09:00",
     "id": "shyamahira"
@@ -570,7 +570,7 @@
   {
     "title": "Makefileの関数",
     "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2014-12-24T21:58:53+09:00",
     "updated_at": "2017-05-15T10:21:03+09:00",
     "id": "chibi929"
@@ -720,6 +720,14 @@
     "id": "ksasao"
   },
   {
+    "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
+    "url": "https://qiita.com/mkasahara/items/c029154b5436913b20e0",
+    "likes_count": 274,
+    "created_at": "2014-12-19T03:49:35+09:00",
+    "updated_at": "2019-06-18T16:58:55+09:00",
+    "id": "mkasahara"
+  },
+  {
     "title": "ニューラルネットワークと深層学習(和訳)",
     "url": "https://qiita.com/nushio/items/7bc4a32d8e27e8b5b751",
     "likes_count": 273,
@@ -742,14 +750,6 @@
     "created_at": "2014-12-15T22:32:53+09:00",
     "updated_at": "2018-05-08T10:13:10+09:00",
     "id": "mattn"
-  },
-  {
-    "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
-    "url": "https://qiita.com/mkasahara/items/c029154b5436913b20e0",
-    "likes_count": 273,
-    "created_at": "2014-12-19T03:49:35+09:00",
-    "updated_at": "2019-06-18T16:58:55+09:00",
-    "id": "mkasahara"
   },
   {
     "title": "知らないと損?RubyMine(IntelliJ)で役立つ細かいテクニック７つ",

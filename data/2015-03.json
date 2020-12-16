@@ -2,7 +2,7 @@
   {
     "title": "忙しい人のためのIntelliJ IDEAショートカット集（´-`）",
     "url": "https://qiita.com/yoppe/items/f7cbeb825c071691d3f2",
-    "likes_count": 2084,
+    "likes_count": 2089,
     "created_at": "2015-03-25T04:20:23+09:00",
     "updated_at": "2020-11-16T07:48:12+09:00",
     "id": "yoppe"
@@ -18,7 +18,7 @@
   {
     "title": "[git reset (--hard/--soft)]ワーキングツリー、インデックス、HEADを使いこなす方法",
     "url": "https://qiita.com/shuntaro_tamura/items/db1aef9cf9d78db50ffe",
-    "likes_count": 1552,
+    "likes_count": 1554,
     "created_at": "2015-03-07T11:39:00+09:00",
     "updated_at": "2016-03-16T21:10:25+09:00",
     "id": "shuntaro_tamura"
@@ -194,7 +194,7 @@
   {
     "title": "【Unity】ゲーム会社でスマホ向けゲームを開発して得た知識 コーディング編",
     "url": "https://qiita.com/baba_s/items/f2ad850dd7fc84165e96",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2015-03-02T10:55:17+09:00",
     "updated_at": "2015-03-06T18:55:45+09:00",
     "id": "baba_s"
@@ -250,7 +250,7 @@
   {
     "title": "routeのmoduleとnamespaceとscopeの違い",
     "url": "https://qiita.com/blueplanet/items/522cc8364f6cf189ecad",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2015-03-01T11:55:59+09:00",
     "updated_at": "2015-08-13T19:59:06+09:00",
     "id": "blueplanet"
@@ -386,7 +386,7 @@
   {
     "title": "AWS上のデータベースサービスが沢山あってよくわからないので、整理してまとめてみた",
     "url": "https://qiita.com/iron-breaker/items/48b430e125e7c4ef0fbd",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2015-03-22T18:54:32+09:00",
     "updated_at": "2015-03-23T12:32:51+09:00",
     "id": "iron-breaker"
@@ -394,7 +394,7 @@
   {
     "title": "AWS SNSを使ってiOSへpush通知",
     "url": "https://qiita.com/InletOrder/items/2cbff7664e49fb93bf39",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2015-03-24T04:39:25+09:00",
     "updated_at": "2016-04-18T11:46:47+09:00",
     "id": "InletOrder"
@@ -432,6 +432,14 @@
     "id": "moriyaman"
   },
   {
+    "title": "JavaScriptで正規表現（文字列置換え編）",
+    "url": "https://qiita.com/hrdaya/items/291276a5a20971592216",
+    "likes_count": 276,
+    "created_at": "2015-03-08T10:06:37+09:00",
+    "updated_at": "2015-03-12T04:34:44+09:00",
+    "id": "hrdaya"
+  },
+  {
     "title": "初心者のためのRuby＆Rails勉強フロー",
     "url": "https://qiita.com/AkiyoshiOkano/items/20e124adc9f04a8ef19a",
     "likes_count": 276,
@@ -448,12 +456,12 @@
     "id": "sofpyon"
   },
   {
-    "title": "JavaScriptで正規表現（文字列置換え編）",
-    "url": "https://qiita.com/hrdaya/items/291276a5a20971592216",
+    "title": "ちょいちょいわからなくなるcheckbox, radio, selectboxの値の取り方",
+    "url": "https://qiita.com/nmta/items/dc29378adf79c5784218",
     "likes_count": 275,
-    "created_at": "2015-03-08T10:06:37+09:00",
-    "updated_at": "2015-03-12T04:34:44+09:00",
-    "id": "hrdaya"
+    "created_at": "2015-03-13T12:21:20+09:00",
+    "updated_at": "2015-03-13T12:22:18+09:00",
+    "id": "nmta"
   },
   {
     "title": "仮想開発環境構築ツールまとめ",
@@ -462,14 +470,6 @@
     "created_at": "2015-03-11T19:39:14+09:00",
     "updated_at": "2018-09-23T01:05:20+09:00",
     "id": "tanish-kr"
-  },
-  {
-    "title": "ちょいちょいわからなくなるcheckbox, radio, selectboxの値の取り方",
-    "url": "https://qiita.com/nmta/items/dc29378adf79c5784218",
-    "likes_count": 274,
-    "created_at": "2015-03-13T12:21:20+09:00",
-    "updated_at": "2015-03-13T12:22:18+09:00",
-    "id": "nmta"
   },
   {
     "title": "apacheとnginxの比較表とベンチマーク",

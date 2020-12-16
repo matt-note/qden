@@ -10,7 +10,7 @@
   {
     "title": "Pythonを書き始める前に見るべきTips",
     "url": "https://qiita.com/icoxfog417/items/e8f97a6acad07903b5b0",
-    "likes_count": 3960,
+    "likes_count": 3961,
     "created_at": "2014-07-29T17:43:20+09:00",
     "updated_at": "2020-02-04T12:14:07+09:00",
     "id": "icoxfog417"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3169,
+    "likes_count": 3172,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -42,7 +42,7 @@
   {
     "title": "Python Django入門 (1)",
     "url": "https://qiita.com/kaki_k/items/511611cadac1d0c69c54",
-    "likes_count": 2027,
+    "likes_count": 2028,
     "created_at": "2014-07-27T00:14:48+09:00",
     "updated_at": "2020-01-09T23:41:21+09:00",
     "id": "kaki_k"
@@ -66,7 +66,7 @@
   {
     "title": "【Git】基本コマンド",
     "url": "https://qiita.com/konweb/items/621722f67fdd8f86a017",
-    "likes_count": 1662,
+    "likes_count": 1663,
     "created_at": "2014-07-12T03:08:15+09:00",
     "updated_at": "2019-06-15T23:17:12+09:00",
     "id": "konweb"
@@ -74,7 +74,7 @@
   {
     "title": "ログ設計指針",
     "url": "https://qiita.com/nanasess/items/350e59b29cceb2f122b3",
-    "likes_count": 1507,
+    "likes_count": 1508,
     "created_at": "2014-07-16T11:28:44+09:00",
     "updated_at": "2020-11-09T18:44:53+09:00",
     "id": "nanasess"
@@ -114,7 +114,7 @@
   {
     "title": "Go言語で幸せになれる10のテクニック",
     "url": "https://qiita.com/ksato9700/items/6228d4eb6d5b282f82f6",
-    "likes_count": 1058,
+    "likes_count": 1059,
     "created_at": "2014-07-20T13:26:43+09:00",
     "updated_at": "2018-10-12T01:39:07+09:00",
     "id": "ksato9700"
@@ -202,7 +202,7 @@
   {
     "title": "Android Studioで覚えておくと便利なこと",
     "url": "https://qiita.com/sugoi_wada/items/db449d5cbb5c83cb586c",
-    "likes_count": 567,
+    "likes_count": 568,
     "created_at": "2014-07-21T10:09:15+09:00",
     "updated_at": "2020-01-26T21:05:16+09:00",
     "id": "sugoi_wada"
@@ -258,7 +258,7 @@
   {
     "title": "なぜ、IDEじゃなくてVimを使うか。",
     "url": "https://qiita.com/rbtnn/items/88dcbe60d49db6de8002",
-    "likes_count": 521,
+    "likes_count": 522,
     "created_at": "2014-07-20T21:06:14+09:00",
     "updated_at": "2014-07-20T22:42:57+09:00",
     "id": "rbtnn"
@@ -272,28 +272,28 @@
     "id": "hnakamur"
   },
   {
+    "title": "Python Django入門 (3)",
+    "url": "https://qiita.com/kaki_k/items/7b178ad39394a031b50d",
+    "likes_count": 505,
+    "created_at": "2014-07-27T00:22:31+09:00",
+    "updated_at": "2020-01-09T23:54:14+09:00",
+    "id": "kaki_k"
+  },
+  {
+    "title": "Systemd メモ書き",
+    "url": "https://qiita.com/a_yasui/items/f2d8b57aa616e523ede4",
+    "likes_count": 504,
+    "created_at": "2014-07-11T14:46:46+09:00",
+    "updated_at": "2018-09-26T20:28:37+09:00",
+    "id": "a_yasui"
+  },
+  {
     "title": "テストの種類と技法",
     "url": "https://qiita.com/ktarow/items/8c3d94d6c21a0c86b799",
     "likes_count": 504,
     "created_at": "2014-07-31T00:38:51+09:00",
     "updated_at": "2014-07-31T00:38:51+09:00",
     "id": "ktarow"
-  },
-  {
-    "title": "Systemd メモ書き",
-    "url": "https://qiita.com/a_yasui/items/f2d8b57aa616e523ede4",
-    "likes_count": 503,
-    "created_at": "2014-07-11T14:46:46+09:00",
-    "updated_at": "2018-09-26T20:28:37+09:00",
-    "id": "a_yasui"
-  },
-  {
-    "title": "Python Django入門 (3)",
-    "url": "https://qiita.com/kaki_k/items/7b178ad39394a031b50d",
-    "likes_count": 502,
-    "created_at": "2014-07-27T00:22:31+09:00",
-    "updated_at": "2020-01-09T23:54:14+09:00",
-    "id": "kaki_k"
   },
   {
     "title": "Go のクロスコンパイル環境構築",
@@ -426,7 +426,7 @@
   {
     "title": "MongoDB コマンドメモとか書き",
     "url": "https://qiita.com/svjunic/items/285e9cf20169d70aa1fa",
-    "likes_count": 402,
+    "likes_count": 404,
     "created_at": "2014-07-25T15:46:46+09:00",
     "updated_at": "2020-08-17T11:25:27+09:00",
     "id": "svjunic"
@@ -514,7 +514,7 @@
   {
     "title": "Swiftのプロパティ監視(willSet/didSet)の挙動について調べてみた",
     "url": "https://qiita.com/takabosoft/items/b3af8b30a8c5111f4fce",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2014-07-17T14:30:47+09:00",
     "updated_at": "2015-03-26T17:30:47+09:00",
     "id": "takabosoft"
@@ -602,7 +602,7 @@
   {
     "title": "CSSでラジオボタンとチェックボックスにスタイルを当てる",
     "url": "https://qiita.com/ryo620org/items/a7941774469a6229a64a",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2014-07-18T23:04:39+09:00",
     "updated_at": "2016-06-13T12:57:49+09:00",
     "id": "ryo620org"
@@ -610,7 +610,7 @@
   {
     "title": "JavaのユニットテストにSpockを適用する",
     "url": "https://qiita.com/euno7/items/1e834d3d58da3e659f92",
-    "likes_count": 313,
+    "likes_count": 314,
     "created_at": "2014-07-20T22:06:36+09:00",
     "updated_at": "2014-07-31T22:26:58+09:00",
     "id": "euno7"

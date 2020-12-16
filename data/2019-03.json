@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 2710,
+    "likes_count": 2711,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2020-11-04T17:56:10+09:00",
     "id": "upura"
@@ -66,7 +66,7 @@
   {
     "title": "未経験から7日間でコーダーとして現場投入させるまでのカリキュラムを忘れないようにメモっとく",
     "url": "https://qiita.com/hissy/items/e781a62ff6521803a230",
-    "likes_count": 1356,
+    "likes_count": 1355,
     "created_at": "2019-03-25T08:16:32+09:00",
     "updated_at": "2019-03-28T20:08:37+09:00",
     "id": "hissy"
@@ -82,7 +82,7 @@
   {
     "title": "実践/現場のPythonスクレイピング流儀",
     "url": "https://qiita.com/ulwlu/items/c84501993635c72540a7",
-    "likes_count": 1261,
+    "likes_count": 1262,
     "created_at": "2019-03-18T13:10:31+09:00",
     "updated_at": "2020-06-25T22:38:33+09:00",
     "id": "ulwlu"
@@ -90,7 +90,7 @@
   {
     "title": "ワイ「いうても型なんて面倒くさいだけやろ？」",
     "url": "https://qiita.com/Yametaro/items/2eaa6fd75255c8c2a2bb",
-    "likes_count": 1257,
+    "likes_count": 1258,
     "created_at": "2019-03-05T23:30:10+09:00",
     "updated_at": "2020-06-01T11:19:55+09:00",
     "id": "Yametaro"
@@ -170,7 +170,7 @@
   {
     "title": "VSCodeでなるべくマウスを使わない開発環境をがんばる",
     "url": "https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353",
-    "likes_count": 759,
+    "likes_count": 760,
     "created_at": "2019-03-11T07:44:47+09:00",
     "updated_at": "2020-10-11T20:56:14+09:00",
     "id": "y-tsutsu"
@@ -242,7 +242,7 @@
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 619,
+    "likes_count": 621,
     "created_at": "2019-03-14T23:15:05+09:00",
     "updated_at": "2020-12-13T21:40:32+09:00",
     "id": "nrslib"
@@ -250,7 +250,7 @@
   {
     "title": "なんとなくVue.jsのUIフレームワークを紹介する",
     "url": "https://qiita.com/yusuke_ten/items/4103f032dd0c6fbe5607",
-    "likes_count": 608,
+    "likes_count": 609,
     "created_at": "2019-03-05T17:07:02+09:00",
     "updated_at": "2019-03-06T09:00:57+09:00",
     "id": "yusuke_ten"
@@ -290,7 +290,7 @@
   {
     "title": "モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace",
     "url": "https://qiita.com/yu4u/items/078054dfb5592cbb80cc",
-    "likes_count": 546,
+    "likes_count": 547,
     "created_at": "2019-03-06T08:49:26+09:00",
     "updated_at": "2019-03-06T09:56:22+09:00",
     "id": "yu4u"
@@ -306,7 +306,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -354,10 +354,18 @@
   {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
     "url": "https://qiita.com/klriutsa/items/7f6047485968c61b6a5d",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2019-03-26T22:06:32+09:00",
     "updated_at": "2019-04-01T16:45:39+09:00",
     "id": "klriutsa"
+  },
+  {
+    "title": "textlint と VS Code で始める文章校正",
+    "url": "https://qiita.com/takasp/items/22f7f72b691fda30aea2",
+    "likes_count": 404,
+    "created_at": "2019-03-21T12:08:05+09:00",
+    "updated_at": "2019-03-22T13:07:38+09:00",
+    "id": "takasp"
   },
   {
     "title": "JavaScript で陥りやすい失敗例を振り返る",
@@ -366,14 +374,6 @@
     "created_at": "2019-03-15T19:39:37+09:00",
     "updated_at": "2019-03-17T10:14:46+09:00",
     "id": "yuki153"
-  },
-  {
-    "title": "textlint と VS Code で始める文章校正",
-    "url": "https://qiita.com/takasp/items/22f7f72b691fda30aea2",
-    "likes_count": 403,
-    "created_at": "2019-03-21T12:08:05+09:00",
-    "updated_at": "2019-03-22T13:07:38+09:00",
-    "id": "takasp"
   },
   {
     "title": "【Rails】MySQL2がbundle installできない時の対応方法",
@@ -386,7 +386,7 @@
   {
     "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
     "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
-    "likes_count": 396,
+    "likes_count": 398,
     "created_at": "2019-03-29T15:54:09+09:00",
     "updated_at": "2019-09-12T14:54:07+09:00",
     "id": "KRiver1"
@@ -458,7 +458,7 @@
   {
     "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
     "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
-    "likes_count": 365,
+    "likes_count": 367,
     "created_at": "2019-03-22T20:21:49+09:00",
     "updated_at": "2019-04-04T14:22:15+09:00",
     "id": "tancoro"
@@ -554,7 +554,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 245,
+    "likes_count": 246,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2020-12-12T06:19:58+09:00",
     "id": "i-tanaka730"
