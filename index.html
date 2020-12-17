@@ -13,7 +13,27 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Qiita殿堂入りのホームページです" />
+<link rel="canonical" href="https://matt-note.github.io/qden/">
 <title>Qiita殿堂入りのホームページ</title>
+<!-- PWA対応 -->
+<link rel="manifest" href="./manifest.json" />
+<script>
+  window.addEventListener('load', function () {
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register("./serviceWorker.js")
+          .then(function (registration) {
+              console.log("serviceWorker registed.");
+          }).catch(function (error) {
+              console.warn("serviceWorker error.", error);
+          });
+    }
+  });
+</script>
+<link rel="apple-touch-icon" sizes="180x180" href="./images/icon-192x192.png">
+<!-- favicon -->
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+
 <style>
   * {
     box-sizing: border-box;
@@ -411,7 +431,7 @@
   });
 
   window.addEventListener("load", function() {
-    // DOM描画後にquicklinkを実行
+    // 画像などページのすべてを読み込んだ後にquicklinkを実行
       quicklink.listen();
   });
 
