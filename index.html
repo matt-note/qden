@@ -363,7 +363,8 @@
     let counter = 0;
 
     let startDate = new Date(2011,8,1);
-    while(startDate < new Date()) {
+    // 実験
+    while(startDate < new Date(2021,1,1)) {
       let sideATag = document.createElement("a");
 
       startDate = new Date(startDate.setMonth(startDate.getMonth() + 1));
