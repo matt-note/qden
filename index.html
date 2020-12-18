@@ -390,7 +390,8 @@
     // ループ後に今年の年を追加
     if (startDate.getMonth() != 0) {
       const thisYear = document.createElement("p");
-      thisYear.textContent = new Date().getFullYear() + "年";
+      // 実験
+      thisYear.textContent = new Date(2021,1,1).getFullYear() + "年";
       thisYear.className = "nav-icon-top";
       sidebar.insertBefore(thisYear, sidebar.firstChild);
     }
