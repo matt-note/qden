@@ -2,7 +2,7 @@
   {
     "title": "今時のPythonはこう書く2020",
     "url": "https://qiita.com/nicco_mirai/items/c1810ed2a6fc8c53c006",
-    "likes_count": 1476,
+    "likes_count": 1488,
     "created_at": "2020-12-04T08:24:15+09:00",
     "updated_at": "2020-12-06T14:11:32+09:00",
     "id": "nicco_mirai"
@@ -10,7 +10,7 @@
   {
     "title": "単一責任原則で無責任な多目的クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/76307b1b066467cbfd6a",
-    "likes_count": 1182,
+    "likes_count": 1211,
     "created_at": "2020-12-08T11:46:34+09:00",
     "updated_at": "2020-12-09T13:17:47+09:00",
     "id": "MinoDriven"
@@ -18,7 +18,7 @@
   {
     "title": "引っ越しすることになったので機械学習を使って全力で自分の住む家を決めようとした話",
     "url": "https://qiita.com/pao2/items/24728936ee6f6674ae37",
-    "likes_count": 920,
+    "likes_count": 938,
     "created_at": "2020-12-11T00:31:55+09:00",
     "updated_at": "2020-12-11T08:11:58+09:00",
     "id": "pao2"
@@ -26,7 +26,7 @@
   {
     "title": "技術選定/アーキテクチャ設計で後悔しないためのガイドライン",
     "url": "https://qiita.com/hirokidaichi/items/a746062917595619720b",
-    "likes_count": 846,
+    "likes_count": 895,
     "created_at": "2020-12-15T16:21:33+09:00",
     "updated_at": "2020-12-15T16:36:06+09:00",
     "id": "hirokidaichi"
@@ -34,7 +34,7 @@
   {
     "title": "管理者用初期化URLを踏んでWebサービスのデータをふっとばした話",
     "url": "https://qiita.com/HirotoKagotani/items/181052eb85b686783806",
-    "likes_count": 828,
+    "likes_count": 832,
     "created_at": "2020-12-07T12:16:35+09:00",
     "updated_at": "2020-12-09T11:04:38+09:00",
     "id": "HirotoKagotani"
@@ -42,23 +42,39 @@
   {
     "title": "1年半のソフトウェアエンジニア長期インターンで出会ったオススメ本をたくさん紹介します",
     "url": "https://qiita.com/TodayInsane/items/5a04b5b1cf846a6d11d8",
-    "likes_count": 634,
+    "likes_count": 637,
     "created_at": "2020-12-04T09:48:13+09:00",
     "updated_at": "2020-12-05T02:24:52+09:00",
     "id": "TodayInsane"
   },
   {
+    "title": "僕が考える最強のコミットメッセージの書き方",
+    "url": "https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e",
+    "likes_count": 608,
+    "created_at": "2020-12-02T01:58:24+09:00",
+    "updated_at": "2020-12-16T07:00:48+09:00",
+    "id": "konatsu_p"
+  },
+  {
     "title": "WebSocketの次の技術！？WebTransportについての解説とチュートリアル",
     "url": "https://qiita.com/yuki_uchida/items/d9de148bb2ee418563cf",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2020-12-02T20:02:38+09:00",
     "updated_at": "2020-12-10T20:52:20+09:00",
     "id": "yuki_uchida"
   },
   {
+    "title": "2で割ることと3で割ること",
+    "url": "https://qiita.com/saka1_p/items/6400e5cedea0b3c286c9",
+    "likes_count": 526,
+    "created_at": "2020-12-09T00:01:48+09:00",
+    "updated_at": "2020-12-12T09:43:11+09:00",
+    "id": "saka1_p"
+  },
+  {
     "title": "ニコニコで12年運用した決済システムを移行する上で必要だったこと",
     "url": "https://qiita.com/chiyoppy/items/2571e8e3ae675cc7a991",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2020-12-02T11:30:57+09:00",
     "updated_at": "2020-12-03T13:05:53+09:00",
     "id": "chiyoppy"
@@ -66,7 +82,7 @@
   {
     "title": "よく知らないアプリケーションの性能と戦わないといけないときの防衛術（前編）",
     "url": "https://qiita.com/nfujita55a/items/3760cd099ca890f5a4d4",
-    "likes_count": 417,
+    "likes_count": 422,
     "created_at": "2020-12-05T12:31:33+09:00",
     "updated_at": "2020-12-06T00:09:57+09:00",
     "id": "nfujita55a"
@@ -74,7 +90,7 @@
   {
     "title": "OpenCVでのデモの見栄えを工夫したまとめ(ディープラーニング系)",
     "url": "https://qiita.com/Kazuhito/items/f8f21956436dc410f8d2",
-    "likes_count": 389,
+    "likes_count": 396,
     "created_at": "2020-12-06T16:12:34+09:00",
     "updated_at": "2020-12-12T00:53:13+09:00",
     "id": "Kazuhito"
@@ -90,7 +106,7 @@
   {
     "title": "レビューする人も、される人も知っておきたい！開発プロセスごとのレビュー観点チェックリスト",
     "url": "https://qiita.com/vankobe/items/551a77fc4fd4b1378fd8",
-    "likes_count": 335,
+    "likes_count": 341,
     "created_at": "2020-12-01T21:25:46+09:00",
     "updated_at": "2020-12-07T07:01:01+09:00",
     "id": "vankobe"
@@ -98,9 +114,9 @@
   {
     "title": "Angular と Firebase で月間 3.5億PV になった PWA の収益性改善とコストカット",
     "url": "https://qiita.com/MasanobuAkiba/items/6f2e02eceaded9664b14",
-    "likes_count": 296,
+    "likes_count": 298,
     "created_at": "2020-12-07T06:52:19+09:00",
-    "updated_at": "2020-12-11T12:56:01+09:00",
+    "updated_at": "2020-12-18T22:51:42+09:00",
     "id": "MasanobuAkiba"
   }
 ]
