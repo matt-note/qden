@@ -362,9 +362,9 @@
     // サイドバーの●の色分けのために使用
     let counter = 0;
 
+    // Qiitaサービス公開年月から現在の年月までリンクを作成
     let startDate = new Date(2011,8,1);
-    // 実験
-    while(startDate < new Date(2021,1,1)) {
+    while(startDate < new Date()) {
       let sideATag = document.createElement("a");
 
       startDate = new Date(startDate.setMonth(startDate.getMonth() + 1));
@@ -390,8 +390,7 @@
     // ループ後に今年の年を追加
     if (startDate.getMonth() != 0) {
       const thisYear = document.createElement("p");
-      // 実験
-      thisYear.textContent = new Date(2021,1,1).getFullYear() + "年";
+      thisYear.textContent = new Date().getFullYear() + "年";
       thisYear.className = "nav-icon-top";
       sidebar.insertBefore(thisYear, sidebar.firstChild);
     }
