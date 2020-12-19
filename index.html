@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="ja" prefix="og: http://ogp.me/ns#">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics - これはheadタグの一番上に配置する必要がある-->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7V04XFXQ9P"></script>
@@ -14,7 +14,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Qiita殿堂入りのホームページです" />
 <link rel="canonical" href="https://matt-note.github.io/qden/">
+<!-- favicon -->
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="./favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="./favicon.ico">
 <title>Qiita殿堂入りのホームページ</title>
+<!-- OGP対応 -->
+<meta property="og:title" content="Qiita殿堂入りのホームページ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://matt-note.github.io/qden/" />
+<meta property="og:image" content="./images/icon-512x512.png" />
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content=”summary">
+<meta meta name=”twitter:site” content=”@matt59649858">
 <!-- PWA対応 -->
 <link rel="manifest" href="./manifest.json" />
 <script>
@@ -30,9 +41,6 @@
   });
 </script>
 <link rel="apple-touch-icon" sizes="180x180" href="./images/icon-192x192.png">
-<!-- favicon -->
-<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="./favicon.ico">
-<link rel="icon" type="image/vnd.microsoft.icon" href="./favicon.ico">
 
 <style>
   * {
@@ -298,6 +306,7 @@
 <body>
   <div id="wrapper" class="wrapper">
     <nav id="nav-wrapper" class="nav-wrapper">
+      <a href="https://twitter.com/intent/tweet?button_hashtag=Q殿&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Q殿</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       <ul id="sidebar" class="nav">
       </ul>
       <button id="openModal">プライバシーポリシー</button>
