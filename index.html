@@ -374,6 +374,13 @@
       });
     }
 
+    // GitHub Actions実行日時を取得。APIのpushed_atから。
+    let xhr = new XMLHttpRequest();
+    xhr.open('GET', 'https://api.github.com/repos/matt-note/qden');
+    xhr.responseType = 'json';
+    xhr.send();
+    console.log(xhr);
+
     // 左サイドバーの年月リンクを作成する
     const sideBar = document.getElementById("sidebar");
     const sideBarInner = document.createElement("div");
