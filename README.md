@@ -2,6 +2,14 @@
 
 # Q殿
 
+https://matt-note.github.io/qden/
+
 Qden(Q殿) is auto-generate ranking system for Qiita.
 
-![B5CA7MyCIAI_O2K](https://user-images.githubusercontent.com/39484102/100466905-06050a80-3115-11eb-84ec-774d82694e6f.jpg)
+Design is derived from [Hiroshi Abe's homepage](http://abehiroshi.la.coocan.jp/), which is called Abehiroshize.
+
+<!--
+Detail is written in article below. (Japanese)
+
+- [Qiita殿堂入りアプリを作りました（二番煎じ）]()
+-->
