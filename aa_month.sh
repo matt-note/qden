@@ -16,11 +16,11 @@ while [ 1 ] ; do
   TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
 
   # 月末を確認
-  date -d "$TEMP_YM -1 day" "+%Y-%m-%d"
+  echo $(date -d "$TEMP_YM -1 day" "+%Y-%m-%d")__$(date -d "$TEMP_YM 1 month" "+%Y-%m-%d")
 
   # yyyymmごとのデータ取得を実行
   curl -G \
-    --data-urlencode "query=created:>$(date -d "$TEMP_YM -1 day" "+%Y-%m-%d") created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m") stocks:>261" \
+    --data-urlencode "query=created:>$(date -d "$TEMP_YM -1 day" "+%Y-%m-%d") created:<$(date -d "$TEMP_YM 1 month" "+%Y-%m-%d") stocks:>261" \
     --data-urlencode "page=1" \
     --data-urlencode "per_page=100" \
     --silent \
