@@ -314,7 +314,7 @@
       <div class="twitter-btn">
         <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-hashtags="Q殿" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
-      <div class="github-workflow-status">
+      <div id="github-workflow-status" class="github-workflow-status">
         <a href="https://github.com/matt-note/qden/actions" target="_blank" rel="noopener">
           <img src="https://github.com/matt-note/qden/workflows/Create%20Monthly%20Ranking/badge.svg" alt="github flow status">
         </a>
@@ -375,11 +375,19 @@
     }
 
     // GitHub Actions実行日時を取得。APIのpushed_atから。
-    let pushed_at = new XMLHttpRequest();
-    pushed_at.open('GET', 'https://api.github.com/repos/matt-note/qden');
-    pushed_at.responseType = 'json';
-    pushed_at.send();
-    console.log(pushed_at);
+    let xhr_gh = new XMLHttpRequest();
+    xhr_gh.open('GET', 'https://api.github.com/repos/matt-note/qden');
+    xhr_gh.responseType = 'json';
+    xhr_gh.send();
+
+    xhr_gh.onload = function() {
+      _isDataNotFound(xhr_gh);
+
+      let ghPushedTime = document.createElement("time");
+      ghPushedTime.innerHTML = xhr_gh.response.pushed_at;
+
+      document.getElementById("github-actions-status").appendChild(gh_exec_time);
+    }
 
     // 左サイドバーの年月リンクを作成する
     const sideBar = document.getElementById("sidebar");
