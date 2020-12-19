@@ -307,11 +307,11 @@
 </style>
 </head>
 <body>
-  <!--
-  ＿人人人人人人人人人人人人人人＿
+<!--
+  ＿人人人人人人人人人人人人人＿
   ＞　Lenovoのパソコン欲しい！　＜
-  ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
-  -->
+  ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+-->
   <div id="wrapper" class="wrapper">
     <nav id="nav-wrapper" class="nav-wrapper">
       <ul id="sidebar" class="nav">
@@ -360,6 +360,8 @@
   </script>
   <script>
   window.addEventListener('DOMContentLoaded', function() {
+
+    _lenovo();
 
     // 初期表示データ
     let xhr = new XMLHttpRequest();
@@ -556,6 +558,12 @@
 
   function _scrollToTop() {
     window.scrollTo(0, 0);
+  }
+
+  function _lenovo() {
+    console.log("   ＿人人人人人人人人人人人人人人＿");
+    console.log("  ＞　Lenovoのパソコン欲しい！　 ＜");
+    console.log("  ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣")
   }
   </script>
 </body>
