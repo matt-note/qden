@@ -511,6 +511,7 @@
     let month = document.getElementById("yearMonth");
     if (arrayLength === 0) {
       month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入りはありません　★★★";
+      document.getElementById("ranking").style = "padding: 0 0 0 40px";
       return;
     }
     month.textContent = "★★★　" + yearMonth.slice(0, 4) + "年" + parseInt(yearMonth.slice(5,7), 10)  + "月の殿堂入り　★★★";
