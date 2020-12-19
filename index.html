@@ -375,11 +375,11 @@
     }
 
     // GitHub Actions実行日時を取得。APIのpushed_atから。
-    let xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https://api.github.com/repos/matt-note/qden');
-    xhr.responseType = 'json';
-    xhr.send();
-    console.log(xhr);
+    let pushed_at = new XMLHttpRequest();
+    pushed_at.open('GET', 'https://api.github.com/repos/matt-note/qden');
+    pushed_at.responseType = 'json';
+    pushed_at.send();
+    console.log(pushed_at);
 
     // 左サイドバーの年月リンクを作成する
     const sideBar = document.getElementById("sidebar");
