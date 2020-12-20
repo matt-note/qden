@@ -245,11 +245,12 @@
     visibility: visible;
     opacity : 1;
   }
-  #openModal {
-    margin: 0 0 30px 20px;
-  }
+
   /* ツイートボタンなどの配置 */
   .sidebar-bottom {
+    margin-bottom: 50px;
+  }
+  .sidebar-bottom > div {
     margin-left: 20px;
     margin-bottom: 14px;
   }
@@ -324,10 +325,14 @@
             <img src="https://github.com/matt-note/qden/workflows/Create%20Monthly%20Ranking/badge.svg" alt="github flow status">
           </a>
         </div>
-        <button class="specification">
-          <a href="#" target="_blank" rel="noopener">サイト仕様(Qiita記事)</a>
-        </button>
-        <button id="openModal">プライバシーポリシー</button>
+        <div>
+          <button class="specification" style="display: block">
+            <a href="#" target="_blank" rel="noopener">サイト仕様(Qiita記事)</a>
+          </button>
+        </div>
+        <div>
+          <button id="openModal">プライバシーポリシー</button>
+        </div>
       </div>
     </nav>
 
