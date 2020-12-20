@@ -4,10 +4,12 @@
 
 https://matt-note.github.io/qden/
 
-Qden(Q殿) is auto-generate ranking system for Qiita.
+Q殿はQiitaでストック数が262以上の記事を月ごとにランキング表示するWebアプリです。
+
+PWAに対応しているため、スマホのホーム画面に追加できます。
+
+詳細は下記の記事(Qiita)に記載しています。
 
 <!--
-Detail is written in article below. (Japanese)
-
 - [Qiita殿堂入りアプリを作りました（二番煎じ）]()
 -->
