@@ -248,14 +248,13 @@
   #openModal {
     margin: 0 0 30px 20px;
   }
-
-  .twitter-btn {
+  /* ツイートボタンなどの配置 */
+  .sidebar-bottom {
     margin-left: 20px;
     margin-bottom: 14px;
   }
-  .github-workflow-status {
-    margin-left: 20px;
-    margin-bottom: 14px;
+  .specification > a {
+    color: black;
   }
 
   @media screen and (max-width: 900px) {
@@ -309,22 +308,27 @@
 <body>
 <!--
   ＿人人人人人人人人人人人人人＿
-  ＞　Lenovoのパソコン欲しい！　＜
+  ＞　Lenovoのパソコン欲しい！＜
   ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
 -->
   <div id="wrapper" class="wrapper">
     <nav id="nav-wrapper" class="nav-wrapper">
       <ul id="sidebar" class="nav">
       </ul>
-      <div class="twitter-btn">
-        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-hashtags="Q殿" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <div class="sidebar-bottom">
+        <div class="twitter-btn">
+          <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-hashtags="Q殿" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        <div class="github-workflow-status">
+          <a href="https://github.com/matt-note/qden/actions" target="_blank" rel="noopener">
+            <img src="https://github.com/matt-note/qden/workflows/Create%20Monthly%20Ranking/badge.svg" alt="github flow status">
+          </a>
+        </div>
+        <button class="specification">
+          <a href="#" target="_blank" rel="noopener">サイト仕様(Qiita記事)</a>
+        </button>
+        <button id="openModal">プライバシーポリシー</button>
       </div>
-      <div class="github-workflow-status">
-        <a href="https://github.com/matt-note/qden/actions" target="_blank" rel="noopener">
-          <img src="https://github.com/matt-note/qden/workflows/Create%20Monthly%20Ranking/badge.svg" alt="github flow status">
-        </a>
-      </div>
-      <button id="openModal">プライバシーポリシー</button>
     </nav>
 
     <main class="contents-wrapper">
@@ -562,7 +566,7 @@
   }
 
   function _lenovo() {
-    console.log("   ＿人人人人人人人人人人人人人人＿");
+    console.log("  ＿人人人人人人人人人人人人人人＿");
     console.log("  ＞　Lenovoのパソコン欲しい！ ＜");
     console.log("  ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣")
   }
