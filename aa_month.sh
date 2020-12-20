@@ -15,8 +15,8 @@ while [ 1 ] ; do
   # 月を1加算
   TEMP_YM=`date -d "$TEMP_YM 1 month" "+%Y-%m-%d"`
 
-  # 月末を確認
-  echo $(date -d "$TEMP_YM -1 day" "+%Y-%m-%d")__$(date -d "$TEMP_YM 1 month" "+%Y-%m-%d")
+  # 対象年月を出力
+  echo $(date -d "$TEMP_YM -1 day" "+%Y-%m-%d")__$(date -d "$TEMP_YM 1 month" "+%Y-%m-%d")...$(date -d $TEMP_YM "+%Y-%m-%d")
 
   # yyyymmごとのデータ取得を実行
   curl -G \

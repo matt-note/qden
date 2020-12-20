@@ -8,7 +8,8 @@ on:
 
 env:
   QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
-  TZ: 'Asia/Tokyo'
+  # TZ: 'Asia/Tokyo'
+  # -> これを設定してもGitHub ActionsはUTCで実行する。
 
 jobs:
   create_monthly_ranking:
@@ -18,8 +19,6 @@ jobs:
       - name: Checkout submodules
         shell: bash
         run: |
-          echo $TZ
-          date
           bash aa_month.sh
           git config --global user.name "matt-note"
           git config --global user.email "${{ secrets.EMAIL }}"
