@@ -42,7 +42,7 @@
   {
     "title": "Haskell 超入門",
     "url": "https://qiita.com/7shi/items/145f1234f8ec2af923ef",
-    "likes_count": 1156,
+    "likes_count": 1157,
     "created_at": "2014-08-20T15:02:12+09:00",
     "updated_at": "2020-10-10T17:26:29+09:00",
     "id": "7shi"
@@ -106,7 +106,7 @@
   {
     "title": "プログラマが持つべき心構え (The Zen of Python)",
     "url": "https://qiita.com/IshitaTakeshi/items/e4145921c8dbf7ba57ef",
-    "likes_count": 806,
+    "likes_count": 807,
     "created_at": "2014-08-13T10:44:49+09:00",
     "updated_at": "2018-08-05T15:28:23+09:00",
     "id": "IshitaTakeshi"
@@ -122,7 +122,7 @@
   {
     "title": "MySQL初級者を脱するために勉強してること -INDEX編-",
     "url": "https://qiita.com/kkyouhei/items/e3502ef632c48d94541d",
-    "likes_count": 728,
+    "likes_count": 729,
     "created_at": "2014-08-09T22:23:33+09:00",
     "updated_at": "2014-08-11T11:18:39+09:00",
     "id": "kkyouhei"
@@ -130,7 +130,7 @@
   {
     "title": "なぜクロージャ（Closure）と言うのか？",
     "url": "https://qiita.com/mochizukikotaro/items/7403835a0dbb00ea71ae",
-    "likes_count": 714,
+    "likes_count": 715,
     "created_at": "2014-08-24T12:34:19+09:00",
     "updated_at": "2014-08-24T12:34:19+09:00",
     "id": "mochizukikotaro"
@@ -202,7 +202,7 @@
   {
     "title": "vagrantのネットワークについて",
     "url": "https://qiita.com/ftakao2007/items/0ec05c2ef3c14cdbea11",
-    "likes_count": 607,
+    "likes_count": 608,
     "created_at": "2014-08-12T00:38:27+09:00",
     "updated_at": "2016-06-18T17:35:30+09:00",
     "id": "ftakao2007"
@@ -282,10 +282,18 @@
   {
     "title": "pyenvを使ってMacにPythonの環境を構築する",
     "url": "https://qiita.com/1000ch/items/93841f76ea52551b6a97",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2014-08-28T14:59:56+09:00",
     "updated_at": "2020-01-31T16:32:22+09:00",
     "id": "1000ch"
+  },
+  {
+    "title": "DateTime クラスのまとめメモ",
+    "url": "https://qiita.com/re-24/items/c3ed814f2e1ee0f8e811",
+    "likes_count": 466,
+    "created_at": "2014-08-07T21:17:46+09:00",
+    "updated_at": "2017-06-05T23:09:14+09:00",
+    "id": "re-24"
   },
   {
     "title": "iOS 8から位置情報を取得する方法が変わるよ",
@@ -294,14 +302,6 @@
     "created_at": "2014-08-12T13:47:34+09:00",
     "updated_at": "2016-04-03T12:32:49+09:00",
     "id": "koogawa"
-  },
-  {
-    "title": "DateTime クラスのまとめメモ",
-    "url": "https://qiita.com/re-24/items/c3ed814f2e1ee0f8e811",
-    "likes_count": 465,
-    "created_at": "2014-08-07T21:17:46+09:00",
-    "updated_at": "2017-06-05T23:09:14+09:00",
-    "id": "re-24"
   },
   {
     "title": "Node.jsをとりあえず始めるにあたって現実的に必要だった知識",

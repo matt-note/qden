@@ -2,7 +2,7 @@
   {
     "title": "一番分かりやすい OAuth の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be",
-    "likes_count": 5968,
+    "likes_count": 5970,
     "created_at": "2017-07-14T06:21:33+09:00",
     "updated_at": "2020-03-20T15:05:04+09:00",
     "id": "TakahikoKawasaki"
@@ -18,7 +18,7 @@
   {
     "title": "macOSでディスプレイ1枚で作業する技術",
     "url": "https://qiita.com/saboyutaka/items/d6cfd2a2b60f1a374d60",
-    "likes_count": 1907,
+    "likes_count": 1908,
     "created_at": "2017-07-11T11:16:29+09:00",
     "updated_at": "2020-11-24T16:52:11+09:00",
     "id": "saboyutaka"
@@ -26,7 +26,7 @@
   {
     "title": "一番分かりやすい OpenID Connect の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe",
-    "likes_count": 1590,
+    "likes_count": 1592,
     "created_at": "2017-07-24T04:19:55+09:00",
     "updated_at": "2020-03-20T15:05:48+09:00",
     "id": "TakahikoKawasaki"
@@ -50,7 +50,7 @@
   {
     "title": "JavaScript の this を理解する多分一番分かりやすい説明",
     "url": "https://qiita.com/takkyun/items/c6e2f2cf25327299cf03",
-    "likes_count": 1080,
+    "likes_count": 1081,
     "created_at": "2017-07-30T06:55:45+09:00",
     "updated_at": "2018-10-15T04:31:34+09:00",
     "id": "takkyun"
@@ -98,7 +98,7 @@
   {
     "title": "LINEのBot開発 超入門（前編） ゼロから応答ができるまで",
     "url": "https://qiita.com/nkjm/items/38808bbc97d6927837cd",
-    "likes_count": 642,
+    "likes_count": 641,
     "created_at": "2017-07-10T10:26:31+09:00",
     "updated_at": "2019-02-22T08:13:44+09:00",
     "id": "nkjm"
@@ -122,7 +122,7 @@
   {
     "title": "【超初心者向け】Maven超入門",
     "url": "https://qiita.com/tarosa0001/items/e5667cfa857529900216",
-    "likes_count": 594,
+    "likes_count": 595,
     "created_at": "2017-07-01T18:17:19+09:00",
     "updated_at": "2018-11-01T00:48:30+09:00",
     "id": "tarosa0001"
@@ -272,20 +272,20 @@
     "id": "maruloop"
   },
   {
+    "title": "【いまさらですが】package.jsonのdependenciesとdevDependencies",
+    "url": "https://qiita.com/chihiro/items/ca1529f9b3d016af53ec",
+    "likes_count": 354,
+    "created_at": "2017-07-21T22:26:42+09:00",
+    "updated_at": "2019-08-28T08:50:02+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "要件定義と基本設計で決めなきゃいけないこと",
     "url": "https://qiita.com/Yakushigawa_N/items/7c2e00f514dc9c44c3e0",
     "likes_count": 354,
     "created_at": "2017-07-27T23:50:20+09:00",
     "updated_at": "2017-07-27T23:50:20+09:00",
     "id": "Yakushigawa_N"
-  },
-  {
-    "title": "【いまさらですが】package.jsonのdependenciesとdevDependencies",
-    "url": "https://qiita.com/chihiro/items/ca1529f9b3d016af53ec",
-    "likes_count": 353,
-    "created_at": "2017-07-21T22:26:42+09:00",
-    "updated_at": "2019-08-28T08:50:02+09:00",
-    "id": "chihiro"
   },
   {
     "title": "DockerでサクッとDBからER図を作成する",
