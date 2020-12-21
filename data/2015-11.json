@@ -2,7 +2,7 @@
   {
     "title": "オブジェクト指向と10年戦ってわかったこと",
     "url": "https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e",
-    "likes_count": 4814,
+    "likes_count": 4816,
     "created_at": "2015-11-19T07:03:23+09:00",
     "updated_at": "2018-12-24T11:45:06+09:00",
     "id": "tutinoco"
@@ -10,7 +10,7 @@
   {
     "title": "初心者エンジニアにおすすめしたい「進捗どうなった？」と言われないための仕事の進め方",
     "url": "https://qiita.com/soyanchu/items/d1cb9785fc211941a009",
-    "likes_count": 2294,
+    "likes_count": 2295,
     "created_at": "2015-11-19T16:38:11+09:00",
     "updated_at": "2020-11-20T22:24:54+09:00",
     "id": "soyanchu"
@@ -18,7 +18,7 @@
   {
     "title": "gitとプルリクエストに関して思うことまとめ",
     "url": "https://qiita.com/doilux/items/b5a9abd95ac91e848a5f",
-    "likes_count": 1756,
+    "likes_count": 1757,
     "created_at": "2015-11-08T00:35:59+09:00",
     "updated_at": "2017-12-27T12:58:20+09:00",
     "id": "doilux"
@@ -42,10 +42,18 @@
   {
     "title": "JavaScriptの配列の使い方まとめ。要素の追加,結合,取得,削除。",
     "url": "https://qiita.com/takeharu/items/d75f96f81ff83680013f",
-    "likes_count": 1533,
+    "likes_count": 1534,
     "created_at": "2015-11-28T12:10:20+09:00",
     "updated_at": "2016-06-28T11:06:06+09:00",
     "id": "takeharu"
+  },
+  {
+    "title": "Dockerイメージとコンテナの削除方法",
+    "url": "https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae",
+    "likes_count": 1368,
+    "created_at": "2015-11-02T17:09:47+09:00",
+    "updated_at": "2020-04-12T23:12:03+09:00",
+    "id": "tifa2chan"
   },
   {
     "title": "TensorFlow 畳み込みニューラルネットワークで手書き認識率99.2%の分類器を構築",
@@ -54,14 +62,6 @@
     "created_at": "2015-11-10T16:00:57+09:00",
     "updated_at": "2015-11-11T00:08:35+09:00",
     "id": "haminiku"
-  },
-  {
-    "title": "Dockerイメージとコンテナの削除方法",
-    "url": "https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae",
-    "likes_count": 1367,
-    "created_at": "2015-11-02T17:09:47+09:00",
-    "updated_at": "2020-04-12T23:12:03+09:00",
-    "id": "tifa2chan"
   },
   {
     "title": "脱Bootstrapガイド 〜フルスクラッチCSS〜",
@@ -74,7 +74,7 @@
   {
     "title": "【Mac版】 VisualStudioCode キーボードショートカット",
     "url": "https://qiita.com/naru0504/items/99495c4482cd158ddca8",
-    "likes_count": 1291,
+    "likes_count": 1292,
     "created_at": "2015-11-24T23:53:28+09:00",
     "updated_at": "2017-07-20T16:34:51+09:00",
     "id": "naru0504"
@@ -114,7 +114,7 @@
   {
     "title": "【Windows版】VS Code キーボードショートカット一覧 （オススメ付き）",
     "url": "https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b",
-    "likes_count": 1007,
+    "likes_count": 1010,
     "created_at": "2015-11-20T19:19:33+09:00",
     "updated_at": "2020-10-06T11:54:12+09:00",
     "id": "TakahiRoyte"
@@ -130,7 +130,7 @@
   {
     "title": "Dockerコンテナの作成、起動〜停止まで",
     "url": "https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53",
-    "likes_count": 957,
+    "likes_count": 958,
     "created_at": "2015-11-16T16:38:52+09:00",
     "updated_at": "2015-11-16T16:38:52+09:00",
     "id": "kooohei"
@@ -146,9 +146,9 @@
   {
     "title": "テスト仕様書",
     "url": "https://qiita.com/jun2014/items/cad7328978e709fe79f4",
-    "likes_count": 910,
+    "likes_count": 912,
     "created_at": "2015-11-11T01:33:58+09:00",
-    "updated_at": "2020-12-19T19:19:26+09:00",
+    "updated_at": "2020-12-21T20:45:56+09:00",
     "id": "jun2014"
   },
   {
@@ -234,7 +234,7 @@
   {
     "title": "suとsudoの違い",
     "url": "https://qiita.com/aosho235/items/05d4a4f549016e41cde7",
-    "likes_count": 565,
+    "likes_count": 566,
     "created_at": "2015-11-15T18:58:43+09:00",
     "updated_at": "2015-12-28T05:53:17+09:00",
     "id": "aosho235"
@@ -258,7 +258,7 @@
   {
     "title": "ターミナルからVisual Studio Codeを起動する方法【公式の方法】",
     "url": "https://qiita.com/naru0504/items/c2ed8869ffbf7682cf5c",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2015-11-25T14:49:51+09:00",
     "updated_at": "2018-07-03T12:46:06+09:00",
     "id": "naru0504"
@@ -282,7 +282,7 @@
   {
     "title": "Linuxでプロセスが何のポート使っているかを調べる",
     "url": "https://qiita.com/sonoshou/items/cc2b740147ba1b8da1f3",
-    "likes_count": 530,
+    "likes_count": 532,
     "created_at": "2015-11-25T11:46:19+09:00",
     "updated_at": "2018-04-22T15:24:32+09:00",
     "id": "sonoshou"
@@ -298,7 +298,7 @@
   {
     "title": "これでわかった!? LEFT / RIGHT JOIN.",
     "url": "https://qiita.com/zaburo/items/548b3c40fee68cd1e3b7",
-    "likes_count": 515,
+    "likes_count": 517,
     "created_at": "2015-11-24T18:44:04+09:00",
     "updated_at": "2020-01-16T02:19:33+09:00",
     "id": "zaburo"
@@ -482,7 +482,7 @@
   {
     "title": "シングルファイル C/C++ ライブラリが便利すぎてやばい",
     "url": "https://qiita.com/syoyo/items/e9d4aff56f691f5b783b",
-    "likes_count": 308,
+    "likes_count": 309,
     "created_at": "2015-11-28T12:19:28+09:00",
     "updated_at": "2019-11-09T18:04:44+09:00",
     "id": "syoyo"
@@ -498,7 +498,7 @@
   {
     "title": "Cookieとセッション管理",
     "url": "https://qiita.com/mogulla3/items/189c99c87a0fc827520e",
-    "likes_count": 298,
+    "likes_count": 299,
     "created_at": "2015-11-08T19:04:27+09:00",
     "updated_at": "2015-11-08T23:38:18+09:00",
     "id": "mogulla3"

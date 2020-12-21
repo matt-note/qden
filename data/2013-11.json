@@ -2,7 +2,7 @@
   {
     "title": "[初心者向け] RubyやRailsでリファクタリングに使えそうなイディオムとか便利メソッドとか",
     "url": "https://qiita.com/jnchito/items/dedb3b889ab226933ccf",
-    "likes_count": 3454,
+    "likes_count": 3453,
     "created_at": "2013-11-05T08:05:13+09:00",
     "updated_at": "2020-09-19T08:08:14+09:00",
     "id": "jnchito"
@@ -10,7 +10,7 @@
   {
     "title": "Node.js を5分で大雑把に理解する",
     "url": "https://qiita.com/hshimo/items/1ecb7ed1b567aacbe559",
-    "likes_count": 1757,
+    "likes_count": 1759,
     "created_at": "2013-11-25T00:56:02+09:00",
     "updated_at": "2017-07-04T13:42:14+09:00",
     "id": "hshimo"
@@ -18,7 +18,7 @@
   {
     "title": "Ruby block/proc/lambdaの使いどころ",
     "url": "https://qiita.com/kidach1/items/15cfee9ec66804c3afd2",
-    "likes_count": 1507,
+    "likes_count": 1506,
     "created_at": "2013-11-18T10:44:33+09:00",
     "updated_at": "2017-01-29T09:56:49+09:00",
     "id": "kidach1"
@@ -162,7 +162,7 @@
   {
     "title": "gitでリモートブランチをローカルにcheckoutする",
     "url": "https://qiita.com/YusukeSuzuki@github/items/3bd5752783fd2c2f8805",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2013-11-30T16:57:51+09:00",
     "updated_at": "2019-07-30T18:36:07+09:00",
     "id": "YusukeSuzuki@github"
@@ -222,6 +222,14 @@
     "created_at": "2013-11-04T00:52:13+09:00",
     "updated_at": "2014-07-01T00:02:56+09:00",
     "id": "opengl-8080"
+  },
+  {
+    "title": "Railsを支える基本概念の整理（RESTfulやリソースなど）",
+    "url": "https://qiita.com/kidach1/items/43e53811c12351915278",
+    "likes_count": 288,
+    "created_at": "2013-11-11T20:47:29+09:00",
+    "updated_at": "2014-09-22T09:32:45+09:00",
+    "id": "kidach1"
   },
   {
     "title": "OS XにJenkinsをHomebrewでセットアップする",
