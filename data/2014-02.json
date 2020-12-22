@@ -10,7 +10,7 @@
   {
     "title": "Dockerコマンドメモ",
     "url": "https://qiita.com/curseoff/items/a9e64ad01d673abb6866",
-    "likes_count": 1979,
+    "likes_count": 1980,
     "created_at": "2014-02-03T23:11:04+09:00",
     "updated_at": "2018-12-09T22:31:23+09:00",
     "id": "curseoff"
@@ -18,7 +18,7 @@
   {
     "title": "tigでgitをもっと便利に！ addやcommitも",
     "url": "https://qiita.com/suino/items/b0dae7e00bd7165f79ea",
-    "likes_count": 1852,
+    "likes_count": 1851,
     "created_at": "2014-02-23T21:19:41+09:00",
     "updated_at": "2016-03-30T10:11:17+09:00",
     "id": "suino"
@@ -42,7 +42,7 @@
   {
     "title": "それ PowerShell でできるよ",
     "url": "https://qiita.com/cd01/items/da9a36582372e7d0a7f6",
-    "likes_count": 1063,
+    "likes_count": 1064,
     "created_at": "2014-02-15T01:15:16+09:00",
     "updated_at": "2017-11-11T23:02:11+09:00",
     "id": "cd01"
@@ -90,31 +90,31 @@
   {
     "title": ".bash_profile ? .bashrc ? いろいろあるけどこいつらなにもの？",
     "url": "https://qiita.com/hirokishirai/items/5a529c8395c4b336bf31",
-    "likes_count": 833,
+    "likes_count": 832,
     "created_at": "2014-02-17T05:02:00+09:00",
     "updated_at": "2017-07-14T17:38:00+09:00",
     "id": "hirokishirai"
   },
   {
-    "title": "SSH接続エラー回避方法：.ssh/known_hostsから特定のホストを削除する/削除しないで対処する3つの方法",
-    "url": "https://qiita.com/grgrjnjn/items/8ca33b64ea0406e12938",
-    "likes_count": 816,
-    "created_at": "2014-02-28T19:28:51+09:00",
-    "updated_at": "2020-01-24T21:28:53+09:00",
-    "id": "grgrjnjn"
-  },
-  {
     "title": "GitHubを使って3分でHPを公開する。",
     "url": "https://qiita.com/budougumi0617/items/221bb946d1c90d6769e9",
-    "likes_count": 815,
+    "likes_count": 816,
     "created_at": "2014-02-08T22:28:58+09:00",
     "updated_at": "2017-07-03T10:46:35+09:00",
     "id": "budougumi0617"
   },
   {
+    "title": "SSH接続エラー回避方法：.ssh/known_hostsから特定のホストを削除する/削除しないで対処する3つの方法",
+    "url": "https://qiita.com/grgrjnjn/items/8ca33b64ea0406e12938",
+    "likes_count": 815,
+    "created_at": "2014-02-28T19:28:51+09:00",
+    "updated_at": "2020-01-24T21:28:53+09:00",
+    "id": "grgrjnjn"
+  },
+  {
     "title": "経験ゼロでもできるプログラミング現場の単体テスト",
     "url": "https://qiita.com/disc99/items/177bdf6352de463fdc87",
-    "likes_count": 803,
+    "likes_count": 804,
     "created_at": "2014-02-20T02:46:19+09:00",
     "updated_at": "2016-11-03T15:32:27+09:00",
     "id": "disc99"
@@ -178,7 +178,7 @@
   {
     "title": "JavaScriptの「型」の判定について",
     "url": "https://qiita.com/south37/items/c8d20a069fcbfe4fce85",
-    "likes_count": 539,
+    "likes_count": 541,
     "created_at": "2014-02-20T02:40:09+09:00",
     "updated_at": "2018-05-18T11:45:49+09:00",
     "id": "south37"
@@ -202,7 +202,7 @@
   {
     "title": "[PHP] リクエストパラメータ・セッションに関するまとめ",
     "url": "https://qiita.com/mpyw/items/7852213f478e8c5a2802",
-    "likes_count": 491,
+    "likes_count": 492,
     "created_at": "2014-02-22T21:24:33+09:00",
     "updated_at": "2017-01-20T13:05:56+09:00",
     "id": "mpyw"
@@ -226,7 +226,7 @@
   {
     "title": "Python3系 基礎文法",
     "url": "https://qiita.com/rohinomiya/items/aab6b16d1a470871713c",
-    "likes_count": 464,
+    "likes_count": 463,
     "created_at": "2014-02-21T01:34:33+09:00",
     "updated_at": "2014-11-11T00:36:07+09:00",
     "id": "rohinomiya"
@@ -234,7 +234,7 @@
   {
     "title": "iOSライセンス＆配布方法まとめ",
     "url": "https://qiita.com/isaac-otao/items/126bced83d9af86c7ce5",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2014-02-27T10:44:50+09:00",
     "updated_at": "2018-06-14T15:04:59+09:00",
     "id": "isaac-otao"
@@ -266,7 +266,7 @@
   {
     "title": "シンボリックリンクの作成と削除",
     "url": "https://qiita.com/colorrabbit/items/2e99304bd92201261c60",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2014-02-05T16:31:29+09:00",
     "updated_at": "2014-02-05T18:10:07+09:00",
     "id": "colorrabbit"
@@ -330,7 +330,7 @@
   {
     "title": "tmuxを使いこなそう（ウインドウ、ペイン、セッション、アタッチ、デタッチ）",
     "url": "https://qiita.com/shoma2da/items/2e68c1e59938eb0c2f83",
-    "likes_count": 349,
+    "likes_count": 350,
     "created_at": "2014-02-10T23:01:42+09:00",
     "updated_at": "2016-01-25T21:14:43+09:00",
     "id": "shoma2da"

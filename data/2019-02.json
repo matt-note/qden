@@ -26,7 +26,7 @@
   {
     "title": "我が名は神龍……どんなテストもひとつだけ自動化してやろう",
     "url": "https://qiita.com/tsuemura/items/56ba9942565963858d8f",
-    "likes_count": 1489,
+    "likes_count": 1490,
     "created_at": "2019-02-24T00:48:59+09:00",
     "updated_at": "2019-03-15T11:53:53+09:00",
     "id": "tsuemura"
@@ -98,7 +98,7 @@
   {
     "title": "Laravelの開発環境をDockerを使って構築する",
     "url": "https://qiita.com/ucan-lab/items/17c806973e69792ada99",
-    "likes_count": 785,
+    "likes_count": 786,
     "created_at": "2019-02-15T19:00:17+09:00",
     "updated_at": "2020-07-09T16:08:57+09:00",
     "id": "ucan-lab"
@@ -234,7 +234,7 @@
   {
     "title": "やってみようNoSQL　MongoDBを最速で理解する",
     "url": "https://qiita.com/Brutus/items/8a67a4db0fdc5a33d549",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2019-02-19T01:01:37+09:00",
     "updated_at": "2019-02-23T00:02:26+09:00",
     "id": "Brutus"
@@ -250,7 +250,7 @@
   {
     "title": "Ruby on Rails, Vue.js で始めるモダン WEB アプリケーション入門",
     "url": "https://qiita.com/tatsurou313/items/4f18c0d4d231e2fb55f4",
-    "likes_count": 466,
+    "likes_count": 468,
     "created_at": "2019-02-11T21:12:11+09:00",
     "updated_at": "2019-09-30T01:24:33+09:00",
     "id": "tatsurou313"
@@ -266,7 +266,7 @@
   {
     "title": "TypeScriptの型演習",
     "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2019-02-23T18:09:59+09:00",
     "updated_at": "2020-05-22T11:16:41+09:00",
     "id": "uhyo"
@@ -290,7 +290,7 @@
   {
     "title": "要チェックな10個の Node.js フレームワーク",
     "url": "https://qiita.com/ymasaoka/items/3db3f44990911a181ffc",
-    "likes_count": 431,
+    "likes_count": 433,
     "created_at": "2019-02-15T17:58:07+09:00",
     "updated_at": "2019-02-16T01:34:10+09:00",
     "id": "ymasaoka"
@@ -306,7 +306,7 @@
   {
     "title": "GNNまとめ(1): GCNの導入",
     "url": "https://qiita.com/shionhonda/items/d27b8f13f7e9232a4ae5",
-    "likes_count": 421,
+    "likes_count": 422,
     "created_at": "2019-02-23T16:58:43+09:00",
     "updated_at": "2020-06-25T22:36:46+09:00",
     "id": "shionhonda"
@@ -338,7 +338,7 @@
   {
     "title": "今さら聞けない？Vue Router",
     "url": "https://qiita.com/hshota28/items/765cf903f055754f7557",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2019-02-25T04:17:35+09:00",
     "updated_at": "2019-02-25T15:34:55+09:00",
     "id": "hshota28"
@@ -352,6 +352,14 @@
     "id": "manabuyasuda"
   },
   {
+    "title": "【JWT】 入門",
+    "url": "https://qiita.com/Naoto9282/items/8427918564400968bd2b",
+    "likes_count": 357,
+    "created_at": "2019-02-05T01:31:29+09:00",
+    "updated_at": "2019-02-05T19:56:56+09:00",
+    "id": "Naoto9282"
+  },
+  {
     "title": "プログラミング始めて1年半、働きながら勉強用アプリを作ったらとてもとても良かったはなし",
     "url": "https://qiita.com/yuji_ariyasu/items/e80a64091f74c9a12081",
     "likes_count": 356,
@@ -360,12 +368,12 @@
     "id": "yuji_ariyasu"
   },
   {
-    "title": "【JWT】 入門",
-    "url": "https://qiita.com/Naoto9282/items/8427918564400968bd2b",
+    "title": "VueとFirebaseで爆速でチャットサービスを作ろう",
+    "url": "https://qiita.com/ToshioAkaneya/items/aa1211d73c2d38134e63",
     "likes_count": 355,
-    "created_at": "2019-02-05T01:31:29+09:00",
-    "updated_at": "2019-02-05T19:56:56+09:00",
-    "id": "Naoto9282"
+    "created_at": "2019-02-09T11:17:26+09:00",
+    "updated_at": "2020-03-16T08:28:28+09:00",
+    "id": "ToshioAkaneya"
   },
   {
     "title": "完全に理解するアフィン変換",
@@ -374,14 +382,6 @@
     "created_at": "2019-02-10T22:29:20+09:00",
     "updated_at": "2019-02-13T21:25:28+09:00",
     "id": "koshian2"
-  },
-  {
-    "title": "VueとFirebaseで爆速でチャットサービスを作ろう",
-    "url": "https://qiita.com/ToshioAkaneya/items/aa1211d73c2d38134e63",
-    "likes_count": 354,
-    "created_at": "2019-02-09T11:17:26+09:00",
-    "updated_at": "2020-03-16T08:28:28+09:00",
-    "id": "ToshioAkaneya"
   },
   {
     "title": "AWS + Laravel + Vue.js でQiitaのストックを整理するサービスを作りました！【個人開発】",
@@ -426,7 +426,7 @@
   {
     "title": "Vue.jsとAWSでつくる、シングルページの家計簿アプリ",
     "url": "https://qiita.com/KMim/items/f3975e308d07df4b359f",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2019-02-19T23:04:42+09:00",
     "updated_at": "2019-02-21T15:09:52+09:00",
     "id": "KMim"

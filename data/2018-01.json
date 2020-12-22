@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2353,
+    "likes_count": 2358,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -34,7 +34,7 @@
   {
     "title": "未経験者が認識してなさそうなTIPS",
     "url": "https://qiita.com/Nao9syu/items/0950527548a08ff9d8c9",
-    "likes_count": 1208,
+    "likes_count": 1207,
     "created_at": "2018-01-25T15:48:23+09:00",
     "updated_at": "2018-07-17T09:28:46+09:00",
     "id": "Nao9syu"
@@ -130,7 +130,7 @@
   {
     "title": "‪実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！‬",
     "url": "https://qiita.com/drken/items/e805e3f514acceb87602",
-    "likes_count": 634,
+    "likes_count": 633,
     "created_at": "2018-01-31T10:06:42+09:00",
     "updated_at": "2020-02-06T18:15:46+09:00",
     "id": "drken"
@@ -282,10 +282,18 @@
   {
     "title": "オレ的vimプラグイン10選",
     "url": "https://qiita.com/reireias/items/beaa3bb0e299ae934217",
-    "likes_count": 363,
+    "likes_count": 362,
     "created_at": "2018-01-17T01:10:20+09:00",
     "updated_at": "2020-06-13T18:03:30+09:00",
     "id": "reireias"
+  },
+  {
+    "title": "JSのスプレッド構文を理解する",
+    "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
+    "likes_count": 361,
+    "created_at": "2018-01-20T15:37:58+09:00",
+    "updated_at": "2019-12-04T22:30:22+09:00",
+    "id": "akisx"
   },
   {
     "title": "あまりにも多くのスタートアップがデータ分析するときに犯す４つの失敗パターン",
@@ -294,14 +302,6 @@
     "created_at": "2018-01-31T00:59:43+09:00",
     "updated_at": "2018-02-02T15:23:32+09:00",
     "id": "KanNishida"
-  },
-  {
-    "title": "JSのスプレッド構文を理解する",
-    "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 360,
-    "created_at": "2018-01-20T15:37:58+09:00",
-    "updated_at": "2019-12-04T22:30:22+09:00",
-    "id": "akisx"
   },
   {
     "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
@@ -338,7 +338,7 @@
   {
     "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
     "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2018-01-10T20:19:27+09:00",
     "updated_at": "2019-04-20T22:30:46+09:00",
     "id": "zd6ir7"
@@ -354,7 +354,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
@@ -370,7 +370,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 308,
+    "likes_count": 310,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
@@ -378,7 +378,7 @@
   {
     "title": "Gitでローカルブランチを削除する",
     "url": "https://qiita.com/hogeta_/items/33d2334c9b1919bd5120",
-    "likes_count": 292,
+    "likes_count": 293,
     "created_at": "2018-01-11T18:24:12+09:00",
     "updated_at": "2020-01-16T14:28:12+09:00",
     "id": "hogeta_"

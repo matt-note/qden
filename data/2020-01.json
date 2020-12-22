@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 3887,
+    "likes_count": 3896,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2020-07-17T22:02:22+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 3872,
+    "likes_count": 3875,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2020-05-26T11:46:33+09:00",
     "id": "alt_yamamoto"
@@ -42,7 +42,7 @@
   {
     "title": "EC2でブログを立ち上げた途端に来た、怪しい攻撃たち",
     "url": "https://qiita.com/KMim/items/60c1ce893c09872acd15",
-    "likes_count": 1828,
+    "likes_count": 1827,
     "created_at": "2020-01-15T12:39:21+09:00",
     "updated_at": "2020-02-18T09:06:49+09:00",
     "id": "KMim"
@@ -200,20 +200,20 @@
     "id": "unsoluble_sugar"
   },
   {
+    "title": "Python の __init__.py とは何なのか",
+    "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
+    "likes_count": 662,
+    "created_at": "2020-01-17T22:20:31+09:00",
+    "updated_at": "2020-03-19T12:31:33+09:00",
+    "id": "msi"
+  },
+  {
     "title": "TypeScriptを使って嬉しかったこと",
     "url": "https://qiita.com/Yametaro/items/918083d9767ac5e74895",
     "likes_count": 660,
     "created_at": "2020-01-12T23:25:26+09:00",
     "updated_at": "2020-01-25T10:11:51+09:00",
     "id": "Yametaro"
-  },
-  {
-    "title": "Python の __init__.py とは何なのか",
-    "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 659,
-    "created_at": "2020-01-17T22:20:31+09:00",
-    "updated_at": "2020-03-19T12:31:33+09:00",
-    "id": "msi"
   },
   {
     "title": "【Google Apps Script, Slack】彼女にバレずにワクワクメールのメッセージに気付くために夜な夜な怪しげなスクリプトを組んだ話",
@@ -248,20 +248,20 @@
     "id": "e869120"
   },
   {
+    "title": "バッチ処理について考える",
+    "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
+    "likes_count": 594,
+    "created_at": "2020-01-11T11:25:19+09:00",
+    "updated_at": "2020-06-11T18:35:53+09:00",
+    "id": "koduki"
+  },
+  {
     "title": "機械学習による株価予測　いろはの”い”",
     "url": "https://qiita.com/blog_UKI/items/25dc1c2559c61890a449",
     "likes_count": 593,
     "created_at": "2020-01-09T12:13:39+09:00",
     "updated_at": "2020-01-09T12:13:39+09:00",
     "id": "blog_UKI"
-  },
-  {
-    "title": "バッチ処理について考える",
-    "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
-    "likes_count": 592,
-    "created_at": "2020-01-11T11:25:19+09:00",
-    "updated_at": "2020-06-11T18:35:53+09:00",
-    "id": "koduki"
   },
   {
     "title": "経年劣化に耐える ReactComponent の書き方",
@@ -378,7 +378,7 @@
   {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2020-07-17T21:59:28+09:00",
     "id": "Saku731"
@@ -426,7 +426,7 @@
   {
     "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
     "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2020-01-19T17:05:28+09:00",
     "updated_at": "2020-01-21T20:33:07+09:00",
     "id": "uhyo"
@@ -486,6 +486,14 @@
     "created_at": "2020-01-03T15:58:37+09:00",
     "updated_at": "2020-01-06T19:15:39+09:00",
     "id": "koinori"
+  },
+  {
+    "title": "Web Developer Roadmap 2020版が出ていたので2019版と比較",
+    "url": "https://qiita.com/hirotakasasaki/items/f93335857c17f6ceab9f",
+    "likes_count": 251,
+    "created_at": "2020-01-07T14:51:24+09:00",
+    "updated_at": "2020-03-27T11:33:51+09:00",
+    "id": "hirotakasasaki"
   },
   {
     "title": "VSCodeのデバッグ機能でJavascriptとTypescriptをデバッグする",

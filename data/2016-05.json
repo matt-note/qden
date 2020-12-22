@@ -2,7 +2,7 @@
   {
     "title": "ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】",
     "url": "https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08",
-    "likes_count": 8595,
+    "likes_count": 8597,
     "created_at": "2016-05-16T19:51:18+09:00",
     "updated_at": "2019-03-09T17:13:26+09:00",
     "id": "jacksuzuki"
@@ -26,7 +26,7 @@
   {
     "title": "HTTP/1.1 200 OK",
     "url": "https://qiita.com/katanov/items/1d99d27844392e380ec7",
-    "likes_count": 1663,
+    "likes_count": 1662,
     "created_at": "2016-05-10T00:11:37+09:00",
     "updated_at": "2016-05-11T21:22:29+09:00",
     "id": "katanov"
@@ -42,7 +42,7 @@
   {
     "title": "他言語から来た人がGoを使い始めてすぐハマったこととその答え",
     "url": "https://qiita.com/mumoshu/items/0d2f2a13c6e9fc8da2a4",
-    "likes_count": 1228,
+    "likes_count": 1229,
     "created_at": "2016-05-03T12:13:46+09:00",
     "updated_at": "2020-08-25T16:52:16+09:00",
     "id": "mumoshu"
@@ -58,7 +58,7 @@
   {
     "title": "開発が爆速になるSwift用Xcodeプラグインをまとめてみた",
     "url": "https://qiita.com/tattn/items/238b2b813be16f830bd4",
-    "likes_count": 1066,
+    "likes_count": 1065,
     "created_at": "2016-05-05T15:52:24+09:00",
     "updated_at": "2017-10-15T22:14:06+09:00",
     "id": "tattn"
@@ -66,7 +66,7 @@
   {
     "title": "社内の備品貸出にTSUTAYAのレジ風システムを導入した",
     "url": "https://qiita.com/tabbyz/items/f42840504ecc6ff4f827",
-    "likes_count": 1064,
+    "likes_count": 1063,
     "created_at": "2016-05-23T08:50:48+09:00",
     "updated_at": "2016-05-23T08:50:48+09:00",
     "id": "tabbyz"
@@ -90,7 +90,7 @@
   {
     "title": "ちゃんと使い分けてる? dependenciesいろいろ。",
     "url": "https://qiita.com/cognitom/items/acc3ffcbca4c56cf2b95",
-    "likes_count": 913,
+    "likes_count": 915,
     "created_at": "2016-05-09T18:27:57+09:00",
     "updated_at": "2016-05-09T22:51:53+09:00",
     "id": "cognitom"
@@ -106,7 +106,7 @@
   {
     "title": "2010年以前で止まっていたJavaScript脳を2016年までバージョンアップした話",
     "url": "https://qiita.com/kotaroito/items/0f04cd089e6c13c79c09",
-    "likes_count": 779,
+    "likes_count": 778,
     "created_at": "2016-06-01T07:18:44+09:00",
     "updated_at": "2016-06-08T00:30:40+09:00",
     "id": "kotaroito"
@@ -146,7 +146,7 @@
   {
     "title": "使うと手放せなくなるSwift Extension集 (Swift2版)",
     "url": "https://qiita.com/tattn/items/647e094936287a6bd2d3",
-    "likes_count": 690,
+    "likes_count": 689,
     "created_at": "2016-05-22T19:36:22+09:00",
     "updated_at": "2016-09-15T02:39:31+09:00",
     "id": "tattn"
@@ -154,7 +154,7 @@
   {
     "title": "スマホアプリ開発時にさくっと叩けるAPIサーバをnginx・Let’s encrypt・JSON Serverで構築する",
     "url": "https://qiita.com/uti/items/ab2910881058cad871c9",
-    "likes_count": 647,
+    "likes_count": 646,
     "created_at": "2016-05-17T20:30:06+09:00",
     "updated_at": "2016-05-18T09:46:48+09:00",
     "id": "uti"
@@ -162,7 +162,7 @@
   {
     "title": "Pythonのimportについてまとめる",
     "url": "https://qiita.com/suzuki-hoge/items/f951d56290617df4279e",
-    "likes_count": 643,
+    "likes_count": 645,
     "created_at": "2016-05-17T10:03:10+09:00",
     "updated_at": "2016-05-17T10:09:16+09:00",
     "id": "suzuki-hoge"
@@ -232,6 +232,14 @@
     "id": "Nobu12"
   },
   {
+    "title": "Googleスプレッドシートをプログラムから操作",
+    "url": "https://qiita.com/howdy39/items/ca719537bba676dce1cf",
+    "likes_count": 552,
+    "created_at": "2016-05-22T03:02:07+09:00",
+    "updated_at": "2018-05-17T19:46:55+09:00",
+    "id": "howdy39"
+  },
+  {
     "title": "正規表現のパフォーマンスの話をされても全くピンと来なかった僕は、backtrackに出会いました。",
     "url": "https://qiita.com/mochizukikotaro/items/d36e61e56220da5f95d1",
     "likes_count": 552,
@@ -240,17 +248,9 @@
     "id": "mochizukikotaro"
   },
   {
-    "title": "Googleスプレッドシートをプログラムから操作",
-    "url": "https://qiita.com/howdy39/items/ca719537bba676dce1cf",
-    "likes_count": 551,
-    "created_at": "2016-05-22T03:02:07+09:00",
-    "updated_at": "2018-05-17T19:46:55+09:00",
-    "id": "howdy39"
-  },
-  {
     "title": "Android はじめてのFragment",
     "url": "https://qiita.com/Reyurnible/items/dffd70144da213e1208b",
-    "likes_count": 504,
+    "likes_count": 503,
     "created_at": "2016-05-18T15:02:50+09:00",
     "updated_at": "2018-08-24T10:41:21+09:00",
     "id": "Reyurnible"
@@ -258,7 +258,7 @@
   {
     "title": "初めてのnpm パッケージ公開",
     "url": "https://qiita.com/TsutomuNakamura/items/f943e0490d509f128ae2",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2016-05-10T06:51:33+09:00",
     "updated_at": "2019-10-03T22:38:24+09:00",
     "id": "TsutomuNakamura"
@@ -266,7 +266,7 @@
   {
     "title": "Firebaseによるプッシュ通知のハマりどころ",
     "url": "https://qiita.com/mituoh/items/2dc87618edf234afd8f0",
-    "likes_count": 471,
+    "likes_count": 470,
     "created_at": "2016-05-23T17:12:45+09:00",
     "updated_at": "2016-05-23T17:30:52+09:00",
     "id": "mituoh"
@@ -282,7 +282,7 @@
   {
     "title": "TensorFlowで学習したモデルを使ってiOS/Swiftで実行する",
     "url": "https://qiita.com/koher/items/2c0bfca4d6e31cde674b",
-    "likes_count": 442,
+    "likes_count": 441,
     "created_at": "2016-05-16T10:15:54+09:00",
     "updated_at": "2016-06-07T23:57:48+09:00",
     "id": "koher"
@@ -298,7 +298,7 @@
   {
     "title": "git tagの使い方まとめ",
     "url": "https://qiita.com/growsic/items/ed67e03fda5ab7ef9d08",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2016-05-16T21:37:49+09:00",
     "updated_at": "2019-04-29T01:18:24+09:00",
     "id": "growsic"
@@ -322,7 +322,7 @@
   {
     "title": "JavascriptのAjaxについての基本まとめ",
     "url": "https://qiita.com/katsunory/items/9bf9ee49ee5c08bf2b3d",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2016-05-04T11:40:55+09:00",
     "updated_at": "2018-01-21T15:08:15+09:00",
     "id": "katsunory"
@@ -378,7 +378,7 @@
   {
     "title": "プログラムの依存関係とモジュール構成のこと",
     "url": "https://qiita.com/wm3/items/2c90bfd9e973d368ebd8",
-    "likes_count": 356,
+    "likes_count": 357,
     "created_at": "2016-05-09T09:20:00+09:00",
     "updated_at": "2019-09-27T01:43:46+09:00",
     "id": "wm3"
@@ -394,7 +394,7 @@
   {
     "title": "ASP.NET 入門の書",
     "url": "https://qiita.com/Kei18/items/1a9b936216bd2458ec08",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2016-06-01T01:39:21+09:00",
     "updated_at": "2016-06-01T01:39:21+09:00",
     "id": "Kei18"
@@ -442,7 +442,7 @@
   {
     "title": "AbemaTV (iOS) で使われているライブラリをまとめてみた",
     "url": "https://qiita.com/taiju59/items/db1f0e4432ea4a983430",
-    "likes_count": 317,
+    "likes_count": 316,
     "created_at": "2016-05-15T23:53:53+09:00",
     "updated_at": "2017-04-24T17:29:03+09:00",
     "id": "taiju59"
