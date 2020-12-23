@@ -2,7 +2,7 @@
   {
     "title": "CSSのクラス名を決めるときに使うリストをつくりました",
     "url": "https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470",
-    "likes_count": 2797,
+    "likes_count": 2799,
     "created_at": "2016-10-07T10:20:53+09:00",
     "updated_at": "2018-09-05T15:13:51+09:00",
     "id": "manabuyasuda"
@@ -18,7 +18,7 @@
   {
     "title": "ゼロから始めるJavaScript生活",
     "url": "https://qiita.com/takahashim/items/7838334d1451fb0a9811",
-    "likes_count": 1873,
+    "likes_count": 1872,
     "created_at": "2016-10-31T16:53:40+09:00",
     "updated_at": "2017-03-03T12:51:59+09:00",
     "id": "takahashim"
@@ -26,7 +26,7 @@
   {
     "title": "【詳解】モテたいVimmer必見　快適にコーディングするためのvimrc解説",
     "url": "https://qiita.com/ahiruman5/items/4f3c845500c172a02935",
-    "likes_count": 1760,
+    "likes_count": 1761,
     "created_at": "2016-10-11T06:41:18+09:00",
     "updated_at": "2017-01-07T19:12:12+09:00",
     "id": "ahiruman5"
@@ -34,7 +34,7 @@
   {
     "title": "SQL素人でも分かるテーブル結合(inner joinとouter join)",
     "url": "https://qiita.com/naoki_mochizuki/items/3fda1ad6594c11d7b43c",
-    "likes_count": 1666,
+    "likes_count": 1667,
     "created_at": "2016-10-09T15:05:46+09:00",
     "updated_at": "2020-09-24T17:55:30+09:00",
     "id": "naoki_mochizuki"
@@ -90,7 +90,7 @@
   {
     "title": "Facebook製のJavaScriptテストツール「Jest」の逆引き使用例",
     "url": "https://qiita.com/chimame/items/e97883fd46b67529d59f",
-    "likes_count": 1138,
+    "likes_count": 1139,
     "created_at": "2016-10-14T07:10:40+09:00",
     "updated_at": "2018-11-07T15:03:37+09:00",
     "id": "chimame"
@@ -106,7 +106,7 @@
   {
     "title": "[Swift] iOSアプリ開発の基本情報と学習ソース",
     "url": "https://qiita.com/y-some/items/200db9ac37150effc8ed",
-    "likes_count": 962,
+    "likes_count": 963,
     "created_at": "2016-10-19T21:54:05+09:00",
     "updated_at": "2020-02-22T12:24:36+09:00",
     "id": "y-some"
@@ -160,20 +160,20 @@
     "id": "yukoba"
   },
   {
+    "title": "【PHP超入門】名前空間（namespace・use）について",
+    "url": "https://qiita.com/7968/items/1e5c61128fa495358c1f",
+    "likes_count": 727,
+    "created_at": "2016-10-05T16:12:50+09:00",
+    "updated_at": "2020-04-15T08:43:58+09:00",
+    "id": "7968"
+  },
+  {
     "title": "FLOCSSを使ってCSSファイルを20,000行から9,000行にした話",
     "url": "https://qiita.com/Atsss/items/4f9d98fb1d0546539c09",
     "likes_count": 726,
     "created_at": "2016-10-04T08:17:31+09:00",
     "updated_at": "2016-11-11T10:23:42+09:00",
     "id": "Atsss"
-  },
-  {
-    "title": "【PHP超入門】名前空間（namespace・use）について",
-    "url": "https://qiita.com/7968/items/1e5c61128fa495358c1f",
-    "likes_count": 724,
-    "created_at": "2016-10-05T16:12:50+09:00",
-    "updated_at": "2020-04-15T08:43:58+09:00",
-    "id": "7968"
   },
   {
     "title": "イッヌハブ をつくってみよう",
@@ -210,7 +210,7 @@
   {
     "title": "docker-syncでホスト-コンテナ間を爆速で同期する",
     "url": "https://qiita.com/pocari/items/0340049742927f3a94b7",
-    "likes_count": 654,
+    "likes_count": 655,
     "created_at": "2016-10-23T14:56:48+09:00",
     "updated_at": "2020-05-26T16:28:56+09:00",
     "id": "pocari"
@@ -234,7 +234,7 @@
   {
     "title": "【find・grep】特定の文字列を含むファイルのリストを取得する方法。",
     "url": "https://qiita.com/pokari_dz/items/0f14a21e3ca3df025d21",
-    "likes_count": 593,
+    "likes_count": 594,
     "created_at": "2016-10-12T18:07:17+09:00",
     "updated_at": "2016-10-13T13:41:54+09:00",
     "id": "pokari_dz"
@@ -282,7 +282,7 @@
   {
     "title": "日本正式リリースしたStripeを使ってサブスクリプション型決済システムを実装する",
     "url": "https://qiita.com/tady/items/7617e62b2a5402ebd0fb",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2016-10-04T18:22:37+09:00",
     "updated_at": "2020-06-09T22:57:17+09:00",
     "id": "tady"
@@ -322,7 +322,7 @@
   {
     "title": "MVCモデルについて",
     "url": "https://qiita.com/s_emoto/items/975cc38a3e0de462966a",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2016-10-14T11:46:19+09:00",
     "updated_at": "2019-08-22T14:03:53+09:00",
     "id": "s_emoto"

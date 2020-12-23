@@ -2,7 +2,7 @@
   {
     "title": "治安の悪い Slack Emoji を作るツールを作った",
     "url": "https://qiita.com/zk_phi/items/8a24b8ad9d1eabd364aa",
-    "likes_count": 2469,
+    "likes_count": 2470,
     "created_at": "2018-06-18T02:09:36+09:00",
     "updated_at": "2020-01-29T17:51:03+09:00",
     "id": "zk_phi"
@@ -10,7 +10,7 @@
   {
     "title": "ReactとVueのどちらを選ぶか",
     "url": "https://qiita.com/yoichiwo7/items/236b6535695ea67b4fbe",
-    "likes_count": 1772,
+    "likes_count": 1776,
     "created_at": "2018-06-16T14:01:19+09:00",
     "updated_at": "2019-06-06T07:16:51+09:00",
     "id": "yoichiwo7"
@@ -18,7 +18,7 @@
   {
     "title": "平成の次の元号を、AIだけで決めさせる物語",
     "url": "https://qiita.com/youwht/items/0b204c3575c94fc786b8",
-    "likes_count": 1561,
+    "likes_count": 1562,
     "created_at": "2018-06-03T15:26:51+09:00",
     "updated_at": "2018-06-03T15:26:51+09:00",
     "id": "youwht"
@@ -50,7 +50,7 @@
   {
     "title": "成り上がりたくて必死に読んだ感謝の技術書6冊",
     "url": "https://qiita.com/kurkuru/items/97a90e3c267bd127af9b",
-    "likes_count": 1166,
+    "likes_count": 1167,
     "created_at": "2018-06-05T21:50:09+09:00",
     "updated_at": "2020-12-22T16:37:06+09:00",
     "id": "kurkuru"
@@ -170,10 +170,18 @@
   {
     "title": "コンテナ開発の始め方",
     "url": "https://qiita.com/niisan-tokyo/items/bcb89c9de82ba465d200",
-    "likes_count": 545,
+    "likes_count": 547,
     "created_at": "2018-06-15T17:27:34+09:00",
     "updated_at": "2018-06-27T11:26:26+09:00",
     "id": "niisan-tokyo"
+  },
+  {
+    "title": "Pythonで実用Discord Bot(discordpy解説)",
+    "url": "https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f",
+    "likes_count": 532,
+    "created_at": "2018-06-07T06:27:47+09:00",
+    "updated_at": "2020-10-04T22:55:09+09:00",
+    "id": "1ntegrale9"
   },
   {
     "title": "Dockerfile のベストプラクティスを自分なりに整理してみた",
@@ -182,14 +190,6 @@
     "created_at": "2018-06-21T23:54:32+09:00",
     "updated_at": "2018-07-07T23:47:19+09:00",
     "id": "ao_log"
-  },
-  {
-    "title": "Pythonで実用Discord Bot(discordpy解説)",
-    "url": "https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f",
-    "likes_count": 531,
-    "created_at": "2018-06-07T06:27:47+09:00",
-    "updated_at": "2020-10-04T22:55:09+09:00",
-    "id": "1ntegrale9"
   },
   {
     "title": "Qiita殿堂入り記事ランキングを作った物語",
@@ -218,7 +218,7 @@
   {
     "title": "【Rails 5.2】 Active Storageの使い方",
     "url": "https://qiita.com/hmmrjn/items/7cc5e5348755c517458a",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2018-06-30T23:44:12+09:00",
     "updated_at": "2019-08-06T10:42:47+09:00",
     "id": "hmmrjn"
@@ -226,7 +226,7 @@
   {
     "title": "React Nativeの実は使ってはダメなライブラリ素晴らしいライブラリ(随時更新)",
     "url": "https://qiita.com/kaba/items/569aafd80889bb5d9328",
-    "likes_count": 476,
+    "likes_count": 477,
     "created_at": "2018-06-02T16:38:42+09:00",
     "updated_at": "2020-05-18T13:03:36+09:00",
     "id": "kaba"
@@ -306,7 +306,7 @@
   {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 401,
+    "likes_count": 404,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2018-10-11T13:59:01+09:00",
     "id": "newta"
@@ -338,7 +338,7 @@
   {
     "title": "PyAutoGuiで繰り返し作業をPythonにやらせよう",
     "url": "https://qiita.com/hirohiro77/items/78e26a59c2e45a0fe4e3",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2018-06-12T14:08:29+09:00",
     "updated_at": "2020-11-04T12:18:21+09:00",
     "id": "hirohiro77"
@@ -354,7 +354,7 @@
   {
     "title": "脆弱性の警告を受けたnpmパッケージの依存関係を力技で直す",
     "url": "https://qiita.com/hibikikudo/items/0af352acac85fce28ec2",
-    "likes_count": 354,
+    "likes_count": 355,
     "created_at": "2018-06-18T16:45:59+09:00",
     "updated_at": "2018-12-17T17:47:00+09:00",
     "id": "hibikikudo"
@@ -442,7 +442,7 @@
   {
     "title": "C# 今更ですが、HttpClientを使う",
     "url": "https://qiita.com/rawr/items/f78a3830d894042f891b",
-    "likes_count": 264,
+    "likes_count": 265,
     "created_at": "2018-06-15T12:29:06+09:00",
     "updated_at": "2019-12-02T09:58:17+09:00",
     "id": "rawr"
@@ -450,7 +450,7 @@
   {
     "title": "kindle書籍のpdf化",
     "url": "https://qiita.com/keitasumiya/items/c9d0f81fd7fb96e505b3",
-    "likes_count": 262,
+    "likes_count": 263,
     "created_at": "2018-06-02T20:26:05+09:00",
     "updated_at": "2019-03-19T13:37:04+09:00",
     "id": "keitasumiya"

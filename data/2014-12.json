@@ -34,7 +34,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1666,
+    "likes_count": 1668,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2018-01-25T21:45:47+09:00",
     "id": "jnchito"
@@ -122,7 +122,7 @@
   {
     "title": "ターミナルマルチプレクサ tmux をカスタマイズする",
     "url": "https://qiita.com/b4b4r07/items/01359e8a3066d1c37edc",
-    "likes_count": 870,
+    "likes_count": 872,
     "created_at": "2014-12-04T01:07:48+09:00",
     "updated_at": "2019-11-14T11:00:47+09:00",
     "id": "b4b4r07"
@@ -146,7 +146,7 @@
   {
     "title": "今更聞けないpryの使い方と便利プラグイン集",
     "url": "https://qiita.com/k0kubun/items/b118e9ccaef8707c4d9f",
-    "likes_count": 811,
+    "likes_count": 812,
     "created_at": "2014-12-21T17:57:43+09:00",
     "updated_at": "2016-01-16T21:49:45+09:00",
     "id": "k0kubun"
@@ -282,7 +282,7 @@
   {
     "title": "Groovyを知らない人のためのbuild.gradle読み書き入門",
     "url": "https://qiita.com/opengl-8080/items/a0bb31fb20cb6505188b",
-    "likes_count": 589,
+    "likes_count": 590,
     "created_at": "2014-12-15T00:57:20+09:00",
     "updated_at": "2019-01-13T10:32:56+09:00",
     "id": "opengl-8080"
@@ -402,7 +402,7 @@
   {
     "title": "MacにPostgreSQLをインストール",
     "url": "https://qiita.com/_daisuke/items/13996621cf51f835494b",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2014-12-23T13:56:20+09:00",
     "updated_at": "2015-01-06T22:59:39+09:00",
     "id": "_daisuke"
@@ -504,14 +504,6 @@
     "id": "gucchon"
   },
   {
-    "title": "Webスクレイピングの法律周りの話をしよう！",
-    "url": "https://qiita.com/nezuq/items/3cc9772118ad112c18dc",
-    "likes_count": 406,
-    "created_at": "2014-12-03T23:55:41+09:00",
-    "updated_at": "2020-09-09T07:37:42+09:00",
-    "id": "nezuq"
-  },
-  {
     "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
     "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
     "likes_count": 395,
@@ -570,7 +562,7 @@
   {
     "title": "Makefileの関数",
     "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2014-12-24T21:58:53+09:00",
     "updated_at": "2017-05-15T10:21:03+09:00",
     "id": "chibi929"
@@ -606,6 +598,14 @@
     "created_at": "2014-12-27T16:41:54+09:00",
     "updated_at": "2016-02-14T17:36:15+09:00",
     "id": "teradonburi"
+  },
+  {
+    "title": "React.jsの地味だけど重要なkeyについて",
+    "url": "https://qiita.com/koba04/items/a4d23245d246c53cd49d",
+    "likes_count": 330,
+    "created_at": "2014-12-11T14:54:17+09:00",
+    "updated_at": "2014-12-11T15:03:06+09:00",
+    "id": "koba04"
   },
   {
     "title": "Sprockets再考 モダンなJSのエコシステムとRailsのより良い関係を探す",
@@ -690,7 +690,7 @@
   {
     "title": "Python ビット演算 超入門",
     "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
-    "likes_count": 284,
+    "likes_count": 285,
     "created_at": "2014-12-14T19:50:10+09:00",
     "updated_at": "2014-12-15T17:50:09+09:00",
     "id": "7shi"
@@ -786,7 +786,7 @@
   {
     "title": "AWSでデプロイとスケーリングを自動化する方法まとめ",
     "url": "https://qiita.com/hiro_koba_jp/items/eb438945d64c3d765e04",
-    "likes_count": 263,
+    "likes_count": 264,
     "created_at": "2014-12-24T00:00:35+09:00",
     "updated_at": "2014-12-25T11:18:46+09:00",
     "id": "hiro_koba_jp"

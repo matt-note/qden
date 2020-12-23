@@ -10,7 +10,7 @@
   {
     "title": "[ver 1.2] Git でよく使われるコマンドにイラストによる説明を加えて1枚のチートシートにまとめてみた",
     "url": "https://qiita.com/kozzy/items/b42ba59a8bac190a16ab",
-    "likes_count": 2440,
+    "likes_count": 2441,
     "created_at": "2019-03-02T21:07:11+09:00",
     "updated_at": "2019-10-31T11:03:34+09:00",
     "id": "kozzy"
@@ -58,7 +58,7 @@
   {
     "title": "量子コンピュータエンジニア始めて5年が経った",
     "url": "https://qiita.com/YuichiroMinato/items/7192a15505d15409e904",
-    "likes_count": 1369,
+    "likes_count": 1370,
     "created_at": "2019-03-09T15:42:33+09:00",
     "updated_at": "2019-03-13T23:38:09+09:00",
     "id": "YuichiroMinato"
@@ -106,7 +106,7 @@
   {
     "title": "３週間でAWS認定ソリューションアーキテクト-アソシエイト-とったので、勉強法などまとめてみる",
     "url": "https://qiita.com/fukubaka0825/items/238225f9e4c1962bc00c",
-    "likes_count": 1132,
+    "likes_count": 1133,
     "created_at": "2019-03-31T01:56:05+09:00",
     "updated_at": "2019-04-17T14:01:32+09:00",
     "id": "fukubaka0825"
@@ -162,7 +162,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 782,
+    "likes_count": 784,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -178,7 +178,7 @@
   {
     "title": "まだExcelで消耗してるの？Pythonによる自動集計ガイド 基礎編",
     "url": "https://qiita.com/stakemura/items/08838d93d43ed4e47fc4",
-    "likes_count": 731,
+    "likes_count": 732,
     "created_at": "2019-03-15T08:42:45+09:00",
     "updated_at": "2019-03-15T08:42:45+09:00",
     "id": "stakemura"
@@ -186,7 +186,7 @@
   {
     "title": "Python系の情報ソースをまとめた",
     "url": "https://qiita.com/ulwlu/items/fdb5e227fa5dcbcc4691",
-    "likes_count": 708,
+    "likes_count": 709,
     "created_at": "2019-03-25T05:01:15+09:00",
     "updated_at": "2020-03-30T00:03:23+09:00",
     "id": "ulwlu"
@@ -216,6 +216,14 @@
     "id": "koedamon"
   },
   {
+    "title": "Android開発はFlutterでやる方がいい説",
+    "url": "https://qiita.com/ko2ic/items/b07d3ec73513c1bd8ba6",
+    "likes_count": 628,
+    "created_at": "2019-03-27T16:36:20+09:00",
+    "updated_at": "2019-08-30T17:43:25+09:00",
+    "id": "ko2ic"
+  },
+  {
     "title": "[最新論文]NVIDIAさんがまた本気を出してしまった。",
     "url": "https://qiita.com/Phoeboooo/items/ad6c0461ab052aae8e89",
     "likes_count": 627,
@@ -224,12 +232,12 @@
     "id": "Phoeboooo"
   },
   {
-    "title": "Android開発はFlutterでやる方がいい説",
-    "url": "https://qiita.com/ko2ic/items/b07d3ec73513c1bd8ba6",
-    "likes_count": 626,
-    "created_at": "2019-03-27T16:36:20+09:00",
-    "updated_at": "2019-08-30T17:43:25+09:00",
-    "id": "ko2ic"
+    "title": "Laravelで実践クリーンアーキテクチャ",
+    "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
+    "likes_count": 625,
+    "created_at": "2019-03-14T23:15:05+09:00",
+    "updated_at": "2020-12-13T21:40:32+09:00",
+    "id": "nrslib"
   },
   {
     "title": "デザインコード抽出/共有/履歴/管理ツール『Avocode』",
@@ -238,14 +246,6 @@
     "created_at": "2019-03-16T22:04:48+09:00",
     "updated_at": "2020-12-12T18:29:19+09:00",
     "id": "ulwlu"
-  },
-  {
-    "title": "Laravelで実践クリーンアーキテクチャ",
-    "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 623,
-    "created_at": "2019-03-14T23:15:05+09:00",
-    "updated_at": "2020-12-13T21:40:32+09:00",
-    "id": "nrslib"
   },
   {
     "title": "なんとなくVue.jsのUIフレームワークを紹介する",
@@ -290,7 +290,7 @@
   {
     "title": "モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace",
     "url": "https://qiita.com/yu4u/items/078054dfb5592cbb80cc",
-    "likes_count": 549,
+    "likes_count": 551,
     "created_at": "2019-03-06T08:49:26+09:00",
     "updated_at": "2019-03-06T09:56:22+09:00",
     "id": "yu4u"
@@ -306,7 +306,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 515,
+    "likes_count": 516,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -402,7 +402,7 @@
   {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 391,
+    "likes_count": 393,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
@@ -434,7 +434,7 @@
   {
     "title": "10分くらいでわかる、KubernetesとEKSの何が便利なのか",
     "url": "https://qiita.com/masachaco/items/3e50a1ac65cdd661a734",
-    "likes_count": 381,
+    "likes_count": 382,
     "created_at": "2019-03-09T15:23:25+09:00",
     "updated_at": "2019-03-09T16:21:58+09:00",
     "id": "masachaco"
@@ -554,7 +554,7 @@
   {
     "title": "Nuxt.js + FirebaseでOGPの仕組みを完全に理解した　〜俳句をSVGで描画するサービスをリリースした話〜",
     "url": "https://qiita.com/mitsudaman/items/1956b94dc8faf8fb8c59",
-    "likes_count": 275,
+    "likes_count": 276,
     "created_at": "2019-03-12T22:43:53+09:00",
     "updated_at": "2019-03-12T22:43:53+09:00",
     "id": "mitsudaman"
@@ -562,7 +562,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 250,
+    "likes_count": 252,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2020-12-12T06:19:58+09:00",
     "id": "i-tanaka730"
