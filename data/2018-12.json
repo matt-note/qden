@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1713,
+    "likes_count": 1714,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1420,
+    "likes_count": 1421,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -34,7 +34,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1407,
+    "likes_count": 1409,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -50,7 +50,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1270,
+    "likes_count": 1269,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2019-09-14T16:44:47+09:00",
     "id": "saboyutaka"
@@ -66,7 +66,7 @@
   {
     "title": "おもしろいダジャレを入力すると布団が吹っ飛ぶ装置を作った",
     "url": "https://qiita.com/fujit33/items/dbfbd7a2aa3858067b6c",
-    "likes_count": 1190,
+    "likes_count": 1192,
     "created_at": "2018-12-19T13:03:14+09:00",
     "updated_at": "2019-01-09T21:58:39+09:00",
     "id": "fujit33"
@@ -74,7 +74,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1099,
+    "likes_count": 1098,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -90,7 +90,7 @@
   {
     "title": "JavaScriptの概念たち (前編)",
     "url": "https://qiita.com/tsin1rou/items/90576b6c00b895478610",
-    "likes_count": 1001,
+    "likes_count": 1000,
     "created_at": "2018-12-04T02:39:25+09:00",
     "updated_at": "2018-12-06T10:40:04+09:00",
     "id": "tsin1rou"
@@ -98,7 +98,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 988,
+    "likes_count": 989,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2018-12-07T01:00:36+09:00",
     "id": "diescake"
@@ -120,20 +120,20 @@
     "id": "koshian2"
   },
   {
+    "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
+    "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
+    "likes_count": 941,
+    "created_at": "2018-12-25T21:17:23+09:00",
+    "updated_at": "2018-12-27T14:44:55+09:00",
+    "id": "hirokidaichi"
+  },
+  {
     "title": "【危険シェル芸】禁じられた闇の魔術とその防衛術💥",
     "url": "https://qiita.com/_-_-_-_-_/items/214d537aae2c1488692c",
     "likes_count": 938,
     "created_at": "2018-12-22T05:22:29+09:00",
     "updated_at": "2019-08-22T20:49:20+09:00",
     "id": "_-_-_-_-_"
-  },
-  {
-    "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
-    "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
-    "likes_count": 937,
-    "created_at": "2018-12-25T21:17:23+09:00",
-    "updated_at": "2018-12-27T14:44:55+09:00",
-    "id": "hirokidaichi"
   },
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
@@ -146,7 +146,7 @@
   {
     "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
     "url": "https://qiita.com/yumetodo/items/54e1a8230dbf513ea85b",
-    "likes_count": 906,
+    "likes_count": 909,
     "created_at": "2018-12-22T19:33:18+09:00",
     "updated_at": "2019-08-08T12:41:02+09:00",
     "id": "yumetodo"
@@ -154,7 +154,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 905,
+    "likes_count": 907,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -162,7 +162,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 903,
+    "likes_count": 904,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -170,7 +170,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 894,
+    "likes_count": 895,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -194,7 +194,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 839,
+    "likes_count": 840,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -258,7 +258,7 @@
   {
     "title": "2018年これだけは知っておきたいiOSライブラリ31選",
     "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
-    "likes_count": 650,
+    "likes_count": 651,
     "created_at": "2018-12-12T19:17:50+09:00",
     "updated_at": "2019-03-18T13:42:44+09:00",
     "id": "kohei1218"
@@ -378,7 +378,7 @@
   {
     "title": "ワイが個人的に便利だと思っていてよく使っているJavaScriptモジュール(npm)たち",
     "url": "https://qiita.com/_somary/items/ac55db148b72726d0753",
-    "likes_count": 462,
+    "likes_count": 461,
     "created_at": "2018-12-19T09:52:58+09:00",
     "updated_at": "2018-12-19T09:56:53+09:00",
     "id": "_somary"
@@ -386,7 +386,7 @@
   {
     "title": "Github Actionsが使えるようになったので使ってみる",
     "url": "https://qiita.com/1915keke/items/8b18097d2981e88eca93",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2018-12-02T19:23:09+09:00",
     "updated_at": "2019-09-13T14:44:25+09:00",
     "id": "1915keke"
@@ -554,7 +554,7 @@
   {
     "title": "ドメイン駆動設計を勉強するときのオススメ資料",
     "url": "https://qiita.com/dora56/items/db8495fac3fbc6cd2569",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2018-12-08T23:10:00+09:00",
     "updated_at": "2019-06-12T16:42:02+09:00",
     "id": "dora56"
@@ -570,7 +570,7 @@
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
     "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2018-12-06T00:54:09+09:00",
     "updated_at": "2018-12-06T00:55:45+09:00",
     "id": "yuneco"
@@ -634,7 +634,7 @@
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
     "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
-    "likes_count": 226,
+    "likes_count": 227,
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"

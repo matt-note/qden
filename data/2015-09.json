@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 8491,
+    "likes_count": 8495,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2020-08-26T23:22:06+09:00",
     "id": "Ted-HM"
@@ -18,7 +18,7 @@
   {
     "title": "うまくクラス名を付けるための参考情報",
     "url": "https://qiita.com/KeithYokoma/items/ee21fec6a3ebb5d1e9a8",
-    "likes_count": 2011,
+    "likes_count": 2012,
     "created_at": "2015-09-16T11:30:40+09:00",
     "updated_at": "2015-09-16T11:30:40+09:00",
     "id": "KeithYokoma"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 1965,
+    "likes_count": 1967,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2020-06-02T11:35:16+09:00",
     "id": "suthio"
@@ -50,7 +50,7 @@
   {
     "title": "5分で理解する React.js",
     "url": "https://qiita.com/tomzoh/items/7fabe7cb57dd96425867",
-    "likes_count": 1677,
+    "likes_count": 1676,
     "created_at": "2015-09-03T01:52:31+09:00",
     "updated_at": "2018-12-14T20:04:30+09:00",
     "id": "tomzoh"
@@ -58,7 +58,7 @@
   {
     "title": "Webアプリケーション開発者から見た、MVCとMVP、そしてMVVMの違い",
     "url": "https://qiita.com/shinkuFencer/items/f2651073fb71416b6cd7",
-    "likes_count": 1556,
+    "likes_count": 1557,
     "created_at": "2015-09-14T15:10:08+09:00",
     "updated_at": "2017-10-03T12:36:12+09:00",
     "id": "shinkuFencer"
@@ -80,20 +80,20 @@
     "id": "uasi"
   },
   {
+    "title": "Nginx設定のまとめ",
+    "url": "https://qiita.com/syou007/items/3e2d410bbe65a364b603",
+    "likes_count": 1479,
+    "created_at": "2015-09-30T10:30:39+09:00",
+    "updated_at": "2015-11-18T10:09:23+09:00",
+    "id": "syou007"
+  },
+  {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
     "likes_count": 1478,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2020-11-28T01:44:30+09:00",
     "id": "soarflat"
-  },
-  {
-    "title": "Nginx設定のまとめ",
-    "url": "https://qiita.com/syou007/items/3e2d410bbe65a364b603",
-    "likes_count": 1478,
-    "created_at": "2015-09-30T10:30:39+09:00",
-    "updated_at": "2015-11-18T10:09:23+09:00",
-    "id": "syou007"
   },
   {
     "title": "pythonと遺伝的アルゴリズムで作るFX自動売買システム その1",
@@ -162,7 +162,7 @@
   {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
-    "likes_count": 841,
+    "likes_count": 842,
     "created_at": "2015-09-24T01:06:14+09:00",
     "updated_at": "2020-09-09T10:49:33+09:00",
     "id": "nightyknite"
@@ -186,7 +186,7 @@
   {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 788,
+    "likes_count": 789,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2019-02-03T11:37:52+09:00",
     "id": "ryouzi"
@@ -298,7 +298,7 @@
   {
     "title": "【Rails初心者必見！】ひたすら丁寧にデータ取得を説明(find, where)",
     "url": "https://qiita.com/mr-myself/items/cfb936dcf63d2c44d2f5",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2015-09-03T18:25:00+09:00",
     "updated_at": "2015-09-03T18:25:00+09:00",
     "id": "mr-myself"
@@ -346,7 +346,7 @@
   {
     "title": "実用 awk ワンライナー",
     "url": "https://qiita.com/b4b4r07/items/45d34a434f05aa896d69",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2015-09-08T19:41:15+09:00",
     "updated_at": "2015-09-09T11:00:11+09:00",
     "id": "b4b4r07"
@@ -418,7 +418,7 @@
   {
     "title": "Powershellを楽に実行してもらうには",
     "url": "https://qiita.com/tomoko523/items/df8e384d32a377381ef9",
-    "likes_count": 339,
+    "likes_count": 340,
     "created_at": "2015-09-18T17:48:57+09:00",
     "updated_at": "2015-09-18T17:48:57+09:00",
     "id": "tomoko523"
@@ -512,20 +512,20 @@
     "id": "merrill"
   },
   {
+    "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",
+    "url": "https://qiita.com/shizuma/items/c8c2e71af8c1dcf3d1c2",
+    "likes_count": 288,
+    "created_at": "2015-09-09T13:02:55+09:00",
+    "updated_at": "2020-01-25T14:29:48+09:00",
+    "id": "shizuma"
+  },
+  {
     "title": "インストール不要！WindowsでLinuxコマンドを使う",
     "url": "https://qiita.com/tetsuy/items/22cba0bc2048967b270a",
     "likes_count": 288,
     "created_at": "2015-09-17T12:51:49+09:00",
     "updated_at": "2018-11-17T16:46:21+09:00",
     "id": "tetsuy"
-  },
-  {
-    "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",
-    "url": "https://qiita.com/shizuma/items/c8c2e71af8c1dcf3d1c2",
-    "likes_count": 287,
-    "created_at": "2015-09-09T13:02:55+09:00",
-    "updated_at": "2020-01-25T14:29:48+09:00",
-    "id": "shizuma"
   },
   {
     "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
@@ -546,7 +546,7 @@
   {
     "title": "[PHP] 配列・連想配列の初期化、結合、追加",
     "url": "https://qiita.com/shuntaro_tamura/items/784cfd61f355516dfff0",
-    "likes_count": 274,
+    "likes_count": 275,
     "created_at": "2015-09-12T16:57:23+09:00",
     "updated_at": "2015-09-12T16:57:23+09:00",
     "id": "shuntaro_tamura"

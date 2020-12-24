@@ -26,7 +26,7 @@
   {
     "title": "WebSocketについて調べてみた。",
     "url": "https://qiita.com/south37/items/6f92d4268fe676347160",
-    "likes_count": 1681,
+    "likes_count": 1683,
     "created_at": "2015-01-18T20:00:01+09:00",
     "updated_at": "2018-05-18T11:44:50+09:00",
     "id": "south37"
@@ -90,7 +90,7 @@
   {
     "title": "使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」",
     "url": "https://qiita.com/jnchito/items/607f956263c38a5fec24",
-    "likes_count": 1429,
+    "likes_count": 1430,
     "created_at": "2015-01-02T08:21:53+09:00",
     "updated_at": "2020-09-06T15:40:46+09:00",
     "id": "jnchito"
@@ -136,20 +136,20 @@
     "id": "okmttdhr"
   },
   {
+    "title": "DB論理設計のノウハウ",
+    "url": "https://qiita.com/kiyodori/items/5083ad8bbfc232d01827",
+    "likes_count": 1032,
+    "created_at": "2015-01-10T10:03:36+09:00",
+    "updated_at": "2018-11-22T18:49:41+09:00",
+    "id": "kiyodori"
+  },
+  {
     "title": "リーダブルコードを読んだので、殴り書き",
     "url": "https://qiita.com/Kenya/items/faec4cc374edd5ffbba6",
     "likes_count": 1031,
     "created_at": "2015-01-03T01:45:54+09:00",
     "updated_at": "2015-01-10T18:22:20+09:00",
     "id": "Kenya"
-  },
-  {
-    "title": "DB論理設計のノウハウ",
-    "url": "https://qiita.com/kiyodori/items/5083ad8bbfc232d01827",
-    "likes_count": 1031,
-    "created_at": "2015-01-10T10:03:36+09:00",
-    "updated_at": "2018-11-22T18:49:41+09:00",
-    "id": "kiyodori"
   },
   {
     "title": "SVNを捨ててGitを使うべき5つの理由",
@@ -186,7 +186,7 @@
   {
     "title": "Ruby on RailsのAjax処理のおさらい",
     "url": "https://qiita.com/ka215/items/dfa602f1ccc652cf2888",
-    "likes_count": 910,
+    "likes_count": 911,
     "created_at": "2015-01-20T20:16:06+09:00",
     "updated_at": "2019-06-25T14:49:42+09:00",
     "id": "ka215"
@@ -416,20 +416,20 @@
     "id": "Salinger"
   },
   {
+    "title": "require()とは何か？何が便利なのか",
+    "url": "https://qiita.com/uryyyyyyy/items/b10b012703b5396ded5a",
+    "likes_count": 411,
+    "created_at": "2015-01-13T13:15:11+09:00",
+    "updated_at": "2015-01-13T13:15:11+09:00",
+    "id": "uryyyyyyy"
+  },
+  {
     "title": "git log よく使うオプションまとめ",
     "url": "https://qiita.com/take4s5i/items/15d8648405f4e7ea3039",
     "likes_count": 411,
     "created_at": "2015-01-23T14:56:39+09:00",
     "updated_at": "2016-04-15T00:52:43+09:00",
     "id": "take4s5i"
-  },
-  {
-    "title": "require()とは何か？何が便利なのか",
-    "url": "https://qiita.com/uryyyyyyy/items/b10b012703b5396ded5a",
-    "likes_count": 409,
-    "created_at": "2015-01-13T13:15:11+09:00",
-    "updated_at": "2015-01-13T13:15:11+09:00",
-    "id": "uryyyyyyy"
   },
   {
     "title": "Rails 4.2 で ユーザー管理・認証 (devise)",
@@ -474,7 +474,7 @@
   {
     "title": "Hadoop利用者ならきっと知ってる、Hive/Prestoクエリ関数の挙動の違い",
     "url": "https://qiita.com/y-ken/items/400b7c70c324ac67af02",
-    "likes_count": 349,
+    "likes_count": 350,
     "created_at": "2015-01-22T13:06:27+09:00",
     "updated_at": "2020-10-31T01:14:14+09:00",
     "id": "y-ken"
@@ -550,6 +550,14 @@
     "created_at": "2015-01-12T15:49:52+09:00",
     "updated_at": "2015-01-13T21:53:12+09:00",
     "id": "opengl-8080"
+  },
+  {
+    "title": "composer install と composer updateの違い",
+    "url": "https://qiita.com/YusukeHigaki/items/47dd3ec23544225f7301",
+    "likes_count": 287,
+    "created_at": "2015-01-02T10:32:57+09:00",
+    "updated_at": "2015-01-02T10:32:57+09:00",
+    "id": "YusukeHigaki"
   },
   {
     "title": "Rubyが参照してるgemのパスやインストール済gemを確認する方法",

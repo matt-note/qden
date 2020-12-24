@@ -2,7 +2,7 @@
   {
     "title": "うまくメソッド名を付けるための参考情報",
     "url": "https://qiita.com/KeithYokoma/items/2193cf79ba76563e3db6",
-    "likes_count": 6673,
+    "likes_count": 6675,
     "created_at": "2015-04-20T18:17:04+09:00",
     "updated_at": "2016-02-29T15:10:04+09:00",
     "id": "KeithYokoma"
@@ -18,7 +18,7 @@
   {
     "title": "JavaScriptを読んでて「なにこれ！？」と思うけれど調べられない記法8選。",
     "url": "https://qiita.com/ukiuni@github/items/5f3d8620187905aea3d4",
-    "likes_count": 3136,
+    "likes_count": 3137,
     "created_at": "2015-04-17T17:31:29+09:00",
     "updated_at": "2015-04-22T13:58:44+09:00",
     "id": "ukiuni@github"
@@ -58,7 +58,7 @@
   {
     "title": "フロントエンド開発の３ステップ（npmことはじめ）",
     "url": "https://qiita.com/hashrock/items/15f4a4961183cfbb2658",
-    "likes_count": 1500,
+    "likes_count": 1501,
     "created_at": "2015-04-12T03:36:27+09:00",
     "updated_at": "2020-08-17T19:58:36+09:00",
     "id": "hashrock"
@@ -90,7 +90,7 @@
   {
     "title": "【PHP超入門】クラス～例外処理～PDOの基礎",
     "url": "https://qiita.com/7968/items/6f089fec8dde676abb5b",
-    "likes_count": 1200,
+    "likes_count": 1201,
     "created_at": "2015-04-04T23:11:09+09:00",
     "updated_at": "2020-04-15T08:45:33+09:00",
     "id": "7968"
@@ -98,7 +98,7 @@
   {
     "title": "Qiita Markdown 書き方 まとめ",
     "url": "https://qiita.com/shizuma/items/8616bbe3ebe8ab0b6ca1",
-    "likes_count": 1006,
+    "likes_count": 1008,
     "created_at": "2015-04-12T12:55:00+09:00",
     "updated_at": "2019-09-06T09:57:37+09:00",
     "id": "shizuma"
@@ -178,10 +178,18 @@
   {
     "title": "react-railsを使ってReactのTutorialをやってみる",
     "url": "https://qiita.com/joe-re/items/96f12dda4a62470d1d7c",
-    "likes_count": 617,
+    "likes_count": 616,
     "created_at": "2015-04-29T21:47:45+09:00",
     "updated_at": "2016-11-18T15:54:15+09:00",
     "id": "joe-re"
+  },
+  {
+    "title": "【AWS】S3まとめ",
+    "url": "https://qiita.com/iron-breaker/items/f35c1d54887c434a321a",
+    "likes_count": 571,
+    "created_at": "2015-04-10T22:32:49+09:00",
+    "updated_at": "2017-12-04T14:01:15+09:00",
+    "id": "iron-breaker"
   },
   {
     "title": "チームとして少ないミスで素早くアプリを継続的・持続的に作り続けるためのメソッド",
@@ -190,14 +198,6 @@
     "created_at": "2015-04-27T13:02:49+09:00",
     "updated_at": "2015-05-01T18:43:57+09:00",
     "id": "KeithYokoma"
-  },
-  {
-    "title": "【AWS】S3まとめ",
-    "url": "https://qiita.com/iron-breaker/items/f35c1d54887c434a321a",
-    "likes_count": 569,
-    "created_at": "2015-04-10T22:32:49+09:00",
-    "updated_at": "2017-12-04T14:01:15+09:00",
-    "id": "iron-breaker"
   },
   {
     "title": "jQuery 便利なonを使おう（on click)",
@@ -282,7 +282,7 @@
   {
     "title": "Gitで管理しているExcelファイルの差分を見る",
     "url": "https://qiita.com/takedakn/items/660d17fe10ede8441ee6",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2015-04-08T00:19:54+09:00",
     "updated_at": "2015-04-08T00:20:39+09:00",
     "id": "takedakn"
@@ -298,7 +298,7 @@
   {
     "title": "機械学習で未来を予測する - scikit-learn の決定木で未来の株価を予測",
     "url": "https://qiita.com/ynakayama/items/6a472e5ebbe9365186bd",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2015-04-09T19:39:58+09:00",
     "updated_at": "2015-05-28T14:21:09+09:00",
     "id": "ynakayama"
@@ -322,7 +322,7 @@
   {
     "title": "アドレスバーのURLを書き換える",
     "url": "https://qiita.com/nightyknite/items/b350dc95f7da089a516a",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2015-04-03T03:43:20+09:00",
     "updated_at": "2019-04-19T07:43:14+09:00",
     "id": "nightyknite"
@@ -418,7 +418,7 @@
   {
     "title": "Java言語の命名指針",
     "url": "https://qiita.com/rkonno/items/1b30daf83854fecbb814",
-    "likes_count": 244,
+    "likes_count": 245,
     "created_at": "2015-04-20T02:25:37+09:00",
     "updated_at": "2020-02-25T10:51:20+09:00",
     "id": "rkonno"
