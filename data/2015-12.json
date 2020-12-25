@@ -34,7 +34,7 @@
   {
     "title": "わかるLSTM ～ 最近の動向と共に",
     "url": "https://qiita.com/t_Signull/items/21b82be280b46f467d1b",
-    "likes_count": 2132,
+    "likes_count": 2133,
     "created_at": "2015-12-14T23:24:11+09:00",
     "updated_at": "2016-06-17T23:59:26+09:00",
     "id": "t_Signull"
@@ -66,7 +66,7 @@
   {
     "title": "初心者がAWSでミスって不正利用されて$6,000請求、泣きそうになったお話。",
     "url": "https://qiita.com/mochizukikotaro/items/a0e98ff0063a77e7b694",
-    "likes_count": 1509,
+    "likes_count": 1510,
     "created_at": "2015-12-24T01:00:41+09:00",
     "updated_at": "2015-12-25T12:40:23+09:00",
     "id": "mochizukikotaro"
@@ -82,7 +82,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1447,
+    "likes_count": 1446,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -98,7 +98,7 @@
   {
     "title": "非同期処理ってどういうこと？JavaScriptで一から学ぶ",
     "url": "https://qiita.com/kiyodori/items/da434d169755cbb20447",
-    "likes_count": 1239,
+    "likes_count": 1240,
     "created_at": "2015-12-19T22:32:13+09:00",
     "updated_at": "2015-12-19T22:37:55+09:00",
     "id": "kiyodori"
@@ -114,7 +114,7 @@
   {
     "title": "Ubuntuに最新のNode.jsを難なくインストールする",
     "url": "https://qiita.com/seibe/items/36cef7df85fe2cefa3ea",
-    "likes_count": 1217,
+    "likes_count": 1218,
     "created_at": "2015-12-11T01:45:30+09:00",
     "updated_at": "2019-02-10T15:24:12+09:00",
     "id": "seibe"
@@ -210,7 +210,7 @@
   {
     "title": "分岐アンチパターン",
     "url": "https://qiita.com/pakkun/items/9bef9132f168ba0befd7",
-    "likes_count": 809,
+    "likes_count": 810,
     "created_at": "2015-12-10T12:30:39+09:00",
     "updated_at": "2019-02-01T14:07:23+09:00",
     "id": "pakkun"
@@ -392,20 +392,20 @@
     "id": "gomi_ningen"
   },
   {
+    "title": "気をつけて！Git for Windowsにおける改行コード",
+    "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
+    "likes_count": 436,
+    "created_at": "2015-12-25T23:01:51+09:00",
+    "updated_at": "2018-12-11T08:34:12+09:00",
+    "id": "uggds"
+  },
+  {
     "title": "Qiitaのマークダウンで色をつける方法[140色]",
     "url": "https://qiita.com/twipg/items/d8043cd4681a2780c160",
     "likes_count": 435,
     "created_at": "2015-12-22T19:51:13+09:00",
     "updated_at": "2016-11-12T12:13:16+09:00",
     "id": "twipg"
-  },
-  {
-    "title": "気をつけて！Git for Windowsにおける改行コード",
-    "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 434,
-    "created_at": "2015-12-25T23:01:51+09:00",
-    "updated_at": "2018-12-11T08:34:12+09:00",
-    "id": "uggds"
   },
   {
     "title": "ghq, peco, hubで快適Gitライフを手に入れよう！",
@@ -434,7 +434,7 @@
   {
     "title": "SQLスタイルガイド",
     "url": "https://qiita.com/taise/items/18c14d9b01a5dfd6d35e",
-    "likes_count": 415,
+    "likes_count": 417,
     "created_at": "2015-12-13T09:00:22+09:00",
     "updated_at": "2015-12-13T09:00:22+09:00",
     "id": "taise"
@@ -562,7 +562,7 @@
   {
     "title": "namespaceの賢い使い方",
     "url": "https://qiita.com/_EnumHack/items/430da105a541f9ecd774",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2015-12-24T03:59:50+09:00",
     "updated_at": "2020-05-28T18:15:40+09:00",
     "id": "_EnumHack"
@@ -626,7 +626,7 @@
   {
     "title": "技術系の名言まとめ++",
     "url": "https://qiita.com/kkyouhei/items/38ba41fb6b877f160e99",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2015-12-13T10:08:23+09:00",
     "updated_at": "2016-10-03T13:49:51+09:00",
     "id": "kkyouhei"
@@ -688,20 +688,20 @@
     "id": "satoyan419"
   },
   {
+    "title": "ES6の新機能: 「let」「const」宣言を調べてみた",
+    "url": "https://qiita.com/niisan-tokyo/items/bacb5ed98ea10831eeba",
+    "likes_count": 299,
+    "created_at": "2016-01-01T00:57:50+09:00",
+    "updated_at": "2016-05-15T07:39:25+09:00",
+    "id": "niisan-tokyo"
+  },
+  {
     "title": "AWS IoTとRaspberry Pi使って、プランターの野菜を救う！",
     "url": "https://qiita.com/hase-ken/items/8d2d66e002625ca46e11",
     "likes_count": 298,
     "created_at": "2015-12-14T00:44:17+09:00",
     "updated_at": "2015-12-14T03:21:59+09:00",
     "id": "hase-ken"
-  },
-  {
-    "title": "ES6の新機能: 「let」「const」宣言を調べてみた",
-    "url": "https://qiita.com/niisan-tokyo/items/bacb5ed98ea10831eeba",
-    "likes_count": 298,
-    "created_at": "2016-01-01T00:57:50+09:00",
-    "updated_at": "2016-05-15T07:39:25+09:00",
-    "id": "niisan-tokyo"
   },
   {
     "title": "PHP7.0がでたので、いまどきの「普通」のPHPの話。",
@@ -794,7 +794,7 @@
   {
     "title": "Visual StudioユーザーがReleaseビルドをするときに必ずやってほしい2つの設定",
     "url": "https://qiita.com/lainzero/items/27681ddc96638e33758b",
-    "likes_count": 231,
+    "likes_count": 232,
     "created_at": "2015-12-30T00:47:13+09:00",
     "updated_at": "2015-12-30T00:48:59+09:00",
     "id": "lainzero"
