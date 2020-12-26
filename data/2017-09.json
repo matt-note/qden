@@ -2,7 +2,7 @@
   {
     "title": "プロジェクトの残業を50%削減したタスク管理手法を惜しみなく公開する",
     "url": "https://qiita.com/0w0/items/0b287be30af6539ac5e9",
-    "likes_count": 1703,
+    "likes_count": 1704,
     "created_at": "2017-09-10T21:46:15+09:00",
     "updated_at": "2018-08-07T18:36:23+09:00",
     "id": "0w0"
@@ -34,7 +34,7 @@
   {
     "title": "真偽値を返す関数のネーミング",
     "url": "https://qiita.com/yskszk/items/5a7f99c974773f03a82a",
-    "likes_count": 1028,
+    "likes_count": 1027,
     "created_at": "2017-09-06T22:42:55+09:00",
     "updated_at": "2017-09-19T22:42:23+09:00",
     "id": "yskszk"
@@ -74,7 +74,7 @@
   {
     "title": "いい加減覚えよう。 `command > /dev/null 2>&1`の意味",
     "url": "https://qiita.com/ritukiii/items/b3d91e97b71ecd41d4ea",
-    "likes_count": 743,
+    "likes_count": 744,
     "created_at": "2017-09-06T22:55:16+09:00",
     "updated_at": "2018-11-09T10:28:16+09:00",
     "id": "ritukiii"
@@ -106,7 +106,7 @@
   {
     "title": "Vue.jsとRailsでTODOアプリのチュートリアルみたいなものを作ってみた",
     "url": "https://qiita.com/naoki85/items/51a8b0f2cbf949d08b11",
-    "likes_count": 677,
+    "likes_count": 680,
     "created_at": "2017-09-15T00:53:00+09:00",
     "updated_at": "2020-10-18T09:34:33+09:00",
     "id": "naoki85"
@@ -130,7 +130,7 @@
   {
     "title": "[axios] axios の導入と簡単な使い方",
     "url": "https://qiita.com/ksh-fthr/items/2daaaf3a15c4c11956e9",
-    "likes_count": 619,
+    "likes_count": 620,
     "created_at": "2017-09-13T23:37:44+09:00",
     "updated_at": "2020-08-11T10:24:30+09:00",
     "id": "ksh-fthr"
@@ -152,14 +152,6 @@
     "id": "ynott"
   },
   {
-    "title": "【Mac】隠しファイル・隠しフォルダを表示する方法",
-    "url": "https://qiita.com/TsukasaHasegawa/items/fa8e783a556dc1a08f51",
-    "likes_count": 542,
-    "created_at": "2017-09-03T01:41:17+09:00",
-    "updated_at": "2017-09-03T01:42:38+09:00",
-    "id": "TsukasaHasegawa"
-  },
-  {
     "title": "【機械学習初心者向け】scikit-learn「アルゴリズム・チートシート」の全手法を実装・解説してみた",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/e3fc39f2e552f2355209",
     "likes_count": 542,
@@ -168,12 +160,28 @@
     "id": "sugulu_Ogawa_ISID"
   },
   {
+    "title": "【Mac】隠しファイル・隠しフォルダを表示する方法",
+    "url": "https://qiita.com/TsukasaHasegawa/items/fa8e783a556dc1a08f51",
+    "likes_count": 540,
+    "created_at": "2017-09-03T01:41:17+09:00",
+    "updated_at": "2017-09-03T01:42:38+09:00",
+    "id": "TsukasaHasegawa"
+  },
+  {
     "title": "プログラマーから見た、SCSSの正しい(かもしれない)使いかた",
     "url": "https://qiita.com/sasuraisan/items/9a9dfb281cfdf5a12bd3",
-    "likes_count": 535,
+    "likes_count": 537,
     "created_at": "2017-09-11T21:56:04+09:00",
     "updated_at": "2018-02-09T10:57:47+09:00",
     "id": "sasuraisan"
+  },
+  {
+    "title": "OSSのライセンスを理解する（「使用」と「利用」の違い、知っていますか？）",
+    "url": "https://qiita.com/bremen/items/c5aa9446e73aa4bc1de0",
+    "likes_count": 502,
+    "created_at": "2017-09-19T18:15:13+09:00",
+    "updated_at": "2018-05-07T19:35:42+09:00",
+    "id": "bremen"
   },
   {
     "title": "日常から使えるUnix系OS業務効率up技",
@@ -182,14 +190,6 @@
     "created_at": "2017-09-14T16:36:20+09:00",
     "updated_at": "2019-11-09T18:47:02+09:00",
     "id": "onokatio"
-  },
-  {
-    "title": "OSSのライセンスを理解する（「使用」と「利用」の違い、知っていますか？）",
-    "url": "https://qiita.com/bremen/items/c5aa9446e73aa4bc1de0",
-    "likes_count": 500,
-    "created_at": "2017-09-19T18:15:13+09:00",
-    "updated_at": "2018-05-07T19:35:42+09:00",
-    "id": "bremen"
   },
   {
     "title": "データサイエンティストを目指して半年で学んだことまとめ",
@@ -218,7 +218,7 @@
   {
     "title": "Ubuntuにdockerをインストールする",
     "url": "https://qiita.com/tkyonezu/items/0f6da57eb2d823d2611d",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2017-09-01T12:14:14+09:00",
     "updated_at": "2020-12-14T12:57:21+09:00",
     "id": "tkyonezu"

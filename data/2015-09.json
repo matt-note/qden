@@ -10,7 +10,7 @@
   {
     "title": "npm とか bower とか一体何なんだよ！Javascript 界隈の文脈を理解しよう",
     "url": "https://qiita.com/megane42/items/2ab6ffd866c3f2fda066",
-    "likes_count": 2552,
+    "likes_count": 2551,
     "created_at": "2015-09-23T19:23:35+09:00",
     "updated_at": "2015-10-01T02:27:07+09:00",
     "id": "megane42"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 1967,
+    "likes_count": 1968,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2020-06-02T11:35:16+09:00",
     "id": "suthio"
@@ -82,7 +82,7 @@
   {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1481,
+    "likes_count": 1483,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2020-11-28T01:44:30+09:00",
     "id": "soarflat"
@@ -138,7 +138,7 @@
   {
     "title": "PATHを通すとは？ (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
-    "likes_count": 1113,
+    "likes_count": 1115,
     "created_at": "2015-09-16T00:08:22+09:00",
     "updated_at": "2020-11-28T01:44:40+09:00",
     "id": "soarflat"
@@ -146,7 +146,7 @@
   {
     "title": "Kotlin スコープ関数 用途まとめ",
     "url": "https://qiita.com/ngsw_taro/items/d29e3080d9fc8a38691e",
-    "likes_count": 861,
+    "likes_count": 862,
     "created_at": "2015-09-29T13:03:50+09:00",
     "updated_at": "2018-05-16T09:13:43+09:00",
     "id": "ngsw_taro"
@@ -162,7 +162,7 @@
   {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
-    "likes_count": 844,
+    "likes_count": 843,
     "created_at": "2015-09-24T01:06:14+09:00",
     "updated_at": "2020-09-09T10:49:33+09:00",
     "id": "nightyknite"
@@ -176,20 +176,20 @@
     "id": "kawachi"
   },
   {
-    "title": "MySQLでインデックスを貼る時に読みたいページまとめ(初心者向け）",
-    "url": "https://qiita.com/C058/items/1c9c57f634ebf54d99bb",
-    "likes_count": 791,
-    "created_at": "2015-09-17T19:53:38+09:00",
-    "updated_at": "2018-03-16T12:53:39+09:00",
-    "id": "C058"
-  },
-  {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 790,
+    "likes_count": 791,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2019-02-03T11:37:52+09:00",
     "id": "ryouzi"
+  },
+  {
+    "title": "MySQLでインデックスを貼る時に読みたいページまとめ(初心者向け）",
+    "url": "https://qiita.com/C058/items/1c9c57f634ebf54d99bb",
+    "likes_count": 790,
+    "created_at": "2015-09-17T19:53:38+09:00",
+    "updated_at": "2018-03-16T12:53:39+09:00",
+    "id": "C058"
   },
   {
     "title": "モダンPHPアンチパターン",
@@ -226,7 +226,7 @@
   {
     "title": "PostgreSQLの基本的なコマンド",
     "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 698,
+    "likes_count": 699,
     "created_at": "2015-09-08T20:16:56+09:00",
     "updated_at": "2015-09-30T22:56:05+09:00",
     "id": "H-A-L"
@@ -274,7 +274,7 @@
   {
     "title": "【CSS3】Transform（変形）関連のまとめ",
     "url": "https://qiita.com/7968/items/eddfeb4b424d7c2d2d34",
-    "likes_count": 537,
+    "likes_count": 536,
     "created_at": "2015-09-11T17:50:44+09:00",
     "updated_at": "2020-04-15T08:45:09+09:00",
     "id": "7968"
@@ -298,7 +298,7 @@
   {
     "title": "【Rails初心者必見！】ひたすら丁寧にデータ取得を説明(find, where)",
     "url": "https://qiita.com/mr-myself/items/cfb936dcf63d2c44d2f5",
-    "likes_count": 491,
+    "likes_count": 490,
     "created_at": "2015-09-03T18:25:00+09:00",
     "updated_at": "2015-09-03T18:25:00+09:00",
     "id": "mr-myself"
@@ -352,20 +352,20 @@
     "id": "b4b4r07"
   },
   {
+    "title": "Macでローカルサーバを立ち上げる方法",
+    "url": "https://qiita.com/shuntaro_tamura/items/bdabcb77926dc92617b1",
+    "likes_count": 403,
+    "created_at": "2015-09-11T20:06:02+09:00",
+    "updated_at": "2020-04-15T15:18:49+09:00",
+    "id": "shuntaro_tamura"
+  },
+  {
     "title": "メッセージングアプリSync開発の舞台裏(iOS)",
     "url": "https://qiita.com/susieyy/items/079be0df5cd72953b21b",
     "likes_count": 402,
     "created_at": "2015-09-09T11:41:47+09:00",
     "updated_at": "2015-09-10T14:53:15+09:00",
     "id": "susieyy"
-  },
-  {
-    "title": "Macでローカルサーバを立ち上げる方法",
-    "url": "https://qiita.com/shuntaro_tamura/items/bdabcb77926dc92617b1",
-    "likes_count": 402,
-    "created_at": "2015-09-11T20:06:02+09:00",
-    "updated_at": "2020-04-15T15:18:49+09:00",
-    "id": "shuntaro_tamura"
   },
   {
     "title": "マルチスレッド/プロセスまとめ（Ruby編）",
