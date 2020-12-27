@@ -2,7 +2,7 @@
   {
     "title": "もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った",
     "url": "https://qiita.com/hirokidaichi/items/ff54a968bdd7bcc50d42",
-    "likes_count": 4801,
+    "likes_count": 4802,
     "created_at": "2016-04-02T18:21:53+09:00",
     "updated_at": "2018-12-26T00:03:58+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2176,
+    "likes_count": 2177,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -58,7 +58,7 @@
   {
     "title": "React+Redux入門",
     "url": "https://qiita.com/erukiti/items/e16aa13ad81d5938374e",
-    "likes_count": 1464,
+    "likes_count": 1465,
     "created_at": "2016-04-11T00:26:29+09:00",
     "updated_at": "2020-11-15T11:42:16+09:00",
     "id": "erukiti"
@@ -66,7 +66,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1397,
+    "likes_count": 1398,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -144,6 +144,14 @@
     "id": "zembutsu"
   },
   {
+    "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
+    "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
+    "likes_count": 784,
+    "created_at": "2016-04-08T10:02:45+09:00",
+    "updated_at": "2019-01-28T13:20:03+09:00",
+    "id": "morikooooo"
+  },
+  {
     "title": "【噂】IT業界のウソ・ホント【闇】",
     "url": "https://qiita.com/netetahito/items/a317345b4e059267f879",
     "likes_count": 784,
@@ -152,17 +160,9 @@
     "id": "netetahito"
   },
   {
-    "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
-    "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 783,
-    "created_at": "2016-04-08T10:02:45+09:00",
-    "updated_at": "2019-01-28T13:20:03+09:00",
-    "id": "morikooooo"
-  },
-  {
     "title": "Promiseについて0から勉強してみた",
     "url": "https://qiita.com/toshihirock/items/e49b66f8685a8510bd76",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2016-04-10T07:32:44+09:00",
     "updated_at": "2016-04-17T15:28:26+09:00",
     "id": "toshihirock"
@@ -186,7 +186,7 @@
   {
     "title": "PHP開発でComposerを使わないなんてありえない！基礎編",
     "url": "https://qiita.com/niisan-tokyo/items/8cccec88d45f38171c94",
-    "likes_count": 688,
+    "likes_count": 689,
     "created_at": "2016-04-30T20:46:28+09:00",
     "updated_at": "2019-04-17T19:03:10+09:00",
     "id": "niisan-tokyo"
@@ -298,7 +298,7 @@
   {
     "title": "MSYS2で快適なターミナル生活",
     "url": "https://qiita.com/Ted-HM/items/4f2feb9fdacb6c72083c",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2016-04-21T17:50:15+09:00",
     "updated_at": "2016-04-28T17:04:20+09:00",
     "id": "Ted-HM"
@@ -354,7 +354,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 411,
+    "likes_count": 412,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"

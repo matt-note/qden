@@ -26,7 +26,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 1968,
+    "likes_count": 1969,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2020-06-02T11:35:16+09:00",
     "id": "suthio"
@@ -42,7 +42,7 @@
   {
     "title": "Railsアプリケーションにおけるエラー処理（例外設計）の考え方",
     "url": "https://qiita.com/jnchito/items/3ef95ea144ed15df3637",
-    "likes_count": 1733,
+    "likes_count": 1734,
     "created_at": "2015-09-29T07:04:25+09:00",
     "updated_at": "2020-11-18T15:01:00+09:00",
     "id": "jnchito"
@@ -82,7 +82,7 @@
   {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1483,
+    "likes_count": 1485,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2020-11-28T01:44:30+09:00",
     "id": "soarflat"
@@ -122,7 +122,7 @@
   {
     "title": "pythonで美しいグラフ描画 -seabornを使えばデータ分析と可視化が捗る その1",
     "url": "https://qiita.com/hik0107/items/3dc541158fceb3156ee0",
-    "likes_count": 1185,
+    "likes_count": 1186,
     "created_at": "2015-09-20T18:32:15+09:00",
     "updated_at": "2016-09-22T19:14:44+09:00",
     "id": "hik0107"
@@ -138,7 +138,7 @@
   {
     "title": "PATHを通すとは？ (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
-    "likes_count": 1115,
+    "likes_count": 1117,
     "created_at": "2015-09-16T00:08:22+09:00",
     "updated_at": "2020-11-28T01:44:40+09:00",
     "id": "soarflat"
@@ -146,7 +146,7 @@
   {
     "title": "Kotlin スコープ関数 用途まとめ",
     "url": "https://qiita.com/ngsw_taro/items/d29e3080d9fc8a38691e",
-    "likes_count": 862,
+    "likes_count": 863,
     "created_at": "2015-09-29T13:03:50+09:00",
     "updated_at": "2018-05-16T09:13:43+09:00",
     "id": "ngsw_taro"
@@ -162,7 +162,7 @@
   {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
-    "likes_count": 843,
+    "likes_count": 844,
     "created_at": "2015-09-24T01:06:14+09:00",
     "updated_at": "2020-09-09T10:49:33+09:00",
     "id": "nightyknite"
@@ -216,20 +216,20 @@
     "id": "nakahashi"
   },
   {
+    "title": "PostgreSQLの基本的なコマンド",
+    "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
+    "likes_count": 702,
+    "created_at": "2015-09-08T20:16:56+09:00",
+    "updated_at": "2015-09-30T22:56:05+09:00",
+    "id": "H-A-L"
+  },
+  {
     "title": "RESTful API設計におけるHTTPステータスコードの指針",
     "url": "https://qiita.com/uenosy/items/ba9dbc70781bddc4a491",
     "likes_count": 702,
     "created_at": "2015-09-14T16:36:59+09:00",
     "updated_at": "2015-09-14T16:36:59+09:00",
     "id": "uenosy"
-  },
-  {
-    "title": "PostgreSQLの基本的なコマンド",
-    "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 699,
-    "created_at": "2015-09-08T20:16:56+09:00",
-    "updated_at": "2015-09-30T22:56:05+09:00",
-    "id": "H-A-L"
   },
   {
     "title": "Chainerで始めるニューラルネットワーク",
@@ -426,7 +426,7 @@
   {
     "title": "Swift 2で提唱されているProtocol Oriented ProgrammingをWWDCセッションから学ぶ",
     "url": "https://qiita.com/mono0926/items/bb52e657df6978713334",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2015-09-20T06:58:27+09:00",
     "updated_at": "2015-09-21T13:48:37+09:00",
     "id": "mono0926"
@@ -466,7 +466,7 @@
   {
     "title": "Swift 2のパターンマッチ構文集(ほぼ翻訳)",
     "url": "https://qiita.com/mono0926/items/f2875a9eacef53e88122",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2015-09-14T07:52:26+09:00",
     "updated_at": "2016-11-09T17:12:53+09:00",
     "id": "mono0926"
