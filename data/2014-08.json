@@ -26,7 +26,7 @@
   {
     "title": "通信系のデバッグには Charles が便利",
     "url": "https://qiita.com/usagimaru/items/d340e87da98e62f99b60",
-    "likes_count": 1194,
+    "likes_count": 1195,
     "created_at": "2014-08-05T18:40:07+09:00",
     "updated_at": "2017-11-27T15:21:13+09:00",
     "id": "usagimaru"
@@ -74,7 +74,7 @@
   {
     "title": "AWSアカウント作ったらこれだけはやっとけ！IAMユーザーとAuthyを使ったMFAで2段階認証",
     "url": "https://qiita.com/yoshidashingo/items/cd206daca0596659b440",
-    "likes_count": 1028,
+    "likes_count": 1029,
     "created_at": "2014-08-06T03:04:41+09:00",
     "updated_at": "2014-10-25T16:19:40+09:00",
     "id": "yoshidashingo"
@@ -248,20 +248,20 @@
     "id": "mikakane"
   },
   {
+    "title": "Ruby の private と protected 。歴史と使い分け",
+    "url": "https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e",
+    "likes_count": 536,
+    "created_at": "2014-08-18T22:16:06+09:00",
+    "updated_at": "2016-08-16T21:46:37+09:00",
+    "id": "tbpgr"
+  },
+  {
     "title": "Requests の使い方 (Python Library)",
     "url": "https://qiita.com/sqrtxx/items/49beaa3795925e7de666",
     "likes_count": 535,
     "created_at": "2014-08-03T04:51:42+09:00",
     "updated_at": "2014-08-03T04:51:42+09:00",
     "id": "sqrtxx"
-  },
-  {
-    "title": "Ruby の private と protected 。歴史と使い分け",
-    "url": "https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e",
-    "likes_count": 535,
-    "created_at": "2014-08-18T22:16:06+09:00",
-    "updated_at": "2016-08-16T21:46:37+09:00",
-    "id": "tbpgr"
   },
   {
     "title": "【まとめ】インスタンス変数、クラス変数、クラスインスタンス変数",
@@ -386,7 +386,7 @@
   {
     "title": "複数のファイル内の文字列をまとめて置換するLinuxコマンド",
     "url": "https://qiita.com/kkyouhei/items/b4ff839a2f36ba194df3",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2014-08-12T08:28:37+09:00",
     "updated_at": "2016-12-01T17:14:59+09:00",
     "id": "kkyouhei"
@@ -466,7 +466,7 @@
   {
     "title": "全探索アルゴリズム入門",
     "url": "https://qiita.com/MasayaMizuhara/items/86099ad721a329e1d6cd",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2014-08-23T19:13:34+09:00",
     "updated_at": "2014-08-23T19:13:34+09:00",
     "id": "MasayaMizuhara"

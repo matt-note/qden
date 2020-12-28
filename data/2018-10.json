@@ -18,7 +18,7 @@
   {
     "title": "AWS認定11冠制覇したのでオススメの勉強法などをまとめてみる",
     "url": "https://qiita.com/nakazax/items/20458e146d3d9f2aa615",
-    "likes_count": 2115,
+    "likes_count": 2116,
     "created_at": "2018-10-15T09:01:09+09:00",
     "updated_at": "2020-05-01T15:01:55+09:00",
     "id": "nakazax"
@@ -50,7 +50,7 @@
   {
     "title": "vue.js + typescript = vue.ts ことはじめ",
     "url": "https://qiita.com/nrslib/items/be90cc19fa3122266fd7",
-    "likes_count": 1275,
+    "likes_count": 1276,
     "created_at": "2018-10-09T01:50:17+09:00",
     "updated_at": "2019-11-11T10:24:58+09:00",
     "id": "nrslib"
@@ -90,7 +90,7 @@
   {
     "title": "Python + Selenium で Chrome の自動操作を一通り",
     "url": "https://qiita.com/memakura/items/20a02161fa7e18d8a693",
-    "likes_count": 1156,
+    "likes_count": 1157,
     "created_at": "2018-10-14T13:39:44+09:00",
     "updated_at": "2018-10-16T06:19:27+09:00",
     "id": "memakura"
@@ -122,7 +122,7 @@
   {
     "title": "1週間でVue.jsをマスターしようと思った時に参考にしたサイト",
     "url": "https://qiita.com/mimoe/items/56784c9d17ed34ee7533",
-    "likes_count": 830,
+    "likes_count": 831,
     "created_at": "2018-10-01T17:01:22+09:00",
     "updated_at": "2018-10-01T17:07:26+09:00",
     "id": "mimoe"
@@ -178,7 +178,7 @@
   {
     "title": "極小WebアプリをURLに埋め込んで超ポータブルなWebアプリを作りたい！",
     "url": "https://qiita.com/nwtgck/items/f6363a159a5edbfcc3b4",
-    "likes_count": 689,
+    "likes_count": 690,
     "created_at": "2018-10-31T08:40:24+09:00",
     "updated_at": "2019-04-06T15:34:57+09:00",
     "id": "nwtgck"
@@ -194,7 +194,7 @@
   {
     "title": "GASを使って運転日報のWEBシステムを作ってみた話",
     "url": "https://qiita.com/rarara_x16/items/81659db9b4bbd374b929",
-    "likes_count": 654,
+    "likes_count": 655,
     "created_at": "2018-10-28T18:51:28+09:00",
     "updated_at": "2018-12-01T19:33:16+09:00",
     "id": "rarara_x16"
@@ -218,7 +218,7 @@
   {
     "title": "なぜDockerではホストOSと違うOSベースのコンテナイメージが動くのか",
     "url": "https://qiita.com/kirikunix/items/33414240b4cacee362da",
-    "likes_count": 573,
+    "likes_count": 574,
     "created_at": "2018-10-12T10:50:07+09:00",
     "updated_at": "2020-08-20T00:05:41+09:00",
     "id": "kirikunix"
@@ -240,6 +240,14 @@
     "id": "yuta-ushijima"
   },
   {
+    "title": "まだXMLHttpRequestを使ってるの？　fetchのすすめ",
+    "url": "https://qiita.com/uhyo/items/91649e260165b35fecd7",
+    "likes_count": 557,
+    "created_at": "2018-10-09T01:31:28+09:00",
+    "updated_at": "2020-03-25T15:42:42+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "Qiita版TweetDeck！？カラム形式でQiita記事をウォッチできるクライアントサービス「QiitaDeck」をリリースしました！",
     "url": "https://qiita.com/kazu1496/items/7ce5043f9128c9ab55f4",
     "likes_count": 556,
@@ -248,17 +256,9 @@
     "id": "kazu1496"
   },
   {
-    "title": "まだXMLHttpRequestを使ってるの？　fetchのすすめ",
-    "url": "https://qiita.com/uhyo/items/91649e260165b35fecd7",
-    "likes_count": 555,
-    "created_at": "2018-10-09T01:31:28+09:00",
-    "updated_at": "2020-03-25T15:42:42+09:00",
-    "id": "uhyo"
-  },
-  {
     "title": "オブジェクト指向をより理解するために実際に書いて解説する",
     "url": "https://qiita.com/yoship1639/items/5878bf9d64816e93610b",
-    "likes_count": 552,
+    "likes_count": 553,
     "created_at": "2018-10-22T09:17:33+09:00",
     "updated_at": "2018-10-22T09:17:33+09:00",
     "id": "yoship1639"
@@ -292,7 +292,7 @@
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 462,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2020-12-27T19:31:35+09:00",
+    "updated_at": "2020-12-28T19:31:35+09:00",
     "id": "kai_kou"
   },
   {
@@ -354,7 +354,7 @@
   {
     "title": "Kaggle Masterが勾配ブースティングを解説する",
     "url": "https://qiita.com/woodyZootopia/items/232e982094cd3c80b3ee",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2018-10-27T06:45:05+09:00",
     "updated_at": "2019-09-12T12:29:19+09:00",
     "id": "woodyZootopia"
@@ -384,20 +384,20 @@
     "id": "cannorin"
   },
   {
+    "title": "動的型付けと静的型付け",
+    "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
+    "likes_count": 386,
+    "created_at": "2018-10-24T08:24:11+09:00",
+    "updated_at": "2020-10-09T17:17:53+09:00",
+    "id": "toryuneko"
+  },
+  {
     "title": "Firestore で、DB設計を考える際に参考になった情報",
     "url": "https://qiita.com/samuraikun/items/dfe7d1081f62359b0dcd",
     "likes_count": 383,
     "created_at": "2018-10-05T02:08:09+09:00",
     "updated_at": "2019-09-12T13:04:21+09:00",
     "id": "samuraikun"
-  },
-  {
-    "title": "動的型付けと静的型付け",
-    "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
-    "likes_count": 383,
-    "created_at": "2018-10-24T08:24:11+09:00",
-    "updated_at": "2020-10-09T17:17:53+09:00",
-    "id": "toryuneko"
   },
   {
     "title": "Go言語開発を便利にするMakefileの書き方",
@@ -432,6 +432,14 @@
     "id": "MaxBaconPower"
   },
   {
+    "title": "0から始めるkaggle超初心者向け入門",
+    "url": "https://qiita.com/yukinagae/items/661e6021871788e2f05d",
+    "likes_count": 321,
+    "created_at": "2018-10-01T15:23:59+09:00",
+    "updated_at": "2018-10-01T17:57:07+09:00",
+    "id": "yukinagae"
+  },
+  {
     "title": "【初心者向け】RailsのActive Recordの解説&メソッドまとめ",
     "url": "https://qiita.com/ryokky59/items/a1d0b4e86bacbd7ef6e8",
     "likes_count": 321,
@@ -440,17 +448,9 @@
     "id": "ryokky59"
   },
   {
-    "title": "0から始めるkaggle超初心者向け入門",
-    "url": "https://qiita.com/yukinagae/items/661e6021871788e2f05d",
-    "likes_count": 320,
-    "created_at": "2018-10-01T15:23:59+09:00",
-    "updated_at": "2018-10-01T17:57:07+09:00",
-    "id": "yukinagae"
-  },
-  {
     "title": "Django REST Framework の使い方メモ",
     "url": "https://qiita.com/__init__/items/f5a5a64a05541fcda713",
-    "likes_count": 318,
+    "likes_count": 321,
     "created_at": "2018-10-09T06:10:41+09:00",
     "updated_at": "2020-03-20T06:20:48+09:00",
     "id": "__init__"
@@ -482,7 +482,7 @@
   {
     "title": "Anaconda でよく使うコマンド一覧",
     "url": "https://qiita.com/naz_/items/84634fbd134fbcd25296",
-    "likes_count": 262,
+    "likes_count": 264,
     "created_at": "2018-10-18T11:14:18+09:00",
     "updated_at": "2019-06-27T12:49:21+09:00",
     "id": "naz_"

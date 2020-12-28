@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3211,
+    "likes_count": 3212,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2487,
+    "likes_count": 2489,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2019-01-20T22:22:44+09:00",
     "id": "piroor"
@@ -42,7 +42,7 @@
   {
     "title": "いまさら聞けないLinuxとメモリの基礎＆vmstatの詳しい使い方",
     "url": "https://qiita.com/kunihirotanaka/items/70d43d48757aea79de2d",
-    "likes_count": 1479,
+    "likes_count": 1478,
     "created_at": "2016-12-25T13:48:22+09:00",
     "updated_at": "2016-12-26T11:43:00+09:00",
     "id": "kunihirotanaka"
@@ -60,7 +60,7 @@
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
     "likes_count": 1335,
     "created_at": "2016-12-15T02:42:35+09:00",
-    "updated_at": "2020-11-28T01:43:38+09:00",
+    "updated_at": "2020-12-28T00:53:56+09:00",
     "id": "soarflat"
   },
   {
@@ -72,20 +72,20 @@
     "id": "Azunyan1111"
   },
   {
+    "title": "GraphQL入門 - 使いたくなるGraphQL",
+    "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
+    "likes_count": 1282,
+    "created_at": "2016-12-24T23:11:26+09:00",
+    "updated_at": "2017-11-14T20:40:32+09:00",
+    "id": "bananaumai"
+  },
+  {
     "title": "次世代監視の大本命！ Prometheus を実運用してみた",
     "url": "https://qiita.com/sugitak/items/ff8f5ad845283c5915d2",
     "likes_count": 1281,
     "created_at": "2016-12-09T05:00:44+09:00",
     "updated_at": "2016-12-14T13:48:02+09:00",
     "id": "sugitak"
-  },
-  {
-    "title": "GraphQL入門 - 使いたくなるGraphQL",
-    "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1281,
-    "created_at": "2016-12-24T23:11:26+09:00",
-    "updated_at": "2017-11-14T20:40:32+09:00",
-    "id": "bananaumai"
   },
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
@@ -132,7 +132,7 @@
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
     "likes_count": 871,
     "created_at": "2016-12-17T12:54:09+09:00",
-    "updated_at": "2020-11-28T01:43:27+09:00",
+    "updated_at": "2020-12-28T00:53:45+09:00",
     "id": "soarflat"
   },
   {
@@ -242,7 +242,7 @@
   {
     "title": "SELinux を使おう．使ってくれ．",
     "url": "https://qiita.com/chi9rin/items/af532d0dd9237cc65741",
-    "likes_count": 614,
+    "likes_count": 615,
     "created_at": "2016-12-22T00:00:59+09:00",
     "updated_at": "2017-01-08T12:51:46+09:00",
     "id": "chi9rin"
@@ -250,7 +250,7 @@
   {
     "title": "ようこそ！Electron入門",
     "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2016-12-28T14:02:01+09:00",
     "updated_at": "2019-11-22T19:57:05+09:00",
     "id": "umamichi"
@@ -298,7 +298,7 @@
   {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
     "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
-    "likes_count": 575,
+    "likes_count": 576,
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
@@ -314,7 +314,7 @@
   {
     "title": "難しいGitコマンドは、仕組みから理解してみよう",
     "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2016-12-22T00:02:20+09:00",
     "updated_at": "2018-11-13T23:20:28+09:00",
     "id": "_ha1f"
@@ -322,7 +322,7 @@
   {
     "title": "Gitのブランチモデルについて",
     "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 553,
+    "likes_count": 554,
     "created_at": "2016-12-05T00:04:34+09:00",
     "updated_at": "2016-12-05T00:12:43+09:00",
     "id": "y-okudera"
@@ -370,7 +370,7 @@
   {
     "title": "Firebaseの各機能を3行で説明する",
     "url": "https://qiita.com/shibukk/items/4a015c5b3296563ac19d",
-    "likes_count": 506,
+    "likes_count": 507,
     "created_at": "2016-12-08T12:57:20+09:00",
     "updated_at": "2018-09-26T19:18:39+09:00",
     "id": "shibukk"
@@ -432,20 +432,20 @@
     "id": "MegaBlackLabel"
   },
   {
+    "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
+    "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
+    "likes_count": 466,
+    "created_at": "2016-12-03T15:46:25+09:00",
+    "updated_at": "2016-12-03T15:46:25+09:00",
+    "id": "inosy22"
+  },
+  {
     "title": "【企業サイト構築用】WordPress設計ガイドライン",
     "url": "https://qiita.com/kgsi/items/65ee2d7814e5cfa199d2",
     "likes_count": 466,
     "created_at": "2016-12-13T12:13:43+09:00",
     "updated_at": "2019-03-19T14:40:56+09:00",
     "id": "kgsi"
-  },
-  {
-    "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
-    "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
-    "likes_count": 465,
-    "created_at": "2016-12-03T15:46:25+09:00",
-    "updated_at": "2016-12-03T15:46:25+09:00",
-    "id": "inosy22"
   },
   {
     "title": "【定番】 新しいWebサービスを開発・運営するときに使いたいサービス 【2016年末版】",
@@ -506,7 +506,7 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
@@ -562,7 +562,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 369,
+    "likes_count": 370,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -594,7 +594,7 @@
   {
     "title": "複数のgitアカウントを使い分ける",
     "url": "https://qiita.com/0084ken/items/f4a8b0fbff135a987fea",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2016-12-20T12:36:15+09:00",
     "updated_at": "2016-12-20T12:36:15+09:00",
     "id": "0084ken"
