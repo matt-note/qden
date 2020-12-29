@@ -2,7 +2,7 @@
   {
     "title": "ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】",
     "url": "https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08",
-    "likes_count": 8602,
+    "likes_count": 8604,
     "created_at": "2016-05-16T19:51:18+09:00",
     "updated_at": "2019-03-09T17:13:26+09:00",
     "id": "jacksuzuki"
@@ -10,7 +10,7 @@
   {
     "title": "Reactを使うとなぜjQueryが要らなくなるのか",
     "url": "https://qiita.com/naruto/items/fdb61bc743395f8d8faf",
-    "likes_count": 4264,
+    "likes_count": 4266,
     "created_at": "2016-05-09T11:45:42+09:00",
     "updated_at": "2020-08-13T19:13:42+09:00",
     "id": "naruto"
@@ -42,7 +42,7 @@
   {
     "title": "他言語から来た人がGoを使い始めてすぐハマったこととその答え",
     "url": "https://qiita.com/mumoshu/items/0d2f2a13c6e9fc8da2a4",
-    "likes_count": 1234,
+    "likes_count": 1237,
     "created_at": "2016-05-03T12:13:46+09:00",
     "updated_at": "2020-08-25T16:52:16+09:00",
     "id": "mumoshu"
@@ -138,7 +138,7 @@
   {
     "title": "LaravelのORMで初心者から職人へ",
     "url": "https://qiita.com/henriquebremenkanp/items/cd13944b0281297217a9",
-    "likes_count": 716,
+    "likes_count": 717,
     "created_at": "2016-05-29T19:05:09+09:00",
     "updated_at": "2020-09-14T15:51:02+09:00",
     "id": "henriquebremenkanp"
@@ -274,7 +274,7 @@
   {
     "title": "PHPで日付時刻処理を書くならCarbonを使うべき",
     "url": "https://qiita.com/yudsuzuk/items/ff894bd0b76d4657741d",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2016-05-01T14:56:52+09:00",
     "updated_at": "2016-05-01T15:06:18+09:00",
     "id": "yudsuzuk"
@@ -352,20 +352,20 @@
     "id": "TakahikoKawasaki"
   },
   {
+    "title": "C++erを簡易的にレベル分けすることで初心者詐欺を減らそうという試み",
+    "url": "https://qiita.com/yumetodo/items/a843bd542106215bbc84",
+    "likes_count": 370,
+    "created_at": "2016-05-12T01:34:08+09:00",
+    "updated_at": "2020-05-18T18:59:14+09:00",
+    "id": "yumetodo"
+  },
+  {
     "title": "ElectronアプリのXSSでrm -fr /を実行する",
     "url": "https://qiita.com/akameco/items/cc6fc949e7c9f0d1a42a",
     "likes_count": 370,
     "created_at": "2016-05-21T21:28:20+09:00",
     "updated_at": "2019-06-27T17:13:34+09:00",
     "id": "akameco"
-  },
-  {
-    "title": "C++erを簡易的にレベル分けすることで初心者詐欺を減らそうという試み",
-    "url": "https://qiita.com/yumetodo/items/a843bd542106215bbc84",
-    "likes_count": 369,
-    "created_at": "2016-05-12T01:34:08+09:00",
-    "updated_at": "2020-05-18T18:59:14+09:00",
-    "id": "yumetodo"
   },
   {
     "title": "色んなiOSアプリが使っているオープンソースライブラリを調べた",
@@ -464,20 +464,20 @@
     "id": "Ijoru"
   },
   {
+    "title": "PHPとMySQLで新規登録とログインを実装する(PDO使用)",
+    "url": "https://qiita.com/KosukeQiita/items/b56b3004413c999b9858",
+    "likes_count": 294,
+    "created_at": "2016-05-15T17:53:27+09:00",
+    "updated_at": "2018-04-07T18:53:45+09:00",
+    "id": "KosukeQiita"
+  },
+  {
     "title": "シェルの弱点を補おう！\"まさに\"なCLIツール、egzact",
     "url": "https://qiita.com/greymd/items/3515869d9ed2a1a61a49",
     "likes_count": 293,
     "created_at": "2016-05-03T21:44:58+09:00",
     "updated_at": "2016-05-12T07:10:11+09:00",
     "id": "greymd"
-  },
-  {
-    "title": "PHPとMySQLで新規登録とログインを実装する(PDO使用)",
-    "url": "https://qiita.com/KosukeQiita/items/b56b3004413c999b9858",
-    "likes_count": 293,
-    "created_at": "2016-05-15T17:53:27+09:00",
-    "updated_at": "2018-04-07T18:53:45+09:00",
-    "id": "KosukeQiita"
   },
   {
     "title": "Rのフロントエンドということで話題になっている、Exploratoryの対話的なデータ分析環境で「ヨーロッパはほんとに女性が活躍しやすい社会か」どうか分析してみた",

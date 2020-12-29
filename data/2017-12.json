@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5376,
+    "likes_count": 5377,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 1970,
+    "likes_count": 1971,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -34,7 +34,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1431,
+    "likes_count": 1432,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -138,7 +138,7 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 826,
+    "likes_count": 827,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
@@ -146,7 +146,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 814,
+    "likes_count": 815,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -154,7 +154,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 809,
+    "likes_count": 810,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -250,7 +250,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 692,
+    "likes_count": 693,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -336,6 +336,14 @@
     "id": "yuh_iw"
   },
   {
+    "title": "Django データベース操作 についてのまとめ",
+    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
+    "likes_count": 546,
+    "created_at": "2017-12-26T14:03:46+09:00",
+    "updated_at": "2017-12-28T13:03:50+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "極めろ！！Google Chrome Devtools 52の関節技",
     "url": "https://qiita.com/sueshin/items/7da3330b0e17696602b1",
     "likes_count": 545,
@@ -344,17 +352,9 @@
     "id": "sueshin"
   },
   {
-    "title": "Django データベース操作 についてのまとめ",
-    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 545,
-    "created_at": "2017-12-26T14:03:46+09:00",
-    "updated_at": "2017-12-28T13:03:50+09:00",
-    "id": "okoppe8"
-  },
-  {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -378,7 +378,7 @@
   {
     "title": " Nuxt.js使ってみた",
     "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 528,
+    "likes_count": 530,
     "created_at": "2017-12-15T23:18:21+09:00",
     "updated_at": "2020-12-24T15:37:44+09:00",
     "id": "_takeshi_24"
@@ -402,7 +402,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -434,7 +434,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -448,20 +448,20 @@
     "id": "angel_p_57"
   },
   {
+    "title": "systemctl コマンド",
+    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
+    "likes_count": 457,
+    "created_at": "2017-12-08T14:15:47+09:00",
+    "updated_at": "2019-03-14T16:14:00+09:00",
+    "id": "sinsengumi"
+  },
+  {
     "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
     "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
     "likes_count": 457,
     "created_at": "2017-12-09T08:11:55+09:00",
     "updated_at": "2018-05-23T16:49:05+09:00",
     "id": "devneko"
-  },
-  {
-    "title": "systemctl コマンド",
-    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 456,
-    "created_at": "2017-12-08T14:15:47+09:00",
-    "updated_at": "2019-03-14T16:14:00+09:00",
-    "id": "sinsengumi"
   },
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
@@ -570,7 +570,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2020-04-15T17:21:40+09:00",
     "id": "sorami"
@@ -608,20 +608,20 @@
     "id": "takish"
   },
   {
+    "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
+    "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
+    "likes_count": 352,
+    "created_at": "2017-12-05T22:36:34+09:00",
+    "updated_at": "2017-12-05T22:54:48+09:00",
+    "id": "t2kojima"
+  },
+  {
     "title": "Reactを使って本気でアンケートシステムをつくった",
     "url": "https://qiita.com/jirokun/items/c4cbf9b5b2480d4755a9",
     "likes_count": 352,
     "created_at": "2017-12-25T22:56:51+09:00",
     "updated_at": "2017-12-26T16:01:27+09:00",
     "id": "jirokun"
-  },
-  {
-    "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
-    "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 351,
-    "created_at": "2017-12-05T22:36:34+09:00",
-    "updated_at": "2017-12-05T22:54:48+09:00",
-    "id": "t2kojima"
   },
   {
     "title": "はじめてのRails API ",
@@ -688,20 +688,20 @@
     "id": "sawadays0118"
   },
   {
+    "title": "WebRTCでビデオチャットアプリを作ってみた！",
+    "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
+    "likes_count": 327,
+    "created_at": "2017-12-21T21:30:58+09:00",
+    "updated_at": "2019-01-06T14:01:57+09:00",
+    "id": "lighthouse"
+  },
+  {
     "title": "Reactのstate,props,componentの使い方を自分なりにまとめてみた",
     "url": "https://qiita.com/sekikawa_a/items/8ab70f457ef73871419f",
     "likes_count": 326,
     "created_at": "2017-12-13T21:45:16+09:00",
     "updated_at": "2019-03-22T17:27:09+09:00",
     "id": "sekikawa_a"
-  },
-  {
-    "title": "WebRTCでビデオチャットアプリを作ってみた！",
-    "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
-    "likes_count": 326,
-    "created_at": "2017-12-21T21:30:58+09:00",
-    "updated_at": "2019-01-06T14:01:57+09:00",
-    "id": "lighthouse"
   },
   {
     "title": "Kaggleの練習問題（Regression）を解いてKagglerになる",
@@ -746,7 +746,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 298,
+    "likes_count": 299,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
