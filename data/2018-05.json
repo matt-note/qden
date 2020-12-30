@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4624,
+    "likes_count": 4623,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4543,
+    "likes_count": 4544,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "コーディングをするときに鼻血がでるほど便利なwebツールリスト",
     "url": "https://qiita.com/isuke/items/7fcc5eb0b985005b7b7c",
-    "likes_count": 2646,
+    "likes_count": 2645,
     "created_at": "2018-05-11T00:22:27+09:00",
     "updated_at": "2020-05-10T17:20:53+09:00",
     "id": "isuke"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1500,
+    "likes_count": 1501,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1428,
+    "likes_count": 1427,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2018-05-21T11:58:14+09:00",
     "id": "mikesorae"
@@ -106,7 +106,7 @@
   {
     "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
     "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 925,
+    "likes_count": 926,
     "created_at": "2018-05-12T11:14:50+09:00",
     "updated_at": "2020-03-07T10:07:41+09:00",
     "id": "y-tsutsu"
@@ -114,7 +114,7 @@
   {
     "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
     "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
-    "likes_count": 821,
+    "likes_count": 822,
     "created_at": "2018-05-21T13:12:10+09:00",
     "updated_at": "2019-12-06T12:14:45+09:00",
     "id": "kazukimatsumoto"
@@ -122,7 +122,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/nl0_blu/items/9d207a70ccc8467f7bab",
-    "likes_count": 799,
+    "likes_count": 801,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "nl0_blu"
@@ -144,6 +144,14 @@
     "id": "skotaro"
   },
   {
+    "title": "忙しい研究者のためのテストコードとドキュメントの書き方",
+    "url": "https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a",
+    "likes_count": 668,
+    "created_at": "2018-05-25T21:52:09+09:00",
+    "updated_at": "2020-12-28T01:40:01+09:00",
+    "id": "hmkz"
+  },
+  {
     "title": "小中高大生にプログラミング教育をしてきて分かったこと",
     "url": "https://qiita.com/Kyome/items/138b6c897f191c0e95a5",
     "likes_count": 657,
@@ -158,14 +166,6 @@
     "created_at": "2018-05-13T18:38:55+09:00",
     "updated_at": "2018-05-17T19:49:14+09:00",
     "id": "uint256_t"
-  },
-  {
-    "title": "忙しい研究者のためのテストコードとドキュメントの書き方",
-    "url": "https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a",
-    "likes_count": 654,
-    "created_at": "2018-05-25T21:52:09+09:00",
-    "updated_at": "2020-12-28T01:40:01+09:00",
-    "id": "hmkz"
   },
   {
     "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
@@ -186,7 +186,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 627,
+    "likes_count": 628,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -194,7 +194,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 627,
+    "likes_count": 628,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -226,7 +226,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 593,
+    "likes_count": 594,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -242,7 +242,7 @@
   {
     "title": "皆さんはどんな方法で情報収集してますか？私はこんな感じです。",
     "url": "https://qiita.com/minakawa-daiki/items/edfc3d1ff1270756b52a",
-    "likes_count": 575,
+    "likes_count": 574,
     "created_at": "2018-05-11T11:20:01+09:00",
     "updated_at": "2018-05-11T13:53:49+09:00",
     "id": "minakawa-daiki"
@@ -298,7 +298,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 528,
+    "likes_count": 529,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2020-09-03T15:39:51+09:00",
     "id": "hiyuzawa"
@@ -330,7 +330,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -354,7 +354,7 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 465,
+    "likes_count": 467,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
@@ -378,7 +378,7 @@
   {
     "title": "ROS講座00 目次",
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2018-05-02T09:27:43+09:00",
     "updated_at": "2020-08-29T09:35:13+09:00",
     "id": "srs"
@@ -400,6 +400,14 @@
     "id": "sugaryo"
   },
   {
+    "title": "Android Architecture Components 初級 （ MVVM + LiveData + Coroutines 編 ）",
+    "url": "https://qiita.com/Tsutou/items/69a28ebbd69b69e51703",
+    "likes_count": 412,
+    "created_at": "2018-05-30T13:52:14+09:00",
+    "updated_at": "2020-07-17T00:02:52+09:00",
+    "id": "Tsutou"
+  },
+  {
     "title": "ドット絵ゲームをunityで作るときに押さえておきたいポイント",
     "url": "https://qiita.com/pixelflag/items/ad817bdd64931e084a46",
     "likes_count": 411,
@@ -408,17 +416,9 @@
     "id": "pixelflag"
   },
   {
-    "title": "Android Architecture Components 初級 （ MVVM + LiveData + Coroutines 編 ）",
-    "url": "https://qiita.com/Tsutou/items/69a28ebbd69b69e51703",
-    "likes_count": 410,
-    "created_at": "2018-05-30T13:52:14+09:00",
-    "updated_at": "2020-07-17T00:02:52+09:00",
-    "id": "Tsutou"
-  },
-  {
     "title": "初学者でも5分で理解できるようにDI(Dependency Injection)を説明してみた",
     "url": "https://qiita.com/hirodragon/items/73442390d551fe7376ea",
-    "likes_count": 386,
+    "likes_count": 385,
     "created_at": "2018-05-25T00:56:35+09:00",
     "updated_at": "2018-05-28T15:44:02+09:00",
     "id": "hirodragon"
@@ -450,7 +450,7 @@
   {
     "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
     "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2018-05-21T00:02:30+09:00",
     "updated_at": "2018-12-13T21:47:28+09:00",
     "id": "shtnkgm"
@@ -458,7 +458,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -506,7 +506,7 @@
   {
     "title": "dockerで簡易にpython3の環境を作ってみる",
     "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
-    "likes_count": 273,
+    "likes_count": 274,
     "created_at": "2018-05-10T12:01:43+09:00",
     "updated_at": "2020-01-15T02:08:31+09:00",
     "id": "reflet"
@@ -538,7 +538,7 @@
   {
     "title": "SSH公開鍵認証で接続するまで",
     "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 241,
+    "likes_count": 242,
     "created_at": "2018-05-06T12:00:20+09:00",
     "updated_at": "2020-10-13T06:08:24+09:00",
     "id": "kazokmr"

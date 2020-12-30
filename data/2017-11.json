@@ -26,7 +26,7 @@
   {
     "title": "Webサービス個人開発するなら読みたい情報源13",
     "url": "https://qiita.com/curryperformer-kato/items/a7dc9a41200b6c9c1912",
-    "likes_count": 1054,
+    "likes_count": 1055,
     "created_at": "2017-11-03T00:21:37+09:00",
     "updated_at": "2019-08-29T10:34:58+09:00",
     "id": "curryperformer-kato"
@@ -42,7 +42,7 @@
   {
     "title": "阿部寛のサイトを高速化する",
     "url": "https://qiita.com/Morix1500/items/0eac072a027d478a6b83",
-    "likes_count": 861,
+    "likes_count": 862,
     "created_at": "2017-11-18T00:11:02+09:00",
     "updated_at": "2017-11-19T15:45:19+09:00",
     "id": "Morix1500"
@@ -58,7 +58,7 @@
   {
     "title": "とりあえずド素人が読むべきブロックチェーン入門論文・書籍・サイト",
     "url": "https://qiita.com/onokatio/items/7db58947b05c17d1f44e",
-    "likes_count": 812,
+    "likes_count": 813,
     "created_at": "2017-11-09T21:56:49+09:00",
     "updated_at": "2019-11-09T18:44:59+09:00",
     "id": "onokatio"
@@ -74,7 +74,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 720,
+    "likes_count": 721,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -82,7 +82,7 @@
   {
     "title": "爆速でターミナルをポケモンにする",
     "url": "https://qiita.com/chanuu/items/b5c3d11e089ad0c7356d",
-    "likes_count": 715,
+    "likes_count": 714,
     "created_at": "2017-11-29T20:09:02+09:00",
     "updated_at": "2017-12-02T21:05:29+09:00",
     "id": "chanuu"
@@ -90,7 +90,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 691,
+    "likes_count": 692,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -128,6 +128,14 @@
     "id": "hogemax"
   },
   {
+    "title": "Railsの外部キー制約とreference型について",
+    "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
+    "likes_count": 579,
+    "created_at": "2017-11-24T14:32:12+09:00",
+    "updated_at": "2018-07-15T15:52:26+09:00",
+    "id": "ryouzi"
+  },
+  {
     "title": "運用に耐えるRailsによるWebアプリケーションの作り方",
     "url": "https://qiita.com/seri_k/items/605e6f75da838ae00007",
     "likes_count": 579,
@@ -136,17 +144,9 @@
     "id": "seri_k"
   },
   {
-    "title": "Railsの外部キー制約とreference型について",
-    "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 578,
-    "created_at": "2017-11-24T14:32:12+09:00",
-    "updated_at": "2018-07-15T15:52:26+09:00",
-    "id": "ryouzi"
-  },
-  {
     "title": "Elmはどんな人にオススメできないか",
     "url": "https://qiita.com/arowM/items/dfb38d1c5f3dfde8b8bf",
-    "likes_count": 576,
+    "likes_count": 575,
     "created_at": "2017-11-29T04:22:40+09:00",
     "updated_at": "2020-02-19T23:23:24+09:00",
     "id": "arowM"
@@ -162,7 +162,7 @@
   {
     "title": "Docker for Windowsで快適な環境を得るまでの そこそこ長い闘い",
     "url": "https://qiita.com/YukiMiyatake/items/73c7d6c4f2c9739ebe60",
-    "likes_count": 548,
+    "likes_count": 549,
     "created_at": "2017-11-10T02:57:16+09:00",
     "updated_at": "2019-08-22T05:07:38+09:00",
     "id": "YukiMiyatake"
@@ -210,7 +210,7 @@
   {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
     "url": "https://qiita.com/yonedaco/items/569bcc442872a1f9a03d",
-    "likes_count": 491,
+    "likes_count": 490,
     "created_at": "2017-11-25T15:34:09+09:00",
     "updated_at": "2020-03-18T13:27:49+09:00",
     "id": "yonedaco"
@@ -226,7 +226,7 @@
   {
     "title": "draw.ioでAWSのインフラ構成図を書く",
     "url": "https://qiita.com/nave-m/items/68425f476b254a1a47b0",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2017-11-12T18:58:16+09:00",
     "updated_at": "2019-11-16T10:19:26+09:00",
     "id": "nave-m"
@@ -242,7 +242,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -418,7 +418,7 @@
   {
     "title": "C# 今更ですが、await / async",
     "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2017-11-30T18:32:10+09:00",
     "updated_at": "2017-12-11T10:31:16+09:00",
     "id": "rawr"
