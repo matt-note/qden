@@ -10,7 +10,7 @@
   {
     "title": "Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary)",
     "url": "https://qiita.com/wtetsu/items/c43232c6c44918e977c9",
-    "likes_count": 4478,
+    "likes_count": 4487,
     "created_at": "2018-09-05T00:06:08+09:00",
     "updated_at": "2020-12-30T19:38:27+09:00",
     "id": "wtetsu"
@@ -18,7 +18,7 @@
   {
     "title": "個人でも使える！おすすめAPI一覧",
     "url": "https://qiita.com/mikan3rd/items/ba4737023f08bb2ca161",
-    "likes_count": 3724,
+    "likes_count": 3725,
     "created_at": "2018-09-17T21:12:27+09:00",
     "updated_at": "2019-11-07T11:01:15+09:00",
     "id": "mikan3rd"
@@ -34,7 +34,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 2130,
+    "likes_count": 2131,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -58,7 +58,7 @@
   {
     "title": "実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか",
     "url": "https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e",
-    "likes_count": 1606,
+    "likes_count": 1607,
     "created_at": "2018-09-12T00:41:00+09:00",
     "updated_at": "2018-09-22T13:41:27+09:00",
     "id": "tsin1rou"
@@ -66,7 +66,7 @@
   {
     "title": "今から始めるReact入門 〜 React の基本",
     "url": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
-    "likes_count": 1534,
+    "likes_count": 1535,
     "created_at": "2018-09-08T14:12:46+09:00",
     "updated_at": "2020-10-31T12:20:04+09:00",
     "id": "TsutomuNakamura"
@@ -130,7 +130,7 @@
   {
     "title": "[Python] プログラム初心者のためのWebアプリ簡単作成法",
     "url": "https://qiita.com/okoppe8/items/4cc0f87ea933749f5a49",
-    "likes_count": 815,
+    "likes_count": 816,
     "created_at": "2018-09-27T15:04:46+09:00",
     "updated_at": "2018-09-28T14:14:51+09:00",
     "id": "okoppe8"
@@ -146,7 +146,7 @@
   {
     "title": "Docker、ボリューム(Volume)について真面目に調べた",
     "url": "https://qiita.com/gounx2/items/23b0dc8b8b95cc629f32",
-    "likes_count": 760,
+    "likes_count": 761,
     "created_at": "2018-09-28T01:01:49+09:00",
     "updated_at": "2019-10-05T15:34:08+09:00",
     "id": "gounx2"
@@ -282,7 +282,7 @@
   {
     "title": "機械学習／ディープラーニングにおけるバッチサイズ、イテレーション数、エポック数の決め方",
     "url": "https://qiita.com/kenta1984/items/bad75a37d552510e4682",
-    "likes_count": 499,
+    "likes_count": 502,
     "created_at": "2018-09-21T23:14:49+09:00",
     "updated_at": "2020-06-09T22:33:54+09:00",
     "id": "kenta1984"
@@ -330,7 +330,7 @@
   {
     "title": "Apache Kafkaの概要とアーキテクチャ",
     "url": "https://qiita.com/sigmalist/items/5a26ab519cbdf1e07af3",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2018-09-07T15:44:03+09:00",
     "updated_at": "2020-01-31T19:01:04+09:00",
     "id": "sigmalist"
@@ -392,20 +392,20 @@
     "id": "Nkzn"
   },
   {
+    "title": "[Pythonコーディング規約]PEP8を読み解く",
+    "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
+    "likes_count": 410,
+    "created_at": "2018-09-17T01:05:30+09:00",
+    "updated_at": "2020-12-12T20:58:41+09:00",
+    "id": "simonritchie"
+  },
+  {
     "title": "Google ColaboratoryのTPUを試してみる",
     "url": "https://qiita.com/koshian2/items/25a6341c035e8a260a01",
     "likes_count": 410,
     "created_at": "2018-09-27T22:54:58+09:00",
     "updated_at": "2018-11-22T18:54:55+09:00",
     "id": "koshian2"
-  },
-  {
-    "title": "[Pythonコーディング規約]PEP8を読み解く",
-    "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
-    "likes_count": 409,
-    "created_at": "2018-09-17T01:05:30+09:00",
-    "updated_at": "2020-12-12T20:58:41+09:00",
-    "id": "simonritchie"
   },
   {
     "title": "JavaScript初心者にclassを伝える",
@@ -522,7 +522,7 @@
   {
     "title": "Railsで remote: true と js.erbを使って簡単にAjax(非同期通信)を実装しよう！(いいね機能のデモ付)",
     "url": "https://qiita.com/__tambo__/items/45211df065e0c037d032",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2018-09-08T17:25:45+09:00",
     "updated_at": "2018-09-19T14:11:37+09:00",
     "id": "__tambo__"
@@ -554,7 +554,7 @@
   {
     "title": "SCSSの基本的な書き方",
     "url": "https://qiita.com/nchhujimiyama/items/8a6aad5abead39d1352a",
-    "likes_count": 269,
+    "likes_count": 270,
     "created_at": "2018-09-21T16:06:04+09:00",
     "updated_at": "2020-02-15T22:45:11+09:00",
     "id": "nchhujimiyama"
