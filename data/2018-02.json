@@ -2,7 +2,7 @@
   {
     "title": "TypeScriptの型入門",
     "url": "https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a",
-    "likes_count": 3102,
+    "likes_count": 3114,
     "created_at": "2018-02-16T23:41:39+09:00",
     "updated_at": "2020-09-12T12:00:54+09:00",
     "id": "uhyo"
@@ -18,7 +18,7 @@
   {
     "title": "AtCoder 版！蟻本 (初級編)",
     "url": "https://qiita.com/drken/items/e77685614f3c6bf86f44",
-    "likes_count": 2127,
+    "likes_count": 2131,
     "created_at": "2018-02-20T10:13:31+09:00",
     "updated_at": "2020-10-27T19:58:26+09:00",
     "id": "drken"
@@ -26,7 +26,7 @@
   {
     "title": "2018年のフロントエンドエンジニアならこの程度は知ってて当然だよな？",
     "url": "https://qiita.com/rana_kualu/items/96b303307d6435aedf8b",
-    "likes_count": 2067,
+    "likes_count": 2068,
     "created_at": "2018-02-28T19:46:57+09:00",
     "updated_at": "2018-05-16T23:07:17+09:00",
     "id": "rana_kualu"
@@ -66,7 +66,7 @@
   {
     "title": "もう管理画面のフロントコードを書く必要はありません、そう Viron ならね。",
     "url": "https://qiita.com/tosaka07/items/87ef283db4b2ee19b636",
-    "likes_count": 1527,
+    "likes_count": 1528,
     "created_at": "2018-02-01T13:36:44+09:00",
     "updated_at": "2018-02-03T12:58:51+09:00",
     "id": "tosaka07"
@@ -74,7 +74,7 @@
   {
     "title": "【秒速で無料GPUを使う】深層学習実践Tips on Colaboratory",
     "url": "https://qiita.com/tomo_makes/items/b3c60b10f7b25a0a5935",
-    "likes_count": 1520,
+    "likes_count": 1521,
     "created_at": "2018-02-05T23:21:12+09:00",
     "updated_at": "2019-11-16T11:51:28+09:00",
     "id": "tomo_makes"
@@ -138,7 +138,7 @@
   {
     "title": "地下アイドルとアイドルオタクを疎結合にしてみたら、夢も希望もなくなった〜デザインパターンのObserverを考える〜",
     "url": "https://qiita.com/carotene4035/items/942bef4c7b1529cff572",
-    "likes_count": 906,
+    "likes_count": 905,
     "created_at": "2018-02-26T12:27:39+09:00",
     "updated_at": "2018-02-26T20:29:46+09:00",
     "id": "carotene4035"
@@ -162,7 +162,7 @@
   {
     "title": "React Redux の SPA を運用して得られた知見と実装例、開発フローもあるよ！",
     "url": "https://qiita.com/numanomanu/items/af97312f34cf1388cee6",
-    "likes_count": 766,
+    "likes_count": 765,
     "created_at": "2018-02-07T03:18:31+09:00",
     "updated_at": "2018-11-06T15:02:31+09:00",
     "id": "numanomanu"
@@ -176,6 +176,14 @@
     "id": "neko_machi"
   },
   {
+    "title": "プログラムのネーミングに迷ったら GitHub でコード検索すると参考になる説",
+    "url": "https://qiita.com/kyoshidajp/items/c5d4f060df636ea20cbb",
+    "likes_count": 677,
+    "created_at": "2018-02-04T18:50:58+09:00",
+    "updated_at": "2018-02-04T18:50:58+09:00",
+    "id": "kyoshidajp"
+  },
+  {
     "title": "JavaScript の仕組み：メモリ管理+ 4つの共通のメモリリーク処理方法",
     "url": "https://qiita.com/tkdn/items/ea4f034e0d661def244a",
     "likes_count": 677,
@@ -184,17 +192,9 @@
     "id": "tkdn"
   },
   {
-    "title": "プログラムのネーミングに迷ったら GitHub でコード検索すると参考になる説",
-    "url": "https://qiita.com/kyoshidajp/items/c5d4f060df636ea20cbb",
-    "likes_count": 676,
-    "created_at": "2018-02-04T18:50:58+09:00",
-    "updated_at": "2018-02-04T18:50:58+09:00",
-    "id": "kyoshidajp"
-  },
-  {
     "title": "Firebase Cloud Firestoreの使い方",
     "url": "https://qiita.com/subaru44k/items/a88e638333b8d5cc29f2",
-    "likes_count": 666,
+    "likes_count": 668,
     "created_at": "2018-02-24T18:44:49+09:00",
     "updated_at": "2020-12-06T22:33:53+09:00",
     "id": "subaru44k"
@@ -202,7 +202,7 @@
   {
     "title": "2018年のパスワードハッシュ",
     "url": "https://qiita.com/rana_kualu/items/3ef57485be1103362f56",
-    "likes_count": 657,
+    "likes_count": 658,
     "created_at": "2018-02-07T20:09:53+09:00",
     "updated_at": "2020-01-14T20:43:43+09:00",
     "id": "rana_kualu"
@@ -250,7 +250,7 @@
   {
     "title": "WebRTCの基本とP2P通信が成立するまでを学ぶ",
     "url": "https://qiita.com/daitasu/items/ae21b16361eb9f65ed43",
-    "likes_count": 535,
+    "likes_count": 536,
     "created_at": "2018-02-04T10:42:06+09:00",
     "updated_at": "2018-08-16T22:04:31+09:00",
     "id": "daitasu"
@@ -274,7 +274,7 @@
   {
     "title": "VueCLIからVue.js入門①【VueCLIで出てくるファイルを概要図で理解】",
     "url": "https://qiita.com/po3rin/items/3968f825f3c86f9c4e21",
-    "likes_count": 427,
+    "likes_count": 428,
     "created_at": "2018-02-18T22:35:53+09:00",
     "updated_at": "2020-07-30T17:41:29+09:00",
     "id": "po3rin"
@@ -296,20 +296,20 @@
     "id": "aggre"
   },
   {
+    "title": "一番簡単（だと個人的には思ってる）なセスぺ(現:情報処理安全確保支援士試験)の取り方",
+    "url": "https://qiita.com/ditflame/items/21908ef8fb2f9e35d544",
+    "likes_count": 392,
+    "created_at": "2018-02-01T11:13:01+09:00",
+    "updated_at": "2020-11-12T19:08:03+09:00",
+    "id": "ditflame"
+  },
+  {
     "title": "AtCoder 版！蟻本 (中級編)",
     "url": "https://qiita.com/drken/items/2f56925972c1d34e05d8",
     "likes_count": 392,
     "created_at": "2018-02-26T08:53:35+09:00",
     "updated_at": "2020-10-18T14:01:30+09:00",
     "id": "drken"
-  },
-  {
-    "title": "一番簡単（だと個人的には思ってる）なセスぺ(現:情報処理安全確保支援士試験)の取り方",
-    "url": "https://qiita.com/ditflame/items/21908ef8fb2f9e35d544",
-    "likes_count": 390,
-    "created_at": "2018-02-01T11:13:01+09:00",
-    "updated_at": "2020-11-12T19:08:03+09:00",
-    "id": "ditflame"
   },
   {
     "title": "脳はベイジアンなのに、なぜ正しく確率の計算ができないのか？",
@@ -330,7 +330,7 @@
   {
     "title": "Python の HTTP クライアントは urllib.request で十分",
     "url": "https://qiita.com/hoto17296/items/8fcf55cc6cd823a18217",
-    "likes_count": 369,
+    "likes_count": 370,
     "created_at": "2018-02-28T12:07:33+09:00",
     "updated_at": "2019-12-18T10:29:56+09:00",
     "id": "hoto17296"
@@ -378,7 +378,7 @@
   {
     "title": "Seleniumで要素を選択する方法まとめ",
     "url": "https://qiita.com/VA_nakatsu/items/0095755dc48ad7e86e2f",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2018-02-08T19:58:30+09:00",
     "updated_at": "2019-01-15T11:26:02+09:00",
     "id": "VA_nakatsu"
@@ -394,7 +394,7 @@
   {
     "title": "Raspberry PiでWebサーバを構築し自作アプリを使う",
     "url": "https://qiita.com/jun6231jp/items/5596ef0c912c7f57ef0a",
-    "likes_count": 273,
+    "likes_count": 274,
     "created_at": "2018-02-09T00:18:04+09:00",
     "updated_at": "2020-10-29T10:26:41+09:00",
     "id": "jun6231jp"

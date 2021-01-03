@@ -2,7 +2,7 @@
   {
     "title": "テストがなかった無法地帯にテストを導入して開発速度を1.7倍にした話",
     "url": "https://qiita.com/Kuniwak/items/4314451227f4d5eaa6b8",
-    "likes_count": 1675,
+    "likes_count": 1676,
     "created_at": "2017-11-30T23:59:53+09:00",
     "updated_at": "2017-12-02T14:26:55+09:00",
     "id": "Kuniwak"
@@ -10,7 +10,7 @@
   {
     "title": "ウェブアプリをソースごとパクる業者に対する対策",
     "url": "https://qiita.com/kacchan6/items/d8576ab6b3c16cf670ca",
-    "likes_count": 1339,
+    "likes_count": 1338,
     "created_at": "2017-11-11T11:06:01+09:00",
     "updated_at": "2017-12-03T23:13:45+09:00",
     "id": "kacchan6"
@@ -26,7 +26,7 @@
   {
     "title": "Webサービス個人開発するなら読みたい情報源13",
     "url": "https://qiita.com/curryperformer-kato/items/a7dc9a41200b6c9c1912",
-    "likes_count": 1057,
+    "likes_count": 1058,
     "created_at": "2017-11-03T00:21:37+09:00",
     "updated_at": "2019-08-29T10:34:58+09:00",
     "id": "curryperformer-kato"
@@ -34,7 +34,7 @@
   {
     "title": "エンジニアが転職する時に考えることを採用面接官をしてる立場から書いてみた",
     "url": "https://qiita.com/newta/items/9620056bb991f4b0f03d",
-    "likes_count": 937,
+    "likes_count": 938,
     "created_at": "2017-11-03T22:03:55+09:00",
     "updated_at": "2018-01-17T00:42:27+09:00",
     "id": "newta"
@@ -74,7 +74,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 723,
+    "likes_count": 724,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -90,7 +90,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 692,
+    "likes_count": 693,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -170,7 +170,7 @@
   {
     "title": "なぜオブジェクト指向は難しいのか",
     "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 537,
+    "likes_count": 538,
     "created_at": "2017-11-16T01:47:45+09:00",
     "updated_at": "2018-12-24T10:28:26+09:00",
     "id": "tutinoco"
@@ -210,10 +210,18 @@
   {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
     "url": "https://qiita.com/yonedaco/items/569bcc442872a1f9a03d",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2017-11-25T15:34:09+09:00",
     "updated_at": "2020-03-18T13:27:49+09:00",
     "id": "yonedaco"
+  },
+  {
+    "title": "週末在宅ワークの生産性を上げる5つの視点と32の工夫",
+    "url": "https://qiita.com/Akira-Isegawa/items/ab7d6b5db65dc830bb62",
+    "likes_count": 470,
+    "created_at": "2017-11-08T21:35:20+09:00",
+    "updated_at": "2019-10-12T21:22:22+09:00",
+    "id": "Akira-Isegawa"
   },
   {
     "title": "draw.ioでAWSのインフラ構成図を書く",
@@ -222,14 +230,6 @@
     "created_at": "2017-11-12T18:58:16+09:00",
     "updated_at": "2019-11-16T10:19:26+09:00",
     "id": "nave-m"
-  },
-  {
-    "title": "週末在宅ワークの生産性を上げる5つの視点と32の工夫",
-    "url": "https://qiita.com/Akira-Isegawa/items/ab7d6b5db65dc830bb62",
-    "likes_count": 469,
-    "created_at": "2017-11-08T21:35:20+09:00",
-    "updated_at": "2019-10-12T21:22:22+09:00",
-    "id": "Akira-Isegawa"
   },
   {
     "title": " シェルスクリプトを何万倍も遅くしないためには —— ループせずフィルタしよう",
@@ -306,7 +306,7 @@
   {
     "title": "【Git】オレならこう説明する！Git初心者への用語説明",
     "url": "https://qiita.com/nnahito/items/e546b27f73e7be131d4e",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2017-11-23T01:59:11+09:00",
     "updated_at": "2018-06-25T17:01:57+09:00",
     "id": "nnahito"
@@ -378,7 +378,7 @@
   {
     "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
     "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
-    "likes_count": 329,
+    "likes_count": 330,
     "created_at": "2017-11-28T16:30:16+09:00",
     "updated_at": "2019-01-08T16:43:01+09:00",
     "id": "ryouzi"

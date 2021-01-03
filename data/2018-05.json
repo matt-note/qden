@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4628,
+    "likes_count": 4629,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -18,7 +18,7 @@
   {
     "title": "コーディングをするときに鼻血がでるほど便利なwebツールリスト",
     "url": "https://qiita.com/isuke/items/7fcc5eb0b985005b7b7c",
-    "likes_count": 2645,
+    "likes_count": 2643,
     "created_at": "2018-05-11T00:22:27+09:00",
     "updated_at": "2020-05-10T17:20:53+09:00",
     "id": "isuke"
@@ -26,7 +26,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2354,
+    "likes_count": 2357,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2289,
+    "likes_count": 2291,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2020-07-25T13:47:36+09:00",
     "id": "tani_AI_Academy"
@@ -74,7 +74,7 @@
   {
     "title": "Dockerについてなるべくわかりやすく説明する",
     "url": "https://qiita.com/rawHam/items/80ba13d2d2d56dba411e",
-    "likes_count": 1386,
+    "likes_count": 1385,
     "created_at": "2018-05-12T19:51:25+09:00",
     "updated_at": "2019-09-13T09:56:44+09:00",
     "id": "rawHam"
@@ -90,10 +90,18 @@
   {
     "title": "Chrome デベロッパーツールの Console を使いこなす",
     "url": "https://qiita.com/howdy39/items/c22c2cfafab88fa73d15",
-    "likes_count": 1035,
+    "likes_count": 1034,
     "created_at": "2018-05-20T18:42:30+09:00",
     "updated_at": "2018-12-28T23:10:55+09:00",
     "id": "howdy39"
+  },
+  {
+    "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
+    "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
+    "likes_count": 929,
+    "created_at": "2018-05-12T11:14:50+09:00",
+    "updated_at": "2020-03-07T10:07:41+09:00",
+    "id": "y-tsutsu"
   },
   {
     "title": "学生でもできる！Webサービスの開発・リリースするまでの道のり",
@@ -104,17 +112,9 @@
     "id": "minakawa-daiki"
   },
   {
-    "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
-    "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 928,
-    "created_at": "2018-05-12T11:14:50+09:00",
-    "updated_at": "2020-03-07T10:07:41+09:00",
-    "id": "y-tsutsu"
-  },
-  {
     "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
     "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
-    "likes_count": 822,
+    "likes_count": 823,
     "created_at": "2018-05-21T13:12:10+09:00",
     "updated_at": "2019-12-06T12:14:45+09:00",
     "id": "kazukimatsumoto"
@@ -146,7 +146,7 @@
   {
     "title": "忙しい研究者のためのテストコードとドキュメントの書き方",
     "url": "https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a",
-    "likes_count": 675,
+    "likes_count": 689,
     "created_at": "2018-05-25T21:52:09+09:00",
     "updated_at": "2020-12-28T01:40:01+09:00",
     "id": "hmkz"
@@ -186,7 +186,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 630,
+    "likes_count": 631,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -202,7 +202,7 @@
   {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 625,
+    "likes_count": 626,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
@@ -210,7 +210,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 624,
+    "likes_count": 626,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -330,7 +330,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 495,
+    "likes_count": 496,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -392,20 +392,20 @@
     "id": "ymg_aq"
   },
   {
+    "title": "SpringBootに入門する為の助走本（随時更新）",
+    "url": "https://qiita.com/sugaryo/items/5695bfcc21365f429767",
+    "likes_count": 414,
+    "created_at": "2018-05-18T12:17:51+09:00",
+    "updated_at": "2020-10-30T00:56:42+09:00",
+    "id": "sugaryo"
+  },
+  {
     "title": "Android Architecture Components 初級 （ MVVM + LiveData + Coroutines 編 ）",
     "url": "https://qiita.com/Tsutou/items/69a28ebbd69b69e51703",
     "likes_count": 413,
     "created_at": "2018-05-30T13:52:14+09:00",
     "updated_at": "2020-07-17T00:02:52+09:00",
     "id": "Tsutou"
-  },
-  {
-    "title": "SpringBootに入門する為の助走本（随時更新）",
-    "url": "https://qiita.com/sugaryo/items/5695bfcc21365f429767",
-    "likes_count": 412,
-    "created_at": "2018-05-18T12:17:51+09:00",
-    "updated_at": "2020-10-30T00:56:42+09:00",
-    "id": "sugaryo"
   },
   {
     "title": "ドット絵ゲームをunityで作るときに押さえておきたいポイント",
@@ -458,7 +458,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 338,
+    "likes_count": 340,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -474,7 +474,7 @@
   {
     "title": "知識0から統計検定2級取得を目指した話",
     "url": "https://qiita.com/akiyoshi_sasaki/items/8e4d7895f2647e22b5f9",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2018-05-11T11:45:56+09:00",
     "updated_at": "2020-04-17T11:40:05+09:00",
     "id": "akiyoshi_sasaki"
@@ -498,7 +498,7 @@
   {
     "title": "Pythonで例外を投げるときのベストプラクティス",
     "url": "https://qiita.com/hasoya/items/05d4e49d492869875cca",
-    "likes_count": 276,
+    "likes_count": 277,
     "created_at": "2018-05-02T14:17:43+09:00",
     "updated_at": "2018-05-05T11:55:13+09:00",
     "id": "hasoya"
@@ -506,7 +506,7 @@
   {
     "title": "dockerで簡易にpython3の環境を作ってみる",
     "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
-    "likes_count": 275,
+    "likes_count": 276,
     "created_at": "2018-05-10T12:01:43+09:00",
     "updated_at": "2020-01-15T02:08:31+09:00",
     "id": "reflet"
