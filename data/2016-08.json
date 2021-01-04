@@ -2,7 +2,7 @@
   {
     "title": "日本の行政機関等が公開しているAPIについてのまとめ（2016年8月17日暫定版。随時更新）",
     "url": "https://qiita.com/kimuraya/items/3cc6c84bf6eac30851f1",
-    "likes_count": 2423,
+    "likes_count": 2424,
     "created_at": "2016-08-17T20:48:24+09:00",
     "updated_at": "2017-01-22T15:10:15+09:00",
     "id": "kimuraya"
@@ -106,7 +106,7 @@
   {
     "title": "console.logまとめ 2016年夏",
     "url": "https://qiita.com/ykyk1218/items/0f5858d077d43a49cfe2",
-    "likes_count": 839,
+    "likes_count": 840,
     "created_at": "2016-08-18T13:25:15+09:00",
     "updated_at": "2016-08-18T13:25:15+09:00",
     "id": "ykyk1218"
@@ -218,7 +218,7 @@
   {
     "title": "RxSwiftの機能カタログ",
     "url": "https://qiita.com/k5n/items/e80ab6bff4bbb170122d",
-    "likes_count": 489,
+    "likes_count": 490,
     "created_at": "2016-08-03T09:31:01+09:00",
     "updated_at": "2017-06-03T20:55:05+09:00",
     "id": "k5n"
@@ -384,20 +384,20 @@
     "id": "tkit"
   },
   {
+    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
+    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
+    "likes_count": 327,
+    "created_at": "2016-08-30T17:27:15+09:00",
+    "updated_at": "2020-02-07T14:34:31+09:00",
+    "id": "t-a-run"
+  },
+  {
     "title": "Laravelでテストコードを書くためのチュートリアル",
     "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
     "likes_count": 326,
     "created_at": "2016-08-06T12:48:15+09:00",
     "updated_at": "2016-08-06T12:48:15+09:00",
     "id": "niisan-tokyo"
-  },
-  {
-    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
-    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
-    "likes_count": 326,
-    "created_at": "2016-08-30T17:27:15+09:00",
-    "updated_at": "2020-02-07T14:34:31+09:00",
-    "id": "t-a-run"
   },
   {
     "title": "Pythonの環境構築 on Mac ( pyenv, virtualenv, anaconda, ipython notebook )",
@@ -410,7 +410,7 @@
   {
     "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
     "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 290,
+    "likes_count": 291,
     "created_at": "2016-08-04T23:10:37+09:00",
     "updated_at": "2016-08-08T12:50:34+09:00",
     "id": "mpyw"
@@ -424,20 +424,20 @@
     "id": "ryo2132"
   },
   {
+    "title": "Django入門にはDjango Girls Tutorialがおすすめ",
+    "url": "https://qiita.com/takechanman1228/items/d711e175b32f833c5e9c",
+    "likes_count": 286,
+    "created_at": "2016-08-12T23:28:52+09:00",
+    "updated_at": "2017-02-06T10:19:48+09:00",
+    "id": "takechanman1228"
+  },
+  {
     "title": "Gitの基礎",
     "url": "https://qiita.com/satoshi1335/items/ead109412430a078feaa",
     "likes_count": 286,
     "created_at": "2016-08-14T02:12:21+09:00",
     "updated_at": "2017-09-12T00:16:57+09:00",
     "id": "satoshi1335"
-  },
-  {
-    "title": "Django入門にはDjango Girls Tutorialがおすすめ",
-    "url": "https://qiita.com/takechanman1228/items/d711e175b32f833c5e9c",
-    "likes_count": 285,
-    "created_at": "2016-08-12T23:28:52+09:00",
-    "updated_at": "2017-02-06T10:19:48+09:00",
-    "id": "takechanman1228"
   },
   {
     "title": "クラスタ数を自動推定するX-means法を調べてみた",

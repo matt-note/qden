@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5385,
+    "likes_count": 5386,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 1972,
+    "likes_count": 1973,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "0からREST APIについて調べてみた",
     "url": "https://qiita.com/masato44gm/items/dffb8281536ad321fb08",
-    "likes_count": 1599,
+    "likes_count": 1601,
     "created_at": "2017-12-04T15:36:09+09:00",
     "updated_at": "2019-01-09T11:56:19+09:00",
     "id": "masato44gm"
@@ -50,7 +50,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1344,
+    "likes_count": 1345,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -58,7 +58,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1203,
+    "likes_count": 1206,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -186,7 +186,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 772,
+    "likes_count": 773,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -194,7 +194,7 @@
   {
     "title": "dev.toがなぜinsanely  fastを実現出来ているか",
     "url": "https://qiita.com/saboyutaka/items/1f528ec3ce85476d7561",
-    "likes_count": 756,
+    "likes_count": 758,
     "created_at": "2017-12-05T19:38:54+09:00",
     "updated_at": "2018-12-17T14:40:22+09:00",
     "id": "saboyutaka"
@@ -208,6 +208,14 @@
     "id": "sakaizay"
   },
   {
+    "title": "Storybookがなぜ必要か？(Vue.js編)",
+    "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
+    "likes_count": 754,
+    "created_at": "2017-12-24T00:27:00+09:00",
+    "updated_at": "2019-02-26T17:34:46+09:00",
+    "id": "masaakikunsan"
+  },
+  {
     "title": "半年で40kg痩せた！ダイエットでわかるリーンなプロジェクトマネジメント手法",
     "url": "https://qiita.com/hirokidaichi/items/9422841b5972b3a5664c",
     "likes_count": 754,
@@ -216,17 +224,9 @@
     "id": "hirokidaichi"
   },
   {
-    "title": "Storybookがなぜ必要か？(Vue.js編)",
-    "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 753,
-    "created_at": "2017-12-24T00:27:00+09:00",
-    "updated_at": "2019-02-26T17:34:46+09:00",
-    "id": "masaakikunsan"
-  },
-  {
     "title": "仮想通貨自動取引入門",
     "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
-    "likes_count": 726,
+    "likes_count": 727,
     "created_at": "2017-12-17T11:54:43+09:00",
     "updated_at": "2018-08-23T10:49:03+09:00",
     "id": "shionhonda"
@@ -290,7 +290,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 617,
+    "likes_count": 618,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -370,7 +370,7 @@
   {
     "title": " Nuxt.js使ってみた",
     "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 533,
+    "likes_count": 534,
     "created_at": "2017-12-15T23:18:21+09:00",
     "updated_at": "2020-12-24T15:37:44+09:00",
     "id": "_takeshi_24"
@@ -424,6 +424,14 @@
     "id": "h-takauma"
   },
   {
+    "title": "SlackのIncoming Webhooksを使い倒す",
+    "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
+    "likes_count": 470,
+    "created_at": "2017-12-14T10:09:51+09:00",
+    "updated_at": "2017-12-14T14:47:37+09:00",
+    "id": "ik-fib"
+  },
+  {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
     "likes_count": 470,
@@ -432,17 +440,9 @@
     "id": "lightnet328"
   },
   {
-    "title": "SlackのIncoming Webhooksを使い倒す",
-    "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
-    "likes_count": 469,
-    "created_at": "2017-12-14T10:09:51+09:00",
-    "updated_at": "2017-12-14T14:47:37+09:00",
-    "id": "ik-fib"
-  },
-  {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 462,
+    "likes_count": 463,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -552,20 +552,20 @@
     "id": "icoxfog417"
   },
   {
+    "title": "リスト内包表記の活用と悪用",
+    "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
+    "likes_count": 380,
+    "created_at": "2017-12-13T23:41:13+09:00",
+    "updated_at": "2020-05-03T15:49:07+09:00",
+    "id": "KTakahiro1729"
+  },
+  {
     "title": "知っておきたいLinuxファイルシステムの概念",
     "url": "https://qiita.com/tutuz/items/539d429729d5819de0aa",
     "likes_count": 380,
     "created_at": "2018-01-01T00:27:21+09:00",
     "updated_at": "2018-01-01T00:27:21+09:00",
     "id": "tutuz"
-  },
-  {
-    "title": "リスト内包表記の活用と悪用",
-    "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 379,
-    "created_at": "2017-12-13T23:41:13+09:00",
-    "updated_at": "2020-05-03T15:49:07+09:00",
-    "id": "KTakahiro1729"
   },
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
@@ -610,7 +610,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 352,
+    "likes_count": 354,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -722,7 +722,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
@@ -730,7 +730,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 315,
+    "likes_count": 316,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -746,7 +746,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 300,
+    "likes_count": 301,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
@@ -778,7 +778,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 260,
+    "likes_count": 261,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2020-12-14T06:15:26+09:00",
     "id": "nightyknite"
