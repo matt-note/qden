@@ -10,7 +10,7 @@
   {
     "title": "「機械学習はデータ集めるのが一番大変・・・」⇛Googleが大量の機械学習用データベースを無料公開してた",
     "url": "https://qiita.com/ulwlu/items/90dd8d79b12e10606299",
-    "likes_count": 1780,
+    "likes_count": 1781,
     "created_at": "2019-04-10T17:03:30+09:00",
     "updated_at": "2020-10-31T16:20:04+09:00",
     "id": "ulwlu"
@@ -18,7 +18,7 @@
   {
     "title": "VSCodeでのGitの基本操作まとめ",
     "url": "https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be",
-    "likes_count": 1776,
+    "likes_count": 1777,
     "created_at": "2019-04-15T07:38:11+09:00",
     "updated_at": "2020-05-02T17:20:11+09:00",
     "id": "y-tsutsu"
@@ -42,7 +42,7 @@
   {
     "title": "再帰関数を学ぶと、どんな世界が広がるか",
     "url": "https://qiita.com/drken/items/23a4f604fa3f505dd5ad",
-    "likes_count": 1382,
+    "likes_count": 1383,
     "created_at": "2019-04-04T10:44:13+09:00",
     "updated_at": "2020-08-07T16:31:29+09:00",
     "id": "drken"
@@ -90,7 +90,7 @@
   {
     "title": "今からでも追いつける！　JavaScriptの「標準ライブラリ」を学ぶ",
     "url": "https://qiita.com/uhyo/items/acd645744fa61c805097",
-    "likes_count": 853,
+    "likes_count": 854,
     "created_at": "2019-04-14T23:14:17+09:00",
     "updated_at": "2019-08-14T19:55:47+09:00",
     "id": "uhyo"
@@ -114,7 +114,7 @@
   {
     "title": "0.0.0.0にはアクセスしないこと",
     "url": "https://qiita.com/amuyikam/items/0063df223aed40193ba9",
-    "likes_count": 716,
+    "likes_count": 717,
     "created_at": "2019-04-04T07:58:11+09:00",
     "updated_at": "2019-04-07T00:03:37+09:00",
     "id": "amuyikam"
@@ -162,7 +162,7 @@
   {
     "title": "AtCoderで始めるPython入門",
     "url": "https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c",
-    "likes_count": 577,
+    "likes_count": 578,
     "created_at": "2019-04-04T14:41:04+09:00",
     "updated_at": "2020-07-12T17:27:23+09:00",
     "id": "KoyanagiHitoshi"
@@ -176,20 +176,20 @@
     "id": "hishi"
   },
   {
+    "title": "グラフ作成のためのチートシートとPythonによる各種グラフの実装",
+    "url": "https://qiita.com/4m1t0/items/76b0033edb545a78cef5",
+    "likes_count": 549,
+    "created_at": "2019-04-06T11:41:20+09:00",
+    "updated_at": "2019-11-09T00:29:26+09:00",
+    "id": "4m1t0"
+  },
+  {
     "title": "Firebaseで完結するリッチなWebアプリ構築の勘所",
     "url": "https://qiita.com/y_kawase/items/1de690b40553ef76acb3",
     "likes_count": 549,
     "created_at": "2019-04-08T07:18:26+09:00",
     "updated_at": "2019-04-17T20:38:19+09:00",
     "id": "y_kawase"
-  },
-  {
-    "title": "グラフ作成のためのチートシートとPythonによる各種グラフの実装",
-    "url": "https://qiita.com/4m1t0/items/76b0033edb545a78cef5",
-    "likes_count": 547,
-    "created_at": "2019-04-06T11:41:20+09:00",
-    "updated_at": "2019-11-09T00:29:26+09:00",
-    "id": "4m1t0"
   },
   {
     "title": "JavaScriptをやっているとnpm/yarn/gulp/grunt/webpackなど、たくさんのツールがあって混乱したので、それぞれの役割と違いをざっくりとまとめた",
@@ -250,7 +250,7 @@
   {
     "title": "Visual Studio Codeで日本語化する方法[Windows]",
     "url": "https://qiita.com/nanamesincos/items/5c48ff88a4eeef0a8631",
-    "likes_count": 411,
+    "likes_count": 412,
     "created_at": "2019-04-02T12:59:01+09:00",
     "updated_at": "2020-06-09T07:52:12+09:00",
     "id": "nanamesincos"
@@ -266,7 +266,7 @@
   {
     "title": "OAuth アクセストークンの実装に関する考察",
     "url": "https://qiita.com/TakahikoKawasaki/items/970548727761f9e02bcd",
-    "likes_count": 381,
+    "likes_count": 382,
     "created_at": "2019-04-02T19:57:39+09:00",
     "updated_at": "2019-04-02T19:57:39+09:00",
     "id": "TakahikoKawasaki"
@@ -278,6 +278,14 @@
     "created_at": "2019-04-03T11:02:15+09:00",
     "updated_at": "2019-04-15T10:21:03+09:00",
     "id": "goofmint"
+  },
+  {
+    "title": "コーディングテストに打ち勝つ",
+    "url": "https://qiita.com/yohachi/items/e4bef4035da135a4808d",
+    "likes_count": 373,
+    "created_at": "2019-04-18T22:21:07+09:00",
+    "updated_at": "2019-04-18T22:21:26+09:00",
+    "id": "yohachi"
   },
   {
     "title": "「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜",
@@ -296,14 +304,6 @@
     "id": "Kentaro_okumura"
   },
   {
-    "title": "コーディングテストに打ち勝つ",
-    "url": "https://qiita.com/yohachi/items/e4bef4035da135a4808d",
-    "likes_count": 368,
-    "created_at": "2019-04-18T22:21:07+09:00",
-    "updated_at": "2019-04-18T22:21:26+09:00",
-    "id": "yohachi"
-  },
-  {
     "title": "C# パフォーマンス改善に使える新しめの機能たち 7.0〜",
     "url": "https://qiita.com/hadashiA/items/0c65a999422e7713ed3c",
     "likes_count": 359,
@@ -314,7 +314,7 @@
   {
     "title": "独学Kubernetes　コンテナ開発の基本を最速で理解する",
     "url": "https://qiita.com/Brutus/items/d19af6b9c55de93663f6",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2019-04-30T18:47:27+09:00",
     "updated_at": "2020-07-29T23:18:38+09:00",
     "id": "Brutus"
@@ -354,7 +354,7 @@
   {
     "title": "よく使われているvimのプラグイン top20",
     "url": "https://qiita.com/reireias/items/5364dcaada1a5b88a206",
-    "likes_count": 313,
+    "likes_count": 315,
     "created_at": "2019-04-15T07:02:33+09:00",
     "updated_at": "2020-06-13T17:56:41+09:00",
     "id": "reireias"

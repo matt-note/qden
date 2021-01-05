@@ -34,7 +34,7 @@
   {
     "title": "知識0から始めるVim講座",
     "url": "https://qiita.com/JpnLavender/items/fabcc79b4ab0d52e1f6d",
-    "likes_count": 1706,
+    "likes_count": 1707,
     "created_at": "2016-04-20T13:39:15+09:00",
     "updated_at": "2016-07-18T12:55:03+09:00",
     "id": "JpnLavender"
@@ -42,7 +42,7 @@
   {
     "title": "iOS ヒューマンインターフェースの原則",
     "url": "https://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38",
-    "likes_count": 1616,
+    "likes_count": 1617,
     "created_at": "2016-04-03T05:27:56+09:00",
     "updated_at": "2019-03-01T04:21:27+09:00",
     "id": "usagimaru"
@@ -50,7 +50,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1595,
+    "likes_count": 1600,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -130,7 +130,7 @@
   {
     "title": "Excelファイルを C# と VB.NET で読み込む \"正しい\" 方法",
     "url": "https://qiita.com/midori44/items/acab9106e6dad9653e73",
-    "likes_count": 848,
+    "likes_count": 849,
     "created_at": "2016-04-11T08:46:25+09:00",
     "updated_at": "2016-04-11T13:19:46+09:00",
     "id": "midori44"
@@ -282,7 +282,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 469,
+    "likes_count": 468,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2020-12-24T15:02:15+09:00",
     "id": "dai-takahashi"
@@ -338,7 +338,7 @@
   {
     "title": "ベイズ最適化入門",
     "url": "https://qiita.com/masasora/items/cc2f10cb79f8c0a6bbaa",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2016-04-02T18:43:05+09:00",
     "updated_at": "2016-07-24T12:27:11+09:00",
     "id": "masasora"
@@ -354,7 +354,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -368,20 +368,20 @@
     "id": "kyam_"
   },
   {
+    "title": "決定版!!Haml小技まとめ！！",
+    "url": "https://qiita.com/yukimura1227/items/a1cbf65ac9abd4d138e1",
+    "likes_count": 391,
+    "created_at": "2016-04-17T00:47:36+09:00",
+    "updated_at": "2018-11-29T16:09:46+09:00",
+    "id": "yukimura1227"
+  },
+  {
     "title": "Kubernetes: 構成コンポーネント一覧",
     "url": "https://qiita.com/tkusumi/items/c2a92cd52bfdb9edd613",
     "likes_count": 390,
     "created_at": "2016-04-15T07:48:31+09:00",
     "updated_at": "2018-01-25T18:00:38+09:00",
     "id": "tkusumi"
-  },
-  {
-    "title": "決定版!!Haml小技まとめ！！",
-    "url": "https://qiita.com/yukimura1227/items/a1cbf65ac9abd4d138e1",
-    "likes_count": 390,
-    "created_at": "2016-04-17T00:47:36+09:00",
-    "updated_at": "2018-11-29T16:09:46+09:00",
-    "id": "yukimura1227"
   },
   {
     "title": "データベースさわったこと無い新人向けトランザクション入門",
@@ -432,6 +432,14 @@
     "id": "tonkotsuboy_com"
   },
   {
+    "title": "XGBoostの主な特徴と理論の概要",
+    "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
+    "likes_count": 364,
+    "created_at": "2016-04-02T21:19:46+09:00",
+    "updated_at": "2016-04-02T22:05:31+09:00",
+    "id": "yh0sh"
+  },
+  {
     "title": "LINE Bot を AWSを使ってシステム構築してみた。",
     "url": "https://qiita.com/hiyuzawa/items/10e7bf2f6ad5d1c7fc9c",
     "likes_count": 364,
@@ -440,17 +448,9 @@
     "id": "hiyuzawa"
   },
   {
-    "title": "XGBoostの主な特徴と理論の概要",
-    "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
-    "likes_count": 363,
-    "created_at": "2016-04-02T21:19:46+09:00",
-    "updated_at": "2016-04-02T22:05:31+09:00",
-    "id": "yh0sh"
-  },
-  {
     "title": "ファイルディスクリプタについて理解する",
     "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2016-04-22T22:51:58+09:00",
     "updated_at": "2016-04-22T22:51:58+09:00",
     "id": "toshihirock"
@@ -514,7 +514,7 @@
   {
     "title": "Djangoの勉強に役に立ったサイト",
     "url": "https://qiita.com/MewW6m/items/0ccc6bdcd984f7cc2d0e",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2016-04-28T11:02:27+09:00",
     "updated_at": "2020-06-13T14:50:59+09:00",
     "id": "MewW6m"
@@ -642,7 +642,7 @@
   {
     "title": "今日から始められるリファクタリング10選 (1)",
     "url": "https://qiita.com/nunulk/items/2323b0c30a2cbe5fdb0c",
-    "likes_count": 262,
+    "likes_count": 263,
     "created_at": "2016-04-27T22:35:47+09:00",
     "updated_at": "2016-04-29T13:03:28+09:00",
     "id": "nunulk"

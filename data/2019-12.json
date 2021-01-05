@@ -34,7 +34,7 @@
   {
     "title": "【Webエンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた",
     "url": "https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f",
-    "likes_count": 1635,
+    "likes_count": 1637,
     "created_at": "2019-12-21T16:51:08+09:00",
     "updated_at": "2020-12-25T09:57:29+09:00",
     "id": "JunyaShibato"
@@ -58,7 +58,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1508,
+    "likes_count": 1510,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2019-12-01T23:11:59+09:00",
     "id": "hirokidaichi"
@@ -74,7 +74,7 @@
   {
     "title": "[和訳] Dropboxアカウントのせいで胃潰瘍になった",
     "url": "https://qiita.com/ktnyt/items/a4729e11b465c8f65478",
-    "likes_count": 1462,
+    "likes_count": 1464,
     "created_at": "2019-12-16T14:34:58+09:00",
     "updated_at": "2019-12-18T18:55:27+09:00",
     "id": "ktnyt"
@@ -82,7 +82,7 @@
   {
     "title": "ラーメンで理解するasync/await",
     "url": "https://qiita.com/7tsuno/items/6d5a27ffe9143b35defe",
-    "likes_count": 1229,
+    "likes_count": 1230,
     "created_at": "2019-12-18T17:52:01+09:00",
     "updated_at": "2019-12-23T11:06:12+09:00",
     "id": "7tsuno"
@@ -114,10 +114,18 @@
   {
     "title": "【2020決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 924,
+    "likes_count": 926,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2020-09-17T22:35:34+09:00",
     "id": "omiita"
+  },
+  {
+    "title": "GoF デザインパターン チートシート",
+    "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
+    "likes_count": 899,
+    "created_at": "2019-12-24T12:53:20+09:00",
+    "updated_at": "2019-12-24T14:49:39+09:00",
+    "id": "tanakahisateru"
   },
   {
     "title": "Qiitaのスパム狩りをしたらAutoMLに仕事を奪われた件",
@@ -128,17 +136,9 @@
     "id": "dcm_chida"
   },
   {
-    "title": "GoF デザインパターン チートシート",
-    "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 897,
-    "created_at": "2019-12-24T12:53:20+09:00",
-    "updated_at": "2019-12-24T14:49:39+09:00",
-    "id": "tanakahisateru"
-  },
-  {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 820,
+    "likes_count": 821,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -154,7 +154,7 @@
   {
     "title": "数値計算の研究をしている学生が\"数値計算に潜むとんでもないリスク\"について話してみる",
     "url": "https://qiita.com/2754github/items/26a18fe01c8ad221f0ba",
-    "likes_count": 806,
+    "likes_count": 807,
     "created_at": "2019-12-18T00:36:36+09:00",
     "updated_at": "2019-12-25T07:01:58+09:00",
     "id": "2754github"
@@ -314,7 +314,7 @@
   {
     "title": "ふりかえりを拡張する「ふりかえりチートシート」",
     "url": "https://qiita.com/viva_tweet_x/items/b06f56ce83038fc2bb8f",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2019-12-04T21:49:42+09:00",
     "updated_at": "2019-12-04T21:49:42+09:00",
     "id": "viva_tweet_x"
@@ -402,7 +402,7 @@
   {
     "title": "VSCode で最高の LaTeX 環境を作る",
     "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 390,
+    "likes_count": 392,
     "created_at": "2019-12-16T07:03:05+09:00",
     "updated_at": "2020-08-19T15:00:28+09:00",
     "id": "rainbartown"
@@ -450,7 +450,7 @@
   {
     "title": "Kaggleコード遺産",
     "url": "https://qiita.com/kaggle_master-arai-san/items/d59b2fb7142ec7e270a5",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2019-12-13T01:03:32+09:00",
     "updated_at": "2019-12-13T01:03:32+09:00",
     "id": "kaggle_master-arai-san"
@@ -498,9 +498,9 @@
   {
     "title": "Vue/Nuxt開発効率を3倍にするVSCode拡張機能セット",
     "url": "https://qiita.com/newt0/items/aeddc6a179ea3a464ed5",
-    "likes_count": 248,
+    "likes_count": 250,
     "created_at": "2019-12-04T13:57:15+09:00",
-    "updated_at": "2020-12-24T14:13:23+09:00",
+    "updated_at": "2021-01-05T13:28:30+09:00",
     "id": "newt0"
   },
   {
