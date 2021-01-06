@@ -2,7 +2,7 @@
   {
     "title": "Gitのコミットメッセージの書き方",
     "url": "https://qiita.com/itosho/items/9565c6ad2ffc24c09364",
-    "likes_count": 4290,
+    "likes_count": 4291,
     "created_at": "2014-11-21T20:52:14+09:00",
     "updated_at": "2016-04-18T16:20:36+09:00",
     "id": "itosho"
@@ -10,7 +10,7 @@
   {
     "title": "なぜ仮想DOMという概念が俺達の魂を震えさせるのか",
     "url": "https://qiita.com/mizchi/items/4d25bc26def1719d52e6",
-    "likes_count": 2731,
+    "likes_count": 2732,
     "created_at": "2014-12-01T08:40:51+09:00",
     "updated_at": "2020-09-22T00:11:23+09:00",
     "id": "mizchi"
@@ -26,7 +26,7 @@
   {
     "title": "Git-flowって何？",
     "url": "https://qiita.com/KosukeSone/items/514dd24828b485c69a05",
-    "likes_count": 1612,
+    "likes_count": 1614,
     "created_at": "2014-11-03T00:58:45+09:00",
     "updated_at": "2016-04-02T16:30:25+09:00",
     "id": "KosukeSone"
@@ -50,7 +50,7 @@
   {
     "title": "使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」",
     "url": "https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5",
-    "likes_count": 1305,
+    "likes_count": 1307,
     "created_at": "2014-11-06T07:20:52+09:00",
     "updated_at": "2020-02-20T22:41:58+09:00",
     "id": "jnchito"
@@ -74,7 +74,7 @@
   {
     "title": "正規表現の基本",
     "url": "https://qiita.com/grrrr/items/7c8811b5cf37d700adc4",
-    "likes_count": 947,
+    "likes_count": 948,
     "created_at": "2014-11-13T00:31:06+09:00",
     "updated_at": "2020-01-22T15:26:05+09:00",
     "id": "grrrr"
@@ -162,7 +162,7 @@
   {
     "title": "Rails Asset Pipelineがうまくいかないときの問題の切り分けかた",
     "url": "https://qiita.com/metheglin/items/c5c756246b7afbd34ae2",
-    "likes_count": 588,
+    "likes_count": 589,
     "created_at": "2014-11-14T20:50:30+09:00",
     "updated_at": "2017-04-27T18:12:13+09:00",
     "id": "metheglin"
@@ -194,7 +194,7 @@
   {
     "title": "GitHubにSSH接続できるようにする方法",
     "url": "https://qiita.com/katsukii/items/9fd5bbe822904d7cdd0a",
-    "likes_count": 543,
+    "likes_count": 544,
     "created_at": "2014-11-04T19:54:39+09:00",
     "updated_at": "2017-03-16T09:16:12+09:00",
     "id": "katsukii"
@@ -202,7 +202,7 @@
   {
     "title": "bashのヒアドキュメントを活用する",
     "url": "https://qiita.com/take4s5i/items/e207cee4fb04385a9952",
-    "likes_count": 509,
+    "likes_count": 511,
     "created_at": "2014-11-19T15:00:09+09:00",
     "updated_at": "2019-06-04T14:25:29+09:00",
     "id": "take4s5i"
@@ -272,6 +272,14 @@
     "id": "pika_shi"
   },
   {
+    "title": "RailsのTransactionの使い方",
+    "url": "https://qiita.com/huydx/items/d946970d130b7dabe7ec",
+    "likes_count": 414,
+    "created_at": "2014-11-27T23:57:38+09:00",
+    "updated_at": "2015-03-18T17:25:49+09:00",
+    "id": "huydx"
+  },
+  {
     "title": "PHPUnitの主なAssertメソッド一覧",
     "url": "https://qiita.com/rev84/items/12fbd16d210d6a86eff9",
     "likes_count": 413,
@@ -280,17 +288,9 @@
     "id": "rev84"
   },
   {
-    "title": "RailsのTransactionの使い方",
-    "url": "https://qiita.com/huydx/items/d946970d130b7dabe7ec",
-    "likes_count": 413,
-    "created_at": "2014-11-27T23:57:38+09:00",
-    "updated_at": "2015-03-18T17:25:49+09:00",
-    "id": "huydx"
-  },
-  {
     "title": "gitでのヤバイ！を取り消す方法",
     "url": "https://qiita.com/ritukiii/items/74ee3274c3f218511a0c",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2014-11-08T22:24:39+09:00",
     "updated_at": "2015-01-05T10:00:57+09:00",
     "id": "ritukiii"
@@ -322,7 +322,7 @@
   {
     "title": "Bracketsの機能紹介、使い方解説",
     "url": "https://qiita.com/assialiholic/items/c8137321c7599a168b16",
-    "likes_count": 385,
+    "likes_count": 384,
     "created_at": "2014-11-10T18:43:42+09:00",
     "updated_at": "2015-12-28T00:27:32+09:00",
     "id": "assialiholic"
@@ -384,20 +384,20 @@
     "id": "varmil"
   },
   {
+    "title": "オブジェクト関係マッピング",
+    "url": "https://qiita.com/yk-nakamura/items/acd071f16cda844579b9",
+    "likes_count": 332,
+    "created_at": "2014-11-20T15:06:21+09:00",
+    "updated_at": "2017-02-28T15:48:26+09:00",
+    "id": "yk-nakamura"
+  },
+  {
     "title": "0行から始めるクライアントサイドJavaScript入門",
     "url": "https://qiita.com/nowri/items/928f2271d50bfa74cb70",
     "likes_count": 331,
     "created_at": "2014-11-14T21:22:35+09:00",
     "updated_at": "2014-12-04T11:36:31+09:00",
     "id": "nowri"
-  },
-  {
-    "title": "オブジェクト関係マッピング",
-    "url": "https://qiita.com/yk-nakamura/items/acd071f16cda844579b9",
-    "likes_count": 331,
-    "created_at": "2014-11-20T15:06:21+09:00",
-    "updated_at": "2017-02-28T15:48:26+09:00",
-    "id": "yk-nakamura"
   },
   {
     "title": "PHPでPDF帳票を出力する方法（TCPDF + FPDI）",

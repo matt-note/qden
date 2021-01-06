@@ -10,7 +10,7 @@
   {
     "title": "ディープラーニングの判断根拠を理解する手法",
     "url": "https://qiita.com/icoxfog417/items/8689f943fd1225e24358",
-    "likes_count": 1618,
+    "likes_count": 1619,
     "created_at": "2017-09-06T11:25:01+09:00",
     "updated_at": "2018-03-09T13:59:57+09:00",
     "id": "icoxfog417"
@@ -18,7 +18,7 @@
   {
     "title": "典型的な DP (動的計画法) のパターンを整理 Part 1 ～ ナップサック DP 編 ～",
     "url": "https://qiita.com/drken/items/a5e6fe22863b7992efdb",
-    "likes_count": 1577,
+    "likes_count": 1578,
     "created_at": "2017-09-01T18:12:03+09:00",
     "updated_at": "2020-12-20T17:47:27+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "真偽値を返す関数のネーミング",
     "url": "https://qiita.com/yskszk/items/5a7f99c974773f03a82a",
-    "likes_count": 1032,
+    "likes_count": 1033,
     "created_at": "2017-09-06T22:42:55+09:00",
     "updated_at": "2017-09-19T22:42:23+09:00",
     "id": "yskszk"
@@ -74,7 +74,7 @@
   {
     "title": "いい加減覚えよう。 `command > /dev/null 2>&1`の意味",
     "url": "https://qiita.com/ritukiii/items/b3d91e97b71ecd41d4ea",
-    "likes_count": 747,
+    "likes_count": 749,
     "created_at": "2017-09-06T22:55:16+09:00",
     "updated_at": "2018-11-09T10:28:16+09:00",
     "id": "ritukiii"
@@ -130,10 +130,18 @@
   {
     "title": "[axios] axios の導入と簡単な使い方",
     "url": "https://qiita.com/ksh-fthr/items/2daaaf3a15c4c11956e9",
-    "likes_count": 631,
+    "likes_count": 632,
     "created_at": "2017-09-13T23:37:44+09:00",
     "updated_at": "2020-08-11T10:24:30+09:00",
     "id": "ksh-fthr"
+  },
+  {
+    "title": "GitLab CI/CDパイプライン設定リファレンス(日本語訳:GitLab CI/CD Pipeline Configuration Reference)",
+    "url": "https://qiita.com/ynott/items/1ff698868ef85e50f5a1",
+    "likes_count": 588,
+    "created_at": "2017-09-17T19:47:25+09:00",
+    "updated_at": "2020-06-01T15:33:52+09:00",
+    "id": "ynott"
   },
   {
     "title": "【2017年8月】先輩エンジニアに聞いた信頼できる書籍まとめ",
@@ -142,14 +150,6 @@
     "created_at": "2017-09-02T16:36:32+09:00",
     "updated_at": "2017-09-04T16:03:09+09:00",
     "id": "maimax"
-  },
-  {
-    "title": "GitLab CI/CDパイプライン設定リファレンス(日本語訳:GitLab CI/CD Pipeline Configuration Reference)",
-    "url": "https://qiita.com/ynott/items/1ff698868ef85e50f5a1",
-    "likes_count": 586,
-    "created_at": "2017-09-17T19:47:25+09:00",
-    "updated_at": "2020-06-01T15:33:52+09:00",
-    "id": "ynott"
   },
   {
     "title": "【Mac】隠しファイル・隠しフォルダを表示する方法",
@@ -218,7 +218,7 @@
   {
     "title": "Ubuntuにdockerをインストールする",
     "url": "https://qiita.com/tkyonezu/items/0f6da57eb2d823d2611d",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2017-09-01T12:14:14+09:00",
     "updated_at": "2020-12-14T12:57:21+09:00",
     "id": "tkyonezu"
@@ -242,7 +242,7 @@
   {
     "title": "初心者向け：Zshの導入",
     "url": "https://qiita.com/iwaseasahi/items/a2b00b65ebd06785b443",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2017-09-02T12:56:38+09:00",
     "updated_at": "2020-12-11T18:46:23+09:00",
     "id": "iwaseasahi"

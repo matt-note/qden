@@ -42,7 +42,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1328,
+    "likes_count": 1330,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -58,7 +58,7 @@
   {
     "title": "Ruby->Go->Scalaという習得順序がエンジニアの爆速の成長に最適である理由",
     "url": "https://qiita.com/poly_soft/items/1feaa1ec5ecab08dc6db",
-    "likes_count": 1259,
+    "likes_count": 1260,
     "created_at": "2018-11-04T07:35:05+09:00",
     "updated_at": "2019-03-11T19:35:33+09:00",
     "id": "poly_soft"
@@ -66,7 +66,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1212,
+    "likes_count": 1214,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -114,7 +114,7 @@
   {
     "title": "汎用言語表現モデルBERTを日本語で動かす(PyTorch)",
     "url": "https://qiita.com/Kosuke-Szk/items/4b74b5cce84f423b7125",
-    "likes_count": 991,
+    "likes_count": 992,
     "created_at": "2018-11-01T19:35:25+09:00",
     "updated_at": "2018-11-27T21:46:51+09:00",
     "id": "Kosuke-Szk"
@@ -154,7 +154,7 @@
   {
     "title": "Visual Studio CodeでSSHごしにファイルを編集する",
     "url": "https://qiita.com/informationsea/items/5c9f05c81a41fb885460",
-    "likes_count": 865,
+    "likes_count": 866,
     "created_at": "2018-11-23T16:48:24+09:00",
     "updated_at": "2020-11-08T11:11:57+09:00",
     "id": "informationsea"
@@ -280,6 +280,14 @@
     "id": "chun1182"
   },
   {
+    "title": "よく使うcurlコマンドのオプション",
+    "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
+    "likes_count": 469,
+    "created_at": "2018-11-27T19:55:10+09:00",
+    "updated_at": "2019-12-29T23:17:28+09:00",
+    "id": "ryuichi1208"
+  },
+  {
     "title": "2万人に聞いた、2018年の最新JavaScript事情",
     "url": "https://qiita.com/rana_kualu/items/b4a7e01cb54b08a171b6",
     "likes_count": 468,
@@ -288,17 +296,9 @@
     "id": "rana_kualu"
   },
   {
-    "title": "よく使うcurlコマンドのオプション",
-    "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 467,
-    "created_at": "2018-11-27T19:55:10+09:00",
-    "updated_at": "2019-12-29T23:17:28+09:00",
-    "id": "ryuichi1208"
-  },
-  {
     "title": "JavaScriptの等値比較を全部理解する",
     "url": "https://qiita.com/uhyo/items/d99f536332e03442c432",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2018-11-16T01:39:38+09:00",
     "updated_at": "2019-09-29T19:21:38+09:00",
     "id": "uhyo"
@@ -338,7 +338,7 @@
   {
     "title": "RedisとElastiCacheを分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
-    "likes_count": 420,
+    "likes_count": 422,
     "created_at": "2018-11-19T09:00:44+09:00",
     "updated_at": "2019-11-21T15:42:12+09:00",
     "id": "gold-kou"
@@ -354,7 +354,7 @@
   {
     "title": "2019年版: 脱Babel!フロント/JS開発をTypeScriptに移行するための環境整備マニュアル",
     "url": "https://qiita.com/shibukawa/items/0a1aaf689d5183c6e0f1",
-    "likes_count": 400,
+    "likes_count": 401,
     "created_at": "2018-12-01T00:01:37+09:00",
     "updated_at": "2020-07-26T12:05:56+09:00",
     "id": "shibukawa"
@@ -362,7 +362,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 398,
+    "likes_count": 400,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -370,7 +370,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -386,7 +386,7 @@
   {
     "title": "VSCodeのPython拡張機能が更新されJupyter Notebookが扱いやすくなったので試してみた",
     "url": "https://qiita.com/suudon0014/items/dbf0237d90922275af1c",
-    "likes_count": 372,
+    "likes_count": 373,
     "created_at": "2018-11-12T12:18:08+09:00",
     "updated_at": "2018-11-17T22:27:08+09:00",
     "id": "suudon0014"
@@ -402,7 +402,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 364,
+    "likes_count": 365,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -432,20 +432,20 @@
     "id": "okoppe8"
   },
   {
+    "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
+    "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
+    "likes_count": 353,
+    "created_at": "2018-11-19T10:38:23+09:00",
+    "updated_at": "2020-09-01T15:55:23+09:00",
+    "id": "amishiro"
+  },
+  {
     "title": "Chromeを使うなら、必ずServiceWorkersを無効化しよう",
     "url": "https://qiita.com/rana_kualu/items/52d8cb7b200d6fefddc8",
     "likes_count": 352,
     "created_at": "2018-11-05T00:29:23+09:00",
     "updated_at": "2018-11-05T00:29:23+09:00",
     "id": "rana_kualu"
-  },
-  {
-    "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
-    "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
-    "likes_count": 352,
-    "created_at": "2018-11-19T10:38:23+09:00",
-    "updated_at": "2020-09-01T15:55:23+09:00",
-    "id": "amishiro"
   },
   {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
@@ -474,7 +474,7 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
