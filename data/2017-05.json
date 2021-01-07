@@ -2,7 +2,7 @@
   {
     "title": "JavaプログラマのためのKotlin入門",
     "url": "https://qiita.com/koher/items/bcc58c01c6ff2ece658f",
-    "likes_count": 1426,
+    "likes_count": 1427,
     "created_at": "2017-05-18T23:02:31+09:00",
     "updated_at": "2020-09-13T12:24:20+09:00",
     "id": "koher"
@@ -26,7 +26,7 @@
   {
     "title": "はじめての Elasticsearch",
     "url": "https://qiita.com/nskydiving/items/1c2dc4e0b9c98d164329",
-    "likes_count": 1212,
+    "likes_count": 1215,
     "created_at": "2017-05-06T17:18:31+09:00",
     "updated_at": "2019-05-26T15:50:09+09:00",
     "id": "nskydiving"
@@ -34,7 +34,7 @@
   {
     "title": "DockerをMacにインストールする（更新: 2019/7/13）",
     "url": "https://qiita.com/kurkuru/items/127fa99ef5b2f0288b81",
-    "likes_count": 1008,
+    "likes_count": 1009,
     "created_at": "2017-05-25T14:47:30+09:00",
     "updated_at": "2020-12-21T10:10:24+09:00",
     "id": "kurkuru"
@@ -58,7 +58,7 @@
   {
     "title": "機械学習の情報を手法を中心にざっくり整理",
     "url": "https://qiita.com/ishizakiiii/items/f6909696c616fd6294ca",
-    "likes_count": 763,
+    "likes_count": 764,
     "created_at": "2017-05-07T22:02:55+09:00",
     "updated_at": "2017-05-13T09:36:37+09:00",
     "id": "ishizakiiii"
@@ -90,7 +90,7 @@
   {
     "title": "Flaskの簡単な使い方",
     "url": "https://qiita.com/zaburo/items/5091041a5afb2a7dffc8",
-    "likes_count": 678,
+    "likes_count": 679,
     "created_at": "2017-05-10T19:25:51+09:00",
     "updated_at": "2019-07-16T16:53:20+09:00",
     "id": "zaburo"
@@ -106,7 +106,7 @@
   {
     "title": "JavaプログラマがKotlinでつまづきがちなところ",
     "url": "https://qiita.com/koher/items/d9411a00986f14683a3f",
-    "likes_count": 655,
+    "likes_count": 656,
     "created_at": "2017-05-22T22:24:12+09:00",
     "updated_at": "2017-12-29T17:37:55+09:00",
     "id": "koher"
@@ -136,20 +136,20 @@
     "id": "ndxbn"
   },
   {
+    "title": "Java8のラムダ式を理解する",
+    "url": "https://qiita.com/sano1202/items/64593e8e981e8d6439d3",
+    "likes_count": 547,
+    "created_at": "2017-05-22T18:46:54+09:00",
+    "updated_at": "2020-06-16T16:25:56+09:00",
+    "id": "sano1202"
+  },
+  {
     "title": "コマンド入力一撃で端末を大量に分割してタスクを瞬殺するtmux-xpanes",
     "url": "https://qiita.com/greymd/items/8744d1c4b0b2b3004147",
     "likes_count": 546,
     "created_at": "2017-05-08T22:41:19+09:00",
     "updated_at": "2018-01-22T14:44:36+09:00",
     "id": "greymd"
-  },
-  {
-    "title": "Java8のラムダ式を理解する",
-    "url": "https://qiita.com/sano1202/items/64593e8e981e8d6439d3",
-    "likes_count": 546,
-    "created_at": "2017-05-22T18:46:54+09:00",
-    "updated_at": "2020-06-16T16:25:56+09:00",
-    "id": "sano1202"
   },
   {
     "title": "素人の言語処理100本ノック:まとめ",
@@ -248,20 +248,20 @@
     "id": "takaakikasai"
   },
   {
+    "title": "Eloquent をおさらい",
+    "url": "https://qiita.com/shosho/items/5ca6bdb880b130260586",
+    "likes_count": 311,
+    "created_at": "2017-05-31T13:27:10+09:00",
+    "updated_at": "2019-01-22T17:35:09+09:00",
+    "id": "shosho"
+  },
+  {
     "title": "Jupyter Notebookでプレゼンをするとっても便利な方法",
     "url": "https://qiita.com/cvusk/items/d425751ba663dc8c6517",
     "likes_count": 310,
     "created_at": "2017-05-12T20:50:21+09:00",
     "updated_at": "2017-08-17T17:52:44+09:00",
     "id": "cvusk"
-  },
-  {
-    "title": "Eloquent をおさらい",
-    "url": "https://qiita.com/shosho/items/5ca6bdb880b130260586",
-    "likes_count": 310,
-    "created_at": "2017-05-31T13:27:10+09:00",
-    "updated_at": "2019-01-22T17:35:09+09:00",
-    "id": "shosho"
   },
   {
     "title": "MySQL EXPLAINのそれぞれの項目についての覚書",
@@ -274,7 +274,7 @@
   {
     "title": "Linuxでコマンドラインからマシンスペックを確認する方法",
     "url": "https://qiita.com/DaisukeMiyamoto/items/98ef077ddf44b5727c29",
-    "likes_count": 293,
+    "likes_count": 294,
     "created_at": "2017-05-10T20:03:00+09:00",
     "updated_at": "2017-05-31T17:20:21+09:00",
     "id": "DaisukeMiyamoto"

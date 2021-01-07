@@ -10,7 +10,7 @@
   {
     "title": "Git・GitHubに隠された便利な機能 | GitHub Cheat Sheet（日本語訳）",
     "url": "https://qiita.com/unbabel/items/1cf05f2a2be3d6fb3388",
-    "likes_count": 2146,
+    "likes_count": 2147,
     "created_at": "2014-04-20T17:03:27+09:00",
     "updated_at": "2017-11-09T09:42:27+09:00",
     "id": "unbabel"
@@ -18,7 +18,7 @@
   {
     "title": "本当に正しい .bashrc と .bash_profile の使ひ分け",
     "url": "https://qiita.com/magicant/items/d3bb7ea1192e63fba850",
-    "likes_count": 1750,
+    "likes_count": 1752,
     "created_at": "2014-04-16T10:49:22+09:00",
     "updated_at": "2019-06-07T13:58:46+09:00",
     "id": "magicant"
@@ -50,7 +50,7 @@
   {
     "title": "再考: GoF デザインパターン",
     "url": "https://qiita.com/irxground/items/d1f9cc447bafa8db2388",
-    "likes_count": 1232,
+    "likes_count": 1233,
     "created_at": "2014-04-10T19:56:48+09:00",
     "updated_at": "2015-10-26T15:18:12+09:00",
     "id": "irxground"
@@ -106,7 +106,7 @@
   {
     "title": "多段SSHの設定を.ssh/configにまとめる",
     "url": "https://qiita.com/ik-fib/items/12e4fab4478e360a82a1",
-    "likes_count": 770,
+    "likes_count": 771,
     "created_at": "2014-04-23T23:34:22+09:00",
     "updated_at": "2014-04-27T03:22:25+09:00",
     "id": "ik-fib"
@@ -328,6 +328,14 @@
     "id": "supertaihei02"
   },
   {
+    "title": "MediaWiki APIを使ってWikipediaの情報を取得",
+    "url": "https://qiita.com/yubessy/items/16d2a074be84ee67c01f",
+    "likes_count": 349,
+    "created_at": "2014-04-29T13:34:55+09:00",
+    "updated_at": "2018-07-14T14:04:23+09:00",
+    "id": "yubessy"
+  },
+  {
     "title": "Railsのセキュリティ対策で調べた事",
     "url": "https://qiita.com/sutetotanuki/items/5eda6bbb5532dd64529a",
     "likes_count": 348,
@@ -342,14 +350,6 @@
     "created_at": "2014-04-29T09:12:20+09:00",
     "updated_at": "2014-04-29T09:12:20+09:00",
     "id": "honeniq"
-  },
-  {
-    "title": "MediaWiki APIを使ってWikipediaの情報を取得",
-    "url": "https://qiita.com/yubessy/items/16d2a074be84ee67c01f",
-    "likes_count": 348,
-    "created_at": "2014-04-29T13:34:55+09:00",
-    "updated_at": "2018-07-14T14:04:23+09:00",
-    "id": "yubessy"
   },
   {
     "title": "githubでライセンスを設定する",
@@ -370,7 +370,7 @@
   {
     "title": "TDDという名の幻想...",
     "url": "https://qiita.com/asip2k25/items/a580417c8aeedd248094",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2014-04-25T19:34:29+09:00",
     "updated_at": "2018-08-15T11:47:28+09:00",
     "id": "asip2k25"

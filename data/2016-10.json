@@ -2,7 +2,7 @@
   {
     "title": "CSSのクラス名を決めるときに使うリストをつくりました",
     "url": "https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470",
-    "likes_count": 2809,
+    "likes_count": 2810,
     "created_at": "2016-10-07T10:20:53+09:00",
     "updated_at": "2018-09-05T15:13:51+09:00",
     "id": "manabuyasuda"
@@ -10,7 +10,7 @@
   {
     "title": "4ステップで作成する、DB論理設計の手順とチェックポイントまとめ",
     "url": "https://qiita.com/nishina555/items/a79ece1b54faf7240fac",
-    "likes_count": 2488,
+    "likes_count": 2489,
     "created_at": "2016-10-30T20:39:08+09:00",
     "updated_at": "2019-07-12T00:41:05+09:00",
     "id": "nishina555"
@@ -34,7 +34,7 @@
   {
     "title": "SQL素人でも分かるテーブル結合(inner joinとouter join)",
     "url": "https://qiita.com/naoki_mochizuki/items/3fda1ad6594c11d7b43c",
-    "likes_count": 1669,
+    "likes_count": 1670,
     "created_at": "2016-10-09T15:05:46+09:00",
     "updated_at": "2020-09-24T17:55:30+09:00",
     "id": "naoki_mochizuki"
@@ -50,7 +50,7 @@
   {
     "title": "代表的な機械学習手法一覧",
     "url": "https://qiita.com/tomomoto/items/b3fd1ec7f9b68ab6dfe2",
-    "likes_count": 1591,
+    "likes_count": 1592,
     "created_at": "2016-10-25T19:13:54+09:00",
     "updated_at": "2017-02-18T10:48:04+09:00",
     "id": "tomomoto"
@@ -82,7 +82,7 @@
   {
     "title": "Facebook製のJavaScriptテストツール「Jest」の逆引き使用例",
     "url": "https://qiita.com/chimame/items/e97883fd46b67529d59f",
-    "likes_count": 1148,
+    "likes_count": 1149,
     "created_at": "2016-10-14T07:10:40+09:00",
     "updated_at": "2018-11-07T15:03:37+09:00",
     "id": "chimame"
@@ -106,7 +106,7 @@
   {
     "title": "[Swift] iOSアプリ開発の基本情報と学習ソース",
     "url": "https://qiita.com/y-some/items/200db9ac37150effc8ed",
-    "likes_count": 968,
+    "likes_count": 967,
     "created_at": "2016-10-19T21:54:05+09:00",
     "updated_at": "2020-02-22T12:24:36+09:00",
     "id": "y-some"
@@ -122,7 +122,7 @@
   {
     "title": "Firebase Realtime DBを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/64bf85ec2cf1613cf507",
-    "likes_count": 904,
+    "likes_count": 906,
     "created_at": "2016-10-26T12:34:41+09:00",
     "updated_at": "2019-02-02T09:55:32+09:00",
     "id": "1amageek"
@@ -130,7 +130,7 @@
   {
     "title": "開発しやすいRails on Docker環境の作り方",
     "url": "https://qiita.com/joker1007/items/9f54e763ae640f757cfb",
-    "likes_count": 866,
+    "likes_count": 867,
     "created_at": "2016-10-24T15:17:23+09:00",
     "updated_at": "2017-03-22T02:57:23+09:00",
     "id": "joker1007"
@@ -146,7 +146,7 @@
   {
     "title": "RESTful APIのURI設計(エンドポイント設計)",
     "url": "https://qiita.com/NagaokaKenichi/items/6298eb8960570c7ad2e9",
-    "likes_count": 785,
+    "likes_count": 786,
     "created_at": "2016-10-03T07:45:12+09:00",
     "updated_at": "2018-03-23T14:21:44+09:00",
     "id": "NagaokaKenichi"
@@ -162,7 +162,7 @@
   {
     "title": "【PHP超入門】名前空間（namespace・use）について",
     "url": "https://qiita.com/7968/items/1e5c61128fa495358c1f",
-    "likes_count": 736,
+    "likes_count": 738,
     "created_at": "2016-10-05T16:12:50+09:00",
     "updated_at": "2020-04-15T08:43:58+09:00",
     "id": "7968"
@@ -210,7 +210,7 @@
   {
     "title": "docker-syncでホスト-コンテナ間を爆速で同期する",
     "url": "https://qiita.com/pocari/items/0340049742927f3a94b7",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2016-10-23T14:56:48+09:00",
     "updated_at": "2020-05-26T16:28:56+09:00",
     "id": "pocari"
@@ -312,6 +312,14 @@
     "id": "t2y"
   },
   {
+    "title": "MVCモデルについて",
+    "url": "https://qiita.com/s_emoto/items/975cc38a3e0de462966a",
+    "likes_count": 401,
+    "created_at": "2016-10-14T11:46:19+09:00",
+    "updated_at": "2019-08-22T14:03:53+09:00",
+    "id": "s_emoto"
+  },
+  {
     "title": "Yarnファーストインプレッション",
     "url": "https://qiita.com/mizchi/items/1002fde0de10e7c54fb2",
     "likes_count": 400,
@@ -320,17 +328,9 @@
     "id": "mizchi"
   },
   {
-    "title": "MVCモデルについて",
-    "url": "https://qiita.com/s_emoto/items/975cc38a3e0de462966a",
-    "likes_count": 400,
-    "created_at": "2016-10-14T11:46:19+09:00",
-    "updated_at": "2019-08-22T14:03:53+09:00",
-    "id": "s_emoto"
-  },
-  {
     "title": "Windowsバッチまとめ",
     "url": "https://qiita.com/tomotagwork/items/5b9e08f28d5925d96b5f",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2016-10-09T11:02:35+09:00",
     "updated_at": "2019-09-24T08:59:42+09:00",
     "id": "tomotagwork"
@@ -338,7 +338,7 @@
   {
     "title": "React + Redux + Firebaseで作るTodo App",
     "url": "https://qiita.com/gonta616/items/278a7e81a8b624d9621e",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2016-10-17T20:01:13+09:00",
     "updated_at": "2016-12-22T13:28:26+09:00",
     "id": "gonta616"
@@ -450,7 +450,7 @@
   {
     "title": "javascriptでJSONデータを扱う(登録・参照・更新・削除)",
     "url": "https://qiita.com/1mada/items/9a48f7053a6016b5fd5a",
-    "likes_count": 282,
+    "likes_count": 283,
     "created_at": "2016-10-28T18:30:33+09:00",
     "updated_at": "2016-10-28T18:30:33+09:00",
     "id": "1mada"

@@ -42,7 +42,7 @@
   {
     "title": "他言語から来た人がGoを使い始めてすぐハマったこととその答え",
     "url": "https://qiita.com/mumoshu/items/0d2f2a13c6e9fc8da2a4",
-    "likes_count": 1247,
+    "likes_count": 1248,
     "created_at": "2016-05-03T12:13:46+09:00",
     "updated_at": "2020-08-25T16:52:16+09:00",
     "id": "mumoshu"
@@ -138,7 +138,7 @@
   {
     "title": "LaravelのORMで初心者から職人へ",
     "url": "https://qiita.com/henriquebremenkanp/items/cd13944b0281297217a9",
-    "likes_count": 718,
+    "likes_count": 719,
     "created_at": "2016-05-29T19:05:09+09:00",
     "updated_at": "2020-09-14T15:51:02+09:00",
     "id": "henriquebremenkanp"
@@ -178,7 +178,7 @@
   {
     "title": "Spring MVC(+Spring Boot)上でのリクエスト共通処理の実装方法を理解する",
     "url": "https://qiita.com/kazuki43zoo/items/757b557c05f548c6c5db",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2016-05-14T05:47:45+09:00",
     "updated_at": "2020-04-21T23:01:02+09:00",
     "id": "kazuki43zoo"
@@ -234,7 +234,7 @@
   {
     "title": "Googleスプレッドシートをプログラムから操作",
     "url": "https://qiita.com/howdy39/items/ca719537bba676dce1cf",
-    "likes_count": 555,
+    "likes_count": 556,
     "created_at": "2016-05-22T03:02:07+09:00",
     "updated_at": "2018-05-17T19:46:55+09:00",
     "id": "howdy39"
@@ -290,7 +290,7 @@
   {
     "title": "DataTablesの使い方",
     "url": "https://qiita.com/nissuk/items/7ac59af5de427c0585c5",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2016-05-08T00:36:17+09:00",
     "updated_at": "2017-04-18T23:11:43+09:00",
     "id": "nissuk"
@@ -306,7 +306,7 @@
   {
     "title": "JavascriptのAjaxについての基本まとめ",
     "url": "https://qiita.com/katsunory/items/9bf9ee49ee5c08bf2b3d",
-    "likes_count": 397,
+    "likes_count": 398,
     "created_at": "2016-05-04T11:40:55+09:00",
     "updated_at": "2018-01-21T15:08:15+09:00",
     "id": "katsunory"
@@ -368,6 +368,14 @@
     "id": "akameco"
   },
   {
+    "title": "プログラムの依存関係とモジュール構成のこと",
+    "url": "https://qiita.com/wm3/items/2c90bfd9e973d368ebd8",
+    "likes_count": 358,
+    "created_at": "2016-05-09T09:20:00+09:00",
+    "updated_at": "2019-09-27T01:43:46+09:00",
+    "id": "wm3"
+  },
+  {
     "title": "色んなiOSアプリが使っているオープンソースライブラリを調べた",
     "url": "https://qiita.com/inoue0426/items/d97a0bca18ec5f91d839",
     "likes_count": 358,
@@ -376,17 +384,9 @@
     "id": "inoue0426"
   },
   {
-    "title": "プログラムの依存関係とモジュール構成のこと",
-    "url": "https://qiita.com/wm3/items/2c90bfd9e973d368ebd8",
-    "likes_count": 357,
-    "created_at": "2016-05-09T09:20:00+09:00",
-    "updated_at": "2019-09-27T01:43:46+09:00",
-    "id": "wm3"
-  },
-  {
     "title": "ASP.NET 入門の書",
     "url": "https://qiita.com/Kei18/items/1a9b936216bd2458ec08",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2016-06-01T01:39:21+09:00",
     "updated_at": "2016-06-01T01:39:21+09:00",
     "id": "Kei18"
@@ -426,7 +426,7 @@
   {
     "title": "Railsのルーティングの種類と要点まとめ",
     "url": "https://qiita.com/senou/items/f1491e53450cb347606b",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2016-05-20T18:46:01+09:00",
     "updated_at": "2020-07-27T11:20:56+09:00",
     "id": "senou"
@@ -466,7 +466,7 @@
   {
     "title": "PHPとMySQLで新規登録とログインを実装する(PDO使用)",
     "url": "https://qiita.com/KosukeQiita/items/b56b3004413c999b9858",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2016-05-15T17:53:27+09:00",
     "updated_at": "2018-04-07T18:53:45+09:00",
     "id": "KosukeQiita"
@@ -506,7 +506,7 @@
   {
     "title": "WebAPI学習ソースまとめ",
     "url": "https://qiita.com/y-some/items/7e05540d7563f7c1c101",
-    "likes_count": 282,
+    "likes_count": 283,
     "created_at": "2016-05-19T06:48:00+09:00",
     "updated_at": "2017-05-08T21:41:05+09:00",
     "id": "y-some"

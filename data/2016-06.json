@@ -2,7 +2,7 @@
   {
     "title": "「AWS is 何」を3行でまとめてみるよ",
     "url": "https://qiita.com/kohashi/items/1bb952313fb695f12577",
-    "likes_count": 3840,
+    "likes_count": 3841,
     "created_at": "2016-06-28T14:38:40+09:00",
     "updated_at": "2019-03-08T13:21:28+09:00",
     "id": "kohashi"
@@ -42,7 +42,7 @@
   {
     "title": "iOSアプリ個人開発で使ってるツールとかノウハウを公開してみる",
     "url": "https://qiita.com/shtnkgm/items/8d8d633be9e3ab1a504a",
-    "likes_count": 1471,
+    "likes_count": 1472,
     "created_at": "2016-06-21T22:41:58+09:00",
     "updated_at": "2019-04-23T00:21:51+09:00",
     "id": "shtnkgm"
@@ -50,7 +50,7 @@
   {
     "title": "忘れやすい人のための git diff チートシート",
     "url": "https://qiita.com/shibukk/items/8c9362a5bd399b9c56be",
-    "likes_count": 1373,
+    "likes_count": 1375,
     "created_at": "2016-06-15T14:27:21+09:00",
     "updated_at": "2019-01-23T13:48:59+09:00",
     "id": "shibukk"
@@ -122,7 +122,7 @@
   {
     "title": "PHP isset, empty, is_null の違い早見表",
     "url": "https://qiita.com/shinichi-takii/items/00aed26f96cf6bb3fe62",
-    "likes_count": 695,
+    "likes_count": 697,
     "created_at": "2016-06-22T11:23:13+09:00",
     "updated_at": "2016-06-22T12:09:55+09:00",
     "id": "shinichi-takii"
@@ -130,7 +130,7 @@
   {
     "title": "スマートメーターの情報を最安ハードウェアで引っこ抜く",
     "url": "https://qiita.com/rukihena/items/82266ed3a43e4b652adb",
-    "likes_count": 690,
+    "likes_count": 691,
     "created_at": "2016-06-04T14:41:54+09:00",
     "updated_at": "2019-10-31T23:21:31+09:00",
     "id": "rukihena"
@@ -146,7 +146,7 @@
   {
     "title": "テストコードの期待値はDRYを捨ててベタ書きする ～テストコードの重要な役割とは？～",
     "url": "https://qiita.com/jnchito/items/eb3cfa9f7db752dcb796",
-    "likes_count": 644,
+    "likes_count": 646,
     "created_at": "2016-06-06T10:39:54+09:00",
     "updated_at": "2016-06-09T10:51:19+09:00",
     "id": "jnchito"
@@ -194,7 +194,7 @@
   {
     "title": "Kotlin のコレクション使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/36351dca891b6d9c9687",
-    "likes_count": 535,
+    "likes_count": 536,
     "created_at": "2016-06-04T14:15:10+09:00",
     "updated_at": "2020-05-05T19:46:41+09:00",
     "id": "opengl-8080"
@@ -202,7 +202,7 @@
   {
     "title": "Pythonではじめる強化学習",
     "url": "https://qiita.com/Hironsan/items/56f6c0b2f4cfd28dd906",
-    "likes_count": 530,
+    "likes_count": 531,
     "created_at": "2016-06-09T08:56:37+09:00",
     "updated_at": "2017-03-13T13:39:27+09:00",
     "id": "Hironsan"
@@ -234,10 +234,18 @@
   {
     "title": "npmでpermission deniedになった時の対処法[mac]",
     "url": "https://qiita.com/okohs/items/ced3c3de30af1035242d",
-    "likes_count": 499,
+    "likes_count": 500,
     "created_at": "2016-06-11T21:43:20+09:00",
     "updated_at": "2018-12-22T10:42:15+09:00",
     "id": "okohs"
+  },
+  {
+    "title": "機械学習のデータセットの重要性",
+    "url": "https://qiita.com/nonbiri15/items/b29fe079d359d531bf85",
+    "likes_count": 461,
+    "created_at": "2016-06-16T00:10:55+09:00",
+    "updated_at": "2020-10-20T01:58:15+09:00",
+    "id": "nonbiri15"
   },
   {
     "title": "海外転職の面接の時に英語で聞かれるRubyとRailsの基礎質問を徹底マスターしておく方法",
@@ -246,14 +254,6 @@
     "created_at": "2016-06-21T17:22:38+09:00",
     "updated_at": "2016-06-21T17:22:38+09:00",
     "id": "jabba"
-  },
-  {
-    "title": "機械学習のデータセットの重要性",
-    "url": "https://qiita.com/nonbiri15/items/b29fe079d359d531bf85",
-    "likes_count": 460,
-    "created_at": "2016-06-16T00:10:55+09:00",
-    "updated_at": "2020-10-20T01:58:15+09:00",
-    "id": "nonbiri15"
   },
   {
     "title": "PHPで高速オシャレな配列操作を求めて",
@@ -282,7 +282,7 @@
   {
     "title": "［API］ API仕様書の書き方",
     "url": "https://qiita.com/sunstripe2011/items/9230396febfab2eae2c2",
-    "likes_count": 411,
+    "likes_count": 412,
     "created_at": "2016-06-09T19:52:08+09:00",
     "updated_at": "2020-12-01T23:33:35+09:00",
     "id": "sunstripe2011"
@@ -290,7 +290,7 @@
   {
     "title": "ワークフローエンジンDigdagのまとめ",
     "url": "https://qiita.com/hiroysato/items/d0fe5e2d88c267413a82",
-    "likes_count": 403,
+    "likes_count": 404,
     "created_at": "2016-06-15T13:08:47+09:00",
     "updated_at": "2020-11-25T09:30:27+09:00",
     "id": "hiroysato"
