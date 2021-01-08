@@ -10,7 +10,7 @@
   {
     "title": "文系エンジニアが機械学習に入門するために小学校の算数から高校数学までを一気に復習してみました。",
     "url": "https://qiita.com/poly_soft/items/8ea0fc85577f0726f098",
-    "likes_count": 2209,
+    "likes_count": 2210,
     "created_at": "2016-07-23T13:25:47+09:00",
     "updated_at": "2019-03-11T19:39:35+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "新卒の子にどこまで勉強すれば良いですかね？と聞かれた件",
     "url": "https://qiita.com/daijinload/items/0ee132950087da9366df",
-    "likes_count": 1969,
+    "likes_count": 1971,
     "created_at": "2016-07-09T19:37:32+09:00",
     "updated_at": "2017-08-10T20:40:46+09:00",
     "id": "daijinload"
@@ -26,7 +26,7 @@
   {
     "title": "早く・それなりの UI を実現する React コンポーネントセット 16 選",
     "url": "https://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea",
-    "likes_count": 1939,
+    "likes_count": 1940,
     "created_at": "2016-07-10T19:15:57+09:00",
     "updated_at": "2018-06-15T09:48:37+09:00",
     "id": "kyrieleison"
@@ -58,7 +58,7 @@
   {
     "title": "docker-compose コマンドまとめ",
     "url": "https://qiita.com/wasanx25/items/d47caf37b79e855af95f",
-    "likes_count": 1452,
+    "likes_count": 1453,
     "created_at": "2016-07-16T11:41:09+09:00",
     "updated_at": "2017-08-02T01:56:45+09:00",
     "id": "wasanx25"
@@ -74,7 +74,7 @@
   {
     "title": "（インターン向けに書いた）Pythonパッケージを作る方法",
     "url": "https://qiita.com/Ultra-grand-child/items/7717f823df5a30c27077",
-    "likes_count": 1245,
+    "likes_count": 1246,
     "created_at": "2016-07-29T03:13:28+09:00",
     "updated_at": "2020-04-18T17:16:57+09:00",
     "id": "Ultra-grand-child"
@@ -320,6 +320,14 @@
     "id": "codehex"
   },
   {
+    "title": "Python 3でのファイルのimportのしかたまとめ",
+    "url": "https://qiita.com/karadaharu/items/37403e6e82ae4417d1b3",
+    "likes_count": 386,
+    "created_at": "2016-07-06T01:57:52+09:00",
+    "updated_at": "2016-07-06T01:57:52+09:00",
+    "id": "karadaharu"
+  },
+  {
     "title": "リソース指向アーキテクチャ(ROA)とは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/0f3a55e422d5cc9f1b9c",
     "likes_count": 386,
@@ -342,14 +350,6 @@
     "created_at": "2016-07-13T11:27:36+09:00",
     "updated_at": "2016-07-29T14:06:13+09:00",
     "id": "kawasima"
-  },
-  {
-    "title": "Python 3でのファイルのimportのしかたまとめ",
-    "url": "https://qiita.com/karadaharu/items/37403e6e82ae4417d1b3",
-    "likes_count": 384,
-    "created_at": "2016-07-06T01:57:52+09:00",
-    "updated_at": "2016-07-06T01:57:52+09:00",
-    "id": "karadaharu"
   },
   {
     "title": "Riot.js ソースコード完全解説 v3対応版",
@@ -378,7 +378,7 @@
   {
     "title": "LINQチートシート的なもの",
     "url": "https://qiita.com/Marimoiro/items/0e119b47d65bf138789a",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2016-07-17T16:15:35+09:00",
     "updated_at": "2019-02-07T17:17:23+09:00",
     "id": "Marimoiro"
@@ -418,7 +418,7 @@
   {
     "title": "Python openpyxlでExcelを操作",
     "url": "https://qiita.com/taito273/items/07e4332293c2c59799d1",
-    "likes_count": 281,
+    "likes_count": 282,
     "created_at": "2016-07-09T16:35:44+09:00",
     "updated_at": "2017-06-10T02:14:19+09:00",
     "id": "taito273"
