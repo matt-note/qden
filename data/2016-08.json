@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1557,
+    "likes_count": 1559,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -26,7 +26,7 @@
   {
     "title": "サーバからクライアントに送信する技術 - WebSocketを中心に",
     "url": "https://qiita.com/yuba/items/00fc1892b296fb7b8de9",
-    "likes_count": 1465,
+    "likes_count": 1466,
     "created_at": "2016-08-24T17:54:24+09:00",
     "updated_at": "2016-11-03T01:14:55+09:00",
     "id": "yuba"
@@ -74,7 +74,7 @@
   {
     "title": "【PHP超入門】Cookieとセッションについて",
     "url": "https://qiita.com/7968/items/ce03feb17c8eaa6e4672",
-    "likes_count": 1003,
+    "likes_count": 1004,
     "created_at": "2016-08-22T00:45:10+09:00",
     "updated_at": "2020-04-15T08:44:16+09:00",
     "id": "7968"
@@ -170,7 +170,7 @@
   {
     "title": "線形代数の基礎",
     "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
-    "likes_count": 581,
+    "likes_count": 582,
     "created_at": "2016-08-30T23:11:19+09:00",
     "updated_at": "2020-08-23T02:47:09+09:00",
     "id": "nognog"
@@ -376,20 +376,20 @@
     "id": "tkykmw"
   },
   {
+    "title": "Laravelでテストコードを書くためのチュートリアル",
+    "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
+    "likes_count": 330,
+    "created_at": "2016-08-06T12:48:15+09:00",
+    "updated_at": "2016-08-06T12:48:15+09:00",
+    "id": "niisan-tokyo"
+  },
+  {
     "title": "資料で使う技術/プロダクトロゴのリンク集",
     "url": "https://qiita.com/tkit/items/932316c5f5f7b162b61e",
     "likes_count": 330,
     "created_at": "2016-08-11T17:05:59+09:00",
     "updated_at": "2020-12-09T21:14:15+09:00",
     "id": "tkit"
-  },
-  {
-    "title": "Laravelでテストコードを書くためのチュートリアル",
-    "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
-    "likes_count": 328,
-    "created_at": "2016-08-06T12:48:15+09:00",
-    "updated_at": "2016-08-06T12:48:15+09:00",
-    "id": "niisan-tokyo"
   },
   {
     "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
@@ -442,7 +442,7 @@
   {
     "title": "クラスタ数を自動推定するX-means法を調べてみた",
     "url": "https://qiita.com/deaikei/items/8615362d320c76e2ce0b",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2016-08-21T18:48:58+09:00",
     "updated_at": "2016-08-22T09:22:33+09:00",
     "id": "deaikei"
