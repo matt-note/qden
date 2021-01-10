@@ -2,7 +2,7 @@
   {
     "title": "たぶんこれが一番分かりやすいと思います React + Redux のフロー図解",
     "url": "https://qiita.com/mpyw/items/a816c6380219b1d5a3bf",
-    "likes_count": 2577,
+    "likes_count": 2580,
     "created_at": "2017-01-06T03:28:59+09:00",
     "updated_at": "2020-06-23T08:43:36+09:00",
     "id": "mpyw"
@@ -18,7 +18,7 @@
   {
     "title": "Qiita マークダウン記法 一覧表・チートシート",
     "url": "https://qiita.com/kamorits/items/6f342da395ad57468ae3",
-    "likes_count": 1090,
+    "likes_count": 1092,
     "created_at": "2017-01-18T13:43:38+09:00",
     "updated_at": "2020-04-29T16:50:51+09:00",
     "id": "kamorits"
@@ -74,7 +74,7 @@
   {
     "title": "これだけは覚えたい、ユニットテストを書くための４つのデザイン",
     "url": "https://qiita.com/koduki/items/4fde43b68fe450c6a5d8",
-    "likes_count": 860,
+    "likes_count": 861,
     "created_at": "2017-01-16T07:49:09+09:00",
     "updated_at": "2018-02-21T08:10:30+09:00",
     "id": "koduki"
@@ -146,7 +146,7 @@
   {
     "title": "Fluxとはなんなのか",
     "url": "https://qiita.com/knhr__/items/5fec7571dab80e2dcd92",
-    "likes_count": 624,
+    "likes_count": 626,
     "created_at": "2017-01-31T21:13:00+09:00",
     "updated_at": "2019-05-26T14:54:08+09:00",
     "id": "knhr__"
@@ -162,7 +162,7 @@
   {
     "title": "PIL/Pillow チートシート",
     "url": "https://qiita.com/pashango2/items/145d858eff3c505c100a",
-    "likes_count": 524,
+    "likes_count": 525,
     "created_at": "2017-01-31T08:36:06+09:00",
     "updated_at": "2017-03-07T08:38:31+09:00",
     "id": "pashango2"
@@ -170,7 +170,7 @@
   {
     "title": "カルマンフィルタってなに？",
     "url": "https://qiita.com/IshitaTakeshi/items/740ac7e9b549eee4cc04",
-    "likes_count": 522,
+    "likes_count": 523,
     "created_at": "2017-01-13T20:19:50+09:00",
     "updated_at": "2019-12-11T11:06:09+09:00",
     "id": "IshitaTakeshi"
@@ -186,7 +186,7 @@
   {
     "title": "TypeScriptチュートリアル① -環境構築編-",
     "url": "https://qiita.com/ochiochi/items/efdaa0ae7d8c972c8103",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2017-01-19T12:15:12+09:00",
     "updated_at": "2018-03-20T15:32:03+09:00",
     "id": "ochiochi"
@@ -248,6 +248,14 @@
     "id": "zakiyamaaaaa"
   },
   {
+    "title": "商用利用できるオープンソースライセンスはけっきょくどれで何をすればいいのか？",
+    "url": "https://qiita.com/0xfffffff7/items/efbb65521d7708f2db7d",
+    "likes_count": 430,
+    "created_at": "2017-01-25T16:50:08+09:00",
+    "updated_at": "2019-11-14T13:58:26+09:00",
+    "id": "0xfffffff7"
+  },
+  {
     "title": "WebAPI でファイルをアップロードする方法アレコレ",
     "url": "https://qiita.com/mserizawa/items/7f1b9e5077fd3a9d336b",
     "likes_count": 429,
@@ -256,17 +264,9 @@
     "id": "mserizawa"
   },
   {
-    "title": "商用利用できるオープンソースライセンスはけっきょくどれで何をすればいいのか？",
-    "url": "https://qiita.com/0xfffffff7/items/efbb65521d7708f2db7d",
-    "likes_count": 429,
-    "created_at": "2017-01-25T16:50:08+09:00",
-    "updated_at": "2019-11-14T13:58:26+09:00",
-    "id": "0xfffffff7"
-  },
-  {
     "title": "OAuth 2.0 の解説サイトを漁る前に",
     "url": "https://qiita.com/kojisaiki/items/48adf59d5d634fd330af",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2017-01-30T21:13:24+09:00",
     "updated_at": "2020-03-11T12:59:51+09:00",
     "id": "kojisaiki"
@@ -290,7 +290,7 @@
   {
     "title": "Python Kivyの使い方① ～Kv Languageの基本～",
     "url": "https://qiita.com/dario_okazaki/items/7892b24fcfa787faface",
-    "likes_count": 403,
+    "likes_count": 404,
     "created_at": "2017-01-27T01:19:17+09:00",
     "updated_at": "2020-03-28T19:49:22+09:00",
     "id": "dario_okazaki"
@@ -370,7 +370,7 @@
   {
     "title": "githubでブランチ名を変更する（ローカル/リモート）",
     "url": "https://qiita.com/hogeta_/items/e47dfb0cf88270ef2802",
-    "likes_count": 334,
+    "likes_count": 335,
     "created_at": "2017-01-05T10:59:36+09:00",
     "updated_at": "2017-01-05T10:59:36+09:00",
     "id": "hogeta_"
