@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5391,
+    "likes_count": 5390,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -18,7 +18,7 @@
   {
     "title": "0からREST APIについて調べてみた",
     "url": "https://qiita.com/masato44gm/items/dffb8281536ad321fb08",
-    "likes_count": 1611,
+    "likes_count": 1612,
     "created_at": "2017-12-04T15:36:09+09:00",
     "updated_at": "2019-01-09T11:56:19+09:00",
     "id": "masato44gm"
@@ -34,7 +34,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1434,
+    "likes_count": 1435,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -50,7 +50,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1347,
+    "likes_count": 1348,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -146,7 +146,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 816,
+    "likes_count": 817,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -154,7 +154,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 814,
+    "likes_count": 815,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -202,7 +202,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 758,
+    "likes_count": 759,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -290,7 +290,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 623,
+    "likes_count": 624,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -330,7 +330,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -360,20 +360,20 @@
     "id": "namusyaka"
   },
   {
+    "title": " Nuxt.js使ってみた",
+    "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
+    "likes_count": 539,
+    "created_at": "2017-12-15T23:18:21+09:00",
+    "updated_at": "2020-12-24T15:37:44+09:00",
+    "id": "_takeshi_24"
+  },
+  {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
     "likes_count": 539,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
-  },
-  {
-    "title": " Nuxt.js使ってみた",
-    "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 538,
-    "created_at": "2017-12-15T23:18:21+09:00",
-    "updated_at": "2020-12-24T15:37:44+09:00",
-    "id": "_takeshi_24"
   },
   {
     "title": "その資料ちゃんと伝わってる？ノンデザイナーに贈る、3つのポイントで格段に伝わる資料になる方法 ",
@@ -442,7 +442,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -498,7 +498,7 @@
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
-    "likes_count": 426,
+    "likes_count": 427,
     "created_at": "2017-12-09T16:10:28+09:00",
     "updated_at": "2018-12-22T12:05:58+09:00",
     "id": "kakakaori830"
@@ -538,7 +538,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -594,7 +594,7 @@
   {
     "title": "ちょっとしたツールを作るのに便利なPythonライブラリ",
     "url": "https://qiita.com/ninomiyt/items/fb2ac63f195d0b9a4c7d",
-    "likes_count": 359,
+    "likes_count": 361,
     "created_at": "2017-12-03T13:37:25+09:00",
     "updated_at": "2017-12-03T13:37:25+09:00",
     "id": "ninomiyt"
@@ -618,7 +618,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
@@ -706,7 +706,7 @@
   {
     "title": "Kaggleの練習問題（Regression）を解いてKagglerになる",
     "url": "https://qiita.com/katsu1110/items/a1c3185fec39e5629bcb",
-    "likes_count": 324,
+    "likes_count": 325,
     "created_at": "2017-12-15T08:47:16+09:00",
     "updated_at": "2019-06-27T18:00:30+09:00",
     "id": "katsu1110"
@@ -746,7 +746,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 301,
+    "likes_count": 303,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
@@ -786,7 +786,7 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 260,
+    "likes_count": 261,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"
