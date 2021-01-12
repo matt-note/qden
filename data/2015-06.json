@@ -2,7 +2,7 @@
   {
     "title": "ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト",
     "url": "https://qiita.com/kazukichi/items/7379b75fba2f90d3cf45",
-    "likes_count": 3790,
+    "likes_count": 3792,
     "created_at": "2015-06-03T20:05:15+09:00",
     "updated_at": "2020-12-10T11:07:57+09:00",
     "id": "kazukichi"
@@ -10,7 +10,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3098,
+    "likes_count": 3106,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2018-10-01T16:44:21+09:00",
     "id": "ryounagaoka"
@@ -18,7 +18,7 @@
   {
     "title": "出来る限り短く説明するReact.js入門",
     "url": "https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19",
-    "likes_count": 1979,
+    "likes_count": 1980,
     "created_at": "2015-06-21T23:39:15+09:00",
     "updated_at": "2020-12-15T13:45:25+09:00",
     "id": "rgbkids"
@@ -58,7 +58,7 @@
   {
     "title": "Qiitaの数式チートシート",
     "url": "https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada",
-    "likes_count": 1317,
+    "likes_count": 1318,
     "created_at": "2015-06-14T01:44:10+09:00",
     "updated_at": "2020-11-09T14:33:00+09:00",
     "id": "PlanetMeron"
@@ -90,7 +90,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1040,
+    "likes_count": 1041,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -98,7 +98,7 @@
   {
     "title": "jQueryを利用したDOM操作 要素の追加メソッドまとめ",
     "url": "https://qiita.com/nekoneko-wanwan/items/227ccad5f8cc449e91e9",
-    "likes_count": 948,
+    "likes_count": 949,
     "created_at": "2015-06-29T17:23:12+09:00",
     "updated_at": "2015-06-29T17:24:13+09:00",
     "id": "nekoneko-wanwan"
@@ -194,7 +194,7 @@
   {
     "title": "Chocolateyを使った環境構築の時のメモ",
     "url": "https://qiita.com/konta220/items/95b40b4647a737cb51aa",
-    "likes_count": 614,
+    "likes_count": 615,
     "created_at": "2015-06-18T15:16:42+09:00",
     "updated_at": "2020-11-10T21:33:47+09:00",
     "id": "konta220"
@@ -218,7 +218,7 @@
   {
     "title": "ssh公開鍵認証設定まとめ",
     "url": "https://qiita.com/ir-yk/items/af8550fea92b5c5f7fca",
-    "likes_count": 567,
+    "likes_count": 568,
     "created_at": "2015-06-30T21:40:35+09:00",
     "updated_at": "2019-06-11T11:51:16+09:00",
     "id": "ir-yk"
@@ -346,7 +346,7 @@
   {
     "title": "依存性注入(DI)の解説とやり方",
     "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
-    "likes_count": 397,
+    "likes_count": 398,
     "created_at": "2015-06-21T16:57:46+09:00",
     "updated_at": "2017-11-28T22:04:50+09:00",
     "id": "1000k"
@@ -368,20 +368,20 @@
     "id": "PianoScoreJP"
   },
   {
+    "title": "Railsでdeviseひとつで複数モデルを管理しよう",
+    "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
+    "likes_count": 379,
+    "created_at": "2015-06-27T22:31:44+09:00",
+    "updated_at": "2015-06-27T22:34:35+09:00",
+    "id": "Yama-to"
+  },
+  {
     "title": "PHPで学ぶオブジェクト指向",
     "url": "https://qiita.com/ritukiii/items/a1979c3bcdcea9454d53",
     "likes_count": 379,
     "created_at": "2015-06-30T09:16:53+09:00",
     "updated_at": "2017-05-16T10:35:44+09:00",
     "id": "ritukiii"
-  },
-  {
-    "title": "Railsでdeviseひとつで複数モデルを管理しよう",
-    "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
-    "likes_count": 378,
-    "created_at": "2015-06-27T22:31:44+09:00",
-    "updated_at": "2015-06-27T22:34:35+09:00",
-    "id": "Yama-to"
   },
   {
     "title": "ActiveRecordで生SQLを使いたいときに便利なメソッド達",
@@ -530,7 +530,7 @@
   {
     "title": "Rubyのクラスメソッドとインスタンスメソッドの例",
     "url": "https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07",
-    "likes_count": 266,
+    "likes_count": 267,
     "created_at": "2015-06-30T23:23:51+09:00",
     "updated_at": "2015-06-30T23:23:51+09:00",
     "id": "tbpgr"
