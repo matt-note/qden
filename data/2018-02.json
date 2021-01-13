@@ -2,7 +2,7 @@
   {
     "title": "TypeScriptの型入門",
     "url": "https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a",
-    "likes_count": 3150,
+    "likes_count": 3157,
     "created_at": "2018-02-16T23:41:39+09:00",
     "updated_at": "2020-09-12T12:00:54+09:00",
     "id": "uhyo"
@@ -10,7 +10,7 @@
   {
     "title": "GitHub に AWS キーペアを上げると抜かれるってほんと？？？試してみよー！",
     "url": "https://qiita.com/saitotak/items/813ac6c2057ac64d5fef",
-    "likes_count": 2253,
+    "likes_count": 2255,
     "created_at": "2018-02-24T18:44:32+09:00",
     "updated_at": "2019-04-08T00:25:15+09:00",
     "id": "saitotak"
@@ -18,7 +18,7 @@
   {
     "title": "AtCoder 版！蟻本 (初級編)",
     "url": "https://qiita.com/drken/items/e77685614f3c6bf86f44",
-    "likes_count": 2137,
+    "likes_count": 2138,
     "created_at": "2018-02-20T10:13:31+09:00",
     "updated_at": "2020-10-27T19:58:26+09:00",
     "id": "drken"
@@ -74,7 +74,7 @@
   {
     "title": "【秒速で無料GPUを使う】深層学習実践Tips on Colaboratory",
     "url": "https://qiita.com/tomo_makes/items/b3c60b10f7b25a0a5935",
-    "likes_count": 1526,
+    "likes_count": 1527,
     "created_at": "2018-02-05T23:21:12+09:00",
     "updated_at": "2019-11-16T11:51:28+09:00",
     "id": "tomo_makes"
@@ -82,7 +82,7 @@
   {
     "title": "「お前らのフリーランスになるメリットは間違っている」というお話",
     "url": "https://qiita.com/kazukichi/items/c458aa9e763b9a3eb25b",
-    "likes_count": 1389,
+    "likes_count": 1390,
     "created_at": "2018-02-13T23:47:35+09:00",
     "updated_at": "2020-12-10T11:07:15+09:00",
     "id": "kazukichi"
@@ -122,7 +122,7 @@
   {
     "title": "Prettier 入門 ～ESLintとの違いを理解して併用する～",
     "url": "https://qiita.com/soarflat/items/06377f3b96964964a65d",
-    "likes_count": 1062,
+    "likes_count": 1064,
     "created_at": "2018-02-22T01:46:10+09:00",
     "updated_at": "2021-01-05T01:19:03+09:00",
     "id": "soarflat"
@@ -130,7 +130,7 @@
   {
     "title": "Slack Botの種類と大まかな作り方",
     "url": "https://qiita.com/namutaka/items/233a83100c94af033575",
-    "likes_count": 973,
+    "likes_count": 974,
     "created_at": "2018-02-17T22:05:23+09:00",
     "updated_at": "2019-11-05T10:59:41+09:00",
     "id": "namutaka"
@@ -154,7 +154,7 @@
   {
     "title": "統計検定 1 級に合格する方法",
     "url": "https://qiita.com/drken/items/089b8443305df047b44e",
-    "likes_count": 827,
+    "likes_count": 828,
     "created_at": "2018-02-19T18:01:36+09:00",
     "updated_at": "2020-01-22T16:32:36+09:00",
     "id": "drken"
@@ -218,7 +218,7 @@
   {
     "title": "Pythonでロギングを学ぼう",
     "url": "https://qiita.com/__init__/items/91e5841ed53d55a7895e",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2018-02-25T00:27:59+09:00",
     "updated_at": "2020-03-20T06:19:24+09:00",
     "id": "__init__"
@@ -296,20 +296,20 @@
     "id": "aggre"
   },
   {
-    "title": "AtCoder 版！蟻本 (中級編)",
-    "url": "https://qiita.com/drken/items/2f56925972c1d34e05d8",
-    "likes_count": 394,
-    "created_at": "2018-02-26T08:53:35+09:00",
-    "updated_at": "2020-10-18T14:01:30+09:00",
-    "id": "drken"
-  },
-  {
     "title": "一番簡単（だと個人的には思ってる）なセスぺ(現:情報処理安全確保支援士試験)の取り方",
     "url": "https://qiita.com/ditflame/items/21908ef8fb2f9e35d544",
-    "likes_count": 393,
+    "likes_count": 395,
     "created_at": "2018-02-01T11:13:01+09:00",
     "updated_at": "2020-11-12T19:08:03+09:00",
     "id": "ditflame"
+  },
+  {
+    "title": "AtCoder 版！蟻本 (中級編)",
+    "url": "https://qiita.com/drken/items/2f56925972c1d34e05d8",
+    "likes_count": 395,
+    "created_at": "2018-02-26T08:53:35+09:00",
+    "updated_at": "2020-10-18T14:01:30+09:00",
+    "id": "drken"
   },
   {
     "title": "脳はベイジアンなのに、なぜ正しく確率の計算ができないのか？",
@@ -320,20 +320,20 @@
     "id": "katsu1110"
   },
   {
+    "title": "puppeteerでよく使うであろう処理の書き方",
+    "url": "https://qiita.com/rh_taro/items/32bb6851303cbc613124",
+    "likes_count": 374,
+    "created_at": "2018-02-19T23:57:24+09:00",
+    "updated_at": "2019-01-10T13:47:23+09:00",
+    "id": "rh_taro"
+  },
+  {
     "title": "Python の HTTP クライアントは urllib.request で十分",
     "url": "https://qiita.com/hoto17296/items/8fcf55cc6cd823a18217",
     "likes_count": 374,
     "created_at": "2018-02-28T12:07:33+09:00",
     "updated_at": "2019-12-18T10:29:56+09:00",
     "id": "hoto17296"
-  },
-  {
-    "title": "puppeteerでよく使うであろう処理の書き方",
-    "url": "https://qiita.com/rh_taro/items/32bb6851303cbc613124",
-    "likes_count": 373,
-    "created_at": "2018-02-19T23:57:24+09:00",
-    "updated_at": "2019-01-10T13:47:23+09:00",
-    "id": "rh_taro"
   },
   {
     "title": "Firestore rules tips",
@@ -370,7 +370,7 @@
   {
     "title": "DockerのMySQLコンテナに外部からアクセスする方法まとめ改",
     "url": "https://qiita.com/saken649/items/00e752d89f2a6c5a82f6",
-    "likes_count": 303,
+    "likes_count": 304,
     "created_at": "2018-02-03T01:11:39+09:00",
     "updated_at": "2018-05-27T13:09:24+09:00",
     "id": "saken649"
@@ -418,7 +418,7 @@
   {
     "title": "npm よく使うコマンドまとめ",
     "url": "https://qiita.com/standard-software/items/2ac49a409688733c90e7",
-    "likes_count": 214,
+    "likes_count": 215,
     "created_at": "2018-02-21T16:53:17+09:00",
     "updated_at": "2020-10-13T23:08:43+09:00",
     "id": "standard-software"
@@ -426,7 +426,7 @@
   {
     "title": "バッチファイルでよく使う書き方まとめ",
     "url": "https://qiita.com/sta/items/8cab80fe74b8dcfa5336",
-    "likes_count": 209,
+    "likes_count": 210,
     "created_at": "2018-02-01T19:06:48+09:00",
     "updated_at": "2020-12-06T08:31:04+09:00",
     "id": "sta"

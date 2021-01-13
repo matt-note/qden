@@ -10,7 +10,7 @@
   {
     "title": "jQuery から Vue.js へのステップアップ",
     "url": "https://qiita.com/mio3io/items/e7b2596d06b8005e8e6f",
-    "likes_count": 1907,
+    "likes_count": 1908,
     "created_at": "2017-10-13T09:39:13+09:00",
     "updated_at": "2018-12-14T20:14:40+09:00",
     "id": "mio3io"
@@ -18,7 +18,7 @@
   {
     "title": "フロントエンドチェックリスト（日本語訳）",
     "url": "https://qiita.com/miya0001/items/8fff46c201bf9eaeba4a",
-    "likes_count": 1621,
+    "likes_count": 1622,
     "created_at": "2017-10-23T15:50:24+09:00",
     "updated_at": "2017-11-19T03:50:49+09:00",
     "id": "miya0001"
@@ -34,7 +34,7 @@
   {
     "title": "コンピュータ業界でよく出る英語",
     "url": "https://qiita.com/tfutada/items/d1b17cd4008876c17bf4",
-    "likes_count": 1412,
+    "likes_count": 1413,
     "created_at": "2017-10-23T08:57:52+09:00",
     "updated_at": "2020-03-04T20:16:51+09:00",
     "id": "tfutada"
@@ -130,7 +130,7 @@
   {
     "title": "Visual Studio Code キーボード ショートカット",
     "url": "https://qiita.com/oruponu/items/ae9c720d4522c1606daf",
-    "likes_count": 515,
+    "likes_count": 516,
     "created_at": "2017-10-13T20:40:20+09:00",
     "updated_at": "2020-12-01T02:00:17+09:00",
     "id": "oruponu"
@@ -138,7 +138,7 @@
   {
     "title": "要素の取得方法まとめ",
     "url": "https://qiita.com/amamamaou/items/25e8b4e1b41c8d3211f4",
-    "likes_count": 493,
+    "likes_count": 495,
     "created_at": "2017-10-27T16:44:49+09:00",
     "updated_at": "2020-07-14T11:18:37+09:00",
     "id": "amamamaou"
@@ -202,7 +202,7 @@
   {
     "title": "GithubでのWeb上からのマージの仕方3種とその使いどころ",
     "url": "https://qiita.com/ko-he-8/items/94e872f2154829c868df",
-    "likes_count": 405,
+    "likes_count": 408,
     "created_at": "2017-10-11T13:22:58+09:00",
     "updated_at": "2019-02-19T08:08:27+09:00",
     "id": "ko-he-8"
@@ -210,10 +210,18 @@
   {
     "title": "Linuxのプロセス間通信",
     "url": "https://qiita.com/MoriokaReimen/items/5c4256ef620499a88bb3",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2017-10-07T20:21:25+09:00",
     "updated_at": "2020-10-10T11:39:31+09:00",
     "id": "MoriokaReimen"
+  },
+  {
+    "title": "OpenID Connect 全フロー解説",
+    "url": "https://qiita.com/TakahikoKawasaki/items/4ee9b55db9f7ef352b47",
+    "likes_count": 383,
+    "created_at": "2017-10-15T04:31:04+09:00",
+    "updated_at": "2020-03-20T15:04:00+09:00",
+    "id": "TakahikoKawasaki"
   },
   {
     "title": "Cloud FirestoreのSubCollectionとQueryっていつ使うの問題",
@@ -224,17 +232,9 @@
     "id": "1amageek"
   },
   {
-    "title": "OpenID Connect 全フロー解説",
-    "url": "https://qiita.com/TakahikoKawasaki/items/4ee9b55db9f7ef352b47",
-    "likes_count": 382,
-    "created_at": "2017-10-15T04:31:04+09:00",
-    "updated_at": "2020-03-20T15:04:00+09:00",
-    "id": "TakahikoKawasaki"
-  },
-  {
     "title": "Node.jsでウェブスクレイピングする色々な方法",
     "url": "https://qiita.com/ledsun/items/0965a60f9bdff04f2fa0",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2017-10-06T17:19:09+09:00",
     "updated_at": "2019-07-14T19:32:47+09:00",
     "id": "ledsun"
@@ -258,7 +258,7 @@
   {
     "title": "テスト自動化について、調べてみた",
     "url": "https://qiita.com/yutachaos/items/857472c7d3c65d3cf316",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2017-10-09T14:38:23+09:00",
     "updated_at": "2021-01-06T16:15:51+09:00",
     "id": "yutachaos"
@@ -296,20 +296,20 @@
     "id": "rawr"
   },
   {
+    "title": "Swift の HTTP ライブラリで苦しまないための自作 API クライアント設計",
+    "url": "https://qiita.com/Kuniwak/items/a972ff2ade643799d1fe",
+    "likes_count": 321,
+    "created_at": "2017-10-23T00:51:59+09:00",
+    "updated_at": "2018-08-24T18:36:33+09:00",
+    "id": "Kuniwak"
+  },
+  {
     "title": "Dockerfileはなぜ複雑になるのか",
     "url": "https://qiita.com/port-development/items/8ab04aee45dc7f5f96ab",
     "likes_count": 321,
     "created_at": "2017-10-25T14:23:30+09:00",
     "updated_at": "2017-11-09T11:37:57+09:00",
     "id": "port-development"
-  },
-  {
-    "title": "Swift の HTTP ライブラリで苦しまないための自作 API クライアント設計",
-    "url": "https://qiita.com/Kuniwak/items/a972ff2ade643799d1fe",
-    "likes_count": 320,
-    "created_at": "2017-10-23T00:51:59+09:00",
-    "updated_at": "2018-08-24T18:36:33+09:00",
-    "id": "Kuniwak"
   },
   {
     "title": "Visual Studio Code + Markdown Preview Enhancedはチームでデファクト化したいMarkdown環境だ！、と思う\b(2017/10月時点)",
@@ -338,7 +338,7 @@
   {
     "title": "SQLの基本を覚える【初心者向け】",
     "url": "https://qiita.com/chida09/items/d4b33a28b918958f267f",
-    "likes_count": 292,
+    "likes_count": 293,
     "created_at": "2017-10-31T23:38:42+09:00",
     "updated_at": "2017-11-01T22:32:12+09:00",
     "id": "chida09"
@@ -362,7 +362,7 @@
   {
     "title": "Windows Subsystem for Linux + X Windowを1.024倍くらい使いこなすための方法",
     "url": "https://qiita.com/nishemon/items/bb3aca972404f68bfcd6",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2017-10-12T22:54:15+09:00",
     "updated_at": "2020-09-03T01:48:18+09:00",
     "id": "nishemon"
