@@ -10,7 +10,7 @@
   {
     "title": "Git・GitHubに隠された便利な機能 | GitHub Cheat Sheet（日本語訳）",
     "url": "https://qiita.com/unbabel/items/1cf05f2a2be3d6fb3388",
-    "likes_count": 2148,
+    "likes_count": 2147,
     "created_at": "2014-04-20T17:03:27+09:00",
     "updated_at": "2017-11-09T09:42:27+09:00",
     "id": "unbabel"
@@ -50,7 +50,7 @@
   {
     "title": "再考: GoF デザインパターン",
     "url": "https://qiita.com/irxground/items/d1f9cc447bafa8db2388",
-    "likes_count": 1232,
+    "likes_count": 1231,
     "created_at": "2014-04-10T19:56:48+09:00",
     "updated_at": "2015-10-26T15:18:12+09:00",
     "id": "irxground"
@@ -66,7 +66,7 @@
   {
     "title": "JavaScriptのスタイルガイドまとめ(おすすめ4選)",
     "url": "https://qiita.com/takeharu/items/dee0972e5f39bfd4d7c8",
-    "likes_count": 892,
+    "likes_count": 891,
     "created_at": "2014-04-07T07:13:13+09:00",
     "updated_at": "2017-11-29T22:26:52+09:00",
     "id": "takeharu"
@@ -242,7 +242,7 @@
   {
     "title": "デザインパターンの話",
     "url": "https://qiita.com/magicant/items/64685c41fdb85d03c33b",
-    "likes_count": 435,
+    "likes_count": 434,
     "created_at": "2014-04-11T01:41:40+09:00",
     "updated_at": "2014-04-11T07:00:51+09:00",
     "id": "magicant"
@@ -314,7 +314,7 @@
   {
     "title": "Gitで部分的にコミットする方法",
     "url": "https://qiita.com/miyohide/items/79ab0ff3b3852289a6be",
-    "likes_count": 364,
+    "likes_count": 365,
     "created_at": "2014-04-18T22:55:27+09:00",
     "updated_at": "2015-07-07T22:58:53+09:00",
     "id": "miyohide"
@@ -326,6 +326,14 @@
     "created_at": "2014-04-25T13:32:11+09:00",
     "updated_at": "2014-04-25T13:32:11+09:00",
     "id": "supertaihei02"
+  },
+  {
+    "title": "githubでライセンスを設定する",
+    "url": "https://qiita.com/shibukk/items/67ad0a5eda5a94e5c032",
+    "likes_count": 349,
+    "created_at": "2014-04-13T19:03:24+09:00",
+    "updated_at": "2015-08-05T02:46:17+09:00",
+    "id": "shibukk"
   },
   {
     "title": "Railsのセキュリティ対策で調べた事",
@@ -342,14 +350,6 @@
     "created_at": "2014-04-29T13:34:55+09:00",
     "updated_at": "2018-07-14T14:04:23+09:00",
     "id": "yubessy"
-  },
-  {
-    "title": "githubでライセンスを設定する",
-    "url": "https://qiita.com/shibukk/items/67ad0a5eda5a94e5c032",
-    "likes_count": 348,
-    "created_at": "2014-04-13T19:03:24+09:00",
-    "updated_at": "2015-08-05T02:46:17+09:00",
-    "id": "shibukk"
   },
   {
     "title": "Vimをメモ帳程度に使うために覚えておくべきコマンド",
@@ -384,20 +384,20 @@
     "id": "hoshi-takanori"
   },
   {
+    "title": "Makefile ことはじめ",
+    "url": "https://qiita.com/kasei-san/items/ad25df63260e86c5cc71",
+    "likes_count": 302,
+    "created_at": "2014-04-15T09:52:08+09:00",
+    "updated_at": "2015-01-22T12:37:28+09:00",
+    "id": "kasei-san"
+  },
+  {
     "title": "Vagrant入門から実践まで",
     "url": "https://qiita.com/daichi87gi/items/d5da33c76295ee32a735",
     "likes_count": 302,
     "created_at": "2014-04-30T20:28:17+09:00",
     "updated_at": "2019-12-31T15:56:12+09:00",
     "id": "daichi87gi"
-  },
-  {
-    "title": "Makefile ことはじめ",
-    "url": "https://qiita.com/kasei-san/items/ad25df63260e86c5cc71",
-    "likes_count": 301,
-    "created_at": "2014-04-15T09:52:08+09:00",
-    "updated_at": "2015-01-22T12:37:28+09:00",
-    "id": "kasei-san"
   },
   {
     "title": "git 管理をやめる",

@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3222,
+    "likes_count": 3226,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2492,
+    "likes_count": 2491,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2019-01-20T22:22:44+09:00",
     "id": "piroor"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 1982,
+    "likes_count": 1983,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -64,20 +64,20 @@
     "id": "soarflat"
   },
   {
+    "title": "Python Webスクレイピング 実践入門",
+    "url": "https://qiita.com/Azunyan1111/items/9b3d16428d2bcc7c9406",
+    "likes_count": 1296,
+    "created_at": "2016-12-02T00:04:15+09:00",
+    "updated_at": "2020-03-28T00:14:20+09:00",
+    "id": "Azunyan1111"
+  },
+  {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
     "likes_count": 1296,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
-  },
-  {
-    "title": "Python Webスクレイピング 実践入門",
-    "url": "https://qiita.com/Azunyan1111/items/9b3d16428d2bcc7c9406",
-    "likes_count": 1295,
-    "created_at": "2016-12-02T00:04:15+09:00",
-    "updated_at": "2020-03-28T00:14:20+09:00",
-    "id": "Azunyan1111"
   },
   {
     "title": "次世代監視の大本命！ Prometheus を実運用してみた",
@@ -88,20 +88,20 @@
     "id": "sugitak"
   },
   {
+    "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
+    "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
+    "likes_count": 1070,
+    "created_at": "2016-12-28T10:13:50+09:00",
+    "updated_at": "2016-12-29T00:03:57+09:00",
+    "id": "kunihirotanaka"
+  },
+  {
     "title": "イケイケなベンチャーの開発チームが、大企業的な開発チームになってしまう5つの兆候",
     "url": "https://qiita.com/tsuyok/items/116d9076e6149d9c7bbc",
     "likes_count": 1069,
     "created_at": "2016-12-18T00:01:45+09:00",
     "updated_at": "2016-12-20T17:18:30+09:00",
     "id": "tsuyok"
-  },
-  {
-    "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
-    "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1069,
-    "created_at": "2016-12-28T10:13:50+09:00",
-    "updated_at": "2016-12-29T00:03:57+09:00",
-    "id": "kunihirotanaka"
   },
   {
     "title": "初心者がchainerで線画着色してみた。わりとできた。",
@@ -162,7 +162,7 @@
   {
     "title": "そろそろプログラマーもFPGAを触ってみよう！",
     "url": "https://qiita.com/kazunori279/items/a9e97a4463cab7dda8b9",
-    "likes_count": 801,
+    "likes_count": 802,
     "created_at": "2016-12-02T16:49:15+09:00",
     "updated_at": "2016-12-16T06:38:35+09:00",
     "id": "kazunori279"
@@ -178,7 +178,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 740,
+    "likes_count": 741,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -226,7 +226,7 @@
   {
     "title": "良いエンジニアを採用するための方法論",
     "url": "https://qiita.com/dorarep/items/b9f7f6ff6e1bc344cf0a",
-    "likes_count": 655,
+    "likes_count": 656,
     "created_at": "2016-12-05T14:14:10+09:00",
     "updated_at": "2020-08-05T22:57:31+09:00",
     "id": "dorarep"
@@ -250,7 +250,7 @@
   {
     "title": "ようこそ！Electron入門",
     "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
-    "likes_count": 614,
+    "likes_count": 615,
     "created_at": "2016-12-28T14:02:01+09:00",
     "updated_at": "2019-11-22T19:57:05+09:00",
     "id": "umamichi"
@@ -272,20 +272,20 @@
     "id": "morishitter"
   },
   {
+    "title": "電気工事士の資格を取ってコンセントやスイッチを改造しようぜ",
+    "url": "https://qiita.com/rukihena/items/a30f07f93ca1718dff8e",
+    "likes_count": 592,
+    "created_at": "2016-12-03T01:44:10+09:00",
+    "updated_at": "2020-01-14T17:40:54+09:00",
+    "id": "rukihena"
+  },
+  {
     "title": "curlコマンドでapiを叩く",
     "url": "https://qiita.com/buntafujikawa/items/758425773b2239feb9a7",
     "likes_count": 592,
     "created_at": "2016-12-26T23:43:49+09:00",
     "updated_at": "2020-09-19T11:01:47+09:00",
     "id": "buntafujikawa"
-  },
-  {
-    "title": "電気工事士の資格を取ってコンセントやスイッチを改造しようぜ",
-    "url": "https://qiita.com/rukihena/items/a30f07f93ca1718dff8e",
-    "likes_count": 591,
-    "created_at": "2016-12-03T01:44:10+09:00",
-    "updated_at": "2020-01-14T17:40:54+09:00",
-    "id": "rukihena"
   },
   {
     "title": "原理原則で理解するDocker",
@@ -330,7 +330,7 @@
   {
     "title": "シェルスクリプトの罠を避ける三つの tips",
     "url": "https://qiita.com/magicant/items/f3554274ee500bddaca8",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2016-12-08T00:03:10+09:00",
     "updated_at": "2016-12-08T13:58:34+09:00",
     "id": "magicant"
@@ -506,7 +506,7 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
@@ -554,7 +554,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -610,7 +610,7 @@
   {
     "title": "JavaScriptの非同期処理を並列処理と勘違いしていませんか？",
     "url": "https://qiita.com/klme_u6/items/ea155f82cbe44d6f5d88",
-    "likes_count": 340,
+    "likes_count": 341,
     "created_at": "2016-12-26T11:30:00+09:00",
     "updated_at": "2019-03-20T15:38:31+09:00",
     "id": "klme_u6"
@@ -754,7 +754,7 @@
   {
     "title": "laravel-adminで管理画面を速攻で構築する。",
     "url": "https://qiita.com/pikonori/items/a04066010e7380b3ee38",
-    "likes_count": 240,
+    "likes_count": 241,
     "created_at": "2016-12-01T11:54:15+09:00",
     "updated_at": "2016-12-01T16:46:14+09:00",
     "id": "pikonori"
@@ -762,7 +762,7 @@
   {
     "title": "未経験からエンジニアとして働くようになるまでにやったこと、思ったこと",
     "url": "https://qiita.com/suy0n9/items/d1bfbd823d8b6dc562be",
-    "likes_count": 219,
+    "likes_count": 220,
     "created_at": "2016-12-13T12:38:02+09:00",
     "updated_at": "2017-02-17T10:28:03+09:00",
     "id": "suy0n9"

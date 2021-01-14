@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1449,
+    "likes_count": 1450,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -34,7 +34,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1435,
+    "likes_count": 1438,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -42,7 +42,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1405,
+    "likes_count": 1406,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -74,7 +74,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1122,
+    "likes_count": 1126,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -82,7 +82,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1021,
+    "likes_count": 1023,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2018-12-07T01:00:36+09:00",
     "id": "diescake"
@@ -90,7 +90,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1019,
+    "likes_count": 1020,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -120,6 +120,14 @@
     "id": "koshian2"
   },
   {
+    "title": "Pipenvを使ったPython開発まとめ",
+    "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
+    "likes_count": 947,
+    "created_at": "2018-12-13T23:43:04+09:00",
+    "updated_at": "2020-09-12T16:11:22+09:00",
+    "id": "y-tsutsu"
+  },
+  {
     "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
     "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
     "likes_count": 945,
@@ -134,14 +142,6 @@
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
-  },
-  {
-    "title": "Pipenvを使ったPython開発まとめ",
-    "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 944,
-    "created_at": "2018-12-13T23:43:04+09:00",
-    "updated_at": "2020-09-12T16:11:22+09:00",
-    "id": "y-tsutsu"
   },
   {
     "title": "【危険シェル芸】禁じられた闇の魔術とその防衛術💥",
@@ -178,7 +178,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 869,
+    "likes_count": 871,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -248,20 +248,20 @@
     "id": "potato4d"
   },
   {
+    "title": "2018年これだけは知っておきたいiOSライブラリ31選",
+    "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
+    "likes_count": 656,
+    "created_at": "2018-12-12T19:17:50+09:00",
+    "updated_at": "2019-03-18T13:42:44+09:00",
+    "id": "kohei1218"
+  },
+  {
     "title": "個人アプリ開発を支える技術と開発フロー",
     "url": "https://qiita.com/tattn/items/f1ad65d9d29c9d8b154d",
     "likes_count": 655,
     "created_at": "2018-12-09T21:16:53+09:00",
     "updated_at": "2018-12-17T18:00:42+09:00",
     "id": "tattn"
-  },
-  {
-    "title": "2018年これだけは知っておきたいiOSライブラリ31選",
-    "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
-    "likes_count": 655,
-    "created_at": "2018-12-12T19:17:50+09:00",
-    "updated_at": "2019-03-18T13:42:44+09:00",
-    "id": "kohei1218"
   },
   {
     "title": "エンジニアにも役に立つ、MBAで学んだ基礎スキル 20選",
@@ -290,7 +290,7 @@
   {
     "title": "プログラミングスクールでゴミを週2で2ヶ月間、作り続けて気づいたこと",
     "url": "https://qiita.com/guru_taka/items/938eeae2258e7f1f1d25",
-    "likes_count": 599,
+    "likes_count": 598,
     "created_at": "2018-12-28T21:00:17+09:00",
     "updated_at": "2018-12-28T21:00:17+09:00",
     "id": "guru_taka"
@@ -314,7 +314,7 @@
   {
     "title": "Githubでissue管理して開発しよう",
     "url": "https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2018-12-24T14:56:03+09:00",
     "updated_at": "2020-11-18T15:03:21+09:00",
     "id": "fukubaka0825"
@@ -370,7 +370,7 @@
   {
     "title": "その機械学習プロセス、自動化できませんか？",
     "url": "https://qiita.com/Hironsan/items/30fe09c85da8a28ebd63",
-    "likes_count": 463,
+    "likes_count": 464,
     "created_at": "2018-12-03T22:32:16+09:00",
     "updated_at": "2018-12-05T10:36:47+09:00",
     "id": "Hironsan"
@@ -552,20 +552,20 @@
     "id": "tsin1rou"
   },
   {
+    "title": "特徴量選択のまとめ",
+    "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
+    "likes_count": 332,
+    "created_at": "2018-12-16T21:03:51+09:00",
+    "updated_at": "2020-07-08T19:11:14+09:00",
+    "id": "shimopino"
+  },
+  {
     "title": "月数100万アクセスをDB使わず超簡単にさばく",
     "url": "https://qiita.com/Hisashi_vc/items/a50b49ad6a75d51c880a",
     "likes_count": 332,
     "created_at": "2018-12-17T13:37:31+09:00",
     "updated_at": "2018-12-17T13:37:31+09:00",
     "id": "Hisashi_vc"
-  },
-  {
-    "title": "特徴量選択のまとめ",
-    "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 331,
-    "created_at": "2018-12-16T21:03:51+09:00",
-    "updated_at": "2020-07-08T19:11:14+09:00",
-    "id": "shimopino"
   },
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
@@ -578,7 +578,7 @@
   {
     "title": "ドメイン駆動設計を勉強するときのオススメ資料",
     "url": "https://qiita.com/dora56/items/db8495fac3fbc6cd2569",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2018-12-08T23:10:00+09:00",
     "updated_at": "2019-06-12T16:42:02+09:00",
     "id": "dora56"
@@ -592,20 +592,20 @@
     "id": "jiny2001"
   },
   {
+    "title": "Flutterで1年間開発して利用した使えるライブラリ",
+    "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
+    "likes_count": 306,
+    "created_at": "2018-12-21T19:15:21+09:00",
+    "updated_at": "2019-07-30T14:29:43+09:00",
+    "id": "ko2ic"
+  },
+  {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
     "likes_count": 303,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
-  },
-  {
-    "title": "Flutterで1年間開発して利用した使えるライブラリ",
-    "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
-    "likes_count": 303,
-    "created_at": "2018-12-21T19:15:21+09:00",
-    "updated_at": "2019-07-30T14:29:43+09:00",
-    "id": "ko2ic"
   },
   {
     "title": "まだPowerPointで消耗してるの？",

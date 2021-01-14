@@ -2,7 +2,7 @@
   {
     "title": "2020年のフロントエンドマスターになりたければこの9プロジェクトを作れ",
     "url": "https://qiita.com/rana_kualu/items/915345b8f3f870cfe2aa",
-    "likes_count": 3379,
+    "likes_count": 3381,
     "created_at": "2019-11-11T20:54:20+09:00",
     "updated_at": "2019-11-20T21:12:23+09:00",
     "id": "rana_kualu"
@@ -58,7 +58,7 @@
   {
     "title": "【保存版】Webフロントエンド基礎力（初心者向け）",
     "url": "https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9",
-    "likes_count": 1738,
+    "likes_count": 1739,
     "created_at": "2019-11-05T08:41:27+09:00",
     "updated_at": "2020-03-15T22:12:44+09:00",
     "id": "teradonburi"
@@ -106,7 +106,7 @@
   {
     "title": "Python中級者への道しるべ",
     "url": "https://qiita.com/papi_tokei/items/2aef9a259fd236d340da",
-    "likes_count": 1099,
+    "likes_count": 1112,
     "created_at": "2019-11-03T14:27:08+09:00",
     "updated_at": "2019-11-07T00:19:10+09:00",
     "id": "papi_tokei"
@@ -146,7 +146,7 @@
   {
     "title": "設計要件をギッチギチに詰めたValueObjectで低凝集クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/5e69d9bd028aa350e2c4",
-    "likes_count": 968,
+    "likes_count": 969,
     "created_at": "2019-11-05T07:38:26+09:00",
     "updated_at": "2019-11-10T12:55:59+09:00",
     "id": "MinoDriven"
@@ -250,7 +250,7 @@
   {
     "title": "どこよりもわかりやすいiOS最強課金まとめ",
     "url": "https://qiita.com/Masataka-n/items/6f98a5a9fee7b28ccd1f",
-    "likes_count": 580,
+    "likes_count": 581,
     "created_at": "2019-11-19T12:52:05+09:00",
     "updated_at": "2020-11-19T17:08:29+09:00",
     "id": "Masataka-n"
@@ -290,7 +290,7 @@
   {
     "title": "RDBの限界とNoSQLの登場",
     "url": "https://qiita.com/1amageek/items/3dbbc3112493a73880d0",
-    "likes_count": 499,
+    "likes_count": 500,
     "created_at": "2019-11-11T21:55:56+09:00",
     "updated_at": "2019-11-14T13:25:42+09:00",
     "id": "1amageek"
@@ -298,7 +298,7 @@
   {
     "title": "Nuxt.jsに飛びつく前に~Nuxt.jsを習得するための前提技術と、その勉強方法の紹介~",
     "url": "https://qiita.com/newt0/items/763b0c228a8451c68865",
-    "likes_count": 491,
+    "likes_count": 492,
     "created_at": "2019-11-26T01:23:49+09:00",
     "updated_at": "2021-01-05T13:28:52+09:00",
     "id": "newt0"
@@ -322,10 +322,18 @@
   {
     "title": "テストで個人的によく使うツール7選",
     "url": "https://qiita.com/tsuemura/items/c16090a060bf504039cb",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2019-11-30T22:26:46+09:00",
     "updated_at": "2019-12-01T07:00:36+09:00",
     "id": "tsuemura"
+  },
+  {
+    "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
+    "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
+    "likes_count": 461,
+    "created_at": "2019-11-21T16:30:57+09:00",
+    "updated_at": "2020-10-14T00:17:51+09:00",
+    "id": "ryokkkke"
   },
   {
     "title": "令和時代のPython作図ライブラリのデファクトスタンダードPlotlyExpressの基本的な描き方まとめ",
@@ -334,14 +342,6 @@
     "created_at": "2019-11-04T00:15:43+09:00",
     "updated_at": "2019-11-05T11:31:26+09:00",
     "id": "hanon"
-  },
-  {
-    "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
-    "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 458,
-    "created_at": "2019-11-21T16:30:57+09:00",
-    "updated_at": "2020-10-14T00:17:51+09:00",
-    "id": "ryokkkke"
   },
   {
     "title": "【検証】ディープラーニングがあるからといって、競馬で回収率100%を簡単に超えられるわけではない",
@@ -418,7 +418,7 @@
   {
     "title": "ゲームボーイのエミュレータをGoで作った話",
     "url": "https://qiita.com/Akatsuki_py/items/3a8ddef98343e805b8c1",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2019-11-11T21:58:10+09:00",
     "updated_at": "2020-01-24T09:02:23+09:00",
     "id": "Akatsuki_py"
@@ -442,7 +442,7 @@
   {
     "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
     "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
-    "likes_count": 329,
+    "likes_count": 331,
     "created_at": "2019-11-15T22:47:51+09:00",
     "updated_at": "2020-03-09T11:53:54+09:00",
     "id": "ramuneru"
@@ -506,7 +506,7 @@
   {
     "title": "10分で理解する Selenium",
     "url": "https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a",
-    "likes_count": 272,
+    "likes_count": 273,
     "created_at": "2019-11-30T01:26:15+09:00",
     "updated_at": "2019-12-01T01:08:28+09:00",
     "id": "Chanmoro"
