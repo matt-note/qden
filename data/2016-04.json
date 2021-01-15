@@ -2,7 +2,7 @@
   {
     "title": "もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った",
     "url": "https://qiita.com/hirokidaichi/items/ff54a968bdd7bcc50d42",
-    "likes_count": 4810,
+    "likes_count": 4811,
     "created_at": "2016-04-02T18:21:53+09:00",
     "updated_at": "2018-12-26T00:03:58+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "iOS ヒューマンインターフェースの原則",
     "url": "https://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38",
-    "likes_count": 1620,
+    "likes_count": 1621,
     "created_at": "2016-04-03T05:27:56+09:00",
     "updated_at": "2019-03-01T04:21:27+09:00",
     "id": "usagimaru"
@@ -162,7 +162,7 @@
   {
     "title": "Promiseについて0から勉強してみた",
     "url": "https://qiita.com/toshihirock/items/e49b66f8685a8510bd76",
-    "likes_count": 770,
+    "likes_count": 771,
     "created_at": "2016-04-10T07:32:44+09:00",
     "updated_at": "2016-04-17T15:28:26+09:00",
     "id": "toshihirock"
@@ -258,7 +258,7 @@
   {
     "title": "Thymeleafチートシート",
     "url": "https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482",
-    "likes_count": 564,
+    "likes_count": 565,
     "created_at": "2016-04-18T07:25:38+09:00",
     "updated_at": "2018-04-23T18:05:39+09:00",
     "id": "NagaokaKenichi"
@@ -266,7 +266,7 @@
   {
     "title": "SSL/TLS（SSL3.0～TLS1.2）のハンドシェイクを復習する",
     "url": "https://qiita.com/n-i-e/items/41673fd16d7bd1189a29",
-    "likes_count": 487,
+    "likes_count": 488,
     "created_at": "2016-04-12T00:17:03+09:00",
     "updated_at": "2018-09-03T18:51:40+09:00",
     "id": "n-i-e"
@@ -274,7 +274,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-01-11T11:46:22+09:00",
     "id": "dai-takahashi"
@@ -290,7 +290,7 @@
   {
     "title": "Linux screenコマンド使い方",
     "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2016-04-06T08:44:32+09:00",
     "updated_at": "2019-12-25T19:10:52+09:00",
     "id": "hnishi"
@@ -330,7 +330,7 @@
   {
     "title": "ttyとかptsとかについて確認してみる",
     "url": "https://qiita.com/toshihirock/items/22de12f99b5c40365369",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2016-04-28T22:23:17+09:00",
     "updated_at": "2016-04-28T22:23:17+09:00",
     "id": "toshihirock"
@@ -338,7 +338,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -354,7 +354,7 @@
   {
     "title": "IntelliJ IDEA 入門",
     "url": "https://qiita.com/opengl-8080/items/108102d692b49f804dbd",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2016-04-07T00:13:00+09:00",
     "updated_at": "2018-04-02T23:29:26+09:00",
     "id": "opengl-8080"
@@ -424,20 +424,20 @@
     "id": "tonkotsuboy_com"
   },
   {
+    "title": "XGBoostの主な特徴と理論の概要",
+    "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
+    "likes_count": 366,
+    "created_at": "2016-04-02T21:19:46+09:00",
+    "updated_at": "2016-04-02T22:05:31+09:00",
+    "id": "yh0sh"
+  },
+  {
     "title": "新人さんにより良いコミットメッセージを書いてもらうための対話式スクリプト",
     "url": "https://qiita.com/smd8122/items/1dd077cb4d7757c5326c",
     "likes_count": 366,
     "created_at": "2016-04-04T12:34:01+09:00",
     "updated_at": "2017-01-23T11:02:49+09:00",
     "id": "smd8122"
-  },
-  {
-    "title": "XGBoostの主な特徴と理論の概要",
-    "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
-    "likes_count": 365,
-    "created_at": "2016-04-02T21:19:46+09:00",
-    "updated_at": "2016-04-02T22:05:31+09:00",
-    "id": "yh0sh"
   },
   {
     "title": "LINE Bot を AWSを使ってシステム構築してみた。",
@@ -448,20 +448,20 @@
     "id": "hiyuzawa"
   },
   {
+    "title": "変更履歴を持つテーブルの設計",
+    "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
+    "likes_count": 360,
+    "created_at": "2016-04-05T14:44:41+09:00",
+    "updated_at": "2018-02-09T12:13:08+09:00",
+    "id": "ak-ymst"
+  },
+  {
     "title": "ファイルディスクリプタについて理解する",
     "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
     "likes_count": 360,
     "created_at": "2016-04-22T22:51:58+09:00",
     "updated_at": "2016-04-22T22:51:58+09:00",
     "id": "toshihirock"
-  },
-  {
-    "title": "変更履歴を持つテーブルの設計",
-    "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
-    "likes_count": 359,
-    "created_at": "2016-04-05T14:44:41+09:00",
-    "updated_at": "2018-02-09T12:13:08+09:00",
-    "id": "ak-ymst"
   },
   {
     "title": "インフラエンジニアの自分が買ってよかったと思う書籍10選",
@@ -528,20 +528,20 @@
     "id": "tonkotsuboy_com"
   },
   {
+    "title": "ローカルのプロジェクトをGitHubへアップロードする方法",
+    "url": "https://qiita.com/devzip8/items/28ac253ea295ad6c2b73",
+    "likes_count": 326,
+    "created_at": "2016-04-17T22:26:07+09:00",
+    "updated_at": "2016-04-18T23:50:18+09:00",
+    "id": "devzip8"
+  },
+  {
     "title": "JavaScript の原理：クロージャの真実",
     "url": "https://qiita.com/takuya0301/items/278f1d9507c28a251735",
     "likes_count": 326,
     "created_at": "2016-04-19T04:56:13+09:00",
     "updated_at": "2016-04-20T22:21:42+09:00",
     "id": "takuya0301"
-  },
-  {
-    "title": "ローカルのプロジェクトをGitHubへアップロードする方法",
-    "url": "https://qiita.com/devzip8/items/28ac253ea295ad6c2b73",
-    "likes_count": 325,
-    "created_at": "2016-04-17T22:26:07+09:00",
-    "updated_at": "2016-04-18T23:50:18+09:00",
-    "id": "devzip8"
   },
   {
     "title": "オンラインでプログラミングして実行できるサイト",
@@ -562,7 +562,7 @@
   {
     "title": "【シェル芸人への道】Bash on Windowsを探検する",
     "url": "https://qiita.com/t_nakayama0714/items/9d7cfc5029a9b2ea423d",
-    "likes_count": 307,
+    "likes_count": 306,
     "created_at": "2016-04-26T04:53:54+09:00",
     "updated_at": "2020-01-20T21:45:31+09:00",
     "id": "t_nakayama0714"

@@ -2,7 +2,7 @@
   {
     "title": "async/await 入門（JavaScript）",
     "url": "https://qiita.com/soarflat/items/1a9613e023200bbebcb3",
-    "likes_count": 2448,
+    "likes_count": 2450,
     "created_at": "2017-08-03T14:25:22+09:00",
     "updated_at": "2021-01-05T01:19:29+09:00",
     "id": "soarflat"
@@ -18,7 +18,7 @@
   {
     "title": "VS Code の便利なショートカットキー",
     "url": "https://qiita.com/12345/items/64f4372fbca041e949d0",
-    "likes_count": 2299,
+    "likes_count": 2301,
     "created_at": "2017-08-13T07:04:56+09:00",
     "updated_at": "2019-10-16T12:23:28+09:00",
     "id": "12345"
@@ -26,7 +26,7 @@
   {
     "title": "優秀な技術者を追い出してしまう方法",
     "url": "https://qiita.com/nonbiri15/items/961543c6460432289a02",
-    "likes_count": 1786,
+    "likes_count": 1785,
     "created_at": "2017-08-12T14:31:39+09:00",
     "updated_at": "2018-10-25T01:27:25+09:00",
     "id": "nonbiri15"
@@ -50,7 +50,7 @@
   {
     "title": "一番詳しいCSS設計規則BEMのマニュアル",
     "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
-    "likes_count": 1258,
+    "likes_count": 1262,
     "created_at": "2017-08-30T20:48:41+09:00",
     "updated_at": "2019-07-16T17:00:50+09:00",
     "id": "Takuan_Oishii"
@@ -58,7 +58,7 @@
   {
     "title": "<script> タグに async / defer を付けた場合のタイミング",
     "url": "https://qiita.com/phanect/items/82c85ea4b8f9c373d684",
-    "likes_count": 1160,
+    "likes_count": 1161,
     "created_at": "2017-08-05T21:05:47+09:00",
     "updated_at": "2019-02-23T10:01:33+09:00",
     "id": "phanect"
@@ -66,7 +66,7 @@
   {
     "title": "Swaggerの概要をまとめてみた。",
     "url": "https://qiita.com/gcyata/items/342073fa7607fd4082bd",
-    "likes_count": 1017,
+    "likes_count": 1018,
     "created_at": "2017-08-25T18:03:53+09:00",
     "updated_at": "2018-02-17T23:09:25+09:00",
     "id": "gcyata"
@@ -122,7 +122,7 @@
   {
     "title": "Docker コマンドチートシート",
     "url": "https://qiita.com/wMETAw/items/34ba5c980e2a38e548db",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2017-08-27T11:39:22+09:00",
     "updated_at": "2018-10-13T13:58:48+09:00",
     "id": "wMETAw"
@@ -138,7 +138,7 @@
   {
     "title": "AWS 認定 Associate level を大体一ヶ月で取った話",
     "url": "https://qiita.com/yutachaos/items/2b0b8d9bfe76a597953c",
-    "likes_count": 468,
+    "likes_count": 467,
     "created_at": "2017-08-24T13:08:02+09:00",
     "updated_at": "2019-05-09T14:46:08+09:00",
     "id": "yutachaos"
@@ -146,7 +146,7 @@
   {
     "title": "Spring Boot で Thymeleaf 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/eb3bf3b5301bae398cc2",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2017-08-14T16:09:59+09:00",
     "updated_at": "2017-08-14T16:09:59+09:00",
     "id": "opengl-8080"
@@ -162,7 +162,7 @@
   {
     "title": "Pythonを速くしたいときにやったこと",
     "url": "https://qiita.com/shaka/items/f180ae4dc945dc7b9066",
-    "likes_count": 407,
+    "likes_count": 408,
     "created_at": "2017-08-08T23:28:35+09:00",
     "updated_at": "2020-10-17T21:08:21+09:00",
     "id": "shaka"
@@ -186,7 +186,7 @@
   {
     "title": "Capybaraチートシート",
     "url": "https://qiita.com/morrr/items/0e24251c049180218db4",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2017-08-20T01:45:12+09:00",
     "updated_at": "2017-08-20T01:45:12+09:00",
     "id": "morrr"
@@ -234,10 +234,18 @@
   {
     "title": "フレームワークとライブラリの違い",
     "url": "https://qiita.com/azuki8/items/ad7710fdefaedc63e3f7",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2017-08-30T21:48:08+09:00",
     "updated_at": "2020-06-03T13:28:03+09:00",
     "id": "azuki8"
+  },
+  {
+    "title": "Docker + Rails + Puma + Nginx + MySQL",
+    "url": "https://qiita.com/eighty8/items/0288ab9c127ddb683315",
+    "likes_count": 281,
+    "created_at": "2017-08-25T17:37:17+09:00",
+    "updated_at": "2019-10-28T21:48:44+09:00",
+    "id": "eighty8"
   },
   {
     "title": "【合格しました！】AWS 認定ソリューションアーキテクト アソシエイト 受験記",
@@ -246,14 +254,6 @@
     "created_at": "2017-08-19T14:34:24+09:00",
     "updated_at": "2017-08-21T16:23:10+09:00",
     "id": "chihiro"
-  },
-  {
-    "title": "Docker + Rails + Puma + Nginx + MySQL",
-    "url": "https://qiita.com/eighty8/items/0288ab9c127ddb683315",
-    "likes_count": 280,
-    "created_at": "2017-08-25T17:37:17+09:00",
-    "updated_at": "2019-10-28T21:48:44+09:00",
-    "id": "eighty8"
   },
   {
     "title": "機械学習の情報収集に役立つ14のメルマガ",

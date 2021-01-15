@@ -18,7 +18,7 @@
   {
     "title": "機械学習案件を納品するのは、そんなに簡単な話じゃないから気をつけて",
     "url": "https://qiita.com/yoshizaki_91/items/fa8b45918445bb3e6dc3",
-    "likes_count": 1331,
+    "likes_count": 1330,
     "created_at": "2017-11-21T12:22:15+09:00",
     "updated_at": "2017-11-22T09:28:48+09:00",
     "id": "yoshizaki_91"
@@ -34,7 +34,7 @@
   {
     "title": "エンジニアが転職する時に考えることを採用面接官をしてる立場から書いてみた",
     "url": "https://qiita.com/newta/items/9620056bb991f4b0f03d",
-    "likes_count": 943,
+    "likes_count": 944,
     "created_at": "2017-11-03T22:03:55+09:00",
     "updated_at": "2018-01-17T00:42:27+09:00",
     "id": "newta"
@@ -42,7 +42,7 @@
   {
     "title": "阿部寛のサイトを高速化する",
     "url": "https://qiita.com/Morix1500/items/0eac072a027d478a6b83",
-    "likes_count": 861,
+    "likes_count": 860,
     "created_at": "2017-11-18T00:11:02+09:00",
     "updated_at": "2017-11-19T15:45:19+09:00",
     "id": "Morix1500"
@@ -90,7 +90,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 707,
+    "likes_count": 709,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonで使う競技プログラミング用チートシート",
     "url": "https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0",
-    "likes_count": 648,
+    "likes_count": 649,
     "created_at": "2017-11-12T02:03:04+09:00",
     "updated_at": "2019-08-22T21:01:24+09:00",
     "id": "_-_-_-_-_"
@@ -130,7 +130,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 587,
+    "likes_count": 588,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2018-07-15T15:52:26+09:00",
     "id": "ryouzi"
@@ -160,20 +160,20 @@
     "id": "_makun_"
   },
   {
+    "title": "なぜオブジェクト指向は難しいのか",
+    "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
+    "likes_count": 551,
+    "created_at": "2017-11-16T01:47:45+09:00",
+    "updated_at": "2021-01-05T10:16:02+09:00",
+    "id": "tutinoco"
+  },
+  {
     "title": "Docker for Windowsで快適な環境を得るまでの そこそこ長い闘い",
     "url": "https://qiita.com/YukiMiyatake/items/73c7d6c4f2c9739ebe60",
     "likes_count": 549,
     "created_at": "2017-11-10T02:57:16+09:00",
     "updated_at": "2019-08-22T05:07:38+09:00",
     "id": "YukiMiyatake"
-  },
-  {
-    "title": "なぜオブジェクト指向は難しいのか",
-    "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 548,
-    "created_at": "2017-11-16T01:47:45+09:00",
-    "updated_at": "2021-01-05T10:16:02+09:00",
-    "id": "tutinoco"
   },
   {
     "title": "個人プロダクト開発で、困った時にどうするか",
@@ -202,7 +202,7 @@
   {
     "title": "1時間でLINE BOTを作るハンズオン (資料+レポート) in Node学園祭2017 #nodefest",
     "url": "https://qiita.com/n0bisuke/items/ceaa09ef8898bee8369d",
-    "likes_count": 501,
+    "likes_count": 502,
     "created_at": "2017-11-26T16:22:19+09:00",
     "updated_at": "2020-06-14T21:52:31+09:00",
     "id": "n0bisuke"
@@ -226,7 +226,7 @@
   {
     "title": "週末在宅ワークの生産性を上げる5つの視点と32の工夫",
     "url": "https://qiita.com/Akira-Isegawa/items/ab7d6b5db65dc830bb62",
-    "likes_count": 469,
+    "likes_count": 468,
     "created_at": "2017-11-08T21:35:20+09:00",
     "updated_at": "2019-10-12T21:22:22+09:00",
     "id": "Akira-Isegawa"
@@ -242,7 +242,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -250,7 +250,7 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 434,
+    "likes_count": 435,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
@@ -378,7 +378,7 @@
   {
     "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
     "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2017-11-28T16:30:16+09:00",
     "updated_at": "2019-01-08T16:43:01+09:00",
     "id": "ryouzi"
