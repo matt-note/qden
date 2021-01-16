@@ -26,7 +26,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2187,
+    "likes_count": 2189,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -50,7 +50,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1617,
+    "likes_count": 1618,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -146,7 +146,7 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 788,
+    "likes_count": 789,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
@@ -314,7 +314,7 @@
   {
     "title": "シンプルなモデルとイラストでカルマンフィルタを直観的に理解してみる",
     "url": "https://qiita.com/MoriKen/items/0c80ef75749977767b43",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2016-04-11T19:17:39+09:00",
     "updated_at": "2019-08-31T19:18:37+09:00",
     "id": "MoriKen"
@@ -330,7 +330,7 @@
   {
     "title": "ttyとかptsとかについて確認してみる",
     "url": "https://qiita.com/toshihirock/items/22de12f99b5c40365369",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2016-04-28T22:23:17+09:00",
     "updated_at": "2016-04-28T22:23:17+09:00",
     "id": "toshihirock"
@@ -338,7 +338,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -354,7 +354,7 @@
   {
     "title": "IntelliJ IDEA 入門",
     "url": "https://qiita.com/opengl-8080/items/108102d692b49f804dbd",
-    "likes_count": 420,
+    "likes_count": 421,
     "created_at": "2016-04-07T00:13:00+09:00",
     "updated_at": "2018-04-02T23:29:26+09:00",
     "id": "opengl-8080"
@@ -448,20 +448,20 @@
     "id": "hiyuzawa"
   },
   {
+    "title": "ファイルディスクリプタについて理解する",
+    "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
+    "likes_count": 361,
+    "created_at": "2016-04-22T22:51:58+09:00",
+    "updated_at": "2016-04-22T22:51:58+09:00",
+    "id": "toshihirock"
+  },
+  {
     "title": "変更履歴を持つテーブルの設計",
     "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
     "likes_count": 360,
     "created_at": "2016-04-05T14:44:41+09:00",
     "updated_at": "2018-02-09T12:13:08+09:00",
     "id": "ak-ymst"
-  },
-  {
-    "title": "ファイルディスクリプタについて理解する",
-    "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 360,
-    "created_at": "2016-04-22T22:51:58+09:00",
-    "updated_at": "2016-04-22T22:51:58+09:00",
-    "id": "toshihirock"
   },
   {
     "title": "インフラエンジニアの自分が買ってよかったと思う書籍10選",
@@ -546,7 +546,7 @@
   {
     "title": "オンラインでプログラミングして実行できるサイト",
     "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
-    "likes_count": 320,
+    "likes_count": 319,
     "created_at": "2016-04-28T08:59:43+09:00",
     "updated_at": "2017-12-01T09:34:20+09:00",
     "id": "tttamaki"
@@ -618,7 +618,7 @@
   {
     "title": "chainerによるディープラーニングでAV女優の類似画像検索サービスをつくったノウハウを公開する",
     "url": "https://qiita.com/xolmon/items/0b82f4861cf93fd28e33",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2016-04-09T01:43:36+09:00",
     "updated_at": "2016-08-07T00:32:47+09:00",
     "id": "xolmon"
