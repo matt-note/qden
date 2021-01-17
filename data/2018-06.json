@@ -106,7 +106,7 @@
   {
     "title": "ApacheとNginxについて比較",
     "url": "https://qiita.com/kamihork/items/49e2a363da7d840a4149",
-    "likes_count": 867,
+    "likes_count": 868,
     "created_at": "2018-06-15T09:16:24+09:00",
     "updated_at": "2020-06-13T23:35:39+09:00",
     "id": "kamihork"
@@ -114,7 +114,7 @@
   {
     "title": "YAMLで履歴書を作る",
     "url": "https://qiita.com/kaityo256/items/e3884d0109223c324baf",
-    "likes_count": 830,
+    "likes_count": 836,
     "created_at": "2018-06-06T18:07:02+09:00",
     "updated_at": "2020-07-19T22:24:57+09:00",
     "id": "kaityo256"
@@ -144,20 +144,20 @@
     "id": "maskot1977"
   },
   {
+    "title": "Railsで超簡単API",
+    "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
+    "likes_count": 633,
+    "created_at": "2018-06-27T16:46:37+09:00",
+    "updated_at": "2020-02-24T14:01:49+09:00",
+    "id": "k-penguin-sato"
+  },
+  {
     "title": "ブロックチェーンにまつわる7つの『不都合な真実』",
     "url": "https://qiita.com/t--k/items/682ba9b589b7e59906cc",
     "likes_count": 632,
     "created_at": "2018-06-19T16:50:57+09:00",
     "updated_at": "2018-06-20T14:27:11+09:00",
     "id": "t--k"
-  },
-  {
-    "title": "Railsで超簡単API",
-    "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 631,
-    "created_at": "2018-06-27T16:46:37+09:00",
-    "updated_at": "2020-02-24T14:01:49+09:00",
-    "id": "k-penguin-sato"
   },
   {
     "title": "月で絵を描きたいだと？それならpythonに任せなさい🌝",
@@ -178,7 +178,7 @@
   {
     "title": "Pythonで実用Discord Bot(discordpy解説)",
     "url": "https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f",
-    "likes_count": 553,
+    "likes_count": 555,
     "created_at": "2018-06-07T06:27:47+09:00",
     "updated_at": "2020-10-04T22:55:09+09:00",
     "id": "1ntegrale9"
@@ -202,10 +202,18 @@
   {
     "title": "Qiita殿堂入り記事ランキングを作った物語",
     "url": "https://qiita.com/youwht/items/0a12079671750c39fbfa",
-    "likes_count": 531,
+    "likes_count": 532,
     "created_at": "2018-06-29T10:26:58+09:00",
     "updated_at": "2018-08-05T11:59:33+09:00",
     "id": "youwht"
+  },
+  {
+    "title": "ターミナルプロンプトの表示・色の変更",
+    "url": "https://qiita.com/hmmrjn/items/60d2a64c9e5bf7c0fe60",
+    "likes_count": 519,
+    "created_at": "2018-06-20T04:30:23+09:00",
+    "updated_at": "2020-12-07T15:47:14+09:00",
+    "id": "hmmrjn"
   },
   {
     "title": "ビルドとデプロイって結局なんやねん！？！？！？？？みたいな記事",
@@ -216,17 +224,9 @@
     "id": "isoyam"
   },
   {
-    "title": "ターミナルプロンプトの表示・色の変更",
-    "url": "https://qiita.com/hmmrjn/items/60d2a64c9e5bf7c0fe60",
-    "likes_count": 518,
-    "created_at": "2018-06-20T04:30:23+09:00",
-    "updated_at": "2020-12-07T15:47:14+09:00",
-    "id": "hmmrjn"
-  },
-  {
     "title": "React Nativeの実は使ってはダメなライブラリ素晴らしいライブラリ(随時更新)",
     "url": "https://qiita.com/kaba/items/569aafd80889bb5d9328",
-    "likes_count": 492,
+    "likes_count": 494,
     "created_at": "2018-06-02T16:38:42+09:00",
     "updated_at": "2021-01-12T18:49:48+09:00",
     "id": "kaba"
@@ -234,7 +234,7 @@
   {
     "title": "【Rails 5.2】 Active Storageの使い方",
     "url": "https://qiita.com/hmmrjn/items/7cc5e5348755c517458a",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2018-06-30T23:44:12+09:00",
     "updated_at": "2019-08-06T10:42:47+09:00",
     "id": "hmmrjn"
@@ -266,7 +266,7 @@
   {
     "title": "【Vue.js】いつから「フロントエンド開発でTDDができない」と錯覚していた？",
     "url": "https://qiita.com/ykhirao/items/becd9be857dbe6804314",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2018-06-25T08:56:37+09:00",
     "updated_at": "2018-06-27T23:47:26+09:00",
     "id": "ykhirao"
@@ -290,7 +290,7 @@
   {
     "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
     "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
-    "likes_count": 417,
+    "likes_count": 420,
     "created_at": "2018-06-11T22:28:36+09:00",
     "updated_at": "2019-07-16T14:45:28+09:00",
     "id": "C3REVE"
@@ -306,7 +306,7 @@
   {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2018-10-11T13:59:01+09:00",
     "id": "newta"
@@ -346,7 +346,7 @@
   {
     "title": "脆弱性の警告を受けたnpmパッケージの依存関係を力技で直す",
     "url": "https://qiita.com/hibikikudo/items/0af352acac85fce28ec2",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2018-06-18T16:45:59+09:00",
     "updated_at": "2018-12-17T17:47:00+09:00",
     "id": "hibikikudo"
@@ -408,6 +408,14 @@
     "id": "drken"
   },
   {
+    "title": "「アセンブラへの道」組立語(assembler)・機械語(machine language)・CPU",
+    "url": "https://qiita.com/kaizen_nagoya/items/46f2333c2647b0e692b2",
+    "likes_count": 305,
+    "created_at": "2018-06-30T19:35:42+09:00",
+    "updated_at": "2020-12-19T16:37:22+09:00",
+    "id": "kaizen_nagoya"
+  },
+  {
     "title": "ブログはWordPressは辞めて、全て静的サイトジェネレーターに移行したい",
     "url": "https://qiita.com/shinya_sato_qiita/items/03259dc82b7ded62810b",
     "likes_count": 303,
@@ -416,17 +424,9 @@
     "id": "shinya_sato_qiita"
   },
   {
-    "title": "「アセンブラへの道」組立語(assembler)・機械語(machine language)・CPU",
-    "url": "https://qiita.com/kaizen_nagoya/items/46f2333c2647b0e692b2",
-    "likes_count": 303,
-    "created_at": "2018-06-30T19:35:42+09:00",
-    "updated_at": "2020-12-19T16:37:22+09:00",
-    "id": "kaizen_nagoya"
-  },
-  {
     "title": "【初心者向け】Linuxカーネルって一体なんだ？",
     "url": "https://qiita.com/uguis410/items/17ec1e447e9716bfdca7",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2018-06-17T17:04:14+09:00",
     "updated_at": "2019-09-06T10:42:56+09:00",
     "id": "uguis410"
@@ -474,7 +474,7 @@
   {
     "title": "kindle書籍のpdf化",
     "url": "https://qiita.com/keitasumiya/items/c9d0f81fd7fb96e505b3",
-    "likes_count": 266,
+    "likes_count": 267,
     "created_at": "2018-06-02T20:26:05+09:00",
     "updated_at": "2019-03-19T13:37:04+09:00",
     "id": "keitasumiya"
