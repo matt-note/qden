@@ -26,7 +26,7 @@
   {
     "title": "Webサービス個人開発するなら読みたい情報源13",
     "url": "https://qiita.com/curryperformer-kato/items/a7dc9a41200b6c9c1912",
-    "likes_count": 1064,
+    "likes_count": 1065,
     "created_at": "2017-11-03T00:21:37+09:00",
     "updated_at": "2019-08-29T10:34:58+09:00",
     "id": "curryperformer-kato"
@@ -34,7 +34,7 @@
   {
     "title": "エンジニアが転職する時に考えることを採用面接官をしてる立場から書いてみた",
     "url": "https://qiita.com/newta/items/9620056bb991f4b0f03d",
-    "likes_count": 945,
+    "likes_count": 946,
     "created_at": "2017-11-03T22:03:55+09:00",
     "updated_at": "2018-01-17T00:42:27+09:00",
     "id": "newta"
@@ -74,10 +74,18 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 731,
+    "likes_count": 732,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
+  },
+  {
+    "title": ".gitignoreに記載したのに反映されない件",
+    "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
+    "likes_count": 715,
+    "created_at": "2017-11-09T22:58:08+09:00",
+    "updated_at": "2019-02-17T13:56:52+09:00",
+    "id": "fuwamaki"
   },
   {
     "title": "爆速でターミナルをポケモンにする",
@@ -86,14 +94,6 @@
     "created_at": "2017-11-29T20:09:02+09:00",
     "updated_at": "2017-12-02T21:05:29+09:00",
     "id": "chanuu"
-  },
-  {
-    "title": ".gitignoreに記載したのに反映されない件",
-    "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 713,
-    "created_at": "2017-11-09T22:58:08+09:00",
-    "updated_at": "2019-02-17T13:56:52+09:00",
-    "id": "fuwamaki"
   },
   {
     "title": "Pythonで使う競技プログラミング用チートシート",
@@ -210,7 +210,7 @@
   {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
     "url": "https://qiita.com/yonedaco/items/569bcc442872a1f9a03d",
-    "likes_count": 491,
+    "likes_count": 492,
     "created_at": "2017-11-25T15:34:09+09:00",
     "updated_at": "2020-03-18T13:27:49+09:00",
     "id": "yonedaco"
@@ -218,7 +218,7 @@
   {
     "title": "draw.ioでAWSのインフラ構成図を書く",
     "url": "https://qiita.com/nave-m/items/68425f476b254a1a47b0",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2017-11-12T18:58:16+09:00",
     "updated_at": "2019-11-16T10:19:26+09:00",
     "id": "nave-m"
@@ -234,7 +234,7 @@
   {
     "title": " シェルスクリプトを何万倍も遅くしないためには —— ループせずフィルタしよう",
     "url": "https://qiita.com/8x9/items/f1156503694d3683e78d",
-    "likes_count": 464,
+    "likes_count": 465,
     "created_at": "2017-12-01T07:53:51+09:00",
     "updated_at": "2018-07-15T22:48:25+09:00",
     "id": "8x9"
@@ -250,7 +250,7 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
@@ -274,7 +274,7 @@
   {
     "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
     "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
-    "likes_count": 421,
+    "likes_count": 422,
     "created_at": "2017-11-18T06:21:52+09:00",
     "updated_at": "2020-12-23T00:39:19+09:00",
     "id": "t_nakayama0714"
@@ -298,7 +298,7 @@
   {
     "title": "webpack.config.jsがわからない",
     "url": "https://qiita.com/one-kelvin/items/b810aafb6b5ef90789a3",
-    "likes_count": 400,
+    "likes_count": 401,
     "created_at": "2017-11-21T18:27:48+09:00",
     "updated_at": "2017-11-22T10:50:37+09:00",
     "id": "one-kelvin"
@@ -418,7 +418,7 @@
   {
     "title": "C# 今更ですが、await / async",
     "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
-    "likes_count": 285,
+    "likes_count": 286,
     "created_at": "2017-11-30T18:32:10+09:00",
     "updated_at": "2017-12-11T10:31:16+09:00",
     "id": "rawr"

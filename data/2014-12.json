@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマに正月休み中を使って読んでみてほしい技術書をセレクトしてみた。",
     "url": "https://qiita.com/hirokidaichi/items/d30714f0698dcff1200f",
-    "likes_count": 2942,
+    "likes_count": 2941,
     "created_at": "2014-12-18T21:49:50+09:00",
     "updated_at": "2018-02-20T09:54:50+09:00",
     "id": "hirokidaichi"
@@ -10,7 +10,7 @@
   {
     "title": "最近の行儀のよい JavaScript の書き方",
     "url": "https://qiita.com/kaiinui/items/22a75d2adc56a40da7b7",
-    "likes_count": 2377,
+    "likes_count": 2375,
     "created_at": "2014-12-21T03:59:19+09:00",
     "updated_at": "2016-12-02T16:18:05+09:00",
     "id": "kaiinui"
@@ -90,7 +90,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1205,
+    "likes_count": 1206,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -114,7 +114,7 @@
   {
     "title": "機械学習はじめの一歩に役立つ記事のまとめ",
     "url": "https://qiita.com/shu223/items/9cbde46c0690f1952750",
-    "likes_count": 960,
+    "likes_count": 959,
     "created_at": "2014-12-09T20:34:42+09:00",
     "updated_at": "2014-12-09T20:55:48+09:00",
     "id": "shu223"
@@ -130,7 +130,7 @@
   {
     "title": "iOSとの比較つき!Androidでこんなアプリ,こんな機能を作りたかったらこれを見ろ！作りたいアプリに対応するクラス、ライブラリのまとめ！",
     "url": "https://qiita.com/appwatcher/items/7d270de99d63bb9f2be4",
-    "likes_count": 858,
+    "likes_count": 857,
     "created_at": "2014-12-07T12:26:51+09:00",
     "updated_at": "2016-09-26T09:48:37+09:00",
     "id": "appwatcher"
@@ -226,7 +226,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 647,
+    "likes_count": 648,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -314,7 +314,7 @@
   {
     "title": "zshの外部プラグインまとめ",
     "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
-    "likes_count": 559,
+    "likes_count": 558,
     "created_at": "2014-12-25T00:15:28+09:00",
     "updated_at": "2015-03-10T00:02:36+09:00",
     "id": "mollifier"
@@ -354,7 +354,7 @@
   {
     "title": "Rails開発で有用な便利Gem一覧：2014年版",
     "url": "https://qiita.com/shu_0115/items/b9dd17c01e1e6bd65e71",
-    "likes_count": 516,
+    "likes_count": 514,
     "created_at": "2014-12-11T14:10:37+09:00",
     "updated_at": "2015-03-05T16:51:32+09:00",
     "id": "shu_0115"
@@ -410,7 +410,7 @@
   {
     "title": "本気で使う Docker",
     "url": "https://qiita.com/rosylilly/items/08f4c0771e2ca92a72aa",
-    "likes_count": 476,
+    "likes_count": 475,
     "created_at": "2014-12-25T23:33:09+09:00",
     "updated_at": "2014-12-31T21:36:00+09:00",
     "id": "rosylilly"
@@ -502,6 +502,14 @@
     "created_at": "2014-12-08T22:39:58+09:00",
     "updated_at": "2014-12-09T22:20:53+09:00",
     "id": "gucchon"
+  },
+  {
+    "title": "Webスクレイピングの法律周りの話をしよう！",
+    "url": "https://qiita.com/nezuq/items/3cc9772118ad112c18dc",
+    "likes_count": 407,
+    "created_at": "2014-12-03T23:55:41+09:00",
+    "updated_at": "2020-09-09T07:37:42+09:00",
+    "id": "nezuq"
   },
   {
     "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
@@ -650,7 +658,7 @@
   {
     "title": "Rails 4.1以降のコンソールコマンドは必ず bin/ を付けなきゃいけないの？",
     "url": "https://qiita.com/jnchito/items/c5a0848144203dce6e26",
-    "likes_count": 308,
+    "likes_count": 307,
     "created_at": "2014-12-31T21:38:43+09:00",
     "updated_at": "2014-12-31T21:56:54+09:00",
     "id": "jnchito"
@@ -758,14 +766,6 @@
     "created_at": "2014-12-08T20:45:06+09:00",
     "updated_at": "2016-10-16T15:02:19+09:00",
     "id": "tkxlab"
-  },
-  {
-    "title": "golang で streem を実装した。",
-    "url": "https://qiita.com/mattn/items/20c7eb056ed8921547a8",
-    "likes_count": 272,
-    "created_at": "2014-12-15T22:32:53+09:00",
-    "updated_at": "2018-05-08T10:13:10+09:00",
-    "id": "mattn"
   },
   {
     "title": "[iOS]FabricでTwitterクライアントを作った",

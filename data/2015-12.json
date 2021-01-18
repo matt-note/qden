@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2379,
+    "likes_count": 2380,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2254,
+    "likes_count": 2255,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -58,7 +58,7 @@
   {
     "title": "まだMVC,MVP,MVVMで消耗してるの？ iOS Clean Architectureについて",
     "url": "https://qiita.com/koutalou/items/07a4f9cf51a2d13e4cdc",
-    "likes_count": 1579,
+    "likes_count": 1578,
     "created_at": "2015-12-22T19:14:23+09:00",
     "updated_at": "2016-12-05T15:11:33+09:00",
     "id": "koutalou"
@@ -74,7 +74,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1469,
+    "likes_count": 1470,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -82,7 +82,7 @@
   {
     "title": "Ansibleをはじめる人に。",
     "url": "https://qiita.com/t_nakayama0714/items/fe55ee56d6446f67113c",
-    "likes_count": 1456,
+    "likes_count": 1457,
     "created_at": "2015-12-20T23:20:14+09:00",
     "updated_at": "2018-08-01T08:37:18+09:00",
     "id": "t_nakayama0714"
@@ -98,7 +98,7 @@
   {
     "title": "非同期処理ってどういうこと？JavaScriptで一から学ぶ",
     "url": "https://qiita.com/kiyodori/items/da434d169755cbb20447",
-    "likes_count": 1253,
+    "likes_count": 1254,
     "created_at": "2015-12-19T22:32:13+09:00",
     "updated_at": "2015-12-19T22:37:55+09:00",
     "id": "kiyodori"
@@ -138,7 +138,7 @@
   {
     "title": "さいきょうの二重サブミット対策",
     "url": "https://qiita.com/syobochim/items/120109315f671918f28d",
-    "likes_count": 1169,
+    "likes_count": 1171,
     "created_at": "2015-12-23T00:06:40+09:00",
     "updated_at": "2015-12-23T11:28:45+09:00",
     "id": "syobochim"
@@ -170,7 +170,7 @@
   {
     "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発",
     "url": "https://qiita.com/nkjm/items/723990c518acfee6e473",
-    "likes_count": 942,
+    "likes_count": 943,
     "created_at": "2015-12-29T17:47:24+09:00",
     "updated_at": "2016-02-13T11:49:00+09:00",
     "id": "nkjm"
@@ -274,7 +274,7 @@
   {
     "title": "JavaScript中級者への道【5. コールバック関数】",
     "url": "https://qiita.com/matsuby/items/3f635943f25e520b7c20",
-    "likes_count": 602,
+    "likes_count": 604,
     "created_at": "2015-12-27T15:46:57+09:00",
     "updated_at": "2018-10-12T05:06:41+09:00",
     "id": "matsuby"
@@ -290,7 +290,7 @@
   {
     "title": "Laravelのバリデーションで指定できる内容をざっくりまとめ直しました。",
     "url": "https://qiita.com/fagai/items/9904409d3703ef6f79a2",
-    "likes_count": 577,
+    "likes_count": 578,
     "created_at": "2015-12-18T19:22:27+09:00",
     "updated_at": "2020-09-12T20:25:40+09:00",
     "id": "fagai"
@@ -338,7 +338,7 @@
   {
     "title": "Qiita などの技術系の記事で残念に思うポイント",
     "url": "https://qiita.com/scivola/items/f02589968a4ca27bc52b",
-    "likes_count": 510,
+    "likes_count": 509,
     "created_at": "2015-12-29T16:22:34+09:00",
     "updated_at": "2020-01-04T08:54:32+09:00",
     "id": "scivola"
@@ -408,20 +408,20 @@
     "id": "itkrt2y"
   },
   {
+    "title": "SQLスタイルガイド",
+    "url": "https://qiita.com/taise/items/18c14d9b01a5dfd6d35e",
+    "likes_count": 422,
+    "created_at": "2015-12-13T09:00:22+09:00",
+    "updated_at": "2015-12-13T09:00:22+09:00",
+    "id": "taise"
+  },
+  {
     "title": "GitHub にパスワードとかセンシティブなファイルを push してしまったときの対処法",
     "url": "https://qiita.com/dtan4/items/34e41e3bd40a43fd8cbf",
     "likes_count": 422,
     "created_at": "2015-12-19T23:39:47+09:00",
     "updated_at": "2015-12-30T15:13:06+09:00",
     "id": "dtan4"
-  },
-  {
-    "title": "SQLスタイルガイド",
-    "url": "https://qiita.com/taise/items/18c14d9b01a5dfd6d35e",
-    "likes_count": 421,
-    "created_at": "2015-12-13T09:00:22+09:00",
-    "updated_at": "2015-12-13T09:00:22+09:00",
-    "id": "taise"
   },
   {
     "title": "うっかり起動してしまった時間のかかるプロセスをtmux上に付け替えたい",
@@ -466,7 +466,7 @@
   {
     "title": "PHPのリリース日とサポート期限",
     "url": "https://qiita.com/bezeklik/items/72d1ff8393f66673e2bc",
-    "likes_count": 406,
+    "likes_count": 408,
     "created_at": "2015-12-14T11:55:09+09:00",
     "updated_at": "2020-12-24T19:36:19+09:00",
     "id": "bezeklik"
@@ -538,7 +538,7 @@
   {
     "title": "namespaceの賢い使い方",
     "url": "https://qiita.com/_EnumHack/items/430da105a541f9ecd774",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2015-12-24T03:59:50+09:00",
     "updated_at": "2020-05-28T18:15:40+09:00",
     "id": "_EnumHack"
@@ -562,7 +562,7 @@
   {
     "title": "窓を開けて新鮮な空気をいれよう！Raspberry Pi でCO2 濃度を測ろう",
     "url": "https://qiita.com/UedaTakeyuki/items/c5226960a7328155635f",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2015-12-22T19:19:16+09:00",
     "updated_at": "2020-12-14T14:17:30+09:00",
     "id": "UedaTakeyuki"
@@ -650,7 +650,7 @@
   {
     "title": "nodistでNode.jsをバージョン管理",
     "url": "https://qiita.com/satoyan419/items/56e0b5f35912b9374305",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2015-12-31T18:25:28+09:00",
     "updated_at": "2020-06-20T07:55:59+09:00",
     "id": "satoyan419"
@@ -698,7 +698,7 @@
   {
     "title": "JavaScript製FlashPlayer「swf2js」swfをそのままHTML5に変換。",
     "url": "https://qiita.com/ienaga/items/c9f04d6cd9874d4ec1a7",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2015-12-16T00:02:32+09:00",
     "updated_at": "2020-07-03T10:08:53+09:00",
     "id": "ienaga"

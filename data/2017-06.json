@@ -2,7 +2,7 @@
   {
     "title": "【CSS3】@keyframes と animation 関連のまとめ",
     "url": "https://qiita.com/7968/items/1d999354e00db53bcbd8",
-    "likes_count": 1099,
+    "likes_count": 1100,
     "created_at": "2017-06-28T10:05:37+09:00",
     "updated_at": "2020-04-15T08:40:59+09:00",
     "id": "7968"
@@ -82,7 +82,7 @@
   {
     "title": "var/let/constの使い分けのメモ",
     "url": "https://qiita.com/masarufuruya/items/096e51c3e4c36c86ae27",
-    "likes_count": 545,
+    "likes_count": 546,
     "created_at": "2017-06-01T18:46:40+09:00",
     "updated_at": "2019-02-26T13:13:23+09:00",
     "id": "masarufuruya"
@@ -138,7 +138,7 @@
   {
     "title": "Slack API 推奨Tokenについて",
     "url": "https://qiita.com/ykhirao/items/3b19ee6a1458cfb4ba21",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2017-06-14T17:25:03+09:00",
     "updated_at": "2019-05-17T11:12:46+09:00",
     "id": "ykhirao"
@@ -154,7 +154,7 @@
   {
     "title": "pyenvのインストール、使い方、pythonのバージョン切り替えできない時の対処法",
     "url": "https://qiita.com/koooooo/items/b21d87ffe2b56d0c589b",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2017-06-23T03:11:51+09:00",
     "updated_at": "2018-06-28T23:31:26+09:00",
     "id": "koooooo"
@@ -194,7 +194,7 @@
   {
     "title": "package.jsonの中身を理解する",
     "url": "https://qiita.com/dondoko-susumu/items/cf252bd6494412ed7847",
-    "likes_count": 365,
+    "likes_count": 366,
     "created_at": "2017-06-25T17:23:05+09:00",
     "updated_at": "2017-06-25T21:44:37+09:00",
     "id": "dondoko-susumu"
@@ -218,7 +218,7 @@
   {
     "title": "AWS：無料でSSL証明書を取得する方法",
     "url": "https://qiita.com/iwaseasahi/items/1687426add4124899fe3",
-    "likes_count": 340,
+    "likes_count": 341,
     "created_at": "2017-06-03T12:00:34+09:00",
     "updated_at": "2018-01-13T09:40:51+09:00",
     "id": "iwaseasahi"
@@ -288,6 +288,14 @@
     "id": "tomoyukilabs"
   },
   {
+    "title": "Gitを使ってPull Requestを投げるまで",
+    "url": "https://qiita.com/takamii228/items/80c0996a0b5fa39337bd",
+    "likes_count": 264,
+    "created_at": "2017-06-10T11:34:44+09:00",
+    "updated_at": "2019-12-21T02:09:03+09:00",
+    "id": "takamii228"
+  },
+  {
     "title": "競技プログラミングって何？ (はじめての高校生向け)",
     "url": "https://qiita.com/sifue/items/d582f3af426f524e5394",
     "likes_count": 264,
@@ -296,17 +304,9 @@
     "id": "sifue"
   },
   {
-    "title": "Gitを使ってPull Requestを投げるまで",
-    "url": "https://qiita.com/takamii228/items/80c0996a0b5fa39337bd",
-    "likes_count": 263,
-    "created_at": "2017-06-10T11:34:44+09:00",
-    "updated_at": "2019-12-21T02:09:03+09:00",
-    "id": "takamii228"
-  },
-  {
     "title": "【herokuコマンド】createからdestroyまで",
     "url": "https://qiita.com/chihiro/items/5c3ff400f6cb99deb945",
-    "likes_count": 249,
+    "likes_count": 250,
     "created_at": "2017-06-11T19:54:32+09:00",
     "updated_at": "2019-08-28T08:50:45+09:00",
     "id": "chihiro"
@@ -330,7 +330,7 @@
   {
     "title": "ExcelでPowerQueryを使ってデータ収集分析",
     "url": "https://qiita.com/mosugi/items/71df310b35db81722d1e",
-    "likes_count": 195,
+    "likes_count": 196,
     "created_at": "2017-06-17T12:17:30+09:00",
     "updated_at": "2017-06-24T12:31:15+09:00",
     "id": "mosugi"
