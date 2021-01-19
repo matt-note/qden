@@ -10,7 +10,7 @@
   {
     "title": "トップデベロッパーになるために作成したいアプリ8選",
     "url": "https://qiita.com/baby-degu/items/f905c8ee972cf46ce11b",
-    "likes_count": 3115,
+    "likes_count": 3119,
     "created_at": "2019-11-10T21:29:43+09:00",
     "updated_at": "2020-06-06T19:29:49+09:00",
     "id": "baby-degu"
@@ -58,7 +58,7 @@
   {
     "title": "【保存版】Webフロントエンド基礎力（初心者向け）",
     "url": "https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9",
-    "likes_count": 1740,
+    "likes_count": 1741,
     "created_at": "2019-11-05T08:41:27+09:00",
     "updated_at": "2020-03-15T22:12:44+09:00",
     "id": "teradonburi"
@@ -90,7 +90,7 @@
   {
     "title": "コードレビュー虎の巻",
     "url": "https://qiita.com/teradonburi/items/2fa475c860d0fb16c0eb",
-    "likes_count": 1248,
+    "likes_count": 1249,
     "created_at": "2019-11-19T12:00:29+09:00",
     "updated_at": "2019-12-24T20:25:24+09:00",
     "id": "teradonburi"
@@ -106,7 +106,7 @@
   {
     "title": "Python中級者への道しるべ",
     "url": "https://qiita.com/papi_tokei/items/2aef9a259fd236d340da",
-    "likes_count": 1117,
+    "likes_count": 1118,
     "created_at": "2019-11-03T14:27:08+09:00",
     "updated_at": "2019-11-07T00:19:10+09:00",
     "id": "papi_tokei"
@@ -130,7 +130,7 @@
   {
     "title": "ブラウザレンダリングの仕組み",
     "url": "https://qiita.com/sasakiki/items/91dcc8b50d7a61ce98bc",
-    "likes_count": 1021,
+    "likes_count": 1023,
     "created_at": "2019-11-24T21:45:11+09:00",
     "updated_at": "2019-12-14T19:03:17+09:00",
     "id": "sasakiki"
@@ -178,7 +178,7 @@
   {
     "title": "「何がわからないのかわからない」は何がわからないのか",
     "url": "https://qiita.com/K_Noko_224/items/745ecc0b604fd71177df",
-    "likes_count": 705,
+    "likes_count": 706,
     "created_at": "2019-11-28T00:07:07+09:00",
     "updated_at": "2019-11-28T00:07:07+09:00",
     "id": "K_Noko_224"
@@ -194,7 +194,7 @@
   {
     "title": "[おすすめ]ターミナルでの作業効率が爆上げするTUIツール5選",
     "url": "https://qiita.com/gorilla0513/items/2bb416e371c43d6d88fc",
-    "likes_count": 662,
+    "likes_count": 663,
     "created_at": "2019-11-26T19:26:16+09:00",
     "updated_at": "2019-11-30T02:08:28+09:00",
     "id": "gorilla0513"
@@ -234,7 +234,7 @@
   {
     "title": "NVIDIA Docker って今どうなってるの？ (19.11版)",
     "url": "https://qiita.com/ksasaki/items/b20a785e1a0f610efa08",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2019-11-14T01:47:30+09:00",
     "updated_at": "2020-09-08T17:33:54+09:00",
     "id": "ksasaki"
@@ -320,6 +320,14 @@
     "id": "v_avenger"
   },
   {
+    "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
+    "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
+    "likes_count": 469,
+    "created_at": "2019-11-21T16:30:57+09:00",
+    "updated_at": "2020-10-14T00:17:51+09:00",
+    "id": "ryokkkke"
+  },
+  {
     "title": "テストで個人的によく使うツール7選",
     "url": "https://qiita.com/tsuemura/items/c16090a060bf504039cb",
     "likes_count": 466,
@@ -328,17 +336,9 @@
     "id": "tsuemura"
   },
   {
-    "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
-    "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 465,
-    "created_at": "2019-11-21T16:30:57+09:00",
-    "updated_at": "2020-10-14T00:17:51+09:00",
-    "id": "ryokkkke"
-  },
-  {
     "title": "令和時代のPython作図ライブラリのデファクトスタンダードPlotlyExpressの基本的な描き方まとめ",
     "url": "https://qiita.com/hanon/items/d8cbe25aa8f3a9347b0b",
-    "likes_count": 461,
+    "likes_count": 462,
     "created_at": "2019-11-04T00:15:43+09:00",
     "updated_at": "2019-11-05T11:31:26+09:00",
     "id": "hanon"
@@ -394,7 +394,7 @@
   {
     "title": "【初心者向け】Gitで個人開発",
     "url": "https://qiita.com/Ken227/items/822851aaca0fd9b3cf72",
-    "likes_count": 405,
+    "likes_count": 407,
     "created_at": "2019-11-08T18:47:32+09:00",
     "updated_at": "2020-06-15T19:16:56+09:00",
     "id": "Ken227"
@@ -442,7 +442,7 @@
   {
     "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
     "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2019-11-15T22:47:51+09:00",
     "updated_at": "2020-03-09T11:53:54+09:00",
     "id": "ramuneru"
@@ -498,7 +498,7 @@
   {
     "title": "10分で理解する Selenium",
     "url": "https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2019-11-30T01:26:15+09:00",
     "updated_at": "2019-12-01T01:08:28+09:00",
     "id": "Chanmoro"
