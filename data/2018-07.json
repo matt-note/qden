@@ -2,7 +2,7 @@
   {
     "title": "初心者プログラマが犯しがちな過ち25選",
     "url": "https://qiita.com/rana_kualu/items/379eefb3a40c6b44cb92",
-    "likes_count": 2414,
+    "likes_count": 2415,
     "created_at": "2018-07-06T21:18:51+09:00",
     "updated_at": "2020-01-06T21:50:48+09:00",
     "id": "rana_kualu"
@@ -26,7 +26,7 @@
   {
     "title": "【SIer新人向け】研修では教えてくれないノウハウ集",
     "url": "https://qiita.com/old-stone/items/6221824566116710453f",
-    "likes_count": 1354,
+    "likes_count": 1355,
     "created_at": "2018-07-17T00:59:02+09:00",
     "updated_at": "2019-09-19T00:12:15+09:00",
     "id": "old-stone"
@@ -34,7 +34,7 @@
   {
     "title": "Vue.js + Vuexでデータが循環する全体像を図解してみた",
     "url": "https://qiita.com/m_mitsuhide/items/f16d988ec491b7800ace",
-    "likes_count": 1253,
+    "likes_count": 1254,
     "created_at": "2018-07-30T13:03:15+09:00",
     "updated_at": "2019-12-05T11:02:51+09:00",
     "id": "m_mitsuhide"
@@ -106,7 +106,7 @@
   {
     "title": "プログラマーの君！ 勘違いするな！ シェルスクリプトでは読みやすさのためにスペースを置くな！！ という話",
     "url": "https://qiita.com/piroor/items/0cb44663430bfc66c204",
-    "likes_count": 827,
+    "likes_count": 828,
     "created_at": "2018-07-15T02:26:18+09:00",
     "updated_at": "2018-07-17T11:25:51+09:00",
     "id": "piroor"
@@ -138,7 +138,7 @@
   {
     "title": "今話題のAIをweb上で誰でも気軽に作れる「AIメーカー」を作ってみた",
     "url": "https://qiita.com/2zn01/items/0d3147c9d9d804ad9880",
-    "likes_count": 642,
+    "likes_count": 643,
     "created_at": "2018-07-22T16:34:31+09:00",
     "updated_at": "2018-07-22T21:44:23+09:00",
     "id": "2zn01"
@@ -162,7 +162,7 @@
   {
     "title": "静的サイトをとにかく高速化する話",
     "url": "https://qiita.com/masato_makino/items/4fabe2984b9a023895f2",
-    "likes_count": 595,
+    "likes_count": 596,
     "created_at": "2018-07-24T16:19:46+09:00",
     "updated_at": "2020-09-28T21:56:46+09:00",
     "id": "masato_makino"
@@ -170,7 +170,7 @@
   {
     "title": "npmとyarnのコマンド早見表",
     "url": "https://qiita.com/rubytomato@github/items/1696530bb9fd59aa28d8",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2018-07-02T07:03:00+09:00",
     "updated_at": "2020-07-16T23:37:10+09:00",
     "id": "rubytomato@github"
@@ -192,20 +192,20 @@
     "id": "s_katagiri"
   },
   {
+    "title": "【Rails 5】(新) form_with と (旧) form_tag, form_for の違い",
+    "url": "https://qiita.com/hmmrjn/items/24f3b8eade206ace17e2",
+    "likes_count": 512,
+    "created_at": "2018-07-02T02:57:12+09:00",
+    "updated_at": "2020-09-08T01:09:29+09:00",
+    "id": "hmmrjn"
+  },
+  {
     "title": "WSL上でDocker Engineが動くようになっていたっぽいという話",
     "url": "https://qiita.com/yanoshi/items/dcecbf117d9cbd14af87",
     "likes_count": 512,
     "created_at": "2018-07-06T13:48:07+09:00",
     "updated_at": "2018-07-06T13:48:07+09:00",
     "id": "yanoshi"
-  },
-  {
-    "title": "【Rails 5】(新) form_with と (旧) form_tag, form_for の違い",
-    "url": "https://qiita.com/hmmrjn/items/24f3b8eade206ace17e2",
-    "likes_count": 511,
-    "created_at": "2018-07-02T02:57:12+09:00",
-    "updated_at": "2020-09-08T01:09:29+09:00",
-    "id": "hmmrjn"
   },
   {
     "title": "Atomic Designってデザイナーには難しくない！？という話",
@@ -242,7 +242,7 @@
   {
     "title": "permission deniedで悩まされたので勉強してみた",
     "url": "https://qiita.com/takuyanin/items/18590600d077df707923",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2018-07-12T20:32:36+09:00",
     "updated_at": "2019-11-13T11:45:07+09:00",
     "id": "takuyanin"
@@ -282,7 +282,7 @@
   {
     "title": "GitLabに触ってみて、GitHubと比較した",
     "url": "https://qiita.com/developer-kikikaikai/items/3fd1277a9a5778000638",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2018-07-14T11:23:50+09:00",
     "updated_at": "2019-10-13T16:20:50+09:00",
     "id": "developer-kikikaikai"
@@ -378,7 +378,7 @@
   {
     "title": "[初学者]Railsのi18nによる日本語化対応",
     "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
-    "likes_count": 286,
+    "likes_count": 288,
     "created_at": "2018-08-01T01:32:22+09:00",
     "updated_at": "2020-04-11T14:10:58+09:00",
     "id": "shimadama"
