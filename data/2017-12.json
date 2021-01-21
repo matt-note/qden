@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5400,
+    "likes_count": 5401,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -18,7 +18,7 @@
   {
     "title": "0からREST APIについて調べてみた",
     "url": "https://qiita.com/masato44gm/items/dffb8281536ad321fb08",
-    "likes_count": 1632,
+    "likes_count": 1634,
     "created_at": "2017-12-04T15:36:09+09:00",
     "updated_at": "2019-01-09T11:56:19+09:00",
     "id": "masato44gm"
@@ -50,7 +50,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1349,
+    "likes_count": 1350,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -90,7 +90,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1046,
+    "likes_count": 1049,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -146,7 +146,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 821,
+    "likes_count": 822,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -162,7 +162,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 817,
+    "likes_count": 818,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -202,7 +202,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 763,
+    "likes_count": 762,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -290,7 +290,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 629,
+    "likes_count": 631,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -370,7 +370,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -440,20 +440,20 @@
     "id": "angel_p_57"
   },
   {
-    "title": "systemctl コマンド",
-    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 470,
-    "created_at": "2017-12-08T14:15:47+09:00",
-    "updated_at": "2019-03-14T16:14:00+09:00",
-    "id": "sinsengumi"
-  },
-  {
     "title": "Google Homeで受付システム作ってみた",
     "url": "https://qiita.com/h-takauma/items/4ecc3421f2995b207284",
     "likes_count": 469,
     "created_at": "2017-12-06T15:46:42+09:00",
     "updated_at": "2017-12-06T22:42:03+09:00",
     "id": "h-takauma"
+  },
+  {
+    "title": "systemctl コマンド",
+    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
+    "likes_count": 469,
+    "created_at": "2017-12-08T14:15:47+09:00",
+    "updated_at": "2019-03-14T16:14:00+09:00",
+    "id": "sinsengumi"
   },
   {
     "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
@@ -522,7 +522,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -538,7 +538,7 @@
   {
     "title": "やはりお前らの真偽値メソッド名は間違っている。 〜「Xxx できる？」系メソッドの命名〜",
     "url": "https://qiita.com/lovee/items/aa2125eb0bce4a9dde1f",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2017-12-07T03:34:42+09:00",
     "updated_at": "2017-12-08T13:27:28+09:00",
     "id": "lovee"
@@ -618,7 +618,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 354,
+    "likes_count": 355,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
@@ -666,7 +666,7 @@
   {
     "title": "C++をこれから勉強する人のための道しるべ（C++03）",
     "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
-    "likes_count": 341,
+    "likes_count": 342,
     "created_at": "2017-12-18T20:08:38+09:00",
     "updated_at": "2019-04-17T15:10:58+09:00",
     "id": "borerere"
@@ -738,7 +738,7 @@
   {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
     "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 308,
+    "likes_count": 309,
     "created_at": "2017-12-13T01:29:31+09:00",
     "updated_at": "2018-08-25T11:45:30+09:00",
     "id": "h1kita"
@@ -778,7 +778,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 268,
+    "likes_count": 269,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2020-12-14T06:15:26+09:00",
     "id": "nightyknite"

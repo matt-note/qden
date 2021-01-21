@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 1937,
+    "likes_count": 1938,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -34,7 +34,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1447,
+    "likes_count": 1448,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -82,7 +82,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1028,
+    "likes_count": 1031,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-01-19T22:01:44+09:00",
     "id": "diescake"
@@ -122,7 +122,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 957,
+    "likes_count": 963,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -130,7 +130,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 949,
+    "likes_count": 950,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -138,7 +138,7 @@
   {
     "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
     "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
-    "likes_count": 946,
+    "likes_count": 947,
     "created_at": "2018-12-25T21:17:23+09:00",
     "updated_at": "2018-12-27T14:44:55+09:00",
     "id": "hirokidaichi"
@@ -152,14 +152,6 @@
     "id": "_-_-_-_-_"
   },
   {
-    "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
-    "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 914,
-    "created_at": "2018-12-18T01:42:28+09:00",
-    "updated_at": "2018-12-21T14:21:57+09:00",
-    "id": "takugi"
-  },
-  {
     "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
     "url": "https://qiita.com/yumetodo/items/54e1a8230dbf513ea85b",
     "likes_count": 914,
@@ -168,9 +160,17 @@
     "id": "yumetodo"
   },
   {
+    "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
+    "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
+    "likes_count": 913,
+    "created_at": "2018-12-18T01:42:28+09:00",
+    "updated_at": "2018-12-21T14:21:57+09:00",
+    "id": "takugi"
+  },
+  {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 907,
+    "likes_count": 908,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -178,7 +178,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 877,
+    "likes_count": 879,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -194,7 +194,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 850,
+    "likes_count": 852,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -210,7 +210,7 @@
   {
     "title": "Reactベース静的サイトジェネレータGatsbyの真の力をお見せします",
     "url": "https://qiita.com/uehaj/items/1b7f0a86596353587466",
-    "likes_count": 811,
+    "likes_count": 810,
     "created_at": "2018-12-21T18:18:40+09:00",
     "updated_at": "2020-09-26T15:16:28+09:00",
     "id": "uehaj"
@@ -224,20 +224,20 @@
     "id": "YukiMiyatake"
   },
   {
+    "title": "2018年版もっとも参考になった機械学習系記事ベスト10",
+    "url": "https://qiita.com/junichiro/items/67ddf03014597552d78b",
+    "likes_count": 678,
+    "created_at": "2018-12-05T09:02:59+09:00",
+    "updated_at": "2018-12-06T13:52:35+09:00",
+    "id": "junichiro"
+  },
+  {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
     "likes_count": 678,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
-  },
-  {
-    "title": "2018年版もっとも参考になった機械学習系記事ベスト10",
-    "url": "https://qiita.com/junichiro/items/67ddf03014597552d78b",
-    "likes_count": 677,
-    "created_at": "2018-12-05T09:02:59+09:00",
-    "updated_at": "2018-12-06T13:52:35+09:00",
-    "id": "junichiro"
   },
   {
     "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
@@ -248,20 +248,20 @@
     "id": "potato4d"
   },
   {
+    "title": "2018年これだけは知っておきたいiOSライブラリ31選",
+    "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
+    "likes_count": 657,
+    "created_at": "2018-12-12T19:17:50+09:00",
+    "updated_at": "2019-03-18T13:42:44+09:00",
+    "id": "kohei1218"
+  },
+  {
     "title": "個人アプリ開発を支える技術と開発フロー",
     "url": "https://qiita.com/tattn/items/f1ad65d9d29c9d8b154d",
     "likes_count": 656,
     "created_at": "2018-12-09T21:16:53+09:00",
     "updated_at": "2018-12-17T18:00:42+09:00",
     "id": "tattn"
-  },
-  {
-    "title": "2018年これだけは知っておきたいiOSライブラリ31選",
-    "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
-    "likes_count": 656,
-    "created_at": "2018-12-12T19:17:50+09:00",
-    "updated_at": "2019-03-18T13:42:44+09:00",
-    "id": "kohei1218"
   },
   {
     "title": "エンジニアにも役に立つ、MBAで学んだ基礎スキル 20選",
@@ -314,7 +314,7 @@
   {
     "title": "Githubでissue管理して開発しよう",
     "url": "https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b",
-    "likes_count": 561,
+    "likes_count": 562,
     "created_at": "2018-12-24T14:56:03+09:00",
     "updated_at": "2020-11-18T15:03:21+09:00",
     "id": "fukubaka0825"
@@ -346,7 +346,7 @@
   {
     "title": "ExcelにPythonが搭載？その後 - xlwings を使おう ",
     "url": "https://qiita.com/yniji/items/b38bc312e860027108ac",
-    "likes_count": 493,
+    "likes_count": 494,
     "created_at": "2018-12-24T19:58:52+09:00",
     "updated_at": "2019-01-22T16:00:41+09:00",
     "id": "yniji"
@@ -386,7 +386,7 @@
   {
     "title": "Github Actionsが使えるようになったので使ってみる",
     "url": "https://qiita.com/1915keke/items/8b18097d2981e88eca93",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2018-12-02T19:23:09+09:00",
     "updated_at": "2019-09-13T14:44:25+09:00",
     "id": "1915keke"
@@ -506,7 +506,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 357,
+    "likes_count": 359,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2020-02-12T09:28:38+09:00",
     "id": "syantien"

@@ -2,7 +2,7 @@
   {
     "title": "Gitのコミットメッセージの書き方",
     "url": "https://qiita.com/itosho/items/9565c6ad2ffc24c09364",
-    "likes_count": 4332,
+    "likes_count": 4335,
     "created_at": "2014-11-21T20:52:14+09:00",
     "updated_at": "2016-04-18T16:20:36+09:00",
     "id": "itosho"
@@ -10,7 +10,7 @@
   {
     "title": "なぜ仮想DOMという概念が俺達の魂を震えさせるのか",
     "url": "https://qiita.com/mizchi/items/4d25bc26def1719d52e6",
-    "likes_count": 2746,
+    "likes_count": 2745,
     "created_at": "2014-12-01T08:40:51+09:00",
     "updated_at": "2020-09-22T00:11:23+09:00",
     "id": "mizchi"
@@ -26,7 +26,7 @@
   {
     "title": "Git-flowって何？",
     "url": "https://qiita.com/KosukeSone/items/514dd24828b485c69a05",
-    "likes_count": 1620,
+    "likes_count": 1621,
     "created_at": "2014-11-03T00:58:45+09:00",
     "updated_at": "2016-04-02T16:30:25+09:00",
     "id": "KosukeSone"
@@ -42,7 +42,7 @@
   {
     "title": "使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」",
     "url": "https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5",
-    "likes_count": 1322,
+    "likes_count": 1323,
     "created_at": "2014-11-06T07:20:52+09:00",
     "updated_at": "2020-02-20T22:41:58+09:00",
     "id": "jnchito"
@@ -58,7 +58,7 @@
   {
     "title": "使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」",
     "url": "https://qiita.com/jnchito/items/640f17e124ab263a54dd",
-    "likes_count": 1233,
+    "likes_count": 1234,
     "created_at": "2014-11-21T09:56:06+09:00",
     "updated_at": "2020-08-06T19:43:08+09:00",
     "id": "jnchito"
@@ -74,7 +74,7 @@
   {
     "title": "正規表現の基本",
     "url": "https://qiita.com/grrrr/items/7c8811b5cf37d700adc4",
-    "likes_count": 952,
+    "likes_count": 953,
     "created_at": "2014-11-13T00:31:06+09:00",
     "updated_at": "2020-01-22T15:26:05+09:00",
     "id": "grrrr"
@@ -122,7 +122,7 @@
   {
     "title": "［初心者向け］こんなときどうする⁉︎ GitのTips31選！",
     "url": "https://qiita.com/Keisuke69/items/35d60e4e375fc525ccbd",
-    "likes_count": 760,
+    "likes_count": 761,
     "created_at": "2014-11-28T11:44:00+09:00",
     "updated_at": "2018-03-16T20:55:21+09:00",
     "id": "Keisuke69"
@@ -162,7 +162,7 @@
   {
     "title": "Rails Asset Pipelineがうまくいかないときの問題の切り分けかた",
     "url": "https://qiita.com/metheglin/items/c5c756246b7afbd34ae2",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2014-11-14T20:50:30+09:00",
     "updated_at": "2017-04-27T18:12:13+09:00",
     "id": "metheglin"
@@ -218,7 +218,7 @@
   {
     "title": "ディスク容量がいっぱいの時にやる事",
     "url": "https://qiita.com/oshou/items/2630f9f1c1131beb748e",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2014-11-05T21:40:53+09:00",
     "updated_at": "2018-02-07T22:22:57+09:00",
     "id": "oshou"
@@ -258,7 +258,7 @@
   {
     "title": "(o1, o2) -> o1 - o2 なんて呪文はもうやめて！ - Java8でのComparatorの使い方",
     "url": "https://qiita.com/tag1216/items/50ecf6a7bc10218ee889",
-    "likes_count": 415,
+    "likes_count": 414,
     "created_at": "2014-11-04T00:34:48+09:00",
     "updated_at": "2015-04-12T14:03:56+09:00",
     "id": "tag1216"
@@ -290,7 +290,7 @@
   {
     "title": "RailsのTransactionの使い方",
     "url": "https://qiita.com/huydx/items/d946970d130b7dabe7ec",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2014-11-27T23:57:38+09:00",
     "updated_at": "2015-03-18T17:25:49+09:00",
     "id": "huydx"
@@ -402,7 +402,7 @@
   {
     "title": "PHPでPDF帳票を出力する方法（TCPDF + FPDI）",
     "url": "https://qiita.com/emegane/items/486975a79ebb267c2b8e",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2014-11-17T13:35:58+09:00",
     "updated_at": "2014-11-17T13:39:28+09:00",
     "id": "emegane"
@@ -432,20 +432,20 @@
     "id": "shell"
   },
   {
+    "title": "XcodeでiOSアプリ開発をする時の.gitignore",
+    "url": "https://qiita.com/ikuwow/items/4fae81a099bf82f44749",
+    "likes_count": 293,
+    "created_at": "2014-11-02T16:57:58+09:00",
+    "updated_at": "2018-02-14T12:49:15+09:00",
+    "id": "ikuwow"
+  },
+  {
     "title": "storyboardを使わずSwiftでToDoアプリを作ったら、とても勉強になった。",
     "url": "https://qiita.com/mochizukikotaro/items/a934a0a02ec3c632a7bc",
     "likes_count": 293,
     "created_at": "2014-11-24T20:02:33+09:00",
     "updated_at": "2014-11-24T20:10:41+09:00",
     "id": "mochizukikotaro"
-  },
-  {
-    "title": "XcodeでiOSアプリ開発をする時の.gitignore",
-    "url": "https://qiita.com/ikuwow/items/4fae81a099bf82f44749",
-    "likes_count": 291,
-    "created_at": "2014-11-02T16:57:58+09:00",
-    "updated_at": "2018-02-14T12:49:15+09:00",
-    "id": "ikuwow"
   },
   {
     "title": "Google API OAuth2.0のアクセストークン&リフレッシュトークン取得手順メモ",
