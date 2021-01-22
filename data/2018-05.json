@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4573,
+    "likes_count": 4574,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "コーディングをするときに鼻血がでるほど便利なwebツールリスト",
     "url": "https://qiita.com/isuke/items/7fcc5eb0b985005b7b7c",
-    "likes_count": 2653,
+    "likes_count": 2654,
     "created_at": "2018-05-11T00:22:27+09:00",
     "updated_at": "2020-05-10T17:20:53+09:00",
     "id": "isuke"
@@ -26,7 +26,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2390,
+    "likes_count": 2391,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -122,7 +122,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 819,
+    "likes_count": 821,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -130,7 +130,7 @@
   {
     "title": "忙しい研究者のためのテストコードとドキュメントの書き方",
     "url": "https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a",
-    "likes_count": 791,
+    "likes_count": 792,
     "created_at": "2018-05-25T21:52:09+09:00",
     "updated_at": "2020-12-28T01:40:01+09:00",
     "id": "hmkz"
@@ -138,7 +138,7 @@
   {
     "title": "キズナアイとねこますの声を入れ替える機械学習をした",
     "url": "https://qiita.com/KSRG_Miyabi/items/2a3b5bdca464ec1154d7",
-    "likes_count": 751,
+    "likes_count": 752,
     "created_at": "2018-05-15T21:54:27+09:00",
     "updated_at": "2018-12-25T18:45:10+09:00",
     "id": "KSRG_Miyabi"
@@ -170,7 +170,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 647,
+    "likes_count": 648,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -194,7 +194,7 @@
   {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 636,
+    "likes_count": 637,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
@@ -202,7 +202,7 @@
   {
     "title": "FizzBuzzを1byteで実装する",
     "url": "https://qiita.com/ymg_aq/items/b8e5d26035180bc8797e",
-    "likes_count": 636,
+    "likes_count": 637,
     "created_at": "2018-05-17T16:59:36+09:00",
     "updated_at": "2018-05-19T11:23:34+09:00",
     "id": "ymg_aq"
@@ -218,7 +218,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 603,
+    "likes_count": 605,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -280,20 +280,20 @@
     "id": "west-hiroaki"
   },
   {
+    "title": "docker と docker-compose の初歩",
+    "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
+    "likes_count": 545,
+    "created_at": "2018-05-26T16:12:48+09:00",
+    "updated_at": "2020-09-03T15:39:51+09:00",
+    "id": "hiyuzawa"
+  },
+  {
     "title": "Hyperでイケてるターミナルをつかおう",
     "url": "https://qiita.com/vimyum/items/44478a51ef3a6f49804f",
     "likes_count": 544,
     "created_at": "2018-05-18T01:22:23+09:00",
     "updated_at": "2018-07-07T23:56:17+09:00",
     "id": "vimyum"
-  },
-  {
-    "title": "docker と docker-compose の初歩",
-    "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 544,
-    "created_at": "2018-05-26T16:12:48+09:00",
-    "updated_at": "2020-09-03T15:39:51+09:00",
-    "id": "hiyuzawa"
   },
   {
     "title": "Javaのサポートについてのまとめ2018",
@@ -490,7 +490,7 @@
   {
     "title": "dockerで簡易にpython3の環境を作ってみる",
     "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
-    "likes_count": 286,
+    "likes_count": 288,
     "created_at": "2018-05-10T12:01:43+09:00",
     "updated_at": "2020-01-15T02:08:31+09:00",
     "id": "reflet"
@@ -498,7 +498,7 @@
   {
     "title": "VirtualBox のネットワークアダプタまとめ",
     "url": "https://qiita.com/pitao/items/0f9475e4c0e230911eb7",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2018-05-01T14:40:59+09:00",
     "updated_at": "2021-01-01T22:57:59+09:00",
     "id": "pitao"
@@ -522,7 +522,7 @@
   {
     "title": "SSH公開鍵認証で接続するまで",
     "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 255,
+    "likes_count": 256,
     "created_at": "2018-05-06T12:00:20+09:00",
     "updated_at": "2020-10-13T06:08:24+09:00",
     "id": "kazokmr"
