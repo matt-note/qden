@@ -10,7 +10,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3113,
+    "likes_count": 3114,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2018-10-01T16:44:21+09:00",
     "id": "ryounagaoka"
@@ -34,7 +34,7 @@
   {
     "title": "どこよりも分かりやすいSwiftの\"?\"と\"!\"",
     "url": "https://qiita.com/maiki055/items/b24378a3707bd35a31a8",
-    "likes_count": 1833,
+    "likes_count": 1834,
     "created_at": "2015-06-22T20:32:43+09:00",
     "updated_at": "2016-01-08T13:37:58+09:00",
     "id": "maiki055"
@@ -42,7 +42,7 @@
   {
     "title": "【機械学習】ディープラーニング フレームワークChainerを試しながら解説してみる。",
     "url": "https://qiita.com/kenmatsu4/items/7b8d24d4c5144a686412",
-    "likes_count": 1737,
+    "likes_count": 1736,
     "created_at": "2015-06-19T07:56:21+09:00",
     "updated_at": "2015-09-27T00:01:30+09:00",
     "id": "kenmatsu4"
@@ -58,7 +58,7 @@
   {
     "title": "Qiitaの数式チートシート",
     "url": "https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada",
-    "likes_count": 1325,
+    "likes_count": 1327,
     "created_at": "2015-06-14T01:44:10+09:00",
     "updated_at": "2020-11-09T14:33:00+09:00",
     "id": "PlanetMeron"
@@ -74,7 +74,7 @@
   {
     "title": "実例で学ぶ、JOIN (NLJ) が遅くなる理屈と対処法",
     "url": "https://qiita.com/yuku_t/items/208be188eef17699c7a5",
-    "likes_count": 1197,
+    "likes_count": 1198,
     "created_at": "2015-06-22T11:50:58+09:00",
     "updated_at": "2015-07-13T09:58:53+09:00",
     "id": "yuku_t"
@@ -90,7 +90,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1046,
+    "likes_count": 1048,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -162,7 +162,7 @@
   {
     "title": "Systemdを使ってさくっと自作コマンドをサービス化してみる",
     "url": "https://qiita.com/DQNEO/items/0b5d0bc5d3cf407cb7ff",
-    "likes_count": 678,
+    "likes_count": 679,
     "created_at": "2015-06-19T18:12:05+09:00",
     "updated_at": "2015-06-19T23:59:57+09:00",
     "id": "DQNEO"
@@ -202,7 +202,7 @@
   {
     "title": "JavaScript つい忘れてしまう配列のソート方法",
     "url": "https://qiita.com/PianoScoreJP/items/f0ff7345229871039672",
-    "likes_count": 576,
+    "likes_count": 577,
     "created_at": "2015-06-15T11:12:46+09:00",
     "updated_at": "2015-06-15T15:01:10+09:00",
     "id": "PianoScoreJP"
@@ -272,14 +272,6 @@
     "id": "stkdev"
   },
   {
-    "title": "iOSアプリの国際化対応の勘所とTips集(Swift版)",
-    "url": "https://qiita.com/mono0926/items/c41c1ce18b90b765a8f2",
-    "likes_count": 455,
-    "created_at": "2015-06-29T08:28:54+09:00",
-    "updated_at": "2020-06-17T07:48:21+09:00",
-    "id": "mono0926"
-  },
-  {
     "title": "すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順",
     "url": "https://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61",
     "likes_count": 454,
@@ -288,20 +280,28 @@
     "id": "ryounagaoka"
   },
   {
+    "title": "iOSアプリの国際化対応の勘所とTips集(Swift版)",
+    "url": "https://qiita.com/mono0926/items/c41c1ce18b90b765a8f2",
+    "likes_count": 454,
+    "created_at": "2015-06-29T08:28:54+09:00",
+    "updated_at": "2020-06-17T07:48:21+09:00",
+    "id": "mono0926"
+  },
+  {
+    "title": "設定ファイル記述言語 TOML",
+    "url": "https://qiita.com/b4b4r07/items/77c327742fc2256d6cbe",
+    "likes_count": 446,
+    "created_at": "2015-06-12T15:36:05+09:00",
+    "updated_at": "2020-04-07T13:56:49+09:00",
+    "id": "b4b4r07"
+  },
+  {
     "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
     "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
     "likes_count": 446,
     "created_at": "2015-06-18T14:31:26+09:00",
     "updated_at": "2020-02-03T08:43:46+09:00",
     "id": "uzresk"
-  },
-  {
-    "title": "設定ファイル記述言語 TOML",
-    "url": "https://qiita.com/b4b4r07/items/77c327742fc2256d6cbe",
-    "likes_count": 445,
-    "created_at": "2015-06-12T15:36:05+09:00",
-    "updated_at": "2020-04-07T13:56:49+09:00",
-    "id": "b4b4r07"
   },
   {
     "title": "Android Support Library v22.2 の Design Support Libraryをひと通り使って罠を踏んだ",
@@ -346,7 +346,7 @@
   {
     "title": "依存性注入(DI)の解説とやり方",
     "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
-    "likes_count": 403,
+    "likes_count": 405,
     "created_at": "2015-06-21T16:57:46+09:00",
     "updated_at": "2017-11-28T22:04:50+09:00",
     "id": "1000k"
@@ -442,7 +442,7 @@
   {
     "title": "iOS 9の新しいWebビュー: SFSafariViewController",
     "url": "https://qiita.com/mono0926/items/7a7114de4c9ca702abc7",
-    "likes_count": 346,
+    "likes_count": 345,
     "created_at": "2015-06-10T10:52:36+09:00",
     "updated_at": "2017-06-11T21:22:49+09:00",
     "id": "mono0926"
@@ -482,7 +482,7 @@
   {
     "title": "Qiita/Github/Slack/Discord 絵文字一覧",
     "url": "https://qiita.com/yamadashy/items/ae673f2bae8f1525b6af",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2015-06-16T22:26:16+09:00",
     "updated_at": "2018-11-21T15:45:06+09:00",
     "id": "yamadashy"
@@ -530,7 +530,7 @@
   {
     "title": "Rubyのクラスメソッドとインスタンスメソッドの例",
     "url": "https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2015-06-30T23:23:51+09:00",
     "updated_at": "2015-06-30T23:23:51+09:00",
     "id": "tbpgr"

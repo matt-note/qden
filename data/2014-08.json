@@ -2,7 +2,7 @@
   {
     "title": "Facebook, Twitter, Instagram等がどうやってIDを生成しているのか まとめ",
     "url": "https://qiita.com/daisy1754/items/98a6e6b17d8161eab081",
-    "likes_count": 1338,
+    "likes_count": 1339,
     "created_at": "2014-08-11T11:11:23+09:00",
     "updated_at": "2014-08-27T17:30:14+09:00",
     "id": "daisy1754"
@@ -50,7 +50,7 @@
   {
     "title": "忘れっぽい人のための正規表現チートシート",
     "url": "https://qiita.com/tossh/items/635aea9a529b9deb3038",
-    "likes_count": 1091,
+    "likes_count": 1093,
     "created_at": "2014-08-14T09:41:37+09:00",
     "updated_at": "2016-02-02T23:22:20+09:00",
     "id": "tossh"
@@ -130,7 +130,7 @@
   {
     "title": "なぜクロージャ（Closure）と言うのか？",
     "url": "https://qiita.com/mochizukikotaro/items/7403835a0dbb00ea71ae",
-    "likes_count": 719,
+    "likes_count": 720,
     "created_at": "2014-08-24T12:34:19+09:00",
     "updated_at": "2014-08-24T12:34:19+09:00",
     "id": "mochizukikotaro"
@@ -248,6 +248,14 @@
     "id": "mikakane"
   },
   {
+    "title": "Requests の使い方 (Python Library)",
+    "url": "https://qiita.com/sqrtxx/items/49beaa3795925e7de666",
+    "likes_count": 541,
+    "created_at": "2014-08-03T04:51:42+09:00",
+    "updated_at": "2014-08-03T04:51:42+09:00",
+    "id": "sqrtxx"
+  },
+  {
     "title": "Ruby の private と protected 。歴史と使い分け",
     "url": "https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e",
     "likes_count": 541,
@@ -256,17 +264,9 @@
     "id": "tbpgr"
   },
   {
-    "title": "Requests の使い方 (Python Library)",
-    "url": "https://qiita.com/sqrtxx/items/49beaa3795925e7de666",
-    "likes_count": 540,
-    "created_at": "2014-08-03T04:51:42+09:00",
-    "updated_at": "2014-08-03T04:51:42+09:00",
-    "id": "sqrtxx"
-  },
-  {
     "title": "【まとめ】インスタンス変数、クラス変数、クラスインスタンス変数",
     "url": "https://qiita.com/mogulla3/items/cd4d6e188c34c6819709",
-    "likes_count": 534,
+    "likes_count": 533,
     "created_at": "2014-08-10T16:15:52+09:00",
     "updated_at": "2014-08-10T16:16:10+09:00",
     "id": "mogulla3"
@@ -282,7 +282,7 @@
   {
     "title": "pyenvを使ってMacにPythonの環境を構築する",
     "url": "https://qiita.com/1000ch/items/93841f76ea52551b6a97",
-    "likes_count": 487,
+    "likes_count": 488,
     "created_at": "2014-08-28T14:59:56+09:00",
     "updated_at": "2020-01-31T16:32:22+09:00",
     "id": "1000ch"
@@ -424,20 +424,20 @@
     "id": "koher"
   },
   {
+    "title": "よく忘れるCSSの小技",
+    "url": "https://qiita.com/matsui-a/items/9de76659429593ed7a88",
+    "likes_count": 352,
+    "created_at": "2014-08-21T16:43:24+09:00",
+    "updated_at": "2015-06-02T15:24:47+09:00",
+    "id": "matsui-a"
+  },
+  {
     "title": "コールバックと上手に付き合う",
     "url": "https://qiita.com/KeithYokoma/items/d6c3bd07fc57b93f91cc",
     "likes_count": 352,
     "created_at": "2014-08-25T12:03:55+09:00",
     "updated_at": "2014-08-25T12:04:53+09:00",
     "id": "KeithYokoma"
-  },
-  {
-    "title": "よく忘れるCSSの小技",
-    "url": "https://qiita.com/matsui-a/items/9de76659429593ed7a88",
-    "likes_count": 351,
-    "created_at": "2014-08-21T16:43:24+09:00",
-    "updated_at": "2015-06-02T15:24:47+09:00",
-    "id": "matsui-a"
   },
   {
     "title": "powershell チートシート",
