@@ -18,7 +18,7 @@
   {
     "title": "tigでgitをもっと便利に！ addやcommitも",
     "url": "https://qiita.com/suino/items/b0dae7e00bd7165f79ea",
-    "likes_count": 1861,
+    "likes_count": 1862,
     "created_at": "2014-02-23T21:19:41+09:00",
     "updated_at": "2016-03-30T10:11:17+09:00",
     "id": "suino"
@@ -58,7 +58,7 @@
   {
     "title": "Zsh 入門者のための超速設定ガイド",
     "url": "https://qiita.com/uasi/items/c4288dd835a65eb9d709",
-    "likes_count": 905,
+    "likes_count": 906,
     "created_at": "2014-02-02T14:00:14+09:00",
     "updated_at": "2019-12-09T19:49:26+09:00",
     "id": "uasi"
@@ -114,7 +114,7 @@
   {
     "title": "経験ゼロでもできるプログラミング現場の単体テスト",
     "url": "https://qiita.com/disc99/items/177bdf6352de463fdc87",
-    "likes_count": 810,
+    "likes_count": 809,
     "created_at": "2014-02-20T02:46:19+09:00",
     "updated_at": "2016-11-03T15:32:27+09:00",
     "id": "disc99"
@@ -202,7 +202,7 @@
   {
     "title": "[PHP] リクエストパラメータ・セッションに関するまとめ",
     "url": "https://qiita.com/mpyw/items/7852213f478e8c5a2802",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2014-02-22T21:24:33+09:00",
     "updated_at": "2017-01-20T13:05:56+09:00",
     "id": "mpyw"
@@ -312,20 +312,20 @@
     "id": "junkls"
   },
   {
+    "title": "[Vagrant] Vagrant で複数のVM を立ち上げて、お互いに通信できるようにするには [VirtualBox]",
+    "url": "https://qiita.com/sho7650/items/cf5a586713f0aec86dc0",
+    "likes_count": 375,
+    "created_at": "2014-02-13T16:18:40+09:00",
+    "updated_at": "2014-05-30T12:26:46+09:00",
+    "id": "sho7650"
+  },
+  {
     "title": "美しいOnClickListenerの実装方法(を教えてください)",
     "url": "https://qiita.com/t2low/items/8ac683c7ebf4b6dd1b41",
     "likes_count": 375,
     "created_at": "2014-02-28T20:44:30+09:00",
     "updated_at": "2014-03-09T23:42:21+09:00",
     "id": "t2low"
-  },
-  {
-    "title": "[Vagrant] Vagrant で複数のVM を立ち上げて、お互いに通信できるようにするには [VirtualBox]",
-    "url": "https://qiita.com/sho7650/items/cf5a586713f0aec86dc0",
-    "likes_count": 374,
-    "created_at": "2014-02-13T16:18:40+09:00",
-    "updated_at": "2014-05-30T12:26:46+09:00",
-    "id": "sho7650"
   },
   {
     "title": "tmuxを使いこなそう（ウインドウ、ペイン、セッション、アタッチ、デタッチ）",

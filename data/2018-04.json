@@ -4,13 +4,13 @@
     "url": "https://qiita.com/drken/items/f909b79ee03e679c7142",
     "likes_count": 2061,
     "created_at": "2018-04-19T09:05:44+09:00",
-    "updated_at": "2020-10-06T15:07:24+09:00",
+    "updated_at": "2021-01-24T15:09:37+09:00",
     "id": "drken"
   },
   {
     "title": "個人開発者向けサーバ環境の選び方まとめ（heroku,aws,firebaseなどなど）",
     "url": "https://qiita.com/you8/items/670bfa6573cec2494c96",
-    "likes_count": 2028,
+    "likes_count": 2027,
     "created_at": "2018-04-04T07:52:07+09:00",
     "updated_at": "2020-03-31T09:35:05+09:00",
     "id": "you8"
@@ -18,7 +18,7 @@
   {
     "title": "データ分析で頻出のPandas基本操作",
     "url": "https://qiita.com/ysdyt/items/9ccca82fc5b504e7913a",
-    "likes_count": 1970,
+    "likes_count": 1971,
     "created_at": "2018-04-16T08:12:28+09:00",
     "updated_at": "2019-12-17T17:19:27+09:00",
     "id": "ysdyt"
@@ -50,7 +50,7 @@
   {
     "title": "フロントエンドのコンポーネント設計に立ち向かう",
     "url": "https://qiita.com/seya/items/8814e905693f00cdade2",
-    "likes_count": 1681,
+    "likes_count": 1682,
     "created_at": "2018-04-02T07:22:25+09:00",
     "updated_at": "2019-04-21T16:44:03+09:00",
     "id": "seya"
@@ -90,7 +90,7 @@
   {
     "title": "GAS ビギナーが GAS を使いこなすために知るべきこと 10 選",
     "url": "https://qiita.com/tanabee/items/2c51681396fe12b6a0e4",
-    "likes_count": 1221,
+    "likes_count": 1222,
     "created_at": "2018-04-03T20:21:07+09:00",
     "updated_at": "2020-10-22T01:26:54+09:00",
     "id": "tanabee"
@@ -154,7 +154,7 @@
   {
     "title": "ngrokが便利すぎる",
     "url": "https://qiita.com/mininobu/items/b45dbc70faedf30f484e",
-    "likes_count": 899,
+    "likes_count": 905,
     "created_at": "2018-04-15T00:55:28+09:00",
     "updated_at": "2018-04-15T00:55:28+09:00",
     "id": "mininobu"
@@ -202,7 +202,7 @@
   {
     "title": "物体検出についての歴史まとめ(1)",
     "url": "https://qiita.com/mshinoda88/items/9770ee671ea27f2c81a9",
-    "likes_count": 696,
+    "likes_count": 698,
     "created_at": "2018-04-17T21:14:51+09:00",
     "updated_at": "2021-01-15T00:25:15+09:00",
     "id": "mshinoda88"
@@ -218,10 +218,18 @@
   {
     "title": "async/await地獄",
     "url": "https://qiita.com/rana_kualu/items/e6c5c0e4f60b0d18799d",
-    "likes_count": 658,
+    "likes_count": 659,
     "created_at": "2018-04-09T19:56:09+09:00",
     "updated_at": "2018-11-25T14:20:35+09:00",
     "id": "rana_kualu"
+  },
+  {
+    "title": "チーム開発におけるプルリクの作法",
+    "url": "https://qiita.com/ikuwow/items/fb52a54c086398eb5b92",
+    "likes_count": 641,
+    "created_at": "2018-04-29T15:12:47+09:00",
+    "updated_at": "2019-08-17T22:38:20+09:00",
+    "id": "ikuwow"
   },
   {
     "title": "インフラ勉強会のご紹介",
@@ -230,14 +238,6 @@
     "created_at": "2018-04-01T20:57:44+09:00",
     "updated_at": "2018-10-01T19:03:38+09:00",
     "id": "yutakakn"
-  },
-  {
-    "title": "チーム開発におけるプルリクの作法",
-    "url": "https://qiita.com/ikuwow/items/fb52a54c086398eb5b92",
-    "likes_count": 640,
-    "created_at": "2018-04-29T15:12:47+09:00",
-    "updated_at": "2019-08-17T22:38:20+09:00",
-    "id": "ikuwow"
   },
   {
     "title": "グレースケール画像のうんちく",
@@ -418,7 +418,7 @@
   {
     "title": "iPhone画面サイズ早見表（図付き）",
     "url": "https://qiita.com/pe-ta/items/b3b754bde584abc98f44",
-    "likes_count": 394,
+    "likes_count": 396,
     "created_at": "2018-04-25T08:11:20+09:00",
     "updated_at": "2020-12-09T10:20:54+09:00",
     "id": "pe-ta"
@@ -458,7 +458,7 @@
   {
     "title": "分析関数（ウインドウ関数）をわかりやすく説明してみた",
     "url": "https://qiita.com/tlokweng/items/fc13dc30cc1aa28231c5",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2018-04-17T06:37:21+09:00",
     "updated_at": "2018-09-27T20:53:50+09:00",
     "id": "tlokweng"
@@ -466,7 +466,7 @@
   {
     "title": "Visual Studio CodeでVue.jsアプリケーションの開発環境を構築する",
     "url": "https://qiita.com/rubytomato@github/items/b35b819671e7cbb3dff7",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2018-04-24T00:27:32+09:00",
     "updated_at": "2018-06-19T00:03:53+09:00",
     "id": "rubytomato@github"

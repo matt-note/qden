@@ -2,7 +2,7 @@
   {
     "title": "何かのときにすっと出したい、プログラミングに関する法則・原則一覧",
     "url": "https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63",
-    "likes_count": 4195,
+    "likes_count": 4196,
     "created_at": "2014-07-21T23:44:04+09:00",
     "updated_at": "2018-02-21T17:53:55+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "Vim幼稚園からVim小学校へ",
     "url": "https://qiita.com/hachi8833/items/7beeee825c11f7437f54",
-    "likes_count": 3805,
+    "likes_count": 3806,
     "created_at": "2014-07-10T00:02:39+09:00",
     "updated_at": "2019-03-20T18:58:14+09:00",
     "id": "hachi8833"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3238,
+    "likes_count": 3239,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -42,7 +42,7 @@
   {
     "title": "Python Django入門 (1)",
     "url": "https://qiita.com/kaki_k/items/511611cadac1d0c69c54",
-    "likes_count": 2067,
+    "likes_count": 2068,
     "created_at": "2014-07-27T00:14:48+09:00",
     "updated_at": "2020-01-09T23:41:21+09:00",
     "id": "kaki_k"
@@ -58,7 +58,7 @@
   {
     "title": "【Git】基本コマンド",
     "url": "https://qiita.com/konweb/items/621722f67fdd8f86a017",
-    "likes_count": 1709,
+    "likes_count": 1711,
     "created_at": "2014-07-12T03:08:15+09:00",
     "updated_at": "2019-06-15T23:17:12+09:00",
     "id": "konweb"
@@ -74,7 +74,7 @@
   {
     "title": "ログ設計指針",
     "url": "https://qiita.com/nanasess/items/350e59b29cceb2f122b3",
-    "likes_count": 1534,
+    "likes_count": 1535,
     "created_at": "2014-07-16T11:28:44+09:00",
     "updated_at": "2020-11-09T18:44:53+09:00",
     "id": "nanasess"
@@ -258,7 +258,7 @@
   {
     "title": "なぜ、IDEじゃなくてVimを使うか。",
     "url": "https://qiita.com/rbtnn/items/88dcbe60d49db6de8002",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2014-07-20T21:06:14+09:00",
     "updated_at": "2014-07-20T22:42:57+09:00",
     "id": "rbtnn"
@@ -266,10 +266,18 @@
   {
     "title": "Python Django入門 (3)",
     "url": "https://qiita.com/kaki_k/items/7b178ad39394a031b50d",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2014-07-27T00:22:31+09:00",
     "updated_at": "2020-01-09T23:54:14+09:00",
     "id": "kaki_k"
+  },
+  {
+    "title": "ちょっとしたHTMLはGitHub Gistに置いてbl.ocks.orgで表示するのがお手軽です",
+    "url": "https://qiita.com/hnakamur/items/ad1346bc9cfb0288ff60",
+    "likes_count": 513,
+    "created_at": "2014-07-26T13:25:59+09:00",
+    "updated_at": "2014-07-26T13:25:59+09:00",
+    "id": "hnakamur"
   },
   {
     "title": "Systemd メモ書き",
@@ -278,14 +286,6 @@
     "created_at": "2014-07-11T14:46:46+09:00",
     "updated_at": "2018-09-26T20:28:37+09:00",
     "id": "a_yasui"
-  },
-  {
-    "title": "ちょっとしたHTMLはGitHub Gistに置いてbl.ocks.orgで表示するのがお手軽です",
-    "url": "https://qiita.com/hnakamur/items/ad1346bc9cfb0288ff60",
-    "likes_count": 512,
-    "created_at": "2014-07-26T13:25:59+09:00",
-    "updated_at": "2014-07-26T13:25:59+09:00",
-    "id": "hnakamur"
   },
   {
     "title": "テストの種類と技法",
@@ -450,7 +450,7 @@
   {
     "title": "MySQLで簡単にランダムなテストデータを作成する方法",
     "url": "https://qiita.com/tayasu/items/c5ddfc481d6b7cd8866d",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2014-07-30T10:17:01+09:00",
     "updated_at": "2014-07-30T20:54:27+09:00",
     "id": "tayasu"
