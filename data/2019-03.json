@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 2787,
+    "likes_count": 2790,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2020-11-04T17:56:10+09:00",
     "id": "upura"
@@ -26,7 +26,7 @@
   {
     "title": "[翻訳]あなたがプログラミングに向いていない10のサイン",
     "url": "https://qiita.com/hareku/items/4bfc48e23e83e0d300f3",
-    "likes_count": 1878,
+    "likes_count": 1879,
     "created_at": "2019-03-15T08:13:39+09:00",
     "updated_at": "2019-09-11T19:34:10+09:00",
     "id": "hareku"
@@ -42,7 +42,7 @@
   {
     "title": "【まつもとゆきひろ氏　特別講演】20代エンジニアのためのプログラマー勉強法のまとめ 2019/3/30",
     "url": "https://qiita.com/motoki4917/items/40386dd7fbd70987cc1d",
-    "likes_count": 1678,
+    "likes_count": 1679,
     "created_at": "2019-03-30T21:58:37+09:00",
     "updated_at": "2020-11-28T12:00:08+09:00",
     "id": "motoki4917"
@@ -82,7 +82,7 @@
   {
     "title": "実践/現場のPythonスクレイピング流儀",
     "url": "https://qiita.com/ulwlu/items/c84501993635c72540a7",
-    "likes_count": 1283,
+    "likes_count": 1284,
     "created_at": "2019-03-18T13:10:31+09:00",
     "updated_at": "2021-01-20T12:25:53+09:00",
     "id": "ulwlu"
@@ -114,7 +114,7 @@
   {
     "title": "GCPで永久無料枠を利用してサービスを立ち上げたときにしたことの備忘録",
     "url": "https://qiita.com/riku-shiru/items/a870edd9dc0b132e092c",
-    "likes_count": 1084,
+    "likes_count": 1085,
     "created_at": "2019-03-29T08:45:23+09:00",
     "updated_at": "2019-04-10T10:08:57+09:00",
     "id": "riku-shiru"
@@ -154,7 +154,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 812,
+    "likes_count": 813,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -184,20 +184,20 @@
     "id": "stakemura"
   },
   {
+    "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
+    "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
+    "likes_count": 712,
+    "created_at": "2019-03-03T15:52:24+09:00",
+    "updated_at": "2020-06-23T12:41:24+09:00",
+    "id": "koedamon"
+  },
+  {
     "title": "Python系の情報ソースをまとめた",
     "url": "https://qiita.com/ulwlu/items/fdb5e227fa5dcbcc4691",
     "likes_count": 711,
     "created_at": "2019-03-25T05:01:15+09:00",
     "updated_at": "2020-03-30T00:03:23+09:00",
     "id": "ulwlu"
-  },
-  {
-    "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
-    "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 708,
-    "created_at": "2019-03-03T15:52:24+09:00",
-    "updated_at": "2020-06-23T12:41:24+09:00",
-    "id": "koedamon"
   },
   {
     "title": "【Python】🍜機械学習で「隠れた名店」を探してみた。（そして実際に行ってみた）🍜",
@@ -298,7 +298,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 529,
+    "likes_count": 532,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -330,7 +330,7 @@
   {
     "title": "TypeScript の概要",
     "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 448,
+    "likes_count": 449,
     "created_at": "2019-03-18T13:33:09+09:00",
     "updated_at": "2019-07-18T07:59:21+09:00",
     "id": "EBIHARA_kenji"
@@ -352,20 +352,20 @@
     "id": "Ancient_Scapes"
   },
   {
+    "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
+    "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
+    "likes_count": 419,
+    "created_at": "2019-03-27T19:20:10+09:00",
+    "updated_at": "2019-03-27T20:33:18+09:00",
+    "id": "wann"
+  },
+  {
     "title": "全言語で気をつけるべき、ファイル書き込み時のお作法",
     "url": "https://qiita.com/kazupaka/items/b6479f3f8d13347bf867",
     "likes_count": 418,
     "created_at": "2019-03-03T22:06:02+09:00",
     "updated_at": "2020-07-01T01:23:27+09:00",
     "id": "kazupaka"
-  },
-  {
-    "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
-    "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 418,
-    "created_at": "2019-03-27T19:20:10+09:00",
-    "updated_at": "2019-03-27T20:33:18+09:00",
-    "id": "wann"
   },
   {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
@@ -490,7 +490,7 @@
   {
     "title": "Visual studio codeで競プロ環境構築[mac OS]",
     "url": "https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2019-03-17T19:46:00+09:00",
     "updated_at": "2020-12-04T23:50:28+09:00",
     "id": "EngTks"

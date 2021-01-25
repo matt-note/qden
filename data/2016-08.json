@@ -10,7 +10,7 @@
   {
     "title": "Windows Subsystem for Linux (WSL1) をインストールしてみよう！",
     "url": "https://qiita.com/Aruneko/items/c79810b0b015bebf30bb",
-    "likes_count": 2203,
+    "likes_count": 2202,
     "created_at": "2016-08-03T10:58:15+09:00",
     "updated_at": "2020-06-07T21:06:52+09:00",
     "id": "Aruneko"
@@ -58,7 +58,7 @@
   {
     "title": "GitHubのmasterブランチをWebページとして公開する手順（GitHub Pages）",
     "url": "https://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096",
-    "likes_count": 1144,
+    "likes_count": 1150,
     "created_at": "2016-08-18T10:27:52+09:00",
     "updated_at": "2020-12-21T18:43:05+09:00",
     "id": "tonkotsuboy_com"
@@ -154,7 +154,7 @@
   {
     "title": "[Deprecated] Go CodeReviewComments 日本語翻訳 #golang ",
     "url": "https://qiita.com/knsh14/items/8b73b31822c109d4c497",
-    "likes_count": 659,
+    "likes_count": 660,
     "created_at": "2016-08-18T10:48:47+09:00",
     "updated_at": "2020-04-09T12:33:00+09:00",
     "id": "knsh14"
@@ -170,7 +170,7 @@
   {
     "title": "線形代数の基礎",
     "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
-    "likes_count": 590,
+    "likes_count": 591,
     "created_at": "2016-08-30T23:11:19+09:00",
     "updated_at": "2020-08-23T02:47:09+09:00",
     "id": "nognog"
@@ -210,7 +210,7 @@
   {
     "title": "Let's Encrypt で Nginx にSSLを設定する",
     "url": "https://qiita.com/HeRo/items/f9eb8d8a08d4d5b63ee9",
-    "likes_count": 532,
+    "likes_count": 533,
     "created_at": "2016-08-14T11:31:29+09:00",
     "updated_at": "2019-05-18T10:12:04+09:00",
     "id": "HeRo"
@@ -224,20 +224,20 @@
     "id": "k5n"
   },
   {
+    "title": "language server protocolについて (前編)",
+    "url": "https://qiita.com/atsushieno/items/ce31df9bd88e98eec5c4",
+    "likes_count": 484,
+    "created_at": "2016-08-19T12:33:03+09:00",
+    "updated_at": "2020-10-07T01:21:38+09:00",
+    "id": "atsushieno"
+  },
+  {
     "title": "氷解！データ分析、機械学習手法ってたくさんあるけどいつどれを使えばよいのか",
     "url": "https://qiita.com/aokikenichi/items/688e66d10a944051039c",
     "likes_count": 484,
     "created_at": "2016-08-23T15:21:31+09:00",
     "updated_at": "2020-07-19T12:00:00+09:00",
     "id": "aokikenichi"
-  },
-  {
-    "title": "language server protocolについて (前編)",
-    "url": "https://qiita.com/atsushieno/items/ce31df9bd88e98eec5c4",
-    "likes_count": 483,
-    "created_at": "2016-08-19T12:33:03+09:00",
-    "updated_at": "2020-10-07T01:21:38+09:00",
-    "id": "atsushieno"
   },
   {
     "title": "Rubyでディープラーニング",
@@ -384,20 +384,20 @@
     "id": "tkit"
   },
   {
+    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
+    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
+    "likes_count": 333,
+    "created_at": "2016-08-30T17:27:15+09:00",
+    "updated_at": "2020-02-07T14:34:31+09:00",
+    "id": "t-a-run"
+  },
+  {
     "title": "Laravelでテストコードを書くためのチュートリアル",
     "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
     "likes_count": 332,
     "created_at": "2016-08-06T12:48:15+09:00",
     "updated_at": "2016-08-06T12:48:15+09:00",
     "id": "niisan-tokyo"
-  },
-  {
-    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
-    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
-    "likes_count": 332,
-    "created_at": "2016-08-30T17:27:15+09:00",
-    "updated_at": "2020-02-07T14:34:31+09:00",
-    "id": "t-a-run"
   },
   {
     "title": "Pythonの環境構築 on Mac ( pyenv, virtualenv, anaconda, ipython notebook )",
@@ -442,7 +442,7 @@
   {
     "title": "最適化におけるPython",
     "url": "https://qiita.com/SaitoTsutomu/items/070ca9cb37c6b2b492f0",
-    "likes_count": 284,
+    "likes_count": 285,
     "created_at": "2016-08-18T17:17:48+09:00",
     "updated_at": "2020-04-26T17:33:19+09:00",
     "id": "SaitoTsutomu"
@@ -474,7 +474,7 @@
   {
     "title": "Spring Boot解説第18回(基本編：Controllerとは)",
     "url": "https://qiita.com/TEBASAKI/items/267c261db17f178e33eb",
-    "likes_count": 229,
+    "likes_count": 230,
     "created_at": "2016-08-08T10:54:54+09:00",
     "updated_at": "2017-06-22T20:01:30+09:00",
     "id": "TEBASAKI"
