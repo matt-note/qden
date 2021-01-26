@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2106,
+    "likes_count": 2107,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -42,7 +42,7 @@
   {
     "title": "homebrewとは何者か。仕組みについて調べてみた",
     "url": "https://qiita.com/omega999/items/6f65217b81ad3fffe7e6",
-    "likes_count": 1591,
+    "likes_count": 1592,
     "created_at": "2014-12-04T20:41:15+09:00",
     "updated_at": "2014-12-04T20:41:15+09:00",
     "id": "omega999"
@@ -122,7 +122,7 @@
   {
     "title": "ターミナルマルチプレクサ tmux をカスタマイズする",
     "url": "https://qiita.com/b4b4r07/items/01359e8a3066d1c37edc",
-    "likes_count": 878,
+    "likes_count": 880,
     "created_at": "2014-12-04T01:07:48+09:00",
     "updated_at": "2019-11-14T11:00:47+09:00",
     "id": "b4b4r07"
@@ -186,7 +186,7 @@
   {
     "title": "UIViewControllerのライフサイクル",
     "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 712,
+    "likes_count": 713,
     "created_at": "2014-12-24T22:11:02+09:00",
     "updated_at": "2014-12-24T22:11:02+09:00",
     "id": "motokiee"
@@ -226,7 +226,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 649,
+    "likes_count": 651,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -290,7 +290,7 @@
   {
     "title": "DynamoDB ベストプラクティス",
     "url": "https://qiita.com/inouet/items/bcf9467a65b27c362ecf",
-    "likes_count": 590,
+    "likes_count": 591,
     "created_at": "2014-12-17T04:08:17+09:00",
     "updated_at": "2014-12-17T13:25:50+09:00",
     "id": "inouet"
@@ -386,7 +386,7 @@
   {
     "title": "PostgreSQL のパフォーマンスチューニング",
     "url": "https://qiita.com/cuzic/items/f9b846e6171a54079d77",
-    "likes_count": 493,
+    "likes_count": 494,
     "created_at": "2014-12-12T22:45:03+09:00",
     "updated_at": "2014-12-31T22:15:46+09:00",
     "id": "cuzic"
@@ -434,7 +434,7 @@
   {
     "title": "今こそ復習したい、iOSアプリのディレクトリ構成",
     "url": "https://qiita.com/tototti/items/8646405f47cc56a59722",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2014-12-24T23:54:27+09:00",
     "updated_at": "2016-05-11T23:42:11+09:00",
     "id": "tototti"
@@ -474,7 +474,7 @@
   {
     "title": "むずかしくないWPF",
     "url": "https://qiita.com/karno/items/f30f661b40d9adec6a6d",
-    "likes_count": 431,
+    "likes_count": 432,
     "created_at": "2014-12-12T20:31:59+09:00",
     "updated_at": "2016-02-02T21:47:33+09:00",
     "id": "karno"
@@ -672,6 +672,14 @@
     "id": "taiyop"
   },
   {
+    "title": "Python ビット演算 超入門",
+    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
+    "likes_count": 293,
+    "created_at": "2014-12-14T19:50:10+09:00",
+    "updated_at": "2014-12-15T17:50:09+09:00",
+    "id": "7shi"
+  },
+  {
     "title": "Golang パフォーマンスチューニング",
     "url": "https://qiita.com/naoina/items/d71ddfab31f4b29f6693",
     "likes_count": 293,
@@ -686,14 +694,6 @@
     "created_at": "2014-12-12T18:21:56+09:00",
     "updated_at": "2016-06-10T16:02:24+09:00",
     "id": "shu223"
-  },
-  {
-    "title": "Python ビット演算 超入門",
-    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
-    "likes_count": 292,
-    "created_at": "2014-12-14T19:50:10+09:00",
-    "updated_at": "2014-12-15T17:50:09+09:00",
-    "id": "7shi"
   },
   {
     "title": "Qiita の記事の見出しに Font-Awesome を利用して見栄えを良くする #qiita",

@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4473,
+    "likes_count": 4475,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -58,7 +58,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1348,
+    "likes_count": 1349,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-01-05T01:20:20+09:00",
     "id": "soarflat"
@@ -66,7 +66,7 @@
   {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1302,
+    "likes_count": 1304,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
@@ -112,6 +112,14 @@
     "id": "taizan"
   },
   {
+    "title": "kubernetes初心者のための入門ハンズオン",
+    "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
+    "likes_count": 1014,
+    "created_at": "2016-12-10T00:01:31+09:00",
+    "updated_at": "2020-12-05T20:23:32+09:00",
+    "id": "mihirat"
+  },
+  {
     "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
     "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
     "likes_count": 1013,
@@ -120,17 +128,9 @@
     "id": "joker1007"
   },
   {
-    "title": "kubernetes初心者のための入門ハンズオン",
-    "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
-    "likes_count": 1011,
-    "created_at": "2016-12-10T00:01:31+09:00",
-    "updated_at": "2020-12-05T20:23:32+09:00",
-    "id": "mihirat"
-  },
-  {
     "title": "Webhookとは？",
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 895,
+    "likes_count": 898,
     "created_at": "2016-12-17T12:54:09+09:00",
     "updated_at": "2021-01-05T01:20:10+09:00",
     "id": "soarflat"
@@ -138,7 +138,7 @@
   {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 868,
+    "likes_count": 869,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
@@ -154,7 +154,7 @@
   {
     "title": "ゆるふわPandasチートシート",
     "url": "https://qiita.com/tanemaki/items/2ed05e258ef4c9e6caac",
-    "likes_count": 823,
+    "likes_count": 824,
     "created_at": "2016-12-06T00:51:42+09:00",
     "updated_at": "2018-06-18T15:35:20+09:00",
     "id": "tanemaki"
@@ -226,7 +226,7 @@
   {
     "title": "良いエンジニアを採用するための方法論",
     "url": "https://qiita.com/dorarep/items/b9f7f6ff6e1bc344cf0a",
-    "likes_count": 666,
+    "likes_count": 667,
     "created_at": "2016-12-05T14:14:10+09:00",
     "updated_at": "2020-08-05T22:57:31+09:00",
     "id": "dorarep"
@@ -258,7 +258,7 @@
   {
     "title": "iOSアプリ開発でアニメーションするなら押さえておきたい基礎",
     "url": "https://qiita.com/hachinobu/items/57d4c305c907805b4a53",
-    "likes_count": 610,
+    "likes_count": 611,
     "created_at": "2016-12-22T15:31:54+09:00",
     "updated_at": "2018-12-27T15:29:57+09:00",
     "id": "hachinobu"
@@ -330,7 +330,7 @@
   {
     "title": "シェルスクリプトの罠を避ける三つの tips",
     "url": "https://qiita.com/magicant/items/f3554274ee500bddaca8",
-    "likes_count": 541,
+    "likes_count": 540,
     "created_at": "2016-12-08T00:03:10+09:00",
     "updated_at": "2016-12-08T13:58:34+09:00",
     "id": "magicant"
@@ -386,7 +386,7 @@
   {
     "title": "みんなRailsのSTIを誤解してないか!?",
     "url": "https://qiita.com/yebihara/items/9ecb838893ad99be0561",
-    "likes_count": 487,
+    "likes_count": 488,
     "created_at": "2016-12-04T17:53:39+09:00",
     "updated_at": "2016-12-16T19:48:07+09:00",
     "id": "yebihara"
@@ -410,7 +410,7 @@
   {
     "title": "転職する時に必ずチェックしたい募集要項",
     "url": "https://qiita.com/ma3tk/items/3336c9a245b86a6c448f",
-    "likes_count": 476,
+    "likes_count": 475,
     "created_at": "2016-12-15T00:04:29+09:00",
     "updated_at": "2017-06-12T09:47:31+09:00",
     "id": "ma3tk"
@@ -434,7 +434,7 @@
   {
     "title": "【企業サイト構築用】WordPress設計ガイドライン",
     "url": "https://qiita.com/kgsi/items/65ee2d7814e5cfa199d2",
-    "likes_count": 471,
+    "likes_count": 470,
     "created_at": "2016-12-13T12:13:43+09:00",
     "updated_at": "2019-03-19T14:40:56+09:00",
     "id": "kgsi"
@@ -506,7 +506,7 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 421,
+    "likes_count": 422,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
@@ -554,7 +554,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 380,
+    "likes_count": 382,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -594,7 +594,7 @@
   {
     "title": "今から新規でiOSアプリを書き始めるなら。2016年冬",
     "url": "https://qiita.com/yimajo/items/5a7333fd709e625b60da",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2016-12-04T13:04:33+09:00",
     "updated_at": "2016-12-05T14:18:00+09:00",
     "id": "yimajo"
@@ -618,7 +618,7 @@
   {
     "title": "「量子コンピュータが人工知能を加速する」を読んで、数式を使わずにPythonでその概要を説明してみた",
     "url": "https://qiita.com/onhrs/items/aa0aa181c27743956689",
-    "likes_count": 335,
+    "likes_count": 336,
     "created_at": "2016-12-22T00:41:26+09:00",
     "updated_at": "2017-10-20T15:15:28+09:00",
     "id": "onhrs"
