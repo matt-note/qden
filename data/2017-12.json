@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5401,
+    "likes_count": 5402,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 1983,
+    "likes_count": 1984,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -18,10 +18,18 @@
   {
     "title": "0からREST APIについて調べてみた",
     "url": "https://qiita.com/masato44gm/items/dffb8281536ad321fb08",
-    "likes_count": 1644,
+    "likes_count": 1646,
     "created_at": "2017-12-04T15:36:09+09:00",
     "updated_at": "2019-01-09T11:56:19+09:00",
     "id": "masato44gm"
+  },
+  {
+    "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
+    "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
+    "likes_count": 1437,
+    "created_at": "2017-12-13T03:22:20+09:00",
+    "updated_at": "2020-10-08T03:31:37+09:00",
+    "id": "kumagi"
   },
   {
     "title": "Macに別れを告げて、クラウド中心の開発生活を始めるまで",
@@ -30,14 +38,6 @@
     "created_at": "2017-12-04T18:26:23+09:00",
     "updated_at": "2018-11-11T13:50:38+09:00",
     "id": "cognitom"
-  },
-  {
-    "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
-    "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1436,
-    "created_at": "2017-12-13T03:22:20+09:00",
-    "updated_at": "2020-10-08T03:31:37+09:00",
-    "id": "kumagi"
   },
   {
     "title": "11ヶ月間でTOEICスコアを300点から835点に上げた英語学習法",
@@ -50,7 +50,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1350,
+    "likes_count": 1351,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -58,7 +58,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1214,
+    "likes_count": 1215,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -82,7 +82,7 @@
   {
     "title": "学習を加速させるインデックス読書術",
     "url": "https://qiita.com/dkatsura/items/3364b293ed1451a66a8a",
-    "likes_count": 1097,
+    "likes_count": 1098,
     "created_at": "2017-12-08T23:19:04+09:00",
     "updated_at": "2017-12-09T07:01:39+09:00",
     "id": "dkatsura"
@@ -90,7 +90,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1050,
+    "likes_count": 1053,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -114,7 +114,7 @@
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
     "url": "https://qiita.com/YudaiTsukamoto/items/06b426f4dbee268d5035",
-    "likes_count": 875,
+    "likes_count": 876,
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2017-12-14T17:04:47+09:00",
     "id": "YudaiTsukamoto"
@@ -122,7 +122,7 @@
   {
     "title": "2017年のディープラーニング論文100選",
     "url": "https://qiita.com/sakaiakira/items/f225b670bea6d851c7ea",
-    "likes_count": 863,
+    "likes_count": 862,
     "created_at": "2017-12-18T13:13:50+09:00",
     "updated_at": "2018-05-09T01:01:47+09:00",
     "id": "sakaiakira"
@@ -154,7 +154,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 823,
+    "likes_count": 824,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -186,7 +186,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 784,
+    "likes_count": 785,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -226,7 +226,7 @@
   {
     "title": "仮想通貨自動取引入門",
     "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
-    "likes_count": 739,
+    "likes_count": 740,
     "created_at": "2017-12-17T11:54:43+09:00",
     "updated_at": "2018-08-23T10:49:03+09:00",
     "id": "shionhonda"
@@ -282,7 +282,7 @@
   {
     "title": "Vue.js いろいろまとめ",
     "url": "https://qiita.com/SatoTakumi/items/36204b04e5743d666a26",
-    "likes_count": 639,
+    "likes_count": 640,
     "created_at": "2017-12-14T23:53:07+09:00",
     "updated_at": "2019-02-08T20:00:08+09:00",
     "id": "SatoTakumi"
@@ -290,7 +290,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 633,
+    "likes_count": 635,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -362,7 +362,7 @@
   {
     "title": " Nuxt.js使ってみた",
     "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 543,
+    "likes_count": 544,
     "created_at": "2017-12-15T23:18:21+09:00",
     "updated_at": "2021-01-15T16:23:44+09:00",
     "id": "_takeshi_24"
@@ -370,7 +370,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 541,
+    "likes_count": 540,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -402,7 +402,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -426,7 +426,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -466,7 +466,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 455,
+    "likes_count": 456,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -474,7 +474,7 @@
   {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 431,
+    "likes_count": 432,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
@@ -492,7 +492,7 @@
     "url": "https://qiita.com/soarflat/items/3e43368b2d767c730781",
     "likes_count": 430,
     "created_at": "2017-12-10T13:28:47+09:00",
-    "updated_at": "2021-01-05T01:19:20+09:00",
+    "updated_at": "2021-01-27T02:42:37+09:00",
     "id": "soarflat"
   },
   {
@@ -514,7 +514,7 @@
   {
     "title": "Chainer v4 ビギナー向けチュートリアル",
     "url": "https://qiita.com/mitmul/items/1e35fba085eb07a92560",
-    "likes_count": 413,
+    "likes_count": 412,
     "created_at": "2017-12-03T18:52:47+09:00",
     "updated_at": "2018-09-20T23:15:46+09:00",
     "id": "mitmul"
@@ -570,7 +570,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 377,
+    "likes_count": 378,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2020-04-15T17:21:40+09:00",
     "id": "sorami"
@@ -586,7 +586,7 @@
   {
     "title": "WindowsでDocker環境を試してみる",
     "url": "https://qiita.com/fkooo/items/d2fddef9091b906675ca",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2017-12-20T20:24:56+09:00",
     "updated_at": "2021-01-17T17:08:39+09:00",
     "id": "fkooo"
@@ -682,7 +682,7 @@
   {
     "title": "WebRTCでビデオチャットアプリを作ってみた！",
     "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
-    "likes_count": 332,
+    "likes_count": 333,
     "created_at": "2017-12-21T21:30:58+09:00",
     "updated_at": "2019-01-06T14:01:57+09:00",
     "id": "lighthouse"
@@ -768,20 +768,20 @@
     "id": "ishizakiiii"
   },
   {
+    "title": "pythonでのcsvファイルの読み込み",
+    "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
+    "likes_count": 273,
+    "created_at": "2017-12-16T21:28:42+09:00",
+    "updated_at": "2017-12-16T21:28:42+09:00",
+    "id": "motoki1990"
+  },
+  {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
     "likes_count": 272,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2021-01-25T22:27:05+09:00",
     "id": "nightyknite"
-  },
-  {
-    "title": "pythonでのcsvファイルの読み込み",
-    "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 271,
-    "created_at": "2017-12-16T21:28:42+09:00",
-    "updated_at": "2017-12-16T21:28:42+09:00",
-    "id": "motoki1990"
   },
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",

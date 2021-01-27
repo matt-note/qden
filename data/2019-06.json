@@ -26,7 +26,7 @@
   {
     "title": "なるべく切れない回線のつくりかた（物理）v2",
     "url": "https://qiita.com/norisionori/items/01784500e9f4a6d0474b",
-    "likes_count": 1698,
+    "likes_count": 1697,
     "created_at": "2019-06-27T17:38:54+09:00",
     "updated_at": "2020-10-31T18:25:07+09:00",
     "id": "norisionori"
@@ -50,7 +50,7 @@
   {
     "title": "DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】",
     "url": "https://qiita.com/drken/items/4a7869c5e304883f539b",
-    "likes_count": 1211,
+    "likes_count": 1213,
     "created_at": "2019-06-18T05:39:48+09:00",
     "updated_at": "2020-04-07T23:46:49+09:00",
     "id": "drken"
@@ -90,7 +90,7 @@
   {
     "title": "実務でどんな git コマンドを使っているか振り返ってみる",
     "url": "https://qiita.com/west-hiroaki/items/74cccbc22b2cc7a4aacb",
-    "likes_count": 942,
+    "likes_count": 941,
     "created_at": "2019-06-26T23:17:26+09:00",
     "updated_at": "2019-07-01T13:54:39+09:00",
     "id": "west-hiroaki"
@@ -106,7 +106,7 @@
   {
     "title": "【初心者向け】NPMとpackage.jsonを概念的に理解する",
     "url": "https://qiita.com/righteous/items/e5448cb2e7e11ab7d477",
-    "likes_count": 837,
+    "likes_count": 841,
     "created_at": "2019-06-25T02:06:43+09:00",
     "updated_at": "2020-03-11T19:05:53+09:00",
     "id": "righteous"
@@ -122,7 +122,7 @@
   {
     "title": "Flutter入門のためのDart入門",
     "url": "https://qiita.com/teradonburi/items/913fb8c311b9f2bdb1dd",
-    "likes_count": 763,
+    "likes_count": 764,
     "created_at": "2019-06-23T20:50:04+09:00",
     "updated_at": "2020-09-09T07:34:03+09:00",
     "id": "teradonburi"
@@ -154,7 +154,7 @@
   {
     "title": "魔法使いになりたい人のためのシェーダーライブコーディング入門",
     "url": "https://qiita.com/kaneta1992/items/21149c78159bd27e0860",
-    "likes_count": 732,
+    "likes_count": 733,
     "created_at": "2019-06-20T08:13:05+09:00",
     "updated_at": "2019-07-08T23:51:56+09:00",
     "id": "kaneta1992"
@@ -216,20 +216,20 @@
     "id": "svfreerider"
   },
   {
+    "title": "BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜",
+    "url": "https://qiita.com/drken/items/996d80bcae64649a6580",
+    "likes_count": 541,
+    "created_at": "2019-06-25T10:13:51+09:00",
+    "updated_at": "2020-05-22T21:31:07+09:00",
+    "id": "drken"
+  },
+  {
     "title": "経験ゼロから始めるAI開発",
     "url": "https://qiita.com/RHM/items/c7cd161ce965f93c1b81",
     "likes_count": 539,
     "created_at": "2019-06-17T17:06:09+09:00",
     "updated_at": "2019-06-26T11:17:09+09:00",
     "id": "RHM"
-  },
-  {
-    "title": "BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜",
-    "url": "https://qiita.com/drken/items/996d80bcae64649a6580",
-    "likes_count": 539,
-    "created_at": "2019-06-25T10:13:51+09:00",
-    "updated_at": "2020-05-22T21:31:07+09:00",
-    "id": "drken"
   },
   {
     "title": "細かすぎて伝わりにくい、Pythonの本当の落とし穴10選＋α",
@@ -354,7 +354,7 @@
   {
     "title": "いまさらだけどgRPCに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/a1cc2be6045723e242eb",
-    "likes_count": 418,
+    "likes_count": 420,
     "created_at": "2019-06-06T12:39:48+09:00",
     "updated_at": "2020-04-23T20:43:08+09:00",
     "id": "gold-kou"
@@ -362,7 +362,7 @@
   {
     "title": "will-changeで目指す60fpsのぬるぬるCSSアニメーション",
     "url": "https://qiita.com/yuneco/items/f07d60ab21dd1de9a51d",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2019-06-09T22:27:07+09:00",
     "updated_at": "2020-08-16T19:50:05+09:00",
     "id": "yuneco"
@@ -384,20 +384,20 @@
     "id": "mejileben"
   },
   {
+    "title": "Redux Hooks によるラクラク dispatch & states",
+    "url": "https://qiita.com/Ouvill/items/569384e5c8c7ce78f98e",
+    "likes_count": 379,
+    "created_at": "2019-06-11T19:55:33+09:00",
+    "updated_at": "2019-12-09T16:51:20+09:00",
+    "id": "Ouvill"
+  },
+  {
     "title": "はじめてのvue-property-decorator (nuxtにも対応）",
     "url": "https://qiita.com/simochee/items/e5b77af4aa36bd0f32e5",
     "likes_count": 379,
     "created_at": "2019-06-27T19:55:13+09:00",
     "updated_at": "2020-06-05T22:41:37+09:00",
     "id": "simochee"
-  },
-  {
-    "title": "Redux Hooks によるラクラク dispatch & states",
-    "url": "https://qiita.com/Ouvill/items/569384e5c8c7ce78f98e",
-    "likes_count": 378,
-    "created_at": "2019-06-11T19:55:33+09:00",
-    "updated_at": "2019-12-09T16:51:20+09:00",
-    "id": "Ouvill"
   },
   {
     "title": "優れた開発者の習慣：Apple系ソフト開発者以外にもオススメのWWDC2019で発表されたセッション和訳",

@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1724,
+    "likes_count": 1723,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1453,
+    "likes_count": 1454,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -34,7 +34,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1452,
+    "likes_count": 1453,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -50,7 +50,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1279,
+    "likes_count": 1277,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2019-09-14T16:44:47+09:00",
     "id": "saboyutaka"
@@ -74,7 +74,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1138,
+    "likes_count": 1139,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -160,6 +160,14 @@
     "id": "yumetodo"
   },
   {
+    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
+    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
+    "likes_count": 913,
+    "created_at": "2018-12-03T11:08:40+09:00",
+    "updated_at": "2019-02-12T01:34:29+09:00",
+    "id": "drken"
+  },
+  {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
     "likes_count": 913,
@@ -168,17 +176,9 @@
     "id": "takugi"
   },
   {
-    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
-    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 911,
-    "created_at": "2018-12-03T11:08:40+09:00",
-    "updated_at": "2019-02-12T01:34:29+09:00",
-    "id": "drken"
-  },
-  {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 882,
+    "likes_count": 883,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -202,7 +202,7 @@
   {
     "title": "仕事で使えるLinux ワンライナー集",
     "url": "https://qiita.com/ryuichi1208/items/55b73d8ae75993dc10c1",
-    "likes_count": 825,
+    "likes_count": 826,
     "created_at": "2018-12-20T21:46:16+09:00",
     "updated_at": "2019-01-06T20:00:56+09:00",
     "id": "ryuichi1208"
@@ -282,7 +282,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 613,
+    "likes_count": 614,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -290,7 +290,7 @@
   {
     "title": "プログラミングスクールでゴミを週2で2ヶ月間、作り続けて気づいたこと",
     "url": "https://qiita.com/guru_taka/items/938eeae2258e7f1f1d25",
-    "likes_count": 600,
+    "likes_count": 601,
     "created_at": "2018-12-28T21:00:17+09:00",
     "updated_at": "2018-12-28T21:00:17+09:00",
     "id": "guru_taka"
@@ -330,7 +330,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -346,7 +346,7 @@
   {
     "title": "ExcelにPythonが搭載？その後 - xlwings を使おう ",
     "url": "https://qiita.com/yniji/items/b38bc312e860027108ac",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2018-12-24T19:58:52+09:00",
     "updated_at": "2019-01-22T16:00:41+09:00",
     "id": "yniji"
@@ -362,7 +362,7 @@
   {
     "title": "その機械学習プロセス、自動化できませんか？",
     "url": "https://qiita.com/Hironsan/items/30fe09c85da8a28ebd63",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2018-12-03T22:32:16+09:00",
     "updated_at": "2018-12-05T10:36:47+09:00",
     "id": "Hironsan"
@@ -490,7 +490,7 @@
   {
     "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
     "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
-    "likes_count": 364,
+    "likes_count": 366,
     "created_at": "2018-12-28T14:05:57+09:00",
     "updated_at": "2019-08-28T21:53:58+09:00",
     "id": "suin"
@@ -530,7 +530,7 @@
   {
     "title": "Herokuを使いこなすのに必要な術",
     "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2018-12-04T18:58:45+09:00",
     "updated_at": "2019-01-29T22:10:42+09:00",
     "id": "fuwamaki"
@@ -546,7 +546,7 @@
   {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
@@ -586,7 +586,7 @@
   {
     "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
     "url": "https://qiita.com/jiny2001/items/e2175b52013bf655d617",
-    "likes_count": 320,
+    "likes_count": 318,
     "created_at": "2018-12-26T00:48:06+09:00",
     "updated_at": "2018-12-27T15:55:41+09:00",
     "id": "jiny2001"
@@ -594,7 +594,7 @@
   {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
