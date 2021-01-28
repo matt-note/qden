@@ -2,7 +2,7 @@
   {
     "title": "Gitのコミットメッセージの書き方",
     "url": "https://qiita.com/itosho/items/9565c6ad2ffc24c09364",
-    "likes_count": 4347,
+    "likes_count": 4348,
     "created_at": "2014-11-21T20:52:14+09:00",
     "updated_at": "2016-04-18T16:20:36+09:00",
     "id": "itosho"
@@ -10,7 +10,7 @@
   {
     "title": "なぜ仮想DOMという概念が俺達の魂を震えさせるのか",
     "url": "https://qiita.com/mizchi/items/4d25bc26def1719d52e6",
-    "likes_count": 2752,
+    "likes_count": 2753,
     "created_at": "2014-12-01T08:40:51+09:00",
     "updated_at": "2020-09-22T00:11:23+09:00",
     "id": "mizchi"
@@ -42,7 +42,7 @@
   {
     "title": "使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」",
     "url": "https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5",
-    "likes_count": 1328,
+    "likes_count": 1331,
     "created_at": "2014-11-06T07:20:52+09:00",
     "updated_at": "2020-02-20T22:41:58+09:00",
     "id": "jnchito"
@@ -74,7 +74,7 @@
   {
     "title": "正規表現の基本",
     "url": "https://qiita.com/grrrr/items/7c8811b5cf37d700adc4",
-    "likes_count": 955,
+    "likes_count": 956,
     "created_at": "2014-11-13T00:31:06+09:00",
     "updated_at": "2020-01-22T15:26:05+09:00",
     "id": "grrrr"
@@ -122,7 +122,7 @@
   {
     "title": "［初心者向け］こんなときどうする⁉︎ GitのTips31選！",
     "url": "https://qiita.com/Keisuke69/items/35d60e4e375fc525ccbd",
-    "likes_count": 761,
+    "likes_count": 762,
     "created_at": "2014-11-28T11:44:00+09:00",
     "updated_at": "2018-03-16T20:55:21+09:00",
     "id": "Keisuke69"
@@ -170,7 +170,7 @@
   {
     "title": "（あなたの周りでも見かけるかもしれない）インスタンス変数の間違った使い方",
     "url": "https://qiita.com/jnchito/items/49fe82364bca2f4f37f5",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2014-11-15T07:47:53+09:00",
     "updated_at": "2014-11-17T07:44:29+09:00",
     "id": "jnchito"
@@ -258,7 +258,7 @@
   {
     "title": "gitでのヤバイ！を取り消す方法",
     "url": "https://qiita.com/ritukiii/items/74ee3274c3f218511a0c",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2014-11-08T22:24:39+09:00",
     "updated_at": "2015-01-05T10:00:57+09:00",
     "id": "ritukiii"
@@ -270,6 +270,14 @@
     "created_at": "2014-11-04T00:34:48+09:00",
     "updated_at": "2015-04-12T14:03:56+09:00",
     "id": "tag1216"
+  },
+  {
+    "title": "【MySQL, SQL】データベースを扱う基本SQL一覧",
+    "url": "https://qiita.com/knife0125/items/bb095a85d1a5d3c8f706",
+    "likes_count": 414,
+    "created_at": "2014-11-12T17:45:42+09:00",
+    "updated_at": "2015-03-17T11:45:52+09:00",
+    "id": "knife0125"
   },
   {
     "title": "覚えておくと便利！Python標準ライブラリ10選",
@@ -286,14 +294,6 @@
     "created_at": "2014-11-27T23:57:38+09:00",
     "updated_at": "2015-03-18T17:25:49+09:00",
     "id": "huydx"
-  },
-  {
-    "title": "【MySQL, SQL】データベースを扱う基本SQL一覧",
-    "url": "https://qiita.com/knife0125/items/bb095a85d1a5d3c8f706",
-    "likes_count": 413,
-    "created_at": "2014-11-12T17:45:42+09:00",
-    "updated_at": "2015-03-17T11:45:52+09:00",
-    "id": "knife0125"
   },
   {
     "title": "PHPUnitの主なAssertメソッド一覧",

@@ -2,7 +2,7 @@
   {
     "title": "async/await 入門（JavaScript）",
     "url": "https://qiita.com/soarflat/items/1a9613e023200bbebcb3",
-    "likes_count": 2490,
+    "likes_count": 2492,
     "created_at": "2017-08-03T14:25:22+09:00",
     "updated_at": "2021-01-27T02:42:51+09:00",
     "id": "soarflat"
@@ -10,7 +10,7 @@
   {
     "title": "今さら人に聞けない Kubernetes とは？",
     "url": "https://qiita.com/MahoTakara/items/85096f8b2632c802ab22",
-    "likes_count": 2410,
+    "likes_count": 2411,
     "created_at": "2017-08-24T17:12:43+09:00",
     "updated_at": "2019-10-11T09:22:22+09:00",
     "id": "MahoTakara"
@@ -18,7 +18,7 @@
   {
     "title": "VS Code の便利なショートカットキー",
     "url": "https://qiita.com/12345/items/64f4372fbca041e949d0",
-    "likes_count": 2323,
+    "likes_count": 2326,
     "created_at": "2017-08-13T07:04:56+09:00",
     "updated_at": "2021-01-21T16:02:19+09:00",
     "id": "12345"
@@ -40,20 +40,20 @@
     "id": "inamori"
   },
   {
+    "title": "一番詳しいCSS設計規則BEMのマニュアル",
+    "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
+    "likes_count": 1276,
+    "created_at": "2017-08-30T20:48:41+09:00",
+    "updated_at": "2019-07-16T17:00:50+09:00",
+    "id": "Takuan_Oishii"
+  },
+  {
     "title": "やばい、iOSにネイティブアプリ要らなくなるかも。SafariもPWAに対応する可能性",
     "url": "https://qiita.com/Yatima/items/b9f1962da1a304dc7604",
     "likes_count": 1275,
     "created_at": "2017-08-07T12:43:38+09:00",
     "updated_at": "2017-10-03T23:12:57+09:00",
     "id": "Yatima"
-  },
-  {
-    "title": "一番詳しいCSS設計規則BEMのマニュアル",
-    "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
-    "likes_count": 1275,
-    "created_at": "2017-08-30T20:48:41+09:00",
-    "updated_at": "2019-07-16T17:00:50+09:00",
-    "id": "Takuan_Oishii"
   },
   {
     "title": "<script> タグに async / defer を付けた場合のタイミング",
@@ -66,7 +66,7 @@
   {
     "title": "Swaggerの概要をまとめてみた。",
     "url": "https://qiita.com/gcyata/items/342073fa7607fd4082bd",
-    "likes_count": 1029,
+    "likes_count": 1030,
     "created_at": "2017-08-25T18:03:53+09:00",
     "updated_at": "2018-02-17T23:09:25+09:00",
     "id": "gcyata"
@@ -90,7 +90,7 @@
   {
     "title": "async関数においてtry/catchではなくawait/catchパターンを活用する",
     "url": "https://qiita.com/akameco/items/cc73afcdb5ac5d0774bc",
-    "likes_count": 765,
+    "likes_count": 766,
     "created_at": "2017-08-27T09:01:49+09:00",
     "updated_at": "2017-08-31T13:57:59+09:00",
     "id": "akameco"
@@ -98,7 +98,7 @@
   {
     "title": "一から始める機械学習（機械学習概要）",
     "url": "https://qiita.com/taki_tflare/items/42a40119d3d8e622edd2",
-    "likes_count": 732,
+    "likes_count": 733,
     "created_at": "2017-08-12T06:17:01+09:00",
     "updated_at": "2020-04-23T20:31:42+09:00",
     "id": "taki_tflare"
@@ -106,7 +106,7 @@
   {
     "title": "ECS運用のノウハウ",
     "url": "https://qiita.com/naomichi-y/items/d933867127f27524686a",
-    "likes_count": 728,
+    "likes_count": 729,
     "created_at": "2017-08-31T12:21:20+09:00",
     "updated_at": "2020-10-04T21:15:33+09:00",
     "id": "naomichi-y"
@@ -122,7 +122,7 @@
   {
     "title": "Docker コマンドチートシート",
     "url": "https://qiita.com/wMETAw/items/34ba5c980e2a38e548db",
-    "likes_count": 506,
+    "likes_count": 507,
     "created_at": "2017-08-27T11:39:22+09:00",
     "updated_at": "2018-10-13T13:58:48+09:00",
     "id": "wMETAw"
@@ -194,7 +194,7 @@
   {
     "title": "認証プラットフォーム Auth0 とは？",
     "url": "https://qiita.com/furuth/items/68c3caa3127cbf4f6b77",
-    "likes_count": 385,
+    "likes_count": 387,
     "created_at": "2017-08-09T21:09:48+09:00",
     "updated_at": "2018-08-16T11:28:58+09:00",
     "id": "furuth"
@@ -234,10 +234,18 @@
   {
     "title": "フレームワークとライブラリの違い",
     "url": "https://qiita.com/azuki8/items/ad7710fdefaedc63e3f7",
-    "likes_count": 324,
+    "likes_count": 325,
     "created_at": "2017-08-30T21:48:08+09:00",
     "updated_at": "2020-06-03T13:28:03+09:00",
     "id": "azuki8"
+  },
+  {
+    "title": "Docker + Rails + Puma + Nginx + MySQL",
+    "url": "https://qiita.com/eighty8/items/0288ab9c127ddb683315",
+    "likes_count": 284,
+    "created_at": "2017-08-25T17:37:17+09:00",
+    "updated_at": "2019-10-28T21:48:44+09:00",
+    "id": "eighty8"
   },
   {
     "title": "【合格しました！】AWS 認定ソリューションアーキテクト アソシエイト 受験記",
@@ -246,14 +254,6 @@
     "created_at": "2017-08-19T14:34:24+09:00",
     "updated_at": "2017-08-21T16:23:10+09:00",
     "id": "chihiro"
-  },
-  {
-    "title": "Docker + Rails + Puma + Nginx + MySQL",
-    "url": "https://qiita.com/eighty8/items/0288ab9c127ddb683315",
-    "likes_count": 282,
-    "created_at": "2017-08-25T17:37:17+09:00",
-    "updated_at": "2019-10-28T21:48:44+09:00",
-    "id": "eighty8"
   },
   {
     "title": "機械学習の情報収集に役立つ14のメルマガ",

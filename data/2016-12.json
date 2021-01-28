@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4478,
+    "likes_count": 4479,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3231,
+    "likes_count": 3233,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -114,7 +114,7 @@
   {
     "title": "kubernetes初心者のための入門ハンズオン",
     "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
-    "likes_count": 1014,
+    "likes_count": 1015,
     "created_at": "2016-12-10T00:01:31+09:00",
     "updated_at": "2020-12-05T20:23:32+09:00",
     "id": "mihirat"
@@ -122,7 +122,7 @@
   {
     "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
     "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
-    "likes_count": 1014,
+    "likes_count": 1015,
     "created_at": "2016-12-15T19:53:31+09:00",
     "updated_at": "2017-01-09T03:54:13+09:00",
     "id": "joker1007"
@@ -186,7 +186,7 @@
   {
     "title": "大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察",
     "url": "https://qiita.com/tmknom/items/be5c4b350f561991f2f5",
-    "likes_count": 734,
+    "likes_count": 735,
     "created_at": "2016-12-20T18:24:22+09:00",
     "updated_at": "2018-08-12T01:43:05+09:00",
     "id": "tmknom"
@@ -194,7 +194,7 @@
   {
     "title": "DeepLearning研究 2016年のまとめ",
     "url": "https://qiita.com/eve_yk/items/f4b274da7042cba1ba76",
-    "likes_count": 719,
+    "likes_count": 720,
     "created_at": "2016-12-17T00:45:59+09:00",
     "updated_at": "2016-12-25T10:43:57+09:00",
     "id": "eve_yk"
@@ -234,7 +234,7 @@
   {
     "title": "ようこそ！Electron入門",
     "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
-    "likes_count": 624,
+    "likes_count": 625,
     "created_at": "2016-12-28T14:02:01+09:00",
     "updated_at": "2019-11-22T19:57:05+09:00",
     "id": "umamichi"
@@ -306,7 +306,7 @@
   {
     "title": "Gitのブランチモデルについて",
     "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 565,
+    "likes_count": 567,
     "created_at": "2016-12-05T00:04:34+09:00",
     "updated_at": "2016-12-05T00:12:43+09:00",
     "id": "y-okudera"
@@ -314,7 +314,7 @@
   {
     "title": "React Nativeとは何なのか",
     "url": "https://qiita.com/Iwark/items/7c27e919bb71f8b256f6",
-    "likes_count": 564,
+    "likes_count": 565,
     "created_at": "2016-12-02T02:20:35+09:00",
     "updated_at": "2016-12-02T02:20:35+09:00",
     "id": "Iwark"
@@ -346,7 +346,7 @@
   {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
-    "likes_count": 535,
+    "likes_count": 536,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
@@ -432,20 +432,20 @@
     "id": "Implem"
   },
   {
+    "title": "ReactとReduxを結ぶパッケージ「react-redux」についてconnectの実装パターンを試す",
+    "url": "https://qiita.com/MegaBlackLabel/items/df868e734d199071b883",
+    "likes_count": 471,
+    "created_at": "2016-12-23T22:24:32+09:00",
+    "updated_at": "2017-06-09T15:35:33+09:00",
+    "id": "MegaBlackLabel"
+  },
+  {
     "title": "【企業サイト構築用】WordPress設計ガイドライン",
     "url": "https://qiita.com/kgsi/items/65ee2d7814e5cfa199d2",
     "likes_count": 470,
     "created_at": "2016-12-13T12:13:43+09:00",
     "updated_at": "2019-03-19T14:40:56+09:00",
     "id": "kgsi"
-  },
-  {
-    "title": "ReactとReduxを結ぶパッケージ「react-redux」についてconnectの実装パターンを試す",
-    "url": "https://qiita.com/MegaBlackLabel/items/df868e734d199071b883",
-    "likes_count": 470,
-    "created_at": "2016-12-23T22:24:32+09:00",
-    "updated_at": "2017-06-09T15:35:33+09:00",
-    "id": "MegaBlackLabel"
   },
   {
     "title": "【定番】 新しいWebサービスを開発・運営するときに使いたいサービス 【2016年末版】",
@@ -506,7 +506,7 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
@@ -514,7 +514,7 @@
   {
     "title": "iOSアプリ設計大全集 2016",
     "url": "https://qiita.com/tattn/items/d4b95af0b60c3849243a",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2016-12-03T09:37:17+09:00",
     "updated_at": "2016-12-03T09:39:39+09:00",
     "id": "tattn"
@@ -546,7 +546,7 @@
   {
     "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
     "url": "https://qiita.com/chanNaru/items/326bd50a78cf34371169",
-    "likes_count": 389,
+    "likes_count": 392,
     "created_at": "2016-12-23T18:57:30+09:00",
     "updated_at": "2020-02-06T13:59:09+09:00",
     "id": "chanNaru"
@@ -650,7 +650,7 @@
   {
     "title": "ちょこっとホワイトハッカーになった気持ちになって、VirtualBox上にKali Linuxをインストールし、Metasploitを使ったペネトレーションテスト（脆弱性診断）をやってみた　※最後に「Star Wars」ネタもあるよ！※",
     "url": "https://qiita.com/fs-rd-takuya-takeda/items/33dedf3d007b9b3bde28",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2016-12-18T03:33:17+09:00",
     "updated_at": "2016-12-19T08:17:36+09:00",
     "id": "fs-rd-takuya-takeda"

@@ -10,7 +10,7 @@
   {
     "title": "トップデベロッパーになるために作成したいアプリ8選",
     "url": "https://qiita.com/baby-degu/items/f905c8ee972cf46ce11b",
-    "likes_count": 3129,
+    "likes_count": 3131,
     "created_at": "2019-11-10T21:29:43+09:00",
     "updated_at": "2020-06-06T19:29:49+09:00",
     "id": "baby-degu"
@@ -34,7 +34,7 @@
   {
     "title": "スーパーマリオのジャンプのアルゴリズム",
     "url": "https://qiita.com/morian-bisco/items/4c659d9f940c7e3a2099",
-    "likes_count": 1883,
+    "likes_count": 1884,
     "created_at": "2019-11-06T21:09:47+09:00",
     "updated_at": "2019-11-16T22:59:09+09:00",
     "id": "morian-bisco"
@@ -58,7 +58,7 @@
   {
     "title": "【保存版】Webフロントエンド基礎力（初心者向け）",
     "url": "https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9",
-    "likes_count": 1746,
+    "likes_count": 1747,
     "created_at": "2019-11-05T08:41:27+09:00",
     "updated_at": "2020-03-15T22:12:44+09:00",
     "id": "teradonburi"
@@ -106,7 +106,7 @@
   {
     "title": "Python中級者への道しるべ",
     "url": "https://qiita.com/papi_tokei/items/2aef9a259fd236d340da",
-    "likes_count": 1119,
+    "likes_count": 1120,
     "created_at": "2019-11-03T14:27:08+09:00",
     "updated_at": "2019-11-07T00:19:10+09:00",
     "id": "papi_tokei"
@@ -138,7 +138,7 @@
   {
     "title": "設計要件をギッチギチに詰めたValueObjectで低凝集クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/5e69d9bd028aa350e2c4",
-    "likes_count": 977,
+    "likes_count": 978,
     "created_at": "2019-11-05T07:38:26+09:00",
     "updated_at": "2019-11-10T12:55:59+09:00",
     "id": "MinoDriven"
@@ -170,7 +170,7 @@
   {
     "title": "Reactの最強フレームワークGatsby.jsの良さを伝えたい！！",
     "url": "https://qiita.com/hppRC/items/00739eaf9ae7fc95c1ca",
-    "likes_count": 799,
+    "likes_count": 801,
     "created_at": "2019-12-01T02:06:05+09:00",
     "updated_at": "2020-02-15T00:29:26+09:00",
     "id": "hppRC"
@@ -298,10 +298,18 @@
   {
     "title": "Nuxt.jsに飛びつく前に~Nuxt.jsを習得するための前提技術と、その勉強方法の紹介~",
     "url": "https://qiita.com/newt0/items/763b0c228a8451c68865",
-    "likes_count": 499,
+    "likes_count": 500,
     "created_at": "2019-11-26T01:23:49+09:00",
     "updated_at": "2021-01-05T13:28:52+09:00",
     "id": "newt0"
+  },
+  {
+    "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
+    "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
+    "likes_count": 490,
+    "created_at": "2019-11-21T16:30:57+09:00",
+    "updated_at": "2020-10-14T00:17:51+09:00",
+    "id": "ryokkkke"
   },
   {
     "title": "新人エンジニアが意識すると良いなと思うことまとめ",
@@ -310,14 +318,6 @@
     "created_at": "2019-11-07T01:45:24+09:00",
     "updated_at": "2019-11-07T01:45:24+09:00",
     "id": "mass-min"
-  },
-  {
-    "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
-    "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 487,
-    "created_at": "2019-11-21T16:30:57+09:00",
-    "updated_at": "2020-10-14T00:17:51+09:00",
-    "id": "ryokkkke"
   },
   {
     "title": "【ハッキングに挑戦】脆弱性が残された仮想イメージ公開プラットフォーム（VulnHub）で練習をする",
@@ -338,7 +338,7 @@
   {
     "title": "令和時代のPython作図ライブラリのデファクトスタンダードPlotlyExpressの基本的な描き方まとめ",
     "url": "https://qiita.com/hanon/items/d8cbe25aa8f3a9347b0b",
-    "likes_count": 463,
+    "likes_count": 464,
     "created_at": "2019-11-04T00:15:43+09:00",
     "updated_at": "2019-11-05T11:31:26+09:00",
     "id": "hanon"
@@ -450,7 +450,7 @@
   {
     "title": "やさしい図解で学ぶ　ER図　表記法一覧",
     "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
-    "likes_count": 329,
+    "likes_count": 331,
     "created_at": "2019-11-11T19:20:33+09:00",
     "updated_at": "2020-03-02T12:18:46+09:00",
     "id": "ramuneru"
@@ -474,7 +474,7 @@
   {
     "title": "分報で各自の作業を可視化したら、メンバー間の協力が加速された話",
     "url": "https://qiita.com/kojimadev/items/ea8825dec1b0d0d2874c",
-    "likes_count": 299,
+    "likes_count": 300,
     "created_at": "2019-11-19T07:20:43+09:00",
     "updated_at": "2020-08-27T18:36:31+09:00",
     "id": "kojimadev"
@@ -498,7 +498,7 @@
   {
     "title": "10分で理解する Selenium",
     "url": "https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a",
-    "likes_count": 285,
+    "likes_count": 287,
     "created_at": "2019-11-30T01:26:15+09:00",
     "updated_at": "2019-12-01T01:08:28+09:00",
     "id": "Chanmoro"
