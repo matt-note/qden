@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1576,
+    "likes_count": 1577,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -34,7 +34,7 @@
   {
     "title": "CSSアニメーション 入門",
     "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
-    "likes_count": 1409,
+    "likes_count": 1410,
     "created_at": "2016-08-19T00:50:02+09:00",
     "updated_at": "2021-01-27T02:44:19+09:00",
     "id": "soarflat"
@@ -50,7 +50,7 @@
   {
     "title": "flexboxのバグに立ち向かう（flexboxバグまとめ）",
     "url": "https://qiita.com/hashrock/items/189db03021b0f565ae27",
-    "likes_count": 1318,
+    "likes_count": 1320,
     "created_at": "2016-08-14T16:03:20+09:00",
     "updated_at": "2017-10-10T11:45:44+09:00",
     "id": "hashrock"
@@ -58,7 +58,7 @@
   {
     "title": "GitHubのmasterブランチをWebページとして公開する手順（GitHub Pages）",
     "url": "https://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096",
-    "likes_count": 1152,
+    "likes_count": 1153,
     "created_at": "2016-08-18T10:27:52+09:00",
     "updated_at": "2020-12-21T18:43:05+09:00",
     "id": "tonkotsuboy_com"
@@ -82,7 +82,7 @@
   {
     "title": "step by stepで始めるwebpack",
     "url": "https://qiita.com/howdy39/items/48d85c430f90a21075cd",
-    "likes_count": 994,
+    "likes_count": 995,
     "created_at": "2016-08-08T06:09:37+09:00",
     "updated_at": "2019-01-21T18:26:36+09:00",
     "id": "howdy39"
@@ -98,7 +98,7 @@
   {
     "title": "【データ分析の必読10冊+差をつける10冊＋100冊】データサイエンス、データ分析、機械学習関連の本",
     "url": "https://qiita.com/aokikenichi/items/ae4df263f591e47528a6",
-    "likes_count": 928,
+    "likes_count": 929,
     "created_at": "2016-08-23T11:46:09+09:00",
     "updated_at": "2021-01-24T14:23:38+09:00",
     "id": "aokikenichi"
@@ -170,7 +170,7 @@
   {
     "title": "線形代数の基礎",
     "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
-    "likes_count": 594,
+    "likes_count": 596,
     "created_at": "2016-08-30T23:11:19+09:00",
     "updated_at": "2020-08-23T02:47:09+09:00",
     "id": "nognog"
@@ -242,7 +242,7 @@
   {
     "title": "Rubyでディープラーニング",
     "url": "https://qiita.com/elgoog/items/8e7102a87889950d060d",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2016-08-03T07:59:05+09:00",
     "updated_at": "2016-08-30T00:28:10+09:00",
     "id": "elgoog"
@@ -264,6 +264,14 @@
     "id": "chuck0523"
   },
   {
+    "title": "Pythonでデスクトップアプリを作る with Electron",
+    "url": "https://qiita.com/yoshizaki_91/items/da9711c26e71522ad289",
+    "likes_count": 459,
+    "created_at": "2016-08-07T02:29:43+09:00",
+    "updated_at": "2017-03-16T14:18:12+09:00",
+    "id": "yoshizaki_91"
+  },
+  {
     "title": "[Python] Plotlyでぐりぐり動かせるグラフを作る",
     "url": "https://qiita.com/inoory/items/12028af62018bf367722",
     "likes_count": 459,
@@ -272,17 +280,9 @@
     "id": "inoory"
   },
   {
-    "title": "Pythonでデスクトップアプリを作る with Electron",
-    "url": "https://qiita.com/yoshizaki_91/items/da9711c26e71522ad289",
-    "likes_count": 458,
-    "created_at": "2016-08-07T02:29:43+09:00",
-    "updated_at": "2017-03-16T14:18:12+09:00",
-    "id": "yoshizaki_91"
-  },
-  {
     "title": "k-meansの最適なクラスター数を調べる方法",
     "url": "https://qiita.com/deaikei/items/11a10fde5bb47a2cf2c2",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2016-08-08T00:49:06+09:00",
     "updated_at": "2016-08-08T09:11:03+09:00",
     "id": "deaikei"
@@ -322,7 +322,7 @@
   {
     "title": "押下(おうか)にまつわる話",
     "url": "https://qiita.com/yaju/items/0ceb6a0343561b4d208e",
-    "likes_count": 391,
+    "likes_count": 390,
     "created_at": "2016-08-18T02:55:47+09:00",
     "updated_at": "2016-08-20T23:09:20+09:00",
     "id": "yaju"
@@ -346,7 +346,7 @@
   {
     "title": "Laravel5のアーキテクチャから学ぶより良いクラス設計",
     "url": "https://qiita.com/nunulk/items/2c637d3952096ef74677",
-    "likes_count": 365,
+    "likes_count": 366,
     "created_at": "2016-08-04T22:03:22+09:00",
     "updated_at": "2017-04-05T11:27:09+09:00",
     "id": "nunulk"
@@ -362,7 +362,7 @@
   {
     "title": "bundler、bundle execについて　※自分用メモ",
     "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2016-08-08T10:06:03+09:00",
     "updated_at": "2016-08-08T15:41:46+09:00",
     "id": "dawn_628"
@@ -394,7 +394,7 @@
   {
     "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
     "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2016-08-30T17:27:15+09:00",
     "updated_at": "2020-02-07T14:34:31+09:00",
     "id": "t-a-run"
