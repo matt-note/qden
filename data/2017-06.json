@@ -58,7 +58,7 @@
   {
     "title": "機械学習の超初心者が、みんなが良いと言う記事を読んでまとめてみた",
     "url": "https://qiita.com/2ko2ko/items/bae866695dfdd4a4b5b5",
-    "likes_count": 593,
+    "likes_count": 595,
     "created_at": "2017-06-21T14:16:42+09:00",
     "updated_at": "2020-02-06T09:31:16+09:00",
     "id": "2ko2ko"
@@ -136,6 +136,14 @@
     "id": "kurosawa_kuro"
   },
   {
+    "title": "Slack API 推奨Tokenについて",
+    "url": "https://qiita.com/ykhirao/items/3b19ee6a1458cfb4ba21",
+    "likes_count": 439,
+    "created_at": "2017-06-14T17:25:03+09:00",
+    "updated_at": "2019-05-17T11:12:46+09:00",
+    "id": "ykhirao"
+  },
+  {
     "title": "基礎からはじめる物理ベースレンダリング",
     "url": "https://qiita.com/mebiusbox2/items/e7063c5dfe1424e0d01a",
     "likes_count": 439,
@@ -144,17 +152,9 @@
     "id": "mebiusbox2"
   },
   {
-    "title": "Slack API 推奨Tokenについて",
-    "url": "https://qiita.com/ykhirao/items/3b19ee6a1458cfb4ba21",
-    "likes_count": 438,
-    "created_at": "2017-06-14T17:25:03+09:00",
-    "updated_at": "2019-05-17T11:12:46+09:00",
-    "id": "ykhirao"
-  },
-  {
     "title": "pyenvのインストール、使い方、pythonのバージョン切り替えできない時の対処法",
     "url": "https://qiita.com/koooooo/items/b21d87ffe2b56d0c589b",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2017-06-23T03:11:51+09:00",
     "updated_at": "2018-06-28T23:31:26+09:00",
     "id": "koooooo"
@@ -170,7 +170,7 @@
   {
     "title": "個人開発環境をvagrantで建てるべきか、dockerで建てるべきか",
     "url": "https://qiita.com/hirohero/items/1eaa22b7f87eb66b2f2d",
-    "likes_count": 408,
+    "likes_count": 409,
     "created_at": "2017-06-22T12:24:41+09:00",
     "updated_at": "2017-06-25T09:57:57+09:00",
     "id": "hirohero"
@@ -210,7 +210,7 @@
   {
     "title": "AWS：無料でSSL証明書を取得する方法",
     "url": "https://qiita.com/iwaseasahi/items/1687426add4124899fe3",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2017-06-03T12:00:34+09:00",
     "updated_at": "2018-01-13T09:40:51+09:00",
     "id": "iwaseasahi"
@@ -218,7 +218,7 @@
   {
     "title": "脆弱性を攻撃してみよう (1) OSコマンドインジェクション (OGNL式インジェクション)",
     "url": "https://qiita.com/tamura__246/items/6307889936d6e7c98403",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2017-06-12T07:27:00+09:00",
     "updated_at": "2017-06-13T20:52:32+09:00",
     "id": "tamura__246"
@@ -234,7 +234,7 @@
   {
     "title": "よく聞くUMLって何？",
     "url": "https://qiita.com/github129/items/80d39f2f043489033076",
-    "likes_count": 331,
+    "likes_count": 332,
     "created_at": "2017-06-15T19:51:58+09:00",
     "updated_at": "2017-06-18T21:59:38+09:00",
     "id": "github129"
@@ -274,7 +274,7 @@
   {
     "title": "FactoryBot(FactoryGirl)チートシート",
     "url": "https://qiita.com/morrr/items/f1d3ac46b029ccddd017",
-    "likes_count": 289,
+    "likes_count": 291,
     "created_at": "2017-06-08T22:14:35+09:00",
     "updated_at": "2019-11-24T09:17:00+09:00",
     "id": "morrr"
@@ -320,19 +320,19 @@
     "id": "hinom77"
   },
   {
+    "title": "ExcelでPowerQueryを使ってデータ収集分析",
+    "url": "https://qiita.com/mosugi/items/71df310b35db81722d1e",
+    "likes_count": 201,
+    "created_at": "2017-06-17T12:17:30+09:00",
+    "updated_at": "2017-06-24T12:31:15+09:00",
+    "id": "mosugi"
+  },
+  {
     "title": "TensorFlow(LSTM)で株価予想  〜 株予想その１ 〜",
     "url": "https://qiita.com/tsunaki/items/a5f3f975a31dc45fc9c9",
     "likes_count": 201,
     "created_at": "2017-06-30T04:47:51+09:00",
     "updated_at": "2017-06-30T22:11:19+09:00",
     "id": "tsunaki"
-  },
-  {
-    "title": "ExcelでPowerQueryを使ってデータ収集分析",
-    "url": "https://qiita.com/mosugi/items/71df310b35db81722d1e",
-    "likes_count": 200,
-    "created_at": "2017-06-17T12:17:30+09:00",
-    "updated_at": "2017-06-24T12:31:15+09:00",
-    "id": "mosugi"
   }
 ]

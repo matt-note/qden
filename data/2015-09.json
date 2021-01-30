@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 8662,
+    "likes_count": 8665,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2020-12-31T00:39:46+09:00",
     "id": "Ted-HM"
@@ -10,7 +10,7 @@
   {
     "title": "npm とか bower とか一体何なんだよ！Javascript 界隈の文脈を理解しよう",
     "url": "https://qiita.com/megane42/items/2ab6ffd866c3f2fda066",
-    "likes_count": 2556,
+    "likes_count": 2557,
     "created_at": "2015-09-23T19:23:35+09:00",
     "updated_at": "2015-10-01T02:27:07+09:00",
     "id": "megane42"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 2013,
+    "likes_count": 2014,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2020-06-02T11:35:16+09:00",
     "id": "suthio"
@@ -58,7 +58,7 @@
   {
     "title": "Webアプリケーション開発者から見た、MVCとMVP、そしてMVVMの違い",
     "url": "https://qiita.com/shinkuFencer/items/f2651073fb71416b6cd7",
-    "likes_count": 1571,
+    "likes_count": 1572,
     "created_at": "2015-09-14T15:10:08+09:00",
     "updated_at": "2017-10-03T12:36:12+09:00",
     "id": "shinkuFencer"
@@ -74,7 +74,7 @@
   {
     "title": "トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた",
     "url": "https://qiita.com/uasi/items/cfb60588daa18c2ec6f5",
-    "likes_count": 1546,
+    "likes_count": 1547,
     "created_at": "2015-09-25T19:18:30+09:00",
     "updated_at": "2019-05-08T21:41:02+09:00",
     "id": "uasi"
@@ -82,7 +82,7 @@
   {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1518,
+    "likes_count": 1519,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2021-01-27T02:44:56+09:00",
     "id": "soarflat"
@@ -122,7 +122,7 @@
   {
     "title": "pythonで美しいグラフ描画 -seabornを使えばデータ分析と可視化が捗る その1",
     "url": "https://qiita.com/hik0107/items/3dc541158fceb3156ee0",
-    "likes_count": 1190,
+    "likes_count": 1191,
     "created_at": "2015-09-20T18:32:15+09:00",
     "updated_at": "2016-09-22T19:14:44+09:00",
     "id": "hik0107"
@@ -138,7 +138,7 @@
   {
     "title": "PATHを通すとは？ (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
-    "likes_count": 1160,
+    "likes_count": 1161,
     "created_at": "2015-09-16T00:08:22+09:00",
     "updated_at": "2021-01-27T02:45:09+09:00",
     "id": "soarflat"
@@ -146,7 +146,7 @@
   {
     "title": "Kotlin スコープ関数 用途まとめ",
     "url": "https://qiita.com/ngsw_taro/items/d29e3080d9fc8a38691e",
-    "likes_count": 876,
+    "likes_count": 877,
     "created_at": "2015-09-29T13:03:50+09:00",
     "updated_at": "2018-05-16T09:13:43+09:00",
     "id": "ngsw_taro"
@@ -202,10 +202,18 @@
   {
     "title": "Graphvizとdot言語でグラフを描く方法のまとめ",
     "url": "https://qiita.com/rubytomato@github/items/51779135bc4b77c8c20d",
-    "likes_count": 765,
+    "likes_count": 764,
     "created_at": "2015-09-14T19:13:26+09:00",
     "updated_at": "2019-09-12T22:44:12+09:00",
     "id": "rubytomato@github"
+  },
+  {
+    "title": "PostgreSQLの基本的なコマンド",
+    "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
+    "likes_count": 722,
+    "created_at": "2015-09-08T20:16:56+09:00",
+    "updated_at": "2015-09-30T22:56:05+09:00",
+    "id": "H-A-L"
   },
   {
     "title": "AtomとPlantUMLで爆速UMLモデリング",
@@ -214,14 +222,6 @@
     "created_at": "2015-09-03T22:10:26+09:00",
     "updated_at": "2016-04-13T11:59:14+09:00",
     "id": "nakahashi"
-  },
-  {
-    "title": "PostgreSQLの基本的なコマンド",
-    "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 721,
-    "created_at": "2015-09-08T20:16:56+09:00",
-    "updated_at": "2015-09-30T22:56:05+09:00",
-    "id": "H-A-L"
   },
   {
     "title": "RESTful API設計におけるHTTPステータスコードの指針",
@@ -266,7 +266,7 @@
   {
     "title": "【CSS3】Transform（変形）関連のまとめ",
     "url": "https://qiita.com/7968/items/eddfeb4b424d7c2d2d34",
-    "likes_count": 553,
+    "likes_count": 554,
     "created_at": "2015-09-11T17:50:44+09:00",
     "updated_at": "2020-04-15T08:45:09+09:00",
     "id": "7968"
@@ -330,7 +330,7 @@
   {
     "title": "【CSS3】Transition（変化）関連のまとめ",
     "url": "https://qiita.com/7968/items/812d6a21fc4dd9ae9c75",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2015-09-11T20:36:50+09:00",
     "updated_at": "2020-04-15T08:44:50+09:00",
     "id": "7968"
@@ -346,7 +346,7 @@
   {
     "title": "実用 awk ワンライナー",
     "url": "https://qiita.com/b4b4r07/items/45d34a434f05aa896d69",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2015-09-08T19:41:15+09:00",
     "updated_at": "2015-09-09T11:00:11+09:00",
     "id": "b4b4r07"
@@ -418,7 +418,7 @@
   {
     "title": "Powershellを楽に実行してもらうには",
     "url": "https://qiita.com/tomoko523/items/df8e384d32a377381ef9",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2015-09-18T17:48:57+09:00",
     "updated_at": "2015-09-18T17:48:57+09:00",
     "id": "tomoko523"
@@ -426,7 +426,7 @@
   {
     "title": "任意のサイトで任意のJavaScriptを自動実行させるChrome拡張",
     "url": "https://qiita.com/nakajmg/items/bcbf0e5debcfa70c8d63",
-    "likes_count": 339,
+    "likes_count": 340,
     "created_at": "2015-09-23T12:16:40+09:00",
     "updated_at": "2015-09-23T19:42:26+09:00",
     "id": "nakajmg"
@@ -490,7 +490,7 @@
   {
     "title": "Rubyのコードを高速にするためのメモ",
     "url": "https://qiita.com/sue738/items/6c312672cecd9e0400a2",
-    "likes_count": 308,
+    "likes_count": 309,
     "created_at": "2015-09-28T11:13:26+09:00",
     "updated_at": "2015-09-28T18:01:08+09:00",
     "id": "sue738"
