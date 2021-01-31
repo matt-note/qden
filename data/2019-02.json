@@ -18,7 +18,7 @@
   {
     "title": "VueとFirebaseの基本機能全部使ってぬるぬる動くポートフォリオサイトを作ったのでソースと解説",
     "url": "https://qiita.com/yuneco/items/b14a695a060c96309239",
-    "likes_count": 1720,
+    "likes_count": 1721,
     "created_at": "2019-02-03T23:37:52+09:00",
     "updated_at": "2019-11-15T18:05:38+09:00",
     "id": "yuneco"
@@ -74,7 +74,7 @@
   {
     "title": "AtCoderの問題を分類しました",
     "url": "https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54",
-    "likes_count": 866,
+    "likes_count": 868,
     "created_at": "2019-02-26T18:22:38+09:00",
     "updated_at": "2020-03-13T19:40:37+09:00",
     "id": "KoyanagiHitoshi"
@@ -122,7 +122,7 @@
   {
     "title": "アセンブリに触れてみよう",
     "url": "https://qiita.com/kaito_tateyama/items/89272098f4b286b64115",
-    "likes_count": 718,
+    "likes_count": 719,
     "created_at": "2019-02-15T20:30:32+09:00",
     "updated_at": "2019-03-08T17:34:59+09:00",
     "id": "kaito_tateyama"
@@ -138,7 +138,7 @@
   {
     "title": "個人開発でも最低限やっておくべきインフラレベルでのセキュリティ対策",
     "url": "https://qiita.com/uichi/items/c34536b66101e9440cf2",
-    "likes_count": 686,
+    "likes_count": 687,
     "created_at": "2019-02-24T20:55:29+09:00",
     "updated_at": "2019-02-28T00:54:04+09:00",
     "id": "uichi"
@@ -154,7 +154,7 @@
   {
     "title": "化学系研究者が完全未経験からWeb系自社開発企業に転職するまで",
     "url": "https://qiita.com/fuku_tech/items/b8db09720c6d38eb27b9",
-    "likes_count": 664,
+    "likes_count": 665,
     "created_at": "2019-02-26T23:00:10+09:00",
     "updated_at": "2021-01-17T10:36:50+09:00",
     "id": "fuku_tech"
@@ -162,7 +162,7 @@
   {
     "title": "TypeScript + Node.js プロジェクトのはじめかた2020",
     "url": "https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49",
-    "likes_count": 625,
+    "likes_count": 627,
     "created_at": "2019-02-08T17:25:22+09:00",
     "updated_at": "2020-08-12T17:09:33+09:00",
     "id": "notakaos"
@@ -240,20 +240,20 @@
     "id": "gorilla0513"
   },
   {
+    "title": "TypeScriptの型演習",
+    "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
+    "likes_count": 483,
+    "created_at": "2019-02-23T18:09:59+09:00",
+    "updated_at": "2020-05-22T11:16:41+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "リビングの環境監視ダッシュボードを６０分で作る方法（Nature Remo Cloud APIとGoogleサービス連携）",
     "url": "https://qiita.com/t-chi/items/01b9a9b98fbccef880c3",
     "likes_count": 482,
     "created_at": "2019-02-11T20:19:09+09:00",
     "updated_at": "2020-09-06T13:48:05+09:00",
     "id": "t-chi"
-  },
-  {
-    "title": "TypeScriptの型演習",
-    "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 482,
-    "created_at": "2019-02-23T18:09:59+09:00",
-    "updated_at": "2020-05-22T11:16:41+09:00",
-    "id": "uhyo"
   },
   {
     "title": "Ruby on Rails, Vue.js で始めるモダン WEB アプリケーション入門",
@@ -314,7 +314,7 @@
   {
     "title": "不均衡データへの決定打となるか！？「Affinity loss」の論文を読む、実装する",
     "url": "https://qiita.com/koshian2/items/20af1548125c5c32dda9",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2019-02-05T21:48:18+09:00",
     "updated_at": "2019-02-14T22:28:09+09:00",
     "id": "koshian2"
@@ -338,7 +338,7 @@
   {
     "title": "今さら聞けない？Vue Router",
     "url": "https://qiita.com/hshota28/items/765cf903f055754f7557",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2019-02-25T04:17:35+09:00",
     "updated_at": "2019-02-25T15:34:55+09:00",
     "id": "hshota28"
@@ -354,7 +354,7 @@
   {
     "title": "SVGを使うときに知っておくといいことをまとめました",
     "url": "https://qiita.com/manabuyasuda/items/01a76204f97cd73ffc4e",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2019-02-22T19:47:54+09:00",
     "updated_at": "2019-03-06T14:47:30+09:00",
     "id": "manabuyasuda"
@@ -402,7 +402,7 @@
   {
     "title": "【JavaScript】lodashの使い方",
     "url": "https://qiita.com/sitilma/items/a08e28def541c28458a0",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2019-02-05T09:20:25+09:00",
     "updated_at": "2019-02-05T09:20:25+09:00",
     "id": "sitilma"
