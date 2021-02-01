@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5410,
+    "likes_count": 5411,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -50,7 +50,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1351,
+    "likes_count": 1350,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -58,7 +58,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1217,
+    "likes_count": 1219,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -90,7 +90,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1064,
+    "likes_count": 1067,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -130,7 +130,7 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 832,
+    "likes_count": 833,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
@@ -138,7 +138,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 829,
+    "likes_count": 830,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -154,7 +154,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 825,
+    "likes_count": 826,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -162,7 +162,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 821,
+    "likes_count": 822,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -178,7 +178,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 787,
+    "likes_count": 788,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -330,10 +330,18 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 563,
+    "likes_count": 564,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
+  },
+  {
+    "title": " Nuxt.js使ってみた",
+    "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
+    "likes_count": 547,
+    "created_at": "2017-12-15T23:18:21+09:00",
+    "updated_at": "2021-01-15T16:23:44+09:00",
+    "id": "_takeshi_24"
   },
   {
     "title": "エンジニアが最高のUIをつくるためのプロトタイピング方法まとめ（2017年版）",
@@ -350,14 +358,6 @@
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
-  },
-  {
-    "title": " Nuxt.js使ってみた",
-    "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 546,
-    "created_at": "2017-12-15T23:18:21+09:00",
-    "updated_at": "2021-01-15T16:23:44+09:00",
-    "id": "_takeshi_24"
   },
   {
     "title": "極めろ！！Google Chrome Devtools 52の関節技",
@@ -466,7 +466,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -522,7 +522,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 395,
+    "likes_count": 397,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -560,20 +560,20 @@
     "id": "KTakahiro1729"
   },
   {
+    "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
+    "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
+    "likes_count": 380,
+    "created_at": "2017-12-13T09:54:01+09:00",
+    "updated_at": "2020-04-15T17:21:40+09:00",
+    "id": "sorami"
+  },
+  {
     "title": "知っておきたいLinuxファイルシステムの概念",
     "url": "https://qiita.com/tutuz/items/539d429729d5819de0aa",
     "likes_count": 380,
     "created_at": "2018-01-01T00:27:21+09:00",
     "updated_at": "2018-01-01T00:27:21+09:00",
     "id": "tutuz"
-  },
-  {
-    "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
-    "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 378,
-    "created_at": "2017-12-13T09:54:01+09:00",
-    "updated_at": "2020-04-15T17:21:40+09:00",
-    "id": "sorami"
   },
   {
     "title": "【Python】Word2Vecの使い方",
@@ -658,7 +658,7 @@
   {
     "title": "C++をこれから勉強する人のための道しるべ（C++03）",
     "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2017-12-18T20:08:38+09:00",
     "updated_at": "2019-04-17T15:10:58+09:00",
     "id": "borerere"
@@ -690,10 +690,18 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
+  },
+  {
+    "title": "深層学習の最適化アルゴリズム",
+    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
+    "likes_count": 330,
+    "created_at": "2017-12-17T19:09:32+09:00",
+    "updated_at": "2019-11-30T18:47:57+09:00",
+    "id": "ZoneTsuyoshi"
   },
   {
     "title": "Reactのstate,props,componentの使い方を自分なりにまとめてみた",
@@ -702,14 +710,6 @@
     "created_at": "2017-12-13T21:45:16+09:00",
     "updated_at": "2019-03-22T17:27:09+09:00",
     "id": "sekikawa_a"
-  },
-  {
-    "title": "深層学習の最適化アルゴリズム",
-    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 329,
-    "created_at": "2017-12-17T19:09:32+09:00",
-    "updated_at": "2019-11-30T18:47:57+09:00",
-    "id": "ZoneTsuyoshi"
   },
   {
     "title": "【2018年版】今押さえておきたいフロントエンド関連",
