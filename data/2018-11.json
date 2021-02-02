@@ -40,6 +40,14 @@
     "id": "ksakiyama134"
   },
   {
+    "title": " プログラミング言語Rustのススメ",
+    "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
+    "likes_count": 1346,
+    "created_at": "2018-11-04T22:29:09+09:00",
+    "updated_at": "2020-02-05T14:53:08+09:00",
+    "id": "elipmoc101"
+  },
+  {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
     "likes_count": 1344,
@@ -48,17 +56,9 @@
     "id": "poly_soft"
   },
   {
-    "title": " プログラミング言語Rustのススメ",
-    "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1344,
-    "created_at": "2018-11-04T22:29:09+09:00",
-    "updated_at": "2020-02-05T14:53:08+09:00",
-    "id": "elipmoc101"
-  },
-  {
     "title": "Ruby->Go->Scalaという習得順序がエンジニアの爆速の成長に最適である理由",
     "url": "https://qiita.com/poly_soft/items/1feaa1ec5ecab08dc6db",
-    "likes_count": 1272,
+    "likes_count": 1273,
     "created_at": "2018-11-04T07:35:05+09:00",
     "updated_at": "2019-03-11T19:35:33+09:00",
     "id": "poly_soft"
@@ -74,7 +74,7 @@
   {
     "title": "たった7行でテトリスを実装「七行プログラミング」とは",
     "url": "https://qiita.com/ryuichi1208/items/f9e6ac2b99bbe4fc82d3",
-    "likes_count": 1206,
+    "likes_count": 1205,
     "created_at": "2018-11-27T22:24:44+09:00",
     "updated_at": "2018-11-27T22:31:56+09:00",
     "id": "ryuichi1208"
@@ -122,7 +122,7 @@
   {
     "title": "【保存版・初心者向け】Python 目的別チュートリアル",
     "url": "https://qiita.com/tani_AI_Academy/items/3edc5effeb386ae3caa9",
-    "likes_count": 988,
+    "likes_count": 990,
     "created_at": "2018-11-12T11:51:01+09:00",
     "updated_at": "2020-03-15T19:44:41+09:00",
     "id": "tani_AI_Academy"
@@ -178,7 +178,7 @@
   {
     "title": "Swiftのエラーハンドリングはなぜ最先端なのか",
     "url": "https://qiita.com/omochimetaru/items/c30f7a021fb9b8f0fa92",
-    "likes_count": 720,
+    "likes_count": 721,
     "created_at": "2018-11-25T15:54:36+09:00",
     "updated_at": "2018-11-27T23:46:10+09:00",
     "id": "omochimetaru"
@@ -226,7 +226,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 566,
+    "likes_count": 567,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -234,7 +234,7 @@
   {
     "title": "研究室のHPをサーバレス、SPA、GraphQL、ChatOpsで作った",
     "url": "https://qiita.com/asmsuechan/items/17f168f151346ac5cf65",
-    "likes_count": 544,
+    "likes_count": 543,
     "created_at": "2018-11-20T17:26:45+09:00",
     "updated_at": "2020-06-24T11:13:35+09:00",
     "id": "asmsuechan"
@@ -258,7 +258,7 @@
   {
     "title": "スクラムとは何か？〜Certified ScrumMaster 研修を受けて〜",
     "url": "https://qiita.com/nh321/items/19818f04841474587644",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2018-11-20T07:10:46+09:00",
     "updated_at": "2019-01-30T16:47:01+09:00",
     "id": "nh321"
@@ -272,20 +272,20 @@
     "id": "sunad"
   },
   {
+    "title": "よく使うcurlコマンドのオプション",
+    "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
+    "likes_count": 489,
+    "created_at": "2018-11-27T19:55:10+09:00",
+    "updated_at": "2019-12-29T23:17:28+09:00",
+    "id": "ryuichi1208"
+  },
+  {
     "title": "atcoderでよく使う手法python版",
     "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
     "likes_count": 487,
     "created_at": "2018-11-25T18:13:41+09:00",
     "updated_at": "2020-11-23T02:30:53+09:00",
     "id": "chun1182"
-  },
-  {
-    "title": "よく使うcurlコマンドのオプション",
-    "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 487,
-    "created_at": "2018-11-27T19:55:10+09:00",
-    "updated_at": "2019-12-29T23:17:28+09:00",
-    "id": "ryuichi1208"
   },
   {
     "title": "2万人に聞いた、2018年の最新JavaScript事情",
@@ -322,7 +322,7 @@
   {
     "title": "State of SEO for SPA 2019",
     "url": "https://qiita.com/seya/items/2688dc539af217b7b111",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2018-11-19T22:51:22+09:00",
     "updated_at": "2019-05-08T20:37:48+09:00",
     "id": "seya"
@@ -338,7 +338,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -370,7 +370,7 @@
   {
     "title": "2019年版: 脱Babel!フロント/JS開発をTypeScriptに移行するための環境整備マニュアル",
     "url": "https://qiita.com/shibukawa/items/0a1aaf689d5183c6e0f1",
-    "likes_count": 401,
+    "likes_count": 402,
     "created_at": "2018-12-01T00:01:37+09:00",
     "updated_at": "2020-07-26T12:05:56+09:00",
     "id": "shibukawa"
@@ -402,7 +402,7 @@
   {
     "title": "【初心者向け】現代 (2018年11月時点)のフロントエンド開発について",
     "url": "https://qiita.com/yakimeron/items/8745ea220fdd86279d3e",
-    "likes_count": 369,
+    "likes_count": 368,
     "created_at": "2018-11-15T12:20:01+09:00",
     "updated_at": "2019-02-04T16:02:06+09:00",
     "id": "yakimeron"
@@ -416,6 +416,14 @@
     "id": "amishiro"
   },
   {
+    "title": "統計検定２級に楽に合格する方法",
+    "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
+    "likes_count": 364,
+    "created_at": "2018-11-28T12:58:31+09:00",
+    "updated_at": "2018-11-28T13:29:26+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "最近のJava界隈はとても良い感じ ",
     "url": "https://qiita.com/huge-book-storage/items/ad4f7bcaaebca6281154",
     "likes_count": 363,
@@ -424,28 +432,20 @@
     "id": "huge-book-storage"
   },
   {
-    "title": "iOS/Android セキュリティガイドライン",
-    "url": "https://qiita.com/alt_yamamoto/items/f67a7ddb6ba13cca7369",
-    "likes_count": 362,
-    "created_at": "2018-11-20T17:51:33+09:00",
-    "updated_at": "2020-01-22T10:02:28+09:00",
-    "id": "alt_yamamoto"
-  },
-  {
-    "title": "統計検定２級に楽に合格する方法",
-    "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 362,
-    "created_at": "2018-11-28T12:58:31+09:00",
-    "updated_at": "2018-11-28T13:29:26+09:00",
-    "id": "okoppe8"
-  },
-  {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
     "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2018-11-06T02:18:59+09:00",
     "updated_at": "2018-11-06T02:18:59+09:00",
     "id": "psychoroid"
+  },
+  {
+    "title": "iOS/Android セキュリティガイドライン",
+    "url": "https://qiita.com/alt_yamamoto/items/f67a7ddb6ba13cca7369",
+    "likes_count": 361,
+    "created_at": "2018-11-20T17:51:33+09:00",
+    "updated_at": "2020-01-22T10:02:28+09:00",
+    "id": "alt_yamamoto"
   },
   {
     "title": "Chromeを使うなら、必ずServiceWorkersを無効化しよう",
@@ -466,7 +466,7 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 339,
+    "likes_count": 341,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
@@ -498,7 +498,7 @@
   {
     "title": "VS Code コーディング規約を快適に守る",
     "url": "https://qiita.com/firedfly/items/00c34018581c6cec9b84",
-    "likes_count": 279,
+    "likes_count": 280,
     "created_at": "2018-11-29T12:07:09+09:00",
     "updated_at": "2019-09-30T16:54:37+09:00",
     "id": "firedfly"
@@ -506,7 +506,7 @@
   {
     "title": "SQL と Pandas の対応表",
     "url": "https://qiita.com/takaiyuk/items/5232442eaeb01299b265",
-    "likes_count": 266,
+    "likes_count": 265,
     "created_at": "2018-11-10T22:55:36+09:00",
     "updated_at": "2020-01-08T09:34:07+09:00",
     "id": "takaiyuk"

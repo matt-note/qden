@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2112,
+    "likes_count": 2113,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -34,7 +34,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1692,
+    "likes_count": 1693,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2018-01-25T21:45:47+09:00",
     "id": "jnchito"
@@ -42,7 +42,7 @@
   {
     "title": "homebrewとは何者か。仕組みについて調べてみた",
     "url": "https://qiita.com/omega999/items/6f65217b81ad3fffe7e6",
-    "likes_count": 1596,
+    "likes_count": 1597,
     "created_at": "2014-12-04T20:41:15+09:00",
     "updated_at": "2014-12-04T20:41:15+09:00",
     "id": "omega999"
@@ -50,7 +50,7 @@
   {
     "title": "JSON Web Token の効用",
     "url": "https://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a",
-    "likes_count": 1403,
+    "likes_count": 1402,
     "created_at": "2014-12-14T18:43:28+09:00",
     "updated_at": "2017-06-12T14:23:23+09:00",
     "id": "kaiinui"
@@ -72,20 +72,20 @@
     "id": "koki_cheese"
   },
   {
+    "title": "RSA鍵、証明書のファイルフォーマットについて",
+    "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
+    "likes_count": 1222,
+    "created_at": "2014-12-26T13:31:10+09:00",
+    "updated_at": "2020-07-21T15:48:03+09:00",
+    "id": "kunichiko"
+  },
+  {
     "title": "個人のスマホアプリ開発者がParseを使うべき15の理由",
     "url": "https://qiita.com/koyopro/items/b9891aa7bb596b958d7e",
     "likes_count": 1220,
     "created_at": "2014-12-20T13:53:04+09:00",
     "updated_at": "2016-01-29T10:06:33+09:00",
     "id": "koyopro"
-  },
-  {
-    "title": "RSA鍵、証明書のファイルフォーマットについて",
-    "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1218,
-    "created_at": "2014-12-26T13:31:10+09:00",
-    "updated_at": "2020-07-21T15:48:03+09:00",
-    "id": "kunichiko"
   },
   {
     "title": "マイクロソフトはどうやってBingをFPGAで実装したか",
@@ -106,7 +106,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1138,
+    "likes_count": 1139,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -122,7 +122,7 @@
   {
     "title": "ターミナルマルチプレクサ tmux をカスタマイズする",
     "url": "https://qiita.com/b4b4r07/items/01359e8a3066d1c37edc",
-    "likes_count": 882,
+    "likes_count": 884,
     "created_at": "2014-12-04T01:07:48+09:00",
     "updated_at": "2019-11-14T11:00:47+09:00",
     "id": "b4b4r07"
@@ -138,7 +138,7 @@
   {
     "title": "JavaScriptでforEach, filter, map, reduceとか",
     "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
-    "likes_count": 837,
+    "likes_count": 838,
     "created_at": "2014-12-21T00:42:04+09:00",
     "updated_at": "2018-09-23T17:07:32+09:00",
     "id": "itagakishintaro"
@@ -170,7 +170,7 @@
   {
     "title": "AWS EC2 Amazon Linuxインスタンス起動後、最初にやることまとめ（SysVinit編）",
     "url": "https://qiita.com/yangci/items/ef2ab9b6f0d28bad0881",
-    "likes_count": 753,
+    "likes_count": 754,
     "created_at": "2014-12-17T14:48:05+09:00",
     "updated_at": "2017-04-25T16:04:31+09:00",
     "id": "yangci"
@@ -290,7 +290,7 @@
   {
     "title": "DynamoDB ベストプラクティス",
     "url": "https://qiita.com/inouet/items/bcf9467a65b27c362ecf",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2014-12-17T04:08:17+09:00",
     "updated_at": "2014-12-17T13:25:50+09:00",
     "id": "inouet"
@@ -378,7 +378,7 @@
   {
     "title": "nginxパフォーマンスチューニング〜静的コンテンツ配信編〜",
     "url": "https://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd",
-    "likes_count": 500,
+    "likes_count": 501,
     "created_at": "2014-12-16T03:53:44+09:00",
     "updated_at": "2015-12-08T21:59:14+09:00",
     "id": "cubicdaiya"

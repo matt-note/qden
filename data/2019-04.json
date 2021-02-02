@@ -10,7 +10,7 @@
   {
     "title": "VSCodeでのGitの基本操作まとめ",
     "url": "https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be",
-    "likes_count": 1820,
+    "likes_count": 1824,
     "created_at": "2019-04-15T07:38:11+09:00",
     "updated_at": "2020-05-02T17:20:11+09:00",
     "id": "y-tsutsu"
@@ -26,7 +26,7 @@
   {
     "title": "役割駆動設計で巨大クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/2a378a09638e234d8614",
-    "likes_count": 1461,
+    "likes_count": 1462,
     "created_at": "2019-04-07T11:37:32+09:00",
     "updated_at": "2020-12-07T11:52:46+09:00",
     "id": "MinoDriven"
@@ -82,7 +82,7 @@
   {
     "title": "データの集計は、ExcelよりPython使ったほうが100倍早い（pandas-profiling, pixiedust）",
     "url": "https://qiita.com/pocket_kyoto/items/8d1fbcbca5d5dfd1dbd5",
-    "likes_count": 878,
+    "likes_count": 879,
     "created_at": "2019-04-26T21:57:04+09:00",
     "updated_at": "2019-04-26T21:57:04+09:00",
     "id": "pocket_kyoto"
@@ -98,7 +98,7 @@
   {
     "title": "Vue.js おすすめライブラリ 21選（おまけ+1）",
     "url": "https://qiita.com/andmorefine/items/bec9cbe9a22c90bd6b43",
-    "likes_count": 805,
+    "likes_count": 806,
     "created_at": "2019-04-14T20:57:02+09:00",
     "updated_at": "2020-05-22T22:26:40+09:00",
     "id": "andmorefine"
@@ -114,7 +114,7 @@
   {
     "title": "0.0.0.0にはアクセスしないこと",
     "url": "https://qiita.com/amuyikam/items/0063df223aed40193ba9",
-    "likes_count": 723,
+    "likes_count": 722,
     "created_at": "2019-04-04T07:58:11+09:00",
     "updated_at": "2019-04-07T00:03:37+09:00",
     "id": "amuyikam"
@@ -138,7 +138,7 @@
   {
     "title": "暗号技術勉強メモ",
     "url": "https://qiita.com/opengl-8080/items/85df520e2d8c4e19be8e",
-    "likes_count": 681,
+    "likes_count": 682,
     "created_at": "2019-04-30T23:59:06+09:00",
     "updated_at": "2019-07-11T22:59:12+09:00",
     "id": "opengl-8080"
@@ -178,7 +178,7 @@
   {
     "title": "グラフ作成のためのチートシートとPythonによる各種グラフの実装",
     "url": "https://qiita.com/4m1t0/items/76b0033edb545a78cef5",
-    "likes_count": 555,
+    "likes_count": 556,
     "created_at": "2019-04-06T11:41:20+09:00",
     "updated_at": "2019-11-09T00:29:26+09:00",
     "id": "4m1t0"
@@ -186,7 +186,7 @@
   {
     "title": "Firebaseで完結するリッチなWebアプリ構築の勘所",
     "url": "https://qiita.com/y_kawase/items/1de690b40553ef76acb3",
-    "likes_count": 550,
+    "likes_count": 549,
     "created_at": "2019-04-08T07:18:26+09:00",
     "updated_at": "2019-04-17T20:38:19+09:00",
     "id": "y_kawase"
@@ -194,7 +194,7 @@
   {
     "title": "Vue.js to TypeScriptの書き方一覧",
     "url": "https://qiita.com/ryo2132/items/4d43209ea89ad1297426",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2019-04-13T22:02:28+09:00",
     "updated_at": "2019-09-09T10:32:08+09:00",
     "id": "ryo2132"
@@ -208,6 +208,14 @@
     "id": "uchiko"
   },
   {
+    "title": "Flutter開発する前に知っておきたい35のWidget一覧",
+    "url": "https://qiita.com/coka__01/items/dedb569f6357f1b503fd",
+    "likes_count": 529,
+    "created_at": "2019-04-15T08:49:18+09:00",
+    "updated_at": "2020-04-24T10:20:08+09:00",
+    "id": "coka__01"
+  },
+  {
     "title": "JupyterLabのおすすめ拡張機能9選",
     "url": "https://qiita.com/canonrock16/items/d166c93087a4aafd2db4",
     "likes_count": 528,
@@ -216,20 +224,20 @@
     "id": "canonrock16"
   },
   {
-    "title": "Flutter開発する前に知っておきたい35のWidget一覧",
-    "url": "https://qiita.com/coka__01/items/dedb569f6357f1b503fd",
-    "likes_count": 528,
-    "created_at": "2019-04-15T08:49:18+09:00",
-    "updated_at": "2020-04-24T10:20:08+09:00",
-    "id": "coka__01"
-  },
-  {
     "title": "冪等性とは「同じ操作を何度繰り返しても、同じ結果が得られる性質」のこと",
     "url": "https://qiita.com/suin/items/316cb8aaf8dfcf11abae",
-    "likes_count": 525,
+    "likes_count": 526,
     "created_at": "2019-04-01T21:14:04+09:00",
     "updated_at": "2020-03-12T13:21:18+09:00",
     "id": "suin"
+  },
+  {
+    "title": "私が async/await、promise をちゃんと理解するまでのステップ１，２，３",
+    "url": "https://qiita.com/gounx2/items/18602a4081d0aaffe852",
+    "likes_count": 498,
+    "created_at": "2019-04-28T02:05:10+09:00",
+    "updated_at": "2019-05-01T19:19:51+09:00",
+    "id": "gounx2"
   },
   {
     "title": "GoogleのAIとNTTのAIを融合したら最強の業務カイゼンツールが爆誕した",
@@ -238,14 +246,6 @@
     "created_at": "2019-04-15T10:56:54+09:00",
     "updated_at": "2019-04-22T09:58:37+09:00",
     "id": "Harusugi"
-  },
-  {
-    "title": "私が async/await、promise をちゃんと理解するまでのステップ１，２，３",
-    "url": "https://qiita.com/gounx2/items/18602a4081d0aaffe852",
-    "likes_count": 496,
-    "created_at": "2019-04-28T02:05:10+09:00",
-    "updated_at": "2019-05-01T19:19:51+09:00",
-    "id": "gounx2"
   },
   {
     "title": "Visual Studio Codeで日本語化する方法[Windows]",
@@ -258,7 +258,7 @@
   {
     "title": "コーディングテストに打ち勝つ",
     "url": "https://qiita.com/yohachi/items/e4bef4035da135a4808d",
-    "likes_count": 395,
+    "likes_count": 397,
     "created_at": "2019-04-18T22:21:07+09:00",
     "updated_at": "2019-04-18T22:21:26+09:00",
     "id": "yohachi"
@@ -266,7 +266,7 @@
   {
     "title": "Pythonで開発するならKiteを導入して爆速開発",
     "url": "https://qiita.com/ksk001100/items/75c3b4964b65a18d46d4",
-    "likes_count": 394,
+    "likes_count": 393,
     "created_at": "2019-04-11T15:01:54+09:00",
     "updated_at": "2019-04-12T23:47:28+09:00",
     "id": "ksk001100"
@@ -274,9 +274,9 @@
   {
     "title": "OAuth アクセストークンの実装に関する考察",
     "url": "https://qiita.com/TakahikoKawasaki/items/970548727761f9e02bcd",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2019-04-02T19:57:39+09:00",
-    "updated_at": "2019-04-02T19:57:39+09:00",
+    "updated_at": "2021-02-02T16:30:04+09:00",
     "id": "TakahikoKawasaki"
   },
   {
@@ -288,20 +288,20 @@
     "id": "goofmint"
   },
   {
+    "title": "「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜",
+    "url": "https://qiita.com/drken/items/f2ea4b58b0d21621bd51",
+    "likes_count": 373,
+    "created_at": "2019-04-22T10:20:44+09:00",
+    "updated_at": "2020-02-02T12:06:05+09:00",
+    "id": "drken"
+  },
+  {
     "title": "Pythonで競技プログラミング -ライブラリ編-",
     "url": "https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482",
     "likes_count": 372,
     "created_at": "2019-04-03T17:56:52+09:00",
     "updated_at": "2019-04-17T11:21:31+09:00",
     "id": "Kentaro_okumura"
-  },
-  {
-    "title": "「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜",
-    "url": "https://qiita.com/drken/items/f2ea4b58b0d21621bd51",
-    "likes_count": 372,
-    "created_at": "2019-04-22T10:20:44+09:00",
-    "updated_at": "2020-02-02T12:06:05+09:00",
-    "id": "drken"
   },
   {
     "title": "独学Kubernetes　コンテナ開発の基本を最速で理解する",
@@ -336,20 +336,20 @@
     "id": "AriArias"
   },
   {
-    "title": "1行もコードを書かずにネイティブアプリ（もどき）をリリースする7つのステップ",
-    "url": "https://qiita.com/masanarih0ri/items/83f114b1bba0c0b9761e",
-    "likes_count": 327,
-    "created_at": "2019-04-13T18:34:28+09:00",
-    "updated_at": "2019-04-14T12:14:08+09:00",
-    "id": "masanarih0ri"
-  },
-  {
     "title": "【2019年版】iOSアプリをApp Storeに公開するための全手順まとめ",
     "url": "https://qiita.com/kenny_J_7/items/92378e2a09bee6080677",
     "likes_count": 327,
     "created_at": "2019-04-22T21:56:44+09:00",
     "updated_at": "2019-11-26T10:56:18+09:00",
     "id": "kenny_J_7"
+  },
+  {
+    "title": "1行もコードを書かずにネイティブアプリ（もどき）をリリースする7つのステップ",
+    "url": "https://qiita.com/masanarih0ri/items/83f114b1bba0c0b9761e",
+    "likes_count": 326,
+    "created_at": "2019-04-13T18:34:28+09:00",
+    "updated_at": "2019-04-14T12:14:08+09:00",
+    "id": "masanarih0ri"
   },
   {
     "title": "よく使われているvimのプラグイン top20",
