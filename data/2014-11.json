@@ -2,7 +2,7 @@
   {
     "title": "Gitのコミットメッセージの書き方",
     "url": "https://qiita.com/itosho/items/9565c6ad2ffc24c09364",
-    "likes_count": 4355,
+    "likes_count": 4359,
     "created_at": "2014-11-21T20:52:14+09:00",
     "updated_at": "2016-04-18T16:20:36+09:00",
     "id": "itosho"
@@ -42,7 +42,7 @@
   {
     "title": "使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」",
     "url": "https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5",
-    "likes_count": 1334,
+    "likes_count": 1335,
     "created_at": "2014-11-06T07:20:52+09:00",
     "updated_at": "2020-02-20T22:41:58+09:00",
     "id": "jnchito"
@@ -178,7 +178,7 @@
   {
     "title": "ZenHubとは",
     "url": "https://qiita.com/GeckoTang/items/f75b9a1c20c8e5091147",
-    "likes_count": 568,
+    "likes_count": 569,
     "created_at": "2014-11-14T18:55:33+09:00",
     "updated_at": "2016-04-05T14:35:48+09:00",
     "id": "GeckoTang"
@@ -258,10 +258,18 @@
   {
     "title": "gitでのヤバイ！を取り消す方法",
     "url": "https://qiita.com/ritukiii/items/74ee3274c3f218511a0c",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2014-11-08T22:24:39+09:00",
     "updated_at": "2015-01-05T10:00:57+09:00",
     "id": "ritukiii"
+  },
+  {
+    "title": "(o1, o2) -> o1 - o2 なんて呪文はもうやめて！ - Java8でのComparatorの使い方",
+    "url": "https://qiita.com/tag1216/items/50ecf6a7bc10218ee889",
+    "likes_count": 415,
+    "created_at": "2014-11-04T00:34:48+09:00",
+    "updated_at": "2015-04-12T14:03:56+09:00",
+    "id": "tag1216"
   },
   {
     "title": "【MySQL, SQL】データベースを扱う基本SQL一覧",
@@ -270,14 +278,6 @@
     "created_at": "2014-11-12T17:45:42+09:00",
     "updated_at": "2015-03-17T11:45:52+09:00",
     "id": "knife0125"
-  },
-  {
-    "title": "(o1, o2) -> o1 - o2 なんて呪文はもうやめて！ - Java8でのComparatorの使い方",
-    "url": "https://qiita.com/tag1216/items/50ecf6a7bc10218ee889",
-    "likes_count": 414,
-    "created_at": "2014-11-04T00:34:48+09:00",
-    "updated_at": "2015-04-12T14:03:56+09:00",
-    "id": "tag1216"
   },
   {
     "title": "覚えておくと便利！Python標準ライブラリ10選",
@@ -376,6 +376,14 @@
     "id": "yk-nakamura"
   },
   {
+    "title": "【javascript】やさしいクラスの作り方",
+    "url": "https://qiita.com/varmil/items/99fd6f2a886fdde4b7fa",
+    "likes_count": 334,
+    "created_at": "2014-11-17T13:27:13+09:00",
+    "updated_at": "2016-08-09T22:56:46+09:00",
+    "id": "varmil"
+  },
+  {
     "title": "作りたいものを作るには結局大量のコードを書かないといけないことについて",
     "url": "https://qiita.com/ruiu/items/ce12d47e1848feaa1524",
     "likes_count": 333,
@@ -390,14 +398,6 @@
     "created_at": "2014-11-14T21:22:35+09:00",
     "updated_at": "2014-12-04T11:36:31+09:00",
     "id": "nowri"
-  },
-  {
-    "title": "【javascript】やさしいクラスの作り方",
-    "url": "https://qiita.com/varmil/items/99fd6f2a886fdde4b7fa",
-    "likes_count": 333,
-    "created_at": "2014-11-17T13:27:13+09:00",
-    "updated_at": "2016-08-09T22:56:46+09:00",
-    "id": "varmil"
   },
   {
     "title": "PHPでPDF帳票を出力する方法（TCPDF + FPDI）",
@@ -434,7 +434,7 @@
   {
     "title": "XcodeでiOSアプリ開発をする時の.gitignore",
     "url": "https://qiita.com/ikuwow/items/4fae81a099bf82f44749",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2014-11-02T16:57:58+09:00",
     "updated_at": "2018-02-14T12:49:15+09:00",
     "id": "ikuwow"
@@ -458,7 +458,7 @@
   {
     "title": "Herokuのメリット、デメリット",
     "url": "https://qiita.com/shu_0115/items/0106198f7a0be2f2a509",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2014-11-26T11:29:49+09:00",
     "updated_at": "2017-09-12T15:09:15+09:00",
     "id": "shu_0115"

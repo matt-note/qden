@@ -2,7 +2,7 @@
   {
     "title": "オブジェクト指向と10年戦ってわかったこと",
     "url": "https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e",
-    "likes_count": 4876,
+    "likes_count": 4877,
     "created_at": "2015-11-19T07:03:23+09:00",
     "updated_at": "2021-01-10T07:34:39+09:00",
     "id": "tutinoco"
@@ -50,7 +50,7 @@
   {
     "title": "Dockerイメージとコンテナの削除方法",
     "url": "https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae",
-    "likes_count": 1421,
+    "likes_count": 1425,
     "created_at": "2015-11-02T17:09:47+09:00",
     "updated_at": "2020-04-12T23:12:03+09:00",
     "id": "tifa2chan"
@@ -114,10 +114,18 @@
   {
     "title": "【Windows版】VS Code キーボードショートカット一覧 （オススメ付き）",
     "url": "https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b",
-    "likes_count": 1045,
+    "likes_count": 1046,
     "created_at": "2015-11-20T19:19:33+09:00",
     "updated_at": "2020-10-06T11:54:12+09:00",
     "id": "TakahiRoyte"
+  },
+  {
+    "title": "Dockerコンテナの作成、起動〜停止まで",
+    "url": "https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53",
+    "likes_count": 1008,
+    "created_at": "2015-11-16T16:38:52+09:00",
+    "updated_at": "2015-11-16T16:38:52+09:00",
+    "id": "kooohei"
   },
   {
     "title": "Wikipedia からスクレイピングして… とか言ってる人におすすめしたい，DBPedia からの情報抽出",
@@ -126,14 +134,6 @@
     "created_at": "2015-11-24T08:19:49+09:00",
     "updated_at": "2015-11-24T21:49:47+09:00",
     "id": "pika_shi"
-  },
-  {
-    "title": "Dockerコンテナの作成、起動〜停止まで",
-    "url": "https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53",
-    "likes_count": 1006,
-    "created_at": "2015-11-16T16:38:52+09:00",
-    "updated_at": "2015-11-16T16:38:52+09:00",
-    "id": "kooohei"
   },
   {
     "title": "Bashの便利な構文だがよく忘れてしまうものの備忘録",
@@ -154,9 +154,9 @@
   {
     "title": "テスト仕様書",
     "url": "https://qiita.com/jun2014/items/cad7328978e709fe79f4",
-    "likes_count": 924,
+    "likes_count": 926,
     "created_at": "2015-11-11T01:33:58+09:00",
-    "updated_at": "2021-02-01T08:19:21+09:00",
+    "updated_at": "2021-02-03T13:52:22+09:00",
     "id": "jun2014"
   },
   {
@@ -226,7 +226,7 @@
   {
     "title": "curl option 覚え書き",
     "url": "https://qiita.com/takayukioda/items/edf371b3566bea64d046",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2015-11-18T18:04:36+09:00",
     "updated_at": "2019-10-05T21:53:30+09:00",
     "id": "takayukioda"
@@ -266,7 +266,7 @@
   {
     "title": "Linuxでプロセスが何のポート使っているかを調べる",
     "url": "https://qiita.com/sonoshou/items/cc2b740147ba1b8da1f3",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2015-11-25T11:46:19+09:00",
     "updated_at": "2018-04-22T15:24:32+09:00",
     "id": "sonoshou"
@@ -298,7 +298,7 @@
   {
     "title": "これでわかった!? LEFT / RIGHT JOIN.",
     "url": "https://qiita.com/zaburo/items/548b3c40fee68cd1e3b7",
-    "likes_count": 525,
+    "likes_count": 527,
     "created_at": "2015-11-24T18:44:04+09:00",
     "updated_at": "2020-01-16T02:19:33+09:00",
     "id": "zaburo"

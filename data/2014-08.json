@@ -66,7 +66,7 @@
   {
     "title": "Rubyで%記法（パーセント記法）を使う",
     "url": "https://qiita.com/mogulla3/items/46bb876391be07921743",
-    "likes_count": 1078,
+    "likes_count": 1079,
     "created_at": "2014-08-23T23:49:39+09:00",
     "updated_at": "2014-08-23T23:50:26+09:00",
     "id": "mogulla3"
@@ -106,7 +106,7 @@
   {
     "title": "プログラマが持つべき心構え (The Zen of Python)",
     "url": "https://qiita.com/IshitaTakeshi/items/e4145921c8dbf7ba57ef",
-    "likes_count": 821,
+    "likes_count": 823,
     "created_at": "2014-08-13T10:44:49+09:00",
     "updated_at": "2018-08-05T15:28:23+09:00",
     "id": "IshitaTakeshi"
@@ -248,6 +248,14 @@
     "id": "mikakane"
   },
   {
+    "title": "Requests の使い方 (Python Library)",
+    "url": "https://qiita.com/sqrtxx/items/49beaa3795925e7de666",
+    "likes_count": 544,
+    "created_at": "2014-08-03T04:51:42+09:00",
+    "updated_at": "2014-08-03T04:51:42+09:00",
+    "id": "sqrtxx"
+  },
+  {
     "title": "Ruby の private と protected 。歴史と使い分け",
     "url": "https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e",
     "likes_count": 544,
@@ -256,17 +264,9 @@
     "id": "tbpgr"
   },
   {
-    "title": "Requests の使い方 (Python Library)",
-    "url": "https://qiita.com/sqrtxx/items/49beaa3795925e7de666",
-    "likes_count": 543,
-    "created_at": "2014-08-03T04:51:42+09:00",
-    "updated_at": "2014-08-03T04:51:42+09:00",
-    "id": "sqrtxx"
-  },
-  {
     "title": "【まとめ】インスタンス変数、クラス変数、クラスインスタンス変数",
     "url": "https://qiita.com/mogulla3/items/cd4d6e188c34c6819709",
-    "likes_count": 536,
+    "likes_count": 537,
     "created_at": "2014-08-10T16:15:52+09:00",
     "updated_at": "2014-08-10T16:16:10+09:00",
     "id": "mogulla3"
@@ -474,7 +474,7 @@
   {
     "title": "AnsibleでWindowsを操作する準備をする",
     "url": "https://qiita.com/yunano/items/f9d5652a296931a09a70",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2014-08-30T15:32:51+09:00",
     "updated_at": "2017-06-03T19:36:55+09:00",
     "id": "yunano"
