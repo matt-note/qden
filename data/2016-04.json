@@ -2,7 +2,7 @@
   {
     "title": "もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った",
     "url": "https://qiita.com/hirokidaichi/items/ff54a968bdd7bcc50d42",
-    "likes_count": 4810,
+    "likes_count": 4811,
     "created_at": "2016-04-02T18:21:53+09:00",
     "updated_at": "2018-12-26T00:03:58+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2207,
+    "likes_count": 2208,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -34,7 +34,7 @@
   {
     "title": "知識0から始めるVim講座",
     "url": "https://qiita.com/JpnLavender/items/fabcc79b4ab0d52e1f6d",
-    "likes_count": 1715,
+    "likes_count": 1717,
     "created_at": "2016-04-20T13:39:15+09:00",
     "updated_at": "2016-07-18T12:55:03+09:00",
     "id": "JpnLavender"
@@ -42,7 +42,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1664,
+    "likes_count": 1665,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -122,7 +122,7 @@
   {
     "title": "強い意志で定時に帰る",
     "url": "https://qiita.com/furu8ma/items/f909b8820c9d6d21897a",
-    "likes_count": 997,
+    "likes_count": 998,
     "created_at": "2016-04-05T17:40:25+09:00",
     "updated_at": "2016-04-08T09:32:49+09:00",
     "id": "furu8ma"
@@ -186,7 +186,7 @@
   {
     "title": "PHP開発でComposerを使わないなんてありえない！基礎編",
     "url": "https://qiita.com/niisan-tokyo/items/8cccec88d45f38171c94",
-    "likes_count": 691,
+    "likes_count": 690,
     "created_at": "2016-04-30T20:46:28+09:00",
     "updated_at": "2019-04-17T19:03:10+09:00",
     "id": "niisan-tokyo"
@@ -258,7 +258,7 @@
   {
     "title": "Thymeleafチートシート",
     "url": "https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482",
-    "likes_count": 572,
+    "likes_count": 573,
     "created_at": "2016-04-18T07:25:38+09:00",
     "updated_at": "2018-04-23T18:05:39+09:00",
     "id": "NagaokaKenichi"
@@ -274,7 +274,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 480,
+    "likes_count": 481,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-01-22T15:35:01+09:00",
     "id": "dai-takahashi"
@@ -322,7 +322,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 429,
+    "likes_count": 430,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -354,7 +354,7 @@
   {
     "title": "IntelliJ IDEA 入門",
     "url": "https://qiita.com/opengl-8080/items/108102d692b49f804dbd",
-    "likes_count": 422,
+    "likes_count": 421,
     "created_at": "2016-04-07T00:13:00+09:00",
     "updated_at": "2018-04-02T23:29:26+09:00",
     "id": "opengl-8080"
@@ -386,7 +386,7 @@
   {
     "title": "データベースさわったこと無い新人向けトランザクション入門",
     "url": "https://qiita.com/komattio/items/838ea5df68eb076e8099",
-    "likes_count": 384,
+    "likes_count": 385,
     "created_at": "2016-04-11T06:46:24+09:00",
     "updated_at": "2016-04-11T06:54:57+09:00",
     "id": "komattio"
@@ -448,20 +448,20 @@
     "id": "toshihirock"
   },
   {
+    "title": "変更履歴を持つテーブルの設計",
+    "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
+    "likes_count": 365,
+    "created_at": "2016-04-05T14:44:41+09:00",
+    "updated_at": "2018-02-09T12:13:08+09:00",
+    "id": "ak-ymst"
+  },
+  {
     "title": "LINE Bot を AWSを使ってシステム構築してみた。",
     "url": "https://qiita.com/hiyuzawa/items/10e7bf2f6ad5d1c7fc9c",
     "likes_count": 365,
     "created_at": "2016-04-17T17:19:05+09:00",
     "updated_at": "2018-01-24T21:54:30+09:00",
     "id": "hiyuzawa"
-  },
-  {
-    "title": "変更履歴を持つテーブルの設計",
-    "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
-    "likes_count": 363,
-    "created_at": "2016-04-05T14:44:41+09:00",
-    "updated_at": "2018-02-09T12:13:08+09:00",
-    "id": "ak-ymst"
   },
   {
     "title": "インフラエンジニアの自分が買ってよかったと思う書籍10選",
@@ -594,7 +594,7 @@
   {
     "title": "機械学習のライブラリ dlib",
     "url": "https://qiita.com/nonbiri15/items/9561c8194ba0b2041bd0",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2016-04-09T23:32:44+09:00",
     "updated_at": "2020-10-14T23:21:24+09:00",
     "id": "nonbiri15"
