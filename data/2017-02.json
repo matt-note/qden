@@ -18,7 +18,7 @@
   {
     "title": "Awesome Python：素晴らしい Python フレームワーク・ライブラリ・ソフトウェア・リソースの数々",
     "url": "https://qiita.com/hatai/items/34c91d4ee0b54bd7cb8b",
-    "likes_count": 1403,
+    "likes_count": 1404,
     "created_at": "2017-02-01T19:47:28+09:00",
     "updated_at": "2020-05-31T22:48:15+09:00",
     "id": "hatai"
@@ -74,7 +74,7 @@
   {
     "title": "CentOS 7 firewalld よく使うコマンド",
     "url": "https://qiita.com/kenjjiijjii/items/1057af2dddc34022b09e",
-    "likes_count": 642,
+    "likes_count": 644,
     "created_at": "2017-02-11T06:19:48+09:00",
     "updated_at": "2021-01-08T08:35:47+09:00",
     "id": "kenjjiijjii"
@@ -122,7 +122,7 @@
   {
     "title": "なぜ機械学習にPythonが選ばれるのか",
     "url": "https://qiita.com/yaju/items/5502115d7e3d06e6bbdd",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2017-02-13T00:40:14+09:00",
     "updated_at": "2020-11-19T23:57:05+09:00",
     "id": "yaju"
@@ -146,7 +146,7 @@
   {
     "title": "Rails で includes して N+1 問題対策",
     "url": "https://qiita.com/hirotakasasaki/items/e0be0b3fd7b0eb350327",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2017-02-11T00:44:25+09:00",
     "updated_at": "2017-02-11T13:36:03+09:00",
     "id": "hirotakasasaki"
@@ -162,7 +162,7 @@
   {
     "title": "PythonのslackbotライブラリでSlackボットを作る",
     "url": "https://qiita.com/sukesuke/items/1ac92251def87357fdf6",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2017-02-01T14:57:07+09:00",
     "updated_at": "2017-06-10T20:51:27+09:00",
     "id": "sukesuke"
@@ -170,7 +170,7 @@
   {
     "title": "Stripe Billing 101",
     "url": "https://qiita.com/y_toku/items/235b5e7ee00792edcbbf",
-    "likes_count": 438,
+    "likes_count": 441,
     "created_at": "2017-02-23T10:20:30+09:00",
     "updated_at": "2018-10-09T11:01:30+09:00",
     "id": "y_toku"
@@ -194,7 +194,7 @@
   {
     "title": "macOS で Visual Studio Code を使うためのアレコレ (2021/01/01)",
     "url": "https://qiita.com/satokaz/items/6a6a0d9b6489ec2d1803",
-    "likes_count": 414,
+    "likes_count": 416,
     "created_at": "2017-02-23T09:51:21+09:00",
     "updated_at": "2021-01-01T18:11:08+09:00",
     "id": "satokaz"
@@ -234,7 +234,7 @@
   {
     "title": "オレだよオレオレ認証局で証明書つくる",
     "url": "https://qiita.com/ll_kuma_ll/items/13c962a6a74874af39c6",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2017-02-10T01:03:24+09:00",
     "updated_at": "2019-12-18T18:26:37+09:00",
     "id": "ll_kuma_ll"
@@ -258,7 +258,7 @@
   {
     "title": "Pythonのジェネレーターってなんのためにあるのかをなるべく分かりやすく説明しようと試みた",
     "url": "https://qiita.com/keitakurita/items/5a31b902db6adfa45a70",
-    "likes_count": 326,
+    "likes_count": 328,
     "created_at": "2017-02-20T23:43:32+09:00",
     "updated_at": "2018-05-12T15:46:32+09:00",
     "id": "keitakurita"
@@ -280,20 +280,20 @@
     "id": "junara"
   },
   {
+    "title": "簡単なウインドウアプリ(GUI)開発のまとめ(Windows偏)",
+    "url": "https://qiita.com/yosgspec/items/810843f863075d33a093",
+    "likes_count": 318,
+    "created_at": "2017-02-06T03:02:28+09:00",
+    "updated_at": "2020-12-09T23:56:03+09:00",
+    "id": "yosgspec"
+  },
+  {
     "title": "フロントエンド知らない私のwebpack入門 その1",
     "url": "https://qiita.com/knjname/items/b8ca62c12238ade9c263",
     "likes_count": 317,
     "created_at": "2017-02-02T14:27:11+09:00",
     "updated_at": "2019-12-10T17:15:05+09:00",
     "id": "knjname"
-  },
-  {
-    "title": "簡単なウインドウアプリ(GUI)開発のまとめ(Windows偏)",
-    "url": "https://qiita.com/yosgspec/items/810843f863075d33a093",
-    "likes_count": 317,
-    "created_at": "2017-02-06T03:02:28+09:00",
-    "updated_at": "2020-12-09T23:56:03+09:00",
-    "id": "yosgspec"
   },
   {
     "title": "SSD: Single Shot MultiBox Detector 高速リアルタイム物体検出デモをKerasで試す",
@@ -330,7 +330,7 @@
   {
     "title": "[ Markdownでスライド作成 ] 5種類くらいツールを試してみた結果",
     "url": "https://qiita.com/ykhirao/items/74a23f812dd5d22b3b88",
-    "likes_count": 291,
+    "likes_count": 294,
     "created_at": "2017-02-23T18:46:05+09:00",
     "updated_at": "2019-12-25T14:59:38+09:00",
     "id": "ykhirao"
@@ -370,7 +370,7 @@
   {
     "title": "[Python]強化学習(DQN)を実装しながらKerasに慣れる",
     "url": "https://qiita.com/yukiB/items/0a3faa759ca5561e12f8",
-    "likes_count": 261,
+    "likes_count": 262,
     "created_at": "2017-02-17T11:43:48+09:00",
     "updated_at": "2017-10-20T15:59:52+09:00",
     "id": "yukiB"
