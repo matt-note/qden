@@ -2,7 +2,7 @@
   {
     "title": "いまさらだけどDockerに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/44860fbda1a34a001fc1",
-    "likes_count": 4051,
+    "likes_count": 4056,
     "created_at": "2018-08-08T08:31:56+09:00",
     "updated_at": "2020-06-09T14:01:44+09:00",
     "id": "gold-kou"
@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 3112,
+    "likes_count": 3113,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2021-01-27T17:43:50+09:00",
     "id": "gold-kou"
@@ -26,7 +26,7 @@
   {
     "title": "「世界最悪のログイン処理コード」を解説してみた",
     "url": "https://qiita.com/YSRKEN/items/0095cf75be3f607b0f98",
-    "likes_count": 1645,
+    "likes_count": 1646,
     "created_at": "2018-08-11T21:45:29+09:00",
     "updated_at": "2018-09-22T21:44:31+09:00",
     "id": "YSRKEN"
@@ -98,7 +98,7 @@
   {
     "title": "ポリモーフィズムを活用するとなぜ if や switch  が消えるのか？",
     "url": "https://qiita.com/Nossa/items/a93024e653ff939115c6",
-    "likes_count": 877,
+    "likes_count": 878,
     "created_at": "2018-08-07T07:13:20+09:00",
     "updated_at": "2019-05-09T13:00:37+09:00",
     "id": "Nossa"
@@ -106,7 +106,7 @@
   {
     "title": "JavaScriptのpreventDefault()って難しくない？preventDefault()を使うための前提知識",
     "url": "https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae",
-    "likes_count": 678,
+    "likes_count": 679,
     "created_at": "2018-08-19T23:18:15+09:00",
     "updated_at": "2019-12-10T12:44:59+09:00",
     "id": "tochiji"
@@ -170,7 +170,7 @@
   {
     "title": "【初心者向け】Anacondaで仮想環境を作ってみる",
     "url": "https://qiita.com/ozaki_physics/items/985188feb92570e5b82d",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2018-08-09T17:19:50+09:00",
     "updated_at": "2020-06-06T04:37:08+09:00",
     "id": "ozaki_physics"
@@ -224,20 +224,20 @@
     "id": "gounx2"
   },
   {
+    "title": "ちゃんと理解するCode Splitting",
+    "url": "https://qiita.com/seya/items/06b160adb7801ae9e66f",
+    "likes_count": 450,
+    "created_at": "2018-08-06T07:59:37+09:00",
+    "updated_at": "2018-08-06T07:59:37+09:00",
+    "id": "seya"
+  },
+  {
     "title": "マサコの知らない自作キーボードの世界",
     "url": "https://qiita.com/sirojake/items/8c60148c03c248fc6a6e",
     "likes_count": 450,
     "created_at": "2018-08-22T10:26:09+09:00",
     "updated_at": "2020-11-06T01:25:19+09:00",
     "id": "sirojake"
-  },
-  {
-    "title": "ちゃんと理解するCode Splitting",
-    "url": "https://qiita.com/seya/items/06b160adb7801ae9e66f",
-    "likes_count": 449,
-    "created_at": "2018-08-06T07:59:37+09:00",
-    "updated_at": "2018-08-06T07:59:37+09:00",
-    "id": "seya"
   },
   {
     "title": "【保存版】Udemy 350コース突破記念 講師に全力 リスペクト企画 オススメ コース紹介【入門者向け】",
@@ -270,6 +270,14 @@
     "created_at": "2018-08-24T11:01:19+09:00",
     "updated_at": "2018-08-24T13:55:08+09:00",
     "id": "nakanishy"
+  },
+  {
+    "title": "Rustで競技プログラミングの入力をスッキリ記述するマクロ",
+    "url": "https://qiita.com/tanakh/items/0ba42c7ca36cd29d0ac8",
+    "likes_count": 408,
+    "created_at": "2018-08-20T23:05:27+09:00",
+    "updated_at": "2018-08-22T01:04:03+09:00",
+    "id": "tanakh"
   },
   {
     "title": "DockerfileのCMDとENTRYPOINTを改めて解説する",
@@ -386,10 +394,18 @@
   {
     "title": "【Git】新人エンジニア、git pushまでの道",
     "url": "https://qiita.com/yukibe/items/9ef9d54f2e7d53cfb51c",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2018-08-11T17:46:51+09:00",
     "updated_at": "2018-08-11T17:55:08+09:00",
     "id": "yukibe"
+  },
+  {
+    "title": "機械学習で使うベクトルや行列の微分を使った公式の導出",
+    "url": "https://qiita.com/Dynikon/items/5b664f959911ff93a5ca",
+    "likes_count": 276,
+    "created_at": "2018-08-22T15:28:48+09:00",
+    "updated_at": "2020-02-14T17:35:58+09:00",
+    "id": "Dynikon"
   },
   {
     "title": "【Pythonで多分人気2位のWebアプリケーションフレームワーク】Flaskの基本をわかりやすくまとめる",
@@ -398,14 +414,6 @@
     "created_at": "2018-08-09T08:21:36+09:00",
     "updated_at": "2019-11-21T15:41:46+09:00",
     "id": "gold-kou"
-  },
-  {
-    "title": "機械学習で使うベクトルや行列の微分を使った公式の導出",
-    "url": "https://qiita.com/Dynikon/items/5b664f959911ff93a5ca",
-    "likes_count": 275,
-    "created_at": "2018-08-22T15:28:48+09:00",
-    "updated_at": "2020-02-14T17:35:58+09:00",
-    "id": "Dynikon"
   },
   {
     "title": "テストを書くかどうか議論するの不毛だから、どうやってテストを書きやすくするか議論しよう",
