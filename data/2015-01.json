@@ -18,7 +18,7 @@
   {
     "title": "WebSocketについて調べてみた。",
     "url": "https://qiita.com/south37/items/6f92d4268fe676347160",
-    "likes_count": 1738,
+    "likes_count": 1739,
     "created_at": "2015-01-18T20:00:01+09:00",
     "updated_at": "2018-05-18T11:44:50+09:00",
     "id": "south37"
@@ -42,7 +42,7 @@
   {
     "title": "最強の dotfiles 駆動開発と GitHub で管理する運用方法",
     "url": "https://qiita.com/b4b4r07/items/b70178e021bef12cd4a2",
-    "likes_count": 1648,
+    "likes_count": 1649,
     "created_at": "2015-01-16T04:40:06+09:00",
     "updated_at": "2017-12-08T08:03:12+09:00",
     "id": "b4b4r07"
@@ -90,7 +90,7 @@
   {
     "title": "使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」",
     "url": "https://qiita.com/jnchito/items/607f956263c38a5fec24",
-    "likes_count": 1457,
+    "likes_count": 1458,
     "created_at": "2015-01-02T08:21:53+09:00",
     "updated_at": "2020-09-06T15:40:46+09:00",
     "id": "jnchito"
@@ -392,6 +392,14 @@
     "id": "Yuta"
   },
   {
+    "title": "Capistrano で Rails アプリケーションの自動デプロイ",
+    "url": "https://qiita.com/Salinger/items/4ee4f3c5ebd5227196c0",
+    "likes_count": 420,
+    "created_at": "2015-01-15T19:11:40+09:00",
+    "updated_at": "2016-08-13T20:53:31+09:00",
+    "id": "Salinger"
+  },
+  {
     "title": "Work in ProgressパターンによるPull Requestを利用した開発フロー",
     "url": "https://qiita.com/numa08/items/b676e38e3dbabfd39d18",
     "likes_count": 420,
@@ -406,14 +414,6 @@
     "created_at": "2015-01-03T22:26:58+09:00",
     "updated_at": "2015-11-08T09:59:29+09:00",
     "id": "Usek"
-  },
-  {
-    "title": "Capistrano で Rails アプリケーションの自動デプロイ",
-    "url": "https://qiita.com/Salinger/items/4ee4f3c5ebd5227196c0",
-    "likes_count": 419,
-    "created_at": "2015-01-15T19:11:40+09:00",
-    "updated_at": "2016-08-13T20:53:31+09:00",
-    "id": "Salinger"
   },
   {
     "title": "git log よく使うオプションまとめ",
@@ -602,7 +602,7 @@
   {
     "title": "ファイルやディレクトリのパーミッションを一括で置換したい",
     "url": "https://qiita.com/takeshi81/items/48ea62eae2fc7f1cb2f0",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2015-01-09T12:37:59+09:00",
     "updated_at": "2015-01-10T02:24:54+09:00",
     "id": "takeshi81"

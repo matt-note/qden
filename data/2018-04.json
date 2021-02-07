@@ -2,7 +2,7 @@
   {
     "title": "アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選 6 問 ～",
     "url": "https://qiita.com/drken/items/f909b79ee03e679c7142",
-    "likes_count": 2072,
+    "likes_count": 2074,
     "created_at": "2018-04-19T09:05:44+09:00",
     "updated_at": "2021-01-24T15:09:37+09:00",
     "id": "drken"
@@ -18,7 +18,7 @@
   {
     "title": "データ分析で頻出のPandas基本操作",
     "url": "https://qiita.com/ysdyt/items/9ccca82fc5b504e7913a",
-    "likes_count": 1998,
+    "likes_count": 2000,
     "created_at": "2018-04-16T08:12:28+09:00",
     "updated_at": "2019-12-17T17:19:27+09:00",
     "id": "ysdyt"
@@ -26,7 +26,7 @@
   {
     "title": "ソートを極める！ 〜 なぜソートを学ぶのか 〜",
     "url": "https://qiita.com/drken/items/44c60118ab3703f7727f",
-    "likes_count": 1930,
+    "likes_count": 1931,
     "created_at": "2018-04-05T09:29:06+09:00",
     "updated_at": "2019-10-17T14:02:36+09:00",
     "id": "drken"
@@ -42,7 +42,7 @@
   {
     "title": "システムで「性別」の情報を扱う前に知っておくべきこと",
     "url": "https://qiita.com/aoshirobo/items/32deb45cb8c8b87d65a4",
-    "likes_count": 1767,
+    "likes_count": 1768,
     "created_at": "2018-04-11T18:02:03+09:00",
     "updated_at": "2019-10-01T10:02:00+09:00",
     "id": "aoshirobo"
@@ -90,7 +90,7 @@
   {
     "title": "GAS ビギナーが GAS を使いこなすために知るべきこと 10 選",
     "url": "https://qiita.com/tanabee/items/2c51681396fe12b6a0e4",
-    "likes_count": 1237,
+    "likes_count": 1238,
     "created_at": "2018-04-03T20:21:07+09:00",
     "updated_at": "2020-10-22T01:26:54+09:00",
     "id": "tanabee"
@@ -130,7 +130,7 @@
   {
     "title": "Jupyter 知っておくと少し便利なTIPS集",
     "url": "https://qiita.com/simonritchie/items/d7dccb798f0b9c8b1ec5",
-    "likes_count": 970,
+    "likes_count": 971,
     "created_at": "2018-04-17T01:18:51+09:00",
     "updated_at": "2020-05-08T20:19:26+09:00",
     "id": "simonritchie"
@@ -154,7 +154,7 @@
   {
     "title": "ngrokが便利すぎる",
     "url": "https://qiita.com/mininobu/items/b45dbc70faedf30f484e",
-    "likes_count": 914,
+    "likes_count": 917,
     "created_at": "2018-04-15T00:55:28+09:00",
     "updated_at": "2018-04-15T00:55:28+09:00",
     "id": "mininobu"
@@ -386,7 +386,7 @@
   {
     "title": "Promise と async/await の理解度をもう1段階上げる",
     "url": "https://qiita.com/sotszk/items/f23199e864cba47455ce",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2018-05-01T01:52:27+09:00",
     "updated_at": "2018-05-12T12:16:24+09:00",
     "id": "sotszk"
@@ -450,7 +450,7 @@
   {
     "title": "脳死で覚えるkeras入門",
     "url": "https://qiita.com/wataoka/items/5c6766d3e1c674d61425",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2018-04-25T16:24:57+09:00",
     "updated_at": "2020-05-15T17:49:12+09:00",
     "id": "wataoka"
@@ -464,20 +464,20 @@
     "id": "horiem"
   },
   {
+    "title": "Goで学ぶポインタとアドレス",
+    "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
+    "likes_count": 370,
+    "created_at": "2018-04-27T14:31:26+09:00",
+    "updated_at": "2019-05-18T15:44:03+09:00",
+    "id": "Sekky0905"
+  },
+  {
     "title": "Visual Studio CodeでVue.jsアプリケーションの開発環境を構築する",
     "url": "https://qiita.com/rubytomato@github/items/b35b819671e7cbb3dff7",
     "likes_count": 369,
     "created_at": "2018-04-24T00:27:32+09:00",
     "updated_at": "2018-06-19T00:03:53+09:00",
     "id": "rubytomato@github"
-  },
-  {
-    "title": "Goで学ぶポインタとアドレス",
-    "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
-    "likes_count": 369,
-    "created_at": "2018-04-27T14:31:26+09:00",
-    "updated_at": "2019-05-18T15:44:03+09:00",
-    "id": "Sekky0905"
   },
   {
     "title": "物体検出、セグメンテーションをMask R-CNNで理解してみる (初心者)",
@@ -490,7 +490,7 @@
   {
     "title": "【詳解】抽象クラスとインタフェースを使いこなそう！！",
     "url": "https://qiita.com/yoshinori_hisakawa/items/cc094bef1caa011cb739",
-    "likes_count": 319,
+    "likes_count": 321,
     "created_at": "2018-04-22T11:04:24+09:00",
     "updated_at": "2018-04-22T12:18:02+09:00",
     "id": "yoshinori_hisakawa"
