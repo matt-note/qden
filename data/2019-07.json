@@ -2,7 +2,7 @@
   {
     "title": "すべての新米フロントエンドエンジニアに読んでほしい50の資料",
     "url": "https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2",
-    "likes_count": 3635,
+    "likes_count": 3636,
     "created_at": "2019-07-11T20:07:24+09:00",
     "updated_at": "2019-07-12T17:37:42+09:00",
     "id": "suzu-4"
@@ -34,7 +34,7 @@
   {
     "title": "基本的なシステム構成図を理解するためのAWS基礎をまとめてみた",
     "url": "https://qiita.com/g_ayushi/items/0e0f34d19813b8fdc2b8",
-    "likes_count": 1268,
+    "likes_count": 1269,
     "created_at": "2019-07-08T23:43:51+09:00",
     "updated_at": "2019-11-17T22:40:24+09:00",
     "id": "g_ayushi"
@@ -128,20 +128,20 @@
     "id": "azukisiromochi"
   },
   {
+    "title": "【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン",
+    "url": "https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4",
+    "likes_count": 818,
+    "created_at": "2019-07-18T19:02:09+09:00",
+    "updated_at": "2021-02-04T17:17:07+09:00",
+    "id": "ucan-lab"
+  },
+  {
     "title": "ゴー☆ジャス（宇宙海賊）をつくる",
     "url": "https://qiita.com/atsukoba23/items/30defcdb69163612fc27",
     "likes_count": 817,
     "created_at": "2019-07-13T01:59:08+09:00",
     "updated_at": "2019-07-26T18:54:30+09:00",
     "id": "atsukoba23"
-  },
-  {
-    "title": "【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン",
-    "url": "https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4",
-    "likes_count": 813,
-    "created_at": "2019-07-18T19:02:09+09:00",
-    "updated_at": "2021-02-04T17:17:07+09:00",
-    "id": "ucan-lab"
   },
   {
     "title": "これからVueを勉強しようと思っている人への道しるべ（勉強方法）を書く",
@@ -162,7 +162,7 @@
   {
     "title": "20年でソフトウェア開発の景色はどのぐらい変わったのか？",
     "url": "https://qiita.com/shibukawa/items/4d5c857b352cd196641b",
-    "likes_count": 715,
+    "likes_count": 714,
     "created_at": "2019-07-08T19:58:41+09:00",
     "updated_at": "2019-08-06T16:51:34+09:00",
     "id": "shibukawa"
@@ -170,7 +170,7 @@
   {
     "title": "OAuth 2.0 クライアント認証",
     "url": "https://qiita.com/TakahikoKawasaki/items/63ed4a9d8d6e5109e401",
-    "likes_count": 701,
+    "likes_count": 702,
     "created_at": "2019-07-14T01:13:21+09:00",
     "updated_at": "2020-04-12T03:00:16+09:00",
     "id": "TakahikoKawasaki"
@@ -186,7 +186,7 @@
   {
     "title": "【初心者向け】JavaScriptの非同期処理を理解する　callback、Promiseそしてasync/awaitへ",
     "url": "https://qiita.com/G-awa/items/652107a9abf7ff6d0d06",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2019-07-29T08:02:36+09:00",
     "updated_at": "2019-07-29T08:02:36+09:00",
     "id": "G-awa"
@@ -266,7 +266,7 @@
   {
     "title": "[Flutter]コピペで使える！ボタンのデザイン16種類をまとめました",
     "url": "https://qiita.com/coka__01/items/30716f42e4a909334c9f",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2019-07-29T08:26:28+09:00",
     "updated_at": "2020-10-24T15:01:04+09:00",
     "id": "coka__01"
@@ -320,20 +320,20 @@
     "id": "uhyo"
   },
   {
+    "title": "SPA、SSR、プリレンダリングの違いをまとめてみた",
+    "url": "https://qiita.com/amakawa_/items/e7d0720e1ab8632769bf",
+    "likes_count": 372,
+    "created_at": "2019-07-21T15:42:13+09:00",
+    "updated_at": "2019-12-20T15:58:34+09:00",
+    "id": "amakawa_"
+  },
+  {
     "title": "Pythonプログラムをしっかりと書く虎の巻",
     "url": "https://qiita.com/FukuharaYohei/items/6f8a30aef22c1f78a384",
     "likes_count": 371,
     "created_at": "2019-07-20T22:56:44+09:00",
     "updated_at": "2019-08-27T23:28:46+09:00",
     "id": "FukuharaYohei"
-  },
-  {
-    "title": "SPA、SSR、プリレンダリングの違いをまとめてみた",
-    "url": "https://qiita.com/amakawa_/items/e7d0720e1ab8632769bf",
-    "likes_count": 371,
-    "created_at": "2019-07-21T15:42:13+09:00",
-    "updated_at": "2019-12-20T15:58:34+09:00",
-    "id": "amakawa_"
   },
   {
     "title": "DockerとDocker ComposeのTerminal UI「lazydocker」のご紹介",
