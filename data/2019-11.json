@@ -2,7 +2,7 @@
   {
     "title": "2020年のフロントエンドマスターになりたければこの9プロジェクトを作れ",
     "url": "https://qiita.com/rana_kualu/items/915345b8f3f870cfe2aa",
-    "likes_count": 3431,
+    "likes_count": 3433,
     "created_at": "2019-11-11T20:54:20+09:00",
     "updated_at": "2019-11-20T21:12:23+09:00",
     "id": "rana_kualu"
@@ -66,7 +66,7 @@
   {
     "title": "ディープラーニングさえあれば、競馬で回収率100%を超えられる",
     "url": "https://qiita.com/yossymura/items/334a8f3ef85bff081913",
-    "likes_count": 1707,
+    "likes_count": 1706,
     "created_at": "2019-11-09T01:19:52+09:00",
     "updated_at": "2019-11-23T07:13:40+09:00",
     "id": "yossymura"
@@ -130,7 +130,7 @@
   {
     "title": "ブラウザレンダリングの仕組み",
     "url": "https://qiita.com/sasakiki/items/91dcc8b50d7a61ce98bc",
-    "likes_count": 1029,
+    "likes_count": 1032,
     "created_at": "2019-11-24T21:45:11+09:00",
     "updated_at": "2019-12-14T19:03:17+09:00",
     "id": "sasakiki"
@@ -226,7 +226,7 @@
   {
     "title": "ようこそdotfilesの世界へ",
     "url": "https://qiita.com/yutakatay/items/c6c7584d9795799ee164",
-    "likes_count": 602,
+    "likes_count": 603,
     "created_at": "2019-12-01T00:30:44+09:00",
     "updated_at": "2019-12-18T00:01:44+09:00",
     "id": "yutakatay"
@@ -274,10 +274,18 @@
   {
     "title": "RDBの限界とNoSQLの登場",
     "url": "https://qiita.com/1amageek/items/3dbbc3112493a73880d0",
-    "likes_count": 509,
+    "likes_count": 510,
     "created_at": "2019-11-11T21:55:56+09:00",
     "updated_at": "2019-11-14T13:25:42+09:00",
     "id": "1amageek"
+  },
+  {
+    "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
+    "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
+    "likes_count": 507,
+    "created_at": "2019-11-21T16:30:57+09:00",
+    "updated_at": "2020-10-14T00:17:51+09:00",
+    "id": "ryokkkke"
   },
   {
     "title": "「ループ・再帰・gotoを使わず1から100までの数値を印字する」Conner Davis 氏の回答の考察",
@@ -294,14 +302,6 @@
     "created_at": "2019-11-26T01:23:49+09:00",
     "updated_at": "2021-02-05T12:09:02+09:00",
     "id": "newt0"
-  },
-  {
-    "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
-    "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 504,
-    "created_at": "2019-11-21T16:30:57+09:00",
-    "updated_at": "2020-10-14T00:17:51+09:00",
-    "id": "ryokkkke"
   },
   {
     "title": "そろそろSQLのウィンドウ関数を理解したい - 連載1/3話",
@@ -354,10 +354,18 @@
   {
     "title": "ぼくのVimさばきを支える設定とその導入手順を紹介する",
     "url": "https://qiita.com/jiroshin/items/ee86ea426a51fa24b319",
-    "likes_count": 434,
+    "likes_count": 435,
     "created_at": "2019-11-27T13:29:20+09:00",
     "updated_at": "2020-12-30T21:53:00+09:00",
     "id": "jiroshin"
+  },
+  {
+    "title": "AWS,Azure,GCPの3大クラウドのアーキテクト試験に合格してみての個人的比較",
+    "url": "https://qiita.com/yomon8/items/f812079d0ce631f73d45",
+    "likes_count": 430,
+    "created_at": "2019-11-21T20:20:09+09:00",
+    "updated_at": "2020-03-19T10:09:33+09:00",
+    "id": "yomon8"
   },
   {
     "title": "誤解されることが多い「テスト自動化」の範囲について",
@@ -366,14 +374,6 @@
     "created_at": "2019-11-04T15:15:27+09:00",
     "updated_at": "2019-11-08T00:32:02+09:00",
     "id": "gevanni"
-  },
-  {
-    "title": "AWS,Azure,GCPの3大クラウドのアーキテクト試験に合格してみての個人的比較",
-    "url": "https://qiita.com/yomon8/items/f812079d0ce631f73d45",
-    "likes_count": 429,
-    "created_at": "2019-11-21T20:20:09+09:00",
-    "updated_at": "2020-03-19T10:09:33+09:00",
-    "id": "yomon8"
   },
   {
     "title": "無料で使える公開 API のリスト：48 カテゴリ",
@@ -442,7 +442,7 @@
   {
     "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
     "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2019-11-15T22:47:51+09:00",
     "updated_at": "2020-03-09T11:53:54+09:00",
     "id": "ramuneru"
@@ -458,10 +458,18 @@
   {
     "title": "ドメインモデルとは(「現場で役立つシステム設計の原則」より)",
     "url": "https://qiita.com/jimpei/items/93671b4b09407f9d4111",
-    "likes_count": 308,
+    "likes_count": 309,
     "created_at": "2019-11-04T23:44:21+09:00",
     "updated_at": "2019-11-06T18:44:55+09:00",
     "id": "jimpei"
+  },
+  {
+    "title": "10分で理解する Selenium",
+    "url": "https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a",
+    "likes_count": 304,
+    "created_at": "2019-11-30T01:26:15+09:00",
+    "updated_at": "2019-12-01T01:08:28+09:00",
+    "id": "Chanmoro"
   },
   {
     "title": "たった一文でPandasのapplyメソッドを高速化する方法（検証計算あり）",
@@ -470,14 +478,6 @@
     "created_at": "2019-11-14T21:47:29+09:00",
     "updated_at": "2019-11-15T20:28:14+09:00",
     "id": "heisenberg_"
-  },
-  {
-    "title": "10分で理解する Selenium",
-    "url": "https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a",
-    "likes_count": 302,
-    "created_at": "2019-11-30T01:26:15+09:00",
-    "updated_at": "2019-12-01T01:08:28+09:00",
-    "id": "Chanmoro"
   },
   {
     "title": "分報で各自の作業を可視化したら、メンバー間の協力が加速された話",
@@ -498,7 +498,7 @@
   {
     "title": "【これからScssを使う人へ】Scssの使い方と便利さをさらっと紹介するぞ",
     "url": "https://qiita.com/mame_hashbill/items/e5f01d0f2523de6a13e5",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2019-11-05T18:08:00+09:00",
     "updated_at": "2019-11-06T07:55:54+09:00",
     "id": "mame_hashbill"
