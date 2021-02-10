@@ -2,7 +2,7 @@
   {
     "title": "ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習",
     "url": "https://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7",
-    "likes_count": 8102,
+    "likes_count": 8103,
     "created_at": "2014-05-25T16:52:40+09:00",
     "updated_at": "2019-03-17T00:41:02+09:00",
     "id": "hirokidaichi"
@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡",
     "url": "https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1",
-    "likes_count": 5273,
+    "likes_count": 5274,
     "created_at": "2014-05-14T01:47:19+09:00",
     "updated_at": "2019-03-17T00:40:23+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "PHPオブジェクト指向入門（前半）",
     "url": "https://qiita.com/mpyw/items/41230bec5c02142ae691",
-    "likes_count": 1682,
+    "likes_count": 1685,
     "created_at": "2014-05-26T03:20:00+09:00",
     "updated_at": "2015-01-09T14:35:42+09:00",
     "id": "mpyw"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1364,
+    "likes_count": 1365,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2020-07-13T19:44:27+09:00",
     "id": "amedama"
@@ -170,7 +170,7 @@
   {
     "title": "Google HTML/CSS Style Guide まとめ",
     "url": "https://qiita.com/Sugima/items/785644372397595644ba",
-    "likes_count": 739,
+    "likes_count": 740,
     "created_at": "2014-05-12T15:57:33+09:00",
     "updated_at": "2019-09-17T17:11:33+09:00",
     "id": "Sugima"
@@ -306,7 +306,7 @@
   {
     "title": "PostgreSQLのbackup, restore方法まとめ",
     "url": "https://qiita.com/rice_american/items/ceae28dad13c3977e3a8",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2014-05-25T14:37:55+09:00",
     "updated_at": "2019-06-15T20:04:12+09:00",
     "id": "rice_american"
@@ -370,10 +370,18 @@
   {
     "title": "多段SSHやポートフォワーディングを '.ssh/config' に書く",
     "url": "https://qiita.com/lasta/items/41e95a2fdded18c34dae",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2014-05-14T16:27:11+09:00",
     "updated_at": "2019-12-27T08:11:20+09:00",
     "id": "lasta"
+  },
+  {
+    "title": "Java並行・並列・非同期処理チートシート",
+    "url": "https://qiita.com/yohhoy/items/bc119324d2b69570597b",
+    "likes_count": 390,
+    "created_at": "2014-05-25T13:31:44+09:00",
+    "updated_at": "2017-08-26T01:07:49+09:00",
+    "id": "yohhoy"
   },
   {
     "title": "10分ではじめるGitBucket",
@@ -382,14 +390,6 @@
     "created_at": "2014-05-12T20:25:10+09:00",
     "updated_at": "2014-05-14T10:50:01+09:00",
     "id": "msykiino"
-  },
-  {
-    "title": "Java並行・並列・非同期処理チートシート",
-    "url": "https://qiita.com/yohhoy/items/bc119324d2b69570597b",
-    "likes_count": 389,
-    "created_at": "2014-05-25T13:31:44+09:00",
-    "updated_at": "2017-08-26T01:07:49+09:00",
-    "id": "yohhoy"
   },
   {
     "title": "iOS/Androidアプリ開発をしたことがある人がUnity 2Dでスマホゲームアプリを作り始める際に知っておくべきこと",
