@@ -2,7 +2,7 @@
   {
     "title": "【個人開発・ポートフォリオに】簡単にいい感じのデザインにできるサービスまとめ",
     "url": "https://qiita.com/aiandrox/items/4196c8f5b564d29fdce7",
-    "likes_count": 1885,
+    "likes_count": 1886,
     "created_at": "2020-11-22T15:07:42+09:00",
     "updated_at": "2020-12-09T11:42:59+09:00",
     "id": "aiandrox"
@@ -18,7 +18,7 @@
   {
     "title": "新卒１年目が荒れ果てた開発環境に１年間でCIを導入し単体テストを布教した話",
     "url": "https://qiita.com/autotaker1984/items/894bf0df0009c621da11",
-    "likes_count": 1320,
+    "likes_count": 1321,
     "created_at": "2020-11-28T03:06:14+09:00",
     "updated_at": "2020-12-22T07:11:22+09:00",
     "id": "autotaker1984"
@@ -26,7 +26,7 @@
   {
     "title": "Next.js 4年目の知見：SSRはもう古い、VercelにAPIサーバを置くな",
     "url": "https://qiita.com/jagaapple/items/faf125e28f8c2860269c",
-    "likes_count": 1267,
+    "likes_count": 1270,
     "created_at": "2020-11-05T15:26:15+09:00",
     "updated_at": "2020-11-09T18:40:46+09:00",
     "id": "jagaapple"
@@ -34,7 +34,7 @@
   {
     "title": "C++ の学習サイトを作りました",
     "url": "https://qiita.com/rinatz/items/05492be4eea28f6598da",
-    "likes_count": 1227,
+    "likes_count": 1228,
     "created_at": "2020-11-21T18:01:51+09:00",
     "updated_at": "2020-11-21T18:01:51+09:00",
     "id": "rinatz"
@@ -42,10 +42,18 @@
   {
     "title": "M1 Macの開発環境",
     "url": "https://qiita.com/shibukawa/items/797b7cbb7e530842e6f7",
-    "likes_count": 1176,
+    "likes_count": 1177,
     "created_at": "2020-11-20T17:11:41+09:00",
     "updated_at": "2021-02-09T09:28:19+09:00",
     "id": "shibukawa"
+  },
+  {
+    "title": "【保存版】データサイエンティスト転職を決めるポートフォリオのガイドライン",
+    "url": "https://qiita.com/masso/items/44437b48706483ce9f30",
+    "likes_count": 1009,
+    "created_at": "2020-11-25T16:22:20+09:00",
+    "updated_at": "2021-01-12T10:16:28+09:00",
+    "id": "masso"
   },
   {
     "title": "「このサイト何の技術でできているんだろう？」が一発で解決できる機能を紹介",
@@ -56,17 +64,9 @@
     "id": "TeppeiMimachi"
   },
   {
-    "title": "【保存版】データサイエンティスト転職を決めるポートフォリオのガイドライン",
-    "url": "https://qiita.com/masso/items/44437b48706483ce9f30",
-    "likes_count": 1007,
-    "created_at": "2020-11-25T16:22:20+09:00",
-    "updated_at": "2021-01-12T10:16:28+09:00",
-    "id": "masso"
-  },
-  {
     "title": "【AWS初心者向け】AWS学習方法まとめ【15時間で達成できる】",
     "url": "https://qiita.com/toma_shohei/items/b7a001d26bd988d52021",
-    "likes_count": 969,
+    "likes_count": 970,
     "created_at": "2020-11-26T13:21:26+09:00",
     "updated_at": "2020-12-24T09:13:09+09:00",
     "id": "toma_shohei"
@@ -106,7 +106,7 @@
   {
     "title": "Next.jsにおけるSSG（静的サイト生成）とISRについて（自分の）限界まで丁寧に説明する",
     "url": "https://qiita.com/thesugar/items/47ec3d243d00ddd0b4ed",
-    "likes_count": 619,
+    "likes_count": 620,
     "created_at": "2020-11-11T22:18:03+09:00",
     "updated_at": "2020-11-14T00:15:30+09:00",
     "id": "thesugar"
@@ -170,7 +170,7 @@
   {
     "title": "AWS, Docker, CircleCI, Laravelでポートフォリオを作成してみた【参考リンク付き】",
     "url": "https://qiita.com/nasuB7373/items/0e507abad2017976c407",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2020-11-23T10:44:02+09:00",
     "updated_at": "2021-01-17T12:22:37+09:00",
     "id": "nasuB7373"
@@ -194,7 +194,7 @@
   {
     "title": "Pythonで進捗表示したい！",
     "url": "https://qiita.com/kuroitu/items/f18acf87269f4267e8c1",
-    "likes_count": 372,
+    "likes_count": 373,
     "created_at": "2020-11-16T12:31:32+09:00",
     "updated_at": "2020-11-25T17:46:38+09:00",
     "id": "kuroitu"
@@ -218,7 +218,7 @@
   {
     "title": "意外と知らないVSCode上でGoを爆速開発するためのTips5選",
     "url": "https://qiita.com/yagi_eng/items/9e599913605625809d9c",
-    "likes_count": 297,
+    "likes_count": 296,
     "created_at": "2020-11-16T08:10:27+09:00",
     "updated_at": "2020-11-16T09:53:31+09:00",
     "id": "yagi_eng"
@@ -226,7 +226,7 @@
   {
     "title": "[初心者向け]GitとGitHubの使い方を徹底解説",
     "url": "https://qiita.com/renesisu727/items/248cb9468a402c622003",
-    "likes_count": 246,
+    "likes_count": 247,
     "created_at": "2020-11-19T14:30:47+09:00",
     "updated_at": "2020-11-19T14:30:47+09:00",
     "id": "renesisu727"
