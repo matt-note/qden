@@ -2,7 +2,7 @@
   {
     "title": "2019年のDevOps/MLOpsエンジニアの標準的スキルセット",
     "url": "https://qiita.com/poly_soft/items/8dd105341869f93b129c",
-    "likes_count": 1472,
+    "likes_count": 1471,
     "created_at": "2019-08-21T16:57:57+09:00",
     "updated_at": "2019-08-27T14:43:19+09:00",
     "id": "poly_soft"
@@ -10,7 +10,7 @@
   {
     "title": "なんとなく CORS がわかる...はもう終わりにする。",
     "url": "https://qiita.com/att55/items/2154a8aad8bf1409db2b",
-    "likes_count": 1287,
+    "likes_count": 1291,
     "created_at": "2019-08-15T01:24:06+09:00",
     "updated_at": "2020-09-14T10:27:14+09:00",
     "id": "att55"
@@ -96,20 +96,20 @@
     "id": "gorilla0513"
   },
   {
+    "title": "XGBoost論文を丁寧に解説する(1)",
+    "url": "https://qiita.com/triwave33/items/aad60f25485a4595b5c8",
+    "likes_count": 583,
+    "created_at": "2019-08-08T22:11:19+09:00",
+    "updated_at": "2021-01-29T21:56:18+09:00",
+    "id": "triwave33"
+  },
+  {
     "title": "git switchとrestoreの役割と機能について",
     "url": "https://qiita.com/yukibear/items/4f88a5c0e4b1801ee952",
     "likes_count": 581,
     "created_at": "2019-08-20T04:02:28+09:00",
     "updated_at": "2020-09-15T03:35:19+09:00",
     "id": "yukibear"
-  },
-  {
-    "title": "XGBoost論文を丁寧に解説する(1)",
-    "url": "https://qiita.com/triwave33/items/aad60f25485a4595b5c8",
-    "likes_count": 580,
-    "created_at": "2019-08-08T22:11:19+09:00",
-    "updated_at": "2021-01-29T21:56:18+09:00",
-    "id": "triwave33"
   },
   {
     "title": "Androidアプリの審査が長くなった件",
@@ -202,7 +202,7 @@
   {
     "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
     "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
-    "likes_count": 412,
+    "likes_count": 414,
     "created_at": "2019-08-23T18:43:20+09:00",
     "updated_at": "2020-08-12T16:41:47+09:00",
     "id": "tegnike"
@@ -226,7 +226,7 @@
   {
     "title": "【forが嫌い！可読性を上げたい！】楽するために学ぶ配列の高階関数(map, filter, reduce等)",
     "url": "https://qiita.com/rexiaxm7/items/f7d0c5e70ca3f1c5bbec",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2019-08-25T20:39:08+09:00",
     "updated_at": "2019-08-27T20:36:12+09:00",
     "id": "rexiaxm7"
@@ -242,7 +242,7 @@
   {
     "title": "React Hooksとカスタムフックが実現する世界 - ロジックの分離と再利用性の向上",
     "url": "https://qiita.com/sonatard/items/617f324228f75b9c802f",
-    "likes_count": 369,
+    "likes_count": 371,
     "created_at": "2019-08-05T10:20:11+09:00",
     "updated_at": "2020-09-02T13:57:07+09:00",
     "id": "sonatard"
@@ -256,20 +256,20 @@
     "id": "toshi-toma"
   },
   {
+    "title": "Django実践開発入門",
+    "url": "https://qiita.com/Syoitu/items/d3a28b2a7acdf90fbccd",
+    "likes_count": 337,
+    "created_at": "2019-08-05T22:20:10+09:00",
+    "updated_at": "2019-08-18T15:44:07+09:00",
+    "id": "Syoitu"
+  },
+  {
     "title": "Vue.jsとCSSアニメーションでラーメンタイマーを作る + Firebaseで簡単公開",
     "url": "https://qiita.com/aocattleya/items/3faa42b5d27a0f608785",
     "likes_count": 337,
     "created_at": "2019-08-27T19:35:27+09:00",
     "updated_at": "2021-01-27T02:22:42+09:00",
     "id": "aocattleya"
-  },
-  {
-    "title": "Django実践開発入門",
-    "url": "https://qiita.com/Syoitu/items/d3a28b2a7acdf90fbccd",
-    "likes_count": 335,
-    "created_at": "2019-08-05T22:20:10+09:00",
-    "updated_at": "2019-08-18T15:44:07+09:00",
-    "id": "Syoitu"
   },
   {
     "title": "「ただのプログラマ」で終わらないためには",
@@ -290,7 +290,7 @@
   {
     "title": "[CSS設計] 私のためのFLOCSSまとめ",
     "url": "https://qiita.com/super-mana-chan/items/644c6827be954c8db2c0",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2019-08-06T19:06:03+09:00",
     "updated_at": "2020-09-24T12:37:24+09:00",
     "id": "super-mana-chan"
@@ -314,7 +314,7 @@
   {
     "title": "機械学習にとって大切なことは全部MSE(平均二乗誤差)が教えてくれた",
     "url": "https://qiita.com/riversun/items/b691cc0fa8a8a8f42013",
-    "likes_count": 250,
+    "likes_count": 252,
     "created_at": "2019-08-26T07:54:17+09:00",
     "updated_at": "2020-12-18T16:44:17+09:00",
     "id": "riversun"

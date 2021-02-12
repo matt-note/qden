@@ -18,7 +18,7 @@
   {
     "title": "クラスの命名のアンチパターン",
     "url": "https://qiita.com/magicant/items/8134edf969f9629fa66e",
-    "likes_count": 2621,
+    "likes_count": 2623,
     "created_at": "2014-09-04T16:37:27+09:00",
     "updated_at": "2016-06-22T18:16:28+09:00",
     "id": "magicant"
@@ -26,7 +26,7 @@
   {
     "title": "iPhone/iPad/Apple Watch解像度(画面サイズ)早見表",
     "url": "https://qiita.com/tomohisaota/items/f8857d01f328e34fb551",
-    "likes_count": 2528,
+    "likes_count": 2529,
     "created_at": "2014-09-12T09:33:06+09:00",
     "updated_at": "2020-10-23T08:33:52+09:00",
     "id": "tomohisaota"
@@ -34,7 +34,7 @@
   {
     "title": "PlantUML Cheat Sheet",
     "url": "https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48",
-    "likes_count": 2298,
+    "likes_count": 2300,
     "created_at": "2014-09-22T22:11:54+09:00",
     "updated_at": "2019-10-23T17:58:40+09:00",
     "id": "ogomr"
@@ -42,7 +42,7 @@
   {
     "title": "rails generate migrationコマンドまとめ",
     "url": "https://qiita.com/zaru/items/cde2c46b6126867a1a64",
-    "likes_count": 1910,
+    "likes_count": 1911,
     "created_at": "2014-09-09T19:57:54+09:00",
     "updated_at": "2018-11-06T21:09:19+09:00",
     "id": "zaru"
@@ -50,7 +50,7 @@
   {
     "title": "ActiveRecordのjoinsとpreloadとincludesとeager_loadの違い",
     "url": "https://qiita.com/k0kubun/items/80c5a5494f53bb88dc58",
-    "likes_count": 1799,
+    "likes_count": 1800,
     "created_at": "2014-09-05T01:13:43+09:00",
     "updated_at": "2016-02-12T04:58:27+09:00",
     "id": "k0kubun"
@@ -64,6 +64,14 @@
     "id": "vintersnow"
   },
   {
+    "title": "オブジェクト指向の法則集",
+    "url": "https://qiita.com/kenjihiranabe/items/9eddc70e279861992274",
+    "likes_count": 1080,
+    "created_at": "2014-09-10T19:14:55+09:00",
+    "updated_at": "2017-05-23T15:44:33+09:00",
+    "id": "kenjihiranabe"
+  },
+  {
     "title": "[Git]コミットの取り消し、打ち消し、上書き",
     "url": "https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed",
     "likes_count": 1080,
@@ -72,17 +80,9 @@
     "id": "shuntaro_tamura"
   },
   {
-    "title": "オブジェクト指向の法則集",
-    "url": "https://qiita.com/kenjihiranabe/items/9eddc70e279861992274",
-    "likes_count": 1079,
-    "created_at": "2014-09-10T19:14:55+09:00",
-    "updated_at": "2017-05-23T15:44:33+09:00",
-    "id": "kenjihiranabe"
-  },
-  {
     "title": "各OSのリリース日とサポート終了日を表にまとめてみた",
     "url": "https://qiita.com/yunano/items/4757f86f9e92bb4f503f",
-    "likes_count": 928,
+    "likes_count": 930,
     "created_at": "2014-09-11T08:39:03+09:00",
     "updated_at": "2020-03-23T09:04:49+09:00",
     "id": "yunano"
@@ -130,7 +130,7 @@
   {
     "title": "Cコンパイラをスクラッチから開発してみた（日記）",
     "url": "https://qiita.com/ruiu/items/4d471216b71ab48d8b74",
-    "likes_count": 798,
+    "likes_count": 799,
     "created_at": "2014-09-07T05:42:21+09:00",
     "updated_at": "2015-12-08T23:50:52+09:00",
     "id": "ruiu"
@@ -162,7 +162,7 @@
   {
     "title": "Java 8 \"Optional\" ～ これからのnullとの付き合い方 ～",
     "url": "https://qiita.com/shindooo/items/815d651a72f568112910",
-    "likes_count": 670,
+    "likes_count": 671,
     "created_at": "2014-09-14T00:00:04+09:00",
     "updated_at": "2018-05-05T07:56:03+09:00",
     "id": "shindooo"
@@ -242,7 +242,7 @@
   {
     "title": "データベースにindexを張る方法",
     "url": "https://qiita.com/seiya1121/items/fb074d727c6f40a55f22",
-    "likes_count": 559,
+    "likes_count": 561,
     "created_at": "2014-09-05T15:19:27+09:00",
     "updated_at": "2017-01-10T16:38:09+09:00",
     "id": "seiya1121"
@@ -306,7 +306,7 @@
   {
     "title": "Backbone.js 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/36e9b380c64ba7766511",
-    "likes_count": 469,
+    "likes_count": 470,
     "created_at": "2014-09-11T00:45:39+09:00",
     "updated_at": "2015-12-12T09:31:50+09:00",
     "id": "opengl-8080"
@@ -338,7 +338,7 @@
   {
     "title": "【プログラマ英語】それ認証って意味じゃないですよ（厳密には）",
     "url": "https://qiita.com/usk81/items/9e1b58dd173472f071c0",
-    "likes_count": 436,
+    "likes_count": 437,
     "created_at": "2014-09-20T17:16:55+09:00",
     "updated_at": "2014-09-20T17:16:55+09:00",
     "id": "usk81"
@@ -466,7 +466,7 @@
   {
     "title": "ubuntu ユーザを追加して sudo 権限をつける",
     "url": "https://qiita.com/white_aspara25/items/c1b9d02310b4731bfbaa",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2014-09-05T13:55:00+09:00",
     "updated_at": "2014-09-05T13:55:00+09:00",
     "id": "white_aspara25"

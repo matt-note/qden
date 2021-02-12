@@ -26,7 +26,7 @@
   {
     "title": "早く・それなりの UI を実現する React コンポーネントセット 16 選",
     "url": "https://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea",
-    "likes_count": 1952,
+    "likes_count": 1953,
     "created_at": "2016-07-10T19:15:57+09:00",
     "updated_at": "2018-06-15T09:48:37+09:00",
     "id": "kyrieleison"
@@ -66,7 +66,7 @@
   {
     "title": "AWS料金早見表",
     "url": "https://qiita.com/teradonburi/items/a382a17e1e0245b7d831",
-    "likes_count": 1275,
+    "likes_count": 1276,
     "created_at": "2016-07-09T04:44:29+09:00",
     "updated_at": "2018-01-19T01:26:57+09:00",
     "id": "teradonburi"
@@ -90,7 +90,7 @@
   {
     "title": "Web APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02",
-    "likes_count": 1055,
+    "likes_count": 1056,
     "created_at": "2016-07-04T06:52:19+09:00",
     "updated_at": "2017-04-18T00:11:40+09:00",
     "id": "NagaokaKenichi"
@@ -130,7 +130,7 @@
   {
     "title": "Facebook公式のcreate-react-appコマンドを使ってReact.jsアプリを爆速で作成する",
     "url": "https://qiita.com/chibicode/items/8533dd72f1ebaeb4b614",
-    "likes_count": 935,
+    "likes_count": 936,
     "created_at": "2016-07-23T07:42:05+09:00",
     "updated_at": "2017-01-18T08:24:09+09:00",
     "id": "chibicode"
@@ -328,6 +328,14 @@
     "id": "Shitimi_613"
   },
   {
+    "title": "リソース指向アーキテクチャ(ROA)とは何なのか",
+    "url": "https://qiita.com/NagaokaKenichi/items/0f3a55e422d5cc9f1b9c",
+    "likes_count": 392,
+    "created_at": "2016-07-19T07:45:34+09:00",
+    "updated_at": "2016-07-19T07:45:34+09:00",
+    "id": "NagaokaKenichi"
+  },
+  {
     "title": "Python 3でのファイルのimportのしかたまとめ",
     "url": "https://qiita.com/karadaharu/items/37403e6e82ae4417d1b3",
     "likes_count": 391,
@@ -336,17 +344,9 @@
     "id": "karadaharu"
   },
   {
-    "title": "リソース指向アーキテクチャ(ROA)とは何なのか",
-    "url": "https://qiita.com/NagaokaKenichi/items/0f3a55e422d5cc9f1b9c",
-    "likes_count": 391,
-    "created_at": "2016-07-19T07:45:34+09:00",
-    "updated_at": "2016-07-19T07:45:34+09:00",
-    "id": "NagaokaKenichi"
-  },
-  {
     "title": "マイクロサービスアーキテクチャにおけるオーケストレーションとコレオグラフィ",
     "url": "https://qiita.com/kawasima/items/17475a993e03f249a077",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2016-07-13T11:27:36+09:00",
     "updated_at": "2016-07-29T14:06:13+09:00",
     "id": "kawasima"
@@ -368,20 +368,20 @@
     "id": "masamasa"
   },
   {
+    "title": "<Swift>iOS 10 User Notifications Framework実装まとめ",
+    "url": "https://qiita.com/mshrwtnb/items/3135e931eedc97479bb5",
+    "likes_count": 347,
+    "created_at": "2016-07-18T14:52:33+09:00",
+    "updated_at": "2018-12-01T10:47:41+09:00",
+    "id": "mshrwtnb"
+  },
+  {
     "title": "LINQチートシート的なもの",
     "url": "https://qiita.com/Marimoiro/items/0e119b47d65bf138789a",
     "likes_count": 346,
     "created_at": "2016-07-17T16:15:35+09:00",
     "updated_at": "2019-02-07T17:17:23+09:00",
     "id": "Marimoiro"
-  },
-  {
-    "title": "<Swift>iOS 10 User Notifications Framework実装まとめ",
-    "url": "https://qiita.com/mshrwtnb/items/3135e931eedc97479bb5",
-    "likes_count": 346,
-    "created_at": "2016-07-18T14:52:33+09:00",
-    "updated_at": "2018-12-01T10:47:41+09:00",
-    "id": "mshrwtnb"
   },
   {
     "title": ".NET Framework のバージョン対応表",
@@ -394,7 +394,7 @@
   {
     "title": "Dockerコンテナ内で操作 attachとexecの違い",
     "url": "https://qiita.com/RyoMa_0923/items/9b5d2c4a97205692a560",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2016-07-15T22:55:53+09:00",
     "updated_at": "2016-07-17T19:06:53+09:00",
     "id": "RyoMa_0923"
@@ -426,7 +426,7 @@
   {
     "title": "【Spring Data JPA】自動実装されるメソッドの命名ルール",
     "url": "https://qiita.com/shindo_ryo/items/af7d12be264c2cc4b252",
-    "likes_count": 272,
+    "likes_count": 274,
     "created_at": "2016-07-11T22:35:50+09:00",
     "updated_at": "2020-01-29T17:49:53+09:00",
     "id": "shindo_ryo"
@@ -450,7 +450,7 @@
   {
     "title": "文系卒社会人が統計・機械学習を理解するための数学勉強方法【随時更新】",
     "url": "https://qiita.com/FukuharaYohei/items/0a66c37091dc27c71fe6",
-    "likes_count": 253,
+    "likes_count": 254,
     "created_at": "2016-07-26T22:39:45+09:00",
     "updated_at": "2020-12-29T10:47:39+09:00",
     "id": "FukuharaYohei"

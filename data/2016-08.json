@@ -154,7 +154,7 @@
   {
     "title": "[Deprecated] Go CodeReviewComments 日本語翻訳 #golang ",
     "url": "https://qiita.com/knsh14/items/8b73b31822c109d4c497",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2016-08-18T10:48:47+09:00",
     "updated_at": "2020-04-09T12:33:00+09:00",
     "id": "knsh14"
@@ -170,7 +170,7 @@
   {
     "title": "線形代数の基礎",
     "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
-    "likes_count": 609,
+    "likes_count": 610,
     "created_at": "2016-08-30T23:11:19+09:00",
     "updated_at": "2020-08-23T02:47:09+09:00",
     "id": "nognog"
@@ -376,20 +376,20 @@
     "id": "tkykmw"
   },
   {
+    "title": "[Python] importの躓きどころ",
+    "url": "https://qiita.com/ysk24ok/items/2711295d83218c699276",
+    "likes_count": 344,
+    "created_at": "2016-08-14T23:15:03+09:00",
+    "updated_at": "2017-06-09T09:00:13+09:00",
+    "id": "ysk24ok"
+  },
+  {
     "title": "資料で使う技術/プロダクトロゴのリンク集",
     "url": "https://qiita.com/tkit/items/932316c5f5f7b162b61e",
     "likes_count": 343,
     "created_at": "2016-08-11T17:05:59+09:00",
     "updated_at": "2020-12-09T21:14:15+09:00",
     "id": "tkit"
-  },
-  {
-    "title": "[Python] importの躓きどころ",
-    "url": "https://qiita.com/ysk24ok/items/2711295d83218c699276",
-    "likes_count": 343,
-    "created_at": "2016-08-14T23:15:03+09:00",
-    "updated_at": "2017-06-09T09:00:13+09:00",
-    "id": "ysk24ok"
   },
   {
     "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
@@ -410,10 +410,18 @@
   {
     "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
     "url": "https://qiita.com/ryo2132/items/63ced19601b3fa30e6de",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2016-08-12T10:26:11+09:00",
     "updated_at": "2020-05-17T05:29:20+09:00",
     "id": "ryo2132"
+  },
+  {
+    "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
+    "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
+    "likes_count": 299,
+    "created_at": "2016-08-04T23:10:37+09:00",
+    "updated_at": "2016-08-08T12:50:34+09:00",
+    "id": "mpyw"
   },
   {
     "title": "Pythonの環境構築 on Mac ( pyenv, virtualenv, anaconda, ipython notebook )",
@@ -424,17 +432,9 @@
     "id": "shizuma"
   },
   {
-    "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
-    "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 298,
-    "created_at": "2016-08-04T23:10:37+09:00",
-    "updated_at": "2016-08-08T12:50:34+09:00",
-    "id": "mpyw"
-  },
-  {
     "title": "最適化におけるPython",
     "url": "https://qiita.com/SaitoTsutomu/items/070ca9cb37c6b2b492f0",
-    "likes_count": 290,
+    "likes_count": 291,
     "created_at": "2016-08-18T17:17:48+09:00",
     "updated_at": "2020-04-26T17:33:19+09:00",
     "id": "SaitoTsutomu"
@@ -474,7 +474,7 @@
   {
     "title": "初心者に捧げる対話システムの作り方",
     "url": "https://qiita.com/Hironsan/items/0373339388f460cebb08",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2016-08-24T10:11:24+09:00",
     "updated_at": "2016-08-25T13:13:12+09:00",
     "id": "Hironsan"
