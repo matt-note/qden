@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2299,
+    "likes_count": 2305,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -34,7 +34,7 @@
   {
     "title": "わかるLSTM ～ 最近の動向と共に",
     "url": "https://qiita.com/t_Signull/items/21b82be280b46f467d1b",
-    "likes_count": 2155,
+    "likes_count": 2156,
     "created_at": "2015-12-14T23:24:11+09:00",
     "updated_at": "2016-06-17T23:59:26+09:00",
     "id": "t_Signull"
@@ -66,7 +66,7 @@
   {
     "title": "初心者がAWSでミスって不正利用されて$6,000請求、泣きそうになったお話。",
     "url": "https://qiita.com/mochizukikotaro/items/a0e98ff0063a77e7b694",
-    "likes_count": 1524,
+    "likes_count": 1525,
     "created_at": "2015-12-24T01:00:41+09:00",
     "updated_at": "2015-12-25T12:40:23+09:00",
     "id": "mochizukikotaro"
@@ -74,7 +74,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1485,
+    "likes_count": 1487,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -106,7 +106,7 @@
   {
     "title": "Ubuntuに最新のNode.jsを難なくインストールする",
     "url": "https://qiita.com/seibe/items/36cef7df85fe2cefa3ea",
-    "likes_count": 1248,
+    "likes_count": 1249,
     "created_at": "2015-12-11T01:45:30+09:00",
     "updated_at": "2019-02-10T15:24:12+09:00",
     "id": "seibe"
@@ -154,7 +154,7 @@
   {
     "title": "メール運用がロストテクノロジーになっていく話",
     "url": "https://qiita.com/koichiro/items/d65ac1af03b9063f0592",
-    "likes_count": 1075,
+    "likes_count": 1076,
     "created_at": "2015-12-24T08:46:23+09:00",
     "updated_at": "2017-01-19T16:04:23+09:00",
     "id": "koichiro"
@@ -170,7 +170,7 @@
   {
     "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発",
     "url": "https://qiita.com/nkjm/items/723990c518acfee6e473",
-    "likes_count": 963,
+    "likes_count": 964,
     "created_at": "2015-12-29T17:47:24+09:00",
     "updated_at": "2016-02-13T11:49:00+09:00",
     "id": "nkjm"
@@ -314,7 +314,7 @@
   {
     "title": "Juliaという速くて書きやすい言語をちょっとだけ覗いてみたんだが、なにやらワクワクするものがあったので報告しようと思う",
     "url": "https://qiita.com/sadayuki-matsuno/items/fc5e9ec3894a4b7bfbfb",
-    "likes_count": 551,
+    "likes_count": 552,
     "created_at": "2015-12-30T15:52:51+09:00",
     "updated_at": "2019-05-08T13:57:03+09:00",
     "id": "sadayuki-matsuno"
@@ -370,7 +370,7 @@
   {
     "title": "気をつけて！Git for Windowsにおける改行コード",
     "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 454,
+    "likes_count": 455,
     "created_at": "2015-12-25T23:01:51+09:00",
     "updated_at": "2018-12-11T08:34:12+09:00",
     "id": "uggds"
@@ -378,7 +378,7 @@
   {
     "title": "Qiitaのマークダウンで色をつける方法[140色]",
     "url": "https://qiita.com/twipg/items/d8043cd4681a2780c160",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2015-12-22T19:51:13+09:00",
     "updated_at": "2016-11-12T12:13:16+09:00",
     "id": "twipg"
@@ -664,20 +664,20 @@
     "id": "ktmg"
   },
   {
+    "title": "[Python]Anacondaで仮想環境を作る",
+    "url": "https://qiita.com/supersaiakujin/items/50def6f33b79f9a61b18",
+    "likes_count": 309,
+    "created_at": "2015-12-26T17:56:11+09:00",
+    "updated_at": "2016-02-15T12:51:15+09:00",
+    "id": "supersaiakujin"
+  },
+  {
     "title": "ECMAScript6のアロー関数とPromiseまとめ - JavaScript",
     "url": "https://qiita.com/takeharu/items/c23998d22903e6d3c1d9",
     "likes_count": 308,
     "created_at": "2015-12-15T09:06:20+09:00",
     "updated_at": "2015-12-17T17:34:03+09:00",
     "id": "takeharu"
-  },
-  {
-    "title": "[Python]Anacondaで仮想環境を作る",
-    "url": "https://qiita.com/supersaiakujin/items/50def6f33b79f9a61b18",
-    "likes_count": 308,
-    "created_at": "2015-12-26T17:56:11+09:00",
-    "updated_at": "2016-02-15T12:51:15+09:00",
-    "id": "supersaiakujin"
   },
   {
     "title": "AWS IoTとRaspberry Pi使って、プランターの野菜を救う！",

@@ -2,7 +2,7 @@
   {
     "title": "現代開発者のためのCSS基礎技術",
     "url": "https://qiita.com/arowM/items/e1af320e2755461649a0",
-    "likes_count": 2311,
+    "likes_count": 2312,
     "created_at": "2020-06-18T23:26:52+09:00",
     "updated_at": "2020-07-31T22:07:56+09:00",
     "id": "arowM"
@@ -34,7 +34,7 @@
   {
     "title": "Dockerイメージの理解を目指すチュートリアル",
     "url": "https://qiita.com/zembutsu/items/24558f9d0d254e33088f",
-    "likes_count": 1343,
+    "likes_count": 1344,
     "created_at": "2020-06-13T17:30:02+09:00",
     "updated_at": "2020-06-24T16:25:34+09:00",
     "id": "zembutsu"
@@ -58,7 +58,7 @@
   {
     "title": "「ビジネスロジック」とは何か、どう実装するのか",
     "url": "https://qiita.com/os1ma/items/25725edfe3c2af93d735",
-    "likes_count": 1189,
+    "likes_count": 1193,
     "created_at": "2020-06-27T18:48:53+09:00",
     "updated_at": "2020-12-12T20:00:43+09:00",
     "id": "os1ma"
@@ -66,7 +66,7 @@
   {
     "title": "JKが接触確認アプリ「Cocoa」の開発に貢献した話。〜1日でXamarinを学びアプリ改善〜",
     "url": "https://qiita.com/Anharu/items/c00e882d678538be0ab0",
-    "likes_count": 1052,
+    "likes_count": 1054,
     "created_at": "2020-06-27T00:09:08+09:00",
     "updated_at": "2020-08-10T23:48:16+09:00",
     "id": "Anharu"
@@ -98,7 +98,7 @@
   {
     "title": "Reactのレンダリングに関する完全ガイド",
     "url": "https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5",
-    "likes_count": 805,
+    "likes_count": 808,
     "created_at": "2020-06-22T21:54:17+09:00",
     "updated_at": "2020-06-24T18:30:05+09:00",
     "id": "hellokenta"
@@ -146,10 +146,18 @@
   {
     "title": "開発チームの生産性・健全性を客観的に知るためにリポジトリ履歴から機械的に可視化するツールを作った",
     "url": "https://qiita.com/hirokidaichi/items/ceece347f808cc9d14dd",
-    "likes_count": 561,
+    "likes_count": 562,
     "created_at": "2020-06-03T14:27:09+09:00",
     "updated_at": "2020-06-03T17:38:51+09:00",
     "id": "hirokidaichi"
+  },
+  {
+    "title": "【自動化】PDF内の表をPythonで抜き出す",
+    "url": "https://qiita.com/konitech913/items/4ef70e1f7753c824b40f",
+    "likes_count": 549,
+    "created_at": "2020-06-28T10:47:22+09:00",
+    "updated_at": "2020-08-26T05:26:31+09:00",
+    "id": "konitech913"
   },
   {
     "title": "超高速！多倍長整数の計算手法【前編：大きな数の四則計算を圧倒的な速度で！】",
@@ -158,14 +166,6 @@
     "created_at": "2020-06-15T20:16:53+09:00",
     "updated_at": "2020-06-23T13:56:05+09:00",
     "id": "square1001"
-  },
-  {
-    "title": "【自動化】PDF内の表をPythonで抜き出す",
-    "url": "https://qiita.com/konitech913/items/4ef70e1f7753c824b40f",
-    "likes_count": 548,
-    "created_at": "2020-06-28T10:47:22+09:00",
-    "updated_at": "2020-08-26T05:26:31+09:00",
-    "id": "konitech913"
   },
   {
     "title": "Kuwahara filterとかいう明らかに日本人の名前な画像フィルターに出会い、試してみたらすごかったので紹介する。",
@@ -274,7 +274,7 @@
   {
     "title": "機械学習で使われる評価関数まとめ",
     "url": "https://qiita.com/monda00/items/a2ee8e0da51953c24da8",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2020-06-23T20:08:48+09:00",
     "updated_at": "2020-12-15T00:00:01+09:00",
     "id": "monda00"
