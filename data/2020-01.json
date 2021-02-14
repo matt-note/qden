@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 3998,
+    "likes_count": 4000,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2020-07-17T22:02:22+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 3981,
+    "likes_count": 3982,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -34,7 +34,7 @@
   {
     "title": "2020年の開発者が知っておくべき11の必須スキル",
     "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
-    "likes_count": 1936,
+    "likes_count": 1938,
     "created_at": "2020-01-20T19:54:42+09:00",
     "updated_at": "2020-02-11T22:17:43+09:00",
     "id": "rana_kualu"
@@ -106,7 +106,7 @@
   {
     "title": "2020年現在 Web系企業で採用されてる技術についてまとめてみた",
     "url": "https://qiita.com/inagacky/items/43cc0518ef11f1e4beb3",
-    "likes_count": 936,
+    "likes_count": 938,
     "created_at": "2020-01-22T10:43:23+09:00",
     "updated_at": "2020-09-06T09:25:42+09:00",
     "id": "inagacky"
@@ -114,7 +114,7 @@
   {
     "title": "FFT（高速フーリエ変換）を完全に理解する話",
     "url": "https://qiita.com/ageprocpp/items/0d63d4ed80de4a35fe79",
-    "likes_count": 895,
+    "likes_count": 896,
     "created_at": "2020-01-27T22:00:06+09:00",
     "updated_at": "2020-02-06T19:13:07+09:00",
     "id": "ageprocpp"
@@ -170,7 +170,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 710,
+    "likes_count": 711,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -242,7 +242,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 634,
+    "likes_count": 635,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2020-06-14T00:07:10+09:00",
     "id": "e869120"
@@ -258,7 +258,7 @@
   {
     "title": "機械学習による株価予測　いろはの”い”",
     "url": "https://qiita.com/blog_UKI/items/25dc1c2559c61890a449",
-    "likes_count": 609,
+    "likes_count": 610,
     "created_at": "2020-01-09T12:13:39+09:00",
     "updated_at": "2020-01-09T12:13:39+09:00",
     "id": "blog_UKI"
@@ -352,20 +352,20 @@
     "id": "jnchito"
   },
   {
+    "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
+    "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
+    "likes_count": 436,
+    "created_at": "2020-01-03T10:45:09+09:00",
+    "updated_at": "2020-07-17T21:59:28+09:00",
+    "id": "Saku731"
+  },
+  {
     "title": "初の個人アプリを App Store に審査出したら 30 分足らずでリリースされてビビったからその全てをお伝えします",
     "url": "https://qiita.com/lovee/items/67906ec593ebd91d608d",
     "likes_count": 436,
     "created_at": "2020-01-14T10:51:52+09:00",
     "updated_at": "2020-01-23T19:41:09+09:00",
     "id": "lovee"
-  },
-  {
-    "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
-    "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 434,
-    "created_at": "2020-01-03T10:45:09+09:00",
-    "updated_at": "2020-07-17T21:59:28+09:00",
-    "id": "Saku731"
   },
   {
     "title": "2020年流行するであろうwebデザインのトレンド",
@@ -402,7 +402,7 @@
   {
     "title": "notionバックエンドのzeit製ヘッドレスCMS“Notion Blog”が激アツ🔥",
     "url": "https://qiita.com/serinuntius/items/d4b1e9ef53b59033f607",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2020-01-15T09:06:37+09:00",
     "updated_at": "2020-01-15T09:07:20+09:00",
     "id": "serinuntius"
@@ -410,7 +410,7 @@
   {
     "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
     "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
-    "likes_count": 389,
+    "likes_count": 390,
     "created_at": "2020-01-11T13:59:43+09:00",
     "updated_at": "2021-01-15T13:48:23+09:00",
     "id": "shiro01"
@@ -466,7 +466,7 @@
   {
     "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
     "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
-    "likes_count": 314,
+    "likes_count": 317,
     "created_at": "2020-01-03T17:27:55+09:00",
     "updated_at": "2020-11-10T02:36:37+09:00",
     "id": "bee2"
@@ -490,7 +490,7 @@
   {
     "title": "Web Developer Roadmap 2020版が出ていたので2019版と比較",
     "url": "https://qiita.com/hirotakasasaki/items/f93335857c17f6ceab9f",
-    "likes_count": 267,
+    "likes_count": 270,
     "created_at": "2020-01-07T14:51:24+09:00",
     "updated_at": "2020-03-27T11:33:51+09:00",
     "id": "hirotakasasaki"
