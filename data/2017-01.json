@@ -2,7 +2,7 @@
   {
     "title": "たぶんこれが一番分かりやすいと思います React + Redux のフロー図解",
     "url": "https://qiita.com/mpyw/items/a816c6380219b1d5a3bf",
-    "likes_count": 2639,
+    "likes_count": 2642,
     "created_at": "2017-01-06T03:28:59+09:00",
     "updated_at": "2021-01-26T19:55:10+09:00",
     "id": "mpyw"
@@ -18,7 +18,7 @@
   {
     "title": "Qiita マークダウン記法 一覧表・チートシート",
     "url": "https://qiita.com/kamorits/items/6f342da395ad57468ae3",
-    "likes_count": 1156,
+    "likes_count": 1158,
     "created_at": "2017-01-18T13:43:38+09:00",
     "updated_at": "2020-04-29T16:50:51+09:00",
     "id": "kamorits"
@@ -146,7 +146,7 @@
   {
     "title": "Fluxとはなんなのか",
     "url": "https://qiita.com/knhr__/items/5fec7571dab80e2dcd92",
-    "likes_count": 634,
+    "likes_count": 635,
     "created_at": "2017-01-31T21:13:00+09:00",
     "updated_at": "2019-05-26T14:54:08+09:00",
     "id": "knhr__"
@@ -154,7 +154,7 @@
   {
     "title": "TypeScriptチュートリアル① -環境構築編-",
     "url": "https://qiita.com/ochiochi/items/efdaa0ae7d8c972c8103",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2017-01-19T12:15:12+09:00",
     "updated_at": "2018-03-20T15:32:03+09:00",
     "id": "ochiochi"
@@ -210,7 +210,7 @@
   {
     "title": "MacOSとHomebrewとpyenvで快適python環境を。",
     "url": "https://qiita.com/crankcube/items/15f06b32ec56736fc43a",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2017-01-07T11:11:43+09:00",
     "updated_at": "2020-08-19T00:21:23+09:00",
     "id": "crankcube"
@@ -242,7 +242,7 @@
   {
     "title": "商用利用できるオープンソースライセンスはけっきょくどれで何をすればいいのか？",
     "url": "https://qiita.com/0xfffffff7/items/efbb65521d7708f2db7d",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2017-01-25T16:50:08+09:00",
     "updated_at": "2019-11-14T13:58:26+09:00",
     "id": "0xfffffff7"
@@ -250,7 +250,7 @@
   {
     "title": "WebAPI でファイルをアップロードする方法アレコレ",
     "url": "https://qiita.com/mserizawa/items/7f1b9e5077fd3a9d336b",
-    "likes_count": 442,
+    "likes_count": 443,
     "created_at": "2017-01-24T00:19:27+09:00",
     "updated_at": "2017-01-24T18:59:56+09:00",
     "id": "mserizawa"
@@ -314,7 +314,7 @@
   {
     "title": "git rebase についてまとめてみた",
     "url": "https://qiita.com/KTakata/items/d33185fc0457c08654a5",
-    "likes_count": 385,
+    "likes_count": 387,
     "created_at": "2017-01-17T19:56:41+09:00",
     "updated_at": "2020-01-22T09:15:19+09:00",
     "id": "KTakata"
@@ -322,7 +322,7 @@
   {
     "title": "Windows GUIプログラミング入門1 メッセージボックス表示",
     "url": "https://qiita.com/Kosen-amai/items/f9e3df2aa80363f5af5b",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2017-01-25T23:37:42+09:00",
     "updated_at": "2020-12-15T20:45:01+09:00",
     "id": "Kosen-amai"
@@ -370,7 +370,7 @@
   {
     "title": "githubでブランチ名を変更する（ローカル/リモート）",
     "url": "https://qiita.com/hogeta_/items/e47dfb0cf88270ef2802",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2017-01-05T10:59:36+09:00",
     "updated_at": "2017-01-05T10:59:36+09:00",
     "id": "hogeta_"
@@ -410,7 +410,7 @@
   {
     "title": "PHPで出来てしまうが控えたほうががいい書き方",
     "url": "https://qiita.com/shinkuFencer/items/48718f0c8d203ca513db",
-    "likes_count": 281,
+    "likes_count": 282,
     "created_at": "2017-01-10T09:52:17+09:00",
     "updated_at": "2017-01-23T15:35:41+09:00",
     "id": "shinkuFencer"
@@ -426,7 +426,7 @@
   {
     "title": "【Python入門】Pythonにおけるclassの使い方とは?",
     "url": "https://qiita.com/Morio/items/0fe3abb58fcaff229f3d",
-    "likes_count": 249,
+    "likes_count": 250,
     "created_at": "2017-01-27T12:53:28+09:00",
     "updated_at": "2017-01-27T12:53:28+09:00",
     "id": "Morio"
@@ -438,6 +438,14 @@
     "created_at": "2017-01-17T00:46:39+09:00",
     "updated_at": "2018-10-10T01:15:07+09:00",
     "id": "acro5piano"
+  },
+  {
+    "title": "任意のログをlogrotateを使って管理する",
+    "url": "https://qiita.com/Esfahan/items/a8058f1eb593170855a1",
+    "likes_count": 238,
+    "created_at": "2017-01-24T23:14:23+09:00",
+    "updated_at": "2020-11-11T19:35:55+09:00",
+    "id": "Esfahan"
   },
   {
     "title": "多分もっともわかりやすいTensorFlow 入門 (Introduction)",

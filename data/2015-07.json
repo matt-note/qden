@@ -18,7 +18,7 @@
   {
     "title": "意外ととっつきやすいOSS開発参加方法まとめ",
     "url": "https://qiita.com/shunsuke227ono/items/94dd6e707d34a1da2617",
-    "likes_count": 1839,
+    "likes_count": 1840,
     "created_at": "2015-07-14T08:41:06+09:00",
     "updated_at": "2016-11-14T12:07:23+09:00",
     "id": "shunsuke227ono"
@@ -98,7 +98,7 @@
   {
     "title": "URLスキーム・独自ディープリンク実装に代わる、Universal Links(iOS 9で導入)でより良いUXを実現",
     "url": "https://qiita.com/mono0926/items/2bf651246714f20df626",
-    "likes_count": 1077,
+    "likes_count": 1078,
     "created_at": "2015-07-06T06:48:44+09:00",
     "updated_at": "2018-05-08T16:50:31+09:00",
     "id": "mono0926"
@@ -106,7 +106,7 @@
   {
     "title": "チャットなどリアルタイム更新が必要なスマフォアプリの構成について考えてみた",
     "url": "https://qiita.com/mono0926/items/bb7fdd912bc338096f57",
-    "likes_count": 1064,
+    "likes_count": 1065,
     "created_at": "2015-07-28T10:50:10+09:00",
     "updated_at": "2017-01-26T16:22:33+09:00",
     "id": "mono0926"
@@ -146,7 +146,7 @@
   {
     "title": "JavaScript (Electron) を使ってアプリの見栄えを整える",
     "url": "https://qiita.com/nyanchu/items/9a1c910bbca55e9d2f3c",
-    "likes_count": 812,
+    "likes_count": 811,
     "created_at": "2015-07-20T23:16:41+09:00",
     "updated_at": "2015-07-30T02:35:36+09:00",
     "id": "nyanchu"
@@ -200,20 +200,20 @@
     "id": "Tocyuki"
   },
   {
+    "title": "非同期通信（Ajax）をするときはタイムアウト処理を必ず入れてほしい（切実）",
+    "url": "https://qiita.com/tonkotsuboy_com/items/d1b3cf45ae5135441f9b",
+    "likes_count": 665,
+    "created_at": "2015-07-04T19:36:04+09:00",
+    "updated_at": "2018-10-31T18:32:58+09:00",
+    "id": "tonkotsuboy_com"
+  },
+  {
     "title": "WebRTCによるビデオチャットサービスの開発",
     "url": "https://qiita.com/chiku_/items/ece8f14a6f6139f40d71",
     "likes_count": 665,
     "created_at": "2015-07-30T18:22:03+09:00",
     "updated_at": "2015-07-30T18:22:03+09:00",
     "id": "chiku_"
-  },
-  {
-    "title": "非同期通信（Ajax）をするときはタイムアウト処理を必ず入れてほしい（切実）",
-    "url": "https://qiita.com/tonkotsuboy_com/items/d1b3cf45ae5135441f9b",
-    "likes_count": 664,
-    "created_at": "2015-07-04T19:36:04+09:00",
-    "updated_at": "2018-10-31T18:32:58+09:00",
-    "id": "tonkotsuboy_com"
   },
   {
     "title": "クリップボード拡張Macアプリ「Clipy」を公開しました",
@@ -242,7 +242,7 @@
   {
     "title": "Linux負荷監視コマンドまとめ",
     "url": "https://qiita.com/aosho235/items/c4d6995743dd1dac16e1",
-    "likes_count": 617,
+    "likes_count": 618,
     "created_at": "2015-07-19T18:51:54+09:00",
     "updated_at": "2019-10-20T23:31:16+09:00",
     "id": "aosho235"
@@ -266,7 +266,7 @@
   {
     "title": "CSSだけでアスペクト比を固定するテク",
     "url": "https://qiita.com/ryounagaoka/items/a98f59347ed758743b8d",
-    "likes_count": 587,
+    "likes_count": 588,
     "created_at": "2015-07-07T12:07:57+09:00",
     "updated_at": "2015-07-07T12:47:07+09:00",
     "id": "ryounagaoka"
@@ -354,7 +354,7 @@
   {
     "title": "優れた dotfiles を設計して、最速で環境構築する話",
     "url": "https://qiita.com/b4b4r07/items/24872cdcbec964ce2178",
-    "likes_count": 375,
+    "likes_count": 377,
     "created_at": "2015-07-22T09:08:51+09:00",
     "updated_at": "2019-08-08T18:31:23+09:00",
     "id": "b4b4r07"
@@ -554,7 +554,7 @@
   {
     "title": "技適済み格安高性能Wi-FiモジュールESP8266をArduinoIDEを使ってIoT開発する為の環境準備を10分でやる方法",
     "url": "https://qiita.com/azusa9/items/264165005aefaa3e8d7d",
-    "likes_count": 265,
+    "likes_count": 266,
     "created_at": "2015-07-10T11:48:04+09:00",
     "updated_at": "2016-02-11T22:12:16+09:00",
     "id": "azusa9"

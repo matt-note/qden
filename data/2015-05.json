@@ -2,7 +2,7 @@
   {
     "title": "数学を避けてきた社会人プログラマが機械学習の勉強を始める際の最短経路",
     "url": "https://qiita.com/daxanya1/items/218f2e3b922142550ef9",
-    "likes_count": 5189,
+    "likes_count": 5188,
     "created_at": "2015-05-24T22:01:23+09:00",
     "updated_at": "2016-10-06T20:36:54+09:00",
     "id": "daxanya1"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 2951,
+    "likes_count": 2952,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2020-03-12T13:17:33+09:00",
     "id": "suin"
@@ -26,7 +26,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 2661,
+    "likes_count": 2664,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -106,7 +106,7 @@
   {
     "title": "【bat】Windowsのバッチファイル(*.bat)の書き方自分用まとめ",
     "url": "https://qiita.com/sksmnagisa/items/8c4c1788af44cc1dc63a",
-    "likes_count": 1150,
+    "likes_count": 1151,
     "created_at": "2015-05-14T20:42:49+09:00",
     "updated_at": "2016-11-28T14:38:21+09:00",
     "id": "sksmnagisa"
@@ -122,7 +122,7 @@
   {
     "title": "Linuxリソースの監視・確認に関するコマンド逆引きメモ",
     "url": "https://qiita.com/rsooo/items/42f0902d42bab6ecf175",
-    "likes_count": 1018,
+    "likes_count": 1019,
     "created_at": "2015-05-24T10:55:51+09:00",
     "updated_at": "2020-04-27T15:00:02+09:00",
     "id": "rsooo"
@@ -186,7 +186,7 @@
   {
     "title": "gitのローカルのブランチ名を変更したい",
     "url": "https://qiita.com/suin/items/96c110b218d919168d64",
-    "likes_count": 680,
+    "likes_count": 681,
     "created_at": "2015-05-20T14:15:43+09:00",
     "updated_at": "2020-03-12T13:16:29+09:00",
     "id": "suin"
@@ -224,20 +224,20 @@
     "id": "spiegel-im-spiegel"
   },
   {
+    "title": "カーディナリティについてまとめてみた",
+    "url": "https://qiita.com/soyanchu/items/034be19a2e3cb87b2efb",
+    "likes_count": 589,
+    "created_at": "2015-05-12T11:48:17+09:00",
+    "updated_at": "2015-05-12T11:48:17+09:00",
+    "id": "soyanchu"
+  },
+  {
     "title": "Java8の日時APIはとりあえずこれだけ覚えとけ",
     "url": "https://qiita.com/tag1216/items/91a471b33f383981bfaa",
     "likes_count": 589,
     "created_at": "2015-05-18T01:10:13+09:00",
     "updated_at": "2017-07-19T11:03:54+09:00",
     "id": "tag1216"
-  },
-  {
-    "title": "カーディナリティについてまとめてみた",
-    "url": "https://qiita.com/soyanchu/items/034be19a2e3cb87b2efb",
-    "likes_count": 588,
-    "created_at": "2015-05-12T11:48:17+09:00",
-    "updated_at": "2015-05-12T11:48:17+09:00",
-    "id": "soyanchu"
   },
   {
     "title": "[翻訳] なぜ私はElixirに賭けたか - メンテナンスプログラマになりたくなければ君もそうしろ",
@@ -394,7 +394,7 @@
   {
     "title": "sedコマンドの備忘録",
     "url": "https://qiita.com/takech9203/items/b96eff5773ce9d9cc9b3",
-    "likes_count": 372,
+    "likes_count": 375,
     "created_at": "2015-05-05T20:04:06+09:00",
     "updated_at": "2016-05-03T09:44:34+09:00",
     "id": "takech9203"
@@ -402,7 +402,7 @@
   {
     "title": "Railsで非同期処理：キュー。Sidekiq（+ActiveJob）がResqueよりも、とても簡単便利。",
     "url": "https://qiita.com/zaru/items/8385fdddbd1be25fe370",
-    "likes_count": 372,
+    "likes_count": 373,
     "created_at": "2015-05-19T08:44:31+09:00",
     "updated_at": "2017-08-07T11:43:31+09:00",
     "id": "zaru"
@@ -450,7 +450,7 @@
   {
     "title": "redis-cli コマンド操作まとめ",
     "url": "https://qiita.com/rubytomato@github/items/d66d932959d596876ab5",
-    "likes_count": 338,
+    "likes_count": 339,
     "created_at": "2015-05-24T16:37:36+09:00",
     "updated_at": "2021-01-15T23:53:55+09:00",
     "id": "rubytomato@github"
@@ -482,7 +482,7 @@
   {
     "title": "Webエンジニアが組み込みプログラミングをすることになったときに知っておきたかったC言語の知識",
     "url": "https://qiita.com/kazuph/items/4b6f0856c555242f3fd5",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2015-05-14T14:49:06+09:00",
     "updated_at": "2015-05-26T09:02:13+09:00",
     "id": "kazuph"

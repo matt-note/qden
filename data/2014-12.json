@@ -74,7 +74,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1228,
+    "likes_count": 1230,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -90,7 +90,7 @@
   {
     "title": "マイクロソフトはどうやってBingをFPGAで実装したか",
     "url": "https://qiita.com/kazunori279/items/6f517648e8a408254a50",
-    "likes_count": 1213,
+    "likes_count": 1214,
     "created_at": "2014-12-08T10:44:08+09:00",
     "updated_at": "2015-01-22T16:01:02+09:00",
     "id": "kazunori279"
@@ -138,7 +138,7 @@
   {
     "title": "JavaScriptでforEach, filter, map, reduceとか",
     "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
-    "likes_count": 842,
+    "likes_count": 843,
     "created_at": "2014-12-21T00:42:04+09:00",
     "updated_at": "2018-09-23T17:07:32+09:00",
     "id": "itagakishintaro"
@@ -154,7 +154,7 @@
   {
     "title": "現場で使うGitのテクニック",
     "url": "https://qiita.com/treby/items/9184251b545d9ebc3198",
-    "likes_count": 798,
+    "likes_count": 799,
     "created_at": "2014-12-23T21:18:22+09:00",
     "updated_at": "2020-05-28T16:39:38+09:00",
     "id": "treby"
@@ -186,7 +186,7 @@
   {
     "title": "UIViewControllerのライフサイクル",
     "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 715,
+    "likes_count": 716,
     "created_at": "2014-12-24T22:11:02+09:00",
     "updated_at": "2014-12-24T22:11:02+09:00",
     "id": "motokiee"
@@ -210,7 +210,7 @@
   {
     "title": "初心者向けGithubへのPullRequest方法",
     "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 665,
+    "likes_count": 666,
     "created_at": "2014-12-17T23:28:14+09:00",
     "updated_at": "2014-12-19T09:14:55+09:00",
     "id": "samurai_runner"
@@ -226,7 +226,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -282,7 +282,7 @@
   {
     "title": "Groovyを知らない人のためのbuild.gradle読み書き入門",
     "url": "https://qiita.com/opengl-8080/items/a0bb31fb20cb6505188b",
-    "likes_count": 604,
+    "likes_count": 605,
     "created_at": "2014-12-15T00:57:20+09:00",
     "updated_at": "2019-01-13T10:32:56+09:00",
     "id": "opengl-8080"
@@ -314,7 +314,7 @@
   {
     "title": "zshの外部プラグインまとめ",
     "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2014-12-25T00:15:28+09:00",
     "updated_at": "2015-03-10T00:02:36+09:00",
     "id": "mollifier"
@@ -340,7 +340,7 @@
     "url": "https://qiita.com/varmil/items/9b0aeafa85975474e9b6",
     "likes_count": 539,
     "created_at": "2014-12-12T14:42:05+09:00",
-    "updated_at": "2019-06-10T08:36:44+09:00",
+    "updated_at": "2021-02-15T09:27:48+09:00",
     "id": "varmil"
   },
   {
@@ -386,7 +386,7 @@
   {
     "title": "PostgreSQL のパフォーマンスチューニング",
     "url": "https://qiita.com/cuzic/items/f9b846e6171a54079d77",
-    "likes_count": 496,
+    "likes_count": 497,
     "created_at": "2014-12-12T22:45:03+09:00",
     "updated_at": "2014-12-31T22:15:46+09:00",
     "id": "cuzic"
@@ -410,7 +410,7 @@
   {
     "title": "本気で使う Docker",
     "url": "https://qiita.com/rosylilly/items/08f4c0771e2ca92a72aa",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2014-12-25T23:33:09+09:00",
     "updated_at": "2014-12-31T21:36:00+09:00",
     "id": "rosylilly"
@@ -610,10 +610,18 @@
   {
     "title": "xcodeでAutoLayoutでレスポンシブデザイン",
     "url": "https://qiita.com/teradonburi/items/94b89379aa5a0bfdc71d",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2014-12-27T16:41:54+09:00",
     "updated_at": "2016-02-14T17:36:15+09:00",
     "id": "teradonburi"
+  },
+  {
+    "title": "Railsで定期的にバッチ回す「Whenever」",
+    "url": "https://qiita.com/yumiyon/items/388fbb84450f49a6ab0d",
+    "likes_count": 327,
+    "created_at": "2014-12-20T08:11:30+09:00",
+    "updated_at": "2018-02-06T12:39:09+09:00",
+    "id": "yumiyon"
   },
   {
     "title": "Sprockets再考 モダンなJSのエコシステムとRailsのより良い関係を探す",
@@ -622,14 +630,6 @@
     "created_at": "2014-12-05T16:38:05+09:00",
     "updated_at": "2014-12-06T18:42:26+09:00",
     "id": "joker1007"
-  },
-  {
-    "title": "Railsで定期的にバッチ回す「Whenever」",
-    "url": "https://qiita.com/yumiyon/items/388fbb84450f49a6ab0d",
-    "likes_count": 326,
-    "created_at": "2014-12-20T08:11:30+09:00",
-    "updated_at": "2018-02-06T12:39:09+09:00",
-    "id": "yumiyon"
   },
   {
     "title": "Singleton パターンの使いどころをまとめてみた",
@@ -666,7 +666,7 @@
   {
     "title": "Python ビット演算 超入門",
     "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
-    "likes_count": 296,
+    "likes_count": 298,
     "created_at": "2014-12-14T19:50:10+09:00",
     "updated_at": "2014-12-15T17:50:09+09:00",
     "id": "7shi"
