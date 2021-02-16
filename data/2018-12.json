@@ -26,7 +26,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1475,
+    "likes_count": 1476,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -34,7 +34,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1469,
+    "likes_count": 1471,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -74,7 +74,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1164,
+    "likes_count": 1165,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -82,7 +82,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1059,
+    "likes_count": 1064,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-01-19T22:01:44+09:00",
     "id": "diescake"
@@ -90,7 +90,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1029,
+    "likes_count": 1030,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -130,7 +130,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 976,
+    "likes_count": 978,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -152,20 +152,20 @@
     "id": "_-_-_-_-_"
   },
   {
+    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
+    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
+    "likes_count": 920,
+    "created_at": "2018-12-03T11:08:40+09:00",
+    "updated_at": "2019-02-12T01:34:29+09:00",
+    "id": "drken"
+  },
+  {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
     "likes_count": 920,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
-  },
-  {
-    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
-    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 919,
-    "created_at": "2018-12-03T11:08:40+09:00",
-    "updated_at": "2019-02-12T01:34:29+09:00",
-    "id": "drken"
   },
   {
     "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
@@ -178,7 +178,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 898,
+    "likes_count": 899,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -282,7 +282,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 628,
+    "likes_count": 629,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -298,7 +298,7 @@
   {
     "title": "たった17行のコードで音声自動文字起こしを実装する",
     "url": "https://qiita.com/kolife/items/a0af7702eef05994fbfb",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2018-12-02T14:51:26+09:00",
     "updated_at": "2020-05-22T01:04:45+09:00",
     "id": "kolife"
@@ -330,7 +330,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -402,7 +402,7 @@
   {
     "title": "C#リフレクションTIPS 55連発",
     "url": "https://qiita.com/gushwell/items/91436bd1871586f6e663",
-    "likes_count": 439,
+    "likes_count": 441,
     "created_at": "2018-12-16T21:41:49+09:00",
     "updated_at": "2020-09-09T13:13:04+09:00",
     "id": "gushwell"
@@ -474,7 +474,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 375,
+    "likes_count": 377,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2020-02-12T09:28:38+09:00",
     "id": "syantien"
@@ -506,7 +506,7 @@
   {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 364,
+    "likes_count": 365,
     "created_at": "2018-12-07T17:46:26+09:00",
     "updated_at": "2020-03-18T20:59:40+09:00",
     "id": "yasuabe2613"
@@ -530,7 +530,7 @@
   {
     "title": "Herokuを使いこなすのに必要な術",
     "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2018-12-04T18:58:45+09:00",
     "updated_at": "2019-01-29T22:10:42+09:00",
     "id": "fuwamaki"
