@@ -10,7 +10,7 @@
   {
     "title": "VSCodeでのGitの基本操作まとめ",
     "url": "https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be",
-    "likes_count": 1853,
+    "likes_count": 1854,
     "created_at": "2019-04-15T07:38:11+09:00",
     "updated_at": "2020-05-02T17:20:11+09:00",
     "id": "y-tsutsu"
@@ -34,7 +34,7 @@
   {
     "title": "vimって極めればvscode並のIDEになるんじゃないの？",
     "url": "https://qiita.com/ulwlu/items/98901f4c4f0683e7aa57",
-    "likes_count": 1441,
+    "likes_count": 1442,
     "created_at": "2019-04-08T09:40:52+09:00",
     "updated_at": "2020-11-19T22:17:27+09:00",
     "id": "ulwlu"
@@ -42,7 +42,7 @@
   {
     "title": "再帰関数を学ぶと、どんな世界が広がるか",
     "url": "https://qiita.com/drken/items/23a4f604fa3f505dd5ad",
-    "likes_count": 1414,
+    "likes_count": 1415,
     "created_at": "2019-04-04T10:44:13+09:00",
     "updated_at": "2020-08-07T16:31:29+09:00",
     "id": "drken"
@@ -50,7 +50,7 @@
   {
     "title": "世の中のエンジニアのalias設定",
     "url": "https://qiita.com/reireias/items/d906ab086c3bc4c22147",
-    "likes_count": 1355,
+    "likes_count": 1357,
     "created_at": "2019-04-08T23:12:35+09:00",
     "updated_at": "2019-04-15T07:24:31+09:00",
     "id": "reireias"
@@ -98,7 +98,7 @@
   {
     "title": "Vue.js おすすめライブラリ 21選（おまけ+1）",
     "url": "https://qiita.com/andmorefine/items/bec9cbe9a22c90bd6b43",
-    "likes_count": 808,
+    "likes_count": 809,
     "created_at": "2019-04-14T20:57:02+09:00",
     "updated_at": "2020-05-22T22:26:40+09:00",
     "id": "andmorefine"
@@ -114,7 +114,7 @@
   {
     "title": "0.0.0.0にはアクセスしないこと",
     "url": "https://qiita.com/amuyikam/items/0063df223aed40193ba9",
-    "likes_count": 723,
+    "likes_count": 724,
     "created_at": "2019-04-04T07:58:11+09:00",
     "updated_at": "2019-04-07T00:03:37+09:00",
     "id": "amuyikam"
@@ -250,7 +250,7 @@
   {
     "title": "コーディングテストに打ち勝つ",
     "url": "https://qiita.com/yohachi/items/e4bef4035da135a4808d",
-    "likes_count": 417,
+    "likes_count": 419,
     "created_at": "2019-04-18T22:21:07+09:00",
     "updated_at": "2019-04-18T22:21:26+09:00",
     "id": "yohachi"
@@ -266,7 +266,7 @@
   {
     "title": "OAuth アクセストークンの実装に関する考察",
     "url": "https://qiita.com/TakahikoKawasaki/items/970548727761f9e02bcd",
-    "likes_count": 394,
+    "likes_count": 395,
     "created_at": "2019-04-02T19:57:39+09:00",
     "updated_at": "2021-02-02T16:30:04+09:00",
     "id": "TakahikoKawasaki"
@@ -278,14 +278,6 @@
     "created_at": "2019-04-11T15:01:54+09:00",
     "updated_at": "2019-04-12T23:47:28+09:00",
     "id": "ksk001100"
-  },
-  {
-    "title": "Pythonで競技プログラミング -ライブラリ編-",
-    "url": "https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482",
-    "likes_count": 376,
-    "created_at": "2019-04-03T17:56:52+09:00",
-    "updated_at": "2019-04-17T11:21:31+09:00",
-    "id": "Kentaro_okumura"
   },
   {
     "title": "「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜",
@@ -302,6 +294,14 @@
     "created_at": "2019-04-03T11:02:15+09:00",
     "updated_at": "2019-04-15T10:21:03+09:00",
     "id": "goofmint"
+  },
+  {
+    "title": "Pythonで競技プログラミング -ライブラリ編-",
+    "url": "https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482",
+    "likes_count": 375,
+    "created_at": "2019-04-03T17:56:52+09:00",
+    "updated_at": "2019-04-17T11:21:31+09:00",
+    "id": "Kentaro_okumura"
   },
   {
     "title": "独学Kubernetes　コンテナ開発の基本を最速で理解する",
@@ -326,6 +326,14 @@
     "created_at": "2019-04-10T15:32:01+09:00",
     "updated_at": "2019-04-17T12:02:20+09:00",
     "id": "hadashiA"
+  },
+  {
+    "title": "JavaScriptに参照渡し/値渡しなど存在しない",
+    "url": "https://qiita.com/yuta0801/items/f8690a6e129c594de5fb",
+    "likes_count": 354,
+    "created_at": "2019-04-18T18:02:14+09:00",
+    "updated_at": "2021-01-18T20:57:05+09:00",
+    "id": "yuta0801"
   },
   {
     "title": "Nuxt.js + phina.js でブラウザゲーを作るためにやったことまとめ",
@@ -362,7 +370,7 @@
   {
     "title": "流行りの画像生成技術GANを調査し、役に立つシナリオがないか考えてみる",
     "url": "https://qiita.com/tomohiku/items/7fd8ef0d8f0ec5e60374",
-    "likes_count": 273,
+    "likes_count": 274,
     "created_at": "2019-04-24T09:50:00+09:00",
     "updated_at": "2019-04-26T17:24:33+09:00",
     "id": "tomohiku"

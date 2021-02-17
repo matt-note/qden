@@ -18,7 +18,7 @@
   {
     "title": "データ分析で頻出のPandas基本操作",
     "url": "https://qiita.com/ysdyt/items/9ccca82fc5b504e7913a",
-    "likes_count": 2018,
+    "likes_count": 2020,
     "created_at": "2018-04-16T08:12:28+09:00",
     "updated_at": "2019-12-17T17:19:27+09:00",
     "id": "ysdyt"
@@ -50,7 +50,7 @@
   {
     "title": "フロントエンドのコンポーネント設計に立ち向かう",
     "url": "https://qiita.com/seya/items/8814e905693f00cdade2",
-    "likes_count": 1695,
+    "likes_count": 1696,
     "created_at": "2018-04-02T07:22:25+09:00",
     "updated_at": "2019-04-21T16:44:03+09:00",
     "id": "seya"
@@ -138,7 +138,7 @@
   {
     "title": "AWSの料金を「ざっくり」計算できるサイトを作る",
     "url": "https://qiita.com/nishinoshake/items/64491dab247d92e10d41",
-    "likes_count": 947,
+    "likes_count": 948,
     "created_at": "2018-04-09T10:44:25+09:00",
     "updated_at": "2018-12-17T02:58:59+09:00",
     "id": "nishinoshake"
@@ -154,7 +154,7 @@
   {
     "title": "ngrokが便利すぎる",
     "url": "https://qiita.com/mininobu/items/b45dbc70faedf30f484e",
-    "likes_count": 923,
+    "likes_count": 924,
     "created_at": "2018-04-15T00:55:28+09:00",
     "updated_at": "2018-04-15T00:55:28+09:00",
     "id": "mininobu"
@@ -178,7 +178,7 @@
   {
     "title": "[Python]可読性を上げるための、docstringの書き方を学ぶ（NumPyスタイル）",
     "url": "https://qiita.com/simonritchie/items/49e0813508cad4876b5a",
-    "likes_count": 818,
+    "likes_count": 819,
     "created_at": "2018-04-01T23:34:45+09:00",
     "updated_at": "2020-05-22T19:10:56+09:00",
     "id": "simonritchie"
@@ -194,7 +194,7 @@
   {
     "title": "物体検出についての歴史まとめ(1)",
     "url": "https://qiita.com/mshinoda88/items/9770ee671ea27f2c81a9",
-    "likes_count": 712,
+    "likes_count": 715,
     "created_at": "2018-04-17T21:14:51+09:00",
     "updated_at": "2021-01-15T00:25:15+09:00",
     "id": "mshinoda88"
@@ -226,7 +226,7 @@
   {
     "title": "チーム開発におけるプルリクの作法",
     "url": "https://qiita.com/ikuwow/items/fb52a54c086398eb5b92",
-    "likes_count": 652,
+    "likes_count": 653,
     "created_at": "2018-04-29T15:12:47+09:00",
     "updated_at": "2019-08-17T22:38:20+09:00",
     "id": "ikuwow"
@@ -282,7 +282,7 @@
   {
     "title": "ESLintのルールを全部手動で設定するのは大変だからやめておけ",
     "url": "https://qiita.com/khsk/items/0f200fc3a4a3542efa90",
-    "likes_count": 565,
+    "likes_count": 566,
     "created_at": "2018-04-13T14:14:08+09:00",
     "updated_at": "2018-04-16T10:33:05+09:00",
     "id": "khsk"
@@ -306,7 +306,7 @@
   {
     "title": "【Pythonメモ】pandas-profilingが探索的データ解析にめちゃめちゃ便利だった件",
     "url": "https://qiita.com/h_kobayashi1125/items/02039e57a656abe8c48f",
-    "likes_count": 545,
+    "likes_count": 546,
     "created_at": "2018-04-27T20:40:38+09:00",
     "updated_at": "2018-05-06T02:01:27+09:00",
     "id": "h_kobayashi1125"
@@ -432,20 +432,20 @@
     "id": "hennin"
   },
   {
+    "title": "分析関数（ウインドウ関数）をわかりやすく説明してみた",
+    "url": "https://qiita.com/tlokweng/items/fc13dc30cc1aa28231c5",
+    "likes_count": 389,
+    "created_at": "2018-04-17T06:37:21+09:00",
+    "updated_at": "2018-09-27T20:53:50+09:00",
+    "id": "tlokweng"
+  },
+  {
     "title": "ムダな資格集めとはもうサヨナラ　「自分の教育マップ」の作り方",
     "url": "https://qiita.com/Akira-Isegawa/items/d7d103900272b3818ea8",
     "likes_count": 388,
     "created_at": "2018-04-01T23:16:44+09:00",
     "updated_at": "2020-03-25T10:56:49+09:00",
     "id": "Akira-Isegawa"
-  },
-  {
-    "title": "分析関数（ウインドウ関数）をわかりやすく説明してみた",
-    "url": "https://qiita.com/tlokweng/items/fc13dc30cc1aa28231c5",
-    "likes_count": 388,
-    "created_at": "2018-04-17T06:37:21+09:00",
-    "updated_at": "2018-09-27T20:53:50+09:00",
-    "id": "tlokweng"
   },
   {
     "title": "脳死で覚えるkeras入門",
@@ -482,7 +482,7 @@
   {
     "title": "物体検出、セグメンテーションをMask R-CNNで理解してみる (初心者)",
     "url": "https://qiita.com/shtmr/items/4283c851bc3d9721ed96",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2018-04-18T14:04:56+09:00",
     "updated_at": "2018-04-27T11:46:03+09:00",
     "id": "shtmr"
@@ -490,7 +490,7 @@
   {
     "title": "【詳解】抽象クラスとインタフェースを使いこなそう！！",
     "url": "https://qiita.com/yoshinori_hisakawa/items/cc094bef1caa011cb739",
-    "likes_count": 324,
+    "likes_count": 325,
     "created_at": "2018-04-22T11:04:24+09:00",
     "updated_at": "2018-04-22T12:18:02+09:00",
     "id": "yoshinori_hisakawa"

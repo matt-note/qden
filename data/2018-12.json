@@ -26,7 +26,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1476,
+    "likes_count": 1477,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -34,7 +34,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1471,
+    "likes_count": 1473,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -74,7 +74,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1165,
+    "likes_count": 1167,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -82,7 +82,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1064,
+    "likes_count": 1067,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-01-19T22:01:44+09:00",
     "id": "diescake"
@@ -218,7 +218,7 @@
   {
     "title": "過去の難案件 PS2のカーネル開発",
     "url": "https://qiita.com/YukiMiyatake/items/dbdd8a45615e476810ce",
-    "likes_count": 743,
+    "likes_count": 744,
     "created_at": "2018-12-27T02:33:34+09:00",
     "updated_at": "2020-01-08T13:35:29+09:00",
     "id": "YukiMiyatake"
@@ -226,7 +226,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 710,
+    "likes_count": 711,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -298,7 +298,7 @@
   {
     "title": "たった17行のコードで音声自動文字起こしを実装する",
     "url": "https://qiita.com/kolife/items/a0af7702eef05994fbfb",
-    "likes_count": 593,
+    "likes_count": 592,
     "created_at": "2018-12-02T14:51:26+09:00",
     "updated_at": "2020-05-22T01:04:45+09:00",
     "id": "kolife"
@@ -330,7 +330,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -362,7 +362,7 @@
   {
     "title": "その機械学習プロセス、自動化できませんか？",
     "url": "https://qiita.com/Hironsan/items/30fe09c85da8a28ebd63",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2018-12-03T22:32:16+09:00",
     "updated_at": "2018-12-05T10:36:47+09:00",
     "id": "Hironsan"
@@ -408,20 +408,20 @@
     "id": "gushwell"
   },
   {
+    "title": "Go Modules",
+    "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
+    "likes_count": 440,
+    "created_at": "2018-12-05T13:44:24+09:00",
+    "updated_at": "2019-07-17T17:52:30+09:00",
+    "id": "propella"
+  },
+  {
     "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
     "url": "https://qiita.com/koizumittn/items/77923a8f71d47d895b34",
     "likes_count": 438,
     "created_at": "2018-12-29T11:42:35+09:00",
     "updated_at": "2019-01-21T20:31:35+09:00",
     "id": "koizumittn"
-  },
-  {
-    "title": "Go Modules",
-    "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 437,
-    "created_at": "2018-12-05T13:44:24+09:00",
-    "updated_at": "2019-07-17T17:52:30+09:00",
-    "id": "propella"
   },
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
@@ -474,7 +474,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 377,
+    "likes_count": 379,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2020-02-12T09:28:38+09:00",
     "id": "syantien"
@@ -538,7 +538,7 @@
   {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
@@ -650,7 +650,7 @@
   {
     "title": "【爆速】HTML + Sass(SCSS)で簡単にレスポンシブ対応のLPを作ろう！",
     "url": "https://qiita.com/Y_ASAMOTO/items/d5f33ecf5bfbb7f028a5",
-    "likes_count": 272,
+    "likes_count": 273,
     "created_at": "2018-12-03T20:46:21+09:00",
     "updated_at": "2018-12-19T10:20:41+09:00",
     "id": "Y_ASAMOTO"
@@ -658,7 +658,7 @@
   {
     "title": "Web API初心者と学ぶGraphQL",
     "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 266,
+    "likes_count": 267,
     "created_at": "2018-12-20T03:46:56+09:00",
     "updated_at": "2020-12-23T18:50:54+09:00",
     "id": "SiragumoHuin"
@@ -678,6 +678,14 @@
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"
+  },
+  {
+    "title": "エンジニア向けのポートフォリオサイトまとめ",
+    "url": "https://qiita.com/turmericN/items/37c3fbe00ee6bbc7e201",
+    "likes_count": 229,
+    "created_at": "2018-12-19T08:26:38+09:00",
+    "updated_at": "2018-12-21T13:12:59+09:00",
+    "id": "turmericN"
   },
   {
     "title": "ワイが個人的に便利だと思っていてよく使っているPythonライブラリ(pip)たち",
