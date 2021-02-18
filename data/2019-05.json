@@ -2,7 +2,7 @@
   {
     "title": "数時間で完全理解！わりとゴツいKubernetesハンズオン！！",
     "url": "https://qiita.com/Kta-M/items/ce475c0063d3d3f36d5d",
-    "likes_count": 2600,
+    "likes_count": 2601,
     "created_at": "2019-05-23T07:10:52+09:00",
     "updated_at": "2020-01-31T04:40:34+09:00",
     "id": "Kta-M"
@@ -10,7 +10,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 2473,
+    "likes_count": 2474,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2020-02-11T18:07:22+09:00",
     "id": "jesus_isao"
@@ -74,7 +74,7 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2021.01",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1282,
+    "likes_count": 1283,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2021-02-10T20:05:07+09:00",
     "id": "hayao_k"
@@ -82,7 +82,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1212,
+    "likes_count": 1214,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -130,7 +130,7 @@
   {
     "title": "【Vue.js】Web API通信のデザインパターン (個人的ベストプラクティス)",
     "url": "https://qiita.com/07JP27/items/0923cbe3b6435c19d761",
-    "likes_count": 949,
+    "likes_count": 950,
     "created_at": "2019-05-12T21:08:52+09:00",
     "updated_at": "2019-05-15T08:07:38+09:00",
     "id": "07JP27"
@@ -162,7 +162,7 @@
   {
     "title": "JavaScriptでの賢いconsole.log( )の使い方 & その他便利なconsole.xxx( )使い方まとめ (dir・table・warn・groupとか)",
     "url": "https://qiita.com/mtoyopet/items/7274761af5424cee342a",
-    "likes_count": 838,
+    "likes_count": 839,
     "created_at": "2019-05-17T22:16:39+09:00",
     "updated_at": "2019-08-15T13:32:06+09:00",
     "id": "mtoyopet"
@@ -186,7 +186,7 @@
   {
     "title": "Qiitaで良い記事を書く技術",
     "url": "https://qiita.com/t12u/items/8c28484100dfd3a6351b",
-    "likes_count": 760,
+    "likes_count": 761,
     "created_at": "2019-05-21T15:30:43+09:00",
     "updated_at": "2019-05-24T20:27:44+09:00",
     "id": "t12u"
@@ -250,7 +250,7 @@
   {
     "title": "LaTeXにおける正しい論文の書き方",
     "url": "https://qiita.com/birdwatcher/items/5ec42b35d84d3ee2ffbb",
-    "likes_count": 613,
+    "likes_count": 615,
     "created_at": "2019-05-03T02:23:43+09:00",
     "updated_at": "2020-02-10T19:30:28+09:00",
     "id": "birdwatcher"
@@ -266,7 +266,7 @@
   {
     "title": "Vue.jsのv-modelを正しく使う",
     "url": "https://qiita.com/simezi9/items/c27d69f17d2d08722b3a",
-    "likes_count": 526,
+    "likes_count": 527,
     "created_at": "2019-05-13T20:05:41+09:00",
     "updated_at": "2020-05-01T18:50:04+09:00",
     "id": "simezi9"
@@ -314,7 +314,7 @@
   {
     "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
     "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
-    "likes_count": 428,
+    "likes_count": 429,
     "created_at": "2019-05-23T08:28:34+09:00",
     "updated_at": "2020-02-02T11:54:18+09:00",
     "id": "drken"
@@ -336,6 +336,14 @@
     "id": "tomo_makes"
   },
   {
+    "title": "無料！かつ最短？で Ruby on Rails on Docker on AWS のアプリを公開するぞ。",
+    "url": "https://qiita.com/at-946/items/1e8acea19cc0b9f31b98",
+    "likes_count": 417,
+    "created_at": "2019-05-16T21:33:33+09:00",
+    "updated_at": "2020-01-26T00:28:07+09:00",
+    "id": "at-946"
+  },
+  {
     "title": "たぶん知らないPythonマイナー文法の世界",
     "url": "https://qiita.com/kotauchisunsun/items/8cf50c33a8c8e1ab5452",
     "likes_count": 417,
@@ -344,17 +352,9 @@
     "id": "kotauchisunsun"
   },
   {
-    "title": "無料！かつ最短？で Ruby on Rails on Docker on AWS のアプリを公開するぞ。",
-    "url": "https://qiita.com/at-946/items/1e8acea19cc0b9f31b98",
-    "likes_count": 416,
-    "created_at": "2019-05-16T21:33:33+09:00",
-    "updated_at": "2020-01-26T00:28:07+09:00",
-    "id": "at-946"
-  },
-  {
     "title": "TailwindCSS入門 ~ Utility First + デザインシステムの構築 ~",
     "url": "https://qiita.com/oedkty/items/68461080515ec1012980",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2019-05-26T13:14:34+09:00",
     "updated_at": "2020-06-09T21:21:30+09:00",
     "id": "oedkty"
@@ -394,7 +394,7 @@
   {
     "title": "GitHub+CircleCI入門",
     "url": "https://qiita.com/tatane616/items/8624e61473a9957d9a81",
-    "likes_count": 384,
+    "likes_count": 385,
     "created_at": "2019-05-18T20:39:35+09:00",
     "updated_at": "2019-05-20T12:39:52+09:00",
     "id": "tatane616"
@@ -514,7 +514,7 @@
   {
     "title": "競技プログラミング入門者の成長のためのメモ",
     "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
-    "likes_count": 254,
+    "likes_count": 255,
     "created_at": "2019-05-14T05:46:53+09:00",
     "updated_at": "2020-12-19T17:04:26+09:00",
     "id": "masakinihirota"

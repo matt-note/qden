@@ -18,7 +18,7 @@
   {
     "title": "【まとめ】ディープラーニングを使った異常検知",
     "url": "https://qiita.com/shinmura0/items/06d81c72601c7578c6d3",
-    "likes_count": 1026,
+    "likes_count": 1027,
     "created_at": "2019-08-06T12:34:26+09:00",
     "updated_at": "2020-05-19T12:35:28+09:00",
     "id": "shinmura0"
@@ -42,7 +42,7 @@
   {
     "title": "これで完璧！今さら振り返る CSRF 対策と同一オリジンポリシーの基礎",
     "url": "https://qiita.com/mpyw/items/0595f07736cfa5b1f50c",
-    "likes_count": 842,
+    "likes_count": 844,
     "created_at": "2019-08-31T02:45:11+09:00",
     "updated_at": "2019-09-02T04:09:06+09:00",
     "id": "mpyw"
@@ -146,7 +146,7 @@
   {
     "title": "Spring Framework / Spring Bootに入門する人はまずこの資料を読もう！ #jsug",
     "url": "https://qiita.com/suke_masa/items/9dd3300c3190d6445ff8",
-    "likes_count": 525,
+    "likes_count": 526,
     "created_at": "2019-08-29T14:27:43+09:00",
     "updated_at": "2020-02-07T22:40:24+09:00",
     "id": "suke_masa"
@@ -186,10 +186,18 @@
   {
     "title": "永久保存版！？伊藤さん式・Railsアプリのアップグレード手順",
     "url": "https://qiita.com/jnchito/items/0ee47108972a0e302caf",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2019-08-19T07:17:30+09:00",
     "updated_at": "2019-10-25T05:41:26+09:00",
     "id": "jnchito"
+  },
+  {
+    "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
+    "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
+    "likes_count": 417,
+    "created_at": "2019-08-23T18:43:20+09:00",
+    "updated_at": "2020-08-12T16:41:47+09:00",
+    "id": "tegnike"
   },
   {
     "title": "【個人開発】Flutter と Firebase で夫婦のタスク共有アプリを作った話",
@@ -198,14 +206,6 @@
     "created_at": "2019-08-26T07:16:23+09:00",
     "updated_at": "2019-08-28T12:05:49+09:00",
     "id": "sekitaka_1214"
-  },
-  {
-    "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
-    "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
-    "likes_count": 416,
-    "created_at": "2019-08-23T18:43:20+09:00",
-    "updated_at": "2020-08-12T16:41:47+09:00",
-    "id": "tegnike"
   },
   {
     "title": "僕たちがテスト駆動開発をする理由",
@@ -314,7 +314,7 @@
   {
     "title": "Rails6 開発時につまづきそうな webpacker, yarn 関係のエラーと解決方法",
     "url": "https://qiita.com/NaokiIshimura/items/8203f74f8dfd5f6b87a0",
-    "likes_count": 282,
+    "likes_count": 284,
     "created_at": "2019-08-10T11:48:15+09:00",
     "updated_at": "2020-07-04T13:49:44+09:00",
     "id": "NaokiIshimura"

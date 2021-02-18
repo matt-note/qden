@@ -2,7 +2,7 @@
   {
     "title": "非デザイナーエンジニアが一人でWebサービスを作るときに便利なツール32選",
     "url": "https://qiita.com/okappy/items/119e31cae9aa9bd9da6d",
-    "likes_count": 6565,
+    "likes_count": 6567,
     "created_at": "2014-09-19T02:53:10+09:00",
     "updated_at": "2015-07-09T01:12:38+09:00",
     "id": "okappy"
@@ -10,7 +10,7 @@
   {
     "title": "VagrantとDockerについて名前しか知らなかったので試した",
     "url": "https://qiita.com/hidekuro/items/fc12344d36d996198e96",
-    "likes_count": 3189,
+    "likes_count": 3190,
     "created_at": "2014-09-12T18:53:57+09:00",
     "updated_at": "2019-12-02T22:54:36+09:00",
     "id": "hidekuro"
@@ -18,7 +18,7 @@
   {
     "title": "クラスの命名のアンチパターン",
     "url": "https://qiita.com/magicant/items/8134edf969f9629fa66e",
-    "likes_count": 2625,
+    "likes_count": 2626,
     "created_at": "2014-09-04T16:37:27+09:00",
     "updated_at": "2016-06-22T18:16:28+09:00",
     "id": "magicant"
@@ -26,7 +26,7 @@
   {
     "title": "iPhone/iPad/Apple Watch解像度(画面サイズ)早見表",
     "url": "https://qiita.com/tomohisaota/items/f8857d01f328e34fb551",
-    "likes_count": 2532,
+    "likes_count": 2535,
     "created_at": "2014-09-12T09:33:06+09:00",
     "updated_at": "2020-10-23T08:33:52+09:00",
     "id": "tomohisaota"
@@ -34,7 +34,7 @@
   {
     "title": "PlantUML Cheat Sheet",
     "url": "https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48",
-    "likes_count": 2303,
+    "likes_count": 2304,
     "created_at": "2014-09-22T22:11:54+09:00",
     "updated_at": "2019-10-23T17:58:40+09:00",
     "id": "ogomr"
@@ -42,7 +42,7 @@
   {
     "title": "rails generate migrationコマンドまとめ",
     "url": "https://qiita.com/zaru/items/cde2c46b6126867a1a64",
-    "likes_count": 1915,
+    "likes_count": 1919,
     "created_at": "2014-09-09T19:57:54+09:00",
     "updated_at": "2018-11-06T21:09:19+09:00",
     "id": "zaru"
@@ -58,7 +58,7 @@
   {
     "title": "Homebrew使い方まとめ",
     "url": "https://qiita.com/vintersnow/items/fca0be79cdc28bd2f5e4",
-    "likes_count": 1158,
+    "likes_count": 1159,
     "created_at": "2014-09-14T10:11:54+09:00",
     "updated_at": "2019-06-30T12:35:22+09:00",
     "id": "vintersnow"
@@ -146,7 +146,7 @@
   {
     "title": "QAエンジニア",
     "url": "https://qiita.com/jun2014/items/32ec77be1056f546aada",
-    "likes_count": 695,
+    "likes_count": 696,
     "created_at": "2014-09-27T01:14:29+09:00",
     "updated_at": "2021-02-17T14:48:58+09:00",
     "id": "jun2014"
@@ -218,7 +218,7 @@
   {
     "title": "cloudBitとIFTTTで「おとうさんいまどこメーター」を作る",
     "url": "https://qiita.com/kazunori279/items/7dbbb525ab0cf6d5d9b5",
-    "likes_count": 575,
+    "likes_count": 576,
     "created_at": "2014-09-08T14:37:03+09:00",
     "updated_at": "2014-09-09T21:21:41+09:00",
     "id": "kazunori279"
@@ -232,20 +232,20 @@
     "id": "kiriki-qwt"
   },
   {
+    "title": "AレコードとCNAMEレコードの違い",
+    "url": "https://qiita.com/PharaohKJ/items/b6a933b7f79afe8a32e1",
+    "likes_count": 566,
+    "created_at": "2014-10-01T02:33:36+09:00",
+    "updated_at": "2017-11-05T18:41:28+09:00",
+    "id": "PharaohKJ"
+  },
+  {
     "title": "データベースにindexを張る方法",
     "url": "https://qiita.com/seiya1121/items/fb074d727c6f40a55f22",
     "likes_count": 565,
     "created_at": "2014-09-05T15:19:27+09:00",
     "updated_at": "2017-01-10T16:38:09+09:00",
     "id": "seiya1121"
-  },
-  {
-    "title": "AレコードとCNAMEレコードの違い",
-    "url": "https://qiita.com/PharaohKJ/items/b6a933b7f79afe8a32e1",
-    "likes_count": 565,
-    "created_at": "2014-10-01T02:33:36+09:00",
-    "updated_at": "2017-11-05T18:41:28+09:00",
-    "id": "PharaohKJ"
   },
   {
     "title": "microservicesに分割する際に注意するべき5つのこと",
@@ -394,7 +394,7 @@
   {
     "title": "iOSデバイス一覧表",
     "url": "https://qiita.com/takkyun/items/814aa45beee422a5f0c6",
-    "likes_count": 399,
+    "likes_count": 400,
     "created_at": "2014-09-11T05:01:40+09:00",
     "updated_at": "2020-10-24T08:35:04+09:00",
     "id": "takkyun"

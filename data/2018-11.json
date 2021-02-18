@@ -42,7 +42,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1374,
+    "likes_count": 1375,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2020-02-05T14:53:08+09:00",
     "id": "elipmoc101"
@@ -56,20 +56,20 @@
     "id": "poly_soft"
   },
   {
+    "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
+    "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
+    "likes_count": 1278,
+    "created_at": "2018-11-30T05:49:27+09:00",
+    "updated_at": "2019-12-06T12:14:25+09:00",
+    "id": "kazukimatsumoto"
+  },
+  {
     "title": "Ruby->Go->Scalaという習得順序がエンジニアの爆速の成長に最適である理由",
     "url": "https://qiita.com/poly_soft/items/1feaa1ec5ecab08dc6db",
     "likes_count": 1276,
     "created_at": "2018-11-04T07:35:05+09:00",
     "updated_at": "2019-03-11T19:35:33+09:00",
     "id": "poly_soft"
-  },
-  {
-    "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
-    "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1276,
-    "created_at": "2018-11-30T05:49:27+09:00",
-    "updated_at": "2019-12-06T12:14:25+09:00",
-    "id": "kazukimatsumoto"
   },
   {
     "title": "たった7行でテトリスを実装「七行プログラミング」とは",
@@ -90,7 +90,7 @@
   {
     "title": "オブジェクト指向のいろは",
     "url": "https://qiita.com/nrslib/items/73bf176147192c402049",
-    "likes_count": 1099,
+    "likes_count": 1101,
     "created_at": "2018-11-08T07:23:49+09:00",
     "updated_at": "2018-12-23T22:55:48+09:00",
     "id": "nrslib"
@@ -122,7 +122,7 @@
   {
     "title": "【保存版・初心者向け】Python 目的別チュートリアル",
     "url": "https://qiita.com/tani_AI_Academy/items/3edc5effeb386ae3caa9",
-    "likes_count": 993,
+    "likes_count": 994,
     "created_at": "2018-11-12T11:51:01+09:00",
     "updated_at": "2020-03-15T19:44:41+09:00",
     "id": "tani_AI_Academy"
@@ -154,7 +154,7 @@
   {
     "title": "Visual Studio CodeでSSHごしにファイルを編集する",
     "url": "https://qiita.com/informationsea/items/5c9f05c81a41fb885460",
-    "likes_count": 870,
+    "likes_count": 871,
     "created_at": "2018-11-23T16:48:24+09:00",
     "updated_at": "2020-11-08T11:11:57+09:00",
     "id": "informationsea"
@@ -210,7 +210,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 628,
+    "likes_count": 630,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -234,7 +234,7 @@
   {
     "title": "研究室のHPをサーバレス、SPA、GraphQL、ChatOpsで作った",
     "url": "https://qiita.com/asmsuechan/items/17f168f151346ac5cf65",
-    "likes_count": 543,
+    "likes_count": 544,
     "created_at": "2018-11-20T17:26:45+09:00",
     "updated_at": "2020-06-24T11:13:35+09:00",
     "id": "asmsuechan"
@@ -306,7 +306,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 454,
+    "likes_count": 457,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -352,6 +352,14 @@
     "id": "gold-kou"
   },
   {
+    "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
+    "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
+    "likes_count": 432,
+    "created_at": "2018-11-18T19:13:03+09:00",
+    "updated_at": "2019-10-05T07:32:56+09:00",
+    "id": "kd9951"
+  },
+  {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
     "likes_count": 432,
@@ -360,12 +368,12 @@
     "id": "nishina555"
   },
   {
-    "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
-    "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 431,
-    "created_at": "2018-11-18T19:13:03+09:00",
-    "updated_at": "2019-10-05T07:32:56+09:00",
-    "id": "kd9951"
+    "title": "正規表現を可視化してまとめたチートシート",
+    "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
+    "likes_count": 404,
+    "created_at": "2018-11-27T19:15:42+09:00",
+    "updated_at": "2020-05-25T15:52:26+09:00",
+    "id": "grrrr"
   },
   {
     "title": "2019年版: 脱Babel!フロント/JS開発をTypeScriptに移行するための環境整備マニュアル",
@@ -374,14 +382,6 @@
     "created_at": "2018-12-01T00:01:37+09:00",
     "updated_at": "2020-07-26T12:05:56+09:00",
     "id": "shibukawa"
-  },
-  {
-    "title": "正規表現を可視化してまとめたチートシート",
-    "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 403,
-    "created_at": "2018-11-27T19:15:42+09:00",
-    "updated_at": "2020-05-25T15:52:26+09:00",
-    "id": "grrrr"
   },
   {
     "title": "HTML5 Conference 2018 登壇資料まとめ",
@@ -394,7 +394,7 @@
   {
     "title": "統計検定２級に楽に合格する方法",
     "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2018-11-28T12:58:31+09:00",
     "updated_at": "2018-11-28T13:29:26+09:00",
     "id": "okoppe8"
