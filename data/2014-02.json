@@ -82,10 +82,18 @@
   {
     "title": ".bash_profile ? .bashrc ? いろいろあるけどこいつらなにもの？",
     "url": "https://qiita.com/hirokishirai/items/5a529c8395c4b336bf31",
-    "likes_count": 846,
+    "likes_count": 847,
     "created_at": "2014-02-17T05:02:00+09:00",
     "updated_at": "2017-07-14T17:38:00+09:00",
     "id": "hirokishirai"
+  },
+  {
+    "title": "SSH接続エラー回避方法：.ssh/known_hostsから特定のホストを削除する/削除しないで対処する3つの方法",
+    "url": "https://qiita.com/grgrjnjn/items/8ca33b64ea0406e12938",
+    "likes_count": 838,
+    "created_at": "2014-02-28T19:28:51+09:00",
+    "updated_at": "2020-01-24T21:28:53+09:00",
+    "id": "grgrjnjn"
   },
   {
     "title": "Gitコンフリクト解消ガイド（git mergetoolの使い方）",
@@ -94,14 +102,6 @@
     "created_at": "2014-02-09T23:58:59+09:00",
     "updated_at": "2014-06-26T12:16:01+09:00",
     "id": "yuya_presto"
-  },
-  {
-    "title": "SSH接続エラー回避方法：.ssh/known_hostsから特定のホストを削除する/削除しないで対処する3つの方法",
-    "url": "https://qiita.com/grgrjnjn/items/8ca33b64ea0406e12938",
-    "likes_count": 837,
-    "created_at": "2014-02-28T19:28:51+09:00",
-    "updated_at": "2020-01-24T21:28:53+09:00",
-    "id": "grgrjnjn"
   },
   {
     "title": "GitHubを使って3分でHPを公開する。",
@@ -114,7 +114,7 @@
   {
     "title": "経験ゼロでもできるプログラミング現場の単体テスト",
     "url": "https://qiita.com/disc99/items/177bdf6352de463fdc87",
-    "likes_count": 814,
+    "likes_count": 816,
     "created_at": "2014-02-20T02:46:19+09:00",
     "updated_at": "2016-11-03T15:32:27+09:00",
     "id": "disc99"
@@ -154,7 +154,7 @@
   {
     "title": "たくさんあるオープンソースライセンスのそれぞれの特徴のまとめ",
     "url": "https://qiita.com/tukiyo3/items/58b8b3f51e9dc8e96886",
-    "likes_count": 623,
+    "likes_count": 624,
     "created_at": "2014-02-21T08:31:45+09:00",
     "updated_at": "2016-01-24T13:14:37+09:00",
     "id": "tukiyo3"

@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1278,
+    "likes_count": 1280,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -90,7 +90,7 @@
   {
     "title": "オブジェクト指向のいろは",
     "url": "https://qiita.com/nrslib/items/73bf176147192c402049",
-    "likes_count": 1101,
+    "likes_count": 1102,
     "created_at": "2018-11-08T07:23:49+09:00",
     "updated_at": "2018-12-23T22:55:48+09:00",
     "id": "nrslib"
@@ -122,7 +122,7 @@
   {
     "title": "【保存版・初心者向け】Python 目的別チュートリアル",
     "url": "https://qiita.com/tani_AI_Academy/items/3edc5effeb386ae3caa9",
-    "likes_count": 994,
+    "likes_count": 995,
     "created_at": "2018-11-12T11:51:01+09:00",
     "updated_at": "2020-03-15T19:44:41+09:00",
     "id": "tani_AI_Academy"
@@ -210,7 +210,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 630,
+    "likes_count": 632,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -258,7 +258,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 501,
+    "likes_count": 502,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2019-12-29T23:17:28+09:00",
     "id": "ryuichi1208"
@@ -306,7 +306,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 457,
+    "likes_count": 460,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -336,20 +336,20 @@
     "id": "yoshizaki_91"
   },
   {
+    "title": "RedisとElastiCacheを分かりやすくまとめてみた",
+    "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
+    "likes_count": 440,
+    "created_at": "2018-11-19T09:00:44+09:00",
+    "updated_at": "2019-11-21T15:42:12+09:00",
+    "id": "gold-kou"
+  },
+  {
     "title": "【ファッション×テック】おしゃれ判定アプリを開発した",
     "url": "https://qiita.com/NakaokaRei/items/595fcb21ff10b84919ab",
     "likes_count": 440,
     "created_at": "2018-11-20T20:20:12+09:00",
     "updated_at": "2019-11-26T18:24:08+09:00",
     "id": "NakaokaRei"
-  },
-  {
-    "title": "RedisとElastiCacheを分かりやすくまとめてみた",
-    "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
-    "likes_count": 438,
-    "created_at": "2018-11-19T09:00:44+09:00",
-    "updated_at": "2019-11-21T15:42:12+09:00",
-    "id": "gold-kou"
   },
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
@@ -394,7 +394,7 @@
   {
     "title": "統計検定２級に楽に合格する方法",
     "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2018-11-28T12:58:31+09:00",
     "updated_at": "2018-11-28T13:29:26+09:00",
     "id": "okoppe8"
@@ -410,10 +410,18 @@
   {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
     "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2018-11-06T02:18:59+09:00",
     "updated_at": "2018-11-06T02:18:59+09:00",
     "id": "psychoroid"
+  },
+  {
+    "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
+    "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
+    "likes_count": 369,
+    "created_at": "2018-11-19T10:38:23+09:00",
+    "updated_at": "2020-09-01T15:55:23+09:00",
+    "id": "amishiro"
   },
   {
     "title": "【初心者向け】現代 (2018年11月時点)のフロントエンド開発について",
@@ -422,14 +430,6 @@
     "created_at": "2018-11-15T12:20:01+09:00",
     "updated_at": "2019-02-04T16:02:06+09:00",
     "id": "yakimeron"
-  },
-  {
-    "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
-    "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
-    "likes_count": 368,
-    "created_at": "2018-11-19T10:38:23+09:00",
-    "updated_at": "2020-09-01T15:55:23+09:00",
-    "id": "amishiro"
   },
   {
     "title": "最近のJava界隈はとても良い感じ ",
@@ -458,7 +458,7 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 352,
+    "likes_count": 354,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
@@ -498,7 +498,7 @@
   {
     "title": "VS Code コーディング規約を快適に守る",
     "url": "https://qiita.com/firedfly/items/00c34018581c6cec9b84",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2018-11-29T12:07:09+09:00",
     "updated_at": "2019-09-30T16:54:37+09:00",
     "id": "firedfly"

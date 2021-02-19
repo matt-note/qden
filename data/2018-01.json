@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2500,
+    "likes_count": 2501,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1397,
+    "likes_count": 1398,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -106,7 +106,7 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 653,
+    "likes_count": 657,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
@@ -218,7 +218,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -250,7 +250,7 @@
   {
     "title": "ActiveModel::Attributes が最高すぎるんだよな。",
     "url": "https://qiita.com/alpaca_taichou/items/bebace92f06af3f32898",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2018-01-18T19:44:16+09:00",
     "updated_at": "2018-01-24T21:05:16+09:00",
     "id": "alpaca_taichou"
@@ -266,7 +266,7 @@
   {
     "title": "anyenv + macOS環境構築",
     "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
-    "likes_count": 390,
+    "likes_count": 391,
     "created_at": "2018-01-12T14:53:20+09:00",
     "updated_at": "2021-02-09T14:54:39+09:00",
     "id": "rinpa"
@@ -274,7 +274,7 @@
   {
     "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
     "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
-    "likes_count": 390,
+    "likes_count": 391,
     "created_at": "2018-01-21T01:43:27+09:00",
     "updated_at": "2018-01-21T08:56:25+09:00",
     "id": "ishizakiiii"
@@ -290,7 +290,7 @@
   {
     "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
     "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2018-01-10T20:19:27+09:00",
     "updated_at": "2019-04-20T22:30:46+09:00",
     "id": "zd6ir7"
@@ -304,6 +304,14 @@
     "id": "shu223"
   },
   {
+    "title": "オレ的vimプラグイン10選",
+    "url": "https://qiita.com/reireias/items/beaa3bb0e299ae934217",
+    "likes_count": 369,
+    "created_at": "2018-01-17T01:10:20+09:00",
+    "updated_at": "2020-06-13T18:03:30+09:00",
+    "id": "reireias"
+  },
+  {
     "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
     "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
     "likes_count": 368,
@@ -312,17 +320,9 @@
     "id": "Nossa"
   },
   {
-    "title": "オレ的vimプラグイン10選",
-    "url": "https://qiita.com/reireias/items/beaa3bb0e299ae934217",
-    "likes_count": 368,
-    "created_at": "2018-01-17T01:10:20+09:00",
-    "updated_at": "2020-06-13T18:03:30+09:00",
-    "id": "reireias"
-  },
-  {
     "title": "PythonでTwitter API を利用していろいろ遊んでみる",
     "url": "https://qiita.com/bakira/items/00743d10ec42993f85eb",
-    "likes_count": 363,
+    "likes_count": 364,
     "created_at": "2018-01-07T21:20:05+09:00",
     "updated_at": "2018-01-08T19:14:05+09:00",
     "id": "bakira"
@@ -360,20 +360,20 @@
     "id": "t_nakayama0714"
   },
   {
+    "title": "Gitでローカルブランチを削除する",
+    "url": "https://qiita.com/hogeta_/items/33d2334c9b1919bd5120",
+    "likes_count": 336,
+    "created_at": "2018-01-11T18:24:12+09:00",
+    "updated_at": "2020-01-16T14:28:12+09:00",
+    "id": "hogeta_"
+  },
+  {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
     "likes_count": 335,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
-  },
-  {
-    "title": "Gitでローカルブランチを削除する",
-    "url": "https://qiita.com/hogeta_/items/33d2334c9b1919bd5120",
-    "likes_count": 334,
-    "created_at": "2018-01-11T18:24:12+09:00",
-    "updated_at": "2020-01-16T14:28:12+09:00",
-    "id": "hogeta_"
   },
   {
     "title": "スマート家電も赤外線家電もGoogle Homeでまとめて操作",
@@ -386,7 +386,7 @@
   {
     "title": "RailsでWebアプリケーション開発【入門】",
     "url": "https://qiita.com/enzen/items/14271ec8fdf01107d1ce",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2018-01-20T09:43:14+09:00",
     "updated_at": "2021-01-21T12:44:02+09:00",
     "id": "enzen"

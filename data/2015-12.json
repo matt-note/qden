@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 3868,
+    "likes_count": 3869,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2440,
+    "likes_count": 2441,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2316,
+    "likes_count": 2319,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -34,7 +34,7 @@
   {
     "title": "わかるLSTM ～ 最近の動向と共に",
     "url": "https://qiita.com/t_Signull/items/21b82be280b46f467d1b",
-    "likes_count": 2158,
+    "likes_count": 2159,
     "created_at": "2015-12-14T23:24:11+09:00",
     "updated_at": "2016-06-17T23:59:26+09:00",
     "id": "t_Signull"
@@ -74,7 +74,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1490,
+    "likes_count": 1492,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -178,7 +178,7 @@
   {
     "title": "最強のPython統合開発環境PyCharm",
     "url": "https://qiita.com/yamionp/items/f88d50da8d6b548fc44c",
-    "likes_count": 876,
+    "likes_count": 877,
     "created_at": "2015-12-15T23:28:10+09:00",
     "updated_at": "2015-12-18T19:05:48+09:00",
     "id": "yamionp"
@@ -410,7 +410,7 @@
   {
     "title": "SQLスタイルガイド",
     "url": "https://qiita.com/taise/items/18c14d9b01a5dfd6d35e",
-    "likes_count": 430,
+    "likes_count": 431,
     "created_at": "2015-12-13T09:00:22+09:00",
     "updated_at": "2015-12-13T09:00:22+09:00",
     "id": "taise"
@@ -418,7 +418,7 @@
   {
     "title": "[Python]ファイル/ディレクトリ操作",
     "url": "https://qiita.com/supersaiakujin/items/12451cd2b8315fe7d054",
-    "likes_count": 426,
+    "likes_count": 427,
     "created_at": "2015-12-26T04:45:05+09:00",
     "updated_at": "2018-10-05T12:38:27+09:00",
     "id": "supersaiakujin"
@@ -466,7 +466,7 @@
   {
     "title": "PHPのリリース日とサポート期限",
     "url": "https://qiita.com/bezeklik/items/72d1ff8393f66673e2bc",
-    "likes_count": 408,
+    "likes_count": 410,
     "created_at": "2015-12-14T11:55:09+09:00",
     "updated_at": "2020-12-24T19:36:19+09:00",
     "id": "bezeklik"
@@ -690,10 +690,18 @@
   {
     "title": "JavaScript製FlashPlayer「swf2js」swfをそのままHTML5に変換。",
     "url": "https://qiita.com/ienaga/items/c9f04d6cd9874d4ec1a7",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2015-12-16T00:02:32+09:00",
     "updated_at": "2020-07-03T10:08:53+09:00",
     "id": "ienaga"
+  },
+  {
+    "title": "Laravelのルーティングチートシート",
+    "url": "https://qiita.com/fagai/items/a1bf55b6249aee03a624",
+    "likes_count": 298,
+    "created_at": "2015-12-25T17:39:18+09:00",
+    "updated_at": "2020-09-13T02:11:21+09:00",
+    "id": "fagai"
   },
   {
     "title": "ES6の新機能: 「let」「const」宣言を調べてみた",
@@ -702,14 +710,6 @@
     "created_at": "2016-01-01T00:57:50+09:00",
     "updated_at": "2016-05-15T07:39:25+09:00",
     "id": "niisan-tokyo"
-  },
-  {
-    "title": "Laravelのルーティングチートシート",
-    "url": "https://qiita.com/fagai/items/a1bf55b6249aee03a624",
-    "likes_count": 297,
-    "created_at": "2015-12-25T17:39:18+09:00",
-    "updated_at": "2020-09-13T02:11:21+09:00",
-    "id": "fagai"
   },
   {
     "title": "PHP7.0がでたので、いまどきの「普通」のPHPの話。",

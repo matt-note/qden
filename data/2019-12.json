@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2590,
+    "likes_count": 2591,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -106,7 +106,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1032,
+    "likes_count": 1036,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -122,7 +122,7 @@
   {
     "title": "GoF デザインパターン チートシート",
     "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 946,
+    "likes_count": 947,
     "created_at": "2019-12-24T12:53:20+09:00",
     "updated_at": "2019-12-24T14:49:39+09:00",
     "id": "tanakahisateru"
@@ -130,7 +130,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 926,
+    "likes_count": 929,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -226,7 +226,7 @@
   {
     "title": "【サーバーサイド一式】Docker + Rails + Circle CI + Terraformでインフラをコードで環境構築 & ECSへ自動コンテナデプロイ【前半】",
     "url": "https://qiita.com/kazukimatsumoto/items/fa448e002b0afd441b7c",
-    "likes_count": 629,
+    "likes_count": 630,
     "created_at": "2019-12-04T14:39:49+09:00",
     "updated_at": "2019-12-17T01:31:53+09:00",
     "id": "kazukimatsumoto"
@@ -234,7 +234,7 @@
   {
     "title": "本当にあったAWSでやらかした話と対策😭",
     "url": "https://qiita.com/kaito_suzuki/items/70a320efcc6a050be3d9",
-    "likes_count": 627,
+    "likes_count": 628,
     "created_at": "2019-12-03T21:01:57+09:00",
     "updated_at": "2019-12-04T07:01:57+09:00",
     "id": "kaito_suzuki"
@@ -258,7 +258,7 @@
   {
     "title": "lodash やめ方",
     "url": "https://qiita.com/mizchi/items/af17f45d5653b76f6751",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2019-12-23T16:40:55+09:00",
     "updated_at": "2019-12-23T17:15:02+09:00",
     "id": "mizchi"
@@ -274,7 +274,7 @@
   {
     "title": "TypeScript で書く React コンポーネントを基礎から理解する",
     "url": "https://qiita.com/sangotaro/items/3ea63110517a1b66745b",
-    "likes_count": 535,
+    "likes_count": 539,
     "created_at": "2019-12-19T15:51:39+09:00",
     "updated_at": "2019-12-23T14:36:48+09:00",
     "id": "sangotaro"
@@ -306,7 +306,7 @@
   {
     "title": "ふりかえりを拡張する「ふりかえりチートシート」",
     "url": "https://qiita.com/viva_tweet_x/items/b06f56ce83038fc2bb8f",
-    "likes_count": 501,
+    "likes_count": 502,
     "created_at": "2019-12-04T21:49:42+09:00",
     "updated_at": "2019-12-04T21:49:42+09:00",
     "id": "viva_tweet_x"
@@ -320,20 +320,20 @@
     "id": "wraith13"
   },
   {
+    "title": "Androidのライフサイクルの基礎からViewModel, LiveData, Kotlin Coroutinesまでを流れるように説明したい",
+    "url": "https://qiita.com/takahirom/items/3f012d46e15a1666fa33",
+    "likes_count": 483,
+    "created_at": "2019-12-22T11:42:01+09:00",
+    "updated_at": "2020-09-14T10:13:11+09:00",
+    "id": "takahirom"
+  },
+  {
     "title": "作業時間を簡単に可視化したい！！",
     "url": "https://qiita.com/tmk815/items/15b275ff21b89139da01",
     "likes_count": 482,
     "created_at": "2019-12-10T17:42:18+09:00",
     "updated_at": "2019-12-13T10:59:17+09:00",
     "id": "tmk815"
-  },
-  {
-    "title": "Androidのライフサイクルの基礎からViewModel, LiveData, Kotlin Coroutinesまでを流れるように説明したい",
-    "url": "https://qiita.com/takahirom/items/3f012d46e15a1666fa33",
-    "likes_count": 482,
-    "created_at": "2019-12-22T11:42:01+09:00",
-    "updated_at": "2020-09-14T10:13:11+09:00",
-    "id": "takahirom"
   },
   {
     "title": "図解！ネットワークの7層を実務に当てはめてみた",
@@ -394,7 +394,7 @@
   {
     "title": "Angular と Firebase で月間PV1億超えの PWA を作った話",
     "url": "https://qiita.com/MasanobuAkiba/items/d2d4be3f8fd2e23c0c1a",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2019-12-10T08:24:48+09:00",
     "updated_at": "2020-06-04T22:29:36+09:00",
     "id": "MasanobuAkiba"
@@ -442,7 +442,7 @@
   {
     "title": "Microsoft Azure のオススメの学習方法についてまとめてみる",
     "url": "https://qiita.com/nakazax/items/9311ed4b20d045c094d4",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2019-12-18T01:55:16+09:00",
     "updated_at": "2020-08-12T00:53:11+09:00",
     "id": "nakazax"
@@ -458,7 +458,7 @@
   {
     "title": "font-familyについて本気で考えてみた",
     "url": "https://qiita.com/tsuka-rinorino/items/b30e03ce10aa38ac2a10",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2019-12-22T13:02:27+09:00",
     "updated_at": "2020-03-07T23:56:06+09:00",
     "id": "tsuka-rinorino"
@@ -498,7 +498,7 @@
   {
     "title": "Vue/Nuxt開発効率を3倍にするVSCode拡張機能セット",
     "url": "https://qiita.com/newt0/items/aeddc6a179ea3a464ed5",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2019-12-04T13:57:15+09:00",
     "updated_at": "2021-01-05T13:28:30+09:00",
     "id": "newt0"

@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2217,
+    "likes_count": 2218,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -34,7 +34,7 @@
   {
     "title": "知識0から始めるVim講座",
     "url": "https://qiita.com/JpnLavender/items/fabcc79b4ab0d52e1f6d",
-    "likes_count": 1720,
+    "likes_count": 1721,
     "created_at": "2016-04-20T13:39:15+09:00",
     "updated_at": "2016-07-18T12:55:03+09:00",
     "id": "JpnLavender"
@@ -42,7 +42,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1692,
+    "likes_count": 1694,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -50,7 +50,7 @@
   {
     "title": "iOS ヒューマンインターフェースの原則",
     "url": "https://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38",
-    "likes_count": 1630,
+    "likes_count": 1631,
     "created_at": "2016-04-03T05:27:56+09:00",
     "updated_at": "2019-03-01T04:21:27+09:00",
     "id": "usagimaru"
@@ -114,7 +114,7 @@
   {
     "title": "【意訳】Webpackの混乱ポイント",
     "url": "https://qiita.com/chuck0523/items/caacbf4137642cb175ec",
-    "likes_count": 1052,
+    "likes_count": 1053,
     "created_at": "2016-04-14T05:29:43+09:00",
     "updated_at": "2016-10-30T16:05:06+09:00",
     "id": "chuck0523"
@@ -130,7 +130,7 @@
   {
     "title": "Excelファイルを C# と VB.NET で読み込む \"正しい\" 方法",
     "url": "https://qiita.com/midori44/items/acab9106e6dad9653e73",
-    "likes_count": 853,
+    "likes_count": 854,
     "created_at": "2016-04-11T08:46:25+09:00",
     "updated_at": "2016-04-11T13:19:46+09:00",
     "id": "midori44"
@@ -154,7 +154,7 @@
   {
     "title": "【噂】IT業界のウソ・ホント【闇】",
     "url": "https://qiita.com/netetahito/items/a317345b4e059267f879",
-    "likes_count": 788,
+    "likes_count": 789,
     "created_at": "2016-04-26T12:21:50+09:00",
     "updated_at": "2019-02-06T11:51:41+09:00",
     "id": "netetahito"
@@ -250,7 +250,7 @@
   {
     "title": "Thymeleafチートシート",
     "url": "https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482",
-    "likes_count": 578,
+    "likes_count": 579,
     "created_at": "2016-04-18T07:25:38+09:00",
     "updated_at": "2018-04-23T18:05:39+09:00",
     "id": "NagaokaKenichi"
@@ -274,7 +274,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-01-22T15:35:01+09:00",
     "id": "dai-takahashi"
@@ -304,6 +304,14 @@
     "id": "Ted-HM"
   },
   {
+    "title": "gitのremote urlを変更する(レポジトリ移行時)",
+    "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
+    "likes_count": 446,
+    "created_at": "2016-04-25T14:39:49+09:00",
+    "updated_at": "2020-12-16T00:23:32+09:00",
+    "id": "minoringo"
+  },
+  {
     "title": "とりあえずLINE BOT APIでオウムを作ってみた",
     "url": "https://qiita.com/masuidrive/items/1042d93740a7a72242a3",
     "likes_count": 445,
@@ -320,17 +328,9 @@
     "id": "MoriKen"
   },
   {
-    "title": "gitのremote urlを変更する(レポジトリ移行時)",
-    "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 443,
-    "created_at": "2016-04-25T14:39:49+09:00",
-    "updated_at": "2020-12-16T00:23:32+09:00",
-    "id": "minoringo"
-  },
-  {
     "title": "ttyとかptsとかについて確認してみる",
     "url": "https://qiita.com/toshihirock/items/22de12f99b5c40365369",
-    "likes_count": 435,
+    "likes_count": 434,
     "created_at": "2016-04-28T22:23:17+09:00",
     "updated_at": "2016-04-28T22:23:17+09:00",
     "id": "toshihirock"
@@ -440,6 +440,14 @@
     "id": "yh0sh"
   },
   {
+    "title": "LINE Bot を AWSを使ってシステム構築してみた。",
+    "url": "https://qiita.com/hiyuzawa/items/10e7bf2f6ad5d1c7fc9c",
+    "likes_count": 367,
+    "created_at": "2016-04-17T17:19:05+09:00",
+    "updated_at": "2018-01-24T21:54:30+09:00",
+    "id": "hiyuzawa"
+  },
+  {
     "title": "新人さんにより良いコミットメッセージを書いてもらうための対話式スクリプト",
     "url": "https://qiita.com/smd8122/items/1dd077cb4d7757c5326c",
     "likes_count": 366,
@@ -454,14 +462,6 @@
     "created_at": "2016-04-05T14:44:41+09:00",
     "updated_at": "2018-02-09T12:13:08+09:00",
     "id": "ak-ymst"
-  },
-  {
-    "title": "LINE Bot を AWSを使ってシステム構築してみた。",
-    "url": "https://qiita.com/hiyuzawa/items/10e7bf2f6ad5d1c7fc9c",
-    "likes_count": 366,
-    "created_at": "2016-04-17T17:19:05+09:00",
-    "updated_at": "2018-01-24T21:54:30+09:00",
-    "id": "hiyuzawa"
   },
   {
     "title": "インフラエンジニアの自分が買ってよかったと思う書籍10選",
@@ -602,7 +602,7 @@
   {
     "title": "font-sizeの単位をvwにしてデバイスサイズに合わせて拡縮する",
     "url": "https://qiita.com/katsunory/items/3bede89cee8e2ded8426",
-    "likes_count": 287,
+    "likes_count": 288,
     "created_at": "2016-04-23T10:18:44+09:00",
     "updated_at": "2018-11-18T21:21:03+09:00",
     "id": "katsunory"
