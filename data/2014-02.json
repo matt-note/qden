@@ -82,10 +82,18 @@
   {
     "title": ".bash_profile ? .bashrc ? いろいろあるけどこいつらなにもの？",
     "url": "https://qiita.com/hirokishirai/items/5a529c8395c4b336bf31",
-    "likes_count": 847,
+    "likes_count": 848,
     "created_at": "2014-02-17T05:02:00+09:00",
     "updated_at": "2017-07-14T17:38:00+09:00",
     "id": "hirokishirai"
+  },
+  {
+    "title": "Gitコンフリクト解消ガイド（git mergetoolの使い方）",
+    "url": "https://qiita.com/yuya_presto/items/5d99499cf96c0ebb09f8",
+    "likes_count": 838,
+    "created_at": "2014-02-09T23:58:59+09:00",
+    "updated_at": "2014-06-26T12:16:01+09:00",
+    "id": "yuya_presto"
   },
   {
     "title": "SSH接続エラー回避方法：.ssh/known_hostsから特定のホストを削除する/削除しないで対処する3つの方法",
@@ -94,14 +102,6 @@
     "created_at": "2014-02-28T19:28:51+09:00",
     "updated_at": "2020-01-24T21:28:53+09:00",
     "id": "grgrjnjn"
-  },
-  {
-    "title": "Gitコンフリクト解消ガイド（git mergetoolの使い方）",
-    "url": "https://qiita.com/yuya_presto/items/5d99499cf96c0ebb09f8",
-    "likes_count": 837,
-    "created_at": "2014-02-09T23:58:59+09:00",
-    "updated_at": "2014-06-26T12:16:01+09:00",
-    "id": "yuya_presto"
   },
   {
     "title": "GitHubを使って3分でHPを公開する。",
@@ -218,7 +218,7 @@
   {
     "title": "逆引きメモ：expressの使い方",
     "url": "https://qiita.com/nekoe/items/06cbe49f64d56d31b793",
-    "likes_count": 485,
+    "likes_count": 486,
     "created_at": "2014-02-21T12:04:52+09:00",
     "updated_at": "2015-01-08T18:47:23+09:00",
     "id": "nekoe"
