@@ -42,7 +42,7 @@
   {
     "title": "Haskell 超入門",
     "url": "https://qiita.com/7shi/items/145f1234f8ec2af923ef",
-    "likes_count": 1167,
+    "likes_count": 1168,
     "created_at": "2014-08-20T15:02:12+09:00",
     "updated_at": "2020-10-10T17:26:29+09:00",
     "id": "7shi"
@@ -50,10 +50,18 @@
   {
     "title": "忘れっぽい人のための正規表現チートシート",
     "url": "https://qiita.com/tossh/items/635aea9a529b9deb3038",
-    "likes_count": 1104,
+    "likes_count": 1105,
     "created_at": "2014-08-14T09:41:37+09:00",
     "updated_at": "2016-02-02T23:22:20+09:00",
     "id": "tossh"
+  },
+  {
+    "title": "Gitチートシート",
+    "url": "https://qiita.com/ktarow/items/1d8c8ae698a88b1d6f0f",
+    "likes_count": 1082,
+    "created_at": "2014-08-02T23:58:30+09:00",
+    "updated_at": "2014-08-04T09:49:06+09:00",
+    "id": "ktarow"
   },
   {
     "title": "Rubyで%記法（パーセント記法）を使う",
@@ -62,14 +70,6 @@
     "created_at": "2014-08-23T23:49:39+09:00",
     "updated_at": "2014-08-23T23:50:26+09:00",
     "id": "mogulla3"
-  },
-  {
-    "title": "Gitチートシート",
-    "url": "https://qiita.com/ktarow/items/1d8c8ae698a88b1d6f0f",
-    "likes_count": 1081,
-    "created_at": "2014-08-02T23:58:30+09:00",
-    "updated_at": "2014-08-04T09:49:06+09:00",
-    "id": "ktarow"
   },
   {
     "title": "AWSアカウント作ったらこれだけはやっとけ！IAMユーザーとAuthyを使ったMFAで2段階認証",
@@ -82,7 +82,7 @@
   {
     "title": "インタフェースの実装パターン #golang",
     "url": "https://qiita.com/tenntenn/items/eac962a49c56b2b15ee8",
-    "likes_count": 920,
+    "likes_count": 922,
     "created_at": "2014-08-04T11:07:54+09:00",
     "updated_at": "2017-12-03T12:00:41+09:00",
     "id": "tenntenn"
@@ -122,7 +122,7 @@
   {
     "title": "MySQL初級者を脱するために勉強してること -INDEX編-",
     "url": "https://qiita.com/kkyouhei/items/e3502ef632c48d94541d",
-    "likes_count": 740,
+    "likes_count": 741,
     "created_at": "2014-08-09T22:23:33+09:00",
     "updated_at": "2014-08-11T11:18:39+09:00",
     "id": "kkyouhei"
@@ -202,7 +202,7 @@
   {
     "title": "vagrantのネットワークについて",
     "url": "https://qiita.com/ftakao2007/items/0ec05c2ef3c14cdbea11",
-    "likes_count": 608,
+    "likes_count": 607,
     "created_at": "2014-08-12T00:38:27+09:00",
     "updated_at": "2016-06-18T17:35:30+09:00",
     "id": "ftakao2007"
@@ -282,7 +282,7 @@
   {
     "title": "pyenvを使ってMacにPythonの環境を構築する",
     "url": "https://qiita.com/1000ch/items/93841f76ea52551b6a97",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2014-08-28T14:59:56+09:00",
     "updated_at": "2020-01-31T16:32:22+09:00",
     "id": "1000ch"
@@ -466,7 +466,7 @@
   {
     "title": "全探索アルゴリズム入門",
     "url": "https://qiita.com/MasayaMizuhara/items/86099ad721a329e1d6cd",
-    "likes_count": 321,
+    "likes_count": 320,
     "created_at": "2014-08-23T19:13:34+09:00",
     "updated_at": "2014-08-23T19:13:34+09:00",
     "id": "MasayaMizuhara"
@@ -542,6 +542,14 @@
     "created_at": "2014-08-20T23:03:05+09:00",
     "updated_at": "2015-05-10T05:29:30+09:00",
     "id": "yunano"
+  },
+  {
+    "title": "npm-scriptsについて",
+    "url": "https://qiita.com/axross/items/a2a0d148e40b66074858",
+    "likes_count": 277,
+    "created_at": "2014-08-31T01:38:47+09:00",
+    "updated_at": "2015-03-15T15:07:47+09:00",
+    "id": "axross"
   },
   {
     "title": "nginx + unicorn + Railsの設定方法",

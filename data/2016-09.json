@@ -10,7 +10,7 @@
   {
     "title": "Vue.js を vue-cli を使ってシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/dde495d6a8ad1c25fa43",
-    "likes_count": 1914,
+    "likes_count": 1915,
     "created_at": "2016-09-11T00:09:02+09:00",
     "updated_at": "2020-07-13T11:18:21+09:00",
     "id": "567000"
@@ -42,7 +42,7 @@
   {
     "title": "Webpackってどんなもの？",
     "url": "https://qiita.com/kamykn/items/45fb4690ace32216ca25",
-    "likes_count": 1139,
+    "likes_count": 1140,
     "created_at": "2016-09-17T14:48:58+09:00",
     "updated_at": "2016-09-19T19:22:07+09:00",
     "id": "kamykn"
@@ -98,7 +98,7 @@
   {
     "title": "RESTful APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/0647c30ef596cedf4bf2",
-    "likes_count": 779,
+    "likes_count": 780,
     "created_at": "2016-09-05T07:36:21+09:00",
     "updated_at": "2016-09-05T07:36:21+09:00",
     "id": "NagaokaKenichi"
@@ -122,7 +122,7 @@
   {
     "title": "Rails における内部結合、外部結合まとめ",
     "url": "https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30",
-    "likes_count": 752,
+    "likes_count": 753,
     "created_at": "2016-09-04T00:45:31+09:00",
     "updated_at": "2020-10-28T00:43:04+09:00",
     "id": "yuyasat"
@@ -138,7 +138,7 @@
   {
     "title": "pyenvが必要かどうかフローチャート",
     "url": "https://qiita.com/shibukawa/items/0daab479a2fd2cb8a0e7",
-    "likes_count": 747,
+    "likes_count": 748,
     "created_at": "2016-09-30T19:10:20+09:00",
     "updated_at": "2017-10-21T16:30:52+09:00",
     "id": "shibukawa"
@@ -234,7 +234,7 @@
   {
     "title": "OpenGLやDirectXなGUIにimguiが最強すぎる",
     "url": "https://qiita.com/Ushio/items/446d78c881334919e156",
-    "likes_count": 604,
+    "likes_count": 605,
     "created_at": "2016-09-04T01:30:03+09:00",
     "updated_at": "2016-12-13T23:49:13+09:00",
     "id": "Ushio"
@@ -282,7 +282,7 @@
   {
     "title": "nginxについてまとめ(設定編)",
     "url": "https://qiita.com/morrr/items/7c97f0d2e46f7a8ec967",
-    "likes_count": 506,
+    "likes_count": 507,
     "created_at": "2016-09-08T22:17:25+09:00",
     "updated_at": "2020-06-17T14:23:27+09:00",
     "id": "morrr"
@@ -440,20 +440,20 @@
     "id": "kitfactory"
   },
   {
-    "title": "FacebookのfastTextでFastに単語の分散表現を獲得する",
-    "url": "https://qiita.com/icoxfog417/items/42a95b279c0b7ad26589",
-    "likes_count": 331,
-    "created_at": "2016-09-29T14:21:55+09:00",
-    "updated_at": "2016-09-29T14:29:46+09:00",
-    "id": "icoxfog417"
-  },
-  {
     "title": "Spring BootのAutoConfigureの仕組みを理解する",
     "url": "https://qiita.com/kazuki43zoo/items/8645d9765edd11c6f1dd",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2016-09-06T15:46:05+09:00",
     "updated_at": "2016-09-06T15:46:05+09:00",
     "id": "kazuki43zoo"
+  },
+  {
+    "title": "FacebookのfastTextでFastに単語の分散表現を獲得する",
+    "url": "https://qiita.com/icoxfog417/items/42a95b279c0b7ad26589",
+    "likes_count": 330,
+    "created_at": "2016-09-29T14:21:55+09:00",
+    "updated_at": "2016-09-29T14:29:46+09:00",
+    "id": "icoxfog417"
   },
   {
     "title": "変数名の命名規則/＊＊ケースの使い分け",

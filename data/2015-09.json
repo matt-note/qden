@@ -34,7 +34,7 @@
   {
     "title": "デザイナーに言われた「非デザイナーが気をつけるべきデザインの4原則」",
     "url": "https://qiita.com/Yama-to/items/cb7f280b44a14c898418",
-    "likes_count": 1751,
+    "likes_count": 1752,
     "created_at": "2015-09-07T23:03:06+09:00",
     "updated_at": "2015-09-30T08:46:55+09:00",
     "id": "Yama-to"
@@ -58,7 +58,7 @@
   {
     "title": "Webアプリケーション開発者から見た、MVCとMVP、そしてMVVMの違い",
     "url": "https://qiita.com/shinkuFencer/items/f2651073fb71416b6cd7",
-    "likes_count": 1583,
+    "likes_count": 1582,
     "created_at": "2015-09-14T15:10:08+09:00",
     "updated_at": "2017-10-03T12:36:12+09:00",
     "id": "shinkuFencer"
@@ -98,7 +98,7 @@
   {
     "title": "pythonと遺伝的アルゴリズムで作るFX自動売買システム その1",
     "url": "https://qiita.com/haminiku/items/a032d94e4f0d862df2b2",
-    "likes_count": 1455,
+    "likes_count": 1456,
     "created_at": "2015-09-30T15:09:23+09:00",
     "updated_at": "2015-10-02T16:48:32+09:00",
     "id": "haminiku"
@@ -130,7 +130,7 @@
   {
     "title": "PATHを通すとは？ (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
-    "likes_count": 1192,
+    "likes_count": 1194,
     "created_at": "2015-09-16T00:08:22+09:00",
     "updated_at": "2021-01-27T02:45:09+09:00",
     "id": "soarflat"
@@ -170,7 +170,7 @@
   {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 847,
+    "likes_count": 850,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2019-02-03T11:37:52+09:00",
     "id": "ryouzi"
@@ -202,7 +202,7 @@
   {
     "title": "Graphvizとdot言語でグラフを描く方法のまとめ",
     "url": "https://qiita.com/rubytomato@github/items/51779135bc4b77c8c20d",
-    "likes_count": 767,
+    "likes_count": 768,
     "created_at": "2015-09-14T19:13:26+09:00",
     "updated_at": "2019-09-12T22:44:12+09:00",
     "id": "rubytomato@github"
@@ -218,7 +218,7 @@
   {
     "title": "AtomとPlantUMLで爆速UMLモデリング",
     "url": "https://qiita.com/nakahashi/items/3d88655f055ca6a2617c",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2015-09-03T22:10:26+09:00",
     "updated_at": "2016-04-13T11:59:14+09:00",
     "id": "nakahashi"
@@ -226,7 +226,7 @@
   {
     "title": "RESTful API設計におけるHTTPステータスコードの指針",
     "url": "https://qiita.com/uenosy/items/ba9dbc70781bddc4a491",
-    "likes_count": 715,
+    "likes_count": 716,
     "created_at": "2015-09-14T16:36:59+09:00",
     "updated_at": "2015-09-14T16:36:59+09:00",
     "id": "uenosy"
@@ -242,7 +242,7 @@
   {
     "title": "npm|yarnで怒られたエラー集まとめ。WARN[deprecated,unmet dependency,peerDependencies,EPEERINVALID,engine]ERR![missing,invalid],throw er; // Unhandled 'error' eventの解決方法。(2020/5/24更新)",
     "url": "https://qiita.com/M-ISO/items/d693ac892549fc95c14c",
-    "likes_count": 659,
+    "likes_count": 660,
     "created_at": "2015-09-19T17:05:18+09:00",
     "updated_at": "2020-05-24T09:16:04+09:00",
     "id": "M-ISO"
@@ -322,7 +322,7 @@
   {
     "title": "【CSS3】Transition（変化）関連のまとめ",
     "url": "https://qiita.com/7968/items/812d6a21fc4dd9ae9c75",
-    "likes_count": 459,
+    "likes_count": 461,
     "created_at": "2015-09-11T20:36:50+09:00",
     "updated_at": "2020-04-15T08:44:50+09:00",
     "id": "7968"
@@ -354,7 +354,7 @@
   {
     "title": "Macでローカルサーバを立ち上げる方法",
     "url": "https://qiita.com/shuntaro_tamura/items/bdabcb77926dc92617b1",
-    "likes_count": 410,
+    "likes_count": 412,
     "created_at": "2015-09-11T20:06:02+09:00",
     "updated_at": "2020-04-15T15:18:49+09:00",
     "id": "shuntaro_tamura"
@@ -432,20 +432,20 @@
     "id": "nakajmg"
   },
   {
+    "title": "ESLintのエラールール。日本語ざっくり解説[ベストプラクティス編]",
+    "url": "https://qiita.com/M-ISO/items/4cd183e2496c2937a53e",
+    "likes_count": 338,
+    "created_at": "2015-09-26T01:13:12+09:00",
+    "updated_at": "2019-09-25T18:39:33+09:00",
+    "id": "M-ISO"
+  },
+  {
     "title": "Swift 2で提唱されているProtocol Oriented ProgrammingをWWDCセッションから学ぶ",
     "url": "https://qiita.com/mono0926/items/bb52e657df6978713334",
     "likes_count": 337,
     "created_at": "2015-09-20T06:58:27+09:00",
     "updated_at": "2015-09-21T13:48:37+09:00",
     "id": "mono0926"
-  },
-  {
-    "title": "ESLintのエラールール。日本語ざっくり解説[ベストプラクティス編]",
-    "url": "https://qiita.com/M-ISO/items/4cd183e2496c2937a53e",
-    "likes_count": 337,
-    "created_at": "2015-09-26T01:13:12+09:00",
-    "updated_at": "2019-09-25T18:39:33+09:00",
-    "id": "M-ISO"
   },
   {
     "title": "GitHubエンジニアによる「リファクタリングにおける冒険とは」の翻訳",
@@ -498,7 +498,7 @@
   {
     "title": "Node.js / npmをインストールする（for Windows）",
     "url": "https://qiita.com/taiponrock/items/9001ae194571feb63a5e",
-    "likes_count": 303,
+    "likes_count": 304,
     "created_at": "2015-09-29T11:40:27+09:00",
     "updated_at": "2015-09-29T11:43:32+09:00",
     "id": "taiponrock"
