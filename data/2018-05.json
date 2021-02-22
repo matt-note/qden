@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4726,
+    "likes_count": 4727,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2322,
+    "likes_count": 2323,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2020-07-25T13:47:36+09:00",
     "id": "tani_AI_Academy"
@@ -114,9 +114,9 @@
   {
     "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
     "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
-    "likes_count": 854,
+    "likes_count": 852,
     "created_at": "2018-05-21T13:12:10+09:00",
-    "updated_at": "2019-12-06T12:14:45+09:00",
+    "updated_at": "2021-02-22T08:28:15+09:00",
     "id": "kazukimatsumoto"
   },
   {
@@ -186,7 +186,7 @@
   {
     "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
     "url": "https://qiita.com/kamesennin/items/89d479112554a6f9d038",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2018-05-01T18:10:35+09:00",
     "updated_at": "2018-05-08T10:35:38+09:00",
     "id": "kamesennin"
@@ -218,7 +218,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 621,
+    "likes_count": 622,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -234,7 +234,7 @@
   {
     "title": "[macOS向け] gitのクライアントはGitUpがいいぞ。",
     "url": "https://qiita.com/JotaroS/items/5042d2944cf0573f133e",
-    "likes_count": 586,
+    "likes_count": 589,
     "created_at": "2018-05-25T04:14:15+09:00",
     "updated_at": "2020-01-29T14:52:32+09:00",
     "id": "JotaroS"
@@ -256,20 +256,20 @@
     "id": "minakawa-daiki"
   },
   {
-    "title": "GitFlowをやめて本番リリースが楽になった話",
-    "url": "https://qiita.com/koyopro/items/b4569285efc22c6397c6",
-    "likes_count": 567,
-    "created_at": "2018-05-13T09:53:45+09:00",
-    "updated_at": "2018-06-10T14:48:56+09:00",
-    "id": "koyopro"
-  },
-  {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 567,
+    "likes_count": 569,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2020-09-03T15:39:51+09:00",
     "id": "hiyuzawa"
+  },
+  {
+    "title": "GitFlowをやめて本番リリースが楽になった話",
+    "url": "https://qiita.com/koyopro/items/b4569285efc22c6397c6",
+    "likes_count": 568,
+    "created_at": "2018-05-13T09:53:45+09:00",
+    "updated_at": "2018-06-10T14:48:56+09:00",
+    "id": "koyopro"
   },
   {
     "title": "【退職】履歴書をGit管理したかってん【しました】",
@@ -306,7 +306,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/takahiro1127/items/fcb81753eaf381b4b33c",
-    "likes_count": 526,
+    "likes_count": 528,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "takahiro1127"
@@ -314,7 +314,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -330,7 +330,7 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 509,
+    "likes_count": 511,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
@@ -378,7 +378,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 459,
+    "likes_count": 460,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -394,7 +394,7 @@
   {
     "title": "Android Architecture Components 初級 （ MVVM + LiveData + Coroutines 編 ）",
     "url": "https://qiita.com/Tsutou/items/69a28ebbd69b69e51703",
-    "likes_count": 421,
+    "likes_count": 422,
     "created_at": "2018-05-30T13:52:14+09:00",
     "updated_at": "2020-07-17T00:02:52+09:00",
     "id": "Tsutou"
@@ -410,7 +410,7 @@
   {
     "title": "FizzBuzz Zero ―― 人類の知識なしでFizzBuzzをマスターする",
     "url": "https://qiita.com/ymg_aq/items/d276357823f5b2ce46c5",
-    "likes_count": 415,
+    "likes_count": 414,
     "created_at": "2018-05-10T17:14:38+09:00",
     "updated_at": "2018-05-12T09:45:02+09:00",
     "id": "ymg_aq"
@@ -442,7 +442,7 @@
   {
     "title": "外部キー制約について",
     "url": "https://qiita.com/SLEAZOIDS/items/d6fb9c2d131c3fdd1387",
-    "likes_count": 372,
+    "likes_count": 373,
     "created_at": "2018-05-12T22:58:19+09:00",
     "updated_at": "2019-06-04T15:42:01+09:00",
     "id": "SLEAZOIDS"

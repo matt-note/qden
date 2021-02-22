@@ -34,7 +34,7 @@
   {
     "title": "[JavaScript]使い分けるだけで今すぐデバッグ効率を上げる、consoleオブジェクトの関数",
     "url": "https://qiita.com/kashira2339/items/874f95aaaa59f4a17d3d",
-    "likes_count": 1438,
+    "likes_count": 1440,
     "created_at": "2015-07-24T00:03:31+09:00",
     "updated_at": "2015-08-12T14:54:33+09:00",
     "id": "kashira2339"
@@ -42,7 +42,7 @@
   {
     "title": "Docker Compose - docker-compose.yml リファレンス",
     "url": "https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa",
-    "likes_count": 1430,
+    "likes_count": 1431,
     "created_at": "2015-07-09T21:35:36+09:00",
     "updated_at": "2019-04-08T16:24:01+09:00",
     "id": "zembutsu"
@@ -66,7 +66,7 @@
   {
     "title": "[初心者向け] プログラムの計算量を求める方法",
     "url": "https://qiita.com/cotrpepe/items/1f4c38cc9d3e3a5f5e9c",
-    "likes_count": 1363,
+    "likes_count": 1364,
     "created_at": "2015-07-31T14:02:23+09:00",
     "updated_at": "2018-02-06T20:25:59+09:00",
     "id": "cotrpepe"
@@ -130,7 +130,7 @@
   {
     "title": "組合せ最適化を使おう",
     "url": "https://qiita.com/SaitoTsutomu/items/bfbf4c185ed7004b5721",
-    "likes_count": 883,
+    "likes_count": 884,
     "created_at": "2015-07-13T10:31:21+09:00",
     "updated_at": "2017-10-17T14:27:44+09:00",
     "id": "SaitoTsutomu"
@@ -402,7 +402,7 @@
   {
     "title": "良く分かるMySQL Innodbのギャップロック",
     "url": "https://qiita.com/kenjiszk/items/05f7f6e695b93570a9e1",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2015-07-26T21:28:46+09:00",
     "updated_at": "2017-02-14T11:42:13+09:00",
     "id": "kenjiszk"
@@ -410,10 +410,18 @@
   {
     "title": "<input type=submit>は止めて<button type=submit>を使うべき",
     "url": "https://qiita.com/irxground/items/c8537d30e9760c5b3e5c",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2015-07-09T13:47:19+09:00",
     "updated_at": "2015-07-09T13:47:19+09:00",
     "id": "irxground"
+  },
+  {
+    "title": "テキストの縦方向の中央揃えについて",
+    "url": "https://qiita.com/Shinji-m/items/69a392685699f3ba95fb",
+    "likes_count": 316,
+    "created_at": "2015-07-25T01:06:06+09:00",
+    "updated_at": "2015-07-30T14:42:25+09:00",
+    "id": "Shinji-m"
   },
   {
     "title": "MySQL Workbench ER図作成",
@@ -438,14 +446,6 @@
     "created_at": "2015-07-05T09:40:33+09:00",
     "updated_at": "2015-07-17T09:06:15+09:00",
     "id": "kenmatsu4"
-  },
-  {
-    "title": "テキストの縦方向の中央揃えについて",
-    "url": "https://qiita.com/Shinji-m/items/69a392685699f3ba95fb",
-    "likes_count": 315,
-    "created_at": "2015-07-25T01:06:06+09:00",
-    "updated_at": "2015-07-30T14:42:25+09:00",
-    "id": "Shinji-m"
   },
   {
     "title": "iOS版LINEアプリの使っているライブラリを調べた",
@@ -562,7 +562,7 @@
   {
     "title": "PHPでログイン機能を実装するチュートリアル #1",
     "url": "https://qiita.com/ShibuyaKosuke/items/f114ffccf441edb2b745",
-    "likes_count": 241,
+    "likes_count": 242,
     "created_at": "2015-07-23T14:46:34+09:00",
     "updated_at": "2018-09-18T23:43:06+09:00",
     "id": "ShibuyaKosuke"

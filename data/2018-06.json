@@ -66,7 +66,7 @@
   {
     "title": "わかる！Firebase ～全てのサービスをおつまみ紹介～",
     "url": "https://qiita.com/dogwood008/items/fa95b62ad151f823af70",
-    "likes_count": 1128,
+    "likes_count": 1129,
     "created_at": "2018-06-28T02:47:16+09:00",
     "updated_at": "2018-07-04T15:58:56+09:00",
     "id": "dogwood008"
@@ -106,7 +106,7 @@
   {
     "title": "ApacheとNginxについて比較",
     "url": "https://qiita.com/kamihork/items/49e2a363da7d840a4149",
-    "likes_count": 893,
+    "likes_count": 895,
     "created_at": "2018-06-15T09:16:24+09:00",
     "updated_at": "2020-06-13T23:35:39+09:00",
     "id": "kamihork"
@@ -122,7 +122,7 @@
   {
     "title": "世のフロントエンドエンジニアにApollo Clientを布教したい",
     "url": "https://qiita.com/seya/items/26c8a0dc549a10efcdf8",
-    "likes_count": 807,
+    "likes_count": 808,
     "created_at": "2018-06-04T07:42:42+09:00",
     "updated_at": "2018-08-27T20:10:22+09:00",
     "id": "seya"
@@ -186,10 +186,18 @@
   {
     "title": "コンテナ開発の始め方",
     "url": "https://qiita.com/niisan-tokyo/items/bcb89c9de82ba465d200",
-    "likes_count": 551,
+    "likes_count": 552,
     "created_at": "2018-06-15T17:27:34+09:00",
     "updated_at": "2018-06-27T11:26:26+09:00",
     "id": "niisan-tokyo"
+  },
+  {
+    "title": "ターミナルプロンプトの表示・色の変更",
+    "url": "https://qiita.com/hmmrjn/items/60d2a64c9e5bf7c0fe60",
+    "likes_count": 534,
+    "created_at": "2018-06-20T04:30:23+09:00",
+    "updated_at": "2021-01-25T23:38:37+09:00",
+    "id": "hmmrjn"
   },
   {
     "title": "Qiita殿堂入り記事ランキングを作った物語",
@@ -198,14 +206,6 @@
     "created_at": "2018-06-29T10:26:58+09:00",
     "updated_at": "2018-08-05T11:59:33+09:00",
     "id": "youwht"
-  },
-  {
-    "title": "ターミナルプロンプトの表示・色の変更",
-    "url": "https://qiita.com/hmmrjn/items/60d2a64c9e5bf7c0fe60",
-    "likes_count": 533,
-    "created_at": "2018-06-20T04:30:23+09:00",
-    "updated_at": "2021-01-25T23:38:37+09:00",
-    "id": "hmmrjn"
   },
   {
     "title": "Dockerfile のベストプラクティスを自分なりに整理してみた",
@@ -226,7 +226,7 @@
   {
     "title": "React Nativeの実は使ってはダメなライブラリ素晴らしいライブラリ(随時更新)",
     "url": "https://qiita.com/kaba/items/569aafd80889bb5d9328",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2018-06-02T16:38:42+09:00",
     "updated_at": "2021-02-19T16:54:17+09:00",
     "id": "kaba"
@@ -234,7 +234,7 @@
   {
     "title": "【Rails 5.2】 Active Storageの使い方",
     "url": "https://qiita.com/hmmrjn/items/7cc5e5348755c517458a",
-    "likes_count": 504,
+    "likes_count": 505,
     "created_at": "2018-06-30T23:44:12+09:00",
     "updated_at": "2019-08-06T10:42:47+09:00",
     "id": "hmmrjn"
@@ -274,7 +274,7 @@
   {
     "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
     "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
-    "likes_count": 433,
+    "likes_count": 434,
     "created_at": "2018-06-11T22:28:36+09:00",
     "updated_at": "2019-07-16T14:45:28+09:00",
     "id": "C3REVE"
@@ -282,7 +282,7 @@
   {
     "title": "【Vue.js】いつから「フロントエンド開発でTDDができない」と錯覚していた？",
     "url": "https://qiita.com/ykhirao/items/becd9be857dbe6804314",
-    "likes_count": 433,
+    "likes_count": 434,
     "created_at": "2018-06-25T08:56:37+09:00",
     "updated_at": "2018-06-27T23:47:26+09:00",
     "id": "ykhirao"
@@ -442,7 +442,7 @@
   {
     "title": "ReactをRailsと共に使う方法",
     "url": "https://qiita.com/k-penguin-sato/items/e3cc04f787cf3254cfae",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2018-06-25T08:38:55+09:00",
     "updated_at": "2019-09-11T13:18:37+09:00",
     "id": "k-penguin-sato"
@@ -450,7 +450,7 @@
   {
     "title": "統計検定2級のためのチートシート",
     "url": "https://qiita.com/akiyoshi_sasaki/items/c81032c1683f69ff9d11",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2018-06-12T20:14:50+09:00",
     "updated_at": "2018-08-27T16:05:32+09:00",
     "id": "akiyoshi_sasaki"

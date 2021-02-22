@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 3870,
+    "likes_count": 3871,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2442,
+    "likes_count": 2443,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -42,7 +42,7 @@
   {
     "title": "気付いたら.gitignoreはgiboで自動生成する時代になっていた",
     "url": "https://qiita.com/tmknom/items/c4bcebe17d25381fa45d",
-    "likes_count": 1875,
+    "likes_count": 1876,
     "created_at": "2015-12-31T13:47:48+09:00",
     "updated_at": "2017-06-26T15:44:25+09:00",
     "id": "tmknom"
@@ -58,7 +58,7 @@
   {
     "title": "まだMVC,MVP,MVVMで消耗してるの？ iOS Clean Architectureについて",
     "url": "https://qiita.com/koutalou/items/07a4f9cf51a2d13e4cdc",
-    "likes_count": 1587,
+    "likes_count": 1588,
     "created_at": "2015-12-22T19:14:23+09:00",
     "updated_at": "2016-12-05T15:11:33+09:00",
     "id": "koutalou"
@@ -106,7 +106,7 @@
   {
     "title": "Ubuntuに最新のNode.jsを難なくインストールする",
     "url": "https://qiita.com/seibe/items/36cef7df85fe2cefa3ea",
-    "likes_count": 1253,
+    "likes_count": 1254,
     "created_at": "2015-12-11T01:45:30+09:00",
     "updated_at": "2019-02-10T15:24:12+09:00",
     "id": "seibe"
@@ -122,7 +122,7 @@
   {
     "title": "本物の golang を... 本物の Gopher を、お見せしますよ。",
     "url": "https://qiita.com/mattn/items/b7889e3c036b408ae8bd",
-    "likes_count": 1190,
+    "likes_count": 1191,
     "created_at": "2015-12-17T00:00:44+09:00",
     "updated_at": "2017-02-03T12:32:49+09:00",
     "id": "mattn"
@@ -170,7 +170,7 @@
   {
     "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発",
     "url": "https://qiita.com/nkjm/items/723990c518acfee6e473",
-    "likes_count": 969,
+    "likes_count": 970,
     "created_at": "2015-12-29T17:47:24+09:00",
     "updated_at": "2016-02-13T11:49:00+09:00",
     "id": "nkjm"
@@ -226,7 +226,7 @@
   {
     "title": "自分のvimでやってきたことのまとめ",
     "url": "https://qiita.com/ykyk1218/items/ab1c89c4eb6a2f90333a",
-    "likes_count": 773,
+    "likes_count": 774,
     "created_at": "2015-12-11T00:00:43+09:00",
     "updated_at": "2018-08-19T14:32:08+09:00",
     "id": "ykyk1218"
@@ -378,7 +378,7 @@
   {
     "title": "Qiitaのマークダウンで色をつける方法[140色]",
     "url": "https://qiita.com/twipg/items/d8043cd4681a2780c160",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2015-12-22T19:51:13+09:00",
     "updated_at": "2016-11-12T12:13:16+09:00",
     "id": "twipg"
@@ -440,17 +440,9 @@
     "id": "__cooper"
   },
   {
-    "title": "Chainerを使ってコンピュータにイラストを描かせる",
-    "url": "https://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc",
-    "likes_count": 414,
-    "created_at": "2015-12-20T00:01:23+09:00",
-    "updated_at": "2015-12-20T00:32:26+09:00",
-    "id": "rezoolab"
-  },
-  {
     "title": "ガチで Swift でプログラム組んで1年経っての心得",
     "url": "https://qiita.com/lovee/items/555a5b76097347aa2367",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2015-12-15T23:53:40+09:00",
     "updated_at": "2017-08-29T11:44:16+09:00",
     "id": "lovee"
@@ -458,10 +450,18 @@
   {
     "title": "エンジニア経験がなくても自分でコード書いて起業する方法",
     "url": "https://qiita.com/dice-sasaki@github/items/c7756f04b5da57fd5b1b",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2015-12-16T00:03:26+09:00",
     "updated_at": "2015-12-16T00:22:23+09:00",
     "id": "dice-sasaki@github"
+  },
+  {
+    "title": "Chainerを使ってコンピュータにイラストを描かせる",
+    "url": "https://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc",
+    "likes_count": 414,
+    "created_at": "2015-12-20T00:01:23+09:00",
+    "updated_at": "2015-12-20T00:32:26+09:00",
+    "id": "rezoolab"
   },
   {
     "title": "PHPのリリース日とサポート期限",
@@ -474,7 +474,7 @@
   {
     "title": "C言語を使うならMakeを使おうよ",
     "url": "https://qiita.com/j8takagi/items/74232a00cc33623f7844",
-    "likes_count": 407,
+    "likes_count": 409,
     "created_at": "2015-12-23T00:03:46+09:00",
     "updated_at": "2018-07-31T15:01:01+09:00",
     "id": "j8takagi"
@@ -610,7 +610,7 @@
   {
     "title": "nodistでNode.jsをバージョン管理",
     "url": "https://qiita.com/satoyan419/items/56e0b5f35912b9374305",
-    "likes_count": 329,
+    "likes_count": 331,
     "created_at": "2015-12-31T18:25:28+09:00",
     "updated_at": "2021-01-24T20:25:51+09:00",
     "id": "satoyan419"
