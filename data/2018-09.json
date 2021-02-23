@@ -2,7 +2,7 @@
   {
     "title": "VSCodeのオススメ拡張機能 24 選   (とTipsをいくつか)",
     "url": "https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234",
-    "likes_count": 5223,
+    "likes_count": 5224,
     "created_at": "2018-09-30T14:57:40+09:00",
     "updated_at": "2020-02-09T01:38:33+09:00",
     "id": "sensuikan1973"
@@ -18,7 +18,7 @@
   {
     "title": "個人でも使える！おすすめAPI一覧",
     "url": "https://qiita.com/mikan3rd/items/ba4737023f08bb2ca161",
-    "likes_count": 3845,
+    "likes_count": 3846,
     "created_at": "2018-09-17T21:12:27+09:00",
     "updated_at": "2019-11-07T11:01:15+09:00",
     "id": "mikan3rd"
@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 2235,
+    "likes_count": 2237,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -42,7 +42,7 @@
   {
     "title": "Reactで誰もがやりたかった10の機能。アプリ構想はあるけど作れない人の壁をぶっ壊す。",
     "url": "https://qiita.com/y_kawase/items/8f1b5a303400a09c4923",
-    "likes_count": 1853,
+    "likes_count": 1855,
     "created_at": "2018-09-03T11:52:27+09:00",
     "updated_at": "2019-04-21T16:22:29+09:00",
     "id": "y_kawase"
@@ -50,7 +50,7 @@
   {
     "title": "オブジェクト指向が5000%理解できる記事",
     "url": "https://qiita.com/ICT_hero/items/b2f8e39d7cc23ad505f9",
-    "likes_count": 1793,
+    "likes_count": 1795,
     "created_at": "2018-09-22T01:04:00+09:00",
     "updated_at": "2020-01-28T15:05:24+09:00",
     "id": "ICT_hero"
@@ -58,7 +58,7 @@
   {
     "title": "今から始めるReact入門 〜 React の基本",
     "url": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
-    "likes_count": 1652,
+    "likes_count": 1653,
     "created_at": "2018-09-08T14:12:46+09:00",
     "updated_at": "2021-01-10T14:41:43+09:00",
     "id": "TsutomuNakamura"
@@ -130,7 +130,7 @@
   {
     "title": "[Python] プログラム初心者のためのWebアプリ簡単作成法",
     "url": "https://qiita.com/okoppe8/items/4cc0f87ea933749f5a49",
-    "likes_count": 870,
+    "likes_count": 873,
     "created_at": "2018-09-27T15:04:46+09:00",
     "updated_at": "2018-09-28T14:14:51+09:00",
     "id": "okoppe8"
@@ -138,7 +138,7 @@
   {
     "title": "Docker、ボリューム(Volume)について真面目に調べた",
     "url": "https://qiita.com/gounx2/items/23b0dc8b8b95cc629f32",
-    "likes_count": 789,
+    "likes_count": 790,
     "created_at": "2018-09-28T01:01:49+09:00",
     "updated_at": "2019-10-05T15:34:08+09:00",
     "id": "gounx2"
@@ -162,7 +162,7 @@
   {
     "title": "Nuxt.jsを使うときに、SPA・SSR・SSGのどれがいいか迷ったら",
     "url": "https://qiita.com/nishinoshake/items/f42e2f03663b00b5886d",
-    "likes_count": 765,
+    "likes_count": 766,
     "created_at": "2018-09-17T20:15:21+09:00",
     "updated_at": "2020-11-22T10:02:30+09:00",
     "id": "nishinoshake"
@@ -258,7 +258,7 @@
   {
     "title": "SSHの公開鍵認証における良くある誤解の話",
     "url": "https://qiita.com/angel_p_57/items/2e3f3f8661de32a0d432",
-    "likes_count": 546,
+    "likes_count": 548,
     "created_at": "2018-09-17T21:58:02+09:00",
     "updated_at": "2018-09-17T21:58:02+09:00",
     "id": "angel_p_57"
@@ -352,6 +352,14 @@
     "id": "retoruto_carry"
   },
   {
+    "title": "[Pythonコーディング規約]PEP8を読み解く",
+    "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
+    "likes_count": 448,
+    "created_at": "2018-09-17T01:05:30+09:00",
+    "updated_at": "2020-12-12T20:58:41+09:00",
+    "id": "simonritchie"
+  },
+  {
     "title": "moffersで年収1200万円のオファーをゲットしたエンジニアの業務経歴を公開します",
     "url": "https://qiita.com/poly_soft/items/f08460f559ed5e9304b5",
     "likes_count": 448,
@@ -360,17 +368,9 @@
     "id": "poly_soft"
   },
   {
-    "title": "[Pythonコーディング規約]PEP8を読み解く",
-    "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
-    "likes_count": 447,
-    "created_at": "2018-09-17T01:05:30+09:00",
-    "updated_at": "2020-12-12T20:58:41+09:00",
-    "id": "simonritchie"
-  },
-  {
     "title": "Vue.jsとNuxt.jsを使っていて、どっちのドキュメントを見ればいいんだ？ってなったときのために機能を整理する。",
     "url": "https://qiita.com/nishinoshake/items/eae57372e2fd360438e0",
-    "likes_count": 439,
+    "likes_count": 440,
     "created_at": "2018-09-03T10:43:57+09:00",
     "updated_at": "2018-09-04T15:54:12+09:00",
     "id": "nishinoshake"
@@ -458,7 +458,7 @@
   {
     "title": "Chart.jsでグラフを描画してみた",
     "url": "https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369",
-    "likes_count": 377,
+    "likes_count": 378,
     "created_at": "2018-09-04T16:23:22+09:00",
     "updated_at": "2019-04-09T22:23:04+09:00",
     "id": "Haruka-Ogawa"
@@ -498,7 +498,7 @@
   {
     "title": "Dockerを使ってLaravel開発環境構築",
     "url": "https://qiita.com/A-Kira/items/1c55ef689c0f91420e81",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2018-09-30T03:04:01+09:00",
     "updated_at": "2020-03-09T13:58:23+09:00",
     "id": "A-Kira"
