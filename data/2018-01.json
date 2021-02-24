@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1411,
+    "likes_count": 1414,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -42,7 +42,7 @@
   {
     "title": "意外と知らない？ Gitコマンド 100本ノック",
     "url": "https://qiita.com/ueki05/items/5c233773e3186989bfd3",
-    "likes_count": 1187,
+    "likes_count": 1188,
     "created_at": "2018-01-28T22:38:00+09:00",
     "updated_at": "2018-07-10T14:07:53+09:00",
     "id": "ueki05"
@@ -66,7 +66,7 @@
   {
     "title": "Pythonによるデザインパターン5原則",
     "url": "https://qiita.com/kotetsu75/items/4b903023001f157554a4",
-    "likes_count": 844,
+    "likes_count": 845,
     "created_at": "2018-01-10T22:19:52+09:00",
     "updated_at": "2018-02-20T09:40:02+09:00",
     "id": "kotetsu75"
@@ -250,7 +250,7 @@
   {
     "title": "ActiveModel::Attributes が最高すぎるんだよな。",
     "url": "https://qiita.com/alpaca_taichou/items/bebace92f06af3f32898",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2018-01-18T19:44:16+09:00",
     "updated_at": "2018-01-24T21:05:16+09:00",
     "id": "alpaca_taichou"
@@ -282,7 +282,7 @@
   {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 389,
+    "likes_count": 388,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
@@ -290,7 +290,7 @@
   {
     "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
     "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
-    "likes_count": 381,
+    "likes_count": 382,
     "created_at": "2018-01-10T20:19:27+09:00",
     "updated_at": "2019-04-20T22:30:46+09:00",
     "id": "zd6ir7"
@@ -338,7 +338,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 358,
+    "likes_count": 359,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
@@ -394,7 +394,7 @@
   {
     "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
     "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
-    "likes_count": 268,
+    "likes_count": 270,
     "created_at": "2018-01-18T00:36:30+09:00",
     "updated_at": "2019-07-29T19:26:22+09:00",
     "id": "tomov3"
@@ -406,5 +406,13 @@
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"
+  },
+  {
+    "title": "Vim / Vi を終了させる方法",
+    "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
+    "likes_count": 257,
+    "created_at": "2018-01-09T22:50:55+09:00",
+    "updated_at": "2019-11-01T09:15:26+09:00",
+    "id": "kon_yu"
   }
 ]

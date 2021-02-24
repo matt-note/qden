@@ -2,7 +2,7 @@
   {
     "title": "一番分かりやすい OAuth の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be",
-    "likes_count": 6293,
+    "likes_count": 6299,
     "created_at": "2017-07-14T06:21:33+09:00",
     "updated_at": "2020-03-20T15:05:04+09:00",
     "id": "TakahikoKawasaki"
@@ -26,7 +26,7 @@
   {
     "title": "一番分かりやすい OpenID Connect の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe",
-    "likes_count": 1697,
+    "likes_count": 1698,
     "created_at": "2017-07-24T04:19:55+09:00",
     "updated_at": "2020-03-20T15:05:48+09:00",
     "id": "TakahikoKawasaki"
@@ -114,7 +114,7 @@
   {
     "title": "これからはcssはSassで書こう。",
     "url": "https://qiita.com/m0nch1/items/b01c966dd2273e3f6abe",
-    "likes_count": 626,
+    "likes_count": 627,
     "created_at": "2017-07-25T11:52:02+09:00",
     "updated_at": "2018-08-08T09:01:02+09:00",
     "id": "m0nch1"
@@ -138,7 +138,7 @@
   {
     "title": "【これだけ覚えてたらOK！】SQL構文まとめ",
     "url": "https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd",
-    "likes_count": 552,
+    "likes_count": 553,
     "created_at": "2017-07-05T21:25:24+09:00",
     "updated_at": "2020-11-07T11:02:57+09:00",
     "id": "tatsuya4150"
@@ -160,6 +160,14 @@
     "id": "ninuyama"
   },
   {
+    "title": "Python3.4以降ならos.pathはさっさと捨ててpathlibを使うべき",
+    "url": "https://qiita.com/tag1216/items/29bf3b9c3c4b563ff0fe",
+    "likes_count": 458,
+    "created_at": "2017-07-24T07:14:37+09:00",
+    "updated_at": "2018-01-21T10:22:14+09:00",
+    "id": "tag1216"
+  },
+  {
     "title": "仮想通貨取引所のPoloniexからAPI経由でデータ取得し、ディープラーニング（Chainer）で翌日の価格予測をしよう",
     "url": "https://qiita.com/yoshizaki_91/items/79f4056901dd9c059afb",
     "likes_count": 458,
@@ -174,14 +182,6 @@
     "created_at": "2017-07-11T12:53:26+09:00",
     "updated_at": "2019-04-11T08:31:07+09:00",
     "id": "norioxkimura"
-  },
-  {
-    "title": "Python3.4以降ならos.pathはさっさと捨ててpathlibを使うべき",
-    "url": "https://qiita.com/tag1216/items/29bf3b9c3c4b563ff0fe",
-    "likes_count": 457,
-    "created_at": "2017-07-24T07:14:37+09:00",
-    "updated_at": "2018-01-21T10:22:14+09:00",
-    "id": "tag1216"
   },
   {
     "title": "Pythonの並列・並行処理サンプルコードまとめ",
@@ -218,7 +218,7 @@
   {
     "title": "【gitコマンド】いまさらのrevert",
     "url": "https://qiita.com/chihiro/items/2fa827d0eac98109e7ee",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2017-07-13T08:45:54+09:00",
     "updated_at": "2019-04-30T10:49:39+09:00",
     "id": "chihiro"
@@ -232,20 +232,20 @@
     "id": "yumayamada1029"
   },
   {
+    "title": "【いまさらですが】package.jsonのdependenciesとdevDependencies",
+    "url": "https://qiita.com/chihiro/items/ca1529f9b3d016af53ec",
+    "likes_count": 391,
+    "created_at": "2017-07-21T22:26:42+09:00",
+    "updated_at": "2019-08-28T08:50:02+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "PlantUML で ER 図（ERD）を描く（似非ではないです）",
     "url": "https://qiita.com/Tachy_Pochy/items/752ef6e3d38e970378f0",
     "likes_count": 391,
     "created_at": "2017-07-27T18:12:34+09:00",
     "updated_at": "2018-05-09T12:23:17+09:00",
     "id": "Tachy_Pochy"
-  },
-  {
-    "title": "【いまさらですが】package.jsonのdependenciesとdevDependencies",
-    "url": "https://qiita.com/chihiro/items/ca1529f9b3d016af53ec",
-    "likes_count": 389,
-    "created_at": "2017-07-21T22:26:42+09:00",
-    "updated_at": "2019-08-28T08:50:02+09:00",
-    "id": "chihiro"
   },
   {
     "title": "翻訳: Kotlinベストプラクティス『Idiomatic Kotlin. Best Practices』",
@@ -322,7 +322,7 @@
   {
     "title": "PHPを少しでも速く動かしたい",
     "url": "https://qiita.com/kapitan/items/47d89449f23bc7f7c9bb",
-    "likes_count": 298,
+    "likes_count": 299,
     "created_at": "2017-07-13T18:39:31+09:00",
     "updated_at": "2017-07-13T18:39:31+09:00",
     "id": "kapitan"
@@ -362,7 +362,7 @@
   {
     "title": "Dockerコマンド一覧",
     "url": "https://qiita.com/nimusukeroku/items/72bc48a8569a954c7aa2",
-    "likes_count": 246,
+    "likes_count": 247,
     "created_at": "2017-07-19T15:42:44+09:00",
     "updated_at": "2017-07-19T16:28:37+09:00",
     "id": "nimusukeroku"
