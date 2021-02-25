@@ -26,7 +26,7 @@
   {
     "title": "ウェブカツ運営者が語る！WEBサービスで起業したい人に読んで欲しい２０のコト",
     "url": "https://qiita.com/kazukichi/items/aeba286c2a750081e5c0",
-    "likes_count": 1834,
+    "likes_count": 1835,
     "created_at": "2015-07-12T22:43:39+09:00",
     "updated_at": "2020-12-10T11:08:55+09:00",
     "id": "kazukichi"
@@ -42,7 +42,7 @@
   {
     "title": "Docker Compose - docker-compose.yml リファレンス",
     "url": "https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa",
-    "likes_count": 1434,
+    "likes_count": 1435,
     "created_at": "2015-07-09T21:35:36+09:00",
     "updated_at": "2019-04-08T16:24:01+09:00",
     "id": "zembutsu"
@@ -58,7 +58,7 @@
   {
     "title": "PowerShell 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/bb0f5e4f1c7ce045cc57",
-    "likes_count": 1391,
+    "likes_count": 1392,
     "created_at": "2015-07-11T00:26:58+09:00",
     "updated_at": "2020-07-29T08:37:53+09:00",
     "id": "opengl-8080"
@@ -66,7 +66,7 @@
   {
     "title": "[初心者向け] プログラムの計算量を求める方法",
     "url": "https://qiita.com/cotrpepe/items/1f4c38cc9d3e3a5f5e9c",
-    "likes_count": 1363,
+    "likes_count": 1364,
     "created_at": "2015-07-31T14:02:23+09:00",
     "updated_at": "2018-02-06T20:25:59+09:00",
     "id": "cotrpepe"
@@ -114,7 +114,7 @@
   {
     "title": "「SELinuxのせいで動かない」撲滅ガイド",
     "url": "https://qiita.com/yunano/items/857ab36faa0d695573dd",
-    "likes_count": 1007,
+    "likes_count": 1008,
     "created_at": "2015-07-16T09:40:00+09:00",
     "updated_at": "2015-07-19T20:10:51+09:00",
     "id": "yunano"
@@ -154,7 +154,7 @@
   {
     "title": "リーダブルコード要約とリーダブルコード要約の活用方法",
     "url": "https://qiita.com/AKB428/items/20e81ccc8d9998b5535d",
-    "likes_count": 807,
+    "likes_count": 808,
     "created_at": "2015-07-07T01:07:07+09:00",
     "updated_at": "2016-05-06T19:52:36+09:00",
     "id": "AKB428"
@@ -162,7 +162,7 @@
   {
     "title": "色々な git stash",
     "url": "https://qiita.com/akasakas/items/768c0b563b96f8a9be9d",
-    "likes_count": 768,
+    "likes_count": 770,
     "created_at": "2015-07-05T15:11:08+09:00",
     "updated_at": "2017-08-02T15:37:41+09:00",
     "id": "akasakas"
@@ -178,7 +178,7 @@
   {
     "title": "HTML5におけるinput要素のpattern、type属性のおさらい",
     "url": "https://qiita.com/ka215/items/795a179041c705bef03b",
-    "likes_count": 704,
+    "likes_count": 705,
     "created_at": "2015-07-14T15:53:13+09:00",
     "updated_at": "2016-08-30T17:52:57+09:00",
     "id": "ka215"
@@ -418,10 +418,18 @@
   {
     "title": "テキストの縦方向の中央揃えについて",
     "url": "https://qiita.com/Shinji-m/items/69a392685699f3ba95fb",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2015-07-25T01:06:06+09:00",
     "updated_at": "2015-07-30T14:42:25+09:00",
     "id": "Shinji-m"
+  },
+  {
+    "title": "HSTS (HTTP Strict Transport Security) の導入",
+    "url": "https://qiita.com/takoratta/items/fb6b3486257eb7b9f12e",
+    "likes_count": 316,
+    "created_at": "2015-07-01T18:06:32+09:00",
+    "updated_at": "2016-04-22T08:59:03+09:00",
+    "id": "takoratta"
   },
   {
     "title": "MySQL Workbench ER図作成",
@@ -430,14 +438,6 @@
     "created_at": "2015-07-31T22:22:02+09:00",
     "updated_at": "2016-04-27T12:02:06+09:00",
     "id": "noborus"
-  },
-  {
-    "title": "HSTS (HTTP Strict Transport Security) の導入",
-    "url": "https://qiita.com/takoratta/items/fb6b3486257eb7b9f12e",
-    "likes_count": 315,
-    "created_at": "2015-07-01T18:06:32+09:00",
-    "updated_at": "2016-04-22T08:59:03+09:00",
-    "id": "takoratta"
   },
   {
     "title": "【ディープラーニング】ChainerでAutoencoderを試して結果を可視化してみる。",
@@ -546,7 +546,7 @@
   {
     "title": "アルゴリズムまとめ by PHP",
     "url": "https://qiita.com/kiiimiis/items/cf4e1c1aff940ca72b77",
-    "likes_count": 269,
+    "likes_count": 270,
     "created_at": "2015-07-13T20:41:31+09:00",
     "updated_at": "2017-05-06T00:14:10+09:00",
     "id": "kiiimiis"

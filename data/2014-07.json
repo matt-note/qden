@@ -2,7 +2,7 @@
   {
     "title": "何かのときにすっと出したい、プログラミングに関する法則・原則一覧",
     "url": "https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63",
-    "likes_count": 4209,
+    "likes_count": 4210,
     "created_at": "2014-07-21T23:44:04+09:00",
     "updated_at": "2018-02-21T17:53:55+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "Python Django入門 (1)",
     "url": "https://qiita.com/kaki_k/items/511611cadac1d0c69c54",
-    "likes_count": 2104,
+    "likes_count": 2106,
     "created_at": "2014-07-27T00:14:48+09:00",
     "updated_at": "2020-01-09T23:41:21+09:00",
     "id": "kaki_k"
@@ -58,7 +58,7 @@
   {
     "title": "【Git】基本コマンド",
     "url": "https://qiita.com/konweb/items/621722f67fdd8f86a017",
-    "likes_count": 1734,
+    "likes_count": 1735,
     "created_at": "2014-07-12T03:08:15+09:00",
     "updated_at": "2019-06-15T23:17:12+09:00",
     "id": "konweb"
@@ -66,7 +66,7 @@
   {
     "title": "こんなHTMLとCSSのコーディング規約で書きたい",
     "url": "https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3",
-    "likes_count": 1685,
+    "likes_count": 1686,
     "created_at": "2014-07-09T00:29:52+09:00",
     "updated_at": "2020-09-19T19:39:58+09:00",
     "id": "pugiemonn"
@@ -122,7 +122,7 @@
   {
     "title": "MongoDB超入門",
     "url": "https://qiita.com/saba1024/items/f2ad56f2a3ba7aaf8521",
-    "likes_count": 940,
+    "likes_count": 941,
     "created_at": "2014-07-11T01:00:39+09:00",
     "updated_at": "2018-04-03T16:47:21+09:00",
     "id": "saba1024"
@@ -170,7 +170,7 @@
   {
     "title": "あなたのおっしゃるレビューってどのことかしら？",
     "url": "https://qiita.com/mima_ita/items/c3490ad1ccc12ad853f1",
-    "likes_count": 705,
+    "likes_count": 706,
     "created_at": "2014-07-25T00:44:48+09:00",
     "updated_at": "2015-10-17T09:56:14+09:00",
     "id": "mima_ita"
@@ -178,7 +178,7 @@
   {
     "title": "片手間のJavaScriptから脱出するためにこれからのWebエンジニアが理解すべきこと",
     "url": "https://qiita.com/hirokidaichi/items/5758609196291d1edd17",
-    "likes_count": 685,
+    "likes_count": 684,
     "created_at": "2014-07-04T02:32:48+09:00",
     "updated_at": "2019-03-17T00:42:27+09:00",
     "id": "hirokidaichi"
@@ -234,7 +234,7 @@
   {
     "title": "DOMイベントのキャプチャ/バブリングを整理する 〜 JSおくのほそ道 #017",
     "url": "https://qiita.com/hosomichi/items/49500fea5fdf43f59c58",
-    "likes_count": 558,
+    "likes_count": 559,
     "created_at": "2014-07-25T19:58:10+09:00",
     "updated_at": "2018-09-03T11:03:24+09:00",
     "id": "hosomichi"
@@ -376,6 +376,14 @@
     "id": "oggata"
   },
   {
+    "title": "ごく簡単なcmakeの使い方",
+    "url": "https://qiita.com/termoshtt/items/539541c180dfc40a1189",
+    "likes_count": 442,
+    "created_at": "2014-07-14T15:12:37+09:00",
+    "updated_at": "2015-11-08T02:30:37+09:00",
+    "id": "termoshtt"
+  },
+  {
     "title": "Bundler概要",
     "url": "https://qiita.com/hisonl/items/162f70e612e8e96dba50",
     "likes_count": 442,
@@ -384,17 +392,9 @@
     "id": "hisonl"
   },
   {
-    "title": "ごく簡単なcmakeの使い方",
-    "url": "https://qiita.com/termoshtt/items/539541c180dfc40a1189",
-    "likes_count": 441,
-    "created_at": "2014-07-14T15:12:37+09:00",
-    "updated_at": "2015-11-08T02:30:37+09:00",
-    "id": "termoshtt"
-  },
-  {
     "title": "HTML5のお勉強　articleとsectionとか",
     "url": "https://qiita.com/piotzkhider/items/faffbc4a107e7e495998",
-    "likes_count": 433,
+    "likes_count": 432,
     "created_at": "2014-07-31T18:00:09+09:00",
     "updated_at": "2015-10-26T09:38:19+09:00",
     "id": "piotzkhider"
@@ -506,7 +506,7 @@
   {
     "title": "今年からジワジワくる【秘伝】のJavaScript - {ライブラリ系}初回編",
     "url": "https://qiita.com/pollseed/items/5d12113ba10398e81c6a",
-    "likes_count": 367,
+    "likes_count": 366,
     "created_at": "2014-07-14T22:42:52+09:00",
     "updated_at": "2014-07-15T08:47:53+09:00",
     "id": "pollseed"
@@ -522,7 +522,7 @@
   {
     "title": "D3.js を使ってみる",
     "url": "https://qiita.com/ynakayama/items/362049808223c191d252",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2014-07-16T19:37:38+09:00",
     "updated_at": "2016-08-01T10:45:19+09:00",
     "id": "ynakayama"
