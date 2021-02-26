@@ -10,7 +10,7 @@
   {
     "title": "VSCodeでのGitの基本操作まとめ",
     "url": "https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be",
-    "likes_count": 1872,
+    "likes_count": 1875,
     "created_at": "2019-04-15T07:38:11+09:00",
     "updated_at": "2021-02-18T10:46:24+09:00",
     "id": "y-tsutsu"
@@ -26,7 +26,7 @@
   {
     "title": "役割駆動設計で巨大クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/2a378a09638e234d8614",
-    "likes_count": 1465,
+    "likes_count": 1466,
     "created_at": "2019-04-07T11:37:32+09:00",
     "updated_at": "2020-12-07T11:52:46+09:00",
     "id": "MinoDriven"
@@ -42,7 +42,7 @@
   {
     "title": "再帰関数を学ぶと、どんな世界が広がるか",
     "url": "https://qiita.com/drken/items/23a4f604fa3f505dd5ad",
-    "likes_count": 1418,
+    "likes_count": 1420,
     "created_at": "2019-04-04T10:44:13+09:00",
     "updated_at": "2020-08-07T16:31:29+09:00",
     "id": "drken"
@@ -98,7 +98,7 @@
   {
     "title": "Vue.js おすすめライブラリ 21選（おまけ+1）",
     "url": "https://qiita.com/andmorefine/items/bec9cbe9a22c90bd6b43",
-    "likes_count": 811,
+    "likes_count": 812,
     "created_at": "2019-04-14T20:57:02+09:00",
     "updated_at": "2020-05-22T22:26:40+09:00",
     "id": "andmorefine"
@@ -178,10 +178,18 @@
   {
     "title": "グラフ作成のためのチートシートとPythonによる各種グラフの実装",
     "url": "https://qiita.com/4m1t0/items/76b0033edb545a78cef5",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2019-04-06T11:41:20+09:00",
     "updated_at": "2019-11-09T00:29:26+09:00",
     "id": "4m1t0"
+  },
+  {
+    "title": "Flutter開発する前に知っておきたい35のWidget一覧",
+    "url": "https://qiita.com/coka__01/items/dedb569f6357f1b503fd",
+    "likes_count": 551,
+    "created_at": "2019-04-15T08:49:18+09:00",
+    "updated_at": "2020-04-24T10:20:08+09:00",
+    "id": "coka__01"
   },
   {
     "title": "Vue.js to TypeScriptの書き方一覧",
@@ -190,14 +198,6 @@
     "created_at": "2019-04-13T22:02:28+09:00",
     "updated_at": "2019-09-09T10:32:08+09:00",
     "id": "ryo2132"
-  },
-  {
-    "title": "Flutter開発する前に知っておきたい35のWidget一覧",
-    "url": "https://qiita.com/coka__01/items/dedb569f6357f1b503fd",
-    "likes_count": 550,
-    "created_at": "2019-04-15T08:49:18+09:00",
-    "updated_at": "2020-04-24T10:20:08+09:00",
-    "id": "coka__01"
   },
   {
     "title": "Firebaseで完結するリッチなWebアプリ構築の勘所",
@@ -226,7 +226,7 @@
   {
     "title": "冪等性とは「同じ操作を何度繰り返しても、同じ結果が得られる性質」のこと",
     "url": "https://qiita.com/suin/items/316cb8aaf8dfcf11abae",
-    "likes_count": 533,
+    "likes_count": 534,
     "created_at": "2019-04-01T21:14:04+09:00",
     "updated_at": "2020-03-12T13:21:18+09:00",
     "id": "suin"
@@ -266,7 +266,7 @@
   {
     "title": "OAuth アクセストークンの実装に関する考察",
     "url": "https://qiita.com/TakahikoKawasaki/items/970548727761f9e02bcd",
-    "likes_count": 399,
+    "likes_count": 400,
     "created_at": "2019-04-02T19:57:39+09:00",
     "updated_at": "2021-02-02T16:30:04+09:00",
     "id": "TakahikoKawasaki"
@@ -280,20 +280,20 @@
     "id": "ksk001100"
   },
   {
+    "title": "「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜",
+    "url": "https://qiita.com/drken/items/f2ea4b58b0d21621bd51",
+    "likes_count": 377,
+    "created_at": "2019-04-22T10:20:44+09:00",
+    "updated_at": "2020-02-02T12:06:05+09:00",
+    "id": "drken"
+  },
+  {
     "title": "Pythonで競技プログラミング -ライブラリ編-",
     "url": "https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482",
     "likes_count": 376,
     "created_at": "2019-04-03T17:56:52+09:00",
     "updated_at": "2019-04-17T11:21:31+09:00",
     "id": "Kentaro_okumura"
-  },
-  {
-    "title": "「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜",
-    "url": "https://qiita.com/drken/items/f2ea4b58b0d21621bd51",
-    "likes_count": 376,
-    "created_at": "2019-04-22T10:20:44+09:00",
-    "updated_at": "2020-02-02T12:06:05+09:00",
-    "id": "drken"
   },
   {
     "title": "GoでVueっぽくWebアプリが作れるVugu事始め",
@@ -316,7 +316,7 @@
     "url": "https://qiita.com/karaage0703/items/b14c249aa33112669ee4",
     "likes_count": 364,
     "created_at": "2019-04-29T12:51:42+09:00",
-    "updated_at": "2021-02-18T14:12:27+09:00",
+    "updated_at": "2021-02-26T13:26:17+09:00",
     "id": "karaage0703"
   },
   {
