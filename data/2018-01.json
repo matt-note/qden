@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2503,
+    "likes_count": 2504,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1415,
+    "likes_count": 1416,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -74,7 +74,7 @@
   {
     "title": "【秒速で無料GPUを使う】TensorFow(Keras)/PyTorch/Chainer環境構築 on Colaboratory",
     "url": "https://qiita.com/tomo_makes/items/f70fe48c428d3a61e131",
-    "likes_count": 763,
+    "likes_count": 764,
     "created_at": "2018-01-21T13:52:37+09:00",
     "updated_at": "2019-11-16T11:53:25+09:00",
     "id": "tomo_makes"
@@ -258,7 +258,7 @@
   {
     "title": "viコマンド（vimコマンド）リファレンス",
     "url": "https://qiita.com/pe-ta/items/0510bee10bcfd88afeee",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2018-01-23T13:50:14+09:00",
     "updated_at": "2020-04-20T19:10:29+09:00",
     "id": "pe-ta"
@@ -266,7 +266,7 @@
   {
     "title": "anyenv + macOS環境構築",
     "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2018-01-12T14:53:20+09:00",
     "updated_at": "2021-02-09T14:54:39+09:00",
     "id": "rinpa"
@@ -328,20 +328,20 @@
     "id": "bakira"
   },
   {
-    "title": "あまりにも多くのスタートアップがデータ分析するときに犯す４つの失敗パターン",
-    "url": "https://qiita.com/KanNishida/items/b78d60ce0847bfda326b",
-    "likes_count": 361,
-    "created_at": "2018-01-31T00:59:43+09:00",
-    "updated_at": "2018-02-02T15:23:32+09:00",
-    "id": "KanNishida"
-  },
-  {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
+  },
+  {
+    "title": "あまりにも多くのスタートアップがデータ分析するときに犯す４つの失敗パターン",
+    "url": "https://qiita.com/KanNishida/items/b78d60ce0847bfda326b",
+    "likes_count": 360,
+    "created_at": "2018-01-31T00:59:43+09:00",
+    "updated_at": "2018-02-02T15:23:32+09:00",
+    "id": "KanNishida"
   },
   {
     "title": "Railsのファットモデル問題に対処する前に読んでほしい記事",
@@ -402,7 +402,7 @@
   {
     "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
     "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
-    "likes_count": 270,
+    "likes_count": 271,
     "created_at": "2018-01-18T00:36:30+09:00",
     "updated_at": "2019-07-29T19:26:22+09:00",
     "id": "tomov3"
@@ -410,17 +410,9 @@
   {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",
     "url": "https://qiita.com/okoppe8/items/c58bb3faaf26c9e2f27f",
-    "likes_count": 263,
+    "likes_count": 262,
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"
-  },
-  {
-    "title": "Vim / Vi を終了させる方法",
-    "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
-    "likes_count": 257,
-    "created_at": "2018-01-09T22:50:55+09:00",
-    "updated_at": "2019-11-01T09:15:26+09:00",
-    "id": "kon_yu"
   }
 ]

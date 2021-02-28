@@ -42,9 +42,9 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年2月更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 1638,
+    "likes_count": 1639,
     "created_at": "2019-12-20T15:18:16+09:00",
-    "updated_at": "2021-02-08T09:40:35+09:00",
+    "updated_at": "2021-02-28T11:30:23+09:00",
     "id": "kamesennin"
   },
   {
@@ -58,7 +58,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1532,
+    "likes_count": 1533,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2019-12-01T23:11:59+09:00",
     "id": "hirokidaichi"
@@ -82,7 +82,7 @@
   {
     "title": "ラーメンで理解するasync/await",
     "url": "https://qiita.com/7tsuno/items/6d5a27ffe9143b35defe",
-    "likes_count": 1246,
+    "likes_count": 1247,
     "created_at": "2019-12-18T17:52:01+09:00",
     "updated_at": "2019-12-23T11:06:12+09:00",
     "id": "7tsuno"
@@ -122,7 +122,7 @@
   {
     "title": "GoF デザインパターン チートシート",
     "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 951,
+    "likes_count": 952,
     "created_at": "2019-12-24T12:53:20+09:00",
     "updated_at": "2019-12-24T14:49:39+09:00",
     "id": "tanakahisateru"
@@ -130,7 +130,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 943,
+    "likes_count": 945,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -162,7 +162,7 @@
   {
     "title": "数値計算の研究をしている学生が\"数値計算に潜むとんでもないリスク\"について話してみる",
     "url": "https://qiita.com/2754github/items/26a18fe01c8ad221f0ba",
-    "likes_count": 811,
+    "likes_count": 812,
     "created_at": "2019-12-18T00:36:36+09:00",
     "updated_at": "2019-12-25T07:01:58+09:00",
     "id": "2754github"
@@ -242,7 +242,7 @@
   {
     "title": "2019年、俺の読んだ論文50本全部解説(俺的ベスト3付き)",
     "url": "https://qiita.com/wataoka/items/ae782defabc3706b5c93",
-    "likes_count": 605,
+    "likes_count": 606,
     "created_at": "2019-12-30T10:36:08+09:00",
     "updated_at": "2020-12-19T13:58:36+09:00",
     "id": "wataoka"
@@ -264,20 +264,20 @@
     "id": "mizchi"
   },
   {
-    "title": "フロントエンドの情報収集について",
-    "url": "https://qiita.com/toshi-toma/items/cd3cfc40f1dcebfb88c9",
-    "likes_count": 548,
-    "created_at": "2019-12-22T18:18:00+09:00",
-    "updated_at": "2020-07-17T12:01:00+09:00",
-    "id": "toshi-toma"
-  },
-  {
     "title": "TypeScript で書く React コンポーネントを基礎から理解する",
     "url": "https://qiita.com/sangotaro/items/3ea63110517a1b66745b",
-    "likes_count": 547,
+    "likes_count": 551,
     "created_at": "2019-12-19T15:51:39+09:00",
     "updated_at": "2019-12-23T14:36:48+09:00",
     "id": "sangotaro"
+  },
+  {
+    "title": "フロントエンドの情報収集について",
+    "url": "https://qiita.com/toshi-toma/items/cd3cfc40f1dcebfb88c9",
+    "likes_count": 549,
+    "created_at": "2019-12-22T18:18:00+09:00",
+    "updated_at": "2020-07-17T12:01:00+09:00",
+    "id": "toshi-toma"
   },
   {
     "title": "ドメイン駆動設計の比類なきパワーでRailsレガシーコードなど大爆殺したるわあああ！！！",
@@ -370,7 +370,7 @@
   {
     "title": "VSCode で最高の LaTeX 環境を作る",
     "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 453,
+    "likes_count": 456,
     "created_at": "2019-12-16T07:03:05+09:00",
     "updated_at": "2021-01-25T17:32:17+09:00",
     "id": "rainbartown"
@@ -410,7 +410,7 @@
   {
     "title": "AWS初学者が「うっかり課金」されがちなポイントとその対策まとめ",
     "url": "https://qiita.com/Yuji-Ishibashi/items/bb1c0042fd16a9350c5a",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2019-12-01T09:17:57+09:00",
     "updated_at": "2019-12-12T16:36:24+09:00",
     "id": "Yuji-Ishibashi"
