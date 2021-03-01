@@ -2,7 +2,7 @@
   {
     "title": "Gitのコミットメッセージの書き方",
     "url": "https://qiita.com/itosho/items/9565c6ad2ffc24c09364",
-    "likes_count": 4399,
+    "likes_count": 4405,
     "created_at": "2014-11-21T20:52:14+09:00",
     "updated_at": "2016-04-18T16:20:36+09:00",
     "id": "itosho"
@@ -10,7 +10,7 @@
   {
     "title": "なぜ仮想DOMという概念が俺達の魂を震えさせるのか",
     "url": "https://qiita.com/mizchi/items/4d25bc26def1719d52e6",
-    "likes_count": 2770,
+    "likes_count": 2771,
     "created_at": "2014-12-01T08:40:51+09:00",
     "updated_at": "2020-09-22T00:11:23+09:00",
     "id": "mizchi"
@@ -26,7 +26,7 @@
   {
     "title": "Git-flowって何？",
     "url": "https://qiita.com/KosukeSone/items/514dd24828b485c69a05",
-    "likes_count": 1651,
+    "likes_count": 1653,
     "created_at": "2014-11-03T00:58:45+09:00",
     "updated_at": "2016-04-02T16:30:25+09:00",
     "id": "KosukeSone"
@@ -42,7 +42,7 @@
   {
     "title": "使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」",
     "url": "https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5",
-    "likes_count": 1347,
+    "likes_count": 1348,
     "created_at": "2014-11-06T07:20:52+09:00",
     "updated_at": "2020-02-20T22:41:58+09:00",
     "id": "jnchito"
@@ -74,7 +74,7 @@
   {
     "title": "正規表現の基本",
     "url": "https://qiita.com/grrrr/items/7c8811b5cf37d700adc4",
-    "likes_count": 963,
+    "likes_count": 964,
     "created_at": "2014-11-13T00:31:06+09:00",
     "updated_at": "2020-01-22T15:26:05+09:00",
     "id": "grrrr"
@@ -106,7 +106,7 @@
   {
     "title": "アプリのUI設計は「紙でやる」のが早い！",
     "url": "https://qiita.com/flexfirm/items/8dd80f70029ce2c02ee8",
-    "likes_count": 811,
+    "likes_count": 812,
     "created_at": "2014-11-18T21:23:36+09:00",
     "updated_at": "2016-11-25T17:58:39+09:00",
     "id": "flexfirm"
@@ -118,14 +118,6 @@
     "created_at": "2014-11-27T23:45:09+09:00",
     "updated_at": "2014-12-01T15:45:07+09:00",
     "id": "koba04"
-  },
-  {
-    "title": "［初心者向け］こんなときどうする⁉︎ GitのTips31選！",
-    "url": "https://qiita.com/Keisuke69/items/35d60e4e375fc525ccbd",
-    "likes_count": 762,
-    "created_at": "2014-11-28T11:44:00+09:00",
-    "updated_at": "2018-03-16T20:55:21+09:00",
-    "id": "Keisuke69"
   },
   {
     "title": "npm で依存もタスクも一元化する",
@@ -186,7 +178,7 @@
   {
     "title": "日本語Tech系Podcastいろいろ",
     "url": "https://qiita.com/suginoy/items/dada11eef775b883320f",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2014-11-04T03:06:04+09:00",
     "updated_at": "2019-09-10T23:27:07+09:00",
     "id": "suginoy"
@@ -202,7 +194,7 @@
   {
     "title": "bashのヒアドキュメントを活用する",
     "url": "https://qiita.com/take4s5i/items/e207cee4fb04385a9952",
-    "likes_count": 524,
+    "likes_count": 525,
     "created_at": "2014-11-19T15:00:09+09:00",
     "updated_at": "2019-06-04T14:25:29+09:00",
     "id": "take4s5i"
@@ -360,20 +352,20 @@
     "id": "yuwaita"
   },
   {
+    "title": "オブジェクト関係マッピング",
+    "url": "https://qiita.com/yk-nakamura/items/acd071f16cda844579b9",
+    "likes_count": 340,
+    "created_at": "2014-11-20T15:06:21+09:00",
+    "updated_at": "2017-02-28T15:48:26+09:00",
+    "id": "yk-nakamura"
+  },
+  {
     "title": "全部はいらないよね？bootstrap-sassをカスタマイズして使う方法",
     "url": "https://qiita.com/masamitsu-konya/items/e3630046774ac1fbd346",
     "likes_count": 339,
     "created_at": "2014-11-10T19:27:11+09:00",
     "updated_at": "2014-11-10T19:33:02+09:00",
     "id": "masamitsu-konya"
-  },
-  {
-    "title": "オブジェクト関係マッピング",
-    "url": "https://qiita.com/yk-nakamura/items/acd071f16cda844579b9",
-    "likes_count": 339,
-    "created_at": "2014-11-20T15:06:21+09:00",
-    "updated_at": "2017-02-28T15:48:26+09:00",
-    "id": "yk-nakamura"
   },
   {
     "title": "【javascript】やさしいクラスの作り方",
@@ -434,7 +426,7 @@
   {
     "title": "XcodeでiOSアプリ開発をする時の.gitignore",
     "url": "https://qiita.com/ikuwow/items/4fae81a099bf82f44749",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2014-11-02T16:57:58+09:00",
     "updated_at": "2018-02-14T12:49:15+09:00",
     "id": "ikuwow"

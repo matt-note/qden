@@ -10,7 +10,7 @@
   {
     "title": "ReactとVueのどちらを選ぶか",
     "url": "https://qiita.com/yoichiwo7/items/236b6535695ea67b4fbe",
-    "likes_count": 1817,
+    "likes_count": 1818,
     "created_at": "2018-06-16T14:01:19+09:00",
     "updated_at": "2019-06-06T07:16:51+09:00",
     "id": "yoichiwo7"
@@ -26,7 +26,7 @@
   {
     "title": "【スマホOK/実行しながら学ぶ】東大松尾研のデータサイエンティスト育成/ Deep Learning基礎講座を自習する",
     "url": "https://qiita.com/tomo_makes/items/5d6f5860bb793e3b354a",
-    "likes_count": 1455,
+    "likes_count": 1456,
     "created_at": "2018-06-30T17:26:55+09:00",
     "updated_at": "2019-11-16T11:53:06+09:00",
     "id": "tomo_makes"
@@ -122,7 +122,7 @@
   {
     "title": "世のフロントエンドエンジニアにApollo Clientを布教したい",
     "url": "https://qiita.com/seya/items/26c8a0dc549a10efcdf8",
-    "likes_count": 813,
+    "likes_count": 814,
     "created_at": "2018-06-04T07:42:42+09:00",
     "updated_at": "2018-08-27T20:10:22+09:00",
     "id": "seya"
@@ -146,7 +146,7 @@
   {
     "title": "Railsで超簡単API",
     "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 658,
+    "likes_count": 659,
     "created_at": "2018-06-27T16:46:37+09:00",
     "updated_at": "2020-02-24T14:01:49+09:00",
     "id": "k-penguin-sato"
@@ -162,7 +162,7 @@
   {
     "title": "月で絵を描きたいだと？それならpythonに任せなさい🌝",
     "url": "https://qiita.com/wataoka/items/261fc12c956a517049d8",
-    "likes_count": 605,
+    "likes_count": 606,
     "created_at": "2018-06-14T17:55:09+09:00",
     "updated_at": "2020-05-02T15:04:11+09:00",
     "id": "wataoka"
@@ -226,7 +226,7 @@
   {
     "title": "React Nativeの実は使ってはダメなライブラリ素晴らしいライブラリ(随時更新)",
     "url": "https://qiita.com/kaba/items/569aafd80889bb5d9328",
-    "likes_count": 521,
+    "likes_count": 523,
     "created_at": "2018-06-02T16:38:42+09:00",
     "updated_at": "2021-02-19T16:54:17+09:00",
     "id": "kaba"
@@ -272,20 +272,20 @@
     "id": "nowokay"
   },
   {
+    "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
+    "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
+    "likes_count": 435,
+    "created_at": "2018-06-11T22:28:36+09:00",
+    "updated_at": "2019-07-16T14:45:28+09:00",
+    "id": "C3REVE"
+  },
+  {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
     "likes_count": 435,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2018-10-11T13:59:01+09:00",
     "id": "newta"
-  },
-  {
-    "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
-    "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
-    "likes_count": 434,
-    "created_at": "2018-06-11T22:28:36+09:00",
-    "updated_at": "2019-07-16T14:45:28+09:00",
-    "id": "C3REVE"
   },
   {
     "title": "【Vue.js】いつから「フロントエンド開発でTDDができない」と錯覚していた？",
@@ -314,7 +314,7 @@
   {
     "title": "画像の保存を禁止する方法とその回避方法",
     "url": "https://qiita.com/shisama/items/be0e432711de359598ed",
-    "likes_count": 411,
+    "likes_count": 412,
     "created_at": "2018-06-26T01:40:58+09:00",
     "updated_at": "2018-06-26T01:40:58+09:00",
     "id": "shisama"
@@ -322,7 +322,7 @@
   {
     "title": "PyAutoGuiで繰り返し作業をPythonにやらせよう",
     "url": "https://qiita.com/hirohiro77/items/78e26a59c2e45a0fe4e3",
-    "likes_count": 392,
+    "likes_count": 395,
     "created_at": "2018-06-12T14:08:29+09:00",
     "updated_at": "2021-01-05T09:36:14+09:00",
     "id": "hirohiro77"
@@ -346,10 +346,18 @@
   {
     "title": "脆弱性の警告を受けたnpmパッケージの依存関係を力技で直す",
     "url": "https://qiita.com/hibikikudo/items/0af352acac85fce28ec2",
-    "likes_count": 375,
+    "likes_count": 377,
     "created_at": "2018-06-18T16:45:59+09:00",
     "updated_at": "2018-12-17T17:47:00+09:00",
     "id": "hibikikudo"
+  },
+  {
+    "title": "Goにはディレクトリ構成のスタンダードがあるらしい。",
+    "url": "https://qiita.com/sueken/items/87093e5941bfbc09bea8",
+    "likes_count": 359,
+    "created_at": "2018-06-10T21:12:36+09:00",
+    "updated_at": "2018-06-10T21:12:36+09:00",
+    "id": "sueken"
   },
   {
     "title": "python知識ゼロからポケモンの名前でしりとりするslackbotを作ったノウハウのすべて",
@@ -358,14 +366,6 @@
     "created_at": "2018-06-30T19:21:10+09:00",
     "updated_at": "2019-08-19T14:58:01+09:00",
     "id": "wagase"
-  },
-  {
-    "title": "Goにはディレクトリ構成のスタンダードがあるらしい。",
-    "url": "https://qiita.com/sueken/items/87093e5941bfbc09bea8",
-    "likes_count": 357,
-    "created_at": "2018-06-10T21:12:36+09:00",
-    "updated_at": "2018-06-10T21:12:36+09:00",
-    "id": "sueken"
   },
   {
     "title": "個人的にコードリーディングがはかどったテクニックまとめ",
@@ -386,7 +386,7 @@
   {
     "title": "正規化の要点を理解する",
     "url": "https://qiita.com/mochichoco/items/2904384b2856db2bf46c",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2018-06-10T19:21:27+09:00",
     "updated_at": "2020-07-15T18:15:28+09:00",
     "id": "mochichoco"
