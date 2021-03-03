@@ -34,7 +34,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1479,
+    "likes_count": 1481,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -74,7 +74,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1179,
+    "likes_count": 1181,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -82,7 +82,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1092,
+    "likes_count": 1094,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-01-19T22:01:44+09:00",
     "id": "diescake"
@@ -98,7 +98,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1010,
+    "likes_count": 1011,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -106,7 +106,7 @@
   {
     "title": "JavaScriptの概念たち (前編)",
     "url": "https://qiita.com/tsin1rou/items/90576b6c00b895478610",
-    "likes_count": 998,
+    "likes_count": 999,
     "created_at": "2018-12-04T02:39:25+09:00",
     "updated_at": "2018-12-06T10:40:04+09:00",
     "id": "tsin1rou"
@@ -152,20 +152,20 @@
     "id": "_-_-_-_-_"
   },
   {
-    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
-    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 925,
-    "created_at": "2018-12-03T11:08:40+09:00",
-    "updated_at": "2019-02-12T01:34:29+09:00",
-    "id": "drken"
-  },
-  {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 923,
+    "likes_count": 928,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
+  },
+  {
+    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
+    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
+    "likes_count": 927,
+    "created_at": "2018-12-03T11:08:40+09:00",
+    "updated_at": "2019-02-12T01:34:29+09:00",
+    "id": "drken"
   },
   {
     "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
@@ -202,7 +202,7 @@
   {
     "title": "Reactベース静的サイトジェネレータGatsbyの真の力をお見せします",
     "url": "https://qiita.com/uehaj/items/1b7f0a86596353587466",
-    "likes_count": 843,
+    "likes_count": 844,
     "created_at": "2018-12-21T18:18:40+09:00",
     "updated_at": "2021-01-28T18:23:11+09:00",
     "id": "uehaj"
@@ -274,7 +274,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 640,
+    "likes_count": 641,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -458,7 +458,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2020-04-06T23:32:00+09:00",
     "id": "elipmoc101"
@@ -474,7 +474,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2020-02-12T09:28:38+09:00",
     "id": "syantien"
@@ -498,7 +498,7 @@
   {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2018-12-07T17:46:26+09:00",
     "updated_at": "2020-03-18T20:59:40+09:00",
     "id": "yasuabe2613"
@@ -586,7 +586,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -594,7 +594,7 @@
   {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -650,7 +650,7 @@
   {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
@@ -666,7 +666,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 263,
+    "likes_count": 264,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2020-12-24T15:38:26+09:00",
     "id": "_takeshi_24"
@@ -674,7 +674,7 @@
   {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
     "url": "https://qiita.com/Hailee/items/781e33e2474e254fdd7c",
-    "likes_count": 258,
+    "likes_count": 259,
     "created_at": "2018-12-20T16:11:54+09:00",
     "updated_at": "2020-07-14T14:57:29+09:00",
     "id": "Hailee"
@@ -690,7 +690,7 @@
   {
     "title": "エンジニア向けのポートフォリオサイトまとめ",
     "url": "https://qiita.com/turmericN/items/37c3fbe00ee6bbc7e201",
-    "likes_count": 230,
+    "likes_count": 231,
     "created_at": "2018-12-19T08:26:38+09:00",
     "updated_at": "2018-12-21T13:12:59+09:00",
     "id": "turmericN"

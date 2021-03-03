@@ -34,7 +34,7 @@
   {
     "title": "藤井四段で学ぶ最尤推定、MAP推定、ベイズ推定",
     "url": "https://qiita.com/jyori112/items/80b21422b15753a1c5a4",
-    "likes_count": 666,
+    "likes_count": 668,
     "created_at": "2017-06-25T21:21:45+09:00",
     "updated_at": "2020-01-08T03:45:59+09:00",
     "id": "jyori112"
@@ -74,7 +74,7 @@
   {
     "title": "Linuxのパッケージをアップデートしたあとrestartが必要なプロセスを見つける方法",
     "url": "https://qiita.com/usiusi360/items/7b47be9d0ab5b1acd608",
-    "likes_count": 563,
+    "likes_count": 564,
     "created_at": "2017-06-26T09:57:48+09:00",
     "updated_at": "2017-06-28T09:45:33+09:00",
     "id": "usiusi360"
@@ -88,20 +88,20 @@
     "id": "masarufuruya"
   },
   {
+    "title": "ES6のexportについて詳しく調べた",
+    "url": "https://qiita.com/senou/items/a2f7a0f717d8aadabbf7",
+    "likes_count": 543,
+    "created_at": "2017-06-25T19:19:38+09:00",
+    "updated_at": "2020-02-10T08:04:21+09:00",
+    "id": "senou"
+  },
+  {
     "title": "機械学習を学ぶ上で個人的に最強と思う教科書",
     "url": "https://qiita.com/chiral/items/616b98ce6c3c08b8f9b3",
     "likes_count": 542,
     "created_at": "2017-06-14T01:23:30+09:00",
     "updated_at": "2018-02-23T23:50:52+09:00",
     "id": "chiral"
-  },
-  {
-    "title": "ES6のexportについて詳しく調べた",
-    "url": "https://qiita.com/senou/items/a2f7a0f717d8aadabbf7",
-    "likes_count": 542,
-    "created_at": "2017-06-25T19:19:38+09:00",
-    "updated_at": "2020-02-10T08:04:21+09:00",
-    "id": "senou"
   },
   {
     "title": "趣味でディープラーニングするための GPU 環境を安上がりに作る方法",
@@ -138,7 +138,7 @@
   {
     "title": "Slack API 推奨Tokenについて",
     "url": "https://qiita.com/ykhirao/items/3b19ee6a1458cfb4ba21",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2017-06-14T17:25:03+09:00",
     "updated_at": "2019-05-17T11:12:46+09:00",
     "id": "ykhirao"
@@ -154,7 +154,7 @@
   {
     "title": "pyenvのインストール、使い方、pythonのバージョン切り替えできない時の対処法",
     "url": "https://qiita.com/koooooo/items/b21d87ffe2b56d0c589b",
-    "likes_count": 429,
+    "likes_count": 430,
     "created_at": "2017-06-23T03:11:51+09:00",
     "updated_at": "2018-06-28T23:31:26+09:00",
     "id": "koooooo"
@@ -162,7 +162,7 @@
   {
     "title": "あなたはいくつ知っている？Rails I18nの便利機能大全！",
     "url": "https://qiita.com/Kta-M/items/bd4ba36a58ad602a9d8b",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2017-06-26T09:00:29+09:00",
     "updated_at": "2019-04-19T18:05:33+09:00",
     "id": "Kta-M"
@@ -170,7 +170,7 @@
   {
     "title": "Laravel キャッシュクリア系コマンドなど",
     "url": "https://qiita.com/Ping/items/10ada8d069e13d729701",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2017-06-08T18:15:44+09:00",
     "updated_at": "2018-03-22T13:49:36+09:00",
     "id": "Ping"
@@ -216,20 +216,20 @@
     "id": "iwaseasahi"
   },
   {
+    "title": "よく聞くUMLって何？",
+    "url": "https://qiita.com/github129/items/80d39f2f043489033076",
+    "likes_count": 345,
+    "created_at": "2017-06-15T19:51:58+09:00",
+    "updated_at": "2017-06-18T21:59:38+09:00",
+    "id": "github129"
+  },
+  {
     "title": "脆弱性を攻撃してみよう (1) OSコマンドインジェクション (OGNL式インジェクション)",
     "url": "https://qiita.com/tamura__246/items/6307889936d6e7c98403",
     "likes_count": 344,
     "created_at": "2017-06-12T07:27:00+09:00",
     "updated_at": "2017-06-13T20:52:32+09:00",
     "id": "tamura__246"
-  },
-  {
-    "title": "よく聞くUMLって何？",
-    "url": "https://qiita.com/github129/items/80d39f2f043489033076",
-    "likes_count": 344,
-    "created_at": "2017-06-15T19:51:58+09:00",
-    "updated_at": "2017-06-18T21:59:38+09:00",
-    "id": "github129"
   },
   {
     "title": "UIKitのView表示ライフサイクルを理解する",
@@ -266,7 +266,7 @@
   {
     "title": "Kotlin + Architecture Component + Dagger2によるAndroidアプリ設計",
     "url": "https://qiita.com/satorufujiwara/items/0f95ccfc3820d3ee1370",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2017-06-12T09:27:07+09:00",
     "updated_at": "2017-09-13T14:02:55+09:00",
     "id": "satorufujiwara"
