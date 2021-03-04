@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4735,
+    "likes_count": 4737,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -26,7 +26,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2485,
+    "likes_count": 2488,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
     "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 948,
+    "likes_count": 949,
     "created_at": "2018-05-12T11:14:50+09:00",
     "updated_at": "2020-03-07T10:07:41+09:00",
     "id": "y-tsutsu"
@@ -146,7 +146,7 @@
   {
     "title": "「データ視覚化のデザイン #1」をmatplotlibで実装する",
     "url": "https://qiita.com/skotaro/items/cdb0732ad1ad2a4b6236",
-    "likes_count": 713,
+    "likes_count": 714,
     "created_at": "2018-05-24T07:06:47+09:00",
     "updated_at": "2018-06-06T21:09:06+09:00",
     "id": "skotaro"
@@ -162,7 +162,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 669,
+    "likes_count": 670,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -248,6 +248,14 @@
     "id": "KanNishida"
   },
   {
+    "title": "docker と docker-compose の初歩",
+    "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
+    "likes_count": 575,
+    "created_at": "2018-05-26T16:12:48+09:00",
+    "updated_at": "2020-09-03T15:39:51+09:00",
+    "id": "hiyuzawa"
+  },
+  {
     "title": "皆さんはどんな方法で情報収集してますか？私はこんな感じです。",
     "url": "https://qiita.com/minakawa-daiki/items/edfc3d1ff1270756b52a",
     "likes_count": 574,
@@ -256,17 +264,9 @@
     "id": "minakawa-daiki"
   },
   {
-    "title": "docker と docker-compose の初歩",
-    "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 574,
-    "created_at": "2018-05-26T16:12:48+09:00",
-    "updated_at": "2020-09-03T15:39:51+09:00",
-    "id": "hiyuzawa"
-  },
-  {
     "title": "GitFlowをやめて本番リリースが楽になった話",
     "url": "https://qiita.com/koyopro/items/b4569285efc22c6397c6",
-    "likes_count": 570,
+    "likes_count": 571,
     "created_at": "2018-05-13T09:53:45+09:00",
     "updated_at": "2018-06-10T14:48:56+09:00",
     "id": "koyopro"
@@ -370,7 +370,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 464,
+    "likes_count": 465,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -410,7 +410,7 @@
   {
     "title": "FizzBuzz Zero ―― 人類の知識なしでFizzBuzzをマスターする",
     "url": "https://qiita.com/ymg_aq/items/d276357823f5b2ce46c5",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2018-05-10T17:14:38+09:00",
     "updated_at": "2018-05-12T09:45:02+09:00",
     "id": "ymg_aq"
@@ -418,7 +418,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 398,
+    "likes_count": 400,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -474,7 +474,7 @@
   {
     "title": "知識0から統計検定2級取得を目指した話",
     "url": "https://qiita.com/akiyoshi_sasaki/items/8e4d7895f2647e22b5f9",
-    "likes_count": 313,
+    "likes_count": 314,
     "created_at": "2018-05-11T11:45:56+09:00",
     "updated_at": "2020-04-17T11:40:05+09:00",
     "id": "akiyoshi_sasaki"
@@ -506,7 +506,7 @@
   {
     "title": "PWAをもっと簡単に初めてみる",
     "url": "https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474",
-    "likes_count": 288,
+    "likes_count": 289,
     "created_at": "2018-05-13T23:19:26+09:00",
     "updated_at": "2021-02-21T14:44:36+09:00",
     "id": "poster-keisuke"

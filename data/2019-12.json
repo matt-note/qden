@@ -34,7 +34,7 @@
   {
     "title": "【Webエンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた",
     "url": "https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f",
-    "likes_count": 1698,
+    "likes_count": 1699,
     "created_at": "2019-12-21T16:51:08+09:00",
     "updated_at": "2020-12-25T09:57:29+09:00",
     "id": "JunyaShibato"
@@ -42,7 +42,7 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年2月更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 1642,
+    "likes_count": 1645,
     "created_at": "2019-12-20T15:18:16+09:00",
     "updated_at": "2021-02-28T11:30:23+09:00",
     "id": "kamesennin"
@@ -106,7 +106,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1051,
+    "likes_count": 1053,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -122,7 +122,7 @@
   {
     "title": "GoF デザインパターン チートシート",
     "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 957,
+    "likes_count": 958,
     "created_at": "2019-12-24T12:53:20+09:00",
     "updated_at": "2019-12-24T14:49:39+09:00",
     "id": "tanakahisateru"
@@ -130,7 +130,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 949,
+    "likes_count": 952,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -146,7 +146,7 @@
   {
     "title": "2020 年の Python パッケージ管理ベストプラクティス",
     "url": "https://qiita.com/sk217/items/43c994640f4843a18dbe",
-    "likes_count": 826,
+    "likes_count": 827,
     "created_at": "2019-12-15T17:09:53+09:00",
     "updated_at": "2020-05-17T18:18:50+09:00",
     "id": "sk217"
@@ -210,7 +210,7 @@
   {
     "title": "YouTuberから学ぶデータサイエンスまとめ。海外チャンネル多め。",
     "url": "https://qiita.com/Hyperion13fleet/items/5cedaca97fc8fa0706a2",
-    "likes_count": 663,
+    "likes_count": 664,
     "created_at": "2019-12-17T15:05:44+09:00",
     "updated_at": "2019-12-19T12:33:39+09:00",
     "id": "Hyperion13fleet"
@@ -282,7 +282,7 @@
   {
     "title": "ドメイン駆動設計の比類なきパワーでRailsレガシーコードなど大爆殺したるわあああ！！！",
     "url": "https://qiita.com/MinoDriven/items/3c7db287e2c66f36589a",
-    "likes_count": 525,
+    "likes_count": 527,
     "created_at": "2019-12-12T11:28:00+09:00",
     "updated_at": "2020-12-07T11:53:28+09:00",
     "id": "MinoDriven"
@@ -338,7 +338,7 @@
   {
     "title": "学生の個人開発にもFlutterがオススメな理由（リリース例あり）",
     "url": "https://qiita.com/tetsufe/items/a189034dc17e0059d391",
-    "likes_count": 478,
+    "likes_count": 480,
     "created_at": "2019-12-05T15:31:03+09:00",
     "updated_at": "2020-12-17T17:59:18+09:00",
     "id": "tetsufe"
@@ -370,7 +370,7 @@
   {
     "title": "VSCode で最高の LaTeX 環境を作る",
     "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 456,
+    "likes_count": 458,
     "created_at": "2019-12-16T07:03:05+09:00",
     "updated_at": "2021-01-25T17:32:17+09:00",
     "id": "rainbartown"
@@ -416,6 +416,14 @@
     "id": "Yuji-Ishibashi"
   },
   {
+    "title": "Kaggleコード遺産",
+    "url": "https://qiita.com/kaggle_master-arai-san/items/d59b2fb7142ec7e270a5",
+    "likes_count": 362,
+    "created_at": "2019-12-13T01:03:32+09:00",
+    "updated_at": "2019-12-13T01:03:32+09:00",
+    "id": "kaggle_master-arai-san"
+  },
+  {
     "title": "物体検出について読むならこれ！",
     "url": "https://qiita.com/shinya7y/items/9fed4d0652e8e7c3128a",
     "likes_count": 361,
@@ -446,14 +454,6 @@
     "created_at": "2019-12-18T01:55:16+09:00",
     "updated_at": "2020-08-12T00:53:11+09:00",
     "id": "nakazax"
-  },
-  {
-    "title": "Kaggleコード遺産",
-    "url": "https://qiita.com/kaggle_master-arai-san/items/d59b2fb7142ec7e270a5",
-    "likes_count": 347,
-    "created_at": "2019-12-13T01:03:32+09:00",
-    "updated_at": "2019-12-13T01:03:32+09:00",
-    "id": "kaggle_master-arai-san"
   },
   {
     "title": "font-familyについて本気で考えてみた",
@@ -490,7 +490,7 @@
   {
     "title": "Vue/Nuxt開発効率を3倍にするVSCode拡張機能セット",
     "url": "https://qiita.com/newt0/items/aeddc6a179ea3a464ed5",
-    "likes_count": 279,
+    "likes_count": 280,
     "created_at": "2019-12-04T13:57:15+09:00",
     "updated_at": "2021-01-05T13:28:30+09:00",
     "id": "newt0"
@@ -498,7 +498,7 @@
   {
     "title": "28歳、一念発起して未経験からデータサイエンティストを志した2年間の軌跡",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/5b0956ceb1d7a3cb2d97",
-    "likes_count": 275,
+    "likes_count": 276,
     "created_at": "2019-12-31T23:16:18+09:00",
     "updated_at": "2020-01-06T18:33:15+09:00",
     "id": "toshiyuki_tsutsui"
