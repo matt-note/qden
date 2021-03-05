@@ -34,7 +34,7 @@
   {
     "title": "エンジニアが転職する時に考えることを採用面接官をしてる立場から書いてみた",
     "url": "https://qiita.com/newta/items/9620056bb991f4b0f03d",
-    "likes_count": 955,
+    "likes_count": 956,
     "created_at": "2017-11-03T22:03:55+09:00",
     "updated_at": "2018-01-17T00:42:27+09:00",
     "id": "newta"
@@ -130,7 +130,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 608,
+    "likes_count": 609,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2018-07-15T15:52:26+09:00",
     "id": "ryouzi"
@@ -162,7 +162,7 @@
   {
     "title": "なぜオブジェクト指向は難しいのか",
     "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 568,
+    "likes_count": 569,
     "created_at": "2017-11-16T01:47:45+09:00",
     "updated_at": "2021-01-05T10:16:02+09:00",
     "id": "tutinoco"
@@ -184,20 +184,20 @@
     "id": "YukiMiyatake"
   },
   {
+    "title": "1時間でLINE BOTを作るハンズオン (資料+レポート) in Node学園祭2017 #nodefest",
+    "url": "https://qiita.com/n0bisuke/items/ceaa09ef8898bee8369d",
+    "likes_count": 521,
+    "created_at": "2017-11-26T16:22:19+09:00",
+    "updated_at": "2020-06-14T21:52:31+09:00",
+    "id": "n0bisuke"
+  },
+  {
     "title": "個人プロダクト開発で、困った時にどうするか",
     "url": "https://qiita.com/eri/items/d8e16aa5ad11a9bbcaef",
     "likes_count": 521,
     "created_at": "2017-11-30T23:52:52+09:00",
     "updated_at": "2017-12-01T11:03:10+09:00",
     "id": "eri"
-  },
-  {
-    "title": "1時間でLINE BOTを作るハンズオン (資料+レポート) in Node学園祭2017 #nodefest",
-    "url": "https://qiita.com/n0bisuke/items/ceaa09ef8898bee8369d",
-    "likes_count": 520,
-    "created_at": "2017-11-26T16:22:19+09:00",
-    "updated_at": "2020-06-14T21:52:31+09:00",
-    "id": "n0bisuke"
   },
   {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
@@ -226,7 +226,7 @@
   {
     "title": "draw.ioでAWSのインフラ構成図を書く",
     "url": "https://qiita.com/nave-m/items/68425f476b254a1a47b0",
-    "likes_count": 500,
+    "likes_count": 501,
     "created_at": "2017-11-12T18:58:16+09:00",
     "updated_at": "2019-11-16T10:19:26+09:00",
     "id": "nave-m"
@@ -250,7 +250,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 463,
+    "likes_count": 465,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -258,7 +258,7 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 461,
+    "likes_count": 462,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
@@ -322,7 +322,7 @@
   {
     "title": "Istio入門 その1 -Istioとは?-",
     "url": "https://qiita.com/Ladicle/items/979d59ef0303425752c8",
-    "likes_count": 394,
+    "likes_count": 396,
     "created_at": "2017-11-27T00:06:48+09:00",
     "updated_at": "2019-02-25T22:43:07+09:00",
     "id": "Ladicle"
@@ -354,7 +354,7 @@
   {
     "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",
     "url": "https://qiita.com/teradonburi/items/c4cbd7dd5b4810e1a3a9",
-    "likes_count": 369,
+    "likes_count": 370,
     "created_at": "2017-11-23T17:42:03+09:00",
     "updated_at": "2019-02-20T15:26:01+09:00",
     "id": "teradonburi"
@@ -386,7 +386,7 @@
   {
     "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
     "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
-    "likes_count": 340,
+    "likes_count": 341,
     "created_at": "2017-11-28T16:30:16+09:00",
     "updated_at": "2019-01-08T16:43:01+09:00",
     "id": "ryouzi"
@@ -410,7 +410,7 @@
   {
     "title": "Haskellの入門から中級者になるまでの指針",
     "url": "https://qiita.com/Lugendre/items/70e517e59698e0e435f5",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2017-11-05T20:00:59+09:00",
     "updated_at": "2017-11-07T13:52:21+09:00",
     "id": "Lugendre"
