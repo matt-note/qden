@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4517,
+    "likes_count": 4518,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3247,
+    "likes_count": 3249,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2517,
+    "likes_count": 2518,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-01-17T17:08:07+09:00",
     "id": "piroor"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2013,
+    "likes_count": 2014,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -112,20 +112,20 @@
     "id": "taizan"
   },
   {
+    "title": "kubernetes初心者のための入門ハンズオン",
+    "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
+    "likes_count": 1025,
+    "created_at": "2016-12-10T00:01:31+09:00",
+    "updated_at": "2020-12-05T20:23:32+09:00",
+    "id": "mihirat"
+  },
+  {
     "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
     "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
     "likes_count": 1025,
     "created_at": "2016-12-15T19:53:31+09:00",
     "updated_at": "2017-01-09T03:54:13+09:00",
     "id": "joker1007"
-  },
-  {
-    "title": "kubernetes初心者のための入門ハンズオン",
-    "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
-    "likes_count": 1024,
-    "created_at": "2016-12-10T00:01:31+09:00",
-    "updated_at": "2020-12-05T20:23:32+09:00",
-    "id": "mihirat"
   },
   {
     "title": "Webhookとは？",
@@ -178,7 +178,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -242,7 +242,7 @@
   {
     "title": "SELinux を使おう．使ってくれ．",
     "url": "https://qiita.com/chi9rin/items/af532d0dd9237cc65741",
-    "likes_count": 625,
+    "likes_count": 626,
     "created_at": "2016-12-22T00:00:59+09:00",
     "updated_at": "2017-01-08T12:51:46+09:00",
     "id": "chi9rin"
@@ -298,7 +298,7 @@
   {
     "title": "原理原則で理解するDocker",
     "url": "https://qiita.com/tajima_taso/items/28938415846dcc2e83ff",
-    "likes_count": 589,
+    "likes_count": 590,
     "created_at": "2016-12-23T06:40:30+09:00",
     "updated_at": "2016-12-26T12:42:54+09:00",
     "id": "tajima_taso"
@@ -306,7 +306,7 @@
   {
     "title": "Gitのブランチモデルについて",
     "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 579,
+    "likes_count": 580,
     "created_at": "2016-12-05T00:04:34+09:00",
     "updated_at": "2016-12-05T00:12:43+09:00",
     "id": "y-okudera"
@@ -554,7 +554,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 393,
+    "likes_count": 392,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -690,7 +690,7 @@
   {
     "title": "firebase realtime database でよく使う rule",
     "url": "https://qiita.com/mironal/items/b93742e8ef72b3268beb",
-    "likes_count": 313,
+    "likes_count": 312,
     "created_at": "2016-12-05T00:00:54+09:00",
     "updated_at": "2017-11-08T09:14:32+09:00",
     "id": "mironal"
