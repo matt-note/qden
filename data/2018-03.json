@@ -2,7 +2,7 @@
   {
     "title": "AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～",
     "url": "https://qiita.com/drken/items/fd4e5e3630d0f5859067",
-    "likes_count": 5573,
+    "likes_count": 5577,
     "created_at": "2018-03-13T08:55:49+09:00",
     "updated_at": "2021-01-24T23:50:56+09:00",
     "id": "drken"
@@ -44,8 +44,16 @@
     "url": "https://qiita.com/takjg/items/e6b8af53421be54b62c9",
     "likes_count": 1221,
     "created_at": "2018-03-24T20:16:17+09:00",
-    "updated_at": "2020-04-06T09:26:32+09:00",
+    "updated_at": "2021-03-07T12:40:35+09:00",
     "id": "takjg"
+  },
+  {
+    "title": "[Python] Djangoチュートリアル - 汎用業務Webアプリを最速で作る",
+    "url": "https://qiita.com/okoppe8/items/54eb105c9c94c0960f14",
+    "likes_count": 1162,
+    "created_at": "2018-03-09T10:52:00+09:00",
+    "updated_at": "2018-11-27T14:19:29+09:00",
+    "id": "okoppe8"
   },
   {
     "title": "20代エンジニアの成長を阻む7つのパターン（まとめ記事）",
@@ -56,17 +64,9 @@
     "id": "Akira-Isegawa"
   },
   {
-    "title": "[Python] Djangoチュートリアル - 汎用業務Webアプリを最速で作る",
-    "url": "https://qiita.com/okoppe8/items/54eb105c9c94c0960f14",
-    "likes_count": 1161,
-    "created_at": "2018-03-09T10:52:00+09:00",
-    "updated_at": "2018-11-27T14:19:29+09:00",
-    "id": "okoppe8"
-  },
-  {
     "title": "フロントエンド全然わからないマンが、ちょっとでも見た目のいいWebサービスを作ろうとしてやったこと",
     "url": "https://qiita.com/liukoki/items/8a6cd4543e7e7e906461",
-    "likes_count": 1031,
+    "likes_count": 1032,
     "created_at": "2018-03-21T23:32:13+09:00",
     "updated_at": "2018-03-25T12:46:21+09:00",
     "id": "liukoki"
@@ -82,7 +82,7 @@
   {
     "title": "AtCoder コンテストについての tips",
     "url": "https://qiita.com/drken/items/8a6f139158cde8a61dce",
-    "likes_count": 883,
+    "likes_count": 885,
     "created_at": "2018-03-13T11:08:24+09:00",
     "updated_at": "2020-03-15T16:03:21+09:00",
     "id": "drken"
@@ -114,7 +114,7 @@
   {
     "title": "コンテナ・デザイン・パターンの論文要約　",
     "url": "https://qiita.com/MahoTakara/items/03fc0afe29379026c1f3",
-    "likes_count": 836,
+    "likes_count": 837,
     "created_at": "2018-03-07T00:36:01+09:00",
     "updated_at": "2020-07-27T06:40:13+09:00",
     "id": "MahoTakara"
@@ -242,7 +242,7 @@
   {
     "title": "テストカバレッジ100%を追求しても品質は高くならない理由と推奨されるカバレッジの目標値について",
     "url": "https://qiita.com/bremen/items/d02eb38e790b93f44728",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2018-03-03T20:16:25+09:00",
     "updated_at": "2018-05-17T23:37:42+09:00",
     "id": "bremen"
@@ -258,7 +258,7 @@
   {
     "title": "GANについて概念から実装まで　～DCGANによるキルミーベイベー生成～",
     "url": "https://qiita.com/taku-buntu/items/0093a68bfae0b0ff879d",
-    "likes_count": 523,
+    "likes_count": 524,
     "created_at": "2018-03-14T19:02:25+09:00",
     "updated_at": "2019-06-13T11:56:06+09:00",
     "id": "taku-buntu"
@@ -298,7 +298,7 @@
   {
     "title": "npm入門",
     "url": "https://qiita.com/maitake9116/items/7825d90c09f3e2f87dea",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2018-03-29T12:40:11+09:00",
     "updated_at": "2018-05-31T12:00:33+09:00",
     "id": "maitake9116"
@@ -322,7 +322,7 @@
   {
     "title": "LaravelからVue.jsを使う最短レシピ",
     "url": "https://qiita.com/fruitriin/items/e0f2c9aa035c3ff2c874",
-    "likes_count": 407,
+    "likes_count": 408,
     "created_at": "2018-03-25T22:48:19+09:00",
     "updated_at": "2020-05-25T13:51:52+09:00",
     "id": "fruitriin"
@@ -392,20 +392,20 @@
     "id": "tsuchinoko_run"
   },
   {
+    "title": "pythonでsocket通信を勉強しよう",
+    "url": "https://qiita.com/__init__/items/5c89fa5b37b8c5ed32a4",
+    "likes_count": 339,
+    "created_at": "2018-03-12T20:35:52+09:00",
+    "updated_at": "2020-05-05T05:37:10+09:00",
+    "id": "__init__"
+  },
+  {
     "title": "日本のオンライン勉強会のまとめ",
     "url": "https://qiita.com/hiroga/items/1434380a8bddce2febbc",
     "likes_count": 339,
     "created_at": "2018-03-25T15:39:11+09:00",
     "updated_at": "2019-10-17T08:55:29+09:00",
     "id": "hiroga"
-  },
-  {
-    "title": "pythonでsocket通信を勉強しよう",
-    "url": "https://qiita.com/__init__/items/5c89fa5b37b8c5ed32a4",
-    "likes_count": 338,
-    "created_at": "2018-03-12T20:35:52+09:00",
-    "updated_at": "2020-05-05T05:37:10+09:00",
-    "id": "__init__"
   },
   {
     "title": "Visual Studio Code の初期設定と最低限必要な拡張機能 - フロントエンド向け -",
@@ -458,7 +458,7 @@
   {
     "title": "超軽量、超高速な配布用Python「embeddable python」",
     "url": "https://qiita.com/mm_sys/items/1fd3a50a930dac3db299",
-    "likes_count": 281,
+    "likes_count": 282,
     "created_at": "2018-03-22T10:58:56+09:00",
     "updated_at": "2020-11-21T12:05:45+09:00",
     "id": "mm_sys"

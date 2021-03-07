@@ -2,7 +2,7 @@
   {
     "title": "TypeScriptの型入門",
     "url": "https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a",
-    "likes_count": 3342,
+    "likes_count": 3348,
     "created_at": "2018-02-16T23:41:39+09:00",
     "updated_at": "2020-09-12T12:00:54+09:00",
     "id": "uhyo"
@@ -18,7 +18,7 @@
   {
     "title": "AtCoder 版！蟻本 (初級編)",
     "url": "https://qiita.com/drken/items/e77685614f3c6bf86f44",
-    "likes_count": 2198,
+    "likes_count": 2203,
     "created_at": "2018-02-20T10:13:31+09:00",
     "updated_at": "2020-10-27T19:58:26+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "タイムゾーン呪いの書",
     "url": "https://qiita.com/dmikurube/items/15899ec9de643e91497c",
-    "likes_count": 1603,
+    "likes_count": 1604,
     "created_at": "2018-02-06T10:55:15+09:00",
     "updated_at": "2018-08-25T14:12:54+09:00",
     "id": "dmikurube"
@@ -98,7 +98,7 @@
   {
     "title": "ビット演算 (bit 演算) の使い方を総特集！ 〜 マスクビットから bit DP まで 〜",
     "url": "https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361",
-    "likes_count": 1262,
+    "likes_count": 1263,
     "created_at": "2018-02-19T08:42:14+09:00",
     "updated_at": "2020-11-06T15:58:48+09:00",
     "id": "drken"
@@ -112,6 +112,14 @@
     "id": "yugui"
   },
   {
+    "title": "Prettier 入門 ～ESLintとの違いを理解して併用する～",
+    "url": "https://qiita.com/soarflat/items/06377f3b96964964a65d",
+    "likes_count": 1144,
+    "created_at": "2018-02-22T01:46:10+09:00",
+    "updated_at": "2021-02-25T19:47:17+09:00",
+    "id": "soarflat"
+  },
+  {
     "title": "「中年の危機」ど真ん中のオッサンがWEBサービス作ってみた。",
     "url": "https://qiita.com/hiroz31/items/d7f2f9b7d02f9be1ca92",
     "likes_count": 1142,
@@ -120,17 +128,9 @@
     "id": "hiroz31"
   },
   {
-    "title": "Prettier 入門 ～ESLintとの違いを理解して併用する～",
-    "url": "https://qiita.com/soarflat/items/06377f3b96964964a65d",
-    "likes_count": 1142,
-    "created_at": "2018-02-22T01:46:10+09:00",
-    "updated_at": "2021-02-25T19:47:17+09:00",
-    "id": "soarflat"
-  },
-  {
     "title": "Slack Botの種類と大まかな作り方",
     "url": "https://qiita.com/namutaka/items/233a83100c94af033575",
-    "likes_count": 998,
+    "likes_count": 999,
     "created_at": "2018-02-17T22:05:23+09:00",
     "updated_at": "2019-11-05T10:59:41+09:00",
     "id": "namutaka"
@@ -160,14 +160,6 @@
     "id": "ikasamah"
   },
   {
-    "title": "軽い気持ちでLinkedListを使ったら休出する羽目になった話",
-    "url": "https://qiita.com/neko_machi/items/d620c4a8958e74df3550",
-    "likes_count": 768,
-    "created_at": "2018-02-18T18:34:08+09:00",
-    "updated_at": "2018-02-28T21:59:24+09:00",
-    "id": "neko_machi"
-  },
-  {
     "title": "React Redux の SPA を運用して得られた知見と実装例、開発フローもあるよ！",
     "url": "https://qiita.com/numanomanu/items/af97312f34cf1388cee6",
     "likes_count": 767,
@@ -176,9 +168,17 @@
     "id": "numanomanu"
   },
   {
+    "title": "軽い気持ちでLinkedListを使ったら休出する羽目になった話",
+    "url": "https://qiita.com/neko_machi/items/d620c4a8958e74df3550",
+    "likes_count": 767,
+    "created_at": "2018-02-18T18:34:08+09:00",
+    "updated_at": "2018-02-28T21:59:24+09:00",
+    "id": "neko_machi"
+  },
+  {
     "title": "Firebase Cloud Firestoreの使い方",
     "url": "https://qiita.com/subaru44k/items/a88e638333b8d5cc29f2",
-    "likes_count": 739,
+    "likes_count": 740,
     "created_at": "2018-02-24T18:44:49+09:00",
     "updated_at": "2020-12-06T22:33:53+09:00",
     "id": "subaru44k"
@@ -210,7 +210,7 @@
   {
     "title": "今さら聞けないGAN（1）　基本構造の理解",
     "url": "https://qiita.com/triwave33/items/1890ccc71fab6cbca87e",
-    "likes_count": 638,
+    "likes_count": 639,
     "created_at": "2018-02-18T14:53:51+09:00",
     "updated_at": "2019-04-12T20:51:37+09:00",
     "id": "triwave33"
@@ -242,7 +242,7 @@
   {
     "title": "UTF-8からSJISに文字化けすると糸偏の漢字がよく出てくる",
     "url": "https://qiita.com/kaityo256/items/878cbe35d4c8444b045a",
-    "likes_count": 571,
+    "likes_count": 570,
     "created_at": "2018-02-15T00:32:51+09:00",
     "updated_at": "2018-02-20T15:54:40+09:00",
     "id": "kaityo256"
@@ -346,7 +346,7 @@
   {
     "title": "Ruby on Rails+ReactでCRUDを実装してみた",
     "url": "https://qiita.com/yoshimo123/items/9aa8dae1d40d523d7e5d",
-    "likes_count": 332,
+    "likes_count": 333,
     "created_at": "2018-02-17T13:56:20+09:00",
     "updated_at": "2019-02-28T18:44:05+09:00",
     "id": "yoshimo123"
@@ -362,7 +362,7 @@
   {
     "title": "遅くまで会社にいたら自動で「帰り遅くなる」とメールする",
     "url": "https://qiita.com/ikechan/items/5e4bf2b9868d0d804af5",
-    "likes_count": 323,
+    "likes_count": 322,
     "created_at": "2018-02-25T22:30:16+09:00",
     "updated_at": "2018-02-25T22:48:02+09:00",
     "id": "ikechan"
@@ -418,7 +418,7 @@
   {
     "title": "npm よく使うコマンドまとめ",
     "url": "https://qiita.com/standard-software/items/2ac49a409688733c90e7",
-    "likes_count": 238,
+    "likes_count": 239,
     "created_at": "2018-02-21T16:53:17+09:00",
     "updated_at": "2020-10-13T23:08:43+09:00",
     "id": "standard-software"
