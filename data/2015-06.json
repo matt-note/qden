@@ -10,7 +10,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3137,
+    "likes_count": 3138,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2018-10-01T16:44:21+09:00",
     "id": "ryounagaoka"
@@ -18,7 +18,7 @@
   {
     "title": "出来る限り短く説明するReact.js入門",
     "url": "https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19",
-    "likes_count": 2015,
+    "likes_count": 2016,
     "created_at": "2015-06-21T23:39:15+09:00",
     "updated_at": "2021-02-12T09:02:15+09:00",
     "id": "rgbkids"
@@ -58,7 +58,7 @@
   {
     "title": "Qiitaの数式チートシート",
     "url": "https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada",
-    "likes_count": 1371,
+    "likes_count": 1373,
     "created_at": "2015-06-14T01:44:10+09:00",
     "updated_at": "2021-03-02T09:29:21+09:00",
     "id": "PlanetMeron"
@@ -82,7 +82,7 @@
   {
     "title": "IT業界で横行する恥ずかしい英語発音",
     "url": "https://qiita.com/ryounagaoka/items/290885ee3291b393fe1f",
-    "likes_count": 1160,
+    "likes_count": 1163,
     "created_at": "2015-06-12T02:03:36+09:00",
     "updated_at": "2018-04-08T23:52:59+09:00",
     "id": "ryounagaoka"
@@ -90,7 +90,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1091,
+    "likes_count": 1093,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -170,10 +170,18 @@
   {
     "title": "良いコードを書く技術（まとめ）",
     "url": "https://qiita.com/NoriakiOshita/items/e60ab5bb01b90d927ae5",
-    "likes_count": 674,
+    "likes_count": 675,
     "created_at": "2015-06-18T23:40:21+09:00",
     "updated_at": "2021-02-05T07:38:16+09:00",
     "id": "NoriakiOshita"
+  },
+  {
+    "title": "Chocolateyを使った環境構築の時のメモ",
+    "url": "https://qiita.com/konta220/items/95b40b4647a737cb51aa",
+    "likes_count": 635,
+    "created_at": "2015-06-18T15:16:42+09:00",
+    "updated_at": "2020-11-10T21:33:47+09:00",
+    "id": "konta220"
   },
   {
     "title": "React.jsではなくRiot.jsを採用した話、運用中サービス『GAMY』でリニューアル",
@@ -182,14 +190,6 @@
     "created_at": "2015-06-16T11:58:32+09:00",
     "updated_at": "2016-10-13T12:03:28+09:00",
     "id": "narikei"
-  },
-  {
-    "title": "Chocolateyを使った環境構築の時のメモ",
-    "url": "https://qiita.com/konta220/items/95b40b4647a737cb51aa",
-    "likes_count": 632,
-    "created_at": "2015-06-18T15:16:42+09:00",
-    "updated_at": "2020-11-10T21:33:47+09:00",
-    "id": "konta220"
   },
   {
     "title": "誰でも無料でiPhoneの実機を使ってiOSアプリ開発する方法",
@@ -250,7 +250,7 @@
   {
     "title": "AWS 月額料金チートシート",
     "url": "https://qiita.com/jyotti/items/d47b52fa13d12476406f",
-    "likes_count": 485,
+    "likes_count": 486,
     "created_at": "2015-06-08T18:24:16+09:00",
     "updated_at": "2018-02-21T01:04:03+09:00",
     "id": "jyotti"
@@ -370,7 +370,7 @@
   {
     "title": "Railsでdeviseひとつで複数モデルを管理しよう",
     "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2015-06-27T22:31:44+09:00",
     "updated_at": "2015-06-27T22:34:35+09:00",
     "id": "Yama-to"
@@ -482,7 +482,7 @@
   {
     "title": "Qiita/Github/Slack/Discord 絵文字一覧",
     "url": "https://qiita.com/yamadashy/items/ae673f2bae8f1525b6af",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2015-06-16T22:26:16+09:00",
     "updated_at": "2018-11-21T15:45:06+09:00",
     "id": "yamadashy"

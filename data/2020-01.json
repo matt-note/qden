@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4044,
+    "likes_count": 4047,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2020-07-17T22:02:22+09:00",
     "id": "Saku731"
@@ -18,7 +18,7 @@
   {
     "title": "【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】",
     "url": "https://qiita.com/sukebeeeeei/items/76ce249ed264b8acc5f8",
-    "likes_count": 2779,
+    "likes_count": 2780,
     "created_at": "2020-01-05T11:50:44+09:00",
     "updated_at": "2020-05-02T18:21:06+09:00",
     "id": "sukebeeeeei"
@@ -42,7 +42,7 @@
   {
     "title": "EC2でブログを立ち上げた途端に来た、怪しい攻撃たち",
     "url": "https://qiita.com/KMim/items/60c1ce893c09872acd15",
-    "likes_count": 1825,
+    "likes_count": 1826,
     "created_at": "2020-01-15T12:39:21+09:00",
     "updated_at": "2020-02-18T09:06:49+09:00",
     "id": "KMim"
@@ -146,7 +146,7 @@
   {
     "title": "AWSアカウントを作成したら最初にやるべきこと -セキュリティ編-",
     "url": "https://qiita.com/yanyansk/items/3a989b70d2d3d49eff16",
-    "likes_count": 834,
+    "likes_count": 835,
     "created_at": "2020-01-15T14:14:30+09:00",
     "updated_at": "2020-01-29T20:05:27+09:00",
     "id": "yanyansk"
@@ -170,7 +170,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 728,
+    "likes_count": 729,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -178,7 +178,7 @@
   {
     "title": "ラズパイでやらなければいけない４つのセキュリティ対策！",
     "url": "https://qiita.com/nokonoko_1203/items/94a888444d5019f23a11",
-    "likes_count": 697,
+    "likes_count": 698,
     "created_at": "2020-01-31T17:29:12+09:00",
     "updated_at": "2020-06-11T07:52:08+09:00",
     "id": "nokonoko_1203"
@@ -256,20 +256,20 @@
     "id": "koduki"
   },
   {
+    "title": "経年劣化に耐える ReactComponent の書き方",
+    "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
+    "likes_count": 615,
+    "created_at": "2020-01-16T19:01:04+09:00",
+    "updated_at": "2020-01-19T13:49:21+09:00",
+    "id": "Takepepe"
+  },
+  {
     "title": "機械学習による株価予測　いろはの”い”",
     "url": "https://qiita.com/blog_UKI/items/25dc1c2559c61890a449",
     "likes_count": 614,
     "created_at": "2020-01-09T12:13:39+09:00",
     "updated_at": "2020-01-09T12:13:39+09:00",
     "id": "blog_UKI"
-  },
-  {
-    "title": "経年劣化に耐える ReactComponent の書き方",
-    "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
-    "likes_count": 612,
-    "created_at": "2020-01-16T19:01:04+09:00",
-    "updated_at": "2020-01-19T13:49:21+09:00",
-    "id": "Takepepe"
   },
   {
     "title": "【SRE Next 2020】発表資料まとめ",
@@ -282,7 +282,7 @@
   {
     "title": "パラメータ数10億！最新の巨大画像認識モデル「BiT」爆誕 & 解説",
     "url": "https://qiita.com/omiita/items/90abe0799cf3efe8d93d",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2020-01-15T07:51:21+09:00",
     "updated_at": "2020-08-12T20:06:07+09:00",
     "id": "omiita"
@@ -338,7 +338,7 @@
   {
     "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
     "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2020-01-10T19:39:06+09:00",
     "updated_at": "2020-10-28T20:23:44+09:00",
     "id": "marnie_ms4"
@@ -354,7 +354,7 @@
   {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2020-07-17T21:59:28+09:00",
     "id": "Saku731"
@@ -400,6 +400,14 @@
     "id": "enoshiman"
   },
   {
+    "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
+    "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
+    "likes_count": 396,
+    "created_at": "2020-01-19T17:05:28+09:00",
+    "updated_at": "2020-01-21T20:33:07+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "notionバックエンドのzeit製ヘッドレスCMS“Notion Blog”が激アツ🔥",
     "url": "https://qiita.com/serinuntius/items/d4b1e9ef53b59033f607",
     "likes_count": 395,
@@ -408,17 +416,9 @@
     "id": "serinuntius"
   },
   {
-    "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
-    "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
-    "likes_count": 395,
-    "created_at": "2020-01-19T17:05:28+09:00",
-    "updated_at": "2020-01-21T20:33:07+09:00",
-    "id": "uhyo"
-  },
-  {
     "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
     "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2020-01-11T13:59:43+09:00",
     "updated_at": "2021-01-15T13:48:23+09:00",
     "id": "shiro01"
@@ -466,7 +466,7 @@
   {
     "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
     "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
-    "likes_count": 328,
+    "likes_count": 329,
     "created_at": "2020-01-03T17:27:55+09:00",
     "updated_at": "2020-11-10T02:36:37+09:00",
     "id": "bee2"
@@ -498,7 +498,7 @@
   {
     "title": "【2020年1月】令和だし本格的にVSCodeのRemote Containerで、爆速の\"開発コンテナ\"始めよう",
     "url": "https://qiita.com/koinori/items/084a0770c1f9e72e0c14",
-    "likes_count": 266,
+    "likes_count": 268,
     "created_at": "2020-01-03T15:58:37+09:00",
     "updated_at": "2020-01-06T19:15:39+09:00",
     "id": "koinori"
@@ -522,7 +522,7 @@
   {
     "title": "VS CodeでDocker開発コンテナを便利に使おう",
     "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
-    "likes_count": 230,
+    "likes_count": 233,
     "created_at": "2020-01-17T21:18:30+09:00",
     "updated_at": "2020-01-17T21:18:30+09:00",
     "id": "Yuki_Oshima"

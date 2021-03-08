@@ -26,7 +26,7 @@
   {
     "title": "Webパフォーマンス虎の巻",
     "url": "https://qiita.com/usagi-f/items/10f35969f08dd01fa635",
-    "likes_count": 1808,
+    "likes_count": 1809,
     "created_at": "2018-10-24T17:10:37+09:00",
     "updated_at": "2018-10-24T17:10:37+09:00",
     "id": "usagi-f"
@@ -66,7 +66,7 @@
   {
     "title": "Python + Selenium で Chrome の自動操作を一通り",
     "url": "https://qiita.com/memakura/items/20a02161fa7e18d8a693",
-    "likes_count": 1230,
+    "likes_count": 1231,
     "created_at": "2018-10-14T13:39:44+09:00",
     "updated_at": "2018-10-16T06:19:27+09:00",
     "id": "memakura"
@@ -74,7 +74,7 @@
   {
     "title": "Pythonでこんなことできちゃうんです",
     "url": "https://qiita.com/Namibillow/items/954c7f9f53682d6dd9c9",
-    "likes_count": 1224,
+    "likes_count": 1225,
     "created_at": "2018-10-23T15:58:23+09:00",
     "updated_at": "2020-03-11T12:28:07+09:00",
     "id": "Namibillow"
@@ -98,7 +98,7 @@
   {
     "title": "フロント未学習の大学生が1週間でVue.jsを使ったポートフォリオを作った話",
     "url": "https://qiita.com/p1ass/items/a01578b782f17f573510",
-    "likes_count": 1063,
+    "likes_count": 1064,
     "created_at": "2018-10-11T20:31:44+09:00",
     "updated_at": "2019-10-19T14:53:35+09:00",
     "id": "p1ass"
@@ -114,7 +114,7 @@
   {
     "title": "これから始めるGCP（GCE）　安全に無料枠を使い倒せ",
     "url": "https://qiita.com/Brutus/items/22dfd31a681b67837a74",
-    "likes_count": 862,
+    "likes_count": 867,
     "created_at": "2018-10-06T11:52:13+09:00",
     "updated_at": "2020-06-19T19:57:34+09:00",
     "id": "Brutus"
@@ -210,18 +210,10 @@
   {
     "title": "docker-compose.ymlの書き方について解説してみた",
     "url": "https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04",
-    "likes_count": 604,
+    "likes_count": 606,
     "created_at": "2018-10-14T00:53:56+09:00",
     "updated_at": "2019-05-05T12:30:58+09:00",
     "id": "yuta-ushijima"
-  },
-  {
-    "title": "侍エンジニア塾の記事を Chrome 拡張なしに Google 検索結果から一掃するわりと簡単な方法",
-    "url": "https://qiita.com/komiya_atsushi/items/7d2cbf322dd5e8f2dc8e",
-    "likes_count": 588,
-    "created_at": "2018-10-26T13:01:20+09:00",
-    "updated_at": "2018-10-26T13:01:20+09:00",
-    "id": "komiya_atsushi"
   },
   {
     "title": "なぜDockerではホストOSと違うOSベースのコンテナイメージが動くのか",
@@ -230,6 +222,14 @@
     "created_at": "2018-10-12T10:50:07+09:00",
     "updated_at": "2020-08-20T00:05:41+09:00",
     "id": "kirikunix"
+  },
+  {
+    "title": "侍エンジニア塾の記事を Chrome 拡張なしに Google 検索結果から一掃するわりと簡単な方法",
+    "url": "https://qiita.com/komiya_atsushi/items/7d2cbf322dd5e8f2dc8e",
+    "likes_count": 587,
+    "created_at": "2018-10-26T13:01:20+09:00",
+    "updated_at": "2018-10-26T13:01:20+09:00",
+    "id": "komiya_atsushi"
   },
   {
     "title": "まだXMLHttpRequestを使ってるの？　fetchのすすめ",
@@ -266,7 +266,7 @@
   {
     "title": "TypeScriptの型初級",
     "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
-    "likes_count": 535,
+    "likes_count": 536,
     "created_at": "2018-10-24T18:49:35+09:00",
     "updated_at": "2020-03-19T14:19:40+09:00",
     "id": "uhyo"
@@ -290,7 +290,7 @@
   {
     "title": "Pathを通すとは、環境変数とは",
     "url": "https://qiita.com/fuwamaki/items/3d8af42cf7abee760a81",
-    "likes_count": 485,
+    "likes_count": 486,
     "created_at": "2018-10-07T20:29:16+09:00",
     "updated_at": "2019-11-29T13:09:52+09:00",
     "id": "fuwamaki"
@@ -298,7 +298,7 @@
   {
     "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
     "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
-    "likes_count": 479,
+    "likes_count": 481,
     "created_at": "2018-10-08T20:38:40+09:00",
     "updated_at": "2020-02-17T23:55:55+09:00",
     "id": "little_hand_s"
@@ -308,7 +308,7 @@
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 475,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-03-07T19:31:33+09:00",
+    "updated_at": "2021-03-08T19:31:33+09:00",
     "id": "kai_kou"
   },
   {
@@ -354,7 +354,7 @@
   {
     "title": "Kotlin/Native を Android/iOS アプリ開発に導入しよう",
     "url": "https://qiita.com/irgaly/items/3e6ee5bc3f59302bb76a",
-    "likes_count": 419,
+    "likes_count": 418,
     "created_at": "2018-10-12T11:41:18+09:00",
     "updated_at": "2018-10-17T11:20:14+09:00",
     "id": "irgaly"
@@ -362,7 +362,7 @@
   {
     "title": "私のReactのコンポーネント実装アンチパターン",
     "url": "https://qiita.com/seya/items/7a0d20da4de5fab14426",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2018-10-29T07:45:11+09:00",
     "updated_at": "2018-10-29T23:24:36+09:00",
     "id": "seya"
@@ -378,7 +378,7 @@
   {
     "title": "動的型付けと静的型付け",
     "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2018-10-24T08:24:11+09:00",
     "updated_at": "2020-10-09T17:17:53+09:00",
     "id": "toryuneko"
@@ -410,7 +410,7 @@
   {
     "title": "Django REST Framework の使い方メモ",
     "url": "https://qiita.com/__init__/items/f5a5a64a05541fcda713",
-    "likes_count": 351,
+    "likes_count": 353,
     "created_at": "2018-10-09T06:10:41+09:00",
     "updated_at": "2020-03-20T06:20:48+09:00",
     "id": "__init__"

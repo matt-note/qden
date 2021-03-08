@@ -10,7 +10,7 @@
   {
     "title": "ウェブアプリをソースごとパクる業者に対する対策",
     "url": "https://qiita.com/kacchan6/items/d8576ab6b3c16cf670ca",
-    "likes_count": 1350,
+    "likes_count": 1351,
     "created_at": "2017-11-11T11:06:01+09:00",
     "updated_at": "2017-12-03T23:13:45+09:00",
     "id": "kacchan6"
@@ -26,7 +26,7 @@
   {
     "title": "Webサービス個人開発するなら読みたい情報源13",
     "url": "https://qiita.com/curryperformer-kato/items/a7dc9a41200b6c9c1912",
-    "likes_count": 1108,
+    "likes_count": 1109,
     "created_at": "2017-11-03T00:21:37+09:00",
     "updated_at": "2019-08-29T10:34:58+09:00",
     "id": "curryperformer-kato"
@@ -74,7 +74,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 760,
+    "likes_count": 763,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -90,7 +90,7 @@
   {
     "title": "爆速でターミナルをポケモンにする",
     "url": "https://qiita.com/chanuu/items/b5c3d11e089ad0c7356d",
-    "likes_count": 713,
+    "likes_count": 712,
     "created_at": "2017-11-29T20:09:02+09:00",
     "updated_at": "2017-12-02T21:05:29+09:00",
     "id": "chanuu"
@@ -120,20 +120,20 @@
     "id": "sugulu_Ogawa_ISID"
   },
   {
+    "title": "Railsの外部キー制約とreference型について",
+    "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
+    "likes_count": 612,
+    "created_at": "2017-11-24T14:32:12+09:00",
+    "updated_at": "2018-07-15T15:52:26+09:00",
+    "id": "ryouzi"
+  },
+  {
     "title": "dev.toと阿部寛のホームページについてちゃんと計測させてくれ",
     "url": "https://qiita.com/naru0504/items/7d652681d698f6d88c4f",
     "likes_count": 611,
     "created_at": "2017-11-17T07:51:11+09:00",
     "updated_at": "2017-11-18T00:37:53+09:00",
     "id": "naru0504"
-  },
-  {
-    "title": "Railsの外部キー制約とreference型について",
-    "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 611,
-    "created_at": "2017-11-24T14:32:12+09:00",
-    "updated_at": "2018-07-15T15:52:26+09:00",
-    "id": "ryouzi"
   },
   {
     "title": "運用に耐えるRailsによるWebアプリケーションの作り方",
@@ -218,7 +218,7 @@
   {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
     "url": "https://qiita.com/yonedaco/items/569bcc442872a1f9a03d",
-    "likes_count": 504,
+    "likes_count": 506,
     "created_at": "2017-11-25T15:34:09+09:00",
     "updated_at": "2020-03-18T13:27:49+09:00",
     "id": "yonedaco"
@@ -258,10 +258,18 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 463,
+    "likes_count": 462,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
+  },
+  {
+    "title": "文書ベクトルをお手軽に高い精度で作れるSCDVって実際どうなのか日本語コーパスで実験した(EMNLP2017)",
+    "url": "https://qiita.com/fufufukakaka/items/a7316273908a7c400868",
+    "likes_count": 434,
+    "created_at": "2017-11-12T10:57:13+09:00",
+    "updated_at": "2019-10-23T12:18:57+09:00",
+    "id": "fufufukakaka"
   },
   {
     "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
@@ -270,14 +278,6 @@
     "created_at": "2017-11-18T06:21:52+09:00",
     "updated_at": "2020-12-23T00:39:19+09:00",
     "id": "t_nakayama0714"
-  },
-  {
-    "title": "文書ベクトルをお手軽に高い精度で作れるSCDVって実際どうなのか日本語コーパスで実験した(EMNLP2017)",
-    "url": "https://qiita.com/fufufukakaka/items/a7316273908a7c400868",
-    "likes_count": 433,
-    "created_at": "2017-11-12T10:57:13+09:00",
-    "updated_at": "2019-10-23T12:18:57+09:00",
-    "id": "fufufukakaka"
   },
   {
     "title": "[React Native入門完全版]「いきなりデート」のアプリをReact Nativeで開発した知見をまとめます。",
@@ -336,20 +336,20 @@
     "id": "tomipetit"
   },
   {
+    "title": "次世代Headless CMS「contentful」事始め",
+    "url": "https://qiita.com/daikiojm/items/3fbde3c88a7d0a053675",
+    "likes_count": 373,
+    "created_at": "2017-11-27T00:53:47+09:00",
+    "updated_at": "2019-07-03T19:41:37+09:00",
+    "id": "daikiojm"
+  },
+  {
     "title": "Railsアプリで Bootstrap 4 を利用する",
     "url": "https://qiita.com/NaokiIshimura/items/c8db09daefff5c11dadf",
     "likes_count": 372,
     "created_at": "2017-11-03T19:54:09+09:00",
     "updated_at": "2019-08-14T16:45:50+09:00",
     "id": "NaokiIshimura"
-  },
-  {
-    "title": "次世代Headless CMS「contentful」事始め",
-    "url": "https://qiita.com/daikiojm/items/3fbde3c88a7d0a053675",
-    "likes_count": 372,
-    "created_at": "2017-11-27T00:53:47+09:00",
-    "updated_at": "2019-07-03T19:41:37+09:00",
-    "id": "daikiojm"
   },
   {
     "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",
