@@ -18,7 +18,7 @@
   {
     "title": "データサイエンティストを目指す人のpython環境構築 2016",
     "url": "https://qiita.com/y__sama/items/5b62d31cb7e6ed50f02c",
-    "likes_count": 2203,
+    "likes_count": 2201,
     "created_at": "2016-03-17T19:19:27+09:00",
     "updated_at": "2016-04-08T08:29:24+09:00",
     "id": "y__sama"
@@ -50,10 +50,18 @@
   {
     "title": "たった1人から始める社内テストコード文化",
     "url": "https://qiita.com/haminiku/items/9f1b9a2fb773c732c494",
-    "likes_count": 1671,
+    "likes_count": 1670,
     "created_at": "2016-03-15T06:38:55+09:00",
     "updated_at": "2016-03-23T12:57:56+09:00",
     "id": "haminiku"
+  },
+  {
+    "title": "sedでこういう時はどう書く?",
+    "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
+    "likes_count": 1385,
+    "created_at": "2016-03-04T11:57:25+09:00",
+    "updated_at": "2018-10-25T10:59:12+09:00",
+    "id": "hirohiro77"
   },
   {
     "title": "Dockerを使って1サーバで複数Webサービスを運用するためのマイベストプラクティス",
@@ -62,14 +70,6 @@
     "created_at": "2016-03-23T10:09:59+09:00",
     "updated_at": "2016-05-14T10:37:20+09:00",
     "id": "miyasakura_"
-  },
-  {
-    "title": "sedでこういう時はどう書く?",
-    "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
-    "likes_count": 1383,
-    "created_at": "2016-03-04T11:57:25+09:00",
-    "updated_at": "2018-10-25T10:59:12+09:00",
-    "id": "hirohiro77"
   },
   {
     "title": "Macでの開発環境構築をできる限り自動化する。",
@@ -98,7 +98,7 @@
   {
     "title": "すべてのReact.js初心者が知っておくべき9つのポイント",
     "url": "https://qiita.com/ossan-engineer/items/3622e57ceb70c7f12295",
-    "likes_count": 1003,
+    "likes_count": 1004,
     "created_at": "2016-03-31T00:54:46+09:00",
     "updated_at": "2016-11-28T15:02:49+09:00",
     "id": "ossan-engineer"
@@ -138,7 +138,7 @@
   {
     "title": "sshした先に.bashrcや.vimrcを持って行きたい人のためのsshrc",
     "url": "https://qiita.com/ikuwow/items/ba4ca57fd67c06fd1b19",
-    "likes_count": 900,
+    "likes_count": 901,
     "created_at": "2016-03-13T19:19:26+09:00",
     "updated_at": "2019-11-24T11:21:43+09:00",
     "id": "ikuwow"
@@ -146,7 +146,7 @@
   {
     "title": "OutOfMemoryError の調べ方",
     "url": "https://qiita.com/opengl-8080/items/64152ee9965441f7667b",
-    "likes_count": 895,
+    "likes_count": 894,
     "created_at": "2016-03-13T15:20:56+09:00",
     "updated_at": "2018-04-05T19:55:18+09:00",
     "id": "opengl-8080"
@@ -154,7 +154,7 @@
   {
     "title": "Vagrant + VirtualBoxでWindows上に開発環境をサクッと構築する",
     "url": "https://qiita.com/ozawan/items/160728f7c6b10c73b97e",
-    "likes_count": 891,
+    "likes_count": 892,
     "created_at": "2016-03-01T16:05:57+09:00",
     "updated_at": "2018-09-05T04:03:42+09:00",
     "id": "ozawan"
@@ -170,7 +170,7 @@
   {
     "title": "Pythonにおける非同期処理: asyncio逆引きリファレンス",
     "url": "https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0",
-    "likes_count": 732,
+    "likes_count": 733,
     "created_at": "2016-03-26T22:06:48+09:00",
     "updated_at": "2019-03-06T12:38:21+09:00",
     "id": "icoxfog417"
@@ -250,7 +250,7 @@
   {
     "title": "HomebrewのインストールからpyenvでPythonのAnaconda環境構築までメモ",
     "url": "https://qiita.com/aical/items/2d066801a7464a676994",
-    "likes_count": 565,
+    "likes_count": 564,
     "created_at": "2016-03-11T23:54:45+09:00",
     "updated_at": "2020-05-24T13:41:53+09:00",
     "id": "aical"
@@ -266,7 +266,7 @@
   {
     "title": "プッシュ通知に必要な証明書の作り方2021",
     "url": "https://qiita.com/natsumo/items/d5cc1d0be427ca3af1cb",
-    "likes_count": 552,
+    "likes_count": 554,
     "created_at": "2016-03-23T16:00:24+09:00",
     "updated_at": "2021-01-28T10:09:59+09:00",
     "id": "natsumo"
@@ -282,7 +282,7 @@
   {
     "title": "ディープラーニング（TensorFlow）を使用した株価予想 ～その2～",
     "url": "https://qiita.com/yai/items/8c0ad280cc2f53e40256",
-    "likes_count": 522,
+    "likes_count": 521,
     "created_at": "2016-03-26T21:57:11+09:00",
     "updated_at": "2016-03-26T22:11:03+09:00",
     "id": "yai"
@@ -338,7 +338,7 @@
   {
     "title": "Bundlerの使い方",
     "url": "https://qiita.com/oshou/items/6283c2315dc7dd244aef",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2016-03-28T00:21:17+09:00",
     "updated_at": "2017-02-03T18:11:09+09:00",
     "id": "oshou"
@@ -354,7 +354,7 @@
   {
     "title": "Swiftで代数学入門 〜 1. 数とは何か？",
     "url": "https://qiita.com/taketo1024/items/bd356c59dc0559ee9a0b",
-    "likes_count": 447,
+    "likes_count": 446,
     "created_at": "2016-03-13T20:25:51+09:00",
     "updated_at": "2016-03-23T19:47:38+09:00",
     "id": "taketo1024"
@@ -442,7 +442,7 @@
   {
     "title": "[初心者]RxSwiftの道標[入門] ",
     "url": "https://qiita.com/nakailand/items/8b54dc9b4b39b0809c57",
-    "likes_count": 394,
+    "likes_count": 395,
     "created_at": "2016-03-29T03:45:40+09:00",
     "updated_at": "2016-04-09T22:40:18+09:00",
     "id": "nakailand"
@@ -578,7 +578,7 @@
   {
     "title": "ディープラーニング（TensorFlow）を使用した株価予想",
     "url": "https://qiita.com/yai/items/5ec5bbfbcc53c9770c40",
-    "likes_count": 340,
+    "likes_count": 339,
     "created_at": "2016-03-24T20:37:18+09:00",
     "updated_at": "2016-03-28T14:42:20+09:00",
     "id": "yai"
@@ -650,7 +650,7 @@
   {
     "title": "awkコマンドの基本",
     "url": "https://qiita.com/yamazon/items/563af1b485ff413d381f",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2016-03-06T20:03:09+09:00",
     "updated_at": "2016-03-14T23:38:39+09:00",
     "id": "yamazon"

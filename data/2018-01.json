@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2510,
+    "likes_count": 2511,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2444,
+    "likes_count": 2446,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1428,
+    "likes_count": 1429,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -66,7 +66,7 @@
   {
     "title": "Pythonによるデザインパターン5原則",
     "url": "https://qiita.com/kotetsu75/items/4b903023001f157554a4",
-    "likes_count": 849,
+    "likes_count": 848,
     "created_at": "2018-01-10T22:19:52+09:00",
     "updated_at": "2018-02-20T09:40:02+09:00",
     "id": "kotetsu75"
@@ -146,7 +146,7 @@
   {
     "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
     "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
-    "likes_count": 621,
+    "likes_count": 623,
     "created_at": "2018-01-26T15:42:01+09:00",
     "updated_at": "2021-03-04T09:24:13+09:00",
     "id": "gold-kou"
@@ -218,7 +218,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 502,
+    "likes_count": 503,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -282,7 +282,7 @@
   {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
@@ -290,7 +290,7 @@
   {
     "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
     "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
-    "likes_count": 389,
+    "likes_count": 390,
     "created_at": "2018-01-10T20:19:27+09:00",
     "updated_at": "2019-04-20T22:30:46+09:00",
     "id": "zd6ir7"
@@ -320,20 +320,20 @@
     "id": "reireias"
   },
   {
+    "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
+    "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
+    "likes_count": 368,
+    "created_at": "2018-01-11T01:40:43+09:00",
+    "updated_at": "2020-05-02T19:45:29+09:00",
+    "id": "doyaaaaaken"
+  },
+  {
     "title": "PythonでTwitter API を利用していろいろ遊んでみる",
     "url": "https://qiita.com/bakira/items/00743d10ec42993f85eb",
     "likes_count": 366,
     "created_at": "2018-01-07T21:20:05+09:00",
     "updated_at": "2018-01-08T19:14:05+09:00",
     "id": "bakira"
-  },
-  {
-    "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
-    "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 366,
-    "created_at": "2018-01-11T01:40:43+09:00",
-    "updated_at": "2020-05-02T19:45:29+09:00",
-    "id": "doyaaaaaken"
   },
   {
     "title": "あまりにも多くのスタートアップがデータ分析するときに犯す４つの失敗パターン",
@@ -354,7 +354,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 342,
+    "likes_count": 345,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
@@ -362,7 +362,7 @@
   {
     "title": "Gitでローカルブランチを削除する",
     "url": "https://qiita.com/hogeta_/items/33d2334c9b1919bd5120",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2018-01-11T18:24:12+09:00",
     "updated_at": "2020-01-16T14:28:12+09:00",
     "id": "hogeta_"

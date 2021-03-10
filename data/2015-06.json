@@ -2,7 +2,7 @@
   {
     "title": "ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト",
     "url": "https://qiita.com/kazukichi/items/7379b75fba2f90d3cf45",
-    "likes_count": 3804,
+    "likes_count": 3805,
     "created_at": "2015-06-03T20:05:15+09:00",
     "updated_at": "2020-12-10T11:07:57+09:00",
     "id": "kazukichi"
@@ -10,7 +10,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3140,
+    "likes_count": 3141,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2018-10-01T16:44:21+09:00",
     "id": "ryounagaoka"
@@ -42,7 +42,7 @@
   {
     "title": "【機械学習】ディープラーニング フレームワークChainerを試しながら解説してみる。",
     "url": "https://qiita.com/kenmatsu4/items/7b8d24d4c5144a686412",
-    "likes_count": 1736,
+    "likes_count": 1735,
     "created_at": "2015-06-19T07:56:21+09:00",
     "updated_at": "2015-09-27T00:01:30+09:00",
     "id": "kenmatsu4"
@@ -74,7 +74,7 @@
   {
     "title": "実例で学ぶ、JOIN (NLJ) が遅くなる理屈と対処法",
     "url": "https://qiita.com/yuku_t/items/208be188eef17699c7a5",
-    "likes_count": 1209,
+    "likes_count": 1210,
     "created_at": "2015-06-22T11:50:58+09:00",
     "updated_at": "2015-07-13T09:58:53+09:00",
     "id": "yuku_t"
@@ -202,7 +202,7 @@
   {
     "title": "JavaScript つい忘れてしまう配列のソート方法",
     "url": "https://qiita.com/PianoScoreJP/items/f0ff7345229871039672",
-    "likes_count": 594,
+    "likes_count": 595,
     "created_at": "2015-06-15T11:12:46+09:00",
     "updated_at": "2015-06-15T15:01:10+09:00",
     "id": "PianoScoreJP"
@@ -266,7 +266,7 @@
   {
     "title": "JavaScript初心者脱却への道のりを考える",
     "url": "https://qiita.com/stkdev/items/cfe4678ac437cb2fdc9f",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2015-06-26T03:39:19+09:00",
     "updated_at": "2016-01-11T02:14:44+09:00",
     "id": "stkdev"
@@ -336,20 +336,20 @@
     "id": "pekepek"
   },
   {
-    "title": "依存性注入(DI)の解説とやり方",
-    "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
-    "likes_count": 411,
-    "created_at": "2015-06-21T16:57:46+09:00",
-    "updated_at": "2017-11-28T22:04:50+09:00",
-    "id": "1000k"
-  },
-  {
     "title": "Haskellのビルドツール\"stack\"の紹介",
     "url": "https://qiita.com/tanakh/items/6866d0f570d0547df026",
     "likes_count": 411,
     "created_at": "2015-06-25T03:09:14+09:00",
     "updated_at": "2016-01-27T20:13:29+09:00",
     "id": "tanakh"
+  },
+  {
+    "title": "依存性注入(DI)の解説とやり方",
+    "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
+    "likes_count": 410,
+    "created_at": "2015-06-21T16:57:46+09:00",
+    "updated_at": "2017-11-28T22:04:50+09:00",
+    "id": "1000k"
   },
   {
     "title": "JavaScript  忘れがちな　=== と == の違い",
@@ -424,20 +424,20 @@
     "id": "jnchito"
   },
   {
+    "title": "FirebaseのRulesを理解する",
+    "url": "https://qiita.com/lacolaco/items/b068ab0cf19a26f0992d",
+    "likes_count": 350,
+    "created_at": "2015-06-26T14:59:55+09:00",
+    "updated_at": "2016-05-24T23:06:46+09:00",
+    "id": "lacolaco"
+  },
+  {
     "title": "Goでwebサーバー作るときに考えたこと",
     "url": "https://qiita.com/taizo/items/e6597c66c3494d545686",
     "likes_count": 350,
     "created_at": "2015-06-27T09:55:51+09:00",
     "updated_at": "2015-06-27T09:55:51+09:00",
     "id": "taizo"
-  },
-  {
-    "title": "FirebaseのRulesを理解する",
-    "url": "https://qiita.com/lacolaco/items/b068ab0cf19a26f0992d",
-    "likes_count": 349,
-    "created_at": "2015-06-26T14:59:55+09:00",
-    "updated_at": "2016-05-24T23:06:46+09:00",
-    "id": "lacolaco"
   },
   {
     "title": "iOS 9の新しいWebビュー: SFSafariViewController",
@@ -570,7 +570,7 @@
   {
     "title": "僕はこうやって画面設計書を作ってる（Webシステムにおける簡潔な画面設計書の例）",
     "url": "https://qiita.com/usugita_san/items/80da897afb4c7edab8a5",
-    "likes_count": 242,
+    "likes_count": 243,
     "created_at": "2015-06-23T15:54:40+09:00",
     "updated_at": "2015-06-23T16:42:10+09:00",
     "id": "usugita_san"

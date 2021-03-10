@@ -2,7 +2,7 @@
   {
     "title": "数時間で完全理解！わりとゴツいKubernetesハンズオン！！",
     "url": "https://qiita.com/Kta-M/items/ce475c0063d3d3f36d5d",
-    "likes_count": 2622,
+    "likes_count": 2623,
     "created_at": "2019-05-23T07:10:52+09:00",
     "updated_at": "2020-01-31T04:40:34+09:00",
     "id": "Kta-M"
@@ -10,7 +10,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 2486,
+    "likes_count": 2488,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2020-02-11T18:07:22+09:00",
     "id": "jesus_isao"
@@ -18,7 +18,7 @@
   {
     "title": "八丈島のホテルで、運用費用０円の伝票システムアプリ作って、業務改善した話。",
     "url": "https://qiita.com/Yoji0806/items/d895d1fbd2d8c1736449",
-    "likes_count": 2219,
+    "likes_count": 2220,
     "created_at": "2019-05-29T21:35:08+09:00",
     "updated_at": "2019-06-21T18:13:42+09:00",
     "id": "Yoji0806"
@@ -58,7 +58,7 @@
   {
     "title": "新しく言語を学ぶときに心がけていること",
     "url": "https://qiita.com/hiraike32/items/40ef06f85f6a63828985",
-    "likes_count": 1395,
+    "likes_count": 1394,
     "created_at": "2019-05-12T21:44:32+09:00",
     "updated_at": "2019-05-15T10:25:17+09:00",
     "id": "hiraike32"
@@ -66,7 +66,7 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2021.03",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1309,
+    "likes_count": 1312,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2021-03-06T22:40:46+09:00",
     "id": "hayao_k"
@@ -82,7 +82,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1254,
+    "likes_count": 1256,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -90,7 +90,7 @@
   {
     "title": "【文字幅 半角3:全角5 も追加】Ricty を神フォントだと崇める僕が、フリーライセンスのプログラミングフォント「白源」を作った話",
     "url": "https://qiita.com/tawara_/items/374f3ca0a386fab8b305",
-    "likes_count": 1203,
+    "likes_count": 1205,
     "created_at": "2019-05-21T13:54:46+09:00",
     "updated_at": "2021-01-05T11:03:14+09:00",
     "id": "tawara_"
@@ -154,7 +154,7 @@
   {
     "title": "Dockerで立ち上げた開発環境をVS Codeで開く!",
     "url": "https://qiita.com/yoskeoka/items/01c52c069123e0298660",
-    "likes_count": 842,
+    "likes_count": 843,
     "created_at": "2019-05-03T18:22:30+09:00",
     "updated_at": "2019-06-07T03:11:12+09:00",
     "id": "yoskeoka"
@@ -266,7 +266,7 @@
   {
     "title": "Vue.jsのv-modelを正しく使う",
     "url": "https://qiita.com/simezi9/items/c27d69f17d2d08722b3a",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2019-05-13T20:05:41+09:00",
     "updated_at": "2020-05-01T18:50:04+09:00",
     "id": "simezi9"
@@ -282,7 +282,7 @@
   {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2020-05-08T20:20:06+09:00",
     "id": "simonritchie"
@@ -306,10 +306,18 @@
   {
     "title": "[Flutter] package:provider の各プロバイダの詳細",
     "url": "https://qiita.com/kabochapo/items/a90d8438243c27e2f6d9",
-    "likes_count": 449,
+    "likes_count": 451,
     "created_at": "2019-05-23T09:03:03+09:00",
     "updated_at": "2021-03-06T17:12:04+09:00",
     "id": "kabochapo"
+  },
+  {
+    "title": "TailwindCSS入門 ~ Utility First + デザインシステムの構築 ~",
+    "url": "https://qiita.com/oedkty/items/68461080515ec1012980",
+    "likes_count": 432,
+    "created_at": "2019-05-26T13:14:34+09:00",
+    "updated_at": "2020-06-09T21:21:30+09:00",
+    "id": "oedkty"
   },
   {
     "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
@@ -318,14 +326,6 @@
     "created_at": "2019-05-23T08:28:34+09:00",
     "updated_at": "2020-02-02T11:54:18+09:00",
     "id": "drken"
-  },
-  {
-    "title": "TailwindCSS入門 ~ Utility First + デザインシステムの構築 ~",
-    "url": "https://qiita.com/oedkty/items/68461080515ec1012980",
-    "likes_count": 430,
-    "created_at": "2019-05-26T13:14:34+09:00",
-    "updated_at": "2020-06-09T21:21:30+09:00",
-    "id": "oedkty"
   },
   {
     "title": "headに<base target=\"_blank\">１行入れるだけで、全リンク\bのデフォルトを_blank化できた",
@@ -498,7 +498,7 @@
   {
     "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
     "url": "https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd",
-    "likes_count": 294,
+    "likes_count": 293,
     "created_at": "2019-05-08T10:02:28+09:00",
     "updated_at": "2019-05-08T10:11:41+09:00",
     "id": "sadnessOjisan"

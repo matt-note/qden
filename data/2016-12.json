@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4518,
+    "likes_count": 4517,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2522,
+    "likes_count": 2523,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-01-17T17:08:07+09:00",
     "id": "piroor"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2021,
+    "likes_count": 2022,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -50,7 +50,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1371,
+    "likes_count": 1372,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-02-25T19:48:34+09:00",
     "id": "soarflat"
@@ -90,7 +90,7 @@
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
     "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1082,
+    "likes_count": 1083,
     "created_at": "2016-12-28T10:13:50+09:00",
     "updated_at": "2016-12-29T00:03:57+09:00",
     "id": "kunihirotanaka"
@@ -98,7 +98,7 @@
   {
     "title": "イケイケなベンチャーの開発チームが、大企業的な開発チームになってしまう5つの兆候",
     "url": "https://qiita.com/tsuyok/items/116d9076e6149d9c7bbc",
-    "likes_count": 1076,
+    "likes_count": 1075,
     "created_at": "2016-12-18T00:01:45+09:00",
     "updated_at": "2016-12-20T17:18:30+09:00",
     "id": "tsuyok"
@@ -106,10 +106,18 @@
   {
     "title": "初心者がchainerで線画着色してみた。わりとできた。",
     "url": "https://qiita.com/taizan/items/cf77fd37ec3a0bef5d9d",
-    "likes_count": 1053,
+    "likes_count": 1052,
     "created_at": "2016-12-25T17:58:54+09:00",
     "updated_at": "2017-01-31T00:15:46+09:00",
     "id": "taizan"
+  },
+  {
+    "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
+    "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
+    "likes_count": 1027,
+    "created_at": "2016-12-15T19:53:31+09:00",
+    "updated_at": "2017-01-09T03:54:13+09:00",
+    "id": "joker1007"
   },
   {
     "title": "kubernetes初心者のための入門ハンズオン",
@@ -118,14 +126,6 @@
     "created_at": "2016-12-10T00:01:31+09:00",
     "updated_at": "2020-12-05T20:23:32+09:00",
     "id": "mihirat"
-  },
-  {
-    "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
-    "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
-    "likes_count": 1026,
-    "created_at": "2016-12-15T19:53:31+09:00",
-    "updated_at": "2017-01-09T03:54:13+09:00",
-    "id": "joker1007"
   },
   {
     "title": "Webhookとは？",
@@ -170,7 +170,7 @@
   {
     "title": "Retty流『2200万ユーザを支える機械学習基盤』の作り方",
     "url": "https://qiita.com/taru0216/items/dda1f9f11397f811e98a",
-    "likes_count": 783,
+    "likes_count": 782,
     "created_at": "2016-12-25T09:02:32+09:00",
     "updated_at": "2017-06-09T19:53:14+09:00",
     "id": "taru0216"
@@ -178,7 +178,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 767,
+    "likes_count": 768,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -186,7 +186,7 @@
   {
     "title": "大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察",
     "url": "https://qiita.com/tmknom/items/be5c4b350f561991f2f5",
-    "likes_count": 743,
+    "likes_count": 744,
     "created_at": "2016-12-20T18:24:22+09:00",
     "updated_at": "2018-08-12T01:43:05+09:00",
     "id": "tmknom"
@@ -194,7 +194,7 @@
   {
     "title": "DeepLearning研究 2016年のまとめ",
     "url": "https://qiita.com/eve_yk/items/f4b274da7042cba1ba76",
-    "likes_count": 720,
+    "likes_count": 719,
     "created_at": "2016-12-17T00:45:59+09:00",
     "updated_at": "2016-12-25T10:43:57+09:00",
     "id": "eve_yk"
@@ -258,7 +258,7 @@
   {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
-    "likes_count": 617,
+    "likes_count": 618,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
@@ -274,7 +274,7 @@
   {
     "title": "curlコマンドでapiを叩く",
     "url": "https://qiita.com/buntafujikawa/items/758425773b2239feb9a7",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2016-12-26T23:43:49+09:00",
     "updated_at": "2020-09-19T11:01:47+09:00",
     "id": "buntafujikawa"
@@ -306,7 +306,7 @@
   {
     "title": "Gitのブランチモデルについて",
     "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 581,
+    "likes_count": 582,
     "created_at": "2016-12-05T00:04:34+09:00",
     "updated_at": "2016-12-05T00:12:43+09:00",
     "id": "y-okudera"
@@ -346,7 +346,7 @@
   {
     "title": "Google Apps Script 入門",
     "url": "https://qiita.com/t_imagawa/items/47fc130a419b9be0b447",
-    "likes_count": 541,
+    "likes_count": 540,
     "created_at": "2016-12-06T11:40:50+09:00",
     "updated_at": "2018-06-15T11:24:58+09:00",
     "id": "t_imagawa"
@@ -394,7 +394,7 @@
   {
     "title": "基本/詳細設計って呼び方やめませんか",
     "url": "https://qiita.com/garbagetown/items/a3ae46595f7c49e587a0",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2016-12-14T18:08:06+09:00",
     "updated_at": "2016-12-18T01:24:21+09:00",
     "id": "garbagetown"
@@ -450,7 +450,7 @@
   {
     "title": "【定番】 新しいWebサービスを開発・運営するときに使いたいサービス 【2016年末版】",
     "url": "https://qiita.com/masuidrive/items/a74454e2c01a1943d1b3",
-    "likes_count": 455,
+    "likes_count": 454,
     "created_at": "2016-12-03T13:28:15+09:00",
     "updated_at": "2016-12-27T17:36:47+09:00",
     "id": "masuidrive"
@@ -466,7 +466,7 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
@@ -578,7 +578,7 @@
   {
     "title": "機械学習を1ヵ月で実践レベルにする #1 (とっかかり編)",
     "url": "https://qiita.com/junichiro/items/ee50af10df77d52cd432",
-    "likes_count": 365,
+    "likes_count": 364,
     "created_at": "2016-12-14T23:08:04+09:00",
     "updated_at": "2017-01-10T18:08:42+09:00",
     "id": "junichiro"
@@ -698,7 +698,7 @@
   {
     "title": "【Python入門】JSON形式データの扱い方",
     "url": "https://qiita.com/Morio/items/7538a939cc441367070d",
-    "likes_count": 307,
+    "likes_count": 308,
     "created_at": "2016-12-10T18:54:00+09:00",
     "updated_at": "2016-12-12T15:53:55+09:00",
     "id": "Morio"
@@ -722,7 +722,7 @@
   {
     "title": "ストリーム処理とは何か？＋2016年の出来事",
     "url": "https://qiita.com/kimutansk/items/60e48ec15e954fa95e1c",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2016-12-24T04:11:51+09:00",
     "updated_at": "2016-12-26T10:26:57+09:00",
     "id": "kimutansk"
@@ -730,7 +730,7 @@
   {
     "title": "マネジメントって何すればいいの〜？1年間マネジメントに向き合ったのでまとめを書きます",
     "url": "https://qiita.com/yunico-jp/items/04750a3bdc183ae7ea05",
-    "likes_count": 286,
+    "likes_count": 285,
     "created_at": "2016-12-20T12:03:06+09:00",
     "updated_at": "2016-12-21T10:38:45+09:00",
     "id": "yunico-jp"

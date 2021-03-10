@@ -2,7 +2,7 @@
   {
     "title": "数学を避けてきた社会人プログラマが機械学習の勉強を始める際の最短経路",
     "url": "https://qiita.com/daxanya1/items/218f2e3b922142550ef9",
-    "likes_count": 5195,
+    "likes_count": 5193,
     "created_at": "2015-05-24T22:01:23+09:00",
     "updated_at": "2016-10-06T20:36:54+09:00",
     "id": "daxanya1"
@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 4659,
+    "likes_count": 4666,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 2966,
+    "likes_count": 2967,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2020-03-12T13:17:33+09:00",
     "id": "suin"
@@ -26,7 +26,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 2712,
+    "likes_count": 2718,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -50,7 +50,7 @@
   {
     "title": "mermaid.jsが素晴らしいけどなかなか使ってる人見かけないので実例晒す(追記あり)",
     "url": "https://qiita.com/uzuki_aoba/items/a01f8b0b52ced69c8092",
-    "likes_count": 1580,
+    "likes_count": 1579,
     "created_at": "2015-05-24T01:24:10+09:00",
     "updated_at": "2017-03-13T04:13:20+09:00",
     "id": "uzuki_aoba"
@@ -74,7 +74,7 @@
   {
     "title": "【数学】固有値・固有ベクトルとは何かを可視化してみる",
     "url": "https://qiita.com/kenmatsu4/items/2a8573e3c878fc2da306",
-    "likes_count": 1360,
+    "likes_count": 1359,
     "created_at": "2015-05-23T09:16:03+09:00",
     "updated_at": "2015-05-28T08:37:38+09:00",
     "id": "kenmatsu4"
@@ -82,7 +82,7 @@
   {
     "title": "WebAPIリクエスト仕様書としてcurlコマンドのご提案",
     "url": "https://qiita.com/Hiraku/items/dfda2f8a5353b0742271",
-    "likes_count": 1307,
+    "likes_count": 1306,
     "created_at": "2015-05-24T20:22:03+09:00",
     "updated_at": "2017-11-06T09:46:10+09:00",
     "id": "Hiraku"
@@ -98,7 +98,7 @@
   {
     "title": "docker-composeを使うと複数コンテナの管理が便利に",
     "url": "https://qiita.com/y_hokkey/items/d51e69c6ff4015e85fce",
-    "likes_count": 1264,
+    "likes_count": 1263,
     "created_at": "2015-05-23T14:40:31+09:00",
     "updated_at": "2018-04-16T12:47:55+09:00",
     "id": "y_hokkey"
@@ -210,7 +210,7 @@
   {
     "title": "RSpecのletを使うのはどんなときか？（翻訳）",
     "url": "https://qiita.com/jnchito/items/cdd9eef2ed193267c651",
-    "likes_count": 635,
+    "likes_count": 636,
     "created_at": "2015-05-11T09:33:49+09:00",
     "updated_at": "2015-05-11T10:05:20+09:00",
     "id": "jnchito"
@@ -226,7 +226,7 @@
   {
     "title": "Java8の日時APIはとりあえずこれだけ覚えとけ",
     "url": "https://qiita.com/tag1216/items/91a471b33f383981bfaa",
-    "likes_count": 593,
+    "likes_count": 595,
     "created_at": "2015-05-18T01:10:13+09:00",
     "updated_at": "2017-07-19T11:03:54+09:00",
     "id": "tag1216"
@@ -290,7 +290,7 @@
   {
     "title": "【統計学】ROC曲線とは何か、アニメーションで理解する。",
     "url": "https://qiita.com/kenmatsu4/items/550b38f4fa31e9af6f4f",
-    "likes_count": 472,
+    "likes_count": 471,
     "created_at": "2015-05-09T16:17:12+09:00",
     "updated_at": "2018-10-24T14:42:34+09:00",
     "id": "kenmatsu4"
@@ -384,20 +384,20 @@
     "id": "kamykn"
   },
   {
+    "title": "sedコマンドの備忘録",
+    "url": "https://qiita.com/takech9203/items/b96eff5773ce9d9cc9b3",
+    "likes_count": 382,
+    "created_at": "2015-05-05T20:04:06+09:00",
+    "updated_at": "2016-05-03T09:44:34+09:00",
+    "id": "takech9203"
+  },
+  {
     "title": "S3 + Lambda + Cognitoを使って、簡単お問い合わせシステム構築",
     "url": "https://qiita.com/takuma_yoshida/items/3bd3af8b09307d25981a",
     "likes_count": 382,
     "created_at": "2015-05-18T02:41:22+09:00",
     "updated_at": "2017-06-05T09:34:16+09:00",
     "id": "takuma_yoshida"
-  },
-  {
-    "title": "sedコマンドの備忘録",
-    "url": "https://qiita.com/takech9203/items/b96eff5773ce9d9cc9b3",
-    "likes_count": 381,
-    "created_at": "2015-05-05T20:04:06+09:00",
-    "updated_at": "2016-05-03T09:44:34+09:00",
-    "id": "takech9203"
   },
   {
     "title": "Railsで非同期処理：キュー。Sidekiq（+ActiveJob）がResqueよりも、とても簡単便利。",
@@ -466,7 +466,7 @@
   {
     "title": "【PHP】特定の文字列を含むかのチェック",
     "url": "https://qiita.com/kazu56/items/2c72d187438de07c2503",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2015-05-25T12:25:51+09:00",
     "updated_at": "2015-09-15T10:10:14+09:00",
     "id": "kazu56"
@@ -474,7 +474,7 @@
   {
     "title": "[超初心者向け]やっと納得、Unityを初めて触ると出てくるC#の何だあれの答え",
     "url": "https://qiita.com/JunShimura/items/3c2e23bb77cc9085bfda",
-    "likes_count": 329,
+    "likes_count": 330,
     "created_at": "2015-05-22T14:21:39+09:00",
     "updated_at": "2016-10-19T21:15:54+09:00",
     "id": "JunShimura"

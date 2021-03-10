@@ -2,7 +2,7 @@
   {
     "title": "不安とストレスから解放される見積りとスケジュール方法",
     "url": "https://qiita.com/hirokidaichi/items/5a204a57a200569f755d",
-    "likes_count": 2949,
+    "likes_count": 2948,
     "created_at": "2016-09-09T00:59:09+09:00",
     "updated_at": "2018-12-11T14:20:41+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "技術的負債とどうやって戦うか",
     "url": "https://qiita.com/kamykn/items/ad687e772da454e3f614",
-    "likes_count": 1738,
+    "likes_count": 1737,
     "created_at": "2016-09-25T23:43:43+09:00",
     "updated_at": "2016-09-27T11:38:56+09:00",
     "id": "kamykn"
@@ -98,7 +98,7 @@
   {
     "title": "RESTful APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/0647c30ef596cedf4bf2",
-    "likes_count": 788,
+    "likes_count": 790,
     "created_at": "2016-09-05T07:36:21+09:00",
     "updated_at": "2016-09-05T07:36:21+09:00",
     "id": "NagaokaKenichi"
@@ -114,7 +114,7 @@
   {
     "title": "aptコマンドチートシート",
     "url": "https://qiita.com/SUZUKI_Masaya/items/1fd9489e631c78e5b007",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2016-09-23T15:55:30+09:00",
     "updated_at": "2020-06-27T08:55:38+09:00",
     "id": "SUZUKI_Masaya"
@@ -122,7 +122,7 @@
   {
     "title": "Rails における内部結合、外部結合まとめ",
     "url": "https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30",
-    "likes_count": 763,
+    "likes_count": 764,
     "created_at": "2016-09-04T00:45:31+09:00",
     "updated_at": "2020-10-28T00:43:04+09:00",
     "id": "yuyasat"
@@ -130,7 +130,7 @@
   {
     "title": "知っているようで意外と知らない、DDoSの基礎知識",
     "url": "https://qiita.com/ueyasu/items/064839f9289c3db63c26",
-    "likes_count": 754,
+    "likes_count": 755,
     "created_at": "2016-09-04T18:58:30+09:00",
     "updated_at": "2018-08-01T09:43:05+09:00",
     "id": "ueyasu"
@@ -144,20 +144,20 @@
     "id": "shibukawa"
   },
   {
+    "title": "若手エンジニアを不幸にしないための開発の「べからず」集",
+    "url": "https://qiita.com/nonbiri15/items/80e75fbdc358d9144215",
+    "likes_count": 745,
+    "created_at": "2016-09-10T21:09:46+09:00",
+    "updated_at": "2020-08-27T02:07:32+09:00",
+    "id": "nonbiri15"
+  },
+  {
     "title": "Mac標準「プレビュー」の意外と知られていないTips",
     "url": "https://qiita.com/mtmtkzm/items/160d5bac95d4d4aaea0e",
     "likes_count": 745,
     "created_at": "2016-09-26T23:17:54+09:00",
     "updated_at": "2019-03-06T02:07:40+09:00",
     "id": "mtmtkzm"
-  },
-  {
-    "title": "若手エンジニアを不幸にしないための開発の「べからず」集",
-    "url": "https://qiita.com/nonbiri15/items/80e75fbdc358d9144215",
-    "likes_count": 744,
-    "created_at": "2016-09-10T21:09:46+09:00",
-    "updated_at": "2020-08-27T02:07:32+09:00",
-    "id": "nonbiri15"
   },
   {
     "title": "なぜHaskellを学ぶと良いか",
@@ -194,7 +194,7 @@
   {
     "title": "コマンドラインツールを書くなら知っておきたい Bash の 予約済み Exit Code",
     "url": "https://qiita.com/Linda_pp/items/1104d2d9a263b60e104b",
-    "likes_count": 681,
+    "likes_count": 680,
     "created_at": "2016-09-17T18:44:57+09:00",
     "updated_at": "2016-09-18T16:00:51+09:00",
     "id": "Linda_pp"
@@ -210,10 +210,18 @@
   {
     "title": "これまで知らなかったGit機能を調べたまとめ",
     "url": "https://qiita.com/beta_chelsea/items/32533991d0a60856641c",
-    "likes_count": 659,
+    "likes_count": 658,
     "created_at": "2016-09-25T19:32:03+09:00",
     "updated_at": "2016-10-23T23:41:22+09:00",
     "id": "beta_chelsea"
+  },
+  {
+    "title": "オブジェクト指向設計原則とは",
+    "url": "https://qiita.com/UWControl/items/98671f53120ae47ff93a",
+    "likes_count": 632,
+    "created_at": "2016-09-18T22:49:55+09:00",
+    "updated_at": "2018-09-02T12:25:43+09:00",
+    "id": "UWControl"
   },
   {
     "title": "target=\"_blank\" で開くリンクには rel=\"noopener\" をつける",
@@ -222,14 +230,6 @@
     "created_at": "2016-09-05T18:11:34+09:00",
     "updated_at": "2016-09-06T09:04:45+09:00",
     "id": "memolog"
-  },
-  {
-    "title": "オブジェクト指向設計原則とは",
-    "url": "https://qiita.com/UWControl/items/98671f53120ae47ff93a",
-    "likes_count": 627,
-    "created_at": "2016-09-18T22:49:55+09:00",
-    "updated_at": "2018-09-02T12:25:43+09:00",
-    "id": "UWControl"
   },
   {
     "title": "OpenGLやDirectXなGUIにimguiが最強すぎる",
@@ -432,6 +432,14 @@
     "id": "fumiyasac@github"
   },
   {
+    "title": "Spring BootのAutoConfigureの仕組みを理解する",
+    "url": "https://qiita.com/kazuki43zoo/items/8645d9765edd11c6f1dd",
+    "likes_count": 337,
+    "created_at": "2016-09-06T15:46:05+09:00",
+    "updated_at": "2016-09-06T15:46:05+09:00",
+    "id": "kazuki43zoo"
+  },
+  {
     "title": "Angular CLIによるAngular2入門 / Angular2アプリを爆速開発",
     "url": "https://qiita.com/kitfactory/items/c95ca84371670b21f4ac",
     "likes_count": 337,
@@ -440,17 +448,9 @@
     "id": "kitfactory"
   },
   {
-    "title": "Spring BootのAutoConfigureの仕組みを理解する",
-    "url": "https://qiita.com/kazuki43zoo/items/8645d9765edd11c6f1dd",
-    "likes_count": 335,
-    "created_at": "2016-09-06T15:46:05+09:00",
-    "updated_at": "2016-09-06T15:46:05+09:00",
-    "id": "kazuki43zoo"
-  },
-  {
     "title": "FacebookのfastTextでFastに単語の分散表現を獲得する",
     "url": "https://qiita.com/icoxfog417/items/42a95b279c0b7ad26589",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2016-09-29T14:21:55+09:00",
     "updated_at": "2016-09-29T14:29:46+09:00",
     "id": "icoxfog417"

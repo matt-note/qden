@@ -18,7 +18,7 @@
   {
     "title": "機械学習案件を納品するのは、そんなに簡単な話じゃないから気をつけて",
     "url": "https://qiita.com/yoshizaki_91/items/fa8b45918445bb3e6dc3",
-    "likes_count": 1331,
+    "likes_count": 1330,
     "created_at": "2017-11-21T12:22:15+09:00",
     "updated_at": "2017-11-22T09:28:48+09:00",
     "id": "yoshizaki_91"
@@ -66,7 +66,7 @@
   {
     "title": "欲しいものが無いからつくってみました。誰でも使えるオープンソースなネットワークアイコン集",
     "url": "https://qiita.com/tamura__246/items/554cfa151ec999aa9eac",
-    "likes_count": 781,
+    "likes_count": 780,
     "created_at": "2017-11-01T19:15:32+09:00",
     "updated_at": "2017-11-28T21:07:24+09:00",
     "id": "tamura__246"
@@ -82,7 +82,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 758,
+    "likes_count": 759,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonで使う競技プログラミング用チートシート",
     "url": "https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0",
-    "likes_count": 653,
+    "likes_count": 654,
     "created_at": "2017-11-12T02:03:04+09:00",
     "updated_at": "2019-08-22T21:01:24+09:00",
     "id": "_-_-_-_-_"
@@ -162,7 +162,7 @@
   {
     "title": "なぜオブジェクト指向は難しいのか",
     "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 569,
+    "likes_count": 571,
     "created_at": "2017-11-16T01:47:45+09:00",
     "updated_at": "2021-01-05T10:16:02+09:00",
     "id": "tutinoco"
@@ -202,18 +202,10 @@
   {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
     "url": "https://qiita.com/akameco/items/519f7e4d5442b2a9d2da",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2017-11-19T03:46:34+09:00",
     "updated_at": "2020-03-23T18:38:33+09:00",
     "id": "akameco"
-  },
-  {
-    "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
-    "url": "https://qiita.com/nh321/items/f7e20c7ba737ff5c0f60",
-    "likes_count": 509,
-    "created_at": "2017-11-26T01:05:44+09:00",
-    "updated_at": "2018-10-01T21:43:41+09:00",
-    "id": "nh321"
   },
   {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
@@ -222,6 +214,14 @@
     "created_at": "2017-11-25T15:34:09+09:00",
     "updated_at": "2020-03-18T13:27:49+09:00",
     "id": "yonedaco"
+  },
+  {
+    "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
+    "url": "https://qiita.com/nh321/items/f7e20c7ba737ff5c0f60",
+    "likes_count": 508,
+    "created_at": "2017-11-26T01:05:44+09:00",
+    "updated_at": "2018-10-01T21:43:41+09:00",
+    "id": "nh321"
   },
   {
     "title": "draw.ioでAWSのインフラ構成図を書く",
@@ -234,7 +234,7 @@
   {
     "title": " シェルスクリプトを何万倍も遅くしないためには —— ループせずフィルタしよう",
     "url": "https://qiita.com/8x9/items/f1156503694d3683e78d",
-    "likes_count": 472,
+    "likes_count": 473,
     "created_at": "2017-12-01T07:53:51+09:00",
     "updated_at": "2018-07-15T22:48:25+09:00",
     "id": "8x9"
@@ -250,7 +250,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -264,20 +264,20 @@
     "id": "toshi0607"
   },
   {
+    "title": "文書ベクトルをお手軽に高い精度で作れるSCDVって実際どうなのか日本語コーパスで実験した(EMNLP2017)",
+    "url": "https://qiita.com/fufufukakaka/items/a7316273908a7c400868",
+    "likes_count": 435,
+    "created_at": "2017-11-12T10:57:13+09:00",
+    "updated_at": "2019-10-23T12:18:57+09:00",
+    "id": "fufufukakaka"
+  },
+  {
     "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
     "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
     "likes_count": 435,
     "created_at": "2017-11-18T06:21:52+09:00",
     "updated_at": "2020-12-23T00:39:19+09:00",
     "id": "t_nakayama0714"
-  },
-  {
-    "title": "文書ベクトルをお手軽に高い精度で作れるSCDVって実際どうなのか日本語コーパスで実験した(EMNLP2017)",
-    "url": "https://qiita.com/fufufukakaka/items/a7316273908a7c400868",
-    "likes_count": 434,
-    "created_at": "2017-11-12T10:57:13+09:00",
-    "updated_at": "2019-10-23T12:18:57+09:00",
-    "id": "fufufukakaka"
   },
   {
     "title": "[React Native入門完全版]「いきなりデート」のアプリをReact Nativeで開発した知見をまとめます。",
@@ -378,7 +378,7 @@
   {
     "title": "意味がわかる主成分分析",
     "url": "https://qiita.com/NoriakiOshita/items/460247bb57c22973a5f0",
-    "likes_count": 346,
+    "likes_count": 345,
     "created_at": "2017-11-30T05:00:00+09:00",
     "updated_at": "2021-02-05T07:37:43+09:00",
     "id": "NoriakiOshita"
@@ -426,7 +426,7 @@
   {
     "title": "Django: モデルフィールドリファレンスの一覧",
     "url": "https://qiita.com/nachashin/items/f768f0d437e0042dd4b3",
-    "likes_count": 298,
+    "likes_count": 299,
     "created_at": "2017-11-15T13:54:29+09:00",
     "updated_at": "2018-10-20T17:15:00+09:00",
     "id": "nachashin"
@@ -450,7 +450,7 @@
   {
     "title": "逆強化学習を理解する",
     "url": "https://qiita.com/shiro-kuma/items/aaab6184aea7d285b103",
-    "likes_count": 253,
+    "likes_count": 254,
     "created_at": "2017-11-06T01:20:12+09:00",
     "updated_at": "2017-11-06T10:33:46+09:00",
     "id": "shiro-kuma"
