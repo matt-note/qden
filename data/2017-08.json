@@ -2,7 +2,7 @@
   {
     "title": "async/await 入門（JavaScript）",
     "url": "https://qiita.com/soarflat/items/1a9613e023200bbebcb3",
-    "likes_count": 2604,
+    "likes_count": 2606,
     "created_at": "2017-08-03T14:25:22+09:00",
     "updated_at": "2021-02-25T19:47:34+09:00",
     "id": "soarflat"
@@ -18,7 +18,7 @@
   {
     "title": "VS Code の便利なショートカットキー",
     "url": "https://qiita.com/12345/items/64f4372fbca041e949d0",
-    "likes_count": 2429,
+    "likes_count": 2431,
     "created_at": "2017-08-13T07:04:56+09:00",
     "updated_at": "2021-02-14T13:57:53+09:00",
     "id": "12345"
@@ -26,7 +26,7 @@
   {
     "title": "優秀な技術者を追い出してしまう方法",
     "url": "https://qiita.com/nonbiri15/items/961543c6460432289a02",
-    "likes_count": 1813,
+    "likes_count": 1814,
     "created_at": "2017-08-12T14:31:39+09:00",
     "updated_at": "2018-10-25T01:27:25+09:00",
     "id": "nonbiri15"
@@ -42,7 +42,7 @@
   {
     "title": "一番詳しいCSS設計規則BEMのマニュアル",
     "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
-    "likes_count": 1327,
+    "likes_count": 1328,
     "created_at": "2017-08-30T20:48:41+09:00",
     "updated_at": "2019-07-16T17:00:50+09:00",
     "id": "Takuan_Oishii"
@@ -58,7 +58,7 @@
   {
     "title": "<script> タグに async / defer を付けた場合のタイミング",
     "url": "https://qiita.com/phanect/items/82c85ea4b8f9c373d684",
-    "likes_count": 1209,
+    "likes_count": 1210,
     "created_at": "2017-08-05T21:05:47+09:00",
     "updated_at": "2019-02-23T10:01:33+09:00",
     "id": "phanect"
@@ -66,7 +66,7 @@
   {
     "title": "Swaggerの概要をまとめてみた。",
     "url": "https://qiita.com/gcyata/items/342073fa7607fd4082bd",
-    "likes_count": 1078,
+    "likes_count": 1079,
     "created_at": "2017-08-25T18:03:53+09:00",
     "updated_at": "2018-02-17T23:09:25+09:00",
     "id": "gcyata"
@@ -98,7 +98,7 @@
   {
     "title": "ECS運用のノウハウ",
     "url": "https://qiita.com/naomichi-y/items/d933867127f27524686a",
-    "likes_count": 755,
+    "likes_count": 759,
     "created_at": "2017-08-31T12:21:20+09:00",
     "updated_at": "2021-02-08T13:29:25+09:00",
     "id": "naomichi-y"
@@ -106,7 +106,7 @@
   {
     "title": "一から始める機械学習（機械学習概要）",
     "url": "https://qiita.com/taki_tflare/items/42a40119d3d8e622edd2",
-    "likes_count": 741,
+    "likes_count": 742,
     "created_at": "2017-08-12T06:17:01+09:00",
     "updated_at": "2020-04-23T20:31:42+09:00",
     "id": "taki_tflare"
@@ -114,7 +114,7 @@
   {
     "title": "【Swift】Dateの王道 【日付】",
     "url": "https://qiita.com/rinov/items/bff12e9ea1251e895306",
-    "likes_count": 725,
+    "likes_count": 726,
     "created_at": "2017-08-13T20:52:32+09:00",
     "updated_at": "2020-05-14T17:10:50+09:00",
     "id": "rinov"
@@ -170,7 +170,7 @@
   {
     "title": "Capybaraチートシート",
     "url": "https://qiita.com/morrr/items/0e24251c049180218db4",
-    "likes_count": 418,
+    "likes_count": 417,
     "created_at": "2017-08-20T01:45:12+09:00",
     "updated_at": "2017-08-20T01:45:12+09:00",
     "id": "morrr"
@@ -202,7 +202,7 @@
   {
     "title": "GitLab CIでテスト・ビルド・デプロイを自動化する ",
     "url": "https://qiita.com/bremen/items/f47f383b9931a840a25c",
-    "likes_count": 369,
+    "likes_count": 368,
     "created_at": "2017-08-27T13:50:26+09:00",
     "updated_at": "2017-08-27T23:37:02+09:00",
     "id": "bremen"
@@ -262,6 +262,14 @@
     "created_at": "2017-08-19T14:34:24+09:00",
     "updated_at": "2017-08-21T16:23:10+09:00",
     "id": "chihiro"
+  },
+  {
+    "title": "【入門者向け解説】openCV顔検出の仕組と実践(detectMultiScale)",
+    "url": "https://qiita.com/FukuharaYohei/items/ec6dce7cc5ea21a51a82",
+    "likes_count": 266,
+    "created_at": "2017-08-03T19:16:26+09:00",
+    "updated_at": "2019-09-19T15:59:34+09:00",
+    "id": "FukuharaYohei"
   },
   {
     "title": "PuppeteerでヘッドレスChromeを操ってみる",

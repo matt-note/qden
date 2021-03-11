@@ -2,7 +2,7 @@
   {
     "title": "30分で出来る、JavaScript (Electron) でデスクトップアプリを作って配布するまで",
     "url": "https://qiita.com/nyanchu/items/15d514d9b9f87e5c0a29",
-    "likes_count": 2644,
+    "likes_count": 2645,
     "created_at": "2015-07-18T19:13:38+09:00",
     "updated_at": "2019-08-08T10:36:44+09:00",
     "id": "nyanchu"
@@ -18,7 +18,7 @@
   {
     "title": "意外ととっつきやすいOSS開発参加方法まとめ",
     "url": "https://qiita.com/shunsuke227ono/items/94dd6e707d34a1da2617",
-    "likes_count": 1851,
+    "likes_count": 1852,
     "created_at": "2015-07-14T08:41:06+09:00",
     "updated_at": "2016-11-14T12:07:23+09:00",
     "id": "shunsuke227ono"
@@ -50,7 +50,7 @@
   {
     "title": "PowerShell 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/bb0f5e4f1c7ce045cc57",
-    "likes_count": 1402,
+    "likes_count": 1404,
     "created_at": "2015-07-11T00:26:58+09:00",
     "updated_at": "2020-07-29T08:37:53+09:00",
     "id": "opengl-8080"
@@ -114,7 +114,7 @@
   {
     "title": "「SELinuxのせいで動かない」撲滅ガイド",
     "url": "https://qiita.com/yunano/items/857ab36faa0d695573dd",
-    "likes_count": 1010,
+    "likes_count": 1011,
     "created_at": "2015-07-16T09:40:00+09:00",
     "updated_at": "2015-07-19T20:10:51+09:00",
     "id": "yunano"
@@ -146,7 +146,7 @@
   {
     "title": "リーダブルコード要約とリーダブルコード要約の活用方法",
     "url": "https://qiita.com/AKB428/items/20e81ccc8d9998b5535d",
-    "likes_count": 812,
+    "likes_count": 811,
     "created_at": "2015-07-07T01:07:07+09:00",
     "updated_at": "2016-05-06T19:52:36+09:00",
     "id": "AKB428"
@@ -162,7 +162,7 @@
   {
     "title": "色々な git stash",
     "url": "https://qiita.com/akasakas/items/768c0b563b96f8a9be9d",
-    "likes_count": 774,
+    "likes_count": 775,
     "created_at": "2015-07-05T15:11:08+09:00",
     "updated_at": "2017-08-02T15:37:41+09:00",
     "id": "akasakas"
@@ -200,20 +200,20 @@
     "id": "Tocyuki"
   },
   {
+    "title": "WebRTCによるビデオチャットサービスの開発",
+    "url": "https://qiita.com/chiku_/items/ece8f14a6f6139f40d71",
+    "likes_count": 667,
+    "created_at": "2015-07-30T18:22:03+09:00",
+    "updated_at": "2015-07-30T18:22:03+09:00",
+    "id": "chiku_"
+  },
+  {
     "title": "非同期通信（Ajax）をするときはタイムアウト処理を必ず入れてほしい（切実）",
     "url": "https://qiita.com/tonkotsuboy_com/items/d1b3cf45ae5135441f9b",
     "likes_count": 666,
     "created_at": "2015-07-04T19:36:04+09:00",
     "updated_at": "2018-10-31T18:32:58+09:00",
     "id": "tonkotsuboy_com"
-  },
-  {
-    "title": "WebRTCによるビデオチャットサービスの開発",
-    "url": "https://qiita.com/chiku_/items/ece8f14a6f6139f40d71",
-    "likes_count": 666,
-    "created_at": "2015-07-30T18:22:03+09:00",
-    "updated_at": "2015-07-30T18:22:03+09:00",
-    "id": "chiku_"
   },
   {
     "title": "クリップボード拡張Macアプリ「Clipy」を公開しました",
@@ -234,7 +234,7 @@
   {
     "title": "yumリポジトリ追加リスト 完全版",
     "url": "https://qiita.com/bezeklik/items/9766003c19f9664602fe",
-    "likes_count": 635,
+    "likes_count": 634,
     "created_at": "2015-07-09T11:48:47+09:00",
     "updated_at": "2018-04-04T11:04:08+09:00",
     "id": "bezeklik"
@@ -346,7 +346,7 @@
   {
     "title": "Rackとは何か",
     "url": "https://qiita.com/k0kubun/items/248395f68164b52aec4a",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2015-07-12T04:01:10+09:00",
     "updated_at": "2015-07-12T12:24:28+09:00",
     "id": "k0kubun"
@@ -354,7 +354,7 @@
   {
     "title": "優れた dotfiles を設計して、最速で環境構築する話",
     "url": "https://qiita.com/b4b4r07/items/24872cdcbec964ce2178",
-    "likes_count": 377,
+    "likes_count": 378,
     "created_at": "2015-07-22T09:08:51+09:00",
     "updated_at": "2019-08-08T18:31:23+09:00",
     "id": "b4b4r07"
@@ -418,7 +418,7 @@
   {
     "title": "テキストの縦方向の中央揃えについて",
     "url": "https://qiita.com/Shinji-m/items/69a392685699f3ba95fb",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2015-07-25T01:06:06+09:00",
     "updated_at": "2015-07-30T14:42:25+09:00",
     "id": "Shinji-m"
@@ -466,7 +466,7 @@
   {
     "title": "ブラウザ上で使えるJavaScript製テキストエディタAce入門",
     "url": "https://qiita.com/naga3/items/1bc268243f2e8a6514e5",
-    "likes_count": 304,
+    "likes_count": 305,
     "created_at": "2015-07-30T15:06:22+09:00",
     "updated_at": "2015-07-31T18:01:34+09:00",
     "id": "naga3"
