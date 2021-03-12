@@ -10,7 +10,7 @@
   {
     "title": "VSCodeでのGitの基本操作まとめ",
     "url": "https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be",
-    "likes_count": 1911,
+    "likes_count": 1914,
     "created_at": "2019-04-15T07:38:11+09:00",
     "updated_at": "2021-02-18T10:46:24+09:00",
     "id": "y-tsutsu"
@@ -34,7 +34,7 @@
   {
     "title": "vimって極めればvscode並のIDEになるんじゃないの？",
     "url": "https://qiita.com/ulwlu/items/98901f4c4f0683e7aa57",
-    "likes_count": 1445,
+    "likes_count": 1446,
     "created_at": "2019-04-08T09:40:52+09:00",
     "updated_at": "2020-11-19T22:17:27+09:00",
     "id": "ulwlu"
@@ -42,7 +42,7 @@
   {
     "title": "再帰関数を学ぶと、どんな世界が広がるか",
     "url": "https://qiita.com/drken/items/23a4f604fa3f505dd5ad",
-    "likes_count": 1428,
+    "likes_count": 1433,
     "created_at": "2019-04-04T10:44:13+09:00",
     "updated_at": "2020-08-07T16:31:29+09:00",
     "id": "drken"
@@ -114,7 +114,7 @@
   {
     "title": "0.0.0.0にはアクセスしないこと",
     "url": "https://qiita.com/amuyikam/items/0063df223aed40193ba9",
-    "likes_count": 725,
+    "likes_count": 726,
     "created_at": "2019-04-04T07:58:11+09:00",
     "updated_at": "2019-04-07T00:03:37+09:00",
     "id": "amuyikam"
@@ -144,6 +144,14 @@
     "id": "opengl-8080"
   },
   {
+    "title": "AtCoderで始めるPython入門",
+    "url": "https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c",
+    "likes_count": 620,
+    "created_at": "2019-04-04T14:41:04+09:00",
+    "updated_at": "2021-03-06T23:35:28+09:00",
+    "id": "KoyanagiHitoshi"
+  },
+  {
     "title": "pͪoͣnͬpͣoͥnͭpͣa͡inͥを支える技術",
     "url": "https://qiita.com/ykhirao/items/9ca1fbd294883e06dbd6",
     "likes_count": 619,
@@ -152,17 +160,9 @@
     "id": "ykhirao"
   },
   {
-    "title": "AtCoderで始めるPython入門",
-    "url": "https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c",
-    "likes_count": 617,
-    "created_at": "2019-04-04T14:41:04+09:00",
-    "updated_at": "2021-03-06T23:35:28+09:00",
-    "id": "KoyanagiHitoshi"
-  },
-  {
     "title": "全プログラマに捧ぐ！図解「ノートブック」",
     "url": "https://qiita.com/hinastory/items/e179361ae806e8776c70",
-    "likes_count": 593,
+    "likes_count": 594,
     "created_at": "2019-04-10T02:05:29+09:00",
     "updated_at": "2019-04-20T05:57:57+09:00",
     "id": "hinastory"
@@ -178,7 +178,7 @@
   {
     "title": "グラフ作成のためのチートシートとPythonによる各種グラフの実装",
     "url": "https://qiita.com/4m1t0/items/76b0033edb545a78cef5",
-    "likes_count": 558,
+    "likes_count": 559,
     "created_at": "2019-04-06T11:41:20+09:00",
     "updated_at": "2019-11-09T00:29:26+09:00",
     "id": "4m1t0"
@@ -194,7 +194,7 @@
   {
     "title": "Vue.js to TypeScriptの書き方一覧",
     "url": "https://qiita.com/ryo2132/items/4d43209ea89ad1297426",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2019-04-13T22:02:28+09:00",
     "updated_at": "2019-09-09T10:32:08+09:00",
     "id": "ryo2132"
@@ -210,7 +210,7 @@
   {
     "title": "JupyterLabのおすすめ拡張機能9選",
     "url": "https://qiita.com/canonrock16/items/d166c93087a4aafd2db4",
-    "likes_count": 544,
+    "likes_count": 545,
     "created_at": "2019-04-11T21:07:49+09:00",
     "updated_at": "2021-03-02T17:22:05+09:00",
     "id": "canonrock16"
@@ -250,7 +250,7 @@
   {
     "title": "コーディングテストに打ち勝つ",
     "url": "https://qiita.com/yohachi/items/e4bef4035da135a4808d",
-    "likes_count": 436,
+    "likes_count": 438,
     "created_at": "2019-04-18T22:21:07+09:00",
     "updated_at": "2019-04-18T22:21:26+09:00",
     "id": "yohachi"
@@ -266,7 +266,7 @@
   {
     "title": "OAuth アクセストークンの実装に関する考察",
     "url": "https://qiita.com/TakahikoKawasaki/items/970548727761f9e02bcd",
-    "likes_count": 403,
+    "likes_count": 404,
     "created_at": "2019-04-02T19:57:39+09:00",
     "updated_at": "2021-02-02T16:30:04+09:00",
     "id": "TakahikoKawasaki"
@@ -314,7 +314,7 @@
   {
     "title": "JavaScriptに参照渡し/値渡しなど存在しない",
     "url": "https://qiita.com/yuta0801/items/f8690a6e129c594de5fb",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2019-04-18T18:02:14+09:00",
     "updated_at": "2021-01-18T20:57:05+09:00",
     "id": "yuta0801"
@@ -374,6 +374,14 @@
     "created_at": "2019-04-24T09:50:00+09:00",
     "updated_at": "2019-04-26T17:24:33+09:00",
     "id": "tomohiku"
+  },
+  {
+    "title": "VSCodeで始めるVim",
+    "url": "https://qiita.com/jintz/items/d357478271179c90ffab",
+    "likes_count": 259,
+    "created_at": "2019-04-19T13:19:08+09:00",
+    "updated_at": "2021-02-07T11:40:25+09:00",
+    "id": "jintz"
   },
   {
     "title": "新しいAndroidプロジェクトを作るならこれ！Android設計＆Kotlin入門資料集2019",
