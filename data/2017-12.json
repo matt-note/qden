@@ -50,7 +50,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1246,
+    "likes_count": 1245,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -130,7 +130,7 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 842,
+    "likes_count": 843,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
@@ -146,7 +146,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 832,
+    "likes_count": 833,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -162,7 +162,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 817,
+    "likes_count": 819,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -218,7 +218,7 @@
   {
     "title": "仮想通貨自動取引入門",
     "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
-    "likes_count": 752,
+    "likes_count": 753,
     "created_at": "2017-12-17T11:54:43+09:00",
     "updated_at": "2018-08-23T10:49:03+09:00",
     "id": "shionhonda"
@@ -226,7 +226,7 @@
   {
     "title": "割と突き詰めてやったvim→vscode移行",
     "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
-    "likes_count": 731,
+    "likes_count": 732,
     "created_at": "2017-12-18T10:12:06+09:00",
     "updated_at": "2019-07-10T10:58:40+09:00",
     "id": "y-mattun"
@@ -322,7 +322,7 @@
   {
     "title": "次にJSガッツリ書くときはTypeScriptで",
     "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
-    "likes_count": 576,
+    "likes_count": 577,
     "created_at": "2017-12-26T18:52:16+09:00",
     "updated_at": "2020-06-27T01:29:19+09:00",
     "id": "yuya_presto"
@@ -346,7 +346,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 548,
+    "likes_count": 549,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -384,20 +384,20 @@
     "id": "Quramy"
   },
   {
+    "title": "systemctl コマンド",
+    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
+    "likes_count": 506,
+    "created_at": "2017-12-08T14:15:47+09:00",
+    "updated_at": "2019-03-14T16:14:00+09:00",
+    "id": "sinsengumi"
+  },
+  {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
     "likes_count": 506,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
-  },
-  {
-    "title": "systemctl コマンド",
-    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 505,
-    "created_at": "2017-12-08T14:15:47+09:00",
-    "updated_at": "2019-03-14T16:14:00+09:00",
-    "id": "sinsengumi"
   },
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
@@ -458,7 +458,7 @@
   {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
@@ -530,7 +530,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2021-02-20T14:11:08+09:00",
     "id": "sorami"
@@ -570,7 +570,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 372,
+    "likes_count": 373,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
@@ -578,7 +578,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 370,
+    "likes_count": 372,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -602,7 +602,7 @@
   {
     "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
     "url": "https://qiita.com/takish/items/a58c1517c6ac5887ba87",
-    "likes_count": 357,
+    "likes_count": 356,
     "created_at": "2017-12-19T18:52:47+09:00",
     "updated_at": "2018-09-27T10:37:03+09:00",
     "id": "takish"
@@ -666,7 +666,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 334,
+    "likes_count": 335,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
@@ -682,7 +682,7 @@
   {
     "title": "Kaggleの練習問題（Regression）を解いてKagglerになる",
     "url": "https://qiita.com/katsu1110/items/a1c3185fec39e5629bcb",
-    "likes_count": 331,
+    "likes_count": 332,
     "created_at": "2017-12-15T08:47:16+09:00",
     "updated_at": "2019-06-27T18:00:30+09:00",
     "id": "katsu1110"
@@ -722,7 +722,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 307,
+    "likes_count": 308,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
@@ -754,7 +754,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 288,
+    "likes_count": 289,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
