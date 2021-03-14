@@ -90,7 +90,7 @@
   {
     "title": "SSH接続エラー回避方法：.ssh/known_hostsから特定のホストを削除する/削除しないで対処する3つの方法",
     "url": "https://qiita.com/grgrjnjn/items/8ca33b64ea0406e12938",
-    "likes_count": 851,
+    "likes_count": 852,
     "created_at": "2014-02-28T19:28:51+09:00",
     "updated_at": "2020-01-24T21:28:53+09:00",
     "id": "grgrjnjn"
@@ -178,7 +178,7 @@
   {
     "title": "JavaScriptの「型」の判定について",
     "url": "https://qiita.com/south37/items/c8d20a069fcbfe4fce85",
-    "likes_count": 563,
+    "likes_count": 564,
     "created_at": "2014-02-20T02:40:09+09:00",
     "updated_at": "2018-05-18T11:45:49+09:00",
     "id": "south37"
@@ -202,7 +202,7 @@
   {
     "title": "[PHP] リクエストパラメータ・セッションに関するまとめ",
     "url": "https://qiita.com/mpyw/items/7852213f478e8c5a2802",
-    "likes_count": 496,
+    "likes_count": 497,
     "created_at": "2014-02-22T21:24:33+09:00",
     "updated_at": "2017-01-20T13:05:56+09:00",
     "id": "mpyw"
@@ -296,20 +296,20 @@
     "id": "k_kinukawa"
   },
   {
+    "title": "itertoolsによる順列、組み合わせ、直積のお勉強",
+    "url": "https://qiita.com/junkls/items/10384950963056cc8e08",
+    "likes_count": 386,
+    "created_at": "2014-02-25T13:40:45+09:00",
+    "updated_at": "2014-02-25T13:40:45+09:00",
+    "id": "junkls"
+  },
+  {
     "title": "git commit --allow-empty を使った WIP PR ワークフロー",
     "url": "https://qiita.com/a-suenami/items/129e09f8550f31e4c2da",
     "likes_count": 385,
     "created_at": "2014-02-19T13:13:21+09:00",
     "updated_at": "2014-02-19T13:13:21+09:00",
     "id": "a-suenami"
-  },
-  {
-    "title": "itertoolsによる順列、組み合わせ、直積のお勉強",
-    "url": "https://qiita.com/junkls/items/10384950963056cc8e08",
-    "likes_count": 385,
-    "created_at": "2014-02-25T13:40:45+09:00",
-    "updated_at": "2014-02-25T13:40:45+09:00",
-    "id": "junkls"
   },
   {
     "title": "[Vagrant] Vagrant で複数のVM を立ち上げて、お互いに通信できるようにするには [VirtualBox]",
@@ -362,7 +362,7 @@
   {
     "title": "nginx で http でのアクセスを https にリダイレクト",
     "url": "https://qiita.com/kga/items/e30d668ec1ac5e30025b",
-    "likes_count": 316,
+    "likes_count": 315,
     "created_at": "2014-02-14T13:36:49+09:00",
     "updated_at": "2014-08-18T21:26:00+09:00",
     "id": "kga"

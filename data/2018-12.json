@@ -26,7 +26,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1505,
+    "likes_count": 1508,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -34,7 +34,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1490,
+    "likes_count": 1491,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -74,7 +74,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1190,
+    "likes_count": 1191,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -98,7 +98,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1017,
+    "likes_count": 1018,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -186,7 +186,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 867,
+    "likes_count": 868,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -202,7 +202,7 @@
   {
     "title": "Reactベース静的サイトジェネレータGatsbyの真の力をお見せします",
     "url": "https://qiita.com/uehaj/items/1b7f0a86596353587466",
-    "likes_count": 851,
+    "likes_count": 852,
     "created_at": "2018-12-21T18:18:40+09:00",
     "updated_at": "2021-01-28T18:23:11+09:00",
     "id": "uehaj"
@@ -418,7 +418,7 @@
   {
     "title": "Go Modules",
     "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2018-12-05T13:44:24+09:00",
     "updated_at": "2019-07-17T17:52:30+09:00",
     "id": "propella"
@@ -466,7 +466,7 @@
   {
     "title": "GCPとDockerでKaggle用計算環境構築",
     "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
-    "likes_count": 394,
+    "likes_count": 393,
     "created_at": "2018-12-20T19:03:59+09:00",
     "updated_at": "2018-12-21T01:51:55+09:00",
     "id": "lain21"
@@ -528,20 +528,20 @@
     "id": "shimopino"
   },
   {
+    "title": "Herokuを使いこなすのに必要な術",
+    "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
+    "likes_count": 357,
+    "created_at": "2018-12-04T18:58:45+09:00",
+    "updated_at": "2019-01-29T22:10:42+09:00",
+    "id": "fuwamaki"
+  },
+  {
     "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
     "url": "https://qiita.com/okamu_/items/a8577431749b72869aa3",
     "likes_count": 357,
     "created_at": "2018-12-26T07:50:58+09:00",
     "updated_at": "2019-12-26T14:39:03+09:00",
     "id": "okamu_"
-  },
-  {
-    "title": "Herokuを使いこなすのに必要な術",
-    "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 356,
-    "created_at": "2018-12-04T18:58:45+09:00",
-    "updated_at": "2019-01-29T22:10:42+09:00",
-    "id": "fuwamaki"
   },
   {
     "title": "Nuxt, netlify, Firebase を使ったWebサービス開発と個人開発における技術選定のポイント",
@@ -554,7 +554,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 339,
+    "likes_count": 340,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -658,7 +658,7 @@
   {
     "title": "Web API初心者と学ぶGraphQL",
     "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2018-12-20T03:46:56+09:00",
     "updated_at": "2020-12-23T18:50:54+09:00",
     "id": "SiragumoHuin"
@@ -666,7 +666,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 269,
+    "likes_count": 270,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2020-12-24T15:38:26+09:00",
     "id": "_takeshi_24"
@@ -690,7 +690,7 @@
   {
     "title": "エンジニア向けのポートフォリオサイトまとめ",
     "url": "https://qiita.com/turmericN/items/37c3fbe00ee6bbc7e201",
-    "likes_count": 231,
+    "likes_count": 232,
     "created_at": "2018-12-19T08:26:38+09:00",
     "updated_at": "2018-12-21T13:12:59+09:00",
     "id": "turmericN"

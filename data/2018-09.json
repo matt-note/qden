@@ -2,7 +2,7 @@
   {
     "title": "VSCodeのオススメ拡張機能 24 選   (とTipsをいくつか)",
     "url": "https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234",
-    "likes_count": 5250,
+    "likes_count": 5253,
     "created_at": "2018-09-30T14:57:40+09:00",
     "updated_at": "2020-02-09T01:38:33+09:00",
     "id": "sensuikan1973"
@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 2277,
+    "likes_count": 2278,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -42,7 +42,7 @@
   {
     "title": "Reactで誰もがやりたかった10の機能。アプリ構想はあるけど作れない人の壁をぶっ壊す。",
     "url": "https://qiita.com/y_kawase/items/8f1b5a303400a09c4923",
-    "likes_count": 1864,
+    "likes_count": 1865,
     "created_at": "2018-09-03T11:52:27+09:00",
     "updated_at": "2019-04-21T16:22:29+09:00",
     "id": "y_kawase"
@@ -58,7 +58,7 @@
   {
     "title": "今から始めるReact入門 〜 React の基本",
     "url": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
-    "likes_count": 1686,
+    "likes_count": 1689,
     "created_at": "2018-09-08T14:12:46+09:00",
     "updated_at": "2021-01-10T14:41:43+09:00",
     "id": "TsutomuNakamura"
@@ -138,10 +138,18 @@
   {
     "title": "Docker、ボリューム(Volume)について真面目に調べた",
     "url": "https://qiita.com/gounx2/items/23b0dc8b8b95cc629f32",
-    "likes_count": 796,
+    "likes_count": 798,
     "created_at": "2018-09-28T01:01:49+09:00",
     "updated_at": "2019-10-05T15:34:08+09:00",
     "id": "gounx2"
+  },
+  {
+    "title": "Nuxt.jsを使うときに、SPA・SSR・SSGのどれがいいか迷ったら",
+    "url": "https://qiita.com/nishinoshake/items/f42e2f03663b00b5886d",
+    "likes_count": 785,
+    "created_at": "2018-09-17T20:15:21+09:00",
+    "updated_at": "2020-11-22T10:02:30+09:00",
+    "id": "nishinoshake"
   },
   {
     "title": "Twitter API 登録 (アカウント申請方法) から承認されるまでの手順まとめ　※2019年8月時点の情報 ",
@@ -150,14 +158,6 @@
     "created_at": "2018-09-13T18:03:44+09:00",
     "updated_at": "2019-08-04T17:13:51+09:00",
     "id": "kngsym2018"
-  },
-  {
-    "title": "Nuxt.jsを使うときに、SPA・SSR・SSGのどれがいいか迷ったら",
-    "url": "https://qiita.com/nishinoshake/items/f42e2f03663b00b5886d",
-    "likes_count": 784,
-    "created_at": "2018-09-17T20:15:21+09:00",
-    "updated_at": "2020-11-22T10:02:30+09:00",
-    "id": "nishinoshake"
   },
   {
     "title": "Nuxt.js, Firebase, Stripe をフル活用してサーバーレスでJAMStackなECサイトを2日で開発した話",
@@ -178,7 +178,7 @@
   {
     "title": "深層強化学習アルゴリズムまとめ",
     "url": "https://qiita.com/shionhonda/items/ec05aade07b5bea78081",
-    "likes_count": 724,
+    "likes_count": 726,
     "created_at": "2018-09-19T14:08:40+09:00",
     "updated_at": "2020-09-10T10:08:36+09:00",
     "id": "shionhonda"
@@ -258,7 +258,7 @@
   {
     "title": "SSHの公開鍵認証における良くある誤解の話",
     "url": "https://qiita.com/angel_p_57/items/2e3f3f8661de32a0d432",
-    "likes_count": 556,
+    "likes_count": 558,
     "created_at": "2018-09-17T21:58:02+09:00",
     "updated_at": "2018-09-17T21:58:02+09:00",
     "id": "angel_p_57"
@@ -266,7 +266,7 @@
   {
     "title": "機械学習／ディープラーニングにおけるバッチサイズ、イテレーション数、エポック数の決め方",
     "url": "https://qiita.com/kenta1984/items/bad75a37d552510e4682",
-    "likes_count": 553,
+    "likes_count": 554,
     "created_at": "2018-09-21T23:14:49+09:00",
     "updated_at": "2020-06-09T22:33:54+09:00",
     "id": "kenta1984"
@@ -274,7 +274,7 @@
   {
     "title": "Python3で競技プログラミングする時に知っておきたいtips（入力編）",
     "url": "https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c",
-    "likes_count": 529,
+    "likes_count": 528,
     "created_at": "2018-09-08T20:13:28+09:00",
     "updated_at": "2019-04-14T12:14:48+09:00",
     "id": "kyuna"
@@ -402,7 +402,7 @@
   {
     "title": "KotlinとJavaができる人向けDart速習",
     "url": "https://qiita.com/kikuchy/items/2cce118d38fc15324b2b",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2018-09-18T19:47:13+09:00",
     "updated_at": "2021-03-08T19:56:41+09:00",
     "id": "kikuchy"
@@ -546,7 +546,7 @@
   {
     "title": "今から始めるReact入門 〜 React Router",
     "url": "https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2018-09-09T19:21:12+09:00",
     "updated_at": "2020-06-14T22:05:03+09:00",
     "id": "TsutomuNakamura"
@@ -562,10 +562,18 @@
   {
     "title": "SCSSの基本的な書き方",
     "url": "https://qiita.com/nchhujimiyama/items/8a6aad5abead39d1352a",
-    "likes_count": 293,
+    "likes_count": 294,
     "created_at": "2018-09-21T16:06:04+09:00",
     "updated_at": "2020-02-15T22:45:11+09:00",
     "id": "nchhujimiyama"
+  },
+  {
+    "title": "VS Code でEmmet使ったらHTML書くの速くなった～‼",
+    "url": "https://qiita.com/tedkuma/items/67876e6be3369b0e730c",
+    "likes_count": 293,
+    "created_at": "2018-09-21T14:18:21+09:00",
+    "updated_at": "2018-09-25T16:43:47+09:00",
+    "id": "tedkuma"
   },
   {
     "title": "いまさらGit for Windowsのインストール、GitHubに接続してみた。",
@@ -574,14 +582,6 @@
     "created_at": "2018-09-13T15:01:37+09:00",
     "updated_at": "2018-09-13T16:20:24+09:00",
     "id": "manabu-watanabe"
-  },
-  {
-    "title": "VS Code でEmmet使ったらHTML書くの速くなった～‼",
-    "url": "https://qiita.com/tedkuma/items/67876e6be3369b0e730c",
-    "likes_count": 290,
-    "created_at": "2018-09-21T14:18:21+09:00",
-    "updated_at": "2018-09-25T16:43:47+09:00",
-    "id": "tedkuma"
   },
   {
     "title": "JavaScriptのオブジェクト指向は、逆の順番で学んだほうが理解しやすいと思うので…",
