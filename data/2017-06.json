@@ -2,7 +2,7 @@
   {
     "title": "【CSS3】@keyframes と animation 関連のまとめ",
     "url": "https://qiita.com/7968/items/1d999354e00db53bcbd8",
-    "likes_count": 1147,
+    "likes_count": 1150,
     "created_at": "2017-06-28T10:05:37+09:00",
     "updated_at": "2020-04-15T08:40:59+09:00",
     "id": "7968"
@@ -34,7 +34,7 @@
   {
     "title": "藤井四段で学ぶ最尤推定、MAP推定、ベイズ推定",
     "url": "https://qiita.com/jyori112/items/80b21422b15753a1c5a4",
-    "likes_count": 674,
+    "likes_count": 675,
     "created_at": "2017-06-25T21:21:45+09:00",
     "updated_at": "2020-01-08T03:45:59+09:00",
     "id": "jyori112"
@@ -58,7 +58,7 @@
   {
     "title": "機械学習の超初心者が、みんなが良いと言う記事を読んでまとめてみた",
     "url": "https://qiita.com/2ko2ko/items/bae866695dfdd4a4b5b5",
-    "likes_count": 600,
+    "likes_count": 601,
     "created_at": "2017-06-21T14:16:42+09:00",
     "updated_at": "2020-02-06T09:31:16+09:00",
     "id": "2ko2ko"
@@ -82,7 +82,7 @@
   {
     "title": "var/let/constの使い分けのメモ",
     "url": "https://qiita.com/masarufuruya/items/096e51c3e4c36c86ae27",
-    "likes_count": 551,
+    "likes_count": 552,
     "created_at": "2017-06-01T18:46:40+09:00",
     "updated_at": "2019-02-26T13:13:23+09:00",
     "id": "masarufuruya"
@@ -90,7 +90,7 @@
   {
     "title": "ES6のexportについて詳しく調べた",
     "url": "https://qiita.com/senou/items/a2f7a0f717d8aadabbf7",
-    "likes_count": 546,
+    "likes_count": 547,
     "created_at": "2017-06-25T19:19:38+09:00",
     "updated_at": "2020-02-10T08:04:21+09:00",
     "id": "senou"
@@ -138,7 +138,7 @@
   {
     "title": "Slack API 推奨Tokenについて",
     "url": "https://qiita.com/ykhirao/items/3b19ee6a1458cfb4ba21",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2017-06-14T17:25:03+09:00",
     "updated_at": "2019-05-17T11:12:46+09:00",
     "id": "ykhirao"
@@ -162,7 +162,7 @@
   {
     "title": "Laravel キャッシュクリア系コマンドなど",
     "url": "https://qiita.com/Ping/items/10ada8d069e13d729701",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2017-06-08T18:15:44+09:00",
     "updated_at": "2018-03-22T13:49:36+09:00",
     "id": "Ping"
@@ -264,6 +264,14 @@
     "id": "DeployCat"
   },
   {
+    "title": "FactoryBot(FactoryGirl)チートシート",
+    "url": "https://qiita.com/morrr/items/f1d3ac46b029ccddd017",
+    "likes_count": 311,
+    "created_at": "2017-06-08T22:14:35+09:00",
+    "updated_at": "2019-11-24T09:17:00+09:00",
+    "id": "morrr"
+  },
+  {
     "title": "Kotlin + Architecture Component + Dagger2によるAndroidアプリ設計",
     "url": "https://qiita.com/satorufujiwara/items/0f95ccfc3820d3ee1370",
     "likes_count": 311,
@@ -272,17 +280,9 @@
     "id": "satorufujiwara"
   },
   {
-    "title": "FactoryBot(FactoryGirl)チートシート",
-    "url": "https://qiita.com/morrr/items/f1d3ac46b029ccddd017",
-    "likes_count": 309,
-    "created_at": "2017-06-08T22:14:35+09:00",
-    "updated_at": "2019-11-24T09:17:00+09:00",
-    "id": "morrr"
-  },
-  {
     "title": "Gitを使ってPull Requestを投げるまで",
     "url": "https://qiita.com/takamii228/items/80c0996a0b5fa39337bd",
-    "likes_count": 275,
+    "likes_count": 276,
     "created_at": "2017-06-10T11:34:44+09:00",
     "updated_at": "2019-12-21T02:09:03+09:00",
     "id": "takamii228"

@@ -50,7 +50,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1290,
+    "likes_count": 1291,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2019-09-14T16:44:47+09:00",
     "id": "saboyutaka"
@@ -90,7 +90,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1031,
+    "likes_count": 1032,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -98,7 +98,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1018,
+    "likes_count": 1019,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptの概念たち (前編)",
     "url": "https://qiita.com/tsin1rou/items/90576b6c00b895478610",
-    "likes_count": 999,
+    "likes_count": 1000,
     "created_at": "2018-12-04T02:39:25+09:00",
     "updated_at": "2018-12-06T10:40:04+09:00",
     "id": "tsin1rou"
@@ -152,20 +152,20 @@
     "id": "_-_-_-_-_"
   },
   {
+    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
+    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
+    "likes_count": 931,
+    "created_at": "2018-12-03T11:08:40+09:00",
+    "updated_at": "2019-02-12T01:34:29+09:00",
+    "id": "drken"
+  },
+  {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
     "likes_count": 931,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
-  },
-  {
-    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
-    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 930,
-    "created_at": "2018-12-03T11:08:40+09:00",
-    "updated_at": "2019-02-12T01:34:29+09:00",
-    "id": "drken"
   },
   {
     "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
@@ -178,7 +178,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 914,
+    "likes_count": 915,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -226,7 +226,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 731,
+    "likes_count": 732,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -240,20 +240,20 @@
     "id": "junichiro"
   },
   {
+    "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
+    "url": "https://qiita.com/potato4d/items/c9c0c8e674f20c85948a",
+    "likes_count": 663,
+    "created_at": "2018-12-12T23:28:42+09:00",
+    "updated_at": "2019-12-05T12:05:20+09:00",
+    "id": "potato4d"
+  },
+  {
     "title": "2018年これだけは知っておきたいiOSライブラリ31選",
     "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
     "likes_count": 662,
     "created_at": "2018-12-12T19:17:50+09:00",
     "updated_at": "2019-03-18T13:42:44+09:00",
     "id": "kohei1218"
-  },
-  {
-    "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
-    "url": "https://qiita.com/potato4d/items/c9c0c8e674f20c85948a",
-    "likes_count": 662,
-    "created_at": "2018-12-12T23:28:42+09:00",
-    "updated_at": "2019-12-05T12:05:20+09:00",
-    "id": "potato4d"
   },
   {
     "title": "個人アプリ開発を支える技術と開発フロー",
@@ -266,7 +266,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 647,
+    "likes_count": 648,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -410,7 +410,7 @@
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
@@ -426,7 +426,7 @@
   {
     "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
     "url": "https://qiita.com/koizumittn/items/77923a8f71d47d895b34",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2018-12-29T11:42:35+09:00",
     "updated_at": "2019-01-21T20:31:35+09:00",
     "id": "koizumittn"
@@ -438,6 +438,14 @@
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
+  },
+  {
+    "title": "C++でクリーンなコードの書き方",
+    "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
+    "likes_count": 424,
+    "created_at": "2018-12-14T00:12:22+09:00",
+    "updated_at": "2020-04-06T23:32:00+09:00",
+    "id": "elipmoc101"
   },
   {
     "title": "今年、JavaScriptでの仕事の幅を広げた技術６選",
@@ -454,14 +462,6 @@
     "created_at": "2018-12-08T23:10:04+09:00",
     "updated_at": "2019-05-07T00:42:55+09:00",
     "id": "ryuichi1208"
-  },
-  {
-    "title": "C++でクリーンなコードの書き方",
-    "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 416,
-    "created_at": "2018-12-14T00:12:22+09:00",
-    "updated_at": "2020-04-06T23:32:00+09:00",
-    "id": "elipmoc101"
   },
   {
     "title": "GCPとDockerでKaggle用計算環境構築",
@@ -514,7 +514,7 @@
   {
     "title": "JavaScript Standard Styleのススメ",
     "url": "https://qiita.com/munieru_jp/items/ca16cbfa859468137d2e",
-    "likes_count": 364,
+    "likes_count": 365,
     "created_at": "2018-12-01T19:07:28+09:00",
     "updated_at": "2020-02-19T21:14:49+09:00",
     "id": "munieru_jp"
@@ -528,20 +528,20 @@
     "id": "shimopino"
   },
   {
-    "title": "Herokuを使いこなすのに必要な術",
-    "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 357,
-    "created_at": "2018-12-04T18:58:45+09:00",
-    "updated_at": "2019-01-29T22:10:42+09:00",
-    "id": "fuwamaki"
-  },
-  {
     "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
     "url": "https://qiita.com/okamu_/items/a8577431749b72869aa3",
     "likes_count": 357,
     "created_at": "2018-12-26T07:50:58+09:00",
     "updated_at": "2019-12-26T14:39:03+09:00",
     "id": "okamu_"
+  },
+  {
+    "title": "Herokuを使いこなすのに必要な術",
+    "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
+    "likes_count": 356,
+    "created_at": "2018-12-04T18:58:45+09:00",
+    "updated_at": "2019-01-29T22:10:42+09:00",
+    "id": "fuwamaki"
   },
   {
     "title": "Nuxt, netlify, Firebase を使ったWebサービス開発と個人開発における技術選定のポイント",
@@ -658,7 +658,7 @@
   {
     "title": "Web API初心者と学ぶGraphQL",
     "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2018-12-20T03:46:56+09:00",
     "updated_at": "2020-12-23T18:50:54+09:00",
     "id": "SiragumoHuin"
@@ -666,7 +666,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 270,
+    "likes_count": 271,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2020-12-24T15:38:26+09:00",
     "id": "_takeshi_24"
@@ -682,7 +682,7 @@
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
     "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
-    "likes_count": 235,
+    "likes_count": 236,
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"
@@ -706,7 +706,7 @@
   {
     "title": "Python 環境構築いろいろ - Windows",
     "url": "https://qiita.com/yniji/items/b1b20211846a5a9f189b",
-    "likes_count": 210,
+    "likes_count": 211,
     "created_at": "2018-12-05T23:29:50+09:00",
     "updated_at": "2019-10-18T19:41:17+09:00",
     "id": "yniji"

@@ -170,7 +170,7 @@
   {
     "title": "Pythonで実用Discord Bot(discordpy解説)",
     "url": "https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f",
-    "likes_count": 595,
+    "likes_count": 596,
     "created_at": "2018-06-07T06:27:47+09:00",
     "updated_at": "2020-10-04T22:55:09+09:00",
     "id": "1ntegrale9"
@@ -194,7 +194,7 @@
   {
     "title": "ターミナルプロンプトの表示・色の変更",
     "url": "https://qiita.com/hmmrjn/items/60d2a64c9e5bf7c0fe60",
-    "likes_count": 544,
+    "likes_count": 546,
     "created_at": "2018-06-20T04:30:23+09:00",
     "updated_at": "2021-01-25T23:38:37+09:00",
     "id": "hmmrjn"
@@ -272,20 +272,20 @@
     "id": "nowokay"
   },
   {
+    "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
+    "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
+    "likes_count": 441,
+    "created_at": "2018-06-11T22:28:36+09:00",
+    "updated_at": "2019-07-16T14:45:28+09:00",
+    "id": "C3REVE"
+  },
+  {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
     "likes_count": 441,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2018-10-11T13:59:01+09:00",
     "id": "newta"
-  },
-  {
-    "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
-    "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
-    "likes_count": 440,
-    "created_at": "2018-06-11T22:28:36+09:00",
-    "updated_at": "2019-07-16T14:45:28+09:00",
-    "id": "C3REVE"
   },
   {
     "title": "【Vue.js】いつから「フロントエンド開発でTDDができない」と錯覚していた？",
@@ -368,20 +368,20 @@
     "id": "wagase"
   },
   {
+    "title": "正規化の要点を理解する",
+    "url": "https://qiita.com/mochichoco/items/2904384b2856db2bf46c",
+    "likes_count": 343,
+    "created_at": "2018-06-10T19:21:27+09:00",
+    "updated_at": "2021-03-12T19:32:52+09:00",
+    "id": "mochichoco"
+  },
+  {
     "title": "個人的にコードリーディングがはかどったテクニックまとめ",
     "url": "https://qiita.com/gotchane/items/ef69af260c40fa26d78b",
     "likes_count": 342,
     "created_at": "2018-06-24T11:46:07+09:00",
     "updated_at": "2018-06-27T20:55:27+09:00",
     "id": "gotchane"
-  },
-  {
-    "title": "正規化の要点を理解する",
-    "url": "https://qiita.com/mochichoco/items/2904384b2856db2bf46c",
-    "likes_count": 338,
-    "created_at": "2018-06-10T19:21:27+09:00",
-    "updated_at": "2021-03-12T19:32:52+09:00",
-    "id": "mochichoco"
   },
   {
     "title": "Reactのデザインパターン Compound Components",
@@ -442,7 +442,7 @@
   {
     "title": "ReactをRailsと共に使う方法",
     "url": "https://qiita.com/k-penguin-sato/items/e3cc04f787cf3254cfae",
-    "likes_count": 300,
+    "likes_count": 301,
     "created_at": "2018-06-25T08:38:55+09:00",
     "updated_at": "2019-09-11T13:18:37+09:00",
     "id": "k-penguin-sato"
@@ -450,7 +450,7 @@
   {
     "title": "統計検定2級のためのチートシート",
     "url": "https://qiita.com/akiyoshi_sasaki/items/c81032c1683f69ff9d11",
-    "likes_count": 291,
+    "likes_count": 292,
     "created_at": "2018-06-12T20:14:50+09:00",
     "updated_at": "2018-08-27T16:05:32+09:00",
     "id": "akiyoshi_sasaki"
@@ -458,10 +458,18 @@
   {
     "title": "[PHP] Xdebug のリモートデバッグ、理解していますか？",
     "url": "https://qiita.com/castaneai/items/d5fdf577a348012ed8af",
-    "likes_count": 285,
+    "likes_count": 286,
     "created_at": "2018-06-28T00:45:23+09:00",
     "updated_at": "2018-08-29T17:15:34+09:00",
     "id": "castaneai"
+  },
+  {
+    "title": "C# 今更ですが、HttpClientを使う",
+    "url": "https://qiita.com/rawr/items/f78a3830d894042f891b",
+    "likes_count": 282,
+    "created_at": "2018-06-15T12:29:06+09:00",
+    "updated_at": "2019-12-02T09:58:17+09:00",
+    "id": "rawr"
   },
   {
     "title": "大規模Vue.jsアプリを開発するときのディレクトリ構成考えた",
@@ -470,14 +478,6 @@
     "created_at": "2018-06-18T16:43:43+09:00",
     "updated_at": "2018-06-18T17:24:42+09:00",
     "id": "wonohe"
-  },
-  {
-    "title": "C# 今更ですが、HttpClientを使う",
-    "url": "https://qiita.com/rawr/items/f78a3830d894042f891b",
-    "likes_count": 281,
-    "created_at": "2018-06-15T12:29:06+09:00",
-    "updated_at": "2019-12-02T09:58:17+09:00",
-    "id": "rawr"
   },
   {
     "title": "DataFrameで特徴量作るのめんどくさ過ぎる。。featuretoolsを使って自動生成したろ",
@@ -506,7 +506,7 @@
   {
     "title": "【超簡単】Vue.jsを使って3時間で自分のホームページを作成&公開する",
     "url": "https://qiita.com/abouch/items/35d7a202f3e74c7d4c3e",
-    "likes_count": 250,
+    "likes_count": 251,
     "created_at": "2018-06-26T19:50:44+09:00",
     "updated_at": "2020-01-10T23:51:54+09:00",
     "id": "abouch"
