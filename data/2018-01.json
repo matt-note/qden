@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2512,
+    "likes_count": 2513,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1435,
+    "likes_count": 1436,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -34,7 +34,7 @@
   {
     "title": "未経験者が認識してなさそうなTIPS",
     "url": "https://qiita.com/Nao9syu/items/0950527548a08ff9d8c9",
-    "likes_count": 1218,
+    "likes_count": 1219,
     "created_at": "2018-01-25T15:48:23+09:00",
     "updated_at": "2018-07-17T09:28:46+09:00",
     "id": "Nao9syu"
@@ -42,7 +42,7 @@
   {
     "title": "意外と知らない？ Gitコマンド 100本ノック",
     "url": "https://qiita.com/ueki05/items/5c233773e3186989bfd3",
-    "likes_count": 1188,
+    "likes_count": 1187,
     "created_at": "2018-01-28T22:38:00+09:00",
     "updated_at": "2018-07-10T14:07:53+09:00",
     "id": "ueki05"
@@ -146,7 +146,7 @@
   {
     "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
     "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
-    "likes_count": 626,
+    "likes_count": 628,
     "created_at": "2018-01-26T15:42:01+09:00",
     "updated_at": "2021-03-04T09:24:13+09:00",
     "id": "gold-kou"
@@ -218,7 +218,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 504,
+    "likes_count": 505,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -266,7 +266,7 @@
   {
     "title": "anyenv + macOS環境構築",
     "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
-    "likes_count": 400,
+    "likes_count": 401,
     "created_at": "2018-01-12T14:53:20+09:00",
     "updated_at": "2021-02-09T14:54:39+09:00",
     "id": "rinpa"
@@ -290,7 +290,7 @@
   {
     "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
     "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
-    "likes_count": 394,
+    "likes_count": 395,
     "created_at": "2018-01-10T20:19:27+09:00",
     "updated_at": "2019-04-20T22:30:46+09:00",
     "id": "zd6ir7"
@@ -298,10 +298,18 @@
   {
     "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
     "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
-    "likes_count": 374,
+    "likes_count": 375,
     "created_at": "2018-01-15T07:18:08+09:00",
     "updated_at": "2019-11-04T16:49:32+09:00",
     "id": "Nossa"
+  },
+  {
+    "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
+    "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
+    "likes_count": 374,
+    "created_at": "2018-01-11T01:40:43+09:00",
+    "updated_at": "2020-05-02T19:45:29+09:00",
+    "id": "doyaaaaaken"
   },
   {
     "title": "オレ的vimプラグイン10選",
@@ -318,14 +326,6 @@
     "created_at": "2018-01-09T19:00:00+09:00",
     "updated_at": "2018-01-10T05:19:11+09:00",
     "id": "shu223"
-  },
-  {
-    "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
-    "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 373,
-    "created_at": "2018-01-11T01:40:43+09:00",
-    "updated_at": "2020-05-02T19:45:29+09:00",
-    "id": "doyaaaaaken"
   },
   {
     "title": "PythonでTwitter API を利用していろいろ遊んでみる",
@@ -354,7 +354,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 348,
+    "likes_count": 350,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
@@ -410,7 +410,7 @@
   {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",
     "url": "https://qiita.com/okoppe8/items/c58bb3faaf26c9e2f27f",
-    "likes_count": 265,
+    "likes_count": 266,
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"

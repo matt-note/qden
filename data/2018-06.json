@@ -26,7 +26,7 @@
   {
     "title": "【スマホOK/実行しながら学ぶ】東大松尾研のデータサイエンティスト育成/ Deep Learning基礎講座を自習する",
     "url": "https://qiita.com/tomo_makes/items/5d6f5860bb793e3b354a",
-    "likes_count": 1463,
+    "likes_count": 1464,
     "created_at": "2018-06-30T17:26:55+09:00",
     "updated_at": "2019-11-16T11:53:06+09:00",
     "id": "tomo_makes"
@@ -66,7 +66,7 @@
   {
     "title": "わかる！Firebase ～全てのサービスをおつまみ紹介～",
     "url": "https://qiita.com/dogwood008/items/fa95b62ad151f823af70",
-    "likes_count": 1133,
+    "likes_count": 1134,
     "created_at": "2018-06-28T02:47:16+09:00",
     "updated_at": "2018-07-04T15:58:56+09:00",
     "id": "dogwood008"
@@ -106,7 +106,7 @@
   {
     "title": "ApacheとNginxについて比較",
     "url": "https://qiita.com/kamihork/items/49e2a363da7d840a4149",
-    "likes_count": 907,
+    "likes_count": 908,
     "created_at": "2018-06-15T09:16:24+09:00",
     "updated_at": "2020-06-13T23:35:39+09:00",
     "id": "kamihork"
@@ -146,7 +146,7 @@
   {
     "title": "Railsで超簡単API",
     "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 671,
+    "likes_count": 673,
     "created_at": "2018-06-27T16:46:37+09:00",
     "updated_at": "2020-02-24T14:01:49+09:00",
     "id": "k-penguin-sato"
@@ -218,7 +218,7 @@
   {
     "title": "React Nativeの実は使ってはダメなライブラリ素晴らしいライブラリ(随時更新)",
     "url": "https://qiita.com/kaba/items/569aafd80889bb5d9328",
-    "likes_count": 530,
+    "likes_count": 531,
     "created_at": "2018-06-02T16:38:42+09:00",
     "updated_at": "2021-02-19T16:54:17+09:00",
     "id": "kaba"
@@ -226,7 +226,7 @@
   {
     "title": "ビルドとデプロイって結局なんやねん！？！？！？？？みたいな記事",
     "url": "https://qiita.com/isoyam/items/3d1fc5cf7403cdf4818d",
-    "likes_count": 526,
+    "likes_count": 527,
     "created_at": "2018-06-15T11:26:50+09:00",
     "updated_at": "2018-06-15T11:26:50+09:00",
     "id": "isoyam"
@@ -234,7 +234,7 @@
   {
     "title": "【Rails 5.2】 Active Storageの使い方",
     "url": "https://qiita.com/hmmrjn/items/7cc5e5348755c517458a",
-    "likes_count": 511,
+    "likes_count": 510,
     "created_at": "2018-06-30T23:44:12+09:00",
     "updated_at": "2019-08-06T10:42:47+09:00",
     "id": "hmmrjn"
@@ -274,7 +274,7 @@
   {
     "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
     "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2018-06-11T22:28:36+09:00",
     "updated_at": "2019-07-16T14:45:28+09:00",
     "id": "C3REVE"
@@ -322,7 +322,7 @@
   {
     "title": "PyAutoGuiで繰り返し作業をPythonにやらせよう",
     "url": "https://qiita.com/hirohiro77/items/78e26a59c2e45a0fe4e3",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2018-06-12T14:08:29+09:00",
     "updated_at": "2021-01-05T09:36:14+09:00",
     "id": "hirohiro77"
@@ -336,6 +336,14 @@
     "id": "su10"
   },
   {
+    "title": "脆弱性の警告を受けたnpmパッケージの依存関係を力技で直す",
+    "url": "https://qiita.com/hibikikudo/items/0af352acac85fce28ec2",
+    "likes_count": 379,
+    "created_at": "2018-06-18T16:45:59+09:00",
+    "updated_at": "2018-12-17T17:47:00+09:00",
+    "id": "hibikikudo"
+  },
+  {
     "title": "機械学習を使って焼肉で肉が焼けたかどうかを区別してみた",
     "url": "https://qiita.com/yoda2020/items/682f65b97f35d6191936",
     "likes_count": 379,
@@ -344,17 +352,9 @@
     "id": "yoda2020"
   },
   {
-    "title": "脆弱性の警告を受けたnpmパッケージの依存関係を力技で直す",
-    "url": "https://qiita.com/hibikikudo/items/0af352acac85fce28ec2",
-    "likes_count": 378,
-    "created_at": "2018-06-18T16:45:59+09:00",
-    "updated_at": "2018-12-17T17:47:00+09:00",
-    "id": "hibikikudo"
-  },
-  {
     "title": "Goにはディレクトリ構成のスタンダードがあるらしい。",
     "url": "https://qiita.com/sueken/items/87093e5941bfbc09bea8",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2018-06-10T21:12:36+09:00",
     "updated_at": "2018-06-10T21:12:36+09:00",
     "id": "sueken"
@@ -370,7 +370,7 @@
   {
     "title": "正規化の要点を理解する",
     "url": "https://qiita.com/mochichoco/items/2904384b2856db2bf46c",
-    "likes_count": 343,
+    "likes_count": 345,
     "created_at": "2018-06-10T19:21:27+09:00",
     "updated_at": "2021-03-12T19:32:52+09:00",
     "id": "mochichoco"
@@ -410,7 +410,7 @@
   {
     "title": "【初心者向け】Linuxカーネルって一体なんだ？",
     "url": "https://qiita.com/uguis410/items/17ec1e447e9716bfdca7",
-    "likes_count": 315,
+    "likes_count": 316,
     "created_at": "2018-06-17T17:04:14+09:00",
     "updated_at": "2019-09-06T10:42:56+09:00",
     "id": "uguis410"
@@ -450,7 +450,7 @@
   {
     "title": "統計検定2級のためのチートシート",
     "url": "https://qiita.com/akiyoshi_sasaki/items/c81032c1683f69ff9d11",
-    "likes_count": 292,
+    "likes_count": 293,
     "created_at": "2018-06-12T20:14:50+09:00",
     "updated_at": "2018-08-27T16:05:32+09:00",
     "id": "akiyoshi_sasaki"
