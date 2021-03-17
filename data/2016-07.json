@@ -10,7 +10,7 @@
   {
     "title": "文系エンジニアが機械学習に入門するために小学校の算数から高校数学までを一気に復習してみました。",
     "url": "https://qiita.com/poly_soft/items/8ea0fc85577f0726f098",
-    "likes_count": 2219,
+    "likes_count": 2220,
     "created_at": "2016-07-23T13:25:47+09:00",
     "updated_at": "2019-03-11T19:39:35+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "新卒の子にどこまで勉強すれば良いですかね？と聞かれた件",
     "url": "https://qiita.com/daijinload/items/0ee132950087da9366df",
-    "likes_count": 1991,
+    "likes_count": 2017,
     "created_at": "2016-07-09T19:37:32+09:00",
     "updated_at": "2017-08-10T20:40:46+09:00",
     "id": "daijinload"
@@ -90,7 +90,7 @@
   {
     "title": "Web APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02",
-    "likes_count": 1067,
+    "likes_count": 1068,
     "created_at": "2016-07-04T06:52:19+09:00",
     "updated_at": "2017-04-18T00:11:40+09:00",
     "id": "NagaokaKenichi"
@@ -144,6 +144,14 @@
     "id": "make_now_just"
   },
   {
+    "title": "CSSのfont-sizeが%とかemとかremとかvwで指定されてると、ビビっちゃう君と僕を救う2分",
+    "url": "https://qiita.com/39_isao/items/e8242901ba1aadb75676",
+    "likes_count": 930,
+    "created_at": "2016-07-04T15:34:40+09:00",
+    "updated_at": "2020-10-15T02:58:25+09:00",
+    "id": "39_isao"
+  },
+  {
     "title": "TensorFlowのチュートリアルを通して、人工知能の原理について学習する",
     "url": "https://qiita.com/jintaka1989/items/3b70b5c5541620536fa2",
     "likes_count": 929,
@@ -152,17 +160,9 @@
     "id": "jintaka1989"
   },
   {
-    "title": "CSSのfont-sizeが%とかemとかremとかvwで指定されてると、ビビっちゃう君と僕を救う2分",
-    "url": "https://qiita.com/39_isao/items/e8242901ba1aadb75676",
-    "likes_count": 929,
-    "created_at": "2016-07-04T15:34:40+09:00",
-    "updated_at": "2020-10-15T02:58:25+09:00",
-    "id": "39_isao"
-  },
-  {
     "title": "仕事の役には立たない、Linuxにおけるジョークプログラムの話",
     "url": "https://qiita.com/Hiroki_lzh/items/8cf206d54f91e29b3912",
-    "likes_count": 909,
+    "likes_count": 910,
     "created_at": "2016-07-08T18:16:13+09:00",
     "updated_at": "2019-07-10T01:38:39+09:00",
     "id": "Hiroki_lzh"
@@ -194,7 +194,7 @@
   {
     "title": "【2016年夏】個人的に注目なフロントエンドで使えるJavaScriptフレームワークまとめ",
     "url": "https://qiita.com/R-Yoshi/items/35627978de3764fa4451",
-    "likes_count": 722,
+    "likes_count": 721,
     "created_at": "2016-07-05T13:46:32+09:00",
     "updated_at": "2016-12-06T13:26:45+09:00",
     "id": "R-Yoshi"
@@ -338,7 +338,7 @@
   {
     "title": "Python 3でのファイルのimportのしかたまとめ",
     "url": "https://qiita.com/karadaharu/items/37403e6e82ae4417d1b3",
-    "likes_count": 401,
+    "likes_count": 402,
     "created_at": "2016-07-06T01:57:52+09:00",
     "updated_at": "2016-07-06T01:57:52+09:00",
     "id": "karadaharu"
@@ -346,7 +346,7 @@
   {
     "title": "マイクロサービスアーキテクチャにおけるオーケストレーションとコレオグラフィ",
     "url": "https://qiita.com/kawasima/items/17475a993e03f249a077",
-    "likes_count": 389,
+    "likes_count": 390,
     "created_at": "2016-07-13T11:27:36+09:00",
     "updated_at": "2016-07-29T14:06:13+09:00",
     "id": "kawasima"
@@ -408,20 +408,20 @@
     "id": "jabba"
   },
   {
+    "title": "Python openpyxlでExcelを操作",
+    "url": "https://qiita.com/taito273/items/07e4332293c2c59799d1",
+    "likes_count": 288,
+    "created_at": "2016-07-09T16:35:44+09:00",
+    "updated_at": "2017-06-10T02:14:19+09:00",
+    "id": "taito273"
+  },
+  {
     "title": "SoftBankが買収したARM社の過去とカラクリ",
     "url": "https://qiita.com/homhom44/items/4bc5b339447d1999c252",
     "likes_count": 288,
     "created_at": "2016-07-19T02:22:35+09:00",
     "updated_at": "2016-07-28T02:54:14+09:00",
     "id": "homhom44"
-  },
-  {
-    "title": "Python openpyxlでExcelを操作",
-    "url": "https://qiita.com/taito273/items/07e4332293c2c59799d1",
-    "likes_count": 287,
-    "created_at": "2016-07-09T16:35:44+09:00",
-    "updated_at": "2017-06-10T02:14:19+09:00",
-    "id": "taito273"
   },
   {
     "title": "各機械学習ライブラリの比較をまとめる",
@@ -458,7 +458,7 @@
   {
     "title": "文系卒社会人が統計・機械学習を理解するための数学勉強方法【随時更新】",
     "url": "https://qiita.com/FukuharaYohei/items/0a66c37091dc27c71fe6",
-    "likes_count": 264,
+    "likes_count": 265,
     "created_at": "2016-07-26T22:39:45+09:00",
     "updated_at": "2020-12-29T10:47:39+09:00",
     "id": "FukuharaYohei"
