@@ -2,7 +2,7 @@
   {
     "title": "CSSのクラス名を決めるときに使うリストをつくりました",
     "url": "https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470",
-    "likes_count": 2923,
+    "likes_count": 2924,
     "created_at": "2016-10-07T10:20:53+09:00",
     "updated_at": "2018-09-05T15:13:51+09:00",
     "id": "manabuyasuda"
@@ -10,7 +10,7 @@
   {
     "title": "4ステップで作成する、DB論理設計の手順とチェックポイントまとめ",
     "url": "https://qiita.com/nishina555/items/a79ece1b54faf7240fac",
-    "likes_count": 2564,
+    "likes_count": 2565,
     "created_at": "2016-10-30T20:39:08+09:00",
     "updated_at": "2019-07-12T00:41:05+09:00",
     "id": "nishina555"
@@ -42,7 +42,7 @@
   {
     "title": "代表的な機械学習手法一覧",
     "url": "https://qiita.com/tomomoto/items/b3fd1ec7f9b68ab6dfe2",
-    "likes_count": 1614,
+    "likes_count": 1615,
     "created_at": "2016-10-25T19:13:54+09:00",
     "updated_at": "2017-02-18T10:48:04+09:00",
     "id": "tomomoto"
@@ -146,7 +146,7 @@
   {
     "title": "RESTful APIのURI設計(エンドポイント設計)",
     "url": "https://qiita.com/NagaokaKenichi/items/6298eb8960570c7ad2e9",
-    "likes_count": 832,
+    "likes_count": 833,
     "created_at": "2016-10-03T07:45:12+09:00",
     "updated_at": "2018-03-23T14:21:44+09:00",
     "id": "NagaokaKenichi"
@@ -218,7 +218,7 @@
   {
     "title": "Linux入門 ~「パスを通す」とは~",
     "url": "https://qiita.com/Naggi-Goishi/items/2c49ea50602ea80bf015",
-    "likes_count": 644,
+    "likes_count": 645,
     "created_at": "2016-10-31T11:15:08+09:00",
     "updated_at": "2018-01-13T03:59:19+09:00",
     "id": "Naggi-Goishi"
@@ -274,7 +274,7 @@
   {
     "title": "メンテナブルな React Component を目指すための小技集",
     "url": "https://qiita.com/terrierscript/items/372727448b58d4738018",
-    "likes_count": 493,
+    "likes_count": 494,
     "created_at": "2016-10-07T23:30:11+09:00",
     "updated_at": "2017-02-15T00:19:34+09:00",
     "id": "terrierscript"
@@ -282,7 +282,7 @@
   {
     "title": "日本正式リリースしたStripeを使ってサブスクリプション型決済システムを実装する",
     "url": "https://qiita.com/tady/items/7617e62b2a5402ebd0fb",
-    "likes_count": 488,
+    "likes_count": 490,
     "created_at": "2016-10-04T18:22:37+09:00",
     "updated_at": "2020-06-09T22:57:17+09:00",
     "id": "tady"
@@ -296,6 +296,14 @@
     "id": "MahoTakara"
   },
   {
+    "title": "Windowsバッチまとめ",
+    "url": "https://qiita.com/tomotagwork/items/5b9e08f28d5925d96b5f",
+    "likes_count": 426,
+    "created_at": "2016-10-09T11:02:35+09:00",
+    "updated_at": "2019-09-24T08:59:42+09:00",
+    "id": "tomotagwork"
+  },
+  {
     "title": "MVCモデルについて",
     "url": "https://qiita.com/s_emoto/items/975cc38a3e0de462966a",
     "likes_count": 426,
@@ -304,17 +312,9 @@
     "id": "s_emoto"
   },
   {
-    "title": "Windowsバッチまとめ",
-    "url": "https://qiita.com/tomotagwork/items/5b9e08f28d5925d96b5f",
-    "likes_count": 425,
-    "created_at": "2016-10-09T11:02:35+09:00",
-    "updated_at": "2019-09-24T08:59:42+09:00",
-    "id": "tomotagwork"
-  },
-  {
     "title": "2016年のOSS圧縮ツール選択カタログ",
     "url": "https://qiita.com/nishemon/items/818cc64dc2f8577edd87",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2016-10-21T03:28:15+09:00",
     "updated_at": "2016-10-23T15:19:14+09:00",
     "id": "nishemon"
@@ -434,7 +434,7 @@
   {
     "title": "numpyの使い方",
     "url": "https://qiita.com/jyori112/items/a15658d1dd17c421e1e2",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2016-10-24T03:22:19+09:00",
     "updated_at": "2016-10-24T03:22:19+09:00",
     "id": "jyori112"
@@ -442,7 +442,7 @@
   {
     "title": "javascriptでJSONデータを扱う(登録・参照・更新・削除)",
     "url": "https://qiita.com/1mada/items/9a48f7053a6016b5fd5a",
-    "likes_count": 285,
+    "likes_count": 286,
     "created_at": "2016-10-28T18:30:33+09:00",
     "updated_at": "2016-10-28T18:30:33+09:00",
     "id": "1mada"
@@ -490,7 +490,7 @@
   {
     "title": "プログラミングのプの字も知らない文系エンジニアが普通のエンジニアになるまで",
     "url": "https://qiita.com/chooyan_eng/items/260aa61cc3f888224f53",
-    "likes_count": 222,
+    "likes_count": 223,
     "created_at": "2016-10-10T07:16:29+09:00",
     "updated_at": "2016-10-10T07:16:29+09:00",
     "id": "chooyan_eng"

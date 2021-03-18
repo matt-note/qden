@@ -2,7 +2,7 @@
   {
     "title": "Cookieとセッションをちゃんと理解する",
     "url": "https://qiita.com/hththt/items/07136ad74127999df271",
-    "likes_count": 2265,
+    "likes_count": 2267,
     "created_at": "2015-08-07T19:37:58+09:00",
     "updated_at": "2020-01-20T12:54:29+09:00",
     "id": "hththt"
@@ -98,7 +98,7 @@
   {
     "title": "JavaScript の イテレータ を極める！",
     "url": "https://qiita.com/kura07/items/cf168a7ea20e8c2554c6",
-    "likes_count": 741,
+    "likes_count": 742,
     "created_at": "2015-08-16T20:51:50+09:00",
     "updated_at": "2017-03-14T00:53:13+09:00",
     "id": "kura07"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScript の ジェネレータ を極める！",
     "url": "https://qiita.com/kura07/items/d1a57ea64ef5c3de8528",
-    "likes_count": 665,
+    "likes_count": 667,
     "created_at": "2015-08-16T20:52:05+09:00",
     "updated_at": "2017-03-14T00:39:44+09:00",
     "id": "kura07"
@@ -210,7 +210,7 @@
   {
     "title": "MySQLとPostgreSQLコマンド比較表",
     "url": "https://qiita.com/aosho235/items/c657e2fcd15fa0647471",
-    "likes_count": 357,
+    "likes_count": 359,
     "created_at": "2015-08-02T17:08:55+09:00",
     "updated_at": "2019-03-15T15:30:53+09:00",
     "id": "aosho235"
@@ -297,11 +297,11 @@
   },
   {
     "title": "プログラマー初学の人へ61の質問",
-    "url": "https://qiita.com/syou007/items/3e0c14512ee29659ec82",
+    "url": "https://qiita.com/townsoft/items/3e0c14512ee29659ec82",
     "likes_count": 298,
     "created_at": "2015-08-27T10:40:44+09:00",
     "updated_at": "2016-10-05T12:24:07+09:00",
-    "id": "syou007"
+    "id": "townsoft"
   },
   {
     "title": "SVGをcss/jsで操作するときに知っておきたいこと",
@@ -336,6 +336,14 @@
     "id": "koher"
   },
   {
+    "title": "[随時更新]ansibleでよく使うコマンド・モジュールまとめ",
+    "url": "https://qiita.com/uzresk/items/1aa391eef232766bf817",
+    "likes_count": 283,
+    "created_at": "2015-08-11T12:28:27+09:00",
+    "updated_at": "2017-04-07T11:11:39+09:00",
+    "id": "uzresk"
+  },
+  {
     "title": "react-railsでサーバーサイドレンダリングしつつクライアントでsetStateできて最高になった",
     "url": "https://qiita.com/mizchi/items/c34c3ff88d73a7bd2c88",
     "likes_count": 282,
@@ -352,14 +360,6 @@
     "id": "shikato"
   },
   {
-    "title": "[随時更新]ansibleでよく使うコマンド・モジュールまとめ",
-    "url": "https://qiita.com/uzresk/items/1aa391eef232766bf817",
-    "likes_count": 282,
-    "created_at": "2015-08-11T12:28:27+09:00",
-    "updated_at": "2017-04-07T11:11:39+09:00",
-    "id": "uzresk"
-  },
-  {
     "title": "Electron + Mithrilで、ふつうのデスクトップアプリを作る",
     "url": "https://qiita.com/shibukawa/items/e1836a8c98413448f746",
     "likes_count": 282,
@@ -370,7 +370,7 @@
   {
     "title": "matplotlibでリアルタイム描画",
     "url": "https://qiita.com/hausen6/items/b1b54f7325745ae43e47",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2015-08-04T14:21:35+09:00",
     "updated_at": "2016-01-12T03:25:00+09:00",
     "id": "hausen6"

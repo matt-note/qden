@@ -42,7 +42,7 @@
   {
     "title": "homebrewとは何者か。仕組みについて調べてみた",
     "url": "https://qiita.com/omega999/items/6f65217b81ad3fffe7e6",
-    "likes_count": 1625,
+    "likes_count": 1626,
     "created_at": "2014-12-04T20:41:15+09:00",
     "updated_at": "2014-12-04T20:41:15+09:00",
     "id": "omega999"
@@ -98,7 +98,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1205,
+    "likes_count": 1204,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2014-12-18T19:06:40+09:00",
     "id": "k-shogo"
@@ -106,7 +106,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1160,
+    "likes_count": 1163,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -186,7 +186,7 @@
   {
     "title": "UIViewControllerのライフサイクル",
     "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2014-12-24T22:11:02+09:00",
     "updated_at": "2014-12-24T22:11:02+09:00",
     "id": "motokiee"
@@ -314,7 +314,7 @@
   {
     "title": "zshの外部プラグインまとめ",
     "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
-    "likes_count": 562,
+    "likes_count": 563,
     "created_at": "2014-12-25T00:15:28+09:00",
     "updated_at": "2015-03-10T00:02:36+09:00",
     "id": "mollifier"
@@ -328,20 +328,20 @@
     "id": "keiono"
   },
   {
+    "title": "「Git補完をしらない」「git statusを1日100回は使う」そんなあなたに朗報【git-completionとgit-prompt】",
+    "url": "https://qiita.com/varmil/items/9b0aeafa85975474e9b6",
+    "likes_count": 545,
+    "created_at": "2014-12-12T14:42:05+09:00",
+    "updated_at": "2021-02-15T09:27:48+09:00",
+    "id": "varmil"
+  },
+  {
     "title": "iPhone(実機)の通信ログ(パケットのキャプチャ)を簡単に取得する方法",
     "url": "https://qiita.com/shirochan/items/cdb244b12cf5d08d4766",
     "likes_count": 544,
     "created_at": "2014-12-10T14:07:44+09:00",
     "updated_at": "2020-06-02T16:21:15+09:00",
     "id": "shirochan"
-  },
-  {
-    "title": "「Git補完をしらない」「git statusを1日100回は使う」そんなあなたに朗報【git-completionとgit-prompt】",
-    "url": "https://qiita.com/varmil/items/9b0aeafa85975474e9b6",
-    "likes_count": 544,
-    "created_at": "2014-12-12T14:42:05+09:00",
-    "updated_at": "2021-02-15T09:27:48+09:00",
-    "id": "varmil"
   },
   {
     "title": "CaffeでDeep Learning つまずきやすいところを中心に",
@@ -386,7 +386,7 @@
   {
     "title": ".bash_profileと.bashrcについて",
     "url": "https://qiita.com/shyamahira/items/260862743e4c9794b5d2",
-    "likes_count": 503,
+    "likes_count": 504,
     "created_at": "2014-12-20T23:26:00+09:00",
     "updated_at": "2014-12-20T23:26:00+09:00",
     "id": "shyamahira"
@@ -514,7 +514,7 @@
   {
     "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
     "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2014-12-26T17:08:08+09:00",
     "updated_at": "2014-12-26T17:08:08+09:00",
     "id": "mimoe"
@@ -546,7 +546,7 @@
   {
     "title": "Linuxbrew のススメ",
     "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2014-12-19T08:53:15+09:00",
     "updated_at": "2020-12-21T20:49:31+09:00",
     "id": "thermes"
@@ -554,7 +554,7 @@
   {
     "title": "Makefileの関数",
     "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
-    "likes_count": 385,
+    "likes_count": 386,
     "created_at": "2014-12-24T21:58:53+09:00",
     "updated_at": "2017-05-15T10:21:03+09:00",
     "id": "chibi929"
@@ -658,7 +658,7 @@
   {
     "title": "Python ビット演算 超入門",
     "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
-    "likes_count": 304,
+    "likes_count": 305,
     "created_at": "2014-12-14T19:50:10+09:00",
     "updated_at": "2014-12-15T17:50:09+09:00",
     "id": "7shi"
