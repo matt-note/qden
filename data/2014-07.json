@@ -2,7 +2,7 @@
   {
     "title": "何かのときにすっと出したい、プログラミングに関する法則・原則一覧",
     "url": "https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63",
-    "likes_count": 4214,
+    "likes_count": 4215,
     "created_at": "2014-07-21T23:44:04+09:00",
     "updated_at": "2018-02-21T17:53:55+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "Vim幼稚園からVim小学校へ",
     "url": "https://qiita.com/hachi8833/items/7beeee825c11f7437f54",
-    "likes_count": 3837,
+    "likes_count": 3838,
     "created_at": "2014-07-10T00:02:39+09:00",
     "updated_at": "2019-03-20T18:58:14+09:00",
     "id": "hachi8833"
@@ -34,7 +34,7 @@
   {
     "title": "誰も教えてくれなかったMySQLの障害解析方法",
     "url": "https://qiita.com/muran001/items/14f19959d4723ffc29cc",
-    "likes_count": 2858,
+    "likes_count": 2859,
     "created_at": "2014-07-12T09:36:58+09:00",
     "updated_at": "2014-10-30T07:41:32+09:00",
     "id": "muran001"
@@ -74,7 +74,7 @@
   {
     "title": "ログ設計指針",
     "url": "https://qiita.com/nanasess/items/350e59b29cceb2f122b3",
-    "likes_count": 1566,
+    "likes_count": 1567,
     "created_at": "2014-07-16T11:28:44+09:00",
     "updated_at": "2020-11-09T18:44:53+09:00",
     "id": "nanasess"
@@ -328,20 +328,20 @@
     "id": "mima_ita"
   },
   {
+    "title": "Python Django入門 (2) Mac編",
+    "url": "https://qiita.com/kaki_k/items/e824cfcf089e75d43551",
+    "likes_count": 471,
+    "created_at": "2014-07-27T00:20:26+09:00",
+    "updated_at": "2020-01-09T23:44:36+09:00",
+    "id": "kaki_k"
+  },
+  {
     "title": "Terraform簡易チュートリアル on AWS",
     "url": "https://qiita.com/zembutsu/items/93e546df765f8b2c4f32",
     "likes_count": 471,
     "created_at": "2014-07-29T08:11:46+09:00",
     "updated_at": "2014-07-30T08:41:14+09:00",
     "id": "zembutsu"
-  },
-  {
-    "title": "Python Django入門 (2) Mac編",
-    "url": "https://qiita.com/kaki_k/items/e824cfcf089e75d43551",
-    "likes_count": 470,
-    "created_at": "2014-07-27T00:20:26+09:00",
-    "updated_at": "2020-01-09T23:44:36+09:00",
-    "id": "kaki_k"
   },
   {
     "title": "Javascriptのcall/apply関数のプロっぽい使い方 〜 JSおくのほそ道 #014",
@@ -434,7 +434,7 @@
   {
     "title": "Excel VBAコーディング ガイドライン案",
     "url": "https://qiita.com/mima_ita/items/8b0eec3b5a81f168822d",
-    "likes_count": 407,
+    "likes_count": 408,
     "created_at": "2014-07-03T21:01:57+09:00",
     "updated_at": "2020-05-20T16:23:41+09:00",
     "id": "mima_ita"
@@ -504,20 +504,20 @@
     "id": "mokemokechicken"
   },
   {
+    "title": "Swiftのプロパティ監視(willSet/didSet)の挙動について調べてみた",
+    "url": "https://qiita.com/takabosoft/items/b3af8b30a8c5111f4fce",
+    "likes_count": 367,
+    "created_at": "2014-07-17T14:30:47+09:00",
+    "updated_at": "2015-03-26T17:30:47+09:00",
+    "id": "takabosoft"
+  },
+  {
     "title": "今年からジワジワくる【秘伝】のJavaScript - {ライブラリ系}初回編",
     "url": "https://qiita.com/pollseed/items/5d12113ba10398e81c6a",
     "likes_count": 366,
     "created_at": "2014-07-14T22:42:52+09:00",
     "updated_at": "2014-07-15T08:47:53+09:00",
     "id": "pollseed"
-  },
-  {
-    "title": "Swiftのプロパティ監視(willSet/didSet)の挙動について調べてみた",
-    "url": "https://qiita.com/takabosoft/items/b3af8b30a8c5111f4fce",
-    "likes_count": 366,
-    "created_at": "2014-07-17T14:30:47+09:00",
-    "updated_at": "2015-03-26T17:30:47+09:00",
-    "id": "takabosoft"
   },
   {
     "title": "D3.js を使ってみる",
@@ -530,7 +530,7 @@
   {
     "title": "jQueryで設定されたクリックイベントなどを定義している場所を調べる方法",
     "url": "https://qiita.com/zaru/items/b7732ebad9b732518359",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2014-07-19T14:25:52+09:00",
     "updated_at": "2017-07-03T13:28:55+09:00",
     "id": "zaru"
@@ -538,7 +538,7 @@
   {
     "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
     "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2014-07-17T19:56:24+09:00",
     "updated_at": "2014-07-17T19:56:24+09:00",
     "id": "konweb"
@@ -690,7 +690,7 @@
   {
     "title": "VisualStudio 便利なショートカット",
     "url": "https://qiita.com/kengop/items/ac9b57404d30e0cfdd20",
-    "likes_count": 264,
+    "likes_count": 265,
     "created_at": "2014-07-27T14:20:57+09:00",
     "updated_at": "2016-11-06T19:38:22+09:00",
     "id": "kengop"
