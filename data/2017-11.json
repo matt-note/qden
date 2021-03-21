@@ -26,7 +26,7 @@
   {
     "title": "Webサービス個人開発するなら読みたい情報源13",
     "url": "https://qiita.com/curryperformer-kato/items/a7dc9a41200b6c9c1912",
-    "likes_count": 1117,
+    "likes_count": 1118,
     "created_at": "2017-11-03T00:21:37+09:00",
     "updated_at": "2019-08-29T10:34:58+09:00",
     "id": "curryperformer-kato"
@@ -82,7 +82,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 761,
+    "likes_count": 762,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonで使う競技プログラミング用チートシート",
     "url": "https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0",
-    "likes_count": 659,
+    "likes_count": 661,
     "created_at": "2017-11-12T02:03:04+09:00",
     "updated_at": "2019-08-22T21:01:24+09:00",
     "id": "_-_-_-_-_"
@@ -122,7 +122,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 621,
+    "likes_count": 623,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2018-07-15T15:52:26+09:00",
     "id": "ryouzi"
@@ -154,7 +154,7 @@
   {
     "title": "Elmはどんな人にオススメできないか",
     "url": "https://qiita.com/arowM/items/dfb38d1c5f3dfde8b8bf",
-    "likes_count": 585,
+    "likes_count": 586,
     "created_at": "2017-11-29T04:22:40+09:00",
     "updated_at": "2021-02-01T13:19:41+09:00",
     "id": "arowM"
@@ -186,7 +186,7 @@
   {
     "title": "1時間でLINE BOTを作るハンズオン (資料+レポート) in Node学園祭2017 #nodefest",
     "url": "https://qiita.com/n0bisuke/items/ceaa09ef8898bee8369d",
-    "likes_count": 524,
+    "likes_count": 525,
     "created_at": "2017-11-26T16:22:19+09:00",
     "updated_at": "2020-06-14T21:52:31+09:00",
     "id": "n0bisuke"
@@ -266,7 +266,7 @@
   {
     "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
     "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
-    "likes_count": 442,
+    "likes_count": 443,
     "created_at": "2017-11-18T06:21:52+09:00",
     "updated_at": "2020-12-23T00:39:19+09:00",
     "id": "t_nakayama0714"
@@ -274,7 +274,7 @@
   {
     "title": "文書ベクトルをお手軽に高い精度で作れるSCDVって実際どうなのか日本語コーパスで実験した(EMNLP2017)",
     "url": "https://qiita.com/fufufukakaka/items/a7316273908a7c400868",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2017-11-12T10:57:13+09:00",
     "updated_at": "2019-10-23T12:18:57+09:00",
     "id": "fufufukakaka"
@@ -290,7 +290,7 @@
   {
     "title": "webpack.config.jsがわからない",
     "url": "https://qiita.com/one-kelvin/items/b810aafb6b5ef90789a3",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2017-11-21T18:27:48+09:00",
     "updated_at": "2017-11-22T10:50:37+09:00",
     "id": "one-kelvin"
@@ -338,10 +338,18 @@
   {
     "title": "Railsアプリで Bootstrap 4 を利用する",
     "url": "https://qiita.com/NaokiIshimura/items/c8db09daefff5c11dadf",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2017-11-03T19:54:09+09:00",
     "updated_at": "2019-08-14T16:45:50+09:00",
     "id": "NaokiIshimura"
+  },
+  {
+    "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",
+    "url": "https://qiita.com/teradonburi/items/c4cbd7dd5b4810e1a3a9",
+    "likes_count": 373,
+    "created_at": "2017-11-23T17:42:03+09:00",
+    "updated_at": "2019-02-20T15:26:01+09:00",
+    "id": "teradonburi"
   },
   {
     "title": "次世代Headless CMS「contentful」事始め",
@@ -350,14 +358,6 @@
     "created_at": "2017-11-27T00:53:47+09:00",
     "updated_at": "2019-07-03T19:41:37+09:00",
     "id": "daikiojm"
-  },
-  {
-    "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",
-    "url": "https://qiita.com/teradonburi/items/c4cbd7dd5b4810e1a3a9",
-    "likes_count": 372,
-    "created_at": "2017-11-23T17:42:03+09:00",
-    "updated_at": "2019-02-20T15:26:01+09:00",
-    "id": "teradonburi"
   },
   {
     "title": "Google Home開発入門 / google-home-notifier解説",
@@ -376,20 +376,20 @@
     "id": "taroc"
   },
   {
+    "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
+    "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
+    "likes_count": 346,
+    "created_at": "2017-11-28T16:30:16+09:00",
+    "updated_at": "2019-01-08T16:43:01+09:00",
+    "id": "ryouzi"
+  },
+  {
     "title": "意味がわかる主成分分析",
     "url": "https://qiita.com/NoriakiOshita/items/460247bb57c22973a5f0",
     "likes_count": 346,
     "created_at": "2017-11-30T05:00:00+09:00",
     "updated_at": "2021-02-05T07:37:43+09:00",
     "id": "NoriakiOshita"
-  },
-  {
-    "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
-    "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
-    "likes_count": 345,
-    "created_at": "2017-11-28T16:30:16+09:00",
-    "updated_at": "2019-01-08T16:43:01+09:00",
-    "id": "ryouzi"
   },
   {
     "title": "CORS を分かってないから動くコード書いて理解する",

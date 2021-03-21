@@ -2,7 +2,7 @@
   {
     "title": "もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った",
     "url": "https://qiita.com/hirokidaichi/items/ff54a968bdd7bcc50d42",
-    "likes_count": 4819,
+    "likes_count": 4818,
     "created_at": "2016-04-02T18:21:53+09:00",
     "updated_at": "2018-12-26T00:03:58+09:00",
     "id": "hirokidaichi"
@@ -10,7 +10,7 @@
   {
     "title": "You Don't Need jQuery",
     "url": "https://qiita.com/tatesuke/items/b9548dd484b01b139b74",
-    "likes_count": 2377,
+    "likes_count": 2376,
     "created_at": "2016-04-12T16:46:34+09:00",
     "updated_at": "2019-06-14T00:40:43+09:00",
     "id": "tatesuke"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1744,
+    "likes_count": 1745,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -50,7 +50,7 @@
   {
     "title": "iOS ヒューマンインターフェースの原則",
     "url": "https://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38",
-    "likes_count": 1635,
+    "likes_count": 1634,
     "created_at": "2016-04-03T05:27:56+09:00",
     "updated_at": "2019-03-01T04:21:27+09:00",
     "id": "usagimaru"
@@ -66,7 +66,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1472,
+    "likes_count": 1474,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -114,7 +114,7 @@
   {
     "title": "【意訳】Webpackの混乱ポイント",
     "url": "https://qiita.com/chuck0523/items/caacbf4137642cb175ec",
-    "likes_count": 1059,
+    "likes_count": 1058,
     "created_at": "2016-04-14T05:29:43+09:00",
     "updated_at": "2016-10-30T16:05:06+09:00",
     "id": "chuck0523"
@@ -186,7 +186,7 @@
   {
     "title": "PHP開発でComposerを使わないなんてありえない！基礎編",
     "url": "https://qiita.com/niisan-tokyo/items/8cccec88d45f38171c94",
-    "likes_count": 696,
+    "likes_count": 697,
     "created_at": "2016-04-30T20:46:28+09:00",
     "updated_at": "2019-04-17T19:03:10+09:00",
     "id": "niisan-tokyo"
@@ -274,7 +274,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 490,
+    "likes_count": 492,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-02-26T03:54:25+09:00",
     "id": "dai-takahashi"
@@ -354,18 +354,10 @@
   {
     "title": "IntelliJ IDEA 入門",
     "url": "https://qiita.com/opengl-8080/items/108102d692b49f804dbd",
-    "likes_count": 428,
+    "likes_count": 429,
     "created_at": "2016-04-07T00:13:00+09:00",
     "updated_at": "2018-04-02T23:29:26+09:00",
     "id": "opengl-8080"
-  },
-  {
-    "title": "約2年のiOSアプリ開発で実際に使ったライブラリとそこから得られた知見",
-    "url": "https://qiita.com/kyam_/items/4653cadef7e196ae221c",
-    "likes_count": 404,
-    "created_at": "2016-04-14T12:05:45+09:00",
-    "updated_at": "2016-04-18T12:43:14+09:00",
-    "id": "kyam_"
   },
   {
     "title": "決定版!!Haml小技まとめ！！",
@@ -374,6 +366,14 @@
     "created_at": "2016-04-17T00:47:36+09:00",
     "updated_at": "2018-11-29T16:09:46+09:00",
     "id": "yukimura1227"
+  },
+  {
+    "title": "約2年のiOSアプリ開発で実際に使ったライブラリとそこから得られた知見",
+    "url": "https://qiita.com/kyam_/items/4653cadef7e196ae221c",
+    "likes_count": 403,
+    "created_at": "2016-04-14T12:05:45+09:00",
+    "updated_at": "2016-04-18T12:43:14+09:00",
+    "id": "kyam_"
   },
   {
     "title": "データベースさわったこと無い新人向けトランザクション入門",
@@ -546,7 +546,7 @@
   {
     "title": "JavaScript の原理：クロージャの真実",
     "url": "https://qiita.com/takuya0301/items/278f1d9507c28a251735",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2016-04-19T04:56:13+09:00",
     "updated_at": "2016-04-20T22:21:42+09:00",
     "id": "takuya0301"
