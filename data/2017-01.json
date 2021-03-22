@@ -2,7 +2,7 @@
   {
     "title": "たぶんこれが一番分かりやすいと思います React + Redux のフロー図解",
     "url": "https://qiita.com/mpyw/items/a816c6380219b1d5a3bf",
-    "likes_count": 2663,
+    "likes_count": 2664,
     "created_at": "2017-01-06T03:28:59+09:00",
     "updated_at": "2021-01-26T19:55:10+09:00",
     "id": "mpyw"
@@ -18,7 +18,7 @@
   {
     "title": "Qiita マークダウン記法 一覧表・チートシート",
     "url": "https://qiita.com/kamorits/items/6f342da395ad57468ae3",
-    "likes_count": 1218,
+    "likes_count": 1220,
     "created_at": "2017-01-18T13:43:38+09:00",
     "updated_at": "2020-04-29T16:50:51+09:00",
     "id": "kamorits"
@@ -74,7 +74,7 @@
   {
     "title": "これだけは覚えたい、ユニットテストを書くための４つのデザイン",
     "url": "https://qiita.com/koduki/items/4fde43b68fe450c6a5d8",
-    "likes_count": 872,
+    "likes_count": 873,
     "created_at": "2017-01-16T07:49:09+09:00",
     "updated_at": "2018-02-21T08:10:30+09:00",
     "id": "koduki"
@@ -122,7 +122,7 @@
   {
     "title": "SVN脳患者から見たGit",
     "url": "https://qiita.com/kaityo256/items/81e7951a1ca2706955a4",
-    "likes_count": 673,
+    "likes_count": 674,
     "created_at": "2017-01-31T20:09:38+09:00",
     "updated_at": "2017-02-08T15:06:14+09:00",
     "id": "kaityo256"
@@ -154,10 +154,18 @@
   {
     "title": "TypeScriptチュートリアル① -環境構築編-",
     "url": "https://qiita.com/ochiochi/items/efdaa0ae7d8c972c8103",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2017-01-19T12:15:12+09:00",
     "updated_at": "2018-03-20T15:32:03+09:00",
     "id": "ochiochi"
+  },
+  {
+    "title": "PIL/Pillow チートシート",
+    "url": "https://qiita.com/pashango2/items/145d858eff3c505c100a",
+    "likes_count": 541,
+    "created_at": "2017-01-31T08:36:06+09:00",
+    "updated_at": "2017-03-07T08:38:31+09:00",
+    "id": "pashango2"
   },
   {
     "title": "深入りしないCython入門 ",
@@ -174,14 +182,6 @@
     "created_at": "2017-01-13T20:19:50+09:00",
     "updated_at": "2019-12-11T11:06:09+09:00",
     "id": "IshitaTakeshi"
-  },
-  {
-    "title": "PIL/Pillow チートシート",
-    "url": "https://qiita.com/pashango2/items/145d858eff3c505c100a",
-    "likes_count": 540,
-    "created_at": "2017-01-31T08:36:06+09:00",
-    "updated_at": "2017-03-07T08:38:31+09:00",
-    "id": "pashango2"
   },
   {
     "title": "「アジャイルは死んだ」以降に残るものは何か -リーンソフトウェア開発を再評価し、自工程完結で全体観点で改善する -",
@@ -282,7 +282,7 @@
   {
     "title": "Python Kivyの使い方① ～Kv Languageの基本～",
     "url": "https://qiita.com/dario_okazaki/items/7892b24fcfa787faface",
-    "likes_count": 417,
+    "likes_count": 419,
     "created_at": "2017-01-27T01:19:17+09:00",
     "updated_at": "2020-03-28T19:49:22+09:00",
     "id": "dario_okazaki"
@@ -298,7 +298,7 @@
   {
     "title": "git rebase についてまとめてみた",
     "url": "https://qiita.com/KTakata/items/d33185fc0457c08654a5",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2017-01-17T19:56:41+09:00",
     "updated_at": "2020-01-22T09:15:19+09:00",
     "id": "KTakata"
@@ -306,7 +306,7 @@
   {
     "title": "正規表現チェックツールまとめ",
     "url": "https://qiita.com/aqril_1132/items/c185c7ad84c129e5a2df",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2017-01-20T01:45:03+09:00",
     "updated_at": "2017-01-22T12:28:59+09:00",
     "id": "aqril_1132"
@@ -338,7 +338,7 @@
   {
     "title": "railsで多対多のアソシエーションの作り方と、出来ること",
     "url": "https://qiita.com/Kohei_Kishimoto0214/items/cb9a3d3da57708fb52c9",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2017-01-19T13:34:56+09:00",
     "updated_at": "2017-06-26T18:27:04+09:00",
     "id": "Kohei_Kishimoto0214"
@@ -346,7 +346,7 @@
   {
     "title": "いますぐ使える単語埋め込みベクトルのリスト",
     "url": "https://qiita.com/Hironsan/items/8f7d35f0a36e0f99752c",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2017-01-20T12:43:37+09:00",
     "updated_at": "2017-03-23T20:22:25+09:00",
     "id": "Hironsan"
@@ -370,7 +370,7 @@
   {
     "title": "githubでブランチ名を変更する（ローカル/リモート）",
     "url": "https://qiita.com/hogeta_/items/e47dfb0cf88270ef2802",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2017-01-05T10:59:36+09:00",
     "updated_at": "2017-01-05T10:59:36+09:00",
     "id": "hogeta_"
