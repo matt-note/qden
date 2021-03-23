@@ -2,7 +2,7 @@
   {
     "title": "翻訳: WebAPI 設計のベストプラクティス",
     "url": "https://qiita.com/mserizawa/items/b833e407d89abd21ee72",
-    "likes_count": 5254,
+    "likes_count": 5255,
     "created_at": "2016-03-24T03:18:36+09:00",
     "updated_at": "2017-12-17T15:13:02+09:00",
     "id": "mserizawa"
@@ -26,7 +26,7 @@
   {
     "title": "エンジニアのための「Sketch入門！」　1時間コース",
     "url": "https://qiita.com/codomo_pro/items/663f17756d61aa8e8ea3",
-    "likes_count": 1946,
+    "likes_count": 1945,
     "created_at": "2016-03-04T00:02:37+09:00",
     "updated_at": "2017-08-04T15:28:10+09:00",
     "id": "codomo_pro"
@@ -42,7 +42,7 @@
   {
     "title": "nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する",
     "url": "https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc",
-    "likes_count": 1790,
+    "likes_count": 1792,
     "created_at": "2016-03-18T01:08:31+09:00",
     "updated_at": "2018-04-09T09:05:54+09:00",
     "id": "kotarella1110"
@@ -50,7 +50,7 @@
   {
     "title": "たった1人から始める社内テストコード文化",
     "url": "https://qiita.com/haminiku/items/9f1b9a2fb773c732c494",
-    "likes_count": 1669,
+    "likes_count": 1668,
     "created_at": "2016-03-15T06:38:55+09:00",
     "updated_at": "2016-03-23T12:57:56+09:00",
     "id": "haminiku"
@@ -58,7 +58,7 @@
   {
     "title": "sedでこういう時はどう書く?",
     "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
-    "likes_count": 1395,
+    "likes_count": 1396,
     "created_at": "2016-03-04T11:57:25+09:00",
     "updated_at": "2018-10-25T10:59:12+09:00",
     "id": "hirohiro77"
@@ -66,7 +66,7 @@
   {
     "title": "Dockerを使って1サーバで複数Webサービスを運用するためのマイベストプラクティス",
     "url": "https://qiita.com/miyasakura_/items/5cd3b05aa9c5e4f3f4be",
-    "likes_count": 1386,
+    "likes_count": 1385,
     "created_at": "2016-03-23T10:09:59+09:00",
     "updated_at": "2016-05-14T10:37:20+09:00",
     "id": "miyasakura_"
@@ -106,7 +106,7 @@
   {
     "title": "「WebAPI 設計のベストプラクティス」に対する所感",
     "url": "https://qiita.com/ryo88c/items/0a3c7861015861026e00",
-    "likes_count": 996,
+    "likes_count": 995,
     "created_at": "2016-03-28T21:23:20+09:00",
     "updated_at": "2017-04-07T18:38:34+09:00",
     "id": "ryo88c"
@@ -114,7 +114,7 @@
   {
     "title": "pythonの内包表記を少し詳しく",
     "url": "https://qiita.com/y__sama/items/a2c458de97c4aa5a98e7",
-    "likes_count": 971,
+    "likes_count": 972,
     "created_at": "2016-03-14T20:39:02+09:00",
     "updated_at": "2018-01-02T14:52:54+09:00",
     "id": "y__sama"
@@ -258,7 +258,7 @@
   {
     "title": "プッシュ通知に必要な証明書の作り方2021",
     "url": "https://qiita.com/natsumo/items/d5cc1d0be427ca3af1cb",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2016-03-23T16:00:24+09:00",
     "updated_at": "2021-01-28T10:09:59+09:00",
     "id": "natsumo"
@@ -306,7 +306,7 @@
   {
     "title": "TypeScriptを使ってReactのチュートリアルを進めると捗るかなと思った(実際捗る)",
     "url": "https://qiita.com/m0a/items/d723259cdeebe382b5f6",
-    "likes_count": 505,
+    "likes_count": 506,
     "created_at": "2016-03-16T00:18:13+09:00",
     "updated_at": "2020-03-22T16:25:09+09:00",
     "id": "m0a"
@@ -330,7 +330,7 @@
   {
     "title": "Ruby on Rails カラムの追加と削除",
     "url": "https://qiita.com/azusanakano/items/a2847e4e582b9a627e3a",
-    "likes_count": 500,
+    "likes_count": 501,
     "created_at": "2016-03-29T12:11:04+09:00",
     "updated_at": "2016-03-29T12:16:03+09:00",
     "id": "azusanakano"
@@ -370,7 +370,7 @@
   {
     "title": "公開ライセンスの話",
     "url": "https://qiita.com/lovee/items/484ae3fc038314a64ee2",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2016-03-14T12:13:55+09:00",
     "updated_at": "2018-12-05T16:58:29+09:00",
     "id": "lovee"
@@ -392,14 +392,6 @@
     "id": "zembutsu"
   },
   {
-    "title": "はじめてのOSSリリース記 〜なぜ無料でソースコードを公開するのか？",
-    "url": "https://qiita.com/tabbyz/items/edf31f8265ab2255bad9",
-    "likes_count": 415,
-    "created_at": "2016-03-28T08:45:13+09:00",
-    "updated_at": "2016-04-06T18:17:12+09:00",
-    "id": "tabbyz"
-  },
-  {
     "title": "Java/Androidにおける例外設計、あるいは「契約による設計」によるシンプルさの追求",
     "url": "https://qiita.com/yuya_presto/items/3b651d6b0cf38f77e933",
     "likes_count": 414,
@@ -414,6 +406,14 @@
     "created_at": "2016-03-23T00:14:43+09:00",
     "updated_at": "2016-04-30T22:12:41+09:00",
     "id": "netetahito"
+  },
+  {
+    "title": "はじめてのOSSリリース記 〜なぜ無料でソースコードを公開するのか？",
+    "url": "https://qiita.com/tabbyz/items/edf31f8265ab2255bad9",
+    "likes_count": 414,
+    "created_at": "2016-03-28T08:45:13+09:00",
+    "updated_at": "2016-04-06T18:17:12+09:00",
+    "id": "tabbyz"
   },
   {
     "title": "HTMLを15年書いてる僕が語ってみる vol.1",
@@ -434,26 +434,26 @@
   {
     "title": "オブジェクト指向エクササイズをやってみる",
     "url": "https://qiita.com/opengl-8080/items/6f0a458df9c34eccf76c",
-    "likes_count": 398,
+    "likes_count": 397,
     "created_at": "2016-03-20T01:28:58+09:00",
     "updated_at": "2016-05-28T21:00:03+09:00",
     "id": "opengl-8080"
   },
   {
-    "title": "[初心者]RxSwiftの道標[入門] ",
-    "url": "https://qiita.com/nakailand/items/8b54dc9b4b39b0809c57",
-    "likes_count": 395,
-    "created_at": "2016-03-29T03:45:40+09:00",
-    "updated_at": "2016-04-09T22:40:18+09:00",
-    "id": "nakailand"
-  },
-  {
     "title": "CSSベンダープレフィックス-webkit-を今この瞬間に辞める為のAutoprefixerの導入",
     "url": "https://qiita.com/tonkotsuboy_com/items/377913c51b1ac00deffe",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2016-03-02T18:23:40+09:00",
     "updated_at": "2020-03-30T18:12:48+09:00",
     "id": "tonkotsuboy_com"
+  },
+  {
+    "title": "[初心者]RxSwiftの道標[入門] ",
+    "url": "https://qiita.com/nakailand/items/8b54dc9b4b39b0809c57",
+    "likes_count": 394,
+    "created_at": "2016-03-29T03:45:40+09:00",
+    "updated_at": "2016-04-09T22:40:18+09:00",
+    "id": "nakailand"
   },
   {
     "title": "SlackクローンのMattermostを使ってみる - 導入、初期設定編-",
@@ -600,20 +600,20 @@
     "id": "yousan"
   },
   {
+    "title": "Ruby のエラーメッセージを読み解く（初心者向け）その 1",
+    "url": "https://qiita.com/scivola/items/3017068a354892b239f4",
+    "likes_count": 322,
+    "created_at": "2016-03-05T17:34:37+09:00",
+    "updated_at": "2020-07-23T18:47:16+09:00",
+    "id": "scivola"
+  },
+  {
     "title": "dein.vimによるプラグイン管理のマイベストプラクティス",
     "url": "https://qiita.com/kawaz/items/ee725f6214f91337b42b",
     "likes_count": 322,
     "created_at": "2016-03-29T00:33:36+09:00",
     "updated_at": "2020-03-05T10:38:41+09:00",
     "id": "kawaz"
-  },
-  {
-    "title": "Ruby のエラーメッセージを読み解く（初心者向け）その 1",
-    "url": "https://qiita.com/scivola/items/3017068a354892b239f4",
-    "likes_count": 321,
-    "created_at": "2016-03-05T17:34:37+09:00",
-    "updated_at": "2020-07-23T18:47:16+09:00",
-    "id": "scivola"
   },
   {
     "title": "wgetでこういう時はこうする!!",
@@ -640,20 +640,20 @@
     "id": "trkbt10"
   },
   {
+    "title": "awkコマンドの基本",
+    "url": "https://qiita.com/yamazon/items/563af1b485ff413d381f",
+    "likes_count": 300,
+    "created_at": "2016-03-06T20:03:09+09:00",
+    "updated_at": "2016-03-14T23:38:39+09:00",
+    "id": "yamazon"
+  },
+  {
     "title": "iPhone Safariで動画をインライン再生する方法",
     "url": "https://qiita.com/hadakadenkyu/items/75162099d0bf7cdcfdc7",
     "likes_count": 300,
     "created_at": "2016-03-30T00:01:11+09:00",
     "updated_at": "2016-04-04T11:19:14+09:00",
     "id": "hadakadenkyu"
-  },
-  {
-    "title": "awkコマンドの基本",
-    "url": "https://qiita.com/yamazon/items/563af1b485ff413d381f",
-    "likes_count": 299,
-    "created_at": "2016-03-06T20:03:09+09:00",
-    "updated_at": "2016-03-14T23:38:39+09:00",
-    "id": "yamazon"
   },
   {
     "title": "Webサービス構築の流れ",
@@ -730,7 +730,7 @@
   {
     "title": "SQLチューニング～お手軽に使えるヒント句まで",
     "url": "https://qiita.com/kite_999/items/05136fadebc4048e3bb6",
-    "likes_count": 245,
+    "likes_count": 246,
     "created_at": "2016-03-19T10:22:50+09:00",
     "updated_at": "2016-03-19T10:22:50+09:00",
     "id": "kite_999"

@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡",
     "url": "https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1",
-    "likes_count": 5314,
+    "likes_count": 5312,
     "created_at": "2014-05-14T01:47:19+09:00",
     "updated_at": "2019-03-17T00:40:23+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "モデルやメソッドに名前を付けるときは英語の品詞に気をつけよう",
     "url": "https://qiita.com/jnchito/items/459d58ba652bf4763820",
-    "likes_count": 3418,
+    "likes_count": 3416,
     "created_at": "2014-05-28T11:06:08+09:00",
     "updated_at": "2020-01-15T17:22:35+09:00",
     "id": "jnchito"
@@ -42,7 +42,7 @@
   {
     "title": "PHPオブジェクト指向入門（前半）",
     "url": "https://qiita.com/mpyw/items/41230bec5c02142ae691",
-    "likes_count": 1703,
+    "likes_count": 1702,
     "created_at": "2014-05-26T03:20:00+09:00",
     "updated_at": "2015-01-09T14:35:42+09:00",
     "id": "mpyw"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1388,
+    "likes_count": 1389,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2020-07-13T19:44:27+09:00",
     "id": "amedama"
@@ -66,7 +66,7 @@
   {
     "title": "最近のインフラ系ツールが多すぎて何が何だかわからない！からの卒業",
     "url": "https://qiita.com/kasaharu/items/59b8d3a76b4a22eab88e",
-    "likes_count": 1211,
+    "likes_count": 1209,
     "created_at": "2014-05-03T20:56:27+09:00",
     "updated_at": "2014-09-18T00:01:16+09:00",
     "id": "kasaharu"
@@ -90,7 +90,7 @@
   {
     "title": "基本的なGitコマンドまとめ",
     "url": "https://qiita.com/2m1tsu3/items/6d49374230afab251337",
-    "likes_count": 1026,
+    "likes_count": 1027,
     "created_at": "2014-05-22T23:17:02+09:00",
     "updated_at": "2020-11-20T11:22:10+09:00",
     "id": "2m1tsu3"
@@ -130,7 +130,7 @@
   {
     "title": "Browserify: それはrequire()を使うための魔法の杖",
     "url": "https://qiita.com/cognitom/items/4c63969b5085c90639d4",
-    "likes_count": 832,
+    "likes_count": 831,
     "created_at": "2014-05-29T14:54:27+09:00",
     "updated_at": "2015-01-09T22:58:11+09:00",
     "id": "cognitom"
@@ -242,7 +242,7 @@
   {
     "title": "Chrome 拡張機能のマニフェストファイルの書き方",
     "url": "https://qiita.com/mdstoy/items/9866544e37987337dc79",
-    "likes_count": 545,
+    "likes_count": 546,
     "created_at": "2014-05-07T01:20:26+09:00",
     "updated_at": "2019-12-19T22:36:45+09:00",
     "id": "mdstoy"
@@ -258,7 +258,7 @@
   {
     "title": "git コマンド branchの作り方",
     "url": "https://qiita.com/TetsuTaka/items/5ab227a8bd2cd7106833",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2014-05-19T12:44:11+09:00",
     "updated_at": "2017-04-11T11:58:13+09:00",
     "id": "TetsuTaka"
@@ -296,6 +296,14 @@
     "id": "Quramy"
   },
   {
+    "title": "PostgreSQLのbackup, restore方法まとめ",
+    "url": "https://qiita.com/rice_american/items/ceae28dad13c3977e3a8",
+    "likes_count": 455,
+    "created_at": "2014-05-25T14:37:55+09:00",
+    "updated_at": "2019-06-15T20:04:12+09:00",
+    "id": "rice_american"
+  },
+  {
     "title": "[JavaScript] 非同期処理のコールバック地獄から抜け出す方法",
     "url": "https://qiita.com/LightSpeedC/items/7980a6e790d6cb2d6dad",
     "likes_count": 454,
@@ -304,17 +312,9 @@
     "id": "LightSpeedC"
   },
   {
-    "title": "PostgreSQLのbackup, restore方法まとめ",
-    "url": "https://qiita.com/rice_american/items/ceae28dad13c3977e3a8",
-    "likes_count": 454,
-    "created_at": "2014-05-25T14:37:55+09:00",
-    "updated_at": "2019-06-15T20:04:12+09:00",
-    "id": "rice_american"
-  },
-  {
     "title": "Macのsayコマンドの使い方",
     "url": "https://qiita.com/zakuroishikuro/items/0c17acb21f119647c205",
-    "likes_count": 444,
+    "likes_count": 443,
     "created_at": "2014-05-07T21:38:37+09:00",
     "updated_at": "2015-07-23T05:21:05+09:00",
     "id": "zakuroishikuro"
@@ -354,7 +354,7 @@
   {
     "title": "多段SSHやポートフォワーディングを '.ssh/config' に書く",
     "url": "https://qiita.com/lasta/items/41e95a2fdded18c34dae",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2014-05-14T16:27:11+09:00",
     "updated_at": "2019-12-27T08:11:20+09:00",
     "id": "lasta"
@@ -506,7 +506,7 @@
   {
     "title": "GitLab と Jenkins を連携する (1)",
     "url": "https://qiita.com/garbagetown/items/fe055dcfd8e0c090e610",
-    "likes_count": 266,
+    "likes_count": 265,
     "created_at": "2014-05-09T18:28:41+09:00",
     "updated_at": "2014-05-20T18:10:42+09:00",
     "id": "garbagetown"

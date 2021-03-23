@@ -2,7 +2,7 @@
   {
     "title": "忙しい人のためのIntelliJ IDEAショートカット集（´-`）",
     "url": "https://qiita.com/yoppe/items/f7cbeb825c071691d3f2",
-    "likes_count": 2154,
+    "likes_count": 2155,
     "created_at": "2015-03-25T04:20:23+09:00",
     "updated_at": "2020-11-16T07:48:12+09:00",
     "id": "yoppe"
@@ -18,7 +18,7 @@
   {
     "title": "[git reset (--hard/--soft)]ワーキングツリー、インデックス、HEADを使いこなす方法",
     "url": "https://qiita.com/shuntaro_tamura/items/db1aef9cf9d78db50ffe",
-    "likes_count": 1641,
+    "likes_count": 1642,
     "created_at": "2015-03-07T11:39:00+09:00",
     "updated_at": "2016-03-16T21:10:25+09:00",
     "id": "shuntaro_tamura"
@@ -82,7 +82,7 @@
   {
     "title": "確率的勾配降下法とは何か、をPythonで動かして解説する",
     "url": "https://qiita.com/kenmatsu4/items/d282054ddedbd68fecb0",
-    "likes_count": 722,
+    "likes_count": 721,
     "created_at": "2015-03-06T09:12:01+09:00",
     "updated_at": "2017-05-29T22:10:18+09:00",
     "id": "kenmatsu4"
@@ -138,7 +138,7 @@
   {
     "title": "rebase -i でコミットをまとめる",
     "url": "https://qiita.com/takke/items/3400b55becfd72769214",
-    "likes_count": 581,
+    "likes_count": 582,
     "created_at": "2015-03-03T18:08:56+09:00",
     "updated_at": "2018-11-19T15:56:57+09:00",
     "id": "takke"
@@ -264,20 +264,20 @@
     "id": "blueplanet"
   },
   {
+    "title": "Android の Chrome で開発者ツールを使う方法",
+    "url": "https://qiita.com/hojishi/items/12b726f8b02ef3d713e4",
+    "likes_count": 392,
+    "created_at": "2015-03-13T14:57:23+09:00",
+    "updated_at": "2015-03-13T14:57:23+09:00",
+    "id": "hojishi"
+  },
+  {
     "title": "GCEのライブマイグレーションのすごさをまとめてみた #gcpja",
     "url": "https://qiita.com/kazunori279/items/41520689337a644a87b4",
     "likes_count": 391,
     "created_at": "2015-03-04T16:23:32+09:00",
     "updated_at": "2015-03-11T11:17:29+09:00",
     "id": "kazunori279"
-  },
-  {
-    "title": "Android の Chrome で開発者ツールを使う方法",
-    "url": "https://qiita.com/hojishi/items/12b726f8b02ef3d713e4",
-    "likes_count": 391,
-    "created_at": "2015-03-13T14:57:23+09:00",
-    "updated_at": "2015-03-13T14:57:23+09:00",
-    "id": "hojishi"
   },
   {
     "title": "初心者エンジニアがより効率的にコードを書くために必要な三つの力",
@@ -346,7 +346,7 @@
   {
     "title": "[10分で出来る]シェルスクリプトの結果をslackに投稿",
     "url": "https://qiita.com/tt2004d/items/50d79d1569c0ace118d6",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2015-03-20T17:44:20+09:00",
     "updated_at": "2015-03-27T16:23:42+09:00",
     "id": "tt2004d"
@@ -384,20 +384,20 @@
     "id": "okmttdhr"
   },
   {
-    "title": "AWS上のデータベースサービスが沢山あってよくわからないので、整理してまとめてみた",
-    "url": "https://qiita.com/iron-breaker/items/48b430e125e7c4ef0fbd",
-    "likes_count": 322,
-    "created_at": "2015-03-22T18:54:32+09:00",
-    "updated_at": "2015-03-23T12:32:51+09:00",
-    "id": "iron-breaker"
-  },
-  {
     "title": "AWS SNSを使ってiOSへpush通知",
     "url": "https://qiita.com/InletOrder/items/2cbff7664e49fb93bf39",
     "likes_count": 322,
     "created_at": "2015-03-24T04:39:25+09:00",
     "updated_at": "2016-04-18T11:46:47+09:00",
     "id": "InletOrder"
+  },
+  {
+    "title": "AWS上のデータベースサービスが沢山あってよくわからないので、整理してまとめてみた",
+    "url": "https://qiita.com/iron-breaker/items/48b430e125e7c4ef0fbd",
+    "likes_count": 321,
+    "created_at": "2015-03-22T18:54:32+09:00",
+    "updated_at": "2015-03-23T12:32:51+09:00",
+    "id": "iron-breaker"
   },
   {
     "title": "VagrantコマンドとVagrantfileの設定メモ",
@@ -458,7 +458,7 @@
   {
     "title": "ちょいちょいわからなくなるcheckbox, radio, selectboxの値の取り方",
     "url": "https://qiita.com/nmta/items/dc29378adf79c5784218",
-    "likes_count": 277,
+    "likes_count": 276,
     "created_at": "2015-03-13T12:21:20+09:00",
     "updated_at": "2015-03-13T12:22:18+09:00",
     "id": "nmta"
@@ -466,7 +466,7 @@
   {
     "title": "仮想開発環境構築ツールまとめ",
     "url": "https://qiita.com/tanish-kr/items/47011394849e2c0fe337",
-    "likes_count": 274,
+    "likes_count": 273,
     "created_at": "2015-03-11T19:39:14+09:00",
     "updated_at": "2018-09-23T01:05:20+09:00",
     "id": "tanish-kr"
