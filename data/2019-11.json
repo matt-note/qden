@@ -2,7 +2,7 @@
   {
     "title": "2020年のフロントエンドマスターになりたければこの9プロジェクトを作れ",
     "url": "https://qiita.com/rana_kualu/items/915345b8f3f870cfe2aa",
-    "likes_count": 3471,
+    "likes_count": 3470,
     "created_at": "2019-11-11T20:54:20+09:00",
     "updated_at": "2019-11-20T21:12:23+09:00",
     "id": "rana_kualu"
@@ -42,7 +42,7 @@
   {
     "title": "フロントエンドのコーディング課題６選-このフロントエンドの課題、実装できますか？",
     "url": "https://qiita.com/baby-degu/items/d68e52a0727248ba2750",
-    "likes_count": 1822,
+    "likes_count": 1821,
     "created_at": "2019-11-21T06:51:33+09:00",
     "updated_at": "2020-03-15T21:11:38+09:00",
     "id": "baby-degu"
@@ -58,7 +58,7 @@
   {
     "title": "【保存版】Webフロントエンド基礎力（初心者向け）",
     "url": "https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9",
-    "likes_count": 1766,
+    "likes_count": 1767,
     "created_at": "2019-11-05T08:41:27+09:00",
     "updated_at": "2020-03-15T22:12:44+09:00",
     "id": "teradonburi"
@@ -66,7 +66,7 @@
   {
     "title": "ディープラーニングさえあれば、競馬で回収率100%を超えられる",
     "url": "https://qiita.com/yossymura/items/334a8f3ef85bff081913",
-    "likes_count": 1711,
+    "likes_count": 1712,
     "created_at": "2019-11-09T01:19:52+09:00",
     "updated_at": "2019-11-23T07:13:40+09:00",
     "id": "yossymura"
@@ -210,7 +210,7 @@
   {
     "title": "ようこそdotfilesの世界へ",
     "url": "https://qiita.com/yutkat/items/c6c7584d9795799ee164",
-    "likes_count": 618,
+    "likes_count": 619,
     "created_at": "2019-12-01T00:30:44+09:00",
     "updated_at": "2021-02-23T03:36:42+09:00",
     "id": "yutkat"
@@ -258,7 +258,7 @@
   {
     "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
     "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 582,
+    "likes_count": 583,
     "created_at": "2019-11-21T16:30:57+09:00",
     "updated_at": "2020-10-14T00:17:51+09:00",
     "id": "ryokkkke"
@@ -274,7 +274,7 @@
   {
     "title": "フロントエンドエンジニア１年目はコードレビューでどんな指摘を受けるのか",
     "url": "https://qiita.com/su_mi1228/items/c56e7ab2aa88eea8d116",
-    "likes_count": 572,
+    "likes_count": 571,
     "created_at": "2019-11-19T20:59:03+09:00",
     "updated_at": "2019-12-04T09:37:36+09:00",
     "id": "su_mi1228"
@@ -290,7 +290,7 @@
   {
     "title": "RDBの限界とNoSQLの登場",
     "url": "https://qiita.com/1amageek/items/3dbbc3112493a73880d0",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2019-11-11T21:55:56+09:00",
     "updated_at": "2019-11-14T13:25:42+09:00",
     "id": "1amageek"
@@ -346,7 +346,7 @@
   {
     "title": "【検証】ディープラーニングがあるからといって、競馬で回収率100%を簡単に超えられるわけではない",
     "url": "https://qiita.com/kscntt/items/3f215a945c32a2bbcd3c",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2019-11-16T23:26:11+09:00",
     "updated_at": "2019-11-16T23:26:11+09:00",
     "id": "kscntt"
@@ -360,17 +360,9 @@
     "id": "jiroshin"
   },
   {
-    "title": "誤解されることが多い「テスト自動化」の範囲について",
-    "url": "https://qiita.com/gevanni/items/ff9a27936a1a6df28b9a",
-    "likes_count": 431,
-    "created_at": "2019-11-04T15:15:27+09:00",
-    "updated_at": "2019-11-08T00:32:02+09:00",
-    "id": "gevanni"
-  },
-  {
     "title": "無料で使える公開 API のリスト：48 カテゴリ",
     "url": "https://qiita.com/eigs/items/967ed54c0520beb3f775",
-    "likes_count": 431,
+    "likes_count": 435,
     "created_at": "2019-11-06T01:58:32+09:00",
     "updated_at": "2019-11-15T09:31:07+09:00",
     "id": "eigs"
@@ -378,10 +370,18 @@
   {
     "title": "AWS,Azure,GCPの3大クラウドのアーキテクト試験に合格してみての個人的比較",
     "url": "https://qiita.com/yomon8/items/f812079d0ce631f73d45",
-    "likes_count": 431,
+    "likes_count": 432,
     "created_at": "2019-11-21T20:20:09+09:00",
     "updated_at": "2020-03-19T10:09:33+09:00",
     "id": "yomon8"
+  },
+  {
+    "title": "誤解されることが多い「テスト自動化」の範囲について",
+    "url": "https://qiita.com/gevanni/items/ff9a27936a1a6df28b9a",
+    "likes_count": 431,
+    "created_at": "2019-11-04T15:15:27+09:00",
+    "updated_at": "2019-11-08T00:32:02+09:00",
+    "id": "gevanni"
   },
   {
     "title": "【初心者向け】Gitで個人開発",
@@ -416,20 +416,20 @@
     "id": "baby-degu"
   },
   {
+    "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
+    "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
+    "likes_count": 387,
+    "created_at": "2019-11-15T22:47:51+09:00",
+    "updated_at": "2020-03-09T11:53:54+09:00",
+    "id": "ramuneru"
+  },
+  {
     "title": "ゲームボーイのエミュレータをGoで作った話",
     "url": "https://qiita.com/Akatsuki_py/items/3a8ddef98343e805b8c1",
     "likes_count": 386,
     "created_at": "2019-11-11T21:58:10+09:00",
     "updated_at": "2020-01-24T09:02:23+09:00",
     "id": "Akatsuki_py"
-  },
-  {
-    "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
-    "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
-    "likes_count": 386,
-    "created_at": "2019-11-15T22:47:51+09:00",
-    "updated_at": "2020-03-09T11:53:54+09:00",
-    "id": "ramuneru"
   },
   {
     "title": "そのコンポーネント、CSSだけで実現できますよ【JavaScript必要なし】",
@@ -450,7 +450,7 @@
   {
     "title": "いまからはじめるReact",
     "url": "https://qiita.com/Kazunori-Kimura/items/d94ddd1a8d8e2e39d504",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2019-11-15T14:16:10+09:00",
     "updated_at": "2019-11-19T15:16:49+09:00",
     "id": "Kazunori-Kimura"
@@ -458,7 +458,7 @@
   {
     "title": "10分で理解する Selenium",
     "url": "https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a",
-    "likes_count": 349,
+    "likes_count": 350,
     "created_at": "2019-11-30T01:26:15+09:00",
     "updated_at": "2021-02-26T14:13:48+09:00",
     "id": "Chanmoro"
@@ -488,20 +488,20 @@
     "id": "heisenberg_"
   },
   {
-    "title": "【これからScssを使う人へ】Scssの使い方と便利さをさらっと紹介するぞ",
-    "url": "https://qiita.com/mame_hashbill/items/e5f01d0f2523de6a13e5",
-    "likes_count": 299,
-    "created_at": "2019-11-05T18:08:00+09:00",
-    "updated_at": "2019-11-06T07:55:54+09:00",
-    "id": "mame_hashbill"
-  },
-  {
     "title": "CI/CD環境を作ると、効率良くインフラの知識が身につく気がする 〜GCPでdroneを動かすチュートリアル〜",
     "url": "https://qiita.com/sadnessOjisan/items/724c1882d0842f2813f8",
-    "likes_count": 298,
+    "likes_count": 299,
     "created_at": "2019-11-05T02:45:45+09:00",
     "updated_at": "2019-11-06T16:44:28+09:00",
     "id": "sadnessOjisan"
+  },
+  {
+    "title": "【これからScssを使う人へ】Scssの使い方と便利さをさらっと紹介するぞ",
+    "url": "https://qiita.com/mame_hashbill/items/e5f01d0f2523de6a13e5",
+    "likes_count": 298,
+    "created_at": "2019-11-05T18:08:00+09:00",
+    "updated_at": "2019-11-06T07:55:54+09:00",
+    "id": "mame_hashbill"
   },
   {
     "title": "データ収集からディープラーニングまで全て行って競馬の予測をしてみた",

@@ -74,7 +74,7 @@
   {
     "title": "これだけは覚えたい、ユニットテストを書くための４つのデザイン",
     "url": "https://qiita.com/koduki/items/4fde43b68fe450c6a5d8",
-    "likes_count": 872,
+    "likes_count": 873,
     "created_at": "2017-01-16T07:49:09+09:00",
     "updated_at": "2018-02-21T08:10:30+09:00",
     "id": "koduki"
@@ -122,7 +122,7 @@
   {
     "title": "SVN脳患者から見たGit",
     "url": "https://qiita.com/kaityo256/items/81e7951a1ca2706955a4",
-    "likes_count": 674,
+    "likes_count": 675,
     "created_at": "2017-01-31T20:09:38+09:00",
     "updated_at": "2017-02-08T15:06:14+09:00",
     "id": "kaityo256"
@@ -154,7 +154,7 @@
   {
     "title": "TypeScriptチュートリアル① -環境構築編-",
     "url": "https://qiita.com/ochiochi/items/efdaa0ae7d8c972c8103",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2017-01-19T12:15:12+09:00",
     "updated_at": "2018-03-20T15:32:03+09:00",
     "id": "ochiochi"
@@ -250,7 +250,7 @@
   {
     "title": "WebAPI でファイルをアップロードする方法アレコレ",
     "url": "https://qiita.com/mserizawa/items/7f1b9e5077fd3a9d336b",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2017-01-24T00:19:27+09:00",
     "updated_at": "2017-01-24T18:59:56+09:00",
     "id": "mserizawa"
@@ -258,7 +258,7 @@
   {
     "title": "CASE式で条件分岐をSQL文に任せる",
     "url": "https://qiita.com/sfp_waterwalker/items/acc7f95f6ab5aa5412f3",
-    "likes_count": 445,
+    "likes_count": 447,
     "created_at": "2017-01-18T20:21:41+09:00",
     "updated_at": "2021-02-02T15:49:24+09:00",
     "id": "sfp_waterwalker"
@@ -290,7 +290,7 @@
   {
     "title": "機械学習で精度が出ない時にやることまとめ",
     "url": "https://qiita.com/junichiro/items/7e2842c7afba2407c49b",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2017-01-10T11:25:21+09:00",
     "updated_at": "2019-05-29T17:32:44+09:00",
     "id": "junichiro"
@@ -298,7 +298,7 @@
   {
     "title": "git rebase についてまとめてみた",
     "url": "https://qiita.com/KTakata/items/d33185fc0457c08654a5",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2017-01-17T19:56:41+09:00",
     "updated_at": "2020-01-22T09:15:19+09:00",
     "id": "KTakata"
@@ -306,7 +306,7 @@
   {
     "title": "正規表現チェックツールまとめ",
     "url": "https://qiita.com/aqril_1132/items/c185c7ad84c129e5a2df",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2017-01-20T01:45:03+09:00",
     "updated_at": "2017-01-22T12:28:59+09:00",
     "id": "aqril_1132"
@@ -330,10 +330,18 @@
   {
     "title": "LightGBM ハンズオン - もう一つのGradient Boostingライブラリ",
     "url": "https://qiita.com/TomokIshii/items/3729c1b9c658cc48b5cb",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2017-01-11T08:57:49+09:00",
     "updated_at": "2017-08-18T18:11:27+09:00",
     "id": "TomokIshii"
+  },
+  {
+    "title": "いますぐ使える単語埋め込みベクトルのリスト",
+    "url": "https://qiita.com/Hironsan/items/8f7d35f0a36e0f99752c",
+    "likes_count": 372,
+    "created_at": "2017-01-20T12:43:37+09:00",
+    "updated_at": "2017-03-23T20:22:25+09:00",
+    "id": "Hironsan"
   },
   {
     "title": "railsで多対多のアソシエーションの作り方と、出来ること",
@@ -342,14 +350,6 @@
     "created_at": "2017-01-19T13:34:56+09:00",
     "updated_at": "2017-06-26T18:27:04+09:00",
     "id": "Kohei_Kishimoto0214"
-  },
-  {
-    "title": "いますぐ使える単語埋め込みベクトルのリスト",
-    "url": "https://qiita.com/Hironsan/items/8f7d35f0a36e0f99752c",
-    "likes_count": 371,
-    "created_at": "2017-01-20T12:43:37+09:00",
-    "updated_at": "2017-03-23T20:22:25+09:00",
-    "id": "Hironsan"
   },
   {
     "title": "Inside of Deep Learning あるいは深層学習は何を変えるのか",
@@ -434,7 +434,7 @@
   {
     "title": "Laravel open source project で参考になりそうなもの",
     "url": "https://qiita.com/acro5piano/items/8dc4597e12d9050c0708",
-    "likes_count": 244,
+    "likes_count": 245,
     "created_at": "2017-01-17T00:46:39+09:00",
     "updated_at": "2018-10-10T01:15:07+09:00",
     "id": "acro5piano"

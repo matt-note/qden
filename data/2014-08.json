@@ -18,7 +18,7 @@
   {
     "title": "改訂版: プログラマーが効果的な可視化を作成する （前編）",
     "url": "https://qiita.com/keiono/items/9042bf58224ca54bdb45",
-    "likes_count": 1221,
+    "likes_count": 1222,
     "created_at": "2014-08-26T08:51:00+09:00",
     "updated_at": "2019-05-07T08:48:45+09:00",
     "id": "keiono"
@@ -58,7 +58,7 @@
   {
     "title": "Rubyで%記法（パーセント記法）を使う",
     "url": "https://qiita.com/mogulla3/items/46bb876391be07921743",
-    "likes_count": 1100,
+    "likes_count": 1101,
     "created_at": "2014-08-23T23:49:39+09:00",
     "updated_at": "2014-08-23T23:50:26+09:00",
     "id": "mogulla3"
@@ -130,7 +130,7 @@
   {
     "title": "なぜクロージャ（Closure）と言うのか？",
     "url": "https://qiita.com/mochizukikotaro/items/7403835a0dbb00ea71ae",
-    "likes_count": 728,
+    "likes_count": 727,
     "created_at": "2014-08-24T12:34:19+09:00",
     "updated_at": "2014-08-24T12:34:19+09:00",
     "id": "mochizukikotaro"
@@ -154,7 +154,7 @@
   {
     "title": "似ているようで全然違う!?Activerecordにおけるincludesとjoinsの振る舞いまとめ",
     "url": "https://qiita.com/south37/items/b2c81932756d2cd84d7d",
-    "likes_count": 693,
+    "likes_count": 694,
     "created_at": "2014-08-10T02:15:18+09:00",
     "updated_at": "2018-05-18T11:45:07+09:00",
     "id": "south37"
@@ -186,7 +186,7 @@
   {
     "title": "Apacheのチューニングメモ",
     "url": "https://qiita.com/nownabe/items/1111cc32da9fe63289f0",
-    "likes_count": 627,
+    "likes_count": 626,
     "created_at": "2014-08-18T22:16:12+09:00",
     "updated_at": "2015-03-31T19:48:28+09:00",
     "id": "nownabe"
@@ -256,20 +256,20 @@
     "id": "sqrtxx"
   },
   {
+    "title": "【まとめ】インスタンス変数、クラス変数、クラスインスタンス変数",
+    "url": "https://qiita.com/mogulla3/items/cd4d6e188c34c6819709",
+    "likes_count": 551,
+    "created_at": "2014-08-10T16:15:52+09:00",
+    "updated_at": "2014-08-10T16:16:10+09:00",
+    "id": "mogulla3"
+  },
+  {
     "title": "Ruby の private と protected 。歴史と使い分け",
     "url": "https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e",
     "likes_count": 551,
     "created_at": "2014-08-18T22:16:06+09:00",
     "updated_at": "2016-08-16T21:46:37+09:00",
     "id": "tbpgr"
-  },
-  {
-    "title": "【まとめ】インスタンス変数、クラス変数、クラスインスタンス変数",
-    "url": "https://qiita.com/mogulla3/items/cd4d6e188c34c6819709",
-    "likes_count": 550,
-    "created_at": "2014-08-10T16:15:52+09:00",
-    "updated_at": "2014-08-10T16:16:10+09:00",
-    "id": "mogulla3"
   },
   {
     "title": "HTMLでWeb APIをつくる",
@@ -290,7 +290,7 @@
   {
     "title": "DateTime クラスのまとめメモ",
     "url": "https://qiita.com/re-24/items/c3ed814f2e1ee0f8e811",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2014-08-07T21:17:46+09:00",
     "updated_at": "2017-06-05T23:09:14+09:00",
     "id": "re-24"
@@ -432,20 +432,20 @@
     "id": "kikuchy"
   },
   {
-    "title": "コールバックと上手に付き合う",
-    "url": "https://qiita.com/KeithYokoma/items/d6c3bd07fc57b93f91cc",
-    "likes_count": 354,
-    "created_at": "2014-08-25T12:03:55+09:00",
-    "updated_at": "2014-08-25T12:04:53+09:00",
-    "id": "KeithYokoma"
-  },
-  {
     "title": "よく忘れるCSSの小技",
     "url": "https://qiita.com/matsui-a/items/9de76659429593ed7a88",
     "likes_count": 353,
     "created_at": "2014-08-21T16:43:24+09:00",
     "updated_at": "2015-06-02T15:24:47+09:00",
     "id": "matsui-a"
+  },
+  {
+    "title": "コールバックと上手に付き合う",
+    "url": "https://qiita.com/KeithYokoma/items/d6c3bd07fc57b93f91cc",
+    "likes_count": 353,
+    "created_at": "2014-08-25T12:03:55+09:00",
+    "updated_at": "2014-08-25T12:04:53+09:00",
+    "id": "KeithYokoma"
   },
   {
     "title": "プログラマーが効果的な可視化を作成する （中編）",
@@ -520,20 +520,20 @@
     "id": "hotchemi"
   },
   {
+    "title": "IT人材白書2014を読んだ",
+    "url": "https://qiita.com/kenjihiranabe/items/05ac9fb741edc1ee5276",
+    "likes_count": 290,
+    "created_at": "2014-08-10T21:57:20+09:00",
+    "updated_at": "2014-08-11T19:08:24+09:00",
+    "id": "kenjihiranabe"
+  },
+  {
     "title": "シェルを再起動させる簡単な方法",
     "url": "https://qiita.com/yusabana/items/c4de582c6f85a42817d8",
     "likes_count": 290,
     "created_at": "2014-08-31T21:11:21+09:00",
     "updated_at": "2015-04-15T21:44:50+09:00",
     "id": "yusabana"
-  },
-  {
-    "title": "IT人材白書2014を読んだ",
-    "url": "https://qiita.com/kenjihiranabe/items/05ac9fb741edc1ee5276",
-    "likes_count": 289,
-    "created_at": "2014-08-10T21:57:20+09:00",
-    "updated_at": "2014-08-11T19:08:24+09:00",
-    "id": "kenjihiranabe"
   },
   {
     "title": "【個人メモ】設定ファイルフォーマットにはTOMLがいいのかも",
@@ -544,20 +544,20 @@
     "id": "futoase"
   },
   {
+    "title": "iOS で click イベントがわけのわからない動作をする件について",
+    "url": "https://qiita.com/myzkyy/items/ce6a26c9c59612e6f515",
+    "likes_count": 282,
+    "created_at": "2014-08-22T18:18:44+09:00",
+    "updated_at": "2015-03-13T00:08:54+09:00",
+    "id": "myzkyy"
+  },
+  {
     "title": "CentOS 7のDockerコンテナ内でsystemdを使ってサービスを起動する",
     "url": "https://qiita.com/yunano/items/9637ee21a71eba197345",
     "likes_count": 281,
     "created_at": "2014-08-20T23:03:05+09:00",
     "updated_at": "2015-05-10T05:29:30+09:00",
     "id": "yunano"
-  },
-  {
-    "title": "iOS で click イベントがわけのわからない動作をする件について",
-    "url": "https://qiita.com/myzkyy/items/ce6a26c9c59612e6f515",
-    "likes_count": 281,
-    "created_at": "2014-08-22T18:18:44+09:00",
-    "updated_at": "2015-03-13T00:08:54+09:00",
-    "id": "myzkyy"
   },
   {
     "title": "npm-scriptsについて",

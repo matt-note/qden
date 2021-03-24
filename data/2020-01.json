@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4073,
+    "likes_count": 4077,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2020-07-17T22:02:22+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4052,
+    "likes_count": 4054,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -74,7 +74,7 @@
   {
     "title": " 【作業効率化】優秀すぎて課金してでも個人的に使ってるmacOSソフトウェアまとめ【5選】",
     "url": "https://qiita.com/sukebeeeeei/items/b14ee87d7bd29511e580",
-    "likes_count": 1245,
+    "likes_count": 1246,
     "created_at": "2020-01-04T09:38:09+09:00",
     "updated_at": "2020-05-02T18:20:50+09:00",
     "id": "sukebeeeeei"
@@ -98,7 +98,7 @@
   {
     "title": "2020年現在 Web系企業で採用されてる技術についてまとめてみた",
     "url": "https://qiita.com/inagacky/items/43cc0518ef11f1e4beb3",
-    "likes_count": 955,
+    "likes_count": 957,
     "created_at": "2020-01-22T10:43:23+09:00",
     "updated_at": "2020-09-06T09:25:42+09:00",
     "id": "inagacky"
@@ -170,7 +170,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 742,
+    "likes_count": 743,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -178,7 +178,7 @@
   {
     "title": "ラズパイでやらなければいけない４つのセキュリティ対策！",
     "url": "https://qiita.com/nokonoko_1203/items/94a888444d5019f23a11",
-    "likes_count": 699,
+    "likes_count": 700,
     "created_at": "2020-01-31T17:29:12+09:00",
     "updated_at": "2020-06-11T07:52:08+09:00",
     "id": "nokonoko_1203"
@@ -210,7 +210,7 @@
   {
     "title": "TypeScriptを使って嬉しかったこと",
     "url": "https://qiita.com/Yametaro/items/918083d9767ac5e74895",
-    "likes_count": 664,
+    "likes_count": 663,
     "created_at": "2020-01-12T23:25:26+09:00",
     "updated_at": "2020-01-25T10:11:51+09:00",
     "id": "Yametaro"
@@ -218,7 +218,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -240,20 +240,20 @@
     "id": "83k"
   },
   {
+    "title": "バッチ処理について考える",
+    "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
+    "likes_count": 642,
+    "created_at": "2020-01-11T11:25:19+09:00",
+    "updated_at": "2020-06-11T18:35:53+09:00",
+    "id": "koduki"
+  },
+  {
     "title": "仕事の進め方の良し悪しを見える化したら、各自が自分で行動を改善してくれた話",
     "url": "https://qiita.com/kojimadev/items/912f12c55542b795b60f",
     "likes_count": 641,
     "created_at": "2020-01-06T07:37:54+09:00",
     "updated_at": "2020-01-06T07:38:48+09:00",
     "id": "kojimadev"
-  },
-  {
-    "title": "バッチ処理について考える",
-    "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
-    "likes_count": 641,
-    "created_at": "2020-01-11T11:25:19+09:00",
-    "updated_at": "2020-06-11T18:35:53+09:00",
-    "id": "koduki"
   },
   {
     "title": "経年劣化に耐える ReactComponent の書き方",
@@ -384,6 +384,14 @@
     "id": "katy7"
   },
   {
+    "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
+    "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
+    "likes_count": 407,
+    "created_at": "2020-01-19T17:05:28+09:00",
+    "updated_at": "2020-01-21T20:33:07+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
     "url": "https://qiita.com/youwht/items/b047225a6fc356fd56ee",
     "likes_count": 407,
@@ -392,12 +400,12 @@
     "id": "youwht"
   },
   {
-    "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
-    "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
-    "likes_count": 406,
-    "created_at": "2020-01-19T17:05:28+09:00",
-    "updated_at": "2020-01-21T20:33:07+09:00",
-    "id": "uhyo"
+    "title": "Hack The Boxを楽しむためのKali Linuxチューニング",
+    "url": "https://qiita.com/v_avenger/items/c85d946ed2b6bf340a84",
+    "likes_count": 399,
+    "created_at": "2020-01-29T22:31:32+09:00",
+    "updated_at": "2021-03-11T14:04:13+09:00",
+    "id": "v_avenger"
   },
   {
     "title": "TOMCAT殺害事件",
@@ -406,14 +414,6 @@
     "created_at": "2020-01-09T08:07:53+09:00",
     "updated_at": "2020-01-15T10:46:54+09:00",
     "id": "enoshiman"
-  },
-  {
-    "title": "Hack The Boxを楽しむためのKali Linuxチューニング",
-    "url": "https://qiita.com/v_avenger/items/c85d946ed2b6bf340a84",
-    "likes_count": 398,
-    "created_at": "2020-01-29T22:31:32+09:00",
-    "updated_at": "2021-03-11T14:04:13+09:00",
-    "id": "v_avenger"
   },
   {
     "title": "notionバックエンドのzeit製ヘッドレスCMS“Notion Blog”が激アツ🔥",
@@ -426,7 +426,7 @@
   {
     "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
     "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2020-01-11T13:59:43+09:00",
     "updated_at": "2021-01-15T13:48:23+09:00",
     "id": "shiro01"
@@ -482,7 +482,7 @@
   {
     "title": "Web Developer Roadmap 2020版が出ていたので2019版と比較",
     "url": "https://qiita.com/hirotakasasaki/items/f93335857c17f6ceab9f",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2020-01-07T14:51:24+09:00",
     "updated_at": "2020-03-27T11:33:51+09:00",
     "id": "hirotakasasaki"
