@@ -10,7 +10,7 @@
   {
     "title": "Vue.js を vue-cli を使ってシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/dde495d6a8ad1c25fa43",
-    "likes_count": 1939,
+    "likes_count": 1940,
     "created_at": "2016-09-11T00:09:02+09:00",
     "updated_at": "2020-07-13T11:18:21+09:00",
     "id": "567000"
@@ -42,7 +42,7 @@
   {
     "title": "Webpackってどんなもの？",
     "url": "https://qiita.com/kamykn/items/45fb4690ace32216ca25",
-    "likes_count": 1147,
+    "likes_count": 1148,
     "created_at": "2016-09-17T14:48:58+09:00",
     "updated_at": "2016-09-19T19:22:07+09:00",
     "id": "kamykn"
@@ -74,7 +74,7 @@
   {
     "title": "IDトークンが分かれば OpenID Connect が分かる",
     "url": "https://qiita.com/TakahikoKawasaki/items/8f0e422c7edd2d220e06",
-    "likes_count": 914,
+    "likes_count": 915,
     "created_at": "2016-09-16T18:41:38+09:00",
     "updated_at": "2020-03-20T15:16:11+09:00",
     "id": "TakahikoKawasaki"
@@ -98,7 +98,7 @@
   {
     "title": "RESTful APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/0647c30ef596cedf4bf2",
-    "likes_count": 802,
+    "likes_count": 803,
     "created_at": "2016-09-05T07:36:21+09:00",
     "updated_at": "2016-09-05T07:36:21+09:00",
     "id": "NagaokaKenichi"
@@ -144,20 +144,20 @@
     "id": "shibukawa"
   },
   {
+    "title": "若手エンジニアを不幸にしないための開発の「べからず」集",
+    "url": "https://qiita.com/nonbiri15/items/80e75fbdc358d9144215",
+    "likes_count": 745,
+    "created_at": "2016-09-10T21:09:46+09:00",
+    "updated_at": "2020-08-27T02:07:32+09:00",
+    "id": "nonbiri15"
+  },
+  {
     "title": "Mac標準「プレビュー」の意外と知られていないTips",
     "url": "https://qiita.com/mtmtkzm/items/160d5bac95d4d4aaea0e",
     "likes_count": 745,
     "created_at": "2016-09-26T23:17:54+09:00",
     "updated_at": "2019-03-06T02:07:40+09:00",
     "id": "mtmtkzm"
-  },
-  {
-    "title": "若手エンジニアを不幸にしないための開発の「べからず」集",
-    "url": "https://qiita.com/nonbiri15/items/80e75fbdc358d9144215",
-    "likes_count": 744,
-    "created_at": "2016-09-10T21:09:46+09:00",
-    "updated_at": "2020-08-27T02:07:32+09:00",
-    "id": "nonbiri15"
   },
   {
     "title": "なぜHaskellを学ぶと良いか",
@@ -274,7 +274,7 @@
   {
     "title": "nginxについてまとめ(設定編)",
     "url": "https://qiita.com/morrr/items/7c97f0d2e46f7a8ec967",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2016-09-08T22:17:25+09:00",
     "updated_at": "2020-06-17T14:23:27+09:00",
     "id": "morrr"
@@ -418,7 +418,7 @@
   {
     "title": "RubyのModuleの使い方とはいったい",
     "url": "https://qiita.com/shiopon01/items/fd6803f792398c5219cd",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2016-09-15T21:16:56+09:00",
     "updated_at": "2016-09-15T22:04:10+09:00",
     "id": "shiopon01"
@@ -456,6 +456,14 @@
     "id": "icoxfog417"
   },
   {
+    "title": "【まとめ】Vagrant コマンド一覧",
+    "url": "https://qiita.com/oreo3@github/items/4054a4120ccc249676d9",
+    "likes_count": 315,
+    "created_at": "2016-09-14T08:38:28+09:00",
+    "updated_at": "2021-03-09T11:24:05+09:00",
+    "id": "oreo3@github"
+  },
+  {
     "title": "変数名の命名規則/＊＊ケースの使い分け",
     "url": "https://qiita.com/am_nimitz3/items/7b01af53751dba5d8fb1",
     "likes_count": 315,
@@ -464,17 +472,9 @@
     "id": "am_nimitz3"
   },
   {
-    "title": "【まとめ】Vagrant コマンド一覧",
-    "url": "https://qiita.com/oreo3@github/items/4054a4120ccc249676d9",
-    "likes_count": 313,
-    "created_at": "2016-09-14T08:38:28+09:00",
-    "updated_at": "2021-03-09T11:24:05+09:00",
-    "id": "oreo3@github"
-  },
-  {
     "title": "Spring Bootの外部設定値の扱い方を理解する",
     "url": "https://qiita.com/kazuki43zoo/items/0ce92fce6d6f3b7bf8eb",
-    "likes_count": 311,
+    "likes_count": 313,
     "created_at": "2016-09-11T20:04:42+09:00",
     "updated_at": "2017-12-22T19:24:02+09:00",
     "id": "kazuki43zoo"
