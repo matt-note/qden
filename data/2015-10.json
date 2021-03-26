@@ -2,7 +2,7 @@
   {
     "title": "Android開発を受注したからKotlinをガッツリ使ってみたら最高だった",
     "url": "https://qiita.com/omochimetaru/items/98e015b0b694dd97f323",
-    "likes_count": 2398,
+    "likes_count": 2397,
     "created_at": "2015-10-05T09:45:56+09:00",
     "updated_at": "2017-06-17T13:51:53+09:00",
     "id": "omochimetaru"
@@ -18,7 +18,7 @@
   {
     "title": "最強のSSH踏み台設定",
     "url": "https://qiita.com/kawaz/items/a0151d3aa2b6f9c4b3b8",
-    "likes_count": 2041,
+    "likes_count": 2040,
     "created_at": "2015-10-15T15:36:30+09:00",
     "updated_at": "2020-03-10T13:49:22+09:00",
     "id": "kawaz"
@@ -82,7 +82,7 @@
   {
     "title": "base64ってなんぞ？？理解のために実装してみた",
     "url": "https://qiita.com/PlanetMeron/items/2905e2d0aa7fe46a36d4",
-    "likes_count": 942,
+    "likes_count": 943,
     "created_at": "2015-10-14T20:06:07+09:00",
     "updated_at": "2018-04-13T16:33:49+09:00",
     "id": "PlanetMeron"
@@ -106,7 +106,7 @@
   {
     "title": "pyenv と pyenv-virtualenv で環境構築",
     "url": "https://qiita.com/Kodaira_/items/feadfef9add468e3a85b",
-    "likes_count": 900,
+    "likes_count": 901,
     "created_at": "2015-10-30T06:17:36+09:00",
     "updated_at": "2020-03-17T10:15:17+09:00",
     "id": "Kodaira_"
@@ -352,20 +352,20 @@
     "id": "kaelaela"
   },
   {
+    "title": "CUDAを使ったGPUプログラミング超入門",
+    "url": "https://qiita.com/Keech/items/381495ed90e012d69f1a",
+    "likes_count": 371,
+    "created_at": "2015-10-18T09:54:23+09:00",
+    "updated_at": "2015-10-18T09:54:23+09:00",
+    "id": "Keech"
+  },
+  {
     "title": "クラウドサービスを活用して README にバッジをペタペタ貼る",
     "url": "https://qiita.com/dtan4/items/13b0ea9edf5b99926446",
     "likes_count": 371,
     "created_at": "2015-10-31T01:40:37+09:00",
     "updated_at": "2015-12-02T00:30:31+09:00",
     "id": "dtan4"
-  },
-  {
-    "title": "CUDAを使ったGPUプログラミング超入門",
-    "url": "https://qiita.com/Keech/items/381495ed90e012d69f1a",
-    "likes_count": 370,
-    "created_at": "2015-10-18T09:54:23+09:00",
-    "updated_at": "2015-10-18T09:54:23+09:00",
-    "id": "Keech"
   },
   {
     "title": "[Rails] ActiveSupport::Concern の存在理由",
@@ -474,7 +474,7 @@
   {
     "title": "三項演算子をもっと使おう",
     "url": "https://qiita.com/rana_kualu/items/748dba779148152301ff",
-    "likes_count": 279,
+    "likes_count": 280,
     "created_at": "2015-10-16T20:26:11+09:00",
     "updated_at": "2017-11-12T21:47:07+09:00",
     "id": "rana_kualu"

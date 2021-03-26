@@ -10,7 +10,7 @@
   {
     "title": "VSCodeでのGitの基本操作まとめ",
     "url": "https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be",
-    "likes_count": 1937,
+    "likes_count": 1938,
     "created_at": "2019-04-15T07:38:11+09:00",
     "updated_at": "2021-02-18T10:46:24+09:00",
     "id": "y-tsutsu"
@@ -34,7 +34,7 @@
   {
     "title": "vimって極めればvscode並のIDEになるんじゃないの？",
     "url": "https://qiita.com/ulwlu/items/98901f4c4f0683e7aa57",
-    "likes_count": 1448,
+    "likes_count": 1449,
     "created_at": "2019-04-08T09:40:52+09:00",
     "updated_at": "2020-11-19T22:17:27+09:00",
     "id": "ulwlu"
@@ -74,7 +74,7 @@
   {
     "title": "Chainerが作った「ディープラーニング入門」が凄すぎる！",
     "url": "https://qiita.com/DogFortune/items/221c182bc872025a57e7",
-    "likes_count": 952,
+    "likes_count": 953,
     "created_at": "2019-04-15T09:21:13+09:00",
     "updated_at": "2019-05-20T12:36:21+09:00",
     "id": "DogFortune"
@@ -146,7 +146,7 @@
   {
     "title": "AtCoderで始めるPython入門",
     "url": "https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c",
-    "likes_count": 634,
+    "likes_count": 635,
     "created_at": "2019-04-04T14:41:04+09:00",
     "updated_at": "2021-03-22T22:25:49+09:00",
     "id": "KoyanagiHitoshi"
@@ -154,7 +154,7 @@
   {
     "title": "pͪoͣnͬpͣoͥnͭpͣa͡inͥを支える技術",
     "url": "https://qiita.com/ykhirao/items/9ca1fbd294883e06dbd6",
-    "likes_count": 622,
+    "likes_count": 623,
     "created_at": "2019-04-25T11:07:49+09:00",
     "updated_at": "2020-10-20T13:43:57+09:00",
     "id": "ykhirao"
@@ -200,6 +200,14 @@
     "id": "4m1t0"
   },
   {
+    "title": "JupyterLabのおすすめ拡張機能9選",
+    "url": "https://qiita.com/canonrock16/items/d166c93087a4aafd2db4",
+    "likes_count": 551,
+    "created_at": "2019-04-11T21:07:49+09:00",
+    "updated_at": "2021-03-02T17:22:05+09:00",
+    "id": "canonrock16"
+  },
+  {
     "title": "冪等性とは「同じ操作を何度繰り返しても、同じ結果が得られる性質」のこと",
     "url": "https://qiita.com/suin/items/316cb8aaf8dfcf11abae",
     "likes_count": 550,
@@ -214,14 +222,6 @@
     "created_at": "2019-04-08T07:18:26+09:00",
     "updated_at": "2019-04-17T20:38:19+09:00",
     "id": "y_kawase"
-  },
-  {
-    "title": "JupyterLabのおすすめ拡張機能9選",
-    "url": "https://qiita.com/canonrock16/items/d166c93087a4aafd2db4",
-    "likes_count": 549,
-    "created_at": "2019-04-11T21:07:49+09:00",
-    "updated_at": "2021-03-02T17:22:05+09:00",
-    "id": "canonrock16"
   },
   {
     "title": "JavaScriptをやっているとnpm/yarn/gulp/grunt/webpackなど、たくさんのツールがあって混乱したので、それぞれの役割と違いをざっくりとまとめた",
@@ -250,7 +250,7 @@
   {
     "title": "コーディングテストに打ち勝つ",
     "url": "https://qiita.com/yohachi/items/e4bef4035da135a4808d",
-    "likes_count": 445,
+    "likes_count": 447,
     "created_at": "2019-04-18T22:21:07+09:00",
     "updated_at": "2019-04-18T22:21:26+09:00",
     "id": "yohachi"

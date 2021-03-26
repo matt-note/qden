@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1608,
+    "likes_count": 1610,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -26,7 +26,7 @@
   {
     "title": "サーバからクライアントに送信する技術 - WebSocketを中心に",
     "url": "https://qiita.com/yuba/items/00fc1892b296fb7b8de9",
-    "likes_count": 1487,
+    "likes_count": 1488,
     "created_at": "2016-08-24T17:54:24+09:00",
     "updated_at": "2016-11-03T01:14:55+09:00",
     "id": "yuba"
@@ -50,7 +50,7 @@
   {
     "title": "flexboxのバグに立ち向かう（flexboxバグまとめ）",
     "url": "https://qiita.com/hashrock/items/189db03021b0f565ae27",
-    "likes_count": 1326,
+    "likes_count": 1327,
     "created_at": "2016-08-14T16:03:20+09:00",
     "updated_at": "2017-10-10T11:45:44+09:00",
     "id": "hashrock"
@@ -58,7 +58,7 @@
   {
     "title": "GitHubのmasterブランチをWebページとして公開する手順（GitHub Pages）",
     "url": "https://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096",
-    "likes_count": 1170,
+    "likes_count": 1171,
     "created_at": "2016-08-18T10:27:52+09:00",
     "updated_at": "2020-12-21T18:43:05+09:00",
     "id": "tonkotsuboy_com"
@@ -82,7 +82,7 @@
   {
     "title": "step by stepで始めるwebpack",
     "url": "https://qiita.com/howdy39/items/48d85c430f90a21075cd",
-    "likes_count": 999,
+    "likes_count": 998,
     "created_at": "2016-08-08T06:09:37+09:00",
     "updated_at": "2019-01-21T18:26:36+09:00",
     "id": "howdy39"
@@ -90,7 +90,7 @@
   {
     "title": "【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本",
     "url": "https://qiita.com/aokikenichi/items/ae4df263f591e47528a6",
-    "likes_count": 984,
+    "likes_count": 986,
     "created_at": "2016-08-23T11:46:09+09:00",
     "updated_at": "2021-03-21T18:35:47+09:00",
     "id": "aokikenichi"
@@ -130,7 +130,7 @@
   {
     "title": "Anaconda で Python 環境をインストールする",
     "url": "https://qiita.com/t2y/items/2a3eb58103e85d8064b6",
-    "likes_count": 783,
+    "likes_count": 784,
     "created_at": "2016-08-20T18:03:59+09:00",
     "updated_at": "2018-11-12T13:21:06+09:00",
     "id": "t2y"
@@ -194,7 +194,7 @@
   {
     "title": "2020年まで使えるfont-familyおすすめゴシック体",
     "url": "https://qiita.com/tsuka-rinorino/items/4181efd43d072e246519",
-    "likes_count": 557,
+    "likes_count": 556,
     "created_at": "2016-08-04T10:43:39+09:00",
     "updated_at": "2019-12-25T18:27:36+09:00",
     "id": "tsuka-rinorino"
@@ -282,7 +282,7 @@
   {
     "title": "k-meansの最適なクラスター数を調べる方法",
     "url": "https://qiita.com/deaikei/items/11a10fde5bb47a2cf2c2",
-    "likes_count": 457,
+    "likes_count": 459,
     "created_at": "2016-08-08T00:49:06+09:00",
     "updated_at": "2016-08-08T09:11:03+09:00",
     "id": "deaikei"
@@ -368,20 +368,20 @@
     "id": "tkit"
   },
   {
+    "title": "[Python] importの躓きどころ",
+    "url": "https://qiita.com/ysk24ok/items/2711295d83218c699276",
+    "likes_count": 351,
+    "created_at": "2016-08-14T23:15:03+09:00",
+    "updated_at": "2017-06-09T09:00:13+09:00",
+    "id": "ysk24ok"
+  },
+  {
     "title": "bundler、bundle execについて　※自分用メモ",
     "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
     "likes_count": 350,
     "created_at": "2016-08-08T10:06:03+09:00",
     "updated_at": "2016-08-08T15:41:46+09:00",
     "id": "dawn_628"
-  },
-  {
-    "title": "[Python] importの躓きどころ",
-    "url": "https://qiita.com/ysk24ok/items/2711295d83218c699276",
-    "likes_count": 350,
-    "created_at": "2016-08-14T23:15:03+09:00",
-    "updated_at": "2017-06-09T09:00:13+09:00",
-    "id": "ysk24ok"
   },
   {
     "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
@@ -418,7 +418,7 @@
   {
     "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
     "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 307,
+    "likes_count": 308,
     "created_at": "2016-08-04T23:10:37+09:00",
     "updated_at": "2016-08-08T12:50:34+09:00",
     "id": "mpyw"

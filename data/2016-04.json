@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2246,
+    "likes_count": 2248,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -66,7 +66,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1479,
+    "likes_count": 1480,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -74,7 +74,7 @@
   {
     "title": "フロントエンドにテストを導入",
     "url": "https://qiita.com/howdy39/items/cdd5b252096f5a2fa438",
-    "likes_count": 1361,
+    "likes_count": 1362,
     "created_at": "2016-04-27T06:04:57+09:00",
     "updated_at": "2016-08-08T07:30:53+09:00",
     "id": "howdy39"
@@ -154,7 +154,7 @@
   {
     "title": "【噂】IT業界のウソ・ホント【闇】",
     "url": "https://qiita.com/netetahito/items/a317345b4e059267f879",
-    "likes_count": 795,
+    "likes_count": 796,
     "created_at": "2016-04-26T12:21:50+09:00",
     "updated_at": "2019-02-06T11:51:41+09:00",
     "id": "netetahito"
@@ -274,7 +274,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-02-26T03:54:25+09:00",
     "id": "dai-takahashi"
@@ -282,7 +282,7 @@
   {
     "title": "Linux screenコマンド使い方",
     "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
-    "likes_count": 491,
+    "likes_count": 492,
     "created_at": "2016-04-06T08:44:32+09:00",
     "updated_at": "2019-12-25T19:10:52+09:00",
     "id": "hnishi"
@@ -306,7 +306,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -362,7 +362,7 @@
   {
     "title": "データベースさわったこと無い新人向けトランザクション入門",
     "url": "https://qiita.com/komattio/items/838ea5df68eb076e8099",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2016-04-11T06:46:24+09:00",
     "updated_at": "2016-04-11T06:54:57+09:00",
     "id": "komattio"
@@ -392,20 +392,20 @@
     "id": "tkusumi"
   },
   {
+    "title": "ファイルディスクリプタについて理解する",
+    "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
+    "likes_count": 379,
+    "created_at": "2016-04-22T22:51:58+09:00",
+    "updated_at": "2016-04-22T22:51:58+09:00",
+    "id": "toshihirock"
+  },
+  {
     "title": "エンジニアが海外転職する際にプラスになるコーディング面接の対策サイト",
     "url": "https://qiita.com/jabba/items/ea58ce846b3f1a5b66bc",
     "likes_count": 378,
     "created_at": "2016-04-22T15:01:35+09:00",
     "updated_at": "2016-05-11T23:59:34+09:00",
     "id": "jabba"
-  },
-  {
-    "title": "ファイルディスクリプタについて理解する",
-    "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 378,
-    "created_at": "2016-04-22T22:51:58+09:00",
-    "updated_at": "2016-04-22T22:51:58+09:00",
-    "id": "toshihirock"
   },
   {
     "title": "Javaエンジニアにお勧めする一度はたどり着くであろうサイトまとめ",
@@ -418,7 +418,7 @@
   {
     "title": "Bootstrap 4を使うならSassを使って3倍幸せになろう",
     "url": "https://qiita.com/tonkotsuboy_com/items/1855734522bfe7ef7dad",
-    "likes_count": 375,
+    "likes_count": 374,
     "created_at": "2016-04-07T20:01:56+09:00",
     "updated_at": "2018-05-23T17:37:59+09:00",
     "id": "tonkotsuboy_com"
@@ -632,20 +632,20 @@
     "id": "ikemai"
   },
   {
+    "title": "今日から始められるリファクタリング10選 (1)",
+    "url": "https://qiita.com/nunulk/items/2323b0c30a2cbe5fdb0c",
+    "likes_count": 272,
+    "created_at": "2016-04-27T22:35:47+09:00",
+    "updated_at": "2016-04-29T13:03:28+09:00",
+    "id": "nunulk"
+  },
+  {
     "title": "[正式版対応] 5分で導入できるBootstrap 4 超入門 〜タブの作り方〜",
     "url": "https://qiita.com/tonkotsuboy_com/items/15a914f073c8f9bb1344",
     "likes_count": 271,
     "created_at": "2016-04-07T16:57:44+09:00",
     "updated_at": "2019-08-27T11:06:39+09:00",
     "id": "tonkotsuboy_com"
-  },
-  {
-    "title": "今日から始められるリファクタリング10選 (1)",
-    "url": "https://qiita.com/nunulk/items/2323b0c30a2cbe5fdb0c",
-    "likes_count": 270,
-    "created_at": "2016-04-27T22:35:47+09:00",
-    "updated_at": "2016-04-29T13:03:28+09:00",
-    "id": "nunulk"
   },
   {
     "title": "Visual Studio Code を使う上で良くわかっていなかった(基本的な)用語とか",
