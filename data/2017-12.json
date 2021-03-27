@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 1998,
+    "likes_count": 1999,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -50,7 +50,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1251,
+    "likes_count": 1252,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -114,7 +114,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 875,
+    "likes_count": 876,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -130,7 +130,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 845,
+    "likes_count": 846,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -226,7 +226,7 @@
   {
     "title": "割と突き詰めてやったvim→vscode移行",
     "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
-    "likes_count": 734,
+    "likes_count": 736,
     "created_at": "2017-12-18T10:12:06+09:00",
     "updated_at": "2019-07-10T10:58:40+09:00",
     "id": "y-mattun"
@@ -258,7 +258,7 @@
   {
     "title": "CTOのやるべきことは何なのか？（翻訳と考察）",
     "url": "https://qiita.com/takano1222/items/ef897b2156067688f3ae",
-    "likes_count": 690,
+    "likes_count": 689,
     "created_at": "2017-12-09T17:48:32+09:00",
     "updated_at": "2017-12-14T12:41:19+09:00",
     "id": "takano1222"
@@ -314,7 +314,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 589,
+    "likes_count": 591,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -322,7 +322,7 @@
   {
     "title": "次にJSガッツリ書くときはTypeScriptで",
     "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
-    "likes_count": 579,
+    "likes_count": 580,
     "created_at": "2017-12-26T18:52:16+09:00",
     "updated_at": "2020-06-27T01:29:19+09:00",
     "id": "yuya_presto"
@@ -426,7 +426,7 @@
   {
     "title": "SlackのIncoming Webhooksを使い倒す",
     "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2017-12-14T10:09:51+09:00",
     "updated_at": "2017-12-14T14:47:37+09:00",
     "id": "ik-fib"
@@ -474,7 +474,7 @@
   {
     "title": "Parcel 入門 ～Parcelはwebpackの代わりになるのか～",
     "url": "https://qiita.com/soarflat/items/3e43368b2d767c730781",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2017-12-10T13:28:47+09:00",
     "updated_at": "2021-02-25T19:47:25+09:00",
     "id": "soarflat"
@@ -506,7 +506,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2020-05-03T15:49:07+09:00",
     "id": "KTakahiro1729"
@@ -570,7 +570,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
@@ -578,7 +578,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -592,6 +592,14 @@
     "id": "c5meru"
   },
   {
+    "title": "(2017年12月時点) 私的 CloudFormation ベストプラクティス",
+    "url": "https://qiita.com/yasuhiroki/items/8463eed1c78123313a6f",
+    "likes_count": 358,
+    "created_at": "2017-12-23T12:49:57+09:00",
+    "updated_at": "2020-01-24T11:29:13+09:00",
+    "id": "yasuhiroki"
+  },
+  {
     "title": "Reactを使って本気でアンケートシステムをつくった",
     "url": "https://qiita.com/jirokun/items/c4cbf9b5b2480d4755a9",
     "likes_count": 358,
@@ -600,17 +608,9 @@
     "id": "jirokun"
   },
   {
-    "title": "(2017年12月時点) 私的 CloudFormation ベストプラクティス",
-    "url": "https://qiita.com/yasuhiroki/items/8463eed1c78123313a6f",
-    "likes_count": 357,
-    "created_at": "2017-12-23T12:49:57+09:00",
-    "updated_at": "2020-01-24T11:29:13+09:00",
-    "id": "yasuhiroki"
-  },
-  {
     "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
     "url": "https://qiita.com/takish/items/a58c1517c6ac5887ba87",
-    "likes_count": 356,
+    "likes_count": 355,
     "created_at": "2017-12-19T18:52:47+09:00",
     "updated_at": "2018-09-27T10:37:03+09:00",
     "id": "takish"
@@ -722,7 +722,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 309,
+    "likes_count": 310,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
@@ -756,7 +756,7 @@
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
     "likes_count": 294,
     "created_at": "2017-12-29T18:46:42+09:00",
-    "updated_at": "2021-03-08T23:34:23+09:00",
+    "updated_at": "2021-03-27T07:47:33+09:00",
     "id": "nightyknite"
   },
   {
@@ -770,7 +770,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 273,
+    "likes_count": 274,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"

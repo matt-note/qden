@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2161,
+    "likes_count": 2162,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -34,7 +34,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1717,
+    "likes_count": 1718,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2021-02-11T09:21:27+09:00",
     "id": "jnchito"
@@ -58,7 +58,7 @@
   {
     "title": "機械学習をこれから始める人に押さえておいてほしいこと",
     "url": "https://qiita.com/IshitaTakeshi/items/4607d9f729babd273960",
-    "likes_count": 1299,
+    "likes_count": 1298,
     "created_at": "2014-12-06T10:35:31+09:00",
     "updated_at": "2016-04-05T20:14:24+09:00",
     "id": "IshitaTakeshi"
@@ -66,7 +66,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1252,
+    "likes_count": 1253,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -98,7 +98,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1207,
+    "likes_count": 1206,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2014-12-18T19:06:40+09:00",
     "id": "k-shogo"
@@ -146,7 +146,7 @@
   {
     "title": "今更聞けないpryの使い方と便利プラグイン集",
     "url": "https://qiita.com/k0kubun/items/b118e9ccaef8707c4d9f",
-    "likes_count": 819,
+    "likes_count": 818,
     "created_at": "2014-12-21T17:57:43+09:00",
     "updated_at": "2016-01-16T21:49:45+09:00",
     "id": "k0kubun"
@@ -194,10 +194,18 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 711,
+    "likes_count": 713,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
+  },
+  {
+    "title": "初心者向けGithubへのPullRequest方法",
+    "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
+    "likes_count": 673,
+    "created_at": "2014-12-17T23:28:14+09:00",
+    "updated_at": "2014-12-19T09:14:55+09:00",
+    "id": "samurai_runner"
   },
   {
     "title": "【Vim入門】ノーマルVimで使えると便利かもなコマンド10つ",
@@ -206,14 +214,6 @@
     "created_at": "2014-12-17T04:18:57+09:00",
     "updated_at": "2015-12-31T22:01:30+09:00",
     "id": "simeji"
-  },
-  {
-    "title": "初心者向けGithubへのPullRequest方法",
-    "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 671,
-    "created_at": "2014-12-17T23:28:14+09:00",
-    "updated_at": "2014-12-19T09:14:55+09:00",
-    "id": "samurai_runner"
   },
   {
     "title": "B-treeインデックス入門",
@@ -434,7 +434,7 @@
   {
     "title": "今こそ復習したい、iOSアプリのディレクトリ構成",
     "url": "https://qiita.com/tototti/items/8646405f47cc56a59722",
-    "likes_count": 449,
+    "likes_count": 448,
     "created_at": "2014-12-24T23:54:27+09:00",
     "updated_at": "2016-05-11T23:42:11+09:00",
     "id": "tototti"
@@ -546,7 +546,7 @@
   {
     "title": "Linuxbrew のススメ",
     "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2014-12-19T08:53:15+09:00",
     "updated_at": "2020-12-21T20:49:31+09:00",
     "id": "thermes"
@@ -648,20 +648,20 @@
     "id": "jnchito"
   },
   {
+    "title": "Python ビット演算 超入門",
+    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
+    "likes_count": 313,
+    "created_at": "2014-12-14T19:50:10+09:00",
+    "updated_at": "2014-12-15T17:50:09+09:00",
+    "id": "7shi"
+  },
+  {
     "title": "Ruby でラインメモリプロファイラ",
     "url": "https://qiita.com/sonots/items/c14b3e3ca8e6f7dfb651",
     "likes_count": 311,
     "created_at": "2014-12-08T00:50:14+09:00",
     "updated_at": "2017-05-17T16:15:05+09:00",
     "id": "sonots"
-  },
-  {
-    "title": "Python ビット演算 超入門",
-    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
-    "likes_count": 311,
-    "created_at": "2014-12-14T19:50:10+09:00",
-    "updated_at": "2014-12-15T17:50:09+09:00",
-    "id": "7shi"
   },
   {
     "title": "Golang パフォーマンスチューニング",
@@ -794,7 +794,7 @@
   {
     "title": "Unity2Dのこれだけは覚えておけ！集",
     "url": "https://qiita.com/asiram/items/3b2875731efdc34bc65a",
-    "likes_count": 253,
+    "likes_count": 254,
     "created_at": "2014-12-19T19:31:38+09:00",
     "updated_at": "2014-12-19T19:31:38+09:00",
     "id": "asiram"

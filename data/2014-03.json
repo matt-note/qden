@@ -2,7 +2,7 @@
   {
     "title": "httpsだからというだけで安全？調べたら怖くなってきたSSLの話!？",
     "url": "https://qiita.com/kuni-nakaji/items/5118b23bf2ea44fed96e",
-    "likes_count": 2421,
+    "likes_count": 2422,
     "created_at": "2014-03-14T16:18:11+09:00",
     "updated_at": "2018-08-12T11:43:49+09:00",
     "id": "kuni-nakaji"
@@ -10,7 +10,7 @@
   {
     "title": "データベースオブジェクトの命名規約",
     "url": "https://qiita.com/genzouw/items/35022fa96c120e67c637",
-    "likes_count": 1848,
+    "likes_count": 1849,
     "created_at": "2014-03-28T16:36:07+09:00",
     "updated_at": "2017-01-22T08:05:48+09:00",
     "id": "genzouw"
@@ -26,7 +26,7 @@
   {
     "title": "ディレクトリ構成図を書くときに便利な記号",
     "url": "https://qiita.com/paty-fakename/items/c82ed27b4070feeceff6",
-    "likes_count": 1583,
+    "likes_count": 1584,
     "created_at": "2014-03-18T14:48:33+09:00",
     "updated_at": "2014-03-18T14:48:33+09:00",
     "id": "paty-fakename"
@@ -34,7 +34,7 @@
   {
     "title": "調べなきゃ寝れない！と調べたら余計に寝れなくなったソケットの話",
     "url": "https://qiita.com/kuni-nakaji/items/d11219e4ad7c74ece748",
-    "likes_count": 1475,
+    "likes_count": 1476,
     "created_at": "2014-03-02T15:02:53+09:00",
     "updated_at": "2014-03-02T23:31:16+09:00",
     "id": "kuni-nakaji"
@@ -42,7 +42,7 @@
   {
     "title": "Vim初心者に捧ぐ実践的入門",
     "url": "https://qiita.com/okamos/items/c97970ab34ff55ff3167",
-    "likes_count": 1258,
+    "likes_count": 1260,
     "created_at": "2014-03-26T11:35:32+09:00",
     "updated_at": "2019-08-14T17:14:14+09:00",
     "id": "okamos"
@@ -50,7 +50,7 @@
   {
     "title": "Chefを読んで実行するための全知識",
     "url": "https://qiita.com/TsuyoshiUshio@github/items/89030baca68b05a9783d",
-    "likes_count": 1051,
+    "likes_count": 1050,
     "created_at": "2014-03-16T18:42:33+09:00",
     "updated_at": "2014-03-27T01:28:30+09:00",
     "id": "TsuyoshiUshio@github"
@@ -72,20 +72,20 @@
     "id": "maccotsan"
   },
   {
-    "title": "SublimeTextの教科書で紹介されてるプラグインまとめ",
-    "url": "https://qiita.com/maccotsan/items/f320036e19f8d3b798c1",
-    "likes_count": 792,
-    "created_at": "2014-03-21T08:00:17+09:00",
-    "updated_at": "2014-03-21T08:04:20+09:00",
-    "id": "maccotsan"
-  },
-  {
     "title": "ストアドプロシージャの基本的ななにか",
     "url": "https://qiita.com/setsuna82001/items/e742338eb93e3a48ba46",
     "likes_count": 791,
     "created_at": "2014-03-10T20:17:39+09:00",
     "updated_at": "2019-09-30T10:51:59+09:00",
     "id": "setsuna82001"
+  },
+  {
+    "title": "SublimeTextの教科書で紹介されてるプラグインまとめ",
+    "url": "https://qiita.com/maccotsan/items/f320036e19f8d3b798c1",
+    "likes_count": 791,
+    "created_at": "2014-03-21T08:00:17+09:00",
+    "updated_at": "2014-03-21T08:04:20+09:00",
+    "id": "maccotsan"
   },
   {
     "title": "Webアプリケーションの構成に関する予備知識 ",
@@ -258,7 +258,7 @@
   {
     "title": "Mac用 Apple英字配列(US)キーボードにおける日本語入力切替のおすすめ：Commandキーのみで実現",
     "url": "https://qiita.com/daichi87gi/items/ded35e9d9a54c8fcb9d6",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2014-03-26T00:07:23+09:00",
     "updated_at": "2020-03-14T12:34:45+09:00",
     "id": "daichi87gi"
@@ -266,7 +266,7 @@
   {
     "title": "[初心者向け] Railsで関連するデータ(親子関係)を保存する方法あれこれ",
     "url": "https://qiita.com/jnchito/items/7f41ff3df900909952db",
-    "likes_count": 453,
+    "likes_count": 452,
     "created_at": "2014-03-21T05:58:34+09:00",
     "updated_at": "2014-03-21T07:08:27+09:00",
     "id": "jnchito"
@@ -282,7 +282,7 @@
   {
     "title": "デザインが出来ないエンジニアのAndroid-Bootstrap利用方法",
     "url": "https://qiita.com/Trashfeed/items/70627d792bf44de76590",
-    "likes_count": 440,
+    "likes_count": 439,
     "created_at": "2014-03-03T13:09:36+09:00",
     "updated_at": "2014-04-03T09:06:25+09:00",
     "id": "Trashfeed"
@@ -450,7 +450,7 @@
   {
     "title": "MySQLのデータインポート・エクスポート",
     "url": "https://qiita.com/rato303/items/2e614f23e5feee150ffc",
-    "likes_count": 311,
+    "likes_count": 310,
     "created_at": "2014-03-05T11:40:40+09:00",
     "updated_at": "2014-03-09T12:13:21+09:00",
     "id": "rato303"
@@ -474,7 +474,7 @@
   {
     "title": "MacでJDKのバージョンを切り替える",
     "url": "https://qiita.com/mas0061/items/2fe9333f045800d00b5c",
-    "likes_count": 296,
+    "likes_count": 295,
     "created_at": "2014-03-20T06:40:38+09:00",
     "updated_at": "2014-03-20T06:41:14+09:00",
     "id": "mas0061"

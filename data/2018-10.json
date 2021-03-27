@@ -18,7 +18,7 @@
   {
     "title": "AWS認定11冠制覇したのでオススメの勉強法などをまとめてみる",
     "url": "https://qiita.com/nakazax/items/20458e146d3d9f2aa615",
-    "likes_count": 2215,
+    "likes_count": 2216,
     "created_at": "2018-10-15T09:01:09+09:00",
     "updated_at": "2020-05-01T15:01:55+09:00",
     "id": "nakazax"
@@ -66,7 +66,7 @@
   {
     "title": "Python + Selenium で Chrome の自動操作を一通り",
     "url": "https://qiita.com/memakura/items/20a02161fa7e18d8a693",
-    "likes_count": 1245,
+    "likes_count": 1244,
     "created_at": "2018-10-14T13:39:44+09:00",
     "updated_at": "2018-10-16T06:19:27+09:00",
     "id": "memakura"
@@ -74,7 +74,7 @@
   {
     "title": "2018年の最先端DevOpsエンジニアになるためのロードマップ",
     "url": "https://qiita.com/poly_soft/items/7cce0fb45195575921ae",
-    "likes_count": 1225,
+    "likes_count": 1226,
     "created_at": "2018-10-08T15:44:52+09:00",
     "updated_at": "2019-03-11T19:36:25+09:00",
     "id": "poly_soft"
@@ -98,7 +98,7 @@
   {
     "title": "フロント未学習の大学生が1週間でVue.jsを使ったポートフォリオを作った話",
     "url": "https://qiita.com/p1ass/items/a01578b782f17f573510",
-    "likes_count": 1069,
+    "likes_count": 1070,
     "created_at": "2018-10-11T20:31:44+09:00",
     "updated_at": "2019-10-19T14:53:35+09:00",
     "id": "p1ass"
@@ -210,7 +210,7 @@
   {
     "title": "docker-compose.ymlの書き方について解説してみた",
     "url": "https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2018-10-14T00:53:56+09:00",
     "updated_at": "2019-05-05T12:30:58+09:00",
     "id": "yuta-ushijima"
@@ -308,7 +308,7 @@
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 479,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-03-26T19:31:29+09:00",
+    "updated_at": "2021-03-27T19:31:32+09:00",
     "id": "kai_kou"
   },
   {
@@ -418,7 +418,7 @@
   {
     "title": "Google Colab上でKaggleのデータをロード、モデル訓練、提出の全てを行う",
     "url": "https://qiita.com/katsu1110/items/a8d508a1b6f07bd3a243",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2018-10-07T07:00:50+09:00",
     "updated_at": "2019-08-13T21:33:49+09:00",
     "id": "katsu1110"
@@ -488,19 +488,19 @@
     "id": "Hailee"
   },
   {
+    "title": "Django REST Framework で API サーバーを実装して得た知見まとめ(OAuthもあるよ）",
+    "url": "https://qiita.com/furuuchin/items/c6d6230aa327ad7b337a",
+    "likes_count": 244,
+    "created_at": "2018-10-08T10:45:05+09:00",
+    "updated_at": "2018-10-08T13:28:02+09:00",
+    "id": "furuuchin"
+  },
+  {
     "title": "JavaによるWebアプリケーションの仕組みをざっくり説明",
     "url": "https://qiita.com/mkdkkn/items/5c8b5b0ce549ac5d9014",
     "likes_count": 244,
     "created_at": "2018-10-12T07:16:23+09:00",
     "updated_at": "2018-10-12T07:16:23+09:00",
     "id": "mkdkkn"
-  },
-  {
-    "title": "Django REST Framework で API サーバーを実装して得た知見まとめ(OAuthもあるよ）",
-    "url": "https://qiita.com/furuuchin/items/c6d6230aa327ad7b337a",
-    "likes_count": 243,
-    "created_at": "2018-10-08T10:45:05+09:00",
-    "updated_at": "2018-10-08T13:28:02+09:00",
-    "id": "furuuchin"
   }
 ]
