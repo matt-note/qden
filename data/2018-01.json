@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2458,
+    "likes_count": 2461,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -90,7 +90,7 @@
   {
     "title": "Pythonでパワポの説明資料（報告書）を生成する",
     "url": "https://qiita.com/code_440/items/22e8539da465686496d3",
-    "likes_count": 717,
+    "likes_count": 718,
     "created_at": "2018-01-02T20:39:29+09:00",
     "updated_at": "2018-01-02T20:41:50+09:00",
     "id": "code_440"
@@ -106,7 +106,7 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 667,
+    "likes_count": 668,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
@@ -114,7 +114,7 @@
   {
     "title": "‪実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！‬",
     "url": "https://qiita.com/drken/items/e805e3f514acceb87602",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2018-01-31T10:06:42+09:00",
     "updated_at": "2020-02-06T18:15:46+09:00",
     "id": "drken"
@@ -162,7 +162,7 @@
   {
     "title": "Googleフォームを自在にカスタマイズする",
     "url": "https://qiita.com/sotatakahashi/items/fa077cbf820faca30598",
-    "likes_count": 615,
+    "likes_count": 616,
     "created_at": "2018-01-30T17:17:25+09:00",
     "updated_at": "2020-02-27T15:04:23+09:00",
     "id": "sotatakahashi"
@@ -266,10 +266,18 @@
   {
     "title": "anyenv + macOS環境構築",
     "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2018-01-12T14:53:20+09:00",
     "updated_at": "2021-02-09T14:54:39+09:00",
     "id": "rinpa"
+  },
+  {
+    "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
+    "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
+    "likes_count": 402,
+    "created_at": "2018-01-10T20:19:27+09:00",
+    "updated_at": "2019-04-20T22:30:46+09:00",
+    "id": "zd6ir7"
   },
   {
     "title": "JSのスプレッド構文を理解する",
@@ -278,14 +286,6 @@
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
-  },
-  {
-    "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
-    "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
-    "likes_count": 399,
-    "created_at": "2018-01-10T20:19:27+09:00",
-    "updated_at": "2019-04-20T22:30:46+09:00",
-    "id": "zd6ir7"
   },
   {
     "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
@@ -298,7 +298,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
@@ -314,7 +314,7 @@
   {
     "title": "オレ的vimプラグイン10選",
     "url": "https://qiita.com/reireias/items/beaa3bb0e299ae934217",
-    "likes_count": 375,
+    "likes_count": 377,
     "created_at": "2018-01-17T01:10:20+09:00",
     "updated_at": "2020-06-13T18:03:30+09:00",
     "id": "reireias"
@@ -338,7 +338,7 @@
   {
     "title": "Railsのファットモデル問題に対処する前に読んでほしい記事",
     "url": "https://qiita.com/klriutsa/items/8d7381f437c225c64a5f",
-    "likes_count": 360,
+    "likes_count": 362,
     "created_at": "2018-01-22T16:50:13+09:00",
     "updated_at": "2018-01-23T10:36:06+09:00",
     "id": "klriutsa"
@@ -386,7 +386,7 @@
   {
     "title": "RailsでWebアプリケーション開発【入門】",
     "url": "https://qiita.com/enzen/items/14271ec8fdf01107d1ce",
-    "likes_count": 299,
+    "likes_count": 302,
     "created_at": "2018-01-20T09:43:14+09:00",
     "updated_at": "2021-01-21T12:44:02+09:00",
     "id": "enzen"
@@ -418,7 +418,7 @@
   {
     "title": "Vim / Vi を終了させる方法",
     "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
-    "likes_count": 261,
+    "likes_count": 262,
     "created_at": "2018-01-09T22:50:55+09:00",
     "updated_at": "2019-11-01T09:15:26+09:00",
     "id": "kon_yu"

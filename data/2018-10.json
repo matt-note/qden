@@ -18,7 +18,7 @@
   {
     "title": "AWS認定11冠制覇したのでオススメの勉強法などをまとめてみる",
     "url": "https://qiita.com/nakazax/items/20458e146d3d9f2aa615",
-    "likes_count": 2216,
+    "likes_count": 2218,
     "created_at": "2018-10-15T09:01:09+09:00",
     "updated_at": "2020-05-01T15:01:55+09:00",
     "id": "nakazax"
@@ -50,7 +50,7 @@
   {
     "title": "vue.js + typescript = vue.ts ことはじめ",
     "url": "https://qiita.com/nrslib/items/be90cc19fa3122266fd7",
-    "likes_count": 1319,
+    "likes_count": 1320,
     "created_at": "2018-10-09T01:50:17+09:00",
     "updated_at": "2019-11-11T10:24:58+09:00",
     "id": "nrslib"
@@ -97,11 +97,11 @@
   },
   {
     "title": "フロント未学習の大学生が1週間でVue.jsを使ったポートフォリオを作った話",
-    "url": "https://qiita.com/p1ass/items/a01578b782f17f573510",
+    "url": "https://qiita.com/p1usoon/items/a01578b782f17f573510",
     "likes_count": 1070,
     "created_at": "2018-10-11T20:31:44+09:00",
     "updated_at": "2019-10-19T14:53:35+09:00",
-    "id": "p1ass"
+    "id": "p1usoon"
   },
   {
     "title": "【保存版・初心者向け】僕が本気でオススメするPythonと機械学習の良書12選",
@@ -114,7 +114,7 @@
   {
     "title": "これから始めるGCP（GCE）　安全に無料枠を使い倒せ",
     "url": "https://qiita.com/Brutus/items/22dfd31a681b67837a74",
-    "likes_count": 916,
+    "likes_count": 918,
     "created_at": "2018-10-06T11:52:13+09:00",
     "updated_at": "2020-06-19T19:57:34+09:00",
     "id": "Brutus"
@@ -202,7 +202,7 @@
   {
     "title": "お前らのTouch Barはダサい",
     "url": "https://qiita.com/2357gi/items/8235093de77aa3e5fecc",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2018-10-11T12:53:46+09:00",
     "updated_at": "2020-05-09T00:23:27+09:00",
     "id": "2357gi"
@@ -210,7 +210,7 @@
   {
     "title": "docker-compose.ymlの書き方について解説してみた",
     "url": "https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04",
-    "likes_count": 612,
+    "likes_count": 613,
     "created_at": "2018-10-14T00:53:56+09:00",
     "updated_at": "2019-05-05T12:30:58+09:00",
     "id": "yuta-ushijima"
@@ -266,7 +266,7 @@
   {
     "title": "TypeScriptの型初級",
     "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
-    "likes_count": 545,
+    "likes_count": 544,
     "created_at": "2018-10-24T18:49:35+09:00",
     "updated_at": "2020-03-19T14:19:40+09:00",
     "id": "uhyo"
@@ -282,10 +282,18 @@
   {
     "title": "Pathを通すとは、環境変数とは",
     "url": "https://qiita.com/fuwamaki/items/3d8af42cf7abee760a81",
-    "likes_count": 495,
+    "likes_count": 496,
     "created_at": "2018-10-07T20:29:16+09:00",
     "updated_at": "2019-11-29T13:09:52+09:00",
     "id": "fuwamaki"
+  },
+  {
+    "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
+    "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
+    "likes_count": 496,
+    "created_at": "2018-10-08T20:38:40+09:00",
+    "updated_at": "2020-02-17T23:55:55+09:00",
+    "id": "little_hand_s"
   },
   {
     "title": "pip install して import するだけで matplotlib を日本語表示対応させる",
@@ -296,25 +304,17 @@
     "id": "uehara1414"
   },
   {
-    "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
-    "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
-    "likes_count": 494,
-    "created_at": "2018-10-08T20:38:40+09:00",
-    "updated_at": "2020-02-17T23:55:55+09:00",
-    "id": "little_hand_s"
-  },
-  {
     "title": "Qiita週間ストック数ランキング【自動更新】",
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 479,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-03-27T19:31:32+09:00",
+    "updated_at": "2021-03-28T19:31:31+09:00",
     "id": "kai_kou"
   },
   {
     "title": "今更誰も教えてくれない、Unityにおけるアセット読み込みについての基礎知識",
     "url": "https://qiita.com/k7a/items/df6dd8ea66cbc5a1e21d",
-    "likes_count": 472,
+    "likes_count": 473,
     "created_at": "2018-10-18T15:55:08+09:00",
     "updated_at": "2019-03-18T18:39:49+09:00",
     "id": "k7a"
@@ -322,7 +322,7 @@
   {
     "title": "【比較してみた】みんなが使っている個人開発（Webサービス）向けPaaS・ホスティングサービス",
     "url": "https://qiita.com/nh321/items/0373a740e56fad6a49d8",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2018-10-28T16:04:23+09:00",
     "updated_at": "2018-11-04T10:49:02+09:00",
     "id": "nh321"
@@ -410,7 +410,7 @@
   {
     "title": "Django REST Framework の使い方メモ",
     "url": "https://qiita.com/__init__/items/f5a5a64a05541fcda713",
-    "likes_count": 360,
+    "likes_count": 362,
     "created_at": "2018-10-09T06:10:41+09:00",
     "updated_at": "2020-03-20T06:20:48+09:00",
     "id": "__init__"
@@ -456,20 +456,20 @@
     "id": "yukinagae"
   },
   {
+    "title": "10分で理解する Scrapy",
+    "url": "https://qiita.com/Chanmoro/items/f4df85eb73b18d902739",
+    "likes_count": 316,
+    "created_at": "2018-10-08T15:50:25+09:00",
+    "updated_at": "2019-11-12T11:21:43+09:00",
+    "id": "Chanmoro"
+  },
+  {
     "title": "tmuxを効率よく使って開発を爆速にする最高の設定",
     "url": "https://qiita.com/yuki_ycino/items/ef5e6b63c8f9af2f03c0",
     "likes_count": 316,
     "created_at": "2018-10-15T16:00:51+09:00",
     "updated_at": "2021-02-19T16:49:28+09:00",
     "id": "yuki_ycino"
-  },
-  {
-    "title": "10分で理解する Scrapy",
-    "url": "https://qiita.com/Chanmoro/items/f4df85eb73b18d902739",
-    "likes_count": 315,
-    "created_at": "2018-10-08T15:50:25+09:00",
-    "updated_at": "2019-11-12T11:21:43+09:00",
-    "id": "Chanmoro"
   },
   {
     "title": "Anaconda でよく使うコマンド一覧",
@@ -488,19 +488,19 @@
     "id": "Hailee"
   },
   {
+    "title": "JavaによるWebアプリケーションの仕組みをざっくり説明",
+    "url": "https://qiita.com/mkdkkn/items/5c8b5b0ce549ac5d9014",
+    "likes_count": 245,
+    "created_at": "2018-10-12T07:16:23+09:00",
+    "updated_at": "2018-10-12T07:16:23+09:00",
+    "id": "mkdkkn"
+  },
+  {
     "title": "Django REST Framework で API サーバーを実装して得た知見まとめ(OAuthもあるよ）",
     "url": "https://qiita.com/furuuchin/items/c6d6230aa327ad7b337a",
     "likes_count": 244,
     "created_at": "2018-10-08T10:45:05+09:00",
     "updated_at": "2018-10-08T13:28:02+09:00",
     "id": "furuuchin"
-  },
-  {
-    "title": "JavaによるWebアプリケーションの仕組みをざっくり説明",
-    "url": "https://qiita.com/mkdkkn/items/5c8b5b0ce549ac5d9014",
-    "likes_count": 244,
-    "created_at": "2018-10-12T07:16:23+09:00",
-    "updated_at": "2018-10-12T07:16:23+09:00",
-    "id": "mkdkkn"
   }
 ]

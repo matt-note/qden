@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 1999,
+    "likes_count": 2006,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1448,
+    "likes_count": 1449,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -82,7 +82,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1111,
+    "likes_count": 1113,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -130,7 +130,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 846,
+    "likes_count": 847,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -186,7 +186,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 793,
+    "likes_count": 792,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -258,7 +258,7 @@
   {
     "title": "CTOのやるべきことは何なのか？（翻訳と考察）",
     "url": "https://qiita.com/takano1222/items/ef897b2156067688f3ae",
-    "likes_count": 689,
+    "likes_count": 690,
     "created_at": "2017-12-09T17:48:32+09:00",
     "updated_at": "2017-12-14T12:41:19+09:00",
     "id": "takano1222"
@@ -394,7 +394,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 515,
+    "likes_count": 516,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -476,7 +476,7 @@
     "url": "https://qiita.com/soarflat/items/3e43368b2d767c730781",
     "likes_count": 433,
     "created_at": "2017-12-10T13:28:47+09:00",
-    "updated_at": "2021-02-25T19:47:25+09:00",
+    "updated_at": "2021-03-28T03:43:14+09:00",
     "id": "soarflat"
   },
   {
@@ -506,7 +506,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 407,
+    "likes_count": 408,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2020-05-03T15:49:07+09:00",
     "id": "KTakahiro1729"
@@ -528,20 +528,20 @@
     "id": "kyntk"
   },
   {
+    "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
+    "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
+    "likes_count": 390,
+    "created_at": "2017-12-13T09:54:01+09:00",
+    "updated_at": "2021-02-20T14:11:08+09:00",
+    "id": "sorami"
+  },
+  {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
     "likes_count": 390,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
-  },
-  {
-    "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
-    "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 389,
-    "created_at": "2017-12-13T09:54:01+09:00",
-    "updated_at": "2021-02-20T14:11:08+09:00",
-    "id": "sorami"
   },
   {
     "title": "「君は今日から人工知能開発部門のリーダーだ！」と言われた時の処方箋",
@@ -778,7 +778,7 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 268,
+    "likes_count": 269,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"

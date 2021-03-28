@@ -106,7 +106,7 @@
   {
     "title": "経験ゼロでもできるプログラミング現場の単体テスト",
     "url": "https://qiita.com/disc99/items/177bdf6352de463fdc87",
-    "likes_count": 826,
+    "likes_count": 827,
     "created_at": "2014-02-20T02:46:19+09:00",
     "updated_at": "2016-11-03T15:32:27+09:00",
     "id": "disc99"
@@ -162,7 +162,7 @@
   {
     "title": "今さら聞けない Activity と Fragment の使い分け",
     "url": "https://qiita.com/KeithYokoma/items/c41b22bda8c8d924d8cd",
-    "likes_count": 619,
+    "likes_count": 618,
     "created_at": "2014-02-16T20:52:45+09:00",
     "updated_at": "2014-02-16T20:52:45+09:00",
     "id": "KeithYokoma"
@@ -170,7 +170,7 @@
   {
     "title": "rails開発に加わる前に学んで欲しいこと",
     "url": "https://qiita.com/reikubonaga/items/60b4f6ee0a86ed06e83b",
-    "likes_count": 605,
+    "likes_count": 606,
     "created_at": "2014-02-21T10:56:49+09:00",
     "updated_at": "2017-05-19T15:41:06+09:00",
     "id": "reikubonaga"
@@ -186,7 +186,7 @@
   {
     "title": "やさしい設計 〜 Android 編",
     "url": "https://qiita.com/KeithYokoma/items/f19a732aad3beff9387c",
-    "likes_count": 519,
+    "likes_count": 518,
     "created_at": "2014-02-05T19:22:05+09:00",
     "updated_at": "2014-02-05T19:41:53+09:00",
     "id": "KeithYokoma"
@@ -194,7 +194,7 @@
   {
     "title": "Turbolinksをオフしないためにやった事",
     "url": "https://qiita.com/saboyutaka/items/bcc0966313c6f7399a6e",
-    "likes_count": 519,
+    "likes_count": 518,
     "created_at": "2014-02-07T20:08:48+09:00",
     "updated_at": "2016-07-19T14:00:54+09:00",
     "id": "saboyutaka"
@@ -202,18 +202,10 @@
   {
     "title": "[PHP] リクエストパラメータ・セッションに関するまとめ",
     "url": "https://qiita.com/mpyw/items/7852213f478e8c5a2802",
-    "likes_count": 498,
+    "likes_count": 499,
     "created_at": "2014-02-22T21:24:33+09:00",
     "updated_at": "2017-01-20T13:05:56+09:00",
     "id": "mpyw"
-  },
-  {
-    "title": "MacにJava(JDK)をインストール",
-    "url": "https://qiita.com/ryo0301/items/3c9a02e03b4e9a41f576",
-    "likes_count": 487,
-    "created_at": "2014-02-17T16:32:45+09:00",
-    "updated_at": "2015-01-26T16:22:48+09:00",
-    "id": "ryo0301"
   },
   {
     "title": "逆引きメモ：expressの使い方",
@@ -222,6 +214,14 @@
     "created_at": "2014-02-21T12:04:52+09:00",
     "updated_at": "2015-01-08T18:47:23+09:00",
     "id": "nekoe"
+  },
+  {
+    "title": "MacにJava(JDK)をインストール",
+    "url": "https://qiita.com/ryo0301/items/3c9a02e03b4e9a41f576",
+    "likes_count": 486,
+    "created_at": "2014-02-17T16:32:45+09:00",
+    "updated_at": "2015-01-26T16:22:48+09:00",
+    "id": "ryo0301"
   },
   {
     "title": "iOSライセンス＆配布方法まとめ",
@@ -312,20 +312,20 @@
     "id": "a-suenami"
   },
   {
-    "title": "[Vagrant] Vagrant で複数のVM を立ち上げて、お互いに通信できるようにするには [VirtualBox]",
-    "url": "https://qiita.com/sho7650/items/cf5a586713f0aec86dc0",
-    "likes_count": 376,
-    "created_at": "2014-02-13T16:18:40+09:00",
-    "updated_at": "2014-05-30T12:26:46+09:00",
-    "id": "sho7650"
-  },
-  {
     "title": "美しいOnClickListenerの実装方法(を教えてください)",
     "url": "https://qiita.com/t2low/items/8ac683c7ebf4b6dd1b41",
     "likes_count": 376,
     "created_at": "2014-02-28T20:44:30+09:00",
     "updated_at": "2014-03-09T23:42:21+09:00",
     "id": "t2low"
+  },
+  {
+    "title": "[Vagrant] Vagrant で複数のVM を立ち上げて、お互いに通信できるようにするには [VirtualBox]",
+    "url": "https://qiita.com/sho7650/items/cf5a586713f0aec86dc0",
+    "likes_count": 375,
+    "created_at": "2014-02-13T16:18:40+09:00",
+    "updated_at": "2014-05-30T12:26:46+09:00",
+    "id": "sho7650"
   },
   {
     "title": "tmuxを使いこなそう（ウインドウ、ペイン、セッション、アタッチ、デタッチ）",
@@ -338,7 +338,7 @@
   {
     "title": "はじめてのRSpec - まずテスト書いてからコード書くシンプルなチュートリアル",
     "url": "https://qiita.com/luckypool/items/e3662170033347510c3c",
-    "likes_count": 326,
+    "likes_count": 325,
     "created_at": "2014-02-28T19:59:09+09:00",
     "updated_at": "2014-03-07T17:47:45+09:00",
     "id": "luckypool"

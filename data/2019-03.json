@@ -50,7 +50,7 @@
   {
     "title": "2019年版Vue.jsを使ってる人には必ず知っていてほしいVue.jsの武器とドキュメントに書かれていないコンポーネントやメンテナンスの際に役立つTips",
     "url": "https://qiita.com/kahirokunn/items/6b4834b9a13406535f32",
-    "likes_count": 1651,
+    "likes_count": 1652,
     "created_at": "2019-03-01T19:00:42+09:00",
     "updated_at": "2020-05-02T01:51:17+09:00",
     "id": "kahirokunn"
@@ -74,7 +74,7 @@
   {
     "title": "実践/現場のPythonスクレイピング流儀",
     "url": "https://qiita.com/ulwlu/items/c84501993635c72540a7",
-    "likes_count": 1333,
+    "likes_count": 1334,
     "created_at": "2019-03-18T13:10:31+09:00",
     "updated_at": "2021-01-20T12:25:53+09:00",
     "id": "ulwlu"
@@ -82,7 +82,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメのAI勉強方法 (2019年改定版)",
     "url": "https://qiita.com/tani_AI_Academy/items/ab2208e21a2215f8dfad",
-    "likes_count": 1314,
+    "likes_count": 1315,
     "created_at": "2019-03-23T22:30:31+09:00",
     "updated_at": "2019-06-21T17:42:42+09:00",
     "id": "tani_AI_Academy"
@@ -178,7 +178,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 767,
+    "likes_count": 766,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -274,7 +274,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(導入編)",
     "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
-    "likes_count": 574,
+    "likes_count": 575,
     "created_at": "2019-03-27T22:24:09+09:00",
     "updated_at": "2020-03-30T18:47:49+09:00",
     "id": "AokabiC"
@@ -290,7 +290,7 @@
   {
     "title": "モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace",
     "url": "https://qiita.com/yu4u/items/078054dfb5592cbb80cc",
-    "likes_count": 568,
+    "likes_count": 570,
     "created_at": "2019-03-06T08:49:26+09:00",
     "updated_at": "2019-03-06T09:56:22+09:00",
     "id": "yu4u"
@@ -298,7 +298,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 564,
+    "likes_count": 565,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -306,7 +306,7 @@
   {
     "title": "TypeScript の概要",
     "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2019-03-18T13:33:09+09:00",
     "updated_at": "2019-07-18T07:59:21+09:00",
     "id": "EBIHARA_kenji"
@@ -330,7 +330,7 @@
   {
     "title": "JavaScriptの関数名の全て",
     "url": "https://qiita.com/uhyo/items/2a2d67abd56419ea21b8",
-    "likes_count": 505,
+    "likes_count": 506,
     "created_at": "2019-03-10T12:40:41+09:00",
     "updated_at": "2019-03-13T14:02:22+09:00",
     "id": "uhyo"
@@ -362,10 +362,18 @@
   {
     "title": "textlint と VS Code で始める文章校正",
     "url": "https://qiita.com/takasp/items/22f7f72b691fda30aea2",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2019-03-21T12:08:05+09:00",
     "updated_at": "2019-03-22T13:07:38+09:00",
     "id": "takasp"
+  },
+  {
+    "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
+    "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
+    "likes_count": 434,
+    "created_at": "2019-03-29T15:54:09+09:00",
+    "updated_at": "2019-09-12T14:54:07+09:00",
+    "id": "KRiver1"
   },
   {
     "title": "【Rails】MySQL2がbundle installできない時の対応方法",
@@ -374,14 +382,6 @@
     "created_at": "2019-03-21T20:01:40+09:00",
     "updated_at": "2019-04-11T01:39:27+09:00",
     "id": "fukuda_fu"
-  },
-  {
-    "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
-    "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
-    "likes_count": 433,
-    "created_at": "2019-03-29T15:54:09+09:00",
-    "updated_at": "2019-09-12T14:54:07+09:00",
-    "id": "KRiver1"
   },
   {
     "title": "全言語で気をつけるべき、ファイル書き込み時のお作法",
@@ -474,7 +474,7 @@
   {
     "title": "Pythonの可視化ライブラリDashを使う　1",
     "url": "https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c",
-    "likes_count": 363,
+    "likes_count": 364,
     "created_at": "2019-03-11T21:42:01+09:00",
     "updated_at": "2019-03-20T09:09:57+09:00",
     "id": "OgawaHideyuki"
@@ -530,7 +530,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 300,
+    "likes_count": 301,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"

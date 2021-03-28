@@ -34,7 +34,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1509,
+    "likes_count": 1511,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -98,7 +98,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1027,
+    "likes_count": 1028,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -162,7 +162,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 934,
+    "likes_count": 935,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -170,7 +170,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 925,
+    "likes_count": 926,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -218,7 +218,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 745,
+    "likes_count": 746,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -240,20 +240,20 @@
     "id": "junichiro"
   },
   {
+    "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
+    "url": "https://qiita.com/potato4d/items/c9c0c8e674f20c85948a",
+    "likes_count": 665,
+    "created_at": "2018-12-12T23:28:42+09:00",
+    "updated_at": "2019-12-05T12:05:20+09:00",
+    "id": "potato4d"
+  },
+  {
     "title": "2018年これだけは知っておきたいiOSライブラリ31選",
     "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
     "likes_count": 664,
     "created_at": "2018-12-12T19:17:50+09:00",
     "updated_at": "2019-03-18T13:42:44+09:00",
     "id": "kohei1218"
-  },
-  {
-    "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
-    "url": "https://qiita.com/potato4d/items/c9c0c8e674f20c85948a",
-    "likes_count": 664,
-    "created_at": "2018-12-12T23:28:42+09:00",
-    "updated_at": "2019-12-05T12:05:20+09:00",
-    "id": "potato4d"
   },
   {
     "title": "個人アプリ開発を支える技術と開発フロー",
@@ -266,7 +266,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 655,
+    "likes_count": 656,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -298,10 +298,18 @@
   {
     "title": "たった17行のコードで音声自動文字起こしを実装する",
     "url": "https://qiita.com/kolife/items/a0af7702eef05994fbfb",
-    "likes_count": 598,
+    "likes_count": 599,
     "created_at": "2018-12-02T14:51:26+09:00",
     "updated_at": "2020-05-22T01:04:45+09:00",
     "id": "kolife"
+  },
+  {
+    "title": "Githubでissue管理して開発しよう",
+    "url": "https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b",
+    "likes_count": 584,
+    "created_at": "2018-12-24T14:56:03+09:00",
+    "updated_at": "2020-11-18T15:03:21+09:00",
+    "id": "fukubaka0825"
   },
   {
     "title": "アカウント削除機能に意味はない",
@@ -310,14 +318,6 @@
     "created_at": "2018-12-16T23:43:39+09:00",
     "updated_at": "2018-12-17T22:40:39+09:00",
     "id": "ponkotuy"
-  },
-  {
-    "title": "Githubでissue管理して開発しよう",
-    "url": "https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b",
-    "likes_count": 583,
-    "created_at": "2018-12-24T14:56:03+09:00",
-    "updated_at": "2020-11-18T15:03:21+09:00",
-    "id": "fukubaka0825"
   },
   {
     "title": "とても強い計算量クラスのコンピュータとその実現方法",
@@ -394,10 +394,18 @@
   {
     "title": "package-lock.jsonについて知りたくても聞けなかったこと",
     "url": "https://qiita.com/fj_yohei/items/7ca887a45e0855917279",
-    "likes_count": 450,
+    "likes_count": 451,
     "created_at": "2018-12-03T15:34:09+09:00",
     "updated_at": "2020-07-11T13:34:36+09:00",
     "id": "fj_yohei"
+  },
+  {
+    "title": "C#リフレクションTIPS 55連発",
+    "url": "https://qiita.com/gushwell/items/91436bd1871586f6e663",
+    "likes_count": 451,
+    "created_at": "2018-12-16T21:41:49+09:00",
+    "updated_at": "2020-09-09T13:13:04+09:00",
+    "id": "gushwell"
   },
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
@@ -408,17 +416,9 @@
     "id": "kabochapo"
   },
   {
-    "title": "C#リフレクションTIPS 55連発",
-    "url": "https://qiita.com/gushwell/items/91436bd1871586f6e663",
-    "likes_count": 450,
-    "created_at": "2018-12-16T21:41:49+09:00",
-    "updated_at": "2020-09-09T13:13:04+09:00",
-    "id": "gushwell"
-  },
-  {
     "title": "Go Modules",
     "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2018-12-05T13:44:24+09:00",
     "updated_at": "2019-07-17T17:52:30+09:00",
     "id": "propella"
@@ -434,7 +434,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2020-04-06T23:32:00+09:00",
     "id": "elipmoc101"
@@ -626,7 +626,7 @@
   {
     "title": "SOLID原則について簡単に書く",
     "url": "https://qiita.com/yui_mop/items/93fef037a787318e7067",
-    "likes_count": 309,
+    "likes_count": 310,
     "created_at": "2018-12-08T16:42:44+09:00",
     "updated_at": "2020-01-15T16:33:13+09:00",
     "id": "yui_mop"
@@ -666,7 +666,7 @@
   {
     "title": "【爆速】HTML + Sass(SCSS)で簡単にレスポンシブ対応のLPを作ろう！",
     "url": "https://qiita.com/Y_ASAMOTO/items/d5f33ecf5bfbb7f028a5",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2018-12-03T20:46:21+09:00",
     "updated_at": "2018-12-19T10:20:41+09:00",
     "id": "Y_ASAMOTO"
@@ -674,7 +674,7 @@
   {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 284,
+    "likes_count": 285,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
@@ -694,14 +694,6 @@
     "created_at": "2018-12-20T16:11:54+09:00",
     "updated_at": "2020-07-14T14:57:29+09:00",
     "id": "Hailee"
-  },
-  {
-    "title": "【Rails×Ajax】いいね機能ハンズオン",
-    "url": "https://qiita.com/naberina/items/c6b5c8d7756cb882fb20",
-    "likes_count": 260,
-    "created_at": "2018-12-20T02:10:14+09:00",
-    "updated_at": "2021-01-08T12:26:47+09:00",
-    "id": "naberina"
   },
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
@@ -730,7 +722,7 @@
   {
     "title": "Python 環境構築いろいろ - Windows",
     "url": "https://qiita.com/yniji/items/b1b20211846a5a9f189b",
-    "likes_count": 213,
+    "likes_count": 214,
     "created_at": "2018-12-05T23:29:50+09:00",
     "updated_at": "2019-10-18T19:41:17+09:00",
     "id": "yniji"
