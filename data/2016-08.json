@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1610,
+    "likes_count": 1612,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -26,7 +26,7 @@
   {
     "title": "サーバからクライアントに送信する技術 - WebSocketを中心に",
     "url": "https://qiita.com/yuba/items/00fc1892b296fb7b8de9",
-    "likes_count": 1488,
+    "likes_count": 1489,
     "created_at": "2016-08-24T17:54:24+09:00",
     "updated_at": "2016-11-03T01:14:55+09:00",
     "id": "yuba"
@@ -34,7 +34,7 @@
   {
     "title": "CSSアニメーション 入門",
     "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
-    "likes_count": 1453,
+    "likes_count": 1454,
     "created_at": "2016-08-19T00:50:02+09:00",
     "updated_at": "2021-03-28T03:45:12+09:00",
     "id": "soarflat"
@@ -90,7 +90,7 @@
   {
     "title": "【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本",
     "url": "https://qiita.com/aokikenichi/items/ae4df263f591e47528a6",
-    "likes_count": 990,
+    "likes_count": 991,
     "created_at": "2016-08-23T11:46:09+09:00",
     "updated_at": "2021-03-21T18:35:47+09:00",
     "id": "aokikenichi"
@@ -144,6 +144,14 @@
     "id": "cognitom"
   },
   {
+    "title": "bash: 標準出力、標準エラー出力をファイル、画面それぞれに出力する方法",
+    "url": "https://qiita.com/laikuaut/items/e1cc312ffc7ec2c872fc",
+    "likes_count": 668,
+    "created_at": "2016-08-28T05:10:13+09:00",
+    "updated_at": "2016-08-28T07:08:24+09:00",
+    "id": "laikuaut"
+  },
+  {
     "title": "ワイヤレスマウスを安価な物理ボタンとして使う",
     "url": "https://qiita.com/uiu/items/a4158939e605b2b0c501",
     "likes_count": 667,
@@ -158,14 +166,6 @@
     "created_at": "2016-08-18T10:48:47+09:00",
     "updated_at": "2020-04-09T12:33:00+09:00",
     "id": "knsh14"
-  },
-  {
-    "title": "bash: 標準出力、標準エラー出力をファイル、画面それぞれに出力する方法",
-    "url": "https://qiita.com/laikuaut/items/e1cc312ffc7ec2c872fc",
-    "likes_count": 666,
-    "created_at": "2016-08-28T05:10:13+09:00",
-    "updated_at": "2016-08-28T07:08:24+09:00",
-    "id": "laikuaut"
   },
   {
     "title": "線形代数の基礎",
@@ -202,7 +202,7 @@
   {
     "title": "Let's Encrypt で Nginx にSSLを設定する",
     "url": "https://qiita.com/HeRo/items/f9eb8d8a08d4d5b63ee9",
-    "likes_count": 547,
+    "likes_count": 548,
     "created_at": "2016-08-14T11:31:29+09:00",
     "updated_at": "2019-05-18T10:12:04+09:00",
     "id": "HeRo"
@@ -346,7 +346,7 @@
   {
     "title": "Laravel5のアーキテクチャから学ぶより良いクラス設計",
     "url": "https://qiita.com/nunulk/items/2c637d3952096ef74677",
-    "likes_count": 369,
+    "likes_count": 368,
     "created_at": "2016-08-04T22:03:22+09:00",
     "updated_at": "2017-04-05T11:27:09+09:00",
     "id": "nunulk"
@@ -362,7 +362,7 @@
   {
     "title": "資料で使う技術/プロダクトロゴのリンク集",
     "url": "https://qiita.com/tkit/items/932316c5f5f7b162b61e",
-    "likes_count": 354,
+    "likes_count": 356,
     "created_at": "2016-08-11T17:05:59+09:00",
     "updated_at": "2021-03-21T20:27:55+09:00",
     "id": "tkit"
@@ -394,7 +394,7 @@
   {
     "title": "Laravelでテストコードを書くためのチュートリアル",
     "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2016-08-06T12:48:15+09:00",
     "updated_at": "2016-08-06T12:48:15+09:00",
     "id": "niisan-tokyo"
@@ -466,7 +466,7 @@
   {
     "title": "pythonでバッチスクリプトを書くときの雛形",
     "url": "https://qiita.com/fetaro/items/77cb5571c472eac85031",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2016-08-16T23:32:52+09:00",
     "updated_at": "2020-11-26T11:45:00+09:00",
     "id": "fetaro"
@@ -482,7 +482,7 @@
   {
     "title": "Spring Boot解説第18回(基本編：Controllerとは)",
     "url": "https://qiita.com/TEBASAKI/items/267c261db17f178e33eb",
-    "likes_count": 242,
+    "likes_count": 243,
     "created_at": "2016-08-08T10:54:54+09:00",
     "updated_at": "2017-06-22T20:01:30+09:00",
     "id": "TEBASAKI"

@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 2921,
+    "likes_count": 2923,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-03-18T14:08:23+09:00",
     "id": "upura"
@@ -50,7 +50,7 @@
   {
     "title": "2019年版Vue.jsを使ってる人には必ず知っていてほしいVue.jsの武器とドキュメントに書かれていないコンポーネントやメンテナンスの際に役立つTips",
     "url": "https://qiita.com/kahirokunn/items/6b4834b9a13406535f32",
-    "likes_count": 1652,
+    "likes_count": 1653,
     "created_at": "2019-03-01T19:00:42+09:00",
     "updated_at": "2020-05-02T01:51:17+09:00",
     "id": "kahirokunn"
@@ -114,7 +114,7 @@
   {
     "title": "GCPで永久無料枠を利用してサービスを立ち上げたときにしたことの備忘録",
     "url": "https://qiita.com/riku-shiru/items/a870edd9dc0b132e092c",
-    "likes_count": 1095,
+    "likes_count": 1096,
     "created_at": "2019-03-29T08:45:23+09:00",
     "updated_at": "2019-04-10T10:08:57+09:00",
     "id": "riku-shiru"
@@ -146,7 +146,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 838,
+    "likes_count": 840,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -178,7 +178,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -226,7 +226,7 @@
   {
     "title": "Android開発はFlutterでやる方がいい説",
     "url": "https://qiita.com/ko2ic/items/b07d3ec73513c1bd8ba6",
-    "likes_count": 649,
+    "likes_count": 650,
     "created_at": "2019-03-27T16:36:20+09:00",
     "updated_at": "2019-08-30T17:43:25+09:00",
     "id": "ko2ic"
@@ -234,7 +234,7 @@
   {
     "title": "[最新論文]NVIDIAさんがまた本気を出してしまった。",
     "url": "https://qiita.com/Phoeboooo/items/ad6c0461ab052aae8e89",
-    "likes_count": 626,
+    "likes_count": 625,
     "created_at": "2019-03-25T08:07:40+09:00",
     "updated_at": "2019-03-25T09:26:58+09:00",
     "id": "Phoeboooo"
@@ -314,7 +314,7 @@
   {
     "title": "Go / Gin で超簡単なWebアプリを作る",
     "url": "https://qiita.com/hyo_07/items/59c093dda143325b1859",
-    "likes_count": 530,
+    "likes_count": 529,
     "created_at": "2019-03-17T22:20:05+09:00",
     "updated_at": "2020-01-21T02:09:21+09:00",
     "id": "hyo_07"
@@ -354,7 +354,7 @@
   {
     "title": "[git] gitconfigで会社用アカウントと個人用アカウントを楽に使い分けする",
     "url": "https://qiita.com/Ancient_Scapes/items/64f239f89d25a3b9f520",
-    "likes_count": 444,
+    "likes_count": 443,
     "created_at": "2019-03-27T03:18:41+09:00",
     "updated_at": "2019-03-28T14:55:54+09:00",
     "id": "Ancient_Scapes"
@@ -368,20 +368,20 @@
     "id": "takasp"
   },
   {
+    "title": "【Rails】MySQL2がbundle installできない時の対応方法",
+    "url": "https://qiita.com/fukuda_fu/items/463a39406ce713396403",
+    "likes_count": 436,
+    "created_at": "2019-03-21T20:01:40+09:00",
+    "updated_at": "2019-04-11T01:39:27+09:00",
+    "id": "fukuda_fu"
+  },
+  {
     "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
     "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
     "likes_count": 434,
     "created_at": "2019-03-29T15:54:09+09:00",
     "updated_at": "2019-09-12T14:54:07+09:00",
     "id": "KRiver1"
-  },
-  {
-    "title": "【Rails】MySQL2がbundle installできない時の対応方法",
-    "url": "https://qiita.com/fukuda_fu/items/463a39406ce713396403",
-    "likes_count": 433,
-    "created_at": "2019-03-21T20:01:40+09:00",
-    "updated_at": "2019-04-11T01:39:27+09:00",
-    "id": "fukuda_fu"
   },
   {
     "title": "全言語で気をつけるべき、ファイル書き込み時のお作法",
@@ -410,7 +410,7 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 399,
+    "likes_count": 400,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"
@@ -530,7 +530,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
