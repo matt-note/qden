@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4535,
+    "likes_count": 4537,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2534,
+    "likes_count": 2535,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-01-17T17:08:07+09:00",
     "id": "piroor"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2038,
+    "likes_count": 2037,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -138,7 +138,7 @@
   {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 896,
+    "likes_count": 897,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
@@ -178,7 +178,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 777,
+    "likes_count": 778,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -234,7 +234,7 @@
   {
     "title": "ようこそ！Electron入門",
     "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
-    "likes_count": 652,
+    "likes_count": 653,
     "created_at": "2016-12-28T14:02:01+09:00",
     "updated_at": "2019-11-22T19:57:05+09:00",
     "id": "umamichi"
@@ -264,20 +264,20 @@
     "id": "morishitter"
   },
   {
+    "title": "iOSアプリ開発でアニメーションするなら押さえておきたい基礎",
+    "url": "https://qiita.com/hachinobu/items/57d4c305c907805b4a53",
+    "likes_count": 622,
+    "created_at": "2016-12-22T15:31:54+09:00",
+    "updated_at": "2018-12-27T15:29:57+09:00",
+    "id": "hachinobu"
+  },
+  {
     "title": "curlコマンドでapiを叩く",
     "url": "https://qiita.com/buntafujikawa/items/758425773b2239feb9a7",
     "likes_count": 621,
     "created_at": "2016-12-26T23:43:49+09:00",
     "updated_at": "2020-09-19T11:01:47+09:00",
     "id": "buntafujikawa"
-  },
-  {
-    "title": "iOSアプリ開発でアニメーションするなら押さえておきたい基礎",
-    "url": "https://qiita.com/hachinobu/items/57d4c305c907805b4a53",
-    "likes_count": 620,
-    "created_at": "2016-12-22T15:31:54+09:00",
-    "updated_at": "2018-12-27T15:29:57+09:00",
-    "id": "hachinobu"
   },
   {
     "title": "電気工事士の資格を取ってコンセントやスイッチを改造しようぜ",
@@ -288,20 +288,20 @@
     "id": "rukihena"
   },
   {
+    "title": "Gitのブランチモデルについて",
+    "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
+    "likes_count": 592,
+    "created_at": "2016-12-05T00:04:34+09:00",
+    "updated_at": "2016-12-05T00:12:43+09:00",
+    "id": "y-okudera"
+  },
+  {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
     "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
     "likes_count": 591,
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
-  },
-  {
-    "title": "Gitのブランチモデルについて",
-    "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 590,
-    "created_at": "2016-12-05T00:04:34+09:00",
-    "updated_at": "2016-12-05T00:12:43+09:00",
-    "id": "y-okudera"
   },
   {
     "title": "原理原則で理解するDocker",
@@ -528,6 +528,14 @@
     "id": "icoxfog417"
   },
   {
+    "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
+    "url": "https://qiita.com/chanNaru/items/326bd50a78cf34371169",
+    "likes_count": 403,
+    "created_at": "2016-12-23T18:57:30+09:00",
+    "updated_at": "2020-02-06T13:59:09+09:00",
+    "id": "chanNaru"
+  },
+  {
     "title": "CircleCIで出来るコト",
     "url": "https://qiita.com/noboru_i/items/7d300eb63ae667bf8dc2",
     "likes_count": 402,
@@ -542,14 +550,6 @@
     "created_at": "2016-12-29T15:07:33+09:00",
     "updated_at": "2017-01-11T12:00:23+09:00",
     "id": "m_mizutani"
-  },
-  {
-    "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
-    "url": "https://qiita.com/chanNaru/items/326bd50a78cf34371169",
-    "likes_count": 400,
-    "created_at": "2016-12-23T18:57:30+09:00",
-    "updated_at": "2020-02-06T13:59:09+09:00",
-    "id": "chanNaru"
   },
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
