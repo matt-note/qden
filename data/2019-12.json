@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2622,
+    "likes_count": 2621,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -26,7 +26,7 @@
   {
     "title": "同じチームにいて最高に心強かったエンジニアの特徴をまとめてみた",
     "url": "https://qiita.com/jofuku/items/6420097fd5ff4c44c24d",
-    "likes_count": 1866,
+    "likes_count": 1867,
     "created_at": "2019-12-22T09:59:17+09:00",
     "updated_at": "2020-01-19T15:59:20+09:00",
     "id": "jofuku"
@@ -98,7 +98,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1096,
+    "likes_count": 1098,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -106,7 +106,7 @@
   {
     "title": "SREやクラウドエンジニアが読むと良さげな本まとめ",
     "url": "https://qiita.com/tmknom/items/67dbfcf5194aee5c6e61",
-    "likes_count": 1088,
+    "likes_count": 1089,
     "created_at": "2019-12-09T17:41:37+09:00",
     "updated_at": "2019-12-11T11:05:50+09:00",
     "id": "tmknom"
@@ -114,7 +114,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 992,
+    "likes_count": 993,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -122,7 +122,7 @@
   {
     "title": "GoF デザインパターン チートシート",
     "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 973,
+    "likes_count": 974,
     "created_at": "2019-12-24T12:53:20+09:00",
     "updated_at": "2019-12-24T14:49:39+09:00",
     "id": "tanakahisateru"
@@ -248,20 +248,20 @@
     "id": "wataoka"
   },
   {
+    "title": "lodash やめ方",
+    "url": "https://qiita.com/mizchi/items/af17f45d5653b76f6751",
+    "likes_count": 597,
+    "created_at": "2019-12-23T16:40:55+09:00",
+    "updated_at": "2019-12-23T17:15:02+09:00",
+    "id": "mizchi"
+  },
+  {
     "title": "ゴリゴリの文系がＡＩをほぼ独学した半年",
     "url": "https://qiita.com/OD3/items/f9988fe89c7665e933b4",
     "likes_count": 597,
     "created_at": "2019-12-27T19:50:42+09:00",
     "updated_at": "2020-01-17T18:43:06+09:00",
     "id": "OD3"
-  },
-  {
-    "title": "lodash やめ方",
-    "url": "https://qiita.com/mizchi/items/af17f45d5653b76f6751",
-    "likes_count": 596,
-    "created_at": "2019-12-23T16:40:55+09:00",
-    "updated_at": "2019-12-23T17:15:02+09:00",
-    "id": "mizchi"
   },
   {
     "title": "TypeScript で書く React コンポーネントを基礎から理解する",
@@ -296,20 +296,20 @@
     "id": "haraso_1130"
   },
   {
-    "title": "この TypeScript が Hello, world! のくせに慎重すぎる",
-    "url": "https://qiita.com/matzkoh/items/90baab22ad489b78384b",
-    "likes_count": 506,
-    "created_at": "2019-12-03T08:39:41+09:00",
-    "updated_at": "2020-06-05T18:34:23+09:00",
-    "id": "matzkoh"
-  },
-  {
     "title": "Androidのライフサイクルの基礎からViewModel, LiveData, Kotlin Coroutinesまでを流れるように説明したい",
     "url": "https://qiita.com/takahirom/items/3f012d46e15a1666fa33",
     "likes_count": 506,
     "created_at": "2019-12-22T11:42:01+09:00",
     "updated_at": "2020-09-14T10:13:11+09:00",
     "id": "takahirom"
+  },
+  {
+    "title": "この TypeScript が Hello, world! のくせに慎重すぎる",
+    "url": "https://qiita.com/matzkoh/items/90baab22ad489b78384b",
+    "likes_count": 505,
+    "created_at": "2019-12-03T08:39:41+09:00",
+    "updated_at": "2020-06-05T18:34:23+09:00",
+    "id": "matzkoh"
   },
   {
     "title": "ふりかえりを拡張する「ふりかえりチートシート」",
@@ -362,7 +362,7 @@
   {
     "title": "VSCode で最高の LaTeX 環境を作る",
     "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 470,
+    "likes_count": 473,
     "created_at": "2019-12-16T07:03:05+09:00",
     "updated_at": "2021-01-25T17:32:17+09:00",
     "id": "rainbartown"
@@ -410,7 +410,7 @@
   {
     "title": "Kaggleコード遺産",
     "url": "https://qiita.com/kaggle_master-arai-san/items/d59b2fb7142ec7e270a5",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2019-12-13T01:03:32+09:00",
     "updated_at": "2019-12-13T01:03:32+09:00",
     "id": "kaggle_master-arai-san"
@@ -442,7 +442,7 @@
   {
     "title": "Microsoft Azure のオススメの学習方法についてまとめてみる",
     "url": "https://qiita.com/nakazax/items/9311ed4b20d045c094d4",
-    "likes_count": 353,
+    "likes_count": 354,
     "created_at": "2019-12-18T01:55:16+09:00",
     "updated_at": "2020-08-12T00:53:11+09:00",
     "id": "nakazax"
@@ -482,7 +482,7 @@
   {
     "title": "Ruby on Railsの現場でよく見る書き方【実例あり】",
     "url": "https://qiita.com/ryokky59/items/988f25fa1fb6b9aefa8e",
-    "likes_count": 309,
+    "likes_count": 310,
     "created_at": "2019-12-14T09:25:17+09:00",
     "updated_at": "2019-12-16T09:30:27+09:00",
     "id": "ryokky59"

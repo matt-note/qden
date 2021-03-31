@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4959,
+    "likes_count": 4961,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4652,
+    "likes_count": 4653,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1575,
+    "likes_count": 1576,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1520,
+    "likes_count": 1522,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -90,7 +90,7 @@
   {
     "title": "Chrome デベロッパーツールの Console を使いこなす",
     "url": "https://qiita.com/howdy39/items/c22c2cfafab88fa73d15",
-    "likes_count": 1047,
+    "likes_count": 1048,
     "created_at": "2018-05-20T18:42:30+09:00",
     "updated_at": "2018-12-28T23:10:55+09:00",
     "id": "howdy39"
@@ -202,7 +202,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 649,
+    "likes_count": 650,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -322,7 +322,7 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 529,
+    "likes_count": 532,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
@@ -498,10 +498,18 @@
   {
     "title": "PWAをもっと簡単に初めてみる",
     "url": "https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2018-05-13T23:19:26+09:00",
     "updated_at": "2021-02-21T14:44:36+09:00",
     "id": "poster-keisuke"
+  },
+  {
+    "title": "SSH公開鍵認証で接続するまで",
+    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
+    "likes_count": 295,
+    "created_at": "2018-05-06T12:00:20+09:00",
+    "updated_at": "2020-10-13T06:08:24+09:00",
+    "id": "kazokmr"
   },
   {
     "title": "Pythonで例外を投げるときのベストプラクティス",
@@ -510,14 +518,6 @@
     "created_at": "2018-05-02T14:17:43+09:00",
     "updated_at": "2018-05-05T11:55:13+09:00",
     "id": "hasoya"
-  },
-  {
-    "title": "SSH公開鍵認証で接続するまで",
-    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 294,
-    "created_at": "2018-05-06T12:00:20+09:00",
-    "updated_at": "2020-10-13T06:08:24+09:00",
-    "id": "kazokmr"
   },
   {
     "title": "2018年Vue.jsとVuexを使ってる人には知って欲しいFluxデザインパターンとViewModelとの組み合わせ",
@@ -554,7 +554,7 @@
   {
     "title": "「近代化Redmine」ことOpenProjectでスクラム開発のプロジェクト管理",
     "url": "https://qiita.com/terukizm/items/c94f06a40be55f65d4f9",
-    "likes_count": 239,
+    "likes_count": 241,
     "created_at": "2018-05-04T17:49:47+09:00",
     "updated_at": "2018-05-04T18:07:26+09:00",
     "id": "terukizm"

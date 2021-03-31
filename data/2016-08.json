@@ -34,7 +34,7 @@
   {
     "title": "CSSアニメーション 入門",
     "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
-    "likes_count": 1454,
+    "likes_count": 1456,
     "created_at": "2016-08-19T00:50:02+09:00",
     "updated_at": "2021-03-28T03:45:12+09:00",
     "id": "soarflat"
@@ -250,7 +250,7 @@
   {
     "title": "[Python] Plotlyでぐりぐり動かせるグラフを作る",
     "url": "https://qiita.com/inoory/items/12028af62018bf367722",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2016-08-30T21:14:18+09:00",
     "updated_at": "2020-07-08T18:58:25+09:00",
     "id": "inoory"
@@ -298,7 +298,7 @@
   {
     "title": ".ssh/configファイルでSSH接続を管理する",
     "url": "https://qiita.com/0084ken/items/2e4e9ae44ec5e01328f1",
-    "likes_count": 436,
+    "likes_count": 437,
     "created_at": "2016-08-09T13:11:27+09:00",
     "updated_at": "2018-03-09T16:02:57+09:00",
     "id": "0084ken"
@@ -322,7 +322,7 @@
   {
     "title": "押下(おうか)にまつわる話",
     "url": "https://qiita.com/yaju/items/0ceb6a0343561b4d208e",
-    "likes_count": 390,
+    "likes_count": 391,
     "created_at": "2016-08-18T02:55:47+09:00",
     "updated_at": "2021-03-18T20:45:50+09:00",
     "id": "yaju"
@@ -346,7 +346,7 @@
   {
     "title": "Laravel5のアーキテクチャから学ぶより良いクラス設計",
     "url": "https://qiita.com/nunulk/items/2c637d3952096ef74677",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2016-08-04T22:03:22+09:00",
     "updated_at": "2017-04-05T11:27:09+09:00",
     "id": "nunulk"
@@ -368,6 +368,14 @@
     "id": "tkit"
   },
   {
+    "title": "bundler、bundle execについて　※自分用メモ",
+    "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
+    "likes_count": 351,
+    "created_at": "2016-08-08T10:06:03+09:00",
+    "updated_at": "2016-08-08T15:41:46+09:00",
+    "id": "dawn_628"
+  },
+  {
     "title": "[Python] importの躓きどころ",
     "url": "https://qiita.com/ysk24ok/items/2711295d83218c699276",
     "likes_count": 351,
@@ -384,17 +392,9 @@
     "id": "t-a-run"
   },
   {
-    "title": "bundler、bundle execについて　※自分用メモ",
-    "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
-    "likes_count": 350,
-    "created_at": "2016-08-08T10:06:03+09:00",
-    "updated_at": "2016-08-08T15:41:46+09:00",
-    "id": "dawn_628"
-  },
-  {
     "title": "Laravelでテストコードを書くためのチュートリアル",
     "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2016-08-06T12:48:15+09:00",
     "updated_at": "2016-08-06T12:48:15+09:00",
     "id": "niisan-tokyo"
@@ -418,7 +418,7 @@
   {
     "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
     "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 308,
+    "likes_count": 309,
     "created_at": "2016-08-04T23:10:37+09:00",
     "updated_at": "2016-08-08T12:50:34+09:00",
     "id": "mpyw"
@@ -458,7 +458,7 @@
   {
     "title": "Django入門にはDjango Girls Tutorialがおすすめ",
     "url": "https://qiita.com/takechanman1228/items/d711e175b32f833c5e9c",
-    "likes_count": 285,
+    "likes_count": 286,
     "created_at": "2016-08-12T23:28:52+09:00",
     "updated_at": "2017-02-06T10:19:48+09:00",
     "id": "takechanman1228"
