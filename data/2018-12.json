@@ -26,7 +26,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1518,
+    "likes_count": 1520,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -66,7 +66,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1206,
+    "likes_count": 1208,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -106,7 +106,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1019,
+    "likes_count": 1021,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -138,7 +138,7 @@
   {
     "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
     "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
-    "likes_count": 952,
+    "likes_count": 953,
     "created_at": "2018-12-25T21:17:23+09:00",
     "updated_at": "2018-12-27T14:44:55+09:00",
     "id": "hirokidaichi"
@@ -146,7 +146,7 @@
   {
     "title": "【危険シェル芸】禁じられた闇の魔術とその防衛術💥",
     "url": "https://qiita.com/_-_-_-_-_/items/214d537aae2c1488692c",
-    "likes_count": 947,
+    "likes_count": 948,
     "created_at": "2018-12-22T05:22:29+09:00",
     "updated_at": "2019-08-22T20:49:20+09:00",
     "id": "_-_-_-_-_"
@@ -154,7 +154,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 939,
+    "likes_count": 940,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -394,10 +394,18 @@
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
+  },
+  {
+    "title": "package-lock.jsonについて知りたくても聞けなかったこと",
+    "url": "https://qiita.com/fj_yohei/items/7ca887a45e0855917279",
+    "likes_count": 453,
+    "created_at": "2018-12-03T15:34:09+09:00",
+    "updated_at": "2020-07-11T13:34:36+09:00",
+    "id": "fj_yohei"
   },
   {
     "title": "C#リフレクションTIPS 55連発",
@@ -406,14 +414,6 @@
     "created_at": "2018-12-16T21:41:49+09:00",
     "updated_at": "2020-09-09T13:13:04+09:00",
     "id": "gushwell"
-  },
-  {
-    "title": "package-lock.jsonについて知りたくても聞けなかったこと",
-    "url": "https://qiita.com/fj_yohei/items/7ca887a45e0855917279",
-    "likes_count": 452,
-    "created_at": "2018-12-03T15:34:09+09:00",
-    "updated_at": "2020-07-11T13:34:36+09:00",
-    "id": "fj_yohei"
   },
   {
     "title": "Go Modules",
@@ -538,7 +538,7 @@
   {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
-    "likes_count": 358,
+    "likes_count": 359,
     "created_at": "2018-12-21T10:13:58+09:00",
     "updated_at": "2021-01-04T01:36:10+09:00",
     "id": "naokiiiii"
@@ -618,7 +618,7 @@
   {
     "title": "Flutterで1年間開発して利用した使えるライブラリ",
     "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2018-12-21T19:15:21+09:00",
     "updated_at": "2019-07-30T14:29:43+09:00",
     "id": "ko2ic"
@@ -682,7 +682,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 279,
+    "likes_count": 280,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2020-12-24T15:38:26+09:00",
     "id": "_takeshi_24"

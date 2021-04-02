@@ -2,7 +2,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 3880,
+    "likes_count": 3881,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2335,
+    "likes_count": 2337,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -178,7 +178,7 @@
   {
     "title": "(デプロイ編①)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/814e0979217b1a25aa3e",
-    "likes_count": 809,
+    "likes_count": 810,
     "created_at": "2016-01-12T16:00:04+09:00",
     "updated_at": "2020-06-15T12:23:10+09:00",
     "id": "naoki_mochizuki"
@@ -234,7 +234,7 @@
   {
     "title": "マテリアルデザインについて少し調べる",
     "url": "https://qiita.com/nogson/items/804dd3a879f482fb7018",
-    "likes_count": 719,
+    "likes_count": 720,
     "created_at": "2016-01-30T17:13:04+09:00",
     "updated_at": "2017-05-30T18:12:34+09:00",
     "id": "nogson"
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
     "url": "https://qiita.com/wadahiro/items/eb50ac6bbe2e18cf8813",
-    "likes_count": 652,
+    "likes_count": 653,
     "created_at": "2016-01-27T02:08:49+09:00",
     "updated_at": "2018-06-18T12:00:54+09:00",
     "id": "wadahiro"
@@ -282,7 +282,7 @@
   {
     "title": "【チュートリアル】機械学習を使って30分で固有表現抽出器を作る",
     "url": "https://qiita.com/Hironsan/items/326b66711eb4196aa9d4",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2016-01-29T10:52:07+09:00",
     "updated_at": "2017-05-03T11:28:35+09:00",
     "id": "Hironsan"
@@ -418,7 +418,7 @@
   {
     "title": "爆速でターミナルを使うためのショートカット集",
     "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
-    "likes_count": 420,
+    "likes_count": 421,
     "created_at": "2016-01-19T01:33:35+09:00",
     "updated_at": "2019-12-23T11:08:38+09:00",
     "id": "akito"
@@ -552,20 +552,20 @@
     "id": "mono0926"
   },
   {
+    "title": "DockerのVolume機能について実験してみたことをまとめます",
+    "url": "https://qiita.com/namutaka/items/f6a574f75f0997a1bb1d",
+    "likes_count": 327,
+    "created_at": "2016-01-04T01:31:49+09:00",
+    "updated_at": "2017-12-22T17:08:59+09:00",
+    "id": "namutaka"
+  },
+  {
     "title": "Rollupがちょうどいい感じ",
     "url": "https://qiita.com/cognitom/items/e3ac0da00241f427dad6",
     "likes_count": 327,
     "created_at": "2016-01-21T23:49:33+09:00",
     "updated_at": "2016-12-03T13:15:45+09:00",
     "id": "cognitom"
-  },
-  {
-    "title": "DockerのVolume機能について実験してみたことをまとめます",
-    "url": "https://qiita.com/namutaka/items/f6a574f75f0997a1bb1d",
-    "likes_count": 325,
-    "created_at": "2016-01-04T01:31:49+09:00",
-    "updated_at": "2017-12-22T17:08:59+09:00",
-    "id": "namutaka"
   },
   {
     "title": "AWS EC2でWebサーバーを構築してみる",

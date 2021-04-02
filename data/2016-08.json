@@ -10,7 +10,7 @@
   {
     "title": "Windows Subsystem for Linux (WSL1) をインストールしてみよう！",
     "url": "https://qiita.com/Aruneko/items/c79810b0b015bebf30bb",
-    "likes_count": 2220,
+    "likes_count": 2221,
     "created_at": "2016-08-03T10:58:15+09:00",
     "updated_at": "2020-06-07T21:06:52+09:00",
     "id": "Aruneko"
@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1614,
+    "likes_count": 1615,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -26,7 +26,7 @@
   {
     "title": "サーバからクライアントに送信する技術 - WebSocketを中心に",
     "url": "https://qiita.com/yuba/items/00fc1892b296fb7b8de9",
-    "likes_count": 1489,
+    "likes_count": 1491,
     "created_at": "2016-08-24T17:54:24+09:00",
     "updated_at": "2016-11-03T01:14:55+09:00",
     "id": "yuba"
@@ -34,7 +34,7 @@
   {
     "title": "CSSアニメーション 入門",
     "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
-    "likes_count": 1458,
+    "likes_count": 1460,
     "created_at": "2016-08-19T00:50:02+09:00",
     "updated_at": "2021-03-28T03:45:12+09:00",
     "id": "soarflat"
@@ -114,7 +114,7 @@
   {
     "title": "初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ",
     "url": "https://qiita.com/takanatsu/items/fc89de9bd11148da1438",
-    "likes_count": 803,
+    "likes_count": 804,
     "created_at": "2016-08-25T23:46:02+09:00",
     "updated_at": "2016-08-25T23:51:28+09:00",
     "id": "takanatsu"
@@ -170,7 +170,7 @@
   {
     "title": "線形代数の基礎",
     "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
-    "likes_count": 623,
+    "likes_count": 624,
     "created_at": "2016-08-30T23:11:19+09:00",
     "updated_at": "2020-08-23T02:47:09+09:00",
     "id": "nognog"
@@ -218,7 +218,7 @@
   {
     "title": "language server protocolについて (前編)",
     "url": "https://qiita.com/atsushieno/items/ce31df9bd88e98eec5c4",
-    "likes_count": 503,
+    "likes_count": 504,
     "created_at": "2016-08-19T12:33:03+09:00",
     "updated_at": "2020-10-07T01:21:38+09:00",
     "id": "atsushieno"
@@ -314,7 +314,7 @@
   {
     "title": "Google Sheets のデータを JSON 形式で取得する Web API をサクッと作る",
     "url": "https://qiita.com/takatama/items/7aa1097aac453fff1d53",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2016-08-20T20:24:54+09:00",
     "updated_at": "2021-03-07T10:47:40+09:00",
     "id": "takatama"
@@ -376,20 +376,20 @@
     "id": "ysk24ok"
   },
   {
+    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
+    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
+    "likes_count": 352,
+    "created_at": "2016-08-30T17:27:15+09:00",
+    "updated_at": "2020-02-07T14:34:31+09:00",
+    "id": "t-a-run"
+  },
+  {
     "title": "bundler、bundle execについて　※自分用メモ",
     "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
     "likes_count": 351,
     "created_at": "2016-08-08T10:06:03+09:00",
     "updated_at": "2016-08-08T15:41:46+09:00",
     "id": "dawn_628"
-  },
-  {
-    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
-    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
-    "likes_count": 351,
-    "created_at": "2016-08-30T17:27:15+09:00",
-    "updated_at": "2020-02-07T14:34:31+09:00",
-    "id": "t-a-run"
   },
   {
     "title": "Laravelでテストコードを書くためのチュートリアル",
@@ -410,7 +410,7 @@
   {
     "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
     "url": "https://qiita.com/ryo2132/items/63ced19601b3fa30e6de",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2016-08-12T10:26:11+09:00",
     "updated_at": "2020-05-17T05:29:20+09:00",
     "id": "ryo2132"
@@ -418,7 +418,7 @@
   {
     "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
     "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 309,
+    "likes_count": 310,
     "created_at": "2016-08-04T23:10:37+09:00",
     "updated_at": "2016-08-08T12:50:34+09:00",
     "id": "mpyw"
@@ -426,7 +426,7 @@
   {
     "title": "最適化におけるPython",
     "url": "https://qiita.com/SaitoTsutomu/items/070ca9cb37c6b2b492f0",
-    "likes_count": 303,
+    "likes_count": 304,
     "created_at": "2016-08-18T17:17:48+09:00",
     "updated_at": "2021-03-30T12:39:04+09:00",
     "id": "SaitoTsutomu"
@@ -482,7 +482,7 @@
   {
     "title": "Spring Boot解説第18回(基本編：Controllerとは)",
     "url": "https://qiita.com/TEBASAKI/items/267c261db17f178e33eb",
-    "likes_count": 243,
+    "likes_count": 244,
     "created_at": "2016-08-08T10:54:54+09:00",
     "updated_at": "2017-06-22T20:01:30+09:00",
     "id": "TEBASAKI"
