@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 4739,
+    "likes_count": 4742,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 2982,
+    "likes_count": 2983,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2020-03-12T13:17:33+09:00",
     "id": "suin"
@@ -50,7 +50,7 @@
   {
     "title": "mermaid.jsが素晴らしいけどなかなか使ってる人見かけないので実例晒す(追記あり)",
     "url": "https://qiita.com/uzuki_aoba/items/a01f8b0b52ced69c8092",
-    "likes_count": 1578,
+    "likes_count": 1579,
     "created_at": "2015-05-24T01:24:10+09:00",
     "updated_at": "2017-03-13T04:13:20+09:00",
     "id": "uzuki_aoba"
@@ -186,7 +186,7 @@
   {
     "title": "gitのローカルのブランチ名を変更したい",
     "url": "https://qiita.com/suin/items/96c110b218d919168d64",
-    "likes_count": 706,
+    "likes_count": 705,
     "created_at": "2015-05-20T14:15:43+09:00",
     "updated_at": "2020-03-12T13:16:29+09:00",
     "id": "suin"
@@ -210,7 +210,7 @@
   {
     "title": "RSpecのletを使うのはどんなときか？（翻訳）",
     "url": "https://qiita.com/jnchito/items/cdd9eef2ed193267c651",
-    "likes_count": 645,
+    "likes_count": 646,
     "created_at": "2015-05-11T09:33:49+09:00",
     "updated_at": "2015-05-11T10:05:20+09:00",
     "id": "jnchito"
@@ -218,7 +218,7 @@
   {
     "title": "カーディナリティについてまとめてみた",
     "url": "https://qiita.com/soyanchu/items/034be19a2e3cb87b2efb",
-    "likes_count": 602,
+    "likes_count": 603,
     "created_at": "2015-05-12T11:48:17+09:00",
     "updated_at": "2015-05-12T11:48:17+09:00",
     "id": "soyanchu"
@@ -360,6 +360,14 @@
     "id": "kenjihiranabe"
   },
   {
+    "title": "sedコマンドの備忘録",
+    "url": "https://qiita.com/takech9203/items/b96eff5773ce9d9cc9b3",
+    "likes_count": 389,
+    "created_at": "2015-05-05T20:04:06+09:00",
+    "updated_at": "2016-05-03T09:44:34+09:00",
+    "id": "takech9203"
+  },
+  {
     "title": "AndroidStudioのPostfix Completionで爆速コーディング",
     "url": "https://qiita.com/takahirom/items/ac1d1b08351610dfcc43",
     "likes_count": 389,
@@ -374,14 +382,6 @@
     "created_at": "2015-05-30T00:18:57+09:00",
     "updated_at": "2018-06-11T10:33:53+09:00",
     "id": "kamykn"
-  },
-  {
-    "title": "sedコマンドの備忘録",
-    "url": "https://qiita.com/takech9203/items/b96eff5773ce9d9cc9b3",
-    "likes_count": 388,
-    "created_at": "2015-05-05T20:04:06+09:00",
-    "updated_at": "2016-05-03T09:44:34+09:00",
-    "id": "takech9203"
   },
   {
     "title": "SonarQubeでプログラムの品質管理をはじめる（概要）",
@@ -456,20 +456,20 @@
     "id": "rubytomato@github"
   },
   {
+    "title": "【PHP】特定の文字列を含むかのチェック",
+    "url": "https://qiita.com/kazu56/items/2c72d187438de07c2503",
+    "likes_count": 335,
+    "created_at": "2015-05-25T12:25:51+09:00",
+    "updated_at": "2015-09-15T10:10:14+09:00",
+    "id": "kazu56"
+  },
+  {
     "title": "良いプログラマとは、僕が今思っていることをまとめてみた",
     "url": "https://qiita.com/zaru/items/3da2b90b066ec69ab9e9",
     "likes_count": 334,
     "created_at": "2015-05-01T09:28:26+09:00",
     "updated_at": "2015-05-01T13:00:04+09:00",
     "id": "zaru"
-  },
-  {
-    "title": "【PHP】特定の文字列を含むかのチェック",
-    "url": "https://qiita.com/kazu56/items/2c72d187438de07c2503",
-    "likes_count": 334,
-    "created_at": "2015-05-25T12:25:51+09:00",
-    "updated_at": "2015-09-15T10:10:14+09:00",
-    "id": "kazu56"
   },
   {
     "title": "[超初心者向け]やっと納得、Unityを初めて触ると出てくるC#の何だあれの答え",
