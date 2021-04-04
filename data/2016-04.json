@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2254,
+    "likes_count": 2255,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1767,
+    "likes_count": 1769,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -90,7 +90,7 @@
   {
     "title": "[新人教育] 何も知らない人がGitとGitHubを独学で知る",
     "url": "https://qiita.com/ikenji/items/367e8344490dd37e14f0",
-    "likes_count": 1173,
+    "likes_count": 1174,
     "created_at": "2016-04-15T13:28:42+09:00",
     "updated_at": "2019-03-01T12:04:58+09:00",
     "id": "ikenji"
@@ -162,7 +162,7 @@
   {
     "title": "Promiseについて0から勉強してみた",
     "url": "https://qiita.com/toshihirock/items/e49b66f8685a8510bd76",
-    "likes_count": 789,
+    "likes_count": 790,
     "created_at": "2016-04-10T07:32:44+09:00",
     "updated_at": "2016-04-17T15:28:26+09:00",
     "id": "toshihirock"
@@ -330,7 +330,7 @@
   {
     "title": "ttyとかptsとかについて確認してみる",
     "url": "https://qiita.com/toshihirock/items/22de12f99b5c40365369",
-    "likes_count": 442,
+    "likes_count": 441,
     "created_at": "2016-04-28T22:23:17+09:00",
     "updated_at": "2016-04-28T22:23:17+09:00",
     "id": "toshihirock"
@@ -362,7 +362,7 @@
   {
     "title": "データベースさわったこと無い新人向けトランザクション入門",
     "url": "https://qiita.com/komattio/items/838ea5df68eb076e8099",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2016-04-11T06:46:24+09:00",
     "updated_at": "2016-04-11T06:54:57+09:00",
     "id": "komattio"
@@ -432,20 +432,20 @@
     "id": "horike37"
   },
   {
+    "title": "XGBoostの主な特徴と理論の概要",
+    "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
+    "likes_count": 369,
+    "created_at": "2016-04-02T21:19:46+09:00",
+    "updated_at": "2016-04-02T22:05:31+09:00",
+    "id": "yh0sh"
+  },
+  {
     "title": "変更履歴を持つテーブルの設計",
     "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
     "likes_count": 369,
     "created_at": "2016-04-05T14:44:41+09:00",
     "updated_at": "2018-02-09T12:13:08+09:00",
     "id": "ak-ymst"
-  },
-  {
-    "title": "XGBoostの主な特徴と理論の概要",
-    "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
-    "likes_count": 368,
-    "created_at": "2016-04-02T21:19:46+09:00",
-    "updated_at": "2016-04-02T22:05:31+09:00",
-    "id": "yh0sh"
   },
   {
     "title": "LINE Bot を AWSを使ってシステム構築してみた。",
@@ -602,7 +602,7 @@
   {
     "title": "font-sizeの単位をvwにしてデバイスサイズに合わせて拡縮する",
     "url": "https://qiita.com/katsunory/items/3bede89cee8e2ded8426",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2016-04-23T10:18:44+09:00",
     "updated_at": "2018-11-18T21:21:03+09:00",
     "id": "katsunory"

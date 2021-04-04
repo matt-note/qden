@@ -2,7 +2,7 @@
   {
     "title": "たぶんこれが一番分かりやすいと思います React + Redux のフロー図解",
     "url": "https://qiita.com/mpyw/items/a816c6380219b1d5a3bf",
-    "likes_count": 2676,
+    "likes_count": 2677,
     "created_at": "2017-01-06T03:28:59+09:00",
     "updated_at": "2021-01-26T19:55:10+09:00",
     "id": "mpyw"
@@ -18,7 +18,7 @@
   {
     "title": "Qiita マークダウン記法 一覧表・チートシート",
     "url": "https://qiita.com/kamorits/items/6f342da395ad57468ae3",
-    "likes_count": 1241,
+    "likes_count": 1245,
     "created_at": "2017-01-18T13:43:38+09:00",
     "updated_at": "2020-04-29T16:50:51+09:00",
     "id": "kamorits"
@@ -26,7 +26,7 @@
   {
     "title": "機械学習をゼロから1ヵ月間勉強し続けた結果",
     "url": "https://qiita.com/junichiro/items/3457e33e502086a200f1",
-    "likes_count": 1085,
+    "likes_count": 1084,
     "created_at": "2017-01-10T17:57:08+09:00",
     "updated_at": "2020-11-24T23:30:20+09:00",
     "id": "junichiro"
@@ -34,7 +34,7 @@
   {
     "title": "辛くない、英語で会話できるようになるまでのお金のかからない楽しい英語勉強法、エンジニアこそ英語",
     "url": "https://qiita.com/masalennon/items/96adc909ef0b71f85d6a",
-    "likes_count": 1081,
+    "likes_count": 1082,
     "created_at": "2017-01-17T08:40:00+09:00",
     "updated_at": "2019-11-07T23:37:33+09:00",
     "id": "masalennon"
@@ -74,7 +74,7 @@
   {
     "title": "これだけは覚えたい、ユニットテストを書くための４つのデザイン",
     "url": "https://qiita.com/koduki/items/4fde43b68fe450c6a5d8",
-    "likes_count": 874,
+    "likes_count": 875,
     "created_at": "2017-01-16T07:49:09+09:00",
     "updated_at": "2018-02-21T08:10:30+09:00",
     "id": "koduki"
@@ -266,7 +266,7 @@
   {
     "title": "はじめてのAjax(jQuery) 2018年版",
     "url": "https://qiita.com/zakiyamaaaaa/items/bdda422db2ccbaea60d9",
-    "likes_count": 443,
+    "likes_count": 442,
     "created_at": "2017-01-20T22:34:46+09:00",
     "updated_at": "2018-09-06T19:44:50+09:00",
     "id": "zakiyamaaaaa"
@@ -280,6 +280,14 @@
     "id": "kojisaiki"
   },
   {
+    "title": "Python Kivyの使い方① ～Kv Languageの基本～",
+    "url": "https://qiita.com/dario_okazaki/items/7892b24fcfa787faface",
+    "likes_count": 422,
+    "created_at": "2017-01-27T01:19:17+09:00",
+    "updated_at": "2020-03-28T19:49:22+09:00",
+    "id": "dario_okazaki"
+  },
+  {
     "title": "git rebase についてまとめてみた",
     "url": "https://qiita.com/KTakata/items/d33185fc0457c08654a5",
     "likes_count": 420,
@@ -288,17 +296,9 @@
     "id": "KTakata"
   },
   {
-    "title": "Python Kivyの使い方① ～Kv Languageの基本～",
-    "url": "https://qiita.com/dario_okazaki/items/7892b24fcfa787faface",
-    "likes_count": 420,
-    "created_at": "2017-01-27T01:19:17+09:00",
-    "updated_at": "2020-03-28T19:49:22+09:00",
-    "id": "dario_okazaki"
-  },
-  {
     "title": "機械学習で精度が出ない時にやることまとめ",
     "url": "https://qiita.com/junichiro/items/7e2842c7afba2407c49b",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2017-01-10T11:25:21+09:00",
     "updated_at": "2019-05-29T17:32:44+09:00",
     "id": "junichiro"
@@ -314,7 +314,7 @@
   {
     "title": "Windows GUIプログラミング入門1 メッセージボックス表示",
     "url": "https://qiita.com/Kosen-amai/items/f9e3df2aa80363f5af5b",
-    "likes_count": 393,
+    "likes_count": 392,
     "created_at": "2017-01-25T23:37:42+09:00",
     "updated_at": "2020-12-15T20:45:01+09:00",
     "id": "Kosen-amai"
@@ -322,7 +322,7 @@
   {
     "title": "私のCLI仕事術",
     "url": "https://qiita.com/sachaos/items/ed06f09375b2cef55dda",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2017-01-02T23:06:26+09:00",
     "updated_at": "2017-02-05T21:57:42+09:00",
     "id": "sachaos"
@@ -386,7 +386,7 @@
   {
     "title": "Goではじめてみたブラウザの自動操作",
     "url": "https://qiita.com/0829/items/c1e494bb128ade5f0872",
-    "likes_count": 330,
+    "likes_count": 329,
     "created_at": "2017-01-20T22:34:28+09:00",
     "updated_at": "2017-06-10T14:01:39+09:00",
     "id": "0829"
@@ -430,6 +430,14 @@
     "created_at": "2017-01-27T12:53:28+09:00",
     "updated_at": "2017-01-27T12:53:28+09:00",
     "id": "Morio"
+  },
+  {
+    "title": "Laravelでコマンドラインアプリケーションを作成する",
+    "url": "https://qiita.com/nenokido2000/items/abbf70c87c9ad86a2b89",
+    "likes_count": 252,
+    "created_at": "2017-01-25T19:32:57+09:00",
+    "updated_at": "2017-01-30T18:10:29+09:00",
+    "id": "nenokido2000"
   },
   {
     "title": "Laravel open source project で参考になりそうなもの",
