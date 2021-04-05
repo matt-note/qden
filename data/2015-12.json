@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2509,
+    "likes_count": 2512,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2392,
+    "likes_count": 2394,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -106,7 +106,7 @@
   {
     "title": "Ubuntuに最新のNode.jsを難なくインストールする",
     "url": "https://qiita.com/seibe/items/36cef7df85fe2cefa3ea",
-    "likes_count": 1284,
+    "likes_count": 1285,
     "created_at": "2015-12-11T01:45:30+09:00",
     "updated_at": "2019-02-10T15:24:12+09:00",
     "id": "seibe"
@@ -122,7 +122,7 @@
   {
     "title": "さいきょうの二重サブミット対策",
     "url": "https://qiita.com/syobochim/items/120109315f671918f28d",
-    "likes_count": 1197,
+    "likes_count": 1198,
     "created_at": "2015-12-23T00:06:40+09:00",
     "updated_at": "2015-12-23T11:28:45+09:00",
     "id": "syobochim"
@@ -170,7 +170,7 @@
   {
     "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発",
     "url": "https://qiita.com/nkjm/items/723990c518acfee6e473",
-    "likes_count": 983,
+    "likes_count": 984,
     "created_at": "2015-12-29T17:47:24+09:00",
     "updated_at": "2016-02-13T11:49:00+09:00",
     "id": "nkjm"
@@ -232,20 +232,20 @@
     "id": "ykyk1218"
   },
   {
+    "title": "Googleの肩に乗ってShellコーディングしちゃおう",
+    "url": "https://qiita.com/ma91n/items/5f72ca668f1c58176644",
+    "likes_count": 723,
+    "created_at": "2015-12-15T02:55:41+09:00",
+    "updated_at": "2017-12-16T19:08:09+09:00",
+    "id": "ma91n"
+  },
+  {
     "title": "Pythonエラー一覧（日本語）",
     "url": "https://qiita.com/soutarrr7/items/84e529d87aa3b3a9adcb",
     "likes_count": 723,
     "created_at": "2015-12-26T13:44:59+09:00",
     "updated_at": "2016-01-08T16:20:22+09:00",
     "id": "soutarrr7"
-  },
-  {
-    "title": "Googleの肩に乗ってShellコーディングしちゃおう",
-    "url": "https://qiita.com/ma91n/items/5f72ca668f1c58176644",
-    "likes_count": 722,
-    "created_at": "2015-12-15T02:55:41+09:00",
-    "updated_at": "2017-12-16T19:08:09+09:00",
-    "id": "ma91n"
   },
   {
     "title": "システム障害と僕達はいかにして戦えば良いのか、障害対応について考えた",
@@ -282,7 +282,7 @@
   {
     "title": "Laravelのバリデーションで指定できる内容をざっくりまとめ直しました。",
     "url": "https://qiita.com/fagai/items/9904409d3703ef6f79a2",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2015-12-18T19:22:27+09:00",
     "updated_at": "2020-09-12T20:25:40+09:00",
     "id": "fagai"
@@ -298,7 +298,7 @@
   {
     "title": "テンプレートエンジンEJSで使える便利な構文まとめ",
     "url": "https://qiita.com/y_hokkey/items/31f1daa6cecb5f4ea4c9",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2015-12-16T18:35:48+09:00",
     "updated_at": "2017-02-02T16:24:23+09:00",
     "id": "y_hokkey"
@@ -464,20 +464,20 @@
     "id": "dice-sasaki@github"
   },
   {
+    "title": "C言語を使うならMakeを使おうよ",
+    "url": "https://qiita.com/j8takagi/items/74232a00cc33623f7844",
+    "likes_count": 414,
+    "created_at": "2015-12-23T00:03:46+09:00",
+    "updated_at": "2018-07-31T15:01:01+09:00",
+    "id": "j8takagi"
+  },
+  {
     "title": "Chainerを使ってコンピュータにイラストを描かせる",
     "url": "https://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc",
     "likes_count": 413,
     "created_at": "2015-12-20T00:01:23+09:00",
     "updated_at": "2015-12-20T00:32:26+09:00",
     "id": "rezoolab"
-  },
-  {
-    "title": "C言語を使うならMakeを使おうよ",
-    "url": "https://qiita.com/j8takagi/items/74232a00cc33623f7844",
-    "likes_count": 413,
-    "created_at": "2015-12-23T00:03:46+09:00",
-    "updated_at": "2018-07-31T15:01:01+09:00",
-    "id": "j8takagi"
   },
   {
     "title": "slack の /remind 機能まとめ",

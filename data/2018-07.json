@@ -2,7 +2,7 @@
   {
     "title": "初心者プログラマが犯しがちな過ち25選",
     "url": "https://qiita.com/rana_kualu/items/379eefb3a40c6b44cb92",
-    "likes_count": 2434,
+    "likes_count": 2435,
     "created_at": "2018-07-06T21:18:51+09:00",
     "updated_at": "2020-01-06T21:50:48+09:00",
     "id": "rana_kualu"
@@ -10,7 +10,7 @@
   {
     "title": "今日からはじめるUnity",
     "url": "https://qiita.com/nmxi/items/7950fb12ef925efa276d",
-    "likes_count": 1623,
+    "likes_count": 1624,
     "created_at": "2018-07-14T20:07:16+09:00",
     "updated_at": "2020-12-24T12:37:47+09:00",
     "id": "nmxi"
@@ -26,7 +26,7 @@
   {
     "title": "【SIer新人向け】研修では教えてくれないノウハウ集",
     "url": "https://qiita.com/old-stone/items/6221824566116710453f",
-    "likes_count": 1365,
+    "likes_count": 1366,
     "created_at": "2018-07-17T00:59:02+09:00",
     "updated_at": "2019-09-19T00:12:15+09:00",
     "id": "old-stone"
@@ -58,7 +58,7 @@
   {
     "title": "10分で理解するTerraform",
     "url": "https://qiita.com/Chanmoro/items/55bf0da3aaf37dc26f73",
-    "likes_count": 1001,
+    "likes_count": 1002,
     "created_at": "2018-07-09T19:22:40+09:00",
     "updated_at": "2019-08-22T13:28:14+09:00",
     "id": "Chanmoro"
@@ -138,7 +138,7 @@
   {
     "title": "npmとyarnのコマンド早見表",
     "url": "https://qiita.com/rubytomato@github/items/1696530bb9fd59aa28d8",
-    "likes_count": 709,
+    "likes_count": 712,
     "created_at": "2018-07-02T07:03:00+09:00",
     "updated_at": "2020-07-16T23:37:10+09:00",
     "id": "rubytomato@github"
@@ -274,7 +274,7 @@
   {
     "title": "GitLabに触ってみて、GitHubと比較した",
     "url": "https://qiita.com/developer-kikikaikai/items/3fd1277a9a5778000638",
-    "likes_count": 412,
+    "likes_count": 411,
     "created_at": "2018-07-14T11:23:50+09:00",
     "updated_at": "2019-10-13T16:20:50+09:00",
     "id": "developer-kikikaikai"
@@ -400,6 +400,14 @@
     "id": "Chanmoro"
   },
   {
+    "title": "Visual Studio Code で Markdown 編集環境を整える",
+    "url": "https://qiita.com/kumapo0313/items/a59df3d74a7eaaaf3137",
+    "likes_count": 280,
+    "created_at": "2018-07-21T22:02:27+09:00",
+    "updated_at": "2020-06-21T13:33:52+09:00",
+    "id": "kumapo0313"
+  },
+  {
     "title": "Scoopを使ったWindows環境構築のススメ - Super!!",
     "url": "https://qiita.com/Dooteeen/items/12dc8fb14042888113d0",
     "likes_count": 280,
@@ -416,20 +424,20 @@
     "id": "teradonburi"
   },
   {
-    "title": "Visual Studio Code で Markdown 編集環境を整える",
-    "url": "https://qiita.com/kumapo0313/items/a59df3d74a7eaaaf3137",
-    "likes_count": 279,
-    "created_at": "2018-07-21T22:02:27+09:00",
-    "updated_at": "2020-06-21T13:33:52+09:00",
-    "id": "kumapo0313"
-  },
-  {
     "title": "nginxの設定ミスで起こる脆弱性シリーズ試してみた。",
     "url": "https://qiita.com/acidonion/items/b346053cdfdd19462ca8",
     "likes_count": 270,
     "created_at": "2018-07-23T17:05:13+09:00",
     "updated_at": "2019-06-03T15:00:00+09:00",
     "id": "acidonion"
+  },
+  {
+    "title": "Pythonでアンサンブル(スタッキング)学習 & 機械学習チュートリアル in Kaggle",
+    "url": "https://qiita.com/hkthirano/items/2c35a81fbc95f0e4b7c1",
+    "likes_count": 266,
+    "created_at": "2018-07-31T12:28:25+09:00",
+    "updated_at": "2020-08-27T00:07:45+09:00",
+    "id": "hkthirano"
   },
   {
     "title": "SpringBoot+Vue.js+ElementUI+Firebaseでマスタ管理アプリ入門",

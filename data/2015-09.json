@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 8933,
+    "likes_count": 8936,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2020-12-31T00:39:46+09:00",
     "id": "Ted-HM"
@@ -18,7 +18,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 2074,
+    "likes_count": 2075,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2020-06-02T11:35:16+09:00",
     "id": "suthio"
@@ -58,7 +58,7 @@
   {
     "title": "Webアプリケーション開発者から見た、MVCとMVP、そしてMVVMの違い",
     "url": "https://qiita.com/shinkuFencer/items/f2651073fb71416b6cd7",
-    "likes_count": 1597,
+    "likes_count": 1598,
     "created_at": "2015-09-14T15:10:08+09:00",
     "updated_at": "2017-10-03T12:36:12+09:00",
     "id": "shinkuFencer"
@@ -66,7 +66,7 @@
   {
     "title": "トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた",
     "url": "https://qiita.com/uasi/items/cfb60588daa18c2ec6f5",
-    "likes_count": 1592,
+    "likes_count": 1594,
     "created_at": "2015-09-25T19:18:30+09:00",
     "updated_at": "2019-05-08T21:41:02+09:00",
     "id": "uasi"
@@ -74,7 +74,7 @@
   {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1584,
+    "likes_count": 1587,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2021-03-28T03:45:48+09:00",
     "id": "soarflat"
@@ -106,7 +106,7 @@
   {
     "title": "ローディング時のズルい進捗表示",
     "url": "https://qiita.com/mono0926/items/ead7c576170277a5e83d",
-    "likes_count": 1375,
+    "likes_count": 1376,
     "created_at": "2015-09-19T09:53:49+09:00",
     "updated_at": "2015-09-19T18:35:28+09:00",
     "id": "mono0926"
@@ -122,7 +122,7 @@
   {
     "title": "PATHを通すとは？ (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
-    "likes_count": 1235,
+    "likes_count": 1237,
     "created_at": "2015-09-16T00:08:22+09:00",
     "updated_at": "2021-03-28T03:45:58+09:00",
     "id": "soarflat"
@@ -138,7 +138,7 @@
   {
     "title": "JavaScriptの「&&」「||」について盛大に勘違いをしていた件",
     "url": "https://qiita.com/Imamotty/items/bc659569239379dded55",
-    "likes_count": 1189,
+    "likes_count": 1190,
     "created_at": "2015-09-12T01:28:15+09:00",
     "updated_at": "2015-09-12T08:07:39+09:00",
     "id": "Imamotty"
@@ -146,7 +146,7 @@
   {
     "title": "Kotlin スコープ関数 用途まとめ",
     "url": "https://qiita.com/ngsw_taro/items/d29e3080d9fc8a38691e",
-    "likes_count": 906,
+    "likes_count": 907,
     "created_at": "2015-09-29T13:03:50+09:00",
     "updated_at": "2018-05-16T09:13:43+09:00",
     "id": "ngsw_taro"
@@ -154,10 +154,18 @@
   {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
-    "likes_count": 899,
+    "likes_count": 900,
     "created_at": "2015-09-24T01:06:14+09:00",
     "updated_at": "2021-04-01T02:45:44+09:00",
     "id": "nightyknite"
+  },
+  {
+    "title": "Macのターミナルコマンド一覧（基本編）",
+    "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
+    "likes_count": 888,
+    "created_at": "2015-09-20T00:26:30+09:00",
+    "updated_at": "2019-02-03T11:37:52+09:00",
+    "id": "ryouzi"
   },
   {
     "title": "Windowsで使えるターミナルとシェルのまとめ",
@@ -166,14 +174,6 @@
     "created_at": "2015-09-22T21:51:07+09:00",
     "updated_at": "2019-09-25T23:22:06+09:00",
     "id": "Ted-HM"
-  },
-  {
-    "title": "Macのターミナルコマンド一覧（基本編）",
-    "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 886,
-    "created_at": "2015-09-20T00:26:30+09:00",
-    "updated_at": "2019-02-03T11:37:52+09:00",
-    "id": "ryouzi"
   },
   {
     "title": "React component ライフサイクル図",
@@ -186,7 +186,7 @@
   {
     "title": "MySQLでインデックスを貼る時に読みたいページまとめ(初心者向け）",
     "url": "https://qiita.com/C058/items/1c9c57f634ebf54d99bb",
-    "likes_count": 812,
+    "likes_count": 813,
     "created_at": "2015-09-17T19:53:38+09:00",
     "updated_at": "2018-03-16T12:53:39+09:00",
     "id": "C058"
@@ -218,7 +218,7 @@
   {
     "title": "RESTful API設計におけるHTTPステータスコードの指針",
     "url": "https://qiita.com/uenosy/items/ba9dbc70781bddc4a491",
-    "likes_count": 732,
+    "likes_count": 733,
     "created_at": "2015-09-14T16:36:59+09:00",
     "updated_at": "2015-09-14T16:36:59+09:00",
     "id": "uenosy"
@@ -338,7 +338,7 @@
   {
     "title": "Docker ハンズオン - 基本コマンド編",
     "url": "https://qiita.com/hihihiroro/items/6dda871dc2566801a6da",
-    "likes_count": 442,
+    "likes_count": 443,
     "created_at": "2015-09-15T06:34:29+09:00",
     "updated_at": "2018-03-06T15:06:48+09:00",
     "id": "hihihiroro"
