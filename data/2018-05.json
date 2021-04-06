@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4970,
+    "likes_count": 4973,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4654,
+    "likes_count": 4653,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -26,7 +26,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2557,
+    "likes_count": 2560,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2347,
+    "likes_count": 2348,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2020-07-25T13:47:36+09:00",
     "id": "tani_AI_Academy"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1580,
+    "likes_count": 1581,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1524,
+    "likes_count": 1525,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -122,7 +122,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 856,
+    "likes_count": 857,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -162,7 +162,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 685,
+    "likes_count": 686,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -186,10 +186,18 @@
   {
     "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
     "url": "https://qiita.com/kamesennin/items/89d479112554a6f9d038",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2018-05-01T18:10:35+09:00",
     "updated_at": "2018-05-08T10:35:38+09:00",
     "id": "kamesennin"
+  },
+  {
+    "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
+    "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
+    "likes_count": 654,
+    "created_at": "2018-05-28T08:39:07+09:00",
+    "updated_at": "2020-11-30T00:02:40+09:00",
+    "id": "drken"
   },
   {
     "title": "特集！知らないと損をする計算量の話",
@@ -197,14 +205,6 @@
     "likes_count": 652,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
-    "id": "drken"
-  },
-  {
-    "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
-    "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 652,
-    "created_at": "2018-05-28T08:39:07+09:00",
-    "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
   },
   {
@@ -314,7 +314,7 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 534,
+    "likes_count": 535,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
@@ -330,7 +330,7 @@
   {
     "title": "5000人に聞いた、2018年最先端のフロントエンド開発者が使ってるツールはこれだ",
     "url": "https://qiita.com/rana_kualu/items/8dc3f93a7176d9a0f05d",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2018-05-11T20:17:44+09:00",
     "updated_at": "2019-04-28T09:01:57+09:00",
     "id": "rana_kualu"
@@ -360,20 +360,20 @@
     "id": "kgsi"
   },
   {
+    "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
+    "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
+    "likes_count": 479,
+    "created_at": "2018-05-25T08:20:43+09:00",
+    "updated_at": "2018-05-25T20:59:22+09:00",
+    "id": "sta"
+  },
+  {
     "title": "名前、電話番号、メールアドレス、郵便番号等の最適なmaxlengthはいくつか調べてみた",
     "url": "https://qiita.com/kyogom/items/49fe51044d57e3b19929",
     "likes_count": 478,
     "created_at": "2018-05-05T20:18:38+09:00",
     "updated_at": "2019-01-17T07:57:16+09:00",
     "id": "kyogom"
-  },
-  {
-    "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
-    "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 477,
-    "created_at": "2018-05-25T08:20:43+09:00",
-    "updated_at": "2018-05-25T20:59:22+09:00",
-    "id": "sta"
   },
   {
     "title": "2018年Vue.jsを使ってる人には知って欲しいオブジェクトと配列の操作のベストプラクティス",
@@ -392,20 +392,20 @@
     "id": "sugaryo"
   },
   {
+    "title": "ドット絵ゲームをunityで作るときに押さえておきたいポイント",
+    "url": "https://qiita.com/pixelflag/items/ad817bdd64931e084a46",
+    "likes_count": 426,
+    "created_at": "2018-05-06T13:21:05+09:00",
+    "updated_at": "2020-05-12T18:19:49+09:00",
+    "id": "pixelflag"
+  },
+  {
     "title": "Android Architecture Components 初級 （ MVVM + LiveData + Coroutines 編 ）",
     "url": "https://qiita.com/Tsutou/items/69a28ebbd69b69e51703",
     "likes_count": 426,
     "created_at": "2018-05-30T13:52:14+09:00",
     "updated_at": "2020-07-17T00:02:52+09:00",
     "id": "Tsutou"
-  },
-  {
-    "title": "ドット絵ゲームをunityで作るときに押さえておきたいポイント",
-    "url": "https://qiita.com/pixelflag/items/ad817bdd64931e084a46",
-    "likes_count": 425,
-    "created_at": "2018-05-06T13:21:05+09:00",
-    "updated_at": "2020-05-12T18:19:49+09:00",
-    "id": "pixelflag"
   },
   {
     "title": "FizzBuzz Zero ―― 人類の知識なしでFizzBuzzをマスターする",
@@ -440,20 +440,20 @@
     "id": "hirodragon"
   },
   {
+    "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
+    "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
+    "likes_count": 381,
+    "created_at": "2018-05-21T00:02:30+09:00",
+    "updated_at": "2018-12-13T21:47:28+09:00",
+    "id": "shtnkgm"
+  },
+  {
     "title": "外部キー制約について",
     "url": "https://qiita.com/SLEAZOIDS/items/d6fb9c2d131c3fdd1387",
     "likes_count": 380,
     "created_at": "2018-05-12T22:58:19+09:00",
     "updated_at": "2019-06-04T15:42:01+09:00",
     "id": "SLEAZOIDS"
-  },
-  {
-    "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
-    "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
-    "likes_count": 380,
-    "created_at": "2018-05-21T00:02:30+09:00",
-    "updated_at": "2018-12-13T21:47:28+09:00",
-    "id": "shtnkgm"
   },
   {
     "title": "コンパイルエラーやランタイムエラーを直していくだけでiOSアプリの作り方がわかるプロジェクト",
@@ -474,7 +474,7 @@
   {
     "title": "知識0から統計検定2級取得を目指した話",
     "url": "https://qiita.com/akiyoshi_sasaki/items/8e4d7895f2647e22b5f9",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2018-05-11T11:45:56+09:00",
     "updated_at": "2020-04-17T11:40:05+09:00",
     "id": "akiyoshi_sasaki"
@@ -522,7 +522,7 @@
   {
     "title": "2018年Vue.jsとVuexを使ってる人には知って欲しいFluxデザインパターンとViewModelとの組み合わせ",
     "url": "https://qiita.com/kahirokunn/items/f764302db290a504cc19",
-    "likes_count": 291,
+    "likes_count": 292,
     "created_at": "2018-06-01T04:28:23+09:00",
     "updated_at": "2020-08-26T10:24:27+09:00",
     "id": "kahirokunn"

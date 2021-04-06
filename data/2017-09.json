@@ -2,7 +2,7 @@
   {
     "title": "プロジェクトの残業を50%削減したタスク管理手法を惜しみなく公開する",
     "url": "https://qiita.com/0w0/items/0b287be30af6539ac5e9",
-    "likes_count": 1702,
+    "likes_count": 1703,
     "created_at": "2017-09-10T21:46:15+09:00",
     "updated_at": "2018-08-07T18:36:23+09:00",
     "id": "0w0"
@@ -10,7 +10,7 @@
   {
     "title": "典型的な DP (動的計画法) のパターンを整理 Part 1 ～ ナップサック DP 編 ～",
     "url": "https://qiita.com/drken/items/a5e6fe22863b7992efdb",
-    "likes_count": 1662,
+    "likes_count": 1665,
     "created_at": "2017-09-01T18:12:03+09:00",
     "updated_at": "2020-12-20T17:47:27+09:00",
     "id": "drken"
@@ -18,7 +18,7 @@
   {
     "title": "ディープラーニングの判断根拠を理解する手法",
     "url": "https://qiita.com/icoxfog417/items/8689f943fd1225e24358",
-    "likes_count": 1638,
+    "likes_count": 1639,
     "created_at": "2017-09-06T11:25:01+09:00",
     "updated_at": "2018-03-09T13:59:57+09:00",
     "id": "icoxfog417"
@@ -42,7 +42,7 @@
   {
     "title": "良いエラーメッセージの書き方",
     "url": "https://qiita.com/castaneai/items/da6baec750370689e2fa",
-    "likes_count": 841,
+    "likes_count": 842,
     "created_at": "2017-10-01T02:20:20+09:00",
     "updated_at": "2017-10-16T11:18:13+09:00",
     "id": "castaneai"
@@ -66,7 +66,7 @@
   {
     "title": "いい加減覚えよう。 `command > /dev/null 2>&1`の意味",
     "url": "https://qiita.com/ritukiii/items/b3d91e97b71ecd41d4ea",
-    "likes_count": 820,
+    "likes_count": 821,
     "created_at": "2017-09-06T22:55:16+09:00",
     "updated_at": "2018-11-09T10:28:16+09:00",
     "id": "ritukiii"
@@ -74,7 +74,7 @@
   {
     "title": "【JavaScript】スプレッド構文の便利な使い方まとめ",
     "url": "https://qiita.com/Nossa/items/e6f503cbb95c8e6967f8",
-    "likes_count": 777,
+    "likes_count": 778,
     "created_at": "2017-09-09T15:32:13+09:00",
     "updated_at": "2019-07-02T19:19:14+09:00",
     "id": "Nossa"
@@ -162,7 +162,7 @@
   {
     "title": "【Mac】隠しファイル・隠しフォルダを表示する方法",
     "url": "https://qiita.com/TsukasaHasegawa/items/fa8e783a556dc1a08f51",
-    "likes_count": 560,
+    "likes_count": 559,
     "created_at": "2017-09-03T01:41:17+09:00",
     "updated_at": "2017-09-03T01:42:38+09:00",
     "id": "TsukasaHasegawa"
@@ -170,7 +170,7 @@
   {
     "title": "OSSのライセンスを理解する（「使用」と「利用」の違い、知っていますか？）",
     "url": "https://qiita.com/bremen/items/c5aa9446e73aa4bc1de0",
-    "likes_count": 538,
+    "likes_count": 539,
     "created_at": "2017-09-19T18:15:13+09:00",
     "updated_at": "2018-05-07T19:35:42+09:00",
     "id": "bremen"
@@ -226,18 +226,10 @@
   {
     "title": "初心者向け：Zshの導入",
     "url": "https://qiita.com/iwaseasahi/items/a2b00b65ebd06785b443",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2017-09-02T12:56:38+09:00",
     "updated_at": "2021-01-23T10:24:13+09:00",
     "id": "iwaseasahi"
-  },
-  {
-    "title": "matplotlib基礎 | figureやaxesでのグラフのレイアウト",
-    "url": "https://qiita.com/suzukiry/items/90167693f142ebb55a7d",
-    "likes_count": 435,
-    "created_at": "2017-09-24T23:09:18+09:00",
-    "updated_at": "2018-01-01T19:36:56+09:00",
-    "id": "suzukiry"
   },
   {
     "title": "無駄な会議・ミーティングなくし、生産性を上げるためにやるべき26（＋1）のこと",
@@ -246,6 +238,14 @@
     "created_at": "2017-09-30T16:48:01+09:00",
     "updated_at": "2019-12-04T22:05:19+09:00",
     "id": "Akira-Isegawa"
+  },
+  {
+    "title": "matplotlib基礎 | figureやaxesでのグラフのレイアウト",
+    "url": "https://qiita.com/suzukiry/items/90167693f142ebb55a7d",
+    "likes_count": 434,
+    "created_at": "2017-09-24T23:09:18+09:00",
+    "updated_at": "2018-01-01T19:36:56+09:00",
+    "id": "suzukiry"
   },
   {
     "title": "くそったれJavaScript",
@@ -386,7 +386,7 @@
   {
     "title": "【オマケ記事】超短期型タスク管理をカバーする！ステキな中長期計画法",
     "url": "https://qiita.com/0w0/items/f2aafd0d9a5fa95f7c24",
-    "likes_count": 237,
+    "likes_count": 238,
     "created_at": "2017-09-18T20:16:40+09:00",
     "updated_at": "2018-09-30T10:46:55+09:00",
     "id": "0w0"
