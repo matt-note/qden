@@ -10,7 +10,7 @@
   {
     "title": "新人にドヤ顔で説明できるか、今風フロントエンド開発ハンズオン(Git/Node.js/ES6/webpack4/Babel7)",
     "url": "https://qiita.com/riversun/items/29d5264480dd06c7b9fb",
-    "likes_count": 1886,
+    "likes_count": 1887,
     "created_at": "2018-11-12T08:21:10+09:00",
     "updated_at": "2020-12-18T17:26:37+09:00",
     "id": "riversun"
@@ -42,7 +42,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1422,
+    "likes_count": 1423,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2020-02-05T14:53:08+09:00",
     "id": "elipmoc101"
@@ -240,20 +240,20 @@
     "id": "asmsuechan"
   },
   {
+    "title": "よく使うcurlコマンドのオプション",
+    "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
+    "likes_count": 540,
+    "created_at": "2018-11-27T19:55:10+09:00",
+    "updated_at": "2019-12-29T23:17:28+09:00",
+    "id": "ryuichi1208"
+  },
+  {
     "title": "HTTP/3が出るらしいという話を雑に書く",
     "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
     "likes_count": 538,
     "created_at": "2018-11-14T10:02:01+09:00",
     "updated_at": "2019-10-24T10:50:25+09:00",
     "id": "inductor"
-  },
-  {
-    "title": "よく使うcurlコマンドのオプション",
-    "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 538,
-    "created_at": "2018-11-27T19:55:10+09:00",
-    "updated_at": "2019-12-29T23:17:28+09:00",
-    "id": "ryuichi1208"
   },
   {
     "title": "【厳選】Python実務データ分析でよく使う手法（分析手法編）",
@@ -328,6 +328,14 @@
     "id": "j5ik2o"
   },
   {
+    "title": "RedisとElastiCacheを分かりやすくまとめてみた",
+    "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
+    "likes_count": 453,
+    "created_at": "2018-11-19T09:00:44+09:00",
+    "updated_at": "2019-11-21T15:42:12+09:00",
+    "id": "gold-kou"
+  },
+  {
     "title": "「ＡＩで〇〇したいんだけど」の相談前に確認してほしい３つのこと",
     "url": "https://qiita.com/yoshizaki_91/items/4448ff4a7e40ede0f4cd",
     "likes_count": 453,
@@ -336,17 +344,9 @@
     "id": "yoshizaki_91"
   },
   {
-    "title": "RedisとElastiCacheを分かりやすくまとめてみた",
-    "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
-    "likes_count": 452,
-    "created_at": "2018-11-19T09:00:44+09:00",
-    "updated_at": "2019-11-21T15:42:12+09:00",
-    "id": "gold-kou"
-  },
-  {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 451,
+    "likes_count": 452,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -370,7 +370,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 439,
+    "likes_count": 440,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -418,7 +418,7 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
@@ -474,7 +474,7 @@
   {
     "title": "Webアプリ初心者がGo言語でサーバサイド（1. 簡単なHTTPサーバの実装）",
     "url": "https://qiita.com/wsuzume/items/75d5c0cd2dd5a1963b9e",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2018-11-06T00:29:50+09:00",
     "updated_at": "2018-11-06T01:08:22+09:00",
     "id": "wsuzume"

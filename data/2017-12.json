@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2015,
+    "likes_count": 2018,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -50,7 +50,7 @@
   {
     "title": "ｶﾀｶﾀｶﾀｯﾀｰﾝを可視化した",
     "url": "https://qiita.com/ampersand/items/3ef94ebe9cba8c07a157",
-    "likes_count": 1152,
+    "likes_count": 1153,
     "created_at": "2017-12-20T18:16:00+09:00",
     "updated_at": "2017-12-27T11:37:39+09:00",
     "id": "ampersand"
@@ -74,7 +74,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1117,
+    "likes_count": 1118,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -178,7 +178,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 794,
+    "likes_count": 795,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -192,20 +192,20 @@
     "id": "saboyutaka"
   },
   {
+    "title": "仮想通貨自動取引入門",
+    "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
+    "likes_count": 759,
+    "created_at": "2017-12-17T11:54:43+09:00",
+    "updated_at": "2018-08-23T10:49:03+09:00",
+    "id": "shionhonda"
+  },
+  {
     "title": "半年で40kg痩せた！ダイエットでわかるリーンなプロジェクトマネジメント手法",
     "url": "https://qiita.com/hirokidaichi/items/9422841b5972b3a5664c",
     "likes_count": 759,
     "created_at": "2017-12-24T23:36:26+09:00",
     "updated_at": "2017-12-25T16:04:16+09:00",
     "id": "hirokidaichi"
-  },
-  {
-    "title": "仮想通貨自動取引入門",
-    "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
-    "likes_count": 758,
-    "created_at": "2017-12-17T11:54:43+09:00",
-    "updated_at": "2018-08-23T10:49:03+09:00",
-    "id": "shionhonda"
   },
   {
     "title": "勉強会聴講：「エンジニアとしてこの先生きのこるために」",
@@ -226,7 +226,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 722,
+    "likes_count": 723,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -330,7 +330,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -370,7 +370,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 522,
+    "likes_count": 523,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -386,7 +386,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -394,7 +394,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 508,
+    "likes_count": 510,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -650,7 +650,7 @@
   {
     "title": "WebRTCでビデオチャットアプリを作ってみた！",
     "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
-    "likes_count": 338,
+    "likes_count": 339,
     "created_at": "2017-12-21T21:30:58+09:00",
     "updated_at": "2019-01-06T14:01:57+09:00",
     "id": "lighthouse"
@@ -738,7 +738,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 297,
+    "likes_count": 299,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
