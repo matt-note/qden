@@ -82,7 +82,7 @@
   {
     "title": ".bash_profile ? .bashrc ? いろいろあるけどこいつらなにもの？",
     "url": "https://qiita.com/hirokishirai/items/5a529c8395c4b336bf31",
-    "likes_count": 861,
+    "likes_count": 862,
     "created_at": "2014-02-17T05:02:00+09:00",
     "updated_at": "2017-07-14T17:38:00+09:00",
     "id": "hirokishirai"
@@ -90,7 +90,7 @@
   {
     "title": "SSH接続エラー回避方法：.ssh/known_hostsから特定のホストを削除する/削除しないで対処する3つの方法",
     "url": "https://qiita.com/grgrjnjn/items/8ca33b64ea0406e12938",
-    "likes_count": 854,
+    "likes_count": 855,
     "created_at": "2014-02-28T19:28:51+09:00",
     "updated_at": "2020-01-24T21:28:53+09:00",
     "id": "grgrjnjn"
@@ -106,7 +106,7 @@
   {
     "title": "経験ゼロでもできるプログラミング現場の単体テスト",
     "url": "https://qiita.com/disc99/items/177bdf6352de463fdc87",
-    "likes_count": 829,
+    "likes_count": 830,
     "created_at": "2014-02-20T02:46:19+09:00",
     "updated_at": "2016-11-03T15:32:27+09:00",
     "id": "disc99"
@@ -162,7 +162,7 @@
   {
     "title": "今さら聞けない Activity と Fragment の使い分け",
     "url": "https://qiita.com/KeithYokoma/items/c41b22bda8c8d924d8cd",
-    "likes_count": 619,
+    "likes_count": 620,
     "created_at": "2014-02-16T20:52:45+09:00",
     "updated_at": "2014-02-16T20:52:45+09:00",
     "id": "KeithYokoma"
@@ -186,7 +186,7 @@
   {
     "title": "やさしい設計 〜 Android 編",
     "url": "https://qiita.com/KeithYokoma/items/f19a732aad3beff9387c",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2014-02-05T19:22:05+09:00",
     "updated_at": "2014-02-05T19:41:53+09:00",
     "id": "KeithYokoma"
@@ -248,6 +248,14 @@
     "id": "opengl-8080"
   },
   {
+    "title": "駅とか路線のマスターデータの入手方法",
+    "url": "https://qiita.com/kou/items/e0d3fab106e4c52a7f26",
+    "likes_count": 444,
+    "created_at": "2014-02-14T15:06:21+09:00",
+    "updated_at": "2014-11-26T20:42:45+09:00",
+    "id": "kou"
+  },
+  {
     "title": "個人的に参考にしているvimrc",
     "url": "https://qiita.com/knt45/items/ea2823361bfd29c25937",
     "likes_count": 444,
@@ -256,17 +264,9 @@
     "id": "knt45"
   },
   {
-    "title": "駅とか路線のマスターデータの入手方法",
-    "url": "https://qiita.com/kou/items/e0d3fab106e4c52a7f26",
-    "likes_count": 443,
-    "created_at": "2014-02-14T15:06:21+09:00",
-    "updated_at": "2014-11-26T20:42:45+09:00",
-    "id": "kou"
-  },
-  {
     "title": "シンボリックリンクの作成と削除",
     "url": "https://qiita.com/colorrabbit/items/2e99304bd92201261c60",
-    "likes_count": 431,
+    "likes_count": 432,
     "created_at": "2014-02-05T16:31:29+09:00",
     "updated_at": "2014-02-05T18:10:07+09:00",
     "id": "colorrabbit"

@@ -2,7 +2,7 @@
   {
     "title": "脱初心者を目指すなら知っておきたい便利なVimコマンド25選 (Vimmerレベル診断付き)",
     "url": "https://qiita.com/jnchito/items/57ffda5712636a9a1e62",
-    "likes_count": 2975,
+    "likes_count": 2977,
     "created_at": "2014-06-12T07:19:13+09:00",
     "updated_at": "2016-06-30T07:31:58+09:00",
     "id": "jnchito"
@@ -58,7 +58,7 @@
   {
     "title": "WindowsのあのフォルダはUNIX/Linuxで言えばあそこだ",
     "url": "https://qiita.com/yuba/items/669f718fe6e62dbaab19",
-    "likes_count": 1212,
+    "likes_count": 1214,
     "created_at": "2014-06-14T00:05:06+09:00",
     "updated_at": "2021-03-19T10:37:07+09:00",
     "id": "yuba"
@@ -154,7 +154,7 @@
   {
     "title": "あとからまとめて.gitignoreする方法",
     "url": "https://qiita.com/yuuAn/items/b1d1df2e810fd6b92574",
-    "likes_count": 642,
+    "likes_count": 643,
     "created_at": "2014-06-20T14:49:25+09:00",
     "updated_at": "2014-10-10T01:42:08+09:00",
     "id": "yuuAn"
@@ -186,7 +186,7 @@
   {
     "title": "【jQuery】フォーム部品の取得・設定まとめ",
     "url": "https://qiita.com/kazu56/items/36b025dac5802b76715c",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2014-06-29T22:51:39+09:00",
     "updated_at": "2015-06-12T15:27:29+09:00",
     "id": "kazu56"
@@ -194,7 +194,7 @@
   {
     "title": "zshの設定ファイルの読み込み順序と使い方Tipsまとめ",
     "url": "https://qiita.com/muran001/items/7b104d33f5ea3f75353f",
-    "likes_count": 582,
+    "likes_count": 583,
     "created_at": "2014-06-28T12:54:45+09:00",
     "updated_at": "2014-06-28T12:55:26+09:00",
     "id": "muran001"
@@ -226,7 +226,7 @@
   {
     "title": "composer 導入をまじめに考える",
     "url": "https://qiita.com/notona/items/c5a087d8dd446d315e6e",
-    "likes_count": 522,
+    "likes_count": 523,
     "created_at": "2014-06-02T02:11:09+09:00",
     "updated_at": "2014-11-29T19:30:38+09:00",
     "id": "notona"
@@ -464,6 +464,14 @@
     "id": "koher"
   },
   {
+    "title": "リモートにプッシュしたコミットを取り消す",
+    "url": "https://qiita.com/kkyouhei/items/f7588566cba0364ea832",
+    "likes_count": 306,
+    "created_at": "2014-06-16T13:08:33+09:00",
+    "updated_at": "2014-06-16T13:08:33+09:00",
+    "id": "kkyouhei"
+  },
+  {
     "title": "後でSwiftをはじめようと思っている人の為のブックマーク",
     "url": "https://qiita.com/morozumi_h/items/3dcef268d6861ab8bb89",
     "likes_count": 305,
@@ -478,14 +486,6 @@
     "created_at": "2014-06-09T18:47:02+09:00",
     "updated_at": "2014-06-09T18:47:02+09:00",
     "id": "fmtonakai"
-  },
-  {
-    "title": "リモートにプッシュしたコミットを取り消す",
-    "url": "https://qiita.com/kkyouhei/items/f7588566cba0364ea832",
-    "likes_count": 305,
-    "created_at": "2014-06-16T13:08:33+09:00",
-    "updated_at": "2014-06-16T13:08:33+09:00",
-    "id": "kkyouhei"
   },
   {
     "title": "Ruby | アノテーションコメント（TODO、FIXME、OPTIMIZE、HACK、REVIEW）",
@@ -538,7 +538,7 @@
   {
     "title": "UnityのRigidbodyとColliderで衝突判定",
     "url": "https://qiita.com/yando/items/0cd2daaf1314c0674bbe",
-    "likes_count": 259,
+    "likes_count": 260,
     "created_at": "2014-06-07T22:01:52+09:00",
     "updated_at": "2016-12-27T21:49:14+09:00",
     "id": "yando"

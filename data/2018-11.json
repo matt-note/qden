@@ -42,7 +42,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1423,
+    "likes_count": 1425,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2020-02-05T14:53:08+09:00",
     "id": "elipmoc101"
@@ -114,7 +114,7 @@
   {
     "title": "【保存版・初心者向け】Python 目的別チュートリアル",
     "url": "https://qiita.com/tani_AI_Academy/items/3edc5effeb386ae3caa9",
-    "likes_count": 1005,
+    "likes_count": 1006,
     "created_at": "2018-11-12T11:51:01+09:00",
     "updated_at": "2020-03-15T19:44:41+09:00",
     "id": "tani_AI_Academy"
@@ -226,7 +226,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 611,
+    "likes_count": 613,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -250,7 +250,7 @@
   {
     "title": "HTTP/3が出るらしいという話を雑に書く",
     "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
-    "likes_count": 538,
+    "likes_count": 539,
     "created_at": "2018-11-14T10:02:01+09:00",
     "updated_at": "2019-10-24T10:50:25+09:00",
     "id": "inductor"
@@ -266,7 +266,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 504,
+    "likes_count": 506,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -344,6 +344,14 @@
     "id": "yoshizaki_91"
   },
   {
+    "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
+    "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
+    "likes_count": 452,
+    "created_at": "2018-11-18T19:13:03+09:00",
+    "updated_at": "2019-10-05T07:32:56+09:00",
+    "id": "kd9951"
+  },
+  {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
     "likes_count": 452,
@@ -352,17 +360,9 @@
     "id": "nishina555"
   },
   {
-    "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
-    "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 450,
-    "created_at": "2018-11-18T19:13:03+09:00",
-    "updated_at": "2019-10-05T07:32:56+09:00",
-    "id": "kd9951"
-  },
-  {
     "title": "【ファッション×テック】おしゃれ判定アプリを開発した",
     "url": "https://qiita.com/NakaokaRei/items/595fcb21ff10b84919ab",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2018-11-20T20:20:12+09:00",
     "updated_at": "2019-11-26T18:24:08+09:00",
     "id": "NakaokaRei"
@@ -376,20 +376,20 @@
     "id": "grrrr"
   },
   {
+    "title": "統計検定２級に楽に合格する方法",
+    "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
+    "likes_count": 407,
+    "created_at": "2018-11-28T12:58:31+09:00",
+    "updated_at": "2018-11-28T13:29:26+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "2019年版: 脱Babel!フロント/JS開発をTypeScriptに移行するための環境整備マニュアル",
     "url": "https://qiita.com/shibukawa/items/0a1aaf689d5183c6e0f1",
     "likes_count": 404,
     "created_at": "2018-12-01T00:01:37+09:00",
     "updated_at": "2020-07-26T12:05:56+09:00",
     "id": "shibukawa"
-  },
-  {
-    "title": "統計検定２級に楽に合格する方法",
-    "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 398,
-    "created_at": "2018-11-28T12:58:31+09:00",
-    "updated_at": "2018-11-28T13:29:26+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
@@ -498,7 +498,7 @@
   {
     "title": "VS Code コーディング規約を快適に守る",
     "url": "https://qiita.com/firedfly/items/00c34018581c6cec9b84",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2018-11-29T12:07:09+09:00",
     "updated_at": "2019-09-30T16:54:37+09:00",
     "id": "firedfly"
@@ -514,7 +514,7 @@
   {
     "title": "現状においてC#のベースを完全に理解できる本のすゝめ",
     "url": "https://qiita.com/4_mio_11/items/8cf866d2243c90e341cb",
-    "likes_count": 265,
+    "likes_count": 266,
     "created_at": "2018-11-28T02:55:53+09:00",
     "updated_at": "2018-12-22T03:11:25+09:00",
     "id": "4_mio_11"

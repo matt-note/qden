@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 3908,
+    "likes_count": 3910,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -66,7 +66,7 @@
   {
     "title": "初心者がAWSでミスって不正利用されて$6,000請求、泣きそうになったお話。",
     "url": "https://qiita.com/mochizukikotaro/items/a0e98ff0063a77e7b694",
-    "likes_count": 1539,
+    "likes_count": 1540,
     "created_at": "2015-12-24T01:00:41+09:00",
     "updated_at": "2015-12-25T12:40:23+09:00",
     "id": "mochizukikotaro"
@@ -74,7 +74,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1519,
+    "likes_count": 1520,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -170,7 +170,7 @@
   {
     "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発",
     "url": "https://qiita.com/nkjm/items/723990c518acfee6e473",
-    "likes_count": 986,
+    "likes_count": 987,
     "created_at": "2015-12-29T17:47:24+09:00",
     "updated_at": "2016-02-13T11:49:00+09:00",
     "id": "nkjm"
@@ -194,7 +194,7 @@
   {
     "title": "あるエンジニアの緩慢な死、あるいはエンジニア35歳定年説。",
     "url": "https://qiita.com/shinichinomura/items/da9d53f8e3f31df96e7a",
-    "likes_count": 842,
+    "likes_count": 843,
     "created_at": "2015-12-21T22:44:57+09:00",
     "updated_at": "2015-12-22T20:15:15+09:00",
     "id": "shinichinomura"
@@ -226,7 +226,7 @@
   {
     "title": "自分のvimでやってきたことのまとめ",
     "url": "https://qiita.com/ykyk1218/items/ab1c89c4eb6a2f90333a",
-    "likes_count": 778,
+    "likes_count": 779,
     "created_at": "2015-12-11T00:00:43+09:00",
     "updated_at": "2018-08-19T14:32:08+09:00",
     "id": "ykyk1218"
@@ -290,7 +290,7 @@
   {
     "title": "クラウド破産しないように git-secrets を使う",
     "url": "https://qiita.com/pottava/items/4c602c97aacf10c058f1",
-    "likes_count": 603,
+    "likes_count": 604,
     "created_at": "2015-12-24T14:55:53+09:00",
     "updated_at": "2016-01-04T16:13:49+09:00",
     "id": "pottava"
@@ -362,10 +362,18 @@
   {
     "title": "気をつけて！Git for Windowsにおける改行コード",
     "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2015-12-25T23:01:51+09:00",
     "updated_at": "2018-12-11T08:34:12+09:00",
     "id": "uggds"
+  },
+  {
+    "title": "Qiitaのマークダウンで色をつける方法[140色]",
+    "url": "https://qiita.com/twipg/items/d8043cd4681a2780c160",
+    "likes_count": 465,
+    "created_at": "2015-12-22T19:51:13+09:00",
+    "updated_at": "2016-11-12T12:13:16+09:00",
+    "id": "twipg"
   },
   {
     "title": "Vagrant・CoreOS・Dockerでインフラ素人が自宅サーバを立てた話",
@@ -374,14 +382,6 @@
     "created_at": "2015-12-20T06:08:16+09:00",
     "updated_at": "2016-03-02T13:37:47+09:00",
     "id": "y_hokkey"
-  },
-  {
-    "title": "Qiitaのマークダウンで色をつける方法[140色]",
-    "url": "https://qiita.com/twipg/items/d8043cd4681a2780c160",
-    "likes_count": 464,
-    "created_at": "2015-12-22T19:51:13+09:00",
-    "updated_at": "2016-11-12T12:13:16+09:00",
-    "id": "twipg"
   },
   {
     "title": "Rails 5.0で追加される主な新機能（Ruby on Rails公式ブログより）",
@@ -416,6 +416,14 @@
     "id": "taise"
   },
   {
+    "title": "GitHub にパスワードとかセンシティブなファイルを push してしまったときの対処法",
+    "url": "https://qiita.com/dtan4/items/34e41e3bd40a43fd8cbf",
+    "likes_count": 430,
+    "created_at": "2015-12-19T23:39:47+09:00",
+    "updated_at": "2015-12-30T15:13:06+09:00",
+    "id": "dtan4"
+  },
+  {
     "title": "[Python]ファイル/ディレクトリ操作",
     "url": "https://qiita.com/supersaiakujin/items/12451cd2b8315fe7d054",
     "likes_count": 430,
@@ -424,19 +432,11 @@
     "id": "supersaiakujin"
   },
   {
-    "title": "GitHub にパスワードとかセンシティブなファイルを push してしまったときの対処法",
-    "url": "https://qiita.com/dtan4/items/34e41e3bd40a43fd8cbf",
-    "likes_count": 429,
-    "created_at": "2015-12-19T23:39:47+09:00",
-    "updated_at": "2015-12-30T15:13:06+09:00",
-    "id": "dtan4"
-  },
-  {
     "title": "PHPのリリース日とサポート期限",
     "url": "https://qiita.com/bezeklik/items/72d1ff8393f66673e2bc",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2015-12-14T11:55:09+09:00",
-    "updated_at": "2020-12-24T19:36:19+09:00",
+    "updated_at": "2021-04-08T15:19:19+09:00",
     "id": "bezeklik"
   },
   {
@@ -624,20 +624,20 @@
     "id": "kkyouhei"
   },
   {
-    "title": "最速！MacでRuby on Rails環境構築",
-    "url": "https://qiita.com/narikei/items/cd029911597cdc71c516",
-    "likes_count": 326,
-    "created_at": "2015-12-13T02:24:57+09:00",
-    "updated_at": "2019-03-05T15:34:20+09:00",
-    "id": "narikei"
-  },
-  {
     "title": "まだ oh-my-zsh で消耗してるの？",
     "url": "https://qiita.com/b4b4r07/items/875235f6122a6d779306",
     "likes_count": 325,
     "created_at": "2015-12-11T16:01:56+09:00",
     "updated_at": "2015-12-11T21:58:26+09:00",
     "id": "b4b4r07"
+  },
+  {
+    "title": "最速！MacでRuby on Rails環境構築",
+    "url": "https://qiita.com/narikei/items/cd029911597cdc71c516",
+    "likes_count": 325,
+    "created_at": "2015-12-13T02:24:57+09:00",
+    "updated_at": "2019-03-05T15:34:20+09:00",
+    "id": "narikei"
   },
   {
     "title": "Rxで知っておくと便利なSubjectたち",
@@ -650,7 +650,7 @@
   {
     "title": "はじめてのRaspberry PIで監視カメラを作ってみた。",
     "url": "https://qiita.com/kinpira/items/bf1df2c1983ba79ba455",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2015-12-24T00:01:33+09:00",
     "updated_at": "2016-05-20T10:43:48+09:00",
     "id": "kinpira"
@@ -794,7 +794,7 @@
   {
     "title": "Visual StudioユーザーがReleaseビルドをするときに必ずやってほしい2つの設定",
     "url": "https://qiita.com/lainzero/items/27681ddc96638e33758b",
-    "likes_count": 235,
+    "likes_count": 236,
     "created_at": "2015-12-30T00:47:13+09:00",
     "updated_at": "2015-12-30T00:48:59+09:00",
     "id": "lainzero"

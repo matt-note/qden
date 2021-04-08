@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1773,
+    "likes_count": 1776,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -50,7 +50,7 @@
   {
     "title": "iOS ヒューマンインターフェースの原則",
     "url": "https://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38",
-    "likes_count": 1637,
+    "likes_count": 1638,
     "created_at": "2016-04-03T05:27:56+09:00",
     "updated_at": "2019-03-01T04:21:27+09:00",
     "id": "usagimaru"
@@ -58,7 +58,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1492,
+    "likes_count": 1496,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -66,7 +66,7 @@
   {
     "title": "React+Redux入門",
     "url": "https://qiita.com/erukiti/items/e16aa13ad81d5938374e",
-    "likes_count": 1483,
+    "likes_count": 1484,
     "created_at": "2016-04-11T00:26:29+09:00",
     "updated_at": "2020-11-15T11:42:16+09:00",
     "id": "erukiti"
@@ -114,7 +114,7 @@
   {
     "title": "【意訳】Webpackの混乱ポイント",
     "url": "https://qiita.com/chuck0523/items/caacbf4137642cb175ec",
-    "likes_count": 1059,
+    "likes_count": 1060,
     "created_at": "2016-04-14T05:29:43+09:00",
     "updated_at": "2016-10-30T16:05:06+09:00",
     "id": "chuck0523"
@@ -138,7 +138,7 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 816,
+    "likes_count": 817,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
@@ -250,7 +250,7 @@
   {
     "title": "Thymeleafチートシート",
     "url": "https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482",
-    "likes_count": 595,
+    "likes_count": 596,
     "created_at": "2016-04-18T07:25:38+09:00",
     "updated_at": "2018-04-23T18:05:39+09:00",
     "id": "NagaokaKenichi"
@@ -272,20 +272,20 @@
     "id": "n-i-e"
   },
   {
+    "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
+    "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
+    "likes_count": 496,
+    "created_at": "2016-04-17T14:14:54+09:00",
+    "updated_at": "2021-04-05T07:56:27+09:00",
+    "id": "dai-takahashi"
+  },
+  {
     "title": "Linux screenコマンド使い方",
     "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
     "likes_count": 495,
     "created_at": "2016-04-06T08:44:32+09:00",
     "updated_at": "2019-12-25T19:10:52+09:00",
     "id": "hnishi"
-  },
-  {
-    "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
-    "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 495,
-    "created_at": "2016-04-17T14:14:54+09:00",
-    "updated_at": "2021-04-05T07:56:27+09:00",
-    "id": "dai-takahashi"
   },
   {
     "title": "jQueryで楽になる部分、楽にならない部分、顧客が本当に必要だったもの",
@@ -370,7 +370,7 @@
   {
     "title": "決定版!!Haml小技まとめ！！",
     "url": "https://qiita.com/yukimura1227/items/a1cbf65ac9abd4d138e1",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2016-04-17T00:47:36+09:00",
     "updated_at": "2018-11-29T16:09:46+09:00",
     "id": "yukimura1227"
@@ -432,20 +432,20 @@
     "id": "horike37"
   },
   {
+    "title": "変更履歴を持つテーブルの設計",
+    "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
+    "likes_count": 370,
+    "created_at": "2016-04-05T14:44:41+09:00",
+    "updated_at": "2018-02-09T12:13:08+09:00",
+    "id": "ak-ymst"
+  },
+  {
     "title": "XGBoostの主な特徴と理論の概要",
     "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
     "likes_count": 369,
     "created_at": "2016-04-02T21:19:46+09:00",
     "updated_at": "2016-04-02T22:05:31+09:00",
     "id": "yh0sh"
-  },
-  {
-    "title": "変更履歴を持つテーブルの設計",
-    "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
-    "likes_count": 369,
-    "created_at": "2016-04-05T14:44:41+09:00",
-    "updated_at": "2018-02-09T12:13:08+09:00",
-    "id": "ak-ymst"
   },
   {
     "title": "LINE Bot を AWSを使ってシステム構築してみた。",
@@ -474,7 +474,7 @@
   {
     "title": "こうすれば理解できるBootstrap 4のレスポンシブWebデザインとそのCSS",
     "url": "https://qiita.com/tonkotsuboy_com/items/7c01460b59c3ca5ee047",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2016-04-14T11:35:11+09:00",
     "updated_at": "2020-08-29T19:12:09+09:00",
     "id": "tonkotsuboy_com"
@@ -530,7 +530,7 @@
   {
     "title": "ローカルのプロジェクトをGitHubへアップロードする方法",
     "url": "https://qiita.com/devzip8/items/28ac253ea295ad6c2b73",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2016-04-17T22:26:07+09:00",
     "updated_at": "2016-04-18T23:50:18+09:00",
     "id": "devzip8"
@@ -602,7 +602,7 @@
   {
     "title": "font-sizeの単位をvwにしてデバイスサイズに合わせて拡縮する",
     "url": "https://qiita.com/katsunory/items/3bede89cee8e2ded8426",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2016-04-23T10:18:44+09:00",
     "updated_at": "2018-11-18T21:21:03+09:00",
     "id": "katsunory"
