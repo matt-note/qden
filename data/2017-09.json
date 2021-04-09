@@ -2,7 +2,7 @@
   {
     "title": "プロジェクトの残業を50%削減したタスク管理手法を惜しみなく公開する",
     "url": "https://qiita.com/0w0/items/0b287be30af6539ac5e9",
-    "likes_count": 1703,
+    "likes_count": 1704,
     "created_at": "2017-09-10T21:46:15+09:00",
     "updated_at": "2018-08-07T18:36:23+09:00",
     "id": "0w0"
@@ -10,7 +10,7 @@
   {
     "title": "典型的な DP (動的計画法) のパターンを整理 Part 1 ～ ナップサック DP 編 ～",
     "url": "https://qiita.com/drken/items/a5e6fe22863b7992efdb",
-    "likes_count": 1666,
+    "likes_count": 1665,
     "created_at": "2017-09-01T18:12:03+09:00",
     "updated_at": "2020-12-20T17:47:27+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "いい加減覚えよう。 `command > /dev/null 2>&1`の意味",
     "url": "https://qiita.com/ritukiii/items/b3d91e97b71ecd41d4ea",
-    "likes_count": 824,
+    "likes_count": 825,
     "created_at": "2017-09-06T22:55:16+09:00",
     "updated_at": "2018-11-09T10:28:16+09:00",
     "id": "ritukiii"
@@ -74,7 +74,7 @@
   {
     "title": "【JavaScript】スプレッド構文の便利な使い方まとめ",
     "url": "https://qiita.com/Nossa/items/e6f503cbb95c8e6967f8",
-    "likes_count": 778,
+    "likes_count": 779,
     "created_at": "2017-09-09T15:32:13+09:00",
     "updated_at": "2019-07-02T19:19:14+09:00",
     "id": "Nossa"
@@ -98,10 +98,18 @@
   {
     "title": "Vue.jsとRailsでTODOアプリのチュートリアルみたいなものを作ってみた",
     "url": "https://qiita.com/naoki85/items/51a8b0f2cbf949d08b11",
-    "likes_count": 720,
+    "likes_count": 719,
     "created_at": "2017-09-15T00:53:00+09:00",
     "updated_at": "2020-10-18T09:34:33+09:00",
     "id": "naoki85"
+  },
+  {
+    "title": "[axios] axios の導入と簡単な使い方",
+    "url": "https://qiita.com/ksh-fthr/items/2daaaf3a15c4c11956e9",
+    "likes_count": 692,
+    "created_at": "2017-09-13T23:37:44+09:00",
+    "updated_at": "2020-08-11T10:24:30+09:00",
+    "id": "ksh-fthr"
   },
   {
     "title": "エンジニアを名乗るなら、いつでも転職できるようにしておこう",
@@ -110,14 +118,6 @@
     "created_at": "2017-09-25T12:46:33+09:00",
     "updated_at": "2017-09-25T12:52:04+09:00",
     "id": "yassai"
-  },
-  {
-    "title": "[axios] axios の導入と簡単な使い方",
-    "url": "https://qiita.com/ksh-fthr/items/2daaaf3a15c4c11956e9",
-    "likes_count": 691,
-    "created_at": "2017-09-13T23:37:44+09:00",
-    "updated_at": "2020-08-11T10:24:30+09:00",
-    "id": "ksh-fthr"
   },
   {
     "title": "Vue.jsの書き方実例集(随時追加)※逆引きリファレンス的な",
@@ -226,7 +226,7 @@
   {
     "title": "初心者向け：Zshの導入",
     "url": "https://qiita.com/iwaseasahi/items/a2b00b65ebd06785b443",
-    "likes_count": 478,
+    "likes_count": 477,
     "created_at": "2017-09-02T12:56:38+09:00",
     "updated_at": "2021-01-23T10:24:13+09:00",
     "id": "iwaseasahi"
@@ -234,7 +234,7 @@
   {
     "title": "matplotlib基礎 | figureやaxesでのグラフのレイアウト",
     "url": "https://qiita.com/suzukiry/items/90167693f142ebb55a7d",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2017-09-24T23:09:18+09:00",
     "updated_at": "2018-01-01T19:36:56+09:00",
     "id": "suzukiry"
@@ -306,7 +306,7 @@
   {
     "title": "ConstraintLayoutをもう少し深く知ってみる",
     "url": "https://qiita.com/takahirom/items/97818748e2c2059a2536",
-    "likes_count": 334,
+    "likes_count": 335,
     "created_at": "2017-09-14T20:50:57+09:00",
     "updated_at": "2017-09-17T12:01:46+09:00",
     "id": "takahirom"
@@ -330,7 +330,7 @@
   {
     "title": "Vuejsのちょっと便利なコンポーネント機能",
     "url": "https://qiita.com/myLifeAsaDog/items/233f10591be8ff42cf1d",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2017-09-28T21:41:45+09:00",
     "updated_at": "2020-12-14T12:02:11+09:00",
     "id": "myLifeAsaDog"
@@ -370,7 +370,7 @@
   {
     "title": "Python 3 エンジニア認定基礎試験の勉強法と受験した感想",
     "url": "https://qiita.com/pio2/items/e98480483f7f759710ca",
-    "likes_count": 248,
+    "likes_count": 249,
     "created_at": "2017-09-24T23:34:19+09:00",
     "updated_at": "2020-09-12T16:19:18+09:00",
     "id": "pio2"

@@ -2,7 +2,7 @@
   {
     "title": "もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った",
     "url": "https://qiita.com/hirokidaichi/items/ff54a968bdd7bcc50d42",
-    "likes_count": 4820,
+    "likes_count": 4821,
     "created_at": "2016-04-02T18:21:53+09:00",
     "updated_at": "2018-12-26T00:03:58+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2258,
+    "likes_count": 2259,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1776,
+    "likes_count": 1778,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -114,7 +114,7 @@
   {
     "title": "【意訳】Webpackの混乱ポイント",
     "url": "https://qiita.com/chuck0523/items/caacbf4137642cb175ec",
-    "likes_count": 1060,
+    "likes_count": 1061,
     "created_at": "2016-04-14T05:29:43+09:00",
     "updated_at": "2016-10-30T16:05:06+09:00",
     "id": "chuck0523"
@@ -162,7 +162,7 @@
   {
     "title": "Promiseについて0から勉強してみた",
     "url": "https://qiita.com/toshihirock/items/e49b66f8685a8510bd76",
-    "likes_count": 790,
+    "likes_count": 791,
     "created_at": "2016-04-10T07:32:44+09:00",
     "updated_at": "2016-04-17T15:28:26+09:00",
     "id": "toshihirock"
@@ -250,7 +250,7 @@
   {
     "title": "Thymeleafチートシート",
     "url": "https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482",
-    "likes_count": 596,
+    "likes_count": 597,
     "created_at": "2016-04-18T07:25:38+09:00",
     "updated_at": "2018-04-23T18:05:39+09:00",
     "id": "NagaokaKenichi"
@@ -272,20 +272,20 @@
     "id": "n-i-e"
   },
   {
+    "title": "Linux screenコマンド使い方",
+    "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
+    "likes_count": 496,
+    "created_at": "2016-04-06T08:44:32+09:00",
+    "updated_at": "2019-12-25T19:10:52+09:00",
+    "id": "hnishi"
+  },
+  {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
     "likes_count": 496,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-04-05T07:56:27+09:00",
     "id": "dai-takahashi"
-  },
-  {
-    "title": "Linux screenコマンド使い方",
-    "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
-    "likes_count": 495,
-    "created_at": "2016-04-06T08:44:32+09:00",
-    "updated_at": "2019-12-25T19:10:52+09:00",
-    "id": "hnishi"
   },
   {
     "title": "jQueryで楽になる部分、楽にならない部分、顧客が本当に必要だったもの",
@@ -298,7 +298,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 464,
+    "likes_count": 465,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -554,7 +554,7 @@
   {
     "title": "Reduxでコンポーネントを再利用する",
     "url": "https://qiita.com/kuy/items/869aeb7b403ea7a8fd8a",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2016-04-14T02:54:48+09:00",
     "updated_at": "2016-04-21T22:42:27+09:00",
     "id": "kuy"

@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5439,
+    "likes_count": 5440,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2018,
+    "likes_count": 2019,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -64,20 +64,20 @@
     "id": "bitrinjani"
   },
   {
+    "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
+    "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
+    "likes_count": 1122,
+    "created_at": "2017-12-08T11:06:27+09:00",
+    "updated_at": "2020-12-11T10:32:15+09:00",
+    "id": "minamijoyo"
+  },
+  {
     "title": "学習を加速させるインデックス読書術",
     "url": "https://qiita.com/dkatsura/items/3364b293ed1451a66a8a",
     "likes_count": 1121,
     "created_at": "2017-12-08T23:19:04+09:00",
     "updated_at": "2017-12-09T07:01:39+09:00",
     "id": "dkatsura"
-  },
-  {
-    "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
-    "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1119,
-    "created_at": "2017-12-08T11:06:27+09:00",
-    "updated_at": "2020-12-11T10:32:15+09:00",
-    "id": "minamijoyo"
   },
   {
     "title": "Sketch はもういらない？ デザインツール Figma の紹介",
@@ -90,10 +90,18 @@
   {
     "title": "非エンジニアのマネージャがエンジニアチームと上手くやる方法",
     "url": "https://qiita.com/jonathanh/items/79056e13ac1f32a658ea",
-    "likes_count": 900,
+    "likes_count": 899,
     "created_at": "2017-12-13T05:29:48+09:00",
     "updated_at": "2017-12-14T20:48:25+09:00",
     "id": "jonathanh"
+  },
+  {
+    "title": "styled-componentsを使ったCSS設計",
+    "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
+    "likes_count": 883,
+    "created_at": "2017-12-14T03:10:33+09:00",
+    "updated_at": "2019-11-14T16:17:13+09:00",
+    "id": "taneba"
   },
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
@@ -102,14 +110,6 @@
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2017-12-14T17:04:47+09:00",
     "id": "YudaiTsukamoto"
-  },
-  {
-    "title": "styled-componentsを使ったCSS設計",
-    "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 882,
-    "created_at": "2017-12-14T03:10:33+09:00",
-    "updated_at": "2019-11-14T16:17:13+09:00",
-    "id": "taneba"
   },
   {
     "title": "2017年のディープラーニング論文100選",
@@ -144,20 +144,20 @@
     "id": "kenmatsu4"
   },
   {
+    "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
+    "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
+    "likes_count": 828,
+    "created_at": "2017-12-18T19:02:19+09:00",
+    "updated_at": "2019-11-05T14:26:01+09:00",
+    "id": "hatai"
+  },
+  {
     "title": "会社勤めのエンジニアが開発したサービスを買い取って独立した話",
     "url": "https://qiita.com/tnj/items/3bf353fb8964abac40a4",
     "likes_count": 827,
     "created_at": "2017-12-11T12:09:54+09:00",
     "updated_at": "2017-12-11T12:09:54+09:00",
     "id": "tnj"
-  },
-  {
-    "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
-    "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 827,
-    "created_at": "2017-12-18T19:02:19+09:00",
-    "updated_at": "2019-11-05T14:26:01+09:00",
-    "id": "hatai"
   },
   {
     "title": "こんなGitの教え方をするエンジニアはデザイナーからモテるぞ！",
@@ -170,7 +170,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 797,
+    "likes_count": 799,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -178,7 +178,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 795,
+    "likes_count": 796,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -258,7 +258,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 670,
+    "likes_count": 671,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -266,7 +266,7 @@
   {
     "title": "Google Homeでやったことまとめ",
     "url": "https://qiita.com/miso_develop/items/99624915d3d6e41a5fb3",
-    "likes_count": 663,
+    "likes_count": 662,
     "created_at": "2017-12-10T00:00:38+09:00",
     "updated_at": "2017-12-20T10:12:21+09:00",
     "id": "miso_develop"
@@ -296,20 +296,20 @@
     "id": "kenz_firespeed"
   },
   {
+    "title": "Django データベース操作 についてのまとめ",
+    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
+    "likes_count": 597,
+    "created_at": "2017-12-26T14:03:46+09:00",
+    "updated_at": "2017-12-28T13:03:50+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "2017末時点での React Component 設計のベストプラクティス",
     "url": "https://qiita.com/mizchi/items/bcb1aef8d1f14f8d0b4a",
     "likes_count": 596,
     "created_at": "2017-12-17T22:21:29+09:00",
     "updated_at": "2017-12-17T23:42:55+09:00",
     "id": "mizchi"
-  },
-  {
-    "title": "Django データベース操作 についてのまとめ",
-    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 595,
-    "created_at": "2017-12-26T14:03:46+09:00",
-    "updated_at": "2017-12-28T13:03:50+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "次にJSガッツリ書くときはTypeScriptで",
@@ -386,7 +386,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -394,7 +394,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -402,7 +402,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 502,
+    "likes_count": 503,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -450,7 +450,7 @@
   {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
@@ -722,7 +722,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
@@ -778,7 +778,7 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"
