@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5440,
+    "likes_count": 5442,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2019,
+    "likes_count": 2020,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1253,
+    "likes_count": 1254,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -98,7 +98,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 883,
+    "likes_count": 884,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -122,7 +122,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 851,
+    "likes_count": 852,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -146,7 +146,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 828,
+    "likes_count": 829,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -226,7 +226,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 725,
+    "likes_count": 726,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -434,7 +434,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -490,7 +490,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -498,7 +498,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2020-05-03T15:49:07+09:00",
     "id": "KTakahiro1729"
@@ -506,7 +506,7 @@
   {
     "title": "やはりお前らの真偽値メソッド名は間違っている。 〜「Xxx できる？」系メソッドの命名〜",
     "url": "https://qiita.com/lovee/items/aa2125eb0bce4a9dde1f",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2017-12-07T03:34:42+09:00",
     "updated_at": "2017-12-08T13:27:28+09:00",
     "id": "lovee"
@@ -584,20 +584,20 @@
     "id": "c5meru"
   },
   {
+    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
+    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
+    "likes_count": 359,
+    "created_at": "2017-12-13T01:28:27+09:00",
+    "updated_at": "2019-07-28T01:41:15+09:00",
+    "id": "tatsurou313"
+  },
+  {
     "title": "(2017年12月時点) 私的 CloudFormation ベストプラクティス",
     "url": "https://qiita.com/yasuhiroki/items/8463eed1c78123313a6f",
     "likes_count": 359,
     "created_at": "2017-12-23T12:49:57+09:00",
     "updated_at": "2020-01-24T11:29:13+09:00",
     "id": "yasuhiroki"
-  },
-  {
-    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
-    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 358,
-    "created_at": "2017-12-13T01:28:27+09:00",
-    "updated_at": "2019-07-28T01:41:15+09:00",
-    "id": "tatsurou313"
   },
   {
     "title": "Reactを使って本気でアンケートシステムをつくった",
@@ -666,7 +666,7 @@
   {
     "title": "Kaggleの練習問題（Regression）を解いてKagglerになる",
     "url": "https://qiita.com/katsu1110/items/a1c3185fec39e5629bcb",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2017-12-15T08:47:16+09:00",
     "updated_at": "2019-06-27T18:00:30+09:00",
     "id": "katsu1110"
@@ -770,7 +770,7 @@
   {
     "title": "機械学習ライブラリ scikit-learnの便利機能の紹介",
     "url": "https://qiita.com/ishizakiiii/items/0650723cc2b4eef2c1cf",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2017-12-15T21:27:13+09:00",
     "updated_at": "2017-12-18T07:37:14+09:00",
     "id": "ishizakiiii"
