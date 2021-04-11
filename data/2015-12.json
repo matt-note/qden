@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 3912,
+    "likes_count": 3913,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -10,7 +10,7 @@
   {
     "title": "究極のIT系最新技術情報収集用Slackチーム公開 - モヒカンSlack -",
     "url": "https://qiita.com/kotakanbe@github/items/32cf4eb3de1741af26fb",
-    "likes_count": 2738,
+    "likes_count": 2739,
     "created_at": "2015-12-15T17:10:39+09:00",
     "updated_at": "2018-12-01T13:49:26+09:00",
     "id": "kotakanbe@github"
@@ -88,20 +88,20 @@
     "id": "t_nakayama0714"
   },
   {
+    "title": "非同期処理ってどういうこと？JavaScriptで一から学ぶ",
+    "url": "https://qiita.com/kiyodori/items/da434d169755cbb20447",
+    "likes_count": 1293,
+    "created_at": "2015-12-19T22:32:13+09:00",
+    "updated_at": "2015-12-19T22:37:55+09:00",
+    "id": "kiyodori"
+  },
+  {
     "title": "【たのしいな】様々なコマンド達を何も考えずにつないで遊ぶ",
     "url": "https://qiita.com/greymd/items/a4ecf8e70f11eb1e5f72",
     "likes_count": 1293,
     "created_at": "2015-12-22T00:03:06+09:00",
     "updated_at": "2016-01-25T20:07:21+09:00",
     "id": "greymd"
-  },
-  {
-    "title": "非同期処理ってどういうこと？JavaScriptで一から学ぶ",
-    "url": "https://qiita.com/kiyodori/items/da434d169755cbb20447",
-    "likes_count": 1292,
-    "created_at": "2015-12-19T22:32:13+09:00",
-    "updated_at": "2015-12-19T22:37:55+09:00",
-    "id": "kiyodori"
   },
   {
     "title": "Ubuntuに最新のNode.jsを難なくインストールする",
@@ -186,7 +186,7 @@
   {
     "title": "請負契約と準委任契約、どっちで契約すればいいの？〜請負契約・準委任契約・労働者派遣契約の違い〜",
     "url": "https://qiita.com/tetsuya-imamura/items/d291859ee57b96d4c502",
-    "likes_count": 878,
+    "likes_count": 879,
     "created_at": "2015-12-21T09:05:26+09:00",
     "updated_at": "2015-12-21T09:08:24+09:00",
     "id": "tetsuya-imamura"
@@ -202,7 +202,7 @@
   {
     "title": "PHPを使いもせずDISってる君達へ",
     "url": "https://qiita.com/nori0620/items/08bba8649fa5b608f695",
-    "likes_count": 832,
+    "likes_count": 833,
     "created_at": "2015-12-22T00:02:12+09:00",
     "updated_at": "2015-12-23T12:03:26+09:00",
     "id": "nori0620"
@@ -242,7 +242,7 @@
   {
     "title": "Pythonエラー一覧（日本語）",
     "url": "https://qiita.com/soutarrr7/items/84e529d87aa3b3a9adcb",
-    "likes_count": 722,
+    "likes_count": 723,
     "created_at": "2015-12-26T13:44:59+09:00",
     "updated_at": "2016-01-08T16:20:22+09:00",
     "id": "soutarrr7"
@@ -290,7 +290,7 @@
   {
     "title": "クラウド破産しないように git-secrets を使う",
     "url": "https://qiita.com/pottava/items/4c602c97aacf10c058f1",
-    "likes_count": 604,
+    "likes_count": 606,
     "created_at": "2015-12-24T14:55:53+09:00",
     "updated_at": "2016-01-04T16:13:49+09:00",
     "id": "pottava"
@@ -426,7 +426,7 @@
   {
     "title": "[Python]ファイル/ディレクトリ操作",
     "url": "https://qiita.com/supersaiakujin/items/12451cd2b8315fe7d054",
-    "likes_count": 431,
+    "likes_count": 430,
     "created_at": "2015-12-26T04:45:05+09:00",
     "updated_at": "2018-10-05T12:38:27+09:00",
     "id": "supersaiakujin"
@@ -448,6 +448,14 @@
     "id": "__cooper"
   },
   {
+    "title": "C言語を使うならMakeを使おうよ",
+    "url": "https://qiita.com/j8takagi/items/74232a00cc33623f7844",
+    "likes_count": 416,
+    "created_at": "2015-12-23T00:03:46+09:00",
+    "updated_at": "2018-07-31T15:01:01+09:00",
+    "id": "j8takagi"
+  },
+  {
     "title": "ガチで Swift でプログラム組んで1年経っての心得",
     "url": "https://qiita.com/lovee/items/555a5b76097347aa2367",
     "likes_count": 414,
@@ -462,14 +470,6 @@
     "created_at": "2015-12-16T00:03:26+09:00",
     "updated_at": "2015-12-16T00:22:23+09:00",
     "id": "dice-sasaki@github"
-  },
-  {
-    "title": "C言語を使うならMakeを使おうよ",
-    "url": "https://qiita.com/j8takagi/items/74232a00cc33623f7844",
-    "likes_count": 414,
-    "created_at": "2015-12-23T00:03:46+09:00",
-    "updated_at": "2018-07-31T15:01:01+09:00",
-    "id": "j8takagi"
   },
   {
     "title": "Chainerを使ってコンピュータにイラストを描かせる",

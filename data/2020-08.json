@@ -8,20 +8,20 @@
     "id": "rana_kualu"
   },
   {
-    "title": "TypeScript学習ロードマップ",
-    "url": "https://qiita.com/irico/items/33744e15a4e0ca52d6bc",
-    "likes_count": 1529,
-    "created_at": "2020-08-17T18:50:32+09:00",
-    "updated_at": "2020-08-20T08:42:45+09:00",
-    "id": "irico"
-  },
-  {
     "title": "Pythonでも簡単にGUIは作れる",
     "url": "https://qiita.com/konitech913/items/61dc715ddaad54505a29",
-    "likes_count": 1529,
+    "likes_count": 1530,
     "created_at": "2020-08-23T10:24:46+09:00",
     "updated_at": "2020-08-26T05:27:38+09:00",
     "id": "konitech913"
+  },
+  {
+    "title": "TypeScript学習ロードマップ",
+    "url": "https://qiita.com/irico/items/33744e15a4e0ca52d6bc",
+    "likes_count": 1528,
+    "created_at": "2020-08-17T18:50:32+09:00",
+    "updated_at": "2020-08-20T08:42:45+09:00",
+    "id": "irico"
   },
   {
     "title": "開発体験を変える! Chrome DevTools Tips 7選",
@@ -34,7 +34,7 @@
   {
     "title": "最近のポケモンはデジモンっぽいのか、ディープラーニングに聞いてみた",
     "url": "https://qiita.com/mrok273/items/58532c06a3af3324d970",
-    "likes_count": 1323,
+    "likes_count": 1324,
     "created_at": "2020-08-13T09:00:10+09:00",
     "updated_at": "2020-08-14T08:39:16+09:00",
     "id": "mrok273"
@@ -50,7 +50,7 @@
   {
     "title": "1年以上かけて生産性倍増＋成長し続けるチームになった施策を全部公開",
     "url": "https://qiita.com/kojimadev/items/4b28f801863cf4e8f0da",
-    "likes_count": 1248,
+    "likes_count": 1251,
     "created_at": "2020-08-26T17:19:01+09:00",
     "updated_at": "2020-10-14T13:16:58+09:00",
     "id": "kojimadev"
@@ -58,7 +58,7 @@
   {
     "title": "Gitでやりたいこと、ここで見つかる",
     "url": "https://qiita.com/shimotaroo/items/b73d896ace10894fd290",
-    "likes_count": 1065,
+    "likes_count": 1067,
     "created_at": "2020-08-29T18:35:50+09:00",
     "updated_at": "2021-03-11T17:41:04+09:00",
     "id": "shimotaroo"
@@ -88,6 +88,14 @@
     "id": "Kyome"
   },
   {
+    "title": "Self-Attentionを全面的に使った新時代の画像認識モデルを解説！",
+    "url": "https://qiita.com/omiita/items/f4fad6371747e718310e",
+    "likes_count": 782,
+    "created_at": "2020-08-31T08:14:37+09:00",
+    "updated_at": "2020-08-31T20:56:42+09:00",
+    "id": "omiita"
+  },
+  {
     "title": "現役Vueエンジニアが参考にしているフロントエンド素材まとめおすすめサイト４選",
     "url": "https://qiita.com/Youma_yolo/items/3e5d0f2ee6bc3c5c1fee",
     "likes_count": 780,
@@ -96,17 +104,9 @@
     "id": "Youma_yolo"
   },
   {
-    "title": "Self-Attentionを全面的に使った新時代の画像認識モデルを解説！",
-    "url": "https://qiita.com/omiita/items/f4fad6371747e718310e",
-    "likes_count": 779,
-    "created_at": "2020-08-31T08:14:37+09:00",
-    "updated_at": "2020-08-31T20:56:42+09:00",
-    "id": "omiita"
-  },
-  {
     "title": "JavaScriptからletを絶滅させ、constのみにするためのレシピ集",
     "url": "https://qiita.com/kiyoshiro/items/13c60fad1f5279993fa2",
-    "likes_count": 750,
+    "likes_count": 752,
     "created_at": "2020-08-02T15:46:21+09:00",
     "updated_at": "2021-04-10T19:19:25+09:00",
     "id": "kiyoshiro"
@@ -146,7 +146,7 @@
   {
     "title": "バイバイ Python。 ハロー Julia！",
     "url": "https://qiita.com/baby-degu/items/7d4e295964ebb6e92de4",
-    "likes_count": 543,
+    "likes_count": 542,
     "created_at": "2020-08-02T23:06:24+09:00",
     "updated_at": "2021-02-10T21:16:55+09:00",
     "id": "baby-degu"
@@ -162,7 +162,7 @@
   {
     "title": "Visual Studio Code公式の設定同期「Settings Sync」を利用する",
     "url": "https://qiita.com/Nuits/items/6204a6b0576b7a4e37ea",
-    "likes_count": 502,
+    "likes_count": 503,
     "created_at": "2020-08-16T09:05:37+09:00",
     "updated_at": "2021-03-11T05:17:05+09:00",
     "id": "Nuits"
@@ -210,7 +210,7 @@
   {
     "title": "GitHub CLIで始める快適GitHub生活",
     "url": "https://qiita.com/ryo2132/items/2a29dd7b1627af064d7b",
-    "likes_count": 426,
+    "likes_count": 428,
     "created_at": "2020-08-13T21:21:09+09:00",
     "updated_at": "2020-10-07T13:42:05+09:00",
     "id": "ryo2132"
@@ -274,7 +274,7 @@
   {
     "title": "DockerでのディープラーニングGPU学習環境構築方法",
     "url": "https://qiita.com/karaage0703/items/e79a8ad2f57abc6872aa",
-    "likes_count": 226,
+    "likes_count": 227,
     "created_at": "2020-08-07T10:34:43+09:00",
     "updated_at": "2020-10-15T14:00:52+09:00",
     "id": "karaage0703"

@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2020,
+    "likes_count": 2022,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1254,
+    "likes_count": 1255,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -146,7 +146,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 829,
+    "likes_count": 830,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -178,7 +178,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 796,
+    "likes_count": 797,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -376,20 +376,20 @@
     "id": "sinsengumi"
   },
   {
+    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
+    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
+    "likes_count": 522,
+    "created_at": "2017-12-22T11:55:57+09:00",
+    "updated_at": "2019-07-11T10:18:55+09:00",
+    "id": "megadreams14"
+  },
+  {
     "title": "わかりやすい画像のdiffを求めて",
     "url": "https://qiita.com/Quramy/items/290f7a33c350d910ebab",
     "likes_count": 521,
     "created_at": "2017-12-22T09:29:46+09:00",
     "updated_at": "2017-12-22T13:07:18+09:00",
     "id": "Quramy"
-  },
-  {
-    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
-    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 521,
-    "created_at": "2017-12-22T11:55:57+09:00",
-    "updated_at": "2019-07-11T10:18:55+09:00",
-    "id": "megadreams14"
   },
   {
     "title": "標準入力・標準出力ってなに?",
@@ -618,7 +618,7 @@
   {
     "title": "t-SNEによるイケてる次元圧縮&可視化",
     "url": "https://qiita.com/stfate/items/8988d01aad9596f9d586",
-    "likes_count": 349,
+    "likes_count": 350,
     "created_at": "2017-12-14T00:12:51+09:00",
     "updated_at": "2019-10-07T01:21:33+09:00",
     "id": "stfate"
@@ -674,7 +674,7 @@
   {
     "title": "Reactのstate,props,componentの使い方を自分なりにまとめてみた",
     "url": "https://qiita.com/sekikawa_a/items/8ab70f457ef73871419f",
-    "likes_count": 332,
+    "likes_count": 333,
     "created_at": "2017-12-13T21:45:16+09:00",
     "updated_at": "2019-03-22T17:27:09+09:00",
     "id": "sekikawa_a"
