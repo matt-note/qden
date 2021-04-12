@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4978,
+    "likes_count": 4982,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -26,7 +26,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2573,
+    "likes_count": 2574,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2351,
+    "likes_count": 2352,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2020-07-25T13:47:36+09:00",
     "id": "tani_AI_Academy"
@@ -42,7 +42,7 @@
   {
     "title": "「赤の他人」の対義語は「白い恋人」 これを自動生成したい物語",
     "url": "https://qiita.com/youwht/items/f21325ff62603e8664e6",
-    "likes_count": 1976,
+    "likes_count": 1977,
     "created_at": "2018-05-07T04:26:13+09:00",
     "updated_at": "2018-05-20T12:50:51+09:00",
     "id": "youwht"
@@ -122,7 +122,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 859,
+    "likes_count": 862,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -152,20 +152,20 @@
     "id": "skotaro"
   },
   {
+    "title": "ArgumentParserの使い方を簡単にまとめた",
+    "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
+    "likes_count": 692,
+    "created_at": "2018-05-24T23:54:26+09:00",
+    "updated_at": "2020-06-27T13:55:46+09:00",
+    "id": "kzkadc"
+  },
+  {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
     "likes_count": 691,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
-  },
-  {
-    "title": "ArgumentParserの使い方を簡単にまとめた",
-    "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 691,
-    "created_at": "2018-05-24T23:54:26+09:00",
-    "updated_at": "2020-06-27T13:55:46+09:00",
-    "id": "kzkadc"
   },
   {
     "title": "Webブラウザの作り方",
@@ -210,7 +210,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 644,
+    "likes_count": 646,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -306,7 +306,7 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
@@ -314,7 +314,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -394,7 +394,7 @@
   {
     "title": "Android Architecture Components 初級 （ MVVM + LiveData + Coroutines 編 ）",
     "url": "https://qiita.com/Tsutou/items/69a28ebbd69b69e51703",
-    "likes_count": 427,
+    "likes_count": 428,
     "created_at": "2018-05-30T13:52:14+09:00",
     "updated_at": "2020-07-17T00:02:52+09:00",
     "id": "Tsutou"
@@ -410,7 +410,7 @@
   {
     "title": "FizzBuzz Zero ―― 人類の知識なしでFizzBuzzをマスターする",
     "url": "https://qiita.com/ymg_aq/items/d276357823f5b2ce46c5",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2018-05-10T17:14:38+09:00",
     "updated_at": "2018-05-12T09:45:02+09:00",
     "id": "ymg_aq"
@@ -440,20 +440,20 @@
     "id": "hirodragon"
   },
   {
+    "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
+    "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
+    "likes_count": 382,
+    "created_at": "2018-05-21T00:02:30+09:00",
+    "updated_at": "2018-12-13T21:47:28+09:00",
+    "id": "shtnkgm"
+  },
+  {
     "title": "外部キー制約について",
     "url": "https://qiita.com/SLEAZOIDS/items/d6fb9c2d131c3fdd1387",
     "likes_count": 381,
     "created_at": "2018-05-12T22:58:19+09:00",
     "updated_at": "2019-06-04T15:42:01+09:00",
     "id": "SLEAZOIDS"
-  },
-  {
-    "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
-    "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
-    "likes_count": 381,
-    "created_at": "2018-05-21T00:02:30+09:00",
-    "updated_at": "2018-12-13T21:47:28+09:00",
-    "id": "shtnkgm"
   },
   {
     "title": "コンパイルエラーやランタイムエラーを直していくだけでiOSアプリの作り方がわかるプロジェクト",
@@ -466,7 +466,7 @@
   {
     "title": "dockerで簡易にpython3の環境を作ってみる",
     "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
-    "likes_count": 331,
+    "likes_count": 333,
     "created_at": "2018-05-10T12:01:43+09:00",
     "updated_at": "2020-01-15T02:08:31+09:00",
     "id": "reflet"
@@ -474,7 +474,7 @@
   {
     "title": "知識0から統計検定2級取得を目指した話",
     "url": "https://qiita.com/akiyoshi_sasaki/items/8e4d7895f2647e22b5f9",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2018-05-11T11:45:56+09:00",
     "updated_at": "2020-04-17T11:40:05+09:00",
     "id": "akiyoshi_sasaki"
@@ -514,7 +514,7 @@
   {
     "title": "Pythonで例外を投げるときのベストプラクティス",
     "url": "https://qiita.com/hasoya/items/05d4e49d492869875cca",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2018-05-02T14:17:43+09:00",
     "updated_at": "2018-05-05T11:55:13+09:00",
     "id": "hasoya"

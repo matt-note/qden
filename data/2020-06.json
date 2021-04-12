@@ -10,7 +10,7 @@
   {
     "title": "【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る",
     "url": "https://qiita.com/tomo_makes/items/aafae4021986553ae1d8",
-    "likes_count": 1970,
+    "likes_count": 1971,
     "created_at": "2020-06-28T19:25:44+09:00",
     "updated_at": "2020-07-12T16:23:06+09:00",
     "id": "tomo_makes"
@@ -18,7 +18,7 @@
   {
     "title": "Dockerとはどういったものなのか、めちゃくちゃ丁寧に説明してみる",
     "url": "https://qiita.com/SatoshiSobue/items/a612ebbb3a9242c09db5",
-    "likes_count": 1817,
+    "likes_count": 1818,
     "created_at": "2020-06-05T11:50:40+09:00",
     "updated_at": "2020-07-01T05:52:31+09:00",
     "id": "SatoshiSobue"
@@ -34,7 +34,7 @@
   {
     "title": "Dockerイメージの理解を目指すチュートリアル",
     "url": "https://qiita.com/zembutsu/items/24558f9d0d254e33088f",
-    "likes_count": 1422,
+    "likes_count": 1424,
     "created_at": "2020-06-13T17:30:02+09:00",
     "updated_at": "2020-06-24T16:25:34+09:00",
     "id": "zembutsu"
@@ -50,7 +50,7 @@
   {
     "title": "「ビジネスロジック」とは何か、どう実装するのか",
     "url": "https://qiita.com/os1ma/items/25725edfe3c2af93d735",
-    "likes_count": 1266,
+    "likes_count": 1268,
     "created_at": "2020-06-27T18:48:53+09:00",
     "updated_at": "2020-12-12T20:00:43+09:00",
     "id": "os1ma"
@@ -186,7 +186,7 @@
   {
     "title": "待ってました CUDA on WSL 2",
     "url": "https://qiita.com/ksasaki/items/ee864abd74f95fea1efa",
-    "likes_count": 508,
+    "likes_count": 509,
     "created_at": "2020-06-19T00:04:23+09:00",
     "updated_at": "2021-04-08T17:37:37+09:00",
     "id": "ksasaki"
@@ -218,7 +218,7 @@
   {
     "title": "猿には分からないけど、非エンジニアでも分かると思う、ドメイン駆動設計の「ド」の字くらいだけ説明する",
     "url": "https://qiita.com/ryoya1122/items/502c07410197746e79e4",
-    "likes_count": 471,
+    "likes_count": 472,
     "created_at": "2020-06-24T04:25:44+09:00",
     "updated_at": "2020-06-24T05:56:11+09:00",
     "id": "ryoya1122"
@@ -250,7 +250,7 @@
   {
     "title": "Pythonによる因果推論と因果探索（初心者の方向け）",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/2cffb239b44853b07f70",
-    "likes_count": 407,
+    "likes_count": 408,
     "created_at": "2020-06-22T12:36:40+09:00",
     "updated_at": "2020-06-22T12:40:00+09:00",
     "id": "sugulu_Ogawa_ISID"
@@ -266,10 +266,18 @@
   {
     "title": "爆速python-fire",
     "url": "https://qiita.com/KtheS/items/59d683992ee33de857e9",
-    "likes_count": 394,
+    "likes_count": 395,
     "created_at": "2020-06-10T01:34:37+09:00",
     "updated_at": "2021-03-29T02:03:56+09:00",
     "id": "KtheS"
+  },
+  {
+    "title": "非エンジニアの友人にPythonを教えた。彼はPythonistaとなった。",
+    "url": "https://qiita.com/1021ky@github/items/3d9230f35be5c7d61e4d",
+    "likes_count": 367,
+    "created_at": "2020-06-13T16:21:44+09:00",
+    "updated_at": "2020-06-16T22:33:58+09:00",
+    "id": "1021ky@github"
   },
   {
     "title": "機械学習で使われる評価関数まとめ",
@@ -278,14 +286,6 @@
     "created_at": "2020-06-23T20:08:48+09:00",
     "updated_at": "2020-12-15T00:00:01+09:00",
     "id": "monda00"
-  },
-  {
-    "title": "非エンジニアの友人にPythonを教えた。彼はPythonistaとなった。",
-    "url": "https://qiita.com/1021ky@github/items/3d9230f35be5c7d61e4d",
-    "likes_count": 363,
-    "created_at": "2020-06-13T16:21:44+09:00",
-    "updated_at": "2020-06-16T22:33:58+09:00",
-    "id": "1021ky@github"
   },
   {
     "title": "Qiitaやはてブロに投稿するようなユーザーはみんなtextlintを使うと捗るぞ！",
@@ -306,7 +306,7 @@
   {
     "title": "ソフトウェア開発のキャリアパス",
     "url": "https://qiita.com/baby-degu/items/98de55e0a94e4c0d65ba",
-    "likes_count": 338,
+    "likes_count": 340,
     "created_at": "2020-06-07T20:58:27+09:00",
     "updated_at": "2020-06-07T20:58:27+09:00",
     "id": "baby-degu"
@@ -386,7 +386,7 @@
   {
     "title": "【言語処理100本ノック 2020】Pythonによる解答例まとめ",
     "url": "https://qiita.com/yamaru/items/0cac24710626333bd693",
-    "likes_count": 256,
+    "likes_count": 257,
     "created_at": "2020-06-06T20:32:00+09:00",
     "updated_at": "2020-11-19T20:16:33+09:00",
     "id": "yamaru"

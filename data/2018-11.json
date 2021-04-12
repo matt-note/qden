@@ -10,7 +10,7 @@
   {
     "title": "新人にドヤ顔で説明できるか、今風フロントエンド開発ハンズオン(Git/Node.js/ES6/webpack4/Babel7)",
     "url": "https://qiita.com/riversun/items/29d5264480dd06c7b9fb",
-    "likes_count": 1887,
+    "likes_count": 1888,
     "created_at": "2018-11-12T08:21:10+09:00",
     "updated_at": "2020-12-18T17:26:37+09:00",
     "id": "riversun"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1325,
+    "likes_count": 1327,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -186,7 +186,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 688,
+    "likes_count": 689,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -242,7 +242,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2019-12-29T23:17:28+09:00",
     "id": "ryuichi1208"
@@ -258,7 +258,7 @@
   {
     "title": "【厳選】Python実務データ分析でよく使う手法（分析手法編）",
     "url": "https://qiita.com/takubb/items/286916434ce44889d0fd",
-    "likes_count": 522,
+    "likes_count": 523,
     "created_at": "2018-11-11T00:10:16+09:00",
     "updated_at": "2018-11-11T00:29:17+09:00",
     "id": "takubb"
@@ -330,10 +330,18 @@
   {
     "title": "RedisとElastiCacheを分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
-    "likes_count": 454,
+    "likes_count": 455,
     "created_at": "2018-11-19T09:00:44+09:00",
     "updated_at": "2019-11-21T15:42:12+09:00",
     "id": "gold-kou"
+  },
+  {
+    "title": "gem installでpermissionエラーになった時の対応方法",
+    "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
+    "likes_count": 454,
+    "created_at": "2018-11-25T22:52:44+09:00",
+    "updated_at": "2019-09-25T15:09:16+09:00",
+    "id": "nishina555"
   },
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
@@ -350,14 +358,6 @@
     "created_at": "2018-11-21T17:18:57+09:00",
     "updated_at": "2018-11-21T17:18:57+09:00",
     "id": "yoshizaki_91"
-  },
-  {
-    "title": "gem installでpermissionエラーになった時の対応方法",
-    "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 453,
-    "created_at": "2018-11-25T22:52:44+09:00",
-    "updated_at": "2019-09-25T15:09:16+09:00",
-    "id": "nishina555"
   },
   {
     "title": "【ファッション×テック】おしゃれ判定アプリを開発した",
@@ -378,7 +378,7 @@
   {
     "title": "統計検定２級に楽に合格する方法",
     "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2018-11-28T12:58:31+09:00",
     "updated_at": "2018-11-28T13:29:26+09:00",
     "id": "okoppe8"
@@ -394,7 +394,7 @@
   {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
     "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 385,
+    "likes_count": 386,
     "created_at": "2018-11-06T02:18:59+09:00",
     "updated_at": "2018-11-06T02:18:59+09:00",
     "id": "psychoroid"
@@ -474,7 +474,7 @@
   {
     "title": "Webアプリ初心者がGo言語でサーバサイド（1. 簡単なHTTPサーバの実装）",
     "url": "https://qiita.com/wsuzume/items/75d5c0cd2dd5a1963b9e",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2018-11-06T00:29:50+09:00",
     "updated_at": "2018-11-06T01:08:22+09:00",
     "id": "wsuzume"
