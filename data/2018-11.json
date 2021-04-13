@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1327,
+    "likes_count": 1329,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -154,7 +154,7 @@
   {
     "title": "Visual Studio CodeでSSHごしにファイルを編集する",
     "url": "https://qiita.com/informationsea/items/5c9f05c81a41fb885460",
-    "likes_count": 873,
+    "likes_count": 874,
     "created_at": "2018-11-23T16:48:24+09:00",
     "updated_at": "2020-11-08T11:11:57+09:00",
     "id": "informationsea"
@@ -186,7 +186,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 689,
+    "likes_count": 690,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -216,20 +216,20 @@
     "id": "chan_kaku"
   },
   {
+    "title": "Laravel入門 - 使い方チュートリアル - ",
+    "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
+    "likes_count": 619,
+    "created_at": "2018-11-01T22:29:05+09:00",
+    "updated_at": "2020-12-13T22:45:14+09:00",
+    "id": "sano1202"
+  },
+  {
     "title": "最低限知っておくべきネットワーク系コマンド",
     "url": "https://qiita.com/ryuichi1208/items/eeb98d5a94d71c55aa34",
     "likes_count": 619,
     "created_at": "2018-11-26T00:00:27+09:00",
     "updated_at": "2018-11-28T09:07:31+09:00",
     "id": "ryuichi1208"
-  },
-  {
-    "title": "Laravel入門 - 使い方チュートリアル - ",
-    "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 618,
-    "created_at": "2018-11-01T22:29:05+09:00",
-    "updated_at": "2020-12-13T22:45:14+09:00",
-    "id": "sano1202"
   },
   {
     "title": "研究室のHPをサーバレス、SPA、GraphQL、ChatOpsで作った",
@@ -242,7 +242,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2019-12-29T23:17:28+09:00",
     "id": "ryuichi1208"
@@ -274,7 +274,7 @@
   {
     "title": "atcoderでよく使う手法python版",
     "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
-    "likes_count": 503,
+    "likes_count": 504,
     "created_at": "2018-11-25T18:13:41+09:00",
     "updated_at": "2020-11-23T02:30:53+09:00",
     "id": "chun1182"
@@ -314,7 +314,7 @@
   {
     "title": "State of SEO for SPA 2019",
     "url": "https://qiita.com/seya/items/2688dc539af217b7b111",
-    "likes_count": 460,
+    "likes_count": 461,
     "created_at": "2018-11-19T22:51:22+09:00",
     "updated_at": "2019-05-08T20:37:48+09:00",
     "id": "seya"
@@ -360,20 +360,20 @@
     "id": "yoshizaki_91"
   },
   {
+    "title": "正規表現を可視化してまとめたチートシート",
+    "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
+    "likes_count": 442,
+    "created_at": "2018-11-27T19:15:42+09:00",
+    "updated_at": "2020-05-25T15:52:26+09:00",
+    "id": "grrrr"
+  },
+  {
     "title": "【ファッション×テック】おしゃれ判定アプリを開発した",
     "url": "https://qiita.com/NakaokaRei/items/595fcb21ff10b84919ab",
     "likes_count": 441,
     "created_at": "2018-11-20T20:20:12+09:00",
     "updated_at": "2019-11-26T18:24:08+09:00",
     "id": "NakaokaRei"
-  },
-  {
-    "title": "正規表現を可視化してまとめたチートシート",
-    "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 441,
-    "created_at": "2018-11-27T19:15:42+09:00",
-    "updated_at": "2020-05-25T15:52:26+09:00",
-    "id": "grrrr"
   },
   {
     "title": "統計検定２級に楽に合格する方法",
@@ -402,7 +402,7 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 385,
+    "likes_count": 386,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
@@ -410,7 +410,7 @@
   {
     "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
     "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
-    "likes_count": 384,
+    "likes_count": 385,
     "created_at": "2018-11-19T10:38:23+09:00",
     "updated_at": "2020-09-01T15:55:23+09:00",
     "id": "amishiro"
@@ -450,7 +450,7 @@
   {
     "title": "iOS/Android セキュリティガイドライン",
     "url": "https://qiita.com/alt_yamamoto/items/f67a7ddb6ba13cca7369",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2018-11-20T17:51:33+09:00",
     "updated_at": "2020-01-22T10:02:28+09:00",
     "id": "alt_yamamoto"
@@ -474,7 +474,7 @@
   {
     "title": "Webアプリ初心者がGo言語でサーバサイド（1. 簡単なHTTPサーバの実装）",
     "url": "https://qiita.com/wsuzume/items/75d5c0cd2dd5a1963b9e",
-    "likes_count": 338,
+    "likes_count": 339,
     "created_at": "2018-11-06T00:29:50+09:00",
     "updated_at": "2018-11-06T01:08:22+09:00",
     "id": "wsuzume"
@@ -498,7 +498,7 @@
   {
     "title": "VS Code コーディング規約を快適に守る",
     "url": "https://qiita.com/firedfly/items/00c34018581c6cec9b84",
-    "likes_count": 304,
+    "likes_count": 305,
     "created_at": "2018-11-29T12:07:09+09:00",
     "updated_at": "2019-09-30T16:54:37+09:00",
     "id": "firedfly"

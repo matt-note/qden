@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2526,
+    "likes_count": 2527,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2475,
+    "likes_count": 2479,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1473,
+    "likes_count": 1475,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -42,7 +42,7 @@
   {
     "title": "意外と知らない？ Gitコマンド 100本ノック",
     "url": "https://qiita.com/ueki05/items/5c233773e3186989bfd3",
-    "likes_count": 1187,
+    "likes_count": 1188,
     "created_at": "2018-01-28T22:38:00+09:00",
     "updated_at": "2018-07-10T14:07:53+09:00",
     "id": "ueki05"
@@ -122,7 +122,7 @@
   {
     "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
     "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
-    "likes_count": 653,
+    "likes_count": 655,
     "created_at": "2018-01-26T15:42:01+09:00",
     "updated_at": "2021-03-04T09:24:13+09:00",
     "id": "gold-kou"
@@ -210,7 +210,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -218,7 +218,7 @@
   {
     "title": "CSSで「余白」を制してデザイナーに好かれよう",
     "url": "https://qiita.com/rhirayamaaan/items/78544723724ccc2a50e9",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2018-01-06T07:01:03+09:00",
     "updated_at": "2019-06-03T00:25:14+09:00",
     "id": "rhirayamaaan"
@@ -272,20 +272,20 @@
     "id": "rinpa"
   },
   {
+    "title": "JSのスプレッド構文を理解する",
+    "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
+    "likes_count": 410,
+    "created_at": "2018-01-20T15:37:58+09:00",
+    "updated_at": "2019-12-04T22:30:22+09:00",
+    "id": "akisx"
+  },
+  {
     "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
     "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
     "likes_count": 408,
     "created_at": "2018-01-10T20:19:27+09:00",
     "updated_at": "2019-04-20T22:30:46+09:00",
     "id": "zd6ir7"
-  },
-  {
-    "title": "JSのスプレッド構文を理解する",
-    "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 408,
-    "created_at": "2018-01-20T15:37:58+09:00",
-    "updated_at": "2019-12-04T22:30:22+09:00",
-    "id": "akisx"
   },
   {
     "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
@@ -298,7 +298,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 394,
+    "likes_count": 395,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
@@ -354,7 +354,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
@@ -362,7 +362,7 @@
   {
     "title": "Gitでローカルブランチを削除する",
     "url": "https://qiita.com/hogeta_/items/33d2334c9b1919bd5120",
-    "likes_count": 353,
+    "likes_count": 354,
     "created_at": "2018-01-11T18:24:12+09:00",
     "updated_at": "2020-01-16T14:28:12+09:00",
     "id": "hogeta_"
@@ -402,7 +402,7 @@
   {
     "title": "画像を扱う機械学習のためのデータセットまとめ",
     "url": "https://qiita.com/leetmikeal/items/7c0d23e39bf38ab8be23",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2018-01-09T18:37:32+09:00",
     "updated_at": "2019-02-05T09:40:32+09:00",
     "id": "leetmikeal"
@@ -418,7 +418,7 @@
   {
     "title": "Vim / Vi を終了させる方法",
     "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
-    "likes_count": 266,
+    "likes_count": 267,
     "created_at": "2018-01-09T22:50:55+09:00",
     "updated_at": "2019-11-01T09:15:26+09:00",
     "id": "kon_yu"

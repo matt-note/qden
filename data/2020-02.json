@@ -26,7 +26,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】",
     "url": "https://qiita.com/e869120/items/f1c6f98364d1443148b3",
-    "likes_count": 2341,
+    "likes_count": 2344,
     "created_at": "2020-02-19T19:00:12+09:00",
     "updated_at": "2020-08-03T18:45:32+09:00",
     "id": "e869120"
@@ -42,7 +42,7 @@
   {
     "title": "【動画付き】 draw.io 使い方まとめ 〜エンジニアでなくても使えるTips集〜",
     "url": "https://qiita.com/G-awa/items/8fd414700b68b2bcafcc",
-    "likes_count": 1881,
+    "likes_count": 1882,
     "created_at": "2020-02-09T23:07:17+09:00",
     "updated_at": "2020-02-09T23:09:21+09:00",
     "id": "G-awa"
@@ -58,7 +58,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】",
     "url": "https://qiita.com/e869120/items/eb50fdaece12be418faa",
-    "likes_count": 1590,
+    "likes_count": 1593,
     "created_at": "2020-02-19T19:00:56+09:00",
     "updated_at": "2021-02-19T00:13:29+09:00",
     "id": "e869120"
@@ -178,7 +178,7 @@
   {
     "title": "【PWA】YouTubeをみんなでワイワイ見るためのサービス、DJ7をローンチしました！",
     "url": "https://qiita.com/imataka7/items/03033f43861ae50e5ea0",
-    "likes_count": 746,
+    "likes_count": 747,
     "created_at": "2020-02-08T01:16:14+09:00",
     "updated_at": "2020-02-13T11:23:30+09:00",
     "id": "imataka7"
@@ -232,20 +232,20 @@
     "id": "croco_works"
   },
   {
+    "title": "JavaScriptの「演算子」を全種類言えますか？　～演算子とは何かを完全に理解する～",
+    "url": "https://qiita.com/uhyo/items/cc92a553059274d85403",
+    "likes_count": 490,
+    "created_at": "2020-02-24T17:02:35+09:00",
+    "updated_at": "2020-03-12T23:05:01+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "脱・Atomic Design - HTML+CSSコーディングの粒度分類法（HTML Parts）",
     "url": "https://qiita.com/croco_works/items/e34d1b0c0e50b37031d7",
     "likes_count": 490,
     "created_at": "2020-02-26T11:41:18+09:00",
     "updated_at": "2020-03-17T06:07:01+09:00",
     "id": "croco_works"
-  },
-  {
-    "title": "JavaScriptの「演算子」を全種類言えますか？　～演算子とは何かを完全に理解する～",
-    "url": "https://qiita.com/uhyo/items/cc92a553059274d85403",
-    "likes_count": 489,
-    "created_at": "2020-02-24T17:02:35+09:00",
-    "updated_at": "2020-03-12T23:05:01+09:00",
-    "id": "uhyo"
   },
   {
     "title": "ラズパイ4で作るディスプレイ付きKubernetesクラスター",
@@ -258,7 +258,7 @@
   {
     "title": "Django(Python)でシステム開発できるようになる記事_入門編",
     "url": "https://qiita.com/Saku731/items/ed64190a12a4498b9446",
-    "likes_count": 472,
+    "likes_count": 474,
     "created_at": "2020-02-16T10:50:36+09:00",
     "updated_at": "2021-03-26T11:27:54+09:00",
     "id": "Saku731"
@@ -266,7 +266,7 @@
   {
     "title": "高校生が自作OS（オペレーティングシステム）を作ってみた。",
     "url": "https://qiita.com/kkent030315/items/0060880ae0a99715b000",
-    "likes_count": 463,
+    "likes_count": 464,
     "created_at": "2020-02-05T04:43:47+09:00",
     "updated_at": "2020-02-06T16:27:08+09:00",
     "id": "kkent030315"
@@ -314,7 +314,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【上級編：目指せレッドコーダー！】",
     "url": "https://qiita.com/e869120/items/acba3dd8649d913102b5",
-    "likes_count": 421,
+    "likes_count": 423,
     "created_at": "2020-02-19T19:01:19+09:00",
     "updated_at": "2021-02-19T00:44:25+09:00",
     "id": "e869120"
@@ -338,7 +338,7 @@
   {
     "title": "Jamstackって何なの？何がいいの？",
     "url": "https://qiita.com/ozaki25/items/4075d03278d1fb51cc37",
-    "likes_count": 384,
+    "likes_count": 385,
     "created_at": "2020-02-08T02:59:23+09:00",
     "updated_at": "2020-11-06T00:52:23+09:00",
     "id": "ozaki25"
@@ -350,6 +350,14 @@
     "created_at": "2020-02-21T08:05:45+09:00",
     "updated_at": "2020-06-17T15:37:19+09:00",
     "id": "Taro_man"
+  },
+  {
+    "title": "なぜ僕たちはサーバレスでJavaを諦めTypescriptを採用したか",
+    "url": "https://qiita.com/Munchkin/items/eab39ed2a39aa20b5e54",
+    "likes_count": 358,
+    "created_at": "2020-02-05T00:50:10+09:00",
+    "updated_at": "2020-02-13T12:01:35+09:00",
+    "id": "Munchkin"
   },
   {
     "title": "【競プロ】AtCoder早解きテクニック10選 (灰 ~ 緑コーダー向け)",
@@ -366,14 +374,6 @@
     "created_at": "2020-02-11T15:54:31+09:00",
     "updated_at": "2020-04-01T16:35:39+09:00",
     "id": "ktkraoichi"
-  },
-  {
-    "title": "なぜ僕たちはサーバレスでJavaを諦めTypescriptを採用したか",
-    "url": "https://qiita.com/Munchkin/items/eab39ed2a39aa20b5e54",
-    "likes_count": 336,
-    "created_at": "2020-02-05T00:50:10+09:00",
-    "updated_at": "2020-02-13T12:01:35+09:00",
-    "id": "Munchkin"
   },
   {
     "title": "機械学習・アルゴリズム関連まとめ",
@@ -394,7 +394,7 @@
   {
     "title": "【これで無理なら諦めろ】オブジェクト指向を世界一分かりやすく説明する",
     "url": "https://qiita.com/okaeri_ryoma/items/c47b387dd93a0dfc8ec1",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2020-02-22T07:46:03+09:00",
     "updated_at": "2020-02-26T14:12:53+09:00",
     "id": "okaeri_ryoma"
@@ -402,7 +402,7 @@
   {
     "title": "Pythonのthreadingとmultiprocessingを完全理解",
     "url": "https://qiita.com/kaitolucifer/items/e4ace07bd8e112388c75",
-    "likes_count": 290,
+    "likes_count": 291,
     "created_at": "2020-02-26T20:35:18+09:00",
     "updated_at": "2020-11-04T17:00:44+09:00",
     "id": "kaitolucifer"

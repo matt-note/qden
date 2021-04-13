@@ -42,7 +42,7 @@
   {
     "title": "Rails開発におけるwebサーバーとアプリケーションサーバーの違い（翻訳）",
     "url": "https://qiita.com/jnchito/items/3884f9a2ccc057f8f3a3",
-    "likes_count": 1443,
+    "likes_count": 1446,
     "created_at": "2015-10-21T04:02:56+09:00",
     "updated_at": "2020-11-08T08:06:23+09:00",
     "id": "jnchito"
@@ -90,7 +90,7 @@
   {
     "title": "mysqldumpまとめ",
     "url": "https://qiita.com/PlanetMeron/items/3a41e14607a65bc9b60c",
-    "likes_count": 930,
+    "likes_count": 931,
     "created_at": "2015-10-06T16:00:00+09:00",
     "updated_at": "2018-08-30T11:16:46+09:00",
     "id": "PlanetMeron"
@@ -136,20 +136,20 @@
     "id": "1987yama3"
   },
   {
+    "title": "よく使うMySQLコマンド集",
+    "url": "https://qiita.com/CyberMergina/items/f889519e6be19c46f5f4",
+    "likes_count": 721,
+    "created_at": "2015-10-22T09:28:43+09:00",
+    "updated_at": "2021-02-18T15:44:00+09:00",
+    "id": "CyberMergina"
+  },
+  {
     "title": "Auto Layoutの設計ベストプラクティスと、Viewの種類ごとのテクニック集",
     "url": "https://qiita.com/yuya_presto/items/08b0656f67a59c8c2d03",
     "likes_count": 721,
     "created_at": "2015-10-28T02:56:59+09:00",
     "updated_at": "2015-11-16T10:50:47+09:00",
     "id": "yuya_presto"
-  },
-  {
-    "title": "よく使うMySQLコマンド集",
-    "url": "https://qiita.com/CyberMergina/items/f889519e6be19c46f5f4",
-    "likes_count": 720,
-    "created_at": "2015-10-22T09:28:43+09:00",
-    "updated_at": "2021-02-18T15:44:00+09:00",
-    "id": "CyberMergina"
   },
   {
     "title": "シェルスクリプト(bash)のif文とtestコマンド([])自分メモ",
@@ -194,7 +194,7 @@
   {
     "title": "ECMAScript6にシンボルができた理由",
     "url": "https://qiita.com/naruto/items/312adeb6145eb6221be7",
-    "likes_count": 579,
+    "likes_count": 580,
     "created_at": "2015-10-25T14:45:44+09:00",
     "updated_at": "2018-12-19T11:13:56+09:00",
     "id": "naruto"
@@ -352,20 +352,20 @@
     "id": "kaelaela"
   },
   {
+    "title": "Gitのリモートブランチを削除するまとめ",
+    "url": "https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9",
+    "likes_count": 374,
+    "created_at": "2015-10-20T12:53:06+09:00",
+    "updated_at": "2015-10-20T12:55:54+09:00",
+    "id": "yuu_ta"
+  },
+  {
     "title": "CUDAを使ったGPUプログラミング超入門",
     "url": "https://qiita.com/Keech/items/381495ed90e012d69f1a",
     "likes_count": 373,
     "created_at": "2015-10-18T09:54:23+09:00",
     "updated_at": "2015-10-18T09:54:23+09:00",
     "id": "Keech"
-  },
-  {
-    "title": "Gitのリモートブランチを削除するまとめ",
-    "url": "https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9",
-    "likes_count": 372,
-    "created_at": "2015-10-20T12:53:06+09:00",
-    "updated_at": "2015-10-20T12:55:54+09:00",
-    "id": "yuu_ta"
   },
   {
     "title": "クラウドサービスを活用して README にバッジをペタペタ貼る",
@@ -394,7 +394,7 @@
   {
     "title": "非同期や並列処理にも役立つRxJavaの使い方",
     "url": "https://qiita.com/disc99/items/1b2e44a1105008ec3ac9",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2015-10-26T07:04:22+09:00",
     "updated_at": "2017-03-25T09:56:46+09:00",
     "id": "disc99"
@@ -402,7 +402,7 @@
   {
     "title": "[JavaScript] オブジェクトの基礎",
     "url": "https://qiita.com/yoshi389111/items/245df2d642e49d2acf3a",
-    "likes_count": 339,
+    "likes_count": 340,
     "created_at": "2015-10-26T23:52:25+09:00",
     "updated_at": "2020-05-13T17:50:00+09:00",
     "id": "yoshi389111"
