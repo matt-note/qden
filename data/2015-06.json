@@ -18,7 +18,7 @@
   {
     "title": "出来る限り短く説明するReact.js入門",
     "url": "https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19",
-    "likes_count": 2020,
+    "likes_count": 2021,
     "created_at": "2015-06-21T23:39:15+09:00",
     "updated_at": "2021-04-09T10:45:16+09:00",
     "id": "rgbkids"
@@ -34,7 +34,7 @@
   {
     "title": "iOSの開発でお気に入りのライブラリN選",
     "url": "https://qiita.com/u651601f/items/08500df9246a6c208241",
-    "likes_count": 1847,
+    "likes_count": 1848,
     "created_at": "2015-06-18T15:49:52+09:00",
     "updated_at": "2015-06-18T15:49:52+09:00",
     "id": "u651601f"
@@ -58,7 +58,7 @@
   {
     "title": "Qiitaの数式チートシート",
     "url": "https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada",
-    "likes_count": 1389,
+    "likes_count": 1390,
     "created_at": "2015-06-14T01:44:10+09:00",
     "updated_at": "2021-03-02T09:29:21+09:00",
     "id": "PlanetMeron"
@@ -90,7 +90,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1116,
+    "likes_count": 1117,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -170,7 +170,7 @@
   {
     "title": "良いコードを書く技術（まとめ）",
     "url": "https://qiita.com/NoriakiOshita/items/e60ab5bb01b90d927ae5",
-    "likes_count": 682,
+    "likes_count": 681,
     "created_at": "2015-06-18T23:40:21+09:00",
     "updated_at": "2021-02-05T07:38:16+09:00",
     "id": "NoriakiOshita"
@@ -178,7 +178,7 @@
   {
     "title": "Chocolateyを使った環境構築の時のメモ",
     "url": "https://qiita.com/konta220/items/95b40b4647a737cb51aa",
-    "likes_count": 642,
+    "likes_count": 644,
     "created_at": "2015-06-18T15:16:42+09:00",
     "updated_at": "2020-11-10T21:33:47+09:00",
     "id": "konta220"
@@ -226,7 +226,7 @@
   {
     "title": "IT勉強会を探すために捗るサイトまとめ【9選】",
     "url": "https://qiita.com/kobaboy/items/6c80511a10122aa87d02",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2015-06-02T13:37:53+09:00",
     "updated_at": "2020-09-21T17:42:30+09:00",
     "id": "kobaboy"
@@ -266,7 +266,7 @@
   {
     "title": "JavaScript初心者脱却への道のりを考える",
     "url": "https://qiita.com/stkdev/items/cfe4678ac437cb2fdc9f",
-    "likes_count": 476,
+    "likes_count": 477,
     "created_at": "2015-06-26T03:39:19+09:00",
     "updated_at": "2016-01-11T02:14:44+09:00",
     "id": "stkdev"
@@ -352,20 +352,20 @@
     "id": "tanakh"
   },
   {
-    "title": "Railsでdeviseひとつで複数モデルを管理しよう",
-    "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
-    "likes_count": 403,
-    "created_at": "2015-06-27T22:31:44+09:00",
-    "updated_at": "2015-06-27T22:34:35+09:00",
-    "id": "Yama-to"
-  },
-  {
     "title": "JavaScript  忘れがちな　=== と == の違い",
     "url": "https://qiita.com/PianoScoreJP/items/e43d70ec188c6fed73ed",
-    "likes_count": 402,
+    "likes_count": 406,
     "created_at": "2015-06-16T00:02:27+09:00",
     "updated_at": "2015-06-16T00:02:27+09:00",
     "id": "PianoScoreJP"
+  },
+  {
+    "title": "Railsでdeviseひとつで複数モデルを管理しよう",
+    "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
+    "likes_count": 404,
+    "created_at": "2015-06-27T22:31:44+09:00",
+    "updated_at": "2015-06-27T22:34:35+09:00",
+    "id": "Yama-to"
   },
   {
     "title": "実用的な新機能が盛りだくさん！RSpec 3.3 完全ガイド",
@@ -386,7 +386,7 @@
   {
     "title": "ActiveRecordで生SQLを使いたいときに便利なメソッド達",
     "url": "https://qiita.com/yut_h1979/items/4cb3d9a3b3fc87ca0435",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2015-06-28T10:43:57+09:00",
     "updated_at": "2015-06-28T10:43:57+09:00",
     "id": "yut_h1979"
@@ -456,20 +456,20 @@
     "id": "terrierscript"
   },
   {
+    "title": "まずはここから！Linuxサーバでカジュアルに作業ログを取得する方法",
+    "url": "https://qiita.com/keigodasu/items/3eebbc079274ad8dd2c2",
+    "likes_count": 335,
+    "created_at": "2015-06-24T13:52:06+09:00",
+    "updated_at": "2015-06-25T08:33:55+09:00",
+    "id": "keigodasu"
+  },
+  {
     "title": "声優の声を分類してみた",
     "url": "https://qiita.com/1234224576/items/f785eef6eed68271be64",
     "likes_count": 334,
     "created_at": "2015-06-23T03:32:27+09:00",
     "updated_at": "2015-06-23T03:57:50+09:00",
     "id": "1234224576"
-  },
-  {
-    "title": "まずはここから！Linuxサーバでカジュアルに作業ログを取得する方法",
-    "url": "https://qiita.com/keigodasu/items/3eebbc079274ad8dd2c2",
-    "likes_count": 333,
-    "created_at": "2015-06-24T13:52:06+09:00",
-    "updated_at": "2015-06-25T08:33:55+09:00",
-    "id": "keigodasu"
   },
   {
     "title": "Qiita/Github/Slack/Discord 絵文字一覧",

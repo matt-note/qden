@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 2944,
+    "likes_count": 2945,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-03-18T14:08:23+09:00",
     "id": "upura"
@@ -74,7 +74,7 @@
   {
     "title": "実践/現場のPythonスクレイピング",
     "url": "https://qiita.com/ulwlu/items/c84501993635c72540a7",
-    "likes_count": 1344,
+    "likes_count": 1345,
     "created_at": "2019-03-18T13:10:31+09:00",
     "updated_at": "2021-04-01T20:28:12+09:00",
     "id": "ulwlu"
@@ -82,7 +82,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメのAI勉強方法 (2019年改定版)",
     "url": "https://qiita.com/tani_AI_Academy/items/ab2208e21a2215f8dfad",
-    "likes_count": 1315,
+    "likes_count": 1316,
     "created_at": "2019-03-23T22:30:31+09:00",
     "updated_at": "2019-06-21T17:42:42+09:00",
     "id": "tani_AI_Academy"
@@ -218,7 +218,7 @@
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 667,
+    "likes_count": 668,
     "created_at": "2019-03-14T23:15:05+09:00",
     "updated_at": "2020-12-13T21:40:32+09:00",
     "id": "nrslib"
@@ -234,7 +234,7 @@
   {
     "title": "[最新論文]NVIDIAさんがまた本気を出してしまった。",
     "url": "https://qiita.com/Phoeboooo/items/ad6c0461ab052aae8e89",
-    "likes_count": 625,
+    "likes_count": 626,
     "created_at": "2019-03-25T08:07:40+09:00",
     "updated_at": "2019-03-25T09:26:58+09:00",
     "id": "Phoeboooo"
@@ -250,7 +250,7 @@
   {
     "title": "なんとなくVue.jsのUIフレームワークを紹介する",
     "url": "https://qiita.com/yusuke_ten/items/4103f032dd0c6fbe5607",
-    "likes_count": 619,
+    "likes_count": 620,
     "created_at": "2019-03-05T17:07:02+09:00",
     "updated_at": "2019-03-06T09:00:57+09:00",
     "id": "yusuke_ten"
@@ -266,7 +266,7 @@
   {
     "title": "モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace",
     "url": "https://qiita.com/yu4u/items/078054dfb5592cbb80cc",
-    "likes_count": 580,
+    "likes_count": 581,
     "created_at": "2019-03-06T08:49:26+09:00",
     "updated_at": "2019-03-06T09:56:22+09:00",
     "id": "yu4u"
@@ -306,7 +306,7 @@
   {
     "title": "TypeScript の概要",
     "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 548,
+    "likes_count": 549,
     "created_at": "2019-03-18T13:33:09+09:00",
     "updated_at": "2019-07-18T07:59:21+09:00",
     "id": "EBIHARA_kenji"
@@ -314,7 +314,7 @@
   {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 532,
+    "likes_count": 536,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
@@ -410,7 +410,7 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"
@@ -448,6 +448,14 @@
     "id": "Akatsuki_py"
   },
   {
+    "title": "ダッシュボードを作ってみたらそんなに難しくない",
+    "url": "https://qiita.com/Hailee/items/2a8e22b78effe147de0d",
+    "likes_count": 377,
+    "created_at": "2019-03-04T15:23:14+09:00",
+    "updated_at": "2020-07-14T15:01:52+09:00",
+    "id": "Hailee"
+  },
+  {
     "title": "なんでみんなRunJS使わないのかわからない",
     "url": "https://qiita.com/y_shoji/items/6a28323eebdd37ced87d",
     "likes_count": 377,
@@ -462,14 +470,6 @@
     "created_at": "2019-03-22T20:21:49+09:00",
     "updated_at": "2019-04-04T14:22:15+09:00",
     "id": "tancoro"
-  },
-  {
-    "title": "ダッシュボードを作ってみたらそんなに難しくない",
-    "url": "https://qiita.com/Hailee/items/2a8e22b78effe147de0d",
-    "likes_count": 376,
-    "created_at": "2019-03-04T15:23:14+09:00",
-    "updated_at": "2020-07-14T15:01:52+09:00",
-    "id": "Hailee"
   },
   {
     "title": "Pythonの可視化ライブラリDashを使う　1",
@@ -522,7 +522,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -538,7 +538,7 @@
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"

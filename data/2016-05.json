@@ -2,7 +2,7 @@
   {
     "title": "ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】",
     "url": "https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08",
-    "likes_count": 9216,
+    "likes_count": 9244,
     "created_at": "2016-05-16T19:51:18+09:00",
     "updated_at": "2019-03-09T17:13:26+09:00",
     "id": "jacksuzuki"
@@ -10,7 +10,7 @@
   {
     "title": "Reactを使うとなぜjQueryが要らなくなるのか",
     "url": "https://qiita.com/naruto/items/fdb61bc743395f8d8faf",
-    "likes_count": 4332,
+    "likes_count": 4333,
     "created_at": "2016-05-09T11:45:42+09:00",
     "updated_at": "2020-08-13T19:13:42+09:00",
     "id": "naruto"
@@ -34,7 +34,7 @@
   {
     "title": "他言語から来た人がGoを使い始めてすぐハマったこととその答え",
     "url": "https://qiita.com/mumoshu/items/0d2f2a13c6e9fc8da2a4",
-    "likes_count": 1337,
+    "likes_count": 1338,
     "created_at": "2016-05-03T12:13:46+09:00",
     "updated_at": "2020-08-25T16:52:16+09:00",
     "id": "mumoshu"
@@ -42,7 +42,7 @@
   {
     "title": "redux-sagaで非同期処理と戦う",
     "url": "https://qiita.com/kuy/items/716affc808ebb3e1e8ac",
-    "likes_count": 1270,
+    "likes_count": 1271,
     "created_at": "2016-05-13T16:48:05+09:00",
     "updated_at": "2018-02-05T09:08:38+09:00",
     "id": "kuy"
@@ -114,7 +114,7 @@
   {
     "title": "LaravelのORMで初心者から職人へ",
     "url": "https://qiita.com/henriquebremenkanp/items/cd13944b0281297217a9",
-    "likes_count": 778,
+    "likes_count": 779,
     "created_at": "2016-05-29T19:05:09+09:00",
     "updated_at": "2020-09-14T15:51:02+09:00",
     "id": "henriquebremenkanp"
@@ -146,7 +146,7 @@
   {
     "title": "使うと手放せなくなるSwift Extension集 (Swift2版)",
     "url": "https://qiita.com/tattn/items/647e094936287a6bd2d3",
-    "likes_count": 687,
+    "likes_count": 688,
     "created_at": "2016-05-22T19:36:22+09:00",
     "updated_at": "2016-09-15T02:39:31+09:00",
     "id": "tattn"
@@ -154,10 +154,18 @@
   {
     "title": "Pythonのimportについてまとめる",
     "url": "https://qiita.com/suzuki-hoge/items/f951d56290617df4279e",
-    "likes_count": 664,
+    "likes_count": 665,
     "created_at": "2016-05-17T10:03:10+09:00",
     "updated_at": "2016-05-17T10:09:16+09:00",
     "id": "suzuki-hoge"
+  },
+  {
+    "title": "Spring MVC(+Spring Boot)上でのリクエスト共通処理の実装方法を理解する",
+    "url": "https://qiita.com/kazuki43zoo/items/757b557c05f548c6c5db",
+    "likes_count": 646,
+    "created_at": "2016-05-14T05:47:45+09:00",
+    "updated_at": "2020-04-21T23:01:02+09:00",
+    "id": "kazuki43zoo"
   },
   {
     "title": "スマホアプリ開発時にさくっと叩けるAPIサーバをnginx・Let’s encrypt・JSON Serverで構築する",
@@ -168,17 +176,9 @@
     "id": "uti"
   },
   {
-    "title": "Spring MVC(+Spring Boot)上でのリクエスト共通処理の実装方法を理解する",
-    "url": "https://qiita.com/kazuki43zoo/items/757b557c05f548c6c5db",
-    "likes_count": 645,
-    "created_at": "2016-05-14T05:47:45+09:00",
-    "updated_at": "2020-04-21T23:01:02+09:00",
-    "id": "kazuki43zoo"
-  },
-  {
     "title": "[翻訳] Airbnb React/JSX Style Guide",
     "url": "https://qiita.com/yamadashy/items/e64762e407b8dd5e0247",
-    "likes_count": 635,
+    "likes_count": 637,
     "created_at": "2016-05-29T17:19:44+09:00",
     "updated_at": "2020-01-21T11:53:34+09:00",
     "id": "yamadashy"
@@ -186,7 +186,7 @@
   {
     "title": "Git submoduleの押さえておきたい理解ポイントのまとめ",
     "url": "https://qiita.com/kinpira/items/3309eb2e5a9a422199e9",
-    "likes_count": 616,
+    "likes_count": 618,
     "created_at": "2016-05-06T02:42:20+09:00",
     "updated_at": "2019-03-12T12:37:28+09:00",
     "id": "kinpira"
@@ -266,7 +266,7 @@
   {
     "title": "PHPで日付時刻処理を書くならCarbonを使うべき",
     "url": "https://qiita.com/yudsuzuk/items/ff894bd0b76d4657741d",
-    "likes_count": 471,
+    "likes_count": 472,
     "created_at": "2016-05-01T14:56:52+09:00",
     "updated_at": "2016-05-01T15:06:18+09:00",
     "id": "yudsuzuk"
@@ -288,6 +288,14 @@
     "id": "mituoh"
   },
   {
+    "title": "DataTablesの使い方",
+    "url": "https://qiita.com/nissuk/items/7ac59af5de427c0585c5",
+    "likes_count": 440,
+    "created_at": "2016-05-08T00:36:17+09:00",
+    "updated_at": "2017-04-18T23:11:43+09:00",
+    "id": "nissuk"
+  },
+  {
     "title": "TensorFlowで学習したモデルを使ってiOS/Swiftで実行する",
     "url": "https://qiita.com/koher/items/2c0bfca4d6e31cde674b",
     "likes_count": 440,
@@ -296,17 +304,9 @@
     "id": "koher"
   },
   {
-    "title": "DataTablesの使い方",
-    "url": "https://qiita.com/nissuk/items/7ac59af5de427c0585c5",
-    "likes_count": 439,
-    "created_at": "2016-05-08T00:36:17+09:00",
-    "updated_at": "2017-04-18T23:11:43+09:00",
-    "id": "nissuk"
-  },
-  {
     "title": "JavascriptのAjaxについての基本まとめ",
     "url": "https://qiita.com/katsunory/items/9bf9ee49ee5c08bf2b3d",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2016-05-04T11:40:55+09:00",
     "updated_at": "2018-01-21T15:08:15+09:00",
     "id": "katsunory"
@@ -354,7 +354,7 @@
   {
     "title": "プログラムの依存関係とモジュール構成のこと",
     "url": "https://qiita.com/wm3/items/2c90bfd9e973d368ebd8",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2016-05-09T09:20:00+09:00",
     "updated_at": "2019-09-27T01:43:46+09:00",
     "id": "wm3"
@@ -394,7 +394,7 @@
   {
     "title": "ASP.NET 入門の書",
     "url": "https://qiita.com/Kei18/items/1a9b936216bd2458ec08",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2016-06-01T01:39:21+09:00",
     "updated_at": "2016-06-01T01:39:21+09:00",
     "id": "Kei18"
@@ -538,7 +538,7 @@
   {
     "title": "PDF.jsを設置する",
     "url": "https://qiita.com/nissuk/items/01d0490e19dff6e19a03",
-    "likes_count": 241,
+    "likes_count": 242,
     "created_at": "2016-05-04T21:57:31+09:00",
     "updated_at": "2016-09-18T22:03:58+09:00",
     "id": "nissuk"
