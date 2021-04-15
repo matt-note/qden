@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5445,
+    "likes_count": 5444,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2026,
+    "likes_count": 2027,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1255,
+    "likes_count": 1256,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -66,7 +66,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1124,
+    "likes_count": 1126,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -98,7 +98,7 @@
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
     "url": "https://qiita.com/YudaiTsukamoto/items/06b426f4dbee268d5035",
-    "likes_count": 886,
+    "likes_count": 887,
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2017-12-14T17:04:47+09:00",
     "id": "YudaiTsukamoto"
@@ -106,7 +106,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 885,
+    "likes_count": 886,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -170,7 +170,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 799,
+    "likes_count": 800,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -178,7 +178,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 797,
+    "likes_count": 798,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -226,7 +226,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 726,
+    "likes_count": 727,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -258,7 +258,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 674,
+    "likes_count": 676,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -330,7 +330,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 560,
+    "likes_count": 561,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -368,20 +368,20 @@
     "id": "mgmg121"
   },
   {
+    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
+    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
+    "likes_count": 524,
+    "created_at": "2017-12-22T11:55:57+09:00",
+    "updated_at": "2019-07-11T10:18:55+09:00",
+    "id": "megadreams14"
+  },
+  {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
     "likes_count": 523,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
-  },
-  {
-    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
-    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 523,
-    "created_at": "2017-12-22T11:55:57+09:00",
-    "updated_at": "2019-07-11T10:18:55+09:00",
-    "id": "megadreams14"
   },
   {
     "title": "わかりやすい画像のdiffを求めて",
@@ -450,7 +450,7 @@
   {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
@@ -490,7 +490,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 421,
+    "likes_count": 422,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -498,7 +498,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2020-05-03T15:49:07+09:00",
     "id": "KTakahiro1729"
@@ -522,7 +522,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2021-02-20T14:11:08+09:00",
     "id": "sorami"
@@ -578,7 +578,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -594,10 +594,18 @@
   {
     "title": "(2017年12月時点) 私的 CloudFormation ベストプラクティス",
     "url": "https://qiita.com/yasuhiroki/items/8463eed1c78123313a6f",
-    "likes_count": 359,
+    "likes_count": 361,
     "created_at": "2017-12-23T12:49:57+09:00",
     "updated_at": "2020-01-24T11:29:13+09:00",
     "id": "yasuhiroki"
+  },
+  {
+    "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
+    "url": "https://qiita.com/takish/items/a58c1517c6ac5887ba87",
+    "likes_count": 358,
+    "created_at": "2017-12-19T18:52:47+09:00",
+    "updated_at": "2018-09-27T10:37:03+09:00",
+    "id": "takish"
   },
   {
     "title": "Reactを使って本気でアンケートシステムをつくった",
@@ -606,14 +614,6 @@
     "created_at": "2017-12-25T22:56:51+09:00",
     "updated_at": "2017-12-26T16:01:27+09:00",
     "id": "jirokun"
-  },
-  {
-    "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
-    "url": "https://qiita.com/takish/items/a58c1517c6ac5887ba87",
-    "likes_count": 357,
-    "created_at": "2017-12-19T18:52:47+09:00",
-    "updated_at": "2018-09-27T10:37:03+09:00",
-    "id": "takish"
   },
   {
     "title": "t-SNEによるイケてる次元圧縮&可視化",
@@ -698,7 +698,7 @@
   {
     "title": "線形な手法とカーネル法（回帰分析）",
     "url": "https://qiita.com/wsuzume/items/09a59036c8944fd563ff",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2017-12-07T02:39:13+09:00",
     "updated_at": "2020-11-28T13:29:32+09:00",
     "id": "wsuzume"
@@ -762,7 +762,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
@@ -786,7 +786,7 @@
   {
     "title": "Google Apps Script (GAS) で毎週 30 分の雑務を自動化した話",
     "url": "https://qiita.com/tanabee/items/e51f107f1e95a42cc636",
-    "likes_count": 249,
+    "likes_count": 250,
     "created_at": "2017-12-19T15:41:47+09:00",
     "updated_at": "2018-12-21T11:07:32+09:00",
     "id": "tanabee"
