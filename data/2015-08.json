@@ -2,7 +2,7 @@
   {
     "title": "Cookieとセッションをちゃんと理解する",
     "url": "https://qiita.com/hththt/items/07136ad74127999df271",
-    "likes_count": 2297,
+    "likes_count": 2298,
     "created_at": "2015-08-07T19:37:58+09:00",
     "updated_at": "2020-01-20T12:54:29+09:00",
     "id": "hththt"
@@ -66,7 +66,7 @@
   {
     "title": "YAPC Asia 2015「Google Cloud Platformの謎テクノロジーを掘り下げる」のまとめ",
     "url": "https://qiita.com/kazunori279/items/3ce0ba40e83c8cc6e580",
-    "likes_count": 817,
+    "likes_count": 816,
     "created_at": "2015-08-26T09:03:57+09:00",
     "updated_at": "2015-09-02T23:30:38+09:00",
     "id": "kazunori279"
@@ -138,7 +138,7 @@
   {
     "title": "iOS 課金まとめ",
     "url": "https://qiita.com/kayo311/items/4adeed1048064d9f41f2",
-    "likes_count": 605,
+    "likes_count": 607,
     "created_at": "2015-08-16T19:26:59+09:00",
     "updated_at": "2019-07-03T19:56:40+09:00",
     "id": "kayo311"
@@ -186,7 +186,7 @@
   {
     "title": "個人的な良い記事のガイドライン = 2ヶ月前の自分が泣いて喜ぶような記事を書く",
     "url": "https://qiita.com/jnchito/items/5c3eb3640ad57b3edc6c",
-    "likes_count": 426,
+    "likes_count": 427,
     "created_at": "2015-08-26T08:03:39+09:00",
     "updated_at": "2015-09-22T08:47:53+09:00",
     "id": "jnchito"
@@ -328,14 +328,6 @@
     "id": "uzresk"
   },
   {
-    "title": "【Android】RecyclerViewの基本的な実装",
-    "url": "https://qiita.com/HideMatsu/items/a9ab48608e4f681d31fe",
-    "likes_count": 284,
-    "created_at": "2015-08-13T12:14:41+09:00",
-    "updated_at": "2016-08-24T20:10:37+09:00",
-    "id": "HideMatsu"
-  },
-  {
     "title": "モナドについてSwiftで説明してみた",
     "url": "https://qiita.com/koher/items/12f72f2fc2db7fa709cf",
     "likes_count": 284,
@@ -350,6 +342,14 @@
     "created_at": "2015-08-04T14:21:35+09:00",
     "updated_at": "2016-01-12T03:25:00+09:00",
     "id": "hausen6"
+  },
+  {
+    "title": "【Android】RecyclerViewの基本的な実装",
+    "url": "https://qiita.com/HideMatsu/items/a9ab48608e4f681d31fe",
+    "likes_count": 283,
+    "created_at": "2015-08-13T12:14:41+09:00",
+    "updated_at": "2016-08-24T20:10:37+09:00",
+    "id": "HideMatsu"
   },
   {
     "title": "react-railsでサーバーサイドレンダリングしつつクライアントでsetStateできて最高になった",

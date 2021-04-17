@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 4986,
+    "likes_count": 4987,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4660,
+    "likes_count": 4662,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -26,7 +26,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2586,
+    "likes_count": 2590,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1592,
+    "likes_count": 1594,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1533,
+    "likes_count": 1534,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -114,7 +114,7 @@
   {
     "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
     "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
-    "likes_count": 879,
+    "likes_count": 880,
     "created_at": "2018-05-21T13:12:10+09:00",
     "updated_at": "2021-02-22T08:28:15+09:00",
     "id": "kazukimatsumoto"
@@ -122,7 +122,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 864,
+    "likes_count": 866,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -152,20 +152,20 @@
     "id": "skotaro"
   },
   {
+    "title": "ArgumentParserの使い方を簡単にまとめた",
+    "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
+    "likes_count": 696,
+    "created_at": "2018-05-24T23:54:26+09:00",
+    "updated_at": "2020-06-27T13:55:46+09:00",
+    "id": "kzkadc"
+  },
+  {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
     "likes_count": 694,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
-  },
-  {
-    "title": "ArgumentParserの使い方を簡単にまとめた",
-    "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 694,
-    "created_at": "2018-05-24T23:54:26+09:00",
-    "updated_at": "2020-06-27T13:55:46+09:00",
-    "id": "kzkadc"
   },
   {
     "title": "Webブラウザの作り方",
@@ -224,20 +224,20 @@
     "id": "ymg_aq"
   },
   {
+    "title": "docker と docker-compose の初歩",
+    "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
+    "likes_count": 601,
+    "created_at": "2018-05-26T16:12:48+09:00",
+    "updated_at": "2020-09-03T15:39:51+09:00",
+    "id": "hiyuzawa"
+  },
+  {
     "title": "名刺の代わりにCLIアプリを書く",
     "url": "https://qiita.com/akameco/items/e0af9e3cdf1cdb6fca61",
     "likes_count": 600,
     "created_at": "2018-05-15T22:47:19+09:00",
     "updated_at": "2018-05-16T09:36:33+09:00",
     "id": "akameco"
-  },
-  {
-    "title": "docker と docker-compose の初歩",
-    "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 600,
-    "created_at": "2018-05-26T16:12:48+09:00",
-    "updated_at": "2020-09-03T15:39:51+09:00",
-    "id": "hiyuzawa"
   },
   {
     "title": "[macOS向け] gitのクライアントはGitUpがいいぞ。",
@@ -250,7 +250,7 @@
   {
     "title": "結局、機械学習と統計学は何が違うのか？",
     "url": "https://qiita.com/KanNishida/items/8ab8553b17cb57e772d6",
-    "likes_count": 582,
+    "likes_count": 583,
     "created_at": "2018-05-07T15:47:30+09:00",
     "updated_at": "2018-05-08T03:19:12+09:00",
     "id": "KanNishida"
@@ -346,7 +346,7 @@
   {
     "title": "ROS講座00 目次",
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2018-05-02T09:27:43+09:00",
     "updated_at": "2021-04-10T09:58:53+09:00",
     "id": "srs"
@@ -362,7 +362,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 482,
+    "likes_count": 483,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -490,7 +490,7 @@
   {
     "title": "VirtualBox のネットワークアダプタまとめ",
     "url": "https://qiita.com/pitao/items/0f9475e4c0e230911eb7",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2018-05-01T14:40:59+09:00",
     "updated_at": "2021-01-01T22:57:59+09:00",
     "id": "pitao"
@@ -498,7 +498,7 @@
   {
     "title": "SSH公開鍵認証で接続するまで",
     "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 299,
+    "likes_count": 300,
     "created_at": "2018-05-06T12:00:20+09:00",
     "updated_at": "2020-10-13T06:08:24+09:00",
     "id": "kazokmr"
