@@ -10,10 +10,18 @@
   {
     "title": "ls よりも exa を使おう！モダンな Linux コマンド達を紹介",
     "url": "https://qiita.com/navitime_tech/items/c249269a3b47666c784b",
-    "likes_count": 3234,
+    "likes_count": 3235,
     "created_at": "2020-02-25T10:59:38+09:00",
     "updated_at": "2020-02-25T11:52:32+09:00",
     "id": "navitime_tech"
+  },
+  {
+    "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】",
+    "url": "https://qiita.com/e869120/items/f1c6f98364d1443148b3",
+    "likes_count": 2360,
+    "created_at": "2020-02-19T19:00:12+09:00",
+    "updated_at": "2020-08-03T18:45:32+09:00",
+    "id": "e869120"
   },
   {
     "title": "2020年にWebフロントエンドを勉強する人が作るべきたったひとつのアプリ",
@@ -22,14 +30,6 @@
     "created_at": "2020-02-04T11:01:51+09:00",
     "updated_at": "2020-02-09T10:52:17+09:00",
     "id": "Dragon-taro"
-  },
-  {
-    "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】",
-    "url": "https://qiita.com/e869120/items/f1c6f98364d1443148b3",
-    "likes_count": 2357,
-    "created_at": "2020-02-19T19:00:12+09:00",
-    "updated_at": "2020-08-03T18:45:32+09:00",
-    "id": "e869120"
   },
   {
     "title": "プログラムの可読性を上げるための条件分岐を減らす方法7個",
@@ -50,7 +50,7 @@
   {
     "title": "Excel設計書を抹殺したくて4年前にWiki設計書を導入したら、意外とちゃんと開発回ってた話。",
     "url": "https://qiita.com/gakuri/items/93b06fb47eb538d2e447",
-    "likes_count": 1690,
+    "likes_count": 1692,
     "created_at": "2020-02-24T07:37:56+09:00",
     "updated_at": "2020-02-25T08:16:06+09:00",
     "id": "gakuri"
@@ -58,7 +58,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】",
     "url": "https://qiita.com/e869120/items/eb50fdaece12be418faa",
-    "likes_count": 1597,
+    "likes_count": 1605,
     "created_at": "2020-02-19T19:00:56+09:00",
     "updated_at": "2021-02-19T00:13:29+09:00",
     "id": "e869120"
@@ -80,20 +80,20 @@
     "id": "yuki_ycino"
   },
   {
+    "title": "TypeScriptをプロダクト開発に使う上でのベストプラクティスと心得",
+    "url": "https://qiita.com/jagaapple/items/ce0da04be28c35dc7d4f",
+    "likes_count": 1263,
+    "created_at": "2020-02-04T21:25:15+09:00",
+    "updated_at": "2020-10-31T21:56:09+09:00",
+    "id": "jagaapple"
+  },
+  {
     "title": "「募ってはいるが、募集はしていない」 人たちへ",
     "url": "https://qiita.com/omiita/items/0f811f15e569bf2539b8",
     "likes_count": 1258,
     "created_at": "2020-02-19T07:34:28+09:00",
     "updated_at": "2020-08-12T20:05:55+09:00",
     "id": "omiita"
-  },
-  {
-    "title": "TypeScriptをプロダクト開発に使う上でのベストプラクティスと心得",
-    "url": "https://qiita.com/jagaapple/items/ce0da04be28c35dc7d4f",
-    "likes_count": 1256,
-    "created_at": "2020-02-04T21:25:15+09:00",
-    "updated_at": "2020-10-31T21:56:09+09:00",
-    "id": "jagaapple"
   },
   {
     "title": "WEB開発に役に立つAPI一覧+API毎に関連するQiita記事を分類 ！",
@@ -138,7 +138,7 @@
   {
     "title": "GraphQLの全体像とWebApp開発のこれから",
     "url": "https://qiita.com/saboyutaka/items/171f7382cdf75b67d076",
-    "likes_count": 1048,
+    "likes_count": 1051,
     "created_at": "2020-02-24T16:21:54+09:00",
     "updated_at": "2021-02-11T10:53:19+09:00",
     "id": "saboyutaka"
@@ -330,7 +330,7 @@
   {
     "title": "Jamstackって何なの？何がいいの？",
     "url": "https://qiita.com/ozaki25/items/4075d03278d1fb51cc37",
-    "likes_count": 401,
+    "likes_count": 403,
     "created_at": "2020-02-08T02:59:23+09:00",
     "updated_at": "2020-11-06T00:52:23+09:00",
     "id": "ozaki25"
@@ -360,20 +360,20 @@
     "id": "Munchkin"
   },
   {
-    "title": "文章に関わる全ての人のための Git & GitHub 入門 1-1「Git と GitHub を使うメリット」",
-    "url": "https://qiita.com/ktkraoichi/items/6b31644e4832882310d8",
-    "likes_count": 356,
-    "created_at": "2020-02-11T15:54:31+09:00",
-    "updated_at": "2020-04-01T16:35:39+09:00",
-    "id": "ktkraoichi"
-  },
-  {
     "title": "【競プロ】AtCoder早解きテクニック10選 (灰 ~ 緑コーダー向け)",
     "url": "https://qiita.com/xryuseix/items/7e9b4c6f12d001a0c0db",
     "likes_count": 356,
     "created_at": "2020-02-25T09:09:42+09:00",
     "updated_at": "2020-10-10T13:23:04+09:00",
     "id": "xryuseix"
+  },
+  {
+    "title": "文章に関わる全ての人のための Git & GitHub 入門 1-1「Git と GitHub を使うメリット」",
+    "url": "https://qiita.com/ktkraoichi/items/6b31644e4832882310d8",
+    "likes_count": 355,
+    "created_at": "2020-02-11T15:54:31+09:00",
+    "updated_at": "2020-04-01T16:35:39+09:00",
+    "id": "ktkraoichi"
   },
   {
     "title": "機械学習・アルゴリズム関連まとめ",

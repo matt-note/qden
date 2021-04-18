@@ -2,7 +2,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 3899,
+    "likes_count": 3900,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -34,7 +34,7 @@
   {
     "title": "2016年 独りで新規WEBサービスを開発・運用した際の知見",
     "url": "https://qiita.com/haminiku/items/711cbdb894d1d6839e3e",
-    "likes_count": 3157,
+    "likes_count": 3159,
     "created_at": "2016-01-06T06:46:37+09:00",
     "updated_at": "2016-02-23T06:50:34+09:00",
     "id": "haminiku"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2346,
+    "likes_count": 2348,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -90,7 +90,7 @@
   {
     "title": "JavaScriptの同期、非同期、コールバック、プロミス辺りを整理してみる",
     "url": "https://qiita.com/YoshikiNakamura/items/732ded26c85a7f771a27",
-    "likes_count": 1114,
+    "likes_count": 1113,
     "created_at": "2016-01-27T23:28:04+09:00",
     "updated_at": "2018-10-25T20:39:56+09:00",
     "id": "YoshikiNakamura"
@@ -226,7 +226,7 @@
   {
     "title": "再帰型ニューラルネットワーク: RNN入門",
     "url": "https://qiita.com/kiminaka/items/87afd4a433dc655d8cfd",
-    "likes_count": 726,
+    "likes_count": 727,
     "created_at": "2016-01-14T11:53:46+09:00",
     "updated_at": "2017-02-12T14:02:52+09:00",
     "id": "kiminaka"
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
     "url": "https://qiita.com/wadahiro/items/eb50ac6bbe2e18cf8813",
-    "likes_count": 657,
+    "likes_count": 656,
     "created_at": "2016-01-27T02:08:49+09:00",
     "updated_at": "2018-06-18T12:00:54+09:00",
     "id": "wadahiro"
@@ -258,7 +258,7 @@
   {
     "title": "Rails：Service層を運用して良かったところ、悪かったところ",
     "url": "https://qiita.com/joooee0000/items/369fd4676cd9dfb1f6eb",
-    "likes_count": 594,
+    "likes_count": 595,
     "created_at": "2016-01-28T23:09:44+09:00",
     "updated_at": "2018-05-25T13:27:30+09:00",
     "id": "joooee0000"
@@ -368,6 +368,14 @@
     "id": "YusukeHosonuma"
   },
   {
+    "title": "Docker compose ことはじめハンズオン",
+    "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
+    "likes_count": 448,
+    "created_at": "2016-01-05T01:32:35+09:00",
+    "updated_at": "2019-10-09T21:04:14+09:00",
+    "id": "TsutomuNakamura"
+  },
+  {
     "title": "TypeScript超入門(2)：構文を理解する",
     "url": "https://qiita.com/ringtail003/items/7ccf992f18b768e0e633",
     "likes_count": 448,
@@ -376,17 +384,9 @@
     "id": "ringtail003"
   },
   {
-    "title": "Docker compose ことはじめハンズオン",
-    "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 447,
-    "created_at": "2016-01-05T01:32:35+09:00",
-    "updated_at": "2019-10-09T21:04:14+09:00",
-    "id": "TsutomuNakamura"
-  },
-  {
     "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2016-01-13T16:12:45+09:00",
     "updated_at": "2019-01-17T11:55:19+09:00",
     "id": "naoki_mochizuki"
@@ -400,20 +400,20 @@
     "id": "KeithYokoma"
   },
   {
+    "title": "爆速でターミナルを使うためのショートカット集",
+    "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
+    "likes_count": 429,
+    "created_at": "2016-01-19T01:33:35+09:00",
+    "updated_at": "2019-12-23T11:08:38+09:00",
+    "id": "akito"
+  },
+  {
     "title": "プログラマーのためのR言語入門",
     "url": "https://qiita.com/stkdev/items/6aba2c1db2fa056170ae",
     "likes_count": 427,
     "created_at": "2016-01-18T07:47:46+09:00",
     "updated_at": "2017-12-26T19:33:11+09:00",
     "id": "stkdev"
-  },
-  {
-    "title": "爆速でターミナルを使うためのショートカット集",
-    "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
-    "likes_count": 427,
-    "created_at": "2016-01-19T01:33:35+09:00",
-    "updated_at": "2019-12-23T11:08:38+09:00",
-    "id": "akito"
   },
   {
     "title": "ニューラルネットワーク、多様体、トポロジー",
@@ -706,7 +706,7 @@
   {
     "title": "【重要】 Qiitaの良記事を、カテゴリ別に分けてみました。",
     "url": "https://qiita.com/kurosawa_kuro/items/c499bc363a1189b89b00",
-    "likes_count": 183,
+    "likes_count": 184,
     "created_at": "2016-01-09T22:19:58+09:00",
     "updated_at": "2018-01-28T21:34:25+09:00",
     "id": "kurosawa_kuro"
