@@ -42,7 +42,7 @@
   {
     "title": "私たちはどうして公式ドキュメントが読めないのか？",
     "url": "https://qiita.com/hiraike32/items/f0a211cceb0ecc516b6c",
-    "likes_count": 1437,
+    "likes_count": 1438,
     "created_at": "2019-02-12T00:03:40+09:00",
     "updated_at": "2019-02-19T12:07:24+09:00",
     "id": "hiraike32"
@@ -58,7 +58,7 @@
   {
     "title": "AtCoderの問題を分類しました",
     "url": "https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54",
-    "likes_count": 898,
+    "likes_count": 899,
     "created_at": "2019-02-26T18:22:38+09:00",
     "updated_at": "2020-03-13T19:40:37+09:00",
     "id": "KoyanagiHitoshi"
@@ -130,7 +130,7 @@
   {
     "title": "新人ではないがGit初心者であるエンジニアが「このリポジトリをフォークしてローカルで開発できるようにしておいて！」と言われた時にやること",
     "url": "https://qiita.com/sky0621/items/8b6e88f4327b42ade5d7",
-    "likes_count": 728,
+    "likes_count": 729,
     "created_at": "2019-02-14T01:04:39+09:00",
     "updated_at": "2020-09-28T22:59:40+09:00",
     "id": "sky0621"
@@ -146,10 +146,18 @@
   {
     "title": "TypeScript + Node.js プロジェクトのはじめかた2020",
     "url": "https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49",
-    "likes_count": 684,
+    "likes_count": 685,
     "created_at": "2019-02-08T17:25:22+09:00",
     "updated_at": "2020-08-12T17:09:33+09:00",
     "id": "notakaos"
+  },
+  {
+    "title": "化学系研究者が完全未経験からWeb系自社開発企業に転職するまで",
+    "url": "https://qiita.com/fuku_tech/items/b8db09720c6d38eb27b9",
+    "likes_count": 679,
+    "created_at": "2019-02-26T23:00:10+09:00",
+    "updated_at": "2021-01-17T10:36:50+09:00",
+    "id": "fuku_tech"
   },
   {
     "title": "開発が捗るかもしれない(面白い)ダミー画像,テキストまとめ",
@@ -158,14 +166,6 @@
     "created_at": "2019-02-27T18:09:40+09:00",
     "updated_at": "2019-05-20T12:44:09+09:00",
     "id": "redshoga"
-  },
-  {
-    "title": "化学系研究者が完全未経験からWeb系自社開発企業に転職するまで",
-    "url": "https://qiita.com/fuku_tech/items/b8db09720c6d38eb27b9",
-    "likes_count": 678,
-    "created_at": "2019-02-26T23:00:10+09:00",
-    "updated_at": "2021-01-17T10:36:50+09:00",
-    "id": "fuku_tech"
   },
   {
     "title": "元プロゲーマーが知識0からプログラマーになって2年でアプリ8本リリースするまでの話",
@@ -226,7 +226,7 @@
   {
     "title": "Ruby on Rails, Vue.js で始めるモダン WEB アプリケーション入門",
     "url": "https://qiita.com/tatsurou313/items/4f18c0d4d231e2fb55f4",
-    "likes_count": 521,
+    "likes_count": 524,
     "created_at": "2019-02-11T21:12:11+09:00",
     "updated_at": "2021-02-17T02:18:28+09:00",
     "id": "tatsurou313"
@@ -234,7 +234,7 @@
   {
     "title": "TypeScriptの型演習",
     "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 513,
+    "likes_count": 514,
     "created_at": "2019-02-23T18:09:59+09:00",
     "updated_at": "2020-05-22T11:16:41+09:00",
     "id": "uhyo"
@@ -336,20 +336,20 @@
     "id": "yoyoyoyoyo"
   },
   {
+    "title": "今さら聞けない？Vue Router",
+    "url": "https://qiita.com/hshota28/items/765cf903f055754f7557",
+    "likes_count": 407,
+    "created_at": "2019-02-25T04:17:35+09:00",
+    "updated_at": "2019-02-25T15:34:55+09:00",
+    "id": "hshota28"
+  },
+  {
     "title": "SVGを使うときに知っておくといいことをまとめました",
     "url": "https://qiita.com/manabuyasuda/items/01a76204f97cd73ffc4e",
     "likes_count": 406,
     "created_at": "2019-02-22T19:47:54+09:00",
     "updated_at": "2019-03-06T14:47:30+09:00",
     "id": "manabuyasuda"
-  },
-  {
-    "title": "今さら聞けない？Vue Router",
-    "url": "https://qiita.com/hshota28/items/765cf903f055754f7557",
-    "likes_count": 406,
-    "created_at": "2019-02-25T04:17:35+09:00",
-    "updated_at": "2019-02-25T15:34:55+09:00",
-    "id": "hshota28"
   },
   {
     "title": "VueとSVGを使ってシューティングゲーム『ネコ🐱メザシ🐟アタック🌟』を作ったのでソースと解説",
@@ -386,7 +386,7 @@
   {
     "title": "AWS + Laravel + Vue.js でQiitaのストックを整理するサービスを作りました！【個人開発】",
     "url": "https://qiita.com/kobayashi-m42/items/14e137727ffda3bf79e7",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2019-02-18T00:02:21+09:00",
     "updated_at": "2019-05-19T02:58:01+09:00",
     "id": "kobayashi-m42"
@@ -394,7 +394,7 @@
   {
     "title": "【JavaScript】lodashの使い方",
     "url": "https://qiita.com/sitilma/items/a08e28def541c28458a0",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2019-02-05T09:20:25+09:00",
     "updated_at": "2019-02-05T09:20:25+09:00",
     "id": "sitilma"
