@@ -18,7 +18,7 @@
   {
     "title": "AWS認定11冠制覇したのでオススメの勉強法などをまとめてみる",
     "url": "https://qiita.com/nakazax/items/20458e146d3d9f2aa615",
-    "likes_count": 2241,
+    "likes_count": 2244,
     "created_at": "2018-10-15T09:01:09+09:00",
     "updated_at": "2020-05-01T15:01:55+09:00",
     "id": "nakazax"
@@ -50,7 +50,7 @@
   {
     "title": "vue.js + typescript = vue.ts ことはじめ",
     "url": "https://qiita.com/nrslib/items/be90cc19fa3122266fd7",
-    "likes_count": 1330,
+    "likes_count": 1332,
     "created_at": "2018-10-09T01:50:17+09:00",
     "updated_at": "2019-11-11T10:24:58+09:00",
     "id": "nrslib"
@@ -58,7 +58,7 @@
   {
     "title": "Python + Selenium で Chrome の自動操作を一通り",
     "url": "https://qiita.com/memakura/items/20a02161fa7e18d8a693",
-    "likes_count": 1268,
+    "likes_count": 1269,
     "created_at": "2018-10-14T13:39:44+09:00",
     "updated_at": "2018-10-16T06:19:27+09:00",
     "id": "memakura"
@@ -114,7 +114,7 @@
   {
     "title": "これから始めるGCP（GCE）　安全に無料枠を使い倒せ",
     "url": "https://qiita.com/Brutus/items/22dfd31a681b67837a74",
-    "likes_count": 932,
+    "likes_count": 934,
     "created_at": "2018-10-06T11:52:13+09:00",
     "updated_at": "2020-06-19T19:57:34+09:00",
     "id": "Brutus"
@@ -282,7 +282,7 @@
   {
     "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
     "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2018-10-08T20:38:40+09:00",
     "updated_at": "2020-02-17T23:55:55+09:00",
     "id": "little_hand_s"
@@ -306,9 +306,9 @@
   {
     "title": "Qiita週間ストック数ランキング【自動更新】",
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-04-20T19:31:32+09:00",
+    "updated_at": "2021-04-21T19:31:31+09:00",
     "id": "kai_kou"
   },
   {
@@ -322,7 +322,7 @@
   {
     "title": "【比較してみた】みんなが使っている個人開発（Webサービス）向けPaaS・ホスティングサービス",
     "url": "https://qiita.com/nh321/items/0373a740e56fad6a49d8",
-    "likes_count": 460,
+    "likes_count": 461,
     "created_at": "2018-10-28T16:04:23+09:00",
     "updated_at": "2018-11-04T10:49:02+09:00",
     "id": "nh321"
@@ -346,7 +346,7 @@
   {
     "title": "動的型付けと静的型付け",
     "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
-    "likes_count": 427,
+    "likes_count": 428,
     "created_at": "2018-10-24T08:24:11+09:00",
     "updated_at": "2021-03-09T16:04:55+09:00",
     "id": "toryuneko"
@@ -362,7 +362,7 @@
   {
     "title": "私のReactのコンポーネント実装アンチパターン",
     "url": "https://qiita.com/seya/items/7a0d20da4de5fab14426",
-    "likes_count": 425,
+    "likes_count": 427,
     "created_at": "2018-10-29T07:45:11+09:00",
     "updated_at": "2018-10-29T23:24:36+09:00",
     "id": "seya"
@@ -418,7 +418,7 @@
   {
     "title": "【初心者向け】RailsのActive Recordの解説&メソッドまとめ",
     "url": "https://qiita.com/ryokky59/items/a1d0b4e86bacbd7ef6e8",
-    "likes_count": 359,
+    "likes_count": 361,
     "created_at": "2018-10-06T08:45:31+09:00",
     "updated_at": "2018-10-06T08:45:31+09:00",
     "id": "ryokky59"
@@ -458,10 +458,18 @@
   {
     "title": "10分で理解する Scrapy",
     "url": "https://qiita.com/Chanmoro/items/f4df85eb73b18d902739",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2018-10-08T15:50:25+09:00",
     "updated_at": "2019-11-12T11:21:43+09:00",
     "id": "Chanmoro"
+  },
+  {
+    "title": "Anaconda でよく使うコマンド一覧",
+    "url": "https://qiita.com/naz_/items/84634fbd134fbcd25296",
+    "likes_count": 319,
+    "created_at": "2018-10-18T11:14:18+09:00",
+    "updated_at": "2019-06-27T12:49:21+09:00",
+    "id": "naz_"
   },
   {
     "title": "tmuxを効率よく使って開発を爆速にする最高の設定",
@@ -470,14 +478,6 @@
     "created_at": "2018-10-15T16:00:51+09:00",
     "updated_at": "2021-02-19T16:49:28+09:00",
     "id": "yuki_ycino"
-  },
-  {
-    "title": "Anaconda でよく使うコマンド一覧",
-    "url": "https://qiita.com/naz_/items/84634fbd134fbcd25296",
-    "likes_count": 318,
-    "created_at": "2018-10-18T11:14:18+09:00",
-    "updated_at": "2019-06-27T12:49:21+09:00",
-    "id": "naz_"
   },
   {
     "title": "データサイエンスを独学した一年のまとめ",

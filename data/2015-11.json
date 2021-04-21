@@ -2,7 +2,7 @@
   {
     "title": "オブジェクト指向と10年戦ってわかったこと",
     "url": "https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e",
-    "likes_count": 5059,
+    "likes_count": 5063,
     "created_at": "2015-11-19T07:03:23+09:00",
     "updated_at": "2021-01-10T07:34:39+09:00",
     "id": "tutinoco"
@@ -26,7 +26,7 @@
   {
     "title": "JavaScriptの配列の使い方まとめ。要素の追加,結合,取得,削除。",
     "url": "https://qiita.com/takeharu/items/d75f96f81ff83680013f",
-    "likes_count": 1616,
+    "likes_count": 1617,
     "created_at": "2015-11-28T12:10:20+09:00",
     "updated_at": "2016-06-28T11:06:06+09:00",
     "id": "takeharu"
@@ -58,7 +58,7 @@
   {
     "title": "【Mac版】 VisualStudioCode キーボードショートカット",
     "url": "https://qiita.com/naru0504/items/99495c4482cd158ddca8",
-    "likes_count": 1423,
+    "likes_count": 1424,
     "created_at": "2015-11-24T23:53:28+09:00",
     "updated_at": "2017-07-20T16:34:51+09:00",
     "id": "naru0504"
@@ -106,7 +106,7 @@
   {
     "title": "Dockerコンテナの作成、起動〜停止まで",
     "url": "https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53",
-    "likes_count": 1075,
+    "likes_count": 1076,
     "created_at": "2015-11-16T16:38:52+09:00",
     "updated_at": "2015-11-16T16:38:52+09:00",
     "id": "kooohei"
@@ -154,7 +154,7 @@
   {
     "title": "2016年版 Node.jsで幸せになれる10の習慣",
     "url": "https://qiita.com/ksato9700/items/b21383e613b6dc308dca",
-    "likes_count": 946,
+    "likes_count": 947,
     "created_at": "2015-11-20T01:39:22+09:00",
     "updated_at": "2020-03-07T07:17:19+09:00",
     "id": "ksato9700"
@@ -218,7 +218,7 @@
   {
     "title": "curl option 覚え書き",
     "url": "https://qiita.com/takayukioda/items/edf371b3566bea64d046",
-    "likes_count": 615,
+    "likes_count": 616,
     "created_at": "2015-11-18T18:04:36+09:00",
     "updated_at": "2021-02-25T12:31:02+09:00",
     "id": "takayukioda"
@@ -234,7 +234,7 @@
   {
     "title": "suとsudoの違い",
     "url": "https://qiita.com/aosho235/items/05d4a4f549016e41cde7",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2015-11-15T18:58:43+09:00",
     "updated_at": "2015-12-28T05:53:17+09:00",
     "id": "aosho235"
@@ -266,7 +266,7 @@
   {
     "title": "Linuxでプロセスが何のポート使っているかを調べる",
     "url": "https://qiita.com/sonoshou/items/cc2b740147ba1b8da1f3",
-    "likes_count": 550,
+    "likes_count": 551,
     "created_at": "2015-11-25T11:46:19+09:00",
     "updated_at": "2018-04-22T15:24:32+09:00",
     "id": "sonoshou"
@@ -278,6 +278,14 @@
     "created_at": "2015-11-14T22:57:39+09:00",
     "updated_at": "2016-10-10T09:28:45+09:00",
     "id": "Keech"
+  },
+  {
+    "title": "Scala入門時に役立つ情報まとめ",
+    "url": "https://qiita.com/nesheep5/items/49019b9df4836d36ec1f",
+    "likes_count": 538,
+    "created_at": "2015-11-10T01:01:57+09:00",
+    "updated_at": "2018-03-22T21:49:23+09:00",
+    "id": "nesheep5"
   },
   {
     "title": "Redux入門 1日目  Reduxとは(公式ドキュメント和訳)",
@@ -294,14 +302,6 @@
     "created_at": "2015-11-06T16:15:30+09:00",
     "updated_at": "2015-11-06T18:48:31+09:00",
     "id": "achm"
-  },
-  {
-    "title": "Scala入門時に役立つ情報まとめ",
-    "url": "https://qiita.com/nesheep5/items/49019b9df4836d36ec1f",
-    "likes_count": 537,
-    "created_at": "2015-11-10T01:01:57+09:00",
-    "updated_at": "2018-03-22T21:49:23+09:00",
-    "id": "nesheep5"
   },
   {
     "title": "まだAWSのみに頼って生きてるの？複数のクラウド利用で、大幅コストダウンした話",
@@ -394,7 +394,7 @@
   {
     "title": "cronの設定方法",
     "url": "https://qiita.com/hikouki/items/e744b3a4d356d2af12cf",
-    "likes_count": 363,
+    "likes_count": 364,
     "created_at": "2015-11-16T19:32:27+09:00",
     "updated_at": "2016-12-04T19:49:38+09:00",
     "id": "hikouki"
@@ -450,7 +450,7 @@
   {
     "title": "CSSとSassのコーディングスタイルガイドを作ってみた",
     "url": "https://qiita.com/manabuyasuda/items/5d83a5516051cc58a274",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2015-11-15T02:17:00+09:00",
     "updated_at": "2016-01-14T01:08:06+09:00",
     "id": "manabuyasuda"
@@ -578,7 +578,7 @@
   {
     "title": ".bat（バッチファイル）のifコマンド解説。",
     "url": "https://qiita.com/plcherrim/items/8edf3d3d33a0ae86cb5c",
-    "likes_count": 204,
+    "likes_count": 205,
     "created_at": "2015-11-29T02:56:26+09:00",
     "updated_at": "2017-05-19T21:32:45+09:00",
     "id": "plcherrim"
