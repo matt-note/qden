@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 9014,
+    "likes_count": 9019,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2020-12-31T00:39:46+09:00",
     "id": "Ted-HM"
@@ -18,7 +18,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 2083,
+    "likes_count": 2084,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2020-06-02T11:35:16+09:00",
     "id": "suthio"
@@ -34,7 +34,7 @@
   {
     "title": "Railsアプリケーションにおけるエラー処理（例外設計）の考え方",
     "url": "https://qiita.com/jnchito/items/3ef95ea144ed15df3637",
-    "likes_count": 1772,
+    "likes_count": 1773,
     "created_at": "2015-09-29T07:04:25+09:00",
     "updated_at": "2020-11-18T15:01:00+09:00",
     "id": "jnchito"
@@ -64,20 +64,20 @@
     "id": "shinkuFencer"
   },
   {
-    "title": "トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた",
-    "url": "https://qiita.com/uasi/items/cfb60588daa18c2ec6f5",
-    "likes_count": 1600,
-    "created_at": "2015-09-25T19:18:30+09:00",
-    "updated_at": "2019-05-08T21:41:02+09:00",
-    "id": "uasi"
-  },
-  {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1599,
+    "likes_count": 1601,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2021-03-28T03:45:48+09:00",
     "id": "soarflat"
+  },
+  {
+    "title": "トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた",
+    "url": "https://qiita.com/uasi/items/cfb60588daa18c2ec6f5",
+    "likes_count": 1601,
+    "created_at": "2015-09-25T19:18:30+09:00",
+    "updated_at": "2019-05-08T21:41:02+09:00",
+    "id": "uasi"
   },
   {
     "title": "エンジニアなら知っておきたい lessコマンドtips 11選",
@@ -90,7 +90,7 @@
   {
     "title": "Nginx設定のまとめ",
     "url": "https://qiita.com/townsoft/items/3e2d410bbe65a364b603",
-    "likes_count": 1522,
+    "likes_count": 1523,
     "created_at": "2015-09-30T10:30:39+09:00",
     "updated_at": "2015-11-18T10:09:23+09:00",
     "id": "townsoft"
@@ -114,7 +114,7 @@
   {
     "title": "検索ではあんまり出ないbashの便利技",
     "url": "https://qiita.com/rsooo/items/ef1d036bcc7282a66d7d",
-    "likes_count": 1282,
+    "likes_count": 1283,
     "created_at": "2015-09-20T14:29:59+09:00",
     "updated_at": "2015-09-25T23:04:44+09:00",
     "id": "rsooo"
@@ -186,7 +186,7 @@
   {
     "title": "MySQLでインデックスを貼る時に読みたいページまとめ(初心者向け）",
     "url": "https://qiita.com/C058/items/1c9c57f634ebf54d99bb",
-    "likes_count": 821,
+    "likes_count": 822,
     "created_at": "2015-09-17T19:53:38+09:00",
     "updated_at": "2018-03-16T12:53:39+09:00",
     "id": "C058"
@@ -402,7 +402,7 @@
   {
     "title": "教師なし学習による異常値検知: マハラノビス距離 (理論編)",
     "url": "https://qiita.com/shopetan/items/ceb7744facc21c3881d2",
-    "likes_count": 370,
+    "likes_count": 372,
     "created_at": "2015-09-27T23:10:47+09:00",
     "updated_at": "2015-10-07T15:35:31+09:00",
     "id": "shopetan"
@@ -426,7 +426,7 @@
   {
     "title": "任意のサイトで任意のJavaScriptを自動実行させるChrome拡張",
     "url": "https://qiita.com/nakajmg/items/bcbf0e5debcfa70c8d63",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2015-09-23T12:16:40+09:00",
     "updated_at": "2015-09-23T19:42:26+09:00",
     "id": "nakajmg"
@@ -498,7 +498,7 @@
   {
     "title": "Node.js / npmをインストールする（for Windows）",
     "url": "https://qiita.com/taiponrock/items/9001ae194571feb63a5e",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2015-09-29T11:40:27+09:00",
     "updated_at": "2015-09-29T11:43:32+09:00",
     "id": "taiponrock"

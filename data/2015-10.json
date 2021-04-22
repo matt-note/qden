@@ -2,7 +2,7 @@
   {
     "title": "Android開発を受注したからKotlinをガッツリ使ってみたら最高だった",
     "url": "https://qiita.com/omochimetaru/items/98e015b0b694dd97f323",
-    "likes_count": 2409,
+    "likes_count": 2410,
     "created_at": "2015-10-05T09:45:56+09:00",
     "updated_at": "2017-06-17T13:51:53+09:00",
     "id": "omochimetaru"
@@ -82,7 +82,7 @@
   {
     "title": "base64ってなんぞ？？理解のために実装してみた",
     "url": "https://qiita.com/PlanetMeron/items/2905e2d0aa7fe46a36d4",
-    "likes_count": 952,
+    "likes_count": 955,
     "created_at": "2015-10-14T20:06:07+09:00",
     "updated_at": "2018-04-13T16:33:49+09:00",
     "id": "PlanetMeron"
@@ -114,7 +114,7 @@
   {
     "title": "CSSで中央寄せの方法いろいろメモ",
     "url": "https://qiita.com/KAMEch/items/b52c5e23212b8fef81a7",
-    "likes_count": 877,
+    "likes_count": 879,
     "created_at": "2015-10-07T18:36:54+09:00",
     "updated_at": "2019-06-24T14:00:13+09:00",
     "id": "KAMEch"
@@ -274,7 +274,7 @@
   {
     "title": "Typescriptのinterfaceの使い方",
     "url": "https://qiita.com/nogson/items/86b47ee6947f505f6a7b",
-    "likes_count": 442,
+    "likes_count": 443,
     "created_at": "2015-10-22T22:14:16+09:00",
     "updated_at": "2017-04-17T20:09:56+09:00",
     "id": "nogson"
@@ -290,7 +290,7 @@
   {
     "title": "Logback 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/49719f2d35171f017aa9",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2015-10-27T01:07:38+09:00",
     "updated_at": "2015-12-28T23:02:31+09:00",
     "id": "opengl-8080"
@@ -354,7 +354,7 @@
   {
     "title": "CUDAを使ったGPUプログラミング超入門",
     "url": "https://qiita.com/Keech/items/381495ed90e012d69f1a",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2015-10-18T09:54:23+09:00",
     "updated_at": "2015-10-18T09:54:23+09:00",
     "id": "Keech"
@@ -370,7 +370,7 @@
   {
     "title": "[Rails] ActiveSupport::Concern の存在理由",
     "url": "https://qiita.com/castaneai/items/6dc121ce6ff100614f42",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2015-10-07T15:11:07+09:00",
     "updated_at": "2015-10-07T15:11:07+09:00",
     "id": "castaneai"
@@ -418,7 +418,7 @@
   {
     "title": "バッチファイルでの試行錯誤を回避するためのメモ－または人類には早すぎた言語",
     "url": "https://qiita.com/yz2cm/items/8058d503a1b84688af09",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2015-11-01T01:40:14+09:00",
     "updated_at": "2021-03-15T05:46:11+09:00",
     "id": "yz2cm"
@@ -488,6 +488,14 @@
     "id": "hik0107"
   },
   {
+    "title": "mysqlが起動できない（Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)）",
+    "url": "https://qiita.com/carotene4035/items/e00076fe3990b9178cc0",
+    "likes_count": 278,
+    "created_at": "2015-10-25T14:58:12+09:00",
+    "updated_at": "2017-09-06T16:54:05+09:00",
+    "id": "carotene4035"
+  },
+  {
     "title": "Python3.4 + Djangoで作るWebアプリケーション(Part.1 環境構築編)",
     "url": "https://qiita.com/taijijiji/items/8da746e150d1e0947107",
     "likes_count": 274,
@@ -522,7 +530,7 @@
   {
     "title": "Linux(CentOS7)でSSHを利用する。",
     "url": "https://qiita.com/sango/items/816136188387221f05b3",
-    "likes_count": 253,
+    "likes_count": 254,
     "created_at": "2015-10-28T00:13:04+09:00",
     "updated_at": "2019-07-18T18:10:20+09:00",
     "id": "sango"

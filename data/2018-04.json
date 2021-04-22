@@ -10,7 +10,7 @@
   {
     "title": "データ分析で頻出のPandas基本操作",
     "url": "https://qiita.com/ysdyt/items/9ccca82fc5b504e7913a",
-    "likes_count": 2117,
+    "likes_count": 2118,
     "created_at": "2018-04-16T08:12:28+09:00",
     "updated_at": "2019-12-17T17:19:27+09:00",
     "id": "ysdyt"
@@ -40,20 +40,20 @@
     "id": "rana_kualu"
   },
   {
+    "title": "フロントエンドのコンポーネント設計に立ち向かう",
+    "url": "https://qiita.com/seya/items/8814e905693f00cdade2",
+    "likes_count": 1786,
+    "created_at": "2018-04-02T07:22:25+09:00",
+    "updated_at": "2021-02-19T20:36:30+09:00",
+    "id": "seya"
+  },
+  {
     "title": "システムで「性別」の情報を扱う前に知っておくべきこと",
     "url": "https://qiita.com/aoshirobo/items/32deb45cb8c8b87d65a4",
     "likes_count": 1786,
     "created_at": "2018-04-11T18:02:03+09:00",
     "updated_at": "2019-10-01T10:02:00+09:00",
     "id": "aoshirobo"
-  },
-  {
-    "title": "フロントエンドのコンポーネント設計に立ち向かう",
-    "url": "https://qiita.com/seya/items/8814e905693f00cdade2",
-    "likes_count": 1784,
-    "created_at": "2018-04-02T07:22:25+09:00",
-    "updated_at": "2021-02-19T20:36:30+09:00",
-    "id": "seya"
   },
   {
     "title": "技術書ランキングサイトをQiita記事の集計から作ったら、約4000冊の技術本がいい感じに並んだ",
@@ -82,7 +82,7 @@
   {
     "title": "私からあなたへ 一人前のJavaエンジニアになるためのロードマップを送ろう",
     "url": "https://qiita.com/haruto167/items/5a784df032518277f4a0",
-    "likes_count": 1337,
+    "likes_count": 1338,
     "created_at": "2018-04-07T16:04:15+09:00",
     "updated_at": "2018-04-28T10:13:26+09:00",
     "id": "haruto167"
@@ -90,7 +90,7 @@
   {
     "title": "GAS ビギナーが GAS を使いこなすために知るべきこと 10 選",
     "url": "https://qiita.com/tanabee/items/2c51681396fe12b6a0e4",
-    "likes_count": 1291,
+    "likes_count": 1292,
     "created_at": "2018-04-03T20:21:07+09:00",
     "updated_at": "2020-10-22T01:26:54+09:00",
     "id": "tanabee"
@@ -170,7 +170,7 @@
   {
     "title": "[Python]可読性を上げるための、docstringの書き方を学ぶ（NumPyスタイル）",
     "url": "https://qiita.com/simonritchie/items/49e0813508cad4876b5a",
-    "likes_count": 852,
+    "likes_count": 854,
     "created_at": "2018-04-01T23:34:45+09:00",
     "updated_at": "2020-05-22T19:10:56+09:00",
     "id": "simonritchie"
@@ -226,7 +226,7 @@
   {
     "title": "チーム開発におけるプルリクの作法",
     "url": "https://qiita.com/ikuwow/items/fb52a54c086398eb5b92",
-    "likes_count": 673,
+    "likes_count": 674,
     "created_at": "2018-04-29T15:12:47+09:00",
     "updated_at": "2019-08-17T22:38:20+09:00",
     "id": "ikuwow"
@@ -370,7 +370,7 @@
   {
     "title": "WEBフロントエンドエンジニア初学者の勉強リスト",
     "url": "https://qiita.com/nanarya/items/661ec10ff262c84424a6",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2018-04-18T12:27:37+09:00",
     "updated_at": "2019-08-28T12:25:02+09:00",
     "id": "nanarya"
@@ -394,7 +394,7 @@
   {
     "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
     "url": "https://qiita.com/drken/items/97e37dd6143e33a64c8c",
-    "likes_count": 442,
+    "likes_count": 443,
     "created_at": "2018-04-20T10:48:11+09:00",
     "updated_at": "2018-07-04T17:57:29+09:00",
     "id": "drken"
@@ -434,7 +434,7 @@
   {
     "title": "レビューコメントにラベルをつけるだけで開発効率があがって幸せになれそうな話",
     "url": "https://qiita.com/godgarden/items/3ea57a7ee6dbff1df6e6",
-    "likes_count": 413,
+    "likes_count": 415,
     "created_at": "2018-04-04T23:57:11+09:00",
     "updated_at": "2020-04-01T20:06:11+09:00",
     "id": "godgarden"
@@ -442,7 +442,7 @@
   {
     "title": "fish shellが結構良かった話",
     "url": "https://qiita.com/hennin/items/33758226a0de8c963ddf",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2018-04-27T02:29:44+09:00",
     "updated_at": "2021-02-21T09:23:47+09:00",
     "id": "hennin"
@@ -578,7 +578,7 @@
   {
     "title": "PythonでLine botを作ってみた",
     "url": "https://qiita.com/kro/items/67f7510b36945eb9689b",
-    "likes_count": 244,
+    "likes_count": 245,
     "created_at": "2018-04-14T22:59:06+09:00",
     "updated_at": "2018-04-14T22:59:26+09:00",
     "id": "kro"
