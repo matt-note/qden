@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4138,
+    "likes_count": 4139,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2021-03-26T11:28:23+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4104,
+    "likes_count": 4107,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -18,7 +18,7 @@
   {
     "title": "【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】",
     "url": "https://qiita.com/sukebeeeeei/items/76ce249ed264b8acc5f8",
-    "likes_count": 2791,
+    "likes_count": 2792,
     "created_at": "2020-01-05T11:50:44+09:00",
     "updated_at": "2020-05-02T18:21:06+09:00",
     "id": "sukebeeeeei"
@@ -186,7 +186,7 @@
   {
     "title": "【python】カジノを崩壊させたらしいモンテカルロ法をシミュレーションしてみた",
     "url": "https://qiita.com/kagawa_shinjiiiii/items/ff49a8c7ccc682845a2a",
-    "likes_count": 693,
+    "likes_count": 694,
     "created_at": "2020-01-13T00:54:59+09:00",
     "updated_at": "2020-01-14T21:50:17+09:00",
     "id": "kagawa_shinjiiiii"
@@ -194,7 +194,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 689,
+    "likes_count": 692,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -288,6 +288,14 @@
     "id": "omiita"
   },
   {
+    "title": "20 年代のフロントエンド",
+    "url": "https://qiita.com/mizchi/items/50937c7f702da566e989",
+    "likes_count": 550,
+    "created_at": "2020-01-30T18:47:54+09:00",
+    "updated_at": "2020-01-30T19:24:24+09:00",
+    "id": "mizchi"
+  },
+  {
     "title": "「アプリケーションが壊れているのに検知できないテストコード」を書かないようにするための、べからず集",
     "url": "https://qiita.com/jnchito/items/133d9953e1e7214e5357",
     "likes_count": 549,
@@ -296,19 +304,11 @@
     "id": "jnchito"
   },
   {
-    "title": "20 年代のフロントエンド",
-    "url": "https://qiita.com/mizchi/items/50937c7f702da566e989",
-    "likes_count": 549,
-    "created_at": "2020-01-30T18:47:54+09:00",
-    "updated_at": "2020-01-30T19:24:24+09:00",
-    "id": "mizchi"
-  },
-  {
     "title": "jQuery愛好家のためのVue.js、React、Angular入門",
     "url": "https://qiita.com/BRSF/items/6a43d4cf56a9dd1a4d0c",
     "likes_count": 536,
     "created_at": "2020-01-24T11:20:43+09:00",
-    "updated_at": "2021-04-23T18:13:03+09:00",
+    "updated_at": "2021-04-24T12:27:38+09:00",
     "id": "BRSF"
   },
   {
@@ -354,7 +354,7 @@
   {
     "title": "「よいサンプルコード」ってどんなサンプルコード？ 〜Qiitaや技術ブログを書くときに気を付けること〜",
     "url": "https://qiita.com/jnchito/items/da33f793de2e29e470f4",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2020-01-09T11:47:44+09:00",
     "updated_at": "2020-12-15T07:28:23+09:00",
     "id": "jnchito"
@@ -426,7 +426,7 @@
   {
     "title": "notionバックエンドのzeit製ヘッドレスCMS“Notion Blog”が激アツ🔥",
     "url": "https://qiita.com/serinuntius/items/d4b1e9ef53b59033f607",
-    "likes_count": 396,
+    "likes_count": 397,
     "created_at": "2020-01-15T09:06:37+09:00",
     "updated_at": "2020-01-15T09:07:20+09:00",
     "id": "serinuntius"
@@ -442,7 +442,7 @@
   {
     "title": "AtCoder水色になりました",
     "url": "https://qiita.com/pkodama/items/93ab0b654d2597e42ac3",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2020-01-27T18:33:13+09:00",
     "updated_at": "2020-03-31T21:53:47+09:00",
     "id": "pkodama"
@@ -514,7 +514,7 @@
   {
     "title": "VS CodeでDocker開発コンテナを便利に使おう",
     "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
-    "likes_count": 267,
+    "likes_count": 269,
     "created_at": "2020-01-17T21:18:30+09:00",
     "updated_at": "2020-01-17T21:18:30+09:00",
     "id": "Yuki_Oshima"
@@ -538,7 +538,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 229,
+    "likes_count": 231,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"

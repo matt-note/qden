@@ -92,7 +92,7 @@
     "url": "https://qiita.com/tawara_/items/374f3ca0a386fab8b305",
     "likes_count": 1230,
     "created_at": "2019-05-21T13:54:46+09:00",
-    "updated_at": "2021-03-29T11:02:26+09:00",
+    "updated_at": "2021-04-24T18:06:06+09:00",
     "id": "tawara_"
   },
   {
@@ -266,7 +266,7 @@
   {
     "title": "Vue.jsのv-modelを正しく使う",
     "url": "https://qiita.com/simezi9/items/c27d69f17d2d08722b3a",
-    "likes_count": 567,
+    "likes_count": 570,
     "created_at": "2019-05-13T20:05:41+09:00",
     "updated_at": "2020-05-01T18:50:04+09:00",
     "id": "simezi9"
@@ -274,7 +274,7 @@
   {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 536,
+    "likes_count": 537,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2020-05-08T20:20:06+09:00",
     "id": "simonritchie"
@@ -290,7 +290,7 @@
   {
     "title": "PythonでLINEにメッセージを送る",
     "url": "https://qiita.com/moriita/items/5b199ac6b14ceaa4f7c9",
-    "likes_count": 489,
+    "likes_count": 490,
     "created_at": "2019-05-30T02:17:01+09:00",
     "updated_at": "2019-06-04T00:34:31+09:00",
     "id": "moriita"
@@ -482,10 +482,18 @@
   {
     "title": "競技プログラミング入門者の成長のためのメモ",
     "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
-    "likes_count": 307,
+    "likes_count": 306,
     "created_at": "2019-05-14T05:46:53+09:00",
     "updated_at": "2021-04-14T23:01:27+09:00",
     "id": "masakinihirota"
+  },
+  {
+    "title": "【VSCode Remote】10秒でNuxt環境を構築【脱WebStorm】",
+    "url": "https://qiita.com/relu/items/defde8de8c4d21af662f",
+    "likes_count": 297,
+    "created_at": "2019-05-09T02:12:33+09:00",
+    "updated_at": "2019-06-14T19:19:38+09:00",
+    "id": "relu"
   },
   {
     "title": "Python で大量のファイルを並列で速く読み込む",
@@ -494,14 +502,6 @@
     "created_at": "2019-05-31T11:52:40+09:00",
     "updated_at": "2019-06-03T06:30:01+09:00",
     "id": "hoto17296"
-  },
-  {
-    "title": "【VSCode Remote】10秒でNuxt環境を構築【脱WebStorm】",
-    "url": "https://qiita.com/relu/items/defde8de8c4d21af662f",
-    "likes_count": 296,
-    "created_at": "2019-05-09T02:12:33+09:00",
-    "updated_at": "2019-06-14T19:19:38+09:00",
-    "id": "relu"
   },
   {
     "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
@@ -530,7 +530,7 @@
   {
     "title": "[ジュニア向け] PythonとProcessingでプログラミング入門：その1 - ブロックくずしを作ろう",
     "url": "https://qiita.com/sawamur@github/items/204b93638a4f117c9cc2",
-    "likes_count": 247,
+    "likes_count": 248,
     "created_at": "2019-05-02T22:58:54+09:00",
     "updated_at": "2019-05-05T11:51:38+09:00",
     "id": "sawamur@github"
