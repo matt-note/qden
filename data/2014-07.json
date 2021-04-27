@@ -10,7 +10,7 @@
   {
     "title": "Pythonを書き始める前に見るべきTips",
     "url": "https://qiita.com/icoxfog417/items/e8f97a6acad07903b5b0",
-    "likes_count": 4019,
+    "likes_count": 4020,
     "created_at": "2014-07-29T17:43:20+09:00",
     "updated_at": "2020-02-04T12:14:07+09:00",
     "id": "icoxfog417"
@@ -18,7 +18,7 @@
   {
     "title": "Vim幼稚園からVim小学校へ",
     "url": "https://qiita.com/hachi8833/items/7beeee825c11f7437f54",
-    "likes_count": 3858,
+    "likes_count": 3860,
     "created_at": "2014-07-10T00:02:39+09:00",
     "updated_at": "2019-03-20T18:58:14+09:00",
     "id": "hachi8833"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3356,
+    "likes_count": 3357,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -50,7 +50,7 @@
   {
     "title": "【Git】基本コマンド",
     "url": "https://qiita.com/konweb/items/621722f67fdd8f86a017",
-    "likes_count": 1784,
+    "likes_count": 1785,
     "created_at": "2014-07-12T03:08:15+09:00",
     "updated_at": "2019-06-15T23:17:12+09:00",
     "id": "konweb"
@@ -66,7 +66,7 @@
   {
     "title": "こんなHTMLとCSSのコーディング規約で書きたい",
     "url": "https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3",
-    "likes_count": 1709,
+    "likes_count": 1710,
     "created_at": "2014-07-09T00:29:52+09:00",
     "updated_at": "2020-09-19T19:39:58+09:00",
     "id": "pugiemonn"
@@ -106,7 +106,7 @@
   {
     "title": "昨日までJavaJavaしてた人がいきなりExcelのVBAを実装する羽目になったときのためのメモ",
     "url": "https://qiita.com/opengl-8080/items/5bd8ae7fe95f5c31dfc3",
-    "likes_count": 1183,
+    "likes_count": 1184,
     "created_at": "2014-07-12T09:27:13+09:00",
     "updated_at": "2016-06-11T11:11:06+09:00",
     "id": "opengl-8080"
@@ -122,7 +122,7 @@
   {
     "title": "MongoDB超入門",
     "url": "https://qiita.com/saba1024/items/f2ad56f2a3ba7aaf8521",
-    "likes_count": 955,
+    "likes_count": 956,
     "created_at": "2014-07-11T01:00:39+09:00",
     "updated_at": "2018-04-03T16:47:21+09:00",
     "id": "saba1024"
@@ -138,7 +138,7 @@
   {
     "title": "Git の Commit Author と Commiter を変更する",
     "url": "https://qiita.com/sea_mountain/items/d70216a5bc16a88ed932",
-    "likes_count": 844,
+    "likes_count": 845,
     "created_at": "2014-07-12T15:17:52+09:00",
     "updated_at": "2017-07-05T19:37:28+09:00",
     "id": "sea_mountain"
@@ -210,7 +210,7 @@
   {
     "title": "今日から使える！RSpec 3で追加された8つの新機能",
     "url": "https://qiita.com/jnchito/items/a4a51852c2c678b57868",
-    "likes_count": 569,
+    "likes_count": 570,
     "created_at": "2014-07-28T11:40:11+09:00",
     "updated_at": "2015-06-22T08:54:41+09:00",
     "id": "jnchito"
@@ -272,20 +272,20 @@
     "id": "a_yasui"
   },
   {
+    "title": "テストの種類と技法",
+    "url": "https://qiita.com/ktarow/items/8c3d94d6c21a0c86b799",
+    "likes_count": 520,
+    "created_at": "2014-07-31T00:38:51+09:00",
+    "updated_at": "2014-07-31T00:38:51+09:00",
+    "id": "ktarow"
+  },
+  {
     "title": "なぜ、IDEじゃなくてVimを使うか。",
     "url": "https://qiita.com/rbtnn/items/88dcbe60d49db6de8002",
     "likes_count": 519,
     "created_at": "2014-07-20T21:06:14+09:00",
     "updated_at": "2014-07-20T22:42:57+09:00",
     "id": "rbtnn"
-  },
-  {
-    "title": "テストの種類と技法",
-    "url": "https://qiita.com/ktarow/items/8c3d94d6c21a0c86b799",
-    "likes_count": 519,
-    "created_at": "2014-07-31T00:38:51+09:00",
-    "updated_at": "2014-07-31T00:38:51+09:00",
-    "id": "ktarow"
   },
   {
     "title": "ちょっとしたHTMLはGitHub Gistに置いてbl.ocks.orgで表示するのがお手軽です",
@@ -434,7 +434,7 @@
   {
     "title": "Excel VBAコーディング ガイドライン案",
     "url": "https://qiita.com/mima_ita/items/8b0eec3b5a81f168822d",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2014-07-03T21:01:57+09:00",
     "updated_at": "2020-05-20T16:23:41+09:00",
     "id": "mima_ita"
@@ -506,7 +506,7 @@
   {
     "title": "Swiftのプロパティ監視(willSet/didSet)の挙動について調べてみた",
     "url": "https://qiita.com/takabosoft/items/b3af8b30a8c5111f4fce",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2014-07-17T14:30:47+09:00",
     "updated_at": "2015-03-26T17:30:47+09:00",
     "id": "takabosoft"
@@ -538,7 +538,7 @@
   {
     "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
     "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
-    "likes_count": 358,
+    "likes_count": 359,
     "created_at": "2014-07-17T19:56:24+09:00",
     "updated_at": "2014-07-17T19:56:24+09:00",
     "id": "konweb"

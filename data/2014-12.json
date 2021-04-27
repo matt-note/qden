@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマに正月休み中を使って読んでみてほしい技術書をセレクトしてみた。",
     "url": "https://qiita.com/hirokidaichi/items/d30714f0698dcff1200f",
-    "likes_count": 2974,
+    "likes_count": 2975,
     "created_at": "2014-12-18T21:49:50+09:00",
     "updated_at": "2018-02-20T09:54:50+09:00",
     "id": "hirokidaichi"
@@ -66,7 +66,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1269,
+    "likes_count": 1270,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -162,7 +162,7 @@
   {
     "title": "私のJavaScript情報の集め方",
     "url": "https://qiita.com/koba04/items/ba2381776d394633de72",
-    "likes_count": 757,
+    "likes_count": 756,
     "created_at": "2014-12-23T13:32:37+09:00",
     "updated_at": "2014-12-24T00:09:20+09:00",
     "id": "koba04"
@@ -176,20 +176,20 @@
     "id": "yangci"
   },
   {
+    "title": "UIViewControllerのライフサイクル",
+    "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
+    "likes_count": 728,
+    "created_at": "2014-12-24T22:11:02+09:00",
+    "updated_at": "2014-12-24T22:11:02+09:00",
+    "id": "motokiee"
+  },
+  {
     "title": "IE10 以下を切る場合の JavaScript チェックリスト",
     "url": "https://qiita.com/Jxck_/items/fe8a1c49cac717e52ae3",
     "likes_count": 727,
     "created_at": "2014-12-18T18:27:14+09:00",
     "updated_at": "2014-12-23T22:04:48+09:00",
     "id": "Jxck_"
-  },
-  {
-    "title": "UIViewControllerのライフサイクル",
-    "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 727,
-    "created_at": "2014-12-24T22:11:02+09:00",
-    "updated_at": "2014-12-24T22:11:02+09:00",
-    "id": "motokiee"
   },
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
@@ -210,7 +210,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 680,
+    "likes_count": 682,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -370,7 +370,7 @@
   {
     "title": ".bash_profileと.bashrcについて",
     "url": "https://qiita.com/shyamahira/items/260862743e4c9794b5d2",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2014-12-20T23:26:00+09:00",
     "updated_at": "2014-12-20T23:26:00+09:00",
     "id": "shyamahira"
@@ -504,20 +504,20 @@
     "id": "gucchon"
   },
   {
+    "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
+    "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
+    "likes_count": 397,
+    "created_at": "2014-12-10T11:37:15+09:00",
+    "updated_at": "2015-07-03T17:53:15+09:00",
+    "id": "izumin5210"
+  },
+  {
     "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
     "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
     "likes_count": 397,
     "created_at": "2014-12-26T17:08:08+09:00",
     "updated_at": "2014-12-26T17:08:08+09:00",
     "id": "mimoe"
-  },
-  {
-    "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
-    "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
-    "likes_count": 396,
-    "created_at": "2014-12-10T11:37:15+09:00",
-    "updated_at": "2015-07-03T17:53:15+09:00",
-    "id": "izumin5210"
   },
   {
     "title": "Makefileの関数",
@@ -544,20 +544,20 @@
     "id": "koba04"
   },
   {
+    "title": "Linuxbrew のススメ",
+    "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
+    "likes_count": 392,
+    "created_at": "2014-12-19T08:53:15+09:00",
+    "updated_at": "2020-12-21T20:49:31+09:00",
+    "id": "thermes"
+  },
+  {
     "title": "5分で作るPROXYサーバー",
     "url": "https://qiita.com/pcnikki/items/404329f9ad9cb6e235d4",
     "likes_count": 391,
     "created_at": "2014-12-06T00:48:09+09:00",
     "updated_at": "2015-10-16T11:01:46+09:00",
     "id": "pcnikki"
-  },
-  {
-    "title": "Linuxbrew のススメ",
-    "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
-    "likes_count": 391,
-    "created_at": "2014-12-19T08:53:15+09:00",
-    "updated_at": "2020-12-21T20:49:31+09:00",
-    "id": "thermes"
   },
   {
     "title": "rails管理画面系gem比較してみた",
@@ -642,7 +642,7 @@
   {
     "title": "Python ビット演算 超入門",
     "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2014-12-14T19:50:10+09:00",
     "updated_at": "2014-12-15T17:50:09+09:00",
     "id": "7shi"
@@ -744,20 +744,20 @@
     "id": "nushio"
   },
   {
-    "title": "知らないと損?RubyMine(IntelliJ)で役立つ細かいテクニック７つ",
-    "url": "https://qiita.com/Avene/items/756c17f87d28d2ee47a4",
-    "likes_count": 274,
-    "created_at": "2014-12-20T16:17:06+09:00",
-    "updated_at": "2016-02-19T22:29:48+09:00",
-    "id": "Avene"
-  },
-  {
     "title": "JavaEEをはじめよう！",
     "url": "https://qiita.com/tkxlab/items/3c0d4073defacb1215f5",
     "likes_count": 273,
     "created_at": "2014-12-08T20:45:06+09:00",
     "updated_at": "2016-10-16T15:02:19+09:00",
     "id": "tkxlab"
+  },
+  {
+    "title": "知らないと損?RubyMine(IntelliJ)で役立つ細かいテクニック７つ",
+    "url": "https://qiita.com/Avene/items/756c17f87d28d2ee47a4",
+    "likes_count": 273,
+    "created_at": "2014-12-20T16:17:06+09:00",
+    "updated_at": "2016-02-19T22:29:48+09:00",
+    "id": "Avene"
   },
   {
     "title": "golang で streem を実装した。",

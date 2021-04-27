@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 4785,
+    "likes_count": 4787,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 2989,
+    "likes_count": 2991,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2020-03-12T13:17:33+09:00",
     "id": "suin"
@@ -26,7 +26,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 2795,
+    "likes_count": 2798,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -90,7 +90,7 @@
   {
     "title": "tmuxチートシート",
     "url": "https://qiita.com/nmrmsys/items/03f97f5eabec18a3a18b",
-    "likes_count": 1278,
+    "likes_count": 1279,
     "created_at": "2015-05-17T14:38:08+09:00",
     "updated_at": "2016-10-30T07:17:09+09:00",
     "id": "nmrmsys"
@@ -130,7 +130,7 @@
   {
     "title": "仕様書の書き方",
     "url": "https://qiita.com/ko1/items/9f5f1a2683ea54f12362",
-    "likes_count": 943,
+    "likes_count": 944,
     "created_at": "2015-05-15T22:42:33+09:00",
     "updated_at": "2016-04-21T00:19:23+09:00",
     "id": "ko1"
@@ -202,7 +202,7 @@
   {
     "title": "jQueryの基本 - $(document).ready",
     "url": "https://qiita.com/8845musign/items/88a8c693c84ba63cea1d",
-    "likes_count": 665,
+    "likes_count": 666,
     "created_at": "2015-05-13T21:31:15+09:00",
     "updated_at": "2020-07-04T22:05:45+09:00",
     "id": "8845musign"
@@ -210,7 +210,7 @@
   {
     "title": "RSpecのletを使うのはどんなときか？（翻訳）",
     "url": "https://qiita.com/jnchito/items/cdd9eef2ed193267c651",
-    "likes_count": 652,
+    "likes_count": 653,
     "created_at": "2015-05-11T09:33:49+09:00",
     "updated_at": "2015-05-11T10:05:20+09:00",
     "id": "jnchito"
@@ -330,7 +330,7 @@
   {
     "title": "MsTestによるユニットテストの解説",
     "url": "https://qiita.com/mima_ita/items/55394bcc851eb8b6dc24",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2015-05-27T12:38:33+09:00",
     "updated_at": "2016-11-20T19:33:47+09:00",
     "id": "mima_ita"
@@ -354,7 +354,7 @@
   {
     "title": "sedコマンドの備忘録",
     "url": "https://qiita.com/takech9203/items/b96eff5773ce9d9cc9b3",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2015-05-05T20:04:06+09:00",
     "updated_at": "2016-05-03T09:44:34+09:00",
     "id": "takech9203"
@@ -368,20 +368,20 @@
     "id": "kenjihiranabe"
   },
   {
+    "title": "これからVimを触る人向け！今まで使っていたエディタのようにVimを使いはじめる。",
+    "url": "https://qiita.com/kamykn/items/9be187a47d5806b113da",
+    "likes_count": 391,
+    "created_at": "2015-05-30T00:18:57+09:00",
+    "updated_at": "2018-06-11T10:33:53+09:00",
+    "id": "kamykn"
+  },
+  {
     "title": "SonarQubeでプログラムの品質管理をはじめる（概要）",
     "url": "https://qiita.com/sh-ogawa/items/fac0eca110c3558dfae9",
     "likes_count": 390,
     "created_at": "2015-05-12T00:42:47+09:00",
     "updated_at": "2016-07-25T11:10:51+09:00",
     "id": "sh-ogawa"
-  },
-  {
-    "title": "これからVimを触る人向け！今まで使っていたエディタのようにVimを使いはじめる。",
-    "url": "https://qiita.com/kamykn/items/9be187a47d5806b113da",
-    "likes_count": 390,
-    "created_at": "2015-05-30T00:18:57+09:00",
-    "updated_at": "2018-06-11T10:33:53+09:00",
-    "id": "kamykn"
   },
   {
     "title": "AndroidStudioのPostfix Completionで爆速コーディング",
@@ -458,7 +458,7 @@
   {
     "title": "【PHP】特定の文字列を含むかのチェック",
     "url": "https://qiita.com/kazu56/items/2c72d187438de07c2503",
-    "likes_count": 337,
+    "likes_count": 339,
     "created_at": "2015-05-25T12:25:51+09:00",
     "updated_at": "2015-09-15T10:10:14+09:00",
     "id": "kazu56"
@@ -498,7 +498,7 @@
   {
     "title": "XMLHttpRequest についてのメモ",
     "url": "https://qiita.com/sirone/items/412b2a171dccb11e1bb6",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2015-05-05T21:39:06+09:00",
     "updated_at": "2020-05-06T12:44:11+09:00",
     "id": "sirone"
@@ -610,7 +610,7 @@
   {
     "title": "DRY原則をもう一度 -コンカレント・エンジニアリング-",
     "url": "https://qiita.com/Koki_jp/items/d5f1b5f277b581888a1f",
-    "likes_count": 262,
+    "likes_count": 263,
     "created_at": "2015-05-14T04:34:38+09:00",
     "updated_at": "2016-06-02T21:10:49+09:00",
     "id": "Koki_jp"
