@@ -2,7 +2,7 @@
   {
     "title": "オブジェクト指向と10年戦ってわかったこと",
     "url": "https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e",
-    "likes_count": 5080,
+    "likes_count": 5083,
     "created_at": "2015-11-19T07:03:23+09:00",
     "updated_at": "2021-01-10T07:34:39+09:00",
     "id": "tutinoco"
@@ -10,7 +10,7 @@
   {
     "title": "初心者エンジニアにおすすめしたい「進捗どうなった？」と言われないための仕事の進め方",
     "url": "https://qiita.com/soyanchu/items/d1cb9785fc211941a009",
-    "likes_count": 2328,
+    "likes_count": 2329,
     "created_at": "2015-11-19T16:38:11+09:00",
     "updated_at": "2020-11-20T22:24:54+09:00",
     "id": "soyanchu"
@@ -50,7 +50,7 @@
   {
     "title": "Dockerイメージとコンテナの削除方法",
     "url": "https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae",
-    "likes_count": 1506,
+    "likes_count": 1507,
     "created_at": "2015-11-02T17:09:47+09:00",
     "updated_at": "2020-04-12T23:12:03+09:00",
     "id": "tifa2chan"
@@ -64,20 +64,20 @@
     "id": "naru0504"
   },
   {
+    "title": "脱Bootstrapガイド 〜フルスクラッチCSS〜",
+    "url": "https://qiita.com/hashrock/items/5c18bf5086f52e4122e5",
+    "likes_count": 1365,
+    "created_at": "2015-11-06T03:47:54+09:00",
+    "updated_at": "2021-02-12T18:47:27+09:00",
+    "id": "hashrock"
+  },
+  {
     "title": "TensorFlow 畳み込みニューラルネットワークで手書き認識率99.2%の分類器を構築",
     "url": "https://qiita.com/haminiku/items/36982ae65a770565458d",
     "likes_count": 1365,
     "created_at": "2015-11-10T16:00:57+09:00",
     "updated_at": "2015-11-11T00:08:35+09:00",
     "id": "haminiku"
-  },
-  {
-    "title": "脱Bootstrapガイド 〜フルスクラッチCSS〜",
-    "url": "https://qiita.com/hashrock/items/5c18bf5086f52e4122e5",
-    "likes_count": 1364,
-    "created_at": "2015-11-06T03:47:54+09:00",
-    "updated_at": "2021-02-12T18:47:27+09:00",
-    "id": "hashrock"
   },
   {
     "title": "【統計学】尤度って何？をグラフィカルに説明してみる。",
@@ -106,7 +106,7 @@
   {
     "title": "Dockerコンテナの作成、起動〜停止まで",
     "url": "https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53",
-    "likes_count": 1084,
+    "likes_count": 1085,
     "created_at": "2015-11-16T16:38:52+09:00",
     "updated_at": "2015-11-16T16:38:52+09:00",
     "id": "kooohei"
@@ -218,7 +218,7 @@
   {
     "title": "curl option 覚え書き",
     "url": "https://qiita.com/takayukioda/items/edf371b3566bea64d046",
-    "likes_count": 617,
+    "likes_count": 619,
     "created_at": "2015-11-18T18:04:36+09:00",
     "updated_at": "2021-02-25T12:31:02+09:00",
     "id": "takayukioda"
@@ -280,20 +280,20 @@
     "id": "Keech"
   },
   {
+    "title": "Scala入門時に役立つ情報まとめ",
+    "url": "https://qiita.com/nesheep5/items/49019b9df4836d36ec1f",
+    "likes_count": 539,
+    "created_at": "2015-11-10T01:01:57+09:00",
+    "updated_at": "2018-03-22T21:49:23+09:00",
+    "id": "nesheep5"
+  },
+  {
     "title": "Redux入門 1日目  Reduxとは(公式ドキュメント和訳)",
     "url": "https://qiita.com/kitagawamac/items/b001839150ab04a6a427",
     "likes_count": 539,
     "created_at": "2015-11-21T16:19:16+09:00",
     "updated_at": "2016-11-02T12:05:49+09:00",
     "id": "kitagawamac"
-  },
-  {
-    "title": "Scala入門時に役立つ情報まとめ",
-    "url": "https://qiita.com/nesheep5/items/49019b9df4836d36ec1f",
-    "likes_count": 538,
-    "created_at": "2015-11-10T01:01:57+09:00",
-    "updated_at": "2018-03-22T21:49:23+09:00",
-    "id": "nesheep5"
   },
   {
     "title": "RubyからGoの関数をつかう → はやい",
@@ -550,14 +550,6 @@
     "created_at": "2015-11-30T21:57:57+09:00",
     "updated_at": "2017-03-15T01:24:11+09:00",
     "id": "kazu56"
-  },
-  {
-    "title": "GitHubにssh接続できるようにする",
-    "url": "https://qiita.com/0ta2/items/25c27d447378b13a1ac3",
-    "likes_count": 269,
-    "created_at": "2015-11-08T22:41:46+09:00",
-    "updated_at": "2020-12-28T21:14:59+09:00",
-    "id": "0ta2"
   },
   {
     "title": "React Bootstrap ってなんて素敵なんだ",
