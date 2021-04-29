@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5452,
+    "likes_count": 5453,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -98,7 +98,7 @@
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
     "url": "https://qiita.com/YudaiTsukamoto/items/06b426f4dbee268d5035",
-    "likes_count": 898,
+    "likes_count": 899,
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2017-12-14T17:04:47+09:00",
     "id": "YudaiTsukamoto"
@@ -106,10 +106,18 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 891,
+    "likes_count": 893,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
+  },
+  {
+    "title": "EMアルゴリズム徹底解説",
+    "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
+    "likes_count": 863,
+    "created_at": "2017-12-18T19:47:53+09:00",
+    "updated_at": "2017-12-31T02:21:02+09:00",
+    "id": "kenmatsu4"
   },
   {
     "title": "2017年のディープラーニング論文100選",
@@ -120,17 +128,9 @@
     "id": "sakaiakira"
   },
   {
-    "title": "EMアルゴリズム徹底解説",
-    "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 861,
-    "created_at": "2017-12-18T19:47:53+09:00",
-    "updated_at": "2017-12-31T02:21:02+09:00",
-    "id": "kenmatsu4"
-  },
-  {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 858,
+    "likes_count": 859,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -170,7 +170,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 805,
+    "likes_count": 806,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -298,7 +298,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 601,
+    "likes_count": 602,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -378,7 +378,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 526,
+    "likes_count": 527,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -394,7 +394,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 517,
+    "likes_count": 519,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -402,7 +402,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -506,7 +506,7 @@
   {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
@@ -546,7 +546,7 @@
   {
     "title": "WindowsでDocker環境を試してみる",
     "url": "https://qiita.com/fkooo/items/d2fddef9091b906675ca",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2017-12-20T20:24:56+09:00",
     "updated_at": "2021-01-17T17:08:39+09:00",
     "id": "fkooo"
@@ -578,7 +578,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 365,
+    "likes_count": 367,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -786,7 +786,7 @@
   {
     "title": "Google Apps Script (GAS) で毎週 30 分の雑務を自動化した話",
     "url": "https://qiita.com/tanabee/items/e51f107f1e95a42cc636",
-    "likes_count": 252,
+    "likes_count": 253,
     "created_at": "2017-12-19T15:41:47+09:00",
     "updated_at": "2018-12-21T11:07:32+09:00",
     "id": "tanabee"
