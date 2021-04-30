@@ -2,7 +2,7 @@
   {
     "title": "何かのときにすっと出したい、プログラミングに関する法則・原則一覧",
     "url": "https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63",
-    "likes_count": 4229,
+    "likes_count": 4230,
     "created_at": "2014-07-21T23:44:04+09:00",
     "updated_at": "2018-02-21T17:53:55+09:00",
     "id": "hirokidaichi"
@@ -10,7 +10,7 @@
   {
     "title": "Pythonを書き始める前に見るべきTips",
     "url": "https://qiita.com/icoxfog417/items/e8f97a6acad07903b5b0",
-    "likes_count": 4022,
+    "likes_count": 4021,
     "created_at": "2014-07-29T17:43:20+09:00",
     "updated_at": "2020-02-04T12:14:07+09:00",
     "id": "icoxfog417"
@@ -50,7 +50,7 @@
   {
     "title": "【Git】基本コマンド",
     "url": "https://qiita.com/konweb/items/621722f67fdd8f86a017",
-    "likes_count": 1785,
+    "likes_count": 1786,
     "created_at": "2014-07-12T03:08:15+09:00",
     "updated_at": "2019-06-15T23:17:12+09:00",
     "id": "konweb"
@@ -74,7 +74,7 @@
   {
     "title": "ログ設計指針",
     "url": "https://qiita.com/nanasess/items/350e59b29cceb2f122b3",
-    "likes_count": 1596,
+    "likes_count": 1597,
     "created_at": "2014-07-16T11:28:44+09:00",
     "updated_at": "2020-11-09T18:44:53+09:00",
     "id": "nanasess"
@@ -162,7 +162,7 @@
   {
     "title": "Docker、IBM、Microsoft、RedHatがGoogleのコンテナ管理フレームワークKubernetesにこぞって開発参加する理由",
     "url": "https://qiita.com/kazunori279/items/ebe8ea24601e606f8048",
-    "likes_count": 728,
+    "likes_count": 727,
     "created_at": "2014-07-14T08:21:35+09:00",
     "updated_at": "2014-07-18T08:46:32+09:00",
     "id": "kazunori279"
@@ -216,20 +216,20 @@
     "id": "jnchito"
   },
   {
+    "title": "DOMイベントのキャプチャ/バブリングを整理する 〜 JSおくのほそ道 #017",
+    "url": "https://qiita.com/hosomichi/items/49500fea5fdf43f59c58",
+    "likes_count": 569,
+    "created_at": "2014-07-25T19:58:10+09:00",
+    "updated_at": "2018-09-03T11:03:24+09:00",
+    "id": "hosomichi"
+  },
+  {
     "title": "RSpecの入門とその一歩先へ ～RSpec 3バージョン～",
     "url": "https://qiita.com/jnchito/items/624f6d5023c279046a1c",
     "likes_count": 567,
     "created_at": "2014-07-17T14:30:16+09:00",
     "updated_at": "2016-02-23T07:12:06+09:00",
     "id": "jnchito"
-  },
-  {
-    "title": "DOMイベントのキャプチャ/バブリングを整理する 〜 JSおくのほそ道 #017",
-    "url": "https://qiita.com/hosomichi/items/49500fea5fdf43f59c58",
-    "likes_count": 567,
-    "created_at": "2014-07-25T19:58:10+09:00",
-    "updated_at": "2018-09-03T11:03:24+09:00",
-    "id": "hosomichi"
   },
   {
     "title": "開発者がSurfacePro3を買ったらまずやること",
@@ -258,7 +258,7 @@
   {
     "title": "railsをdockerで動かしたい場合の構成はどうするべきか",
     "url": "https://qiita.com/k-shogo/items/592e243f9763d0c3b10a",
-    "likes_count": 530,
+    "likes_count": 529,
     "created_at": "2014-07-08T16:38:01+09:00",
     "updated_at": "2018-03-09T16:07:41+09:00",
     "id": "k-shogo"
@@ -328,11 +328,11 @@
     "id": "kaki_k"
   },
   {
-    "title": "僕にそのコピペを直せというのか",
+    "title": "僕にそのコピペを直せというのか(2021年4月版)",
     "url": "https://qiita.com/mima_ita/items/fe1b3443a363e5d90a21",
-    "likes_count": 475,
+    "likes_count": 474,
     "created_at": "2014-07-29T21:18:20+09:00",
-    "updated_at": "2014-08-06T20:28:46+09:00",
+    "updated_at": "2021-04-30T12:56:12+09:00",
     "id": "mima_ita"
   },
   {
@@ -362,7 +362,7 @@
   {
     "title": "新しいNTPクライアント＆サーバ、chrony",
     "url": "https://qiita.com/yunano/items/7883cf295f91f4ef716b",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2014-07-22T00:33:29+09:00",
     "updated_at": "2018-09-30T17:04:21+09:00",
     "id": "yunano"
@@ -506,7 +506,7 @@
   {
     "title": "Swiftのプロパティ監視(willSet/didSet)の挙動について調べてみた",
     "url": "https://qiita.com/takabosoft/items/b3af8b30a8c5111f4fce",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2014-07-17T14:30:47+09:00",
     "updated_at": "2015-03-26T17:30:47+09:00",
     "id": "takabosoft"
@@ -518,6 +518,14 @@
     "created_at": "2014-07-14T22:42:52+09:00",
     "updated_at": "2014-07-15T08:47:53+09:00",
     "id": "pollseed"
+  },
+  {
+    "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
+    "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
+    "likes_count": 360,
+    "created_at": "2014-07-17T19:56:24+09:00",
+    "updated_at": "2014-07-17T19:56:24+09:00",
+    "id": "konweb"
   },
   {
     "title": "jQueryで設定されたクリックイベントなどを定義している場所を調べる方法",
@@ -534,14 +542,6 @@
     "created_at": "2014-07-16T19:37:38+09:00",
     "updated_at": "2016-08-01T10:45:19+09:00",
     "id": "ynakayama"
-  },
-  {
-    "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
-    "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
-    "likes_count": 359,
-    "created_at": "2014-07-17T19:56:24+09:00",
-    "updated_at": "2014-07-17T19:56:24+09:00",
-    "id": "konweb"
   },
   {
     "title": "Go net/httpパッケージの概要とHTTPクライアント実装例",
@@ -632,20 +632,20 @@
     "id": "hayashi311"
   },
   {
+    "title": "UnityのMecanimでキャラクターを動かす",
+    "url": "https://qiita.com/yando/items/601e6fd35002e77ae9c8",
+    "likes_count": 304,
+    "created_at": "2014-07-20T00:29:45+09:00",
+    "updated_at": "2016-12-27T22:10:27+09:00",
+    "id": "yando"
+  },
+  {
     "title": "秀丸を10年使い続けた私が、MacVimと出会って困って訊いて調べて… 徒然備忘録",
     "url": "https://qiita.com/shingargle/items/48b0699e5a1111044451",
     "likes_count": 304,
     "created_at": "2014-07-27T21:24:23+09:00",
     "updated_at": "2015-11-16T10:35:00+09:00",
     "id": "shingargle"
-  },
-  {
-    "title": "UnityのMecanimでキャラクターを動かす",
-    "url": "https://qiita.com/yando/items/601e6fd35002e77ae9c8",
-    "likes_count": 303,
-    "created_at": "2014-07-20T00:29:45+09:00",
-    "updated_at": "2016-12-27T22:10:27+09:00",
-    "id": "yando"
   },
   {
     "title": "Swiftでシングルトンパターンを実装する３つの方法",

@@ -26,7 +26,7 @@
   {
     "title": "Vue.jsを100時間勉強して分かったこと",
     "url": "https://qiita.com/kskinaba/items/3e8887d45b11f9132012",
-    "likes_count": 2163,
+    "likes_count": 2164,
     "created_at": "2019-05-16T18:44:50+09:00",
     "updated_at": "2020-07-01T08:46:20+09:00",
     "id": "kskinaba"
@@ -34,7 +34,7 @@
   {
     "title": "東大松尾研から新たに無償公開されたDeep Learning講座「DL4US」が良い、という話",
     "url": "https://qiita.com/katsuki104/items/e0f81a9cacc3e5f4fcd7",
-    "likes_count": 1755,
+    "likes_count": 1756,
     "created_at": "2019-05-16T17:25:13+09:00",
     "updated_at": "2019-05-17T02:07:22+09:00",
     "id": "katsuki104"
@@ -42,7 +42,7 @@
   {
     "title": "線形代数を学ぶ理由",
     "url": "https://qiita.com/kaityo256/items/872a2b2fdf977c0e3fbb",
-    "likes_count": 1663,
+    "likes_count": 1664,
     "created_at": "2019-05-07T22:36:46+09:00",
     "updated_at": "2019-05-16T10:31:54+09:00",
     "id": "kaityo256"
@@ -66,7 +66,7 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2021.04",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1392,
+    "likes_count": 1395,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2021-04-29T23:16:17+09:00",
     "id": "hayao_k"
@@ -74,7 +74,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1368,
+    "likes_count": 1370,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -90,7 +90,7 @@
   {
     "title": "Ricty を神フォントだと崇める僕が、フリーライセンスのプログラミングフォント「白源」を作った話",
     "url": "https://qiita.com/tawara_/items/374f3ca0a386fab8b305",
-    "likes_count": 1232,
+    "likes_count": 1235,
     "created_at": "2019-05-21T13:54:46+09:00",
     "updated_at": "2021-04-24T18:06:06+09:00",
     "id": "tawara_"
@@ -194,7 +194,7 @@
   {
     "title": "アニメーションで学ぶVim入門 ～精選10機能～",
     "url": "https://qiita.com/KoyanagiHitoshi/items/82ef910432552d0a4553",
-    "likes_count": 742,
+    "likes_count": 743,
     "created_at": "2019-05-20T08:04:30+09:00",
     "updated_at": "2021-03-06T18:52:55+09:00",
     "id": "KoyanagiHitoshi"
@@ -216,20 +216,20 @@
     "id": "DQNEO"
   },
   {
+    "title": "自作JSの読み込みはbodyの最後に書いたほうがいいのに、なんで外部ライブラリはheadにあるんでしょうか？",
+    "url": "https://qiita.com/sadahiroyoshi/items/1e17a149505da839bc5a",
+    "likes_count": 706,
+    "created_at": "2019-05-11T00:58:54+09:00",
+    "updated_at": "2019-05-11T03:05:09+09:00",
+    "id": "sadahiroyoshi"
+  },
+  {
     "title": "[2019年5月版] 機械学習・深層学習を学び、トレンドを追うためのリンク150選",
     "url": "https://qiita.com/tomo_makes/items/cd036e2444a938416316",
     "likes_count": 704,
     "created_at": "2019-05-06T22:06:35+09:00",
     "updated_at": "2019-05-11T10:03:57+09:00",
     "id": "tomo_makes"
-  },
-  {
-    "title": "自作JSの読み込みはbodyの最後に書いたほうがいいのに、なんで外部ライブラリはheadにあるんでしょうか？",
-    "url": "https://qiita.com/sadahiroyoshi/items/1e17a149505da839bc5a",
-    "likes_count": 699,
-    "created_at": "2019-05-11T00:58:54+09:00",
-    "updated_at": "2019-05-11T03:05:09+09:00",
-    "id": "sadahiroyoshi"
   },
   {
     "title": "知識が無いからこそコードレビューで指摘をしよう",
@@ -266,7 +266,7 @@
   {
     "title": "Vue.jsのv-modelを正しく使う",
     "url": "https://qiita.com/simezi9/items/c27d69f17d2d08722b3a",
-    "likes_count": 573,
+    "likes_count": 575,
     "created_at": "2019-05-13T20:05:41+09:00",
     "updated_at": "2020-05-01T18:50:04+09:00",
     "id": "simezi9"
@@ -274,7 +274,7 @@
   {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 537,
+    "likes_count": 539,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2020-05-08T20:20:06+09:00",
     "id": "simonritchie"
@@ -298,7 +298,7 @@
   {
     "title": "[Flutter] package:provider の各プロバイダの詳細",
     "url": "https://qiita.com/kabochapo/items/a90d8438243c27e2f6d9",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2019-05-23T09:03:03+09:00",
     "updated_at": "2021-04-07T19:04:51+09:00",
     "id": "kabochapo"
@@ -314,7 +314,7 @@
   {
     "title": "TailwindCSS入門 ~ Utility First + デザインシステムの構築 ~",
     "url": "https://qiita.com/oedkty/items/68461080515ec1012980",
-    "likes_count": 462,
+    "likes_count": 463,
     "created_at": "2019-05-26T13:14:34+09:00",
     "updated_at": "2020-06-09T21:21:30+09:00",
     "id": "oedkty"
@@ -370,7 +370,7 @@
   {
     "title": "TypeScriptの型推論詳説",
     "url": "https://qiita.com/uhyo/items/6acb7f4ee73287d5dac0",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2019-05-25T03:29:55+09:00",
     "updated_at": "2019-06-10T12:37:04+09:00",
     "id": "uhyo"
@@ -442,7 +442,7 @@
   {
     "title": "WSL (Windows Subsystem for Linux)の基本メモ",
     "url": "https://qiita.com/rubytomato@github/items/fdfc0a76e848442f374e",
-    "likes_count": 329,
+    "likes_count": 330,
     "created_at": "2019-05-18T00:04:17+09:00",
     "updated_at": "2020-05-15T23:58:04+09:00",
     "id": "rubytomato@github"
