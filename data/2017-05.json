@@ -10,7 +10,7 @@
   {
     "title": "gRPCって何？",
     "url": "https://qiita.com/oohira/items/63b5ccb2bf1a913659d6",
-    "likes_count": 1311,
+    "likes_count": 1312,
     "created_at": "2017-05-25T17:42:34+09:00",
     "updated_at": "2019-06-27T19:39:34+09:00",
     "id": "oohira"
@@ -18,7 +18,7 @@
   {
     "title": "Pythonのテキスト作りました",
     "url": "https://qiita.com/KatsunoriNakamura/items/b465b0cf05b1b7fd4975",
-    "likes_count": 1299,
+    "likes_count": 1309,
     "created_at": "2017-05-16T12:28:24+09:00",
     "updated_at": "2021-04-29T14:28:06+09:00",
     "id": "KatsunoriNakamura"
@@ -42,7 +42,7 @@
   {
     "title": "venv: Python 仮想環境管理",
     "url": "https://qiita.com/fiftystorm36/items/b2fd47cf32c7694adc2e",
-    "likes_count": 910,
+    "likes_count": 912,
     "created_at": "2017-05-12T18:03:07+09:00",
     "updated_at": "2019-10-11T13:08:54+09:00",
     "id": "fiftystorm36"
@@ -74,7 +74,7 @@
   {
     "title": "Flaskの簡単な使い方",
     "url": "https://qiita.com/zaburo/items/5091041a5afb2a7dffc8",
-    "likes_count": 759,
+    "likes_count": 760,
     "created_at": "2017-05-10T19:25:51+09:00",
     "updated_at": "2019-07-16T16:53:20+09:00",
     "id": "zaburo"
@@ -82,7 +82,7 @@
   {
     "title": "最強のWiki「Crowi」のフォーク、「GROWI(旧crowi-plus)」を公開した話",
     "url": "https://qiita.com/yuki-takei/items/5df9601039ccfc1df01f",
-    "likes_count": 757,
+    "likes_count": 758,
     "created_at": "2017-05-26T05:23:02+09:00",
     "updated_at": "2018-10-25T23:01:38+09:00",
     "id": "yuki-takei"
@@ -114,10 +114,18 @@
   {
     "title": "OSI参照モデルまとめ",
     "url": "https://qiita.com/tatsuya4150/items/474b60beed0c04d5d999",
-    "likes_count": 661,
+    "likes_count": 662,
     "created_at": "2017-05-28T18:11:43+09:00",
     "updated_at": "2020-07-07T15:34:33+09:00",
     "id": "tatsuya4150"
+  },
+  {
+    "title": "Java8のラムダ式を理解する",
+    "url": "https://qiita.com/sano1202/items/64593e8e981e8d6439d3",
+    "likes_count": 584,
+    "created_at": "2017-05-22T18:46:54+09:00",
+    "updated_at": "2020-06-16T16:25:56+09:00",
+    "id": "sano1202"
   },
   {
     "title": "ベイエリアで働くエンジニアがやりやすいと感じる会社の特徴５つ",
@@ -126,14 +134,6 @@
     "created_at": "2017-05-12T17:06:06+09:00",
     "updated_at": "2017-05-12T17:06:06+09:00",
     "id": "hiroyamada"
-  },
-  {
-    "title": "Java8のラムダ式を理解する",
-    "url": "https://qiita.com/sano1202/items/64593e8e981e8d6439d3",
-    "likes_count": 583,
-    "created_at": "2017-05-22T18:46:54+09:00",
-    "updated_at": "2020-06-16T16:25:56+09:00",
-    "id": "sano1202"
   },
   {
     "title": "GCE の無料枠のサーバを立るときに、初見でハマりそうなところ",
@@ -162,7 +162,7 @@
   {
     "title": "今さら聞けないWebSocket~WebSocketとは~",
     "url": "https://qiita.com/chihiro/items/9d280704c6eff8603389",
-    "likes_count": 526,
+    "likes_count": 527,
     "created_at": "2017-05-04T21:19:17+09:00",
     "updated_at": "2019-05-06T16:03:42+09:00",
     "id": "chihiro"
@@ -202,7 +202,7 @@
   {
     "title": "計算量オーダーについて",
     "url": "https://qiita.com/asksaito/items/59e0d48408f1eab081b5",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2017-05-28T11:56:34+09:00",
     "updated_at": "2017-05-28T11:56:34+09:00",
     "id": "asksaito"
