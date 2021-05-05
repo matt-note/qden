@@ -2,7 +2,7 @@
   {
     "title": "僕が考える最強のコミットメッセージの書き方",
     "url": "https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e",
-    "likes_count": 1935,
+    "likes_count": 1936,
     "created_at": "2020-12-02T01:58:24+09:00",
     "updated_at": "2020-12-16T07:00:48+09:00",
     "id": "konatsu_p"
@@ -10,7 +10,7 @@
   {
     "title": "今時のPythonはこう書く2020",
     "url": "https://qiita.com/nicco_mirai/items/c1810ed2a6fc8c53c006",
-    "likes_count": 1848,
+    "likes_count": 1851,
     "created_at": "2020-12-04T08:24:15+09:00",
     "updated_at": "2020-12-06T14:11:32+09:00",
     "id": "nicco_mirai"
@@ -18,7 +18,7 @@
   {
     "title": "単一責任原則で無責任な多目的クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/76307b1b066467cbfd6a",
-    "likes_count": 1507,
+    "likes_count": 1508,
     "created_at": "2020-12-08T11:46:34+09:00",
     "updated_at": "2020-12-09T13:17:47+09:00",
     "id": "MinoDriven"
@@ -26,7 +26,7 @@
   {
     "title": "技術選定/アーキテクチャ設計で後悔しないためのガイドライン",
     "url": "https://qiita.com/hirokidaichi/items/a746062917595619720b",
-    "likes_count": 1472,
+    "likes_count": 1474,
     "created_at": "2020-12-15T16:21:33+09:00",
     "updated_at": "2020-12-15T16:36:06+09:00",
     "id": "hirokidaichi"
@@ -34,7 +34,7 @@
   {
     "title": "フロントエンドを100倍速くした（ ＾ω＾）",
     "url": "https://qiita.com/nanocloudx/items/ed53c1cdb90f8d0f120c",
-    "likes_count": 1296,
+    "likes_count": 1297,
     "created_at": "2020-12-25T00:01:06+09:00",
     "updated_at": "2021-01-21T23:23:48+09:00",
     "id": "nanocloudx"
@@ -42,7 +42,7 @@
   {
     "title": "プログラミングスクールのメンターを辞めました",
     "url": "https://qiita.com/rhiroe/items/4349b9f412364aa2c729",
-    "likes_count": 1234,
+    "likes_count": 1235,
     "created_at": "2020-12-27T02:15:08+09:00",
     "updated_at": "2021-01-25T23:18:06+09:00",
     "id": "rhiroe"
@@ -50,7 +50,7 @@
   {
     "title": "引っ越しすることになったので機械学習を使って全力で自分の住む家を決めようとした話",
     "url": "https://qiita.com/pao2/items/24728936ee6f6674ae37",
-    "likes_count": 1097,
+    "likes_count": 1098,
     "created_at": "2020-12-11T00:31:55+09:00",
     "updated_at": "2020-12-11T08:11:58+09:00",
     "id": "pao2"
@@ -82,7 +82,7 @@
   {
     "title": "1年半のソフトウェアエンジニア長期インターンで出会ったオススメ本をたくさん紹介します",
     "url": "https://qiita.com/TodayInsane/items/5a04b5b1cf846a6d11d8",
-    "likes_count": 765,
+    "likes_count": 767,
     "created_at": "2020-12-04T09:48:13+09:00",
     "updated_at": "2020-12-05T02:24:52+09:00",
     "id": "TodayInsane"
@@ -98,7 +98,7 @@
   {
     "title": "WebSocketの次の技術！？WebTransportについての解説とチュートリアル",
     "url": "https://qiita.com/yuki_uchida/items/d9de148bb2ee418563cf",
-    "likes_count": 649,
+    "likes_count": 650,
     "created_at": "2020-12-02T20:02:38+09:00",
     "updated_at": "2021-04-27T23:21:54+09:00",
     "id": "yuki_uchida"
@@ -136,6 +136,14 @@
     "id": "raku_taro"
   },
   {
+    "title": "OpenCVでのデモの見栄えを工夫したまとめ(ディープラーニング系)",
+    "url": "https://qiita.com/Kazuhito/items/f8f21956436dc410f8d2",
+    "likes_count": 464,
+    "created_at": "2020-12-06T16:12:34+09:00",
+    "updated_at": "2020-12-12T00:53:13+09:00",
+    "id": "Kazuhito"
+  },
+  {
     "title": "よく知らないアプリケーションの性能と戦わないといけないときの防衛術（前編）",
     "url": "https://qiita.com/nfujita55a/items/3760cd099ca890f5a4d4",
     "likes_count": 463,
@@ -144,17 +152,9 @@
     "id": "nfujita55a"
   },
   {
-    "title": "OpenCVでのデモの見栄えを工夫したまとめ(ディープラーニング系)",
-    "url": "https://qiita.com/Kazuhito/items/f8f21956436dc410f8d2",
-    "likes_count": 463,
-    "created_at": "2020-12-06T16:12:34+09:00",
-    "updated_at": "2020-12-12T00:53:13+09:00",
-    "id": "Kazuhito"
-  },
-  {
     "title": "理不尽なムチャぶりを全力で回避したいエンジニアのためのサバイバル術",
     "url": "https://qiita.com/shibayoh/items/05d2f0af578f56e4b327",
-    "likes_count": 461,
+    "likes_count": 460,
     "created_at": "2020-12-17T12:42:43+09:00",
     "updated_at": "2020-12-30T17:20:19+09:00",
     "id": "shibayoh"
@@ -170,7 +170,7 @@
   {
     "title": "2020年をおさらい！オレオレ深層学習論文ベスト10！",
     "url": "https://qiita.com/omiita/items/e1d11c5b468c22739e13",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2020-12-22T07:53:33+09:00",
     "updated_at": "2020-12-22T08:06:35+09:00",
     "id": "omiita"
@@ -186,7 +186,7 @@
   {
     "title": "Pythonで美しい動画を作ろう",
     "url": "https://qiita.com/Kohki_Mametani/items/3c7a44e2445958a5cc25",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2020-12-21T09:55:23+09:00",
     "updated_at": "2021-03-16T23:59:29+09:00",
     "id": "Kohki_Mametani"
@@ -202,7 +202,7 @@
   {
     "title": "自動作曲AI Music Transformerの衝撃",
     "url": "https://qiita.com/NayuSato/items/e193ea8b8fc5db560431",
-    "likes_count": 411,
+    "likes_count": 412,
     "created_at": "2020-12-13T12:41:52+09:00",
     "updated_at": "2020-12-16T00:32:41+09:00",
     "id": "NayuSato"
@@ -226,7 +226,7 @@
   {
     "title": "フロントエンドエンジニアがSPAを開発する上で理解しておきたいこと",
     "url": "https://qiita.com/shohta-noda/items/a6c1b5264cb2fee7fc6d",
-    "likes_count": 379,
+    "likes_count": 380,
     "created_at": "2020-12-22T10:16:23+09:00",
     "updated_at": "2020-12-24T14:32:44+09:00",
     "id": "shohta-noda"
@@ -242,7 +242,7 @@
   {
     "title": "レビューする人も、される人も知っておきたい！開発プロセスごとのレビュー観点チェックリスト",
     "url": "https://qiita.com/vankobe/items/551a77fc4fd4b1378fd8",
-    "likes_count": 372,
+    "likes_count": 373,
     "created_at": "2020-12-01T21:25:46+09:00",
     "updated_at": "2020-12-07T07:01:01+09:00",
     "id": "vankobe"
@@ -266,7 +266,7 @@
   {
     "title": "副業×AWSでわりと人生変わったエンジニアの話 ",
     "url": "https://qiita.com/FumiakiKato/items/7d0103b8d944a4167942",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2020-12-24T07:21:08+09:00",
     "updated_at": "2020-12-24T07:24:09+09:00",
     "id": "FumiakiKato"
@@ -286,6 +286,14 @@
     "created_at": "2020-12-16T18:52:06+09:00",
     "updated_at": "2020-12-17T11:56:40+09:00",
     "id": "ttyszk"
+  },
+  {
+    "title": "「俺はこっちのデザインの方が良いと思うな〜」の倒し方",
+    "url": "https://qiita.com/Leonardo-mbc/items/02f1bc15127c7e77e5d0",
+    "likes_count": 328,
+    "created_at": "2020-12-21T07:06:02+09:00",
+    "updated_at": "2021-04-29T03:02:51+09:00",
+    "id": "Leonardo-mbc"
   },
   {
     "title": "「新米エンジニア」から「中堅エンジニア」への道〜冷静と情熱のキャリア戦略〜",
@@ -322,7 +330,7 @@
   {
     "title": "コンテナ運用におけるログ基盤設計のベストプラクティス",
     "url": "https://qiita.com/naomichi-y/items/6eeebd21adf8e771a8e7",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2020-12-21T00:53:17+09:00",
     "updated_at": "2020-12-27T12:08:20+09:00",
     "id": "naomichi-y"

@@ -42,7 +42,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1458,
+    "likes_count": 1460,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2021-04-25T17:54:48+09:00",
     "id": "elipmoc101"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1345,
+    "likes_count": 1347,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -90,7 +90,7 @@
   {
     "title": "オブジェクト指向のいろは",
     "url": "https://qiita.com/nrslib/items/73bf176147192c402049",
-    "likes_count": 1110,
+    "likes_count": 1111,
     "created_at": "2018-11-08T07:23:49+09:00",
     "updated_at": "2018-12-23T22:55:48+09:00",
     "id": "nrslib"
@@ -106,7 +106,7 @@
   {
     "title": "Git/GitHubレベル別オススメ学習サイトまとめ完全保存版【2019.06】",
     "url": "https://qiita.com/thinkalot/items/b3c2e9060f46f5d4ea46",
-    "likes_count": 1038,
+    "likes_count": 1039,
     "created_at": "2018-11-24T14:40:32+09:00",
     "updated_at": "2020-01-13T03:12:52+09:00",
     "id": "thinkalot"
@@ -114,7 +114,7 @@
   {
     "title": "【保存版・初心者向け】Python 目的別チュートリアル",
     "url": "https://qiita.com/tani_AI_Academy/items/3edc5effeb386ae3caa9",
-    "likes_count": 1007,
+    "likes_count": 1006,
     "created_at": "2018-11-12T11:51:01+09:00",
     "updated_at": "2020-03-15T19:44:41+09:00",
     "id": "tani_AI_Academy"
@@ -186,7 +186,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 695,
+    "likes_count": 696,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -194,7 +194,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 677,
+    "likes_count": 678,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -218,7 +218,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 637,
+    "likes_count": 639,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -234,7 +234,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2019-12-29T23:17:28+09:00",
     "id": "ryuichi1208"
@@ -250,7 +250,7 @@
   {
     "title": "HTTP/3が出るらしいという話を雑に書く",
     "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2018-11-14T10:02:01+09:00",
     "updated_at": "2019-10-24T10:50:25+09:00",
     "id": "inductor"
@@ -392,6 +392,14 @@
     "id": "shibukawa"
   },
   {
+    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
+    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
+    "likes_count": 399,
+    "created_at": "2018-11-06T02:18:59+09:00",
+    "updated_at": "2018-11-06T02:18:59+09:00",
+    "id": "psychoroid"
+  },
+  {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
     "likes_count": 399,
@@ -400,17 +408,9 @@
     "id": "HyunwookPark"
   },
   {
-    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
-    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 398,
-    "created_at": "2018-11-06T02:18:59+09:00",
-    "updated_at": "2018-11-06T02:18:59+09:00",
-    "id": "psychoroid"
-  },
-  {
     "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
     "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
-    "likes_count": 388,
+    "likes_count": 387,
     "created_at": "2018-11-19T10:38:23+09:00",
     "updated_at": "2020-09-01T15:55:23+09:00",
     "id": "amishiro"
@@ -522,7 +522,7 @@
   {
     "title": "【Rails】deviseを導入してみる",
     "url": "https://qiita.com/Hal_mai/items/350c400e8763ce0487a3",
-    "likes_count": 251,
+    "likes_count": 252,
     "created_at": "2018-11-07T22:55:48+09:00",
     "updated_at": "2018-11-08T19:17:42+09:00",
     "id": "Hal_mai"

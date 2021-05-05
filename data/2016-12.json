@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4579,
+    "likes_count": 4582,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2549,
+    "likes_count": 2552,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-01-17T17:08:07+09:00",
     "id": "piroor"
@@ -50,7 +50,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1412,
+    "likes_count": 1413,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-04-26T22:09:02+09:00",
     "id": "soarflat"
@@ -66,7 +66,7 @@
   {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1356,
+    "likes_count": 1357,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
@@ -114,7 +114,7 @@
   {
     "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
     "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
-    "likes_count": 1043,
+    "likes_count": 1044,
     "created_at": "2016-12-15T19:53:31+09:00",
     "updated_at": "2017-01-09T03:54:13+09:00",
     "id": "joker1007"
@@ -170,7 +170,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 797,
+    "likes_count": 798,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -234,7 +234,7 @@
   {
     "title": "ようこそ！Electron入門",
     "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
-    "likes_count": 674,
+    "likes_count": 676,
     "created_at": "2016-12-28T14:02:01+09:00",
     "updated_at": "2019-11-22T19:57:05+09:00",
     "id": "umamichi"
@@ -282,7 +282,7 @@
   {
     "title": "電気工事士の資格を取ってコンセントやスイッチを改造しようぜ",
     "url": "https://qiita.com/rukihena/items/a30f07f93ca1718dff8e",
-    "likes_count": 616,
+    "likes_count": 619,
     "created_at": "2016-12-03T01:44:10+09:00",
     "updated_at": "2020-01-14T17:40:54+09:00",
     "id": "rukihena"
@@ -312,20 +312,20 @@
     "id": "tajima_taso"
   },
   {
+    "title": "難しいGitコマンドは、仕組みから理解してみよう",
+    "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
+    "likes_count": 584,
+    "created_at": "2016-12-22T00:02:20+09:00",
+    "updated_at": "2018-11-13T23:20:28+09:00",
+    "id": "_ha1f"
+  },
+  {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
     "likes_count": 583,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
-  },
-  {
-    "title": "難しいGitコマンドは、仕組みから理解してみよう",
-    "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
-    "likes_count": 583,
-    "created_at": "2016-12-22T00:02:20+09:00",
-    "updated_at": "2018-11-13T23:20:28+09:00",
-    "id": "_ha1f"
   },
   {
     "title": "React Nativeとは何なのか",
@@ -514,7 +514,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -528,6 +528,14 @@
     "id": "chanNaru"
   },
   {
+    "title": "iOSアプリ設計大全集 2016",
+    "url": "https://qiita.com/tattn/items/d4b95af0b60c3849243a",
+    "likes_count": 407,
+    "created_at": "2016-12-03T09:37:17+09:00",
+    "updated_at": "2016-12-03T09:39:39+09:00",
+    "id": "tattn"
+  },
+  {
     "title": "機械学習モデルの実装における、テストについて",
     "url": "https://qiita.com/icoxfog417/items/67764a6756c4548b5fb8",
     "likes_count": 407,
@@ -536,17 +544,9 @@
     "id": "icoxfog417"
   },
   {
-    "title": "iOSアプリ設計大全集 2016",
-    "url": "https://qiita.com/tattn/items/d4b95af0b60c3849243a",
-    "likes_count": 406,
-    "created_at": "2016-12-03T09:37:17+09:00",
-    "updated_at": "2016-12-03T09:39:39+09:00",
-    "id": "tattn"
-  },
-  {
     "title": "12800円で自宅や小規模オフィスのネットワークセキュリティ監視環境を構築する",
     "url": "https://qiita.com/m_mizutani/items/dc9988daab24050eb5a2",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2016-12-29T15:07:33+09:00",
     "updated_at": "2017-01-11T12:00:23+09:00",
     "id": "m_mizutani"
@@ -634,7 +634,7 @@
   {
     "title": "「量子コンピュータが人工知能を加速する」を読んで、数式を使わずにPythonでその概要を説明してみた",
     "url": "https://qiita.com/onhrs/items/aa0aa181c27743956689",
-    "likes_count": 335,
+    "likes_count": 334,
     "created_at": "2016-12-22T00:41:26+09:00",
     "updated_at": "2017-10-20T15:15:28+09:00",
     "id": "onhrs"
