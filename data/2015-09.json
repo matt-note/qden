@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 9080,
+    "likes_count": 9085,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2020-12-31T00:39:46+09:00",
     "id": "Ted-HM"
@@ -18,7 +18,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 2091,
+    "likes_count": 2093,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2020-06-02T11:35:16+09:00",
     "id": "suthio"
@@ -42,7 +42,7 @@
   {
     "title": "デザイナーに言われた「非デザイナーが気をつけるべきデザインの4原則」",
     "url": "https://qiita.com/Yama-to/items/cb7f280b44a14c898418",
-    "likes_count": 1753,
+    "likes_count": 1752,
     "created_at": "2015-09-07T23:03:06+09:00",
     "updated_at": "2015-09-30T08:46:55+09:00",
     "id": "Yama-to"
@@ -66,7 +66,7 @@
   {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1615,
+    "likes_count": 1617,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2021-04-26T22:09:48+09:00",
     "id": "soarflat"
@@ -82,7 +82,7 @@
   {
     "title": "エンジニアなら知っておきたい lessコマンドtips 11選",
     "url": "https://qiita.com/ine1127/items/64b5b6cf52471c3fe59c",
-    "likes_count": 1563,
+    "likes_count": 1562,
     "created_at": "2015-09-12T01:44:56+09:00",
     "updated_at": "2015-09-15T00:00:44+09:00",
     "id": "ine1127"
@@ -90,7 +90,7 @@
   {
     "title": "Nginx設定のまとめ",
     "url": "https://qiita.com/townsoft/items/3e2d410bbe65a364b603",
-    "likes_count": 1525,
+    "likes_count": 1527,
     "created_at": "2015-09-30T10:30:39+09:00",
     "updated_at": "2015-11-18T10:09:23+09:00",
     "id": "townsoft"
@@ -122,7 +122,7 @@
   {
     "title": "PATHを通すとは？ (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
-    "likes_count": 1257,
+    "likes_count": 1259,
     "created_at": "2015-09-16T00:08:22+09:00",
     "updated_at": "2021-04-26T22:09:56+09:00",
     "id": "soarflat"
@@ -144,6 +144,14 @@
     "id": "Imamotty"
   },
   {
+    "title": "Kotlin スコープ関数 用途まとめ",
+    "url": "https://qiita.com/ngsw_taro/items/d29e3080d9fc8a38691e",
+    "likes_count": 915,
+    "created_at": "2015-09-29T13:03:50+09:00",
+    "updated_at": "2018-05-16T09:13:43+09:00",
+    "id": "ngsw_taro"
+  },
+  {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
     "likes_count": 914,
@@ -152,17 +160,9 @@
     "id": "nightyknite"
   },
   {
-    "title": "Kotlin スコープ関数 用途まとめ",
-    "url": "https://qiita.com/ngsw_taro/items/d29e3080d9fc8a38691e",
-    "likes_count": 914,
-    "created_at": "2015-09-29T13:03:50+09:00",
-    "updated_at": "2018-05-16T09:13:43+09:00",
-    "id": "ngsw_taro"
-  },
-  {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 908,
+    "likes_count": 909,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2019-02-03T11:37:52+09:00",
     "id": "ryouzi"
@@ -170,7 +170,7 @@
   {
     "title": "Windowsで使えるターミナルとシェルのまとめ",
     "url": "https://qiita.com/Ted-HM/items/9a60f6fcf74bbd79a904",
-    "likes_count": 891,
+    "likes_count": 892,
     "created_at": "2015-09-22T21:51:07+09:00",
     "updated_at": "2019-09-25T23:22:06+09:00",
     "id": "Ted-HM"
@@ -186,7 +186,7 @@
   {
     "title": "MySQLでインデックスを貼る時に読みたいページまとめ(初心者向け）",
     "url": "https://qiita.com/C058/items/1c9c57f634ebf54d99bb",
-    "likes_count": 826,
+    "likes_count": 827,
     "created_at": "2015-09-17T19:53:38+09:00",
     "updated_at": "2018-03-16T12:53:39+09:00",
     "id": "C058"
@@ -202,7 +202,7 @@
   {
     "title": "Graphvizとdot言語でグラフを描く方法のまとめ",
     "url": "https://qiita.com/rubytomato@github/items/51779135bc4b77c8c20d",
-    "likes_count": 779,
+    "likes_count": 780,
     "created_at": "2015-09-14T19:13:26+09:00",
     "updated_at": "2019-09-12T22:44:12+09:00",
     "id": "rubytomato@github"
@@ -234,7 +234,7 @@
   {
     "title": "Chainerで始めるニューラルネットワーク",
     "url": "https://qiita.com/icoxfog417/items/96ecaff323434c8d677b",
-    "likes_count": 673,
+    "likes_count": 674,
     "created_at": "2015-09-24T15:48:58+09:00",
     "updated_at": "2017-04-10T18:09:58+09:00",
     "id": "icoxfog417"
@@ -250,7 +250,7 @@
   {
     "title": "\bgoからiOSまで一人でアプリ開発をしてたらいつの間にかマインクラフトエンジニアになった話",
     "url": "https://qiita.com/appwatcher/items/6c0280cda9c4c8b3c65f",
-    "likes_count": 616,
+    "likes_count": 615,
     "created_at": "2015-09-17T01:06:10+09:00",
     "updated_at": "2016-09-26T09:47:47+09:00",
     "id": "appwatcher"
@@ -306,7 +306,7 @@
   {
     "title": "【CSS3】Transition（変化）関連のまとめ",
     "url": "https://qiita.com/7968/items/812d6a21fc4dd9ae9c75",
-    "likes_count": 491,
+    "likes_count": 492,
     "created_at": "2015-09-11T20:36:50+09:00",
     "updated_at": "2020-04-15T08:44:50+09:00",
     "id": "7968"
@@ -410,7 +410,7 @@
   {
     "title": "【Android】Fragmentを使うときのコツとか色々",
     "url": "https://qiita.com/HideMatsu/items/ddf640899cbe1b2027ed",
-    "likes_count": 365,
+    "likes_count": 366,
     "created_at": "2015-09-11T16:12:52+09:00",
     "updated_at": "2016-05-30T08:44:59+09:00",
     "id": "HideMatsu"
@@ -512,6 +512,14 @@
     "id": "shizuma"
   },
   {
+    "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
+    "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
+    "likes_count": 299,
+    "created_at": "2015-09-11T00:15:29+09:00",
+    "updated_at": "2015-09-11T00:16:04+09:00",
+    "id": "moriyaman"
+  },
+  {
     "title": "突然だがEmacs を始めよう",
     "url": "https://qiita.com/bussorenre/items/bbe757ef87e16c3d31ff",
     "likes_count": 298,
@@ -526,14 +534,6 @@
     "created_at": "2015-09-12T16:57:23+09:00",
     "updated_at": "2015-09-12T16:57:23+09:00",
     "id": "shuntaro_tamura"
-  },
-  {
-    "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
-    "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
-    "likes_count": 296,
-    "created_at": "2015-09-11T00:15:29+09:00",
-    "updated_at": "2015-09-11T00:16:04+09:00",
-    "id": "moriyaman"
   },
   {
     "title": "インストール不要！WindowsでLinuxコマンドを使う",

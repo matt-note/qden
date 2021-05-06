@@ -10,7 +10,7 @@
   {
     "title": "最近の行儀のよい JavaScript の書き方",
     "url": "https://qiita.com/kaiinui/items/22a75d2adc56a40da7b7",
-    "likes_count": 2370,
+    "likes_count": 2369,
     "created_at": "2014-12-21T03:59:19+09:00",
     "updated_at": "2016-12-02T16:18:05+09:00",
     "id": "kaiinui"
@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1736,
+    "likes_count": 1737,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2021-02-11T09:21:27+09:00",
     "id": "jnchito"
@@ -58,7 +58,7 @@
   {
     "title": "機械学習をこれから始める人に押さえておいてほしいこと",
     "url": "https://qiita.com/IshitaTakeshi/items/4607d9f729babd273960",
-    "likes_count": 1300,
+    "likes_count": 1299,
     "created_at": "2014-12-06T10:35:31+09:00",
     "updated_at": "2016-04-05T20:14:24+09:00",
     "id": "IshitaTakeshi"
@@ -66,7 +66,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1272,
+    "likes_count": 1273,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -82,7 +82,7 @@
   {
     "title": "個人のスマホアプリ開発者がParseを使うべき15の理由",
     "url": "https://qiita.com/koyopro/items/b9891aa7bb596b958d7e",
-    "likes_count": 1221,
+    "likes_count": 1220,
     "created_at": "2014-12-20T13:53:04+09:00",
     "updated_at": "2016-01-29T10:06:33+09:00",
     "id": "koyopro"
@@ -98,7 +98,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1209,
+    "likes_count": 1210,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2014-12-18T19:06:40+09:00",
     "id": "k-shogo"
@@ -186,7 +186,7 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 722,
+    "likes_count": 723,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
@@ -242,7 +242,7 @@
   {
     "title": "[翻訳] android best practice",
     "url": "https://qiita.com/kgmyshin/items/a2358d54ffb3c5435d11",
-    "likes_count": 616,
+    "likes_count": 615,
     "created_at": "2014-12-11T09:53:51+09:00",
     "updated_at": "2017-05-07T18:38:58+09:00",
     "id": "kgmyshin"
@@ -274,7 +274,7 @@
   {
     "title": "米googleの研究者が開発したWord2Vecで自然言語処理(独自データ)",
     "url": "https://qiita.com/okappy/items/e16639178ba85edfee72",
-    "likes_count": 607,
+    "likes_count": 606,
     "created_at": "2014-12-09T12:19:38+09:00",
     "updated_at": "2015-06-08T19:13:20+09:00",
     "id": "okappy"
@@ -282,7 +282,7 @@
   {
     "title": "Spring MVCのコントローラでの戻り値いろいろ",
     "url": "https://qiita.com/tag1216/items/3680b92cf96eb5a170f0",
-    "likes_count": 601,
+    "likes_count": 602,
     "created_at": "2014-12-17T22:18:43+09:00",
     "updated_at": "2014-12-17T22:21:08+09:00",
     "id": "tag1216"
@@ -344,6 +344,14 @@
     "id": "__uchi_k__"
   },
   {
+    "title": ".bash_profileと.bashrcについて",
+    "url": "https://qiita.com/shyamahira/items/260862743e4c9794b5d2",
+    "likes_count": 515,
+    "created_at": "2014-12-20T23:26:00+09:00",
+    "updated_at": "2014-12-20T23:26:00+09:00",
+    "id": "shyamahira"
+  },
+  {
     "title": "Rails開発で有用な便利Gem一覧：2014年版",
     "url": "https://qiita.com/shu_0115/items/b9dd17c01e1e6bd65e71",
     "likes_count": 514,
@@ -352,17 +360,9 @@
     "id": "shu_0115"
   },
   {
-    "title": ".bash_profileと.bashrcについて",
-    "url": "https://qiita.com/shyamahira/items/260862743e4c9794b5d2",
-    "likes_count": 514,
-    "created_at": "2014-12-20T23:26:00+09:00",
-    "updated_at": "2014-12-20T23:26:00+09:00",
-    "id": "shyamahira"
-  },
-  {
     "title": "RBMから考えるDeep Learning　～黒魔術を添えて～",
     "url": "https://qiita.com/t_Signull/items/f776aecb4909b7c5c116",
-    "likes_count": 513,
+    "likes_count": 512,
     "created_at": "2014-12-06T22:29:38+09:00",
     "updated_at": "2014-12-18T22:01:59+09:00",
     "id": "t_Signull"
@@ -386,7 +386,7 @@
   {
     "title": "PostgreSQL のパフォーマンスチューニング",
     "url": "https://qiita.com/cuzic/items/f9b846e6171a54079d77",
-    "likes_count": 499,
+    "likes_count": 503,
     "created_at": "2014-12-12T22:45:03+09:00",
     "updated_at": "2014-12-31T22:15:46+09:00",
     "id": "cuzic"
@@ -562,7 +562,7 @@
   {
     "title": "SVMを使いこなす！チェックポイント8つ",
     "url": "https://qiita.com/pika_shi/items/5e59bcf69e85fdd9edb2",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2014-12-16T08:22:35+09:00",
     "updated_at": "2014-12-16T08:22:35+09:00",
     "id": "pika_shi"
@@ -570,7 +570,7 @@
   {
     "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
     "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2014-12-18T22:53:36+09:00",
     "updated_at": "2015-02-14T18:30:30+09:00",
     "id": "y_hokkey"
@@ -616,20 +616,20 @@
     "id": "itosho"
   },
   {
-    "title": "Python ビット演算 超入門",
-    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
-    "likes_count": 326,
-    "created_at": "2014-12-14T19:50:10+09:00",
-    "updated_at": "2014-12-15T17:50:09+09:00",
-    "id": "7shi"
-  },
-  {
     "title": "Sprockets再考 モダンなJSのエコシステムとRailsのより良い関係を探す",
     "url": "https://qiita.com/joker1007/items/9068e223744b3ac8c6dd",
     "likes_count": 325,
     "created_at": "2014-12-05T16:38:05+09:00",
     "updated_at": "2014-12-06T18:42:26+09:00",
     "id": "joker1007"
+  },
+  {
+    "title": "Python ビット演算 超入門",
+    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
+    "likes_count": 325,
+    "created_at": "2014-12-14T19:50:10+09:00",
+    "updated_at": "2014-12-15T17:50:09+09:00",
+    "id": "7shi"
   },
   {
     "title": "Singleton パターンの使いどころをまとめてみた",
@@ -794,7 +794,7 @@
   {
     "title": "Unity2Dのこれだけは覚えておけ！集",
     "url": "https://qiita.com/asiram/items/3b2875731efdc34bc65a",
-    "likes_count": 254,
+    "likes_count": 255,
     "created_at": "2014-12-19T19:31:38+09:00",
     "updated_at": "2014-12-19T19:31:38+09:00",
     "id": "asiram"

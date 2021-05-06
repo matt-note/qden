@@ -2,7 +2,7 @@
   {
     "title": "プロジェクトの残業を50%削減したタスク管理手法を惜しみなく公開する",
     "url": "https://qiita.com/0w0/items/0b287be30af6539ac5e9",
-    "likes_count": 1705,
+    "likes_count": 1707,
     "created_at": "2017-09-10T21:46:15+09:00",
     "updated_at": "2018-08-07T18:36:23+09:00",
     "id": "0w0"
@@ -10,7 +10,7 @@
   {
     "title": "典型的な DP (動的計画法) のパターンを整理 Part 1 ～ ナップサック DP 編 ～",
     "url": "https://qiita.com/drken/items/a5e6fe22863b7992efdb",
-    "likes_count": 1688,
+    "likes_count": 1689,
     "created_at": "2017-09-01T18:12:03+09:00",
     "updated_at": "2020-12-20T17:47:27+09:00",
     "id": "drken"
@@ -26,7 +26,7 @@
   {
     "title": "真偽値を返す関数のネーミング",
     "url": "https://qiita.com/yskszk/items/5a7f99c974773f03a82a",
-    "likes_count": 1090,
+    "likes_count": 1091,
     "created_at": "2017-09-06T22:42:55+09:00",
     "updated_at": "2017-09-19T22:42:23+09:00",
     "id": "yskszk"
@@ -42,7 +42,7 @@
   {
     "title": "いい加減覚えよう。 `command > /dev/null 2>&1`の意味",
     "url": "https://qiita.com/ritukiii/items/b3d91e97b71ecd41d4ea",
-    "likes_count": 851,
+    "likes_count": 850,
     "created_at": "2017-09-06T22:55:16+09:00",
     "updated_at": "2018-11-09T10:28:16+09:00",
     "id": "ritukiii"
@@ -50,7 +50,7 @@
   {
     "title": "良いエラーメッセージの書き方",
     "url": "https://qiita.com/castaneai/items/da6baec750370689e2fa",
-    "likes_count": 844,
+    "likes_count": 845,
     "created_at": "2017-10-01T02:20:20+09:00",
     "updated_at": "2017-10-16T11:18:13+09:00",
     "id": "castaneai"
@@ -74,7 +74,7 @@
   {
     "title": "【JavaScript】スプレッド構文の便利な使い方まとめ",
     "url": "https://qiita.com/Nossa/items/e6f503cbb95c8e6967f8",
-    "likes_count": 787,
+    "likes_count": 789,
     "created_at": "2017-09-09T15:32:13+09:00",
     "updated_at": "2019-07-02T19:19:14+09:00",
     "id": "Nossa"
@@ -122,7 +122,7 @@
   {
     "title": "Vue.jsの書き方実例集(随時追加)※逆引きリファレンス的な",
     "url": "https://qiita.com/Yorinton/items/a0144c34e4edb0777493",
-    "likes_count": 668,
+    "likes_count": 669,
     "created_at": "2017-09-02T11:11:59+09:00",
     "updated_at": "2019-01-27T01:33:08+09:00",
     "id": "Yorinton"
@@ -170,7 +170,7 @@
   {
     "title": "OSSのライセンスを理解する（「使用」と「利用」の違い、知っていますか？）",
     "url": "https://qiita.com/bremen/items/c5aa9446e73aa4bc1de0",
-    "likes_count": 543,
+    "likes_count": 544,
     "created_at": "2017-09-19T18:15:13+09:00",
     "updated_at": "2018-05-07T19:35:42+09:00",
     "id": "bremen"
@@ -210,7 +210,7 @@
   {
     "title": "[Docker] 初心者が知っておくと便利かもしれない18の知識",
     "url": "https://qiita.com/enta0701/items/b872eef6d910908c0e6c",
-    "likes_count": 491,
+    "likes_count": 492,
     "created_at": "2017-09-30T20:32:57+09:00",
     "updated_at": "2019-01-17T18:34:12+09:00",
     "id": "enta0701"
@@ -218,7 +218,7 @@
   {
     "title": "初心者向け：Zshの導入",
     "url": "https://qiita.com/iwaseasahi/items/a2b00b65ebd06785b443",
-    "likes_count": 487,
+    "likes_count": 488,
     "created_at": "2017-09-02T12:56:38+09:00",
     "updated_at": "2021-01-23T10:24:13+09:00",
     "id": "iwaseasahi"
@@ -320,20 +320,20 @@
     "id": "takahirom"
   },
   {
+    "title": "innerHTML より insertAdjacentHTML を使う",
+    "url": "https://qiita.com/amamamaou/items/624c22adec32515e863b",
+    "likes_count": 326,
+    "created_at": "2017-09-13T18:20:53+09:00",
+    "updated_at": "2017-09-15T11:33:36+09:00",
+    "id": "amamamaou"
+  },
+  {
     "title": "Vuejsのちょっと便利なコンポーネント機能",
     "url": "https://qiita.com/myLifeAsaDog/items/233f10591be8ff42cf1d",
     "likes_count": 326,
     "created_at": "2017-09-28T21:41:45+09:00",
     "updated_at": "2020-12-14T12:02:11+09:00",
     "id": "myLifeAsaDog"
-  },
-  {
-    "title": "innerHTML より insertAdjacentHTML を使う",
-    "url": "https://qiita.com/amamamaou/items/624c22adec32515e863b",
-    "likes_count": 325,
-    "created_at": "2017-09-13T18:20:53+09:00",
-    "updated_at": "2017-09-15T11:33:36+09:00",
-    "id": "amamamaou"
   },
   {
     "title": "Vue.jsってどうやったら綺麗に使えるのよ",
@@ -386,7 +386,7 @@
   {
     "title": "【オマケ記事】超短期型タスク管理をカバーする！ステキな中長期計画法",
     "url": "https://qiita.com/0w0/items/f2aafd0d9a5fa95f7c24",
-    "likes_count": 237,
+    "likes_count": 239,
     "created_at": "2017-09-18T20:16:40+09:00",
     "updated_at": "2018-09-30T10:46:55+09:00",
     "id": "0w0"
