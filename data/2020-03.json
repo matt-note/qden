@@ -10,7 +10,7 @@
   {
     "title": "4歳娘「パパ、具体的な名前をつけないで？」",
     "url": "https://qiita.com/Yametaro/items/bcd3166e5d2ad696a89e",
-    "likes_count": 1795,
+    "likes_count": 1796,
     "created_at": "2020-03-19T00:02:21+09:00",
     "updated_at": "2020-12-10T11:12:41+09:00",
     "id": "Yametaro"
@@ -42,7 +42,7 @@
   {
     "title": "JavaScript: 通常の関数とアロー関数の違いは「書き方だけ」ではない。異なる性質が10個ほどある。",
     "url": "https://qiita.com/suin/items/a44825d253d023e31e4d",
-    "likes_count": 1586,
+    "likes_count": 1590,
     "created_at": "2020-03-22T13:48:23+09:00",
     "updated_at": "2020-04-12T23:39:31+09:00",
     "id": "suin"
@@ -114,7 +114,7 @@
   {
     "title": "180日でWeb開発者になる方法(コンピューターサイエンスの学位なしで)",
     "url": "https://qiita.com/baby-degu/items/a06bddd1a61b7d907a55",
-    "likes_count": 795,
+    "likes_count": 797,
     "created_at": "2020-03-15T21:02:35+09:00",
     "updated_at": "2020-06-06T19:46:35+09:00",
     "id": "baby-degu"
@@ -154,10 +154,18 @@
   {
     "title": "【翻訳】コードは書けないけど、1人で作ったwebサービスを収益化した話",
     "url": "https://qiita.com/__shinji__/items/053380d981fa26c4c092",
-    "likes_count": 655,
+    "likes_count": 656,
     "created_at": "2020-03-02T11:48:13+09:00",
     "updated_at": "2020-03-02T11:49:13+09:00",
     "id": "__shinji__"
+  },
+  {
+    "title": "GitHubをフル活用してカンバン(Kanban)方式による開発体制を構築したノウハウを惜しみなく公開する",
+    "url": "https://qiita.com/ffggss/items/1de27a7c2643bb85664a",
+    "likes_count": 644,
+    "created_at": "2020-03-29T10:41:07+09:00",
+    "updated_at": "2020-11-18T17:38:13+09:00",
+    "id": "ffggss"
   },
   {
     "title": "ReactはウェブやHTMLとは特に関係のないライブラリです",
@@ -166,14 +174,6 @@
     "created_at": "2020-03-07T16:46:21+09:00",
     "updated_at": "2020-03-07T17:22:37+09:00",
     "id": "kfurumiya"
-  },
-  {
-    "title": "GitHubをフル活用してカンバン(Kanban)方式による開発体制を構築したノウハウを惜しみなく公開する",
-    "url": "https://qiita.com/ffggss/items/1de27a7c2643bb85664a",
-    "likes_count": 643,
-    "created_at": "2020-03-29T10:41:07+09:00",
-    "updated_at": "2020-11-18T17:38:13+09:00",
-    "id": "ffggss"
   },
   {
     "title": "証明書300万件を強制失効。Let's Encrypt に一体何が起きたのか？",
@@ -258,7 +258,7 @@
   {
     "title": "styled-components（CSS in JS）をやめた理由と、不完全なCSS Modulesを愛する方法",
     "url": "https://qiita.com/jagaapple/items/7f74fc32c69f5b731159",
-    "likes_count": 487,
+    "likes_count": 489,
     "created_at": "2020-03-11T18:00:38+09:00",
     "updated_at": "2020-03-11T18:00:38+09:00",
     "id": "jagaapple"
@@ -272,20 +272,20 @@
     "id": "taku99"
   },
   {
-    "title": "Next.js 9.3新API getStaticProps と getStaticPaths と getServerSideProps の概要解説",
-    "url": "https://qiita.com/matamatanot/items/1735984f40540b8bdf91",
-    "likes_count": 426,
-    "created_at": "2020-03-08T11:00:43+09:00",
-    "updated_at": "2021-02-04T14:39:33+09:00",
-    "id": "matamatanot"
-  },
-  {
     "title": "【C#】わかった\"つもり\"になれる「ラムダ式」解説",
     "url": "https://qiita.com/toRisouP/items/98cc4966d392b7f21c30",
-    "likes_count": 426,
+    "likes_count": 429,
     "created_at": "2020-03-11T01:55:15+09:00",
     "updated_at": "2020-03-12T20:39:47+09:00",
     "id": "toRisouP"
+  },
+  {
+    "title": "Next.js 9.3新API getStaticProps と getStaticPaths と getServerSideProps の概要解説",
+    "url": "https://qiita.com/matamatanot/items/1735984f40540b8bdf91",
+    "likes_count": 428,
+    "created_at": "2020-03-08T11:00:43+09:00",
+    "updated_at": "2021-02-04T14:39:33+09:00",
+    "id": "matamatanot"
   },
   {
     "title": "エンジニアのインターンが技術書を30冊くらい読んでみたので、ゆるくまとめてみた",
@@ -410,7 +410,7 @@
   {
     "title": "最短で機械学習エキスパートになる9つのステップ【完全無料】",
     "url": "https://qiita.com/tume731/items/19a321e05d7e0db47fb6",
-    "likes_count": 286,
+    "likes_count": 285,
     "created_at": "2020-03-17T10:18:57+09:00",
     "updated_at": "2020-05-25T18:38:49+09:00",
     "id": "tume731"

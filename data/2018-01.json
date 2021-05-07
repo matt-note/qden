@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2532,
+    "likes_count": 2534,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2497,
+    "likes_count": 2498,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -34,7 +34,7 @@
   {
     "title": "未経験者が認識してなさそうなTIPS",
     "url": "https://qiita.com/Nao9syu/items/0950527548a08ff9d8c9",
-    "likes_count": 1225,
+    "likes_count": 1226,
     "created_at": "2018-01-25T15:48:23+09:00",
     "updated_at": "2018-07-17T09:28:46+09:00",
     "id": "Nao9syu"
@@ -66,7 +66,7 @@
   {
     "title": "Pythonによるデザインパターン5原則",
     "url": "https://qiita.com/kotetsu75/items/4b903023001f157554a4",
-    "likes_count": 856,
+    "likes_count": 858,
     "created_at": "2018-01-10T22:19:52+09:00",
     "updated_at": "2018-02-20T09:40:02+09:00",
     "id": "kotetsu75"
@@ -90,7 +90,7 @@
   {
     "title": "Pythonでパワポの説明資料（報告書）を生成する",
     "url": "https://qiita.com/code_440/items/22e8539da465686496d3",
-    "likes_count": 734,
+    "likes_count": 735,
     "created_at": "2018-01-02T20:39:29+09:00",
     "updated_at": "2018-01-02T20:41:50+09:00",
     "id": "code_440"
@@ -114,7 +114,7 @@
   {
     "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
     "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
-    "likes_count": 671,
+    "likes_count": 672,
     "created_at": "2018-01-26T15:42:01+09:00",
     "updated_at": "2021-04-15T08:49:53+09:00",
     "id": "gold-kou"
@@ -250,7 +250,7 @@
   {
     "title": "ActiveModel::Attributes が最高すぎるんだよな。",
     "url": "https://qiita.com/alpaca_taichou/items/bebace92f06af3f32898",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2018-01-18T19:44:16+09:00",
     "updated_at": "2018-01-24T21:05:16+09:00",
     "id": "alpaca_taichou"
@@ -266,7 +266,7 @@
   {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
@@ -314,7 +314,7 @@
   {
     "title": "オレ的vimプラグイン10選",
     "url": "https://qiita.com/reireias/items/beaa3bb0e299ae934217",
-    "likes_count": 381,
+    "likes_count": 382,
     "created_at": "2018-01-17T01:10:20+09:00",
     "updated_at": "2020-06-13T18:03:30+09:00",
     "id": "reireias"
@@ -392,20 +392,20 @@
     "id": "takjg"
   },
   {
+    "title": "画像を扱う機械学習のためのデータセットまとめ",
+    "url": "https://qiita.com/leetmikeal/items/7c0d23e39bf38ab8be23",
+    "likes_count": 282,
+    "created_at": "2018-01-09T18:37:32+09:00",
+    "updated_at": "2019-02-05T09:40:32+09:00",
+    "id": "leetmikeal"
+  },
+  {
     "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
     "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
     "likes_count": 282,
     "created_at": "2018-01-18T00:36:30+09:00",
     "updated_at": "2019-07-29T19:26:22+09:00",
     "id": "tomov3"
-  },
-  {
-    "title": "画像を扱う機械学習のためのデータセットまとめ",
-    "url": "https://qiita.com/leetmikeal/items/7c0d23e39bf38ab8be23",
-    "likes_count": 281,
-    "created_at": "2018-01-09T18:37:32+09:00",
-    "updated_at": "2019-02-05T09:40:32+09:00",
-    "id": "leetmikeal"
   },
   {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",

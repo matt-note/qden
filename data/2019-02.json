@@ -10,7 +10,7 @@
   {
     "title": "VueとFirebaseの基本機能全部使ってぬるぬる動くポートフォリオサイトを作ったのでソースと解説",
     "url": "https://qiita.com/yuneco/items/b14a695a060c96309239",
-    "likes_count": 1744,
+    "likes_count": 1745,
     "created_at": "2019-02-03T23:37:52+09:00",
     "updated_at": "2019-11-15T18:05:38+09:00",
     "id": "yuneco"
@@ -58,7 +58,7 @@
   {
     "title": "AtCoderの問題を分類しました",
     "url": "https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54",
-    "likes_count": 904,
+    "likes_count": 903,
     "created_at": "2019-02-26T18:22:38+09:00",
     "updated_at": "2021-05-02T23:35:23+09:00",
     "id": "KoyanagiHitoshi"
@@ -120,14 +120,6 @@
     "id": "katsu1110"
   },
   {
-    "title": "アセンブリに触れてみよう",
-    "url": "https://qiita.com/kaito_tateyama/items/89272098f4b286b64115",
-    "likes_count": 735,
-    "created_at": "2019-02-15T20:30:32+09:00",
-    "updated_at": "2019-03-08T17:34:59+09:00",
-    "id": "kaito_tateyama"
-  },
-  {
     "title": "新人ではないがGit初心者であるエンジニアが「このリポジトリをフォークしてローカルで開発できるようにしておいて！」と言われた時にやること",
     "url": "https://qiita.com/sky0621/items/8b6e88f4327b42ade5d7",
     "likes_count": 734,
@@ -136,9 +128,17 @@
     "id": "sky0621"
   },
   {
+    "title": "アセンブリに触れてみよう",
+    "url": "https://qiita.com/kaito_tateyama/items/89272098f4b286b64115",
+    "likes_count": 734,
+    "created_at": "2019-02-15T20:30:32+09:00",
+    "updated_at": "2019-03-08T17:34:59+09:00",
+    "id": "kaito_tateyama"
+  },
+  {
     "title": "TypeScript + Node.js プロジェクトのはじめかた2020",
     "url": "https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49",
-    "likes_count": 698,
+    "likes_count": 699,
     "created_at": "2019-02-08T17:25:22+09:00",
     "updated_at": "2020-08-12T17:09:33+09:00",
     "id": "notakaos"
@@ -170,7 +170,7 @@
   {
     "title": "Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する",
     "url": "https://qiita.com/nemui_/items/239335b4ed0c3c797add",
-    "likes_count": 622,
+    "likes_count": 624,
     "created_at": "2019-02-16T15:10:37+09:00",
     "updated_at": "2019-04-21T22:28:52+09:00",
     "id": "nemui_"
@@ -250,7 +250,7 @@
   {
     "title": "【JWT】 入門",
     "url": "https://qiita.com/Naoto9282/items/8427918564400968bd2b",
-    "likes_count": 505,
+    "likes_count": 506,
     "created_at": "2019-02-05T01:31:29+09:00",
     "updated_at": "2021-03-05T18:50:37+09:00",
     "id": "Naoto9282"
@@ -298,7 +298,7 @@
   {
     "title": "要チェックな10個の Node.js フレームワーク",
     "url": "https://qiita.com/ymasaoka/items/3db3f44990911a181ffc",
-    "likes_count": 442,
+    "likes_count": 441,
     "created_at": "2019-02-15T17:58:07+09:00",
     "updated_at": "2019-02-16T01:34:10+09:00",
     "id": "ymasaoka"
@@ -314,7 +314,7 @@
   {
     "title": "【Python】🍜ラーメンガチ勢によるガチ勢のための食べログスクレイピング🍜",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/f143946944a428ed105b",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2019-02-24T14:24:22+09:00",
     "updated_at": "2020-11-06T22:26:22+09:00",
     "id": "toshiyuki_tsutsui"
@@ -330,7 +330,7 @@
   {
     "title": "SVGを使うときに知っておくといいことをまとめました",
     "url": "https://qiita.com/manabuyasuda/items/01a76204f97cd73ffc4e",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2019-02-22T19:47:54+09:00",
     "updated_at": "2019-03-06T14:47:30+09:00",
     "id": "manabuyasuda"
@@ -342,14 +342,6 @@
     "created_at": "2019-02-25T04:17:35+09:00",
     "updated_at": "2019-02-25T15:34:55+09:00",
     "id": "hshota28"
-  },
-  {
-    "title": "ディープラーニング∞本ノック作ったった",
-    "url": "https://qiita.com/yoyoyoyoyo/items/cd5b859341106c3b52f9",
-    "likes_count": 411,
-    "created_at": "2019-02-27T17:33:17+09:00",
-    "updated_at": "2021-05-05T07:22:37+09:00",
-    "id": "yoyoyoyoyo"
   },
   {
     "title": "VueとSVGを使ってシューティングゲーム『ネコ🐱メザシ🐟アタック🌟』を作ったのでソースと解説",
@@ -410,7 +402,7 @@
   {
     "title": "【入門者向け】機械学習の分類問題評価指標解説(正解率・適合率・再現率など)",
     "url": "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2019-03-01T06:19:45+09:00",
     "updated_at": "2021-03-25T11:53:25+09:00",
     "id": "FukuharaYohei"

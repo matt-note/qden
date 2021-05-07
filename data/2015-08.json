@@ -2,7 +2,7 @@
   {
     "title": "Cookieとセッションをちゃんと理解する",
     "url": "https://qiita.com/hththt/items/07136ad74127999df271",
-    "likes_count": 2317,
+    "likes_count": 2321,
     "created_at": "2015-08-07T19:37:58+09:00",
     "updated_at": "2020-01-20T12:54:29+09:00",
     "id": "hththt"
@@ -34,7 +34,7 @@
   {
     "title": "プログラマなのに知らなかったら恥ずかしい英単語集",
     "url": "https://qiita.com/usatie/items/b41adf8114188406d2b8",
-    "likes_count": 1082,
+    "likes_count": 1083,
     "created_at": "2015-08-24T05:52:40+09:00",
     "updated_at": "2015-08-25T09:00:30+09:00",
     "id": "usatie"
@@ -82,7 +82,7 @@
   {
     "title": "どんなエディタでもEditorConfigを使ってコードの統一性を高める",
     "url": "https://qiita.com/naru0504/items/82f09881abaf3f4dc171",
-    "likes_count": 764,
+    "likes_count": 765,
     "created_at": "2015-08-20T16:12:23+09:00",
     "updated_at": "2019-04-12T13:49:11+09:00",
     "id": "naru0504"
@@ -130,7 +130,7 @@
   {
     "title": "package.json のチルダ(~) とキャレット(^)",
     "url": "https://qiita.com/sotarok/items/4ebd4cfedab186355867",
-    "likes_count": 637,
+    "likes_count": 639,
     "created_at": "2015-08-20T10:42:26+09:00",
     "updated_at": "2016-08-01T11:49:47+09:00",
     "id": "sotarok"
@@ -194,7 +194,7 @@
   {
     "title": "ローグライクを作ったので開発手順をまとめてみた",
     "url": "https://qiita.com/2dgames_jp/items/1730e7c4822091c3c320",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2015-08-31T13:28:12+09:00",
     "updated_at": "2016-03-16T22:34:38+09:00",
     "id": "2dgames_jp"
@@ -210,7 +210,7 @@
   {
     "title": "MySQLとPostgreSQLコマンド比較表",
     "url": "https://qiita.com/aosho235/items/c657e2fcd15fa0647471",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2015-08-02T17:08:55+09:00",
     "updated_at": "2019-03-15T15:30:53+09:00",
     "id": "aosho235"
@@ -322,7 +322,7 @@
   {
     "title": "[随時更新]ansibleでよく使うコマンド・モジュールまとめ",
     "url": "https://qiita.com/uzresk/items/1aa391eef232766bf817",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2015-08-11T12:28:27+09:00",
     "updated_at": "2017-04-07T11:11:39+09:00",
     "id": "uzresk"
@@ -336,20 +336,20 @@
     "id": "hausen6"
   },
   {
-    "title": "モナドについてSwiftで説明してみた",
-    "url": "https://qiita.com/koher/items/12f72f2fc2db7fa709cf",
-    "likes_count": 284,
-    "created_at": "2015-08-31T08:58:17+09:00",
-    "updated_at": "2015-11-26T10:15:47+09:00",
-    "id": "koher"
-  },
-  {
     "title": "【Android】RecyclerViewの基本的な実装",
     "url": "https://qiita.com/HideMatsu/items/a9ab48608e4f681d31fe",
     "likes_count": 283,
     "created_at": "2015-08-13T12:14:41+09:00",
     "updated_at": "2016-08-24T20:10:37+09:00",
     "id": "HideMatsu"
+  },
+  {
+    "title": "モナドについてSwiftで説明してみた",
+    "url": "https://qiita.com/koher/items/12f72f2fc2db7fa709cf",
+    "likes_count": 283,
+    "created_at": "2015-08-31T08:58:17+09:00",
+    "updated_at": "2015-11-26T10:15:47+09:00",
+    "id": "koher"
   },
   {
     "title": "react-railsでサーバーサイドレンダリングしつつクライアントでsetStateできて最高になった",
