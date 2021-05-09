@@ -58,7 +58,7 @@
   {
     "title": "Qiitaの数式チートシート",
     "url": "https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada",
-    "likes_count": 1416,
+    "likes_count": 1417,
     "created_at": "2015-06-14T01:44:10+09:00",
     "updated_at": "2021-03-02T09:29:21+09:00",
     "id": "PlanetMeron"
@@ -98,7 +98,7 @@
   {
     "title": "jQueryを利用したDOM操作 要素の追加メソッドまとめ",
     "url": "https://qiita.com/nekoneko-wanwan/items/227ccad5f8cc449e91e9",
-    "likes_count": 966,
+    "likes_count": 967,
     "created_at": "2015-06-29T17:23:12+09:00",
     "updated_at": "2015-06-29T17:24:13+09:00",
     "id": "nekoneko-wanwan"
@@ -234,10 +234,18 @@
   {
     "title": "【初心者向け】エイリアスの設定方法",
     "url": "https://qiita.com/yutat93/items/b5bb9c0366f21bcbea62",
-    "likes_count": 533,
+    "likes_count": 534,
     "created_at": "2015-06-19T16:07:05+09:00",
     "updated_at": "2017-07-06T15:17:34+09:00",
     "id": "yutat93"
+  },
+  {
+    "title": "AWS 月額料金チートシート",
+    "url": "https://qiita.com/jyotti/items/d47b52fa13d12476406f",
+    "likes_count": 492,
+    "created_at": "2015-06-08T18:24:16+09:00",
+    "updated_at": "2018-02-21T01:04:03+09:00",
+    "id": "jyotti"
   },
   {
     "title": "珍しいCSSプロパティたち",
@@ -246,14 +254,6 @@
     "created_at": "2015-06-11T00:21:14+09:00",
     "updated_at": "2018-02-13T13:55:30+09:00",
     "id": "rigani"
-  },
-  {
-    "title": "AWS 月額料金チートシート",
-    "url": "https://qiita.com/jyotti/items/d47b52fa13d12476406f",
-    "likes_count": 491,
-    "created_at": "2015-06-08T18:24:16+09:00",
-    "updated_at": "2018-02-21T01:04:03+09:00",
-    "id": "jyotti"
   },
   {
     "title": "Swift 2.0 の try, catch ファーストインプレッション",
@@ -266,7 +266,7 @@
   {
     "title": "JavaScript初心者脱却への道のりを考える",
     "url": "https://qiita.com/stkdev/items/cfe4678ac437cb2fdc9f",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2015-06-26T03:39:19+09:00",
     "updated_at": "2016-01-11T02:14:44+09:00",
     "id": "stkdev"
@@ -274,7 +274,7 @@
   {
     "title": "設定ファイル記述言語 TOML",
     "url": "https://qiita.com/b4b4r07/items/77c327742fc2256d6cbe",
-    "likes_count": 464,
+    "likes_count": 465,
     "created_at": "2015-06-12T15:36:05+09:00",
     "updated_at": "2020-04-07T13:56:49+09:00",
     "id": "b4b4r07"
@@ -282,7 +282,7 @@
   {
     "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
     "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
-    "likes_count": 464,
+    "likes_count": 465,
     "created_at": "2015-06-18T14:31:26+09:00",
     "updated_at": "2020-02-03T08:43:46+09:00",
     "id": "uzresk"
@@ -338,7 +338,7 @@
   {
     "title": "依存性注入(DI)の解説とやり方",
     "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2015-06-21T16:57:46+09:00",
     "updated_at": "2017-11-28T22:04:50+09:00",
     "id": "1000k"

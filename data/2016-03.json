@@ -10,7 +10,7 @@
   {
     "title": "特にプログラマーでもデータサイエンティストでも\bないけど、Tensorflowを1ヶ月触ったので超分かりやすく解説",
     "url": "https://qiita.com/tawago/items/c977c79b76c5979874e8",
-    "likes_count": 3274,
+    "likes_count": 3275,
     "created_at": "2016-03-06T21:52:25+09:00",
     "updated_at": "2018-10-04T13:46:59+09:00",
     "id": "tawago"
@@ -90,7 +90,7 @@
   {
     "title": "Chrome拡張の開発方法まとめ　その1：概念編",
     "url": "https://qiita.com/k7a/items/26d7a22233ecdf48fed8",
-    "likes_count": 1128,
+    "likes_count": 1129,
     "created_at": "2016-03-14T00:11:37+09:00",
     "updated_at": "2016-03-15T20:42:35+09:00",
     "id": "k7a"
@@ -146,7 +146,7 @@
   {
     "title": "Vagrant + VirtualBoxでWindows上に開発環境をサクッと構築する",
     "url": "https://qiita.com/ozawan/items/160728f7c6b10c73b97e",
-    "likes_count": 901,
+    "likes_count": 902,
     "created_at": "2016-03-01T16:05:57+09:00",
     "updated_at": "2018-09-05T04:03:42+09:00",
     "id": "ozawan"
@@ -314,7 +314,7 @@
   {
     "title": "Ruby on Rails カラムの追加と削除",
     "url": "https://qiita.com/azusanakano/items/a2847e4e582b9a627e3a",
-    "likes_count": 507,
+    "likes_count": 508,
     "created_at": "2016-03-29T12:11:04+09:00",
     "updated_at": "2016-03-29T12:16:03+09:00",
     "id": "azusanakano"
@@ -370,7 +370,7 @@
   {
     "title": "公開ライセンスの話",
     "url": "https://qiita.com/lovee/items/484ae3fc038314a64ee2",
-    "likes_count": 439,
+    "likes_count": 440,
     "created_at": "2016-03-14T12:13:55+09:00",
     "updated_at": "2018-12-05T16:58:29+09:00",
     "id": "lovee"
@@ -592,6 +592,14 @@
     "id": "y__sama"
   },
   {
+    "title": "wgetでこういう時はこうする!!",
+    "url": "https://qiita.com/hirohiro77/items/b774908436ec032df719",
+    "likes_count": 330,
+    "created_at": "2016-03-07T14:47:05+09:00",
+    "updated_at": "2019-01-07T20:51:05+09:00",
+    "id": "hirohiro77"
+  },
+  {
     "title": "WordPressで3000万PV/月のサイトをさくらのクラウドに構築した話",
     "url": "https://qiita.com/yousan/items/bf0bb0a2758f297585cc",
     "likes_count": 330,
@@ -600,17 +608,9 @@
     "id": "yousan"
   },
   {
-    "title": "wgetでこういう時はこうする!!",
-    "url": "https://qiita.com/hirohiro77/items/b774908436ec032df719",
-    "likes_count": 328,
-    "created_at": "2016-03-07T14:47:05+09:00",
-    "updated_at": "2019-01-07T20:51:05+09:00",
-    "id": "hirohiro77"
-  },
-  {
     "title": "Ruby のエラーメッセージを読み解く（初心者向け）その 1",
     "url": "https://qiita.com/scivola/items/3017068a354892b239f4",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2016-03-05T17:34:37+09:00",
     "updated_at": "2021-04-11T10:03:06+09:00",
     "id": "scivola"
@@ -726,14 +726,6 @@
     "created_at": "2016-03-19T05:15:37+09:00",
     "updated_at": "2018-06-01T01:41:07+09:00",
     "id": "d-dai"
-  },
-  {
-    "title": "SQLチューニング～お手軽に使えるヒント句まで",
-    "url": "https://qiita.com/kite_999/items/05136fadebc4048e3bb6",
-    "likes_count": 249,
-    "created_at": "2016-03-19T10:22:50+09:00",
-    "updated_at": "2016-03-19T10:22:50+09:00",
-    "id": "kite_999"
   },
   {
     "title": "はじめてのSourceTree（使い方編）",

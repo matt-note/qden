@@ -26,7 +26,7 @@
   {
     "title": "早く・それなりの UI を実現する React コンポーネントセット 16 選",
     "url": "https://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea",
-    "likes_count": 1994,
+    "likes_count": 1995,
     "created_at": "2016-07-10T19:15:57+09:00",
     "updated_at": "2018-06-15T09:48:37+09:00",
     "id": "kyrieleison"
@@ -50,7 +50,7 @@
   {
     "title": "プログラマが知っておくべき、メモリ/ディスク/ネットワークの速度まとめ",
     "url": "https://qiita.com/awakia/items/c8ada6c8101efe2de561",
-    "likes_count": 1545,
+    "likes_count": 1544,
     "created_at": "2016-07-06T13:08:28+09:00",
     "updated_at": "2016-07-12T11:26:42+09:00",
     "id": "awakia"
@@ -74,7 +74,7 @@
   {
     "title": "（インターン向けに書いた）Pythonパッケージを作る方法",
     "url": "https://qiita.com/Ultra-grand-child/items/7717f823df5a30c27077",
-    "likes_count": 1257,
+    "likes_count": 1258,
     "created_at": "2016-07-29T03:13:28+09:00",
     "updated_at": "2020-04-18T17:16:57+09:00",
     "id": "Ultra-grand-child"
@@ -128,6 +128,14 @@
     "id": "cognitom"
   },
   {
+    "title": "主要でもないプログラミング言語200種を一行で解説",
+    "url": "https://qiita.com/make_now_just/items/b2ab19f954417c71848d",
+    "likes_count": 937,
+    "created_at": "2016-07-01T18:57:59+09:00",
+    "updated_at": "2018-01-20T14:11:24+09:00",
+    "id": "make_now_just"
+  },
+  {
     "title": "CSSのfont-sizeが%とかemとかremとかvwで指定されてると、ビビっちゃう君と僕を救う2分",
     "url": "https://qiita.com/39_isao/items/e8242901ba1aadb75676",
     "likes_count": 937,
@@ -142,14 +150,6 @@
     "created_at": "2016-07-23T07:42:05+09:00",
     "updated_at": "2017-01-18T08:24:09+09:00",
     "id": "chibicode"
-  },
-  {
-    "title": "主要でもないプログラミング言語200種を一行で解説",
-    "url": "https://qiita.com/make_now_just/items/b2ab19f954417c71848d",
-    "likes_count": 936,
-    "created_at": "2016-07-01T18:57:59+09:00",
-    "updated_at": "2018-01-20T14:11:24+09:00",
-    "id": "make_now_just"
   },
   {
     "title": "TensorFlowのチュートリアルを通して、人工知能の原理について学習する",
@@ -226,7 +226,7 @@
   {
     "title": ".gitignore の書き方",
     "url": "https://qiita.com/inabe49/items/16ee3d9d1ce68daa9fff",
-    "likes_count": 648,
+    "likes_count": 649,
     "created_at": "2016-07-04T11:31:51+09:00",
     "updated_at": "2016-08-04T09:46:56+09:00",
     "id": "inabe49"
@@ -282,7 +282,7 @@
   {
     "title": "Flexboxレイアウトまとめ",
     "url": "https://qiita.com/takanorip/items/a51989312160530d89a1",
-    "likes_count": 496,
+    "likes_count": 497,
     "created_at": "2016-07-19T18:23:26+09:00",
     "updated_at": "2017-12-07T12:12:35+09:00",
     "id": "takanorip"
@@ -298,7 +298,7 @@
   {
     "title": "PostgreSQLコマンドチートシート",
     "url": "https://qiita.com/Shitimi_613/items/bcd6a7f4134e6a8f0621",
-    "likes_count": 428,
+    "likes_count": 429,
     "created_at": "2016-07-01T22:43:12+09:00",
     "updated_at": "2019-04-12T23:30:20+09:00",
     "id": "Shitimi_613"
@@ -440,20 +440,20 @@
     "id": "shindo_ryo"
   },
   {
+    "title": "文系卒社会人が統計・機械学習を理解するための数学勉強方法【随時更新】",
+    "url": "https://qiita.com/FukuharaYohei/items/0a66c37091dc27c71fe6",
+    "likes_count": 276,
+    "created_at": "2016-07-26T22:39:45+09:00",
+    "updated_at": "2020-12-29T10:47:39+09:00",
+    "id": "FukuharaYohei"
+  },
+  {
     "title": "Jinja2の使い方がわかるとFlaskを用いた開発がよりスマートになる",
     "url": "https://qiita.com/oliva/items/7ae5de21307d101b4759",
     "likes_count": 275,
     "created_at": "2016-07-15T00:02:36+09:00",
     "updated_at": "2016-07-15T03:13:25+09:00",
     "id": "oliva"
-  },
-  {
-    "title": "文系卒社会人が統計・機械学習を理解するための数学勉強方法【随時更新】",
-    "url": "https://qiita.com/FukuharaYohei/items/0a66c37091dc27c71fe6",
-    "likes_count": 275,
-    "created_at": "2016-07-26T22:39:45+09:00",
-    "updated_at": "2020-12-29T10:47:39+09:00",
-    "id": "FukuharaYohei"
   },
   {
     "title": "今までの投稿記事のまとめ（統計学/機械学習/数学 etc）",

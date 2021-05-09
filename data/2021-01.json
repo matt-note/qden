@@ -42,7 +42,7 @@
   {
     "title": "フロントエンド開発者のための便利なオンラインツール11選",
     "url": "https://qiita.com/baby-degu/items/1b65414d856fff671c6f",
-    "likes_count": 929,
+    "likes_count": 931,
     "created_at": "2021-01-11T17:41:34+09:00",
     "updated_at": "2021-02-01T23:07:34+09:00",
     "id": "baby-degu"
@@ -50,7 +50,7 @@
   {
     "title": "JavaScript ベスト・オブ・ザ・イヤー 2020",
     "url": "https://qiita.com/rana_kualu/items/e8a0f8f5589ff082539d",
-    "likes_count": 912,
+    "likes_count": 913,
     "created_at": "2021-01-18T00:26:48+09:00",
     "updated_at": "2021-02-01T23:12:42+09:00",
     "id": "rana_kualu"
@@ -58,7 +58,7 @@
   {
     "title": "日本語 LaTeX の新常識 2021",
     "url": "https://qiita.com/wtsnjp/items/76557b1598445a1fc9da",
-    "likes_count": 822,
+    "likes_count": 823,
     "created_at": "2021-01-09T16:10:41+09:00",
     "updated_at": "2021-03-13T21:57:30+09:00",
     "id": "wtsnjp"
@@ -82,10 +82,18 @@
   {
     "title": "フロントエンドコーディング時によく利用するジェネレーターサイト（随時更新）",
     "url": "https://qiita.com/taqumo/items/7df0c4dfaca6bd6436a3",
-    "likes_count": 625,
+    "likes_count": 627,
     "created_at": "2021-01-15T19:06:46+09:00",
     "updated_at": "2021-04-03T16:05:43+09:00",
     "id": "taqumo"
+  },
+  {
+    "title": "【React+TypeScript】Netflixのクローンを作るチュートリアル",
+    "url": "https://qiita.com/terry_6518/items/4112243ef2ea742bfbf2",
+    "likes_count": 620,
+    "created_at": "2021-01-22T05:23:54+09:00",
+    "updated_at": "2021-02-19T00:14:39+09:00",
+    "id": "terry_6518"
   },
   {
     "title": "エンジニア採用で絶望する瞬間【面接官の本音】",
@@ -96,12 +104,12 @@
     "id": "mizukicker"
   },
   {
-    "title": "【React+TypeScript】Netflixのクローンを作るチュートリアル",
-    "url": "https://qiita.com/terry_6518/items/4112243ef2ea742bfbf2",
-    "likes_count": 619,
-    "created_at": "2021-01-22T05:23:54+09:00",
-    "updated_at": "2021-02-19T00:14:39+09:00",
-    "id": "terry_6518"
+    "title": "無料で読める統計学・機械学習周辺のチュートリアル論文や講義ノート10本",
+    "url": "https://qiita.com/s-yonekura/items/3bbe4c769b4b8bbfcbc5",
+    "likes_count": 570,
+    "created_at": "2021-01-24T12:36:11+09:00",
+    "updated_at": "2021-01-25T17:01:34+09:00",
+    "id": "s-yonekura"
   },
   {
     "title": "【2025年の崖】経産省の「DXレポート２」が刊行されたので読んでみた",
@@ -110,14 +118,6 @@
     "created_at": "2021-01-13T22:52:51+09:00",
     "updated_at": "2021-04-28T18:49:46+09:00",
     "id": "NP_Systems"
-  },
-  {
-    "title": "無料で読める統計学・機械学習周辺のチュートリアル論文や講義ノート10本",
-    "url": "https://qiita.com/s-yonekura/items/3bbe4c769b4b8bbfcbc5",
-    "likes_count": 568,
-    "created_at": "2021-01-24T12:36:11+09:00",
-    "updated_at": "2021-01-25T17:01:34+09:00",
-    "id": "s-yonekura"
   },
   {
     "title": "「分析SQLスタイルガイド」をかなり真面目に考えた",
@@ -130,7 +130,7 @@
   {
     "title": "GitHubで使えるイカしたREADMEの作り方",
     "url": "https://qiita.com/Kotabrog/items/fb328b72ac94137897af",
-    "likes_count": 537,
+    "likes_count": 538,
     "created_at": "2021-01-11T20:01:14+09:00",
     "updated_at": "2021-01-21T18:28:40+09:00",
     "id": "Kotabrog"
@@ -146,7 +146,7 @@
   {
     "title": "ぐるぐるSQLは止めてくださいという話",
     "url": "https://qiita.com/abe_masanori/items/1a2b9c1f1069c43237f8",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2021-01-17T13:48:52+09:00",
     "updated_at": "2021-01-19T22:01:50+09:00",
     "id": "abe_masanori"
@@ -168,6 +168,14 @@
     "id": "bow_arrow"
   },
   {
+    "title": "【個人的に】Dockerがはかどる小技",
+    "url": "https://qiita.com/schrosis/items/6f0839439dac493ef9e3",
+    "likes_count": 421,
+    "created_at": "2021-01-14T17:59:57+09:00",
+    "updated_at": "2021-01-19T15:59:44+09:00",
+    "id": "schrosis"
+  },
+  {
     "title": "【独学・未経験】Nuxt.js, Rails, Docker, AWS ECS(Fargate), TerraformなSPAポートフォリオを作成しました。",
     "url": "https://qiita.com/kuromitsu0104/items/dc0021a20100e11f2f7d",
     "likes_count": 421,
@@ -176,17 +184,9 @@
     "id": "kuromitsu0104"
   },
   {
-    "title": "【個人的に】Dockerがはかどる小技",
-    "url": "https://qiita.com/schrosis/items/6f0839439dac493ef9e3",
-    "likes_count": 420,
-    "created_at": "2021-01-14T17:59:57+09:00",
-    "updated_at": "2021-01-19T15:59:44+09:00",
-    "id": "schrosis"
-  },
-  {
     "title": "React入門！！の前に知っておきたいNode.jsとJavaScriptの知識",
     "url": "https://qiita.com/rpf-nob/items/6823fb8728754386ef30",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2021-01-28T22:13:36+09:00",
     "updated_at": "2021-02-16T08:14:16+09:00",
     "id": "rpf-nob"
@@ -194,7 +194,7 @@
   {
     "title": "リーダブルテストコード",
     "url": "https://qiita.com/yonetty/items/7787a539d77396a3807e",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2021-01-17T09:42:09+09:00",
     "updated_at": "2021-01-17T09:42:09+09:00",
     "id": "yonetty"
@@ -210,7 +210,7 @@
   {
     "title": "2020年のおもしろかったDL/ML論文10選",
     "url": "https://qiita.com/shionhonda/items/ca859d68b1ee8edcf0fb",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2021-01-19T00:01:34+09:00",
     "updated_at": "2021-01-19T17:04:33+09:00",
     "id": "shionhonda"
@@ -218,7 +218,7 @@
   {
     "title": "WordPressを運用中のサーバがまるごとPHPマルウェアに感染していた時の対応メモ",
     "url": "https://qiita.com/Ayutanalects/items/a359df4e4b445229fcf2",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2021-01-22T06:45:22+09:00",
     "updated_at": "2021-01-26T14:40:36+09:00",
     "id": "Ayutanalects"
@@ -226,7 +226,7 @@
   {
     "title": "モバイルアプリ開発は、Flutter一択なのか？-2021版-",
     "url": "https://qiita.com/tetsukick/items/ed9306276942c34b3575",
-    "likes_count": 345,
+    "likes_count": 347,
     "created_at": "2021-01-16T17:23:03+09:00",
     "updated_at": "2021-04-19T02:23:33+09:00",
     "id": "tetsukick"
@@ -266,7 +266,7 @@
   {
     "title": "画像ディープラーニングの始め方（画像系AIの概要理解からUdemy受講, E資格取得まで）",
     "url": "https://qiita.com/ryokita/items/0dc2e6b04b7f51320124",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2021-01-25T06:35:31+09:00",
     "updated_at": "2021-01-27T15:19:53+09:00",
     "id": "ryokita"
@@ -280,19 +280,19 @@
     "id": "s-yonekura"
   },
   {
+    "title": "文系卒がSlerからWeb系自社開発(Go/AWS/機械学習)に転職した話",
+    "url": "https://qiita.com/Sora_TrilingualEngineer/items/f41d75afb6e5d72c16b7",
+    "likes_count": 237,
+    "created_at": "2021-01-04T19:56:02+09:00",
+    "updated_at": "2021-05-09T18:15:36+09:00",
+    "id": "Sora_TrilingualEngineer"
+  },
+  {
     "title": "未経験転職の面接で聞かれた質問一覧",
     "url": "https://qiita.com/mmr__p/items/80c4adbe0df46a905e02",
     "likes_count": 237,
     "created_at": "2021-01-22T20:33:22+09:00",
     "updated_at": "2021-01-22T20:33:22+09:00",
     "id": "mmr__p"
-  },
-  {
-    "title": "文系卒がSlerからWeb系自社開発(Go/AWS/機械学習)に転職した話",
-    "url": "https://qiita.com/Sora_TrilingualEngineer/items/f41d75afb6e5d72c16b7",
-    "likes_count": 236,
-    "created_at": "2021-01-04T19:56:02+09:00",
-    "updated_at": "2021-01-07T16:32:37+09:00",
-    "id": "Sora_TrilingualEngineer"
   }
 ]
