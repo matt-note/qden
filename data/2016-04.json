@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1831,
+    "likes_count": 1834,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -138,10 +138,18 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 825,
+    "likes_count": 824,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
+  },
+  {
+    "title": "【噂】IT業界のウソ・ホント【闇】",
+    "url": "https://qiita.com/netetahito/items/a317345b4e059267f879",
+    "likes_count": 805,
+    "created_at": "2016-04-26T12:21:50+09:00",
+    "updated_at": "2019-02-06T11:51:41+09:00",
+    "id": "netetahito"
   },
   {
     "title": "Dockerのライフサイクルを理解するハンズオン資料",
@@ -150,14 +158,6 @@
     "created_at": "2016-04-15T08:21:47+09:00",
     "updated_at": "2016-04-20T22:23:13+09:00",
     "id": "zembutsu"
-  },
-  {
-    "title": "【噂】IT業界のウソ・ホント【闇】",
-    "url": "https://qiita.com/netetahito/items/a317345b4e059267f879",
-    "likes_count": 799,
-    "created_at": "2016-04-26T12:21:50+09:00",
-    "updated_at": "2019-02-06T11:51:41+09:00",
-    "id": "netetahito"
   },
   {
     "title": "Promiseについて0から勉強してみた",
@@ -282,7 +282,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 499,
+    "likes_count": 500,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-04-05T07:56:27+09:00",
     "id": "dai-takahashi"
@@ -314,7 +314,7 @@
   {
     "title": "ttyとかptsとかについて確認してみる",
     "url": "https://qiita.com/toshihirock/items/22de12f99b5c40365369",
-    "likes_count": 454,
+    "likes_count": 453,
     "created_at": "2016-04-28T22:23:17+09:00",
     "updated_at": "2016-04-28T22:23:17+09:00",
     "id": "toshihirock"
@@ -394,7 +394,7 @@
   {
     "title": "ファイルディスクリプタについて理解する",
     "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 390,
+    "likes_count": 391,
     "created_at": "2016-04-22T22:51:58+09:00",
     "updated_at": "2016-04-22T22:51:58+09:00",
     "id": "toshihirock"
@@ -520,6 +520,14 @@
     "id": "jabba"
   },
   {
+    "title": "Djangoの勉強に役に立ったサイト",
+    "url": "https://qiita.com/MewW6m/items/0ccc6bdcd984f7cc2d0e",
+    "likes_count": 349,
+    "created_at": "2016-04-28T11:02:27+09:00",
+    "updated_at": "2020-06-13T14:50:59+09:00",
+    "id": "MewW6m"
+  },
+  {
     "title": "ローカルのプロジェクトをGitHubへアップロードする方法",
     "url": "https://qiita.com/devzip8/items/28ac253ea295ad6c2b73",
     "likes_count": 348,
@@ -528,17 +536,9 @@
     "id": "devzip8"
   },
   {
-    "title": "Djangoの勉強に役に立ったサイト",
-    "url": "https://qiita.com/MewW6m/items/0ccc6bdcd984f7cc2d0e",
-    "likes_count": 348,
-    "created_at": "2016-04-28T11:02:27+09:00",
-    "updated_at": "2020-06-13T14:50:59+09:00",
-    "id": "MewW6m"
-  },
-  {
     "title": "オンラインでプログラミングして実行できるサイト",
     "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2016-04-28T08:59:43+09:00",
     "updated_at": "2021-04-16T18:12:58+09:00",
     "id": "tttamaki"
@@ -554,7 +554,7 @@
   {
     "title": "Spring での責務についてまず見てほしい一枚の絵",
     "url": "https://qiita.com/yo1000/items/a6acbf5f454a7f53aef9",
-    "likes_count": 313,
+    "likes_count": 314,
     "created_at": "2016-04-10T00:08:29+09:00",
     "updated_at": "2018-08-07T19:10:00+09:00",
     "id": "yo1000"
