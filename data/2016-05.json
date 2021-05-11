@@ -2,7 +2,7 @@
   {
     "title": "ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】",
     "url": "https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08",
-    "likes_count": 9553,
+    "likes_count": 9556,
     "created_at": "2016-05-16T19:51:18+09:00",
     "updated_at": "2019-03-09T17:13:26+09:00",
     "id": "jacksuzuki"
@@ -10,7 +10,7 @@
   {
     "title": "Reactを使うとなぜjQueryが要らなくなるのか",
     "url": "https://qiita.com/naruto/items/fdb61bc743395f8d8faf",
-    "likes_count": 4362,
+    "likes_count": 4363,
     "created_at": "2016-05-09T11:45:42+09:00",
     "updated_at": "2020-08-13T19:13:42+09:00",
     "id": "naruto"
@@ -34,7 +34,7 @@
   {
     "title": "他言語から来た人がGoを使い始めてすぐハマったこととその答え",
     "url": "https://qiita.com/mumoshu/items/0d2f2a13c6e9fc8da2a4",
-    "likes_count": 1347,
+    "likes_count": 1348,
     "created_at": "2016-05-03T12:13:46+09:00",
     "updated_at": "2020-08-25T16:52:16+09:00",
     "id": "mumoshu"
@@ -42,7 +42,7 @@
   {
     "title": "redux-sagaで非同期処理と戦う",
     "url": "https://qiita.com/kuy/items/716affc808ebb3e1e8ac",
-    "likes_count": 1273,
+    "likes_count": 1274,
     "created_at": "2016-05-13T16:48:05+09:00",
     "updated_at": "2018-02-05T09:08:38+09:00",
     "id": "kuy"
@@ -114,7 +114,7 @@
   {
     "title": "LaravelのORMで初心者から職人へ",
     "url": "https://qiita.com/henriquebremenkanp/items/cd13944b0281297217a9",
-    "likes_count": 788,
+    "likes_count": 789,
     "created_at": "2016-05-29T19:05:09+09:00",
     "updated_at": "2020-09-14T15:51:02+09:00",
     "id": "henriquebremenkanp"
@@ -154,7 +154,7 @@
   {
     "title": "Pythonのimportについてまとめる",
     "url": "https://qiita.com/suzuki-hoge/items/f951d56290617df4279e",
-    "likes_count": 675,
+    "likes_count": 676,
     "created_at": "2016-05-17T10:03:10+09:00",
     "updated_at": "2016-05-17T10:09:16+09:00",
     "id": "suzuki-hoge"
@@ -218,7 +218,7 @@
   {
     "title": "Googleスプレッドシートをプログラムから操作",
     "url": "https://qiita.com/howdy39/items/ca719537bba676dce1cf",
-    "likes_count": 578,
+    "likes_count": 579,
     "created_at": "2016-05-22T03:02:07+09:00",
     "updated_at": "2018-05-17T19:46:55+09:00",
     "id": "howdy39"
@@ -250,7 +250,7 @@
   {
     "title": "Android はじめてのFragment",
     "url": "https://qiita.com/Reyurnible/items/dffd70144da213e1208b",
-    "likes_count": 526,
+    "likes_count": 527,
     "created_at": "2016-05-18T15:02:50+09:00",
     "updated_at": "2018-08-24T10:41:21+09:00",
     "id": "Reyurnible"
@@ -264,20 +264,20 @@
     "id": "TsutomuNakamura"
   },
   {
+    "title": "git tagの使い方まとめ",
+    "url": "https://qiita.com/growsic/items/ed67e03fda5ab7ef9d08",
+    "likes_count": 483,
+    "created_at": "2016-05-16T21:37:49+09:00",
+    "updated_at": "2021-01-12T08:00:19+09:00",
+    "id": "growsic"
+  },
+  {
     "title": "PHPで日付時刻処理を書くならCarbonを使うべき",
     "url": "https://qiita.com/yudsuzuk/items/ff894bd0b76d4657741d",
     "likes_count": 482,
     "created_at": "2016-05-01T14:56:52+09:00",
     "updated_at": "2016-05-01T15:06:18+09:00",
     "id": "yudsuzuk"
-  },
-  {
-    "title": "git tagの使い方まとめ",
-    "url": "https://qiita.com/growsic/items/ed67e03fda5ab7ef9d08",
-    "likes_count": 481,
-    "created_at": "2016-05-16T21:37:49+09:00",
-    "updated_at": "2021-01-12T08:00:19+09:00",
-    "id": "growsic"
   },
   {
     "title": "Firebaseによるプッシュ通知のハマりどころ",
@@ -296,6 +296,14 @@
     "id": "nissuk"
   },
   {
+    "title": "JavascriptのAjaxについての基本まとめ",
+    "url": "https://qiita.com/katsunory/items/9bf9ee49ee5c08bf2b3d",
+    "likes_count": 441,
+    "created_at": "2016-05-04T11:40:55+09:00",
+    "updated_at": "2018-01-21T15:08:15+09:00",
+    "id": "katsunory"
+  },
+  {
     "title": "TensorFlowで学習したモデルを使ってiOS/Swiftで実行する",
     "url": "https://qiita.com/koher/items/2c0bfca4d6e31cde674b",
     "likes_count": 440,
@@ -304,17 +312,9 @@
     "id": "koher"
   },
   {
-    "title": "JavascriptのAjaxについての基本まとめ",
-    "url": "https://qiita.com/katsunory/items/9bf9ee49ee5c08bf2b3d",
-    "likes_count": 439,
-    "created_at": "2016-05-04T11:40:55+09:00",
-    "updated_at": "2018-01-21T15:08:15+09:00",
-    "id": "katsunory"
-  },
-  {
     "title": "Go言語のエラーハンドリングについて",
     "url": "https://qiita.com/nayuneko/items/3c0b3c0de9e8b27c9548",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2016-05-07T03:26:04+09:00",
     "updated_at": "2019-12-06T22:49:13+09:00",
     "id": "nayuneko"

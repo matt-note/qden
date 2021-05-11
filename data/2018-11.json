@@ -2,7 +2,7 @@
   {
     "title": "エンジニアが情報収集とトレンドを追うのに読むと良いサイト",
     "url": "https://qiita.com/ryuichi1208/items/604a68abb91949e79ece",
-    "likes_count": 3040,
+    "likes_count": 3041,
     "created_at": "2018-11-29T22:01:23+09:00",
     "updated_at": "2019-03-13T17:59:59+09:00",
     "id": "ryuichi1208"
@@ -10,7 +10,7 @@
   {
     "title": "新人にドヤ顔で説明できるか、今風フロントエンド開発ハンズオン(Git/Node.js/ES6/webpack4/Babel7)",
     "url": "https://qiita.com/riversun/items/29d5264480dd06c7b9fb",
-    "likes_count": 1895,
+    "likes_count": 1897,
     "created_at": "2018-11-12T08:21:10+09:00",
     "updated_at": "2020-12-18T17:26:37+09:00",
     "id": "riversun"
@@ -42,7 +42,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1469,
+    "likes_count": 1475,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2021-04-25T17:54:48+09:00",
     "id": "elipmoc101"
@@ -50,7 +50,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1361,
+    "likes_count": 1362,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1350,
+    "likes_count": 1351,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -66,7 +66,7 @@
   {
     "title": "Ruby->Go->Scalaという習得順序がエンジニアの爆速の成長に最適である理由",
     "url": "https://qiita.com/poly_soft/items/1feaa1ec5ecab08dc6db",
-    "likes_count": 1289,
+    "likes_count": 1290,
     "created_at": "2018-11-04T07:35:05+09:00",
     "updated_at": "2019-03-11T19:35:33+09:00",
     "id": "poly_soft"
@@ -90,7 +90,7 @@
   {
     "title": "オブジェクト指向のいろは",
     "url": "https://qiita.com/nrslib/items/73bf176147192c402049",
-    "likes_count": 1113,
+    "likes_count": 1115,
     "created_at": "2018-11-08T07:23:49+09:00",
     "updated_at": "2018-12-23T22:55:48+09:00",
     "id": "nrslib"
@@ -162,7 +162,7 @@
   {
     "title": "Docker 入門にはインストールなしで使える「Play with Docker」がいいと思う",
     "url": "https://qiita.com/tag1216/items/ec7228440f6eaf849cd6",
-    "likes_count": 800,
+    "likes_count": 801,
     "created_at": "2018-11-21T08:06:11+09:00",
     "updated_at": "2018-11-23T09:08:58+09:00",
     "id": "tag1216"
@@ -194,7 +194,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 681,
+    "likes_count": 682,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -234,7 +234,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 560,
+    "likes_count": 563,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2019-12-29T23:17:28+09:00",
     "id": "ryuichi1208"
@@ -258,7 +258,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 525,
+    "likes_count": 529,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -274,7 +274,7 @@
   {
     "title": "atcoderでよく使う手法python版",
     "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2018-11-25T18:13:41+09:00",
     "updated_at": "2020-11-23T02:30:53+09:00",
     "id": "chun1182"
@@ -320,6 +320,14 @@
     "id": "seya"
   },
   {
+    "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
+    "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
+    "likes_count": 462,
+    "created_at": "2018-11-18T19:13:03+09:00",
+    "updated_at": "2019-10-05T07:32:56+09:00",
+    "id": "kd9951"
+  },
+  {
     "title": "RedisとElastiCacheを分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
     "likes_count": 462,
@@ -336,12 +344,12 @@
     "id": "nishina555"
   },
   {
-    "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
-    "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 461,
-    "created_at": "2018-11-18T19:13:03+09:00",
-    "updated_at": "2019-10-05T07:32:56+09:00",
-    "id": "kd9951"
+    "title": "正規表現を可視化してまとめたチートシート",
+    "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
+    "likes_count": 458,
+    "created_at": "2018-11-27T19:15:42+09:00",
+    "updated_at": "2020-05-25T15:52:26+09:00",
+    "id": "grrrr"
   },
   {
     "title": "ドメインオブジェクトの責務について",
@@ -350,14 +358,6 @@
     "created_at": "2018-11-17T17:07:19+09:00",
     "updated_at": "2018-11-18T13:27:49+09:00",
     "id": "j5ik2o"
-  },
-  {
-    "title": "正規表現を可視化してまとめたチートシート",
-    "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 456,
-    "created_at": "2018-11-27T19:15:42+09:00",
-    "updated_at": "2020-05-25T15:52:26+09:00",
-    "id": "grrrr"
   },
   {
     "title": "「ＡＩで〇〇したいんだけど」の相談前に確認してほしい３つのこと",
@@ -506,7 +506,7 @@
   {
     "title": "SQL と Pandas の対応表",
     "url": "https://qiita.com/takaiyuk/items/5232442eaeb01299b265",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2018-11-10T22:55:36+09:00",
     "updated_at": "2020-01-08T09:34:07+09:00",
     "id": "takaiyuk"
@@ -522,7 +522,7 @@
   {
     "title": "【Rails】deviseを導入してみる",
     "url": "https://qiita.com/Hal_mai/items/350c400e8763ce0487a3",
-    "likes_count": 252,
+    "likes_count": 253,
     "created_at": "2018-11-07T22:55:48+09:00",
     "updated_at": "2018-11-08T19:17:42+09:00",
     "id": "Hal_mai"

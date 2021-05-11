@@ -18,7 +18,7 @@
   {
     "title": "Androidアプリ開発を独学で学ぶ人への効果的な勉強法",
     "url": "https://qiita.com/Reyurnible/items/5e57e44baeddd2149833",
-    "likes_count": 1795,
+    "likes_count": 1796,
     "created_at": "2015-01-15T21:37:30+09:00",
     "updated_at": "2017-05-30T10:55:12+09:00",
     "id": "Reyurnible"
@@ -26,7 +26,7 @@
   {
     "title": "IPアドレスの基礎知識",
     "url": "https://qiita.com/mogulla3/items/efb4c9328d82d24d98e6",
-    "likes_count": 1774,
+    "likes_count": 1777,
     "created_at": "2015-01-01T22:16:34+09:00",
     "updated_at": "2016-03-07T21:44:03+09:00",
     "id": "mogulla3"
@@ -82,7 +82,7 @@
   {
     "title": "使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」",
     "url": "https://qiita.com/jnchito/items/607f956263c38a5fec24",
-    "likes_count": 1536,
+    "likes_count": 1537,
     "created_at": "2015-01-02T08:21:53+09:00",
     "updated_at": "2021-02-24T20:13:52+09:00",
     "id": "jnchito"
@@ -242,7 +242,7 @@
   {
     "title": "ActiveRecord の attribute 更新方法まとめ",
     "url": "https://qiita.com/tyamagu2/items/8abd93bb7ab0424cf084",
-    "likes_count": 707,
+    "likes_count": 708,
     "created_at": "2015-01-18T23:22:08+09:00",
     "updated_at": "2016-03-10T18:22:10+09:00",
     "id": "tyamagu2"
@@ -458,7 +458,7 @@
   {
     "title": "アニメーション最強のVelocity.jsの使い方",
     "url": "https://qiita.com/kyota/items/754e0e6cb7a144eda850",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2015-01-05T13:59:12+09:00",
     "updated_at": "2016-09-06T12:41:23+09:00",
     "id": "kyota"
@@ -528,6 +528,14 @@
     "id": "yimajo"
   },
   {
+    "title": "RequireJS使い方メモ",
+    "url": "https://qiita.com/opengl-8080/items/196213867b859daea719",
+    "likes_count": 312,
+    "created_at": "2015-01-12T15:49:52+09:00",
+    "updated_at": "2015-01-13T21:53:12+09:00",
+    "id": "opengl-8080"
+  },
+  {
     "title": "Gitでサイトを更新したい！",
     "url": "https://qiita.com/dojineko/items/b11d279d1ff8cfacf3dc",
     "likes_count": 311,
@@ -536,12 +544,12 @@
     "id": "dojineko"
   },
   {
-    "title": "RequireJS使い方メモ",
-    "url": "https://qiita.com/opengl-8080/items/196213867b859daea719",
-    "likes_count": 311,
-    "created_at": "2015-01-12T15:49:52+09:00",
-    "updated_at": "2015-01-13T21:53:12+09:00",
-    "id": "opengl-8080"
+    "title": "composer install と composer updateの違い",
+    "url": "https://qiita.com/YusukeHigaki/items/47dd3ec23544225f7301",
+    "likes_count": 309,
+    "created_at": "2015-01-02T10:32:57+09:00",
+    "updated_at": "2015-01-02T10:32:57+09:00",
+    "id": "YusukeHigaki"
   },
   {
     "title": "RxJSで始めるRx(Reactive Extensions)入門1",
@@ -550,14 +558,6 @@
     "created_at": "2015-01-22T00:00:05+09:00",
     "updated_at": "2017-12-26T21:42:09+09:00",
     "id": "erukiti"
-  },
-  {
-    "title": "composer install と composer updateの違い",
-    "url": "https://qiita.com/YusukeHigaki/items/47dd3ec23544225f7301",
-    "likes_count": 307,
-    "created_at": "2015-01-02T10:32:57+09:00",
-    "updated_at": "2015-01-02T10:32:57+09:00",
-    "id": "YusukeHigaki"
   },
   {
     "title": "Moment.jsを使う",

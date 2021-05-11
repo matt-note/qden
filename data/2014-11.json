@@ -2,7 +2,7 @@
   {
     "title": "Gitのコミットメッセージの書き方",
     "url": "https://qiita.com/itosho/items/9565c6ad2ffc24c09364",
-    "likes_count": 4478,
+    "likes_count": 4479,
     "created_at": "2014-11-21T20:52:14+09:00",
     "updated_at": "2016-04-18T16:20:36+09:00",
     "id": "itosho"
@@ -10,7 +10,7 @@
   {
     "title": "なぜ仮想DOMという概念が俺達の魂を震えさせるのか",
     "url": "https://qiita.com/mizchi/items/4d25bc26def1719d52e6",
-    "likes_count": 2806,
+    "likes_count": 2807,
     "created_at": "2014-12-01T08:40:51+09:00",
     "updated_at": "2020-09-22T00:11:23+09:00",
     "id": "mizchi"
@@ -26,7 +26,7 @@
   {
     "title": "Git-flowって何？",
     "url": "https://qiita.com/KosukeSone/items/514dd24828b485c69a05",
-    "likes_count": 1702,
+    "likes_count": 1704,
     "created_at": "2014-11-03T00:58:45+09:00",
     "updated_at": "2016-04-02T16:30:25+09:00",
     "id": "KosukeSone"
@@ -58,7 +58,7 @@
   {
     "title": "使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」",
     "url": "https://qiita.com/jnchito/items/640f17e124ab263a54dd",
-    "likes_count": 1294,
+    "likes_count": 1295,
     "created_at": "2014-11-21T09:56:06+09:00",
     "updated_at": "2020-08-06T19:43:08+09:00",
     "id": "jnchito"
@@ -82,7 +82,7 @@
   {
     "title": "PHPerがRailsデビューしてWebAPIを作りRSpecでテスト書いてCap3/CircleCIでデプロイして分かった事を1ヶ月前の自分に教えたいので、まとめてみた",
     "url": "https://qiita.com/zaru/items/46366919bcbcf97d63ca",
-    "likes_count": 893,
+    "likes_count": 894,
     "created_at": "2014-11-28T01:48:59+09:00",
     "updated_at": "2017-07-03T13:28:01+09:00",
     "id": "zaru"
@@ -170,7 +170,7 @@
   {
     "title": "ZenHubとは",
     "url": "https://qiita.com/GeckoTang/items/f75b9a1c20c8e5091147",
-    "likes_count": 569,
+    "likes_count": 570,
     "created_at": "2014-11-14T18:55:33+09:00",
     "updated_at": "2016-04-05T14:35:48+09:00",
     "id": "GeckoTang"
@@ -338,10 +338,18 @@
   {
     "title": "オブジェクト関係マッピング",
     "url": "https://qiita.com/yk-nakamura/items/acd071f16cda844579b9",
-    "likes_count": 356,
+    "likes_count": 357,
     "created_at": "2014-11-20T15:06:21+09:00",
     "updated_at": "2017-02-28T15:48:26+09:00",
     "id": "yk-nakamura"
+  },
+  {
+    "title": "いまさらながら、Basic認証のつけかた",
+    "url": "https://qiita.com/yuwaita/items/e406c645ae8d0cc3c3fa",
+    "likes_count": 345,
+    "created_at": "2014-11-13T11:24:53+09:00",
+    "updated_at": "2015-06-11T09:38:43+09:00",
+    "id": "yuwaita"
   },
   {
     "title": "【初心者向け】ゼロから始める！自宅で ownCloud on Raspberry Pi",
@@ -350,14 +358,6 @@
     "created_at": "2014-11-19T11:32:07+09:00",
     "updated_at": "2015-12-31T15:13:14+09:00",
     "id": "ukatawagatik"
-  },
-  {
-    "title": "いまさらながら、Basic認証のつけかた",
-    "url": "https://qiita.com/yuwaita/items/e406c645ae8d0cc3c3fa",
-    "likes_count": 343,
-    "created_at": "2014-11-13T11:24:53+09:00",
-    "updated_at": "2015-06-11T09:38:43+09:00",
-    "id": "yuwaita"
   },
   {
     "title": "全部はいらないよね？bootstrap-sassをカスタマイズして使う方法",
@@ -402,7 +402,7 @@
   {
     "title": "PHPでPDF帳票を出力する方法（TCPDF + FPDI）",
     "url": "https://qiita.com/emegane/items/486975a79ebb267c2b8e",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2014-11-17T13:35:58+09:00",
     "updated_at": "2014-11-17T13:39:28+09:00",
     "id": "emegane"
@@ -434,7 +434,7 @@
   {
     "title": "Git 作業における commit と push の頻度について",
     "url": "https://qiita.com/kozyty@github/items/87fa95a236b6142f7c10",
-    "likes_count": 297,
+    "likes_count": 299,
     "created_at": "2014-11-30T14:08:30+09:00",
     "updated_at": "2017-02-07T14:27:20+09:00",
     "id": "kozyty@github"

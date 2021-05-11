@@ -2,7 +2,7 @@
   {
     "title": "不安とストレスから解放される見積りとスケジュール方法",
     "url": "https://qiita.com/hirokidaichi/items/5a204a57a200569f755d",
-    "likes_count": 2958,
+    "likes_count": 2959,
     "created_at": "2016-09-09T00:59:09+09:00",
     "updated_at": "2018-12-11T14:20:41+09:00",
     "id": "hirokidaichi"
@@ -10,7 +10,7 @@
   {
     "title": "Vue.js を vue-cli を使ってシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/dde495d6a8ad1c25fa43",
-    "likes_count": 1974,
+    "likes_count": 1975,
     "created_at": "2016-09-11T00:09:02+09:00",
     "updated_at": "2021-04-25T18:04:24+09:00",
     "id": "567000"
@@ -90,7 +90,7 @@
   {
     "title": "RESTful APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/0647c30ef596cedf4bf2",
-    "likes_count": 839,
+    "likes_count": 840,
     "created_at": "2016-09-05T07:36:21+09:00",
     "updated_at": "2016-09-05T07:36:21+09:00",
     "id": "NagaokaKenichi"
@@ -114,7 +114,7 @@
   {
     "title": "Rails における内部結合、外部結合まとめ",
     "url": "https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30",
-    "likes_count": 790,
+    "likes_count": 793,
     "created_at": "2016-09-04T00:45:31+09:00",
     "updated_at": "2020-10-28T00:43:04+09:00",
     "id": "yuyasat"
@@ -242,7 +242,7 @@
   {
     "title": "GitHub 入門",
     "url": "https://qiita.com/ay3/items/8d758ebde41d256a32dc",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2016-09-27T09:16:09+09:00",
     "updated_at": "2016-09-29T07:39:03+09:00",
     "id": "ay3"
@@ -264,6 +264,14 @@
     "id": "tattn"
   },
   {
+    "title": "nginxについてまとめ(設定編)",
+    "url": "https://qiita.com/morrr/items/7c97f0d2e46f7a8ec967",
+    "likes_count": 537,
+    "created_at": "2016-09-08T22:17:25+09:00",
+    "updated_at": "2020-06-17T14:23:27+09:00",
+    "id": "morrr"
+  },
+  {
     "title": "Rubyの文字列とシンボルの違いをキッチリ説明できる人になりたい",
     "url": "https://qiita.com/Kta-M/items/53a13ef60e14fcb41193",
     "likes_count": 536,
@@ -272,17 +280,9 @@
     "id": "Kta-M"
   },
   {
-    "title": "nginxについてまとめ(設定編)",
-    "url": "https://qiita.com/morrr/items/7c97f0d2e46f7a8ec967",
-    "likes_count": 536,
-    "created_at": "2016-09-08T22:17:25+09:00",
-    "updated_at": "2020-06-17T14:23:27+09:00",
-    "id": "morrr"
-  },
-  {
     "title": "誤差逆伝播法をはじめからていねいに",
     "url": "https://qiita.com/43x2/items/50b55623c890564f1893",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2016-09-06T07:40:51+09:00",
     "updated_at": "2016-09-06T07:40:51+09:00",
     "id": "43x2"
@@ -322,7 +322,7 @@
   {
     "title": "責任(関心)を意識したアプリケーション設計",
     "url": "https://qiita.com/kamykn/items/3265ad2dfd91dc7e973f",
-    "likes_count": 430,
+    "likes_count": 431,
     "created_at": "2016-09-23T03:25:22+09:00",
     "updated_at": "2019-04-12T00:49:44+09:00",
     "id": "kamykn"
@@ -330,7 +330,7 @@
   {
     "title": "gitでいろいろ取り消したい",
     "url": "https://qiita.com/tani-shi/items/3419600447292abf6c79",
-    "likes_count": 426,
+    "likes_count": 427,
     "created_at": "2016-09-04T02:36:18+09:00",
     "updated_at": "2018-11-02T09:37:17+09:00",
     "id": "tani-shi"
@@ -418,7 +418,7 @@
   {
     "title": "SPAでのセッション管理とセキュリティ",
     "url": "https://qiita.com/uryyyyyyy/items/9a8276f7241b650f1c15",
-    "likes_count": 354,
+    "likes_count": 355,
     "created_at": "2016-09-16T15:55:18+09:00",
     "updated_at": "2017-04-14T09:02:35+09:00",
     "id": "uryyyyyyy"
@@ -426,7 +426,7 @@
   {
     "title": "Spring BootのAutoConfigureの仕組みを理解する",
     "url": "https://qiita.com/kazuki43zoo/items/8645d9765edd11c6f1dd",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2016-09-06T15:46:05+09:00",
     "updated_at": "2016-09-06T15:46:05+09:00",
     "id": "kazuki43zoo"
@@ -458,7 +458,7 @@
   {
     "title": "【まとめ】Vagrant コマンド一覧",
     "url": "https://qiita.com/oreo3@github/items/4054a4120ccc249676d9",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2016-09-14T08:38:28+09:00",
     "updated_at": "2021-03-09T11:24:05+09:00",
     "id": "oreo3@github"
@@ -466,7 +466,7 @@
   {
     "title": "githubのorganizationアカウントの運営について",
     "url": "https://qiita.com/chari/items/ee16bf16715f4bbcbd9b",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2016-09-16T17:18:26+09:00",
     "updated_at": "2018-10-16T17:02:20+09:00",
     "id": "chari"
@@ -522,7 +522,7 @@
   {
     "title": "Rails初心者でもできる1日で作るクソWebサービス",
     "url": "https://qiita.com/yamadagenki/items/27ff91ad2422c9d14849",
-    "likes_count": 248,
+    "likes_count": 249,
     "created_at": "2016-09-23T14:00:50+09:00",
     "updated_at": "2016-09-23T14:00:50+09:00",
     "id": "yamadagenki"
