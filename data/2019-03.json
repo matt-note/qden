@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3020,
+    "likes_count": 3021,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-05-06T13:08:59+09:00",
     "id": "upura"
@@ -114,7 +114,7 @@
   {
     "title": "GCPで永久無料枠を利用してサービスを立ち上げたときにしたことの備忘録",
     "url": "https://qiita.com/riku-shiru/items/a870edd9dc0b132e092c",
-    "likes_count": 1119,
+    "likes_count": 1120,
     "created_at": "2019-03-29T08:45:23+09:00",
     "updated_at": "2019-04-10T10:08:57+09:00",
     "id": "riku-shiru"
@@ -162,7 +162,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 798,
+    "likes_count": 799,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -274,7 +274,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(導入編)",
     "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
-    "likes_count": 587,
+    "likes_count": 588,
     "created_at": "2019-03-27T22:24:09+09:00",
     "updated_at": "2020-03-30T18:47:49+09:00",
     "id": "AokabiC"
@@ -288,20 +288,20 @@
     "id": "markey"
   },
   {
+    "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
+    "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
+    "likes_count": 581,
+    "created_at": "2019-03-27T19:20:10+09:00",
+    "updated_at": "2019-03-27T20:33:18+09:00",
+    "id": "wann"
+  },
+  {
     "title": "Pythonのコードをきれいに書くコツ",
     "url": "https://qiita.com/kaiware7/items/28d973a653e9825ed582",
     "likes_count": 581,
     "created_at": "2019-03-31T22:38:24+09:00",
     "updated_at": "2019-04-03T12:23:43+09:00",
     "id": "kaiware7"
-  },
-  {
-    "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
-    "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 579,
-    "created_at": "2019-03-27T19:20:10+09:00",
-    "updated_at": "2019-03-27T20:33:18+09:00",
-    "id": "wann"
   },
   {
     "title": "非デザイナーのためのWebデザイン開発ガイド - デザインは感性ではない、スキルだ",
@@ -354,7 +354,7 @@
   {
     "title": "textlint と VS Code で始める文章校正",
     "url": "https://qiita.com/takasp/items/22f7f72b691fda30aea2",
-    "likes_count": 454,
+    "likes_count": 455,
     "created_at": "2019-03-21T12:08:05+09:00",
     "updated_at": "2019-03-22T13:07:38+09:00",
     "id": "takasp"
@@ -362,7 +362,7 @@
   {
     "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
     "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
-    "likes_count": 450,
+    "likes_count": 451,
     "created_at": "2019-03-29T15:54:09+09:00",
     "updated_at": "2019-09-12T14:54:07+09:00",
     "id": "KRiver1"
@@ -440,20 +440,20 @@
     "id": "masachaco"
   },
   {
+    "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
+    "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
+    "likes_count": 384,
+    "created_at": "2019-03-22T20:21:49+09:00",
+    "updated_at": "2019-04-04T14:22:15+09:00",
+    "id": "tancoro"
+  },
+  {
     "title": "誰でもわかりやすいGitのコミットメッセージが書けるジェネレーターを作りました",
     "url": "https://qiita.com/Akatsuki_py/items/eb9c62b6843fb74376cc",
     "likes_count": 383,
     "created_at": "2019-03-07T22:41:27+09:00",
     "updated_at": "2019-11-27T23:29:43+09:00",
     "id": "Akatsuki_py"
-  },
-  {
-    "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
-    "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
-    "likes_count": 383,
-    "created_at": "2019-03-22T20:21:49+09:00",
-    "updated_at": "2019-04-04T14:22:15+09:00",
-    "id": "tancoro"
   },
   {
     "title": "ダッシュボードを作ってみたらそんなに難しくない",
@@ -506,7 +506,7 @@
   {
     "title": "[最新論文] 新しい最適化手法誕生! AdaBound & AMSBound",
     "url": "https://qiita.com/Phoeboooo/items/f610affdcaaae0a28f34",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2019-03-04T08:37:35+09:00",
     "updated_at": "2019-03-04T08:37:35+09:00",
     "id": "Phoeboooo"
@@ -514,7 +514,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 338,
+    "likes_count": 339,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -530,7 +530,7 @@
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 313,
+    "likes_count": 314,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"

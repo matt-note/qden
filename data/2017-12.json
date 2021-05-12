@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5465,
+    "likes_count": 5466,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1461,
+    "likes_count": 1462,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -66,7 +66,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1137,
+    "likes_count": 1139,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -98,7 +98,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 903,
+    "likes_count": 904,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -202,7 +202,7 @@
   {
     "title": "半年で40kg痩せた！ダイエットでわかるリーンなプロジェクトマネジメント手法",
     "url": "https://qiita.com/hirokidaichi/items/9422841b5972b3a5664c",
-    "likes_count": 762,
+    "likes_count": 763,
     "created_at": "2017-12-24T23:36:26+09:00",
     "updated_at": "2017-12-25T16:04:16+09:00",
     "id": "hirokidaichi"
@@ -258,7 +258,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 686,
+    "likes_count": 688,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -288,20 +288,20 @@
     "id": "hiyoko9t"
   },
   {
+    "title": "Django データベース操作 についてのまとめ",
+    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
+    "likes_count": 607,
+    "created_at": "2017-12-26T14:03:46+09:00",
+    "updated_at": "2017-12-28T13:03:50+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "Dialogflow入門",
     "url": "https://qiita.com/kenz_firespeed/items/0979ceb05e4e3299f313",
     "likes_count": 606,
     "created_at": "2017-12-08T14:12:23+09:00",
     "updated_at": "2018-01-24T12:29:19+09:00",
     "id": "kenz_firespeed"
-  },
-  {
-    "title": "Django データベース操作 についてのまとめ",
-    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 606,
-    "created_at": "2017-12-26T14:03:46+09:00",
-    "updated_at": "2017-12-28T13:03:50+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "2017末時点での React Component 設計のベストプラクティス",
@@ -330,7 +330,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 563,
+    "likes_count": 564,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -360,6 +360,14 @@
     "id": "sueshin"
   },
   {
+    "title": "systemctl コマンド",
+    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
+    "likes_count": 533,
+    "created_at": "2017-12-08T14:15:47+09:00",
+    "updated_at": "2019-03-14T16:14:00+09:00",
+    "id": "sinsengumi"
+  },
+  {
     "title": "その資料ちゃんと伝わってる？ノンデザイナーに贈る、3つのポイントで格段に伝わる資料になる方法 ",
     "url": "https://qiita.com/mgmg121/items/af8cf164a432941ed5f1",
     "likes_count": 533,
@@ -374,14 +382,6 @@
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
-  },
-  {
-    "title": "systemctl コマンド",
-    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 532,
-    "created_at": "2017-12-08T14:15:47+09:00",
-    "updated_at": "2019-03-14T16:14:00+09:00",
-    "id": "sinsengumi"
   },
   {
     "title": "標準入力・標準出力ってなに?",
@@ -482,7 +482,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 427,
+    "likes_count": 428,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -498,7 +498,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2020-05-03T15:49:07+09:00",
     "id": "KTakahiro1729"
@@ -536,6 +536,14 @@
     "id": "kyntk"
   },
   {
+    "title": ".bash_profileと.bashrcのまとめ",
+    "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
+    "likes_count": 387,
+    "created_at": "2017-12-25T22:56:03+09:00",
+    "updated_at": "2017-12-25T22:56:03+09:00",
+    "id": "takutoki"
+  },
+  {
     "title": "「君は今日から人工知能開発部門のリーダーだ！」と言われた時の処方箋",
     "url": "https://qiita.com/icoxfog417/items/d0319d2208ab4adf956b",
     "likes_count": 386,
@@ -550,14 +558,6 @@
     "created_at": "2017-12-20T20:24:56+09:00",
     "updated_at": "2021-01-17T17:08:39+09:00",
     "id": "fkooo"
-  },
-  {
-    "title": ".bash_profileと.bashrcのまとめ",
-    "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 386,
-    "created_at": "2017-12-25T22:56:03+09:00",
-    "updated_at": "2017-12-25T22:56:03+09:00",
-    "id": "takutoki"
   },
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
@@ -578,7 +578,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 374,
+    "likes_count": 375,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -594,7 +594,7 @@
   {
     "title": "はじめてのRails API ",
     "url": "https://qiita.com/c5meru/items/1c921676de8a5a038f70",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2017-12-16T14:18:53+09:00",
     "updated_at": "2017-12-16T14:19:33+09:00",
     "id": "c5meru"
@@ -640,20 +640,20 @@
     "id": "borerere"
   },
   {
+    "title": "深層学習の最適化アルゴリズム",
+    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
+    "likes_count": 342,
+    "created_at": "2017-12-17T19:09:32+09:00",
+    "updated_at": "2019-11-30T18:47:57+09:00",
+    "id": "ZoneTsuyoshi"
+  },
+  {
     "title": "会議/ミーティングについて本気出して考えて見た結果",
     "url": "https://qiita.com/nh321/items/051fc2f666261e8ee4f0",
     "likes_count": 341,
     "created_at": "2017-12-10T22:57:31+09:00",
     "updated_at": "2017-12-21T20:23:43+09:00",
     "id": "nh321"
-  },
-  {
-    "title": "深層学習の最適化アルゴリズム",
-    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 341,
-    "created_at": "2017-12-17T19:09:32+09:00",
-    "updated_at": "2019-11-30T18:47:57+09:00",
-    "id": "ZoneTsuyoshi"
   },
   {
     "title": "WebRTCでビデオチャットアプリを作ってみた！",
@@ -730,10 +730,18 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 308,
+    "likes_count": 309,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
+  },
+  {
+    "title": "あのサイトで使われている技術を調べる",
+    "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
+    "likes_count": 308,
+    "created_at": "2017-12-29T18:46:42+09:00",
+    "updated_at": "2021-04-17T12:31:45+09:00",
+    "id": "nightyknite"
   },
   {
     "title": "使うと手放せなくなるSwift Extension集 (Swift 4版)",
@@ -742,14 +750,6 @@
     "created_at": "2017-12-18T04:21:23+09:00",
     "updated_at": "2018-09-19T00:51:02+09:00",
     "id": "tattn"
-  },
-  {
-    "title": "あのサイトで使われている技術を調べる",
-    "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 306,
-    "created_at": "2017-12-29T18:46:42+09:00",
-    "updated_at": "2021-04-17T12:31:45+09:00",
-    "id": "nightyknite"
   },
   {
     "title": "直感で理解する量子コンピュータ",

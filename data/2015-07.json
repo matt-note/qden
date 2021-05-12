@@ -42,7 +42,7 @@
   {
     "title": "PowerShell 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/bb0f5e4f1c7ce045cc57",
-    "likes_count": 1448,
+    "likes_count": 1449,
     "created_at": "2015-07-11T00:26:58+09:00",
     "updated_at": "2020-07-29T08:37:53+09:00",
     "id": "opengl-8080"
@@ -106,7 +106,7 @@
   {
     "title": "チャットなどリアルタイム更新が必要なスマフォアプリの構成について考えてみた",
     "url": "https://qiita.com/mono0926/items/bb7fdd912bc338096f57",
-    "likes_count": 1073,
+    "likes_count": 1074,
     "created_at": "2015-07-28T10:50:10+09:00",
     "updated_at": "2017-01-26T16:22:33+09:00",
     "id": "mono0926"
@@ -138,7 +138,7 @@
   {
     "title": "リーダブルコード要約とリーダブルコード要約の活用方法",
     "url": "https://qiita.com/AKB428/items/20e81ccc8d9998b5535d",
-    "likes_count": 851,
+    "likes_count": 853,
     "created_at": "2015-07-07T01:07:07+09:00",
     "updated_at": "2016-05-06T19:52:36+09:00",
     "id": "AKB428"
@@ -178,10 +178,18 @@
   {
     "title": "HTML5におけるinput要素のpattern、type属性のおさらい",
     "url": "https://qiita.com/ka215/items/795a179041c705bef03b",
-    "likes_count": 720,
+    "likes_count": 721,
     "created_at": "2015-07-14T15:53:13+09:00",
     "updated_at": "2016-08-30T17:52:57+09:00",
     "id": "ka215"
+  },
+  {
+    "title": "ざっくりWordPressの自作テンプレートの作り方",
+    "url": "https://qiita.com/kazukichi/items/5126a4fd259d374e99ae",
+    "likes_count": 708,
+    "created_at": "2015-07-20T21:03:00+09:00",
+    "updated_at": "2018-02-10T15:10:28+09:00",
+    "id": "kazukichi"
   },
   {
     "title": "MySQL入門　レプリケーション編",
@@ -190,14 +198,6 @@
     "created_at": "2015-07-02T16:03:17+09:00",
     "updated_at": "2016-06-03T12:26:10+09:00",
     "id": "Tocyuki"
-  },
-  {
-    "title": "ざっくりWordPressの自作テンプレートの作り方",
-    "url": "https://qiita.com/kazukichi/items/5126a4fd259d374e99ae",
-    "likes_count": 707,
-    "created_at": "2015-07-20T21:03:00+09:00",
-    "updated_at": "2018-02-10T15:10:28+09:00",
-    "id": "kazukichi"
   },
   {
     "title": "非同期通信（Ajax）をするときはタイムアウト処理を必ず入れてほしい（切実）",
@@ -258,7 +258,7 @@
   {
     "title": "CSSだけでアスペクト比を固定するテク",
     "url": "https://qiita.com/ryounagaoka/items/a98f59347ed758743b8d",
-    "likes_count": 608,
+    "likes_count": 609,
     "created_at": "2015-07-07T12:07:57+09:00",
     "updated_at": "2015-07-07T12:47:07+09:00",
     "id": "ryounagaoka"
@@ -306,7 +306,7 @@
   {
     "title": "YAMLとは何か？ - いつもRailsの設定ファイルで出てくるやつの正体",
     "url": "https://qiita.com/Yama-to/items/587544993fb62610528a",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2015-07-27T15:17:42+09:00",
     "updated_at": "2015-08-09T06:21:55+09:00",
     "id": "Yama-to"
@@ -322,7 +322,7 @@
   {
     "title": "Java ジェネリクスのポイント",
     "url": "https://qiita.com/pebblip/items/1206f866980f2ff91e77",
-    "likes_count": 426,
+    "likes_count": 427,
     "created_at": "2015-07-21T01:07:23+09:00",
     "updated_at": "2015-07-22T00:35:29+09:00",
     "id": "pebblip"
@@ -362,7 +362,7 @@
   {
     "title": "管理画面を作る：AdminLTE 基本編",
     "url": "https://qiita.com/zaburo/items/9447fa64e8bc302e2324",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2015-07-25T13:20:36+09:00",
     "updated_at": "2017-11-03T09:38:23+09:00",
     "id": "zaburo"
@@ -418,7 +418,7 @@
   {
     "title": "テキストの縦方向の中央揃えについて",
     "url": "https://qiita.com/Shinji-m/items/69a392685699f3ba95fb",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2015-07-25T01:06:06+09:00",
     "updated_at": "2015-07-30T14:42:25+09:00",
     "id": "Shinji-m"

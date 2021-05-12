@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4183,
+    "likes_count": 4186,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2021-03-26T11:28:23+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4123,
+    "likes_count": 4127,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -98,7 +98,7 @@
   {
     "title": "2020年現在 Web系企業で採用されてる技術についてまとめてみた",
     "url": "https://qiita.com/inagacky/items/43cc0518ef11f1e4beb3",
-    "likes_count": 968,
+    "likes_count": 969,
     "created_at": "2020-01-22T10:43:23+09:00",
     "updated_at": "2020-09-06T09:25:42+09:00",
     "id": "inagacky"
@@ -178,7 +178,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 714,
+    "likes_count": 716,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -234,7 +234,7 @@
   {
     "title": "バッチ処理について考える",
     "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
-    "likes_count": 658,
+    "likes_count": 660,
     "created_at": "2020-01-11T11:25:19+09:00",
     "updated_at": "2020-06-11T18:35:53+09:00",
     "id": "koduki"
@@ -282,7 +282,7 @@
   {
     "title": "パラメータ数10億！最新の巨大画像認識モデル「BiT」爆誕 & 解説",
     "url": "https://qiita.com/omiita/items/90abe0799cf3efe8d93d",
-    "likes_count": 560,
+    "likes_count": 562,
     "created_at": "2020-01-15T07:51:21+09:00",
     "updated_at": "2020-08-12T20:06:07+09:00",
     "id": "omiita"
@@ -336,20 +336,20 @@
     "id": "goyae"
   },
   {
+    "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
+    "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
+    "likes_count": 474,
+    "created_at": "2020-01-10T19:39:06+09:00",
+    "updated_at": "2020-10-28T20:23:44+09:00",
+    "id": "marnie_ms4"
+  },
+  {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
     "likes_count": 472,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2021-03-26T11:27:03+09:00",
     "id": "Saku731"
-  },
-  {
-    "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
-    "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
-    "likes_count": 472,
-    "created_at": "2020-01-10T19:39:06+09:00",
-    "updated_at": "2020-10-28T20:23:44+09:00",
-    "id": "marnie_ms4"
   },
   {
     "title": "「よいサンプルコード」ってどんなサンプルコード？ 〜Qiitaや技術ブログを書くときに気を付けること〜",
@@ -370,7 +370,7 @@
   {
     "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
     "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2020-01-19T17:05:28+09:00",
     "updated_at": "2020-01-21T20:33:07+09:00",
     "id": "uhyo"
@@ -434,7 +434,7 @@
   {
     "title": "最短経路問題総特集！！！～BFSから拡張ダイクストラまで～",
     "url": "https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e",
-    "likes_count": 379,
+    "likes_count": 380,
     "created_at": "2020-01-18T16:57:24+09:00",
     "updated_at": "2020-01-23T21:44:58+09:00",
     "id": "ageprocpp"
@@ -450,7 +450,7 @@
   {
     "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
     "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2020-01-03T17:27:55+09:00",
     "updated_at": "2020-11-10T02:36:37+09:00",
     "id": "bee2"
@@ -458,7 +458,7 @@
   {
     "title": "ginを最速でマスターしよう",
     "url": "https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2020-01-01T09:46:12+09:00",
     "updated_at": "2020-09-13T12:11:53+09:00",
     "id": "Syoitu"
@@ -504,6 +504,14 @@
     "id": "Yuki_Oshima"
   },
   {
+    "title": "Pythonのフレームワークを理解するために必要な知識メモ",
+    "url": "https://qiita.com/karaage0703/items/e4328dade983e830748a",
+    "likes_count": 272,
+    "created_at": "2020-01-04T15:44:36+09:00",
+    "updated_at": "2020-05-20T10:41:35+09:00",
+    "id": "karaage0703"
+  },
+  {
     "title": "【2020年1月】令和だし本格的にVSCodeのRemote Containerで、爆速の\"開発コンテナ\"始めよう",
     "url": "https://qiita.com/koinori/items/084a0770c1f9e72e0c14",
     "likes_count": 271,
@@ -512,12 +520,12 @@
     "id": "koinori"
   },
   {
-    "title": "Pythonのフレームワークを理解するために必要な知識メモ",
-    "url": "https://qiita.com/karaage0703/items/e4328dade983e830748a",
-    "likes_count": 271,
-    "created_at": "2020-01-04T15:44:36+09:00",
-    "updated_at": "2020-05-20T10:41:35+09:00",
-    "id": "karaage0703"
+    "title": "React hooksを基礎から理解する (useState編)",
+    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
+    "likes_count": 254,
+    "created_at": "2020-01-26T20:56:47+09:00",
+    "updated_at": "2021-03-15T16:00:37+09:00",
+    "id": "seira"
   },
   {
     "title": "VSCodeのデバッグ機能でJavascriptとTypescriptをデバッグする",
@@ -526,14 +534,6 @@
     "created_at": "2020-01-14T13:25:04+09:00",
     "updated_at": "2020-01-14T13:25:04+09:00",
     "id": "jlkiri"
-  },
-  {
-    "title": "React hooksを基礎から理解する (useState編)",
-    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 251,
-    "created_at": "2020-01-26T20:56:47+09:00",
-    "updated_at": "2021-03-15T16:00:37+09:00",
-    "id": "seira"
   },
   {
     "title": "未経験からweb系エンジニアになるための独学履歴~初めてのポートフォリオ作成記録 製作記録編~",

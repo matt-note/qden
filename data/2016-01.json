@@ -2,7 +2,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 3920,
+    "likes_count": 3922,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -10,7 +10,7 @@
   {
     "title": "不思議の国のSE用語",
     "url": "https://qiita.com/t_nakayama0714/items/478a8ed3a9ae143ad854",
-    "likes_count": 3415,
+    "likes_count": 3417,
     "created_at": "2016-01-08T02:47:09+09:00",
     "updated_at": "2021-01-04T00:23:46+09:00",
     "id": "t_nakayama0714"
@@ -34,7 +34,7 @@
   {
     "title": "2016年 独りで新規WEBサービスを開発・運用した際の知見",
     "url": "https://qiita.com/haminiku/items/711cbdb894d1d6839e3e",
-    "likes_count": 3160,
+    "likes_count": 3161,
     "created_at": "2016-01-06T06:46:37+09:00",
     "updated_at": "2016-02-23T06:50:34+09:00",
     "id": "haminiku"
@@ -74,7 +74,7 @@
   {
     "title": "非デザイナーがWebサイトをおしゃれに作るためにやったこと",
     "url": "https://qiita.com/hc0208/items/1d3b505ca3626d0f4c68",
-    "likes_count": 1274,
+    "likes_count": 1275,
     "created_at": "2016-01-28T10:05:19+09:00",
     "updated_at": "2017-11-20T23:59:39+09:00",
     "id": "hc0208"
@@ -170,7 +170,7 @@
   {
     "title": "完全に単一のHTMLファイルで動作するMarkdownエディタ作った",
     "url": "https://qiita.com/tatesuke/items/225b51b270faf8b10923",
-    "likes_count": 856,
+    "likes_count": 857,
     "created_at": "2016-01-25T17:11:17+09:00",
     "updated_at": "2018-12-22T12:27:33+09:00",
     "id": "tatesuke"
@@ -338,7 +338,7 @@
   {
     "title": "bundle install と bundle updateの違いについて",
     "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
-    "likes_count": 478,
+    "likes_count": 479,
     "created_at": "2016-01-22T00:25:15+09:00",
     "updated_at": "2016-01-22T00:26:14+09:00",
     "id": "lasershow"
@@ -386,7 +386,7 @@
   {
     "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2016-01-13T16:12:45+09:00",
     "updated_at": "2019-01-17T11:55:19+09:00",
     "id": "naoki_mochizuki"
@@ -394,7 +394,7 @@
   {
     "title": "爆速でターミナルを使うためのショートカット集",
     "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2016-01-19T01:33:35+09:00",
     "updated_at": "2019-12-23T11:08:38+09:00",
     "id": "akito"
@@ -410,7 +410,7 @@
   {
     "title": "プログラマーのためのR言語入門",
     "url": "https://qiita.com/stkdev/items/6aba2c1db2fa056170ae",
-    "likes_count": 427,
+    "likes_count": 428,
     "created_at": "2016-01-18T07:47:46+09:00",
     "updated_at": "2017-12-26T19:33:11+09:00",
     "id": "stkdev"
@@ -450,7 +450,7 @@
   {
     "title": "お手軽なWebサーバーの立て方",
     "url": "https://qiita.com/massie_g/items/2913066e596dae197539",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2016-01-08T14:50:59+09:00",
     "updated_at": "2018-07-03T14:42:55+09:00",
     "id": "massie_g"
@@ -602,7 +602,7 @@
   {
     "title": "Raspberry Piに外部ネットワークからアクセスできる様にして携帯でペットを遠隔監視する方法",
     "url": "https://qiita.com/kinpira/items/c9e6dc910e8d96e8c19b",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2016-01-10T03:23:02+09:00",
     "updated_at": "2016-12-03T21:40:51+09:00",
     "id": "kinpira"
@@ -664,20 +664,20 @@
     "id": "muran001"
   },
   {
+    "title": "Express + Node.jsで基本を理解した次の一歩 - ディレクトリ構成をルーティング・ミドルウェアを理解して考えてみる",
+    "url": "https://qiita.com/nkjm/items/2016e331f74f1b8ab465",
+    "likes_count": 277,
+    "created_at": "2016-01-04T09:24:28+09:00",
+    "updated_at": "2016-01-04T09:37:51+09:00",
+    "id": "nkjm"
+  },
+  {
     "title": "PHPでファイルを開いて読み込む",
     "url": "https://qiita.com/tadsan/items/bbc23ee596d55159f044",
     "likes_count": 277,
     "created_at": "2016-01-08T07:52:13+09:00",
     "updated_at": "2016-08-21T04:05:27+09:00",
     "id": "tadsan"
-  },
-  {
-    "title": "Express + Node.jsで基本を理解した次の一歩 - ディレクトリ構成をルーティング・ミドルウェアを理解して考えてみる",
-    "url": "https://qiita.com/nkjm/items/2016e331f74f1b8ab465",
-    "likes_count": 276,
-    "created_at": "2016-01-04T09:24:28+09:00",
-    "updated_at": "2016-01-04T09:37:51+09:00",
-    "id": "nkjm"
   },
   {
     "title": "サーバ初心者に捧ぐ、サーバを立てたらまずすべきセキュリティの設定",
@@ -718,6 +718,14 @@
     "created_at": "2016-01-15T00:24:21+09:00",
     "updated_at": "2021-04-28T13:56:36+09:00",
     "id": "clown0082"
+  },
+  {
+    "title": "Laravel artisanコマンドメモ",
+    "url": "https://qiita.com/zaburo/items/37768b743ed6d0e28bf5",
+    "likes_count": 216,
+    "created_at": "2016-01-03T08:17:47+09:00",
+    "updated_at": "2016-01-03T08:17:47+09:00",
+    "id": "zaburo"
   },
   {
     "title": "【重要】 Qiitaの良記事を、カテゴリ別に分けてみました。",
