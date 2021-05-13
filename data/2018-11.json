@@ -42,7 +42,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1476,
+    "likes_count": 1477,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2021-04-25T17:54:48+09:00",
     "id": "elipmoc101"
@@ -50,7 +50,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1362,
+    "likes_count": 1363,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -66,7 +66,7 @@
   {
     "title": "Ruby->Go->Scalaという習得順序がエンジニアの爆速の成長に最適である理由",
     "url": "https://qiita.com/poly_soft/items/1feaa1ec5ecab08dc6db",
-    "likes_count": 1290,
+    "likes_count": 1291,
     "created_at": "2018-11-04T07:35:05+09:00",
     "updated_at": "2019-03-11T19:35:33+09:00",
     "id": "poly_soft"
@@ -210,7 +210,7 @@
   {
     "title": "AtCoder見てたらテクいコードが読めるようになった話",
     "url": "https://qiita.com/Yametaro/items/f7d689336b2e3f339e54",
-    "likes_count": 672,
+    "likes_count": 673,
     "created_at": "2018-11-30T19:00:24+09:00",
     "updated_at": "2018-12-03T17:07:51+09:00",
     "id": "Yametaro"
@@ -218,7 +218,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 642,
+    "likes_count": 643,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -274,7 +274,7 @@
   {
     "title": "atcoderでよく使う手法python版",
     "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2018-11-25T18:13:41+09:00",
     "updated_at": "2020-11-23T02:30:53+09:00",
     "id": "chun1182"
@@ -312,6 +312,22 @@
     "id": "rana_kualu"
   },
   {
+    "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
+    "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
+    "likes_count": 464,
+    "created_at": "2018-11-18T19:13:03+09:00",
+    "updated_at": "2019-10-05T07:32:56+09:00",
+    "id": "kd9951"
+  },
+  {
+    "title": "gem installでpermissionエラーになった時の対応方法",
+    "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
+    "likes_count": 464,
+    "created_at": "2018-11-25T22:52:44+09:00",
+    "updated_at": "2019-09-25T15:09:16+09:00",
+    "id": "nishina555"
+  },
+  {
     "title": "RedisとElastiCacheを分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
     "likes_count": 463,
@@ -328,25 +344,9 @@
     "id": "seya"
   },
   {
-    "title": "gem installでpermissionエラーになった時の対応方法",
-    "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 463,
-    "created_at": "2018-11-25T22:52:44+09:00",
-    "updated_at": "2019-09-25T15:09:16+09:00",
-    "id": "nishina555"
-  },
-  {
-    "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
-    "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 462,
-    "created_at": "2018-11-18T19:13:03+09:00",
-    "updated_at": "2019-10-05T07:32:56+09:00",
-    "id": "kd9951"
-  },
-  {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -386,10 +386,18 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 407,
+    "likes_count": 408,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
+  },
+  {
+    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
+    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
+    "likes_count": 406,
+    "created_at": "2018-11-06T02:18:59+09:00",
+    "updated_at": "2018-11-06T02:18:59+09:00",
+    "id": "psychoroid"
   },
   {
     "title": "2019年版: 脱Babel!フロント/JS開発をTypeScriptに移行するための環境整備マニュアル",
@@ -398,14 +406,6 @@
     "created_at": "2018-12-01T00:01:37+09:00",
     "updated_at": "2020-07-26T12:05:56+09:00",
     "id": "shibukawa"
-  },
-  {
-    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
-    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 403,
-    "created_at": "2018-11-06T02:18:59+09:00",
-    "updated_at": "2018-11-06T02:18:59+09:00",
-    "id": "psychoroid"
   },
   {
     "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
@@ -442,7 +442,7 @@
   {
     "title": "最近のJava界隈はとても良い感じ ",
     "url": "https://qiita.com/huge-book-storage/items/ad4f7bcaaebca6281154",
-    "likes_count": 365,
+    "likes_count": 364,
     "created_at": "2018-11-10T12:47:32+09:00",
     "updated_at": "2018-11-17T13:28:26+09:00",
     "id": "huge-book-storage"
