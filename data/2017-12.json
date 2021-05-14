@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1462,
+    "likes_count": 1463,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -98,7 +98,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 905,
+    "likes_count": 906,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -146,7 +146,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 837,
+    "likes_count": 838,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -162,7 +162,7 @@
   {
     "title": "こんなGitの教え方をするエンジニアはデザイナーからモテるぞ！",
     "url": "https://qiita.com/gilly/items/aed8eab37d0f72d6106d",
-    "likes_count": 812,
+    "likes_count": 811,
     "created_at": "2017-12-12T20:14:58+09:00",
     "updated_at": "2021-03-18T11:50:06+09:00",
     "id": "gilly"
@@ -170,7 +170,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 810,
+    "likes_count": 811,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -226,7 +226,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 738,
+    "likes_count": 739,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -234,7 +234,7 @@
   {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
     "url": "https://qiita.com/bokuweb/items/1575337bef44ae82f4d3",
-    "likes_count": 708,
+    "likes_count": 709,
     "created_at": "2017-12-18T10:54:24+09:00",
     "updated_at": "2020-02-12T11:34:17+09:00",
     "id": "bokuweb"
@@ -248,20 +248,20 @@
     "id": "JorgeBucaran"
   },
   {
+    "title": "matplotlibでのプロットの基本",
+    "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
+    "likes_count": 692,
+    "created_at": "2017-12-15T11:24:40+09:00",
+    "updated_at": "2019-02-14T13:00:47+09:00",
+    "id": "KntKnk0328"
+  },
+  {
     "title": "CTOのやるべきことは何なのか？（翻訳と考察）",
     "url": "https://qiita.com/takano1222/items/ef897b2156067688f3ae",
     "likes_count": 690,
     "created_at": "2017-12-09T17:48:32+09:00",
     "updated_at": "2017-12-14T12:41:19+09:00",
     "id": "takano1222"
-  },
-  {
-    "title": "matplotlibでのプロットの基本",
-    "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 690,
-    "created_at": "2017-12-15T11:24:40+09:00",
-    "updated_at": "2019-02-14T13:00:47+09:00",
-    "id": "KntKnk0328"
   },
   {
     "title": "Google Homeでやったことまとめ",
@@ -314,7 +314,7 @@
   {
     "title": " Nuxt.js使ってみた",
     "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 584,
+    "likes_count": 585,
     "created_at": "2017-12-15T23:18:21+09:00",
     "updated_at": "2021-01-15T16:23:44+09:00",
     "id": "_takeshi_24"
@@ -338,7 +338,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -368,20 +368,20 @@
     "id": "sinsengumi"
   },
   {
+    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
+    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
+    "likes_count": 534,
+    "created_at": "2017-12-22T11:55:57+09:00",
+    "updated_at": "2019-07-11T10:18:55+09:00",
+    "id": "megadreams14"
+  },
+  {
     "title": "その資料ちゃんと伝わってる？ノンデザイナーに贈る、3つのポイントで格段に伝わる資料になる方法 ",
     "url": "https://qiita.com/mgmg121/items/af8cf164a432941ed5f1",
     "likes_count": 533,
     "created_at": "2017-12-21T01:47:16+09:00",
     "updated_at": "2017-12-21T02:03:43+09:00",
     "id": "mgmg121"
-  },
-  {
-    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
-    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 533,
-    "created_at": "2017-12-22T11:55:57+09:00",
-    "updated_at": "2019-07-11T10:18:55+09:00",
-    "id": "megadreams14"
   },
   {
     "title": "標準入力・標準出力ってなに?",
@@ -402,7 +402,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -450,7 +450,7 @@
   {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 459,
+    "likes_count": 461,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
@@ -466,7 +466,7 @@
   {
     "title": "Parcel 入門 ～Parcelはwebpackの代わりになるのか～",
     "url": "https://qiita.com/soarflat/items/3e43368b2d767c730781",
-    "likes_count": 434,
+    "likes_count": 433,
     "created_at": "2017-12-10T13:28:47+09:00",
     "updated_at": "2021-04-26T22:02:12+09:00",
     "id": "soarflat"
@@ -514,7 +514,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 396,
+    "likes_count": 397,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2021-02-20T14:11:08+09:00",
     "id": "sorami"
@@ -562,7 +562,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -578,7 +578,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 375,
+    "likes_count": 377,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -728,20 +728,20 @@
     "id": "seya"
   },
   {
+    "title": "あのサイトで使われている技術を調べる",
+    "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
+    "likes_count": 310,
+    "created_at": "2017-12-29T18:46:42+09:00",
+    "updated_at": "2021-04-17T12:31:45+09:00",
+    "id": "nightyknite"
+  },
+  {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
     "likes_count": 309,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
-  },
-  {
-    "title": "あのサイトで使われている技術を調べる",
-    "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 309,
-    "created_at": "2017-12-29T18:46:42+09:00",
-    "updated_at": "2021-04-17T12:31:45+09:00",
-    "id": "nightyknite"
   },
   {
     "title": "使うと手放せなくなるSwift Extension集 (Swift 4版)",
