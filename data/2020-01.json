@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4194,
+    "likes_count": 4215,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2021-03-26T11:28:23+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4132,
+    "likes_count": 4135,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -24,20 +24,20 @@
     "id": "sukebeeeeei"
   },
   {
+    "title": "2020年の開発者が知っておくべき11の必須スキル",
+    "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
+    "likes_count": 1978,
+    "created_at": "2020-01-20T19:54:42+09:00",
+    "updated_at": "2020-02-11T22:17:43+09:00",
+    "id": "rana_kualu"
+  },
+  {
     "title": "高校生がリアルタイム投票サイトを公開したらいきなり1万PVを記録した話",
     "url": "https://qiita.com/akaoni_sohei/items/186121bd9994197aab50",
     "likes_count": 1977,
     "created_at": "2020-01-05T11:14:16+09:00",
     "updated_at": "2020-02-11T12:25:59+09:00",
     "id": "akaoni_sohei"
-  },
-  {
-    "title": "2020年の開発者が知っておくべき11の必須スキル",
-    "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
-    "likes_count": 1976,
-    "created_at": "2020-01-20T19:54:42+09:00",
-    "updated_at": "2020-02-11T22:17:43+09:00",
-    "id": "rana_kualu"
   },
   {
     "title": "EC2でブログを立ち上げた途端に来た、怪しい攻撃たち",
@@ -90,7 +90,7 @@
   {
     "title": "Chrome 80が密かに呼び寄せる地獄 ～ SameSite属性のデフォルト変更を調べてみた",
     "url": "https://qiita.com/ahera/items/0c8276da6b0bed2b580c",
-    "likes_count": 1066,
+    "likes_count": 1067,
     "created_at": "2020-02-01T08:40:29+09:00",
     "updated_at": "2020-07-17T12:55:07+09:00",
     "id": "ahera"
@@ -146,7 +146,7 @@
   {
     "title": "AWSアカウントを作成したら最初にやるべきこと -セキュリティ編-",
     "url": "https://qiita.com/yanyansk/items/3a989b70d2d3d49eff16",
-    "likes_count": 836,
+    "likes_count": 837,
     "created_at": "2020-01-15T14:14:30+09:00",
     "updated_at": "2020-01-29T20:05:27+09:00",
     "id": "yanyansk"
@@ -162,7 +162,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 781,
+    "likes_count": 782,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -234,7 +234,7 @@
   {
     "title": "バッチ処理について考える",
     "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2020-01-11T11:25:19+09:00",
     "updated_at": "2020-06-11T18:35:53+09:00",
     "id": "koduki"
@@ -250,7 +250,7 @@
   {
     "title": "経年劣化に耐える ReactComponent の書き方",
     "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
-    "likes_count": 646,
+    "likes_count": 648,
     "created_at": "2020-01-16T19:01:04+09:00",
     "updated_at": "2020-01-19T13:49:21+09:00",
     "id": "Takepepe"
@@ -308,7 +308,7 @@
     "url": "https://qiita.com/BRSF/items/6a43d4cf56a9dd1a4d0c",
     "likes_count": 539,
     "created_at": "2020-01-24T11:20:43+09:00",
-    "updated_at": "2021-04-28T15:01:41+09:00",
+    "updated_at": "2021-05-17T15:48:25+09:00",
     "id": "BRSF"
   },
   {
@@ -328,6 +328,14 @@
     "id": "FJyusk56"
   },
   {
+    "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
+    "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
+    "likes_count": 477,
+    "created_at": "2020-01-03T10:45:09+09:00",
+    "updated_at": "2021-03-26T11:27:03+09:00",
+    "id": "Saku731"
+  },
+  {
     "title": "【AWS, GCP, Azure, OracleCloud, Firebase】無料で使えるクラウドのサーバリソースまとめ【2020年1月版】",
     "url": "https://qiita.com/goyae/items/196221169391dd44125d",
     "likes_count": 477,
@@ -344,17 +352,9 @@
     "id": "marnie_ms4"
   },
   {
-    "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
-    "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 473,
-    "created_at": "2020-01-03T10:45:09+09:00",
-    "updated_at": "2021-03-26T11:27:03+09:00",
-    "id": "Saku731"
-  },
-  {
     "title": "「よいサンプルコード」ってどんなサンプルコード？ 〜Qiitaや技術ブログを書くときに気を付けること〜",
     "url": "https://qiita.com/jnchito/items/da33f793de2e29e470f4",
-    "likes_count": 463,
+    "likes_count": 464,
     "created_at": "2020-01-09T11:47:44+09:00",
     "updated_at": "2020-12-15T07:28:23+09:00",
     "id": "jnchito"
@@ -410,7 +410,7 @@
   {
     "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
     "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
-    "likes_count": 406,
+    "likes_count": 408,
     "created_at": "2020-01-11T13:59:43+09:00",
     "updated_at": "2021-01-15T13:48:23+09:00",
     "id": "shiro01"
@@ -426,7 +426,7 @@
   {
     "title": "notionバックエンドのzeit製ヘッドレスCMS“Notion Blog”が激アツ🔥",
     "url": "https://qiita.com/serinuntius/items/d4b1e9ef53b59033f607",
-    "likes_count": 397,
+    "likes_count": 398,
     "created_at": "2020-01-15T09:06:37+09:00",
     "updated_at": "2020-01-15T09:07:20+09:00",
     "id": "serinuntius"
@@ -434,7 +434,7 @@
   {
     "title": "最短経路問題総特集！！！～BFSから拡張ダイクストラまで～",
     "url": "https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2020-01-18T16:57:24+09:00",
     "updated_at": "2020-01-23T21:44:58+09:00",
     "id": "ageprocpp"
@@ -466,7 +466,7 @@
   {
     "title": "高階関数、カリー化、部分適用",
     "url": "https://qiita.com/nouka/items/d9f29db7b6a69baa650a",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2020-01-07T09:03:00+09:00",
     "updated_at": "2020-01-07T09:03:00+09:00",
     "id": "nouka"
@@ -498,7 +498,7 @@
   {
     "title": "VS CodeでDocker開発コンテナを便利に使おう",
     "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
-    "likes_count": 283,
+    "likes_count": 285,
     "created_at": "2020-01-17T21:18:30+09:00",
     "updated_at": "2020-01-17T21:18:30+09:00",
     "id": "Yuki_Oshima"
@@ -522,7 +522,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 256,
+    "likes_count": 257,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"

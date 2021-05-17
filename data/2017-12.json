@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5471,
+    "likes_count": 5473,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2033,
+    "likes_count": 2034,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1268,
+    "likes_count": 1269,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -98,7 +98,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 906,
+    "likes_count": 907,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -114,10 +114,18 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 873,
+    "likes_count": 874,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
+  },
+  {
+    "title": "Selenium webdriverよく使う操作メソッドまとめ",
+    "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
+    "likes_count": 862,
+    "created_at": "2017-12-18T10:51:50+09:00",
+    "updated_at": "2019-08-16T17:10:59+09:00",
+    "id": "mochio"
   },
   {
     "title": "2017年のディープラーニング論文100選",
@@ -126,14 +134,6 @@
     "created_at": "2017-12-18T13:13:50+09:00",
     "updated_at": "2018-05-09T01:01:47+09:00",
     "id": "sakaiakira"
-  },
-  {
-    "title": "Selenium webdriverよく使う操作メソッドまとめ",
-    "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 861,
-    "created_at": "2017-12-18T10:51:50+09:00",
-    "updated_at": "2019-08-16T17:10:59+09:00",
-    "id": "mochio"
   },
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
@@ -146,7 +146,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 838,
+    "likes_count": 840,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -160,6 +160,14 @@
     "id": "tnj"
   },
   {
+    "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
+    "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
+    "likes_count": 812,
+    "created_at": "2017-12-25T07:57:47+09:00",
+    "updated_at": "2019-05-20T15:34:54+09:00",
+    "id": "yu4u"
+  },
+  {
     "title": "こんなGitの教え方をするエンジニアはデザイナーからモテるぞ！",
     "url": "https://qiita.com/gilly/items/aed8eab37d0f72d6106d",
     "likes_count": 811,
@@ -168,17 +176,9 @@
     "id": "gilly"
   },
   {
-    "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
-    "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 811,
-    "created_at": "2017-12-25T07:57:47+09:00",
-    "updated_at": "2019-05-20T15:34:54+09:00",
-    "id": "yu4u"
-  },
-  {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 806,
+    "likes_count": 807,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -186,7 +186,7 @@
   {
     "title": "仮想通貨自動取引入門",
     "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
-    "likes_count": 776,
+    "likes_count": 777,
     "created_at": "2017-12-17T11:54:43+09:00",
     "updated_at": "2018-08-23T10:49:03+09:00",
     "id": "shionhonda"
@@ -194,7 +194,7 @@
   {
     "title": "dev.toがなぜinsanely  fastを実現出来ているか",
     "url": "https://qiita.com/saboyutaka/items/1f528ec3ce85476d7561",
-    "likes_count": 771,
+    "likes_count": 772,
     "created_at": "2017-12-05T19:38:54+09:00",
     "updated_at": "2018-12-17T14:40:22+09:00",
     "id": "saboyutaka"
@@ -290,7 +290,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 607,
+    "likes_count": 609,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -338,7 +338,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 556,
+    "likes_count": 558,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -362,7 +362,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 534,
+    "likes_count": 536,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -370,7 +370,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 534,
+    "likes_count": 536,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -426,7 +426,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 473,
+    "likes_count": 475,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -450,7 +450,7 @@
   {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 461,
+    "likes_count": 462,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
@@ -482,7 +482,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 428,
+    "likes_count": 430,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -514,7 +514,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 397,
+    "likes_count": 398,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2021-02-20T14:11:08+09:00",
     "id": "sorami"
@@ -538,7 +538,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
@@ -642,7 +642,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 342,
+    "likes_count": 345,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
@@ -730,7 +730,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2021-04-17T12:31:45+09:00",
     "id": "nightyknite"
@@ -738,7 +738,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 309,
+    "likes_count": 310,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
