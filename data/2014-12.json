@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2215,
+    "likes_count": 2217,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1742,
+    "likes_count": 1744,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2021-02-11T09:21:27+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1277,
+    "likes_count": 1278,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -88,20 +88,20 @@
     "id": "koyopro"
   },
   {
+    "title": "早く知ってたら良かったrailsの技",
+    "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
+    "likes_count": 1211,
+    "created_at": "2014-12-18T19:05:33+09:00",
+    "updated_at": "2014-12-18T19:06:40+09:00",
+    "id": "k-shogo"
+  },
+  {
     "title": "マイクロソフトはどうやってBingをFPGAで実装したか",
     "url": "https://qiita.com/kazunori279/items/6f517648e8a408254a50",
     "likes_count": 1210,
     "created_at": "2014-12-08T10:44:08+09:00",
     "updated_at": "2015-01-22T16:01:02+09:00",
     "id": "kazunori279"
-  },
-  {
-    "title": "早く知ってたら良かったrailsの技",
-    "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1210,
-    "created_at": "2014-12-18T19:05:33+09:00",
-    "updated_at": "2014-12-18T19:06:40+09:00",
-    "id": "k-shogo"
   },
   {
     "title": "テスト環境で使えるクレジットカード番号",
@@ -130,7 +130,7 @@
   {
     "title": "JavaScriptでforEach, filter, map, reduceとか",
     "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
-    "likes_count": 853,
+    "likes_count": 854,
     "created_at": "2014-12-21T00:42:04+09:00",
     "updated_at": "2018-09-23T17:07:32+09:00",
     "id": "itagakishintaro"
@@ -186,7 +186,7 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 724,
+    "likes_count": 725,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
@@ -474,7 +474,7 @@
   {
     "title": "Activity のライフサイクル再確認",
     "url": "https://qiita.com/calciolife/items/39b2696a9a03e8591d40",
-    "likes_count": 429,
+    "likes_count": 430,
     "created_at": "2014-12-21T22:51:50+09:00",
     "updated_at": "2014-12-21T22:55:26+09:00",
     "id": "calciolife"
@@ -504,20 +504,20 @@
     "id": "chibi929"
   },
   {
+    "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
+    "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
+    "likes_count": 399,
+    "created_at": "2014-12-26T17:08:08+09:00",
+    "updated_at": "2014-12-26T17:08:08+09:00",
+    "id": "mimoe"
+  },
+  {
     "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
     "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
     "likes_count": 398,
     "created_at": "2014-12-10T11:37:15+09:00",
     "updated_at": "2015-07-03T17:53:15+09:00",
     "id": "izumin5210"
-  },
-  {
-    "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
-    "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
-    "likes_count": 398,
-    "created_at": "2014-12-26T17:08:08+09:00",
-    "updated_at": "2014-12-26T17:08:08+09:00",
-    "id": "mimoe"
   },
   {
     "title": "Linuxbrew のススメ",
@@ -570,7 +570,7 @@
   {
     "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
     "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2014-12-18T22:53:36+09:00",
     "updated_at": "2015-02-14T18:30:30+09:00",
     "id": "y_hokkey"
@@ -682,7 +682,7 @@
   {
     "title": "React.jsでFormを扱う",
     "url": "https://qiita.com/koba04/items/40cc217ab925ef651113",
-    "likes_count": 288,
+    "likes_count": 289,
     "created_at": "2014-12-10T19:13:22+09:00",
     "updated_at": "2015-05-18T00:39:26+09:00",
     "id": "koba04"

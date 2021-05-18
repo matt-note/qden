@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1648,
+    "likes_count": 1649,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -34,7 +34,7 @@
   {
     "title": "CSSアニメーション 入門",
     "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
-    "likes_count": 1488,
+    "likes_count": 1489,
     "created_at": "2016-08-19T00:50:02+09:00",
     "updated_at": "2021-04-26T22:09:17+09:00",
     "id": "soarflat"
@@ -50,7 +50,7 @@
   {
     "title": " 「なぜDI(依存性注入)が必要なのか？」についてGoogleが解説しているページを翻訳した　",
     "url": "https://qiita.com/mizunowanko/items/53eed059fc044c5aa5dc",
-    "likes_count": 1333,
+    "likes_count": 1335,
     "created_at": "2016-08-13T14:24:29+09:00",
     "updated_at": "2016-08-14T09:25:39+09:00",
     "id": "mizunowanko"
@@ -58,7 +58,7 @@
   {
     "title": "GitHubのmasterブランチをWebページとして公開する手順（GitHub Pages）",
     "url": "https://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096",
-    "likes_count": 1184,
+    "likes_count": 1185,
     "created_at": "2016-08-18T10:27:52+09:00",
     "updated_at": "2020-12-21T18:43:05+09:00",
     "id": "tonkotsuboy_com"
@@ -66,7 +66,7 @@
   {
     "title": "【PHP超入門】Cookieとセッションについて",
     "url": "https://qiita.com/7968/items/ce03feb17c8eaa6e4672",
-    "likes_count": 1086,
+    "likes_count": 1087,
     "created_at": "2016-08-22T00:45:10+09:00",
     "updated_at": "2020-04-15T08:44:16+09:00",
     "id": "7968"
@@ -74,7 +74,7 @@
   {
     "title": "【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本",
     "url": "https://qiita.com/aokikenichi/items/ae4df263f591e47528a6",
-    "likes_count": 1040,
+    "likes_count": 1041,
     "created_at": "2016-08-23T11:46:09+09:00",
     "updated_at": "2021-03-21T18:35:47+09:00",
     "id": "aokikenichi"
@@ -122,7 +122,7 @@
   {
     "title": "Service Workerの基本とそれを使ってできること",
     "url": "https://qiita.com/y_fujieda/items/f9e765ac9d89ba241154",
-    "likes_count": 805,
+    "likes_count": 806,
     "created_at": "2016-08-31T16:38:50+09:00",
     "updated_at": "2016-08-31T16:38:50+09:00",
     "id": "y_fujieda"
@@ -218,7 +218,7 @@
   {
     "title": "language server protocolについて (前編)",
     "url": "https://qiita.com/atsushieno/items/ce31df9bd88e98eec5c4",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2016-08-19T12:33:03+09:00",
     "updated_at": "2021-05-15T14:49:58+09:00",
     "id": "atsushieno"
@@ -274,7 +274,7 @@
   {
     "title": "k-meansの最適なクラスター数を調べる方法",
     "url": "https://qiita.com/deaikei/items/11a10fde5bb47a2cf2c2",
-    "likes_count": 462,
+    "likes_count": 463,
     "created_at": "2016-08-08T00:49:06+09:00",
     "updated_at": "2016-08-08T09:11:03+09:00",
     "id": "deaikei"
@@ -296,20 +296,20 @@
     "id": "0084ken"
   },
   {
+    "title": "Google Sheets のデータを JSON 形式で取得する Web API をサクッと作る",
+    "url": "https://qiita.com/takatama/items/7aa1097aac453fff1d53",
+    "likes_count": 441,
+    "created_at": "2016-08-20T20:24:54+09:00",
+    "updated_at": "2021-03-07T10:47:40+09:00",
+    "id": "takatama"
+  },
+  {
     "title": "AWSのALBがリリースされたので触ってnginxの機能の代わりになるか試してみた",
     "url": "https://qiita.com/t_kawamura/items/1db78b60a94fc809911f",
     "likes_count": 440,
     "created_at": "2016-08-16T14:59:01+09:00",
     "updated_at": "2016-09-09T16:51:54+09:00",
     "id": "t_kawamura"
-  },
-  {
-    "title": "Google Sheets のデータを JSON 形式で取得する Web API をサクッと作る",
-    "url": "https://qiita.com/takatama/items/7aa1097aac453fff1d53",
-    "likes_count": 440,
-    "created_at": "2016-08-20T20:24:54+09:00",
-    "updated_at": "2021-03-07T10:47:40+09:00",
-    "id": "takatama"
   },
   {
     "title": "例外、エラー、異常、そして",
@@ -410,7 +410,7 @@
   {
     "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
     "url": "https://qiita.com/ryo2132/items/63ced19601b3fa30e6de",
-    "likes_count": 334,
+    "likes_count": 335,
     "created_at": "2016-08-12T10:26:11+09:00",
     "updated_at": "2020-05-17T05:29:20+09:00",
     "id": "ryo2132"
@@ -426,7 +426,7 @@
   {
     "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
     "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 315,
+    "likes_count": 316,
     "created_at": "2016-08-04T23:10:37+09:00",
     "updated_at": "2016-08-08T12:50:34+09:00",
     "id": "mpyw"

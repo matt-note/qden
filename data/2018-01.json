@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2513,
+    "likes_count": 2514,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -98,7 +98,7 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 695,
+    "likes_count": 696,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
@@ -114,7 +114,7 @@
   {
     "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
     "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
-    "likes_count": 678,
+    "likes_count": 680,
     "created_at": "2018-01-26T15:42:01+09:00",
     "updated_at": "2021-04-15T08:49:53+09:00",
     "id": "gold-kou"
@@ -210,7 +210,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 538,
+    "likes_count": 540,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -290,7 +290,7 @@
   {
     "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
     "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2018-01-21T01:43:27+09:00",
     "updated_at": "2018-01-21T08:56:25+09:00",
     "id": "ishizakiiii"
@@ -298,7 +298,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
@@ -338,7 +338,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
@@ -392,6 +392,14 @@
     "id": "takjg"
   },
   {
+    "title": "画像を扱う機械学習のためのデータセットまとめ",
+    "url": "https://qiita.com/leetmikeal/items/7c0d23e39bf38ab8be23",
+    "likes_count": 284,
+    "created_at": "2018-01-09T18:37:32+09:00",
+    "updated_at": "2019-02-05T09:40:32+09:00",
+    "id": "leetmikeal"
+  },
+  {
     "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
     "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
     "likes_count": 284,
@@ -400,17 +408,9 @@
     "id": "tomov3"
   },
   {
-    "title": "画像を扱う機械学習のためのデータセットまとめ",
-    "url": "https://qiita.com/leetmikeal/items/7c0d23e39bf38ab8be23",
-    "likes_count": 283,
-    "created_at": "2018-01-09T18:37:32+09:00",
-    "updated_at": "2019-02-05T09:40:32+09:00",
-    "id": "leetmikeal"
-  },
-  {
     "title": "Vim / Vi を終了させる方法",
     "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2018-01-09T22:50:55+09:00",
     "updated_at": "2019-11-01T09:15:26+09:00",
     "id": "kon_yu"

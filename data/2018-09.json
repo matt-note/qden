@@ -10,7 +10,7 @@
   {
     "title": "Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary)",
     "url": "https://qiita.com/wtetsu/items/c43232c6c44918e977c9",
-    "likes_count": 4686,
+    "likes_count": 4690,
     "created_at": "2018-09-05T00:06:08+09:00",
     "updated_at": "2020-12-30T19:38:27+09:00",
     "id": "wtetsu"
@@ -18,7 +18,7 @@
   {
     "title": "個人でも使える！おすすめAPI一覧",
     "url": "https://qiita.com/mikan3rd/items/ba4737023f08bb2ca161",
-    "likes_count": 3945,
+    "likes_count": 3947,
     "created_at": "2018-09-17T21:12:27+09:00",
     "updated_at": "2019-11-07T11:01:15+09:00",
     "id": "mikan3rd"
@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 2381,
+    "likes_count": 2383,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -42,7 +42,7 @@
   {
     "title": "Reactで誰もがやりたかった10の機能。アプリ構想はあるけど作れない人の壁をぶっ壊す。",
     "url": "https://qiita.com/y_kawase/items/8f1b5a303400a09c4923",
-    "likes_count": 1890,
+    "likes_count": 1891,
     "created_at": "2018-09-03T11:52:27+09:00",
     "updated_at": "2019-04-21T16:22:29+09:00",
     "id": "y_kawase"
@@ -50,7 +50,7 @@
   {
     "title": "今から始めるReact入門 〜 React の基本",
     "url": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
-    "likes_count": 1847,
+    "likes_count": 1850,
     "created_at": "2018-09-08T14:12:46+09:00",
     "updated_at": "2021-04-30T23:50:34+09:00",
     "id": "TsutomuNakamura"
@@ -146,7 +146,7 @@
   {
     "title": "Nuxt.jsを使うときに、SPA・SSR・SSGのどれがいいか迷ったら",
     "url": "https://qiita.com/nishinoshake/items/f42e2f03663b00b5886d",
-    "likes_count": 817,
+    "likes_count": 818,
     "created_at": "2018-09-17T20:15:21+09:00",
     "updated_at": "2020-11-22T10:02:30+09:00",
     "id": "nishinoshake"
@@ -282,7 +282,7 @@
   {
     "title": "Python3で競技プログラミングする時に知っておきたいtips（入力編）",
     "url": "https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c",
-    "likes_count": 551,
+    "likes_count": 552,
     "created_at": "2018-09-08T20:13:28+09:00",
     "updated_at": "2019-04-14T12:14:48+09:00",
     "id": "kyuna"
@@ -314,7 +314,7 @@
   {
     "title": "[Pythonコーディング規約]PEP8を読み解く",
     "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
-    "likes_count": 488,
+    "likes_count": 489,
     "created_at": "2018-09-17T01:05:30+09:00",
     "updated_at": "2020-12-12T20:58:41+09:00",
     "id": "simonritchie"
@@ -408,20 +408,20 @@
     "id": "jpnykw"
   },
   {
+    "title": "Chart.jsでグラフを描画してみた",
+    "url": "https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369",
+    "likes_count": 417,
+    "created_at": "2018-09-04T16:23:22+09:00",
+    "updated_at": "2019-04-09T22:23:04+09:00",
+    "id": "Haruka-Ogawa"
+  },
+  {
     "title": "Ajax(非同期通信)についてわかりやすさ重視でまとめてみた(Rails使用のデモ付)",
     "url": "https://qiita.com/motoki0208/items/409ccf256e84017ea307",
     "likes_count": 416,
     "created_at": "2018-09-02T21:04:01+09:00",
     "updated_at": "2018-09-09T12:24:40+09:00",
     "id": "motoki0208"
-  },
-  {
-    "title": "Chart.jsでグラフを描画してみた",
-    "url": "https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369",
-    "likes_count": 415,
-    "created_at": "2018-09-04T16:23:22+09:00",
-    "updated_at": "2019-04-09T22:23:04+09:00",
-    "id": "Haruka-Ogawa"
   },
   {
     "title": "広告IDを使っている覚えがないのにGoogle Playからポリシー違反を通告されたけどFirebaseのせいだった",
@@ -440,20 +440,20 @@
     "id": "koshian2"
   },
   {
+    "title": "その設計、変更に強いですか?単体テストできますか?...そしてクリーンアーキテクチャ ",
+    "url": "https://qiita.com/Sekky0905/items/2436d669ff5d4491c527",
+    "likes_count": 397,
+    "created_at": "2018-09-25T20:33:02+09:00",
+    "updated_at": "2019-11-29T12:59:10+09:00",
+    "id": "Sekky0905"
+  },
+  {
     "title": "React開発環境構築2018",
     "url": "https://qiita.com/tsin1rou/items/6e4ee70b309cc266dcc9",
     "likes_count": 396,
     "created_at": "2018-09-16T02:06:38+09:00",
     "updated_at": "2018-10-02T11:03:20+09:00",
     "id": "tsin1rou"
-  },
-  {
-    "title": "その設計、変更に強いですか?単体テストできますか?...そしてクリーンアーキテクチャ ",
-    "url": "https://qiita.com/Sekky0905/items/2436d669ff5d4491c527",
-    "likes_count": 396,
-    "created_at": "2018-09-25T20:33:02+09:00",
-    "updated_at": "2019-11-29T12:59:10+09:00",
-    "id": "Sekky0905"
   },
   {
     "title": "Python×業務効率化 Automagicaでブラウザを自動で動かしてみた",
@@ -504,20 +504,20 @@
     "id": "inamiy"
   },
   {
+    "title": "今から始めるReact入門 〜 React Router",
+    "url": "https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2",
+    "likes_count": 336,
+    "created_at": "2018-09-09T19:21:12+09:00",
+    "updated_at": "2020-06-14T22:05:03+09:00",
+    "id": "TsutomuNakamura"
+  },
+  {
     "title": "Dockerを使ってLaravel開発環境構築",
     "url": "https://qiita.com/A-Kira/items/1c55ef689c0f91420e81",
     "likes_count": 336,
     "created_at": "2018-09-30T03:04:01+09:00",
     "updated_at": "2020-03-09T13:58:23+09:00",
     "id": "A-Kira"
-  },
-  {
-    "title": "今から始めるReact入門 〜 React Router",
-    "url": "https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2",
-    "likes_count": 335,
-    "created_at": "2018-09-09T19:21:12+09:00",
-    "updated_at": "2020-06-14T22:05:03+09:00",
-    "id": "TsutomuNakamura"
   },
   {
     "title": "Nuxt.js + Netlifyで爆速構築するサーバーレス開発入門",
@@ -562,7 +562,7 @@
   {
     "title": "VS Code でEmmet使ったらHTML書くの速くなった～‼",
     "url": "https://qiita.com/tedkuma/items/67876e6be3369b0e730c",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2018-09-21T14:18:21+09:00",
     "updated_at": "2018-09-25T16:43:47+09:00",
     "id": "tedkuma"

@@ -10,7 +10,7 @@
   {
     "title": "ウェブアプリをソースごとパクる業者に対する対策",
     "url": "https://qiita.com/kacchan6/items/d8576ab6b3c16cf670ca",
-    "likes_count": 1358,
+    "likes_count": 1359,
     "created_at": "2017-11-11T11:06:01+09:00",
     "updated_at": "2017-12-03T23:13:45+09:00",
     "id": "kacchan6"
@@ -26,7 +26,7 @@
   {
     "title": "Webサービス個人開発するなら読みたい情報源13",
     "url": "https://qiita.com/curryperformer-kato/items/a7dc9a41200b6c9c1912",
-    "likes_count": 1159,
+    "likes_count": 1162,
     "created_at": "2017-11-03T00:21:37+09:00",
     "updated_at": "2019-08-29T10:34:58+09:00",
     "id": "curryperformer-kato"
@@ -66,7 +66,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 824,
+    "likes_count": 827,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -74,7 +74,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 793,
+    "likes_count": 794,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -114,7 +114,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 643,
+    "likes_count": 644,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2018-07-15T15:52:26+09:00",
     "id": "ryouzi"
@@ -136,6 +136,14 @@
     "id": "naru0504"
   },
   {
+    "title": "なぜオブジェクト指向は難しいのか",
+    "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
+    "likes_count": 596,
+    "created_at": "2017-11-16T01:47:45+09:00",
+    "updated_at": "2021-01-05T10:16:02+09:00",
+    "id": "tutinoco"
+  },
+  {
     "title": "運用に耐えるRailsによるWebアプリケーションの作り方",
     "url": "https://qiita.com/seri_k/items/605e6f75da838ae00007",
     "likes_count": 596,
@@ -144,17 +152,9 @@
     "id": "seri_k"
   },
   {
-    "title": "なぜオブジェクト指向は難しいのか",
-    "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 594,
-    "created_at": "2017-11-16T01:47:45+09:00",
-    "updated_at": "2021-01-05T10:16:02+09:00",
-    "id": "tutinoco"
-  },
-  {
     "title": "Elmはどんな人にオススメできないか",
     "url": "https://qiita.com/arowM/items/dfb38d1c5f3dfde8b8bf",
-    "likes_count": 593,
+    "likes_count": 594,
     "created_at": "2017-11-29T04:22:40+09:00",
     "updated_at": "2021-02-01T13:19:41+09:00",
     "id": "arowM"
@@ -194,7 +194,7 @@
   {
     "title": "draw.ioでAWSのインフラ構成図を書く",
     "url": "https://qiita.com/nave-m/items/68425f476b254a1a47b0",
-    "likes_count": 525,
+    "likes_count": 526,
     "created_at": "2017-11-12T18:58:16+09:00",
     "updated_at": "2019-11-16T10:19:26+09:00",
     "id": "nave-m"
@@ -202,7 +202,7 @@
   {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
     "url": "https://qiita.com/akameco/items/519f7e4d5442b2a9d2da",
-    "likes_count": 524,
+    "likes_count": 525,
     "created_at": "2017-11-19T03:46:34+09:00",
     "updated_at": "2020-03-23T18:38:33+09:00",
     "id": "akameco"
@@ -338,7 +338,7 @@
   {
     "title": "Railsアプリで Bootstrap 4 を利用する",
     "url": "https://qiita.com/NaokiIshimura/items/c8db09daefff5c11dadf",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2017-11-03T19:54:09+09:00",
     "updated_at": "2019-08-14T16:45:50+09:00",
     "id": "NaokiIshimura"
@@ -378,7 +378,7 @@
   {
     "title": "意味がわかる主成分分析",
     "url": "https://qiita.com/NoriakiOshita/items/460247bb57c22973a5f0",
-    "likes_count": 357,
+    "likes_count": 359,
     "created_at": "2017-11-30T05:00:00+09:00",
     "updated_at": "2021-02-05T07:37:43+09:00",
     "id": "NoriakiOshita"
@@ -394,7 +394,7 @@
   {
     "title": "【Swift】iOSアプリ開発で使える（使いたい）Swiftライブラリー",
     "url": "https://qiita.com/BlueEventHorizon/items/080f1e24a6c3d76a0df8",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2017-11-25T00:37:47+09:00",
     "updated_at": "2019-12-19T18:33:31+09:00",
     "id": "BlueEventHorizon"
@@ -426,7 +426,7 @@
   {
     "title": "C# 今更ですが、await / async",
     "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
-    "likes_count": 315,
+    "likes_count": 316,
     "created_at": "2017-11-30T18:32:10+09:00",
     "updated_at": "2017-12-11T10:31:16+09:00",
     "id": "rawr"
