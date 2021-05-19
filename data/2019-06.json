@@ -50,7 +50,7 @@
   {
     "title": "DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】",
     "url": "https://qiita.com/drken/items/4a7869c5e304883f539b",
-    "likes_count": 1297,
+    "likes_count": 1298,
     "created_at": "2019-06-18T05:39:48+09:00",
     "updated_at": "2020-04-07T23:46:49+09:00",
     "id": "drken"
@@ -82,7 +82,7 @@
   {
     "title": "【初心者向け】NPMとpackage.jsonを概念的に理解する",
     "url": "https://qiita.com/righteous/items/e5448cb2e7e11ab7d477",
-    "likes_count": 1049,
+    "likes_count": 1052,
     "created_at": "2019-06-25T02:06:43+09:00",
     "updated_at": "2020-03-11T19:05:53+09:00",
     "id": "righteous"
@@ -98,7 +98,7 @@
   {
     "title": "Flutter入門のためのDart入門",
     "url": "https://qiita.com/teradonburi/items/913fb8c311b9f2bdb1dd",
-    "likes_count": 978,
+    "likes_count": 980,
     "created_at": "2019-06-23T20:50:04+09:00",
     "updated_at": "2020-09-09T07:34:03+09:00",
     "id": "teradonburi"
@@ -194,7 +194,7 @@
   {
     "title": "Vue.js+SVGで自由にCSSアニメーションしたい人のための完全解説（ソース付き）",
     "url": "https://qiita.com/yuneco/items/1f31418269f9df15cf9f",
-    "likes_count": 656,
+    "likes_count": 655,
     "created_at": "2019-06-30T19:32:58+09:00",
     "updated_at": "2020-10-19T10:38:00+09:00",
     "id": "yuneco"
@@ -226,7 +226,7 @@
   {
     "title": "細かすぎて伝わりにくい、Pythonの本当の落とし穴10選＋α",
     "url": "https://qiita.com/kwatch/items/525b0f85812c7be7c74c",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2019-06-15T22:22:13+09:00",
     "updated_at": "2021-02-17T15:07:08+09:00",
     "id": "kwatch"
@@ -250,7 +250,7 @@
   {
     "title": "いまさらだけどgRPCに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/a1cc2be6045723e242eb",
-    "likes_count": 482,
+    "likes_count": 483,
     "created_at": "2019-06-06T12:39:48+09:00",
     "updated_at": "2020-04-23T20:43:08+09:00",
     "id": "gold-kou"
@@ -258,10 +258,18 @@
   {
     "title": "[Swift] SwiftUIのチートシート",
     "url": "https://qiita.com/hcrane/items/eb847ca7fb7a0b9e8073",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2019-06-06T05:55:37+09:00",
     "updated_at": "2020-09-18T19:58:14+09:00",
     "id": "hcrane"
+  },
+  {
+    "title": "[初心者]オブジェクト指向でなぜつくるのか",
+    "url": "https://qiita.com/IZUMIRU/items/959b43dc9eb4f5cdc202",
+    "likes_count": 481,
+    "created_at": "2019-06-02T16:36:27+09:00",
+    "updated_at": "2019-06-02T16:37:36+09:00",
+    "id": "IZUMIRU"
   },
   {
     "title": "DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【後編】",
@@ -270,14 +278,6 @@
     "created_at": "2019-06-18T05:40:51+09:00",
     "updated_at": "2020-02-02T11:47:08+09:00",
     "id": "drken"
-  },
-  {
-    "title": "[初心者]オブジェクト指向でなぜつくるのか",
-    "url": "https://qiita.com/IZUMIRU/items/959b43dc9eb4f5cdc202",
-    "likes_count": 480,
-    "created_at": "2019-06-02T16:36:27+09:00",
-    "updated_at": "2019-06-02T16:37:36+09:00",
-    "id": "IZUMIRU"
   },
   {
     "title": "データベースにRDBを選択するときの注意事項について考える（追記あり）",
@@ -370,7 +370,7 @@
   {
     "title": "will-changeで目指す60fpsのぬるぬるCSSアニメーション",
     "url": "https://qiita.com/yuneco/items/f07d60ab21dd1de9a51d",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2019-06-09T22:27:07+09:00",
     "updated_at": "2020-08-16T19:50:05+09:00",
     "id": "yuneco"
@@ -450,7 +450,7 @@
   {
     "title": "Redux の記述量多すぎなので、 Redux の公式ツールでとことん楽をする。 ( Redux Toolkit)",
     "url": "https://qiita.com/Ouvill/items/a76e9cbce569d01f2931",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2019-06-13T15:24:54+09:00",
     "updated_at": "2019-11-20T17:03:31+09:00",
     "id": "Ouvill"

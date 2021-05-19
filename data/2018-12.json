@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1736,
+    "likes_count": 1737,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1573,
+    "likes_count": 1575,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -66,7 +66,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1247,
+    "likes_count": 1249,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2020-09-24T16:35:05+09:00",
     "id": "teradonburi"
@@ -82,7 +82,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1167,
+    "likes_count": 1169,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-01-19T22:01:44+09:00",
     "id": "diescake"
@@ -98,7 +98,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1069,
+    "likes_count": 1071,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -130,7 +130,7 @@
   {
     "title": "機械学習/ディープラーニング初心者が2018年にやったこと、読んだ論文",
     "url": "https://qiita.com/koshian2/items/bb4afec12e5dd50aae50",
-    "likes_count": 980,
+    "likes_count": 981,
     "created_at": "2018-12-31T12:55:48+09:00",
     "updated_at": "2018-12-31T14:27:33+09:00",
     "id": "koshian2"
@@ -138,7 +138,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 967,
+    "likes_count": 968,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -170,7 +170,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 946,
+    "likes_count": 947,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -184,20 +184,20 @@
     "id": "yumetodo"
   },
   {
+    "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
+    "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
+    "likes_count": 883,
+    "created_at": "2018-12-17T11:20:33+09:00",
+    "updated_at": "2020-01-16T15:47:34+09:00",
+    "id": "APPLE4869"
+  },
+  {
     "title": "Reactベース静的サイトジェネレータGatsbyの真の力をお見せします",
     "url": "https://qiita.com/uehaj/items/1b7f0a86596353587466",
     "likes_count": 883,
     "created_at": "2018-12-21T18:18:40+09:00",
     "updated_at": "2021-01-28T18:23:11+09:00",
     "id": "uehaj"
-  },
-  {
-    "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
-    "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 882,
-    "created_at": "2018-12-17T11:20:33+09:00",
-    "updated_at": "2020-01-16T15:47:34+09:00",
-    "id": "APPLE4869"
   },
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
@@ -218,7 +218,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 790,
+    "likes_count": 791,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -234,7 +234,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 683,
+    "likes_count": 685,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -354,7 +354,7 @@
   {
     "title": "スマホ向けサイトをアプリっぽく見せるために半年間頑張ったことをまとめる",
     "url": "https://qiita.com/sadnessOjisan/items/3b21d27cdab0665c0720",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2018-12-20T10:52:45+09:00",
     "updated_at": "2018-12-22T17:17:16+09:00",
     "id": "sadnessOjisan"
@@ -474,7 +474,7 @@
   {
     "title": "GCPとDockerでKaggle用計算環境構築",
     "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2018-12-20T19:03:59+09:00",
     "updated_at": "2018-12-21T01:51:55+09:00",
     "id": "lain21"
@@ -538,7 +538,7 @@
   {
     "title": "Herokuを使いこなすのに必要な術",
     "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2018-12-04T18:58:45+09:00",
     "updated_at": "2019-01-29T22:10:42+09:00",
     "id": "fuwamaki"
@@ -546,7 +546,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 365,
+    "likes_count": 366,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -586,7 +586,7 @@
   {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -616,6 +616,14 @@
     "id": "tsin1rou"
   },
   {
+    "title": "Flutterで1年間開発して利用した使えるライブラリ",
+    "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
+    "likes_count": 333,
+    "created_at": "2018-12-21T19:15:21+09:00",
+    "updated_at": "2019-07-30T14:29:43+09:00",
+    "id": "ko2ic"
+  },
+  {
     "title": "ドメイン駆動設計を勉強するときのオススメ資料",
     "url": "https://qiita.com/dora56/items/db8495fac3fbc6cd2569",
     "likes_count": 332,
@@ -624,17 +632,9 @@
     "id": "dora56"
   },
   {
-    "title": "Flutterで1年間開発して利用した使えるライブラリ",
-    "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
-    "likes_count": 332,
-    "created_at": "2018-12-21T19:15:21+09:00",
-    "updated_at": "2019-07-30T14:29:43+09:00",
-    "id": "ko2ic"
-  },
-  {
     "title": "SOLID原則について簡単に書く",
     "url": "https://qiita.com/yui_mop/items/93fef037a787318e7067",
-    "likes_count": 328,
+    "likes_count": 330,
     "created_at": "2018-12-08T16:42:44+09:00",
     "updated_at": "2020-01-15T16:33:13+09:00",
     "id": "yui_mop"

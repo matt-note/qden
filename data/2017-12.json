@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5473,
+    "likes_count": 5474,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1463,
+    "likes_count": 1464,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -122,7 +122,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 862,
+    "likes_count": 864,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -202,7 +202,7 @@
   {
     "title": "半年で40kg痩せた！ダイエットでわかるリーンなプロジェクトマネジメント手法",
     "url": "https://qiita.com/hirokidaichi/items/9422841b5972b3a5664c",
-    "likes_count": 763,
+    "likes_count": 764,
     "created_at": "2017-12-24T23:36:26+09:00",
     "updated_at": "2017-12-25T16:04:16+09:00",
     "id": "hirokidaichi"
@@ -216,6 +216,14 @@
     "id": "sakaizay"
   },
   {
+    "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
+    "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
+    "likes_count": 740,
+    "created_at": "2017-12-22T00:03:45+09:00",
+    "updated_at": "2018-03-05T16:54:15+09:00",
+    "id": "suigin"
+  },
+  {
     "title": "割と突き詰めてやったvim→vscode移行",
     "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
     "likes_count": 739,
@@ -224,17 +232,9 @@
     "id": "y-mattun"
   },
   {
-    "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
-    "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 739,
-    "created_at": "2017-12-22T00:03:45+09:00",
-    "updated_at": "2018-03-05T16:54:15+09:00",
-    "id": "suigin"
-  },
-  {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
     "url": "https://qiita.com/bokuweb/items/1575337bef44ae82f4d3",
-    "likes_count": 709,
+    "likes_count": 710,
     "created_at": "2017-12-18T10:54:24+09:00",
     "updated_at": "2020-02-12T11:34:17+09:00",
     "id": "bokuweb"
@@ -250,7 +250,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 693,
+    "likes_count": 694,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -258,7 +258,7 @@
   {
     "title": "CTOのやるべきことは何なのか？（翻訳と考察）",
     "url": "https://qiita.com/takano1222/items/ef897b2156067688f3ae",
-    "likes_count": 690,
+    "likes_count": 691,
     "created_at": "2017-12-09T17:48:32+09:00",
     "updated_at": "2017-12-14T12:41:19+09:00",
     "id": "takano1222"
@@ -290,7 +290,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 609,
+    "likes_count": 608,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -298,7 +298,7 @@
   {
     "title": "Dialogflow入門",
     "url": "https://qiita.com/kenz_firespeed/items/0979ceb05e4e3299f313",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2017-12-08T14:12:23+09:00",
     "updated_at": "2018-01-24T12:29:19+09:00",
     "id": "kenz_firespeed"
@@ -338,7 +338,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 558,
+    "likes_count": 559,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -426,7 +426,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -514,7 +514,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2021-02-20T14:11:08+09:00",
     "id": "sorami"
@@ -522,7 +522,7 @@
   {
     "title": "やはりお前らの真偽値メソッド名は間違っている。 〜「Xxx できる？」系メソッドの命名〜",
     "url": "https://qiita.com/lovee/items/aa2125eb0bce4a9dde1f",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2017-12-07T03:34:42+09:00",
     "updated_at": "2017-12-08T13:27:28+09:00",
     "id": "lovee"
@@ -546,7 +546,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -648,20 +648,20 @@
     "id": "ZoneTsuyoshi"
   },
   {
+    "title": "WebRTCでビデオチャットアプリを作ってみた！",
+    "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
+    "likes_count": 342,
+    "created_at": "2017-12-21T21:30:58+09:00",
+    "updated_at": "2019-01-06T14:01:57+09:00",
+    "id": "lighthouse"
+  },
+  {
     "title": "会議/ミーティングについて本気出して考えて見た結果",
     "url": "https://qiita.com/nh321/items/051fc2f666261e8ee4f0",
     "likes_count": 341,
     "created_at": "2017-12-10T22:57:31+09:00",
     "updated_at": "2017-12-21T20:23:43+09:00",
     "id": "nh321"
-  },
-  {
-    "title": "WebRTCでビデオチャットアプリを作ってみた！",
-    "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
-    "likes_count": 341,
-    "created_at": "2017-12-21T21:30:58+09:00",
-    "updated_at": "2019-01-06T14:01:57+09:00",
-    "id": "lighthouse"
   },
   {
     "title": "Kaggleの練習問題（Regression）を解いてKagglerになる",
@@ -722,10 +722,18 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
+  },
+  {
+    "title": "pythonでのcsvファイルの読み込み",
+    "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
+    "likes_count": 311,
+    "created_at": "2017-12-16T21:28:42+09:00",
+    "updated_at": "2017-12-16T21:28:42+09:00",
+    "id": "motoki1990"
   },
   {
     "title": "あのサイトで使われている技術を調べる",
@@ -734,14 +742,6 @@
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2021-04-17T12:31:45+09:00",
     "id": "nightyknite"
-  },
-  {
-    "title": "pythonでのcsvファイルの読み込み",
-    "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 310,
-    "created_at": "2017-12-16T21:28:42+09:00",
-    "updated_at": "2017-12-16T21:28:42+09:00",
-    "id": "motoki1990"
   },
   {
     "title": "使うと手放せなくなるSwift Extension集 (Swift 4版)",
@@ -762,7 +762,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 284,
+    "likes_count": 286,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
