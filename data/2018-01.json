@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2540,
+    "likes_count": 2542,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2515,
+    "likes_count": 2517,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -98,7 +98,7 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 696,
+    "likes_count": 697,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
@@ -122,7 +122,7 @@
   {
     "title": "‪実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！‬",
     "url": "https://qiita.com/drken/items/e805e3f514acceb87602",
-    "likes_count": 664,
+    "likes_count": 665,
     "created_at": "2018-01-31T10:06:42+09:00",
     "updated_at": "2020-02-06T18:15:46+09:00",
     "id": "drken"
@@ -154,7 +154,7 @@
   {
     "title": "Googleフォームを自在にカスタマイズする",
     "url": "https://qiita.com/sotatakahashi/items/fa077cbf820faca30598",
-    "likes_count": 629,
+    "likes_count": 631,
     "created_at": "2018-01-30T17:17:25+09:00",
     "updated_at": "2020-02-27T15:04:23+09:00",
     "id": "sotatakahashi"
@@ -264,6 +264,14 @@
     "id": "akisx"
   },
   {
+    "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
+    "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
+    "likes_count": 426,
+    "created_at": "2018-01-10T20:19:27+09:00",
+    "updated_at": "2019-04-20T22:30:46+09:00",
+    "id": "zd6ir7"
+  },
+  {
     "title": "anyenv + macOS環境構築",
     "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
     "likes_count": 426,
@@ -274,18 +282,10 @@
   {
     "title": "viコマンド（vimコマンド）リファレンス",
     "url": "https://qiita.com/pe-ta/items/0510bee10bcfd88afeee",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2018-01-23T13:50:14+09:00",
     "updated_at": "2020-04-20T19:10:29+09:00",
     "id": "pe-ta"
-  },
-  {
-    "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
-    "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
-    "likes_count": 424,
-    "created_at": "2018-01-10T20:19:27+09:00",
-    "updated_at": "2019-04-20T22:30:46+09:00",
-    "id": "zd6ir7"
   },
   {
     "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",

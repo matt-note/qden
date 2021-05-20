@@ -82,7 +82,7 @@
   {
     "title": "【初心者向け】NPMとpackage.jsonを概念的に理解する",
     "url": "https://qiita.com/righteous/items/e5448cb2e7e11ab7d477",
-    "likes_count": 1052,
+    "likes_count": 1053,
     "created_at": "2019-06-25T02:06:43+09:00",
     "updated_at": "2020-03-11T19:05:53+09:00",
     "id": "righteous"
@@ -98,7 +98,7 @@
   {
     "title": "Flutter入門のためのDart入門",
     "url": "https://qiita.com/teradonburi/items/913fb8c311b9f2bdb1dd",
-    "likes_count": 980,
+    "likes_count": 983,
     "created_at": "2019-06-23T20:50:04+09:00",
     "updated_at": "2020-09-09T07:34:03+09:00",
     "id": "teradonburi"
@@ -122,7 +122,7 @@
   {
     "title": "Flutter:Widget一覧",
     "url": "https://qiita.com/matsukatsu/items/e289e30231fffb1e4502",
-    "likes_count": 857,
+    "likes_count": 859,
     "created_at": "2019-06-09T12:49:55+09:00",
     "updated_at": "2020-10-09T11:38:43+09:00",
     "id": "matsukatsu"
@@ -138,7 +138,7 @@
   {
     "title": "魔法使いになりたい人のためのシェーダーライブコーディング入門",
     "url": "https://qiita.com/kaneta1992/items/21149c78159bd27e0860",
-    "likes_count": 744,
+    "likes_count": 745,
     "created_at": "2019-06-20T08:13:05+09:00",
     "updated_at": "2019-07-08T23:51:56+09:00",
     "id": "kaneta1992"
@@ -248,6 +248,14 @@
     "id": "Mister_K"
   },
   {
+    "title": "[Swift] SwiftUIのチートシート",
+    "url": "https://qiita.com/hcrane/items/eb847ca7fb7a0b9e8073",
+    "likes_count": 483,
+    "created_at": "2019-06-06T05:55:37+09:00",
+    "updated_at": "2020-09-18T19:58:14+09:00",
+    "id": "hcrane"
+  },
+  {
     "title": "いまさらだけどgRPCに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/a1cc2be6045723e242eb",
     "likes_count": 483,
@@ -256,17 +264,9 @@
     "id": "gold-kou"
   },
   {
-    "title": "[Swift] SwiftUIのチートシート",
-    "url": "https://qiita.com/hcrane/items/eb847ca7fb7a0b9e8073",
-    "likes_count": 482,
-    "created_at": "2019-06-06T05:55:37+09:00",
-    "updated_at": "2020-09-18T19:58:14+09:00",
-    "id": "hcrane"
-  },
-  {
     "title": "[初心者]オブジェクト指向でなぜつくるのか",
     "url": "https://qiita.com/IZUMIRU/items/959b43dc9eb4f5cdc202",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2019-06-02T16:36:27+09:00",
     "updated_at": "2019-06-02T16:37:36+09:00",
     "id": "IZUMIRU"
@@ -298,7 +298,7 @@
   {
     "title": "bundle install時に--path vendor/bundleを付ける必要性は本当にあるのか、もう一度よく考えてみよう",
     "url": "https://qiita.com/jnchito/items/99b1dbea1767a5095d85",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2019-06-06T10:06:54+09:00",
     "updated_at": "2019-06-07T09:51:11+09:00",
     "id": "jnchito"
@@ -354,7 +354,7 @@
   {
     "title": "はじめてのvue-property-decorator (nuxtにも対応）",
     "url": "https://qiita.com/simochee/items/e5b77af4aa36bd0f32e5",
-    "likes_count": 435,
+    "likes_count": 437,
     "created_at": "2019-06-27T19:55:13+09:00",
     "updated_at": "2020-06-05T22:41:37+09:00",
     "id": "simochee"

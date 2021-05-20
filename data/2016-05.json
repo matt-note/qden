@@ -10,7 +10,7 @@
   {
     "title": "Reactを使うとなぜjQueryが要らなくなるのか",
     "url": "https://qiita.com/naruto/items/fdb61bc743395f8d8faf",
-    "likes_count": 4369,
+    "likes_count": 4371,
     "created_at": "2016-05-09T11:45:42+09:00",
     "updated_at": "2020-08-13T19:13:42+09:00",
     "id": "naruto"
@@ -90,7 +90,7 @@
   {
     "title": "ちゃんと使い分けてる? dependenciesいろいろ。",
     "url": "https://qiita.com/cognitom/items/acc3ffcbca4c56cf2b95",
-    "likes_count": 968,
+    "likes_count": 969,
     "created_at": "2016-05-09T18:27:57+09:00",
     "updated_at": "2016-05-09T22:51:53+09:00",
     "id": "cognitom"
@@ -218,7 +218,7 @@
   {
     "title": "Googleスプレッドシートをプログラムから操作",
     "url": "https://qiita.com/howdy39/items/ca719537bba676dce1cf",
-    "likes_count": 581,
+    "likes_count": 582,
     "created_at": "2016-05-22T03:02:07+09:00",
     "updated_at": "2018-05-17T19:46:55+09:00",
     "id": "howdy39"
@@ -346,7 +346,7 @@
   {
     "title": "C++erを簡易的にレベル分けすることで初心者詐欺を減らそうという試み",
     "url": "https://qiita.com/yumetodo/items/a843bd542106215bbc84",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2016-05-12T01:34:08+09:00",
     "updated_at": "2021-04-02T23:44:13+09:00",
     "id": "yumetodo"
@@ -386,7 +386,7 @@
   {
     "title": "ASP.NET 入門の書",
     "url": "https://qiita.com/Kei18/items/1a9b936216bd2458ec08",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2016-06-01T01:39:21+09:00",
     "updated_at": "2016-06-01T01:39:21+09:00",
     "id": "Kei18"
@@ -402,7 +402,7 @@
   {
     "title": "step by stepで始めるKarma",
     "url": "https://qiita.com/howdy39/items/b9d704e7f84053924da3",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2016-05-16T22:31:05+09:00",
     "updated_at": "2016-12-25T20:15:55+09:00",
     "id": "howdy39"
@@ -456,20 +456,20 @@
     "id": "tomoima525"
   },
   {
+    "title": "FirebaseでWebサイトを無料でサクッと公開してみる",
+    "url": "https://qiita.com/Ijoru/items/5b27f1c32df2222514fb",
+    "likes_count": 305,
+    "created_at": "2016-05-19T12:29:55+09:00",
+    "updated_at": "2020-01-09T14:54:02+09:00",
+    "id": "Ijoru"
+  },
+  {
     "title": "PHPとMySQLで新規登録とログインを実装する(PDO使用)",
     "url": "https://qiita.com/KosukeQiita/items/b56b3004413c999b9858",
     "likes_count": 304,
     "created_at": "2016-05-15T17:53:27+09:00",
     "updated_at": "2018-04-07T18:53:45+09:00",
     "id": "KosukeQiita"
-  },
-  {
-    "title": "FirebaseでWebサイトを無料でサクッと公開してみる",
-    "url": "https://qiita.com/Ijoru/items/5b27f1c32df2222514fb",
-    "likes_count": 304,
-    "created_at": "2016-05-19T12:29:55+09:00",
-    "updated_at": "2020-01-09T14:54:02+09:00",
-    "id": "Ijoru"
   },
   {
     "title": "Spring MVC(+Spring Boot)上での静的リソースへのアクセスを理解する",
@@ -488,20 +488,20 @@
     "id": "greymd"
   },
   {
+    "title": "WebAPI学習ソースまとめ",
+    "url": "https://qiita.com/y-some/items/7e05540d7563f7c1c101",
+    "likes_count": 289,
+    "created_at": "2016-05-19T06:48:00+09:00",
+    "updated_at": "2017-05-08T21:41:05+09:00",
+    "id": "y-some"
+  },
+  {
     "title": "Rのフロントエンドということで話題になっている、Exploratoryの対話的なデータ分析環境で「ヨーロッパはほんとに女性が活躍しやすい社会か」どうか分析してみた",
     "url": "https://qiita.com/21-Hidetaka-Ko/items/a7e2e87f46f82915c356",
     "likes_count": 288,
     "created_at": "2016-05-10T15:43:06+09:00",
     "updated_at": "2016-09-28T11:57:45+09:00",
     "id": "21-Hidetaka-Ko"
-  },
-  {
-    "title": "WebAPI学習ソースまとめ",
-    "url": "https://qiita.com/y-some/items/7e05540d7563f7c1c101",
-    "likes_count": 288,
-    "created_at": "2016-05-19T06:48:00+09:00",
-    "updated_at": "2017-05-08T21:41:05+09:00",
-    "id": "y-some"
   },
   {
     "title": "new FirebaseとReact NativeでiOS, Android向けチャットを５分で作る",

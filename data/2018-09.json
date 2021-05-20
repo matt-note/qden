@@ -2,7 +2,7 @@
   {
     "title": "VSCodeのオススメ拡張機能 24 選   (とTipsをいくつか)",
     "url": "https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234",
-    "likes_count": 5333,
+    "likes_count": 5335,
     "created_at": "2018-09-30T14:57:40+09:00",
     "updated_at": "2020-02-09T01:38:33+09:00",
     "id": "sensuikan1973"
@@ -10,7 +10,7 @@
   {
     "title": "Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary)",
     "url": "https://qiita.com/wtetsu/items/c43232c6c44918e977c9",
-    "likes_count": 4691,
+    "likes_count": 4692,
     "created_at": "2018-09-05T00:06:08+09:00",
     "updated_at": "2020-12-30T19:38:27+09:00",
     "id": "wtetsu"
@@ -18,7 +18,7 @@
   {
     "title": "個人でも使える！おすすめAPI一覧",
     "url": "https://qiita.com/mikan3rd/items/ba4737023f08bb2ca161",
-    "likes_count": 3948,
+    "likes_count": 3950,
     "created_at": "2018-09-17T21:12:27+09:00",
     "updated_at": "2019-11-07T11:01:15+09:00",
     "id": "mikan3rd"
@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 2387,
+    "likes_count": 2391,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -42,7 +42,7 @@
   {
     "title": "Reactで誰もがやりたかった10の機能。アプリ構想はあるけど作れない人の壁をぶっ壊す。",
     "url": "https://qiita.com/y_kawase/items/8f1b5a303400a09c4923",
-    "likes_count": 1891,
+    "likes_count": 1892,
     "created_at": "2018-09-03T11:52:27+09:00",
     "updated_at": "2019-04-21T16:22:29+09:00",
     "id": "y_kawase"
@@ -50,7 +50,7 @@
   {
     "title": "今から始めるReact入門 〜 React の基本",
     "url": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
-    "likes_count": 1851,
+    "likes_count": 1853,
     "created_at": "2018-09-08T14:12:46+09:00",
     "updated_at": "2021-04-30T23:50:34+09:00",
     "id": "TsutomuNakamura"
@@ -98,10 +98,18 @@
   {
     "title": "フリーランスエンジニアの単価を決める",
     "url": "https://qiita.com/KazukiTanaka/items/130a2c477847b24e35ce",
-    "likes_count": 1383,
+    "likes_count": 1384,
     "created_at": "2018-09-03T11:20:09+09:00",
     "updated_at": "2018-09-06T11:24:40+09:00",
     "id": "KazukiTanaka"
+  },
+  {
+    "title": "[Python] プログラム初心者のためのWebアプリ簡単作成法",
+    "url": "https://qiita.com/okoppe8/items/4cc0f87ea933749f5a49",
+    "likes_count": 972,
+    "created_at": "2018-09-27T15:04:46+09:00",
+    "updated_at": "2018-09-28T14:14:51+09:00",
+    "id": "okoppe8"
   },
   {
     "title": "プログラミングが大好きなWeb系エンジニアの50代以降のキャリアに関する考察",
@@ -110,14 +118,6 @@
     "created_at": "2018-09-01T18:40:18+09:00",
     "updated_at": "2019-03-11T19:38:20+09:00",
     "id": "poly_soft"
-  },
-  {
-    "title": "[Python] プログラム初心者のためのWebアプリ簡単作成法",
-    "url": "https://qiita.com/okoppe8/items/4cc0f87ea933749f5a49",
-    "likes_count": 970,
-    "created_at": "2018-09-27T15:04:46+09:00",
-    "updated_at": "2018-09-28T14:14:51+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "Webページの高速化/最適化まとめ",
@@ -226,7 +226,7 @@
   {
     "title": "SSHの公開鍵認証における良くある誤解の話",
     "url": "https://qiita.com/angel_p_57/items/2e3f3f8661de32a0d432",
-    "likes_count": 596,
+    "likes_count": 601,
     "created_at": "2018-09-17T21:58:02+09:00",
     "updated_at": "2018-09-17T21:58:02+09:00",
     "id": "angel_p_57"
@@ -242,7 +242,7 @@
   {
     "title": "機械学習／ディープラーニングにおけるバッチサイズ、イテレーション数、エポック数の決め方",
     "url": "https://qiita.com/kenta1984/items/bad75a37d552510e4682",
-    "likes_count": 587,
+    "likes_count": 588,
     "created_at": "2018-09-21T23:14:49+09:00",
     "updated_at": "2020-06-09T22:33:54+09:00",
     "id": "kenta1984"
@@ -306,7 +306,7 @@
   {
     "title": "[Pythonコーディング規約]PEP8を読み解く",
     "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
-    "likes_count": 492,
+    "likes_count": 494,
     "created_at": "2018-09-17T01:05:30+09:00",
     "updated_at": "2020-12-12T20:58:41+09:00",
     "id": "simonritchie"
@@ -314,7 +314,7 @@
   {
     "title": "Jupyter/Pythonでデータ分析する人にお勧めしたい！便利なライブラリー「PixieDust」をザクッと紹介します",
     "url": "https://qiita.com/ishida330/items/53f1b0df2247fab5c6dd",
-    "likes_count": 489,
+    "likes_count": 490,
     "created_at": "2018-09-08T17:35:35+09:00",
     "updated_at": "2018-09-08T17:49:49+09:00",
     "id": "ishida330"
@@ -330,7 +330,7 @@
   {
     "title": "最新のRegion CNN(R-CNN)を用いた物体検出入門 ~物体検出とは? R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN~",
     "url": "https://qiita.com/arutema47/items/8ff629a1516f7fd485f9",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2018-09-17T10:57:35+09:00",
     "updated_at": "2021-02-16T15:02:34+09:00",
     "id": "arutema47"
@@ -400,20 +400,20 @@
     "id": "turmericN"
   },
   {
+    "title": "Chart.jsでグラフを描画してみた",
+    "url": "https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369",
+    "likes_count": 418,
+    "created_at": "2018-09-04T16:23:22+09:00",
+    "updated_at": "2019-04-09T22:23:04+09:00",
+    "id": "Haruka-Ogawa"
+  },
+  {
     "title": "JavaScript初心者にclassを伝える",
     "url": "https://qiita.com/jpnykw/items/248f99c94c00c3d1aa27",
     "likes_count": 418,
     "created_at": "2018-09-15T20:25:44+09:00",
     "updated_at": "2018-09-18T16:32:41+09:00",
     "id": "jpnykw"
-  },
-  {
-    "title": "Chart.jsでグラフを描画してみた",
-    "url": "https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369",
-    "likes_count": 417,
-    "created_at": "2018-09-04T16:23:22+09:00",
-    "updated_at": "2019-04-09T22:23:04+09:00",
-    "id": "Haruka-Ogawa"
   },
   {
     "title": "Ajax(非同期通信)についてわかりやすさ重視でまとめてみた(Rails使用のデモ付)",

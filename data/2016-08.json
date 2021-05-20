@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1650,
+    "likes_count": 1651,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -34,7 +34,7 @@
   {
     "title": "CSSアニメーション 入門",
     "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
-    "likes_count": 1489,
+    "likes_count": 1492,
     "created_at": "2016-08-19T00:50:02+09:00",
     "updated_at": "2021-04-26T22:09:17+09:00",
     "id": "soarflat"
@@ -66,7 +66,7 @@
   {
     "title": "【PHP超入門】Cookieとセッションについて",
     "url": "https://qiita.com/7968/items/ce03feb17c8eaa6e4672",
-    "likes_count": 1089,
+    "likes_count": 1091,
     "created_at": "2016-08-22T00:45:10+09:00",
     "updated_at": "2020-04-15T08:44:16+09:00",
     "id": "7968"
@@ -122,7 +122,7 @@
   {
     "title": "Service Workerの基本とそれを使ってできること",
     "url": "https://qiita.com/y_fujieda/items/f9e765ac9d89ba241154",
-    "likes_count": 806,
+    "likes_count": 807,
     "created_at": "2016-08-31T16:38:50+09:00",
     "updated_at": "2016-08-31T16:38:50+09:00",
     "id": "y_fujieda"
@@ -154,7 +154,7 @@
   {
     "title": "[Deprecated] Go CodeReviewComments 日本語翻訳 #golang ",
     "url": "https://qiita.com/knsh14/items/8b73b31822c109d4c497",
-    "likes_count": 669,
+    "likes_count": 671,
     "created_at": "2016-08-18T10:48:47+09:00",
     "updated_at": "2020-04-09T12:33:00+09:00",
     "id": "knsh14"
@@ -354,7 +354,7 @@
   {
     "title": "資料で使う技術/プロダクトロゴのリンク集",
     "url": "https://qiita.com/tkit/items/932316c5f5f7b162b61e",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2016-08-11T17:05:59+09:00",
     "updated_at": "2021-03-21T20:27:55+09:00",
     "id": "tkit"
@@ -362,10 +362,18 @@
   {
     "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
     "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
-    "likes_count": 363,
+    "likes_count": 364,
     "created_at": "2016-08-30T17:27:15+09:00",
     "updated_at": "2020-02-07T14:34:31+09:00",
     "id": "t-a-run"
+  },
+  {
+    "title": "[Python] importの躓きどころ",
+    "url": "https://qiita.com/ysk24ok/items/2711295d83218c699276",
+    "likes_count": 362,
+    "created_at": "2016-08-14T23:15:03+09:00",
+    "updated_at": "2017-06-09T09:00:13+09:00",
+    "id": "ysk24ok"
   },
   {
     "title": "Github issue で質問してはいけない",
@@ -374,14 +382,6 @@
     "created_at": "2016-08-08T12:03:10+09:00",
     "updated_at": "2016-08-09T18:27:39+09:00",
     "id": "methane"
-  },
-  {
-    "title": "[Python] importの躓きどころ",
-    "url": "https://qiita.com/ysk24ok/items/2711295d83218c699276",
-    "likes_count": 360,
-    "created_at": "2016-08-14T23:15:03+09:00",
-    "updated_at": "2017-06-09T09:00:13+09:00",
-    "id": "ysk24ok"
   },
   {
     "title": "Laravelでテストコードを書くためのチュートリアル",
@@ -418,7 +418,7 @@
   {
     "title": "最適化におけるPython",
     "url": "https://qiita.com/SaitoTsutomu/items/070ca9cb37c6b2b492f0",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2016-08-18T17:17:48+09:00",
     "updated_at": "2021-03-30T12:39:04+09:00",
     "id": "SaitoTsutomu"
@@ -440,20 +440,20 @@
     "id": "shizuma"
   },
   {
+    "title": "クラスタ数を自動推定するX-means法を調べてみた",
+    "url": "https://qiita.com/deaikei/items/8615362d320c76e2ce0b",
+    "likes_count": 295,
+    "created_at": "2016-08-21T18:48:58+09:00",
+    "updated_at": "2016-08-22T09:22:33+09:00",
+    "id": "deaikei"
+  },
+  {
     "title": "Gitの基礎",
     "url": "https://qiita.com/satoshi1335/items/ead109412430a078feaa",
     "likes_count": 294,
     "created_at": "2016-08-14T02:12:21+09:00",
     "updated_at": "2017-09-12T00:16:57+09:00",
     "id": "satoshi1335"
-  },
-  {
-    "title": "クラスタ数を自動推定するX-means法を調べてみた",
-    "url": "https://qiita.com/deaikei/items/8615362d320c76e2ce0b",
-    "likes_count": 294,
-    "created_at": "2016-08-21T18:48:58+09:00",
-    "updated_at": "2016-08-22T09:22:33+09:00",
-    "id": "deaikei"
   },
   {
     "title": "Django入門にはDjango Girls Tutorialがおすすめ",
