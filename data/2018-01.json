@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2517,
+    "likes_count": 2519,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -98,7 +98,7 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 697,
+    "likes_count": 698,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
@@ -106,7 +106,7 @@
   {
     "title": "ノンデザイナーでもイケてるLPを作成する方法",
     "url": "https://qiita.com/teradonburi/items/412f65147525ff34dbbd",
-    "likes_count": 691,
+    "likes_count": 692,
     "created_at": "2018-01-03T12:38:52+09:00",
     "updated_at": "2018-12-24T17:21:21+09:00",
     "id": "teradonburi"
@@ -114,7 +114,7 @@
   {
     "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
     "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
-    "likes_count": 680,
+    "likes_count": 681,
     "created_at": "2018-01-26T15:42:01+09:00",
     "updated_at": "2021-04-15T08:49:53+09:00",
     "id": "gold-kou"
@@ -258,10 +258,18 @@
   {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 430,
+    "likes_count": 431,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
+  },
+  {
+    "title": "anyenv + macOS環境構築",
+    "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
+    "likes_count": 427,
+    "created_at": "2018-01-12T14:53:20+09:00",
+    "updated_at": "2021-02-09T14:54:39+09:00",
+    "id": "rinpa"
   },
   {
     "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
@@ -270,14 +278,6 @@
     "created_at": "2018-01-10T20:19:27+09:00",
     "updated_at": "2019-04-20T22:30:46+09:00",
     "id": "zd6ir7"
-  },
-  {
-    "title": "anyenv + macOS環境構築",
-    "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
-    "likes_count": 426,
-    "created_at": "2018-01-12T14:53:20+09:00",
-    "updated_at": "2021-02-09T14:54:39+09:00",
-    "id": "rinpa"
   },
   {
     "title": "viコマンド（vimコマンド）リファレンス",
@@ -338,7 +338,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 369,
+    "likes_count": 370,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"

@@ -2,7 +2,7 @@
   {
     "title": "なんとなく CORS がわかる...はもう終わりにする。",
     "url": "https://qiita.com/att55/items/2154a8aad8bf1409db2b",
-    "likes_count": 1536,
+    "likes_count": 1539,
     "created_at": "2019-08-15T01:24:06+09:00",
     "updated_at": "2020-09-14T10:27:14+09:00",
     "id": "att55"
@@ -50,7 +50,7 @@
   {
     "title": "UIコンポーネントにはマージンをつけるな！絶対にだ！！",
     "url": "https://qiita.com/otsukayuhi/items/d88b5158745f700be534",
-    "likes_count": 850,
+    "likes_count": 851,
     "created_at": "2019-09-01T00:34:31+09:00",
     "updated_at": "2019-09-02T16:42:15+09:00",
     "id": "otsukayuhi"
@@ -138,7 +138,7 @@
   {
     "title": "Spring Framework / Spring Bootに入門する人はまずこの資料を読もう！ #jsug",
     "url": "https://qiita.com/suke_masa/items/9dd3300c3190d6445ff8",
-    "likes_count": 555,
+    "likes_count": 557,
     "created_at": "2019-08-29T14:27:43+09:00",
     "updated_at": "2020-02-07T22:40:24+09:00",
     "id": "suke_masa"
@@ -194,7 +194,7 @@
   {
     "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
     "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2019-08-23T18:43:20+09:00",
     "updated_at": "2020-08-12T16:41:47+09:00",
     "id": "tegnike"
@@ -272,20 +272,20 @@
     "id": "Syoitu"
   },
   {
+    "title": "Rails6 開発時につまづきそうな webpacker, yarn 関係のエラーと解決方法",
+    "url": "https://qiita.com/NaokiIshimura/items/8203f74f8dfd5f6b87a0",
+    "likes_count": 338,
+    "created_at": "2019-08-10T11:48:15+09:00",
+    "updated_at": "2020-07-04T13:49:44+09:00",
+    "id": "NaokiIshimura"
+  },
+  {
     "title": "Vue.jsとCSSアニメーションでラーメンタイマーを作る + Firebaseで簡単公開",
     "url": "https://qiita.com/aocattleya/items/3faa42b5d27a0f608785",
     "likes_count": 337,
     "created_at": "2019-08-27T19:35:27+09:00",
     "updated_at": "2021-01-27T02:22:42+09:00",
     "id": "aocattleya"
-  },
-  {
-    "title": "Rails6 開発時につまづきそうな webpacker, yarn 関係のエラーと解決方法",
-    "url": "https://qiita.com/NaokiIshimura/items/8203f74f8dfd5f6b87a0",
-    "likes_count": 334,
-    "created_at": "2019-08-10T11:48:15+09:00",
-    "updated_at": "2020-07-04T13:49:44+09:00",
-    "id": "NaokiIshimura"
   },
   {
     "title": "「ただのプログラマ」で終わらないためには",
@@ -322,7 +322,7 @@
   {
     "title": "機械学習にとって大切なことは全部MSE(平均二乗誤差)が教えてくれた",
     "url": "https://qiita.com/riversun/items/b691cc0fa8a8a8f42013",
-    "likes_count": 271,
+    "likes_count": 273,
     "created_at": "2019-08-26T07:54:17+09:00",
     "updated_at": "2020-12-18T16:44:17+09:00",
     "id": "riversun"

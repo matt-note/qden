@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1651,
+    "likes_count": 1653,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -34,7 +34,7 @@
   {
     "title": "CSSアニメーション 入門",
     "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
-    "likes_count": 1492,
+    "likes_count": 1493,
     "created_at": "2016-08-19T00:50:02+09:00",
     "updated_at": "2021-04-26T22:09:17+09:00",
     "id": "soarflat"
@@ -66,7 +66,7 @@
   {
     "title": "【PHP超入門】Cookieとセッションについて",
     "url": "https://qiita.com/7968/items/ce03feb17c8eaa6e4672",
-    "likes_count": 1091,
+    "likes_count": 1092,
     "created_at": "2016-08-22T00:45:10+09:00",
     "updated_at": "2020-04-15T08:44:16+09:00",
     "id": "7968"
@@ -74,7 +74,7 @@
   {
     "title": "【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本",
     "url": "https://qiita.com/aokikenichi/items/ae4df263f591e47528a6",
-    "likes_count": 1041,
+    "likes_count": 1042,
     "created_at": "2016-08-23T11:46:09+09:00",
     "updated_at": "2021-03-21T18:35:47+09:00",
     "id": "aokikenichi"
@@ -112,20 +112,20 @@
     "id": "ykyk1218"
   },
   {
+    "title": "Service Workerの基本とそれを使ってできること",
+    "url": "https://qiita.com/y_fujieda/items/f9e765ac9d89ba241154",
+    "likes_count": 808,
+    "created_at": "2016-08-31T16:38:50+09:00",
+    "updated_at": "2016-08-31T16:38:50+09:00",
+    "id": "y_fujieda"
+  },
+  {
     "title": "初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ",
     "url": "https://qiita.com/takanatsu/items/fc89de9bd11148da1438",
     "likes_count": 807,
     "created_at": "2016-08-25T23:46:02+09:00",
     "updated_at": "2016-08-25T23:51:28+09:00",
     "id": "takanatsu"
-  },
-  {
-    "title": "Service Workerの基本とそれを使ってできること",
-    "url": "https://qiita.com/y_fujieda/items/f9e765ac9d89ba241154",
-    "likes_count": 807,
-    "created_at": "2016-08-31T16:38:50+09:00",
-    "updated_at": "2016-08-31T16:38:50+09:00",
-    "id": "y_fujieda"
   },
   {
     "title": "Anaconda で Python 環境をインストールする",
@@ -146,7 +146,7 @@
   {
     "title": "bash: 標準出力、標準エラー出力をファイル、画面それぞれに出力する方法",
     "url": "https://qiita.com/laikuaut/items/e1cc312ffc7ec2c872fc",
-    "likes_count": 686,
+    "likes_count": 687,
     "created_at": "2016-08-28T05:10:13+09:00",
     "updated_at": "2016-08-28T07:08:24+09:00",
     "id": "laikuaut"
@@ -170,7 +170,7 @@
   {
     "title": "線形代数の基礎",
     "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
-    "likes_count": 643,
+    "likes_count": 644,
     "created_at": "2016-08-30T23:11:19+09:00",
     "updated_at": "2020-08-23T02:47:09+09:00",
     "id": "nognog"
@@ -218,7 +218,7 @@
   {
     "title": "language server protocolについて (前編)",
     "url": "https://qiita.com/atsushieno/items/ce31df9bd88e98eec5c4",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2016-08-19T12:33:03+09:00",
     "updated_at": "2021-05-15T14:49:58+09:00",
     "id": "atsushieno"
@@ -226,7 +226,7 @@
   {
     "title": "RxSwiftの機能カタログ",
     "url": "https://qiita.com/k5n/items/e80ab6bff4bbb170122d",
-    "likes_count": 502,
+    "likes_count": 503,
     "created_at": "2016-08-03T09:31:01+09:00",
     "updated_at": "2017-06-03T20:55:05+09:00",
     "id": "k5n"
@@ -394,7 +394,7 @@
   {
     "title": "bundler、bundle execについて　※自分用メモ",
     "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
-    "likes_count": 354,
+    "likes_count": 355,
     "created_at": "2016-08-08T10:06:03+09:00",
     "updated_at": "2016-08-08T15:41:46+09:00",
     "id": "dawn_628"
@@ -410,7 +410,7 @@
   {
     "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
     "url": "https://qiita.com/ryo2132/items/63ced19601b3fa30e6de",
-    "likes_count": 335,
+    "likes_count": 336,
     "created_at": "2016-08-12T10:26:11+09:00",
     "updated_at": "2020-05-17T05:29:20+09:00",
     "id": "ryo2132"
@@ -418,7 +418,7 @@
   {
     "title": "最適化におけるPython",
     "url": "https://qiita.com/SaitoTsutomu/items/070ca9cb37c6b2b492f0",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2016-08-18T17:17:48+09:00",
     "updated_at": "2021-03-30T12:39:04+09:00",
     "id": "SaitoTsutomu"
@@ -466,7 +466,7 @@
   {
     "title": "pythonでバッチスクリプトを書くときの雛形",
     "url": "https://qiita.com/fetaro/items/77cb5571c472eac85031",
-    "likes_count": 274,
+    "likes_count": 275,
     "created_at": "2016-08-16T23:32:52+09:00",
     "updated_at": "2020-11-26T11:45:00+09:00",
     "id": "fetaro"

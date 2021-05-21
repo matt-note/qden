@@ -2,7 +2,7 @@
   {
     "title": "エンジニアが情報収集とトレンドを追うのに読むと良いサイト",
     "url": "https://qiita.com/ryuichi1208/items/604a68abb91949e79ece",
-    "likes_count": 3042,
+    "likes_count": 3043,
     "created_at": "2018-11-29T22:01:23+09:00",
     "updated_at": "2019-03-13T17:59:59+09:00",
     "id": "ryuichi1208"
@@ -10,7 +10,7 @@
   {
     "title": "新人にドヤ顔で説明できるか、今風フロントエンド開発ハンズオン(Git/Node.js/ES6/webpack4/Babel7)",
     "url": "https://qiita.com/riversun/items/29d5264480dd06c7b9fb",
-    "likes_count": 1905,
+    "likes_count": 1906,
     "created_at": "2018-11-12T08:21:10+09:00",
     "updated_at": "2020-12-18T17:26:37+09:00",
     "id": "riversun"
@@ -82,7 +82,7 @@
   {
     "title": "JavaScriptの { } を理解する",
     "url": "https://qiita.com/uhyo/items/39750a5359629b3fee05",
-    "likes_count": 1155,
+    "likes_count": 1156,
     "created_at": "2018-11-08T22:37:29+09:00",
     "updated_at": "2018-11-14T14:53:29+09:00",
     "id": "uhyo"
@@ -186,7 +186,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 697,
+    "likes_count": 698,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -194,7 +194,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 684,
+    "likes_count": 685,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -218,7 +218,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 647,
+    "likes_count": 648,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -386,7 +386,7 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 410,
+    "likes_count": 412,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
@@ -394,7 +394,7 @@
   {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
     "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2018-11-06T02:18:59+09:00",
     "updated_at": "2018-11-06T02:18:59+09:00",
     "id": "psychoroid"
@@ -464,20 +464,20 @@
     "id": "rana_kualu"
   },
   {
+    "title": "Webアプリ初心者がGo言語でサーバサイド（1. 簡単なHTTPサーバの実装）",
+    "url": "https://qiita.com/wsuzume/items/75d5c0cd2dd5a1963b9e",
+    "likes_count": 349,
+    "created_at": "2018-11-06T00:29:50+09:00",
+    "updated_at": "2018-11-06T01:08:22+09:00",
+    "id": "wsuzume"
+  },
+  {
     "title": "オレオレ流Python可視化 チートシート ※随時更新※",
     "url": "https://qiita.com/takapy0210/items/73415599579f2588080e",
     "likes_count": 348,
     "created_at": "2018-11-01T18:22:27+09:00",
     "updated_at": "2018-12-16T14:13:48+09:00",
     "id": "takapy0210"
-  },
-  {
-    "title": "Webアプリ初心者がGo言語でサーバサイド（1. 簡単なHTTPサーバの実装）",
-    "url": "https://qiita.com/wsuzume/items/75d5c0cd2dd5a1963b9e",
-    "likes_count": 348,
-    "created_at": "2018-11-06T00:29:50+09:00",
-    "updated_at": "2018-11-06T01:08:22+09:00",
-    "id": "wsuzume"
   },
   {
     "title": "【入門】Nuxt.js + Contentful + Netlify で始める、JAMstack な CMS 構築",
@@ -490,7 +490,7 @@
   {
     "title": "VS Code コーディング規約を快適に守る",
     "url": "https://qiita.com/firedfly/items/00c34018581c6cec9b84",
-    "likes_count": 313,
+    "likes_count": 314,
     "created_at": "2018-11-29T12:07:09+09:00",
     "updated_at": "2019-09-30T16:54:37+09:00",
     "id": "firedfly"
@@ -514,7 +514,7 @@
   {
     "title": "現状においてC#のベースを完全に理解できる本のすゝめ",
     "url": "https://qiita.com/4_mio_11/items/8cf866d2243c90e341cb",
-    "likes_count": 270,
+    "likes_count": 271,
     "created_at": "2018-11-28T02:55:53+09:00",
     "updated_at": "2018-12-22T03:11:25+09:00",
     "id": "4_mio_11"
