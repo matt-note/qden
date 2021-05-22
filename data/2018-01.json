@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2519,
+    "likes_count": 2521,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -66,7 +66,7 @@
   {
     "title": "Pythonによるデザインパターン5原則",
     "url": "https://qiita.com/d-tsuji/items/4b903023001f157554a4",
-    "likes_count": 859,
+    "likes_count": 860,
     "created_at": "2018-01-10T22:19:52+09:00",
     "updated_at": "2018-02-20T09:40:02+09:00",
     "id": "d-tsuji"
@@ -82,7 +82,7 @@
   {
     "title": "未経験から4年働きながら、読んでよかった読み物",
     "url": "https://qiita.com/Nao9syu/items/0bedec7a749ab2d8123a",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2018-01-24T15:03:19+09:00",
     "updated_at": "2018-07-17T09:25:53+09:00",
     "id": "Nao9syu"
@@ -258,7 +258,7 @@
   {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 431,
+    "likes_count": 432,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
@@ -298,7 +298,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
@@ -322,7 +322,7 @@
   {
     "title": "PythonでTwitter API を利用していろいろ遊んでみる",
     "url": "https://qiita.com/bakira/items/00743d10ec42993f85eb",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2018-01-07T21:20:05+09:00",
     "updated_at": "2018-01-08T19:14:05+09:00",
     "id": "bakira"
@@ -392,20 +392,20 @@
     "id": "takjg"
   },
   {
+    "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
+    "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
+    "likes_count": 285,
+    "created_at": "2018-01-18T00:36:30+09:00",
+    "updated_at": "2019-07-29T19:26:22+09:00",
+    "id": "tomov3"
+  },
+  {
     "title": "画像を扱う機械学習のためのデータセットまとめ",
     "url": "https://qiita.com/leetmikeal/items/7c0d23e39bf38ab8be23",
     "likes_count": 284,
     "created_at": "2018-01-09T18:37:32+09:00",
     "updated_at": "2019-02-05T09:40:32+09:00",
     "id": "leetmikeal"
-  },
-  {
-    "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
-    "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
-    "likes_count": 284,
-    "created_at": "2018-01-18T00:36:30+09:00",
-    "updated_at": "2019-07-29T19:26:22+09:00",
-    "id": "tomov3"
   },
   {
     "title": "Vim / Vi を終了させる方法",

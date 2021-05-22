@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3037,
+    "likes_count": 3038,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-05-06T13:08:59+09:00",
     "id": "upura"
@@ -18,7 +18,7 @@
   {
     "title": "iPadでプログラミングしてる人、今まで馬鹿にしててすみませんでしたァァァァ!!!!",
     "url": "https://qiita.com/Mahito6/items/94c5720a7d477eb4c2f1",
-    "likes_count": 2038,
+    "likes_count": 2039,
     "created_at": "2019-03-04T19:55:49+09:00",
     "updated_at": "2019-07-18T09:42:29+09:00",
     "id": "Mahito6"
@@ -114,7 +114,7 @@
   {
     "title": "GCPで永久無料枠を利用してサービスを立ち上げたときにしたことの備忘録",
     "url": "https://qiita.com/riku-shiru/items/a870edd9dc0b132e092c",
-    "likes_count": 1121,
+    "likes_count": 1122,
     "created_at": "2019-03-29T08:45:23+09:00",
     "updated_at": "2019-04-10T10:08:57+09:00",
     "id": "riku-shiru"
@@ -162,7 +162,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 805,
+    "likes_count": 806,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -170,7 +170,7 @@
   {
     "title": "VSCodeでなるべくマウスを使わない開発環境をがんばる",
     "url": "https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353",
-    "likes_count": 799,
+    "likes_count": 803,
     "created_at": "2019-03-11T07:44:47+09:00",
     "updated_at": "2021-01-23T18:43:42+09:00",
     "id": "y-tsutsu"
@@ -202,10 +202,18 @@
   {
     "title": "【Python】🍜機械学習で「隠れた名店」を探してみた。（そして実際に行ってみた）🍜",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/b3ac8fd1b300c3404508",
-    "likes_count": 707,
+    "likes_count": 708,
     "created_at": "2019-03-18T14:49:52+09:00",
     "updated_at": "2020-08-28T14:35:05+09:00",
     "id": "toshiyuki_tsutsui"
+  },
+  {
+    "title": "Laravelで実践クリーンアーキテクチャ",
+    "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
+    "likes_count": 685,
+    "created_at": "2019-03-14T23:15:05+09:00",
+    "updated_at": "2020-12-13T21:40:32+09:00",
+    "id": "nrslib"
   },
   {
     "title": "味気ない記事にちょっとだけ味付けをする画像集",
@@ -216,17 +224,9 @@
     "id": "tamura__246"
   },
   {
-    "title": "Laravelで実践クリーンアーキテクチャ",
-    "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 683,
-    "created_at": "2019-03-14T23:15:05+09:00",
-    "updated_at": "2020-12-13T21:40:32+09:00",
-    "id": "nrslib"
-  },
-  {
     "title": "Android開発はFlutterでやる方がいい説",
     "url": "https://qiita.com/ko2ic/items/b07d3ec73513c1bd8ba6",
-    "likes_count": 662,
+    "likes_count": 663,
     "created_at": "2019-03-27T16:36:20+09:00",
     "updated_at": "2019-08-30T17:43:25+09:00",
     "id": "ko2ic"
@@ -280,20 +280,20 @@
     "id": "AokabiC"
   },
   {
+    "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
+    "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
+    "likes_count": 588,
+    "created_at": "2019-03-27T19:20:10+09:00",
+    "updated_at": "2019-03-27T20:33:18+09:00",
+    "id": "wann"
+  },
+  {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
     "likes_count": 587,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
-  },
-  {
-    "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
-    "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 586,
-    "created_at": "2019-03-27T19:20:10+09:00",
-    "updated_at": "2019-03-27T20:33:18+09:00",
-    "id": "wann"
   },
   {
     "title": "Pythonのコードをきれいに書くコツ",
@@ -354,7 +354,7 @@
   {
     "title": "textlint と VS Code で始める文章校正",
     "url": "https://qiita.com/takasp/items/22f7f72b691fda30aea2",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2019-03-21T12:08:05+09:00",
     "updated_at": "2019-03-22T13:07:38+09:00",
     "id": "takasp"
@@ -362,7 +362,7 @@
   {
     "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
     "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
-    "likes_count": 453,
+    "likes_count": 452,
     "created_at": "2019-03-29T15:54:09+09:00",
     "updated_at": "2019-09-12T14:54:07+09:00",
     "id": "KRiver1"
@@ -370,7 +370,7 @@
   {
     "title": "【Rails】MySQL2がbundle installできない時の対応方法",
     "url": "https://qiita.com/fukuda_fu/items/463a39406ce713396403",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2019-03-21T20:01:40+09:00",
     "updated_at": "2019-04-11T01:39:27+09:00",
     "id": "fukuda_fu"
@@ -530,7 +530,7 @@
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"
@@ -554,7 +554,7 @@
   {
     "title": "Vue で地図を表示する無料で最短の道",
     "url": "https://qiita.com/Satachito/items/929a63e9b266f6db7958",
-    "likes_count": 284,
+    "likes_count": 285,
     "created_at": "2019-03-04T16:44:02+09:00",
     "updated_at": "2020-05-18T17:21:41+09:00",
     "id": "Satachito"
