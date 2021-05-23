@@ -10,7 +10,7 @@
   {
     "title": "You Don't Need jQuery",
     "url": "https://qiita.com/tatesuke/items/b9548dd484b01b139b74",
-    "likes_count": 2376,
+    "likes_count": 2375,
     "created_at": "2016-04-12T16:46:34+09:00",
     "updated_at": "2019-06-14T00:40:43+09:00",
     "id": "tatesuke"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1846,
+    "likes_count": 1847,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -114,7 +114,7 @@
   {
     "title": "【意訳】Webpackの混乱ポイント",
     "url": "https://qiita.com/chuck0523/items/caacbf4137642cb175ec",
-    "likes_count": 1066,
+    "likes_count": 1067,
     "created_at": "2016-04-14T05:29:43+09:00",
     "updated_at": "2016-10-30T16:05:06+09:00",
     "id": "chuck0523"
@@ -218,7 +218,7 @@
   {
     "title": "Visual Studio Code チートシート",
     "url": "https://qiita.com/aoinu/items/681f932ce0b162cd9520",
-    "likes_count": 658,
+    "likes_count": 657,
     "created_at": "2016-04-28T02:09:37+09:00",
     "updated_at": "2016-04-28T14:46:52+09:00",
     "id": "aoinu"
@@ -234,7 +234,7 @@
   {
     "title": "Thymeleafチートシート",
     "url": "https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482",
-    "likes_count": 621,
+    "likes_count": 622,
     "created_at": "2016-04-18T07:25:38+09:00",
     "updated_at": "2018-04-23T18:05:39+09:00",
     "id": "NagaokaKenichi"
@@ -282,7 +282,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 503,
+    "likes_count": 504,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-04-05T07:56:27+09:00",
     "id": "dai-takahashi"
@@ -346,7 +346,7 @@
   {
     "title": "IntelliJ IDEA 入門",
     "url": "https://qiita.com/opengl-8080/items/108102d692b49f804dbd",
-    "likes_count": 433,
+    "likes_count": 434,
     "created_at": "2016-04-07T00:13:00+09:00",
     "updated_at": "2018-04-02T23:29:26+09:00",
     "id": "opengl-8080"
@@ -362,7 +362,7 @@
   {
     "title": "データベースさわったこと無い新人向けトランザクション入門",
     "url": "https://qiita.com/komattio/items/838ea5df68eb076e8099",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2016-04-11T06:46:24+09:00",
     "updated_at": "2016-04-11T06:54:57+09:00",
     "id": "komattio"
@@ -450,7 +450,7 @@
   {
     "title": "こうすれば理解できるBootstrap 4のレスポンシブWebデザインとそのCSS",
     "url": "https://qiita.com/tonkotsuboy_com/items/7c01460b59c3ca5ee047",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2016-04-14T11:35:11+09:00",
     "updated_at": "2020-08-29T19:12:09+09:00",
     "id": "tonkotsuboy_com"
@@ -538,7 +538,7 @@
   {
     "title": "オンラインでプログラミングして実行できるサイト",
     "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
-    "likes_count": 341,
+    "likes_count": 340,
     "created_at": "2016-04-28T08:59:43+09:00",
     "updated_at": "2021-04-16T18:12:58+09:00",
     "id": "tttamaki"
@@ -554,10 +554,18 @@
   {
     "title": "Spring での責務についてまず見てほしい一枚の絵",
     "url": "https://qiita.com/yo1000/items/a6acbf5f454a7f53aef9",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2016-04-10T00:08:29+09:00",
     "updated_at": "2018-08-07T19:10:00+09:00",
     "id": "yo1000"
+  },
+  {
+    "title": "font-sizeの単位をvwにしてデバイスサイズに合わせて拡縮する",
+    "url": "https://qiita.com/katsunory/items/3bede89cee8e2ded8426",
+    "likes_count": 313,
+    "created_at": "2016-04-23T10:18:44+09:00",
+    "updated_at": "2018-11-18T21:21:03+09:00",
+    "id": "katsunory"
   },
   {
     "title": "Reduxでコンポーネントを再利用する",
@@ -566,14 +574,6 @@
     "created_at": "2016-04-14T02:54:48+09:00",
     "updated_at": "2016-04-21T22:42:27+09:00",
     "id": "kuy"
-  },
-  {
-    "title": "font-sizeの単位をvwにしてデバイスサイズに合わせて拡縮する",
-    "url": "https://qiita.com/katsunory/items/3bede89cee8e2ded8426",
-    "likes_count": 312,
-    "created_at": "2016-04-23T10:18:44+09:00",
-    "updated_at": "2018-11-18T21:21:03+09:00",
-    "id": "katsunory"
   },
   {
     "title": "機械学習のライブラリ dlib",

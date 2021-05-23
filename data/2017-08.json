@@ -34,7 +34,7 @@
   {
     "title": "一番詳しいCSS設計規則BEMのマニュアル",
     "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
-    "likes_count": 1393,
+    "likes_count": 1394,
     "created_at": "2017-08-30T20:48:41+09:00",
     "updated_at": "2019-07-16T17:00:50+09:00",
     "id": "Takuan_Oishii"
@@ -42,10 +42,18 @@
   {
     "title": "心臓が止まったらSNSに「死にました」と投稿する",
     "url": "https://qiita.com/inamori/items/9fccb65528f28f3a81bc",
-    "likes_count": 1358,
+    "likes_count": 1359,
     "created_at": "2017-08-14T21:36:42+09:00",
     "updated_at": "2017-08-15T00:48:31+09:00",
     "id": "inamori"
+  },
+  {
+    "title": "<script> タグに async / defer を付けた場合のタイミング",
+    "url": "https://qiita.com/phanect/items/82c85ea4b8f9c373d684",
+    "likes_count": 1272,
+    "created_at": "2017-08-05T21:05:47+09:00",
+    "updated_at": "2019-02-23T10:01:33+09:00",
+    "id": "phanect"
   },
   {
     "title": "やばい、iOSにネイティブアプリ要らなくなるかも。SafariもPWAに対応する可能性",
@@ -56,17 +64,9 @@
     "id": "Yatima"
   },
   {
-    "title": "<script> タグに async / defer を付けた場合のタイミング",
-    "url": "https://qiita.com/phanect/items/82c85ea4b8f9c373d684",
-    "likes_count": 1270,
-    "created_at": "2017-08-05T21:05:47+09:00",
-    "updated_at": "2019-02-23T10:01:33+09:00",
-    "id": "phanect"
-  },
-  {
     "title": "Swaggerの概要をまとめてみた。",
     "url": "https://qiita.com/gcyata/items/342073fa7607fd4082bd",
-    "likes_count": 1136,
+    "likes_count": 1138,
     "created_at": "2017-08-25T18:03:53+09:00",
     "updated_at": "2018-02-17T23:09:25+09:00",
     "id": "gcyata"
@@ -82,7 +82,7 @@
   {
     "title": "RasPiとディープラーニングで我が家のトイレ問題を解決する",
     "url": "https://qiita.com/kazunori279/items/bb58f0b3095f3c65b2a1",
-    "likes_count": 830,
+    "likes_count": 831,
     "created_at": "2017-08-31T06:36:45+09:00",
     "updated_at": "2017-08-31T17:03:04+09:00",
     "id": "kazunori279"
@@ -154,7 +154,7 @@
   {
     "title": "Capybaraチートシート",
     "url": "https://qiita.com/morrr/items/0e24251c049180218db4",
-    "likes_count": 445,
+    "likes_count": 444,
     "created_at": "2017-08-20T01:45:12+09:00",
     "updated_at": "2017-08-20T01:45:12+09:00",
     "id": "morrr"
@@ -234,7 +234,7 @@
   {
     "title": "「ベクトルで微分・行列で微分」公式まとめ",
     "url": "https://qiita.com/AnchorBlues/items/8fe2483a3a72676eb96d",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2017-08-05T18:04:50+09:00",
     "updated_at": "2019-07-23T13:33:27+09:00",
     "id": "AnchorBlues"
@@ -250,7 +250,7 @@
   {
     "title": "Docker + Rails + Puma + Nginx + MySQL",
     "url": "https://qiita.com/eighty8/items/0288ab9c127ddb683315",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2017-08-25T17:37:17+09:00",
     "updated_at": "2019-10-28T21:48:44+09:00",
     "id": "eighty8"
