@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 9213,
+    "likes_count": 9222,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2020-12-31T00:39:46+09:00",
     "id": "Ted-HM"
@@ -18,7 +18,7 @@
   {
     "title": "うまくクラス名を付けるための参考情報",
     "url": "https://qiita.com/KeithYokoma/items/ee21fec6a3ebb5d1e9a8",
-    "likes_count": 2109,
+    "likes_count": 2108,
     "created_at": "2015-09-16T11:30:40+09:00",
     "updated_at": "2015-09-16T11:30:40+09:00",
     "id": "KeithYokoma"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 2104,
+    "likes_count": 2105,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2020-06-02T11:35:16+09:00",
     "id": "suthio"
@@ -144,20 +144,20 @@
     "id": "Imamotty"
   },
   {
+    "title": "Macのターミナルコマンド一覧（基本編）",
+    "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
+    "likes_count": 923,
+    "created_at": "2015-09-20T00:26:30+09:00",
+    "updated_at": "2019-02-03T11:37:52+09:00",
+    "id": "ryouzi"
+  },
+  {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
     "likes_count": 923,
     "created_at": "2015-09-24T01:06:14+09:00",
     "updated_at": "2021-04-12T20:02:17+09:00",
     "id": "nightyknite"
-  },
-  {
-    "title": "Macのターミナルコマンド一覧（基本編）",
-    "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 922,
-    "created_at": "2015-09-20T00:26:30+09:00",
-    "updated_at": "2019-02-03T11:37:52+09:00",
-    "id": "ryouzi"
   },
   {
     "title": "Kotlin スコープ関数 用途まとめ",
@@ -202,7 +202,7 @@
   {
     "title": "Graphvizとdot言語でグラフを描く方法のまとめ",
     "url": "https://qiita.com/rubytomato@github/items/51779135bc4b77c8c20d",
-    "likes_count": 786,
+    "likes_count": 787,
     "created_at": "2015-09-14T19:13:26+09:00",
     "updated_at": "2019-09-12T22:44:12+09:00",
     "id": "rubytomato@github"
@@ -218,7 +218,7 @@
   {
     "title": "RESTful API設計におけるHTTPステータスコードの指針",
     "url": "https://qiita.com/uenosy/items/ba9dbc70781bddc4a491",
-    "likes_count": 744,
+    "likes_count": 745,
     "created_at": "2015-09-14T16:36:59+09:00",
     "updated_at": "2015-09-14T16:36:59+09:00",
     "id": "uenosy"
@@ -434,7 +434,7 @@
   {
     "title": "ESLintのエラールール。日本語ざっくり解説[ベストプラクティス編]",
     "url": "https://qiita.com/M-ISO/items/4cd183e2496c2937a53e",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2015-09-26T01:13:12+09:00",
     "updated_at": "2019-09-25T18:39:33+09:00",
     "id": "M-ISO"
@@ -504,14 +504,6 @@
     "id": "taiponrock"
   },
   {
-    "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",
-    "url": "https://qiita.com/shizuma/items/c8c2e71af8c1dcf3d1c2",
-    "likes_count": 301,
-    "created_at": "2015-09-09T13:02:55+09:00",
-    "updated_at": "2020-01-25T14:29:48+09:00",
-    "id": "shizuma"
-  },
-  {
     "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
     "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
     "likes_count": 301,
@@ -520,9 +512,17 @@
     "id": "moriyaman"
   },
   {
+    "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",
+    "url": "https://qiita.com/shizuma/items/c8c2e71af8c1dcf3d1c2",
+    "likes_count": 300,
+    "created_at": "2015-09-09T13:02:55+09:00",
+    "updated_at": "2020-01-25T14:29:48+09:00",
+    "id": "shizuma"
+  },
+  {
     "title": "[PHP] 配列・連想配列の初期化、結合、追加",
     "url": "https://qiita.com/shuntaro_tamura/items/784cfd61f355516dfff0",
-    "likes_count": 298,
+    "likes_count": 299,
     "created_at": "2015-09-12T16:57:23+09:00",
     "updated_at": "2015-09-12T16:57:23+09:00",
     "id": "shuntaro_tamura"
@@ -562,7 +562,7 @@
   {
     "title": "C++ コーディングスタイルメモ",
     "url": "https://qiita.com/shirakawa4756/items/55b509fb56cb1bb0c9a4",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2015-09-01T19:43:51+09:00",
     "updated_at": "2016-02-17T22:01:50+09:00",
     "id": "shirakawa4756"

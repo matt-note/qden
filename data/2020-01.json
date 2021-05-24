@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4227,
+    "likes_count": 4228,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2021-03-26T11:28:23+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4144,
+    "likes_count": 4145,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -34,7 +34,7 @@
   {
     "title": "高校生がリアルタイム投票サイトを公開したらいきなり1万PVを記録した話",
     "url": "https://qiita.com/akaoni_sohei/items/186121bd9994197aab50",
-    "likes_count": 1977,
+    "likes_count": 1976,
     "created_at": "2020-01-05T11:14:16+09:00",
     "updated_at": "2020-02-11T12:25:59+09:00",
     "id": "akaoni_sohei"
@@ -312,6 +312,14 @@
     "id": "BRSF"
   },
   {
+    "title": "Pythonライブラリの「麻雀(mahjong)」って？？",
+    "url": "https://qiita.com/FJyusk56/items/8189bcca3849532d095f",
+    "likes_count": 483,
+    "created_at": "2020-01-19T02:41:22+09:00",
+    "updated_at": "2020-05-14T16:09:18+09:00",
+    "id": "FJyusk56"
+  },
+  {
     "title": "スマホアプリ開発者のための2019年動向まとめ",
     "url": "https://qiita.com/keidroid/items/ec6039accaa9d043b514",
     "likes_count": 482,
@@ -320,17 +328,9 @@
     "id": "keidroid"
   },
   {
-    "title": "Pythonライブラリの「麻雀(mahjong)」って？？",
-    "url": "https://qiita.com/FJyusk56/items/8189bcca3849532d095f",
-    "likes_count": 482,
-    "created_at": "2020-01-19T02:41:22+09:00",
-    "updated_at": "2020-05-14T16:09:18+09:00",
-    "id": "FJyusk56"
-  },
-  {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 480,
+    "likes_count": 481,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2021-03-26T11:27:03+09:00",
     "id": "Saku731"
@@ -346,7 +346,7 @@
   {
     "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
     "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
-    "likes_count": 474,
+    "likes_count": 473,
     "created_at": "2020-01-10T19:39:06+09:00",
     "updated_at": "2020-10-28T20:23:44+09:00",
     "id": "marnie_ms4"
@@ -370,7 +370,7 @@
   {
     "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
     "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
-    "likes_count": 428,
+    "likes_count": 430,
     "created_at": "2020-01-19T17:05:28+09:00",
     "updated_at": "2020-01-21T20:33:07+09:00",
     "id": "uhyo"
@@ -384,20 +384,20 @@
     "id": "katy7"
   },
   {
+    "title": "Hack The Boxを楽しむためのKali Linuxチューニング",
+    "url": "https://qiita.com/v_avenger/items/c85d946ed2b6bf340a84",
+    "likes_count": 419,
+    "created_at": "2020-01-29T22:31:32+09:00",
+    "updated_at": "2021-03-11T14:04:13+09:00",
+    "id": "v_avenger"
+  },
+  {
     "title": "2020年流行するであろうwebデザインのトレンド",
     "url": "https://qiita.com/sugar_tk/items/54562d8756b69774aecf",
     "likes_count": 418,
     "created_at": "2020-01-20T10:17:37+09:00",
     "updated_at": "2020-01-29T12:33:46+09:00",
     "id": "sugar_tk"
-  },
-  {
-    "title": "Hack The Boxを楽しむためのKali Linuxチューニング",
-    "url": "https://qiita.com/v_avenger/items/c85d946ed2b6bf340a84",
-    "likes_count": 418,
-    "created_at": "2020-01-29T22:31:32+09:00",
-    "updated_at": "2021-03-11T14:04:13+09:00",
-    "id": "v_avenger"
   },
   {
     "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
@@ -426,7 +426,7 @@
   {
     "title": "notionバックエンドのzeit製ヘッドレスCMS“Notion Blog”が激アツ🔥",
     "url": "https://qiita.com/serinuntius/items/d4b1e9ef53b59033f607",
-    "likes_count": 398,
+    "likes_count": 397,
     "created_at": "2020-01-15T09:06:37+09:00",
     "updated_at": "2020-01-15T09:07:20+09:00",
     "id": "serinuntius"
@@ -434,7 +434,7 @@
   {
     "title": "最短経路問題総特集！！！～BFSから拡張ダイクストラまで～",
     "url": "https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e",
-    "likes_count": 385,
+    "likes_count": 387,
     "created_at": "2020-01-18T16:57:24+09:00",
     "updated_at": "2020-01-23T21:44:58+09:00",
     "id": "ageprocpp"
@@ -474,7 +474,7 @@
   {
     "title": "「圏論とプログラミング」発表スライドメモ",
     "url": "https://qiita.com/inamiy/items/9af1da1faec22cd968f0",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2020-01-27T12:07:01+09:00",
     "updated_at": "2020-01-29T22:54:50+09:00",
     "id": "inamiy"
@@ -522,7 +522,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 263,
+    "likes_count": 267,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"
