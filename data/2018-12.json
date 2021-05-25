@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 1980,
+    "likes_count": 1981,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -26,7 +26,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1579,
+    "likes_count": 1582,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -50,10 +50,18 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1305,
+    "likes_count": 1304,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2019-09-14T16:44:47+09:00",
     "id": "saboyutaka"
+  },
+  {
+    "title": "お前らのReactは遅い",
+    "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
+    "likes_count": 1253,
+    "created_at": "2018-12-01T16:47:52+09:00",
+    "updated_at": "2020-09-24T16:35:05+09:00",
+    "id": "teradonburi"
   },
   {
     "title": "インフラエンジニアと謎のサーバ",
@@ -62,14 +70,6 @@
     "created_at": "2018-12-06T19:56:35+09:00",
     "updated_at": "2019-05-02T16:00:02+09:00",
     "id": "kanga"
-  },
-  {
-    "title": "お前らのReactは遅い",
-    "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1252,
-    "created_at": "2018-12-01T16:47:52+09:00",
-    "updated_at": "2020-09-24T16:35:05+09:00",
-    "id": "teradonburi"
   },
   {
     "title": "おもしろいダジャレを入力すると布団が吹っ飛ぶ装置を作った",
@@ -138,7 +138,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 971,
+    "likes_count": 973,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -146,7 +146,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 964,
+    "likes_count": 967,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -210,7 +210,7 @@
   {
     "title": "仕事で使えるLinux ワンライナー集",
     "url": "https://qiita.com/ryuichi1208/items/55b73d8ae75993dc10c1",
-    "likes_count": 841,
+    "likes_count": 842,
     "created_at": "2018-12-20T21:46:16+09:00",
     "updated_at": "2019-01-06T20:00:56+09:00",
     "id": "ryuichi1208"
@@ -234,7 +234,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 687,
+    "likes_count": 688,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -330,7 +330,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 536,
+    "likes_count": 537,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -338,7 +338,7 @@
   {
     "title": "ExcelにPythonが搭載？その後 - xlwings を使おう ",
     "url": "https://qiita.com/yniji/items/b38bc312e860027108ac",
-    "likes_count": 502,
+    "likes_count": 503,
     "created_at": "2018-12-24T19:58:52+09:00",
     "updated_at": "2019-01-22T16:00:41+09:00",
     "id": "yniji"
@@ -362,7 +362,7 @@
   {
     "title": "その機械学習プロセス、自動化できませんか？",
     "url": "https://qiita.com/Hironsan/items/30fe09c85da8a28ebd63",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2018-12-03T22:32:16+09:00",
     "updated_at": "2018-12-05T10:36:47+09:00",
     "id": "Hironsan"
@@ -392,20 +392,20 @@
     "id": "gushwell"
   },
   {
+    "title": "C++でクリーンなコードの書き方",
+    "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
+    "likes_count": 466,
+    "created_at": "2018-12-14T00:12:22+09:00",
+    "updated_at": "2021-04-14T00:39:07+09:00",
+    "id": "elipmoc101"
+  },
+  {
     "title": "訓練不要で誰でも速読！日本一の速読アプリ「瞬間速読」の個人開発物語（25万DL）",
     "url": "https://qiita.com/youwht/items/a1b7a843888c27490172",
     "likes_count": 465,
     "created_at": "2018-12-04T00:41:05+09:00",
     "updated_at": "2019-01-03T20:41:27+09:00",
     "id": "youwht"
-  },
-  {
-    "title": "C++でクリーンなコードの書き方",
-    "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 465,
-    "created_at": "2018-12-14T00:12:22+09:00",
-    "updated_at": "2021-04-14T00:39:07+09:00",
-    "id": "elipmoc101"
   },
   {
     "title": "ワイが個人的に便利だと思っていてよく使っているJavaScriptモジュール(npm)たち",
@@ -426,7 +426,7 @@
   {
     "title": "Go Modules",
     "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2018-12-05T13:44:24+09:00",
     "updated_at": "2019-07-17T17:52:30+09:00",
     "id": "propella"
@@ -528,20 +528,20 @@
     "id": "munieru_jp"
   },
   {
+    "title": "Herokuを使いこなすのに必要な術",
+    "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
+    "likes_count": 369,
+    "created_at": "2018-12-04T18:58:45+09:00",
+    "updated_at": "2019-01-29T22:10:42+09:00",
+    "id": "fuwamaki"
+  },
+  {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
     "likes_count": 369,
     "created_at": "2018-12-21T10:13:58+09:00",
     "updated_at": "2021-01-04T01:36:10+09:00",
     "id": "naokiiiii"
-  },
-  {
-    "title": "Herokuを使いこなすのに必要な術",
-    "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 368,
-    "created_at": "2018-12-04T18:58:45+09:00",
-    "updated_at": "2019-01-29T22:10:42+09:00",
-    "id": "fuwamaki"
   },
   {
     "title": "主成分分析を Python で理解する",
@@ -570,7 +570,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzk-jp/items/00ff664da60c37458aaa",
-    "likes_count": 349,
+    "likes_count": 350,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2018-12-10T01:39:40+09:00",
     "id": "ymzk-jp"
@@ -600,20 +600,20 @@
     "id": "yuneco"
   },
   {
+    "title": "Flutterで1年間開発して利用した使えるライブラリ",
+    "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
+    "likes_count": 336,
+    "created_at": "2018-12-21T19:15:21+09:00",
+    "updated_at": "2019-07-30T14:29:43+09:00",
+    "id": "ko2ic"
+  },
+  {
     "title": "月数100万アクセスをDB使わず超簡単にさばく",
     "url": "https://qiita.com/Hisashi_vc/items/a50b49ad6a75d51c880a",
     "likes_count": 335,
     "created_at": "2018-12-17T13:37:31+09:00",
     "updated_at": "2018-12-17T13:37:31+09:00",
     "id": "Hisashi_vc"
-  },
-  {
-    "title": "Flutterで1年間開発して利用した使えるライブラリ",
-    "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
-    "likes_count": 334,
-    "created_at": "2018-12-21T19:15:21+09:00",
-    "updated_at": "2019-07-30T14:29:43+09:00",
-    "id": "ko2ic"
   },
   {
     "title": "JavaScriptの概念たち (後編)",
@@ -714,7 +714,7 @@
   {
     "title": "【Rails×Ajax】いいね機能ハンズオン",
     "url": "https://qiita.com/naberina/items/c6b5c8d7756cb882fb20",
-    "likes_count": 275,
+    "likes_count": 274,
     "created_at": "2018-12-20T02:10:14+09:00",
     "updated_at": "2021-01-08T12:26:47+09:00",
     "id": "naberina"
@@ -722,7 +722,7 @@
   {
     "title": "Railsでフォロー機能を作る方法",
     "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2018-12-08T19:30:47+09:00",
     "updated_at": "2020-04-13T00:22:52+09:00",
     "id": "mitsumitsu1128"
@@ -730,7 +730,7 @@
   {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
     "url": "https://qiita.com/Hailee/items/781e33e2474e254fdd7c",
-    "likes_count": 270,
+    "likes_count": 271,
     "created_at": "2018-12-20T16:11:54+09:00",
     "updated_at": "2020-07-14T14:57:29+09:00",
     "id": "Hailee"
@@ -738,7 +738,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 243,
+    "likes_count": 244,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"

@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4662,
+    "likes_count": 4667,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3333,
+    "likes_count": 3334,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2572,
+    "likes_count": 2573,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2070,
+    "likes_count": 2071,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -50,7 +50,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1425,
+    "likes_count": 1426,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-04-26T22:09:02+09:00",
     "id": "soarflat"
@@ -90,7 +90,7 @@
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
     "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1103,
+    "likes_count": 1104,
     "created_at": "2016-12-28T10:13:50+09:00",
     "updated_at": "2016-12-29T00:03:57+09:00",
     "id": "kunihirotanaka"
@@ -130,7 +130,7 @@
   {
     "title": "Webhookとは？",
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 962,
+    "likes_count": 963,
     "created_at": "2016-12-17T12:54:09+09:00",
     "updated_at": "2021-04-26T22:08:54+09:00",
     "id": "soarflat"
@@ -162,7 +162,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 818,
+    "likes_count": 819,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -186,7 +186,7 @@
   {
     "title": "大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察",
     "url": "https://qiita.com/tmknom/items/be5c4b350f561991f2f5",
-    "likes_count": 752,
+    "likes_count": 753,
     "created_at": "2016-12-20T18:24:22+09:00",
     "updated_at": "2018-08-12T01:43:05+09:00",
     "id": "tmknom"
@@ -234,7 +234,7 @@
   {
     "title": "ようこそ！Electron入門",
     "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
-    "likes_count": 683,
+    "likes_count": 684,
     "created_at": "2016-12-28T14:02:01+09:00",
     "updated_at": "2019-11-22T19:57:05+09:00",
     "id": "umamichi"
@@ -242,7 +242,7 @@
   {
     "title": "電気工事士の資格を取ってコンセントやスイッチを改造しようぜ",
     "url": "https://qiita.com/rukihena/items/a30f07f93ca1718dff8e",
-    "likes_count": 646,
+    "likes_count": 647,
     "created_at": "2016-12-03T01:44:10+09:00",
     "updated_at": "2020-01-14T17:40:54+09:00",
     "id": "rukihena"
@@ -314,7 +314,7 @@
   {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
@@ -496,6 +496,14 @@
     "id": "itkrt2y"
   },
   {
+    "title": "恥かどうかはともかく、そもそも逃げられない障害対応のお話",
+    "url": "https://qiita.com/s_kozake/items/825348559e4b4e330fb5",
+    "likes_count": 430,
+    "created_at": "2016-12-20T20:31:53+09:00",
+    "updated_at": "2016-12-20T23:58:35+09:00",
+    "id": "s_kozake"
+  },
+  {
     "title": "Ruby on Railsで作ったWebサービスを5倍速くしてメモリを半分以下にした話",
     "url": "https://qiita.com/zaru/items/04fdd43158e5cd1d835d",
     "likes_count": 429,
@@ -504,17 +512,9 @@
     "id": "zaru"
   },
   {
-    "title": "恥かどうかはともかく、そもそも逃げられない障害対応のお話",
-    "url": "https://qiita.com/s_kozake/items/825348559e4b4e330fb5",
-    "likes_count": 428,
-    "created_at": "2016-12-20T20:31:53+09:00",
-    "updated_at": "2016-12-20T23:58:35+09:00",
-    "id": "s_kozake"
-  },
-  {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -530,7 +530,7 @@
   {
     "title": "12800円で自宅や小規模オフィスのネットワークセキュリティ監視環境を構築する",
     "url": "https://qiita.com/m_mizutani/items/dc9988daab24050eb5a2",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2016-12-29T15:07:33+09:00",
     "updated_at": "2017-01-11T12:00:23+09:00",
     "id": "m_mizutani"
@@ -738,7 +738,7 @@
   {
     "title": "残業したくないあなたに：データ構造とアルゴリズム",
     "url": "https://qiita.com/GushiSnow/items/70765a7cae52c0a1b2b8",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2016-12-26T07:44:45+09:00",
     "updated_at": "2017-04-16T09:17:23+09:00",
     "id": "GushiSnow"
