@@ -34,7 +34,7 @@
   {
     "title": "ESLint 最初の一歩",
     "url": "https://qiita.com/mysticatea/items/f523dab04a25f617c87d",
-    "likes_count": 1527,
+    "likes_count": 1528,
     "created_at": "2015-10-21T20:27:28+09:00",
     "updated_at": "2019-07-08T21:22:18+09:00",
     "id": "mysticatea"
@@ -66,7 +66,7 @@
   {
     "title": "Amazon EC2 Container Service(ECS)の概念整理",
     "url": "https://qiita.com/NewGyu/items/9597ed2eda763bd504d7",
-    "likes_count": 1082,
+    "likes_count": 1085,
     "created_at": "2015-10-17T00:40:24+09:00",
     "updated_at": "2020-05-06T13:33:41+09:00",
     "id": "NewGyu"
@@ -90,7 +90,7 @@
   {
     "title": "mysqldumpまとめ",
     "url": "https://qiita.com/PlanetMeron/items/3a41e14607a65bc9b60c",
-    "likes_count": 948,
+    "likes_count": 950,
     "created_at": "2015-10-06T16:00:00+09:00",
     "updated_at": "2018-08-30T11:16:46+09:00",
     "id": "PlanetMeron"
@@ -114,7 +114,7 @@
   {
     "title": "CSSで中央寄せの方法いろいろメモ",
     "url": "https://qiita.com/KAMEch/items/b52c5e23212b8fef81a7",
-    "likes_count": 884,
+    "likes_count": 883,
     "created_at": "2015-10-07T18:36:54+09:00",
     "updated_at": "2019-06-24T14:00:13+09:00",
     "id": "KAMEch"
@@ -138,7 +138,7 @@
   {
     "title": "よく使うMySQLコマンド集",
     "url": "https://qiita.com/CyberMergina/items/f889519e6be19c46f5f4",
-    "likes_count": 755,
+    "likes_count": 756,
     "created_at": "2015-10-22T09:28:43+09:00",
     "updated_at": "2021-02-18T15:44:00+09:00",
     "id": "CyberMergina"
@@ -162,7 +162,7 @@
   {
     "title": "目からウロコ！Node-REDのデザインパターン10選",
     "url": "https://qiita.com/zuhito/items/e9abfd6f1ba188f908ed",
-    "likes_count": 624,
+    "likes_count": 625,
     "created_at": "2015-11-01T01:04:46+09:00",
     "updated_at": "2018-12-25T18:59:31+09:00",
     "id": "zuhito"
@@ -248,20 +248,20 @@
     "id": "morishitter"
   },
   {
+    "title": "Typescriptのinterfaceの使い方",
+    "url": "https://qiita.com/nogson/items/86b47ee6947f505f6a7b",
+    "likes_count": 459,
+    "created_at": "2015-10-22T22:14:16+09:00",
+    "updated_at": "2017-04-17T20:09:56+09:00",
+    "id": "nogson"
+  },
+  {
     "title": "プロトタイピングツール集",
     "url": "https://qiita.com/usagimaru/items/b5485589550787820348",
     "likes_count": 458,
     "created_at": "2015-10-07T19:04:43+09:00",
     "updated_at": "2016-05-26T18:35:14+09:00",
     "id": "usagimaru"
-  },
-  {
-    "title": "Typescriptのinterfaceの使い方",
-    "url": "https://qiita.com/nogson/items/86b47ee6947f505f6a7b",
-    "likes_count": 458,
-    "created_at": "2015-10-22T22:14:16+09:00",
-    "updated_at": "2017-04-17T20:09:56+09:00",
-    "id": "nogson"
   },
   {
     "title": "速報：仮想 DOM は殺された。誰に？ magnum.js に",
@@ -346,7 +346,7 @@
   {
     "title": "CUDAを使ったGPUプログラミング超入門",
     "url": "https://qiita.com/Keech/items/381495ed90e012d69f1a",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2015-10-18T09:54:23+09:00",
     "updated_at": "2015-10-18T09:54:23+09:00",
     "id": "Keech"
@@ -360,20 +360,20 @@
     "id": "scivola"
   },
   {
+    "title": "[Rails] ActiveSupport::Concern の存在理由",
+    "url": "https://qiita.com/castaneai/items/6dc121ce6ff100614f42",
+    "likes_count": 374,
+    "created_at": "2015-10-07T15:11:07+09:00",
+    "updated_at": "2015-10-07T15:11:07+09:00",
+    "id": "castaneai"
+  },
+  {
     "title": "Androidな開発をするときにチェックしていること",
     "url": "https://qiita.com/kaelaela/items/85e0bcc26584141fda1d",
     "likes_count": 374,
     "created_at": "2015-10-25T19:02:16+09:00",
     "updated_at": "2015-11-05T00:14:50+09:00",
     "id": "kaelaela"
-  },
-  {
-    "title": "[Rails] ActiveSupport::Concern の存在理由",
-    "url": "https://qiita.com/castaneai/items/6dc121ce6ff100614f42",
-    "likes_count": 373,
-    "created_at": "2015-10-07T15:11:07+09:00",
-    "updated_at": "2015-10-07T15:11:07+09:00",
-    "id": "castaneai"
   },
   {
     "title": "クラウドサービスを活用して README にバッジをペタペタ貼る",
@@ -458,7 +458,7 @@
   {
     "title": "Slack APIを使用してメッセージを送信する",
     "url": "https://qiita.com/rubytomato@github/items/6558bfdb37d982891c09",
-    "likes_count": 291,
+    "likes_count": 292,
     "created_at": "2015-10-10T18:31:34+09:00",
     "updated_at": "2015-10-12T04:08:21+09:00",
     "id": "rubytomato@github"
@@ -466,7 +466,7 @@
   {
     "title": "三項演算子をもっと使おう",
     "url": "https://qiita.com/rana_kualu/items/748dba779148152301ff",
-    "likes_count": 290,
+    "likes_count": 291,
     "created_at": "2015-10-16T20:26:11+09:00",
     "updated_at": "2017-11-12T21:47:07+09:00",
     "id": "rana_kualu"
