@@ -2,7 +2,7 @@
   {
     "title": "ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト",
     "url": "https://qiita.com/kazukichi/items/7379b75fba2f90d3cf45",
-    "likes_count": 3823,
+    "likes_count": 3824,
     "created_at": "2015-06-03T20:05:15+09:00",
     "updated_at": "2021-03-27T18:32:17+09:00",
     "id": "kazukichi"
@@ -10,7 +10,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3188,
+    "likes_count": 3189,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2018-10-01T16:44:21+09:00",
     "id": "ryounagaoka"
@@ -26,7 +26,7 @@
   {
     "title": "どこよりも分かりやすいSwiftの\"?\"と\"!\"",
     "url": "https://qiita.com/maiki055/items/b24378a3707bd35a31a8",
-    "likes_count": 1898,
+    "likes_count": 1901,
     "created_at": "2015-06-22T20:32:43+09:00",
     "updated_at": "2016-01-08T13:37:58+09:00",
     "id": "maiki055"
@@ -90,7 +90,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1139,
+    "likes_count": 1140,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -154,7 +154,7 @@
   {
     "title": "良いコードを書く技術（まとめ）",
     "url": "https://qiita.com/NoriakiOshita/items/e60ab5bb01b90d927ae5",
-    "likes_count": 710,
+    "likes_count": 711,
     "created_at": "2015-06-18T23:40:21+09:00",
     "updated_at": "2021-02-05T07:38:16+09:00",
     "id": "NoriakiOshita"
@@ -202,7 +202,7 @@
   {
     "title": "言語別：パスワード向けの正規表現",
     "url": "https://qiita.com/mpyw/items/886218e7b418dfed254b",
-    "likes_count": 615,
+    "likes_count": 616,
     "created_at": "2015-06-20T14:20:26+09:00",
     "updated_at": "2015-06-23T14:50:07+09:00",
     "id": "mpyw"
@@ -272,20 +272,20 @@
     "id": "stkdev"
   },
   {
+    "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
+    "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
+    "likes_count": 468,
+    "created_at": "2015-06-18T14:31:26+09:00",
+    "updated_at": "2020-02-03T08:43:46+09:00",
+    "id": "uzresk"
+  },
+  {
     "title": "設定ファイル記述言語 TOML",
     "url": "https://qiita.com/b4b4r07/items/77c327742fc2256d6cbe",
     "likes_count": 467,
     "created_at": "2015-06-12T15:36:05+09:00",
     "updated_at": "2020-04-07T13:56:49+09:00",
     "id": "b4b4r07"
-  },
-  {
-    "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
-    "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
-    "likes_count": 467,
-    "created_at": "2015-06-18T14:31:26+09:00",
-    "updated_at": "2020-02-03T08:43:46+09:00",
-    "id": "uzresk"
   },
   {
     "title": "iOSアプリの国際化対応の勘所とTips集(Swift版)",
@@ -362,7 +362,7 @@
   {
     "title": "Railsでdeviseひとつで複数モデルを管理しよう",
     "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2015-06-27T22:31:44+09:00",
     "updated_at": "2015-06-27T22:34:35+09:00",
     "id": "Yama-to"
@@ -370,7 +370,7 @@
   {
     "title": "実用的な新機能が盛りだくさん！RSpec 3.3 完全ガイド",
     "url": "https://qiita.com/jnchito/items/3a590480ee291a70027c",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2015-06-22T07:52:16+09:00",
     "updated_at": "2015-06-23T07:20:19+09:00",
     "id": "jnchito"
@@ -400,6 +400,14 @@
     "id": "suu_g"
   },
   {
+    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
+    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
+    "likes_count": 363,
+    "created_at": "2015-06-10T07:55:27+09:00",
+    "updated_at": "2015-06-10T11:36:54+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "新米エンジニア(アプリ・インフラエンジニア問わず)に知っておいてほしいトラブルシューティング入門 はじめの一歩編",
     "url": "https://qiita.com/keigodasu/items/a9af6512bf0ae942ca9f",
     "likes_count": 363,
@@ -414,14 +422,6 @@
     "created_at": "2015-06-16T07:50:53+09:00",
     "updated_at": "2016-02-02T10:39:35+09:00",
     "id": "cocottejs"
-  },
-  {
-    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
-    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
-    "likes_count": 362,
-    "created_at": "2015-06-10T07:55:27+09:00",
-    "updated_at": "2015-06-10T11:36:54+09:00",
-    "id": "jnchito"
   },
   {
     "title": "FirebaseのRulesを理解する",
@@ -514,7 +514,7 @@
   {
     "title": "Rubyのクラスメソッドとインスタンスメソッドの例",
     "url": "https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07",
-    "likes_count": 288,
+    "likes_count": 289,
     "created_at": "2015-06-30T23:23:51+09:00",
     "updated_at": "2015-06-30T23:23:51+09:00",
     "id": "tbpgr"

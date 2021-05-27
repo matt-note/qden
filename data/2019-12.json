@@ -26,7 +26,7 @@
   {
     "title": "同じチームにいて最高に心強かったエンジニアの特徴をまとめてみた",
     "url": "https://qiita.com/jofuku/items/6420097fd5ff4c44c24d",
-    "likes_count": 1869,
+    "likes_count": 1870,
     "created_at": "2019-12-22T09:59:17+09:00",
     "updated_at": "2020-01-19T15:59:20+09:00",
     "id": "jofuku"
@@ -34,7 +34,7 @@
   {
     "title": "【Webエンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた",
     "url": "https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f",
-    "likes_count": 1783,
+    "likes_count": 1784,
     "created_at": "2019-12-21T16:51:08+09:00",
     "updated_at": "2020-12-25T09:57:29+09:00",
     "id": "JunyaShibato"
@@ -44,7 +44,7 @@
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
     "likes_count": 1716,
     "created_at": "2019-12-20T15:18:16+09:00",
-    "updated_at": "2021-05-26T12:47:35+09:00",
+    "updated_at": "2021-05-27T16:22:59+09:00",
     "id": "kamesennin"
   },
   {
@@ -66,7 +66,7 @@
   {
     "title": "個人開発したアプリが大コケしてるので失敗要因を分析してみた",
     "url": "https://qiita.com/aiiro_swift/items/fe27eae6e708b187d341",
-    "likes_count": 1478,
+    "likes_count": 1479,
     "created_at": "2019-12-12T03:46:09+09:00",
     "updated_at": "2019-12-19T02:35:45+09:00",
     "id": "aiiro_swift"
@@ -90,7 +90,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1189,
+    "likes_count": 1190,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -114,7 +114,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1092,
+    "likes_count": 1097,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -122,7 +122,7 @@
   {
     "title": "GoF デザインパターン チートシート",
     "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 1012,
+    "likes_count": 1013,
     "created_at": "2019-12-24T12:53:20+09:00",
     "updated_at": "2019-12-24T14:49:39+09:00",
     "id": "tanakahisateru"
@@ -242,7 +242,7 @@
   {
     "title": "TypeScript で書く React コンポーネントを基礎から理解する",
     "url": "https://qiita.com/sangotaro/items/3ea63110517a1b66745b",
-    "likes_count": 614,
+    "likes_count": 615,
     "created_at": "2019-12-19T15:51:39+09:00",
     "updated_at": "2019-12-23T14:36:48+09:00",
     "id": "sangotaro"
@@ -282,7 +282,7 @@
   {
     "title": "VSCode で最高の LaTeX 環境を作る",
     "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 548,
+    "likes_count": 550,
     "created_at": "2019-12-16T07:03:05+09:00",
     "updated_at": "2021-04-04T19:09:55+09:00",
     "id": "rainbartown"
@@ -354,7 +354,7 @@
   {
     "title": "図解！ネットワークの7層を実務に当てはめてみた",
     "url": "https://qiita.com/manamin0521/items/1df1ec65637ad1620329",
-    "likes_count": 479,
+    "likes_count": 480,
     "created_at": "2019-12-19T11:00:20+09:00",
     "updated_at": "2020-12-10T10:44:13+09:00",
     "id": "manamin0521"
@@ -362,7 +362,7 @@
   {
     "title": "ドメイン駆動設計で貧乏を爆殺する",
     "url": "https://qiita.com/MinoDriven/items/39103fba2c7bb8f01e5c",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2019-12-19T11:26:18+09:00",
     "updated_at": "2019-12-29T10:45:06+09:00",
     "id": "MinoDriven"
@@ -458,10 +458,18 @@
   {
     "title": "font-familyについて本気で考えてみた",
     "url": "https://qiita.com/tsuka-rinorino/items/b30e03ce10aa38ac2a10",
-    "likes_count": 331,
+    "likes_count": 332,
     "created_at": "2019-12-22T13:02:27+09:00",
     "updated_at": "2020-03-07T23:56:06+09:00",
     "id": "tsuka-rinorino"
+  },
+  {
+    "title": "Ruby on Railsの現場でよく見る書き方【実例あり】",
+    "url": "https://qiita.com/ryokky59/items/988f25fa1fb6b9aefa8e",
+    "likes_count": 329,
+    "created_at": "2019-12-14T09:25:17+09:00",
+    "updated_at": "2019-12-16T09:30:27+09:00",
+    "id": "ryokky59"
   },
   {
     "title": "2019年末版 形態素解析器の比較",
@@ -470,14 +478,6 @@
     "created_at": "2019-12-16T02:38:55+09:00",
     "updated_at": "2020-05-18T21:46:07+09:00",
     "id": "hi-asano"
-  },
-  {
-    "title": "Ruby on Railsの現場でよく見る書き方【実例あり】",
-    "url": "https://qiita.com/ryokky59/items/988f25fa1fb6b9aefa8e",
-    "likes_count": 328,
-    "created_at": "2019-12-14T09:25:17+09:00",
-    "updated_at": "2019-12-16T09:30:27+09:00",
-    "id": "ryokky59"
   },
   {
     "title": "N予備校プログラミング入門コースで学べること",
@@ -490,7 +490,7 @@
   {
     "title": "Vue/Nuxt開発効率を3倍にするVSCode拡張機能セット",
     "url": "https://qiita.com/newt0/items/aeddc6a179ea3a464ed5",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2019-12-04T13:57:15+09:00",
     "updated_at": "2021-01-05T13:28:30+09:00",
     "id": "newt0"

@@ -90,7 +90,7 @@
   {
     "title": "Web APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02",
-    "likes_count": 1096,
+    "likes_count": 1097,
     "created_at": "2016-07-04T06:52:19+09:00",
     "updated_at": "2017-04-18T00:11:40+09:00",
     "id": "NagaokaKenichi"
@@ -162,7 +162,7 @@
   {
     "title": "【PHP超入門】HTTP（GET・POST）について",
     "url": "https://qiita.com/7968/items/4bf4d6f28284146c288f",
-    "likes_count": 922,
+    "likes_count": 925,
     "created_at": "2016-07-27T14:25:37+09:00",
     "updated_at": "2020-04-15T08:44:32+09:00",
     "id": "7968"
@@ -186,7 +186,7 @@
   {
     "title": "オブザーバーパターンから始めるRxSwift入門",
     "url": "https://qiita.com/k5n/items/17f845a75cce6b737d1e",
-    "likes_count": 863,
+    "likes_count": 864,
     "created_at": "2016-07-06T18:04:34+09:00",
     "updated_at": "2018-03-05T16:43:07+09:00",
     "id": "k5n"
@@ -394,10 +394,18 @@
   {
     "title": "Dockerコンテナ内で操作 attachとexecの違い",
     "url": "https://qiita.com/RyoMa_0923/items/9b5d2c4a97205692a560",
-    "likes_count": 304,
+    "likes_count": 305,
     "created_at": "2016-07-15T22:55:53+09:00",
     "updated_at": "2016-07-17T19:06:53+09:00",
     "id": "RyoMa_0923"
+  },
+  {
+    "title": "Rubyのメソッドの引数受け渡しまとめ",
+    "url": "https://qiita.com/raccy/items/1168c7e8849dedf70fa4",
+    "likes_count": 300,
+    "created_at": "2016-07-17T11:39:11+09:00",
+    "updated_at": "2019-12-26T07:25:32+09:00",
+    "id": "raccy"
   },
   {
     "title": "初心者でもカンタンにRailsの中身のコードをコードリーディングする方法",
@@ -410,7 +418,7 @@
   {
     "title": "Python openpyxlでExcelを操作",
     "url": "https://qiita.com/taito273/items/07e4332293c2c59799d1",
-    "likes_count": 288,
+    "likes_count": 289,
     "created_at": "2016-07-09T16:35:44+09:00",
     "updated_at": "2017-06-10T02:14:19+09:00",
     "id": "taito273"
@@ -426,7 +434,7 @@
   {
     "title": "【Spring Data JPA】自動実装されるメソッドの命名ルール",
     "url": "https://qiita.com/shindo_ryo/items/af7d12be264c2cc4b252",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2016-07-11T22:35:50+09:00",
     "updated_at": "2020-01-29T17:49:53+09:00",
     "id": "shindo_ryo"

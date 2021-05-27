@@ -98,7 +98,7 @@
   {
     "title": "フロント未学習の大学生が1週間でVue.jsを使ったポートフォリオを作った話",
     "url": "https://qiita.com/p1ass/items/a01578b782f17f573510",
-    "likes_count": 1082,
+    "likes_count": 1083,
     "created_at": "2018-10-11T20:31:44+09:00",
     "updated_at": "2019-10-19T14:53:35+09:00",
     "id": "p1ass"
@@ -122,7 +122,7 @@
   {
     "title": "1週間でVue.jsをマスターしようと思った時に参考にしたサイト",
     "url": "https://qiita.com/mimoe/items/56784c9d17ed34ee7533",
-    "likes_count": 865,
+    "likes_count": 866,
     "created_at": "2018-10-01T17:01:22+09:00",
     "updated_at": "2018-10-01T17:07:26+09:00",
     "id": "mimoe"
@@ -210,7 +210,7 @@
   {
     "title": "docker-compose.ymlの書き方について解説してみた",
     "url": "https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04",
-    "likes_count": 646,
+    "likes_count": 647,
     "created_at": "2018-10-14T00:53:56+09:00",
     "updated_at": "2019-05-05T12:30:58+09:00",
     "id": "yuta-ushijima"
@@ -218,7 +218,7 @@
   {
     "title": "まだXMLHttpRequestを使ってるの？　fetchのすすめ",
     "url": "https://qiita.com/uhyo/items/91649e260165b35fecd7",
-    "likes_count": 599,
+    "likes_count": 602,
     "created_at": "2018-10-09T01:31:28+09:00",
     "updated_at": "2020-03-25T15:42:42+09:00",
     "id": "uhyo"
@@ -280,6 +280,14 @@
     "id": "little_hand_s"
   },
   {
+    "title": "Pathを通すとは、環境変数とは",
+    "url": "https://qiita.com/fuwamaki/items/3d8af42cf7abee760a81",
+    "likes_count": 519,
+    "created_at": "2018-10-07T20:29:16+09:00",
+    "updated_at": "2019-11-29T13:09:52+09:00",
+    "id": "fuwamaki"
+  },
+  {
     "title": "JavaScriptの1行小ネタ集",
     "url": "https://qiita.com/Tksi/items/130bcf82bbfb0379b58b",
     "likes_count": 519,
@@ -288,19 +296,11 @@
     "id": "Tksi"
   },
   {
-    "title": "Pathを通すとは、環境変数とは",
-    "url": "https://qiita.com/fuwamaki/items/3d8af42cf7abee760a81",
-    "likes_count": 518,
-    "created_at": "2018-10-07T20:29:16+09:00",
-    "updated_at": "2019-11-29T13:09:52+09:00",
-    "id": "fuwamaki"
-  },
-  {
     "title": "Qiita週間ストック数ランキング【自動更新】",
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
-    "likes_count": 508,
+    "likes_count": 509,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-05-26T19:31:32+09:00",
+    "updated_at": "2021-05-27T19:31:30+09:00",
     "id": "kai_kou"
   },
   {
@@ -314,7 +314,7 @@
   {
     "title": "今更誰も教えてくれない、Unityにおけるアセット読み込みについての基礎知識",
     "url": "https://qiita.com/k7a/items/df6dd8ea66cbc5a1e21d",
-    "likes_count": 489,
+    "likes_count": 490,
     "created_at": "2018-10-18T15:55:08+09:00",
     "updated_at": "2019-03-18T18:39:49+09:00",
     "id": "k7a"
@@ -338,7 +338,7 @@
   {
     "title": "動的型付けと静的型付け",
     "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2018-10-24T08:24:11+09:00",
     "updated_at": "2021-03-09T16:04:55+09:00",
     "id": "toryuneko"
@@ -386,7 +386,7 @@
   {
     "title": "TypeScript で型定義ファイル( d.ts )がないときの対処法",
     "url": "https://qiita.com/Nossa/items/726cc3e67527e896ed1e",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2018-10-26T07:49:38+09:00",
     "updated_at": "2018-10-26T07:49:38+09:00",
     "id": "Nossa"

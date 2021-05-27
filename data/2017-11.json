@@ -74,7 +74,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 798,
+    "likes_count": 805,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -122,7 +122,7 @@
   {
     "title": "のび太と学ぶ「機械学習」～FX予測プログラムを作成～【第1話】if文作戦",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/45e3cfaa78e5f13d9389",
-    "likes_count": 628,
+    "likes_count": 627,
     "created_at": "2017-11-06T05:51:37+09:00",
     "updated_at": "2017-11-08T21:26:31+09:00",
     "id": "sugulu_Ogawa_ISID"
@@ -169,11 +169,11 @@
   },
   {
     "title": "「GoogleAnalytics見てアクセス解析して」って言われた時にまずしていること",
-    "url": "https://qiita.com/_makun_/items/a4ae7d61d15504a566ce",
+    "url": "https://qiita.com/PpJZ28dZke7RKK/items/a4ae7d61d15504a566ce",
     "likes_count": 556,
     "created_at": "2017-11-17T12:41:07+09:00",
     "updated_at": "2017-11-17T12:41:07+09:00",
-    "id": "_makun_"
+    "id": "PpJZ28dZke7RKK"
   },
   {
     "title": "Docker for Windowsで快適な環境を得るまでの そこそこ長い闘い",
@@ -194,7 +194,7 @@
   {
     "title": "draw.ioでAWSのインフラ構成図を書く",
     "url": "https://qiita.com/nave-m/items/68425f476b254a1a47b0",
-    "likes_count": 527,
+    "likes_count": 528,
     "created_at": "2017-11-12T18:58:16+09:00",
     "updated_at": "2019-11-16T10:19:26+09:00",
     "id": "nave-m"
@@ -234,7 +234,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 495,
+    "likes_count": 496,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -362,7 +362,7 @@
   {
     "title": "axiosのパラメータ指定方法まとめ",
     "url": "https://qiita.com/taroc/items/f22f7dd5d6d5443c72a4",
-    "likes_count": 379,
+    "likes_count": 380,
     "created_at": "2017-11-08T19:17:23+09:00",
     "updated_at": "2017-11-08T19:17:23+09:00",
     "id": "taroc"
@@ -386,7 +386,7 @@
   {
     "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
     "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2017-11-28T16:30:16+09:00",
     "updated_at": "2019-01-08T16:43:01+09:00",
     "id": "ryouzi"
@@ -394,10 +394,18 @@
   {
     "title": "【Swift】iOSアプリ開発で使える（使いたい）Swiftライブラリー",
     "url": "https://qiita.com/BlueEventHorizon/items/080f1e24a6c3d76a0df8",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2017-11-25T00:37:47+09:00",
     "updated_at": "2019-12-19T18:33:31+09:00",
     "id": "BlueEventHorizon"
+  },
+  {
+    "title": "Swiftとイニシャライザ",
+    "url": "https://qiita.com/shtnkgm/items/8b7979fc84a3cc065238",
+    "likes_count": 339,
+    "created_at": "2017-11-28T15:44:57+09:00",
+    "updated_at": "2018-02-05T01:11:35+09:00",
+    "id": "shtnkgm"
   },
   {
     "title": "CORS を分かってないから動くコード書いて理解する",
@@ -408,17 +416,9 @@
     "id": "mochizukikotaro"
   },
   {
-    "title": "Swiftとイニシャライザ",
-    "url": "https://qiita.com/shtnkgm/items/8b7979fc84a3cc065238",
-    "likes_count": 338,
-    "created_at": "2017-11-28T15:44:57+09:00",
-    "updated_at": "2018-02-05T01:11:35+09:00",
-    "id": "shtnkgm"
-  },
-  {
     "title": "Haskellの入門から中級者になるまでの指針",
     "url": "https://qiita.com/Lugendre/items/70e517e59698e0e435f5",
-    "likes_count": 334,
+    "likes_count": 335,
     "created_at": "2017-11-05T20:00:59+09:00",
     "updated_at": "2017-11-07T13:52:21+09:00",
     "id": "Lugendre"
