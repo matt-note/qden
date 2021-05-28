@@ -2,7 +2,7 @@
   {
     "title": "TypeScriptの型入門",
     "url": "https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a",
-    "likes_count": 3561,
+    "likes_count": 3565,
     "created_at": "2018-02-16T23:41:39+09:00",
     "updated_at": "2020-09-12T12:00:54+09:00",
     "id": "uhyo"
@@ -18,7 +18,7 @@
   {
     "title": "AtCoder 版！蟻本 (初級編)",
     "url": "https://qiita.com/drken/items/e77685614f3c6bf86f44",
-    "likes_count": 2306,
+    "likes_count": 2307,
     "created_at": "2018-02-20T10:13:31+09:00",
     "updated_at": "2021-03-28T21:46:26+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "エンジニア歴20数年の私が、設計書を書く際に心がけていること",
     "url": "https://qiita.com/y-some/items/90651c1e27f7798f87c6",
-    "likes_count": 2054,
+    "likes_count": 2055,
     "created_at": "2018-02-12T10:54:29+09:00",
     "updated_at": "2019-10-30T19:30:23+09:00",
     "id": "y-some"
@@ -50,7 +50,7 @@
   {
     "title": "エンジニアの次のステップへの勉強法",
     "url": "https://qiita.com/newta/items/f4aff8cdd8706d5d08c5",
-    "likes_count": 1840,
+    "likes_count": 1841,
     "created_at": "2018-02-02T16:46:18+09:00",
     "updated_at": "2018-02-04T01:48:14+09:00",
     "id": "newta"
@@ -106,7 +106,7 @@
   {
     "title": "Prettier 入門 ～ESLintとの違いを理解して併用する～",
     "url": "https://qiita.com/soarflat/items/06377f3b96964964a65d",
-    "likes_count": 1249,
+    "likes_count": 1250,
     "created_at": "2018-02-22T01:46:10+09:00",
     "updated_at": "2021-05-27T10:31:50+09:00",
     "id": "soarflat"
@@ -114,7 +114,7 @@
   {
     "title": "今さらProtocol Buffersと、手に馴染む道具の話",
     "url": "https://qiita.com/yugui/items/160737021d25d761b353",
-    "likes_count": 1192,
+    "likes_count": 1194,
     "created_at": "2018-02-07T20:42:12+09:00",
     "updated_at": "2020-07-05T11:46:28+09:00",
     "id": "yugui"
@@ -170,7 +170,7 @@
   {
     "title": "軽い気持ちでLinkedListを使ったら休出する羽目になった話",
     "url": "https://qiita.com/neko_machi/items/d620c4a8958e74df3550",
-    "likes_count": 772,
+    "likes_count": 773,
     "created_at": "2018-02-18T18:34:08+09:00",
     "updated_at": "2018-02-28T21:59:24+09:00",
     "id": "neko_machi"
@@ -258,7 +258,7 @@
   {
     "title": "VueCLIからVue.js入門①【VueCLIで出てくるファイルを概要図で理解】",
     "url": "https://qiita.com/po3rin/items/3968f825f3c86f9c4e21",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2018-02-18T22:35:53+09:00",
     "updated_at": "2020-07-30T17:41:29+09:00",
     "id": "po3rin"
@@ -266,7 +266,7 @@
   {
     "title": "Pythonで簡単なGUIを作れる「Tkinter」を使おう",
     "url": "https://qiita.com/CyberRex/items/90eb450310f1697d03e9",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2018-02-16T16:08:33+09:00",
     "updated_at": "2020-07-30T16:55:04+09:00",
     "id": "CyberRex"
@@ -280,20 +280,20 @@
     "id": "ditflame"
   },
   {
+    "title": "Python の HTTP クライアントは urllib.request で十分",
+    "url": "https://qiita.com/hoto17296/items/8fcf55cc6cd823a18217",
+    "likes_count": 428,
+    "created_at": "2018-02-28T12:07:33+09:00",
+    "updated_at": "2019-12-18T10:29:56+09:00",
+    "id": "hoto17296"
+  },
+  {
     "title": "経営者マインドが足りない！vs. 現場に任せてくれない！の対立をなくすカードゲームをつくった話",
     "url": "https://qiita.com/hirokidaichi/items/257cd3370f77f2a44737",
     "likes_count": 427,
     "created_at": "2018-02-21T19:57:48+09:00",
     "updated_at": "2018-02-22T18:39:17+09:00",
     "id": "hirokidaichi"
-  },
-  {
-    "title": "Python の HTTP クライアントは urllib.request で十分",
-    "url": "https://qiita.com/hoto17296/items/8fcf55cc6cd823a18217",
-    "likes_count": 427,
-    "created_at": "2018-02-28T12:07:33+09:00",
-    "updated_at": "2019-12-18T10:29:56+09:00",
-    "id": "hoto17296"
   },
   {
     "title": "“Web Componentsだけ” で新サービスを実装して見えたこと",
@@ -378,7 +378,7 @@
   {
     "title": "Raspberry PiでWebサーバを構築し自作アプリを使う",
     "url": "https://qiita.com/jun6231jp/items/5596ef0c912c7f57ef0a",
-    "likes_count": 318,
+    "likes_count": 320,
     "created_at": "2018-02-09T00:18:04+09:00",
     "updated_at": "2020-10-29T10:26:41+09:00",
     "id": "jun6231jp"
@@ -394,7 +394,7 @@
   {
     "title": "OpenAI Gym 入門",
     "url": "https://qiita.com/ishizakiiii/items/75bc2176a1e0b65bdd16",
-    "likes_count": 304,
+    "likes_count": 305,
     "created_at": "2018-02-10T22:49:30+09:00",
     "updated_at": "2019-02-22T08:55:05+09:00",
     "id": "ishizakiiii"

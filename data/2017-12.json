@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5478,
+    "likes_count": 5479,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2035,
+    "likes_count": 2036,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -26,7 +26,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1375,
+    "likes_count": 1377,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -58,7 +58,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1147,
+    "likes_count": 1149,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -138,7 +138,7 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 854,
+    "likes_count": 855,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
@@ -162,7 +162,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 815,
+    "likes_count": 816,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -280,20 +280,20 @@
     "id": "SatoTakumi"
   },
   {
+    "title": "Django データベース操作 についてのまとめ",
+    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
+    "likes_count": 611,
+    "created_at": "2017-12-26T14:03:46+09:00",
+    "updated_at": "2017-12-28T13:03:50+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "カプセルネットワークはニューラルネットワークを超えるか。",
     "url": "https://qiita.com/hiyoko9t/items/f426cba38b6ca1a7aa2b",
     "likes_count": 610,
     "created_at": "2017-12-10T19:58:15+09:00",
     "updated_at": "2017-12-12T20:00:55+09:00",
     "id": "hiyoko9t"
-  },
-  {
-    "title": "Django データベース操作 についてのまとめ",
-    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 610,
-    "created_at": "2017-12-26T14:03:46+09:00",
-    "updated_at": "2017-12-28T13:03:50+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "Dialogflow入門",
@@ -314,7 +314,7 @@
   {
     "title": " Nuxt.js使ってみた",
     "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2017-12-15T23:18:21+09:00",
     "updated_at": "2021-01-15T16:23:44+09:00",
     "id": "_takeshi_24"
@@ -394,7 +394,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 524,
+    "likes_count": 525,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -682,7 +682,7 @@
   {
     "title": "線形な手法とカーネル法（回帰分析）",
     "url": "https://qiita.com/wsuzume/items/09a59036c8944fd563ff",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2017-12-07T02:39:13+09:00",
     "updated_at": "2020-11-28T13:29:32+09:00",
     "id": "wsuzume"
@@ -738,7 +738,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 313,
+    "likes_count": 314,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2021-04-17T12:31:45+09:00",
     "id": "nightyknite"
