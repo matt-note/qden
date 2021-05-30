@@ -10,7 +10,7 @@
   {
     "title": "トップデベロッパーになるために作成したいアプリ8選",
     "url": "https://qiita.com/baby-degu/items/f905c8ee972cf46ce11b",
-    "likes_count": 3189,
+    "likes_count": 3192,
     "created_at": "2019-11-10T21:29:43+09:00",
     "updated_at": "2021-02-10T21:36:50+09:00",
     "id": "baby-degu"
@@ -42,7 +42,7 @@
   {
     "title": "フロントエンドのコーディング課題６選-このフロントエンドの課題、実装できますか？",
     "url": "https://qiita.com/baby-degu/items/d68e52a0727248ba2750",
-    "likes_count": 1823,
+    "likes_count": 1824,
     "created_at": "2019-11-21T06:51:33+09:00",
     "updated_at": "2020-03-15T21:11:38+09:00",
     "id": "baby-degu"
@@ -202,7 +202,7 @@
   {
     "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
     "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 671,
+    "likes_count": 673,
     "created_at": "2019-11-21T16:30:57+09:00",
     "updated_at": "2020-10-14T00:17:51+09:00",
     "id": "ryokkkke"
@@ -210,7 +210,7 @@
   {
     "title": "ようこそdotfilesの世界へ",
     "url": "https://qiita.com/yutkat/items/c6c7584d9795799ee164",
-    "likes_count": 639,
+    "likes_count": 640,
     "created_at": "2019-12-01T00:30:44+09:00",
     "updated_at": "2021-02-23T03:36:42+09:00",
     "id": "yutkat"
@@ -290,7 +290,7 @@
   {
     "title": "RDBの限界とNoSQLの登場",
     "url": "https://qiita.com/1amageek/items/3dbbc3112493a73880d0",
-    "likes_count": 536,
+    "likes_count": 537,
     "created_at": "2019-11-11T21:55:56+09:00",
     "updated_at": "2021-03-29T01:08:03+09:00",
     "id": "1amageek"
@@ -346,7 +346,7 @@
   {
     "title": "ぼくのVimさばきを支える設定とその導入手順を紹介する",
     "url": "https://qiita.com/jiroshin/items/ee86ea426a51fa24b319",
-    "likes_count": 460,
+    "likes_count": 461,
     "created_at": "2019-11-27T13:29:20+09:00",
     "updated_at": "2020-12-30T21:53:00+09:00",
     "id": "jiroshin"
@@ -354,7 +354,7 @@
   {
     "title": "【検証】ディープラーニングがあるからといって、競馬で回収率100%を簡単に超えられるわけではない",
     "url": "https://qiita.com/kscntt/items/3f215a945c32a2bbcd3c",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2019-11-16T23:26:11+09:00",
     "updated_at": "2019-11-16T23:26:11+09:00",
     "id": "kscntt"
@@ -376,6 +376,14 @@
     "id": "eigs"
   },
   {
+    "title": "AWS,Azure,GCPの3大クラウドのアーキテクト試験に合格してみての個人的比較",
+    "url": "https://qiita.com/yomon8/items/f812079d0ce631f73d45",
+    "likes_count": 436,
+    "created_at": "2019-11-21T20:20:09+09:00",
+    "updated_at": "2020-03-19T10:09:33+09:00",
+    "id": "yomon8"
+  },
+  {
     "title": "誤解されることが多い「テスト自動化」の範囲について",
     "url": "https://qiita.com/gevanni/items/ff9a27936a1a6df28b9a",
     "likes_count": 435,
@@ -390,14 +398,6 @@
     "created_at": "2019-11-15T22:47:51+09:00",
     "updated_at": "2020-03-09T11:53:54+09:00",
     "id": "ramuneru"
-  },
-  {
-    "title": "AWS,Azure,GCPの3大クラウドのアーキテクト試験に合格してみての個人的比較",
-    "url": "https://qiita.com/yomon8/items/f812079d0ce631f73d45",
-    "likes_count": 435,
-    "created_at": "2019-11-21T20:20:09+09:00",
-    "updated_at": "2020-03-19T10:09:33+09:00",
-    "id": "yomon8"
   },
   {
     "title": "10分で理解する Selenium",
@@ -416,20 +416,20 @@
     "id": "rema424"
   },
   {
+    "title": "やさしい図解で学ぶ　ER図　表記法一覧",
+    "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
+    "likes_count": 409,
+    "created_at": "2019-11-11T19:20:33+09:00",
+    "updated_at": "2020-03-02T12:18:46+09:00",
+    "id": "ramuneru"
+  },
+  {
     "title": "OpenCV をビジュアルプログラミングできるアプリを Electron + Vue.js で作成",
     "url": "https://qiita.com/ufield/items/f3dc7d9a4174a2bad007",
     "likes_count": 402,
     "created_at": "2019-11-23T09:47:30+09:00",
     "updated_at": "2019-11-23T09:47:30+09:00",
     "id": "ufield"
-  },
-  {
-    "title": "やさしい図解で学ぶ　ER図　表記法一覧",
-    "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
-    "likes_count": 399,
-    "created_at": "2019-11-11T19:20:33+09:00",
-    "updated_at": "2020-03-02T12:18:46+09:00",
-    "id": "ramuneru"
   },
   {
     "title": "開発者なら知っておくべき 11 のコンソールコマンド",
