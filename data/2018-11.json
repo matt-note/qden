@@ -26,7 +26,7 @@
   {
     "title": "会議を爆速にする、Visual Studio Code 超便利スニペット集",
     "url": "https://qiita.com/kitfactory/items/31cdf80cf1d3d8b42de8",
-    "likes_count": 1626,
+    "likes_count": 1627,
     "created_at": "2018-11-19T09:11:08+09:00",
     "updated_at": "2018-11-19T09:11:08+09:00",
     "id": "kitfactory"
@@ -34,7 +34,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1503,
+    "likes_count": 1505,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2021-04-25T17:54:48+09:00",
     "id": "elipmoc101"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1354,
+    "likes_count": 1356,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -74,7 +74,7 @@
   {
     "title": "たった7行でテトリスを実装「七行プログラミング」とは",
     "url": "https://qiita.com/ryuichi1208/items/f9e6ac2b99bbe4fc82d3",
-    "likes_count": 1210,
+    "likes_count": 1211,
     "created_at": "2018-11-27T22:24:44+09:00",
     "updated_at": "2018-11-27T22:31:56+09:00",
     "id": "ryuichi1208"
@@ -90,7 +90,7 @@
   {
     "title": "オブジェクト指向のいろは",
     "url": "https://qiita.com/nrslib/items/73bf176147192c402049",
-    "likes_count": 1120,
+    "likes_count": 1121,
     "created_at": "2018-11-08T07:23:49+09:00",
     "updated_at": "2018-12-23T22:55:48+09:00",
     "id": "nrslib"
@@ -186,7 +186,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 702,
+    "likes_count": 703,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -218,7 +218,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 654,
+    "likes_count": 655,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -242,7 +242,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 552,
+    "likes_count": 554,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -298,7 +298,7 @@
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
     "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 478,
+    "likes_count": 479,
     "created_at": "2018-11-18T19:13:03+09:00",
     "updated_at": "2019-10-05T07:32:56+09:00",
     "id": "kd9951"
@@ -306,7 +306,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 472,
+    "likes_count": 473,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -318,6 +318,14 @@
     "created_at": "2018-11-16T01:39:38+09:00",
     "updated_at": "2019-09-29T19:21:38+09:00",
     "id": "uhyo"
+  },
+  {
+    "title": "RedisとElastiCacheを分かりやすくまとめてみた",
+    "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
+    "likes_count": 469,
+    "created_at": "2018-11-19T09:00:44+09:00",
+    "updated_at": "2019-11-21T15:42:12+09:00",
+    "id": "gold-kou"
   },
   {
     "title": "2万人に聞いた、2018年の最新JavaScript事情",
@@ -334,14 +342,6 @@
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
-  },
-  {
-    "title": "RedisとElastiCacheを分かりやすくまとめてみた",
-    "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
-    "likes_count": 468,
-    "created_at": "2018-11-19T09:00:44+09:00",
-    "updated_at": "2019-11-21T15:42:12+09:00",
-    "id": "gold-kou"
   },
   {
     "title": "State of SEO for SPA 2019",
@@ -384,20 +384,20 @@
     "id": "okoppe8"
   },
   {
+    "title": "pipでアップデートするときのコマンド pip update",
+    "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
+    "likes_count": 414,
+    "created_at": "2018-11-26T22:41:11+09:00",
+    "updated_at": "2020-12-29T14:00:19+09:00",
+    "id": "HyunwookPark"
+  },
+  {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
     "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
     "likes_count": 413,
     "created_at": "2018-11-06T02:18:59+09:00",
     "updated_at": "2018-11-06T02:18:59+09:00",
     "id": "psychoroid"
-  },
-  {
-    "title": "pipでアップデートするときのコマンド pip update",
-    "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 413,
-    "created_at": "2018-11-26T22:41:11+09:00",
-    "updated_at": "2020-12-29T14:00:19+09:00",
-    "id": "HyunwookPark"
   },
   {
     "title": "2019年版: 脱Babel!フロント/JS開発をTypeScriptに移行するための環境整備マニュアル",

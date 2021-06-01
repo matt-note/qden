@@ -2,7 +2,7 @@
   {
     "title": "アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選 6 問 ～",
     "url": "https://qiita.com/drken/items/f909b79ee03e679c7142",
-    "likes_count": 2175,
+    "likes_count": 2176,
     "created_at": "2018-04-19T09:05:44+09:00",
     "updated_at": "2021-01-24T15:09:37+09:00",
     "id": "drken"
@@ -26,7 +26,7 @@
   {
     "title": "ソートを極める！ 〜 なぜソートを学ぶのか 〜",
     "url": "https://qiita.com/drken/items/44c60118ab3703f7727f",
-    "likes_count": 1977,
+    "likes_count": 1978,
     "created_at": "2018-04-05T09:29:06+09:00",
     "updated_at": "2019-10-17T14:02:36+09:00",
     "id": "drken"
@@ -130,7 +130,7 @@
   {
     "title": "ngrokが便利すぎる",
     "url": "https://qiita.com/mininobu/items/b45dbc70faedf30f484e",
-    "likes_count": 997,
+    "likes_count": 998,
     "created_at": "2018-04-15T00:55:28+09:00",
     "updated_at": "2018-04-15T00:55:28+09:00",
     "id": "mininobu"
@@ -202,7 +202,7 @@
   {
     "title": "排他制御（楽観ロック・悲観ロック）の基礎　",
     "url": "https://qiita.com/NagaokaKenichi/items/73040df85b7bd4e9ecfc",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2018-04-08T18:17:21+09:00",
     "updated_at": "2018-04-09T08:59:54+09:00",
     "id": "NagaokaKenichi"
@@ -234,7 +234,7 @@
   {
     "title": "グレースケール画像のうんちく",
     "url": "https://qiita.com/yoya/items/96c36b069e74398796f3",
-    "likes_count": 670,
+    "likes_count": 671,
     "created_at": "2018-04-13T01:44:35+09:00",
     "updated_at": "2021-05-08T02:08:53+09:00",
     "id": "yoya"
@@ -282,7 +282,7 @@
   {
     "title": "ESLintのルールを全部手動で設定するのは大変だからやめておけ",
     "url": "https://qiita.com/khsk/items/0f200fc3a4a3542efa90",
-    "likes_count": 585,
+    "likes_count": 587,
     "created_at": "2018-04-13T14:14:08+09:00",
     "updated_at": "2018-04-16T10:33:05+09:00",
     "id": "khsk"
@@ -314,7 +314,7 @@
   {
     "title": "Netflixがカスタマーを誰よりも理解するためのデータ分析プロセス、コンシューマー・サイエンスの紹介",
     "url": "https://qiita.com/KanNishida/items/12f9ae0cee98fd54b0bb",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2018-04-30T15:55:51+09:00",
     "updated_at": "2018-05-05T03:11:07+09:00",
     "id": "KanNishida"
@@ -394,7 +394,7 @@
   {
     "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
     "url": "https://qiita.com/drken/items/97e37dd6143e33a64c8c",
-    "likes_count": 457,
+    "likes_count": 459,
     "created_at": "2018-04-20T10:48:11+09:00",
     "updated_at": "2018-07-04T17:57:29+09:00",
     "id": "drken"
@@ -402,7 +402,7 @@
   {
     "title": "iPhone画面サイズ早見表（図付き）",
     "url": "https://qiita.com/pe-ta/items/b3b754bde584abc98f44",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2018-04-25T08:11:20+09:00",
     "updated_at": "2020-12-09T10:20:54+09:00",
     "id": "pe-ta"
@@ -410,10 +410,18 @@
   {
     "title": "Goで学ぶポインタとアドレス",
     "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2018-04-27T14:31:26+09:00",
     "updated_at": "2019-05-18T15:44:03+09:00",
     "id": "Sekky0905"
+  },
+  {
+    "title": "分析関数（ウインドウ関数）をわかりやすく説明してみた",
+    "url": "https://qiita.com/tlokweng/items/fc13dc30cc1aa28231c5",
+    "likes_count": 430,
+    "created_at": "2018-04-17T06:37:21+09:00",
+    "updated_at": "2018-09-27T20:53:50+09:00",
+    "id": "tlokweng"
   },
   {
     "title": "底辺文系卒->SIer->スタートアップに辿り着く中でエンジニアとして成長するのに効果的だったと思うこと",
@@ -422,14 +430,6 @@
     "created_at": "2018-04-06T14:00:31+09:00",
     "updated_at": "2018-04-07T19:00:40+09:00",
     "id": "rintaro-ishikawa"
-  },
-  {
-    "title": "分析関数（ウインドウ関数）をわかりやすく説明してみた",
-    "url": "https://qiita.com/tlokweng/items/fc13dc30cc1aa28231c5",
-    "likes_count": 429,
-    "created_at": "2018-04-17T06:37:21+09:00",
-    "updated_at": "2018-09-27T20:53:50+09:00",
-    "id": "tlokweng"
   },
   {
     "title": "レビューコメントにラベルをつけるだけで開発効率があがって幸せになれそうな話",
@@ -442,7 +442,7 @@
   {
     "title": "fish shellが結構良かった話",
     "url": "https://qiita.com/hennin/items/33758226a0de8c963ddf",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2018-04-27T02:29:44+09:00",
     "updated_at": "2021-02-21T09:23:47+09:00",
     "id": "hennin"
@@ -490,7 +490,7 @@
   {
     "title": "【詳解】抽象クラスとインタフェースを使いこなそう！！",
     "url": "https://qiita.com/yoshinori_hisakawa/items/cc094bef1caa011cb739",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2018-04-22T11:04:24+09:00",
     "updated_at": "2018-04-22T12:18:02+09:00",
     "id": "yoshinori_hisakawa"
