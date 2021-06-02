@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3056,
+    "likes_count": 3058,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-05-06T13:08:59+09:00",
     "id": "upura"
@@ -146,7 +146,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 881,
+    "likes_count": 882,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -210,7 +210,7 @@
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 687,
+    "likes_count": 689,
     "created_at": "2019-03-14T23:15:05+09:00",
     "updated_at": "2020-12-13T21:40:32+09:00",
     "id": "nrslib"
@@ -266,7 +266,7 @@
   {
     "title": "モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace",
     "url": "https://qiita.com/yu4u/items/078054dfb5592cbb80cc",
-    "likes_count": 615,
+    "likes_count": 616,
     "created_at": "2019-03-06T08:49:26+09:00",
     "updated_at": "2019-03-06T09:56:22+09:00",
     "id": "yu4u"
@@ -274,7 +274,7 @@
   {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 603,
+    "likes_count": 607,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
@@ -400,20 +400,20 @@
     "id": "kazupaka"
   },
   {
+    "title": "JavaのGCの仕組みを整理する",
+    "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
+    "likes_count": 419,
+    "created_at": "2019-03-31T11:59:37+09:00",
+    "updated_at": "2019-03-31T12:00:49+09:00",
+    "id": "e_tyubo"
+  },
+  {
     "title": "JavaScript で陥りやすい失敗例を振り返る",
     "url": "https://qiita.com/yuki153/items/c909c54204eaab6ca1b2",
     "likes_count": 418,
     "created_at": "2019-03-15T19:39:37+09:00",
     "updated_at": "2019-03-17T10:14:46+09:00",
     "id": "yuki153"
-  },
-  {
-    "title": "JavaのGCの仕組みを整理する",
-    "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 418,
-    "created_at": "2019-03-31T11:59:37+09:00",
-    "updated_at": "2019-03-31T12:00:49+09:00",
-    "id": "e_tyubo"
   },
   {
     "title": "Visual studio codeで競プロ環境構築[mac OS]",
@@ -432,20 +432,20 @@
     "id": "noranuk0"
   },
   {
+    "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
+    "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
+    "likes_count": 388,
+    "created_at": "2019-03-22T20:21:49+09:00",
+    "updated_at": "2019-04-04T14:22:15+09:00",
+    "id": "tancoro"
+  },
+  {
     "title": "10分くらいでわかる、KubernetesとEKSの何が便利なのか",
     "url": "https://qiita.com/masachaco/items/3e50a1ac65cdd661a734",
     "likes_count": 387,
     "created_at": "2019-03-09T15:23:25+09:00",
     "updated_at": "2019-03-09T16:21:58+09:00",
     "id": "masachaco"
-  },
-  {
-    "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
-    "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
-    "likes_count": 387,
-    "created_at": "2019-03-22T20:21:49+09:00",
-    "updated_at": "2019-04-04T14:22:15+09:00",
-    "id": "tancoro"
   },
   {
     "title": "誰でもわかりやすいGitのコミットメッセージが書けるジェネレーターを作りました",
@@ -514,7 +514,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -530,7 +530,7 @@
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"
@@ -546,7 +546,7 @@
   {
     "title": "今話題のチャットボットを作ってみた　～スマホ・ＰＣ同時対応のチャットUIを爆速で～",
     "url": "https://qiita.com/riversun/items/279c1dd5ab40a1c8c8cf",
-    "likes_count": 291,
+    "likes_count": 292,
     "created_at": "2019-04-01T08:45:59+09:00",
     "updated_at": "2019-09-10T17:41:15+09:00",
     "id": "riversun"
@@ -562,7 +562,7 @@
   {
     "title": "【入門】Redis",
     "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 283,
+    "likes_count": 285,
     "created_at": "2019-03-22T16:43:36+09:00",
     "updated_at": "2020-09-14T17:26:22+09:00",
     "id": "wind-up-bird"
