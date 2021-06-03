@@ -10,7 +10,7 @@
   {
     "title": "初心者エンジニアにおすすめしたい「進捗どうなった？」と言われないための仕事の進め方",
     "url": "https://qiita.com/soyanchu/items/d1cb9785fc211941a009",
-    "likes_count": 2338,
+    "likes_count": 2339,
     "created_at": "2015-11-19T16:38:11+09:00",
     "updated_at": "2020-11-20T22:24:54+09:00",
     "id": "soyanchu"
@@ -42,7 +42,7 @@
   {
     "title": "日本人が間違いやすいコーディング上の英語",
     "url": "https://qiita.com/sue738/items/9754b3cad13272bd3d39",
-    "likes_count": 1534,
+    "likes_count": 1535,
     "created_at": "2015-11-13T11:15:14+09:00",
     "updated_at": "2015-11-25T11:07:21+09:00",
     "id": "sue738"
@@ -98,7 +98,7 @@
   {
     "title": "Dockerコンテナの作成、起動〜停止まで",
     "url": "https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53",
-    "likes_count": 1120,
+    "likes_count": 1121,
     "created_at": "2015-11-16T16:38:52+09:00",
     "updated_at": "2015-11-16T16:38:52+09:00",
     "id": "kooohei"
@@ -122,7 +122,7 @@
   {
     "title": "Bashの便利な構文だがよく忘れてしまうものの備忘録",
     "url": "https://qiita.com/Ping/items/57fd75465dfada76e633",
-    "likes_count": 1057,
+    "likes_count": 1058,
     "created_at": "2015-11-26T20:13:40+09:00",
     "updated_at": "2021-04-20T13:17:07+09:00",
     "id": "Ping"
@@ -146,7 +146,7 @@
   {
     "title": "テスト仕様書",
     "url": "https://qiita.com/jun2014/items/cad7328978e709fe79f4",
-    "likes_count": 968,
+    "likes_count": 970,
     "created_at": "2015-11-11T01:33:58+09:00",
     "updated_at": "2021-06-01T19:39:37+09:00",
     "id": "jun2014"
@@ -162,7 +162,7 @@
   {
     "title": "Pythonではじまる、型のある世界",
     "url": "https://qiita.com/icoxfog417/items/c17eb042f4735b7924a3",
-    "likes_count": 930,
+    "likes_count": 931,
     "created_at": "2015-11-02T16:34:03+09:00",
     "updated_at": "2017-02-26T20:12:17+09:00",
     "id": "icoxfog417"
@@ -448,20 +448,20 @@
     "id": "zembutsu"
   },
   {
+    "title": "CSSとSassのコーディングスタイルガイドを作ってみた",
+    "url": "https://qiita.com/manabuyasuda/items/5d83a5516051cc58a274",
+    "likes_count": 326,
+    "created_at": "2015-11-15T02:17:00+09:00",
+    "updated_at": "2016-01-14T01:08:06+09:00",
+    "id": "manabuyasuda"
+  },
+  {
     "title": "NSErrorが便利すぎる件 Appleありがとう",
     "url": "https://qiita.com/koitaro/items/b4aef035fad757d8ade4",
     "likes_count": 325,
     "created_at": "2015-11-11T11:48:58+09:00",
     "updated_at": "2015-11-11T21:38:24+09:00",
     "id": "koitaro"
-  },
-  {
-    "title": "CSSとSassのコーディングスタイルガイドを作ってみた",
-    "url": "https://qiita.com/manabuyasuda/items/5d83a5516051cc58a274",
-    "likes_count": 325,
-    "created_at": "2015-11-15T02:17:00+09:00",
-    "updated_at": "2016-01-14T01:08:06+09:00",
-    "id": "manabuyasuda"
   },
   {
     "title": "TensorFlowチュートリアル - ML初心者のためのMNIST（翻訳）",
@@ -496,20 +496,20 @@
     "id": "syoyo"
   },
   {
+    "title": "【レコメンド】内容ベースと協調フィルタリングの長所と短所・実装方法まとめ",
+    "url": "https://qiita.com/haminiku/items/f5008a57a870e0188f63",
+    "likes_count": 306,
+    "created_at": "2015-11-13T07:22:57+09:00",
+    "updated_at": "2015-11-13T07:22:57+09:00",
+    "id": "haminiku"
+  },
+  {
     "title": "Redux入門 6日目 ReduxとReactの連携(公式ドキュメント和訳)",
     "url": "https://qiita.com/kitagawamac/items/d769c85f446994349b52",
     "likes_count": 306,
     "created_at": "2015-11-26T01:21:51+09:00",
     "updated_at": "2019-08-14T15:35:19+09:00",
     "id": "kitagawamac"
-  },
-  {
-    "title": "【レコメンド】内容ベースと協調フィルタリングの長所と短所・実装方法まとめ",
-    "url": "https://qiita.com/haminiku/items/f5008a57a870e0188f63",
-    "likes_count": 305,
-    "created_at": "2015-11-13T07:22:57+09:00",
-    "updated_at": "2015-11-13T07:22:57+09:00",
-    "id": "haminiku"
   },
   {
     "title": "DOMContentLoaded周りの処理を詳しく調べてみました",
@@ -538,7 +538,7 @@
   {
     "title": "GitHubにssh接続できるようにする",
     "url": "https://qiita.com/0ta2/items/25c27d447378b13a1ac3",
-    "likes_count": 284,
+    "likes_count": 285,
     "created_at": "2015-11-08T22:41:46+09:00",
     "updated_at": "2021-04-30T20:38:56+09:00",
     "id": "0ta2"

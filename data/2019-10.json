@@ -10,7 +10,7 @@
   {
     "title": "3年かけてたどり着いた英語記事を読むための方法",
     "url": "https://qiita.com/tomoyamachi/items/cdb2ccb78c6c9651e0ab",
-    "likes_count": 2423,
+    "likes_count": 2424,
     "created_at": "2019-10-25T08:12:23+09:00",
     "updated_at": "2019-10-27T03:06:05+09:00",
     "id": "tomoyamachi"
@@ -82,7 +82,7 @@
   {
     "title": "GitHubのスターは金にならない",
     "url": "https://qiita.com/rana_kualu/items/db62ad8d7dc0a4cce9db",
-    "likes_count": 915,
+    "likes_count": 916,
     "created_at": "2019-10-14T20:31:09+09:00",
     "updated_at": "2020-04-24T00:51:09+09:00",
     "id": "rana_kualu"
@@ -98,7 +98,7 @@
   {
     "title": "Goを始めて1年間で最高にお世話になったGo関連ブックマークを晒します。",
     "url": "https://qiita.com/po3rin/items/0d8fef14bfe222f334b7",
-    "likes_count": 884,
+    "likes_count": 883,
     "created_at": "2019-10-09T18:56:46+09:00",
     "updated_at": "2020-03-15T16:14:31+09:00",
     "id": "po3rin"
@@ -162,7 +162,7 @@
   {
     "title": "そろそろJavaScriptに採用されそうなOptional Chainingを今さら徹底解説",
     "url": "https://qiita.com/uhyo/items/6cd88c0ea4dc6289387a",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2019-10-20T17:02:06+09:00",
     "updated_at": "2020-04-16T01:26:20+09:00",
     "id": "uhyo"
@@ -226,7 +226,7 @@
   {
     "title": "2019年最強の画像認識モデルEfficientNet解説",
     "url": "https://qiita.com/omiita/items/83643f78baabfa210ab1",
-    "likes_count": 569,
+    "likes_count": 570,
     "created_at": "2019-10-30T18:25:06+09:00",
     "updated_at": "2020-04-21T16:09:21+09:00",
     "id": "omiita"
@@ -272,20 +272,20 @@
     "id": "ampersand-dev"
   },
   {
+    "title": "未経験者には全てが黒魔術に見える呪いがある",
+    "url": "https://qiita.com/mackey0022/items/73f77873facc22e22c8c",
+    "likes_count": 498,
+    "created_at": "2019-10-16T08:46:46+09:00",
+    "updated_at": "2020-04-10T09:16:57+09:00",
+    "id": "mackey0022"
+  },
+  {
     "title": "Rustはこうやって勉強するといいんじゃないか、という一例",
     "url": "https://qiita.com/TakaakiFuruse/items/13e9ad9d1efe7e17811c",
     "likes_count": 498,
     "created_at": "2019-10-24T11:58:04+09:00",
     "updated_at": "2021-01-25T09:46:54+09:00",
     "id": "TakaakiFuruse"
-  },
-  {
-    "title": "未経験者には全てが黒魔術に見える呪いがある",
-    "url": "https://qiita.com/mackey0022/items/73f77873facc22e22c8c",
-    "likes_count": 497,
-    "created_at": "2019-10-16T08:46:46+09:00",
-    "updated_at": "2020-04-10T09:16:57+09:00",
-    "id": "mackey0022"
   },
   {
     "title": "Vue.jsを習得するためにやった事 まとめ（随時更新）",
@@ -312,20 +312,20 @@
     "id": "kinmi"
   },
   {
-    "title": "5分でわかるReact Hooks",
-    "url": "https://qiita.com/Mitsuzara/items/98d1bc4a83265a764084",
-    "likes_count": 376,
-    "created_at": "2019-10-15T09:28:53+09:00",
-    "updated_at": "2019-10-15T12:22:39+09:00",
-    "id": "Mitsuzara"
-  },
-  {
     "title": "Tkinterを使うのであればPySimpleGUIを使ってみたらという話",
     "url": "https://qiita.com/dario_okazaki/items/656de21cab5c81cabe59",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2019-10-02T23:49:13+09:00",
     "updated_at": "2020-11-16T20:33:56+09:00",
     "id": "dario_okazaki"
+  },
+  {
+    "title": "5分でわかるReact Hooks",
+    "url": "https://qiita.com/Mitsuzara/items/98d1bc4a83265a764084",
+    "likes_count": 375,
+    "created_at": "2019-10-15T09:28:53+09:00",
+    "updated_at": "2019-10-15T12:22:39+09:00",
+    "id": "Mitsuzara"
   },
   {
     "title": "Firebaseで作ったWebサービスを3ヶ月運用してみて、ハマったこと・知っておきたかったこと",
@@ -346,7 +346,7 @@
   {
     "title": "OAuth 2.0 の勉強のために認可サーバーを自作する",
     "url": "https://qiita.com/TakahikoKawasaki/items/e508a14ed960347cff11",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2019-10-17T11:25:52+09:00",
     "updated_at": "2019-10-17T11:40:17+09:00",
     "id": "TakahikoKawasaki"
@@ -370,7 +370,7 @@
   {
     "title": "DockerでRuby on Railsの環境構築を行うためのステップ【Rails 6対応】",
     "url": "https://qiita.com/kodai_0122/items/795438d738386c2c1966",
-    "likes_count": 287,
+    "likes_count": 286,
     "created_at": "2019-10-18T12:15:20+09:00",
     "updated_at": "2020-02-27T14:49:25+09:00",
     "id": "kodai_0122"
@@ -410,7 +410,7 @@
   {
     "title": "DockerやECR, ECS, Fargateなど、コンテナ周りのAWS知識を効率的にキャッチアップしたい人のために",
     "url": "https://qiita.com/nyandora/items/0fa064f8a4402939673b",
-    "likes_count": 254,
+    "likes_count": 255,
     "created_at": "2019-10-12T16:38:47+09:00",
     "updated_at": "2020-03-03T16:58:58+09:00",
     "id": "nyandora"

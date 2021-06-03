@@ -50,7 +50,7 @@
   {
     "title": "忘れっぽい人のための正規表現チートシート",
     "url": "https://qiita.com/tossh/items/635aea9a529b9deb3038",
-    "likes_count": 1127,
+    "likes_count": 1128,
     "created_at": "2014-08-14T09:41:37+09:00",
     "updated_at": "2016-02-02T23:22:20+09:00",
     "id": "tossh"
@@ -122,7 +122,7 @@
   {
     "title": "MySQL初級者を脱するために勉強してること -INDEX編-",
     "url": "https://qiita.com/kkyouhei/items/e3502ef632c48d94541d",
-    "likes_count": 756,
+    "likes_count": 755,
     "created_at": "2014-08-09T22:23:33+09:00",
     "updated_at": "2014-08-11T11:18:39+09:00",
     "id": "kkyouhei"
@@ -178,7 +178,7 @@
   {
     "title": "Railsをバージョンアップし続けるために必要なこと",
     "url": "https://qiita.com/joker1007/items/82db0b5d1a7f2572710b",
-    "likes_count": 630,
+    "likes_count": 629,
     "created_at": "2014-08-28T02:45:22+09:00",
     "updated_at": "2014-08-28T02:45:22+09:00",
     "id": "joker1007"
@@ -232,20 +232,20 @@
     "id": "susieyy"
   },
   {
+    "title": "プロトコルとデリゲートのとても簡単なサンプルについて",
+    "url": "https://qiita.com/mochizukikotaro/items/a5bc60d92aa2d6fe52ca",
+    "likes_count": 572,
+    "created_at": "2014-08-12T10:10:06+09:00",
+    "updated_at": "2015-02-15T12:56:13+09:00",
+    "id": "mochizukikotaro"
+  },
+  {
     "title": "Requests の使い方 (Python Library)",
     "url": "https://qiita.com/sqrtxx/items/49beaa3795925e7de666",
     "likes_count": 571,
     "created_at": "2014-08-03T04:51:42+09:00",
     "updated_at": "2014-08-03T04:51:42+09:00",
     "id": "sqrtxx"
-  },
-  {
-    "title": "プロトコルとデリゲートのとても簡単なサンプルについて",
-    "url": "https://qiita.com/mochizukikotaro/items/a5bc60d92aa2d6fe52ca",
-    "likes_count": 571,
-    "created_at": "2014-08-12T10:10:06+09:00",
-    "updated_at": "2015-02-15T12:56:13+09:00",
-    "id": "mochizukikotaro"
   },
   {
     "title": "システム設計の流れ",
@@ -258,7 +258,7 @@
   {
     "title": "Ruby の private と protected 。歴史と使い分け",
     "url": "https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e",
-    "likes_count": 566,
+    "likes_count": 567,
     "created_at": "2014-08-18T22:16:06+09:00",
     "updated_at": "2016-08-16T21:46:37+09:00",
     "id": "tbpgr"
@@ -362,7 +362,7 @@
   {
     "title": "複数のファイル内の文字列をまとめて置換するLinuxコマンド",
     "url": "https://qiita.com/kkyouhei/items/b4ff839a2f36ba194df3",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2014-08-12T08:28:37+09:00",
     "updated_at": "2016-12-01T17:14:59+09:00",
     "id": "kkyouhei"
@@ -418,7 +418,7 @@
   {
     "title": "RailsでExcelを扱うGemまとめ",
     "url": "https://qiita.com/Kta-M/items/02a2c41c5624f75498aa",
-    "likes_count": 361,
+    "likes_count": 360,
     "created_at": "2014-08-24T10:44:13+09:00",
     "updated_at": "2014-08-24T10:44:47+09:00",
     "id": "Kta-M"
@@ -456,20 +456,20 @@
     "id": "keiono"
   },
   {
+    "title": "全探索アルゴリズム入門",
+    "url": "https://qiita.com/MasayaMizuhara/items/86099ad721a329e1d6cd",
+    "likes_count": 329,
+    "created_at": "2014-08-23T19:13:34+09:00",
+    "updated_at": "2014-08-23T19:13:34+09:00",
+    "id": "MasayaMizuhara"
+  },
+  {
     "title": "簡単なMarkdownエディタを作る",
     "url": "https://qiita.com/opengl-8080/items/56b4b6a9d31bac0cb3e2",
     "likes_count": 328,
     "created_at": "2014-08-21T00:01:34+09:00",
     "updated_at": "2014-08-23T00:18:50+09:00",
     "id": "opengl-8080"
-  },
-  {
-    "title": "全探索アルゴリズム入門",
-    "url": "https://qiita.com/MasayaMizuhara/items/86099ad721a329e1d6cd",
-    "likes_count": 328,
-    "created_at": "2014-08-23T19:13:34+09:00",
-    "updated_at": "2014-08-23T19:13:34+09:00",
-    "id": "MasayaMizuhara"
   },
   {
     "title": "AnsibleでWindowsを操作する準備をする",
@@ -498,7 +498,7 @@
   {
     "title": "シェルを再起動させる簡単な方法",
     "url": "https://qiita.com/yusabana/items/c4de582c6f85a42817d8",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2014-08-31T21:11:21+09:00",
     "updated_at": "2015-04-15T21:44:50+09:00",
     "id": "yusabana"
