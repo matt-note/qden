@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5082,
+    "likes_count": 5083,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4715,
+    "likes_count": 4716,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2675,
+    "likes_count": 2679,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1640,
+    "likes_count": 1641,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -114,7 +114,7 @@
   {
     "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
     "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
-    "likes_count": 903,
+    "likes_count": 904,
     "created_at": "2018-05-21T13:12:10+09:00",
     "updated_at": "2021-02-22T08:28:15+09:00",
     "id": "kazukimatsumoto"
@@ -146,10 +146,18 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 720,
+    "likes_count": 723,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
+  },
+  {
+    "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
+    "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
+    "likes_count": 719,
+    "created_at": "2018-05-24T23:35:31+09:00",
+    "updated_at": "2020-08-17T09:15:44+09:00",
+    "id": "shisama"
   },
   {
     "title": "「データ視覚化のデザイン #1」をmatplotlibで実装する",
@@ -158,14 +166,6 @@
     "created_at": "2018-05-24T07:06:47+09:00",
     "updated_at": "2018-06-06T21:09:06+09:00",
     "id": "skotaro"
-  },
-  {
-    "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
-    "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 718,
-    "created_at": "2018-05-24T23:35:31+09:00",
-    "updated_at": "2020-08-17T09:15:44+09:00",
-    "id": "shisama"
   },
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
@@ -178,7 +178,7 @@
   {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 676,
+    "likes_count": 677,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
@@ -226,7 +226,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 620,
+    "likes_count": 621,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2021-05-19T23:13:58+09:00",
     "id": "hiyuzawa"
@@ -274,7 +274,7 @@
   {
     "title": "GitFlowをやめて本番リリースが楽になった話",
     "url": "https://qiita.com/koyopro/items/b4569285efc22c6397c6",
-    "likes_count": 570,
+    "likes_count": 571,
     "created_at": "2018-05-13T09:53:45+09:00",
     "updated_at": "2018-06-10T14:48:56+09:00",
     "id": "koyopro"
@@ -298,7 +298,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 562,
+    "likes_count": 565,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -418,7 +418,7 @@
   {
     "title": "ドット絵ゲームをunityで作るときに押さえておきたいポイント",
     "url": "https://qiita.com/pixelflag/items/ad817bdd64931e084a46",
-    "likes_count": 434,
+    "likes_count": 435,
     "created_at": "2018-05-06T13:21:05+09:00",
     "updated_at": "2020-05-12T18:19:49+09:00",
     "id": "pixelflag"
@@ -434,7 +434,7 @@
   {
     "title": "外部キー制約について",
     "url": "https://qiita.com/SLEAZOIDS/items/d6fb9c2d131c3fdd1387",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2018-05-12T22:58:19+09:00",
     "updated_at": "2019-06-04T15:42:01+09:00",
     "id": "SLEAZOIDS"
@@ -490,7 +490,7 @@
   {
     "title": "SSH公開鍵認証で接続するまで",
     "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 323,
+    "likes_count": 326,
     "created_at": "2018-05-06T12:00:20+09:00",
     "updated_at": "2020-10-13T06:08:24+09:00",
     "id": "kazokmr"
@@ -506,7 +506,7 @@
   {
     "title": "PWAをもっと簡単に初めてみる",
     "url": "https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2018-05-13T23:19:26+09:00",
     "updated_at": "2021-02-21T14:44:36+09:00",
     "id": "poster-keisuke"
@@ -522,7 +522,7 @@
   {
     "title": "Pythonで例外を投げるときのベストプラクティス",
     "url": "https://qiita.com/hasoya/items/05d4e49d492869875cca",
-    "likes_count": 314,
+    "likes_count": 313,
     "created_at": "2018-05-02T14:17:43+09:00",
     "updated_at": "2018-05-05T11:55:13+09:00",
     "id": "hasoya"
