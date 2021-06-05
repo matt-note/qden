@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5482,
+    "likes_count": 5483,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1279,
+    "likes_count": 1280,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -114,7 +114,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 875,
+    "likes_count": 876,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -122,7 +122,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 869,
+    "likes_count": 870,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -186,7 +186,7 @@
   {
     "title": "仮想通貨自動取引入門",
     "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
-    "likes_count": 785,
+    "likes_count": 786,
     "created_at": "2017-12-17T11:54:43+09:00",
     "updated_at": "2018-08-23T10:49:03+09:00",
     "id": "shionhonda"
@@ -330,7 +330,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 566,
+    "likes_count": 567,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -338,7 +338,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 561,
+    "likes_count": 562,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -376,20 +376,20 @@
     "id": "sinsengumi"
   },
   {
+    "title": "標準入力・標準出力ってなに?",
+    "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
+    "likes_count": 533,
+    "created_at": "2017-12-17T21:10:27+09:00",
+    "updated_at": "2019-03-30T11:03:39+09:00",
+    "id": "angel_p_57"
+  },
+  {
     "title": "その資料ちゃんと伝わってる？ノンデザイナーに贈る、3つのポイントで格段に伝わる資料になる方法 ",
     "url": "https://qiita.com/mgmg121/items/af8cf164a432941ed5f1",
     "likes_count": 533,
     "created_at": "2017-12-21T01:47:16+09:00",
     "updated_at": "2017-12-21T02:03:43+09:00",
     "id": "mgmg121"
-  },
-  {
-    "title": "標準入力・標準出力ってなに?",
-    "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 532,
-    "created_at": "2017-12-17T21:10:27+09:00",
-    "updated_at": "2019-03-30T11:03:39+09:00",
-    "id": "angel_p_57"
   },
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
@@ -410,7 +410,7 @@
   {
     "title": "SlackのIncoming Webhooksを使い倒す",
     "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
-    "likes_count": 495,
+    "likes_count": 496,
     "created_at": "2017-12-14T10:09:51+09:00",
     "updated_at": "2017-12-14T14:47:37+09:00",
     "id": "ik-fib"
@@ -538,7 +538,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -546,7 +546,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
@@ -560,20 +560,20 @@
     "id": "fkooo"
   },
   {
+    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
+    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
+    "likes_count": 386,
+    "created_at": "2017-12-13T01:28:27+09:00",
+    "updated_at": "2019-07-28T01:41:15+09:00",
+    "id": "tatsurou313"
+  },
+  {
     "title": "「君は今日から人工知能開発部門のリーダーだ！」と言われた時の処方箋",
     "url": "https://qiita.com/icoxfog417/items/d0319d2208ab4adf956b",
     "likes_count": 386,
     "created_at": "2017-12-20T00:12:03+09:00",
     "updated_at": "2017-12-20T12:47:49+09:00",
     "id": "icoxfog417"
-  },
-  {
-    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
-    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 385,
-    "created_at": "2017-12-13T01:28:27+09:00",
-    "updated_at": "2019-07-28T01:41:15+09:00",
-    "id": "tatsurou313"
   },
   {
     "title": "知っておきたいLinuxファイルシステムの概念",
@@ -602,7 +602,7 @@
   {
     "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
     "url": "https://qiita.com/takish/items/a58c1517c6ac5887ba87",
-    "likes_count": 359,
+    "likes_count": 361,
     "created_at": "2017-12-19T18:52:47+09:00",
     "updated_at": "2018-09-27T10:37:03+09:00",
     "id": "takish"
@@ -642,7 +642,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"

@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4160,
+    "likes_count": 4161,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -66,7 +66,7 @@
   {
     "title": "Vue開発者のためのVue.jsベストプラクティス集15選",
     "url": "https://qiita.com/mtoyopet/items/87a32d8e3497c5421727",
-    "likes_count": 1344,
+    "likes_count": 1345,
     "created_at": "2020-01-29T23:00:56+09:00",
     "updated_at": "2020-02-25T12:03:18+09:00",
     "id": "mtoyopet"
@@ -162,7 +162,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 789,
+    "likes_count": 790,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -226,7 +226,7 @@
   {
     "title": "JavaScriptでvarが非推奨な理由を整理してみた",
     "url": "https://qiita.com/taiju_suzuki/items/49ed558bd837452353b8",
-    "likes_count": 665,
+    "likes_count": 666,
     "created_at": "2020-01-08T17:56:11+09:00",
     "updated_at": "2020-05-02T22:05:18+09:00",
     "id": "taiju_suzuki"
@@ -266,7 +266,7 @@
   {
     "title": "機械学習による株価予測　いろはの”い”",
     "url": "https://qiita.com/blog_UKI/items/25dc1c2559c61890a449",
-    "likes_count": 624,
+    "likes_count": 625,
     "created_at": "2020-01-09T12:13:39+09:00",
     "updated_at": "2020-01-09T12:13:39+09:00",
     "id": "blog_UKI"
@@ -290,7 +290,7 @@
   {
     "title": "20 年代のフロントエンド",
     "url": "https://qiita.com/mizchi/items/50937c7f702da566e989",
-    "likes_count": 552,
+    "likes_count": 553,
     "created_at": "2020-01-30T18:47:54+09:00",
     "updated_at": "2020-01-30T19:24:24+09:00",
     "id": "mizchi"
@@ -298,7 +298,7 @@
   {
     "title": "「アプリケーションが壊れているのに検知できないテストコード」を書かないようにするための、べからず集",
     "url": "https://qiita.com/jnchito/items/133d9953e1e7214e5357",
-    "likes_count": 550,
+    "likes_count": 551,
     "created_at": "2020-01-29T09:41:54+09:00",
     "updated_at": "2020-02-10T06:44:08+09:00",
     "id": "jnchito"
@@ -306,7 +306,7 @@
   {
     "title": "jQuery愛好家のためのVue.js、React、Angular入門",
     "url": "https://qiita.com/BRSF/items/6a43d4cf56a9dd1a4d0c",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2020-01-24T11:20:43+09:00",
     "updated_at": "2021-05-20T15:19:57+09:00",
     "id": "BRSF"
@@ -314,7 +314,7 @@
   {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2021-03-26T11:27:03+09:00",
     "id": "Saku731"
@@ -440,6 +440,14 @@
     "id": "ageprocpp"
   },
   {
+    "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
+    "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
+    "likes_count": 371,
+    "created_at": "2020-01-03T17:27:55+09:00",
+    "updated_at": "2020-11-10T02:36:37+09:00",
+    "id": "bee2"
+  },
+  {
     "title": "AtCoder水色になりました",
     "url": "https://qiita.com/pkodama/items/93ab0b654d2597e42ac3",
     "likes_count": 371,
@@ -448,17 +456,9 @@
     "id": "pkodama"
   },
   {
-    "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
-    "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
-    "likes_count": 370,
-    "created_at": "2020-01-03T17:27:55+09:00",
-    "updated_at": "2020-11-10T02:36:37+09:00",
-    "id": "bee2"
-  },
-  {
     "title": "ginを最速でマスターしよう",
     "url": "https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2020-01-01T09:46:12+09:00",
     "updated_at": "2020-09-13T12:11:53+09:00",
     "id": "Syoitu"
@@ -506,7 +506,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 275,
+    "likes_count": 278,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"
