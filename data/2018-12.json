@@ -82,7 +82,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1187,
+    "likes_count": 1189,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-01-19T22:01:44+09:00",
     "id": "diescake"
@@ -146,7 +146,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 971,
+    "likes_count": 972,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -194,7 +194,7 @@
   {
     "title": "Reactベース静的サイトジェネレータGatsbyの真の力をお見せします",
     "url": "https://qiita.com/uehaj/items/1b7f0a86596353587466",
-    "likes_count": 887,
+    "likes_count": 888,
     "created_at": "2018-12-21T18:18:40+09:00",
     "updated_at": "2021-01-28T18:23:11+09:00",
     "id": "uehaj"
@@ -234,7 +234,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 688,
+    "likes_count": 689,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -248,20 +248,20 @@
     "id": "junichiro"
   },
   {
+    "title": "2018年これだけは知っておきたいiOSライブラリ31選",
+    "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
+    "likes_count": 666,
+    "created_at": "2018-12-12T19:17:50+09:00",
+    "updated_at": "2019-03-18T13:42:44+09:00",
+    "id": "kohei1218"
+  },
+  {
     "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
     "url": "https://qiita.com/potato4d/items/c9c0c8e674f20c85948a",
     "likes_count": 666,
     "created_at": "2018-12-12T23:28:42+09:00",
     "updated_at": "2019-12-05T12:05:20+09:00",
     "id": "potato4d"
-  },
-  {
-    "title": "2018年これだけは知っておきたいiOSライブラリ31選",
-    "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
-    "likes_count": 664,
-    "created_at": "2018-12-12T19:17:50+09:00",
-    "updated_at": "2019-03-18T13:42:44+09:00",
-    "id": "kohei1218"
   },
   {
     "title": "個人アプリ開発を支える技術と開発フロー",
@@ -368,20 +368,20 @@
     "id": "Hironsan"
   },
   {
+    "title": "C++でクリーンなコードの書き方",
+    "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
+    "likes_count": 476,
+    "created_at": "2018-12-14T00:12:22+09:00",
+    "updated_at": "2021-04-14T00:39:07+09:00",
+    "id": "elipmoc101"
+  },
+  {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
     "likes_count": 476,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
-  },
-  {
-    "title": "C++でクリーンなコードの書き方",
-    "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 475,
-    "created_at": "2018-12-14T00:12:22+09:00",
-    "updated_at": "2021-04-14T00:39:07+09:00",
-    "id": "elipmoc101"
   },
   {
     "title": "Github Actionsが使えるようになったので使ってみる",
@@ -408,6 +408,14 @@
     "id": "youwht"
   },
   {
+    "title": "Go Modules",
+    "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
+    "likes_count": 464,
+    "created_at": "2018-12-05T13:44:24+09:00",
+    "updated_at": "2019-07-17T17:52:30+09:00",
+    "id": "propella"
+  },
+  {
     "title": "ワイが個人的に便利だと思っていてよく使っているJavaScriptモジュール(npm)たち",
     "url": "https://qiita.com/_somary/items/ac55db148b72726d0753",
     "likes_count": 463,
@@ -422,14 +430,6 @@
     "created_at": "2018-12-03T15:34:09+09:00",
     "updated_at": "2020-07-11T13:34:36+09:00",
     "id": "fj_yohei"
-  },
-  {
-    "title": "Go Modules",
-    "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 461,
-    "created_at": "2018-12-05T13:44:24+09:00",
-    "updated_at": "2019-07-17T17:52:30+09:00",
-    "id": "propella"
   },
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
@@ -498,7 +498,7 @@
   {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
@@ -522,7 +522,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -570,7 +570,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzk-jp/items/00ff664da60c37458aaa",
-    "likes_count": 353,
+    "likes_count": 357,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2018-12-10T01:39:40+09:00",
     "id": "ymzk-jp"
@@ -578,7 +578,7 @@
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
     "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2018-12-06T00:54:09+09:00",
     "updated_at": "2018-12-06T00:55:45+09:00",
     "id": "yuneco"
@@ -650,7 +650,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 315,
+    "likes_count": 316,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
@@ -714,7 +714,7 @@
   {
     "title": "【Rails×Ajax】いいね機能ハンズオン",
     "url": "https://qiita.com/naberina/items/c6b5c8d7756cb882fb20",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2018-12-20T02:10:14+09:00",
     "updated_at": "2021-01-08T12:26:47+09:00",
     "id": "naberina"

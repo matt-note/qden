@@ -2,7 +2,7 @@
   {
     "title": "async/await 入門（JavaScript）",
     "url": "https://qiita.com/soarflat/items/1a9613e023200bbebcb3",
-    "likes_count": 2780,
+    "likes_count": 2782,
     "created_at": "2017-08-03T14:25:22+09:00",
     "updated_at": "2021-05-26T22:12:17+09:00",
     "id": "soarflat"
@@ -34,7 +34,7 @@
   {
     "title": "一番詳しいCSS設計規則BEMのマニュアル",
     "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
-    "likes_count": 1410,
+    "likes_count": 1412,
     "created_at": "2017-08-30T20:48:41+09:00",
     "updated_at": "2019-07-16T17:00:50+09:00",
     "id": "Takuan_Oishii"
@@ -98,7 +98,7 @@
   {
     "title": "ECS運用のノウハウ",
     "url": "https://qiita.com/naomichi-y/items/d933867127f27524686a",
-    "likes_count": 799,
+    "likes_count": 800,
     "created_at": "2017-08-31T12:21:20+09:00",
     "updated_at": "2021-02-08T13:29:25+09:00",
     "id": "naomichi-y"
@@ -116,7 +116,7 @@
     "url": "https://qiita.com/rinov/items/bff12e9ea1251e895306",
     "likes_count": 751,
     "created_at": "2017-08-13T20:52:32+09:00",
-    "updated_at": "2020-05-14T17:10:50+09:00",
+    "updated_at": "2021-06-06T16:55:39+09:00",
     "id": "rinov"
   },
   {
@@ -288,20 +288,20 @@
     "id": "FukuharaYohei"
   },
   {
+    "title": "LaravelでRoute::resourceを使うときに気をつけること",
+    "url": "https://qiita.com/sympe/items/9297f41d5f7a9d91aa11",
+    "likes_count": 276,
+    "created_at": "2017-08-30T18:29:58+09:00",
+    "updated_at": "2018-05-14T09:50:19+09:00",
+    "id": "sympe"
+  },
+  {
     "title": "【MySQL】遅いselect文の原因を調査する【explainの読み方】",
     "url": "https://qiita.com/mtanabe/items/33a80bf2749a872645e6",
     "likes_count": 275,
     "created_at": "2017-08-12T22:04:16+09:00",
     "updated_at": "2018-03-20T23:33:47+09:00",
     "id": "mtanabe"
-  },
-  {
-    "title": "LaravelでRoute::resourceを使うときに気をつけること",
-    "url": "https://qiita.com/sympe/items/9297f41d5f7a9d91aa11",
-    "likes_count": 275,
-    "created_at": "2017-08-30T18:29:58+09:00",
-    "updated_at": "2018-05-14T09:50:19+09:00",
-    "id": "sympe"
   },
   {
     "title": "PuppeteerでヘッドレスChromeを操ってみる",
