@@ -10,7 +10,7 @@
   {
     "title": "Git・GitHubに隠された便利な機能 | GitHub Cheat Sheet（日本語訳）",
     "url": "https://qiita.com/unbabel/items/1cf05f2a2be3d6fb3388",
-    "likes_count": 2161,
+    "likes_count": 2162,
     "created_at": "2014-04-20T17:03:27+09:00",
     "updated_at": "2017-11-09T09:42:27+09:00",
     "id": "unbabel"
@@ -18,7 +18,7 @@
   {
     "title": "本当に正しい .bashrc と .bash_profile の使ひ分け",
     "url": "https://qiita.com/magicant/items/d3bb7ea1192e63fba850",
-    "likes_count": 1842,
+    "likes_count": 1843,
     "created_at": "2014-04-16T10:49:22+09:00",
     "updated_at": "2019-06-07T13:58:46+09:00",
     "id": "magicant"
@@ -42,7 +42,7 @@
   {
     "title": "Pythonのデコレータを理解するための12Step",
     "url": "https://qiita.com/_rdtr/items/d3bc1a8d4b7eb375c368",
-    "likes_count": 1414,
+    "likes_count": 1415,
     "created_at": "2014-04-07T00:08:16+09:00",
     "updated_at": "2018-08-23T13:59:06+09:00",
     "id": "_rdtr"
@@ -154,7 +154,7 @@
   {
     "title": "IPythonの使い方",
     "url": "https://qiita.com/5t111111/items/7852e13ace6de288042f",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2014-04-15T22:44:37+09:00",
     "updated_at": "2014-04-15T22:48:25+09:00",
     "id": "5t111111"
@@ -312,6 +312,14 @@
     "id": "gfx"
   },
   {
+    "title": "Gitで部分的にコミットする方法",
+    "url": "https://qiita.com/miyohide/items/79ab0ff3b3852289a6be",
+    "likes_count": 377,
+    "created_at": "2014-04-18T22:55:27+09:00",
+    "updated_at": "2015-07-07T22:58:53+09:00",
+    "id": "miyohide"
+  },
+  {
     "title": "MySQL: INSERT...ON DUPLICATE KEY UPDATEまとめ",
     "url": "https://qiita.com/yuzroz/items/f0eccf847b2ea42f885f",
     "likes_count": 377,
@@ -320,17 +328,9 @@
     "id": "yuzroz"
   },
   {
-    "title": "Gitで部分的にコミットする方法",
-    "url": "https://qiita.com/miyohide/items/79ab0ff3b3852289a6be",
-    "likes_count": 376,
-    "created_at": "2014-04-18T22:55:27+09:00",
-    "updated_at": "2015-07-07T22:58:53+09:00",
-    "id": "miyohide"
-  },
-  {
     "title": "MediaWiki APIを使ってWikipediaの情報を取得",
     "url": "https://qiita.com/yubessy/items/16d2a074be84ee67c01f",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2014-04-29T13:34:55+09:00",
     "updated_at": "2018-07-14T14:04:23+09:00",
     "id": "yubessy"

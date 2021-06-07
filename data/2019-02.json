@@ -58,7 +58,7 @@
   {
     "title": "AtCoderの問題を分類しました",
     "url": "https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54",
-    "likes_count": 910,
+    "likes_count": 911,
     "created_at": "2019-02-26T18:22:38+09:00",
     "updated_at": "2021-05-02T23:35:23+09:00",
     "id": "KoyanagiHitoshi"
@@ -90,7 +90,7 @@
   {
     "title": "🎉React 16.8: 正式版となったReact Hooksを今さら総ざらいする",
     "url": "https://qiita.com/uhyo/items/246fb1f30acfeb7699da",
-    "likes_count": 814,
+    "likes_count": 815,
     "created_at": "2019-02-04T03:38:16+09:00",
     "updated_at": "2020-01-19T18:44:27+09:00",
     "id": "uhyo"
@@ -122,7 +122,7 @@
   {
     "title": "新人ではないがGit初心者であるエンジニアが「このリポジトリをフォークしてローカルで開発できるようにしておいて！」と言われた時にやること",
     "url": "https://qiita.com/sky0621/items/8b6e88f4327b42ade5d7",
-    "likes_count": 751,
+    "likes_count": 752,
     "created_at": "2019-02-14T01:04:39+09:00",
     "updated_at": "2020-09-28T22:59:40+09:00",
     "id": "sky0621"
@@ -130,7 +130,7 @@
   {
     "title": "アセンブリに触れてみよう",
     "url": "https://qiita.com/kaito_tateyama/items/89272098f4b286b64115",
-    "likes_count": 740,
+    "likes_count": 741,
     "created_at": "2019-02-15T20:30:32+09:00",
     "updated_at": "2019-03-08T17:34:59+09:00",
     "id": "kaito_tateyama"
@@ -138,7 +138,7 @@
   {
     "title": "TypeScript + Node.js プロジェクトのはじめかた2020",
     "url": "https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49",
-    "likes_count": 725,
+    "likes_count": 726,
     "created_at": "2019-02-08T17:25:22+09:00",
     "updated_at": "2020-08-12T17:09:33+09:00",
     "id": "notakaos"
@@ -170,7 +170,7 @@
   {
     "title": "Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する",
     "url": "https://qiita.com/nemui_/items/239335b4ed0c3c797add",
-    "likes_count": 632,
+    "likes_count": 633,
     "created_at": "2019-02-16T15:10:37+09:00",
     "updated_at": "2019-04-21T22:28:52+09:00",
     "id": "nemui_"
@@ -218,7 +218,7 @@
   {
     "title": "Ruby on Rails, Vue.js で始めるモダン WEB アプリケーション入門",
     "url": "https://qiita.com/tatsurou313/items/4f18c0d4d231e2fb55f4",
-    "likes_count": 551,
+    "likes_count": 553,
     "created_at": "2019-02-11T21:12:11+09:00",
     "updated_at": "2021-02-17T02:18:28+09:00",
     "id": "tatsurou313"
@@ -226,7 +226,7 @@
   {
     "title": "あなたの文章に合った「いらすとや」画像をレコメンド♪（機能概要編）",
     "url": "https://qiita.com/sonoisa/items/c0ec7bfe0bbc7e642ff3",
-    "likes_count": 551,
+    "likes_count": 550,
     "created_at": "2019-02-17T21:23:35+09:00",
     "updated_at": "2019-12-22T12:08:28+09:00",
     "id": "sonoisa"
@@ -242,7 +242,7 @@
   {
     "title": "TypeScriptの型演習",
     "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 524,
+    "likes_count": 525,
     "created_at": "2019-02-23T18:09:59+09:00",
     "updated_at": "2020-05-22T11:16:41+09:00",
     "id": "uhyo"
@@ -314,7 +314,7 @@
   {
     "title": "【Python】🍜ラーメンガチ勢によるガチ勢のための食べログスクレイピング🍜",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/f143946944a428ed105b",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2019-02-24T14:24:22+09:00",
     "updated_at": "2020-11-06T22:26:22+09:00",
     "id": "toshiyuki_tsutsui"
@@ -322,7 +322,7 @@
   {
     "title": "SVGを使うときに知っておくといいことをまとめました",
     "url": "https://qiita.com/manabuyasuda/items/01a76204f97cd73ffc4e",
-    "likes_count": 425,
+    "likes_count": 424,
     "created_at": "2019-02-22T19:47:54+09:00",
     "updated_at": "2019-03-06T14:47:30+09:00",
     "id": "manabuyasuda"
@@ -446,6 +446,14 @@
     "created_at": "2019-02-05T21:15:34+09:00",
     "updated_at": "2019-09-12T19:12:59+09:00",
     "id": "kubocchi"
+  },
+  {
+    "title": "Vueで作ったSPAの表示速度改善でやったこと",
+    "url": "https://qiita.com/renoinn/items/5cab5bed585b413522db",
+    "likes_count": 284,
+    "created_at": "2019-02-25T16:18:05+09:00",
+    "updated_at": "2019-03-02T11:55:28+09:00",
+    "id": "renoinn"
   },
   {
     "title": "画像処理100本ノックを「Google Colaboratory」で楽々学習",

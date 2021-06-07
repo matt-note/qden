@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5484,
+    "likes_count": 5490,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2037,
+    "likes_count": 2036,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -48,20 +48,20 @@
     "id": "takasek"
   },
   {
+    "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
+    "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
+    "likes_count": 1154,
+    "created_at": "2017-12-08T11:06:27+09:00",
+    "updated_at": "2020-12-11T10:32:15+09:00",
+    "id": "minamijoyo"
+  },
+  {
     "title": "ｶﾀｶﾀｶﾀｯﾀｰﾝを可視化した",
     "url": "https://qiita.com/ampersand/items/3ef94ebe9cba8c07a157",
     "likes_count": 1153,
     "created_at": "2017-12-20T18:16:00+09:00",
     "updated_at": "2017-12-27T11:37:39+09:00",
     "id": "ampersand"
-  },
-  {
-    "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
-    "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1152,
-    "created_at": "2017-12-08T11:06:27+09:00",
-    "updated_at": "2020-12-11T10:32:15+09:00",
-    "id": "minamijoyo"
   },
   {
     "title": "webpack時代の終わりとparcel時代のはじまり",
@@ -74,7 +74,7 @@
   {
     "title": "学習を加速させるインデックス読書術",
     "url": "https://qiita.com/dkatsura/items/3364b293ed1451a66a8a",
-    "likes_count": 1128,
+    "likes_count": 1127,
     "created_at": "2017-12-08T23:19:04+09:00",
     "updated_at": "2017-12-09T07:01:39+09:00",
     "id": "dkatsura"
@@ -82,7 +82,7 @@
   {
     "title": "Sketch はもういらない？ デザインツール Figma の紹介",
     "url": "https://qiita.com/hikaru_tayama/items/49373412ec1a515ff05d",
-    "likes_count": 950,
+    "likes_count": 949,
     "created_at": "2017-12-19T13:00:27+09:00",
     "updated_at": "2019-12-01T13:20:46+09:00",
     "id": "hikaru_tayama"
@@ -90,7 +90,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 919,
+    "likes_count": 920,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -250,7 +250,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 696,
+    "likes_count": 698,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -258,7 +258,7 @@
   {
     "title": "CTOのやるべきことは何なのか？（翻訳と考察）",
     "url": "https://qiita.com/takano1222/items/ef897b2156067688f3ae",
-    "likes_count": 691,
+    "likes_count": 690,
     "created_at": "2017-12-09T17:48:32+09:00",
     "updated_at": "2017-12-14T12:41:19+09:00",
     "id": "takano1222"
@@ -266,7 +266,7 @@
   {
     "title": "Google Homeでやったことまとめ",
     "url": "https://qiita.com/miso_develop/items/99624915d3d6e41a5fb3",
-    "likes_count": 661,
+    "likes_count": 660,
     "created_at": "2017-12-10T00:00:38+09:00",
     "updated_at": "2017-12-20T10:12:21+09:00",
     "id": "miso_develop"
@@ -338,7 +338,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 562,
+    "likes_count": 563,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -362,7 +362,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 545,
+    "likes_count": 546,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -370,7 +370,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -426,7 +426,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 478,
+    "likes_count": 479,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -498,7 +498,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2020-05-03T15:49:07+09:00",
     "id": "KTakahiro1729"
@@ -514,7 +514,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 405,
+    "likes_count": 406,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2021-02-20T14:11:08+09:00",
     "id": "sorami"
@@ -522,10 +522,18 @@
   {
     "title": "やはりお前らの真偽値メソッド名は間違っている。 〜「Xxx できる？」系メソッドの命名〜",
     "url": "https://qiita.com/lovee/items/aa2125eb0bce4a9dde1f",
-    "likes_count": 396,
+    "likes_count": 397,
     "created_at": "2017-12-07T03:34:42+09:00",
     "updated_at": "2017-12-08T13:27:28+09:00",
     "id": "lovee"
+  },
+  {
+    "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
+    "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
+    "likes_count": 394,
+    "created_at": "2017-12-05T22:36:34+09:00",
+    "updated_at": "2017-12-05T22:54:48+09:00",
+    "id": "t2kojima"
   },
   {
     "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
@@ -536,20 +544,20 @@
     "id": "kyntk"
   },
   {
-    "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
-    "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 393,
-    "created_at": "2017-12-05T22:36:34+09:00",
-    "updated_at": "2017-12-05T22:54:48+09:00",
-    "id": "t2kojima"
-  },
-  {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
+  },
+  {
+    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
+    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
+    "likes_count": 387,
+    "created_at": "2017-12-13T01:28:27+09:00",
+    "updated_at": "2019-07-28T01:41:15+09:00",
+    "id": "tatsurou313"
   },
   {
     "title": "WindowsでDocker環境を試してみる",
@@ -558,14 +566,6 @@
     "created_at": "2017-12-20T20:24:56+09:00",
     "updated_at": "2021-01-17T17:08:39+09:00",
     "id": "fkooo"
-  },
-  {
-    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
-    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 386,
-    "created_at": "2017-12-13T01:28:27+09:00",
-    "updated_at": "2019-07-28T01:41:15+09:00",
-    "id": "tatsurou313"
   },
   {
     "title": "「君は今日から人工知能開発部門のリーダーだ！」と言われた時の処方箋",
@@ -618,7 +618,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(実践編)",
     "url": "https://qiita.com/AokabiC/items/af685bfd205dda44ec45",
-    "likes_count": 353,
+    "likes_count": 354,
     "created_at": "2017-12-20T06:18:22+09:00",
     "updated_at": "2019-03-28T15:22:30+09:00",
     "id": "AokabiC"
@@ -632,20 +632,20 @@
     "id": "stfate"
   },
   {
+    "title": "深層学習の最適化アルゴリズム",
+    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
+    "likes_count": 350,
+    "created_at": "2017-12-17T19:09:32+09:00",
+    "updated_at": "2019-11-30T18:47:57+09:00",
+    "id": "ZoneTsuyoshi"
+  },
+  {
     "title": "C++をこれから勉強する人のための道しるべ（C++03）",
     "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
     "likes_count": 350,
     "created_at": "2017-12-18T20:08:38+09:00",
     "updated_at": "2019-04-17T15:10:58+09:00",
     "id": "borerere"
-  },
-  {
-    "title": "深層学習の最適化アルゴリズム",
-    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 349,
-    "created_at": "2017-12-17T19:09:32+09:00",
-    "updated_at": "2019-11-30T18:47:57+09:00",
-    "id": "ZoneTsuyoshi"
   },
   {
     "title": "WebRTCでビデオチャットアプリを作ってみた！",
@@ -720,20 +720,20 @@
     "id": "seya"
   },
   {
+    "title": "あのサイトで使われている技術を調べる",
+    "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
+    "likes_count": 319,
+    "created_at": "2017-12-29T18:46:42+09:00",
+    "updated_at": "2021-04-17T12:31:45+09:00",
+    "id": "nightyknite"
+  },
+  {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
     "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
     "likes_count": 318,
     "created_at": "2017-12-13T01:29:31+09:00",
     "updated_at": "2018-08-25T11:45:30+09:00",
     "id": "h1kita"
-  },
-  {
-    "title": "あのサイトで使われている技術を調べる",
-    "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 318,
-    "created_at": "2017-12-29T18:46:42+09:00",
-    "updated_at": "2021-04-17T12:31:45+09:00",
-    "id": "nightyknite"
   },
   {
     "title": "pythonでのcsvファイルの読み込み",
