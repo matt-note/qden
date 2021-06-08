@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5490,
+    "likes_count": 5491,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1154,
+    "likes_count": 1155,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -138,7 +138,7 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 857,
+    "likes_count": 858,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
@@ -314,7 +314,7 @@
   {
     "title": " Nuxt.js使ってみた",
     "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 594,
+    "likes_count": 595,
     "created_at": "2017-12-15T23:18:21+09:00",
     "updated_at": "2021-01-15T16:23:44+09:00",
     "id": "_takeshi_24"
@@ -322,7 +322,7 @@
   {
     "title": "次にJSガッツリ書くときはTypeScriptで",
     "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
-    "likes_count": 587,
+    "likes_count": 588,
     "created_at": "2017-12-26T18:52:16+09:00",
     "updated_at": "2020-06-27T01:29:19+09:00",
     "id": "yuya_presto"
@@ -330,7 +330,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 567,
+    "likes_count": 568,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -440,20 +440,20 @@
     "id": "h-takauma"
   },
   {
+    "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
+    "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
+    "likes_count": 464,
+    "created_at": "2017-12-11T04:27:53+09:00",
+    "updated_at": "2019-09-16T14:17:01+09:00",
+    "id": "y_hokkey"
+  },
+  {
     "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
     "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
     "likes_count": 463,
     "created_at": "2017-12-09T08:11:55+09:00",
     "updated_at": "2018-05-23T16:49:05+09:00",
     "id": "devneko"
-  },
-  {
-    "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
-    "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 463,
-    "created_at": "2017-12-11T04:27:53+09:00",
-    "updated_at": "2019-09-16T14:17:01+09:00",
-    "id": "y_hokkey"
   },
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
@@ -554,7 +554,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -762,7 +762,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
@@ -770,7 +770,7 @@
   {
     "title": "機械学習ライブラリ scikit-learnの便利機能の紹介",
     "url": "https://qiita.com/ishizakiiii/items/0650723cc2b4eef2c1cf",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2017-12-15T21:27:13+09:00",
     "updated_at": "2017-12-18T07:37:14+09:00",
     "id": "ishizakiiii"
@@ -778,7 +778,7 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"

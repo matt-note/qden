@@ -18,7 +18,7 @@
   {
     "title": "Vim幼稚園からVim小学校へ",
     "url": "https://qiita.com/hachi8833/items/7beeee825c11f7437f54",
-    "likes_count": 3880,
+    "likes_count": 3879,
     "created_at": "2014-07-10T00:02:39+09:00",
     "updated_at": "2019-03-20T18:58:14+09:00",
     "id": "hachi8833"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3407,
+    "likes_count": 3410,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -42,7 +42,7 @@
   {
     "title": "Python Django入門 (1)",
     "url": "https://qiita.com/kaki_k/items/511611cadac1d0c69c54",
-    "likes_count": 2176,
+    "likes_count": 2178,
     "created_at": "2014-07-27T00:14:48+09:00",
     "updated_at": "2020-01-09T23:41:21+09:00",
     "id": "kaki_k"
@@ -74,7 +74,7 @@
   {
     "title": "ログ設計指針",
     "url": "https://qiita.com/nanasess/items/350e59b29cceb2f122b3",
-    "likes_count": 1621,
+    "likes_count": 1622,
     "created_at": "2014-07-16T11:28:44+09:00",
     "updated_at": "2020-11-09T18:44:53+09:00",
     "id": "nanasess"
@@ -138,7 +138,7 @@
   {
     "title": "Git の Commit Author と Commiter を変更する",
     "url": "https://qiita.com/sea_mountain/items/d70216a5bc16a88ed932",
-    "likes_count": 854,
+    "likes_count": 855,
     "created_at": "2014-07-12T15:17:52+09:00",
     "updated_at": "2017-07-05T19:37:28+09:00",
     "id": "sea_mountain"
@@ -322,7 +322,7 @@
   {
     "title": "Python Django入門 (2) Mac編",
     "url": "https://qiita.com/kaki_k/items/e824cfcf089e75d43551",
-    "likes_count": 476,
+    "likes_count": 475,
     "created_at": "2014-07-27T00:20:26+09:00",
     "updated_at": "2020-01-09T23:44:36+09:00",
     "id": "kaki_k"
@@ -336,6 +336,14 @@
     "id": "mima_ita"
   },
   {
+    "title": "Javascriptのcall/apply関数のプロっぽい使い方 〜 JSおくのほそ道 #014",
+    "url": "https://qiita.com/hosomichi/items/155af03120a330fd4437",
+    "likes_count": 472,
+    "created_at": "2014-07-10T09:33:23+09:00",
+    "updated_at": "2014-09-14T18:10:53+09:00",
+    "id": "hosomichi"
+  },
+  {
     "title": "ssh公開鍵認証を実装する",
     "url": "https://qiita.com/HamaTech/items/21bb9761f326c4d4aa65",
     "likes_count": 471,
@@ -344,17 +352,9 @@
     "id": "HamaTech"
   },
   {
-    "title": "Javascriptのcall/apply関数のプロっぽい使い方 〜 JSおくのほそ道 #014",
-    "url": "https://qiita.com/hosomichi/items/155af03120a330fd4437",
-    "likes_count": 471,
-    "created_at": "2014-07-10T09:33:23+09:00",
-    "updated_at": "2014-09-14T18:10:53+09:00",
-    "id": "hosomichi"
-  },
-  {
     "title": "Terraform簡易チュートリアル on AWS",
     "url": "https://qiita.com/zembutsu/items/93e546df765f8b2c4f32",
-    "likes_count": 471,
+    "likes_count": 470,
     "created_at": "2014-07-29T08:11:46+09:00",
     "updated_at": "2014-07-30T08:41:14+09:00",
     "id": "zembutsu"

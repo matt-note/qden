@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 3963,
+    "likes_count": 3966,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2580,
+    "likes_count": 2583,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -66,7 +66,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1545,
+    "likes_count": 1546,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -82,7 +82,7 @@
   {
     "title": "Ansibleをはじめる人に。",
     "url": "https://qiita.com/t_nakayama0714/items/fe55ee56d6446f67113c",
-    "likes_count": 1469,
+    "likes_count": 1470,
     "created_at": "2015-12-20T23:20:14+09:00",
     "updated_at": "2018-08-01T08:37:18+09:00",
     "id": "t_nakayama0714"
@@ -90,7 +90,7 @@
   {
     "title": "非同期処理ってどういうこと？JavaScriptで一から学ぶ",
     "url": "https://qiita.com/kiyodori/items/da434d169755cbb20447",
-    "likes_count": 1321,
+    "likes_count": 1320,
     "created_at": "2015-12-19T22:32:13+09:00",
     "updated_at": "2015-12-19T22:37:55+09:00",
     "id": "kiyodori"
@@ -170,7 +170,7 @@
   {
     "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発",
     "url": "https://qiita.com/nkjm/items/723990c518acfee6e473",
-    "likes_count": 1016,
+    "likes_count": 1017,
     "created_at": "2015-12-29T17:47:24+09:00",
     "updated_at": "2016-02-13T11:49:00+09:00",
     "id": "nkjm"
@@ -290,7 +290,7 @@
   {
     "title": "クラウド破産しないように git-secrets を使う",
     "url": "https://qiita.com/pottava/items/4c602c97aacf10c058f1",
-    "likes_count": 613,
+    "likes_count": 612,
     "created_at": "2015-12-24T14:55:53+09:00",
     "updated_at": "2016-01-04T16:13:49+09:00",
     "id": "pottava"
@@ -426,7 +426,7 @@
   {
     "title": "[Python]ファイル/ディレクトリ操作",
     "url": "https://qiita.com/supersaiakujin/items/12451cd2b8315fe7d054",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2015-12-26T04:45:05+09:00",
     "updated_at": "2018-10-05T12:38:27+09:00",
     "id": "supersaiakujin"
@@ -520,20 +520,20 @@
     "id": "ryotakodaira"
   },
   {
+    "title": "OFFSETを使わない高速なページネーションの実現",
+    "url": "https://qiita.com/mpyw/items/07c03600c2e38e91415e",
+    "likes_count": 380,
+    "created_at": "2015-12-23T05:20:35+09:00",
+    "updated_at": "2018-03-12T15:43:22+09:00",
+    "id": "mpyw"
+  },
+  {
     "title": "Togetter的な社内Slackまとめサイトをつくった話",
     "url": "https://qiita.com/ru_shalm/items/32160b23df535ed78967",
     "likes_count": 379,
     "created_at": "2015-12-18T00:00:59+09:00",
     "updated_at": "2015-12-22T03:34:19+09:00",
     "id": "ru_shalm"
-  },
-  {
-    "title": "OFFSETを使わない高速なページネーションの実現",
-    "url": "https://qiita.com/mpyw/items/07c03600c2e38e91415e",
-    "likes_count": 379,
-    "created_at": "2015-12-23T05:20:35+09:00",
-    "updated_at": "2018-03-12T15:43:22+09:00",
-    "id": "mpyw"
   },
   {
     "title": "ニコニコ動画の公開コメントデータをDeep Learningで解析する",
