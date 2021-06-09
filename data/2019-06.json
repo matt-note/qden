@@ -50,7 +50,7 @@
   {
     "title": "DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】",
     "url": "https://qiita.com/drken/items/4a7869c5e304883f539b",
-    "likes_count": 1327,
+    "likes_count": 1329,
     "created_at": "2019-06-18T05:39:48+09:00",
     "updated_at": "2020-04-07T23:46:49+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "Alfredを使いこなせてない君に！【Alfredの使い方完全版】",
     "url": "https://qiita.com/jackchuka/items/ccd3f66f6dd00481b98b",
-    "likes_count": 1248,
+    "likes_count": 1249,
     "created_at": "2019-06-26T11:10:24+09:00",
     "updated_at": "2021-04-13T19:26:01+09:00",
     "id": "jackchuka"
@@ -82,7 +82,7 @@
   {
     "title": "【初心者向け】NPMとpackage.jsonを概念的に理解する",
     "url": "https://qiita.com/righteous/items/e5448cb2e7e11ab7d477",
-    "likes_count": 1082,
+    "likes_count": 1085,
     "created_at": "2019-06-25T02:06:43+09:00",
     "updated_at": "2020-03-11T19:05:53+09:00",
     "id": "righteous"
@@ -90,7 +90,7 @@
   {
     "title": "Flutter入門のためのDart入門",
     "url": "https://qiita.com/teradonburi/items/913fb8c311b9f2bdb1dd",
-    "likes_count": 1012,
+    "likes_count": 1013,
     "created_at": "2019-06-23T20:50:04+09:00",
     "updated_at": "2020-09-09T07:34:03+09:00",
     "id": "teradonburi"
@@ -112,20 +112,20 @@
     "id": "west-hiroaki"
   },
   {
+    "title": "Flutter:Widget一覧",
+    "url": "https://qiita.com/matsukatsu/items/e289e30231fffb1e4502",
+    "likes_count": 874,
+    "created_at": "2019-06-09T12:49:55+09:00",
+    "updated_at": "2020-10-09T11:38:43+09:00",
+    "id": "matsukatsu"
+  },
+  {
     "title": "【これが無料？】無料で学べるプログラミング教材・ハンズオン一覧",
     "url": "https://qiita.com/kocpa/items/b9039d80752d457378d3",
     "likes_count": 873,
     "created_at": "2019-06-26T21:34:54+09:00",
     "updated_at": "2019-07-05T21:29:36+09:00",
     "id": "kocpa"
-  },
-  {
-    "title": "Flutter:Widget一覧",
-    "url": "https://qiita.com/matsukatsu/items/e289e30231fffb1e4502",
-    "likes_count": 872,
-    "created_at": "2019-06-09T12:49:55+09:00",
-    "updated_at": "2020-10-09T11:38:43+09:00",
-    "id": "matsukatsu"
   },
   {
     "title": "我偽中国語翻訳機作成了",
@@ -162,7 +162,7 @@
   {
     "title": "IT系の技術トレンドを調べるのに使えるサービス",
     "url": "https://qiita.com/tag1216/items/da1b078270c0cb6c07df",
-    "likes_count": 705,
+    "likes_count": 706,
     "created_at": "2019-06-03T23:11:27+09:00",
     "updated_at": "2019-06-28T21:30:43+09:00",
     "id": "tag1216"
@@ -210,7 +210,7 @@
   {
     "title": "BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜",
     "url": "https://qiita.com/drken/items/996d80bcae64649a6580",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2019-06-25T10:13:51+09:00",
     "updated_at": "2020-05-22T21:31:07+09:00",
     "id": "drken"
@@ -258,10 +258,18 @@
   {
     "title": "いまさらだけどgRPCに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/a1cc2be6045723e242eb",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2019-06-06T12:39:48+09:00",
     "updated_at": "2020-04-23T20:43:08+09:00",
     "id": "gold-kou"
+  },
+  {
+    "title": "[Swift] SwiftUIのチートシート",
+    "url": "https://qiita.com/hcrane/items/eb847ca7fb7a0b9e8073",
+    "likes_count": 489,
+    "created_at": "2019-06-06T05:55:37+09:00",
+    "updated_at": "2020-09-18T19:58:14+09:00",
+    "id": "hcrane"
   },
   {
     "title": "[初心者]オブジェクト指向でなぜつくるのか",
@@ -270,14 +278,6 @@
     "created_at": "2019-06-02T16:36:27+09:00",
     "updated_at": "2019-06-02T16:37:36+09:00",
     "id": "IZUMIRU"
-  },
-  {
-    "title": "[Swift] SwiftUIのチートシート",
-    "url": "https://qiita.com/hcrane/items/eb847ca7fb7a0b9e8073",
-    "likes_count": 488,
-    "created_at": "2019-06-06T05:55:37+09:00",
-    "updated_at": "2020-09-18T19:58:14+09:00",
-    "id": "hcrane"
   },
   {
     "title": "データベースにRDBを選択するときの注意事項について考える（追記あり）",
@@ -466,7 +466,7 @@
   {
     "title": "Webアプリ初心者のFlaskチュートリアル",
     "url": "https://qiita.com/kiyokiyo_kzsby/items/0184973e9de0ea9011ed",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2019-06-22T03:05:18+09:00",
     "updated_at": "2019-06-29T11:51:40+09:00",
     "id": "kiyokiyo_kzsby"
@@ -482,7 +482,7 @@
   {
     "title": "【爆速】React+Amplify+AppSyncでリアルタイム掲示板アプリを15分で作り上げる　〜これが最高のDeveloper Experienceだ〜",
     "url": "https://qiita.com/G-awa/items/a5b2cc7017b1eceeb002",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2019-06-04T00:28:58+09:00",
     "updated_at": "2020-02-12T12:57:43+09:00",
     "id": "G-awa"

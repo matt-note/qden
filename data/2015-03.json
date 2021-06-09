@@ -178,7 +178,7 @@
   {
     "title": "Gitでマージ済みブランチを一括削除",
     "url": "https://qiita.com/hajimeni/items/73d2155fc59e152630c4",
-    "likes_count": 507,
+    "likes_count": 508,
     "created_at": "2015-03-19T22:51:25+09:00",
     "updated_at": "2021-05-18T12:01:19+09:00",
     "id": "hajimeni"
@@ -208,20 +208,20 @@
     "id": "baba_s"
   },
   {
+    "title": "とりあえずZshを使えば良いんだろう？",
+    "url": "https://qiita.com/ktr_type23/items/3eb782f98c7a5f4c60b0",
+    "likes_count": 461,
+    "created_at": "2015-03-13T12:15:35+09:00",
+    "updated_at": "2015-03-16T13:11:37+09:00",
+    "id": "ktr_type23"
+  },
+  {
     "title": "[随時更新]SpringBoot(with Thymeleaf)チートシート",
     "url": "https://qiita.com/uzresk/items/31a4585f7828c4a9334f",
     "likes_count": 460,
     "created_at": "2015-03-16T22:54:26+09:00",
     "updated_at": "2016-06-08T10:30:40+09:00",
     "id": "uzresk"
-  },
-  {
-    "title": "とりあえずZshを使えば良いんだろう？",
-    "url": "https://qiita.com/ktr_type23/items/3eb782f98c7a5f4c60b0",
-    "likes_count": 459,
-    "created_at": "2015-03-13T12:15:35+09:00",
-    "updated_at": "2015-03-16T13:11:37+09:00",
-    "id": "ktr_type23"
   },
   {
     "title": "[iOS]TwitterアプリのようにLaunch Screenがアニメーションするように見せる技",
@@ -290,7 +290,7 @@
   {
     "title": "ChromeでW3C Push APIを使ってみた",
     "url": "https://qiita.com/tomoyukilabs/items/8fffb4280c1914b6aa3d",
-    "likes_count": 384,
+    "likes_count": 385,
     "created_at": "2015-03-30T23:09:45+09:00",
     "updated_at": "2017-07-04T09:58:23+09:00",
     "id": "tomoyukilabs"
@@ -298,7 +298,7 @@
   {
     "title": "【Javascript】値渡しと参照渡しについてあらためてまとめてみる",
     "url": "https://qiita.com/migi/items/3417c2de685c368faab1",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2015-03-11T16:19:54+09:00",
     "updated_at": "2015-03-11T16:25:52+09:00",
     "id": "migi"
@@ -442,7 +442,7 @@
   {
     "title": "【PHP】新TwitterOAuthでログイン機能を実装する",
     "url": "https://qiita.com/sofpyon/items/982fe3a9ccebd8702867",
-    "likes_count": 285,
+    "likes_count": 284,
     "created_at": "2015-03-23T18:40:00+09:00",
     "updated_at": "2017-01-03T11:12:58+09:00",
     "id": "sofpyon"
@@ -502,5 +502,13 @@
     "created_at": "2015-03-10T06:26:30+09:00",
     "updated_at": "2015-03-10T06:26:30+09:00",
     "id": "shuntaro_tamura"
+  },
+  {
+    "title": "過去のデータからビッグデータ分析で株価を予測する",
+    "url": "https://qiita.com/ynakayama/items/420ebe206e34f9941e51",
+    "likes_count": 233,
+    "created_at": "2015-03-12T20:00:10+09:00",
+    "updated_at": "2015-05-28T14:28:44+09:00",
+    "id": "ynakayama"
   }
 ]
