@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5491,
+    "likes_count": 5492,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1465,
+    "likes_count": 1466,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -34,7 +34,7 @@
   {
     "title": "11ヶ月間でTOEICスコアを300点から835点に上げた英語学習法",
     "url": "https://qiita.com/sheepland/items/6540c4e32eed12807689",
-    "likes_count": 1372,
+    "likes_count": 1373,
     "created_at": "2017-12-11T15:12:36+09:00",
     "updated_at": "2017-12-28T16:27:27+09:00",
     "id": "sheepland"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1155,
+    "likes_count": 1156,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -82,7 +82,7 @@
   {
     "title": "Sketch はもういらない？ デザインツール Figma の紹介",
     "url": "https://qiita.com/hikaru_tayama/items/49373412ec1a515ff05d",
-    "likes_count": 949,
+    "likes_count": 948,
     "created_at": "2017-12-19T13:00:27+09:00",
     "updated_at": "2019-12-01T13:20:46+09:00",
     "id": "hikaru_tayama"
@@ -122,7 +122,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 870,
+    "likes_count": 871,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -216,20 +216,20 @@
     "id": "sakaizay"
   },
   {
+    "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
+    "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
+    "likes_count": 743,
+    "created_at": "2017-12-22T00:03:45+09:00",
+    "updated_at": "2018-03-05T16:54:15+09:00",
+    "id": "suigin"
+  },
+  {
     "title": "割と突き詰めてやったvim→vscode移行",
     "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
     "likes_count": 742,
     "created_at": "2017-12-18T10:12:06+09:00",
     "updated_at": "2019-07-10T10:58:40+09:00",
     "id": "y-mattun"
-  },
-  {
-    "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
-    "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 742,
-    "created_at": "2017-12-22T00:03:45+09:00",
-    "updated_at": "2018-03-05T16:54:15+09:00",
-    "id": "suigin"
   },
   {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
@@ -304,20 +304,20 @@
     "id": "kenz_firespeed"
   },
   {
-    "title": "2017末時点での React Component 設計のベストプラクティス",
-    "url": "https://qiita.com/mizchi/items/bcb1aef8d1f14f8d0b4a",
-    "likes_count": 596,
-    "created_at": "2017-12-17T22:21:29+09:00",
-    "updated_at": "2017-12-17T23:42:55+09:00",
-    "id": "mizchi"
-  },
-  {
     "title": " Nuxt.js使ってみた",
     "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 595,
+    "likes_count": 596,
     "created_at": "2017-12-15T23:18:21+09:00",
     "updated_at": "2021-01-15T16:23:44+09:00",
     "id": "_takeshi_24"
+  },
+  {
+    "title": "2017末時点での React Component 設計のベストプラクティス",
+    "url": "https://qiita.com/mizchi/items/bcb1aef8d1f14f8d0b4a",
+    "likes_count": 595,
+    "created_at": "2017-12-17T22:21:29+09:00",
+    "updated_at": "2017-12-17T23:42:55+09:00",
+    "id": "mizchi"
   },
   {
     "title": "次にJSガッツリ書くときはTypeScriptで",
@@ -344,9 +344,17 @@
     "id": "567000"
   },
   {
+    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
+    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
+    "likes_count": 548,
+    "created_at": "2017-12-22T11:55:57+09:00",
+    "updated_at": "2019-07-11T10:18:55+09:00",
+    "id": "megadreams14"
+  },
+  {
     "title": "エンジニアが最高のUIをつくるためのプロトタイピング方法まとめ（2017年版）",
     "url": "https://qiita.com/yuh_iw/items/b0f163c9f649c6cc928c",
-    "likes_count": 548,
+    "likes_count": 547,
     "created_at": "2017-12-23T22:03:19+09:00",
     "updated_at": "2018-12-09T17:24:58+09:00",
     "id": "yuh_iw"
@@ -360,14 +368,6 @@
     "id": "sueshin"
   },
   {
-    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
-    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 546,
-    "created_at": "2017-12-22T11:55:57+09:00",
-    "updated_at": "2019-07-11T10:18:55+09:00",
-    "id": "megadreams14"
-  },
-  {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
     "likes_count": 543,
@@ -378,7 +378,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 534,
+    "likes_count": 535,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -394,7 +394,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 529,
+    "likes_count": 528,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -458,7 +458,7 @@
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
-    "likes_count": 451,
+    "likes_count": 450,
     "created_at": "2017-12-09T16:10:28+09:00",
     "updated_at": "2018-12-22T12:05:58+09:00",
     "id": "kakakaori830"
@@ -474,7 +474,7 @@
   {
     "title": "Parcel 入門 ～Parcelはwebpackの代わりになるのか～",
     "url": "https://qiita.com/soarflat/items/3e43368b2d767c730781",
-    "likes_count": 434,
+    "likes_count": 435,
     "created_at": "2017-12-10T13:28:47+09:00",
     "updated_at": "2021-05-26T22:12:07+09:00",
     "id": "soarflat"
@@ -666,7 +666,7 @@
   {
     "title": "線形な手法とカーネル法（回帰分析）",
     "url": "https://qiita.com/wsuzume/items/09a59036c8944fd563ff",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2017-12-07T02:39:13+09:00",
     "updated_at": "2020-11-28T13:29:32+09:00",
     "id": "wsuzume"
@@ -712,20 +712,20 @@
     "id": "IzumiSy"
   },
   {
+    "title": "あのサイトで使われている技術を調べる",
+    "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
+    "likes_count": 320,
+    "created_at": "2017-12-29T18:46:42+09:00",
+    "updated_at": "2021-04-17T12:31:45+09:00",
+    "id": "nightyknite"
+  },
+  {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
     "likes_count": 319,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
-  },
-  {
-    "title": "あのサイトで使われている技術を調べる",
-    "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 319,
-    "created_at": "2017-12-29T18:46:42+09:00",
-    "updated_at": "2021-04-17T12:31:45+09:00",
-    "id": "nightyknite"
   },
   {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
@@ -738,7 +738,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
@@ -762,7 +762,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 287,
+    "likes_count": 288,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"

@@ -2,7 +2,7 @@
   {
     "title": "数時間で完全理解！わりとゴツいKubernetesハンズオン！！",
     "url": "https://qiita.com/Kta-M/items/ce475c0063d3d3f36d5d",
-    "likes_count": 2686,
+    "likes_count": 2688,
     "created_at": "2019-05-23T07:10:52+09:00",
     "updated_at": "2020-01-31T04:40:34+09:00",
     "id": "Kta-M"
@@ -10,7 +10,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 2542,
+    "likes_count": 2541,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2020-02-11T18:07:22+09:00",
     "id": "jesus_isao"
@@ -58,7 +58,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1478,
+    "likes_count": 1479,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -66,7 +66,7 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2021.06",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1460,
+    "likes_count": 1461,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2021-06-09T12:31:37+09:00",
     "id": "hayao_k"
@@ -90,7 +90,7 @@
   {
     "title": "Ricty を神フォントだと崇める僕が、フリーライセンスのプログラミングフォント「白源」を作った話",
     "url": "https://qiita.com/tawara_/items/374f3ca0a386fab8b305",
-    "likes_count": 1283,
+    "likes_count": 1284,
     "created_at": "2019-05-21T13:54:46+09:00",
     "updated_at": "2021-04-24T18:06:06+09:00",
     "id": "tawara_"
@@ -130,7 +130,7 @@
   {
     "title": "【Vue.js】Web API通信のデザインパターン (個人的ベストプラクティス)",
     "url": "https://qiita.com/07JP27/items/0923cbe3b6435c19d761",
-    "likes_count": 986,
+    "likes_count": 989,
     "created_at": "2019-05-12T21:08:52+09:00",
     "updated_at": "2019-05-15T08:07:38+09:00",
     "id": "07JP27"
@@ -186,7 +186,7 @@
   {
     "title": "Qiitaで良い記事を書く技術",
     "url": "https://qiita.com/t12u/items/8c28484100dfd3a6351b",
-    "likes_count": 780,
+    "likes_count": 781,
     "created_at": "2019-05-21T15:30:43+09:00",
     "updated_at": "2019-05-24T20:27:44+09:00",
     "id": "t12u"
@@ -256,6 +256,14 @@
     "id": "birdwatcher"
   },
   {
+    "title": "Vue.jsのv-modelを正しく使う",
+    "url": "https://qiita.com/simezi9/items/c27d69f17d2d08722b3a",
+    "likes_count": 607,
+    "created_at": "2019-05-13T20:05:41+09:00",
+    "updated_at": "2020-05-01T18:50:04+09:00",
+    "id": "simezi9"
+  },
+  {
     "title": "【2019年】データ分析・可視化に本気でおすすめのツール30選（ノーコード型ツール含め）",
     "url": "https://qiita.com/keisuuuuke/items/e7b5cc6a5db04f2c8d5c",
     "likes_count": 606,
@@ -264,17 +272,9 @@
     "id": "keisuuuuke"
   },
   {
-    "title": "Vue.jsのv-modelを正しく使う",
-    "url": "https://qiita.com/simezi9/items/c27d69f17d2d08722b3a",
-    "likes_count": 606,
-    "created_at": "2019-05-13T20:05:41+09:00",
-    "updated_at": "2020-05-01T18:50:04+09:00",
-    "id": "simezi9"
-  },
-  {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2020-05-08T20:20:06+09:00",
     "id": "simonritchie"
@@ -290,7 +290,7 @@
   {
     "title": "[Flutter] package:provider の各プロバイダの詳細",
     "url": "https://qiita.com/kabochapo/items/a90d8438243c27e2f6d9",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2019-05-23T09:03:03+09:00",
     "updated_at": "2021-04-07T19:04:51+09:00",
     "id": "kabochapo"
@@ -298,7 +298,7 @@
   {
     "title": "PythonでLINEにメッセージを送る",
     "url": "https://qiita.com/moriita/items/5b199ac6b14ceaa4f7c9",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2019-05-30T02:17:01+09:00",
     "updated_at": "2019-06-04T00:34:31+09:00",
     "id": "moriita"
@@ -314,7 +314,7 @@
   {
     "title": "TailwindCSS入門 ~ Utility First + デザインシステムの構築 ~",
     "url": "https://qiita.com/oedkty/items/68461080515ec1012980",
-    "likes_count": 482,
+    "likes_count": 481,
     "created_at": "2019-05-26T13:14:34+09:00",
     "updated_at": "2020-06-09T21:21:30+09:00",
     "id": "oedkty"
@@ -322,7 +322,7 @@
   {
     "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
     "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
-    "likes_count": 464,
+    "likes_count": 466,
     "created_at": "2019-05-23T08:28:34+09:00",
     "updated_at": "2020-02-02T11:54:18+09:00",
     "id": "drken"
@@ -354,7 +354,7 @@
   {
     "title": "GitHub+CircleCI入門",
     "url": "https://qiita.com/tatane616/items/8624e61473a9957d9a81",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2019-05-18T20:39:35+09:00",
     "updated_at": "2019-05-20T12:39:52+09:00",
     "id": "tatane616"
@@ -362,7 +362,7 @@
   {
     "title": "TypeScriptの型推論詳説",
     "url": "https://qiita.com/uhyo/items/6acb7f4ee73287d5dac0",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2019-05-25T03:29:55+09:00",
     "updated_at": "2019-06-10T12:37:04+09:00",
     "id": "uhyo"
@@ -370,7 +370,7 @@
   {
     "title": "たぶん知らないPythonマイナー文法の世界",
     "url": "https://qiita.com/kotauchisunsun/items/8cf50c33a8c8e1ab5452",
-    "likes_count": 417,
+    "likes_count": 416,
     "created_at": "2019-05-26T15:36:01+09:00",
     "updated_at": "2019-05-26T15:36:01+09:00",
     "id": "kotauchisunsun"
@@ -394,7 +394,7 @@
   {
     "title": "webサービスの本番サーバーをダウンさせてしまった時に爆速で土下座する方法🙇‍♂️🙇‍♂️💦💦",
     "url": "https://qiita.com/retoruto_carry/items/09e87f45c0192f0819e9",
-    "likes_count": 389,
+    "likes_count": 390,
     "created_at": "2019-05-16T00:11:47+09:00",
     "updated_at": "2019-12-16T17:36:01+09:00",
     "id": "retoruto_carry"
