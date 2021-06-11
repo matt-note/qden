@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5492,
+    "likes_count": 5493,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1280,
+    "likes_count": 1282,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1156,
+    "likes_count": 1157,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -90,7 +90,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 921,
+    "likes_count": 922,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -114,7 +114,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 876,
+    "likes_count": 878,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -138,7 +138,7 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 858,
+    "likes_count": 859,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
@@ -162,7 +162,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 820,
+    "likes_count": 821,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -170,7 +170,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 816,
+    "likes_count": 817,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -216,20 +216,20 @@
     "id": "sakaizay"
   },
   {
+    "title": "割と突き詰めてやったvim→vscode移行",
+    "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
+    "likes_count": 743,
+    "created_at": "2017-12-18T10:12:06+09:00",
+    "updated_at": "2019-07-10T10:58:40+09:00",
+    "id": "y-mattun"
+  },
+  {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
     "likes_count": 743,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
-  },
-  {
-    "title": "割と突き詰めてやったvim→vscode移行",
-    "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
-    "likes_count": 742,
-    "created_at": "2017-12-18T10:12:06+09:00",
-    "updated_at": "2019-07-10T10:58:40+09:00",
-    "id": "y-mattun"
   },
   {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
@@ -250,7 +250,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 699,
+    "likes_count": 701,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -346,7 +346,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 548,
+    "likes_count": 549,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -370,7 +370,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 543,
+    "likes_count": 544,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -394,7 +394,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 528,
+    "likes_count": 529,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -440,20 +440,20 @@
     "id": "h-takauma"
   },
   {
+    "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
+    "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
+    "likes_count": 464,
+    "created_at": "2017-12-09T08:11:55+09:00",
+    "updated_at": "2018-05-23T16:49:05+09:00",
+    "id": "devneko"
+  },
+  {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
     "likes_count": 464,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
-  },
-  {
-    "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
-    "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
-    "likes_count": 463,
-    "created_at": "2017-12-09T08:11:55+09:00",
-    "updated_at": "2018-05-23T16:49:05+09:00",
-    "id": "devneko"
   },
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
@@ -466,7 +466,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -586,7 +586,7 @@
   {
     "title": "(2017年12月時点) 私的 CloudFormation ベストプラクティス",
     "url": "https://qiita.com/yasuhiroki/items/8463eed1c78123313a6f",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2017-12-23T12:49:57+09:00",
     "updated_at": "2020-01-24T11:29:13+09:00",
     "id": "yasuhiroki"
@@ -626,10 +626,18 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
+  },
+  {
+    "title": "C++をこれから勉強する人のための道しるべ（C++03）",
+    "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
+    "likes_count": 351,
+    "created_at": "2017-12-18T20:08:38+09:00",
+    "updated_at": "2019-04-17T15:10:58+09:00",
+    "id": "borerere"
   },
   {
     "title": "t-SNEによるイケてる次元圧縮&可視化",
@@ -638,14 +646,6 @@
     "created_at": "2017-12-14T00:12:51+09:00",
     "updated_at": "2019-10-07T01:21:33+09:00",
     "id": "stfate"
-  },
-  {
-    "title": "C++をこれから勉強する人のための道しるべ（C++03）",
-    "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
-    "likes_count": 350,
-    "created_at": "2017-12-18T20:08:38+09:00",
-    "updated_at": "2019-04-17T15:10:58+09:00",
-    "id": "borerere"
   },
   {
     "title": "WebRTCでビデオチャットアプリを作ってみた！",
