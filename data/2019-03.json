@@ -146,7 +146,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 891,
+    "likes_count": 893,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -240,20 +240,20 @@
     "id": "klriutsa"
   },
   {
+    "title": "なんとなくVue.jsのUIフレームワークを紹介する",
+    "url": "https://qiita.com/yusuke_ten/items/4103f032dd0c6fbe5607",
+    "likes_count": 625,
+    "created_at": "2019-03-05T17:07:02+09:00",
+    "updated_at": "2019-03-06T09:00:57+09:00",
+    "id": "yusuke_ten"
+  },
+  {
     "title": "[最新論文]NVIDIAさんがまた本気を出してしまった。",
     "url": "https://qiita.com/Phoeboooo/items/ad6c0461ab052aae8e89",
     "likes_count": 625,
     "created_at": "2019-03-25T08:07:40+09:00",
     "updated_at": "2019-03-25T09:26:58+09:00",
     "id": "Phoeboooo"
-  },
-  {
-    "title": "なんとなくVue.jsのUIフレームワークを紹介する",
-    "url": "https://qiita.com/yusuke_ten/items/4103f032dd0c6fbe5607",
-    "likes_count": 624,
-    "created_at": "2019-03-05T17:07:02+09:00",
-    "updated_at": "2019-03-06T09:00:57+09:00",
-    "id": "yusuke_ten"
   },
   {
     "title": "デザインコード抽出/共有/履歴/管理ツール『Avocode』",
@@ -282,7 +282,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -298,7 +298,7 @@
   {
     "title": "TypeScript の概要",
     "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 584,
+    "likes_count": 586,
     "created_at": "2019-03-18T13:33:09+09:00",
     "updated_at": "2019-07-18T07:59:21+09:00",
     "id": "EBIHARA_kenji"
@@ -344,6 +344,14 @@
     "id": "uhyo"
   },
   {
+    "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
+    "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
+    "likes_count": 463,
+    "created_at": "2019-03-29T15:54:09+09:00",
+    "updated_at": "2019-09-12T14:54:07+09:00",
+    "id": "KRiver1"
+  },
+  {
     "title": "textlint と VS Code で始める文章校正",
     "url": "https://qiita.com/takasp/items/22f7f72b691fda30aea2",
     "likes_count": 462,
@@ -352,17 +360,9 @@
     "id": "takasp"
   },
   {
-    "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
-    "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
-    "likes_count": 462,
-    "created_at": "2019-03-29T15:54:09+09:00",
-    "updated_at": "2019-09-12T14:54:07+09:00",
-    "id": "KRiver1"
-  },
-  {
     "title": "Emacsモダン化計画 -かわEmacs編-",
     "url": "https://qiita.com/Ladicle/items/feb5f9dce9adf89652cf",
-    "likes_count": 458,
+    "likes_count": 460,
     "created_at": "2019-03-03T08:20:37+09:00",
     "updated_at": "2020-05-14T20:16:33+09:00",
     "id": "Ladicle"
@@ -544,20 +544,20 @@
     "id": "fruitriin"
   },
   {
+    "title": "【入門】Redis",
+    "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
+    "likes_count": 292,
+    "created_at": "2019-03-22T16:43:36+09:00",
+    "updated_at": "2020-09-14T17:26:22+09:00",
+    "id": "wind-up-bird"
+  },
+  {
     "title": "今話題のチャットボットを作ってみた　～スマホ・ＰＣ同時対応のチャットUIを爆速で～",
     "url": "https://qiita.com/riversun/items/279c1dd5ab40a1c8c8cf",
     "likes_count": 292,
     "created_at": "2019-04-01T08:45:59+09:00",
     "updated_at": "2019-09-10T17:41:15+09:00",
     "id": "riversun"
-  },
-  {
-    "title": "【入門】Redis",
-    "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 291,
-    "created_at": "2019-03-22T16:43:36+09:00",
-    "updated_at": "2020-09-14T17:26:22+09:00",
-    "id": "wind-up-bird"
   },
   {
     "title": "Vue で地図を表示する無料で最短の道",
