@@ -10,7 +10,7 @@
   {
     "title": "データ分析で頻出のPandas基本操作",
     "url": "https://qiita.com/ysdyt/items/9ccca82fc5b504e7913a",
-    "likes_count": 2173,
+    "likes_count": 2174,
     "created_at": "2018-04-16T08:12:28+09:00",
     "updated_at": "2019-12-17T17:19:27+09:00",
     "id": "ysdyt"
@@ -26,7 +26,7 @@
   {
     "title": "ソートを極める！ 〜 なぜソートを学ぶのか 〜",
     "url": "https://qiita.com/drken/items/44c60118ab3703f7727f",
-    "likes_count": 1988,
+    "likes_count": 1989,
     "created_at": "2018-04-05T09:29:06+09:00",
     "updated_at": "2019-10-17T14:02:36+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "フロントエンドのコンポーネント設計に立ち向かう",
     "url": "https://qiita.com/seya/items/8814e905693f00cdade2",
-    "likes_count": 1883,
+    "likes_count": 1884,
     "created_at": "2018-04-02T07:22:25+09:00",
     "updated_at": "2021-02-19T20:36:30+09:00",
     "id": "seya"
@@ -82,7 +82,7 @@
   {
     "title": "私からあなたへ 一人前のJavaエンジニアになるためのロードマップを送ろう",
     "url": "https://qiita.com/haruto167/items/5a784df032518277f4a0",
-    "likes_count": 1355,
+    "likes_count": 1356,
     "created_at": "2018-04-07T16:04:15+09:00",
     "updated_at": "2018-04-28T10:13:26+09:00",
     "id": "haruto167"
@@ -90,7 +90,7 @@
   {
     "title": "GAS ビギナーが GAS を使いこなすために知るべきこと 10 選",
     "url": "https://qiita.com/tanabee/items/2c51681396fe12b6a0e4",
-    "likes_count": 1321,
+    "likes_count": 1323,
     "created_at": "2018-04-03T20:21:07+09:00",
     "updated_at": "2020-10-22T01:26:54+09:00",
     "id": "tanabee"
@@ -162,7 +162,7 @@
   {
     "title": "[Python]可読性を上げるための、docstringの書き方を学ぶ（NumPyスタイル）",
     "url": "https://qiita.com/simonritchie/items/49e0813508cad4876b5a",
-    "likes_count": 874,
+    "likes_count": 876,
     "created_at": "2018-04-01T23:34:45+09:00",
     "updated_at": "2020-05-22T19:10:56+09:00",
     "id": "simonritchie"
@@ -218,10 +218,18 @@
   {
     "title": "チーム開発におけるプルリクの作法",
     "url": "https://qiita.com/ikuwow/items/fb52a54c086398eb5b92",
-    "likes_count": 695,
+    "likes_count": 696,
     "created_at": "2018-04-29T15:12:47+09:00",
     "updated_at": "2019-08-17T22:38:20+09:00",
     "id": "ikuwow"
+  },
+  {
+    "title": "Rails5.2から追加された credentials.yml.enc のキホン",
+    "url": "https://qiita.com/NaokiIshimura/items/2a179f2ab910992c4d39",
+    "likes_count": 678,
+    "created_at": "2018-04-12T22:24:26+09:00",
+    "updated_at": "2020-11-16T02:00:48+09:00",
+    "id": "NaokiIshimura"
   },
   {
     "title": "async/await地獄",
@@ -230,14 +238,6 @@
     "created_at": "2018-04-09T19:56:09+09:00",
     "updated_at": "2018-11-25T14:20:35+09:00",
     "id": "rana_kualu"
-  },
-  {
-    "title": "Rails5.2から追加された credentials.yml.enc のキホン",
-    "url": "https://qiita.com/NaokiIshimura/items/2a179f2ab910992c4d39",
-    "likes_count": 677,
-    "created_at": "2018-04-12T22:24:26+09:00",
-    "updated_at": "2020-11-16T02:00:48+09:00",
-    "id": "NaokiIshimura"
   },
   {
     "title": "グレースケール画像のうんちく",
@@ -378,7 +378,7 @@
   {
     "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
     "url": "https://qiita.com/drken/items/97e37dd6143e33a64c8c",
-    "likes_count": 466,
+    "likes_count": 468,
     "created_at": "2018-04-20T10:48:11+09:00",
     "updated_at": "2018-07-04T17:57:29+09:00",
     "id": "drken"
@@ -410,7 +410,7 @@
   {
     "title": "Goで学ぶポインタとアドレス",
     "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2018-04-27T14:31:26+09:00",
     "updated_at": "2019-05-18T15:44:03+09:00",
     "id": "Sekky0905"
