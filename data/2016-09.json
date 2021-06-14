@@ -2,7 +2,7 @@
   {
     "title": "不安とストレスから解放される見積りとスケジュール方法",
     "url": "https://qiita.com/hirokidaichi/items/5a204a57a200569f755d",
-    "likes_count": 2964,
+    "likes_count": 2968,
     "created_at": "2016-09-09T00:59:09+09:00",
     "updated_at": "2018-12-11T14:20:41+09:00",
     "id": "hirokidaichi"
@@ -10,7 +10,7 @@
   {
     "title": "Vue.js を vue-cli を使ってシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/dde495d6a8ad1c25fa43",
-    "likes_count": 2011,
+    "likes_count": 2013,
     "created_at": "2016-09-11T00:09:02+09:00",
     "updated_at": "2021-04-25T18:04:24+09:00",
     "id": "567000"
@@ -26,7 +26,7 @@
   {
     "title": "JavaScriptが辿った変遷",
     "url": "https://qiita.com/naoki_mochizuki/items/cc6ef57d35ba6a69117f",
-    "likes_count": 1226,
+    "likes_count": 1225,
     "created_at": "2016-09-19T13:21:38+09:00",
     "updated_at": "2020-09-24T18:34:25+09:00",
     "id": "naoki_mochizuki"
@@ -66,7 +66,7 @@
   {
     "title": "IDトークンが分かれば OpenID Connect が分かる",
     "url": "https://qiita.com/TakahikoKawasaki/items/8f0e422c7edd2d220e06",
-    "likes_count": 972,
+    "likes_count": 973,
     "created_at": "2016-09-16T18:41:38+09:00",
     "updated_at": "2020-03-20T15:16:11+09:00",
     "id": "TakahikoKawasaki"
@@ -114,7 +114,7 @@
   {
     "title": "Rails における内部結合、外部結合まとめ",
     "url": "https://qiita.com/yuyasat/items/c2ad37b5a24a58ee3d30",
-    "likes_count": 806,
+    "likes_count": 807,
     "created_at": "2016-09-04T00:45:31+09:00",
     "updated_at": "2020-10-28T00:43:04+09:00",
     "id": "yuyasat"
@@ -248,14 +248,6 @@
     "id": "ay3"
   },
   {
-    "title": "nginxについてまとめ(設定編)",
-    "url": "https://qiita.com/morrr/items/7c97f0d2e46f7a8ec967",
-    "likes_count": 551,
-    "created_at": "2016-09-08T22:17:25+09:00",
-    "updated_at": "2020-06-17T14:23:27+09:00",
-    "id": "morrr"
-  },
-  {
     "title": "React.jsの知っておいて損はないTips",
     "url": "https://qiita.com/endam/items/1bde821c4b29f9b663da",
     "likes_count": 551,
@@ -264,9 +256,17 @@
     "id": "endam"
   },
   {
+    "title": "nginxについてまとめ(設定編)",
+    "url": "https://qiita.com/morrr/items/7c97f0d2e46f7a8ec967",
+    "likes_count": 550,
+    "created_at": "2016-09-08T22:17:25+09:00",
+    "updated_at": "2020-06-17T14:23:27+09:00",
+    "id": "morrr"
+  },
+  {
     "title": "Rubyの文字列とシンボルの違いをキッチリ説明できる人になりたい",
     "url": "https://qiita.com/Kta-M/items/53a13ef60e14fcb41193",
-    "likes_count": 546,
+    "likes_count": 545,
     "created_at": "2016-09-05T09:00:08+09:00",
     "updated_at": "2019-04-07T14:54:30+09:00",
     "id": "Kta-M"
@@ -408,20 +408,20 @@
     "id": "yamshta"
   },
   {
+    "title": "SPAでのセッション管理とセキュリティ",
+    "url": "https://qiita.com/uryyyyyyy/items/9a8276f7241b650f1c15",
+    "likes_count": 359,
+    "created_at": "2016-09-16T15:55:18+09:00",
+    "updated_at": "2017-04-14T09:02:35+09:00",
+    "id": "uryyyyyyy"
+  },
+  {
     "title": "RubyのModuleの使い方とはいったい",
     "url": "https://qiita.com/shiopon01/items/fd6803f792398c5219cd",
     "likes_count": 358,
     "created_at": "2016-09-15T21:16:56+09:00",
     "updated_at": "2016-09-15T22:04:10+09:00",
     "id": "shiopon01"
-  },
-  {
-    "title": "SPAでのセッション管理とセキュリティ",
-    "url": "https://qiita.com/uryyyyyyy/items/9a8276f7241b650f1c15",
-    "likes_count": 358,
-    "created_at": "2016-09-16T15:55:18+09:00",
-    "updated_at": "2017-04-14T09:02:35+09:00",
-    "id": "uryyyyyyy"
   },
   {
     "title": "Spring BootのAutoConfigureの仕組みを理解する",
