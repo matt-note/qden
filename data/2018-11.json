@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1367,
+    "likes_count": 1369,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -106,7 +106,7 @@
   {
     "title": "Git/GitHubレベル別オススメ学習サイトまとめ完全保存版【2019.06】",
     "url": "https://qiita.com/thinkalot/items/b3c2e9060f46f5d4ea46",
-    "likes_count": 1043,
+    "likes_count": 1044,
     "created_at": "2018-11-24T14:40:32+09:00",
     "updated_at": "2020-01-13T03:12:52+09:00",
     "id": "thinkalot"
@@ -114,7 +114,7 @@
   {
     "title": "【保存版・初心者向け】Python 目的別チュートリアル",
     "url": "https://qiita.com/tani_AI_Academy/items/3edc5effeb386ae3caa9",
-    "likes_count": 1012,
+    "likes_count": 1013,
     "created_at": "2018-11-12T11:51:01+09:00",
     "updated_at": "2020-03-15T19:44:41+09:00",
     "id": "tani_AI_Academy"
@@ -186,7 +186,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 705,
+    "likes_count": 706,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -194,7 +194,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 703,
+    "likes_count": 704,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -218,7 +218,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 659,
+    "likes_count": 660,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -242,7 +242,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 560,
+    "likes_count": 562,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -298,7 +298,7 @@
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
     "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 482,
+    "likes_count": 484,
     "created_at": "2018-11-18T19:13:03+09:00",
     "updated_at": "2019-10-05T07:32:56+09:00",
     "id": "kd9951"
@@ -306,10 +306,18 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 480,
+    "likes_count": 481,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
+  },
+  {
+    "title": "RedisとElastiCacheを分かりやすくまとめてみた",
+    "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
+    "likes_count": 476,
+    "created_at": "2018-11-19T09:00:44+09:00",
+    "updated_at": "2019-11-21T15:42:12+09:00",
+    "id": "gold-kou"
   },
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
@@ -318,14 +326,6 @@
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
-  },
-  {
-    "title": "RedisとElastiCacheを分かりやすくまとめてみた",
-    "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
-    "likes_count": 475,
-    "created_at": "2018-11-19T09:00:44+09:00",
-    "updated_at": "2019-11-21T15:42:12+09:00",
-    "id": "gold-kou"
   },
   {
     "title": "JavaScriptの等値比較を全部理解する",
@@ -378,7 +378,7 @@
   {
     "title": "統計検定２級に楽に合格する方法",
     "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2018-11-28T12:58:31+09:00",
     "updated_at": "2018-11-28T13:29:26+09:00",
     "id": "okoppe8"
@@ -394,7 +394,7 @@
   {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
     "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2018-11-06T02:18:59+09:00",
     "updated_at": "2018-11-06T02:18:59+09:00",
     "id": "psychoroid"
@@ -410,7 +410,7 @@
   {
     "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
     "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2018-11-19T10:38:23+09:00",
     "updated_at": "2020-09-01T15:55:23+09:00",
     "id": "amishiro"
@@ -526,5 +526,13 @@
     "created_at": "2018-11-07T22:55:48+09:00",
     "updated_at": "2018-11-08T19:17:42+09:00",
     "id": "Hal_mai"
+  },
+  {
+    "title": "【Vue.js】爆速でSPAを作る",
+    "url": "https://qiita.com/nagimaruxxx/items/8fc59a5ca05bb91bfe1f",
+    "likes_count": 227,
+    "created_at": "2018-11-09T19:32:28+09:00",
+    "updated_at": "2019-09-24T12:29:23+09:00",
+    "id": "nagimaruxxx"
   }
 ]
