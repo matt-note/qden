@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2703,
+    "likes_count": 2705,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1655,
+    "likes_count": 1656,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
     "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 991,
+    "likes_count": 992,
     "created_at": "2018-05-12T11:14:50+09:00",
     "updated_at": "2020-03-07T10:07:41+09:00",
     "id": "y-tsutsu"
@@ -146,7 +146,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 730,
+    "likes_count": 731,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -192,20 +192,20 @@
     "id": "kamesennin"
   },
   {
+    "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
+    "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
+    "likes_count": 671,
+    "created_at": "2018-05-10T12:49:41+09:00",
+    "updated_at": "2019-04-23T14:36:43+09:00",
+    "id": "k5n"
+  },
+  {
     "title": "Webブラウザの作り方",
     "url": "https://qiita.com/uint256_t/items/01308b46ea839ba4a919",
     "likes_count": 671,
     "created_at": "2018-05-13T18:38:55+09:00",
     "updated_at": "2018-05-17T19:49:14+09:00",
     "id": "uint256_t"
-  },
-  {
-    "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
-    "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 670,
-    "created_at": "2018-05-10T12:49:41+09:00",
-    "updated_at": "2019-04-23T14:36:43+09:00",
-    "id": "k5n"
   },
   {
     "title": "小中高大生にプログラミング教育をしてきて分かったこと",
@@ -272,20 +272,20 @@
     "id": "minakawa-daiki"
   },
   {
+    "title": "Pythonのlambdaって分かりやすい",
+    "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
+    "likes_count": 572,
+    "created_at": "2018-05-20T14:33:53+09:00",
+    "updated_at": "2020-11-06T12:05:03+09:00",
+    "id": "nagataaaas"
+  },
+  {
     "title": "GitFlowをやめて本番リリースが楽になった話",
     "url": "https://qiita.com/koyopro/items/b4569285efc22c6397c6",
     "likes_count": 571,
     "created_at": "2018-05-13T09:53:45+09:00",
     "updated_at": "2018-06-10T14:48:56+09:00",
     "id": "koyopro"
-  },
-  {
-    "title": "Pythonのlambdaって分かりやすい",
-    "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 571,
-    "created_at": "2018-05-20T14:33:53+09:00",
-    "updated_at": "2020-11-06T12:05:03+09:00",
-    "id": "nagataaaas"
   },
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
@@ -402,7 +402,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 442,
+    "likes_count": 444,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -434,7 +434,7 @@
   {
     "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
     "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2018-05-21T00:02:30+09:00",
     "updated_at": "2018-12-13T21:47:28+09:00",
     "id": "shtnkgm"
@@ -482,7 +482,7 @@
   {
     "title": "SSH公開鍵認証で接続するまで",
     "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 334,
+    "likes_count": 335,
     "created_at": "2018-05-06T12:00:20+09:00",
     "updated_at": "2020-10-13T06:08:24+09:00",
     "id": "kazokmr"
@@ -498,7 +498,7 @@
   {
     "title": "VirtualBox のネットワークアダプタまとめ",
     "url": "https://qiita.com/pitao/items/0f9475e4c0e230911eb7",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2018-05-01T14:40:59+09:00",
     "updated_at": "2021-01-01T22:57:59+09:00",
     "id": "pitao"
@@ -538,7 +538,7 @@
   {
     "title": "git を初めて使う時 コミット→プッシュ→マージ　の流れ",
     "url": "https://qiita.com/yukiyoshimura/items/7aa4a8f8db493ab97c2b",
-    "likes_count": 257,
+    "likes_count": 256,
     "created_at": "2018-05-13T21:59:51+09:00",
     "updated_at": "2018-05-13T22:05:49+09:00",
     "id": "yukiyoshimura"
