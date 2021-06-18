@@ -184,20 +184,20 @@
     "id": "ryuichi1208"
   },
   {
+    "title": "Vueのライフサイクルを完全に理解した",
+    "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
+    "likes_count": 707,
+    "created_at": "2018-11-24T16:59:51+09:00",
+    "updated_at": "2020-06-06T10:32:42+09:00",
+    "id": "chan_kaku"
+  },
+  {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
     "likes_count": 707,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
-  },
-  {
-    "title": "Vueのライフサイクルを完全に理解した",
-    "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 705,
-    "created_at": "2018-11-24T16:59:51+09:00",
-    "updated_at": "2020-06-06T10:32:42+09:00",
-    "id": "chan_kaku"
   },
   {
     "title": "AtCoder見てたらテクいコードが読めるようになった話",
@@ -218,7 +218,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 661,
+    "likes_count": 663,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -274,7 +274,7 @@
   {
     "title": "atcoderでよく使う手法python版",
     "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2018-11-25T18:13:41+09:00",
     "updated_at": "2020-11-23T02:30:53+09:00",
     "id": "chun1182"
@@ -306,7 +306,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 482,
+    "likes_count": 483,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -314,7 +314,7 @@
   {
     "title": "RedisとElastiCacheを分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8",
-    "likes_count": 476,
+    "likes_count": 479,
     "created_at": "2018-11-19T09:00:44+09:00",
     "updated_at": "2019-11-21T15:42:12+09:00",
     "id": "gold-kou"
@@ -322,7 +322,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 476,
+    "likes_count": 478,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -346,7 +346,7 @@
   {
     "title": "State of SEO for SPA 2019",
     "url": "https://qiita.com/seya/items/2688dc539af217b7b111",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2018-11-19T22:51:22+09:00",
     "updated_at": "2019-05-08T20:37:48+09:00",
     "id": "seya"
@@ -440,17 +440,9 @@
     "id": "yakimeron"
   },
   {
-    "title": "最近のJava界隈はとても良い感じ ",
-    "url": "https://qiita.com/huge-book-storage/items/ad4f7bcaaebca6281154",
-    "likes_count": 364,
-    "created_at": "2018-11-10T12:47:32+09:00",
-    "updated_at": "2018-11-17T13:28:26+09:00",
-    "id": "huge-book-storage"
-  },
-  {
     "title": "iOS/Android セキュリティガイドライン",
     "url": "https://qiita.com/alt_yamamoto/items/f67a7ddb6ba13cca7369",
-    "likes_count": 364,
+    "likes_count": 365,
     "created_at": "2018-11-20T17:51:33+09:00",
     "updated_at": "2020-01-22T10:02:28+09:00",
     "id": "alt_yamamoto"
@@ -462,6 +454,14 @@
     "created_at": "2018-11-05T00:29:23+09:00",
     "updated_at": "2018-11-05T00:29:23+09:00",
     "id": "rana_kualu"
+  },
+  {
+    "title": "最近のJava界隈はとても良い感じ ",
+    "url": "https://qiita.com/huge-book-storage/items/ad4f7bcaaebca6281154",
+    "likes_count": 363,
+    "created_at": "2018-11-10T12:47:32+09:00",
+    "updated_at": "2018-11-17T13:28:26+09:00",
+    "id": "huge-book-storage"
   },
   {
     "title": "Webアプリ初心者がGo言語でサーバサイド（1. 簡単なHTTPサーバの実装）",
@@ -482,7 +482,7 @@
   {
     "title": "【入門】Nuxt.js + Contentful + Netlify で始める、JAMstack な CMS 構築",
     "url": "https://qiita.com/isihigameKoudai/items/3e45ade7c438176a4cc9",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2018-11-21T08:56:43+09:00",
     "updated_at": "2021-03-03T12:29:46+09:00",
     "id": "isihigameKoudai"

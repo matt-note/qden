@@ -98,7 +98,7 @@
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
     "url": "https://qiita.com/YudaiTsukamoto/items/06b426f4dbee268d5035",
-    "likes_count": 908,
+    "likes_count": 909,
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2017-12-14T17:04:47+09:00",
     "id": "YudaiTsukamoto"
@@ -186,7 +186,7 @@
   {
     "title": "仮想通貨自動取引入門",
     "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
-    "likes_count": 786,
+    "likes_count": 787,
     "created_at": "2017-12-17T11:54:43+09:00",
     "updated_at": "2018-08-23T10:49:03+09:00",
     "id": "shionhonda"
@@ -216,20 +216,20 @@
     "id": "sakaizay"
   },
   {
+    "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
+    "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
+    "likes_count": 744,
+    "created_at": "2017-12-22T00:03:45+09:00",
+    "updated_at": "2018-03-05T16:54:15+09:00",
+    "id": "suigin"
+  },
+  {
     "title": "割と突き詰めてやったvim→vscode移行",
     "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
     "likes_count": 743,
     "created_at": "2017-12-18T10:12:06+09:00",
     "updated_at": "2019-07-10T10:58:40+09:00",
     "id": "y-mattun"
-  },
-  {
-    "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
-    "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 743,
-    "created_at": "2017-12-22T00:03:45+09:00",
-    "updated_at": "2018-03-05T16:54:15+09:00",
-    "id": "suigin"
   },
   {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
@@ -282,7 +282,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 615,
+    "likes_count": 617,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -330,7 +330,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 569,
+    "likes_count": 570,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -346,7 +346,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 555,
+    "likes_count": 556,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -360,6 +360,14 @@
     "id": "yuh_iw"
   },
   {
+    "title": "systemctl コマンド",
+    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
+    "likes_count": 546,
+    "created_at": "2017-12-08T14:15:47+09:00",
+    "updated_at": "2019-03-14T16:14:00+09:00",
+    "id": "sinsengumi"
+  },
+  {
     "title": "極めろ！！Google Chrome Devtools 52の関節技",
     "url": "https://qiita.com/sueshin/items/7da3330b0e17696602b1",
     "likes_count": 546,
@@ -368,17 +376,9 @@
     "id": "sueshin"
   },
   {
-    "title": "systemctl コマンド",
-    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 545,
-    "created_at": "2017-12-08T14:15:47+09:00",
-    "updated_at": "2019-03-14T16:14:00+09:00",
-    "id": "sinsengumi"
-  },
-  {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 537,
+    "likes_count": 538,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -466,7 +466,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -554,7 +554,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 389,
+    "likes_count": 390,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -562,7 +562,7 @@
   {
     "title": "WindowsでDocker環境を試してみる",
     "url": "https://qiita.com/fkooo/items/d2fddef9091b906675ca",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2017-12-20T20:24:56+09:00",
     "updated_at": "2021-01-17T17:08:39+09:00",
     "id": "fkooo"
@@ -696,20 +696,20 @@
     "id": "sawadays0118"
   },
   {
+    "title": "関東最速でReact+Redux+TypeScriptなアプリの開発環境を作る",
+    "url": "https://qiita.com/IzumiSy/items/b7d8a96eacd2cd8ad510",
+    "likes_count": 324,
+    "created_at": "2017-12-24T23:29:21+09:00",
+    "updated_at": "2020-05-11T11:04:03+09:00",
+    "id": "IzumiSy"
+  },
+  {
     "title": "まだ間に合う！着々と進化しているFirebaseをまとめてみるよ #Firebase #FJUG",
     "url": "https://qiita.com/Yatima/items/23797ca868ee988c824b",
     "likes_count": 323,
     "created_at": "2017-12-06T22:02:53+09:00",
     "updated_at": "2018-03-15T07:24:29+09:00",
     "id": "Yatima"
-  },
-  {
-    "title": "関東最速でReact+Redux+TypeScriptなアプリの開発環境を作る",
-    "url": "https://qiita.com/IzumiSy/items/b7d8a96eacd2cd8ad510",
-    "likes_count": 323,
-    "created_at": "2017-12-24T23:29:21+09:00",
-    "updated_at": "2020-05-11T11:04:03+09:00",
-    "id": "IzumiSy"
   },
   {
     "title": "あのサイトで使われている技術を調べる",
@@ -728,20 +728,20 @@
     "id": "motoki1990"
   },
   {
+    "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
+    "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
+    "likes_count": 319,
+    "created_at": "2017-12-13T01:29:31+09:00",
+    "updated_at": "2018-08-25T11:45:30+09:00",
+    "id": "h1kita"
+  },
+  {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
     "likes_count": 319,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
-  },
-  {
-    "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
-    "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 318,
-    "created_at": "2017-12-13T01:29:31+09:00",
-    "updated_at": "2018-08-25T11:45:30+09:00",
-    "id": "h1kita"
   },
   {
     "title": "使うと手放せなくなるSwift Extension集 (Swift 4版)",
@@ -778,7 +778,7 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 282,
+    "likes_count": 284,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"

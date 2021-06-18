@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1886,
+    "likes_count": 1887,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -122,7 +122,7 @@
   {
     "title": "強い意志で定時に帰る",
     "url": "https://qiita.com/furu8ma/items/f909b8820c9d6d21897a",
-    "likes_count": 993,
+    "likes_count": 994,
     "created_at": "2016-04-05T17:40:25+09:00",
     "updated_at": "2016-04-08T09:32:49+09:00",
     "id": "furu8ma"
@@ -138,10 +138,18 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 832,
+    "likes_count": 833,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
+  },
+  {
+    "title": "Promiseについて0から勉強してみた",
+    "url": "https://qiita.com/toshihirock/items/e49b66f8685a8510bd76",
+    "likes_count": 809,
+    "created_at": "2016-04-10T07:32:44+09:00",
+    "updated_at": "2016-04-17T15:28:26+09:00",
+    "id": "toshihirock"
   },
   {
     "title": "【噂】IT業界のウソ・ホント【闇】",
@@ -150,14 +158,6 @@
     "created_at": "2016-04-26T12:21:50+09:00",
     "updated_at": "2019-02-06T11:51:41+09:00",
     "id": "netetahito"
-  },
-  {
-    "title": "Promiseについて0から勉強してみた",
-    "url": "https://qiita.com/toshihirock/items/e49b66f8685a8510bd76",
-    "likes_count": 808,
-    "created_at": "2016-04-10T07:32:44+09:00",
-    "updated_at": "2016-04-17T15:28:26+09:00",
-    "id": "toshihirock"
   },
   {
     "title": "Dockerのライフサイクルを理解するハンズオン資料",
@@ -266,7 +266,7 @@
   {
     "title": "Linux screenコマンド使い方",
     "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
-    "likes_count": 515,
+    "likes_count": 516,
     "created_at": "2016-04-06T08:44:32+09:00",
     "updated_at": "2019-12-25T19:10:52+09:00",
     "id": "hnishi"
@@ -338,7 +338,7 @@
   {
     "title": "ベイズ最適化入門",
     "url": "https://qiita.com/masasora/items/cc2f10cb79f8c0a6bbaa",
-    "likes_count": 439,
+    "likes_count": 440,
     "created_at": "2016-04-02T18:43:05+09:00",
     "updated_at": "2016-07-24T12:27:11+09:00",
     "id": "masasora"
@@ -370,7 +370,7 @@
   {
     "title": "決定版!!Haml小技まとめ！！",
     "url": "https://qiita.com/yukimura1227/items/a1cbf65ac9abd4d138e1",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2016-04-17T00:47:36+09:00",
     "updated_at": "2018-11-29T16:09:46+09:00",
     "id": "yukimura1227"
@@ -402,7 +402,7 @@
   {
     "title": "変更履歴を持つテーブルの設計",
     "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2016-04-05T14:44:41+09:00",
     "updated_at": "2018-02-09T12:13:08+09:00",
     "id": "ak-ymst"
@@ -434,7 +434,7 @@
   {
     "title": "こうすれば理解できるBootstrap 4のレスポンシブWebデザインとそのCSS",
     "url": "https://qiita.com/tonkotsuboy_com/items/7c01460b59c3ca5ee047",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2016-04-14T11:35:11+09:00",
     "updated_at": "2020-08-29T19:12:09+09:00",
     "id": "tonkotsuboy_com"
@@ -490,7 +490,7 @@
   {
     "title": "お名前.comからRoute53へネームサーバーを変更する時に迷子になる人へ",
     "url": "https://qiita.com/ysKey2/items/0545e13ec05def42ad55",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2016-04-22T15:50:55+09:00",
     "updated_at": "2018-08-21T19:08:57+09:00",
     "id": "ysKey2"
@@ -626,7 +626,7 @@
   {
     "title": "今日から始められるリファクタリング10選 (1)",
     "url": "https://qiita.com/nunulk/items/2323b0c30a2cbe5fdb0c",
-    "likes_count": 284,
+    "likes_count": 285,
     "created_at": "2016-04-27T22:35:47+09:00",
     "updated_at": "2016-04-29T13:03:28+09:00",
     "id": "nunulk"
