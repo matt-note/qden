@@ -2,7 +2,7 @@
   {
     "title": "うまくメソッド名を付けるための参考情報",
     "url": "https://qiita.com/KeithYokoma/items/2193cf79ba76563e3db6",
-    "likes_count": 6976,
+    "likes_count": 6977,
     "created_at": "2015-04-20T18:17:04+09:00",
     "updated_at": "2016-02-29T15:10:04+09:00",
     "id": "KeithYokoma"
@@ -50,7 +50,7 @@
   {
     "title": "フロントエンド開発の３ステップ（npmことはじめ）",
     "url": "https://qiita.com/hashrock/items/15f4a4961183cfbb2658",
-    "likes_count": 1607,
+    "likes_count": 1610,
     "created_at": "2015-04-12T03:36:27+09:00",
     "updated_at": "2020-08-17T19:58:36+09:00",
     "id": "hashrock"
@@ -90,7 +90,7 @@
   {
     "title": "Gitでやらかさないための事前予防策",
     "url": "https://qiita.com/muran001/items/f13742b51da3a22117ee",
-    "likes_count": 1240,
+    "likes_count": 1241,
     "created_at": "2015-04-12T16:30:37+09:00",
     "updated_at": "2015-04-29T22:46:20+09:00",
     "id": "muran001"
@@ -98,7 +98,7 @@
   {
     "title": "Qiita Markdown 書き方 まとめ",
     "url": "https://qiita.com/shizuma/items/8616bbe3ebe8ab0b6ca1",
-    "likes_count": 1172,
+    "likes_count": 1173,
     "created_at": "2015-04-12T12:55:00+09:00",
     "updated_at": "2019-09-06T09:57:37+09:00",
     "id": "shizuma"
@@ -154,7 +154,7 @@
   {
     "title": "詳解 fishでモダンなシェル環境の構築(fish,tmux,powerline,peco,z,ghq,dracula)",
     "url": "https://qiita.com/susieyy/items/ac2133e249f252dc9a34",
-    "likes_count": 667,
+    "likes_count": 668,
     "created_at": "2015-04-13T08:59:50+09:00",
     "updated_at": "2020-10-02T19:09:04+09:00",
     "id": "susieyy"
@@ -210,7 +210,7 @@
   {
     "title": "わかりやすい README 駆動開発",
     "url": "https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec",
-    "likes_count": 565,
+    "likes_count": 564,
     "created_at": "2015-04-17T13:59:32+09:00",
     "updated_at": "2017-02-14T22:38:49+09:00",
     "id": "b4b4r07"
@@ -226,7 +226,7 @@
   {
     "title": "【AWS】Auto Scalingまとめ",
     "url": "https://qiita.com/iron-breaker/items/2b55da35429da7b19e49",
-    "likes_count": 533,
+    "likes_count": 534,
     "created_at": "2015-04-06T22:55:18+09:00",
     "updated_at": "2017-09-26T14:02:34+09:00",
     "id": "iron-breaker"
@@ -280,20 +280,20 @@
     "id": "devneko"
   },
   {
+    "title": "Rails開発環境の構築（複数バージョン共存可能）（Homebrew編）",
+    "url": "https://qiita.com/emadurandal/items/e43c4896be1df60caef0",
+    "likes_count": 409,
+    "created_at": "2015-04-06T09:54:29+09:00",
+    "updated_at": "2019-02-06T12:54:38+09:00",
+    "id": "emadurandal"
+  },
+  {
     "title": "Gitで管理しているExcelファイルの差分を見る",
     "url": "https://qiita.com/takedakn/items/660d17fe10ede8441ee6",
     "likes_count": 409,
     "created_at": "2015-04-08T00:19:54+09:00",
     "updated_at": "2015-04-08T00:20:39+09:00",
     "id": "takedakn"
-  },
-  {
-    "title": "Rails開発環境の構築（複数バージョン共存可能）（Homebrew編）",
-    "url": "https://qiita.com/emadurandal/items/e43c4896be1df60caef0",
-    "likes_count": 408,
-    "created_at": "2015-04-06T09:54:29+09:00",
-    "updated_at": "2019-02-06T12:54:38+09:00",
-    "id": "emadurandal"
   },
   {
     "title": "機械学習で未来を予測する - scikit-learn の決定木で未来の株価を予測",
