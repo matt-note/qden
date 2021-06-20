@@ -2,7 +2,7 @@
   {
     "title": "アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選 6 問 ～",
     "url": "https://qiita.com/drken/items/f909b79ee03e679c7142",
-    "likes_count": 2188,
+    "likes_count": 2189,
     "created_at": "2018-04-19T09:05:44+09:00",
     "updated_at": "2021-01-24T15:09:37+09:00",
     "id": "drken"
@@ -10,7 +10,7 @@
   {
     "title": "データ分析で頻出のPandas基本操作",
     "url": "https://qiita.com/ysdyt/items/9ccca82fc5b504e7913a",
-    "likes_count": 2183,
+    "likes_count": 2184,
     "created_at": "2018-04-16T08:12:28+09:00",
     "updated_at": "2019-12-17T17:19:27+09:00",
     "id": "ysdyt"
@@ -26,7 +26,7 @@
   {
     "title": "ソートを極める！ 〜 なぜソートを学ぶのか 〜",
     "url": "https://qiita.com/drken/items/44c60118ab3703f7727f",
-    "likes_count": 1993,
+    "likes_count": 1994,
     "created_at": "2018-04-05T09:29:06+09:00",
     "updated_at": "2019-10-17T14:02:36+09:00",
     "id": "drken"
@@ -90,7 +90,7 @@
   {
     "title": "GAS ビギナーが GAS を使いこなすために知るべきこと 10 選",
     "url": "https://qiita.com/tanabee/items/2c51681396fe12b6a0e4",
-    "likes_count": 1330,
+    "likes_count": 1331,
     "created_at": "2018-04-03T20:21:07+09:00",
     "updated_at": "2020-10-22T01:26:54+09:00",
     "id": "tanabee"
@@ -130,7 +130,7 @@
   {
     "title": "ngrokが便利すぎる",
     "url": "https://qiita.com/mininobu/items/b45dbc70faedf30f484e",
-    "likes_count": 1019,
+    "likes_count": 1020,
     "created_at": "2018-04-15T00:55:28+09:00",
     "updated_at": "2018-04-15T00:55:28+09:00",
     "id": "mininobu"
@@ -162,7 +162,7 @@
   {
     "title": "[Python]可読性を上げるための、docstringの書き方を学ぶ（NumPyスタイル）",
     "url": "https://qiita.com/simonritchie/items/49e0813508cad4876b5a",
-    "likes_count": 878,
+    "likes_count": 880,
     "created_at": "2018-04-01T23:34:45+09:00",
     "updated_at": "2020-05-22T19:10:56+09:00",
     "id": "simonritchie"
@@ -226,7 +226,7 @@
   {
     "title": "Rails5.2から追加された credentials.yml.enc のキホン",
     "url": "https://qiita.com/NaokiIshimura/items/2a179f2ab910992c4d39",
-    "likes_count": 682,
+    "likes_count": 683,
     "created_at": "2018-04-12T22:24:26+09:00",
     "updated_at": "2020-11-16T02:00:48+09:00",
     "id": "NaokiIshimura"
@@ -290,7 +290,7 @@
   {
     "title": "Reduxが分からない人のためにReduxを概念から説明してみる",
     "url": "https://qiita.com/tkow/items/9da7062f9bfa99e848c3",
-    "likes_count": 574,
+    "likes_count": 575,
     "created_at": "2018-04-03T18:38:46+09:00",
     "updated_at": "2019-01-18T11:12:01+09:00",
     "id": "tkow"
@@ -298,7 +298,7 @@
   {
     "title": "【Pythonメモ】pandas-profilingが探索的データ解析にめちゃめちゃ便利だった件",
     "url": "https://qiita.com/h_kobayashi1125/items/02039e57a656abe8c48f",
-    "likes_count": 566,
+    "likes_count": 567,
     "created_at": "2018-04-27T20:40:38+09:00",
     "updated_at": "2018-05-06T02:01:27+09:00",
     "id": "h_kobayashi1125"
@@ -330,7 +330,7 @@
   {
     "title": "“プログラミング言語Rust: 2nd Edition”の日本語版PDFを作成した",
     "url": "https://qiita.com/yyu/items/18df35988f3ea3b12af0",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2018-04-18T00:38:16+09:00",
     "updated_at": "2020-09-26T17:26:24+09:00",
     "id": "yyu"
@@ -378,7 +378,7 @@
   {
     "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
     "url": "https://qiita.com/drken/items/97e37dd6143e33a64c8c",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2018-04-20T10:48:11+09:00",
     "updated_at": "2018-07-04T17:57:29+09:00",
     "id": "drken"
@@ -542,6 +542,14 @@
     "created_at": "2018-04-10T16:00:09+09:00",
     "updated_at": "2018-04-13T14:50:14+09:00",
     "id": "tkow"
+  },
+  {
+    "title": "【CSS】画面にペタッとついてくるやつを作ってみる",
+    "url": "https://qiita.com/sengokukun/items/1c07ba59a8822e7ac0ad",
+    "likes_count": 279,
+    "created_at": "2018-04-12T04:54:37+09:00",
+    "updated_at": "2018-04-15T00:08:58+09:00",
+    "id": "sengokukun"
   },
   {
     "title": ".htaccessとは？",
