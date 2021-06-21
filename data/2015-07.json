@@ -10,7 +10,7 @@
   {
     "title": "意外ととっつきやすいOSS開発参加方法まとめ",
     "url": "https://qiita.com/shunsuke227ono/items/94dd6e707d34a1da2617",
-    "likes_count": 1924,
+    "likes_count": 1925,
     "created_at": "2015-07-14T08:41:06+09:00",
     "updated_at": "2016-11-14T12:07:23+09:00",
     "id": "shunsuke227ono"
@@ -18,7 +18,7 @@
   {
     "title": "ウェブカツ運営者が語る！WEBサービスで起業したい人に読んで欲しい２０のコト",
     "url": "https://qiita.com/kazukichi/items/aeba286c2a750081e5c0",
-    "likes_count": 1877,
+    "likes_count": 1878,
     "created_at": "2015-07-12T22:43:39+09:00",
     "updated_at": "2021-03-27T18:32:36+09:00",
     "id": "kazukichi"
@@ -34,7 +34,7 @@
   {
     "title": "Docker Compose - docker-compose.yml リファレンス",
     "url": "https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa",
-    "likes_count": 1493,
+    "likes_count": 1494,
     "created_at": "2015-07-09T21:35:36+09:00",
     "updated_at": "2019-04-08T16:24:01+09:00",
     "id": "zembutsu"
@@ -66,7 +66,7 @@
   {
     "title": "iOSのPUSH通知(APNS)の特徴・ノウハウまとめ(iOS 9まで対応)",
     "url": "https://qiita.com/mono0926/items/df03c61adc56934e2e7a",
-    "likes_count": 1406,
+    "likes_count": 1405,
     "created_at": "2015-07-22T07:12:12+09:00",
     "updated_at": "2017-08-05T18:03:46+09:00",
     "id": "mono0926"
@@ -82,7 +82,7 @@
   {
     "title": "【統計学】初めての「標準偏差」（統計学に挫折しないために）",
     "url": "https://qiita.com/kenmatsu4/items/e6c6acb289c02609e619",
-    "likes_count": 1301,
+    "likes_count": 1300,
     "created_at": "2015-08-01T07:55:02+09:00",
     "updated_at": "2017-02-11T23:50:13+09:00",
     "id": "kenmatsu4"
@@ -98,7 +98,7 @@
   {
     "title": "URLスキーム・独自ディープリンク実装に代わる、Universal Links(iOS 9で導入)でより良いUXを実現",
     "url": "https://qiita.com/mono0926/items/2bf651246714f20df626",
-    "likes_count": 1091,
+    "likes_count": 1090,
     "created_at": "2015-07-06T06:48:44+09:00",
     "updated_at": "2018-05-08T16:50:31+09:00",
     "id": "mono0926"
@@ -122,7 +122,7 @@
   {
     "title": "組合せ最適化を使おう",
     "url": "https://qiita.com/SaitoTsutomu/items/bfbf4c185ed7004b5721",
-    "likes_count": 918,
+    "likes_count": 919,
     "created_at": "2015-07-13T10:31:21+09:00",
     "updated_at": "2017-10-17T14:27:44+09:00",
     "id": "SaitoTsutomu"
@@ -162,7 +162,7 @@
   {
     "title": "色々な git stash",
     "url": "https://qiita.com/akasakas/items/768c0b563b96f8a9be9d",
-    "likes_count": 806,
+    "likes_count": 807,
     "created_at": "2015-07-05T15:11:08+09:00",
     "updated_at": "2017-08-02T15:37:41+09:00",
     "id": "akasakas"
@@ -170,7 +170,7 @@
   {
     "title": "忘れがちなJavaScriptの基礎中の基礎",
     "url": "https://qiita.com/Yama-to/items/5e0827dfd2bd440537d0",
-    "likes_count": 765,
+    "likes_count": 764,
     "created_at": "2015-07-12T19:39:27+09:00",
     "updated_at": "2015-08-20T04:42:57+09:00",
     "id": "Yama-to"
@@ -202,7 +202,7 @@
   {
     "title": "非同期通信（Ajax）をするときはタイムアウト処理を必ず入れてほしい（切実）",
     "url": "https://qiita.com/tonkotsuboy_com/items/d1b3cf45ae5135441f9b",
-    "likes_count": 670,
+    "likes_count": 671,
     "created_at": "2015-07-04T19:36:04+09:00",
     "updated_at": "2018-10-31T18:32:58+09:00",
     "id": "tonkotsuboy_com"
@@ -248,6 +248,14 @@
     "id": "bezeklik"
   },
   {
+    "title": "CSSだけでアスペクト比を固定するテク",
+    "url": "https://qiita.com/ryounagaoka/items/a98f59347ed758743b8d",
+    "likes_count": 615,
+    "created_at": "2015-07-07T12:07:57+09:00",
+    "updated_at": "2015-07-07T12:47:07+09:00",
+    "id": "ryounagaoka"
+  },
+  {
     "title": "決めておいた方が良いRedmine運用ルール",
     "url": "https://qiita.com/y_hokkey/items/3267f7f9b1ced05e0cc0",
     "likes_count": 614,
@@ -256,17 +264,9 @@
     "id": "y_hokkey"
   },
   {
-    "title": "CSSだけでアスペクト比を固定するテク",
-    "url": "https://qiita.com/ryounagaoka/items/a98f59347ed758743b8d",
-    "likes_count": 614,
-    "created_at": "2015-07-07T12:07:57+09:00",
-    "updated_at": "2015-07-07T12:47:07+09:00",
-    "id": "ryounagaoka"
-  },
-  {
     "title": "今まで知らずに損してたauthorized_keysの書き方",
     "url": "https://qiita.com/ryounagaoka/items/0a706a0734664f3c35e0",
-    "likes_count": 589,
+    "likes_count": 588,
     "created_at": "2015-07-06T23:13:11+09:00",
     "updated_at": "2015-07-06T23:13:11+09:00",
     "id": "ryounagaoka"
@@ -346,7 +346,7 @@
   {
     "title": "オブジェクトリテラルのプロパティ/メソッドのいろんな書き方（ES6版）",
     "url": "https://qiita.com/kura07/items/356bd37733f457d3177f",
-    "likes_count": 389,
+    "likes_count": 390,
     "created_at": "2015-07-29T02:51:29+09:00",
     "updated_at": "2016-06-17T21:12:40+09:00",
     "id": "kura07"
@@ -362,7 +362,7 @@
   {
     "title": "管理画面を作る：AdminLTE 基本編",
     "url": "https://qiita.com/zaburo/items/9447fa64e8bc302e2324",
-    "likes_count": 356,
+    "likes_count": 357,
     "created_at": "2015-07-25T13:20:36+09:00",
     "updated_at": "2017-11-03T09:38:23+09:00",
     "id": "zaburo"

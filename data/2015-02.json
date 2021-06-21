@@ -50,7 +50,7 @@
   {
     "title": "プレゼンテーションに使う画像の探し方",
     "url": "https://qiita.com/TAKAKING22/items/20c006206d2ce23a5608",
-    "likes_count": 2015,
+    "likes_count": 2014,
     "created_at": "2015-02-22T17:38:28+09:00",
     "updated_at": "2019-03-20T16:11:11+09:00",
     "id": "TAKAKING22"
@@ -138,7 +138,7 @@
   {
     "title": "PythonのTkinterを使ってみる",
     "url": "https://qiita.com/nnahito/items/ad1428a30738b3d93762",
-    "likes_count": 827,
+    "likes_count": 828,
     "created_at": "2015-02-21T16:14:41+09:00",
     "updated_at": "2019-03-05T14:03:35+09:00",
     "id": "nnahito"
@@ -296,20 +296,20 @@
     "id": "kwatch"
   },
   {
+    "title": "【ps・kill】実行中のプロセス表示と強制終了",
+    "url": "https://qiita.com/shuntaro_tamura/items/4016868bda604baeac3c",
+    "likes_count": 470,
+    "created_at": "2015-02-04T02:44:16+09:00",
+    "updated_at": "2016-03-16T21:18:15+09:00",
+    "id": "shuntaro_tamura"
+  },
+  {
     "title": "シェルスクリプトの基礎知識まとめ",
     "url": "https://qiita.com/katsukii/items/383b241209fe96eae6e7",
     "likes_count": 470,
     "created_at": "2015-02-08T16:40:05+09:00",
     "updated_at": "2015-02-08T16:40:05+09:00",
     "id": "katsukii"
-  },
-  {
-    "title": "【ps・kill】実行中のプロセス表示と強制終了",
-    "url": "https://qiita.com/shuntaro_tamura/items/4016868bda604baeac3c",
-    "likes_count": 469,
-    "created_at": "2015-02-04T02:44:16+09:00",
-    "updated_at": "2016-03-16T21:18:15+09:00",
-    "id": "shuntaro_tamura"
   },
   {
     "title": "統合開発環境（IDE）はどれを使えば善いか？（独断と偏見の遥か彼方）",
@@ -330,10 +330,18 @@
   {
     "title": "【Unity2D】Unityで2Dミニゲームを作るチュートリアル（第１回）",
     "url": "https://qiita.com/2dgames_jp/items/11bb76167fb44bb5af5f",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2015-02-02T08:37:29+09:00",
     "updated_at": "2015-04-04T10:46:00+09:00",
     "id": "2dgames_jp"
+  },
+  {
+    "title": "RSpecの(describe/context/example/it)の使い分け",
+    "url": "https://qiita.com/uchiko/items/d34c5d1298934252f58f",
+    "likes_count": 407,
+    "created_at": "2015-02-21T20:06:29+09:00",
+    "updated_at": "2016-10-17T01:06:50+09:00",
+    "id": "uchiko"
   },
   {
     "title": "複雑な構成のrailsアプリをdockerで動かしたい場合はどうするべきか",
@@ -350,14 +358,6 @@
     "created_at": "2015-02-08T01:37:20+09:00",
     "updated_at": "2016-03-14T21:34:35+09:00",
     "id": "tadsan"
-  },
-  {
-    "title": "RSpecの(describe/context/example/it)の使い分け",
-    "url": "https://qiita.com/uchiko/items/d34c5d1298934252f58f",
-    "likes_count": 406,
-    "created_at": "2015-02-21T20:06:29+09:00",
-    "updated_at": "2016-10-17T01:06:50+09:00",
-    "id": "uchiko"
   },
   {
     "title": "git パスワード を毎回聞かれる問題の解決方法",

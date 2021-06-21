@@ -10,7 +10,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3212,
+    "likes_count": 3211,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2018-10-01T16:44:21+09:00",
     "id": "ryounagaoka"
@@ -26,7 +26,7 @@
   {
     "title": "どこよりも分かりやすいSwiftの\"?\"と\"!\"",
     "url": "https://qiita.com/maiki055/items/b24378a3707bd35a31a8",
-    "likes_count": 1911,
+    "likes_count": 1912,
     "created_at": "2015-06-22T20:32:43+09:00",
     "updated_at": "2016-01-08T13:37:58+09:00",
     "id": "maiki055"
@@ -42,7 +42,7 @@
   {
     "title": "【機械学習】ディープラーニング フレームワークChainerを試しながら解説してみる。",
     "url": "https://qiita.com/kenmatsu4/items/7b8d24d4c5144a686412",
-    "likes_count": 1733,
+    "likes_count": 1732,
     "created_at": "2015-06-19T07:56:21+09:00",
     "updated_at": "2015-09-27T00:01:30+09:00",
     "id": "kenmatsu4"
@@ -138,7 +138,7 @@
   {
     "title": "なぜ iPhone の画像は Android の画像よりもずっと高品質なのか",
     "url": "https://qiita.com/KeithYokoma/items/c7f32a77402410545edb",
-    "likes_count": 788,
+    "likes_count": 787,
     "created_at": "2015-06-30T14:55:07+09:00",
     "updated_at": "2015-06-30T14:55:07+09:00",
     "id": "KeithYokoma"
@@ -218,7 +218,7 @@
   {
     "title": "ssh公開鍵認証設定まとめ",
     "url": "https://qiita.com/ir-yk/items/af8550fea92b5c5f7fca",
-    "likes_count": 586,
+    "likes_count": 588,
     "created_at": "2015-06-30T21:40:35+09:00",
     "updated_at": "2019-06-11T11:51:16+09:00",
     "id": "ir-yk"
@@ -226,7 +226,7 @@
   {
     "title": "IT勉強会を探すために捗るサイトまとめ【9選】",
     "url": "https://qiita.com/kobaboy/items/6c80511a10122aa87d02",
-    "likes_count": 561,
+    "likes_count": 560,
     "created_at": "2015-06-02T13:37:53+09:00",
     "updated_at": "2020-09-21T17:42:30+09:00",
     "id": "kobaboy"
@@ -242,7 +242,7 @@
   {
     "title": "AWS 月額料金チートシート",
     "url": "https://qiita.com/jyotti/items/d47b52fa13d12476406f",
-    "likes_count": 495,
+    "likes_count": 496,
     "created_at": "2015-06-08T18:24:16+09:00",
     "updated_at": "2018-02-21T01:04:03+09:00",
     "id": "jyotti"
@@ -290,7 +290,7 @@
   {
     "title": "iOSアプリの国際化対応の勘所とTips集(Swift版)",
     "url": "https://qiita.com/mono0926/items/c41c1ce18b90b765a8f2",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2015-06-29T08:28:54+09:00",
     "updated_at": "2020-06-17T07:48:21+09:00",
     "id": "mono0926"
@@ -298,7 +298,7 @@
   {
     "title": "すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順",
     "url": "https://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61",
-    "likes_count": 462,
+    "likes_count": 463,
     "created_at": "2015-06-14T02:20:05+09:00",
     "updated_at": "2015-06-14T02:36:37+09:00",
     "id": "ryounagaoka"
@@ -392,20 +392,20 @@
     "id": "yut_h1979"
   },
   {
+    "title": "BUNDLED WITH で Gemfile.lock が更新されてしまう件",
+    "url": "https://qiita.com/suu_g/items/2b1630b8015d51c5292e",
+    "likes_count": 366,
+    "created_at": "2015-06-16T01:38:42+09:00",
+    "updated_at": "2015-06-21T21:14:54+09:00",
+    "id": "suu_g"
+  },
+  {
     "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
     "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
     "likes_count": 365,
     "created_at": "2015-06-10T07:55:27+09:00",
     "updated_at": "2015-06-10T11:36:54+09:00",
     "id": "jnchito"
-  },
-  {
-    "title": "BUNDLED WITH で Gemfile.lock が更新されてしまう件",
-    "url": "https://qiita.com/suu_g/items/2b1630b8015d51c5292e",
-    "likes_count": 365,
-    "created_at": "2015-06-16T01:38:42+09:00",
-    "updated_at": "2015-06-21T21:14:54+09:00",
-    "id": "suu_g"
   },
   {
     "title": "新米エンジニア(アプリ・インフラエンジニア問わず)に知っておいてほしいトラブルシューティング入門 はじめの一歩編",
@@ -472,20 +472,20 @@
     "id": "1234224576"
   },
   {
+    "title": "VisualStudio ショートカット（基本）",
+    "url": "https://qiita.com/kosei/items/9dd864092e31fb4fb1db",
+    "likes_count": 330,
+    "created_at": "2015-06-22T10:20:47+09:00",
+    "updated_at": "2018-02-09T15:34:24+09:00",
+    "id": "kosei"
+  },
+  {
     "title": "Qiita/Github/Slack/Discord 絵文字一覧",
     "url": "https://qiita.com/yamadashy/items/ae673f2bae8f1525b6af",
     "likes_count": 329,
     "created_at": "2015-06-16T22:26:16+09:00",
     "updated_at": "2018-11-21T15:45:06+09:00",
     "id": "yamadashy"
-  },
-  {
-    "title": "VisualStudio ショートカット（基本）",
-    "url": "https://qiita.com/kosei/items/9dd864092e31fb4fb1db",
-    "likes_count": 329,
-    "created_at": "2015-06-22T10:20:47+09:00",
-    "updated_at": "2018-02-09T15:34:24+09:00",
-    "id": "kosei"
   },
   {
     "title": "いま話題のSublime Textのテーマやおすすめの設定・使用例を醸す",
@@ -530,7 +530,7 @@
   {
     "title": "iOS9でカスタムURLスキームの遷移に失敗するときの注意点",
     "url": "https://qiita.com/Night___/items/60355d21951cffbef51b",
-    "likes_count": 283,
+    "likes_count": 282,
     "created_at": "2015-06-11T16:18:44+09:00",
     "updated_at": "2015-06-19T01:35:16+09:00",
     "id": "Night___"

@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1544,
+    "likes_count": 1545,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -98,10 +98,18 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 710,
+    "likes_count": 711,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
+  },
+  {
+    "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
+    "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
+    "likes_count": 695,
+    "created_at": "2018-01-26T15:42:01+09:00",
+    "updated_at": "2021-04-15T08:49:53+09:00",
+    "id": "gold-kou"
   },
   {
     "title": "ノンデザイナーでもイケてるLPを作成する方法",
@@ -110,14 +118,6 @@
     "created_at": "2018-01-03T12:38:52+09:00",
     "updated_at": "2018-12-24T17:21:21+09:00",
     "id": "teradonburi"
-  },
-  {
-    "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
-    "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
-    "likes_count": 694,
-    "created_at": "2018-01-26T15:42:01+09:00",
-    "updated_at": "2021-04-15T08:49:53+09:00",
-    "id": "gold-kou"
   },
   {
     "title": "‪実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！‬",
@@ -178,7 +178,7 @@
   {
     "title": "至高の言語、Nimを始めるエンジニアへ",
     "url": "https://qiita.com/rigani/items/6e87c7cee6903ed65ed2",
-    "likes_count": 584,
+    "likes_count": 583,
     "created_at": "2018-01-21T18:16:03+09:00",
     "updated_at": "2018-03-03T16:41:48+09:00",
     "id": "rigani"
@@ -250,7 +250,7 @@
   {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 441,
+    "likes_count": 443,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
@@ -298,7 +298,7 @@
   {
     "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
     "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2018-01-21T01:43:27+09:00",
     "updated_at": "2018-01-21T08:56:25+09:00",
     "id": "ishizakiiii"
@@ -330,7 +330,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
@@ -400,20 +400,20 @@
     "id": "kon_yu"
   },
   {
+    "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
+    "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
+    "likes_count": 288,
+    "created_at": "2018-01-18T00:36:30+09:00",
+    "updated_at": "2019-07-29T19:26:22+09:00",
+    "id": "tomov3"
+  },
+  {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",
     "url": "https://qiita.com/okoppe8/items/c58bb3faaf26c9e2f27f",
     "likes_count": 287,
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"
-  },
-  {
-    "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
-    "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
-    "likes_count": 287,
-    "created_at": "2018-01-18T00:36:30+09:00",
-    "updated_at": "2019-07-29T19:26:22+09:00",
-    "id": "tomov3"
   },
   {
     "title": "画像を扱う機械学習のためのデータセットまとめ",

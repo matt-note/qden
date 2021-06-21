@@ -58,7 +58,7 @@
   {
     "title": "S3のアクセスコントロールまとめ",
     "url": "https://qiita.com/ryo0301/items/791c0a666feeea0a704c",
-    "likes_count": 960,
+    "likes_count": 959,
     "created_at": "2014-02-26T18:02:45+09:00",
     "updated_at": "2017-11-20T15:47:23+09:00",
     "id": "ryo0301"
@@ -66,7 +66,7 @@
   {
     "title": "Zsh 入門者のための超速設定ガイド",
     "url": "https://qiita.com/uasi/items/c4288dd835a65eb9d709",
-    "likes_count": 921,
+    "likes_count": 922,
     "created_at": "2014-02-02T14:00:14+09:00",
     "updated_at": "2019-12-09T19:49:26+09:00",
     "id": "uasi"
@@ -74,7 +74,7 @@
   {
     "title": ".bash_profile ? .bashrc ? いろいろあるけどこいつらなにもの？",
     "url": "https://qiita.com/hirokishirai/items/5a529c8395c4b336bf31",
-    "likes_count": 875,
+    "likes_count": 874,
     "created_at": "2014-02-17T05:02:00+09:00",
     "updated_at": "2017-07-14T17:38:00+09:00",
     "id": "hirokishirai"
@@ -226,7 +226,7 @@
   {
     "title": "iOSライセンス＆配布方法まとめ",
     "url": "https://qiita.com/isaac-otao/items/126bced83d9af86c7ce5",
-    "likes_count": 476,
+    "likes_count": 475,
     "created_at": "2014-02-27T10:44:50+09:00",
     "updated_at": "2018-06-14T15:04:59+09:00",
     "id": "isaac-otao"
@@ -266,7 +266,7 @@
   {
     "title": "シンボリックリンクの作成と削除",
     "url": "https://qiita.com/colorrabbit/items/2e99304bd92201261c60",
-    "likes_count": 442,
+    "likes_count": 443,
     "created_at": "2014-02-05T16:31:29+09:00",
     "updated_at": "2014-02-05T18:10:07+09:00",
     "id": "colorrabbit"
@@ -330,7 +330,7 @@
   {
     "title": "tmuxを使いこなそう（ウインドウ、ペイン、セッション、アタッチ、デタッチ）",
     "url": "https://qiita.com/shoma2da/items/2e68c1e59938eb0c2f83",
-    "likes_count": 364,
+    "likes_count": 365,
     "created_at": "2014-02-10T23:01:42+09:00",
     "updated_at": "2016-01-25T21:14:43+09:00",
     "id": "shoma2da"
@@ -344,20 +344,20 @@
     "id": "luckypool"
   },
   {
+    "title": "Canvasで描画した画像を送信してサーバに保存する",
+    "url": "https://qiita.com/0829/items/a8c98c8f53b2e821ac94",
+    "likes_count": 324,
+    "created_at": "2014-02-24T18:39:35+09:00",
+    "updated_at": "2014-02-24T18:39:35+09:00",
+    "id": "0829"
+  },
+  {
     "title": "TwilioとRailsで、1通1円のSMS認証を実装してみる",
     "url": "https://qiita.com/kidach1/items/cd63063fa98aaa5030bd",
     "likes_count": 323,
     "created_at": "2014-02-05T22:55:38+09:00",
     "updated_at": "2014-07-06T11:36:50+09:00",
     "id": "kidach1"
-  },
-  {
-    "title": "Canvasで描画した画像を送信してサーバに保存する",
-    "url": "https://qiita.com/0829/items/a8c98c8f53b2e821ac94",
-    "likes_count": 323,
-    "created_at": "2014-02-24T18:39:35+09:00",
-    "updated_at": "2014-02-24T18:39:35+09:00",
-    "id": "0829"
   },
   {
     "title": "nginx で http でのアクセスを https にリダイレクト",

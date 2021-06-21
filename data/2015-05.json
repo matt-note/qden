@@ -2,7 +2,7 @@
   {
     "title": "数学を避けてきた社会人プログラマが機械学習の勉強を始める際の最短経路",
     "url": "https://qiita.com/daxanya1/items/218f2e3b922142550ef9",
-    "likes_count": 5227,
+    "likes_count": 5226,
     "created_at": "2015-05-24T22:01:23+09:00",
     "updated_at": "2016-10-06T20:36:54+09:00",
     "id": "daxanya1"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 3024,
+    "likes_count": 3023,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2020-03-12T13:17:33+09:00",
     "id": "suin"
@@ -26,7 +26,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 2883,
+    "likes_count": 2885,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -50,7 +50,7 @@
   {
     "title": "mermaid.jsが素晴らしいけどなかなか使ってる人見かけないので実例晒す(追記あり)",
     "url": "https://qiita.com/uzuki_aoba/items/a01f8b0b52ced69c8092",
-    "likes_count": 1579,
+    "likes_count": 1578,
     "created_at": "2015-05-24T01:24:10+09:00",
     "updated_at": "2017-03-13T04:13:20+09:00",
     "id": "uzuki_aoba"
@@ -58,7 +58,7 @@
   {
     "title": "ライブラリを使わない素のJavaScriptでDOM操作",
     "url": "https://qiita.com/kouh/items/dfc14d25ccb4e50afe89",
-    "likes_count": 1577,
+    "likes_count": 1578,
     "created_at": "2015-05-29T00:31:20+09:00",
     "updated_at": "2018-04-26T11:14:02+09:00",
     "id": "kouh"
@@ -66,7 +66,7 @@
   {
     "title": "[翻訳] Elixir - 次に来る大物Web言語",
     "url": "https://qiita.com/HirofumiTamori/items/0dfdbada30c7d8f183fd",
-    "likes_count": 1391,
+    "likes_count": 1390,
     "created_at": "2015-05-13T23:46:25+09:00",
     "updated_at": "2016-08-30T10:46:30+09:00",
     "id": "HirofumiTamori"
@@ -138,7 +138,7 @@
   {
     "title": "Spring Boot 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/05d9490d6f0544e2351a",
-    "likes_count": 932,
+    "likes_count": 933,
     "created_at": "2015-05-03T02:03:17+09:00",
     "updated_at": "2017-08-12T21:10:33+09:00",
     "id": "opengl-8080"
@@ -474,7 +474,7 @@
   {
     "title": "[超初心者向け]やっと納得、Unityを初めて触ると出てくるC#の何だあれの答え",
     "url": "https://qiita.com/JunShimura/items/3c2e23bb77cc9085bfda",
-    "likes_count": 334,
+    "likes_count": 335,
     "created_at": "2015-05-22T14:21:39+09:00",
     "updated_at": "2016-10-19T21:15:54+09:00",
     "id": "JunShimura"
@@ -496,20 +496,20 @@
     "id": "kazuph"
   },
   {
+    "title": "Linuxの/bin、/usr/bin、$HOME/binのそれぞれの役割",
+    "url": "https://qiita.com/totzyuta/items/84d610f56129a186f0c5",
+    "likes_count": 329,
+    "created_at": "2015-05-26T00:02:36+09:00",
+    "updated_at": "2017-01-25T18:14:12+09:00",
+    "id": "totzyuta"
+  },
+  {
     "title": "XMLHttpRequest についてのメモ",
     "url": "https://qiita.com/sirone/items/412b2a171dccb11e1bb6",
     "likes_count": 328,
     "created_at": "2015-05-05T21:39:06+09:00",
     "updated_at": "2020-05-06T12:44:11+09:00",
     "id": "sirone"
-  },
-  {
-    "title": "Linuxの/bin、/usr/bin、$HOME/binのそれぞれの役割",
-    "url": "https://qiita.com/totzyuta/items/84d610f56129a186f0c5",
-    "likes_count": 328,
-    "created_at": "2015-05-26T00:02:36+09:00",
-    "updated_at": "2017-01-25T18:14:12+09:00",
-    "id": "totzyuta"
   },
   {
     "title": "Word2Vecの進化形Doc2Vecで文章と文章の類似度を算出する",

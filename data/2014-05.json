@@ -2,7 +2,7 @@
   {
     "title": "ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習",
     "url": "https://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7",
-    "likes_count": 8239,
+    "likes_count": 8240,
     "created_at": "2014-05-25T16:52:40+09:00",
     "updated_at": "2019-03-17T00:41:02+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "新人プログラマに知ってもらいたいメソッドを読みやすく維持するいくつかの原則",
     "url": "https://qiita.com/hirokidaichi/items/c9a76191216f3cc6c4b2",
-    "likes_count": 2884,
+    "likes_count": 2885,
     "created_at": "2014-05-09T20:22:27+09:00",
     "updated_at": "2019-03-17T00:42:05+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "PHPオブジェクト指向入門（前半）",
     "url": "https://qiita.com/mpyw/items/41230bec5c02142ae691",
-    "likes_count": 1732,
+    "likes_count": 1733,
     "created_at": "2014-05-26T03:20:00+09:00",
     "updated_at": "2015-01-09T14:35:42+09:00",
     "id": "mpyw"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1456,
+    "likes_count": 1457,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2020-07-13T19:44:27+09:00",
     "id": "amedama"
@@ -178,7 +178,7 @@
   {
     "title": "今さら聞けないWebAPIの実装方式RESTとSOAPの違い",
     "url": "https://qiita.com/pink/items/f1a22840619d3b79c4f2",
-    "likes_count": 739,
+    "likes_count": 738,
     "created_at": "2014-05-26T14:26:25+09:00",
     "updated_at": "2014-05-27T17:32:02+09:00",
     "id": "pink"
@@ -256,20 +256,20 @@
     "id": "appwatcher"
   },
   {
+    "title": "Dockerでホストとコンテナ間でのファイルコピー",
+    "url": "https://qiita.com/gologo13/items/7e4e404af80377b48fd5",
+    "likes_count": 515,
+    "created_at": "2014-06-01T06:26:15+09:00",
+    "updated_at": "2016-01-22T11:00:45+09:00",
+    "id": "gologo13"
+  },
+  {
     "title": "複数の子レコードを作成・更新する. accepts_nested_attributes_for",
     "url": "https://qiita.com/hmuronaka/items/818c421dc632e3efb7a6",
     "likes_count": 514,
     "created_at": "2014-05-06T09:10:56+09:00",
     "updated_at": "2014-05-06T09:10:56+09:00",
     "id": "hmuronaka"
-  },
-  {
-    "title": "Dockerでホストとコンテナ間でのファイルコピー",
-    "url": "https://qiita.com/gologo13/items/7e4e404af80377b48fd5",
-    "likes_count": 514,
-    "created_at": "2014-06-01T06:26:15+09:00",
-    "updated_at": "2016-01-22T11:00:45+09:00",
-    "id": "gologo13"
   },
   {
     "title": "Xcode5時代の「かんたん」iOSアプリ開発セットアップ",
@@ -346,7 +346,7 @@
   {
     "title": "TypeScriptを使う理由",
     "url": "https://qiita.com/mugichan3/items/a0f17d9f4f757d88a83a",
-    "likes_count": 425,
+    "likes_count": 424,
     "created_at": "2014-05-06T20:15:47+09:00",
     "updated_at": "2018-11-03T21:32:43+09:00",
     "id": "mugichan3"
