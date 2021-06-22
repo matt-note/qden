@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5099,
+    "likes_count": 5109,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2710,
+    "likes_count": 2712,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2020-08-07T16:30:12+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2381,
+    "likes_count": 2380,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2020-07-25T13:47:36+09:00",
     "id": "tani_AI_Academy"
@@ -50,7 +50,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアになろう",
     "url": "https://qiita.com/rana_kualu/items/19ab559dddbca6674417",
-    "likes_count": 1909,
+    "likes_count": 1908,
     "created_at": "2018-05-22T20:44:08+09:00",
     "updated_at": "2018-11-25T14:16:11+09:00",
     "id": "rana_kualu"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1661,
+    "likes_count": 1662,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1615,
+    "likes_count": 1618,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -146,7 +146,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 735,
+    "likes_count": 737,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -176,20 +176,20 @@
     "id": "drken"
   },
   {
+    "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
+    "url": "https://qiita.com/kamesennin/items/89d479112554a6f9d038",
+    "likes_count": 676,
+    "created_at": "2018-05-01T18:10:35+09:00",
+    "updated_at": "2021-05-22T21:18:25+09:00",
+    "id": "kamesennin"
+  },
+  {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
     "likes_count": 676,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
-  },
-  {
-    "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
-    "url": "https://qiita.com/kamesennin/items/89d479112554a6f9d038",
-    "likes_count": 675,
-    "created_at": "2018-05-01T18:10:35+09:00",
-    "updated_at": "2021-05-22T21:18:25+09:00",
-    "id": "kamesennin"
   },
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
@@ -258,7 +258,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/takahiro1127/items/fcb81753eaf381b4b33c",
-    "likes_count": 582,
+    "likes_count": 583,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "takahiro1127"
@@ -272,20 +272,20 @@
     "id": "minakawa-daiki"
   },
   {
+    "title": "Pythonのlambdaって分かりやすい",
+    "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
+    "likes_count": 573,
+    "created_at": "2018-05-20T14:33:53+09:00",
+    "updated_at": "2020-11-06T12:05:03+09:00",
+    "id": "nagataaaas"
+  },
+  {
     "title": "GitFlowをやめて本番リリースが楽になった話",
     "url": "https://qiita.com/koyopro/items/b4569285efc22c6397c6",
     "likes_count": 572,
     "created_at": "2018-05-13T09:53:45+09:00",
     "updated_at": "2018-06-10T14:48:56+09:00",
     "id": "koyopro"
-  },
-  {
-    "title": "Pythonのlambdaって分かりやすい",
-    "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 572,
-    "created_at": "2018-05-20T14:33:53+09:00",
-    "updated_at": "2020-11-06T12:05:03+09:00",
-    "id": "nagataaaas"
   },
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
@@ -330,7 +330,7 @@
   {
     "title": "ROS講座00 目次",
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
-    "likes_count": 529,
+    "likes_count": 530,
     "created_at": "2018-05-02T09:27:43+09:00",
     "updated_at": "2021-04-25T16:57:01+09:00",
     "id": "srs"
@@ -386,7 +386,7 @@
   {
     "title": "2018年Vue.jsを使ってる人には知って欲しいオブジェクトと配列の操作のベストプラクティス",
     "url": "https://qiita.com/kahirokunn/items/9ece44e4327946583a00",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2018-05-22T13:25:41+09:00",
     "updated_at": "2019-11-20T11:57:14+09:00",
     "id": "kahirokunn"
@@ -490,7 +490,7 @@
   {
     "title": "知識0から統計検定2級取得を目指した話",
     "url": "https://qiita.com/akiyoshi_sasaki/items/8e4d7895f2647e22b5f9",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2018-05-11T11:45:56+09:00",
     "updated_at": "2020-04-17T11:40:05+09:00",
     "id": "akiyoshi_sasaki"

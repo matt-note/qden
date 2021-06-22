@@ -2,7 +2,7 @@
   {
     "title": "初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」",
     "url": "https://qiita.com/jnchito/items/893c887fbf19e17d3ff9",
-    "likes_count": 3076,
+    "likes_count": 3077,
     "created_at": "2016-02-03T05:31:01+09:00",
     "updated_at": "2019-01-10T10:51:29+09:00",
     "id": "jnchito"
@@ -10,7 +10,7 @@
   {
     "title": "【GitHub超初心者入門】この前初めてGitHubを使い始めたエンジニア見習いが書くGitHubの使い方と実践～とりあえず一緒に動かしてみようぜ！～",
     "url": "https://qiita.com/nnahito/items/565f8755e70c51532459",
-    "likes_count": 2098,
+    "likes_count": 2099,
     "created_at": "2016-02-18T19:16:57+09:00",
     "updated_at": "2019-07-28T21:13:02+09:00",
     "id": "nnahito"
@@ -82,7 +82,7 @@
   {
     "title": "[Linux]ファイルの圧縮、解凍方法",
     "url": "https://qiita.com/supersaiakujin/items/c6b54e9add21d375161f",
-    "likes_count": 1042,
+    "likes_count": 1043,
     "created_at": "2016-02-10T08:05:06+09:00",
     "updated_at": "2018-11-03T23:09:59+09:00",
     "id": "supersaiakujin"
@@ -90,7 +90,7 @@
   {
     "title": "３０分で覚えるKotlin文法",
     "url": "https://qiita.com/k5n/items/cc0377b75d8537ef8a85",
-    "likes_count": 1041,
+    "likes_count": 1043,
     "created_at": "2016-02-10T12:53:15+09:00",
     "updated_at": "2018-03-30T16:51:48+09:00",
     "id": "k5n"
@@ -122,7 +122,7 @@
   {
     "title": "初心者歓迎！手と目で覚える正規表現入門・その２「微妙な違いを許容しつつ置換しよう」",
     "url": "https://qiita.com/jnchito/items/64c3fdc53766ac6f2008",
-    "likes_count": 951,
+    "likes_count": 952,
     "created_at": "2016-02-09T05:55:26+09:00",
     "updated_at": "2019-08-09T20:00:32+09:00",
     "id": "jnchito"
@@ -186,7 +186,7 @@
   {
     "title": "簡単！楽しい！5分でわかるユーザーストーリーマッピング(User Story Mapping)",
     "url": "https://qiita.com/Koki_jp/items/6aebc73bedd0a932dcb8",
-    "likes_count": 693,
+    "likes_count": 694,
     "created_at": "2016-02-23T21:07:58+09:00",
     "updated_at": "2020-02-23T06:27:35+09:00",
     "id": "Koki_jp"
@@ -408,20 +408,20 @@
     "id": "everpeace"
   },
   {
+    "title": "Docker network 概論",
+    "url": "https://qiita.com/TsutomuNakamura/items/ed046ee21caca4a2ffd9",
+    "likes_count": 380,
+    "created_at": "2016-02-08T07:23:17+09:00",
+    "updated_at": "2019-03-12T22:50:31+09:00",
+    "id": "TsutomuNakamura"
+  },
+  {
     "title": "プライベートなDockerレジストリサーバーをコンテナで立てる",
     "url": "https://qiita.com/rsakao/items/617f54579278173d3c20",
     "likes_count": 380,
     "created_at": "2016-02-21T13:46:51+09:00",
     "updated_at": "2017-04-14T19:46:08+09:00",
     "id": "rsakao"
-  },
-  {
-    "title": "Docker network 概論",
-    "url": "https://qiita.com/TsutomuNakamura/items/ed046ee21caca4a2ffd9",
-    "likes_count": 379,
-    "created_at": "2016-02-08T07:23:17+09:00",
-    "updated_at": "2019-03-12T22:50:31+09:00",
-    "id": "TsutomuNakamura"
   },
   {
     "title": "DroidKaigi 2016 で 紹介された Android開発に役立つ ライブラリ 集 と スライドリンクまとめ",
@@ -536,6 +536,14 @@
     "id": "sadayuki-matsuno"
   },
   {
+    "title": "【コンピュータビジョン】ネコと学ぶエピポーラ幾何",
+    "url": "https://qiita.com/ykoga/items/14300e8cdf5aa7bd8d31",
+    "likes_count": 306,
+    "created_at": "2016-02-25T08:52:41+09:00",
+    "updated_at": "2016-02-25T19:50:55+09:00",
+    "id": "ykoga"
+  },
+  {
     "title": "【新人教育 資料】第3章 UMLまでの道 〜図種類紹介とクラス図の解説編〜",
     "url": "https://qiita.com/devopsCoordinator/items/213e45694dfac0edcfbc",
     "likes_count": 305,
@@ -544,17 +552,9 @@
     "id": "devopsCoordinator"
   },
   {
-    "title": "【コンピュータビジョン】ネコと学ぶエピポーラ幾何",
-    "url": "https://qiita.com/ykoga/items/14300e8cdf5aa7bd8d31",
-    "likes_count": 305,
-    "created_at": "2016-02-25T08:52:41+09:00",
-    "updated_at": "2016-02-25T19:50:55+09:00",
-    "id": "ykoga"
-  },
-  {
     "title": "PHPExcelでエクセル出力入門",
     "url": "https://qiita.com/suin/items/7a8d0979b7675d6fd05b",
-    "likes_count": 293,
+    "likes_count": 294,
     "created_at": "2016-02-09T17:25:28+09:00",
     "updated_at": "2020-03-12T13:19:19+09:00",
     "id": "suin"

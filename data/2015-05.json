@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 4876,
+    "likes_count": 4877,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 3023,
+    "likes_count": 3024,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2020-03-12T13:17:33+09:00",
     "id": "suin"
@@ -26,7 +26,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 2885,
+    "likes_count": 2888,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -48,20 +48,20 @@
     "id": "okmttdhr"
   },
   {
+    "title": "ライブラリを使わない素のJavaScriptでDOM操作",
+    "url": "https://qiita.com/kouh/items/dfc14d25ccb4e50afe89",
+    "likes_count": 1579,
+    "created_at": "2015-05-29T00:31:20+09:00",
+    "updated_at": "2018-04-26T11:14:02+09:00",
+    "id": "kouh"
+  },
+  {
     "title": "mermaid.jsが素晴らしいけどなかなか使ってる人見かけないので実例晒す(追記あり)",
     "url": "https://qiita.com/uzuki_aoba/items/a01f8b0b52ced69c8092",
     "likes_count": 1578,
     "created_at": "2015-05-24T01:24:10+09:00",
     "updated_at": "2017-03-13T04:13:20+09:00",
     "id": "uzuki_aoba"
-  },
-  {
-    "title": "ライブラリを使わない素のJavaScriptでDOM操作",
-    "url": "https://qiita.com/kouh/items/dfc14d25ccb4e50afe89",
-    "likes_count": 1578,
-    "created_at": "2015-05-29T00:31:20+09:00",
-    "updated_at": "2018-04-26T11:14:02+09:00",
-    "id": "kouh"
   },
   {
     "title": "[翻訳] Elixir - 次に来る大物Web言語",
@@ -90,7 +90,7 @@
   {
     "title": "tmuxチートシート",
     "url": "https://qiita.com/nmrmsys/items/03f97f5eabec18a3a18b",
-    "likes_count": 1299,
+    "likes_count": 1300,
     "created_at": "2015-05-17T14:38:08+09:00",
     "updated_at": "2016-10-30T07:17:09+09:00",
     "id": "nmrmsys"
@@ -218,7 +218,7 @@
   {
     "title": "カーディナリティについてまとめてみた",
     "url": "https://qiita.com/soyanchu/items/034be19a2e3cb87b2efb",
-    "likes_count": 621,
+    "likes_count": 622,
     "created_at": "2015-05-12T11:48:17+09:00",
     "updated_at": "2015-05-12T11:48:17+09:00",
     "id": "soyanchu"
@@ -274,7 +274,7 @@
   {
     "title": "Node.jsでMySQLを使うメモ",
     "url": "https://qiita.com/PianoScoreJP/items/7ed172cd0e7846641e13",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2015-05-29T08:54:18+09:00",
     "updated_at": "2015-05-29T15:43:51+09:00",
     "id": "PianoScoreJP"
@@ -458,7 +458,7 @@
   {
     "title": "【PHP】特定の文字列を含むかのチェック",
     "url": "https://qiita.com/kazu56/items/2c72d187438de07c2503",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2015-05-25T12:25:51+09:00",
     "updated_at": "2015-09-15T10:10:14+09:00",
     "id": "kazu56"
@@ -488,20 +488,20 @@
     "id": "moaible"
   },
   {
+    "title": "Linuxの/bin、/usr/bin、$HOME/binのそれぞれの役割",
+    "url": "https://qiita.com/totzyuta/items/84d610f56129a186f0c5",
+    "likes_count": 330,
+    "created_at": "2015-05-26T00:02:36+09:00",
+    "updated_at": "2017-01-25T18:14:12+09:00",
+    "id": "totzyuta"
+  },
+  {
     "title": "Webエンジニアが組み込みプログラミングをすることになったときに知っておきたかったC言語の知識",
     "url": "https://qiita.com/kazuph/items/4b6f0856c555242f3fd5",
     "likes_count": 329,
     "created_at": "2015-05-14T14:49:06+09:00",
     "updated_at": "2015-05-26T09:02:13+09:00",
     "id": "kazuph"
-  },
-  {
-    "title": "Linuxの/bin、/usr/bin、$HOME/binのそれぞれの役割",
-    "url": "https://qiita.com/totzyuta/items/84d610f56129a186f0c5",
-    "likes_count": 329,
-    "created_at": "2015-05-26T00:02:36+09:00",
-    "updated_at": "2017-01-25T18:14:12+09:00",
-    "id": "totzyuta"
   },
   {
     "title": "XMLHttpRequest についてのメモ",
