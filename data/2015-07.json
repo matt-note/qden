@@ -10,7 +10,7 @@
   {
     "title": "意外ととっつきやすいOSS開発参加方法まとめ",
     "url": "https://qiita.com/shunsuke227ono/items/94dd6e707d34a1da2617",
-    "likes_count": 1925,
+    "likes_count": 1926,
     "created_at": "2015-07-14T08:41:06+09:00",
     "updated_at": "2016-11-14T12:07:23+09:00",
     "id": "shunsuke227ono"
@@ -34,7 +34,7 @@
   {
     "title": "Docker Compose - docker-compose.yml リファレンス",
     "url": "https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa",
-    "likes_count": 1496,
+    "likes_count": 1497,
     "created_at": "2015-07-09T21:35:36+09:00",
     "updated_at": "2019-04-08T16:24:01+09:00",
     "id": "zembutsu"
@@ -42,7 +42,7 @@
   {
     "title": "PowerShell 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/bb0f5e4f1c7ce045cc57",
-    "likes_count": 1477,
+    "likes_count": 1478,
     "created_at": "2015-07-11T00:26:58+09:00",
     "updated_at": "2020-07-29T08:37:53+09:00",
     "id": "opengl-8080"
@@ -58,7 +58,7 @@
   {
     "title": "[初心者向け] プログラムの計算量を求める方法",
     "url": "https://qiita.com/cotrpepe/items/1f4c38cc9d3e3a5f5e9c",
-    "likes_count": 1415,
+    "likes_count": 1416,
     "created_at": "2015-07-31T14:02:23+09:00",
     "updated_at": "2018-02-06T20:25:59+09:00",
     "id": "cotrpepe"
@@ -106,7 +106,7 @@
   {
     "title": "チャットなどリアルタイム更新が必要なスマフォアプリの構成について考えてみた",
     "url": "https://qiita.com/mono0926/items/bb7fdd912bc338096f57",
-    "likes_count": 1075,
+    "likes_count": 1076,
     "created_at": "2015-07-28T10:50:10+09:00",
     "updated_at": "2017-01-26T16:22:33+09:00",
     "id": "mono0926"
@@ -122,7 +122,7 @@
   {
     "title": "組合せ最適化を使おう",
     "url": "https://qiita.com/SaitoTsutomu/items/bfbf4c185ed7004b5721",
-    "likes_count": 920,
+    "likes_count": 921,
     "created_at": "2015-07-13T10:31:21+09:00",
     "updated_at": "2017-10-17T14:27:44+09:00",
     "id": "SaitoTsutomu"
@@ -162,7 +162,7 @@
   {
     "title": "色々な git stash",
     "url": "https://qiita.com/akasakas/items/768c0b563b96f8a9be9d",
-    "likes_count": 808,
+    "likes_count": 810,
     "created_at": "2015-07-05T15:11:08+09:00",
     "updated_at": "2017-08-02T15:37:41+09:00",
     "id": "akasakas"
@@ -170,7 +170,7 @@
   {
     "title": "忘れがちなJavaScriptの基礎中の基礎",
     "url": "https://qiita.com/Yama-to/items/5e0827dfd2bd440537d0",
-    "likes_count": 764,
+    "likes_count": 765,
     "created_at": "2015-07-12T19:39:27+09:00",
     "updated_at": "2015-08-20T04:42:57+09:00",
     "id": "Yama-to"
@@ -226,7 +226,7 @@
   {
     "title": "Linux負荷監視コマンドまとめ",
     "url": "https://qiita.com/aosho235/items/c4d6995743dd1dac16e1",
-    "likes_count": 656,
+    "likes_count": 658,
     "created_at": "2015-07-19T18:51:54+09:00",
     "updated_at": "2019-10-20T23:31:16+09:00",
     "id": "aosho235"
@@ -248,20 +248,20 @@
     "id": "bezeklik"
   },
   {
-    "title": "CSSだけでアスペクト比を固定するテク",
-    "url": "https://qiita.com/ryounagaoka/items/a98f59347ed758743b8d",
-    "likes_count": 615,
-    "created_at": "2015-07-07T12:07:57+09:00",
-    "updated_at": "2015-07-07T12:47:07+09:00",
-    "id": "ryounagaoka"
-  },
-  {
     "title": "決めておいた方が良いRedmine運用ルール",
     "url": "https://qiita.com/y_hokkey/items/3267f7f9b1ced05e0cc0",
     "likes_count": 614,
     "created_at": "2015-07-06T15:37:50+09:00",
     "updated_at": "2017-05-01T17:53:26+09:00",
     "id": "y_hokkey"
+  },
+  {
+    "title": "CSSだけでアスペクト比を固定するテク",
+    "url": "https://qiita.com/ryounagaoka/items/a98f59347ed758743b8d",
+    "likes_count": 614,
+    "created_at": "2015-07-07T12:07:57+09:00",
+    "updated_at": "2015-07-07T12:47:07+09:00",
+    "id": "ryounagaoka"
   },
   {
     "title": "今まで知らずに損してたauthorized_keysの書き方",
@@ -473,11 +473,11 @@
   },
   {
     "title": "URLスキームを利用して、アプリが入ってたらアプリ起動、入ってなかったらストアへ！を実現。",
-    "url": "https://qiita.com/kenguy/items/9d9a8b7b6ca8b6984eb9",
+    "url": "https://qiita.com/tarusawa_ken/items/9d9a8b7b6ca8b6984eb9",
     "likes_count": 305,
     "created_at": "2015-07-07T16:54:12+09:00",
     "updated_at": "2018-11-13T09:51:58+09:00",
-    "id": "kenguy"
+    "id": "tarusawa_ken"
   },
   {
     "title": "GUIでDockerがサクサク使えるKitematicが便利",

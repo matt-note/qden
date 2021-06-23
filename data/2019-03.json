@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3082,
+    "likes_count": 3084,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-05-06T13:08:59+09:00",
     "id": "upura"
@@ -90,7 +90,7 @@
   {
     "title": "ワイ「いうても型なんて面倒くさいだけやろ？」",
     "url": "https://qiita.com/Yametaro/items/2eaa6fd75255c8c2a2bb",
-    "likes_count": 1267,
+    "likes_count": 1268,
     "created_at": "2019-03-05T23:30:10+09:00",
     "updated_at": "2020-06-01T11:19:55+09:00",
     "id": "Yametaro"
@@ -146,7 +146,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 897,
+    "likes_count": 898,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -234,7 +234,7 @@
   {
     "title": "「Railsは終わった」と言われる理由",
     "url": "https://qiita.com/klriutsa/items/86ac5e94ec99c0d95b61",
-    "likes_count": 629,
+    "likes_count": 630,
     "created_at": "2019-03-05T23:25:11+09:00",
     "updated_at": "2019-08-22T20:18:32+09:00",
     "id": "klriutsa"
@@ -242,7 +242,7 @@
   {
     "title": "なんとなくVue.jsのUIフレームワークを紹介する",
     "url": "https://qiita.com/yusuke_ten/items/4103f032dd0c6fbe5607",
-    "likes_count": 626,
+    "likes_count": 627,
     "created_at": "2019-03-05T17:07:02+09:00",
     "updated_at": "2019-03-06T09:00:57+09:00",
     "id": "yusuke_ten"
@@ -282,26 +282,26 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 612,
+    "likes_count": 614,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
   },
   {
-    "title": "Visual Studio Codeで競プロ環境構築(導入編)",
-    "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
-    "likes_count": 594,
-    "created_at": "2019-03-27T22:24:09+09:00",
-    "updated_at": "2020-03-30T18:47:49+09:00",
-    "id": "AokabiC"
-  },
-  {
     "title": "TypeScript の概要",
     "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 593,
+    "likes_count": 595,
     "created_at": "2019-03-18T13:33:09+09:00",
     "updated_at": "2019-07-18T07:59:21+09:00",
     "id": "EBIHARA_kenji"
+  },
+  {
+    "title": "Visual Studio Codeで競プロ環境構築(導入編)",
+    "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
+    "likes_count": 595,
+    "created_at": "2019-03-27T22:24:09+09:00",
+    "updated_at": "2020-03-30T18:47:49+09:00",
+    "id": "AokabiC"
   },
   {
     "title": "Pythonのコードをきれいに書くコツ",
@@ -346,7 +346,7 @@
   {
     "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
     "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2019-03-29T15:54:09+09:00",
     "updated_at": "2019-09-12T14:54:07+09:00",
     "id": "KRiver1"
@@ -418,7 +418,7 @@
   {
     "title": "Visual studio codeで競プロ環境構築[mac OS]",
     "url": "https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2019-03-17T19:46:00+09:00",
     "updated_at": "2020-12-04T23:50:28+09:00",
     "id": "EngTks"
@@ -490,7 +490,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 363,
+    "likes_count": 365,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -522,7 +522,7 @@
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"
