@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5499,
+    "likes_count": 5500,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2039,
+    "likes_count": 2040,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1162,
+    "likes_count": 1164,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -122,7 +122,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 873,
+    "likes_count": 874,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -282,7 +282,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 620,
+    "likes_count": 621,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -480,20 +480,20 @@
     "id": "soarflat"
   },
   {
+    "title": "リスト内包表記の活用と悪用",
+    "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
+    "likes_count": 431,
+    "created_at": "2017-12-13T23:41:13+09:00",
+    "updated_at": "2020-05-03T15:49:07+09:00",
+    "id": "KTakahiro1729"
+  },
+  {
     "title": "【随時更新】2018年にReact Nativeを始める人におすすめ26選",
     "url": "https://qiita.com/yutasuzuki/items/046e120eac9b20bed487",
     "likes_count": 430,
     "created_at": "2017-12-07T11:28:01+09:00",
     "updated_at": "2018-08-23T12:08:51+09:00",
     "id": "yutasuzuki"
-  },
-  {
-    "title": "リスト内包表記の活用と悪用",
-    "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 430,
-    "created_at": "2017-12-13T23:41:13+09:00",
-    "updated_at": "2020-05-03T15:49:07+09:00",
-    "id": "KTakahiro1729"
   },
   {
     "title": "超高速な静的Webページを作ろう！",
@@ -530,7 +530,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 396,
+    "likes_count": 397,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -578,7 +578,7 @@
   {
     "title": "知っておきたいLinuxファイルシステムの概念",
     "url": "https://qiita.com/tutuz/items/539d429729d5819de0aa",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2018-01-01T00:27:21+09:00",
     "updated_at": "2018-01-01T00:27:21+09:00",
     "id": "tutuz"
@@ -634,7 +634,7 @@
   {
     "title": "C++をこれから勉強する人のための道しるべ（C++03）",
     "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2017-12-18T20:08:38+09:00",
     "updated_at": "2019-04-17T15:10:58+09:00",
     "id": "borerere"
@@ -760,20 +760,20 @@
     "id": "onhrs"
   },
   {
+    "title": "組み込みLinuxデバイスドライバの作り方 (1)",
+    "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
+    "likes_count": 289,
+    "created_at": "2017-12-17T01:37:50+09:00",
+    "updated_at": "2018-02-01T19:12:00+09:00",
+    "id": "iwatake2222"
+  },
+  {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
     "likes_count": 288,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
-  },
-  {
-    "title": "組み込みLinuxデバイスドライバの作り方 (1)",
-    "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 286,
-    "created_at": "2017-12-17T01:37:50+09:00",
-    "updated_at": "2018-02-01T19:12:00+09:00",
-    "id": "iwatake2222"
   },
   {
     "title": "機械学習ライブラリ scikit-learnの便利機能の紹介",
