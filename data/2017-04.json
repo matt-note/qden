@@ -10,7 +10,7 @@
   {
     "title": "CSS Grid Layout を極める！（基礎編）",
     "url": "https://qiita.com/kura07/items/e633b35e33e43240d363",
-    "likes_count": 2217,
+    "likes_count": 2220,
     "created_at": "2017-04-13T22:46:32+09:00",
     "updated_at": "2020-02-25T16:51:49+09:00",
     "id": "kura07"
@@ -26,7 +26,7 @@
   {
     "title": "自然言語処理における前処理の種類とその威力",
     "url": "https://qiita.com/Hironsan/items/2466fe0f344115aff177",
-    "likes_count": 1664,
+    "likes_count": 1665,
     "created_at": "2017-04-17T10:42:32+09:00",
     "updated_at": "2017-04-18T16:03:51+09:00",
     "id": "Hironsan"
@@ -50,7 +50,7 @@
   {
     "title": "GETとPOSTの違いについて",
     "url": "https://qiita.com/kanataxa/items/522efb74421255f0e0a1",
-    "likes_count": 1024,
+    "likes_count": 1025,
     "created_at": "2017-04-08T02:34:36+09:00",
     "updated_at": "2020-02-06T11:45:33+09:00",
     "id": "kanataxa"
@@ -82,7 +82,7 @@
   {
     "title": "Docker multi stage buildで変わるDockerfileの常識",
     "url": "https://qiita.com/minamijoyo/items/711704e85b45ff5d6405",
-    "likes_count": 823,
+    "likes_count": 824,
     "created_at": "2017-04-19T00:53:12+09:00",
     "updated_at": "2017-05-07T00:32:55+09:00",
     "id": "minamijoyo"
@@ -90,7 +90,7 @@
   {
     "title": "CSS Grid Layout を極める！（場面別編）",
     "url": "https://qiita.com/kura07/items/486c19045aab8090d6d9",
-    "likes_count": 792,
+    "likes_count": 793,
     "created_at": "2017-04-18T01:41:51+09:00",
     "updated_at": "2019-09-16T21:31:21+09:00",
     "id": "kura07"
@@ -130,7 +130,7 @@
   {
     "title": "WebAssemblyとは？〜実際にC言語をブラウザで動かす〜【2019年6月版】",
     "url": "https://qiita.com/umamichi/items/c62d18b7ed81fdba63c2",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2017-04-12T15:13:17+09:00",
     "updated_at": "2019-12-11T13:32:16+09:00",
     "id": "umamichi"
@@ -154,7 +154,7 @@
   {
     "title": "Visual Studio Code の git 連携機能と git コマンドについて (2018/05/23)",
     "url": "https://qiita.com/satokaz/items/4660ce57ca8eb456a096",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2017-04-18T20:54:26+09:00",
     "updated_at": "2019-12-31T14:46:57+09:00",
     "id": "satokaz"
@@ -218,7 +218,7 @@
   {
     "title": "URL と URI の違い",
     "url": "https://qiita.com/Zuishin/items/3bd56117ab08ec2ec818",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2017-04-15T00:48:50+09:00",
     "updated_at": "2019-01-15T17:48:12+09:00",
     "id": "Zuishin"
@@ -306,7 +306,7 @@
   {
     "title": ".htaccess の書き方（リダイレクト編）",
     "url": "https://qiita.com/shotets/items/1f8f308e008dcb96bf43",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2017-04-04T23:15:07+09:00",
     "updated_at": "2020-06-07T12:44:12+09:00",
     "id": "shotets"
@@ -414,6 +414,14 @@
     "created_at": "2017-04-13T18:09:03+09:00",
     "updated_at": "2017-04-27T10:56:19+09:00",
     "id": "sachioksg"
+  },
+  {
+    "title": "AtomでPythonの開発環境を整える",
+    "url": "https://qiita.com/suecharo/items/dbc525dd5f39bdb8403c",
+    "likes_count": 207,
+    "created_at": "2017-04-10T02:05:50+09:00",
+    "updated_at": "2017-05-04T16:05:38+09:00",
+    "id": "suecharo"
   },
   {
     "title": "Javascriptでよく使う処理をスニペットにしてみた",
