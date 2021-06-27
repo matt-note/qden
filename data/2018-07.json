@@ -2,7 +2,7 @@
   {
     "title": "初心者プログラマが犯しがちな過ち25選",
     "url": "https://qiita.com/rana_kualu/items/379eefb3a40c6b44cb92",
-    "likes_count": 2463,
+    "likes_count": 2464,
     "created_at": "2018-07-06T21:18:51+09:00",
     "updated_at": "2020-01-06T21:50:48+09:00",
     "id": "rana_kualu"
@@ -34,7 +34,7 @@
   {
     "title": "Vue.js + Vuexでデータが循環する全体像を図解してみた",
     "url": "https://qiita.com/m_mitsuhide/items/f16d988ec491b7800ace",
-    "likes_count": 1314,
+    "likes_count": 1315,
     "created_at": "2018-07-30T13:03:15+09:00",
     "updated_at": "2019-12-05T11:02:51+09:00",
     "id": "m_mitsuhide"
@@ -114,7 +114,7 @@
   {
     "title": "npmとyarnのコマンド早見表",
     "url": "https://qiita.com/rubytomato@github/items/1696530bb9fd59aa28d8",
-    "likes_count": 811,
+    "likes_count": 813,
     "created_at": "2018-07-02T07:03:00+09:00",
     "updated_at": "2020-07-16T23:37:10+09:00",
     "id": "rubytomato@github"
@@ -122,7 +122,7 @@
   {
     "title": "20万pv/月達成のwebサービスのRailsソースコード、全部見せます！",
     "url": "https://qiita.com/kent_ear/items/f48362b953d74d9f60f0",
-    "likes_count": 811,
+    "likes_count": 812,
     "created_at": "2018-08-01T01:41:17+09:00",
     "updated_at": "2019-08-22T14:05:12+09:00",
     "id": "kent_ear"
@@ -178,7 +178,7 @@
   {
     "title": "Pandas の groupby の使い方",
     "url": "https://qiita.com/propella/items/a9a32b878c77222630ae",
-    "likes_count": 558,
+    "likes_count": 559,
     "created_at": "2018-07-02T18:03:48+09:00",
     "updated_at": "2018-11-15T16:12:51+09:00",
     "id": "propella"
@@ -242,7 +242,7 @@
   {
     "title": "Netlifyで静的サイトのホスティングをする",
     "url": "https://qiita.com/sugo/items/2ee64887d682b0dae635",
-    "likes_count": 460,
+    "likes_count": 461,
     "created_at": "2018-07-03T19:03:36+09:00",
     "updated_at": "2018-07-03T19:30:59+09:00",
     "id": "sugo"
@@ -338,10 +338,18 @@
   {
     "title": "[初学者]Railsのi18nによる日本語化対応",
     "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
-    "likes_count": 338,
+    "likes_count": 339,
     "created_at": "2018-08-01T01:32:22+09:00",
     "updated_at": "2020-04-11T14:10:58+09:00",
     "id": "shimadama"
+  },
+  {
+    "title": "Google Maps API を使ってみた",
+    "url": "https://qiita.com/Haruka-Ogawa/items/997401a2edcd20e61037",
+    "likes_count": 335,
+    "created_at": "2018-07-26T16:51:48+09:00",
+    "updated_at": "2021-03-05T21:39:45+09:00",
+    "id": "Haruka-Ogawa"
   },
   {
     "title": "10分で理解するGrafana",
@@ -358,14 +366,6 @@
     "created_at": "2018-07-20T19:52:47+09:00",
     "updated_at": "2018-08-01T17:52:12+09:00",
     "id": "woodyZootopia"
-  },
-  {
-    "title": "Google Maps API を使ってみた",
-    "url": "https://qiita.com/Haruka-Ogawa/items/997401a2edcd20e61037",
-    "likes_count": 334,
-    "created_at": "2018-07-26T16:51:48+09:00",
-    "updated_at": "2021-03-05T21:39:45+09:00",
-    "id": "Haruka-Ogawa"
   },
   {
     "title": "アジャイル開発に関する質疑応答",
@@ -402,7 +402,7 @@
   {
     "title": "Scoopを使ったWindows環境構築のススメ - Super!!",
     "url": "https://qiita.com/Dooteeen/items/12dc8fb14042888113d0",
-    "likes_count": 302,
+    "likes_count": 304,
     "created_at": "2018-07-27T03:50:48+09:00",
     "updated_at": "2020-07-22T06:34:14+09:00",
     "id": "Dooteeen"
@@ -418,7 +418,7 @@
   {
     "title": "10分で理解する Prometheus",
     "url": "https://qiita.com/Chanmoro/items/ac0eb1bf93760566b338",
-    "likes_count": 289,
+    "likes_count": 290,
     "created_at": "2018-07-09T19:05:45+09:00",
     "updated_at": "2018-07-11T11:12:06+09:00",
     "id": "Chanmoro"
@@ -480,20 +480,20 @@
     "id": "wotsushi"
   },
   {
+    "title": "pipenvとGitとDockerを使ったPython開発フロー",
+    "url": "https://qiita.com/Aruneko/items/796d7eeb61e1f36ae4a0",
+    "likes_count": 255,
+    "created_at": "2018-07-14T13:19:13+09:00",
+    "updated_at": "2020-06-05T16:35:17+09:00",
+    "id": "Aruneko"
+  },
+  {
     "title": "Microsoft Azure 全体価値訴求資料 v3.0",
     "url": "https://qiita.com/dokums/items/4bb1a08e2c1d15ba1941",
     "likes_count": 254,
     "created_at": "2018-07-09T15:31:50+09:00",
     "updated_at": "2018-08-08T23:51:21+09:00",
     "id": "dokums"
-  },
-  {
-    "title": "pipenvとGitとDockerを使ったPython開発フロー",
-    "url": "https://qiita.com/Aruneko/items/796d7eeb61e1f36ae4a0",
-    "likes_count": 254,
-    "created_at": "2018-07-14T13:19:13+09:00",
-    "updated_at": "2020-06-05T16:35:17+09:00",
-    "id": "Aruneko"
   },
   {
     "title": "弊社でのJavaScriptの書き方",
