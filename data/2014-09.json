@@ -10,7 +10,7 @@
   {
     "title": "クラスの命名のアンチパターン",
     "url": "https://qiita.com/magicant/items/8134edf969f9629fa66e",
-    "likes_count": 2668,
+    "likes_count": 2670,
     "created_at": "2014-09-04T16:37:27+09:00",
     "updated_at": "2016-06-22T18:16:28+09:00",
     "id": "magicant"
@@ -34,7 +34,7 @@
   {
     "title": "rails generate migrationコマンドまとめ",
     "url": "https://qiita.com/zaru/items/cde2c46b6126867a1a64",
-    "likes_count": 1971,
+    "likes_count": 1972,
     "created_at": "2014-09-09T19:57:54+09:00",
     "updated_at": "2018-11-06T21:09:19+09:00",
     "id": "zaru"
@@ -42,7 +42,7 @@
   {
     "title": "ActiveRecordのjoinsとpreloadとincludesとeager_loadの違い",
     "url": "https://qiita.com/k0kubun/items/80c5a5494f53bb88dc58",
-    "likes_count": 1867,
+    "likes_count": 1868,
     "created_at": "2014-09-05T01:13:43+09:00",
     "updated_at": "2016-02-12T04:58:27+09:00",
     "id": "k0kubun"
@@ -50,7 +50,7 @@
   {
     "title": "Homebrew使い方まとめ",
     "url": "https://qiita.com/vintersnow/items/fca0be79cdc28bd2f5e4",
-    "likes_count": 1193,
+    "likes_count": 1194,
     "created_at": "2014-09-14T10:11:54+09:00",
     "updated_at": "2019-06-30T12:35:22+09:00",
     "id": "vintersnow"
@@ -74,7 +74,7 @@
   {
     "title": "各OSのリリース日とサポート終了日を表にまとめてみた",
     "url": "https://qiita.com/yunano/items/4757f86f9e92bb4f503f",
-    "likes_count": 951,
+    "likes_count": 952,
     "created_at": "2014-09-11T08:39:03+09:00",
     "updated_at": "2020-03-23T09:04:49+09:00",
     "id": "yunano"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonのイテレータとジェネレータ",
     "url": "https://qiita.com/tomotaka_ito/items/35f3eb108f587022fa09",
-    "likes_count": 877,
+    "likes_count": 878,
     "created_at": "2014-09-17T08:44:04+09:00",
     "updated_at": "2020-10-26T09:28:48+09:00",
     "id": "tomotaka_ito"
@@ -132,7 +132,7 @@
     "url": "https://qiita.com/jun2014/items/32ec77be1056f546aada",
     "likes_count": 743,
     "created_at": "2014-09-27T01:14:29+09:00",
-    "updated_at": "2021-06-27T14:51:15+09:00",
+    "updated_at": "2021-06-28T22:12:03+09:00",
     "id": "jun2014"
   },
   {
@@ -186,7 +186,7 @@
   {
     "title": "Ansible 入門",
     "url": "https://qiita.com/ArimaRyunosuke/items/1f9d840311584d8160bc",
-    "likes_count": 613,
+    "likes_count": 614,
     "created_at": "2014-09-19T19:21:16+09:00",
     "updated_at": "2015-02-06T20:48:48+09:00",
     "id": "ArimaRyunosuke"
@@ -280,20 +280,20 @@
     "id": "k2works"
   },
   {
+    "title": "[C++] STLの型の使い分け",
+    "url": "https://qiita.com/h_hiro_/items/a83a8fd2391d4a3f0e1c",
+    "likes_count": 483,
+    "created_at": "2014-09-17T00:35:46+09:00",
+    "updated_at": "2021-03-02T13:59:45+09:00",
+    "id": "h_hiro_"
+  },
+  {
     "title": "初めてコードレビューされる人のためのpull requestとcommitの作り方",
     "url": "https://qiita.com/reikubonaga/items/e3b3b19c14d4ef4efb95",
     "likes_count": 482,
     "created_at": "2014-09-04T11:29:14+09:00",
     "updated_at": "2016-11-09T10:42:05+09:00",
     "id": "reikubonaga"
-  },
-  {
-    "title": "[C++] STLの型の使い分け",
-    "url": "https://qiita.com/h_hiro_/items/a83a8fd2391d4a3f0e1c",
-    "likes_count": 482,
-    "created_at": "2014-09-17T00:35:46+09:00",
-    "updated_at": "2021-03-02T13:59:45+09:00",
-    "id": "h_hiro_"
   },
   {
     "title": "Backbone.js 使い方メモ",

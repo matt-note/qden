@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 4924,
+    "likes_count": 4925,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -26,7 +26,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 2899,
+    "likes_count": 2901,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -34,7 +34,7 @@
   {
     "title": "Electronでアプリケーションを作ってみよう",
     "url": "https://qiita.com/Quramy/items/a4be32769366cfe55778",
-    "likes_count": 2488,
+    "likes_count": 2487,
     "created_at": "2015-05-06T13:17:03+09:00",
     "updated_at": "2019-02-14T20:45:54+09:00",
     "id": "Quramy"
@@ -154,7 +154,7 @@
   {
     "title": "gitのローカルのブランチ名を変更したい",
     "url": "https://qiita.com/suin/items/96c110b218d919168d64",
-    "likes_count": 735,
+    "likes_count": 736,
     "created_at": "2015-05-20T14:15:43+09:00",
     "updated_at": "2020-03-12T13:16:29+09:00",
     "id": "suin"
@@ -210,7 +210,7 @@
   {
     "title": "RSpecのletを使うのはどんなときか？（翻訳）",
     "url": "https://qiita.com/jnchito/items/cdd9eef2ed193267c651",
-    "likes_count": 668,
+    "likes_count": 669,
     "created_at": "2015-05-11T09:33:49+09:00",
     "updated_at": "2015-05-11T10:05:20+09:00",
     "id": "jnchito"
@@ -408,20 +408,20 @@
     "id": "zaru"
   },
   {
+    "title": "Node.jsからSocket.IOを使うための事前知識",
+    "url": "https://qiita.com/ij_spitz/items/2c66d501f29bff3830f7",
+    "likes_count": 369,
+    "created_at": "2015-05-16T16:22:18+09:00",
+    "updated_at": "2020-10-23T14:22:42+09:00",
+    "id": "ij_spitz"
+  },
+  {
     "title": "ElectronでGyazoっぽいUIを実現する",
     "url": "https://qiita.com/uiu/items/0353e37bcffe94731c6b",
     "likes_count": 368,
     "created_at": "2015-05-12T10:54:35+09:00",
     "updated_at": "2015-05-12T10:58:29+09:00",
     "id": "uiu"
-  },
-  {
-    "title": "Node.jsからSocket.IOを使うための事前知識",
-    "url": "https://qiita.com/ij_spitz/items/2c66d501f29bff3830f7",
-    "likes_count": 368,
-    "created_at": "2015-05-16T16:22:18+09:00",
-    "updated_at": "2020-10-23T14:22:42+09:00",
-    "id": "ij_spitz"
   },
   {
     "title": "redis-cli コマンド操作まとめ",
@@ -480,6 +480,14 @@
     "id": "JunShimura"
   },
   {
+    "title": "Linuxの/bin、/usr/bin、$HOME/binのそれぞれの役割",
+    "url": "https://qiita.com/totzyuta/items/84d610f56129a186f0c5",
+    "likes_count": 331,
+    "created_at": "2015-05-26T00:02:36+09:00",
+    "updated_at": "2017-01-25T18:14:12+09:00",
+    "id": "totzyuta"
+  },
+  {
     "title": "各プログラミング言語のコーディング規約まとめ",
     "url": "https://qiita.com/moaible/items/134329123074337913fb",
     "likes_count": 331,
@@ -494,14 +502,6 @@
     "created_at": "2015-05-14T14:49:06+09:00",
     "updated_at": "2015-05-26T09:02:13+09:00",
     "id": "kazuph"
-  },
-  {
-    "title": "Linuxの/bin、/usr/bin、$HOME/binのそれぞれの役割",
-    "url": "https://qiita.com/totzyuta/items/84d610f56129a186f0c5",
-    "likes_count": 330,
-    "created_at": "2015-05-26T00:02:36+09:00",
-    "updated_at": "2017-01-25T18:14:12+09:00",
-    "id": "totzyuta"
   },
   {
     "title": "XMLHttpRequest についてのメモ",
@@ -530,7 +530,7 @@
   {
     "title": "Slim入門をして書き方を練習をしました",
     "url": "https://qiita.com/pugiemonn/items/b64171952d958dc4d6be",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2015-05-02T18:08:56+09:00",
     "updated_at": "2017-02-01T15:03:23+09:00",
     "id": "pugiemonn"
@@ -554,7 +554,7 @@
   {
     "title": "Javaの検査例外は、呼び出し側で「どんなに注意しても防げない」異常系",
     "url": "https://qiita.com/yuba/items/d41290eca726559cd743",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2015-05-13T23:06:36+09:00",
     "updated_at": "2019-02-20T12:29:33+09:00",
     "id": "yuba"
