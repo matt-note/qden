@@ -10,7 +10,7 @@
   {
     "title": "初心者エンジニアにおすすめしたい「進捗どうなった？」と言われないための仕事の進め方",
     "url": "https://qiita.com/soyanchu/items/d1cb9785fc211941a009",
-    "likes_count": 2343,
+    "likes_count": 2342,
     "created_at": "2015-11-19T16:38:11+09:00",
     "updated_at": "2020-11-20T22:24:54+09:00",
     "id": "soyanchu"
@@ -34,18 +34,10 @@
   {
     "title": "Dockerイメージとコンテナの削除方法",
     "url": "https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae",
-    "likes_count": 1543,
+    "likes_count": 1544,
     "created_at": "2015-11-02T17:09:47+09:00",
     "updated_at": "2020-04-12T23:12:03+09:00",
     "id": "tifa2chan"
-  },
-  {
-    "title": "Slackであまり知られていない便利機能一覧",
-    "url": "https://qiita.com/kozyty@github/items/cbe58a72a715b540c60f",
-    "likes_count": 1538,
-    "created_at": "2015-12-01T01:03:27+09:00",
-    "updated_at": "2017-01-19T14:15:18+09:00",
-    "id": "kozyty@github"
   },
   {
     "title": "日本人が間違いやすいコーディング上の英語",
@@ -56,9 +48,17 @@
     "id": "sue738"
   },
   {
+    "title": "Slackであまり知られていない便利機能一覧",
+    "url": "https://qiita.com/kozyty@github/items/cbe58a72a715b540c60f",
+    "likes_count": 1537,
+    "created_at": "2015-12-01T01:03:27+09:00",
+    "updated_at": "2017-01-19T14:15:18+09:00",
+    "id": "kozyty@github"
+  },
+  {
     "title": "【Mac版】 VisualStudioCode キーボードショートカット",
     "url": "https://qiita.com/naru0504/items/99495c4482cd158ddca8",
-    "likes_count": 1467,
+    "likes_count": 1468,
     "created_at": "2015-11-24T23:53:28+09:00",
     "updated_at": "2017-07-20T16:34:51+09:00",
     "id": "naru0504"
@@ -82,7 +82,7 @@
   {
     "title": "【統計学】尤度って何？をグラフィカルに説明してみる。",
     "url": "https://qiita.com/kenmatsu4/items/b28d1b3b3d291d0cc698",
-    "likes_count": 1205,
+    "likes_count": 1206,
     "created_at": "2015-11-18T07:23:35+09:00",
     "updated_at": "2015-12-02T12:28:20+09:00",
     "id": "kenmatsu4"
@@ -122,7 +122,7 @@
   {
     "title": "ターミナル 作業効率化 tips集",
     "url": "https://qiita.com/shizuma/items/86470203ac8ea6b4d53f",
-    "likes_count": 1063,
+    "likes_count": 1062,
     "created_at": "2015-11-28T14:33:53+09:00",
     "updated_at": "2017-11-22T18:51:57+09:00",
     "id": "shizuma"
@@ -226,7 +226,7 @@
   {
     "title": "ターミナルからVisual Studio Codeを起動する方法【公式の方法】",
     "url": "https://qiita.com/naru0504/items/c2ed8869ffbf7682cf5c",
-    "likes_count": 601,
+    "likes_count": 602,
     "created_at": "2015-11-25T14:49:51+09:00",
     "updated_at": "2018-07-03T12:46:06+09:00",
     "id": "naru0504"
@@ -338,7 +338,7 @@
   {
     "title": "意外と知らないIntelliJ IDEAのGit管理機能いろいろ（´-`）",
     "url": "https://qiita.com/yoppe/items/fd03607d4d4f191d32dd",
-    "likes_count": 460,
+    "likes_count": 461,
     "created_at": "2015-11-17T20:43:30+09:00",
     "updated_at": "2015-11-19T10:14:51+09:00",
     "id": "yoppe"
@@ -434,10 +434,18 @@
   {
     "title": "Cookieとセッション管理",
     "url": "https://qiita.com/mogulla3/items/189c99c87a0fc827520e",
-    "likes_count": 335,
+    "likes_count": 334,
     "created_at": "2015-11-08T19:04:27+09:00",
     "updated_at": "2015-11-08T23:38:18+09:00",
     "id": "mogulla3"
+  },
+  {
+    "title": "参考訳：Docker コンテナ・ネットワークの理解",
+    "url": "https://qiita.com/zembutsu/items/1da05cb6a60e1c5acc25",
+    "likes_count": 328,
+    "created_at": "2015-11-05T20:23:06+09:00",
+    "updated_at": "2019-08-31T12:31:53+09:00",
+    "id": "zembutsu"
   },
   {
     "title": "CSSとSassのコーディングスタイルガイドを作ってみた",
@@ -446,14 +454,6 @@
     "created_at": "2015-11-15T02:17:00+09:00",
     "updated_at": "2016-01-14T01:08:06+09:00",
     "id": "manabuyasuda"
-  },
-  {
-    "title": "参考訳：Docker コンテナ・ネットワークの理解",
-    "url": "https://qiita.com/zembutsu/items/1da05cb6a60e1c5acc25",
-    "likes_count": 327,
-    "created_at": "2015-11-05T20:23:06+09:00",
-    "updated_at": "2019-08-31T12:31:53+09:00",
-    "id": "zembutsu"
   },
   {
     "title": "NSErrorが便利すぎる件 Appleありがとう",
@@ -490,7 +490,7 @@
   {
     "title": "シングルファイル C/C++ ライブラリが便利すぎてやばい",
     "url": "https://qiita.com/syoyo/items/e9d4aff56f691f5b783b",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2015-11-28T12:19:28+09:00",
     "updated_at": "2019-11-09T18:04:44+09:00",
     "id": "syoyo"
@@ -562,7 +562,7 @@
   {
     "title": "React Bootstrap ってなんて素敵なんだ",
     "url": "https://qiita.com/ynunokawa/items/7c60c0db0c000d265554",
-    "likes_count": 268,
+    "likes_count": 267,
     "created_at": "2015-11-25T19:47:38+09:00",
     "updated_at": "2015-11-25T19:47:38+09:00",
     "id": "ynunokawa"
@@ -570,10 +570,18 @@
   {
     "title": "AWS EC2でNodeを動作させる",
     "url": "https://qiita.com/oishihiroaki/items/bc663eb1282d87c46e97",
-    "likes_count": 261,
+    "likes_count": 262,
     "created_at": "2015-11-05T03:16:31+09:00",
     "updated_at": "2020-01-23T03:44:11+09:00",
     "id": "oishihiroaki"
+  },
+  {
+    "title": "プログラマーが知っておくと良いLinuxコマンド",
+    "url": "https://qiita.com/townsoft/items/d77c8c6f1ef9bf1c4dcc",
+    "likes_count": 260,
+    "created_at": "2015-11-27T16:27:36+09:00",
+    "updated_at": "2019-03-20T05:01:14+09:00",
+    "id": "townsoft"
   },
   {
     "title": "至高のファイルアップロード",
@@ -582,14 +590,6 @@
     "created_at": "2015-11-24T15:11:42+09:00",
     "updated_at": "2015-12-14T09:06:00+09:00",
     "id": "kawasima"
-  },
-  {
-    "title": "プログラマーが知っておくと良いLinuxコマンド",
-    "url": "https://qiita.com/townsoft/items/d77c8c6f1ef9bf1c4dcc",
-    "likes_count": 259,
-    "created_at": "2015-11-27T16:27:36+09:00",
-    "updated_at": "2019-03-20T05:01:14+09:00",
-    "id": "townsoft"
   },
   {
     "title": "MarkDown記法",

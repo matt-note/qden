@@ -2,7 +2,7 @@
   {
     "title": "Gitでやらかした時に使える19個の奥義",
     "url": "https://qiita.com/muran001/items/dea2bbbaea1260098051",
-    "likes_count": 6209,
+    "likes_count": 6215,
     "created_at": "2015-02-11T19:46:14+09:00",
     "updated_at": "2015-03-06T08:29:01+09:00",
     "id": "muran001"
@@ -10,7 +10,7 @@
   {
     "title": "初心者向け、「上手い」シェルスクリプトの書き方メモ",
     "url": "https://qiita.com/m-yamashita/items/889c116b92dc0bf4ea7d",
-    "likes_count": 4336,
+    "likes_count": 4337,
     "created_at": "2015-02-02T00:38:57+09:00",
     "updated_at": "2018-01-18T16:36:34+09:00",
     "id": "m-yamashita"
@@ -18,7 +18,7 @@
   {
     "title": "インフラエンジニアじゃなくても押さえておきたいSSHの基礎知識",
     "url": "https://qiita.com/tag1216/items/5d06bad7468f731f590e",
-    "likes_count": 4036,
+    "likes_count": 4035,
     "created_at": "2015-02-23T08:28:40+09:00",
     "updated_at": "2019-03-07T22:33:18+09:00",
     "id": "tag1216"
@@ -26,7 +26,7 @@
   {
     "title": "WebAPIについての説明",
     "url": "https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47",
-    "likes_count": 3106,
+    "likes_count": 3107,
     "created_at": "2015-02-14T15:27:09+09:00",
     "updated_at": "2019-09-06T14:17:38+09:00",
     "id": "busyoumono99"
@@ -58,7 +58,7 @@
   {
     "title": "Git超絶まとめ",
     "url": "https://qiita.com/masashi127/items/2e103c3fba9d1b058961",
-    "likes_count": 1748,
+    "likes_count": 1750,
     "created_at": "2015-02-12T08:32:00+09:00",
     "updated_at": "2015-12-14T21:49:27+09:00",
     "id": "masashi127"
@@ -74,7 +74,7 @@
   {
     "title": "ノンプログラマーが3ヶ月でWebサービスを作ってみた",
     "url": "https://qiita.com/tabbyz/items/6513e84f319843c316d5",
-    "likes_count": 1651,
+    "likes_count": 1652,
     "created_at": "2015-02-25T09:30:19+09:00",
     "updated_at": "2016-03-28T08:52:32+09:00",
     "id": "tabbyz"
@@ -130,7 +130,7 @@
   {
     "title": "scpコマンドでサーバー上のファイルorディレクトリをローカルに落としてくる",
     "url": "https://qiita.com/katsukii/items/225cd3de6d3d06a9abcb",
-    "likes_count": 880,
+    "likes_count": 881,
     "created_at": "2015-02-08T16:41:13+09:00",
     "updated_at": "2015-11-17T17:45:06+09:00",
     "id": "katsukii"
@@ -354,7 +354,7 @@
   {
     "title": "PHPのin_arrayは罠が多いので注意喚起が必要",
     "url": "https://qiita.com/tadsan/items/2a4c3e6b0b74a408c038",
-    "likes_count": 406,
+    "likes_count": 405,
     "created_at": "2015-02-08T01:37:20+09:00",
     "updated_at": "2016-03-14T21:34:35+09:00",
     "id": "tadsan"
@@ -410,7 +410,7 @@
   {
     "title": "encodeURIComponentが世界基準だと誤解してた話",
     "url": "https://qiita.com/shibukawa/items/c0730092371c0e243f62",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2015-02-22T22:45:11+09:00",
     "updated_at": "2019-03-06T13:18:10+09:00",
     "id": "shibukawa"
@@ -498,17 +498,9 @@
   {
     "title": "rsyncのサンプル例集",
     "url": "https://qiita.com/shnagai/items/7403411b4aa193d0fa0d",
-    "likes_count": 289,
+    "likes_count": 288,
     "created_at": "2015-02-23T20:41:55+09:00",
     "updated_at": "2019-01-22T15:57:14+09:00",
-    "id": "shnagai"
-  },
-  {
-    "title": "LinuxでL4のロードバランサを簡単に作る手順",
-    "url": "https://qiita.com/shnagai/items/b9b1940cdaf9a17b4088",
-    "likes_count": 286,
-    "created_at": "2015-02-19T19:40:53+09:00",
-    "updated_at": "2017-09-26T15:36:03+09:00",
     "id": "shnagai"
   },
   {
@@ -518,6 +510,14 @@
     "created_at": "2015-02-09T22:49:51+09:00",
     "updated_at": "2017-09-26T07:23:34+09:00",
     "id": "itagakishintaro"
+  },
+  {
+    "title": "LinuxでL4のロードバランサを簡単に作る手順",
+    "url": "https://qiita.com/shnagai/items/b9b1940cdaf9a17b4088",
+    "likes_count": 285,
+    "created_at": "2015-02-19T19:40:53+09:00",
+    "updated_at": "2017-09-26T15:36:03+09:00",
+    "id": "shnagai"
   },
   {
     "title": "これからGo言語を書く人への三種の神器",

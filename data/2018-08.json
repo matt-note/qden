@@ -2,7 +2,7 @@
   {
     "title": "いまさらだけどDockerに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/44860fbda1a34a001fc1",
-    "likes_count": 4376,
+    "likes_count": 4378,
     "created_at": "2018-08-08T08:31:56+09:00",
     "updated_at": "2020-06-09T14:01:44+09:00",
     "id": "gold-kou"
@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 3479,
+    "likes_count": 3480,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2021-04-12T11:28:43+09:00",
     "id": "gold-kou"
@@ -42,7 +42,7 @@
   {
     "title": "プログラマが知っているとよい色使い(JIS安全色)",
     "url": "https://qiita.com/kaizen_nagoya/items/cb7eb3199b0b98904a35",
-    "likes_count": 1514,
+    "likes_count": 1515,
     "created_at": "2018-08-14T14:36:55+09:00",
     "updated_at": "2021-06-19T12:43:55+09:00",
     "id": "kaizen_nagoya"
@@ -58,7 +58,7 @@
   {
     "title": "「1000000007 で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜",
     "url": "https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a",
-    "likes_count": 1208,
+    "likes_count": 1210,
     "created_at": "2018-08-01T21:37:04+09:00",
     "updated_at": "2021-01-31T22:14:45+09:00",
     "id": "drken"
@@ -66,7 +66,7 @@
   {
     "title": "モダンなJava開発ガイド (2018年版)",
     "url": "https://qiita.com/yoichiwo7/items/17190cb440ab7d253cea",
-    "likes_count": 1180,
+    "likes_count": 1181,
     "created_at": "2018-08-24T17:07:24+09:00",
     "updated_at": "2018-09-01T14:34:53+09:00",
     "id": "yoichiwo7"
@@ -82,7 +82,7 @@
   {
     "title": "「さようなら ImageMagick」の考察",
     "url": "https://qiita.com/yoya/items/2076c1f5137d4041e3aa",
-    "likes_count": 1017,
+    "likes_count": 1016,
     "created_at": "2018-08-26T03:32:39+09:00",
     "updated_at": "2021-05-15T21:59:18+09:00",
     "id": "yoya"
@@ -106,7 +106,7 @@
   {
     "title": "TODO: 以外のアノテーションコメントをまとめた",
     "url": "https://qiita.com/taka-kawa/items/673716d77795c937d422",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2018-08-18T23:17:23+09:00",
     "updated_at": "2019-03-22T19:58:02+09:00",
     "id": "taka-kawa"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptのpreventDefault()って難しくない？preventDefault()を使うための前提知識",
     "url": "https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae",
-    "likes_count": 765,
+    "likes_count": 766,
     "created_at": "2018-08-19T23:18:15+09:00",
     "updated_at": "2021-05-15T17:37:16+09:00",
     "id": "tochiji"
@@ -160,14 +160,6 @@
     "id": "youwht"
   },
   {
-    "title": "サービスメッシュについて調査してみた件",
-    "url": "https://qiita.com/mamomamo/items/92085e0e508e18bc8532",
-    "likes_count": 522,
-    "created_at": "2018-08-17T11:50:43+09:00",
-    "updated_at": "2018-08-17T16:49:03+09:00",
-    "id": "mamomamo"
-  },
-  {
     "title": "知識を構造化する20のルール(『エンジニアの知的生産術』内紹介)",
     "url": "https://qiita.com/Ishio/items/4ef8d2bceb51594c8ba6",
     "likes_count": 522,
@@ -176,9 +168,17 @@
     "id": "Ishio"
   },
   {
+    "title": "サービスメッシュについて調査してみた件",
+    "url": "https://qiita.com/mamomamo/items/92085e0e508e18bc8532",
+    "likes_count": 521,
+    "created_at": "2018-08-17T11:50:43+09:00",
+    "updated_at": "2018-08-17T16:49:03+09:00",
+    "id": "mamomamo"
+  },
+  {
     "title": "Git コンフリクト解消手順",
     "url": "https://qiita.com/crarrry/items/c5964512e21e383b73da",
-    "likes_count": 507,
+    "likes_count": 508,
     "created_at": "2018-08-02T08:34:29+09:00",
     "updated_at": "2021-01-17T18:36:45+09:00",
     "id": "crarrry"
@@ -186,7 +186,7 @@
   {
     "title": "あなたのサイトのjpeg画像は過剰品質である。多分。",
     "url": "https://qiita.com/masato_makino/items/28cc2d82d66dbdb12d9a",
-    "likes_count": 493,
+    "likes_count": 492,
     "created_at": "2018-08-15T21:18:34+09:00",
     "updated_at": "2020-09-28T14:34:43+09:00",
     "id": "masato_makino"
@@ -354,7 +354,7 @@
   {
     "title": "Webpacker使うなら最低限これだけは知っておいてほしいこと",
     "url": "https://qiita.com/chimame/items/8d3d6f4afea675cffa7d",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2018-08-07T15:12:45+09:00",
     "updated_at": "2019-12-18T12:05:23+09:00",
     "id": "chimame"

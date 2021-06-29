@@ -2,7 +2,7 @@
   {
     "title": "新卒からの質問をソシャゲっぽい仕組みにしたら捗った話",
     "url": "https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50",
-    "likes_count": 2757,
+    "likes_count": 2758,
     "created_at": "2018-12-04T09:50:05+09:00",
     "updated_at": "2019-02-28T19:10:54+09:00",
     "id": "ysktsuna"
@@ -74,7 +74,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1229,
+    "likes_count": 1230,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-01-19T22:01:44+09:00",
     "id": "diescake"
@@ -90,7 +90,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1113,
+    "likes_count": 1115,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -112,6 +112,14 @@
     "id": "HiromuMasuda0228"
   },
   {
+    "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
+    "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
+    "likes_count": 1004,
+    "created_at": "2018-12-06T21:43:43+09:00",
+    "updated_at": "2020-04-09T08:20:53+09:00",
+    "id": "lobin-z0x50"
+  },
+  {
     "title": "JavaScriptの概念たち (前編)",
     "url": "https://qiita.com/tsin1rou/items/90576b6c00b895478610",
     "likes_count": 1001,
@@ -120,17 +128,9 @@
     "id": "tsin1rou"
   },
   {
-    "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
-    "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
-    "likes_count": 999,
-    "created_at": "2018-12-06T21:43:43+09:00",
-    "updated_at": "2020-04-09T08:20:53+09:00",
-    "id": "lobin-z0x50"
-  },
-  {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 994,
+    "likes_count": 995,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -170,7 +170,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 953,
+    "likes_count": 954,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -202,7 +202,7 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 871,
+    "likes_count": 872,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2018-12-10T02:50:46+09:00",
     "id": "Maki-Daisuke"
@@ -234,7 +234,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 708,
+    "likes_count": 710,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -434,7 +434,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2020-02-12T09:28:38+09:00",
     "id": "syantien"
@@ -450,7 +450,7 @@
   {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
     "url": "https://qiita.com/po3rin/items/c70105f684e6816621d2",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
@@ -496,20 +496,20 @@
     "id": "maskot1977"
   },
   {
+    "title": "Ruby on Rails 6の主要な新機能・機能追加・変更点",
+    "url": "https://qiita.com/ryohashimoto/items/622c3bcfb3336cb9317e",
+    "likes_count": 388,
+    "created_at": "2018-12-22T22:11:07+09:00",
+    "updated_at": "2019-10-21T18:59:04+09:00",
+    "id": "ryohashimoto"
+  },
+  {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
     "likes_count": 387,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
-  },
-  {
-    "title": "Ruby on Rails 6の主要な新機能・機能追加・変更点",
-    "url": "https://qiita.com/ryohashimoto/items/622c3bcfb3336cb9317e",
-    "likes_count": 387,
-    "created_at": "2018-12-22T22:11:07+09:00",
-    "updated_at": "2019-10-21T18:59:04+09:00",
-    "id": "ryohashimoto"
   },
   {
     "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
@@ -650,7 +650,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
@@ -712,20 +712,20 @@
     "id": "redshoga"
   },
   {
+    "title": "Railsでフォロー機能を作る方法",
+    "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
+    "likes_count": 279,
+    "created_at": "2018-12-08T19:30:47+09:00",
+    "updated_at": "2020-04-13T00:22:52+09:00",
+    "id": "mitsumitsu1128"
+  },
+  {
     "title": "【Rails×Ajax】いいね機能ハンズオン",
     "url": "https://qiita.com/naberina/items/c6b5c8d7756cb882fb20",
     "likes_count": 279,
     "created_at": "2018-12-20T02:10:14+09:00",
     "updated_at": "2021-01-08T12:26:47+09:00",
     "id": "naberina"
-  },
-  {
-    "title": "Railsでフォロー機能を作る方法",
-    "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
-    "likes_count": 278,
-    "created_at": "2018-12-08T19:30:47+09:00",
-    "updated_at": "2020-04-13T00:22:52+09:00",
-    "id": "mitsumitsu1128"
   },
   {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
@@ -754,7 +754,7 @@
   {
     "title": "エンジニア向けのポートフォリオサイトまとめ",
     "url": "https://qiita.com/turmericN/items/37c3fbe00ee6bbc7e201",
-    "likes_count": 237,
+    "likes_count": 238,
     "created_at": "2018-12-19T08:26:38+09:00",
     "updated_at": "2018-12-21T13:12:59+09:00",
     "id": "turmericN"
