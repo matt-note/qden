@@ -10,7 +10,7 @@
   {
     "title": "Pythonを書き始める前に見るべきTips",
     "url": "https://qiita.com/icoxfog417/items/e8f97a6acad07903b5b0",
-    "likes_count": 4040,
+    "likes_count": 4041,
     "created_at": "2014-07-29T17:43:20+09:00",
     "updated_at": "2020-02-04T12:14:07+09:00",
     "id": "icoxfog417"
@@ -18,7 +18,7 @@
   {
     "title": "Vim幼稚園からVim小学校へ",
     "url": "https://qiita.com/hachi8833/items/7beeee825c11f7437f54",
-    "likes_count": 3888,
+    "likes_count": 3890,
     "created_at": "2014-07-10T00:02:39+09:00",
     "updated_at": "2019-03-20T18:58:14+09:00",
     "id": "hachi8833"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3431,
+    "likes_count": 3434,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -50,7 +50,7 @@
   {
     "title": "【Git】基本コマンド",
     "url": "https://qiita.com/konweb/items/621722f67fdd8f86a017",
-    "likes_count": 1834,
+    "likes_count": 1836,
     "created_at": "2014-07-12T03:08:15+09:00",
     "updated_at": "2019-06-15T23:17:12+09:00",
     "id": "konweb"
@@ -330,7 +330,7 @@
   {
     "title": "ssh公開鍵認証を実装する",
     "url": "https://qiita.com/HamaTech/items/21bb9761f326c4d4aa65",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2014-07-01T18:42:39+09:00",
     "updated_at": "2016-04-11T11:50:24+09:00",
     "id": "HamaTech"
@@ -466,7 +466,7 @@
   {
     "title": "MySQLで簡単にランダムなテストデータを作成する方法",
     "url": "https://qiita.com/tayasu/items/c5ddfc481d6b7cd8866d",
-    "likes_count": 396,
+    "likes_count": 397,
     "created_at": "2014-07-30T10:17:01+09:00",
     "updated_at": "2014-07-30T20:54:27+09:00",
     "id": "tayasu"
@@ -496,20 +496,20 @@
     "id": "phi"
   },
   {
+    "title": "Swiftのプロパティ監視(willSet/didSet)の挙動について調べてみた",
+    "url": "https://qiita.com/takabosoft/items/b3af8b30a8c5111f4fce",
+    "likes_count": 370,
+    "created_at": "2014-07-17T14:30:47+09:00",
+    "updated_at": "2015-03-26T17:30:47+09:00",
+    "id": "takabosoft"
+  },
+  {
     "title": "要約：iOS/Androidアプリエンジニアが理解すべき「Model」の振る舞い",
     "url": "https://qiita.com/mokemokechicken/items/b59f448079a97f132dd6",
     "likes_count": 369,
     "created_at": "2014-07-10T08:59:17+09:00",
     "updated_at": "2014-07-10T08:59:17+09:00",
     "id": "mokemokechicken"
-  },
-  {
-    "title": "Swiftのプロパティ監視(willSet/didSet)の挙動について調べてみた",
-    "url": "https://qiita.com/takabosoft/items/b3af8b30a8c5111f4fce",
-    "likes_count": 369,
-    "created_at": "2014-07-17T14:30:47+09:00",
-    "updated_at": "2015-03-26T17:30:47+09:00",
-    "id": "takabosoft"
   },
   {
     "title": "今年からジワジワくる【秘伝】のJavaScript - {ライブラリ系}初回編",
@@ -568,20 +568,20 @@
     "id": "kazunori279"
   },
   {
+    "title": "GitHubでWebページを公開する方法",
+    "url": "https://qiita.com/Yuki_Yamashina/items/5d8208c450195b65344c",
+    "likes_count": 331,
+    "created_at": "2014-07-21T22:44:24+09:00",
+    "updated_at": "2014-07-21T22:44:24+09:00",
+    "id": "Yuki_Yamashina"
+  },
+  {
     "title": "Rails 4で作るドラッグアンドドロップで表示順を変更できるサンプルアプリ(スクリーンキャスト付き)",
     "url": "https://qiita.com/jnchito/items/391fb16d3f69fda9bdae",
     "likes_count": 331,
     "created_at": "2014-07-31T08:48:03+09:00",
     "updated_at": "2017-08-28T08:17:25+09:00",
     "id": "jnchito"
-  },
-  {
-    "title": "GitHubでWebページを公開する方法",
-    "url": "https://qiita.com/Yuki_Yamashina/items/5d8208c450195b65344c",
-    "likes_count": 330,
-    "created_at": "2014-07-21T22:44:24+09:00",
-    "updated_at": "2014-07-21T22:44:24+09:00",
-    "id": "Yuki_Yamashina"
   },
   {
     "title": "AngularJSの$scopeをController as で置き換えるべき理由",

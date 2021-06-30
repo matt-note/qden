@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4318,
+    "likes_count": 4320,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2021-03-26T11:28:23+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4180,
+    "likes_count": 4181,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -18,7 +18,7 @@
   {
     "title": "【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】",
     "url": "https://qiita.com/sukebeeeeei/items/76ce249ed264b8acc5f8",
-    "likes_count": 2823,
+    "likes_count": 2824,
     "created_at": "2020-01-05T11:50:44+09:00",
     "updated_at": "2020-05-02T18:21:06+09:00",
     "id": "sukebeeeeei"
@@ -82,7 +82,7 @@
   {
     "title": "駆け出しエンジニアの頃に知ってたら超捗ってたlinux系コマンド・テクニックまとめ",
     "url": "https://qiita.com/sukebeeeeei/items/a07743279ae86effe1ca",
-    "likes_count": 1129,
+    "likes_count": 1132,
     "created_at": "2020-01-19T09:30:12+09:00",
     "updated_at": "2020-05-02T18:21:31+09:00",
     "id": "sukebeeeeei"
@@ -98,7 +98,7 @@
   {
     "title": "2020年現在 Web系企業で採用されてる技術についてまとめてみた",
     "url": "https://qiita.com/inagacky/items/43cc0518ef11f1e4beb3",
-    "likes_count": 984,
+    "likes_count": 985,
     "created_at": "2020-01-22T10:43:23+09:00",
     "updated_at": "2020-09-06T09:25:42+09:00",
     "id": "inagacky"
@@ -154,7 +154,7 @@
   {
     "title": "【入門】インフラやるなら知っておきたいトピックのリンク集",
     "url": "https://qiita.com/tomoyk/items/ece0beed9c174c66ee6a",
-    "likes_count": 837,
+    "likes_count": 838,
     "created_at": "2020-01-01T16:02:36+09:00",
     "updated_at": "2021-04-04T12:43:27+09:00",
     "id": "tomoyk"
@@ -162,7 +162,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 811,
+    "likes_count": 813,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -178,7 +178,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 745,
+    "likes_count": 746,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -242,7 +242,7 @@
   {
     "title": "経年劣化に耐える ReactComponent の書き方",
     "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
-    "likes_count": 665,
+    "likes_count": 666,
     "created_at": "2020-01-16T19:01:04+09:00",
     "updated_at": "2020-01-19T13:49:21+09:00",
     "id": "Takepepe"
@@ -306,7 +306,7 @@
   {
     "title": "jQuery愛好家のためのVue.js、React、Angular入門",
     "url": "https://qiita.com/BRSF/items/6a43d4cf56a9dd1a4d0c",
-    "likes_count": 547,
+    "likes_count": 548,
     "created_at": "2020-01-24T11:20:43+09:00",
     "updated_at": "2021-06-10T10:16:33+09:00",
     "id": "BRSF"
@@ -386,7 +386,7 @@
   {
     "title": "独学で0からプログラミングを始めて、成り上がるためには",
     "url": "https://qiita.com/katy7/items/b28000cd74c10325ee5e",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2020-01-20T01:30:00+09:00",
     "updated_at": "2020-07-20T18:07:45+09:00",
     "id": "katy7"
@@ -400,20 +400,20 @@
     "id": "sugar_tk"
   },
   {
+    "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
+    "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
+    "likes_count": 412,
+    "created_at": "2020-01-11T13:59:43+09:00",
+    "updated_at": "2021-06-22T14:23:00+09:00",
+    "id": "shiro01"
+  },
+  {
     "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
     "url": "https://qiita.com/youwht/items/b047225a6fc356fd56ee",
     "likes_count": 412,
     "created_at": "2020-01-26T13:28:43+09:00",
     "updated_at": "2020-01-27T00:19:43+09:00",
     "id": "youwht"
-  },
-  {
-    "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
-    "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
-    "likes_count": 411,
-    "created_at": "2020-01-11T13:59:43+09:00",
-    "updated_at": "2021-06-22T14:23:00+09:00",
-    "id": "shiro01"
   },
   {
     "title": "TOMCAT殺害事件",
@@ -490,7 +490,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 313,
+    "likes_count": 315,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"
