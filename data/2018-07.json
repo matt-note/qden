@@ -2,7 +2,7 @@
   {
     "title": "初心者プログラマが犯しがちな過ち25選",
     "url": "https://qiita.com/rana_kualu/items/379eefb3a40c6b44cb92",
-    "likes_count": 2465,
+    "likes_count": 2466,
     "created_at": "2018-07-06T21:18:51+09:00",
     "updated_at": "2020-01-06T21:50:48+09:00",
     "id": "rana_kualu"
@@ -114,7 +114,7 @@
   {
     "title": "npmとyarnのコマンド早見表",
     "url": "https://qiita.com/rubytomato@github/items/1696530bb9fd59aa28d8",
-    "likes_count": 815,
+    "likes_count": 818,
     "created_at": "2018-07-02T07:03:00+09:00",
     "updated_at": "2020-07-16T23:37:10+09:00",
     "id": "rubytomato@github"
@@ -234,7 +234,7 @@
   {
     "title": "permission deniedで悩まされたので勉強してみた",
     "url": "https://qiita.com/takuyanin/items/18590600d077df707923",
-    "likes_count": 509,
+    "likes_count": 510,
     "created_at": "2018-07-12T20:32:36+09:00",
     "updated_at": "2019-11-13T11:45:07+09:00",
     "id": "takuyanin"
@@ -258,7 +258,7 @@
   {
     "title": "GitLabに触ってみて、GitHubと比較した",
     "url": "https://qiita.com/developer-kikikaikai/items/3fd1277a9a5778000638",
-    "likes_count": 429,
+    "likes_count": 430,
     "created_at": "2018-07-14T11:23:50+09:00",
     "updated_at": "2019-10-13T16:20:50+09:00",
     "id": "developer-kikikaikai"
@@ -290,7 +290,7 @@
   {
     "title": "Google Colaboratoryの90分セッション切れ対策【自動接続】",
     "url": "https://qiita.com/enmaru/items/2770df602dd7778d4ce6",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2018-07-22T22:24:06+09:00",
     "updated_at": "2020-01-11T22:25:18+09:00",
     "id": "enmaru"
@@ -338,10 +338,18 @@
   {
     "title": "[初学者]Railsのi18nによる日本語化対応",
     "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
-    "likes_count": 339,
+    "likes_count": 338,
     "created_at": "2018-08-01T01:32:22+09:00",
     "updated_at": "2020-04-11T14:10:58+09:00",
     "id": "shimadama"
+  },
+  {
+    "title": "10分で理解するGrafana",
+    "url": "https://qiita.com/Chanmoro/items/a23f0408f0e64658a775",
+    "likes_count": 336,
+    "created_at": "2018-07-09T19:13:54+09:00",
+    "updated_at": "2018-07-11T11:14:35+09:00",
+    "id": "Chanmoro"
   },
   {
     "title": "Google Maps API を使ってみた",
@@ -350,14 +358,6 @@
     "created_at": "2018-07-26T16:51:48+09:00",
     "updated_at": "2021-03-05T21:39:45+09:00",
     "id": "Haruka-Ogawa"
-  },
-  {
-    "title": "10分で理解するGrafana",
-    "url": "https://qiita.com/Chanmoro/items/a23f0408f0e64658a775",
-    "likes_count": 334,
-    "created_at": "2018-07-09T19:13:54+09:00",
-    "updated_at": "2018-07-11T11:14:35+09:00",
-    "id": "Chanmoro"
   },
   {
     "title": "音響処理の基礎 with CNN　〜機械学習で「太鼓の達人」の自動作譜をしてみた〜",
@@ -402,7 +402,7 @@
   {
     "title": "Scoopを使ったWindows環境構築のススメ - Super!!",
     "url": "https://qiita.com/Dooteeen/items/12dc8fb14042888113d0",
-    "likes_count": 304,
+    "likes_count": 303,
     "created_at": "2018-07-27T03:50:48+09:00",
     "updated_at": "2020-07-22T06:34:14+09:00",
     "id": "Dooteeen"
@@ -410,7 +410,7 @@
   {
     "title": "Visual Studio Code で Markdown 編集環境を整える",
     "url": "https://qiita.com/kumapo0313/items/a59df3d74a7eaaaf3137",
-    "likes_count": 299,
+    "likes_count": 302,
     "created_at": "2018-07-21T22:02:27+09:00",
     "updated_at": "2020-06-21T13:33:52+09:00",
     "id": "kumapo0313"
@@ -418,7 +418,7 @@
   {
     "title": "10分で理解する Prometheus",
     "url": "https://qiita.com/Chanmoro/items/ac0eb1bf93760566b338",
-    "likes_count": 291,
+    "likes_count": 292,
     "created_at": "2018-07-09T19:05:45+09:00",
     "updated_at": "2018-07-11T11:12:06+09:00",
     "id": "Chanmoro"
@@ -498,7 +498,7 @@
   {
     "title": "弊社でのJavaScriptの書き方",
     "url": "https://qiita.com/Kakuni/items/21b7a587dac77ba84719",
-    "likes_count": 251,
+    "likes_count": 250,
     "created_at": "2018-07-10T10:41:16+09:00",
     "updated_at": "2018-07-12T12:50:15+09:00",
     "id": "Kakuni"
