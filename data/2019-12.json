@@ -42,7 +42,7 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年5月更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 1726,
+    "likes_count": 1727,
     "created_at": "2019-12-20T15:18:16+09:00",
     "updated_at": "2021-05-27T16:22:59+09:00",
     "id": "kamesennin"
@@ -58,7 +58,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1584,
+    "likes_count": 1586,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2019-12-01T23:11:59+09:00",
     "id": "hirokidaichi"
@@ -90,7 +90,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1261,
+    "likes_count": 1262,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -106,7 +106,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1147,
+    "likes_count": 1150,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -122,7 +122,7 @@
   {
     "title": "GoF デザインパターン チートシート",
     "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 1031,
+    "likes_count": 1032,
     "created_at": "2019-12-24T12:53:20+09:00",
     "updated_at": "2019-12-24T14:49:39+09:00",
     "id": "tanakahisateru"
@@ -226,10 +226,18 @@
   {
     "title": "【サーバーサイド一式】Docker + Rails + Circle CI + Terraformでインフラをコードで環境構築 & ECSへ自動コンテナデプロイ【前半】",
     "url": "https://qiita.com/kazukimatsumoto/items/fa448e002b0afd441b7c",
-    "likes_count": 642,
+    "likes_count": 641,
     "created_at": "2019-12-04T14:39:49+09:00",
     "updated_at": "2019-12-17T01:31:53+09:00",
     "id": "kazukimatsumoto"
+  },
+  {
+    "title": "TypeScript で書く React コンポーネントを基礎から理解する",
+    "url": "https://qiita.com/sangotaro/items/3ea63110517a1b66745b",
+    "likes_count": 630,
+    "created_at": "2019-12-19T15:51:39+09:00",
+    "updated_at": "2019-12-23T14:36:48+09:00",
+    "id": "sangotaro"
   },
   {
     "title": "本当にあったAWSでやらかした話と対策😭",
@@ -238,14 +246,6 @@
     "created_at": "2019-12-03T21:01:57+09:00",
     "updated_at": "2019-12-04T07:01:57+09:00",
     "id": "kaito_suzuki"
-  },
-  {
-    "title": "TypeScript で書く React コンポーネントを基礎から理解する",
-    "url": "https://qiita.com/sangotaro/items/3ea63110517a1b66745b",
-    "likes_count": 629,
-    "created_at": "2019-12-19T15:51:39+09:00",
-    "updated_at": "2019-12-23T14:36:48+09:00",
-    "id": "sangotaro"
   },
   {
     "title": "lodash やめ方",
@@ -306,7 +306,7 @@
   {
     "title": "  【超初心者向け】コピペで動かして楽しむPython環境構築&スクレイピング&機械学習&実用化【SUUMOでお得賃貸物件を探そう！】",
     "url": "https://qiita.com/haraso_1130/items/8ea9ba66f9d5f0fc2157",
-    "likes_count": 520,
+    "likes_count": 519,
     "created_at": "2019-12-18T06:30:50+09:00",
     "updated_at": "2020-01-07T18:03:37+09:00",
     "id": "haraso_1130"
@@ -314,7 +314,7 @@
   {
     "title": "学生の個人開発にもFlutterがオススメな理由（リリース例あり）",
     "url": "https://qiita.com/tetsufe/items/a189034dc17e0059d391",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2019-12-05T15:31:03+09:00",
     "updated_at": "2020-12-17T17:59:18+09:00",
     "id": "tetsufe"
@@ -434,7 +434,7 @@
   {
     "title": "AWS初学者が「うっかり課金」されがちなポイントとその対策まとめ",
     "url": "https://qiita.com/Yuji-Ishibashi/items/bb1c0042fd16a9350c5a",
-    "likes_count": 372,
+    "likes_count": 371,
     "created_at": "2019-12-01T09:17:57+09:00",
     "updated_at": "2019-12-12T16:36:24+09:00",
     "id": "Yuji-Ishibashi"
@@ -498,7 +498,7 @@
   {
     "title": "Unityアプリを高速・安定化するために見直すべき事を9選まとめてみた",
     "url": "https://qiita.com/yoship1639/items/7339a6201b44a24fbdfe",
-    "likes_count": 290,
+    "likes_count": 291,
     "created_at": "2019-12-12T13:27:06+09:00",
     "updated_at": "2021-06-18T15:14:13+09:00",
     "id": "yoship1639"

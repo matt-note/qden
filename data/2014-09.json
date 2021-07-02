@@ -10,7 +10,7 @@
   {
     "title": "クラスの命名のアンチパターン",
     "url": "https://qiita.com/magicant/items/8134edf969f9629fa66e",
-    "likes_count": 2671,
+    "likes_count": 2672,
     "created_at": "2014-09-04T16:37:27+09:00",
     "updated_at": "2016-06-22T18:16:28+09:00",
     "id": "magicant"
@@ -50,7 +50,7 @@
   {
     "title": "Homebrew使い方まとめ",
     "url": "https://qiita.com/vintersnow/items/fca0be79cdc28bd2f5e4",
-    "likes_count": 1195,
+    "likes_count": 1196,
     "created_at": "2014-09-14T10:11:54+09:00",
     "updated_at": "2019-06-30T12:35:22+09:00",
     "id": "vintersnow"
@@ -58,7 +58,7 @@
   {
     "title": "[Git]コミットの取り消し、打ち消し、上書き",
     "url": "https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed",
-    "likes_count": 1173,
+    "likes_count": 1175,
     "created_at": "2014-09-12T18:43:31+09:00",
     "updated_at": "2016-03-16T21:10:46+09:00",
     "id": "shuntaro_tamura"
@@ -74,7 +74,7 @@
   {
     "title": "各OSのリリース日とサポート終了日を表にまとめてみた",
     "url": "https://qiita.com/yunano/items/4757f86f9e92bb4f503f",
-    "likes_count": 953,
+    "likes_count": 954,
     "created_at": "2014-09-11T08:39:03+09:00",
     "updated_at": "2020-03-23T09:04:49+09:00",
     "id": "yunano"
@@ -90,7 +90,7 @@
   {
     "title": "topコマンドの使い方",
     "url": "https://qiita.com/k0kubun/items/7368c323d90f24a00c2f",
-    "likes_count": 888,
+    "likes_count": 889,
     "created_at": "2014-09-08T19:25:53+09:00",
     "updated_at": "2014-09-08T19:43:44+09:00",
     "id": "k0kubun"
@@ -130,7 +130,7 @@
   {
     "title": "QAエンジニア",
     "url": "https://qiita.com/jun2014/items/32ec77be1056f546aada",
-    "likes_count": 745,
+    "likes_count": 746,
     "created_at": "2014-09-27T01:14:29+09:00",
     "updated_at": "2021-07-01T00:06:48+09:00",
     "id": "jun2014"
@@ -170,7 +170,7 @@
   {
     "title": "超絶初心者のためのフロント入門（HTML、CSS、JavaScript）",
     "url": "https://qiita.com/shuntaro_tamura/items/c9b2fec0f3a9f7d1e987",
-    "likes_count": 633,
+    "likes_count": 632,
     "created_at": "2014-09-21T05:19:04+09:00",
     "updated_at": "2016-03-16T21:09:31+09:00",
     "id": "shuntaro_tamura"
@@ -178,7 +178,7 @@
   {
     "title": "技術的負債",
     "url": "https://qiita.com/erukiti/items/9cc7850250268582dde7",
-    "likes_count": 630,
+    "likes_count": 631,
     "created_at": "2014-09-27T00:11:43+09:00",
     "updated_at": "2014-09-29T14:25:15+09:00",
     "id": "erukiti"
@@ -272,6 +272,14 @@
     "id": "koduki"
   },
   {
+    "title": "[C++] STLの型の使い分け",
+    "url": "https://qiita.com/h_hiro_/items/a83a8fd2391d4a3f0e1c",
+    "likes_count": 484,
+    "created_at": "2014-09-17T00:35:46+09:00",
+    "updated_at": "2021-03-02T13:59:45+09:00",
+    "id": "h_hiro_"
+  },
+  {
     "title": "GitHub 製エディタ Atom入門",
     "url": "https://qiita.com/k2works/items/1d25888fb3a05058e48f",
     "likes_count": 483,
@@ -286,14 +294,6 @@
     "created_at": "2014-09-04T11:29:14+09:00",
     "updated_at": "2016-11-09T10:42:05+09:00",
     "id": "reikubonaga"
-  },
-  {
-    "title": "[C++] STLの型の使い分け",
-    "url": "https://qiita.com/h_hiro_/items/a83a8fd2391d4a3f0e1c",
-    "likes_count": 483,
-    "created_at": "2014-09-17T00:35:46+09:00",
-    "updated_at": "2021-03-02T13:59:45+09:00",
-    "id": "h_hiro_"
   },
   {
     "title": "Backbone.js 使い方メモ",
@@ -360,20 +360,20 @@
     "id": "k0kubun"
   },
   {
+    "title": "Bluetooth Low Energy（BLE）/ iBeaconとは",
+    "url": "https://qiita.com/miyatay/items/4d4ce4ccd7905ddc0144",
+    "likes_count": 422,
+    "created_at": "2014-09-16T11:03:46+09:00",
+    "updated_at": "2014-10-21T15:06:12+09:00",
+    "id": "miyatay"
+  },
+  {
     "title": "IoTやるならまず知っておきたいパーツ屋・オンラインショップ",
     "url": "https://qiita.com/kazuph/items/86a1f88e06ff874abe68",
     "likes_count": 421,
     "created_at": "2014-09-14T16:55:30+09:00",
     "updated_at": "2018-11-26T09:36:11+09:00",
     "id": "kazuph"
-  },
-  {
-    "title": "Bluetooth Low Energy（BLE）/ iBeaconとは",
-    "url": "https://qiita.com/miyatay/items/4d4ce4ccd7905ddc0144",
-    "likes_count": 421,
-    "created_at": "2014-09-16T11:03:46+09:00",
-    "updated_at": "2014-10-21T15:06:12+09:00",
-    "id": "miyatay"
   },
   {
     "title": "iOSデバイス一覧表",
@@ -496,20 +496,20 @@
     "id": "suzukihr"
   },
   {
+    "title": "Gitの基本的な使い方メモ",
+    "url": "https://qiita.com/opengl-8080/items/451c5967cbbc262f4f0d",
+    "likes_count": 299,
+    "created_at": "2014-09-14T16:48:14+09:00",
+    "updated_at": "2016-05-08T00:52:43+09:00",
+    "id": "opengl-8080"
+  },
+  {
     "title": "Appleに超特急レビューをお願いするには",
     "url": "https://qiita.com/Raugh/items/a9d971bcf0005719aa22",
     "likes_count": 298,
     "created_at": "2014-09-08T17:49:52+09:00",
     "updated_at": "2016-01-22T10:55:44+09:00",
     "id": "Raugh"
-  },
-  {
-    "title": "Gitの基本的な使い方メモ",
-    "url": "https://qiita.com/opengl-8080/items/451c5967cbbc262f4f0d",
-    "likes_count": 298,
-    "created_at": "2014-09-14T16:48:14+09:00",
-    "updated_at": "2016-05-08T00:52:43+09:00",
-    "id": "opengl-8080"
   },
   {
     "title": "iOS 8 の新機能のサンプルコード集『iOS8-Sampler』",
