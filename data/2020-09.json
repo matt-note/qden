@@ -10,7 +10,7 @@
   {
     "title": "フルスタックエンジニアになるためのモダンな8つのプロジェクト",
     "url": "https://qiita.com/kanye__east/items/77a9746e9b98abbb97e6",
-    "likes_count": 1618,
+    "likes_count": 1619,
     "created_at": "2020-09-17T12:05:47+09:00",
     "updated_at": "2021-03-08T15:56:56+09:00",
     "id": "kanye__east"
@@ -18,7 +18,7 @@
   {
     "title": "Dockerを体系的に学べる公式チュートリアル和訳",
     "url": "https://qiita.com/Michinosuke/items/5778e0d9e9c04038903c",
-    "likes_count": 1430,
+    "likes_count": 1433,
     "created_at": "2020-09-13T17:48:24+09:00",
     "updated_at": "2021-06-24T15:46:51+09:00",
     "id": "Michinosuke"
@@ -26,7 +26,7 @@
   {
     "title": "JavaScript学習ロードマップ",
     "url": "https://qiita.com/yukiji/items/ae2dbbd34f8557d5af19",
-    "likes_count": 1427,
+    "likes_count": 1428,
     "created_at": "2020-09-02T09:39:45+09:00",
     "updated_at": "2020-09-02T19:00:06+09:00",
     "id": "yukiji"
@@ -50,7 +50,7 @@
   {
     "title": "画面をデザインするということ",
     "url": "https://qiita.com/megumu-u/items/73b728ad1d381717d731",
-    "likes_count": 1309,
+    "likes_count": 1310,
     "created_at": "2020-09-14T07:51:14+09:00",
     "updated_at": "2020-09-17T09:32:03+09:00",
     "id": "megumu-u"
@@ -154,7 +154,7 @@
   {
     "title": "PyTorchでの学習・推論を高速化するコツ集",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/62f5f7adee083d96a587",
-    "likes_count": 497,
+    "likes_count": 498,
     "created_at": "2020-09-08T08:10:21+09:00",
     "updated_at": "2020-09-11T07:39:25+09:00",
     "id": "sugulu_Ogawa_ISID"
@@ -162,7 +162,7 @@
   {
     "title": "政府CIOの「デジタル・ガバメント推進標準ガイドライン実践ガイドブック」が とても良かったので紹介したい",
     "url": "https://qiita.com/yasuoyasuo/items/cc4dd2b439553f384816",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2020-09-02T02:29:32+09:00",
     "updated_at": "2020-09-03T10:09:06+09:00",
     "id": "yasuoyasuo"
@@ -174,6 +174,14 @@
     "created_at": "2020-09-06T22:29:42+09:00",
     "updated_at": "2020-09-09T14:07:22+09:00",
     "id": "jun40vn"
+  },
+  {
+    "title": "オブジェクト指向歴25年のオブジェクト指向おじさんが語るオブジェクト指向設計の処方箋",
+    "url": "https://qiita.com/hayashida-katsutoshi/items/ef2e59219ba0942d3225",
+    "likes_count": 458,
+    "created_at": "2020-09-15T15:30:11+09:00",
+    "updated_at": "2020-09-21T16:38:45+09:00",
+    "id": "hayashida-katsutoshi"
   },
   {
     "title": "モバイルアプリにおけるUIデザイン",
@@ -192,17 +200,9 @@
     "id": "ryo2132"
   },
   {
-    "title": "オブジェクト指向歴25年のオブジェクト指向おじさんが語るオブジェクト指向設計の処方箋",
-    "url": "https://qiita.com/hayashida-katsutoshi/items/ef2e59219ba0942d3225",
-    "likes_count": 457,
-    "created_at": "2020-09-15T15:30:11+09:00",
-    "updated_at": "2020-09-21T16:38:45+09:00",
-    "id": "hayashida-katsutoshi"
-  },
-  {
     "title": "Promiseをthrowするのはなぜ天才的デザインなのか",
     "url": "https://qiita.com/uhyo/items/255760315ca61544fe33",
-    "likes_count": 408,
+    "likes_count": 409,
     "created_at": "2020-09-01T23:46:10+09:00",
     "updated_at": "2020-09-02T23:47:38+09:00",
     "id": "uhyo"
@@ -218,7 +218,7 @@
   {
     "title": "新サービスZennが面白い！",
     "url": "https://qiita.com/engineerhikaru/items/d3be9d731a5327a1ed70",
-    "likes_count": 385,
+    "likes_count": 386,
     "created_at": "2020-09-17T05:34:33+09:00",
     "updated_at": "2020-09-18T14:07:02+09:00",
     "id": "engineerhikaru"
@@ -282,7 +282,7 @@
   {
     "title": "綺麗なReactコンポーネント設計でモノリシックなコンポーネントを爆殺する",
     "url": "https://qiita.com/teradonburi/items/6828635d2e70dba6637d",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2020-09-23T08:48:15+09:00",
     "updated_at": "2020-09-24T09:32:32+09:00",
     "id": "teradonburi"
@@ -306,7 +306,7 @@
   {
     "title": "エンジニアが効率よく仕事を進めるためのメモ術",
     "url": "https://qiita.com/sato_626/items/2e865d741f3eda033d82",
-    "likes_count": 237,
+    "likes_count": 238,
     "created_at": "2020-09-17T10:06:57+09:00",
     "updated_at": "2020-12-02T09:39:55+09:00",
     "id": "sato_626"

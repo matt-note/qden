@@ -26,7 +26,7 @@
   {
     "title": "【スマホOK/実行しながら学ぶ】東大松尾研のデータサイエンティスト育成/ Deep Learning基礎講座を自習する",
     "url": "https://qiita.com/tomo_makes/items/5d6f5860bb793e3b354a",
-    "likes_count": 1468,
+    "likes_count": 1469,
     "created_at": "2018-06-30T17:26:55+09:00",
     "updated_at": "2019-11-16T11:53:06+09:00",
     "id": "tomo_makes"
@@ -114,7 +114,7 @@
   {
     "title": "YAMLで履歴書を作る",
     "url": "https://qiita.com/kaityo256/items/e3884d0109223c324baf",
-    "likes_count": 891,
+    "likes_count": 892,
     "created_at": "2018-06-06T18:07:02+09:00",
     "updated_at": "2020-07-19T22:24:57+09:00",
     "id": "kaityo256"
@@ -130,7 +130,7 @@
   {
     "title": "グラフ理論の基礎",
     "url": "https://qiita.com/maskot1977/items/e1819b7a1053eb9f7d61",
-    "likes_count": 823,
+    "likes_count": 824,
     "created_at": "2018-06-17T11:13:44+09:00",
     "updated_at": "2020-12-18T11:25:46+09:00",
     "id": "maskot1977"
@@ -146,7 +146,7 @@
   {
     "title": "Railsで超簡単API",
     "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 723,
+    "likes_count": 724,
     "created_at": "2018-06-27T16:46:37+09:00",
     "updated_at": "2020-02-24T14:01:49+09:00",
     "id": "k-penguin-sato"
@@ -154,7 +154,7 @@
   {
     "title": "Pythonで実用Discord Bot(discordpy解説)",
     "url": "https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f",
-    "likes_count": 661,
+    "likes_count": 663,
     "created_at": "2018-06-07T06:27:47+09:00",
     "updated_at": "2021-05-17T14:52:58+09:00",
     "id": "1ntegrale9"
@@ -170,7 +170,7 @@
   {
     "title": "ターミナルプロンプトの表示・色の変更",
     "url": "https://qiita.com/hmmrjn/items/60d2a64c9e5bf7c0fe60",
-    "likes_count": 610,
+    "likes_count": 611,
     "created_at": "2018-06-20T04:30:23+09:00",
     "updated_at": "2021-01-25T23:38:37+09:00",
     "id": "hmmrjn"
@@ -282,7 +282,7 @@
   {
     "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
     "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
-    "likes_count": 455,
+    "likes_count": 456,
     "created_at": "2018-06-11T22:28:36+09:00",
     "updated_at": "2019-07-16T14:45:28+09:00",
     "id": "C3REVE"
@@ -290,7 +290,7 @@
   {
     "title": "PyAutoGuiで繰り返し作業をPythonにやらせよう",
     "url": "https://qiita.com/hirohiro77/items/78e26a59c2e45a0fe4e3",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2018-06-12T14:08:29+09:00",
     "updated_at": "2021-01-05T09:36:14+09:00",
     "id": "hirohiro77"
@@ -378,7 +378,7 @@
   {
     "title": "Reactのデザインパターン Compound Components",
     "url": "https://qiita.com/seya/items/d08b8a6c12f3e71d5971",
-    "likes_count": 356,
+    "likes_count": 357,
     "created_at": "2018-06-19T11:16:51+09:00",
     "updated_at": "2018-06-21T08:32:11+09:00",
     "id": "seya"
@@ -386,7 +386,7 @@
   {
     "title": "【初心者向け】Linuxカーネルって一体なんだ？",
     "url": "https://qiita.com/uguis410/items/17ec1e447e9716bfdca7",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2018-06-17T17:04:14+09:00",
     "updated_at": "2019-09-06T10:42:56+09:00",
     "id": "uguis410"
@@ -464,6 +464,14 @@
     "id": "rawr"
   },
   {
+    "title": "TypeScript チュートリアル",
+    "url": "https://qiita.com/EBIHARA_kenji/items/31b7c1c62426bdabd263",
+    "likes_count": 296,
+    "created_at": "2018-06-27T16:30:48+09:00",
+    "updated_at": "2019-11-22T13:06:43+09:00",
+    "id": "EBIHARA_kenji"
+  },
+  {
     "title": "[PHP] Xdebug のリモートデバッグ、理解していますか？",
     "url": "https://qiita.com/castaneai/items/d5fdf577a348012ed8af",
     "likes_count": 296,
@@ -472,17 +480,9 @@
     "id": "castaneai"
   },
   {
-    "title": "TypeScript チュートリアル",
-    "url": "https://qiita.com/EBIHARA_kenji/items/31b7c1c62426bdabd263",
-    "likes_count": 294,
-    "created_at": "2018-06-27T16:30:48+09:00",
-    "updated_at": "2019-11-22T13:06:43+09:00",
-    "id": "EBIHARA_kenji"
-  },
-  {
     "title": "Go言語：文法基礎まとめ",
     "url": "https://qiita.com/HiromuMasuda0228/items/65b9a593275f769f6b69",
-    "likes_count": 292,
+    "likes_count": 293,
     "created_at": "2018-06-17T16:17:38+09:00",
     "updated_at": "2018-06-27T16:08:18+09:00",
     "id": "HiromuMasuda0228"

@@ -480,14 +480,6 @@
     "id": "mint__"
   },
   {
-    "title": "無料天気予報APIのOpenWeatherMapを使ってみる",
-    "url": "https://qiita.com/nownabe/items/aeac1ce0977be963a740",
-    "likes_count": 375,
-    "created_at": "2016-03-03T01:15:58+09:00",
-    "updated_at": "2016-03-03T01:18:02+09:00",
-    "id": "nownabe"
-  },
-  {
     "title": "Entrykit のすすめ ",
     "url": "https://qiita.com/spesnova/items/bae6406bf69d2dc6f88b",
     "likes_count": 375,
@@ -496,9 +488,17 @@
     "id": "spesnova"
   },
   {
+    "title": "無料天気予報APIのOpenWeatherMapを使ってみる",
+    "url": "https://qiita.com/nownabe/items/aeac1ce0977be963a740",
+    "likes_count": 374,
+    "created_at": "2016-03-03T01:15:58+09:00",
+    "updated_at": "2016-03-03T01:18:02+09:00",
+    "id": "nownabe"
+  },
+  {
     "title": "kubernetes : kubectlコマンド一覧",
     "url": "https://qiita.com/suzukihi724/items/241f7241d297a2d4a55c",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2016-03-06T10:35:19+09:00",
     "updated_at": "2021-01-02T15:47:02+09:00",
     "id": "suzukihi724"
@@ -618,7 +618,7 @@
   {
     "title": "dein.vimによるプラグイン管理のマイベストプラクティス",
     "url": "https://qiita.com/kawaz/items/ee725f6214f91337b42b",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2016-03-29T00:33:36+09:00",
     "updated_at": "2020-03-05T10:38:41+09:00",
     "id": "kawaz"
@@ -632,20 +632,20 @@
     "id": "negito6"
   },
   {
+    "title": "Java Stream APIをいまさら入門",
+    "url": "https://qiita.com/takumi-n/items/369dd3fcb9ccb8fcfa44",
+    "likes_count": 317,
+    "created_at": "2016-04-01T00:38:36+09:00",
+    "updated_at": "2021-03-15T16:51:00+09:00",
+    "id": "takumi-n"
+  },
+  {
     "title": "awkコマンドの基本",
     "url": "https://qiita.com/yamazon/items/563af1b485ff413d381f",
     "likes_count": 316,
     "created_at": "2016-03-06T20:03:09+09:00",
     "updated_at": "2016-03-14T23:38:39+09:00",
     "id": "yamazon"
-  },
-  {
-    "title": "Java Stream APIをいまさら入門",
-    "url": "https://qiita.com/takumi-n/items/369dd3fcb9ccb8fcfa44",
-    "likes_count": 316,
-    "created_at": "2016-04-01T00:38:36+09:00",
-    "updated_at": "2021-03-15T16:51:00+09:00",
-    "id": "takumi-n"
   },
   {
     "title": "CSS設計の類はもっとカスタムデータ属性を活用するべきでは",
