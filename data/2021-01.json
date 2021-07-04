@@ -2,7 +2,7 @@
   {
     "title": "海外「なぜ日本はハードウェアの時代と同じようにソフトウェアに秀でることができない？」",
     "url": "https://qiita.com/e99h2121/items/419c3bd39d8dea40f21a",
-    "likes_count": 1642,
+    "likes_count": 1643,
     "created_at": "2021-01-30T06:12:18+09:00",
     "updated_at": "2021-05-31T05:21:59+09:00",
     "id": "e99h2121"
@@ -10,7 +10,7 @@
   {
     "title": "技術的なハマりパターンを分類・オサレに命名し、パターン毎に解決策(エンジニアのググり方・質問の仕方)を明示してみた",
     "url": "https://qiita.com/y_tom/items/1b54d4e1a9a5f3fab402",
-    "likes_count": 1310,
+    "likes_count": 1312,
     "created_at": "2021-01-21T01:18:54+09:00",
     "updated_at": "2021-01-27T14:27:36+09:00",
     "id": "y_tom"
@@ -18,7 +18,7 @@
   {
     "title": "ポートフォリオのアプリを公開したらイタズラされまくった話",
     "url": "https://qiita.com/nasuB7373/items/10bebd8e9f0b3331f348",
-    "likes_count": 1135,
+    "likes_count": 1136,
     "created_at": "2021-01-05T07:52:20+09:00",
     "updated_at": "2021-01-13T21:03:29+09:00",
     "id": "nasuB7373"
@@ -26,7 +26,7 @@
   {
     "title": "【個人開発】遅刻を許容し、社会を浄化するアプリを作りました【クソアプリ】",
     "url": "https://qiita.com/yshici/items/e9365fa99b000eeb0188",
-    "likes_count": 1048,
+    "likes_count": 1049,
     "created_at": "2021-01-31T22:49:15+09:00",
     "updated_at": "2021-02-02T20:14:32+09:00",
     "id": "yshici"
@@ -34,7 +34,7 @@
   {
     "title": "デバッグ時はprintではなく、Icecreamを使うと便利",
     "url": "https://qiita.com/purun/items/c7aca300b970344214cf",
-    "likes_count": 1016,
+    "likes_count": 1025,
     "created_at": "2021-01-15T22:25:27+09:00",
     "updated_at": "2021-01-15T22:39:47+09:00",
     "id": "purun"
@@ -50,7 +50,7 @@
   {
     "title": "JavaScript ベスト・オブ・ザ・イヤー 2020",
     "url": "https://qiita.com/rana_kualu/items/e8a0f8f5589ff082539d",
-    "likes_count": 938,
+    "likes_count": 939,
     "created_at": "2021-01-18T00:26:48+09:00",
     "updated_at": "2021-02-01T23:12:42+09:00",
     "id": "rana_kualu"
@@ -82,7 +82,7 @@
   {
     "title": "フロントエンドコーディング時によく利用するジェネレーターサイト（随時更新）",
     "url": "https://qiita.com/taqumo/items/7df0c4dfaca6bd6436a3",
-    "likes_count": 645,
+    "likes_count": 646,
     "created_at": "2021-01-15T19:06:46+09:00",
     "updated_at": "2021-04-03T16:05:43+09:00",
     "id": "taqumo"
@@ -122,7 +122,7 @@
   {
     "title": "「分析SQLスタイルガイド」をかなり真面目に考えた",
     "url": "https://qiita.com/kai_data/items/6c119c43ad3626226dfc",
-    "likes_count": 567,
+    "likes_count": 568,
     "created_at": "2021-01-11T09:22:35+09:00",
     "updated_at": "2021-01-12T20:08:09+09:00",
     "id": "kai_data"
@@ -176,6 +176,14 @@
     "id": "bow_arrow"
   },
   {
+    "title": "React入門！！の前に知っておきたいNode.jsとJavaScriptの知識",
+    "url": "https://qiita.com/rpf-nob/items/6823fb8728754386ef30",
+    "likes_count": 430,
+    "created_at": "2021-01-28T22:13:36+09:00",
+    "updated_at": "2021-02-16T08:14:16+09:00",
+    "id": "rpf-nob"
+  },
+  {
     "title": "【個人的に】Dockerがはかどる小技",
     "url": "https://qiita.com/schrosis/items/6f0839439dac493ef9e3",
     "likes_count": 429,
@@ -184,17 +192,9 @@
     "id": "schrosis"
   },
   {
-    "title": "React入門！！の前に知っておきたいNode.jsとJavaScriptの知識",
-    "url": "https://qiita.com/rpf-nob/items/6823fb8728754386ef30",
-    "likes_count": 429,
-    "created_at": "2021-01-28T22:13:36+09:00",
-    "updated_at": "2021-02-16T08:14:16+09:00",
-    "id": "rpf-nob"
-  },
-  {
     "title": "【SQL】SQLってCRUD以外に何があるの？と思った時に読むQiita",
     "url": "https://qiita.com/akane_kato/items/635378b04e6a31ada651",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2021-01-28T11:56:44+09:00",
     "updated_at": "2021-01-28T18:57:38+09:00",
     "id": "akane_kato"
@@ -202,7 +202,7 @@
   {
     "title": "2020年のおもしろかったDL/ML論文10選",
     "url": "https://qiita.com/shionhonda/items/ca859d68b1ee8edcf0fb",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2021-01-19T00:01:34+09:00",
     "updated_at": "2021-01-19T17:04:33+09:00",
     "id": "shionhonda"
@@ -218,7 +218,7 @@
   {
     "title": "モバイルアプリ開発は、Flutter一択なのか？-2021版-",
     "url": "https://qiita.com/tetsukick/items/ed9306276942c34b3575",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2021-01-16T17:23:03+09:00",
     "updated_at": "2021-04-19T02:23:33+09:00",
     "id": "tetsukick"
@@ -226,7 +226,7 @@
   {
     "title": "WordPressを運用中のサーバがまるごとPHPマルウェアに感染していた時の対応メモ",
     "url": "https://qiita.com/Ayutanalects/items/a359df4e4b445229fcf2",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2021-01-22T06:45:22+09:00",
     "updated_at": "2021-01-26T14:40:36+09:00",
     "id": "Ayutanalects"
@@ -268,13 +268,13 @@
     "url": "https://qiita.com/masakinihirota/items/bbe6c2e2f548fdce03dc",
     "likes_count": 278,
     "created_at": "2021-01-10T03:44:20+09:00",
-    "updated_at": "2021-05-25T02:56:11+09:00",
+    "updated_at": "2021-07-04T06:51:52+09:00",
     "id": "masakinihirota"
   },
   {
     "title": "画像ディープラーニングの始め方（画像系AIの概要理解からUdemy受講, E資格取得まで）",
     "url": "https://qiita.com/ryokita/items/0dc2e6b04b7f51320124",
-    "likes_count": 273,
+    "likes_count": 274,
     "created_at": "2021-01-25T06:35:31+09:00",
     "updated_at": "2021-01-27T15:19:53+09:00",
     "id": "ryokita"

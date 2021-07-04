@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4755,
+    "likes_count": 4758,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3345,
+    "likes_count": 3346,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -56,20 +56,20 @@
     "id": "soarflat"
   },
   {
+    "title": "GraphQL入門 - 使いたくなるGraphQL",
+    "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
+    "likes_count": 1371,
+    "created_at": "2016-12-24T23:11:26+09:00",
+    "updated_at": "2017-11-14T20:40:32+09:00",
+    "id": "bananaumai"
+  },
+  {
     "title": "学年ビリのアホが1年半でTOEICスコアを300点から840点に上げた英語勉強法の話",
     "url": "https://qiita.com/Hironsan/items/20951116a2650f45fea5",
     "likes_count": 1369,
     "created_at": "2016-12-07T06:30:51+09:00",
     "updated_at": "2016-12-17T15:54:28+09:00",
     "id": "Hironsan"
-  },
-  {
-    "title": "GraphQL入門 - 使いたくなるGraphQL",
-    "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1369,
-    "created_at": "2016-12-24T23:11:26+09:00",
-    "updated_at": "2017-11-14T20:40:32+09:00",
-    "id": "bananaumai"
   },
   {
     "title": "Python Webスクレイピング 実践入門",
@@ -162,7 +162,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 847,
+    "likes_count": 848,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -258,7 +258,7 @@
   {
     "title": "iOSアプリ開発でアニメーションするなら押さえておきたい基礎",
     "url": "https://qiita.com/hachinobu/items/57d4c305c907805b4a53",
-    "likes_count": 644,
+    "likes_count": 645,
     "created_at": "2016-12-22T15:31:54+09:00",
     "updated_at": "2018-12-27T15:29:57+09:00",
     "id": "hachinobu"
@@ -296,6 +296,14 @@
     "id": "y-okudera"
   },
   {
+    "title": "原理原則で理解するDocker",
+    "url": "https://qiita.com/tajima_taso/items/28938415846dcc2e83ff",
+    "likes_count": 613,
+    "created_at": "2016-12-23T06:40:30+09:00",
+    "updated_at": "2016-12-26T12:42:54+09:00",
+    "id": "tajima_taso"
+  },
+  {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
     "likes_count": 611,
@@ -310,14 +318,6 @@
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
-  },
-  {
-    "title": "原理原則で理解するDocker",
-    "url": "https://qiita.com/tajima_taso/items/28938415846dcc2e83ff",
-    "likes_count": 599,
-    "created_at": "2016-12-23T06:40:30+09:00",
-    "updated_at": "2016-12-26T12:42:54+09:00",
-    "id": "tajima_taso"
   },
   {
     "title": "難しいGitコマンドは、仕組みから理解してみよう",
