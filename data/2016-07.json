@@ -10,7 +10,7 @@
   {
     "title": "文系エンジニアが機械学習に入門するために小学校の算数から高校数学までを一気に復習してみました。",
     "url": "https://qiita.com/poly_soft/items/8ea0fc85577f0726f098",
-    "likes_count": 2242,
+    "likes_count": 2244,
     "created_at": "2016-07-23T13:25:47+09:00",
     "updated_at": "2019-03-11T19:39:35+09:00",
     "id": "poly_soft"
@@ -26,7 +26,7 @@
   {
     "title": "早く・それなりの UI を実現する React コンポーネントセット 16 選",
     "url": "https://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea",
-    "likes_count": 2020,
+    "likes_count": 2022,
     "created_at": "2016-07-10T19:15:57+09:00",
     "updated_at": "2018-06-15T09:48:37+09:00",
     "id": "kyrieleison"
@@ -58,7 +58,7 @@
   {
     "title": "docker-compose コマンドまとめ",
     "url": "https://qiita.com/wasanx25/items/d47caf37b79e855af95f",
-    "likes_count": 1544,
+    "likes_count": 1545,
     "created_at": "2016-07-16T11:41:09+09:00",
     "updated_at": "2017-08-02T01:56:45+09:00",
     "id": "wasanx25"
@@ -90,7 +90,7 @@
   {
     "title": "Web APIとは何なのか",
     "url": "https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02",
-    "likes_count": 1109,
+    "likes_count": 1110,
     "created_at": "2016-07-04T06:52:19+09:00",
     "updated_at": "2017-04-18T00:11:40+09:00",
     "id": "NagaokaKenichi"
@@ -128,6 +128,14 @@
     "id": "cognitom"
   },
   {
+    "title": "【PHP超入門】HTTP（GET・POST）について",
+    "url": "https://qiita.com/7968/items/4bf4d6f28284146c288f",
+    "likes_count": 943,
+    "created_at": "2016-07-27T14:25:37+09:00",
+    "updated_at": "2020-04-15T08:44:32+09:00",
+    "id": "7968"
+  },
+  {
     "title": "ブラウザテストツール総まとめ・2016年夏版",
     "url": "https://qiita.com/cognitom/items/6cce719b57341769c14d",
     "likes_count": 943,
@@ -142,14 +150,6 @@
     "created_at": "2016-07-01T18:57:59+09:00",
     "updated_at": "2018-01-20T14:11:24+09:00",
     "id": "make_now_just"
-  },
-  {
-    "title": "【PHP超入門】HTTP（GET・POST）について",
-    "url": "https://qiita.com/7968/items/4bf4d6f28284146c288f",
-    "likes_count": 942,
-    "created_at": "2016-07-27T14:25:37+09:00",
-    "updated_at": "2020-04-15T08:44:32+09:00",
-    "id": "7968"
   },
   {
     "title": "Facebook公式のcreate-react-appコマンドを使ってReact.jsアプリを爆速で作成する",
@@ -226,7 +226,7 @@
   {
     "title": ".gitignore の書き方",
     "url": "https://qiita.com/inabe49/items/16ee3d9d1ce68daa9fff",
-    "likes_count": 675,
+    "likes_count": 676,
     "created_at": "2016-07-04T11:31:51+09:00",
     "updated_at": "2016-08-04T09:46:56+09:00",
     "id": "inabe49"
@@ -242,7 +242,7 @@
   {
     "title": "Linuxコマンドを連続して使うには",
     "url": "https://qiita.com/egawa_kun/items/714394609eef6be8e0bf",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2016-07-08T12:25:53+09:00",
     "updated_at": "2016-08-18T22:41:58+09:00",
     "id": "egawa_kun"
@@ -386,7 +386,7 @@
   {
     "title": ".NET Framework のバージョン対応表",
     "url": "https://qiita.com/nskydiving/items/3af8bab5a0a63ccb9893",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2016-07-30T23:16:26+09:00",
     "updated_at": "2020-11-11T11:50:15+09:00",
     "id": "nskydiving"

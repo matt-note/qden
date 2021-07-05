@@ -34,7 +34,7 @@
   {
     "title": "エンジニアが転職する時に考えることを採用面接官をしてる立場から書いてみた",
     "url": "https://qiita.com/newta/items/9620056bb991f4b0f03d",
-    "likes_count": 967,
+    "likes_count": 968,
     "created_at": "2017-11-03T22:03:55+09:00",
     "updated_at": "2018-01-17T00:42:27+09:00",
     "id": "newta"
@@ -64,20 +64,20 @@
     "id": "ryosukemaehira"
   },
   {
+    "title": "Gitコマンド早見表",
+    "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
+    "likes_count": 831,
+    "created_at": "2017-11-10T07:44:03+09:00",
+    "updated_at": "2019-03-24T19:11:17+09:00",
+    "id": "kohga"
+  },
+  {
     "title": "とりあえずド素人が読むべきブロックチェーン入門論文・書籍・サイト",
     "url": "https://qiita.com/onokatio/items/7db58947b05c17d1f44e",
     "likes_count": 830,
     "created_at": "2017-11-09T21:56:49+09:00",
     "updated_at": "2019-11-09T18:44:59+09:00",
     "id": "onokatio"
-  },
-  {
-    "title": "Gitコマンド早見表",
-    "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 830,
-    "created_at": "2017-11-10T07:44:03+09:00",
-    "updated_at": "2019-03-24T19:11:17+09:00",
-    "id": "kohga"
   },
   {
     "title": "欲しいものが無いからつくってみました。誰でも使えるオープンソースなネットワークアイコン集",
@@ -98,7 +98,7 @@
   {
     "title": "Pythonで使う競技プログラミング用チートシート",
     "url": "https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0",
-    "likes_count": 677,
+    "likes_count": 678,
     "created_at": "2017-11-12T02:03:04+09:00",
     "updated_at": "2019-08-22T21:01:24+09:00",
     "id": "_-_-_-_-_"
@@ -122,7 +122,7 @@
   {
     "title": "なぜオブジェクト指向は難しいのか",
     "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 629,
+    "likes_count": 630,
     "created_at": "2017-11-16T01:47:45+09:00",
     "updated_at": "2021-01-05T10:16:02+09:00",
     "id": "tutinoco"
@@ -216,20 +216,20 @@
     "id": "eri"
   },
   {
+    "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
+    "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
+    "likes_count": 514,
+    "created_at": "2017-11-23T13:25:47+09:00",
+    "updated_at": "2019-07-16T14:21:23+09:00",
+    "id": "toshi0607"
+  },
+  {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
     "url": "https://qiita.com/yonedaco/items/569bcc442872a1f9a03d",
     "likes_count": 514,
     "created_at": "2017-11-25T15:34:09+09:00",
     "updated_at": "2020-03-18T13:27:49+09:00",
     "id": "yonedaco"
-  },
-  {
-    "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
-    "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 513,
-    "created_at": "2017-11-23T13:25:47+09:00",
-    "updated_at": "2019-07-16T14:21:23+09:00",
-    "id": "toshi0607"
   },
   {
     "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
@@ -242,7 +242,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 509,
+    "likes_count": 510,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -250,10 +250,18 @@
   {
     "title": " シェルスクリプトを何万倍も遅くしないためには —— ループせずフィルタしよう",
     "url": "https://qiita.com/8x9/items/f1156503694d3683e78d",
-    "likes_count": 479,
+    "likes_count": 481,
     "created_at": "2017-12-01T07:53:51+09:00",
     "updated_at": "2018-07-15T22:48:25+09:00",
     "id": "8x9"
+  },
+  {
+    "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
+    "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
+    "likes_count": 472,
+    "created_at": "2017-11-18T06:21:52+09:00",
+    "updated_at": "2021-03-23T03:28:36+09:00",
+    "id": "t_nakayama0714"
   },
   {
     "title": "週末在宅ワークの生産性を上げる5つの視点と32の工夫",
@@ -262,14 +270,6 @@
     "created_at": "2017-11-08T21:35:20+09:00",
     "updated_at": "2019-10-12T21:22:22+09:00",
     "id": "Akira-Isegawa"
-  },
-  {
-    "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
-    "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
-    "likes_count": 471,
-    "created_at": "2017-11-18T06:21:52+09:00",
-    "updated_at": "2021-03-23T03:28:36+09:00",
-    "id": "t_nakayama0714"
   },
   {
     "title": "文書ベクトルをお手軽に高い精度で作れるSCDVって実際どうなのか日本語コーパスで実験した(EMNLP2017)",
@@ -298,7 +298,7 @@
   {
     "title": "【Git】オレならこう説明する！Git初心者への用語説明",
     "url": "https://qiita.com/nnahito/items/e546b27f73e7be131d4e",
-    "likes_count": 421,
+    "likes_count": 420,
     "created_at": "2017-11-23T01:59:11+09:00",
     "updated_at": "2018-06-25T17:01:57+09:00",
     "id": "nnahito"
@@ -362,7 +362,7 @@
   {
     "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",
     "url": "https://qiita.com/teradonburi/items/c4cbd7dd5b4810e1a3a9",
-    "likes_count": 384,
+    "likes_count": 385,
     "created_at": "2017-11-23T17:42:03+09:00",
     "updated_at": "2019-02-20T15:26:01+09:00",
     "id": "teradonburi"
@@ -466,7 +466,7 @@
   {
     "title": "逆強化学習を理解する",
     "url": "https://qiita.com/shiro-kuma/items/aaab6184aea7d285b103",
-    "likes_count": 266,
+    "likes_count": 267,
     "created_at": "2017-11-06T01:20:12+09:00",
     "updated_at": "2017-11-06T10:33:46+09:00",
     "id": "shiro-kuma"

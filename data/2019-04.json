@@ -10,7 +10,7 @@
   {
     "title": "VSCodeでのGitの基本操作まとめ",
     "url": "https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be",
-    "likes_count": 2120,
+    "likes_count": 2121,
     "created_at": "2019-04-15T07:38:11+09:00",
     "updated_at": "2021-02-18T10:46:24+09:00",
     "id": "y-tsutsu"
@@ -18,7 +18,7 @@
   {
     "title": "Googleが大量の機械学習用データベースを無料公開してた",
     "url": "https://qiita.com/ulwlu/items/90dd8d79b12e10606299",
-    "likes_count": 1795,
+    "likes_count": 1796,
     "created_at": "2019-04-10T17:03:30+09:00",
     "updated_at": "2021-06-18T11:19:14+09:00",
     "id": "ulwlu"
@@ -26,7 +26,7 @@
   {
     "title": "再帰関数を学ぶと、どんな世界が広がるか",
     "url": "https://qiita.com/drken/items/23a4f604fa3f505dd5ad",
-    "likes_count": 1529,
+    "likes_count": 1530,
     "created_at": "2019-04-04T10:44:13+09:00",
     "updated_at": "2020-08-07T16:31:29+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "役割駆動設計で巨大クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/2a378a09638e234d8614",
-    "likes_count": 1484,
+    "likes_count": 1485,
     "created_at": "2019-04-07T11:37:32+09:00",
     "updated_at": "2020-12-07T11:52:46+09:00",
     "id": "MinoDriven"
@@ -74,7 +74,7 @@
   {
     "title": "Chainerが作った「ディープラーニング入門」が凄すぎる！",
     "url": "https://qiita.com/DogFortune/items/221c182bc872025a57e7",
-    "likes_count": 951,
+    "likes_count": 952,
     "created_at": "2019-04-15T09:21:13+09:00",
     "updated_at": "2019-05-20T12:36:21+09:00",
     "id": "DogFortune"
@@ -128,20 +128,20 @@
     "id": "opengl-8080"
   },
   {
+    "title": "AtCoderで始めるPython入門",
+    "url": "https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c",
+    "likes_count": 723,
+    "created_at": "2019-04-04T14:41:04+09:00",
+    "updated_at": "2021-04-04T15:45:55+09:00",
+    "id": "KoyanagiHitoshi"
+  },
+  {
     "title": "パワポエンジニアの憂鬱を軽減する誤字/表記揺れ検出ツールを作った物語",
     "url": "https://qiita.com/youwht/items/062c41c88829fcf25107",
     "likes_count": 722,
     "created_at": "2019-04-14T17:24:48+09:00",
     "updated_at": "2019-04-19T13:51:15+09:00",
     "id": "youwht"
-  },
-  {
-    "title": "AtCoderで始めるPython入門",
-    "url": "https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c",
-    "likes_count": 721,
-    "created_at": "2019-04-04T14:41:04+09:00",
-    "updated_at": "2021-04-04T15:45:55+09:00",
-    "id": "KoyanagiHitoshi"
   },
   {
     "title": "TensorFlow を使ってブラックホールとポンデリングを見分ける (追記あり)",
@@ -154,7 +154,7 @@
   {
     "title": "Flutter開発する前に知っておきたい35のWidget一覧",
     "url": "https://qiita.com/coka__01/items/dedb569f6357f1b503fd",
-    "likes_count": 639,
+    "likes_count": 640,
     "created_at": "2019-04-15T08:49:18+09:00",
     "updated_at": "2020-04-24T10:20:08+09:00",
     "id": "coka__01"
@@ -162,7 +162,7 @@
   {
     "title": "pͪoͣnͬpͣoͥnͭpͣa͡inͥを支える技術",
     "url": "https://qiita.com/ykhirao/items/9ca1fbd294883e06dbd6",
-    "likes_count": 639,
+    "likes_count": 640,
     "created_at": "2019-04-25T11:07:49+09:00",
     "updated_at": "2020-10-20T13:43:57+09:00",
     "id": "ykhirao"
@@ -170,7 +170,7 @@
   {
     "title": "Vue.js to TypeScriptの書き方一覧",
     "url": "https://qiita.com/ryo2132/items/4d43209ea89ad1297426",
-    "likes_count": 604,
+    "likes_count": 607,
     "created_at": "2019-04-13T22:02:28+09:00",
     "updated_at": "2019-09-09T10:32:08+09:00",
     "id": "ryo2132"
@@ -258,7 +258,7 @@
   {
     "title": "OAuth アクセストークンの実装に関する考察",
     "url": "https://qiita.com/TakahikoKawasaki/items/970548727761f9e02bcd",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2019-04-02T19:57:39+09:00",
     "updated_at": "2021-02-02T16:30:04+09:00",
     "id": "TakahikoKawasaki"
@@ -306,7 +306,7 @@
   {
     "title": "JavaScriptに参照渡し/値渡しなど存在しない",
     "url": "https://qiita.com/yuta0801/items/f8690a6e129c594de5fb",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2019-04-18T18:02:14+09:00",
     "updated_at": "2021-01-18T20:57:05+09:00",
     "id": "yuta0801"
@@ -354,7 +354,7 @@
   {
     "title": "VSCodeで始めるVim",
     "url": "https://qiita.com/jintz/items/d357478271179c90ffab",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2019-04-19T13:19:08+09:00",
     "updated_at": "2021-02-07T11:40:25+09:00",
     "id": "jintz"
