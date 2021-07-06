@@ -2,15 +2,15 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4333,
+    "likes_count": 4334,
     "created_at": "2020-01-11T09:04:24+09:00",
-    "updated_at": "2021-03-26T11:28:23+09:00",
+    "updated_at": "2021-07-06T21:14:18+09:00",
     "id": "Saku731"
   },
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4186,
+    "likes_count": 4187,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -58,7 +58,7 @@
   {
     "title": "【GitHub】README.mdをカッコ可愛くデザインしてアプリの魅力を120%にする",
     "url": "https://qiita.com/aocattleya/items/5f836e9c65ba3eb3af03",
-    "likes_count": 1371,
+    "likes_count": 1372,
     "created_at": "2020-01-09T18:55:08+09:00",
     "updated_at": "2021-05-30T01:44:00+09:00",
     "id": "aocattleya"
@@ -90,7 +90,7 @@
   {
     "title": "Chrome 80が密かに呼び寄せる地獄 ～ SameSite属性のデフォルト変更を調べてみた",
     "url": "https://qiita.com/ahera/items/0c8276da6b0bed2b580c",
-    "likes_count": 1082,
+    "likes_count": 1083,
     "created_at": "2020-02-01T08:40:29+09:00",
     "updated_at": "2020-07-17T12:55:07+09:00",
     "id": "ahera"
@@ -122,7 +122,7 @@
   {
     "title": "Bashの邪悪なコマンド9選",
     "url": "https://qiita.com/rana_kualu/items/be32f8302017b7aa2763",
-    "likes_count": 920,
+    "likes_count": 919,
     "created_at": "2020-01-07T21:04:40+09:00",
     "updated_at": "2020-01-08T19:36:19+09:00",
     "id": "rana_kualu"
@@ -130,7 +130,7 @@
   {
     "title": "テストしやすい「純粋」な関数とは？",
     "url": "https://qiita.com/Yametaro/items/3ec5a7d89afa1a0e9f15",
-    "likes_count": 876,
+    "likes_count": 877,
     "created_at": "2020-01-19T00:30:03+09:00",
     "updated_at": "2020-01-20T09:45:26+09:00",
     "id": "Yametaro"
@@ -178,7 +178,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 748,
+    "likes_count": 749,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -226,7 +226,7 @@
   {
     "title": "JavaScriptでvarが非推奨な理由を整理してみた",
     "url": "https://qiita.com/taiju_suzuki/items/49ed558bd837452353b8",
-    "likes_count": 668,
+    "likes_count": 669,
     "created_at": "2020-01-08T17:56:11+09:00",
     "updated_at": "2020-05-02T22:05:18+09:00",
     "id": "taiju_suzuki"
@@ -272,20 +272,20 @@
     "id": "blog_UKI"
   },
   {
+    "title": "パラメータ数10億！最新の巨大画像認識モデル「BiT」爆誕 & 解説",
+    "url": "https://qiita.com/omiita/items/90abe0799cf3efe8d93d",
+    "likes_count": 568,
+    "created_at": "2020-01-15T07:51:21+09:00",
+    "updated_at": "2020-08-12T20:06:07+09:00",
+    "id": "omiita"
+  },
+  {
     "title": "【SRE Next 2020】発表資料まとめ",
     "url": "https://qiita.com/Hassan/items/6f7fb1c206f77716ee2a",
     "likes_count": 568,
     "created_at": "2020-01-25T15:32:29+09:00",
     "updated_at": "2020-01-29T17:48:52+09:00",
     "id": "Hassan"
-  },
-  {
-    "title": "パラメータ数10億！最新の巨大画像認識モデル「BiT」爆誕 & 解説",
-    "url": "https://qiita.com/omiita/items/90abe0799cf3efe8d93d",
-    "likes_count": 567,
-    "created_at": "2020-01-15T07:51:21+09:00",
-    "updated_at": "2020-08-12T20:06:07+09:00",
-    "id": "omiita"
   },
   {
     "title": "20 年代のフロントエンド",
@@ -314,7 +314,7 @@
   {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2021-03-26T11:27:03+09:00",
     "id": "Saku731"
@@ -442,7 +442,7 @@
   {
     "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
     "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
-    "likes_count": 388,
+    "likes_count": 390,
     "created_at": "2020-01-03T17:27:55+09:00",
     "updated_at": "2020-11-10T02:36:37+09:00",
     "id": "bee2"
@@ -450,7 +450,7 @@
   {
     "title": "ginを最速でマスターしよう",
     "url": "https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a",
-    "likes_count": 381,
+    "likes_count": 382,
     "created_at": "2020-01-01T09:46:12+09:00",
     "updated_at": "2021-06-12T13:03:54+09:00",
     "id": "Syoitu"
@@ -490,7 +490,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"
@@ -514,7 +514,7 @@
   {
     "title": "【2020年1月】令和だし本格的にVSCodeのRemote Containerで、爆速の\"開発コンテナ\"始めよう",
     "url": "https://qiita.com/koinori/items/084a0770c1f9e72e0c14",
-    "likes_count": 275,
+    "likes_count": 276,
     "created_at": "2020-01-03T15:58:37+09:00",
     "updated_at": "2020-01-06T19:15:39+09:00",
     "id": "koinori"

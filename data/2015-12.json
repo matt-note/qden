@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 3985,
+    "likes_count": 3987,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2611,
+    "likes_count": 2614,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2529,
+    "likes_count": 2530,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -34,7 +34,7 @@
   {
     "title": "わかるLSTM ～ 最近の動向と共に",
     "url": "https://qiita.com/t_Signull/items/21b82be280b46f467d1b",
-    "likes_count": 2209,
+    "likes_count": 2211,
     "created_at": "2015-12-14T23:24:11+09:00",
     "updated_at": "2016-06-17T23:59:26+09:00",
     "id": "t_Signull"
@@ -58,7 +58,7 @@
   {
     "title": "まだMVC,MVP,MVVMで消耗してるの？ iOS Clean Architectureについて",
     "url": "https://qiita.com/koutalou/items/07a4f9cf51a2d13e4cdc",
-    "likes_count": 1614,
+    "likes_count": 1615,
     "created_at": "2015-12-22T19:14:23+09:00",
     "updated_at": "2016-12-05T15:11:33+09:00",
     "id": "koutalou"
@@ -106,7 +106,7 @@
   {
     "title": "【たのしいな】様々なコマンド達を何も考えずにつないで遊ぶ",
     "url": "https://qiita.com/greymd/items/a4ecf8e70f11eb1e5f72",
-    "likes_count": 1293,
+    "likes_count": 1292,
     "created_at": "2015-12-22T00:03:06+09:00",
     "updated_at": "2016-01-25T20:07:21+09:00",
     "id": "greymd"
@@ -226,7 +226,7 @@
   {
     "title": "自分のvimでやってきたことのまとめ",
     "url": "https://qiita.com/ykyk1218/items/ab1c89c4eb6a2f90333a",
-    "likes_count": 786,
+    "likes_count": 787,
     "created_at": "2015-12-11T00:00:43+09:00",
     "updated_at": "2018-08-19T14:32:08+09:00",
     "id": "ykyk1218"
@@ -386,7 +386,7 @@
   {
     "title": "PHPのリリース日とサポート期限",
     "url": "https://qiita.com/bezeklik/items/72d1ff8393f66673e2bc",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2015-12-14T11:55:09+09:00",
     "updated_at": "2021-05-13T18:39:41+09:00",
     "id": "bezeklik"
@@ -490,7 +490,7 @@
   {
     "title": "slack の /remind 機能まとめ",
     "url": "https://qiita.com/takesato/items/335061d7945ebd5c23f7",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2015-12-28T19:30:21+09:00",
     "updated_at": "2015-12-28T19:37:10+09:00",
     "id": "takesato"
@@ -512,20 +512,20 @@
     "id": "_EnumHack"
   },
   {
+    "title": "OFFSETを使わない高速なページネーションの実現",
+    "url": "https://qiita.com/mpyw/items/07c03600c2e38e91415e",
+    "likes_count": 384,
+    "created_at": "2015-12-23T05:20:35+09:00",
+    "updated_at": "2018-03-12T15:43:22+09:00",
+    "id": "mpyw"
+  },
+  {
     "title": "iOS開発で便利なライブラリまとめ【UI/UX編】",
     "url": "https://qiita.com/ryotakodaira/items/94850c73d143259d5bab",
     "likes_count": 383,
     "created_at": "2015-12-17T17:33:07+09:00",
     "updated_at": "2015-12-17T17:33:07+09:00",
     "id": "ryotakodaira"
-  },
-  {
-    "title": "OFFSETを使わない高速なページネーションの実現",
-    "url": "https://qiita.com/mpyw/items/07c03600c2e38e91415e",
-    "likes_count": 383,
-    "created_at": "2015-12-23T05:20:35+09:00",
-    "updated_at": "2018-03-12T15:43:22+09:00",
-    "id": "mpyw"
   },
   {
     "title": "Togetter的な社内Slackまとめサイトをつくった話",
@@ -586,10 +586,18 @@
   {
     "title": "CTOという職業の人を採用するときに気をつけるべきこと",
     "url": "https://qiita.com/devopsCoordinator/items/eab253a5fd75b56fdf64",
-    "likes_count": 353,
+    "likes_count": 354,
     "created_at": "2015-12-16T11:34:45+09:00",
     "updated_at": "2016-10-28T10:10:00+09:00",
     "id": "devopsCoordinator"
+  },
+  {
+    "title": "異常検知と変化検知のまとめ　数式なし",
+    "url": "https://qiita.com/GushiSnow/items/f032806cfa8cec046318",
+    "likes_count": 348,
+    "created_at": "2015-12-17T00:00:49+09:00",
+    "updated_at": "2015-12-17T00:00:49+09:00",
+    "id": "GushiSnow"
   },
   {
     "title": "Terraform と CI で実現するインフラのコード化と構築の自動化",
@@ -598,14 +606,6 @@
     "created_at": "2015-12-19T16:02:05+09:00",
     "updated_at": "2015-12-19T16:02:05+09:00",
     "id": "dtan4"
-  },
-  {
-    "title": "異常検知と変化検知のまとめ　数式なし",
-    "url": "https://qiita.com/GushiSnow/items/f032806cfa8cec046318",
-    "likes_count": 347,
-    "created_at": "2015-12-17T00:00:49+09:00",
-    "updated_at": "2015-12-17T00:00:49+09:00",
-    "id": "GushiSnow"
   },
   {
     "title": "C99からC++14を駆け抜けるC++講座",
