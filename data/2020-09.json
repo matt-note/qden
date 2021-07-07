@@ -2,7 +2,7 @@
   {
     "title": "1分でも早く仕事を終わらせるためにVSCodeにできること",
     "url": "https://qiita.com/EaE/items/4ca1b35396eba682a86f",
-    "likes_count": 1987,
+    "likes_count": 1988,
     "created_at": "2020-09-29T08:58:02+09:00",
     "updated_at": "2020-10-01T01:14:27+09:00",
     "id": "EaE"
@@ -10,7 +10,7 @@
   {
     "title": "フルスタックエンジニアになるためのモダンな8つのプロジェクト",
     "url": "https://qiita.com/kanye__east/items/77a9746e9b98abbb97e6",
-    "likes_count": 1620,
+    "likes_count": 1621,
     "created_at": "2020-09-17T12:05:47+09:00",
     "updated_at": "2021-03-08T15:56:56+09:00",
     "id": "kanye__east"
@@ -34,7 +34,7 @@
   {
     "title": "あなたがまだ使っていないかもしれないHTML5の便利機能10選",
     "url": "https://qiita.com/kanye__east/items/9b419aac982c5323c429",
-    "likes_count": 1386,
+    "likes_count": 1387,
     "created_at": "2020-09-22T12:06:28+09:00",
     "updated_at": "2020-10-01T05:57:59+09:00",
     "id": "kanye__east"
@@ -58,7 +58,7 @@
   {
     "title": "【Python】Pythonicなコードの書き方🐍",
     "url": "https://qiita.com/_masa_u/items/b21c493a82e8aba8993f",
-    "likes_count": 1272,
+    "likes_count": 1273,
     "created_at": "2020-09-06T19:15:02+09:00",
     "updated_at": "2021-03-25T18:01:18+09:00",
     "id": "_masa_u"
@@ -66,7 +66,7 @@
   {
     "title": "【C#】インターフェイスの利点が理解できない人は「インターフェイスには３つのタイプがある」ことを理解しよう",
     "url": "https://qiita.com/yutorisan/items/d28386f168f2f3ab166d",
-    "likes_count": 1163,
+    "likes_count": 1164,
     "created_at": "2020-09-09T02:03:42+09:00",
     "updated_at": "2020-09-15T22:52:46+09:00",
     "id": "yutorisan"
@@ -74,7 +74,7 @@
   {
     "title": "なぜ我々は頑なにforを避けるのか",
     "url": "https://qiita.com/tetsuya-zama/items/11e19b9da4892eb365c4",
-    "likes_count": 1109,
+    "likes_count": 1110,
     "created_at": "2020-09-22T19:03:03+09:00",
     "updated_at": "2020-09-24T19:43:02+09:00",
     "id": "tetsuya-zama"
@@ -176,6 +176,14 @@
     "id": "jun40vn"
   },
   {
+    "title": "TypeScriptの\"型\"を学びたいあなたへ。type-challengesのすゝめ",
+    "url": "https://qiita.com/ryo2132/items/925b96838dd8cca7cebd",
+    "likes_count": 458,
+    "created_at": "2020-09-05T21:23:59+09:00",
+    "updated_at": "2020-09-06T20:26:22+09:00",
+    "id": "ryo2132"
+  },
+  {
     "title": "オブジェクト指向歴25年のオブジェクト指向おじさんが語るオブジェクト指向設計の処方箋",
     "url": "https://qiita.com/hayashida-katsutoshi/items/ef2e59219ba0942d3225",
     "likes_count": 458,
@@ -190,14 +198,6 @@
     "created_at": "2020-09-29T14:00:42+09:00",
     "updated_at": "2020-10-07T15:27:48+09:00",
     "id": "mark_1975M"
-  },
-  {
-    "title": "TypeScriptの\"型\"を学びたいあなたへ。type-challengesのすゝめ",
-    "url": "https://qiita.com/ryo2132/items/925b96838dd8cca7cebd",
-    "likes_count": 457,
-    "created_at": "2020-09-05T21:23:59+09:00",
-    "updated_at": "2020-09-06T20:26:22+09:00",
-    "id": "ryo2132"
   },
   {
     "title": "Promiseをthrowするのはなぜ天才的デザインなのか",
@@ -234,7 +234,7 @@
   {
     "title": "Goプロジェクトのはじめかたとおすすめライブラリ8.5選。ひな形にも使えるサンプルもあるよ。",
     "url": "https://qiita.com/yagi_eng/items/65cd812107362d36ae86",
-    "likes_count": 331,
+    "likes_count": 332,
     "created_at": "2020-09-07T07:50:12+09:00",
     "updated_at": "2021-06-29T16:51:44+09:00",
     "id": "yagi_eng"
@@ -242,7 +242,7 @@
   {
     "title": "AWS公式『現代的なウェブアプリケーションの構築』ハンズオンのハマリどころ",
     "url": "https://qiita.com/tomoya_oka/items/2ed2a59d803dd3170fef",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2020-09-05T15:28:24+09:00",
     "updated_at": "2020-09-07T07:41:50+09:00",
     "id": "tomoya_oka"
@@ -298,7 +298,7 @@
   {
     "title": "【Power Automateの新しいRPA機能】Power Automate Desktopで出来ること（全33機能の紹介）",
     "url": "https://qiita.com/maekawawawa/items/e171240843e56d98be56",
-    "likes_count": 258,
+    "likes_count": 259,
     "created_at": "2020-09-27T00:22:07+09:00",
     "updated_at": "2021-03-30T17:52:44+09:00",
     "id": "maekawawawa"
@@ -330,7 +330,7 @@
   {
     "title": "モダンWebフロント個人的学習ロードマップ #1 - React & JavaScript",
     "url": "https://qiita.com/ROPITAL/items/10aa231be72ed16010e6",
-    "likes_count": 212,
+    "likes_count": 213,
     "created_at": "2020-09-05T11:02:36+09:00",
     "updated_at": "2021-05-24T21:08:16+09:00",
     "id": "ROPITAL"

@@ -18,7 +18,7 @@
   {
     "title": "新入社員が来てメンターになれって言われたけど、どうすればいいのかという対話テクニック",
     "url": "https://qiita.com/hirokidaichi/items/2e8e731acfd7b6c7e02f",
-    "likes_count": 2142,
+    "likes_count": 2143,
     "created_at": "2016-05-08T12:01:24+09:00",
     "updated_at": "2018-12-25T23:58:10+09:00",
     "id": "hirokidaichi"
@@ -34,7 +34,7 @@
   {
     "title": "他言語から来た人がGoを使い始めてすぐハマったこととその答え",
     "url": "https://qiita.com/mumoshu/items/0d2f2a13c6e9fc8da2a4",
-    "likes_count": 1367,
+    "likes_count": 1369,
     "created_at": "2016-05-03T12:13:46+09:00",
     "updated_at": "2020-08-25T16:52:16+09:00",
     "id": "mumoshu"
@@ -104,20 +104,20 @@
     "id": "hose"
   },
   {
+    "title": "LaravelのORMで初心者から職人へ",
+    "url": "https://qiita.com/henriquebremenkanp/items/cd13944b0281297217a9",
+    "likes_count": 817,
+    "created_at": "2016-05-29T19:05:09+09:00",
+    "updated_at": "2020-09-14T15:51:02+09:00",
+    "id": "henriquebremenkanp"
+  },
+  {
     "title": "機械学習のためのOpenCV入門",
     "url": "https://qiita.com/icoxfog417/items/53e61496ad980c41a08e",
     "likes_count": 816,
     "created_at": "2016-05-13T17:16:18+09:00",
     "updated_at": "2016-05-23T12:39:22+09:00",
     "id": "icoxfog417"
-  },
-  {
-    "title": "LaravelのORMで初心者から職人へ",
-    "url": "https://qiita.com/henriquebremenkanp/items/cd13944b0281297217a9",
-    "likes_count": 815,
-    "created_at": "2016-05-29T19:05:09+09:00",
-    "updated_at": "2020-09-14T15:51:02+09:00",
-    "id": "henriquebremenkanp"
   },
   {
     "title": "2010年以前で止まっていたJavaScript脳を2016年までバージョンアップした話",
@@ -162,7 +162,7 @@
   {
     "title": "Spring MVC(+Spring Boot)上でのリクエスト共通処理の実装方法を理解する",
     "url": "https://qiita.com/kazuki43zoo/items/757b557c05f548c6c5db",
-    "likes_count": 669,
+    "likes_count": 671,
     "created_at": "2016-05-14T05:47:45+09:00",
     "updated_at": "2021-05-05T10:51:32+09:00",
     "id": "kazuki43zoo"
@@ -274,7 +274,7 @@
   {
     "title": "PHPで日付時刻処理を書くならCarbonを使うべき",
     "url": "https://qiita.com/yudsuzuk/items/ff894bd0b76d4657741d",
-    "likes_count": 497,
+    "likes_count": 498,
     "created_at": "2016-05-01T14:56:52+09:00",
     "updated_at": "2016-05-01T15:06:18+09:00",
     "id": "yudsuzuk"
@@ -298,7 +298,7 @@
   {
     "title": "DataTablesの使い方",
     "url": "https://qiita.com/nissuk/items/7ac59af5de427c0585c5",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2016-05-08T00:36:17+09:00",
     "updated_at": "2017-04-18T23:11:43+09:00",
     "id": "nissuk"
@@ -336,6 +336,14 @@
     "id": "yuya_presto"
   },
   {
+    "title": "Railsのルーティングの種類と要点まとめ",
+    "url": "https://qiita.com/senou/items/f1491e53450cb347606b",
+    "likes_count": 394,
+    "created_at": "2016-05-20T18:46:01+09:00",
+    "updated_at": "2020-07-27T11:20:56+09:00",
+    "id": "senou"
+  },
+  {
     "title": "Homebrewを取り囲むセットアップシェル界隈の情勢（2016年5月版）",
     "url": "https://qiita.com/shibukk/items/d2d3686ac576bcf497b2",
     "likes_count": 394,
@@ -344,17 +352,9 @@
     "id": "shibukk"
   },
   {
-    "title": "Railsのルーティングの種類と要点まとめ",
-    "url": "https://qiita.com/senou/items/f1491e53450cb347606b",
-    "likes_count": 393,
-    "created_at": "2016-05-20T18:46:01+09:00",
-    "updated_at": "2020-07-27T11:20:56+09:00",
-    "id": "senou"
-  },
-  {
     "title": "C++erを簡易的にレベル分けすることで初心者詐欺を減らそうという試み",
     "url": "https://qiita.com/yumetodo/items/a843bd542106215bbc84",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2016-05-12T01:34:08+09:00",
     "updated_at": "2021-04-02T23:44:13+09:00",
     "id": "yumetodo"
@@ -466,7 +466,7 @@
   {
     "title": "FirebaseでWebサイトを無料でサクッと公開してみる",
     "url": "https://qiita.com/Ijoru/items/5b27f1c32df2222514fb",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2016-05-19T12:29:55+09:00",
     "updated_at": "2020-01-09T14:54:02+09:00",
     "id": "Ijoru"
