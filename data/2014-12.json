@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1764,
+    "likes_count": 1765,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2021-02-11T09:21:27+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1298,
+    "likes_count": 1299,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -106,7 +106,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1209,
+    "likes_count": 1211,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -122,7 +122,7 @@
   {
     "title": "JavaScriptでforEach, filter, map, reduceとか",
     "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
-    "likes_count": 863,
+    "likes_count": 864,
     "created_at": "2014-12-21T00:42:04+09:00",
     "updated_at": "2018-09-23T17:07:32+09:00",
     "id": "itagakishintaro"
@@ -202,7 +202,7 @@
   {
     "title": "初心者向けGithubへのPullRequest方法",
     "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 699,
+    "likes_count": 702,
     "created_at": "2014-12-17T23:28:14+09:00",
     "updated_at": "2014-12-19T09:14:55+09:00",
     "id": "samurai_runner"
@@ -274,7 +274,7 @@
   {
     "title": "Spring MVCのコントローラでの戻り値いろいろ",
     "url": "https://qiita.com/tag1216/items/3680b92cf96eb5a170f0",
-    "likes_count": 609,
+    "likes_count": 610,
     "created_at": "2014-12-17T22:18:43+09:00",
     "updated_at": "2014-12-17T22:21:08+09:00",
     "id": "tag1216"
@@ -434,7 +434,7 @@
   {
     "title": "今こそ復習したい、iOSアプリのディレクトリ構成",
     "url": "https://qiita.com/tototti/items/8646405f47cc56a59722",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2014-12-24T23:54:27+09:00",
     "updated_at": "2016-05-11T23:42:11+09:00",
     "id": "tototti"
@@ -496,20 +496,20 @@
     "id": "gucchon"
   },
   {
+    "title": "Makefileの関数",
+    "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
+    "likes_count": 410,
+    "created_at": "2014-12-24T21:58:53+09:00",
+    "updated_at": "2017-05-15T10:21:03+09:00",
+    "id": "chibi929"
+  },
+  {
     "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
     "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
     "likes_count": 410,
     "created_at": "2014-12-26T17:08:08+09:00",
     "updated_at": "2014-12-26T17:08:08+09:00",
     "id": "mimoe"
-  },
-  {
-    "title": "Makefileの関数",
-    "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
-    "likes_count": 409,
-    "created_at": "2014-12-24T21:58:53+09:00",
-    "updated_at": "2017-05-15T10:21:03+09:00",
-    "id": "chibi929"
   },
   {
     "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
@@ -520,20 +520,20 @@
     "id": "izumin5210"
   },
   {
+    "title": "Linuxbrew のススメ",
+    "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
+    "likes_count": 394,
+    "created_at": "2014-12-19T08:53:15+09:00",
+    "updated_at": "2020-12-21T20:49:31+09:00",
+    "id": "thermes"
+  },
+  {
     "title": "ErlangとGolangを比較してみる",
     "url": "https://qiita.com/soranoba/items/68d57b4635a2917f3c73",
     "likes_count": 393,
     "created_at": "2014-12-05T00:42:12+09:00",
     "updated_at": "2016-05-28T14:56:59+09:00",
     "id": "soranoba"
-  },
-  {
-    "title": "Linuxbrew のススメ",
-    "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
-    "likes_count": 393,
-    "created_at": "2014-12-19T08:53:15+09:00",
-    "updated_at": "2020-12-21T20:49:31+09:00",
-    "id": "thermes"
   },
   {
     "title": "5分で作るPROXYサーバー",
@@ -634,7 +634,7 @@
   {
     "title": "Sprockets再考 モダンなJSのエコシステムとRailsのより良い関係を探す",
     "url": "https://qiita.com/joker1007/items/9068e223744b3ac8c6dd",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2014-12-05T16:38:05+09:00",
     "updated_at": "2014-12-06T18:42:26+09:00",
     "id": "joker1007"

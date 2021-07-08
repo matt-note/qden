@@ -10,7 +10,7 @@
   {
     "title": "【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る",
     "url": "https://qiita.com/tomo_makes/items/aafae4021986553ae1d8",
-    "likes_count": 2044,
+    "likes_count": 2045,
     "created_at": "2020-06-28T19:25:44+09:00",
     "updated_at": "2020-07-12T16:23:06+09:00",
     "id": "tomo_makes"
@@ -26,7 +26,7 @@
   {
     "title": "Dockerイメージの理解を目指すチュートリアル",
     "url": "https://qiita.com/zembutsu/items/24558f9d0d254e33088f",
-    "likes_count": 1524,
+    "likes_count": 1525,
     "created_at": "2020-06-13T17:30:02+09:00",
     "updated_at": "2020-06-24T16:25:34+09:00",
     "id": "zembutsu"
@@ -42,7 +42,7 @@
   {
     "title": "「ビジネスロジック」とは何か、どう実装するのか",
     "url": "https://qiita.com/os1ma/items/25725edfe3c2af93d735",
-    "likes_count": 1378,
+    "likes_count": 1379,
     "created_at": "2020-06-27T18:48:53+09:00",
     "updated_at": "2021-05-23T10:52:57+09:00",
     "id": "os1ma"
@@ -58,7 +58,7 @@
   {
     "title": "現代の僕「コンピュータが生まれた歴史知りたい」",
     "url": "https://qiita.com/zawawahoge/items/176801fc3511b259b4ac",
-    "likes_count": 1241,
+    "likes_count": 1239,
     "created_at": "2020-06-03T21:32:15+09:00",
     "updated_at": "2020-06-12T12:41:58+09:00",
     "id": "zawawahoge"
@@ -90,7 +90,7 @@
   {
     "title": "Reactのレンダリングに関する完全ガイド",
     "url": "https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5",
-    "likes_count": 899,
+    "likes_count": 903,
     "created_at": "2020-06-22T21:54:17+09:00",
     "updated_at": "2020-06-24T18:30:05+09:00",
     "id": "hellokenta"
@@ -146,7 +146,7 @@
   {
     "title": "開発チームの生産性・健全性を客観的に知るためにリポジトリ履歴から機械的に可視化するツールを作った",
     "url": "https://qiita.com/hirokidaichi/items/ceece347f808cc9d14dd",
-    "likes_count": 585,
+    "likes_count": 586,
     "created_at": "2020-06-03T14:27:09+09:00",
     "updated_at": "2020-06-03T17:38:51+09:00",
     "id": "hirokidaichi"
@@ -170,7 +170,7 @@
   {
     "title": "サーバーレスの理解とメリット・デメリット（2020年版）",
     "url": "https://qiita.com/takanorig/items/3a3a0b43b5be5b4a124f",
-    "likes_count": 570,
+    "likes_count": 571,
     "created_at": "2020-06-01T09:23:26+09:00",
     "updated_at": "2020-06-01T13:29:39+09:00",
     "id": "takanorig"
@@ -178,7 +178,7 @@
   {
     "title": "待ってました CUDA on WSL 2",
     "url": "https://qiita.com/ksasaki/items/ee864abd74f95fea1efa",
-    "likes_count": 567,
+    "likes_count": 570,
     "created_at": "2020-06-19T00:04:23+09:00",
     "updated_at": "2021-06-30T14:53:20+09:00",
     "id": "ksasaki"
@@ -194,7 +194,7 @@
   {
     "title": "エンジニアの「雑談」の効能を考える",
     "url": "https://qiita.com/viva_tweet_x/items/dd9d3353d1b961fd1c71",
-    "likes_count": 514,
+    "likes_count": 516,
     "created_at": "2020-06-16T22:56:05+09:00",
     "updated_at": "2020-06-18T14:56:46+09:00",
     "id": "viva_tweet_x"
@@ -216,20 +216,20 @@
     "id": "Yuta_Fujiwara"
   },
   {
+    "title": "なぜ僕らはGitでバージョン管理をするのか",
+    "url": "https://qiita.com/gakisan8273/items/d2d52a12ad553a82b94b",
+    "likes_count": 477,
+    "created_at": "2020-06-16T08:47:32+09:00",
+    "updated_at": "2020-06-29T08:18:31+09:00",
+    "id": "gakisan8273"
+  },
+  {
     "title": "猿には分からないけど、非エンジニアでも分かると思う、ドメイン駆動設計の「ド」の字くらいだけ説明する",
     "url": "https://qiita.com/ryoya1122/items/502c07410197746e79e4",
     "likes_count": 477,
     "created_at": "2020-06-24T04:25:44+09:00",
     "updated_at": "2020-06-24T05:56:11+09:00",
     "id": "ryoya1122"
-  },
-  {
-    "title": "なぜ僕らはGitでバージョン管理をするのか",
-    "url": "https://qiita.com/gakisan8273/items/d2d52a12ad553a82b94b",
-    "likes_count": 476,
-    "created_at": "2020-06-16T08:47:32+09:00",
-    "updated_at": "2020-06-29T08:18:31+09:00",
-    "id": "gakisan8273"
   },
   {
     "title": "【Vue.js】Composition API時代の便利ライブラリ「VueUse」を使ってみた",
@@ -298,7 +298,7 @@
   {
     "title": "家の中のセンサデータをRaspberryPiで取得しまくり、スーパーIoTハウスを実現",
     "url": "https://qiita.com/c60evaporator/items/283d0569eba58830f86e",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2020-06-05T22:27:35+09:00",
     "updated_at": "2021-06-01T18:36:45+09:00",
     "id": "c60evaporator"
@@ -354,7 +354,7 @@
   {
     "title": "達人に学ぶDB設計 | 正規化と非正規化、インデックスについて",
     "url": "https://qiita.com/k_kind/items/d2651cd2035ec3589df1",
-    "likes_count": 291,
+    "likes_count": 292,
     "created_at": "2020-06-23T08:33:53+09:00",
     "updated_at": "2020-06-27T21:08:04+09:00",
     "id": "k_kind"
@@ -394,7 +394,7 @@
   {
     "title": "機械学習について一回挫折してしまったエンジニアが何とかお仕事で機械学習を使えるようになるまで",
     "url": "https://qiita.com/nord2sudjp/items/c5590b108f5e72dd52cf",
-    "likes_count": 269,
+    "likes_count": 268,
     "created_at": "2020-06-25T12:34:48+09:00",
     "updated_at": "2020-06-29T21:06:10+09:00",
     "id": "nord2sudjp"

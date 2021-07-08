@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3347,
+    "likes_count": 3348,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2589,
+    "likes_count": 2590,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -42,7 +42,7 @@
   {
     "title": "いまさら聞けないLinuxとメモリの基礎＆vmstatの詳しい使い方",
     "url": "https://qiita.com/kunihirotanaka/items/70d43d48757aea79de2d",
-    "likes_count": 1524,
+    "likes_count": 1525,
     "created_at": "2016-12-25T13:48:22+09:00",
     "updated_at": "2016-12-26T11:43:00+09:00",
     "id": "kunihirotanaka"
@@ -50,7 +50,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1462,
+    "likes_count": 1463,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-07-01T01:46:01+09:00",
     "id": "soarflat"
@@ -162,7 +162,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 849,
+    "likes_count": 850,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -250,7 +250,7 @@
   {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
@@ -266,7 +266,7 @@
   {
     "title": "SELinux を使おう．使ってくれ．",
     "url": "https://qiita.com/chi9rin/items/af532d0dd9237cc65741",
-    "likes_count": 638,
+    "likes_count": 639,
     "created_at": "2016-12-22T00:00:59+09:00",
     "updated_at": "2017-01-08T12:51:46+09:00",
     "id": "chi9rin"
@@ -314,7 +314,7 @@
   {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
     "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
@@ -352,20 +352,20 @@
     "id": "t_imagawa"
   },
   {
+    "title": "Firebaseの各機能を3行で説明する",
+    "url": "https://qiita.com/shibukk/items/4a015c5b3296563ac19d",
+    "likes_count": 532,
+    "created_at": "2016-12-08T12:57:20+09:00",
+    "updated_at": "2018-09-26T19:18:39+09:00",
+    "id": "shibukk"
+  },
+  {
     "title": "React、Angularになじめなかった僕に手を差し伸べてくれたVue.js",
     "url": "https://qiita.com/samuraikun/items/bb2939296bbead341293",
     "likes_count": 532,
     "created_at": "2016-12-31T00:09:06+09:00",
     "updated_at": "2017-01-09T17:03:57+09:00",
     "id": "samuraikun"
-  },
-  {
-    "title": "Firebaseの各機能を3行で説明する",
-    "url": "https://qiita.com/shibukk/items/4a015c5b3296563ac19d",
-    "likes_count": 531,
-    "created_at": "2016-12-08T12:57:20+09:00",
-    "updated_at": "2018-09-26T19:18:39+09:00",
-    "id": "shibukk"
   },
   {
     "title": "Dockerコンテナを本番環境で使うためのセキュリティ設定",
@@ -522,7 +522,7 @@
   {
     "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
     "url": "https://qiita.com/chanNaru/items/326bd50a78cf34371169",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2016-12-23T18:57:30+09:00",
     "updated_at": "2020-02-06T13:59:09+09:00",
     "id": "chanNaru"
@@ -554,7 +554,7 @@
   {
     "title": "iOSアプリ設計大全集 2016",
     "url": "https://qiita.com/tattn/items/d4b95af0b60c3849243a",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2016-12-03T09:37:17+09:00",
     "updated_at": "2016-12-03T09:39:39+09:00",
     "id": "tattn"
@@ -778,7 +778,7 @@
   {
     "title": "DB未経験の新米エンジニアが読んだ書籍を時系列順に紹介",
     "url": "https://qiita.com/maaaaaaaa/items/4e1d84cb40c83004575f",
-    "likes_count": 251,
+    "likes_count": 252,
     "created_at": "2016-12-09T18:01:44+09:00",
     "updated_at": "2019-10-17T17:54:30+09:00",
     "id": "maaaaaaaa"

@@ -2,7 +2,7 @@
   {
     "title": "TypeScriptの型入門",
     "url": "https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a",
-    "likes_count": 3659,
+    "likes_count": 3661,
     "created_at": "2018-02-16T23:41:39+09:00",
     "updated_at": "2020-09-12T12:00:54+09:00",
     "id": "uhyo"
@@ -18,7 +18,7 @@
   {
     "title": "AtCoder 版！蟻本 (初級編)",
     "url": "https://qiita.com/drken/items/e77685614f3c6bf86f44",
-    "likes_count": 2345,
+    "likes_count": 2347,
     "created_at": "2018-02-20T10:13:31+09:00",
     "updated_at": "2021-03-28T21:46:26+09:00",
     "id": "drken"
@@ -42,7 +42,7 @@
   {
     "title": "Python Webスクレイピング テクニック集「取得できない値は無い」JavaScript対応@追記あり6/12",
     "url": "https://qiita.com/Azunyan1111/items/b161b998790b1db2ff7a",
-    "likes_count": 1936,
+    "likes_count": 1938,
     "created_at": "2018-02-22T04:19:43+09:00",
     "updated_at": "2020-03-21T17:04:17+09:00",
     "id": "Azunyan1111"
@@ -66,7 +66,7 @@
   {
     "title": "【秒速で無料GPUを使う】深層学習実践Tips on Colaboratory",
     "url": "https://qiita.com/tomo_makes/items/b3c60b10f7b25a0a5935",
-    "likes_count": 1568,
+    "likes_count": 1569,
     "created_at": "2018-02-05T23:21:12+09:00",
     "updated_at": "2019-11-16T11:51:28+09:00",
     "id": "tomo_makes"
@@ -106,7 +106,7 @@
   {
     "title": "Prettier 入門 ～ESLintとの違いを理解して併用する～",
     "url": "https://qiita.com/soarflat/items/06377f3b96964964a65d",
-    "likes_count": 1290,
+    "likes_count": 1291,
     "created_at": "2018-02-22T01:46:10+09:00",
     "updated_at": "2021-07-01T01:44:03+09:00",
     "id": "soarflat"
@@ -114,7 +114,7 @@
   {
     "title": "今さらProtocol Buffersと、手に馴染む道具の話",
     "url": "https://qiita.com/yugui/items/160737021d25d761b353",
-    "likes_count": 1220,
+    "likes_count": 1221,
     "created_at": "2018-02-07T20:42:12+09:00",
     "updated_at": "2020-07-05T11:46:28+09:00",
     "id": "yugui"
@@ -130,7 +130,7 @@
   {
     "title": "Slack Botの種類と大まかな作り方",
     "url": "https://qiita.com/namutaka/items/233a83100c94af033575",
-    "likes_count": 1034,
+    "likes_count": 1035,
     "created_at": "2018-02-17T22:05:23+09:00",
     "updated_at": "2019-11-05T10:59:41+09:00",
     "id": "namutaka"
@@ -138,7 +138,7 @@
   {
     "title": "統計検定 1 級に合格する方法",
     "url": "https://qiita.com/drken/items/089b8443305df047b44e",
-    "likes_count": 978,
+    "likes_count": 979,
     "created_at": "2018-02-19T18:01:36+09:00",
     "updated_at": "2021-01-24T23:34:01+09:00",
     "id": "drken"
@@ -162,7 +162,7 @@
   {
     "title": "Firebase Cloud Firestoreの使い方",
     "url": "https://qiita.com/subaru44k/items/a88e638333b8d5cc29f2",
-    "likes_count": 818,
+    "likes_count": 819,
     "created_at": "2018-02-24T18:44:49+09:00",
     "updated_at": "2020-12-06T22:33:53+09:00",
     "id": "subaru44k"
@@ -336,20 +336,20 @@
     "id": "katsu1110"
   },
   {
+    "title": "並行処理、並列処理のあれこれ",
+    "url": "https://qiita.com/Kohei909Otsuka/items/26be74de803d195b37bd",
+    "likes_count": 343,
+    "created_at": "2018-02-14T22:43:14+09:00",
+    "updated_at": "2018-02-16T08:28:09+09:00",
+    "id": "Kohei909Otsuka"
+  },
+  {
     "title": "Ruby on Rails+ReactでCRUDを実装してみた",
     "url": "https://qiita.com/yoshimo123/items/9aa8dae1d40d523d7e5d",
     "likes_count": 342,
     "created_at": "2018-02-17T13:56:20+09:00",
     "updated_at": "2019-02-28T18:44:05+09:00",
     "id": "yoshimo123"
-  },
-  {
-    "title": "並行処理、並列処理のあれこれ",
-    "url": "https://qiita.com/Kohei909Otsuka/items/26be74de803d195b37bd",
-    "likes_count": 341,
-    "created_at": "2018-02-14T22:43:14+09:00",
-    "updated_at": "2018-02-16T08:28:09+09:00",
-    "id": "Kohei909Otsuka"
   },
   {
     "title": "アジャイルとは何か？今あらためて誤魔化さずに実践的に説明してみる",
@@ -370,7 +370,7 @@
   {
     "title": "Seleniumで要素を選択する方法まとめ",
     "url": "https://qiita.com/VA_nakatsu/items/0095755dc48ad7e86e2f",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2018-02-08T19:58:30+09:00",
     "updated_at": "2019-01-15T11:26:02+09:00",
     "id": "VA_nakatsu"
