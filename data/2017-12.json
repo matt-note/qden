@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5505,
+    "likes_count": 5506,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -90,7 +90,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 940,
+    "likes_count": 941,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -114,7 +114,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 886,
+    "likes_count": 888,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -154,7 +154,7 @@
   {
     "title": "会社勤めのエンジニアが開発したサービスを買い取って独立した話",
     "url": "https://qiita.com/tnj/items/3bf353fb8964abac40a4",
-    "likes_count": 827,
+    "likes_count": 826,
     "created_at": "2017-12-11T12:09:54+09:00",
     "updated_at": "2017-12-11T12:09:54+09:00",
     "id": "tnj"
@@ -282,7 +282,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 626,
+    "likes_count": 627,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -354,7 +354,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -410,7 +410,7 @@
   {
     "title": "SlackのIncoming Webhooksを使い倒す",
     "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
-    "likes_count": 503,
+    "likes_count": 504,
     "created_at": "2017-12-14T10:09:51+09:00",
     "updated_at": "2017-12-14T14:47:37+09:00",
     "id": "ik-fib"
@@ -426,7 +426,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -506,7 +506,7 @@
   {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
@@ -522,7 +522,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 401,
+    "likes_count": 400,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -544,6 +544,14 @@
     "id": "takutoki"
   },
   {
+    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
+    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
+    "likes_count": 396,
+    "created_at": "2017-12-13T01:28:27+09:00",
+    "updated_at": "2019-07-28T01:41:15+09:00",
+    "id": "tatsurou313"
+  },
+  {
     "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
     "url": "https://qiita.com/kyntk/items/d60fdbc51df4f1d4c3c7",
     "likes_count": 393,
@@ -552,17 +560,9 @@
     "id": "kyntk"
   },
   {
-    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
-    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 393,
-    "created_at": "2017-12-13T01:28:27+09:00",
-    "updated_at": "2019-07-28T01:41:15+09:00",
-    "id": "tatsurou313"
-  },
-  {
     "title": "WindowsでDocker環境を試してみる",
     "url": "https://qiita.com/fkooo/items/d2fddef9091b906675ca",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2017-12-20T20:24:56+09:00",
     "updated_at": "2021-01-17T17:08:39+09:00",
     "id": "fkooo"
@@ -594,7 +594,7 @@
   {
     "title": "はじめてのRails API ",
     "url": "https://qiita.com/c5meru/items/1c921676de8a5a038f70",
-    "likes_count": 365,
+    "likes_count": 366,
     "created_at": "2017-12-16T14:18:53+09:00",
     "updated_at": "2017-12-16T14:19:33+09:00",
     "id": "c5meru"

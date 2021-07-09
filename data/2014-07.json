@@ -18,7 +18,7 @@
   {
     "title": "Vim幼稚園からVim小学校へ",
     "url": "https://qiita.com/hachi8833/items/7beeee825c11f7437f54",
-    "likes_count": 3891,
+    "likes_count": 3892,
     "created_at": "2014-07-10T00:02:39+09:00",
     "updated_at": "2019-03-20T18:58:14+09:00",
     "id": "hachi8833"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3448,
+    "likes_count": 3449,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -42,7 +42,7 @@
   {
     "title": "Python Django入門 (1)",
     "url": "https://qiita.com/kaki_k/items/511611cadac1d0c69c54",
-    "likes_count": 2195,
+    "likes_count": 2196,
     "created_at": "2014-07-27T00:14:48+09:00",
     "updated_at": "2020-01-09T23:41:21+09:00",
     "id": "kaki_k"
@@ -90,7 +90,7 @@
   {
     "title": "あきらめるにはまだ早い！ソースコードの品質向上に効果的なアプローチ",
     "url": "https://qiita.com/hirokidaichi/items/5a5cb63ef5499143bc40",
-    "likes_count": 1321,
+    "likes_count": 1322,
     "created_at": "2014-07-18T18:38:49+09:00",
     "updated_at": "2018-02-21T17:54:48+09:00",
     "id": "hirokidaichi"
@@ -130,7 +130,7 @@
   {
     "title": "SE的声かけ変換表",
     "url": "https://qiita.com/ukiuni@github/items/acd53340f19198d94998",
-    "likes_count": 879,
+    "likes_count": 880,
     "created_at": "2014-07-11T18:12:10+09:00",
     "updated_at": "2015-04-14T07:00:58+09:00",
     "id": "ukiuni@github"
@@ -306,7 +306,7 @@
   {
     "title": "超絶初心者むけtcpdumpの使い方",
     "url": "https://qiita.com/tossh/items/4cd33693965ef231bd2a",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2014-07-26T17:01:58+09:00",
     "updated_at": "2016-05-28T16:03:40+09:00",
     "id": "tossh"
@@ -560,6 +560,14 @@
     "id": "zembutsu"
   },
   {
+    "title": "Rails 4で作るドラッグアンドドロップで表示順を変更できるサンプルアプリ(スクリーンキャスト付き)",
+    "url": "https://qiita.com/jnchito/items/391fb16d3f69fda9bdae",
+    "likes_count": 332,
+    "created_at": "2014-07-31T08:48:03+09:00",
+    "updated_at": "2017-08-28T08:17:25+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "Google Compute Engineのココがイケてるイケてない",
     "url": "https://qiita.com/kazunori279/items/c35cbc24c5b93df3ee6b",
     "likes_count": 331,
@@ -574,14 +582,6 @@
     "created_at": "2014-07-21T22:44:24+09:00",
     "updated_at": "2014-07-21T22:44:24+09:00",
     "id": "Yuki_Yamashina"
-  },
-  {
-    "title": "Rails 4で作るドラッグアンドドロップで表示順を変更できるサンプルアプリ(スクリーンキャスト付き)",
-    "url": "https://qiita.com/jnchito/items/391fb16d3f69fda9bdae",
-    "likes_count": 331,
-    "created_at": "2014-07-31T08:48:03+09:00",
-    "updated_at": "2017-08-28T08:17:25+09:00",
-    "id": "jnchito"
   },
   {
     "title": "AngularJSの$scopeをController as で置き換えるべき理由",
@@ -694,6 +694,14 @@
     "created_at": "2014-07-27T14:20:57+09:00",
     "updated_at": "2016-11-06T19:38:22+09:00",
     "id": "kengop"
+  },
+  {
+    "title": "RailsじゃないRspec3環境を構築する方法",
+    "url": "https://qiita.com/yusabana/items/db44b81bdddf6ed0e9f5",
+    "likes_count": 256,
+    "created_at": "2014-07-30T09:12:57+09:00",
+    "updated_at": "2015-07-01T21:02:42+09:00",
+    "id": "yusabana"
   },
   {
     "title": "ガチガチ最速でコーディングするためのEclipseの設定",
