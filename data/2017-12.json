@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1294,
+    "likes_count": 1295,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -90,7 +90,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 941,
+    "likes_count": 942,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -114,7 +114,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 888,
+    "likes_count": 889,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -122,7 +122,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 875,
+    "likes_count": 874,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -146,10 +146,18 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 848,
+    "likes_count": 850,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
+  },
+  {
+    "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
+    "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
+    "likes_count": 827,
+    "created_at": "2017-12-25T07:57:47+09:00",
+    "updated_at": "2019-05-20T15:34:54+09:00",
+    "id": "yu4u"
   },
   {
     "title": "会社勤めのエンジニアが開発したサービスを買い取って独立した話",
@@ -158,14 +166,6 @@
     "created_at": "2017-12-11T12:09:54+09:00",
     "updated_at": "2017-12-11T12:09:54+09:00",
     "id": "tnj"
-  },
-  {
-    "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
-    "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 826,
-    "created_at": "2017-12-25T07:57:47+09:00",
-    "updated_at": "2019-05-20T15:34:54+09:00",
-    "id": "yu4u"
   },
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
@@ -226,7 +226,7 @@
   {
     "title": "割と突き詰めてやったvim→vscode移行",
     "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
-    "likes_count": 745,
+    "likes_count": 746,
     "created_at": "2017-12-18T10:12:06+09:00",
     "updated_at": "2019-07-10T10:58:40+09:00",
     "id": "y-mattun"
@@ -378,7 +378,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -458,7 +458,7 @@
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
-    "likes_count": 453,
+    "likes_count": 452,
     "created_at": "2017-12-09T16:10:28+09:00",
     "updated_at": "2018-12-22T12:05:58+09:00",
     "id": "kakakaori830"
@@ -610,7 +610,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
@@ -690,10 +690,18 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 329,
+    "likes_count": 330,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
+  },
+  {
+    "title": "関東最速でReact+Redux+TypeScriptなアプリの開発環境を作る",
+    "url": "https://qiita.com/IzumiSy/items/b7d8a96eacd2cd8ad510",
+    "likes_count": 326,
+    "created_at": "2017-12-24T23:29:21+09:00",
+    "updated_at": "2020-05-11T11:04:03+09:00",
+    "id": "IzumiSy"
   },
   {
     "title": "【2018年版】今押さえておきたいフロントエンド関連",
@@ -702,14 +710,6 @@
     "created_at": "2017-12-22T07:56:52+09:00",
     "updated_at": "2017-12-25T21:00:44+09:00",
     "id": "sawadays0118"
-  },
-  {
-    "title": "関東最速でReact+Redux+TypeScriptなアプリの開発環境を作る",
-    "url": "https://qiita.com/IzumiSy/items/b7d8a96eacd2cd8ad510",
-    "likes_count": 325,
-    "created_at": "2017-12-24T23:29:21+09:00",
-    "updated_at": "2020-05-11T11:04:03+09:00",
-    "id": "IzumiSy"
   },
   {
     "title": "あのサイトで使われている技術を調べる",
