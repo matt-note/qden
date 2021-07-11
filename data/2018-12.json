@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 1998,
+    "likes_count": 1997,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1749,
+    "likes_count": 1750,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -58,7 +58,7 @@
   {
     "title": "インフラエンジニアと謎のサーバ",
     "url": "https://qiita.com/kanga/items/979b0bdc4653e025483a",
-    "likes_count": 1258,
+    "likes_count": 1259,
     "created_at": "2018-12-06T19:56:35+09:00",
     "updated_at": "2019-05-02T16:00:02+09:00",
     "id": "kanga"
@@ -82,7 +82,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1126,
+    "likes_count": 1127,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -90,7 +90,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1119,
+    "likes_count": 1120,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -112,20 +112,20 @@
     "id": "lobin-z0x50"
   },
   {
+    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
+    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
+    "likes_count": 1002,
+    "created_at": "2018-12-03T11:08:40+09:00",
+    "updated_at": "2019-02-12T01:34:29+09:00",
+    "id": "drken"
+  },
+  {
     "title": "JavaScriptの概念たち (前編)",
     "url": "https://qiita.com/tsin1rou/items/90576b6c00b895478610",
     "likes_count": 1000,
     "created_at": "2018-12-04T02:39:25+09:00",
     "updated_at": "2018-12-06T10:40:04+09:00",
     "id": "tsin1rou"
-  },
-  {
-    "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
-    "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 999,
-    "created_at": "2018-12-03T11:08:40+09:00",
-    "updated_at": "2019-02-12T01:34:29+09:00",
-    "id": "drken"
   },
   {
     "title": "JupyterLabのすゝめ",
@@ -178,7 +178,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 894,
+    "likes_count": 896,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -210,7 +210,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 820,
+    "likes_count": 821,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -242,7 +242,7 @@
   {
     "title": "2018年これだけは知っておきたいiOSライブラリ31選",
     "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
-    "likes_count": 667,
+    "likes_count": 669,
     "created_at": "2018-12-12T19:17:50+09:00",
     "updated_at": "2019-03-18T13:42:44+09:00",
     "id": "kohei1218"
@@ -312,20 +312,20 @@
     "id": "ponkotuy"
   },
   {
+    "title": "とても強い計算量クラスのコンピュータとその実現方法",
+    "url": "https://qiita.com/iKodack/items/d606a09f0a40b95bf2b6",
+    "likes_count": 541,
+    "created_at": "2018-12-19T23:15:38+09:00",
+    "updated_at": "2019-02-15T21:53:19+09:00",
+    "id": "iKodack"
+  },
+  {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
     "likes_count": 541,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
-  },
-  {
-    "title": "とても強い計算量クラスのコンピュータとその実現方法",
-    "url": "https://qiita.com/iKodack/items/d606a09f0a40b95bf2b6",
-    "likes_count": 540,
-    "created_at": "2018-12-19T23:15:38+09:00",
-    "updated_at": "2019-02-15T21:53:19+09:00",
-    "id": "iKodack"
   },
   {
     "title": "C++でクリーンなコードの書き方",
@@ -338,7 +338,7 @@
   {
     "title": "ExcelにPythonが搭載？その後 - xlwings を使おう ",
     "url": "https://qiita.com/yniji/items/b38bc312e860027108ac",
-    "likes_count": 508,
+    "likes_count": 509,
     "created_at": "2018-12-24T19:58:52+09:00",
     "updated_at": "2019-01-22T16:00:41+09:00",
     "id": "yniji"
@@ -642,7 +642,7 @@
   {
     "title": "Web API初心者と学ぶGraphQL",
     "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 330,
+    "likes_count": 332,
     "created_at": "2018-12-20T03:46:56+09:00",
     "updated_at": "2020-12-23T18:50:54+09:00",
     "id": "SiragumoHuin"
@@ -680,17 +680,9 @@
     "id": "A-Kira"
   },
   {
-    "title": "まだPowerPointで消耗してるの？",
-    "url": "https://qiita.com/suzuki_/items/08cbd75599bd78dcaca2",
-    "likes_count": 297,
-    "created_at": "2018-12-08T04:39:22+09:00",
-    "updated_at": "2018-12-08T15:16:38+09:00",
-    "id": "suzuki_"
-  },
-  {
     "title": "[Firebase] Cloud Functionsで消耗したくない人のために、開発環境のベストプラクティスをまとめていったらDockerに行き着いた話（随時更新）",
     "url": "https://qiita.com/pannpers/items/244a7e3c18d8c8422e4f",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2018-12-11T00:00:58+09:00",
     "updated_at": "2019-05-06T12:01:55+09:00",
     "id": "pannpers"
@@ -698,10 +690,18 @@
   {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
+  },
+  {
+    "title": "まだPowerPointで消耗してるの？",
+    "url": "https://qiita.com/suzuki_/items/08cbd75599bd78dcaca2",
+    "likes_count": 297,
+    "created_at": "2018-12-08T04:39:22+09:00",
+    "updated_at": "2018-12-08T15:16:38+09:00",
+    "id": "suzuki_"
   },
   {
     "title": "【爆速】HTML + Sass(SCSS)で簡単にレスポンシブ対応のLPを作ろう！",
@@ -722,7 +722,7 @@
   {
     "title": "【Rails×Ajax】いいね機能ハンズオン",
     "url": "https://qiita.com/naberina/items/c6b5c8d7756cb882fb20",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2018-12-20T02:10:14+09:00",
     "updated_at": "2021-01-08T12:26:47+09:00",
     "id": "naberina"
@@ -746,7 +746,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 256,
+    "likes_count": 257,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"

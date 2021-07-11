@@ -66,7 +66,7 @@
   {
     "title": "実例で学ぶ、JOIN (NLJ) が遅くなる理屈と対処法",
     "url": "https://qiita.com/yuku_t/items/208be188eef17699c7a5",
-    "likes_count": 1255,
+    "likes_count": 1256,
     "created_at": "2015-06-22T11:50:58+09:00",
     "updated_at": "2015-07-13T09:58:53+09:00",
     "id": "yuku_t"
@@ -82,7 +82,7 @@
   {
     "title": "IT業界で横行する恥ずかしい英語発音",
     "url": "https://qiita.com/ryounagaoka/items/290885ee3291b393fe1f",
-    "likes_count": 1184,
+    "likes_count": 1185,
     "created_at": "2015-06-12T02:03:36+09:00",
     "updated_at": "2018-04-08T23:52:59+09:00",
     "id": "ryounagaoka"
@@ -202,7 +202,7 @@
   {
     "title": "JavaScript つい忘れてしまう配列のソート方法",
     "url": "https://qiita.com/PianoScoreJP/items/f0ff7345229871039672",
-    "likes_count": 619,
+    "likes_count": 620,
     "created_at": "2015-06-15T11:12:46+09:00",
     "updated_at": "2015-06-15T15:01:10+09:00",
     "id": "PianoScoreJP"
@@ -392,6 +392,14 @@
     "id": "yut_h1979"
   },
   {
+    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
+    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
+    "likes_count": 368,
+    "created_at": "2015-06-10T07:55:27+09:00",
+    "updated_at": "2015-06-10T11:36:54+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "BUNDLED WITH で Gemfile.lock が更新されてしまう件",
     "url": "https://qiita.com/suu_g/items/2b1630b8015d51c5292e",
     "likes_count": 368,
@@ -400,12 +408,12 @@
     "id": "suu_g"
   },
   {
-    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
-    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
-    "likes_count": 367,
-    "created_at": "2015-06-10T07:55:27+09:00",
-    "updated_at": "2015-06-10T11:36:54+09:00",
-    "id": "jnchito"
+    "title": "javascriptイディオム集",
+    "url": "https://qiita.com/cocottejs/items/cb2623316a0c82b603c4",
+    "likes_count": 364,
+    "created_at": "2015-06-16T07:50:53+09:00",
+    "updated_at": "2016-02-02T10:39:35+09:00",
+    "id": "cocottejs"
   },
   {
     "title": "新米エンジニア(アプリ・インフラエンジニア問わず)に知っておいてほしいトラブルシューティング入門 はじめの一歩編",
@@ -414,14 +422,6 @@
     "created_at": "2015-06-15T15:22:23+09:00",
     "updated_at": "2015-06-24T17:53:36+09:00",
     "id": "keigodasu"
-  },
-  {
-    "title": "javascriptイディオム集",
-    "url": "https://qiita.com/cocottejs/items/cb2623316a0c82b603c4",
-    "likes_count": 363,
-    "created_at": "2015-06-16T07:50:53+09:00",
-    "updated_at": "2016-02-02T10:39:35+09:00",
-    "id": "cocottejs"
   },
   {
     "title": "FirebaseのRulesを理解する",
