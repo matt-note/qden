@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4766,
+    "likes_count": 4768,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2591,
+    "likes_count": 2592,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1765,
+    "likes_count": 1766,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -42,7 +42,7 @@
   {
     "title": "いまさら聞けないLinuxとメモリの基礎＆vmstatの詳しい使い方",
     "url": "https://qiita.com/kunihirotanaka/items/70d43d48757aea79de2d",
-    "likes_count": 1525,
+    "likes_count": 1527,
     "created_at": "2016-12-25T13:48:22+09:00",
     "updated_at": "2016-12-26T11:43:00+09:00",
     "id": "kunihirotanaka"
@@ -106,7 +106,7 @@
   {
     "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
     "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
-    "likes_count": 1058,
+    "likes_count": 1059,
     "created_at": "2016-12-15T19:53:31+09:00",
     "updated_at": "2017-01-09T03:54:13+09:00",
     "id": "joker1007"
@@ -258,7 +258,7 @@
   {
     "title": "iOSアプリ開発でアニメーションするなら押さえておきたい基礎",
     "url": "https://qiita.com/hachinobu/items/57d4c305c907805b4a53",
-    "likes_count": 646,
+    "likes_count": 647,
     "created_at": "2016-12-22T15:31:54+09:00",
     "updated_at": "2018-12-27T15:29:57+09:00",
     "id": "hachinobu"
@@ -386,7 +386,7 @@
   {
     "title": "みんなRailsのSTIを誤解してないか!?",
     "url": "https://qiita.com/yebihara/items/9ecb838893ad99be0561",
-    "likes_count": 509,
+    "likes_count": 510,
     "created_at": "2016-12-04T17:53:39+09:00",
     "updated_at": "2016-12-16T19:48:07+09:00",
     "id": "yebihara"
@@ -450,7 +450,7 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
@@ -496,6 +496,22 @@
     "id": "itkrt2y"
   },
   {
+    "title": "Ruby on Railsで作ったWebサービスを5倍速くしてメモリを半分以下にした話",
+    "url": "https://qiita.com/zaru/items/04fdd43158e5cd1d835d",
+    "likes_count": 430,
+    "created_at": "2016-12-02T11:10:32+09:00",
+    "updated_at": "2016-12-05T18:00:23+09:00",
+    "id": "zaru"
+  },
+  {
+    "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
+    "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
+    "likes_count": 430,
+    "created_at": "2016-12-06T16:03:07+09:00",
+    "updated_at": "2019-11-24T08:22:12+09:00",
+    "id": "tenntenn"
+  },
+  {
     "title": "恥かどうかはともかく、そもそも逃げられない障害対応のお話",
     "url": "https://qiita.com/s_kozake/items/825348559e4b4e330fb5",
     "likes_count": 430,
@@ -504,28 +520,20 @@
     "id": "s_kozake"
   },
   {
-    "title": "Ruby on Railsで作ったWebサービスを5倍速くしてメモリを半分以下にした話",
-    "url": "https://qiita.com/zaru/items/04fdd43158e5cd1d835d",
-    "likes_count": 429,
-    "created_at": "2016-12-02T11:10:32+09:00",
-    "updated_at": "2016-12-05T18:00:23+09:00",
-    "id": "zaru"
-  },
-  {
-    "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
-    "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 429,
-    "created_at": "2016-12-06T16:03:07+09:00",
-    "updated_at": "2019-11-24T08:22:12+09:00",
-    "id": "tenntenn"
-  },
-  {
     "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
     "url": "https://qiita.com/chanNaru/items/326bd50a78cf34371169",
     "likes_count": 424,
     "created_at": "2016-12-23T18:57:30+09:00",
     "updated_at": "2020-02-06T13:59:09+09:00",
     "id": "chanNaru"
+  },
+  {
+    "title": "複数のgitアカウントを使い分ける",
+    "url": "https://qiita.com/0084ken/items/f4a8b0fbff135a987fea",
+    "likes_count": 415,
+    "created_at": "2016-12-20T12:36:15+09:00",
+    "updated_at": "2016-12-20T12:36:15+09:00",
+    "id": "0084ken"
   },
   {
     "title": "12800円で自宅や小規模オフィスのネットワークセキュリティ監視環境を構築する",
@@ -542,14 +550,6 @@
     "created_at": "2016-12-15T09:21:15+09:00",
     "updated_at": "2017-06-27T09:58:48+09:00",
     "id": "icoxfog417"
-  },
-  {
-    "title": "複数のgitアカウントを使い分ける",
-    "url": "https://qiita.com/0084ken/items/f4a8b0fbff135a987fea",
-    "likes_count": 414,
-    "created_at": "2016-12-20T12:36:15+09:00",
-    "updated_at": "2016-12-20T12:36:15+09:00",
-    "id": "0084ken"
   },
   {
     "title": "iOSアプリ設計大全集 2016",
@@ -578,7 +578,7 @@
   {
     "title": "JavaScriptの非同期処理を並列処理と勘違いしていませんか？",
     "url": "https://qiita.com/klme_u6/items/ea155f82cbe44d6f5d88",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2016-12-26T11:30:00+09:00",
     "updated_at": "2019-03-20T15:38:31+09:00",
     "id": "klme_u6"

@@ -2,7 +2,7 @@
   {
     "title": "AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～",
     "url": "https://qiita.com/drken/items/fd4e5e3630d0f5859067",
-    "likes_count": 6041,
+    "likes_count": 6042,
     "created_at": "2018-03-13T08:55:49+09:00",
     "updated_at": "2021-01-24T23:50:56+09:00",
     "id": "drken"
@@ -18,7 +18,7 @@
   {
     "title": "ゲームでよくされるチート手法とその対策 〜アプリケーションハッキング編〜",
     "url": "https://qiita.com/taptappun/items/b759df240c919d55c408",
-    "likes_count": 1419,
+    "likes_count": 1420,
     "created_at": "2018-03-20T02:10:19+09:00",
     "updated_at": "2020-04-13T15:56:27+09:00",
     "id": "taptappun"
@@ -50,7 +50,7 @@
   {
     "title": "[Python] Djangoチュートリアル - 汎用業務Webアプリを最速で作る",
     "url": "https://qiita.com/okoppe8/items/54eb105c9c94c0960f14",
-    "likes_count": 1235,
+    "likes_count": 1237,
     "created_at": "2018-03-09T10:52:00+09:00",
     "updated_at": "2018-11-27T14:19:29+09:00",
     "id": "okoppe8"
@@ -114,7 +114,7 @@
   {
     "title": "「AndroidはiOSと同じデザインで！」と言われたときの対応案 ",
     "url": "https://qiita.com/ogapants/items/8a551ed3b16bcf0cc3ed",
-    "likes_count": 870,
+    "likes_count": 871,
     "created_at": "2018-03-28T19:44:18+09:00",
     "updated_at": "2018-03-29T11:40:14+09:00",
     "id": "ogapants"
@@ -226,7 +226,7 @@
   {
     "title": "応用情報技術者試験に合格する勉強方法・対策",
     "url": "https://qiita.com/drken/items/42e54d5c43d4d7815ed4",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2018-03-07T15:20:07+09:00",
     "updated_at": "2019-08-29T18:36:17+09:00",
     "id": "drken"
@@ -268,7 +268,7 @@
     "url": "https://qiita.com/taku-buntu/items/0093a68bfae0b0ff879d",
     "likes_count": 544,
     "created_at": "2018-03-14T19:02:25+09:00",
-    "updated_at": "2019-06-13T11:56:06+09:00",
+    "updated_at": "2021-07-12T22:26:03+09:00",
     "id": "taku-buntu"
   },
   {
@@ -282,7 +282,7 @@
   {
     "title": "npm入門",
     "url": "https://qiita.com/maitake9116/items/7825d90c09f3e2f87dea",
-    "likes_count": 515,
+    "likes_count": 516,
     "created_at": "2018-03-29T12:40:11+09:00",
     "updated_at": "2018-05-31T12:00:33+09:00",
     "id": "maitake9116"
@@ -298,7 +298,7 @@
   {
     "title": "Google Apps Script をローカル環境で快適に開発するためのテンプレートを作りました",
     "url": "https://qiita.com/howdy39/items/0e799a9bfc1d3bccf6e5",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2018-03-19T06:32:13+09:00",
     "updated_at": "2018-03-28T17:53:27+09:00",
     "id": "howdy39"
@@ -352,6 +352,14 @@
     "id": "yohm"
   },
   {
+    "title": "find、find_by、whereの違い",
+    "url": "https://qiita.com/tsuchinoko_run/items/f3926caaec461cfa1ca3",
+    "likes_count": 381,
+    "created_at": "2018-03-18T00:32:18+09:00",
+    "updated_at": "2018-03-18T00:32:18+09:00",
+    "id": "tsuchinoko_run"
+  },
+  {
     "title": "RxJSの基礎中の基礎",
     "url": "https://qiita.com/agajo/items/7942743a0130f7a0f30b",
     "likes_count": 381,
@@ -360,17 +368,9 @@
     "id": "agajo"
   },
   {
-    "title": "find、find_by、whereの違い",
-    "url": "https://qiita.com/tsuchinoko_run/items/f3926caaec461cfa1ca3",
-    "likes_count": 380,
-    "created_at": "2018-03-18T00:32:18+09:00",
-    "updated_at": "2018-03-18T00:32:18+09:00",
-    "id": "tsuchinoko_run"
-  },
-  {
     "title": "CloudFront 経由で S3 のファイルにアクセスする",
     "url": "https://qiita.com/NaokiIshimura/items/46994e67b712831c3016",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2018-03-31T10:04:01+09:00",
     "updated_at": "2020-07-04T13:52:53+09:00",
     "id": "NaokiIshimura"
@@ -426,7 +426,7 @@
   {
     "title": "chmod コマンド",
     "url": "https://qiita.com/ntkgcj/items/6450e25c5564ccaa1b95",
-    "likes_count": 329,
+    "likes_count": 330,
     "created_at": "2018-03-31T15:34:12+09:00",
     "updated_at": "2020-12-12T18:38:18+09:00",
     "id": "ntkgcj"
@@ -466,7 +466,7 @@
   {
     "title": "君の継承の使い方は間違っている",
     "url": "https://qiita.com/tonluqclml/items/c0110098722763caa556",
-    "likes_count": 289,
+    "likes_count": 290,
     "created_at": "2018-03-16T13:06:01+09:00",
     "updated_at": "2020-12-02T21:23:28+09:00",
     "id": "tonluqclml"
