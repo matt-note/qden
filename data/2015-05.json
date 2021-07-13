@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 4948,
+    "likes_count": 4950,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 3038,
+    "likes_count": 3039,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2020-03-12T13:17:33+09:00",
     "id": "suin"
@@ -26,7 +26,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 2922,
+    "likes_count": 2923,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -74,7 +74,7 @@
   {
     "title": "【数学】固有値・固有ベクトルとは何かを可視化してみる",
     "url": "https://qiita.com/kenmatsu4/items/2a8573e3c878fc2da306",
-    "likes_count": 1385,
+    "likes_count": 1386,
     "created_at": "2015-05-23T09:16:03+09:00",
     "updated_at": "2015-05-28T08:37:38+09:00",
     "id": "kenmatsu4"
@@ -106,7 +106,7 @@
   {
     "title": "【bat】Windowsのバッチファイル(*.bat)の書き方自分用まとめ",
     "url": "https://qiita.com/sksmnagisa/items/8c4c1788af44cc1dc63a",
-    "likes_count": 1167,
+    "likes_count": 1168,
     "created_at": "2015-05-14T20:42:49+09:00",
     "updated_at": "2016-11-28T14:38:21+09:00",
     "id": "sksmnagisa"
@@ -258,7 +258,7 @@
   {
     "title": "Bootstrap Form おさらい",
     "url": "https://qiita.com/zaburo/items/8983993d173c51cb3827",
-    "likes_count": 532,
+    "likes_count": 533,
     "created_at": "2015-05-08T21:21:28+09:00",
     "updated_at": "2015-07-27T07:47:30+09:00",
     "id": "zaburo"
@@ -354,7 +354,7 @@
   {
     "title": "Quaternionによる3次元の回転変換",
     "url": "https://qiita.com/kenjihiranabe/items/945232fbde58fab45681",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2015-05-30T16:20:47+09:00",
     "updated_at": "2020-10-11T10:47:54+09:00",
     "id": "kenjihiranabe"
@@ -400,6 +400,14 @@
     "id": "zaru"
   },
   {
+    "title": "redis-cli コマンド操作まとめ",
+    "url": "https://qiita.com/rubytomato@github/items/d66d932959d596876ab5",
+    "likes_count": 370,
+    "created_at": "2015-05-24T16:37:36+09:00",
+    "updated_at": "2021-01-15T23:53:55+09:00",
+    "id": "rubytomato@github"
+  },
+  {
     "title": "Node.jsからSocket.IOを使うための事前知識",
     "url": "https://qiita.com/ij_spitz/items/2c66d501f29bff3830f7",
     "likes_count": 369,
@@ -414,14 +422,6 @@
     "created_at": "2015-05-12T10:54:35+09:00",
     "updated_at": "2015-05-12T10:58:29+09:00",
     "id": "uiu"
-  },
-  {
-    "title": "redis-cli コマンド操作まとめ",
-    "url": "https://qiita.com/rubytomato@github/items/d66d932959d596876ab5",
-    "likes_count": 368,
-    "created_at": "2015-05-24T16:37:36+09:00",
-    "updated_at": "2021-01-15T23:53:55+09:00",
-    "id": "rubytomato@github"
   },
   {
     "title": "Reactデザインパターン - すべてがeになる",
@@ -602,7 +602,7 @@
   {
     "title": "RSpec コントローラのテストの書き方まとめ",
     "url": "https://qiita.com/geshi/items/a930461f36bae880657d",
-    "likes_count": 276,
+    "likes_count": 277,
     "created_at": "2015-05-22T14:08:21+09:00",
     "updated_at": "2015-05-22T17:40:21+09:00",
     "id": "geshi"

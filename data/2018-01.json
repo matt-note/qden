@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2563,
+    "likes_count": 2564,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1557,
+    "likes_count": 1560,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -114,7 +114,7 @@
   {
     "title": "ノンデザイナーでもイケてるLPを作成する方法",
     "url": "https://qiita.com/teradonburi/items/412f65147525ff34dbbd",
-    "likes_count": 695,
+    "likes_count": 694,
     "created_at": "2018-01-03T12:38:52+09:00",
     "updated_at": "2018-12-24T17:21:21+09:00",
     "id": "teradonburi"
@@ -248,6 +248,14 @@
     "id": "kengos@github"
   },
   {
+    "title": "JSのスプレッド構文を理解する",
+    "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
+    "likes_count": 446,
+    "created_at": "2018-01-20T15:37:58+09:00",
+    "updated_at": "2019-12-04T22:30:22+09:00",
+    "id": "akisx"
+  },
+  {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
     "likes_count": 444,
@@ -256,17 +264,9 @@
     "id": "doyaaaaaken"
   },
   {
-    "title": "JSのスプレッド構文を理解する",
-    "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 444,
-    "created_at": "2018-01-20T15:37:58+09:00",
-    "updated_at": "2019-12-04T22:30:22+09:00",
-    "id": "akisx"
-  },
-  {
     "title": "viコマンド（vimコマンド）リファレンス",
     "url": "https://qiita.com/pe-ta/items/0510bee10bcfd88afeee",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2018-01-23T13:50:14+09:00",
     "updated_at": "2020-04-20T19:10:29+09:00",
     "id": "pe-ta"
@@ -274,7 +274,7 @@
   {
     "title": "anyenv + macOS環境構築",
     "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2018-01-12T14:53:20+09:00",
     "updated_at": "2021-02-09T14:54:39+09:00",
     "id": "rinpa"
@@ -338,7 +338,7 @@
   {
     "title": "RailsアプリへのRspecとFactory_botの導入手順",
     "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2018-01-08T21:34:40+09:00",
     "updated_at": "2019-12-15T07:23:02+09:00",
     "id": "Ushinji"
@@ -394,7 +394,7 @@
   {
     "title": "Vim / Vi を終了させる方法",
     "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2018-01-09T22:50:55+09:00",
     "updated_at": "2019-11-01T09:15:26+09:00",
     "id": "kon_yu"
@@ -408,19 +408,19 @@
     "id": "tomov3"
   },
   {
+    "title": "画像を扱う機械学習のためのデータセットまとめ",
+    "url": "https://qiita.com/leetmikeal/items/7c0d23e39bf38ab8be23",
+    "likes_count": 289,
+    "created_at": "2018-01-09T18:37:32+09:00",
+    "updated_at": "2019-02-05T09:40:32+09:00",
+    "id": "leetmikeal"
+  },
+  {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",
     "url": "https://qiita.com/okoppe8/items/c58bb3faaf26c9e2f27f",
     "likes_count": 289,
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"
-  },
-  {
-    "title": "画像を扱う機械学習のためのデータセットまとめ",
-    "url": "https://qiita.com/leetmikeal/items/7c0d23e39bf38ab8be23",
-    "likes_count": 288,
-    "created_at": "2018-01-09T18:37:32+09:00",
-    "updated_at": "2019-02-05T09:40:32+09:00",
-    "id": "leetmikeal"
   }
 ]
