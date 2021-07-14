@@ -2,7 +2,7 @@
   {
     "title": "「AWS is 何」を3行でまとめてみるよ",
     "url": "https://qiita.com/kohashi/items/1bb952313fb695f12577",
-    "likes_count": 3916,
+    "likes_count": 3918,
     "created_at": "2016-06-28T14:38:40+09:00",
     "updated_at": "2019-03-08T13:21:28+09:00",
     "id": "kohashi"
@@ -10,7 +10,7 @@
   {
     "title": "ゼロからDeepまで学ぶ強化学習",
     "url": "https://qiita.com/icoxfog417/items/242439ecd1a477ece312",
-    "likes_count": 2980,
+    "likes_count": 2981,
     "created_at": "2016-06-07T17:03:42+09:00",
     "updated_at": "2017-06-06T11:39:26+09:00",
     "id": "icoxfog417"
@@ -34,7 +34,7 @@
   {
     "title": "忘れやすい人のための git diff チートシート",
     "url": "https://qiita.com/shibukk/items/8c9362a5bd399b9c56be",
-    "likes_count": 1534,
+    "likes_count": 1535,
     "created_at": "2016-06-15T14:27:21+09:00",
     "updated_at": "2019-01-23T13:48:59+09:00",
     "id": "shibukk"
@@ -50,7 +50,7 @@
   {
     "title": "iOSアプリ個人開発で使ってるツールとかノウハウを公開してみる",
     "url": "https://qiita.com/shtnkgm/items/8d8d633be9e3ab1a504a",
-    "likes_count": 1507,
+    "likes_count": 1508,
     "created_at": "2016-06-21T22:41:58+09:00",
     "updated_at": "2019-04-23T00:21:51+09:00",
     "id": "shtnkgm"
@@ -96,20 +96,20 @@
     "id": "tadsan"
   },
   {
-    "title": "Kaggle事始め",
-    "url": "https://qiita.com/taka4sato/items/802c494fdebeaa7f43b7",
-    "likes_count": 793,
-    "created_at": "2016-06-17T20:16:59+09:00",
-    "updated_at": "2017-11-02T07:11:38+09:00",
-    "id": "taka4sato"
-  },
-  {
     "title": "PHP isset, empty, is_null の違い早見表",
     "url": "https://qiita.com/shinichi-takii/items/00aed26f96cf6bb3fe62",
-    "likes_count": 793,
+    "likes_count": 797,
     "created_at": "2016-06-22T11:23:13+09:00",
     "updated_at": "2016-06-22T12:09:55+09:00",
     "id": "shinichi-takii"
+  },
+  {
+    "title": "Kaggle事始め",
+    "url": "https://qiita.com/taka4sato/items/802c494fdebeaa7f43b7",
+    "likes_count": 792,
+    "created_at": "2016-06-17T20:16:59+09:00",
+    "updated_at": "2017-11-02T07:11:38+09:00",
+    "id": "taka4sato"
   },
   {
     "title": "急いでダウンロードしたい時はwgetやcurlじゃなくてaxelを使おう",
@@ -170,7 +170,7 @@
   {
     "title": "Kotlin のコレクション使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/36351dca891b6d9c9687",
-    "likes_count": 590,
+    "likes_count": 591,
     "created_at": "2016-06-04T14:15:10+09:00",
     "updated_at": "2020-05-05T19:46:41+09:00",
     "id": "opengl-8080"
@@ -250,7 +250,7 @@
   {
     "title": "# CommonJS と ES6の import/export で迷うなら",
     "url": "https://qiita.com/rooooomania/items/4c999d93ae745e9d8657",
-    "likes_count": 480,
+    "likes_count": 481,
     "created_at": "2016-06-28T08:59:42+09:00",
     "updated_at": "2021-01-24T13:12:01+09:00",
     "id": "rooooomania"
@@ -258,7 +258,7 @@
   {
     "title": "Content-Typeの一覧",
     "url": "https://qiita.com/AkihiroTakamura/items/b93fbe511465f52bffaa",
-    "likes_count": 475,
+    "likes_count": 477,
     "created_at": "2016-06-10T15:33:57+09:00",
     "updated_at": "2020-05-22T13:02:43+09:00",
     "id": "AkihiroTakamura"
@@ -282,7 +282,7 @@
   {
     "title": "［API］ API仕様書の書き方",
     "url": "https://qiita.com/sunstripe2011/items/9230396febfab2eae2c2",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2016-06-09T19:52:08+09:00",
     "updated_at": "2020-12-01T23:33:35+09:00",
     "id": "sunstripe2011"
@@ -300,7 +300,7 @@
     "url": "https://qiita.com/hiroysato/items/d0fe5e2d88c267413a82",
     "likes_count": 411,
     "created_at": "2016-06-15T13:08:47+09:00",
-    "updated_at": "2021-06-07T15:11:40+09:00",
+    "updated_at": "2021-07-14T18:51:44+09:00",
     "id": "hiroysato"
   },
   {
@@ -406,6 +406,14 @@
     "created_at": "2016-06-28T19:43:19+09:00",
     "updated_at": "2016-11-15T15:16:03+09:00",
     "id": "tagosaku324"
+  },
+  {
+    "title": "PowerShell で Excel をどうのこうのすることに興味を持ってくれると嬉しい",
+    "url": "https://qiita.com/miyamiya/items/161372111b68bad0744a",
+    "likes_count": 246,
+    "created_at": "2016-06-25T21:37:05+09:00",
+    "updated_at": "2018-02-25T14:42:24+09:00",
+    "id": "miyamiya"
   },
   {
     "title": "プログラミング初心者でもできるブラウザ自動操作",
