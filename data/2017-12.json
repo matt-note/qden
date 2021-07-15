@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5508,
+    "likes_count": 5510,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2041,
+    "likes_count": 2042,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1179,
+    "likes_count": 1181,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -154,7 +154,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 828,
+    "likes_count": 829,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -322,7 +322,7 @@
   {
     "title": "次にJSガッツリ書くときはTypeScriptで",
     "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
-    "likes_count": 588,
+    "likes_count": 589,
     "created_at": "2017-12-26T18:52:16+09:00",
     "updated_at": "2020-06-27T01:29:19+09:00",
     "id": "yuya_presto"
@@ -346,7 +346,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 567,
+    "likes_count": 568,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -378,7 +378,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 542,
+    "likes_count": 543,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -522,7 +522,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 401,
+    "likes_count": 402,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -536,20 +536,20 @@
     "id": "lovee"
   },
   {
+    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
+    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
+    "likes_count": 399,
+    "created_at": "2017-12-13T01:28:27+09:00",
+    "updated_at": "2019-07-28T01:41:15+09:00",
+    "id": "tatsurou313"
+  },
+  {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
     "likes_count": 399,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
-  },
-  {
-    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
-    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 398,
-    "created_at": "2017-12-13T01:28:27+09:00",
-    "updated_at": "2019-07-28T01:41:15+09:00",
-    "id": "tatsurou313"
   },
   {
     "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
@@ -650,7 +650,7 @@
   {
     "title": "線形な手法とカーネル法（回帰分析）",
     "url": "https://qiita.com/wsuzume/items/09a59036c8944fd563ff",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2017-12-07T02:39:13+09:00",
     "updated_at": "2020-11-28T13:29:32+09:00",
     "id": "wsuzume"
@@ -752,17 +752,9 @@
     "id": "tattn"
   },
   {
-    "title": "直感で理解する量子コンピュータ",
-    "url": "https://qiita.com/onhrs/items/9bf83c61fcfcff43011f",
-    "likes_count": 293,
-    "created_at": "2017-12-26T05:18:31+09:00",
-    "updated_at": "2017-12-27T14:38:56+09:00",
-    "id": "onhrs"
-  },
-  {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 292,
+    "likes_count": 293,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
@@ -770,10 +762,18 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 292,
+    "likes_count": 293,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"
+  },
+  {
+    "title": "直感で理解する量子コンピュータ",
+    "url": "https://qiita.com/onhrs/items/9bf83c61fcfcff43011f",
+    "likes_count": 293,
+    "created_at": "2017-12-26T05:18:31+09:00",
+    "updated_at": "2017-12-27T14:38:56+09:00",
+    "id": "onhrs"
   },
   {
     "title": "機械学習ライブラリ scikit-learnの便利機能の紹介",
