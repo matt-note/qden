@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 1999,
+    "likes_count": 2009,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1755,
+    "likes_count": 1756,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -82,7 +82,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1127,
+    "likes_count": 1129,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -98,7 +98,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1052,
+    "likes_count": 1053,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -114,7 +114,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1006,
+    "likes_count": 1008,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -178,7 +178,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 897,
+    "likes_count": 898,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -194,7 +194,7 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 875,
+    "likes_count": 876,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2018-12-10T02:50:46+09:00",
     "id": "Maki-Daisuke"
@@ -226,7 +226,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2019-05-13T00:16:37+09:00",
     "id": "cha84rakanal"
@@ -290,7 +290,7 @@
   {
     "title": "Githubでissue管理して開発しよう",
     "url": "https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b",
-    "likes_count": 609,
+    "likes_count": 610,
     "created_at": "2018-12-24T14:56:03+09:00",
     "updated_at": "2020-11-18T15:03:21+09:00",
     "id": "fukubaka0825"
@@ -362,7 +362,7 @@
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
@@ -512,6 +512,14 @@
     "id": "suin"
   },
   {
+    "title": "GitのHEADとは何者なのか",
+    "url": "https://qiita.com/ymzk-jp/items/00ff664da60c37458aaa",
+    "likes_count": 378,
+    "created_at": "2018-12-09T23:59:10+09:00",
+    "updated_at": "2018-12-10T01:39:40+09:00",
+    "id": "ymzk-jp"
+  },
+  {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
     "likes_count": 377,
@@ -526,14 +534,6 @@
     "created_at": "2018-12-06T02:27:47+09:00",
     "updated_at": "2019-10-22T10:30:30+09:00",
     "id": "shibukawa"
-  },
-  {
-    "title": "GitのHEADとは何者なのか",
-    "url": "https://qiita.com/ymzk-jp/items/00ff664da60c37458aaa",
-    "likes_count": 376,
-    "created_at": "2018-12-09T23:59:10+09:00",
-    "updated_at": "2018-12-10T01:39:40+09:00",
-    "id": "ymzk-jp"
   },
   {
     "title": "Herokuを使いこなすのに必要な術",
@@ -616,20 +616,20 @@
     "id": "ko2ic"
   },
   {
+    "title": "Web API初心者と学ぶGraphQL",
+    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
+    "likes_count": 336,
+    "created_at": "2018-12-20T03:46:56+09:00",
+    "updated_at": "2020-12-23T18:50:54+09:00",
+    "id": "SiragumoHuin"
+  },
+  {
     "title": "月数100万アクセスをDB使わず超簡単にさばく",
     "url": "https://qiita.com/Hisashi_vc/items/a50b49ad6a75d51c880a",
     "likes_count": 335,
     "created_at": "2018-12-17T13:37:31+09:00",
     "updated_at": "2018-12-17T13:37:31+09:00",
     "id": "Hisashi_vc"
-  },
-  {
-    "title": "Web API初心者と学ぶGraphQL",
-    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 335,
-    "created_at": "2018-12-20T03:46:56+09:00",
-    "updated_at": "2020-12-23T18:50:54+09:00",
-    "id": "SiragumoHuin"
   },
   {
     "title": "ドメイン駆動設計を勉強するときのオススメ資料",
@@ -650,7 +650,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 331,
+    "likes_count": 332,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
@@ -674,7 +674,7 @@
   {
     "title": "docker-compose でMySQL環境簡単構築",
     "url": "https://qiita.com/A-Kira/items/f401aea261693c395966",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2018-12-02T15:06:02+09:00",
     "updated_at": "2020-06-16T10:53:48+09:00",
     "id": "A-Kira"
@@ -754,7 +754,7 @@
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
     "url": "https://qiita.com/riversun/items/c924cfe70e16ee3fe3ba",
-    "likes_count": 250,
+    "likes_count": 251,
     "created_at": "2018-12-16T08:41:24+09:00",
     "updated_at": "2018-12-18T21:05:54+09:00",
     "id": "riversun"
