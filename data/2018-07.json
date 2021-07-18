@@ -186,7 +186,7 @@
   {
     "title": "【Rails 5】(新) form_with と (旧) form_tag, form_for の違い",
     "url": "https://qiita.com/hmmrjn/items/24f3b8eade206ace17e2",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2018-07-02T02:57:12+09:00",
     "updated_at": "2020-09-08T01:09:29+09:00",
     "id": "hmmrjn"
@@ -210,7 +210,7 @@
   {
     "title": "HTMLのタグ選びで迷うところ",
     "url": "https://qiita.com/nishinoshake/items/cf3ba7b8a5da82f4150d",
-    "likes_count": 521,
+    "likes_count": 522,
     "created_at": "2018-07-09T09:55:33+09:00",
     "updated_at": "2018-07-11T14:10:56+09:00",
     "id": "nishinoshake"
@@ -242,7 +242,7 @@
   {
     "title": "Netlifyで静的サイトのホスティングをする",
     "url": "https://qiita.com/sugo/items/2ee64887d682b0dae635",
-    "likes_count": 468,
+    "likes_count": 469,
     "created_at": "2018-07-03T19:03:36+09:00",
     "updated_at": "2018-07-03T19:30:59+09:00",
     "id": "sugo"
@@ -410,10 +410,18 @@
   {
     "title": "Visual Studio Code で Markdown 編集環境を整える",
     "url": "https://qiita.com/kumapo0313/items/a59df3d74a7eaaaf3137",
-    "likes_count": 307,
+    "likes_count": 308,
     "created_at": "2018-07-21T22:02:27+09:00",
     "updated_at": "2020-06-21T13:33:52+09:00",
     "id": "kumapo0313"
+  },
+  {
+    "title": "Node.jsを学ぶ中で必ず押さえておきたいこと",
+    "url": "https://qiita.com/i-tanaka730/items/79e8e2c3ceb2bde51436",
+    "likes_count": 307,
+    "created_at": "2018-07-18T08:54:44+09:00",
+    "updated_at": "2020-10-22T10:52:14+09:00",
+    "id": "i-tanaka730"
   },
   {
     "title": "Scoopを使ったWindows環境構築のススメ - Super!!",
@@ -422,14 +430,6 @@
     "created_at": "2018-07-27T03:50:48+09:00",
     "updated_at": "2020-07-22T06:34:14+09:00",
     "id": "Dooteeen"
-  },
-  {
-    "title": "Node.jsを学ぶ中で必ず押さえておきたいこと",
-    "url": "https://qiita.com/i-tanaka730/items/79e8e2c3ceb2bde51436",
-    "likes_count": 306,
-    "created_at": "2018-07-18T08:54:44+09:00",
-    "updated_at": "2020-10-22T10:52:14+09:00",
-    "id": "i-tanaka730"
   },
   {
     "title": "10分で理解する Prometheus",
@@ -458,7 +458,7 @@
   {
     "title": "SpringBoot+Vue.js+ElementUI+Firebaseでマスタ管理アプリ入門",
     "url": "https://qiita.com/shunp/items/abea7fa01e7a664c85da",
-    "likes_count": 276,
+    "likes_count": 277,
     "created_at": "2018-07-29T19:41:43+09:00",
     "updated_at": "2019-01-21T16:03:48+09:00",
     "id": "shunp"
@@ -472,20 +472,20 @@
     "id": "hkthirano"
   },
   {
+    "title": "Electron & React & Redux & TypeScript アプリ作成ワークショップ 1日目",
+    "url": "https://qiita.com/EBIHARA_kenji/items/25e59f7132b96cb886f3",
+    "likes_count": 271,
+    "created_at": "2018-07-17T09:53:58+09:00",
+    "updated_at": "2020-10-01T08:40:06+09:00",
+    "id": "EBIHARA_kenji"
+  },
+  {
     "title": "nginxの設定ミスで起こる脆弱性シリーズ試してみた。",
     "url": "https://qiita.com/acidonion/items/b346053cdfdd19462ca8",
     "likes_count": 271,
     "created_at": "2018-07-23T17:05:13+09:00",
     "updated_at": "2019-06-03T15:00:00+09:00",
     "id": "acidonion"
-  },
-  {
-    "title": "Electron & React & Redux & TypeScript アプリ作成ワークショップ 1日目",
-    "url": "https://qiita.com/EBIHARA_kenji/items/25e59f7132b96cb886f3",
-    "likes_count": 270,
-    "created_at": "2018-07-17T09:53:58+09:00",
-    "updated_at": "2020-10-01T08:40:06+09:00",
-    "id": "EBIHARA_kenji"
   },
   {
     "title": "深層強化学習のビジネス応用と、AIに自然言語を理解させる方法について",
@@ -530,7 +530,7 @@
   {
     "title": "Chrome デベロッパーツールの使い方まとめ",
     "url": "https://qiita.com/d-dai/items/0b580b26bb1d1622eb46",
-    "likes_count": 215,
+    "likes_count": 216,
     "created_at": "2018-07-09T01:31:00+09:00",
     "updated_at": "2020-12-14T01:53:27+09:00",
     "id": "d-dai"
