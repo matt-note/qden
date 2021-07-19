@@ -2,7 +2,7 @@
   {
     "title": "ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習",
     "url": "https://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7",
-    "likes_count": 8265,
+    "likes_count": 8266,
     "created_at": "2014-05-25T16:52:40+09:00",
     "updated_at": "2019-03-17T00:41:02+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "モデルやメソッドに名前を付けるときは英語の品詞に気をつけよう",
     "url": "https://qiita.com/jnchito/items/459d58ba652bf4763820",
-    "likes_count": 3583,
+    "likes_count": 3584,
     "created_at": "2014-05-28T11:06:08+09:00",
     "updated_at": "2021-04-25T16:58:34+09:00",
     "id": "jnchito"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1471,
+    "likes_count": 1472,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2020-07-13T19:44:27+09:00",
     "id": "amedama"
@@ -74,7 +74,7 @@
   {
     "title": "提言: コミットメッセージの一行目には要求仕様を書け",
     "url": "https://qiita.com/magicant/items/882b5142c4d5064933bc",
-    "likes_count": 1152,
+    "likes_count": 1153,
     "created_at": "2014-05-29T15:46:30+09:00",
     "updated_at": "2014-06-28T12:28:21+09:00",
     "id": "magicant"
@@ -82,7 +82,7 @@
   {
     "title": "基本的なGitコマンドまとめ",
     "url": "https://qiita.com/2m1tsu3/items/6d49374230afab251337",
-    "likes_count": 1113,
+    "likes_count": 1112,
     "created_at": "2014-05-22T23:17:02+09:00",
     "updated_at": "2020-11-20T11:22:10+09:00",
     "id": "2m1tsu3"
@@ -218,7 +218,7 @@
   {
     "title": "PHPで各種バリデーション",
     "url": "https://qiita.com/mpyw/items/346f1789ad0e1b969ebc",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2014-05-23T08:22:05+09:00",
     "updated_at": "2018-01-29T07:00:38+09:00",
     "id": "mpyw"
@@ -282,7 +282,7 @@
   {
     "title": "PostgreSQLのbackup, restore方法まとめ",
     "url": "https://qiita.com/rice_american/items/ceae28dad13c3977e3a8",
-    "likes_count": 469,
+    "likes_count": 470,
     "created_at": "2014-05-25T14:37:55+09:00",
     "updated_at": "2019-06-15T20:04:12+09:00",
     "id": "rice_american"
@@ -338,7 +338,7 @@
   {
     "title": "多段SSHやポートフォワーディングを '.ssh/config' に書く",
     "url": "https://qiita.com/lasta/items/41e95a2fdded18c34dae",
-    "likes_count": 427,
+    "likes_count": 429,
     "created_at": "2014-05-14T16:27:11+09:00",
     "updated_at": "2019-12-27T08:11:20+09:00",
     "id": "lasta"
@@ -424,20 +424,20 @@
     "id": "machu"
   },
   {
+    "title": "vimのGoサポートが手厚くて打ち震えている",
+    "url": "https://qiita.com/shiena/items/870ac0f1db8e9a8672a7",
+    "likes_count": 333,
+    "created_at": "2014-06-01T01:49:49+09:00",
+    "updated_at": "2016-01-02T03:53:52+09:00",
+    "id": "shiena"
+  },
+  {
     "title": "忙しい現代社会人のために習うより慣れる AngularJS のリンク集",
     "url": "https://qiita.com/damele0n/items/f86b963ed55a45bdbc49",
     "likes_count": 332,
     "created_at": "2014-05-07T18:00:18+09:00",
     "updated_at": "2014-05-07T18:13:52+09:00",
     "id": "damele0n"
-  },
-  {
-    "title": "vimのGoサポートが手厚くて打ち震えている",
-    "url": "https://qiita.com/shiena/items/870ac0f1db8e9a8672a7",
-    "likes_count": 332,
-    "created_at": "2014-06-01T01:49:49+09:00",
-    "updated_at": "2016-01-02T03:53:52+09:00",
-    "id": "shiena"
   },
   {
     "title": "NSURLSession のまとめ",

@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2042,
+    "likes_count": 2043,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -98,7 +98,7 @@
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
     "url": "https://qiita.com/YudaiTsukamoto/items/06b426f4dbee268d5035",
-    "likes_count": 912,
+    "likes_count": 913,
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2017-12-14T17:04:47+09:00",
     "id": "YudaiTsukamoto"
@@ -114,7 +114,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 892,
+    "likes_count": 894,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -122,7 +122,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 877,
+    "likes_count": 878,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -194,7 +194,7 @@
   {
     "title": "dev.toがなぜinsanely  fastを実現出来ているか",
     "url": "https://qiita.com/saboyutaka/items/1f528ec3ce85476d7561",
-    "likes_count": 775,
+    "likes_count": 776,
     "created_at": "2017-12-05T19:38:54+09:00",
     "updated_at": "2018-12-17T14:40:22+09:00",
     "id": "saboyutaka"
@@ -336,6 +336,14 @@
     "id": "namusyaka"
   },
   {
+    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
+    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
+    "likes_count": 569,
+    "created_at": "2017-12-22T11:55:57+09:00",
+    "updated_at": "2019-07-11T10:18:55+09:00",
+    "id": "megadreams14"
+  },
+  {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
     "likes_count": 568,
@@ -344,17 +352,9 @@
     "id": "567000"
   },
   {
-    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
-    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 568,
-    "created_at": "2017-12-22T11:55:57+09:00",
-    "updated_at": "2019-07-11T10:18:55+09:00",
-    "id": "megadreams14"
-  },
-  {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -370,7 +370,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 545,
+    "likes_count": 546,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -730,7 +730,7 @@
   {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
     "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2017-12-13T01:29:31+09:00",
     "updated_at": "2018-08-25T11:45:30+09:00",
     "id": "h1kita"
