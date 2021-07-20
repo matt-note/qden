@@ -90,7 +90,7 @@
   {
     "title": "オブジェクト指向のいろは",
     "url": "https://qiita.com/nrslib/items/73bf176147192c402049",
-    "likes_count": 1123,
+    "likes_count": 1124,
     "created_at": "2018-11-08T07:23:49+09:00",
     "updated_at": "2018-12-23T22:55:48+09:00",
     "id": "nrslib"
@@ -234,7 +234,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 597,
+    "likes_count": 598,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -282,7 +282,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 499,
+    "likes_count": 507,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -296,20 +296,20 @@
     "id": "nh321"
   },
   {
+    "title": "gem installでpermissionエラーになった時の対応方法",
+    "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
+    "likes_count": 493,
+    "created_at": "2018-11-25T22:52:44+09:00",
+    "updated_at": "2019-09-25T15:09:16+09:00",
+    "id": "nishina555"
+  },
+  {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
     "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
     "likes_count": 492,
     "created_at": "2018-11-18T19:13:03+09:00",
     "updated_at": "2019-10-05T07:32:56+09:00",
     "id": "kd9951"
-  },
-  {
-    "title": "gem installでpermissionエラーになった時の対応方法",
-    "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 492,
-    "created_at": "2018-11-25T22:52:44+09:00",
-    "updated_at": "2019-09-25T15:09:16+09:00",
-    "id": "nishina555"
   },
   {
     "title": "プログラミング歴半年だけど、エンジニアが「知らないことを知る」ためのWEBサービス「Putiita」を作ったよ",
@@ -394,7 +394,7 @@
   {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
     "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2018-11-06T02:18:59+09:00",
     "updated_at": "2018-11-06T02:18:59+09:00",
     "id": "psychoroid"
@@ -442,7 +442,7 @@
   {
     "title": "iOS/Android セキュリティガイドライン",
     "url": "https://qiita.com/alt_yamamoto/items/f67a7ddb6ba13cca7369",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2018-11-20T17:51:33+09:00",
     "updated_at": "2020-01-22T10:02:28+09:00",
     "id": "alt_yamamoto"
@@ -506,7 +506,7 @@
   {
     "title": "Laravelで始める依存性の注入（DI）",
     "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
-    "likes_count": 289,
+    "likes_count": 291,
     "created_at": "2018-11-30T15:37:00+09:00",
     "updated_at": "2020-08-03T21:31:08+09:00",
     "id": "harunbu"
