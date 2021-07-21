@@ -10,7 +10,7 @@
   {
     "title": "VueとFirebaseの基本機能全部使ってぬるぬる動くポートフォリオサイトを作ったのでソースと解説",
     "url": "https://qiita.com/yuneco/items/b14a695a060c96309239",
-    "likes_count": 1753,
+    "likes_count": 1752,
     "created_at": "2019-02-03T23:37:52+09:00",
     "updated_at": "2019-11-15T18:05:38+09:00",
     "id": "yuneco"
@@ -42,7 +42,7 @@
   {
     "title": "私たちはどうして公式ドキュメントが読めないのか？",
     "url": "https://qiita.com/hiraike32/items/f0a211cceb0ecc516b6c",
-    "likes_count": 1471,
+    "likes_count": 1472,
     "created_at": "2019-02-12T00:03:40+09:00",
     "updated_at": "2019-02-19T12:07:24+09:00",
     "id": "hiraike32"
@@ -74,7 +74,7 @@
   {
     "title": "2019年に注目すべきWebテクノロジー6選",
     "url": "https://qiita.com/rana_kualu/items/9652879067cf658499c7",
-    "likes_count": 887,
+    "likes_count": 886,
     "created_at": "2019-02-04T19:46:54+09:00",
     "updated_at": "2019-02-05T18:08:54+09:00",
     "id": "rana_kualu"
@@ -144,6 +144,14 @@
     "id": "kaito_tateyama"
   },
   {
+    "title": "開発が捗るかもしれない(面白い)ダミー画像,テキストまとめ",
+    "url": "https://qiita.com/redshoga/items/1d06c8cda3af77e0c5e8",
+    "likes_count": 687,
+    "created_at": "2019-02-27T18:09:40+09:00",
+    "updated_at": "2019-05-20T12:44:09+09:00",
+    "id": "redshoga"
+  },
+  {
     "title": "個人開発でも最低限やっておくべきインフラレベルでのセキュリティ対策",
     "url": "https://qiita.com/uichi/items/c34536b66101e9440cf2",
     "likes_count": 686,
@@ -158,14 +166,6 @@
     "created_at": "2019-02-26T23:00:10+09:00",
     "updated_at": "2021-01-17T10:36:50+09:00",
     "id": "fuku_tech"
-  },
-  {
-    "title": "開発が捗るかもしれない(面白い)ダミー画像,テキストまとめ",
-    "url": "https://qiita.com/redshoga/items/1d06c8cda3af77e0c5e8",
-    "likes_count": 686,
-    "created_at": "2019-02-27T18:09:40+09:00",
-    "updated_at": "2019-05-20T12:44:09+09:00",
-    "id": "redshoga"
   },
   {
     "title": "Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する",
@@ -186,7 +186,7 @@
   {
     "title": "やってみようNoSQL　MongoDBを最速で理解する",
     "url": "https://qiita.com/Brutus/items/8a67a4db0fdc5a33d549",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2019-02-19T01:01:37+09:00",
     "updated_at": "2021-02-15T20:49:48+09:00",
     "id": "Brutus"
@@ -210,7 +210,7 @@
   {
     "title": "Ruby on Rails, Vue.js で始めるモダン WEB アプリケーション入門",
     "url": "https://qiita.com/tatsurou313/items/4f18c0d4d231e2fb55f4",
-    "likes_count": 573,
+    "likes_count": 574,
     "created_at": "2019-02-11T21:12:11+09:00",
     "updated_at": "2021-02-17T02:18:28+09:00",
     "id": "tatsurou313"
@@ -242,7 +242,7 @@
   {
     "title": "TypeScriptの型演習",
     "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 535,
+    "likes_count": 536,
     "created_at": "2019-02-23T18:09:59+09:00",
     "updated_at": "2020-05-22T11:16:41+09:00",
     "id": "uhyo"
@@ -250,7 +250,7 @@
   {
     "title": "エンジニアは最初の会社を1年程度で辞めた方がよい理由",
     "url": "https://qiita.com/poly_soft/items/6868a390cb2d47542e59",
-    "likes_count": 509,
+    "likes_count": 508,
     "created_at": "2019-02-03T11:20:07+09:00",
     "updated_at": "2019-03-11T19:35:12+09:00",
     "id": "poly_soft"
@@ -314,10 +314,18 @@
   {
     "title": "【Python】🍜ラーメンガチ勢によるガチ勢のための食べログスクレイピング🍜",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/f143946944a428ed105b",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2019-02-24T14:24:22+09:00",
     "updated_at": "2020-11-06T22:26:22+09:00",
     "id": "toshiyuki_tsutsui"
+  },
+  {
+    "title": "SVGを使うときに知っておくといいことをまとめました",
+    "url": "https://qiita.com/manabuyasuda/items/01a76204f97cd73ffc4e",
+    "likes_count": 433,
+    "created_at": "2019-02-22T19:47:54+09:00",
+    "updated_at": "2019-03-06T14:47:30+09:00",
+    "id": "manabuyasuda"
   },
   {
     "title": "今さら聞けない？Vue Router",
@@ -326,14 +334,6 @@
     "created_at": "2019-02-25T04:17:35+09:00",
     "updated_at": "2019-02-25T15:34:55+09:00",
     "id": "hshota28"
-  },
-  {
-    "title": "SVGを使うときに知っておくといいことをまとめました",
-    "url": "https://qiita.com/manabuyasuda/items/01a76204f97cd73ffc4e",
-    "likes_count": 432,
-    "created_at": "2019-02-22T19:47:54+09:00",
-    "updated_at": "2019-03-06T14:47:30+09:00",
-    "id": "manabuyasuda"
   },
   {
     "title": "不均衡データへの決定打となるか！？「Affinity loss」の論文を読む、実装する",
@@ -346,7 +346,7 @@
   {
     "title": "完全に理解するアフィン変換",
     "url": "https://qiita.com/koshian2/items/c133e2e10c261b8646bf",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2019-02-10T22:29:20+09:00",
     "updated_at": "2019-02-13T21:25:28+09:00",
     "id": "koshian2"
@@ -394,7 +394,7 @@
   {
     "title": "【JavaScript】lodashの使い方",
     "url": "https://qiita.com/sitilma/items/a08e28def541c28458a0",
-    "likes_count": 343,
+    "likes_count": 342,
     "created_at": "2019-02-05T09:20:25+09:00",
     "updated_at": "2019-02-05T09:20:25+09:00",
     "id": "sitilma"
@@ -458,7 +458,7 @@
   {
     "title": "画像処理100本ノックを「Google Colaboratory」で楽々学習",
     "url": "https://qiita.com/karaage0703/items/e0b57b63dbebed908b2f",
-    "likes_count": 279,
+    "likes_count": 280,
     "created_at": "2019-02-13T20:48:16+09:00",
     "updated_at": "2020-06-17T09:10:29+09:00",
     "id": "karaage0703"

@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1757,
+    "likes_count": 1759,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1573,
+    "likes_count": 1574,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -56,20 +56,20 @@
     "id": "teradonburi"
   },
   {
+    "title": "JavaScript で forEach を使うのは最終手段",
+    "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
+    "likes_count": 1262,
+    "created_at": "2018-12-01T23:55:04+09:00",
+    "updated_at": "2021-07-15T22:07:14+09:00",
+    "id": "diescake"
+  },
+  {
     "title": "インフラエンジニアと謎のサーバ",
     "url": "https://qiita.com/kanga/items/979b0bdc4653e025483a",
     "likes_count": 1261,
     "created_at": "2018-12-06T19:56:35+09:00",
     "updated_at": "2019-05-02T16:00:02+09:00",
     "id": "kanga"
-  },
-  {
-    "title": "JavaScript で forEach を使うのは最終手段",
-    "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1260,
-    "created_at": "2018-12-01T23:55:04+09:00",
-    "updated_at": "2021-07-15T22:07:14+09:00",
-    "id": "diescake"
   },
   {
     "title": "おもしろいダジャレを入力すると布団が吹っ飛ぶ装置を作った",
@@ -82,7 +82,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1130,
+    "likes_count": 1134,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -98,7 +98,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1057,
+    "likes_count": 1059,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -178,7 +178,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 898,
+    "likes_count": 899,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -186,7 +186,7 @@
   {
     "title": "Reactベース静的サイトジェネレータGatsbyの真の力をお見せします",
     "url": "https://qiita.com/uehaj/items/1b7f0a86596353587466",
-    "likes_count": 895,
+    "likes_count": 896,
     "created_at": "2018-12-21T18:18:40+09:00",
     "updated_at": "2021-01-28T18:23:11+09:00",
     "id": "uehaj"
@@ -242,7 +242,7 @@
   {
     "title": "2018年これだけは知っておきたいiOSライブラリ31選",
     "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
-    "likes_count": 669,
+    "likes_count": 668,
     "created_at": "2018-12-12T19:17:50+09:00",
     "updated_at": "2019-03-18T13:42:44+09:00",
     "id": "kohei1218"
@@ -362,7 +362,7 @@
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 485,
+    "likes_count": 486,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
@@ -410,7 +410,7 @@
   {
     "title": "package-lock.jsonについて知りたくても聞けなかったこと",
     "url": "https://qiita.com/fj_yohei/items/7ca887a45e0855917279",
-    "likes_count": 464,
+    "likes_count": 465,
     "created_at": "2018-12-03T15:34:09+09:00",
     "updated_at": "2020-07-11T13:34:36+09:00",
     "id": "fj_yohei"
@@ -482,7 +482,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -490,7 +490,7 @@
   {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
@@ -762,7 +762,7 @@
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
     "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
-    "likes_count": 244,
+    "likes_count": 243,
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"

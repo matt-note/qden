@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2043,
+    "likes_count": 2046,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1473,
+    "likes_count": 1474,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1307,
+    "likes_count": 1308,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1183,
+    "likes_count": 1184,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -122,7 +122,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 879,
+    "likes_count": 880,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -138,7 +138,7 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 861,
+    "likes_count": 862,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
@@ -154,7 +154,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 833,
+    "likes_count": 834,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -242,7 +242,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 708,
+    "likes_count": 709,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -338,7 +338,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 570,
+    "likes_count": 571,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -354,10 +354,18 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 560,
+    "likes_count": 562,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
+  },
+  {
+    "title": "標準入力・標準出力ってなに?",
+    "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
+    "likes_count": 547,
+    "created_at": "2017-12-17T21:10:27+09:00",
+    "updated_at": "2019-03-30T11:03:39+09:00",
+    "id": "angel_p_57"
   },
   {
     "title": "エンジニアが最高のUIをつくるためのプロトタイピング方法まとめ（2017年版）",
@@ -366,14 +374,6 @@
     "created_at": "2017-12-23T22:03:19+09:00",
     "updated_at": "2018-12-09T17:24:58+09:00",
     "id": "yuh_iw"
-  },
-  {
-    "title": "標準入力・標準出力ってなに?",
-    "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 546,
-    "created_at": "2017-12-17T21:10:27+09:00",
-    "updated_at": "2019-03-30T11:03:39+09:00",
-    "id": "angel_p_57"
   },
   {
     "title": "極めろ！！Google Chrome Devtools 52の関節技",
@@ -474,7 +474,7 @@
   {
     "title": "Parcel 入門 ～Parcelはwebpackの代わりになるのか～",
     "url": "https://qiita.com/soarflat/items/3e43368b2d767c730781",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2017-12-10T13:28:47+09:00",
     "updated_at": "2021-07-01T01:44:11+09:00",
     "id": "soarflat"
@@ -506,7 +506,7 @@
   {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
@@ -528,20 +528,20 @@
     "id": "t2kojima"
   },
   {
-    "title": ".bash_profileと.bashrcのまとめ",
-    "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 403,
-    "created_at": "2017-12-25T22:56:03+09:00",
-    "updated_at": "2017-12-25T22:56:03+09:00",
-    "id": "takutoki"
-  },
-  {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
     "likes_count": 402,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
+  },
+  {
+    "title": ".bash_profileと.bashrcのまとめ",
+    "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
+    "likes_count": 402,
+    "created_at": "2017-12-25T22:56:03+09:00",
+    "updated_at": "2017-12-25T22:56:03+09:00",
+    "id": "takutoki"
   },
   {
     "title": "やはりお前らの真偽値メソッド名は間違っている。 〜「Xxx できる？」系メソッドの命名〜",
@@ -754,7 +754,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 294,
+    "likes_count": 296,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
