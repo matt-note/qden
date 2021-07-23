@@ -10,7 +10,7 @@
   {
     "title": "トップデベロッパーになるために作成したいアプリ8選",
     "url": "https://qiita.com/baby-degu/items/f905c8ee972cf46ce11b",
-    "likes_count": 3219,
+    "likes_count": 3220,
     "created_at": "2019-11-10T21:29:43+09:00",
     "updated_at": "2021-02-10T21:36:50+09:00",
     "id": "baby-degu"
@@ -130,7 +130,7 @@
   {
     "title": "ブラウザレンダリングの仕組み",
     "url": "https://qiita.com/sasakiki/items/91dcc8b50d7a61ce98bc",
-    "likes_count": 1065,
+    "likes_count": 1066,
     "created_at": "2019-11-24T21:45:11+09:00",
     "updated_at": "2019-12-14T19:03:17+09:00",
     "id": "sasakiki"
@@ -178,7 +178,7 @@
   {
     "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
     "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 730,
+    "likes_count": 731,
     "created_at": "2019-11-21T16:30:57+09:00",
     "updated_at": "2020-10-14T00:17:51+09:00",
     "id": "ryokkkke"
@@ -258,7 +258,7 @@
   {
     "title": "マルチカーソルで、VSCodeのスニペットをもっと便利に。",
     "url": "https://qiita.com/Yametaro/items/40b6c37437056f2a3ed5",
-    "likes_count": 592,
+    "likes_count": 591,
     "created_at": "2019-11-12T23:03:50+09:00",
     "updated_at": "2019-11-13T20:29:59+09:00",
     "id": "Yametaro"
@@ -352,20 +352,20 @@
     "id": "Chanmoro"
   },
   {
+    "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
+    "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
+    "likes_count": 467,
+    "created_at": "2019-11-15T22:47:51+09:00",
+    "updated_at": "2020-03-09T11:53:54+09:00",
+    "id": "ramuneru"
+  },
+  {
     "title": "テストで個人的によく使うツール7選",
     "url": "https://qiita.com/tsuemura/items/c16090a060bf504039cb",
     "likes_count": 467,
     "created_at": "2019-11-30T22:26:46+09:00",
     "updated_at": "2019-12-01T07:00:36+09:00",
     "id": "tsuemura"
-  },
-  {
-    "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
-    "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
-    "likes_count": 466,
-    "created_at": "2019-11-15T22:47:51+09:00",
-    "updated_at": "2020-03-09T11:53:54+09:00",
-    "id": "ramuneru"
   },
   {
     "title": "【初心者向け】Gitで個人開発",
@@ -386,10 +386,18 @@
   {
     "title": "やさしい図解で学ぶ　ER図　表記法一覧",
     "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2019-11-11T19:20:33+09:00",
     "updated_at": "2020-03-02T12:18:46+09:00",
     "id": "ramuneru"
+  },
+  {
+    "title": "AWS,Azure,GCPの3大クラウドのアーキテクト試験に合格してみての個人的比較",
+    "url": "https://qiita.com/yomon8/items/f812079d0ce631f73d45",
+    "likes_count": 440,
+    "created_at": "2019-11-21T20:20:09+09:00",
+    "updated_at": "2021-06-03T17:59:59+09:00",
+    "id": "yomon8"
   },
   {
     "title": "無料で使える公開 API のリスト：48 カテゴリ",
@@ -398,14 +406,6 @@
     "created_at": "2019-11-06T01:58:32+09:00",
     "updated_at": "2019-11-15T09:31:07+09:00",
     "id": "eigs"
-  },
-  {
-    "title": "AWS,Azure,GCPの3大クラウドのアーキテクト試験に合格してみての個人的比較",
-    "url": "https://qiita.com/yomon8/items/f812079d0ce631f73d45",
-    "likes_count": 439,
-    "created_at": "2019-11-21T20:20:09+09:00",
-    "updated_at": "2021-06-03T17:59:59+09:00",
-    "id": "yomon8"
   },
   {
     "title": "誤解されることが多い「テスト自動化」の範囲について",
@@ -458,7 +458,7 @@
   {
     "title": "【入門】はじめての Flutter",
     "url": "https://qiita.com/nskydiving/items/4fcf0dbad923d50601f9",
-    "likes_count": 377,
+    "likes_count": 378,
     "created_at": "2019-11-03T19:19:27+09:00",
     "updated_at": "2021-03-20T09:18:58+09:00",
     "id": "nskydiving"
@@ -474,7 +474,7 @@
   {
     "title": "ドメインモデルとは(「現場で役立つシステム設計の原則」より)",
     "url": "https://qiita.com/jimpei/items/93671b4b09407f9d4111",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2019-11-04T23:44:21+09:00",
     "updated_at": "2019-11-06T18:44:55+09:00",
     "id": "jimpei"
@@ -530,7 +530,7 @@
   {
     "title": "Vue.js ユニットテストの基本まとめ",
     "url": "https://qiita.com/kskinaba/items/d23259060e6e13b7353c",
-    "likes_count": 268,
+    "likes_count": 269,
     "created_at": "2019-11-27T18:55:16+09:00",
     "updated_at": "2019-12-05T21:31:49+09:00",
     "id": "kskinaba"

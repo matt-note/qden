@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 3524,
+    "likes_count": 3525,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2021-04-12T11:28:43+09:00",
     "id": "gold-kou"
@@ -98,10 +98,18 @@
   {
     "title": "すばらしきポケモンエコシステム⚡️",
     "url": "https://qiita.com/seya/items/47dc0ebae55674d8902f",
-    "likes_count": 899,
+    "likes_count": 904,
     "created_at": "2018-08-21T08:08:40+09:00",
     "updated_at": "2018-08-21T11:20:04+09:00",
     "id": "seya"
+  },
+  {
+    "title": "JavaScriptのpreventDefault()って難しくない？preventDefault()を使うための前提知識",
+    "url": "https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae",
+    "likes_count": 783,
+    "created_at": "2018-08-19T23:18:15+09:00",
+    "updated_at": "2021-05-15T17:37:16+09:00",
+    "id": "tochiji"
   },
   {
     "title": "TODO: 以外のアノテーションコメントをまとめた",
@@ -110,14 +118,6 @@
     "created_at": "2018-08-18T23:17:23+09:00",
     "updated_at": "2019-03-22T19:58:02+09:00",
     "id": "taka-kawa"
-  },
-  {
-    "title": "JavaScriptのpreventDefault()って難しくない？preventDefault()を使うための前提知識",
-    "url": "https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae",
-    "likes_count": 780,
-    "created_at": "2018-08-19T23:18:15+09:00",
-    "updated_at": "2021-05-15T17:37:16+09:00",
-    "id": "tochiji"
   },
   {
     "title": "JavaScriptのイベントをたくさん見られるサイトを作る",
@@ -378,7 +378,7 @@
   {
     "title": "トランザクション分離レベルについてのまとめ",
     "url": "https://qiita.com/song_ss/items/38e514b05e9dabae3bdb",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2018-08-23T20:12:02+09:00",
     "updated_at": "2018-12-18T11:58:43+09:00",
     "id": "song_ss"
