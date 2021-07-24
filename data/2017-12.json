@@ -154,7 +154,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 835,
+    "likes_count": 836,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -330,7 +330,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 573,
+    "likes_count": 574,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -522,7 +522,7 @@
   {
     "title": "Rails5でコントローラのテストをController specからRequest specに移行する",
     "url": "https://qiita.com/t2kojima/items/ad7a8ade9e7a99fb4384",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2017-12-05T22:36:34+09:00",
     "updated_at": "2017-12-05T22:54:48+09:00",
     "id": "t2kojima"
@@ -690,7 +690,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 335,
+    "likes_count": 336,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
@@ -720,6 +720,14 @@
     "id": "IzumiSy"
   },
   {
+    "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
+    "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
+    "likes_count": 324,
+    "created_at": "2017-12-13T01:29:31+09:00",
+    "updated_at": "2018-08-25T11:45:30+09:00",
+    "id": "h1kita"
+  },
+  {
     "title": "まだ間に合う！着々と進化しているFirebaseをまとめてみるよ #Firebase #FJUG",
     "url": "https://qiita.com/Yatima/items/23797ca868ee988c824b",
     "likes_count": 323,
@@ -728,17 +736,9 @@
     "id": "Yatima"
   },
   {
-    "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
-    "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 323,
-    "created_at": "2017-12-13T01:29:31+09:00",
-    "updated_at": "2018-08-25T11:45:30+09:00",
-    "id": "h1kita"
-  },
-  {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"

@@ -138,7 +138,7 @@
   {
     "title": "WSL2によるホストのメモリ枯渇を防ぐための暫定対処",
     "url": "https://qiita.com/yoichiwo7/items/e3e13b6fe2f32c4c6120",
-    "likes_count": 662,
+    "likes_count": 663,
     "created_at": "2020-05-30T07:36:28+09:00",
     "updated_at": "2020-07-15T06:32:14+09:00",
     "id": "yoichiwo7"
@@ -176,20 +176,20 @@
     "id": "kami634"
   },
   {
+    "title": "React.memo / useCallback / useMemo の使い方、使い所を理解してパフォーマンス最適化をする",
+    "url": "https://qiita.com/soarflat/items/b9d3d17b8ab1f5dbfed2",
+    "likes_count": 570,
+    "created_at": "2020-05-25T00:01:22+09:00",
+    "updated_at": "2021-07-01T01:42:06+09:00",
+    "id": "soarflat"
+  },
+  {
     "title": "2020年5月におけるPython開発環境の選択肢",
     "url": "https://qiita.com/nicco_mirai/items/80ba4b4bf9db11ac54c6",
     "likes_count": 569,
     "created_at": "2020-05-26T09:55:00+09:00",
     "updated_at": "2020-05-26T09:55:00+09:00",
     "id": "nicco_mirai"
-  },
-  {
-    "title": "React.memo / useCallback / useMemo の使い方、使い所を理解してパフォーマンス最適化をする",
-    "url": "https://qiita.com/soarflat/items/b9d3d17b8ab1f5dbfed2",
-    "likes_count": 568,
-    "created_at": "2020-05-25T00:01:22+09:00",
-    "updated_at": "2021-07-01T01:42:06+09:00",
-    "id": "soarflat"
   },
   {
     "title": "10行ぷよぷよのソースコードを読む",
