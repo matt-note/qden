@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2052,
+    "likes_count": 2054,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1474,
+    "likes_count": 1475,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -104,20 +104,20 @@
     "id": "YudaiTsukamoto"
   },
   {
+    "title": "EMアルゴリズム徹底解説",
+    "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
+    "likes_count": 902,
+    "created_at": "2017-12-18T19:47:53+09:00",
+    "updated_at": "2017-12-31T02:21:02+09:00",
+    "id": "kenmatsu4"
+  },
+  {
     "title": "非エンジニアのマネージャがエンジニアチームと上手くやる方法",
     "url": "https://qiita.com/jonathanh/items/79056e13ac1f32a658ea",
     "likes_count": 899,
     "created_at": "2017-12-13T05:29:48+09:00",
     "updated_at": "2017-12-14T20:48:25+09:00",
     "id": "jonathanh"
-  },
-  {
-    "title": "EMアルゴリズム徹底解説",
-    "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 897,
-    "created_at": "2017-12-18T19:47:53+09:00",
-    "updated_at": "2017-12-31T02:21:02+09:00",
-    "id": "kenmatsu4"
   },
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
@@ -128,20 +128,20 @@
     "id": "mochio"
   },
   {
+    "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
+    "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
+    "likes_count": 863,
+    "created_at": "2017-12-22T13:55:59+09:00",
+    "updated_at": "2019-02-20T09:49:20+09:00",
+    "id": "sin_tanaka"
+  },
+  {
     "title": "2017年のディープラーニング論文100選",
     "url": "https://qiita.com/sakaiakira/items/f225b670bea6d851c7ea",
     "likes_count": 862,
     "created_at": "2017-12-18T13:13:50+09:00",
     "updated_at": "2018-05-09T01:01:47+09:00",
     "id": "sakaiakira"
-  },
-  {
-    "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
-    "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 862,
-    "created_at": "2017-12-22T13:55:59+09:00",
-    "updated_at": "2019-02-20T09:49:20+09:00",
-    "id": "sin_tanaka"
   },
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
@@ -216,20 +216,20 @@
     "id": "sakaizay"
   },
   {
+    "title": "割と突き詰めてやったvim→vscode移行",
+    "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
+    "likes_count": 748,
+    "created_at": "2017-12-18T10:12:06+09:00",
+    "updated_at": "2019-07-10T10:58:40+09:00",
+    "id": "y-mattun"
+  },
+  {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
     "likes_count": 748,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
-  },
-  {
-    "title": "割と突き詰めてやったvim→vscode移行",
-    "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
-    "likes_count": 747,
-    "created_at": "2017-12-18T10:12:06+09:00",
-    "updated_at": "2019-07-10T10:58:40+09:00",
-    "id": "y-mattun"
   },
   {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
@@ -282,7 +282,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 630,
+    "likes_count": 631,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -354,7 +354,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 564,
+    "likes_count": 565,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"

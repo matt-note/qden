@@ -10,7 +10,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 2551,
+    "likes_count": 2552,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2020-02-11T18:07:22+09:00",
     "id": "jesus_isao"
@@ -26,7 +26,7 @@
   {
     "title": "Vue.jsを100時間勉強して分かったこと",
     "url": "https://qiita.com/kskinaba/items/3e8887d45b11f9132012",
-    "likes_count": 2222,
+    "likes_count": 2223,
     "created_at": "2019-05-16T18:44:50+09:00",
     "updated_at": "2020-07-01T08:46:20+09:00",
     "id": "kskinaba"
@@ -58,7 +58,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1569,
+    "likes_count": 1570,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -82,7 +82,7 @@
   {
     "title": "Ricty を神フォントだと崇める僕が、フリーライセンスのプログラミングフォント「白源」を作った話",
     "url": "https://qiita.com/tawara_/items/374f3ca0a386fab8b305",
-    "likes_count": 1315,
+    "likes_count": 1317,
     "created_at": "2019-05-21T13:54:46+09:00",
     "updated_at": "2021-06-15T06:23:20+09:00",
     "id": "tawara_"
@@ -306,7 +306,7 @@
   {
     "title": "TailwindCSS入門 ~ Utility First + デザインシステムの構築 ~",
     "url": "https://qiita.com/oedkty/items/68461080515ec1012980",
-    "likes_count": 491,
+    "likes_count": 492,
     "created_at": "2019-05-26T13:14:34+09:00",
     "updated_at": "2020-06-09T21:21:30+09:00",
     "id": "oedkty"
@@ -416,6 +416,14 @@
     "id": "kahirokunn"
   },
   {
+    "title": "競技プログラミング入門者の成長のためのメモ",
+    "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
+    "likes_count": 358,
+    "created_at": "2019-05-14T05:46:53+09:00",
+    "updated_at": "2021-05-20T20:52:48+09:00",
+    "id": "masakinihirota"
+  },
+  {
     "title": "5時間でWebサービスをローンチするためにした７つのこと",
     "url": "https://qiita.com/yuno_miyako/items/314510e4e4b11a080fe3",
     "likes_count": 358,
@@ -432,14 +440,6 @@
     "id": "Go-Noji"
   },
   {
-    "title": "競技プログラミング入門者の成長のためのメモ",
-    "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
-    "likes_count": 357,
-    "created_at": "2019-05-14T05:46:53+09:00",
-    "updated_at": "2021-05-20T20:52:48+09:00",
-    "id": "masakinihirota"
-  },
-  {
     "title": "きみたちは今まで何のためにRailsでMVCパターンを勉強してきたのか",
     "url": "https://qiita.com/jnchito/items/e2b1c8904cd7b8e3ce50",
     "likes_count": 355,
@@ -450,7 +450,7 @@
   {
     "title": "WSL (Windows Subsystem for Linux)の基本メモ",
     "url": "https://qiita.com/rubytomato@github/items/fdfc0a76e848442f374e",
-    "likes_count": 339,
+    "likes_count": 340,
     "created_at": "2019-05-18T00:04:17+09:00",
     "updated_at": "2020-05-15T23:58:04+09:00",
     "id": "rubytomato@github"
@@ -474,10 +474,18 @@
   {
     "title": "まだVSCode拡張機能探しで消耗してるの？　VSCodeの拡張機能は意外と簡単につくれるよ！！",
     "url": "https://qiita.com/delmontz/items/abd075eacb1302fc184c",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2019-05-20T11:17:57+09:00",
     "updated_at": "2019-05-20T11:17:57+09:00",
     "id": "delmontz"
+  },
+  {
+    "title": "Python で大量のファイルを並列で速く読み込む",
+    "url": "https://qiita.com/hoto17296/items/586dc01aee69cd4915cc",
+    "likes_count": 309,
+    "created_at": "2019-05-31T11:52:40+09:00",
+    "updated_at": "2019-06-03T06:30:01+09:00",
+    "id": "hoto17296"
   },
   {
     "title": "【Docker】Linuxコマンドを知らないエンジニアが滅びるかもしれない件【WSL2】",
@@ -486,14 +494,6 @@
     "created_at": "2019-05-13T09:40:29+09:00",
     "updated_at": "2019-05-15T14:53:29+09:00",
     "id": "Kuzira_Kuzira"
-  },
-  {
-    "title": "Python で大量のファイルを並列で速く読み込む",
-    "url": "https://qiita.com/hoto17296/items/586dc01aee69cd4915cc",
-    "likes_count": 308,
-    "created_at": "2019-05-31T11:52:40+09:00",
-    "updated_at": "2019-06-03T06:30:01+09:00",
-    "id": "hoto17296"
   },
   {
     "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
@@ -562,7 +562,7 @@
   {
     "title": "新人プログラマが入っておくといいSlack/Discordサーバー",
     "url": "https://qiita.com/asakuraTsukazaki/items/b980ab16c242229cd8bc",
-    "likes_count": 241,
+    "likes_count": 242,
     "created_at": "2019-05-11T14:06:05+09:00",
     "updated_at": "2019-05-14T13:08:33+09:00",
     "id": "asakuraTsukazaki"
