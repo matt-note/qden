@@ -26,7 +26,7 @@
   {
     "title": "画像処理の数式を見て石になった時のための、金の針",
     "url": "https://qiita.com/icoxfog417/items/adbbf445d357c924b8fc",
-    "likes_count": 3259,
+    "likes_count": 3261,
     "created_at": "2016-01-31T15:10:23+09:00",
     "updated_at": "2020-03-14T12:23:58+09:00",
     "id": "icoxfog417"
@@ -34,7 +34,7 @@
   {
     "title": "2016年 独りで新規WEBサービスを開発・運用した際の知見",
     "url": "https://qiita.com/haminiku/items/711cbdb894d1d6839e3e",
-    "likes_count": 3163,
+    "likes_count": 3164,
     "created_at": "2016-01-06T06:46:37+09:00",
     "updated_at": "2016-02-23T06:50:34+09:00",
     "id": "haminiku"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2447,
+    "likes_count": 2448,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -186,7 +186,7 @@
   {
     "title": "Bootstrapのグリッドシステムについてまとめてみた",
     "url": "https://qiita.com/akatsuki174/items/53b7367b04ed0b066bbf",
-    "likes_count": 835,
+    "likes_count": 836,
     "created_at": "2016-01-05T23:36:20+09:00",
     "updated_at": "2016-01-06T12:25:24+09:00",
     "id": "akatsuki174"
@@ -194,7 +194,7 @@
   {
     "title": "なるべく短い正規表現で住所を「都道府県/市区町村/それ以降」に分けるエクストリームスポーツ",
     "url": "https://qiita.com/zakuroishikuro/items/066421bce820e3c73ce9",
-    "likes_count": 816,
+    "likes_count": 817,
     "created_at": "2016-01-26T22:29:08+09:00",
     "updated_at": "2016-03-16T20:08:37+09:00",
     "id": "zakuroishikuro"
@@ -290,7 +290,7 @@
   {
     "title": "JavaScriptコールバックを整理してみた【再入門】",
     "url": "https://qiita.com/nekoneko-wanwan/items/f6979f687246ba089a35",
-    "likes_count": 550,
+    "likes_count": 551,
     "created_at": "2016-01-12T16:27:36+09:00",
     "updated_at": "2019-03-06T09:45:22+09:00",
     "id": "nekoneko-wanwan"
@@ -338,10 +338,18 @@
   {
     "title": "bundle install と bundle updateの違いについて",
     "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
-    "likes_count": 488,
+    "likes_count": 490,
     "created_at": "2016-01-22T00:25:15+09:00",
     "updated_at": "2016-01-22T00:26:14+09:00",
     "id": "lasershow"
+  },
+  {
+    "title": "Docker compose ことはじめハンズオン",
+    "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
+    "likes_count": 473,
+    "created_at": "2016-01-05T01:32:35+09:00",
+    "updated_at": "2019-10-09T21:04:14+09:00",
+    "id": "TsutomuNakamura"
   },
   {
     "title": "webpack入門",
@@ -350,14 +358,6 @@
     "created_at": "2016-01-14T13:58:55+09:00",
     "updated_at": "2016-01-15T11:39:33+09:00",
     "id": "ossan-engineer"
-  },
-  {
-    "title": "Docker compose ことはじめハンズオン",
-    "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 472,
-    "created_at": "2016-01-05T01:32:35+09:00",
-    "updated_at": "2019-10-09T21:04:14+09:00",
-    "id": "TsutomuNakamura"
   },
   {
     "title": "TypeScript超入門(2)：構文を理解する",
@@ -394,7 +394,7 @@
   {
     "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
-    "likes_count": 447,
+    "likes_count": 449,
     "created_at": "2016-01-13T16:12:45+09:00",
     "updated_at": "2019-01-17T11:55:19+09:00",
     "id": "naoki_mochizuki"
@@ -402,7 +402,7 @@
   {
     "title": "プログラマーのためのR言語入門",
     "url": "https://qiita.com/stkdev/items/6aba2c1db2fa056170ae",
-    "likes_count": 436,
+    "likes_count": 435,
     "created_at": "2016-01-18T07:47:46+09:00",
     "updated_at": "2017-12-26T19:33:11+09:00",
     "id": "stkdev"
@@ -642,7 +642,7 @@
   {
     "title": "UIWebViewを使わない理由とWKWebViewを使う理由",
     "url": "https://qiita.com/ShingoFukuyama/items/01a9cdf24090931b4ef3",
-    "likes_count": 290,
+    "likes_count": 291,
     "created_at": "2016-01-29T00:04:56+09:00",
     "updated_at": "2018-06-06T09:20:21+09:00",
     "id": "ShingoFukuyama"
@@ -682,7 +682,7 @@
   {
     "title": "PHPでファイルを開いて読み込む",
     "url": "https://qiita.com/tadsan/items/bbc23ee596d55159f044",
-    "likes_count": 281,
+    "likes_count": 282,
     "created_at": "2016-01-08T07:52:13+09:00",
     "updated_at": "2016-08-21T04:05:27+09:00",
     "id": "tadsan"
