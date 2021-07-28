@@ -2,7 +2,7 @@
   {
     "title": "一番分かりやすい OAuth の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be",
-    "likes_count": 6968,
+    "likes_count": 6971,
     "created_at": "2017-07-14T06:21:33+09:00",
     "updated_at": "2020-03-20T15:05:04+09:00",
     "id": "TakahikoKawasaki"
@@ -26,7 +26,7 @@
   {
     "title": "一番分かりやすい OpenID Connect の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe",
-    "likes_count": 1927,
+    "likes_count": 1928,
     "created_at": "2017-07-24T04:19:55+09:00",
     "updated_at": "2020-03-20T15:05:48+09:00",
     "id": "TakahikoKawasaki"
@@ -34,7 +34,7 @@
   {
     "title": "JavaScript の this を理解する多分一番分かりやすい説明",
     "url": "https://qiita.com/takkyun/items/c6e2f2cf25327299cf03",
-    "likes_count": 1259,
+    "likes_count": 1261,
     "created_at": "2017-07-30T06:55:45+09:00",
     "updated_at": "2018-10-15T04:31:34+09:00",
     "id": "takkyun"
@@ -58,7 +58,7 @@
   {
     "title": "Variational Autoencoder徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24",
-    "likes_count": 1104,
+    "likes_count": 1105,
     "created_at": "2017-07-19T10:09:26+09:00",
     "updated_at": "2017-08-01T22:14:22+09:00",
     "id": "kenmatsu4"
@@ -322,7 +322,7 @@
   {
     "title": "不均衡データに対するClassification",
     "url": "https://qiita.com/ryouta0506/items/619d9ac0d80f8c0aed92",
-    "likes_count": 328,
+    "likes_count": 329,
     "created_at": "2017-07-12T22:59:53+09:00",
     "updated_at": "2018-10-17T08:36:14+09:00",
     "id": "ryouta0506"
@@ -346,10 +346,18 @@
   {
     "title": "Bash の if 文（test文）のオプションを整理してみた",
     "url": "https://qiita.com/wakayama-y/items/a9b7380263da77e51711",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2017-07-12T18:50:28+09:00",
     "updated_at": "2017-07-13T20:29:22+09:00",
     "id": "wakayama-y"
+  },
+  {
+    "title": "Spring MVC コントローラの引数",
+    "url": "https://qiita.com/MizoguchiKenji/items/2a041f3a3eb13274e55c",
+    "likes_count": 280,
+    "created_at": "2017-07-18T18:09:14+09:00",
+    "updated_at": "2018-03-22T21:05:53+09:00",
+    "id": "MizoguchiKenji"
   },
   {
     "title": "Dockerコマンド一覧",
@@ -358,14 +366,6 @@
     "created_at": "2017-07-19T15:42:44+09:00",
     "updated_at": "2017-07-19T16:28:37+09:00",
     "id": "nimusukeroku"
-  },
-  {
-    "title": "Spring MVC コントローラの引数",
-    "url": "https://qiita.com/MizoguchiKenji/items/2a041f3a3eb13274e55c",
-    "likes_count": 279,
-    "created_at": "2017-07-18T18:09:14+09:00",
-    "updated_at": "2018-03-22T21:05:53+09:00",
-    "id": "MizoguchiKenji"
   },
   {
     "title": "自分用 Git For Windowsのインストール手順",

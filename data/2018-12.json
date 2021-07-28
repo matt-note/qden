@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2152,
+    "likes_count": 2423,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -18,10 +18,18 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1761,
+    "likes_count": 1763,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
+  },
+  {
+    "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
+    "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
+    "likes_count": 1634,
+    "created_at": "2018-12-01T11:38:13+09:00",
+    "updated_at": "2020-06-08T18:33:37+09:00",
+    "id": "1amageek"
   },
   {
     "title": "個人開発のすゝめ",
@@ -50,7 +58,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1309,
+    "likes_count": 1311,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2021-05-27T20:26:34+09:00",
     "id": "teradonburi"
@@ -58,7 +66,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1265,
+    "likes_count": 1267,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-07-15T22:07:14+09:00",
     "id": "diescake"
@@ -82,7 +90,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1153,
+    "likes_count": 1156,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -98,7 +106,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1060,
+    "likes_count": 1061,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -114,7 +122,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1009,
+    "likes_count": 1011,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -210,7 +218,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 827,
+    "likes_count": 829,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -314,7 +322,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 543,
+    "likes_count": 545,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -370,7 +378,7 @@
   {
     "title": "C#リフレクションTIPS 55連発",
     "url": "https://qiita.com/gushwell/items/91436bd1871586f6e663",
-    "likes_count": 482,
+    "likes_count": 483,
     "created_at": "2018-12-16T21:41:49+09:00",
     "updated_at": "2020-09-09T13:13:04+09:00",
     "id": "gushwell"
@@ -434,7 +442,7 @@
   {
     "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
     "url": "https://qiita.com/koizumittn/items/77923a8f71d47d895b34",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2018-12-29T11:42:35+09:00",
     "updated_at": "2019-01-21T20:31:35+09:00",
     "id": "koizumittn"
@@ -522,7 +530,7 @@
   {
     "title": "マイクロサービスほどじゃないけどウェブサービスを分割開発したい人向けDocker設定を集めるスレ",
     "url": "https://qiita.com/shibukawa/items/fd49f98736045789ffc3",
-    "likes_count": 377,
+    "likes_count": 378,
     "created_at": "2018-12-06T02:27:47+09:00",
     "updated_at": "2019-10-22T10:30:30+09:00",
     "id": "shibukawa"
@@ -568,17 +576,9 @@
     "id": "yui_mop"
   },
   {
-    "title": "DBアクセスで遅くなったテストの実行時間を Docker で 40% 削減した方法",
-    "url": "https://qiita.com/negokaz/items/f5f6b24ecc5d4786c6d5",
-    "likes_count": 359,
-    "created_at": "2018-12-15T20:41:25+09:00",
-    "updated_at": "2019-02-18T21:01:44+09:00",
-    "id": "negokaz"
-  },
-  {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 349,
+    "likes_count": 350,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -618,7 +618,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 338,
+    "likes_count": 340,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
@@ -674,7 +674,7 @@
   {
     "title": "docker-compose でMySQL環境簡単構築",
     "url": "https://qiita.com/A-Kira/items/f401aea261693c395966",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2018-12-02T15:06:02+09:00",
     "updated_at": "2020-06-16T10:53:48+09:00",
     "id": "A-Kira"
@@ -722,7 +722,7 @@
   {
     "title": "【Rails×Ajax】いいね機能ハンズオン",
     "url": "https://qiita.com/naberina/items/c6b5c8d7756cb882fb20",
-    "likes_count": 285,
+    "likes_count": 286,
     "created_at": "2018-12-20T02:10:14+09:00",
     "updated_at": "2021-01-08T12:26:47+09:00",
     "id": "naberina"
@@ -730,7 +730,7 @@
   {
     "title": "Railsでフォロー機能を作る方法",
     "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2018-12-08T19:30:47+09:00",
     "updated_at": "2020-04-13T00:22:52+09:00",
     "id": "mitsumitsu1128"
