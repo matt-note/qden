@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2568,
+    "likes_count": 2569,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -18,7 +18,7 @@
   {
     "title": "新人達を1ヶ月でガチvimmerにした方法",
     "url": "https://qiita.com/nyantera/items/4bf29ca6f11bc797a9cb",
-    "likes_count": 2187,
+    "likes_count": 2188,
     "created_at": "2018-01-04T18:55:18+09:00",
     "updated_at": "2018-01-06T10:39:34+09:00",
     "id": "nyantera"
@@ -34,7 +34,7 @@
   {
     "title": "未経験者が認識してなさそうなTIPS",
     "url": "https://qiita.com/Nao9syu/items/0950527548a08ff9d8c9",
-    "likes_count": 1232,
+    "likes_count": 1233,
     "created_at": "2018-01-25T15:48:23+09:00",
     "updated_at": "2018-07-17T09:28:46+09:00",
     "id": "Nao9syu"
@@ -82,7 +82,7 @@
   {
     "title": "未経験から4年働きながら、読んでよかった読み物",
     "url": "https://qiita.com/Nao9syu/items/0bedec7a749ab2d8123a",
-    "likes_count": 770,
+    "likes_count": 771,
     "created_at": "2018-01-24T15:03:19+09:00",
     "updated_at": "2018-07-17T09:25:53+09:00",
     "id": "Nao9syu"
@@ -90,7 +90,7 @@
   {
     "title": "Pythonでパワポの説明資料（報告書）を生成する",
     "url": "https://qiita.com/code_440/items/22e8539da465686496d3",
-    "likes_count": 739,
+    "likes_count": 740,
     "created_at": "2018-01-02T20:39:29+09:00",
     "updated_at": "2018-01-02T20:41:50+09:00",
     "id": "code_440"
@@ -98,7 +98,7 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 717,
+    "likes_count": 718,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
@@ -202,7 +202,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 569,
+    "likes_count": 570,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -248,20 +248,20 @@
     "id": "doyaaaaaken"
   },
   {
+    "title": "JSのスプレッド構文を理解する",
+    "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
+    "likes_count": 456,
+    "created_at": "2018-01-20T15:37:58+09:00",
+    "updated_at": "2019-12-04T22:30:22+09:00",
+    "id": "akisx"
+  },
+  {
     "title": "NEM のコールドウォレットの自作は難しいのか検証してみた",
     "url": "https://qiita.com/kengos@github/items/9ff3a1e4e4351e9a927b",
     "likes_count": 456,
     "created_at": "2018-01-28T02:47:36+09:00",
     "updated_at": "2018-05-14T11:58:19+09:00",
     "id": "kengos@github"
-  },
-  {
-    "title": "JSのスプレッド構文を理解する",
-    "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 455,
-    "created_at": "2018-01-20T15:37:58+09:00",
-    "updated_at": "2019-12-04T22:30:22+09:00",
-    "id": "akisx"
   },
   {
     "title": "viコマンド（vimコマンド）リファレンス",
@@ -296,6 +296,14 @@
     "id": "zd6ir7"
   },
   {
+    "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
+    "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
+    "likes_count": 422,
+    "created_at": "2018-01-21T01:43:27+09:00",
+    "updated_at": "2018-01-21T08:56:25+09:00",
+    "id": "ishizakiiii"
+  },
+  {
     "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
     "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
     "likes_count": 421,
@@ -304,17 +312,9 @@
     "id": "Nossa"
   },
   {
-    "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
-    "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
-    "likes_count": 420,
-    "created_at": "2018-01-21T01:43:27+09:00",
-    "updated_at": "2018-01-21T08:56:25+09:00",
-    "id": "ishizakiiii"
-  },
-  {
     "title": "Gitでローカルブランチを削除する",
     "url": "https://qiita.com/hogeta_/items/33d2334c9b1919bd5120",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2018-01-11T18:24:12+09:00",
     "updated_at": "2020-01-16T14:28:12+09:00",
     "id": "hogeta_"
@@ -330,7 +330,7 @@
   {
     "title": "PythonでTwitter API を利用していろいろ遊んでみる",
     "url": "https://qiita.com/bakira/items/00743d10ec42993f85eb",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2018-01-07T21:20:05+09:00",
     "updated_at": "2018-01-08T19:14:05+09:00",
     "id": "bakira"
@@ -392,20 +392,20 @@
     "id": "takjg"
   },
   {
+    "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
+    "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
+    "likes_count": 296,
+    "created_at": "2018-01-18T00:36:30+09:00",
+    "updated_at": "2019-07-29T19:26:22+09:00",
+    "id": "tomov3"
+  },
+  {
     "title": "Vim / Vi を終了させる方法",
     "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
     "likes_count": 295,
     "created_at": "2018-01-09T22:50:55+09:00",
     "updated_at": "2019-11-01T09:15:26+09:00",
     "id": "kon_yu"
-  },
-  {
-    "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
-    "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
-    "likes_count": 295,
-    "created_at": "2018-01-18T00:36:30+09:00",
-    "updated_at": "2019-07-29T19:26:22+09:00",
-    "id": "tomov3"
   },
   {
     "title": "画像を扱う機械学習のためのデータセットまとめ",
