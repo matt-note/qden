@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1186,
+    "likes_count": 1187,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -90,7 +90,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 948,
+    "likes_count": 949,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -242,7 +242,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 711,
+    "likes_count": 712,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -530,7 +530,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -594,7 +594,7 @@
   {
     "title": "はじめてのRails API ",
     "url": "https://qiita.com/c5meru/items/1c921676de8a5a038f70",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2017-12-16T14:18:53+09:00",
     "updated_at": "2017-12-16T14:19:33+09:00",
     "id": "c5meru"
@@ -680,6 +680,14 @@
     "id": "katsu1110"
   },
   {
+    "title": "pythonでのcsvファイルの読み込み",
+    "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
+    "likes_count": 339,
+    "created_at": "2017-12-16T21:28:42+09:00",
+    "updated_at": "2017-12-16T21:28:42+09:00",
+    "id": "motoki1990"
+  },
+  {
     "title": "Reactのstate,props,componentの使い方を自分なりにまとめてみた",
     "url": "https://qiita.com/sekikawa_a/items/8ab70f457ef73871419f",
     "likes_count": 338,
@@ -688,20 +696,20 @@
     "id": "sekikawa_a"
   },
   {
-    "title": "pythonでのcsvファイルの読み込み",
-    "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 338,
-    "created_at": "2017-12-16T21:28:42+09:00",
-    "updated_at": "2017-12-16T21:28:42+09:00",
-    "id": "motoki1990"
-  },
-  {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2021-04-17T12:31:45+09:00",
     "id": "nightyknite"
+  },
+  {
+    "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
+    "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
+    "likes_count": 325,
+    "created_at": "2017-12-13T01:29:31+09:00",
+    "updated_at": "2018-08-25T11:45:30+09:00",
+    "id": "h1kita"
   },
   {
     "title": "【2018年版】今押さえておきたいフロントエンド関連",
@@ -720,14 +728,6 @@
     "id": "IzumiSy"
   },
   {
-    "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
-    "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 324,
-    "created_at": "2017-12-13T01:29:31+09:00",
-    "updated_at": "2018-08-25T11:45:30+09:00",
-    "id": "h1kita"
-  },
-  {
     "title": "まだ間に合う！着々と進化しているFirebaseをまとめてみるよ #Firebase #FJUG",
     "url": "https://qiita.com/Yatima/items/23797ca868ee988c824b",
     "likes_count": 323,
@@ -738,7 +738,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"

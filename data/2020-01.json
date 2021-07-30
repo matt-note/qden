@@ -26,7 +26,7 @@
   {
     "title": "2020年の開発者が知っておくべき11の必須スキル",
     "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
-    "likes_count": 2015,
+    "likes_count": 2018,
     "created_at": "2020-01-20T19:54:42+09:00",
     "updated_at": "2020-02-11T22:17:43+09:00",
     "id": "rana_kualu"
@@ -162,7 +162,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 826,
+    "likes_count": 828,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -210,10 +210,18 @@
   {
     "title": "バッチ処理について考える",
     "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
-    "likes_count": 681,
+    "likes_count": 682,
     "created_at": "2020-01-11T11:25:19+09:00",
     "updated_at": "2020-06-11T18:35:53+09:00",
     "id": "koduki"
+  },
+  {
+    "title": "経年劣化に耐える ReactComponent の書き方",
+    "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
+    "likes_count": 674,
+    "created_at": "2020-01-16T19:01:04+09:00",
+    "updated_at": "2020-01-19T13:49:21+09:00",
+    "id": "Takepepe"
   },
   {
     "title": "VTuberのホームページをGitHubのプルリクだけで更新していったらどうなるのか？企画に参戦してみた",
@@ -222,14 +230,6 @@
     "created_at": "2020-01-18T20:11:45+09:00",
     "updated_at": "2020-01-20T09:48:48+09:00",
     "id": "unsoluble_sugar"
-  },
-  {
-    "title": "経年劣化に耐える ReactComponent の書き方",
-    "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
-    "likes_count": 673,
-    "created_at": "2020-01-16T19:01:04+09:00",
-    "updated_at": "2020-01-19T13:49:21+09:00",
-    "id": "Takepepe"
   },
   {
     "title": "JavaScriptでvarが非推奨な理由を整理してみた",
@@ -426,7 +426,7 @@
   {
     "title": "ginを最速でマスターしよう",
     "url": "https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2020-01-01T09:46:12+09:00",
     "updated_at": "2021-06-12T13:03:54+09:00",
     "id": "Syoitu"
@@ -472,6 +472,14 @@
     "id": "nouka"
   },
   {
+    "title": "React hooksを基礎から理解する (useState編)",
+    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
+    "likes_count": 346,
+    "created_at": "2020-01-26T20:56:47+09:00",
+    "updated_at": "2021-03-15T16:00:37+09:00",
+    "id": "seira"
+  },
+  {
     "title": "「圏論とプログラミング」発表スライドメモ",
     "url": "https://qiita.com/inamiy/items/9af1da1faec22cd968f0",
     "likes_count": 346,
@@ -480,17 +488,9 @@
     "id": "inamiy"
   },
   {
-    "title": "React hooksを基礎から理解する (useState編)",
-    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 345,
-    "created_at": "2020-01-26T20:56:47+09:00",
-    "updated_at": "2021-03-15T16:00:37+09:00",
-    "id": "seira"
-  },
-  {
     "title": "VS CodeでDocker開発コンテナを便利に使おう",
     "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
-    "likes_count": 332,
+    "likes_count": 333,
     "created_at": "2020-01-17T21:18:30+09:00",
     "updated_at": "2020-01-17T21:18:30+09:00",
     "id": "Yuki_Oshima"
