@@ -10,7 +10,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 2554,
+    "likes_count": 2555,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2020-02-11T18:07:22+09:00",
     "id": "jesus_isao"
@@ -58,7 +58,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1582,
+    "likes_count": 1585,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -66,7 +66,7 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2021.07",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1508,
+    "likes_count": 1510,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2021-07-15T14:37:37+09:00",
     "id": "hayao_k"
@@ -98,7 +98,7 @@
   {
     "title": "Vueの秘密のパフォーマンステク9選紹介",
     "url": "https://qiita.com/miyaoka/items/5183c143e195455ae65e",
-    "likes_count": 1205,
+    "likes_count": 1206,
     "created_at": "2019-05-15T09:40:21+09:00",
     "updated_at": "2019-05-16T13:57:25+09:00",
     "id": "miyaoka"
@@ -122,7 +122,7 @@
   {
     "title": "【Vue.js】Web API通信のデザインパターン (個人的ベストプラクティス)",
     "url": "https://qiita.com/07JP27/items/0923cbe3b6435c19d761",
-    "likes_count": 1010,
+    "likes_count": 1011,
     "created_at": "2019-05-12T21:08:52+09:00",
     "updated_at": "2019-05-15T08:07:38+09:00",
     "id": "07JP27"
@@ -138,7 +138,7 @@
   {
     "title": "敗北者のTypeScript",
     "url": "https://qiita.com/uhyo/items/aae57ba0734e36ee846a",
-    "likes_count": 932,
+    "likes_count": 933,
     "created_at": "2019-05-12T17:40:10+09:00",
     "updated_at": "2020-05-15T12:52:28+09:00",
     "id": "uhyo"
@@ -162,7 +162,7 @@
   {
     "title": "JavaScriptでの賢いconsole.log( )の使い方 & その他便利なconsole.xxx( )使い方まとめ (dir・table・warn・groupとか)",
     "url": "https://qiita.com/mtoyopet/items/7274761af5424cee342a",
-    "likes_count": 846,
+    "likes_count": 847,
     "created_at": "2019-05-17T22:16:39+09:00",
     "updated_at": "2019-08-15T13:32:06+09:00",
     "id": "mtoyopet"
@@ -178,7 +178,7 @@
   {
     "title": "Qiitaで良い記事を書く技術",
     "url": "https://qiita.com/t12u/items/8c28484100dfd3a6351b",
-    "likes_count": 792,
+    "likes_count": 793,
     "created_at": "2019-05-21T15:30:43+09:00",
     "updated_at": "2019-05-24T20:27:44+09:00",
     "id": "t12u"
@@ -274,7 +274,7 @@
   {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 590,
+    "likes_count": 591,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2020-05-08T20:20:06+09:00",
     "id": "simonritchie"
@@ -312,6 +312,14 @@
     "id": "oedkty"
   },
   {
+    "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
+    "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
+    "likes_count": 483,
+    "created_at": "2019-05-23T08:28:34+09:00",
+    "updated_at": "2021-07-26T23:35:59+09:00",
+    "id": "drken"
+  },
+  {
     "title": "エンジニアとデザイナー向けのSNSアプリを作りました！【会員登録が100人突破しました！感謝】",
     "url": "https://qiita.com/maeda-k/items/1ccc65a03d0901ab48f1",
     "likes_count": 482,
@@ -320,17 +328,9 @@
     "id": "maeda-k"
   },
   {
-    "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
-    "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
-    "likes_count": 482,
-    "created_at": "2019-05-23T08:28:34+09:00",
-    "updated_at": "2021-07-26T23:35:59+09:00",
-    "id": "drken"
-  },
-  {
     "title": "無料！かつ最短？で Ruby on Rails on Docker on AWS のアプリを公開するぞ。",
     "url": "https://qiita.com/at-946/items/1e8acea19cc0b9f31b98",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2019-05-16T21:33:33+09:00",
     "updated_at": "2020-01-26T00:28:07+09:00",
     "id": "at-946"
@@ -418,7 +418,7 @@
   {
     "title": "競技プログラミング入門者の成長のためのメモ",
     "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2019-05-14T05:46:53+09:00",
     "updated_at": "2021-05-20T20:52:48+09:00",
     "id": "masakinihirota"
