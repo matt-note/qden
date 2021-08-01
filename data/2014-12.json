@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2279,
+    "likes_count": 2282,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -178,7 +178,7 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 735,
+    "likes_count": 736,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
@@ -194,7 +194,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 713,
+    "likes_count": 714,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -202,7 +202,7 @@
   {
     "title": "初心者向けGithubへのPullRequest方法",
     "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 709,
+    "likes_count": 710,
     "created_at": "2014-12-17T23:28:14+09:00",
     "updated_at": "2014-12-19T09:14:55+09:00",
     "id": "samurai_runner"
@@ -480,20 +480,20 @@
     "id": "calciolife"
   },
   {
+    "title": "Makefileの関数",
+    "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
+    "likes_count": 413,
+    "created_at": "2014-12-24T21:58:53+09:00",
+    "updated_at": "2017-05-15T10:21:03+09:00",
+    "id": "chibi929"
+  },
+  {
     "title": "React.jsでPropやStateを使ってComponent間のやりとりをする",
     "url": "https://qiita.com/koba04/items/43200b6fd6e6f43f0d8d",
     "likes_count": 412,
     "created_at": "2014-12-07T01:05:31+09:00",
     "updated_at": "2015-01-12T22:38:12+09:00",
     "id": "koba04"
-  },
-  {
-    "title": "Makefileの関数",
-    "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
-    "likes_count": 412,
-    "created_at": "2014-12-24T21:58:53+09:00",
-    "updated_at": "2017-05-15T10:21:03+09:00",
-    "id": "chibi929"
   },
   {
     "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
@@ -682,7 +682,7 @@
   {
     "title": "React.jsでFormを扱う",
     "url": "https://qiita.com/koba04/items/40cc217ab925ef651113",
-    "likes_count": 289,
+    "likes_count": 291,
     "created_at": "2014-12-10T19:13:22+09:00",
     "updated_at": "2015-05-18T00:39:26+09:00",
     "id": "koba04"

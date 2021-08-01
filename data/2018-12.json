@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2494,
+    "likes_count": 2505,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -66,7 +66,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1269,
+    "likes_count": 1271,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-07-15T22:07:14+09:00",
     "id": "diescake"
@@ -122,7 +122,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1014,
+    "likes_count": 1015,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -154,7 +154,7 @@
   {
     "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
     "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
-    "likes_count": 968,
+    "likes_count": 969,
     "created_at": "2018-12-25T21:17:23+09:00",
     "updated_at": "2021-07-05T14:33:34+09:00",
     "id": "hirokidaichi"
@@ -170,7 +170,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 958,
+    "likes_count": 959,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -378,7 +378,7 @@
   {
     "title": "C#リフレクションTIPS 55連発",
     "url": "https://qiita.com/gushwell/items/91436bd1871586f6e663",
-    "likes_count": 483,
+    "likes_count": 484,
     "created_at": "2018-12-16T21:41:49+09:00",
     "updated_at": "2020-09-09T13:13:04+09:00",
     "id": "gushwell"
@@ -506,7 +506,7 @@
   {
     "title": "Ruby on Rails 6の主要な新機能・機能追加・変更点",
     "url": "https://qiita.com/ryohashimoto/items/622c3bcfb3336cb9317e",
-    "likes_count": 389,
+    "likes_count": 390,
     "created_at": "2018-12-22T22:11:07+09:00",
     "updated_at": "2019-10-21T18:59:04+09:00",
     "id": "ryohashimoto"
@@ -560,20 +560,20 @@
     "id": "munieru_jp"
   },
   {
+    "title": "SOLID原則について簡単に書く",
+    "url": "https://qiita.com/yui_mop/items/93fef037a787318e7067",
+    "likes_count": 363,
+    "created_at": "2018-12-08T16:42:44+09:00",
+    "updated_at": "2020-01-15T16:33:13+09:00",
+    "id": "yui_mop"
+  },
+  {
     "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
     "url": "https://qiita.com/okamu_/items/a8577431749b72869aa3",
     "likes_count": 363,
     "created_at": "2018-12-26T07:50:58+09:00",
     "updated_at": "2019-12-26T14:39:03+09:00",
     "id": "okamu_"
-  },
-  {
-    "title": "SOLID原則について簡単に書く",
-    "url": "https://qiita.com/yui_mop/items/93fef037a787318e7067",
-    "likes_count": 362,
-    "created_at": "2018-12-08T16:42:44+09:00",
-    "updated_at": "2020-01-15T16:33:13+09:00",
-    "id": "yui_mop"
   },
   {
     "title": "知っていると捗るcreate-react-appの設定",
@@ -586,7 +586,7 @@
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
     "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2018-12-06T00:54:09+09:00",
     "updated_at": "2018-12-06T00:55:45+09:00",
     "id": "yuneco"
@@ -616,20 +616,20 @@
     "id": "howdy39"
   },
   {
+    "title": "Web API初心者と学ぶGraphQL",
+    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
+    "likes_count": 341,
+    "created_at": "2018-12-20T03:46:56+09:00",
+    "updated_at": "2020-12-23T18:50:54+09:00",
+    "id": "SiragumoHuin"
+  },
+  {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
     "likes_count": 340,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
-  },
-  {
-    "title": "Web API初心者と学ぶGraphQL",
-    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 340,
-    "created_at": "2018-12-20T03:46:56+09:00",
-    "updated_at": "2020-12-23T18:50:54+09:00",
-    "id": "SiragumoHuin"
   },
   {
     "title": "ドメイン駆動設計を勉強するときのオススメ資料",
