@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4231,
+    "likes_count": 4235,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -170,7 +170,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 767,
+    "likes_count": 768,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -234,7 +234,7 @@
   {
     "title": "JavaScriptでvarが非推奨な理由を整理してみた",
     "url": "https://qiita.com/taiju_suzuki/items/49ed558bd837452353b8",
-    "likes_count": 671,
+    "likes_count": 672,
     "created_at": "2020-01-08T17:56:11+09:00",
     "updated_at": "2020-05-02T22:05:18+09:00",
     "id": "taiju_suzuki"
@@ -266,7 +266,7 @@
   {
     "title": "機械学習による株価予測　いろはの”い”",
     "url": "https://qiita.com/blog_UKI/items/25dc1c2559c61890a449",
-    "likes_count": 631,
+    "likes_count": 632,
     "created_at": "2020-01-09T12:13:39+09:00",
     "updated_at": "2020-01-09T12:13:39+09:00",
     "id": "blog_UKI"
@@ -392,6 +392,14 @@
     "id": "katy7"
   },
   {
+    "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
+    "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
+    "likes_count": 416,
+    "created_at": "2020-01-03T17:27:55+09:00",
+    "updated_at": "2020-11-10T02:36:37+09:00",
+    "id": "bee2"
+  },
+  {
     "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
     "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
     "likes_count": 416,
@@ -406,14 +414,6 @@
     "created_at": "2020-01-20T10:17:37+09:00",
     "updated_at": "2020-01-29T12:33:46+09:00",
     "id": "sugar_tk"
-  },
-  {
-    "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
-    "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
-    "likes_count": 414,
-    "created_at": "2020-01-03T17:27:55+09:00",
-    "updated_at": "2020-11-10T02:36:37+09:00",
-    "id": "bee2"
   },
   {
     "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
@@ -450,7 +450,7 @@
   {
     "title": "notionバックエンドのzeit製ヘッドレスCMS“Notion Blog”が激アツ🔥",
     "url": "https://qiita.com/serinuntius/items/d4b1e9ef53b59033f607",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2020-01-15T09:06:37+09:00",
     "updated_at": "2020-01-15T09:07:20+09:00",
     "id": "serinuntius"
@@ -474,7 +474,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 347,
+    "likes_count": 350,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"

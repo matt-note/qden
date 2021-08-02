@@ -2,7 +2,7 @@
   {
     "title": "ブロックチェーンを作ることで学ぶ 〜ブロックチェーンがどのように動いているのか学ぶ最速の方法は作ってみることだ〜",
     "url": "https://qiita.com/hidehiro98/items/841ece65d896aeaa8a2a",
-    "likes_count": 2189,
+    "likes_count": 2190,
     "created_at": "2017-10-13T13:37:47+09:00",
     "updated_at": "2020-09-23T19:06:30+09:00",
     "id": "hidehiro98"
@@ -18,7 +18,7 @@
   {
     "title": "OSSのデータ可視化ツール「Metabase」が超使いやすい",
     "url": "https://qiita.com/acro5piano/items/0920550d297651b04387",
-    "likes_count": 1672,
+    "likes_count": 1674,
     "created_at": "2017-10-14T12:08:04+09:00",
     "updated_at": "2020-06-05T21:40:02+09:00",
     "id": "acro5piano"
@@ -58,7 +58,7 @@
   {
     "title": "iTerm2のおすすめ設定〜ターミナル作業を効率化する〜",
     "url": "https://qiita.com/ruwatana/items/8d9c174250061721ad11",
-    "likes_count": 744,
+    "likes_count": 746,
     "created_at": "2017-10-22T16:58:10+09:00",
     "updated_at": "2019-06-16T23:16:40+09:00",
     "id": "ruwatana"
@@ -98,7 +98,7 @@
   {
     "title": "要素の取得方法まとめ",
     "url": "https://qiita.com/amamamaou/items/25e8b4e1b41c8d3211f4",
-    "likes_count": 650,
+    "likes_count": 651,
     "created_at": "2017-10-27T16:44:49+09:00",
     "updated_at": "2020-07-14T11:18:37+09:00",
     "id": "amamamaou"
@@ -106,7 +106,7 @@
   {
     "title": "[DDD]ドメイン駆動 + オニオンアーキテクチャ概略",
     "url": "https://qiita.com/little_hand_s/items/2040fba15d90b93fc124",
-    "likes_count": 639,
+    "likes_count": 641,
     "created_at": "2017-10-11T07:53:16+09:00",
     "updated_at": "2020-02-17T23:58:41+09:00",
     "id": "little_hand_s"
@@ -130,7 +130,7 @@
   {
     "title": "Python クラスについて",
     "url": "https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c",
-    "likes_count": 613,
+    "likes_count": 614,
     "created_at": "2017-10-29T20:49:32+09:00",
     "updated_at": "2021-03-07T21:03:01+09:00",
     "id": "motoki1990"
@@ -146,7 +146,7 @@
   {
     "title": "AWS初心者がインフラ設計/構築を理解するために、まず最初におさえるべきキーワード15選",
     "url": "https://qiita.com/Futo_Horio/items/318d89eccdbf5697f8bf",
-    "likes_count": 576,
+    "likes_count": 577,
     "created_at": "2017-10-12T22:32:11+09:00",
     "updated_at": "2020-02-25T10:25:43+09:00",
     "id": "Futo_Horio"
@@ -186,7 +186,7 @@
   {
     "title": "rspec-rails 3.7の新機能！System Specを使ってみた",
     "url": "https://qiita.com/jnchito/items/c7e6e7abf83598a6516d",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2017-10-24T07:35:35+09:00",
     "updated_at": "2019-12-14T17:36:42+09:00",
     "id": "jnchito"
@@ -304,20 +304,20 @@
     "id": "skanmera"
   },
   {
+    "title": "Swift の HTTP ライブラリで苦しまないための自作 API クライアント設計",
+    "url": "https://qiita.com/Kuniwak/items/a972ff2ade643799d1fe",
+    "likes_count": 338,
+    "created_at": "2017-10-23T00:51:59+09:00",
+    "updated_at": "2018-08-24T18:36:33+09:00",
+    "id": "Kuniwak"
+  },
+  {
     "title": "SQLの基本を覚える【初心者向け】",
     "url": "https://qiita.com/chida09/items/d4b33a28b918958f267f",
     "likes_count": 338,
     "created_at": "2017-10-31T23:38:42+09:00",
     "updated_at": "2017-11-01T22:32:12+09:00",
     "id": "chida09"
-  },
-  {
-    "title": "Swift の HTTP ライブラリで苦しまないための自作 API クライアント設計",
-    "url": "https://qiita.com/Kuniwak/items/a972ff2ade643799d1fe",
-    "likes_count": 337,
-    "created_at": "2017-10-23T00:51:59+09:00",
-    "updated_at": "2018-08-24T18:36:33+09:00",
-    "id": "Kuniwak"
   },
   {
     "title": "fzfを活用してTerminalの作業効率を高める",
@@ -352,20 +352,20 @@
     "id": "knknkn1162"
   },
   {
+    "title": "[Laravel5.1]Fakerチートシート",
+    "url": "https://qiita.com/tosite0345/items/1d47961947a6770053af",
+    "likes_count": 319,
+    "created_at": "2017-10-04T12:37:10+09:00",
+    "updated_at": "2021-01-21T20:24:15+09:00",
+    "id": "tosite0345"
+  },
+  {
     "title": "【Python】NetworkX 2.0の基礎的な使い方まとめ",
     "url": "https://qiita.com/kzm4269/items/081ff2fdb8a6b0a6112f",
     "likes_count": 318,
     "created_at": "2017-10-31T23:41:55+09:00",
     "updated_at": "2020-06-16T09:00:19+09:00",
     "id": "kzm4269"
-  },
-  {
-    "title": "[Laravel5.1]Fakerチートシート",
-    "url": "https://qiita.com/tosite0345/items/1d47961947a6770053af",
-    "likes_count": 317,
-    "created_at": "2017-10-04T12:37:10+09:00",
-    "updated_at": "2021-01-21T20:24:15+09:00",
-    "id": "tosite0345"
   },
   {
     "title": "Visual Studio Code + Markdown Preview Enhancedはチームでデファクト化したいMarkdown環境だ！、と思う\b(2017/10月時点)",
@@ -418,7 +418,7 @@
   {
     "title": "よりよいネーミングを目指して",
     "url": "https://qiita.com/takasek/items/693c57dc9ddc6c1eb1ba",
-    "likes_count": 270,
+    "likes_count": 271,
     "created_at": "2017-10-12T17:42:43+09:00",
     "updated_at": "2018-09-04T15:19:11+09:00",
     "id": "takasek"

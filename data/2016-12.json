@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3356,
+    "likes_count": 3357,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2114,
+    "likes_count": 2116,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -52,7 +52,7 @@
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
     "likes_count": 1478,
     "created_at": "2016-12-15T02:42:35+09:00",
-    "updated_at": "2021-07-01T01:46:01+09:00",
+    "updated_at": "2021-08-02T02:55:41+09:00",
     "id": "soarflat"
   },
   {
@@ -122,7 +122,7 @@
   {
     "title": "kubernetes初心者のための入門ハンズオン",
     "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
-    "likes_count": 1049,
+    "likes_count": 1050,
     "created_at": "2016-12-10T00:01:31+09:00",
     "updated_at": "2020-12-05T20:23:32+09:00",
     "id": "mihirat"
@@ -130,9 +130,9 @@
   {
     "title": "Webhookとは？",
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 1007,
+    "likes_count": 1011,
     "created_at": "2016-12-17T12:54:09+09:00",
-    "updated_at": "2021-07-01T01:45:46+09:00",
+    "updated_at": "2021-08-02T02:55:31+09:00",
     "id": "soarflat"
   },
   {
@@ -290,7 +290,7 @@
   {
     "title": "Gitのブランチモデルについて",
     "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 621,
+    "likes_count": 622,
     "created_at": "2016-12-05T00:04:34+09:00",
     "updated_at": "2016-12-05T00:12:43+09:00",
     "id": "y-okudera"
@@ -298,10 +298,18 @@
   {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
     "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
-    "likes_count": 617,
+    "likes_count": 618,
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
+  },
+  {
+    "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
+    "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
+    "likes_count": 617,
+    "created_at": "2016-12-14T20:50:38+09:00",
+    "updated_at": "2020-02-10T20:27:02+09:00",
+    "id": "agate-pris"
   },
   {
     "title": "原理原則で理解するDocker",
@@ -310,14 +318,6 @@
     "created_at": "2016-12-23T06:40:30+09:00",
     "updated_at": "2016-12-26T12:42:54+09:00",
     "id": "tajima_taso"
-  },
-  {
-    "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
-    "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
-    "likes_count": 616,
-    "created_at": "2016-12-14T20:50:38+09:00",
-    "updated_at": "2020-02-10T20:27:02+09:00",
-    "id": "agate-pris"
   },
   {
     "title": "難しいGitコマンドは、仕組みから理解してみよう",
@@ -378,7 +378,7 @@
   {
     "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
     "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2016-12-03T15:46:25+09:00",
     "updated_at": "2016-12-03T15:46:25+09:00",
     "id": "inosy22"
@@ -386,7 +386,7 @@
   {
     "title": "みんなRailsのSTIを誤解してないか!?",
     "url": "https://qiita.com/yebihara/items/9ecb838893ad99be0561",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2016-12-04T17:53:39+09:00",
     "updated_at": "2016-12-16T19:48:07+09:00",
     "id": "yebihara"
@@ -522,7 +522,7 @@
   {
     "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
     "url": "https://qiita.com/chanNaru/items/326bd50a78cf34371169",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2016-12-23T18:57:30+09:00",
     "updated_at": "2020-02-06T13:59:09+09:00",
     "id": "chanNaru"
@@ -530,7 +530,7 @@
   {
     "title": "複数のgitアカウントを使い分ける",
     "url": "https://qiita.com/0084ken/items/f4a8b0fbff135a987fea",
-    "likes_count": 416,
+    "likes_count": 418,
     "created_at": "2016-12-20T12:36:15+09:00",
     "updated_at": "2016-12-20T12:36:15+09:00",
     "id": "0084ken"
@@ -714,7 +714,7 @@
   {
     "title": "AWS Lambda超入門",
     "url": "https://qiita.com/mizno/items/b584435120e99d63975b",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2016-12-04T18:30:28+09:00",
     "updated_at": "2016-12-05T09:10:26+09:00",
     "id": "mizno"

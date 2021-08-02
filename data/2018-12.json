@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2505,
+    "likes_count": 2515,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1763,
+    "likes_count": 1764,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "Cloud Firestoreを実践投入するにあたって考えたこと",
     "url": "https://qiita.com/1amageek/items/d606dcee9fbcf21eeec6",
-    "likes_count": 1635,
+    "likes_count": 1636,
     "created_at": "2018-12-01T11:38:13+09:00",
     "updated_at": "2020-06-08T18:33:37+09:00",
     "id": "1amageek"
@@ -34,7 +34,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1578,
+    "likes_count": 1580,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -66,7 +66,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1271,
+    "likes_count": 1274,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-07-15T22:07:14+09:00",
     "id": "diescake"
@@ -106,7 +106,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1062,
+    "likes_count": 1063,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -122,7 +122,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1015,
+    "likes_count": 1016,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -218,7 +218,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 830,
+    "likes_count": 831,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -400,20 +400,20 @@
     "id": "1915keke"
   },
   {
+    "title": "Go Modules",
+    "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
+    "likes_count": 469,
+    "created_at": "2018-12-05T13:44:24+09:00",
+    "updated_at": "2019-07-17T17:52:30+09:00",
+    "id": "propella"
+  },
+  {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
     "likes_count": 469,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2021-07-12T12:15:57+09:00",
     "id": "syantien"
-  },
-  {
-    "title": "Go Modules",
-    "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 468,
-    "created_at": "2018-12-05T13:44:24+09:00",
-    "updated_at": "2019-07-17T17:52:30+09:00",
-    "id": "propella"
   },
   {
     "title": "package-lock.jsonについて知りたくても聞けなかったこと",
@@ -528,20 +528,20 @@
     "id": "suin"
   },
   {
+    "title": "カオスエンジニアリングと聞いてカオスになった人必見",
+    "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
+    "likes_count": 379,
+    "created_at": "2018-12-21T10:13:58+09:00",
+    "updated_at": "2021-01-04T01:36:10+09:00",
+    "id": "naokiiiii"
+  },
+  {
     "title": "マイクロサービスほどじゃないけどウェブサービスを分割開発したい人向けDocker設定を集めるスレ",
     "url": "https://qiita.com/shibukawa/items/fd49f98736045789ffc3",
     "likes_count": 378,
     "created_at": "2018-12-06T02:27:47+09:00",
     "updated_at": "2019-10-22T10:30:30+09:00",
     "id": "shibukawa"
-  },
-  {
-    "title": "カオスエンジニアリングと聞いてカオスになった人必見",
-    "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
-    "likes_count": 377,
-    "created_at": "2018-12-21T10:13:58+09:00",
-    "updated_at": "2021-01-04T01:36:10+09:00",
-    "id": "naokiiiii"
   },
   {
     "title": "Herokuを使いこなすのに必要な術",
@@ -594,7 +594,7 @@
   {
     "title": "今更だけど、SREとは何かについてまとめる",
     "url": "https://qiita.com/masao-kunii/items/f96a89a0cdff66c108fd",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2018-12-10T19:27:28+09:00",
     "updated_at": "2018-12-10T20:48:49+09:00",
     "id": "masao-kunii"
@@ -650,7 +650,7 @@
   {
     "title": "JavaScriptの概念たち (後編)",
     "url": "https://qiita.com/tsin1rou/items/b30885b189a8ec596c72",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2018-12-04T02:41:51+09:00",
     "updated_at": "2018-12-04T13:27:23+09:00",
     "id": "tsin1rou"
@@ -738,7 +738,7 @@
   {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
     "url": "https://qiita.com/Hailee/items/781e33e2474e254fdd7c",
-    "likes_count": 275,
+    "likes_count": 276,
     "created_at": "2018-12-20T16:11:54+09:00",
     "updated_at": "2020-07-14T14:57:29+09:00",
     "id": "Hailee"
