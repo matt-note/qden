@@ -2,7 +2,7 @@
   {
     "title": "翻訳: WebAPI 設計のベストプラクティス",
     "url": "https://qiita.com/mserizawa/items/b833e407d89abd21ee72",
-    "likes_count": 5454,
+    "likes_count": 5456,
     "created_at": "2016-03-24T03:18:36+09:00",
     "updated_at": "2017-12-17T15:13:02+09:00",
     "id": "mserizawa"
@@ -58,7 +58,7 @@
   {
     "title": "sedでこういう時はどう書く?",
     "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
-    "likes_count": 1462,
+    "likes_count": 1463,
     "created_at": "2016-03-04T11:57:25+09:00",
     "updated_at": "2018-10-25T10:59:12+09:00",
     "id": "hirohiro77"
@@ -160,20 +160,20 @@
     "id": "ikuwow"
   },
   {
+    "title": "Pythonにおける非同期処理: asyncio逆引きリファレンス",
+    "url": "https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0",
+    "likes_count": 780,
+    "created_at": "2016-03-26T22:06:48+09:00",
+    "updated_at": "2019-03-06T12:38:21+09:00",
+    "id": "icoxfog417"
+  },
+  {
     "title": "iOS新人プログラマーさんに贈るiOSで活躍しているエンジニア",
     "url": "https://qiita.com/susieyy/items/2db23ccf488ed07ac850",
     "likes_count": 779,
     "created_at": "2016-03-19T15:14:18+09:00",
     "updated_at": "2017-03-03T11:22:09+09:00",
     "id": "susieyy"
-  },
-  {
-    "title": "Pythonにおける非同期処理: asyncio逆引きリファレンス",
-    "url": "https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0",
-    "likes_count": 779,
-    "created_at": "2016-03-26T22:06:48+09:00",
-    "updated_at": "2019-03-06T12:38:21+09:00",
-    "id": "icoxfog417"
   },
   {
     "title": "クズが教える新人プログラマ処世術",
@@ -250,7 +250,7 @@
   {
     "title": "HomebrewのインストールからpyenvでPythonのAnaconda環境構築までメモ",
     "url": "https://qiita.com/aical/items/2d066801a7464a676994",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2016-03-11T23:54:45+09:00",
     "updated_at": "2021-04-06T11:20:10+09:00",
     "id": "aical"
@@ -322,7 +322,7 @@
   {
     "title": "Bundlerの使い方",
     "url": "https://qiita.com/oshou/items/6283c2315dc7dd244aef",
-    "likes_count": 508,
+    "likes_count": 509,
     "created_at": "2016-03-28T00:21:17+09:00",
     "updated_at": "2017-02-03T18:11:09+09:00",
     "id": "oshou"
@@ -400,20 +400,20 @@
     "id": "netetahito"
   },
   {
+    "title": "オブジェクト指向エクササイズをやってみる",
+    "url": "https://qiita.com/opengl-8080/items/6f0a458df9c34eccf76c",
+    "likes_count": 415,
+    "created_at": "2016-03-20T01:28:58+09:00",
+    "updated_at": "2016-05-28T21:00:03+09:00",
+    "id": "opengl-8080"
+  },
+  {
     "title": "Java/Androidにおける例外設計、あるいは「契約による設計」によるシンプルさの追求",
     "url": "https://qiita.com/yuya_presto/items/3b651d6b0cf38f77e933",
     "likes_count": 414,
     "created_at": "2016-03-06T20:09:39+09:00",
     "updated_at": "2016-03-16T11:50:24+09:00",
     "id": "yuya_presto"
-  },
-  {
-    "title": "オブジェクト指向エクササイズをやってみる",
-    "url": "https://qiita.com/opengl-8080/items/6f0a458df9c34eccf76c",
-    "likes_count": 414,
-    "created_at": "2016-03-20T01:28:58+09:00",
-    "updated_at": "2016-05-28T21:00:03+09:00",
-    "id": "opengl-8080"
   },
   {
     "title": "はじめてのOSSリリース記 〜なぜ無料でソースコードを公開するのか？",
@@ -570,7 +570,7 @@
   {
     "title": "wgetでこういう時はこうする!!",
     "url": "https://qiita.com/hirohiro77/items/b774908436ec032df719",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2016-03-07T14:47:05+09:00",
     "updated_at": "2019-01-07T20:51:05+09:00",
     "id": "hirohiro77"
@@ -642,7 +642,7 @@
   {
     "title": "awkコマンドの基本",
     "url": "https://qiita.com/yamazon/items/563af1b485ff413d381f",
-    "likes_count": 320,
+    "likes_count": 322,
     "created_at": "2016-03-06T20:03:09+09:00",
     "updated_at": "2016-03-14T23:38:39+09:00",
     "id": "yamazon"

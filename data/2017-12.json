@@ -26,7 +26,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1382,
+    "likes_count": 1383,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1190,
+    "likes_count": 1191,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -154,7 +154,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 837,
+    "likes_count": 838,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -186,7 +186,7 @@
   {
     "title": "仮想通貨自動取引入門",
     "url": "https://qiita.com/shionhonda/items/bd2a7aaf143eff4972c4",
-    "likes_count": 788,
+    "likes_count": 789,
     "created_at": "2017-12-17T11:54:43+09:00",
     "updated_at": "2018-08-23T10:49:03+09:00",
     "id": "shionhonda"
@@ -328,6 +328,14 @@
     "id": "yuya_presto"
   },
   {
+    "title": "HTTP/2における双方向通信とgRPCとこれから",
+    "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
+    "likes_count": 575,
+    "created_at": "2017-12-25T00:00:21+09:00",
+    "updated_at": "2018-01-04T08:38:50+09:00",
+    "id": "namusyaka"
+  },
+  {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
     "likes_count": 574,
@@ -336,17 +344,9 @@
     "id": "megadreams14"
   },
   {
-    "title": "HTTP/2における双方向通信とgRPCとこれから",
-    "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 574,
-    "created_at": "2017-12-25T00:00:21+09:00",
-    "updated_at": "2018-01-04T08:38:50+09:00",
-    "id": "namusyaka"
-  },
-  {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 568,
+    "likes_count": 569,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -362,7 +362,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 549,
+    "likes_count": 550,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -458,7 +458,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -538,7 +538,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
@@ -592,20 +592,20 @@
     "id": "yasuhiroki"
   },
   {
+    "title": "深層学習の最適化アルゴリズム",
+    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
+    "likes_count": 368,
+    "created_at": "2017-12-17T19:09:32+09:00",
+    "updated_at": "2019-11-30T18:47:57+09:00",
+    "id": "ZoneTsuyoshi"
+  },
+  {
     "title": "はじめてのRails API ",
     "url": "https://qiita.com/c5meru/items/1c921676de8a5a038f70",
     "likes_count": 367,
     "created_at": "2017-12-16T14:18:53+09:00",
     "updated_at": "2017-12-16T14:19:33+09:00",
     "id": "c5meru"
-  },
-  {
-    "title": "深層学習の最適化アルゴリズム",
-    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 367,
-    "created_at": "2017-12-17T19:09:32+09:00",
-    "updated_at": "2019-11-30T18:47:57+09:00",
-    "id": "ZoneTsuyoshi"
   },
   {
     "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
@@ -794,7 +794,7 @@
   {
     "title": "【C#】ReactiveProperty全然分からねぇ！って人向けのFAQ集【修正済】",
     "url": "https://qiita.com/YSRKEN/items/5a36fb8071104a989fb8",
-    "likes_count": 241,
+    "likes_count": 242,
     "created_at": "2017-12-30T16:38:59+09:00",
     "updated_at": "2020-07-22T10:29:31+09:00",
     "id": "YSRKEN"

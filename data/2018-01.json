@@ -2,7 +2,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2578,
+    "likes_count": 2580,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -10,7 +10,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2573,
+    "likes_count": 2574,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -98,7 +98,7 @@
   {
     "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
     "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 719,
+    "likes_count": 721,
     "created_at": "2018-01-05T19:53:26+09:00",
     "updated_at": "2020-03-12T13:17:09+09:00",
     "id": "suin"
@@ -170,7 +170,7 @@
   {
     "title": "JavaScript 長く使える系の知識",
     "url": "https://qiita.com/yamadar/items/bfdfc58cec49bf2690e1",
-    "likes_count": 615,
+    "likes_count": 616,
     "created_at": "2018-01-05T03:04:03+09:00",
     "updated_at": "2021-06-23T18:56:19+09:00",
     "id": "yamadar"
@@ -242,7 +242,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
@@ -266,7 +266,7 @@
   {
     "title": "viコマンド（vimコマンド）リファレンス",
     "url": "https://qiita.com/pe-ta/items/0510bee10bcfd88afeee",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2018-01-23T13:50:14+09:00",
     "updated_at": "2020-04-20T19:10:29+09:00",
     "id": "pe-ta"
@@ -280,6 +280,14 @@
     "id": "rinpa"
   },
   {
+    "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
+    "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
+    "likes_count": 440,
+    "created_at": "2018-01-10T20:19:27+09:00",
+    "updated_at": "2019-04-20T22:30:46+09:00",
+    "id": "zd6ir7"
+  },
+  {
     "title": "ActiveModel::Attributes が最高すぎるんだよな。",
     "url": "https://qiita.com/alpaca_taichou/items/bebace92f06af3f32898",
     "likes_count": 440,
@@ -288,12 +296,12 @@
     "id": "alpaca_taichou"
   },
   {
-    "title": "「トランザクション」とは何か？を超わかりやすく語ってみた！",
-    "url": "https://qiita.com/zd6ir7/items/6568b6c3efc5d6a13865",
-    "likes_count": 439,
-    "created_at": "2018-01-10T20:19:27+09:00",
-    "updated_at": "2019-04-20T22:30:46+09:00",
-    "id": "zd6ir7"
+    "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
+    "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
+    "likes_count": 423,
+    "created_at": "2018-01-15T07:18:08+09:00",
+    "updated_at": "2019-11-04T16:49:32+09:00",
+    "id": "Nossa"
   },
   {
     "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
@@ -302,14 +310,6 @@
     "created_at": "2018-01-21T01:43:27+09:00",
     "updated_at": "2018-01-21T08:56:25+09:00",
     "id": "ishizakiiii"
-  },
-  {
-    "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
-    "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
-    "likes_count": 422,
-    "created_at": "2018-01-15T07:18:08+09:00",
-    "updated_at": "2019-11-04T16:49:32+09:00",
-    "id": "Nossa"
   },
   {
     "title": "Gitでローカルブランチを削除する",
@@ -330,7 +330,7 @@
   {
     "title": "PythonでTwitter API を利用していろいろ遊んでみる",
     "url": "https://qiita.com/bakira/items/00743d10ec42993f85eb",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2018-01-07T21:20:05+09:00",
     "updated_at": "2018-01-08T19:14:05+09:00",
     "id": "bakira"
