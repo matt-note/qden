@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2641,
+    "likes_count": 2642,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -42,10 +42,18 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年5月更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 1753,
+    "likes_count": 1754,
     "created_at": "2019-12-20T15:18:16+09:00",
     "updated_at": "2021-05-27T16:22:59+09:00",
     "id": "kamesennin"
+  },
+  {
+    "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
+    "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
+    "likes_count": 1634,
+    "created_at": "2019-12-01T10:38:32+09:00",
+    "updated_at": "2021-08-02T17:06:13+09:00",
+    "id": "hirokidaichi"
   },
   {
     "title": "なんとなくで書かないで！HTML5を書く時に気にしてみたいタグごとのお約束",
@@ -54,14 +62,6 @@
     "created_at": "2019-12-16T06:50:34+09:00",
     "updated_at": "2019-12-17T14:45:41+09:00",
     "id": "mikimhk"
-  },
-  {
-    "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
-    "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1630,
-    "created_at": "2019-12-01T10:38:32+09:00",
-    "updated_at": "2021-08-02T17:06:13+09:00",
-    "id": "hirokidaichi"
   },
   {
     "title": "個人開発したアプリが大コケしてるので失敗要因を分析してみた",
@@ -74,7 +74,7 @@
   {
     "title": "[和訳] Dropboxアカウントのせいで胃潰瘍になった",
     "url": "https://qiita.com/ktnyt/items/a4729e11b465c8f65478",
-    "likes_count": 1476,
+    "likes_count": 1477,
     "created_at": "2019-12-16T14:34:58+09:00",
     "updated_at": "2019-12-18T18:55:27+09:00",
     "id": "ktnyt"
@@ -82,7 +82,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1330,
+    "likes_count": 1336,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -90,7 +90,7 @@
   {
     "title": "ラーメンで理解するasync/await",
     "url": "https://qiita.com/7tsuno/items/6d5a27ffe9143b35defe",
-    "likes_count": 1310,
+    "likes_count": 1311,
     "created_at": "2019-12-18T17:52:01+09:00",
     "updated_at": "2019-12-23T11:06:12+09:00",
     "id": "7tsuno"
@@ -98,7 +98,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1191,
+    "likes_count": 1193,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -264,20 +264,20 @@
     "id": "wataoka"
   },
   {
+    "title": "VSCode で最高の LaTeX 環境を作る",
+    "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
+    "likes_count": 613,
+    "created_at": "2019-12-16T07:03:05+09:00",
+    "updated_at": "2021-04-04T19:09:55+09:00",
+    "id": "rainbartown"
+  },
+  {
     "title": "ゴリゴリの文系がＡＩをほぼ独学した半年",
     "url": "https://qiita.com/kyamad/items/f9988fe89c7665e933b4",
     "likes_count": 613,
     "created_at": "2019-12-27T19:50:42+09:00",
     "updated_at": "2021-06-26T21:37:18+09:00",
     "id": "kyamad"
-  },
-  {
-    "title": "VSCode で最高の LaTeX 環境を作る",
-    "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 609,
-    "created_at": "2019-12-16T07:03:05+09:00",
-    "updated_at": "2021-04-04T19:09:55+09:00",
-    "id": "rainbartown"
   },
   {
     "title": "フロントエンドの情報収集について",
@@ -434,7 +434,7 @@
   {
     "title": "AWS初学者が「うっかり課金」されがちなポイントとその対策まとめ",
     "url": "https://qiita.com/Yuji-Ishibashi/items/bb1c0042fd16a9350c5a",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2019-12-01T09:17:57+09:00",
     "updated_at": "2019-12-12T16:36:24+09:00",
     "id": "Yuji-Ishibashi"
@@ -464,20 +464,20 @@
     "id": "hi-asano"
   },
   {
+    "title": "NestJSのススメ ～Expressを超えてゆけ～",
+    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
+    "likes_count": 340,
+    "created_at": "2019-12-22T15:46:56+09:00",
+    "updated_at": "2020-04-18T20:27:13+09:00",
+    "id": "elipmoc101"
+  },
+  {
     "title": "Ruby on Railsの現場でよく見る書き方【実例あり】",
     "url": "https://qiita.com/ryokky59/items/988f25fa1fb6b9aefa8e",
     "likes_count": 338,
     "created_at": "2019-12-14T09:25:17+09:00",
     "updated_at": "2019-12-16T09:30:27+09:00",
     "id": "ryokky59"
-  },
-  {
-    "title": "NestJSのススメ ～Expressを超えてゆけ～",
-    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 338,
-    "created_at": "2019-12-22T15:46:56+09:00",
-    "updated_at": "2020-04-18T20:27:13+09:00",
-    "id": "elipmoc101"
   },
   {
     "title": "Vue/Nuxt開発効率を3倍にするVSCode拡張機能セット",
