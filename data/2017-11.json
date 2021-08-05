@@ -10,7 +10,7 @@
   {
     "title": "ウェブアプリをソースごとパクる業者に対する対策",
     "url": "https://qiita.com/kacchan6/items/d8576ab6b3c16cf670ca",
-    "likes_count": 1373,
+    "likes_count": 1374,
     "created_at": "2017-11-11T11:06:01+09:00",
     "updated_at": "2017-12-03T23:13:45+09:00",
     "id": "kacchan6"
@@ -42,7 +42,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 877,
+    "likes_count": 878,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -66,7 +66,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 846,
+    "likes_count": 848,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -210,7 +210,7 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 524,
+    "likes_count": 525,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
@@ -226,10 +226,18 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
+  },
+  {
+    "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
+    "url": "https://qiita.com/nh321/items/f7e20c7ba737ff5c0f60",
+    "likes_count": 515,
+    "created_at": "2017-11-26T01:05:44+09:00",
+    "updated_at": "2018-10-01T21:43:41+09:00",
+    "id": "nh321"
   },
   {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
@@ -238,14 +246,6 @@
     "created_at": "2017-11-25T15:34:09+09:00",
     "updated_at": "2020-03-18T13:27:49+09:00",
     "id": "yonedaco"
-  },
-  {
-    "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
-    "url": "https://qiita.com/nh321/items/f7e20c7ba737ff5c0f60",
-    "likes_count": 514,
-    "created_at": "2017-11-26T01:05:44+09:00",
-    "updated_at": "2018-10-01T21:43:41+09:00",
-    "id": "nh321"
   },
   {
     "title": " シェルスクリプトを何万倍も遅くしないためには —— ループせずフィルタしよう",
@@ -370,7 +370,7 @@
   {
     "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
     "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2017-11-28T16:30:16+09:00",
     "updated_at": "2019-01-08T16:43:01+09:00",
     "id": "ryouzi"
@@ -418,7 +418,7 @@
   {
     "title": "Haskellの入門から中級者になるまでの指針",
     "url": "https://qiita.com/Lugendre/items/70e517e59698e0e435f5",
-    "likes_count": 337,
+    "likes_count": 336,
     "created_at": "2017-11-05T20:00:59+09:00",
     "updated_at": "2017-11-07T13:52:21+09:00",
     "id": "Lugendre"
@@ -458,7 +458,7 @@
   {
     "title": "いまから始めるCommon Lisp",
     "url": "https://qiita.com/t-sin/items/054c2ff315ec3b9d3bdc",
-    "likes_count": 289,
+    "likes_count": 290,
     "created_at": "2017-11-29T21:13:36+09:00",
     "updated_at": "2018-03-02T22:21:31+09:00",
     "id": "t-sin"

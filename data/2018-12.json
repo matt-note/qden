@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2573,
+    "likes_count": 2584,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -34,7 +34,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1581,
+    "likes_count": 1582,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -50,9 +50,9 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1319,
+    "likes_count": 1322,
     "created_at": "2018-12-01T16:47:52+09:00",
-    "updated_at": "2021-05-27T20:26:34+09:00",
+    "updated_at": "2021-08-05T19:33:52+09:00",
     "id": "teradonburi"
   },
   {
@@ -66,7 +66,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1274,
+    "likes_count": 1277,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-07-15T22:07:14+09:00",
     "id": "diescake"
@@ -98,7 +98,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1136,
+    "likes_count": 1137,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -122,7 +122,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1017,
+    "likes_count": 1018,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -162,7 +162,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 962,
+    "likes_count": 964,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -218,7 +218,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 833,
+    "likes_count": 834,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -418,7 +418,7 @@
   {
     "title": "package-lock.jsonについて知りたくても聞けなかったこと",
     "url": "https://qiita.com/fj_yohei/items/7ca887a45e0855917279",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2018-12-03T15:34:09+09:00",
     "updated_at": "2020-07-11T13:34:36+09:00",
     "id": "fj_yohei"
@@ -514,7 +514,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzk-jp/items/00ff664da60c37458aaa",
-    "likes_count": 384,
+    "likes_count": 386,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2018-12-10T01:39:40+09:00",
     "id": "ymzk-jp"
@@ -554,7 +554,7 @@
   {
     "title": "JavaScript Standard Styleのススメ",
     "url": "https://qiita.com/munieru_jp/items/ca16cbfa859468137d2e",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2018-12-01T19:07:28+09:00",
     "updated_at": "2020-02-19T21:14:49+09:00",
     "id": "munieru_jp"
@@ -578,7 +578,7 @@
   {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -608,6 +608,14 @@
     "id": "ko2ic"
   },
   {
+    "title": "Web API初心者と学ぶGraphQL",
+    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
+    "likes_count": 344,
+    "created_at": "2018-12-20T03:46:56+09:00",
+    "updated_at": "2020-12-23T18:50:54+09:00",
+    "id": "SiragumoHuin"
+  },
+  {
     "title": "Nuxt, netlify, Firebase を使ったWebサービス開発と個人開発における技術選定のポイント",
     "url": "https://qiita.com/howdy39/items/ac4c19dd36cd182841bc",
     "likes_count": 343,
@@ -622,14 +630,6 @@
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
-  },
-  {
-    "title": "Web API初心者と学ぶGraphQL",
-    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 342,
-    "created_at": "2018-12-20T03:46:56+09:00",
-    "updated_at": "2020-12-23T18:50:54+09:00",
-    "id": "SiragumoHuin"
   },
   {
     "title": "ドメイン駆動設計を勉強するときのオススメ資料",
@@ -682,7 +682,7 @@
   {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
@@ -754,7 +754,7 @@
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
     "url": "https://qiita.com/riversun/items/c924cfe70e16ee3fe3ba",
-    "likes_count": 254,
+    "likes_count": 255,
     "created_at": "2018-12-16T08:41:24+09:00",
     "updated_at": "2018-12-18T21:05:54+09:00",
     "id": "riversun"

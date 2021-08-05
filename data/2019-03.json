@@ -34,7 +34,7 @@
   {
     "title": "ブラウザレンダリング入門〜知ることで見える世界〜",
     "url": "https://qiita.com/codemafia0000/items/caed57ec30d638e40728",
-    "likes_count": 1770,
+    "likes_count": 1771,
     "created_at": "2019-03-16T10:02:27+09:00",
     "updated_at": "2019-03-27T19:30:03+09:00",
     "id": "codemafia0000"
@@ -162,7 +162,7 @@
   {
     "title": "VSCodeでなるべくマウスを使わない開発環境をがんばる",
     "url": "https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353",
-    "likes_count": 844,
+    "likes_count": 845,
     "created_at": "2019-03-11T07:44:47+09:00",
     "updated_at": "2021-01-23T18:43:42+09:00",
     "id": "y-tsutsu"
@@ -170,7 +170,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 830,
+    "likes_count": 832,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -202,7 +202,7 @@
   {
     "title": "【Python】🍜機械学習で「隠れた名店」を探してみた。（そして実際に行ってみた）🍜",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/b3ac8fd1b300c3404508",
-    "likes_count": 719,
+    "likes_count": 720,
     "created_at": "2019-03-18T14:49:52+09:00",
     "updated_at": "2020-08-28T14:35:05+09:00",
     "id": "toshiyuki_tsutsui"
@@ -224,20 +224,20 @@
     "id": "tamura__246"
   },
   {
+    "title": "Android開発はFlutterでやる方がいい説",
+    "url": "https://qiita.com/ko2ic/items/b07d3ec73513c1bd8ba6",
+    "likes_count": 671,
+    "created_at": "2019-03-27T16:36:20+09:00",
+    "updated_at": "2019-08-30T17:43:25+09:00",
+    "id": "ko2ic"
+  },
+  {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
     "likes_count": 671,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
-  },
-  {
-    "title": "Android開発はFlutterでやる方がいい説",
-    "url": "https://qiita.com/ko2ic/items/b07d3ec73513c1bd8ba6",
-    "likes_count": 670,
-    "created_at": "2019-03-27T16:36:20+09:00",
-    "updated_at": "2019-08-30T17:43:25+09:00",
-    "id": "ko2ic"
   },
   {
     "title": "「Railsは終わった」と言われる理由",
@@ -264,20 +264,20 @@
     "id": "yusuke_ten"
   },
   {
+    "title": "TypeScript の概要",
+    "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
+    "likes_count": 627,
+    "created_at": "2019-03-18T13:33:09+09:00",
+    "updated_at": "2019-07-18T07:59:21+09:00",
+    "id": "EBIHARA_kenji"
+  },
+  {
     "title": "[最新論文]NVIDIAさんがまた本気を出してしまった。",
     "url": "https://qiita.com/Phoeboooo/items/ad6c0461ab052aae8e89",
     "likes_count": 626,
     "created_at": "2019-03-25T08:07:40+09:00",
     "updated_at": "2019-03-25T09:26:58+09:00",
     "id": "Phoeboooo"
-  },
-  {
-    "title": "TypeScript の概要",
-    "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 625,
-    "created_at": "2019-03-18T13:33:09+09:00",
-    "updated_at": "2019-07-18T07:59:21+09:00",
-    "id": "EBIHARA_kenji"
   },
   {
     "title": "モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace",
@@ -298,7 +298,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(導入編)",
     "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
-    "likes_count": 604,
+    "likes_count": 605,
     "created_at": "2019-03-27T22:24:09+09:00",
     "updated_at": "2020-03-30T18:47:49+09:00",
     "id": "AokabiC"
@@ -370,7 +370,7 @@
   {
     "title": "【Rails】MySQL2がbundle installできない時の対応方法",
     "url": "https://qiita.com/fukuda_fu/items/463a39406ce713396403",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2019-03-21T20:01:40+09:00",
     "updated_at": "2019-04-11T01:39:27+09:00",
     "id": "fukuda_fu"
@@ -400,20 +400,20 @@
     "id": "kazupaka"
   },
   {
+    "title": "JavaScript で陥りやすい失敗例を振り返る",
+    "url": "https://qiita.com/yuki153/items/c909c54204eaab6ca1b2",
+    "likes_count": 424,
+    "created_at": "2019-03-15T19:39:37+09:00",
+    "updated_at": "2019-03-17T10:14:46+09:00",
+    "id": "yuki153"
+  },
+  {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
     "url": "https://qiita.com/klriutsa/items/7f6047485968c61b6a5d",
     "likes_count": 424,
     "created_at": "2019-03-26T22:06:32+09:00",
     "updated_at": "2019-04-01T16:45:39+09:00",
     "id": "klriutsa"
-  },
-  {
-    "title": "JavaScript で陥りやすい失敗例を振り返る",
-    "url": "https://qiita.com/yuki153/items/c909c54204eaab6ca1b2",
-    "likes_count": 423,
-    "created_at": "2019-03-15T19:39:37+09:00",
-    "updated_at": "2019-03-17T10:14:46+09:00",
-    "id": "yuki153"
   },
   {
     "title": "Visual studio codeで競プロ環境構築[mac OS]",
@@ -434,7 +434,7 @@
   {
     "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
     "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2019-03-22T20:21:49+09:00",
     "updated_at": "2019-04-04T14:22:15+09:00",
     "id": "tancoro"
@@ -522,7 +522,7 @@
   {
     "title": "【INNER JOIN, LEFT JOIN , RIGHT JOIN】テーブル結合の挙動をまとめてみた【SQL】",
     "url": "https://qiita.com/ngron/items/db4947fb0551f21321c0",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2019-03-14T14:28:22+09:00",
     "updated_at": "2019-10-18T19:42:54+09:00",
     "id": "ngron"
@@ -544,20 +544,20 @@
     "id": "E-46"
   },
   {
-    "title": "個人的に便利だと思ったReact hooks 一覧",
-    "url": "https://qiita.com/seya/items/f6d311b32cf711a02020",
-    "likes_count": 316,
-    "created_at": "2019-03-17T20:29:56+09:00",
-    "updated_at": "2019-04-26T14:51:41+09:00",
-    "id": "seya"
-  },
-  {
     "title": "【入門】Redis",
     "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 316,
+    "likes_count": 318,
     "created_at": "2019-03-22T16:43:36+09:00",
     "updated_at": "2020-09-14T17:26:22+09:00",
     "id": "wind-up-bird"
+  },
+  {
+    "title": "個人的に便利だと思ったReact hooks 一覧",
+    "url": "https://qiita.com/seya/items/f6d311b32cf711a02020",
+    "likes_count": 317,
+    "created_at": "2019-03-17T20:29:56+09:00",
+    "updated_at": "2019-04-26T14:51:41+09:00",
+    "id": "seya"
   },
   {
     "title": "vuexをまだ理解していない全人類に捧ぐvuexを利用したコードの図解",

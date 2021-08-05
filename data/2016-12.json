@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1767,
+    "likes_count": 1768,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -42,7 +42,7 @@
   {
     "title": "いまさら聞けないLinuxとメモリの基礎＆vmstatの詳しい使い方",
     "url": "https://qiita.com/kunihirotanaka/items/70d43d48757aea79de2d",
-    "likes_count": 1533,
+    "likes_count": 1534,
     "created_at": "2016-12-25T13:48:22+09:00",
     "updated_at": "2016-12-26T11:43:00+09:00",
     "id": "kunihirotanaka"
@@ -50,7 +50,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1479,
+    "likes_count": 1480,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-08-02T02:55:41+09:00",
     "id": "soarflat"
@@ -70,14 +70,6 @@
     "created_at": "2016-12-07T06:30:51+09:00",
     "updated_at": "2016-12-17T15:54:28+09:00",
     "id": "Hironsan"
-  },
-  {
-    "title": "Python Webスクレイピング 実践入門",
-    "url": "https://qiita.com/Azunyan1111/items/9b3d16428d2bcc7c9406",
-    "likes_count": 1333,
-    "created_at": "2016-12-02T00:04:15+09:00",
-    "updated_at": "2020-03-28T00:14:20+09:00",
-    "id": "Azunyan1111"
   },
   {
     "title": "次世代監視の大本命！ Prometheus を実運用してみた",
@@ -138,7 +130,7 @@
   {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 933,
+    "likes_count": 934,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
@@ -154,7 +146,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 859,
+    "likes_count": 860,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -242,7 +234,7 @@
   {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
-    "likes_count": 659,
+    "likes_count": 661,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
@@ -258,7 +250,7 @@
   {
     "title": "iOSアプリ開発でアニメーションするなら押さえておきたい基礎",
     "url": "https://qiita.com/hachinobu/items/57d4c305c907805b4a53",
-    "likes_count": 654,
+    "likes_count": 656,
     "created_at": "2016-12-22T15:31:54+09:00",
     "updated_at": "2018-12-27T15:29:57+09:00",
     "id": "hachinobu"
@@ -274,7 +266,7 @@
   {
     "title": "curlコマンドでapiを叩く",
     "url": "https://qiita.com/buntafujikawa/items/758425773b2239feb9a7",
-    "likes_count": 639,
+    "likes_count": 640,
     "created_at": "2016-12-26T23:43:49+09:00",
     "updated_at": "2020-09-19T11:01:47+09:00",
     "id": "buntafujikawa"
@@ -290,7 +282,7 @@
   {
     "title": "Gitのブランチモデルについて",
     "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 623,
+    "likes_count": 624,
     "created_at": "2016-12-05T00:04:34+09:00",
     "updated_at": "2016-12-05T00:12:43+09:00",
     "id": "y-okudera"
@@ -522,7 +514,7 @@
   {
     "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
     "url": "https://qiita.com/chanNaru/items/326bd50a78cf34371169",
-    "likes_count": 426,
+    "likes_count": 427,
     "created_at": "2016-12-23T18:57:30+09:00",
     "updated_at": "2020-02-06T13:59:09+09:00",
     "id": "chanNaru"
@@ -714,7 +706,7 @@
   {
     "title": "AWS Lambda超入門",
     "url": "https://qiita.com/mizno/items/b584435120e99d63975b",
-    "likes_count": 307,
+    "likes_count": 308,
     "created_at": "2016-12-04T18:30:28+09:00",
     "updated_at": "2016-12-05T09:10:26+09:00",
     "id": "mizno"
@@ -774,6 +766,14 @@
     "created_at": "2016-12-25T00:50:38+09:00",
     "updated_at": "2017-02-03T08:58:26+09:00",
     "id": "TakesxiSximada"
+  },
+  {
+    "title": "使ってみよう！Jenkins 「Pipeline」",
+    "url": "https://qiita.com/miyasakura_/items/9d9a8873c333cb9e9f43",
+    "likes_count": 264,
+    "created_at": "2016-12-05T00:01:49+09:00",
+    "updated_at": "2017-01-24T18:05:26+09:00",
+    "id": "miyasakura_"
   },
   {
     "title": "アジャイル開発を支えるためのCI/CD",
