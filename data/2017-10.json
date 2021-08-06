@@ -18,7 +18,7 @@
   {
     "title": "OSSのデータ可視化ツール「Metabase」が超使いやすい",
     "url": "https://qiita.com/acro5piano/items/0920550d297651b04387",
-    "likes_count": 1675,
+    "likes_count": 1676,
     "created_at": "2017-10-14T12:08:04+09:00",
     "updated_at": "2020-06-05T21:40:02+09:00",
     "id": "acro5piano"
@@ -98,7 +98,7 @@
   {
     "title": "要素の取得方法まとめ",
     "url": "https://qiita.com/amamamaou/items/25e8b4e1b41c8d3211f4",
-    "likes_count": 655,
+    "likes_count": 656,
     "created_at": "2017-10-27T16:44:49+09:00",
     "updated_at": "2020-07-14T11:18:37+09:00",
     "id": "amamamaou"
@@ -106,7 +106,7 @@
   {
     "title": "[DDD]ドメイン駆動 + オニオンアーキテクチャ概略",
     "url": "https://qiita.com/little_hand_s/items/2040fba15d90b93fc124",
-    "likes_count": 641,
+    "likes_count": 642,
     "created_at": "2017-10-11T07:53:16+09:00",
     "updated_at": "2020-02-17T23:58:41+09:00",
     "id": "little_hand_s"
@@ -194,7 +194,7 @@
   {
     "title": "MacのBrewで複数バージョンのJavaを利用する + jEnv",
     "url": "https://qiita.com/seijikohara/items/56cc4ac83ef9d686fab2",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2017-10-03T14:52:44+09:00",
     "updated_at": "2021-06-27T17:45:03+09:00",
     "id": "seijikohara"
@@ -218,7 +218,7 @@
   {
     "title": "Linuxのプロセス間通信",
     "url": "https://qiita.com/MoriokaReimen/items/5c4256ef620499a88bb3",
-    "likes_count": 445,
+    "likes_count": 447,
     "created_at": "2017-10-07T20:21:25+09:00",
     "updated_at": "2020-10-10T11:39:31+09:00",
     "id": "MoriokaReimen"
@@ -226,7 +226,7 @@
   {
     "title": "OpenID Connect 全フロー解説",
     "url": "https://qiita.com/TakahikoKawasaki/items/4ee9b55db9f7ef352b47",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2017-10-15T04:31:04+09:00",
     "updated_at": "2020-03-20T15:04:00+09:00",
     "id": "TakahikoKawasaki"
@@ -306,10 +306,18 @@
   {
     "title": "Swift の HTTP ライブラリで苦しまないための自作 API クライアント設計",
     "url": "https://qiita.com/Kuniwak/items/a972ff2ade643799d1fe",
-    "likes_count": 338,
+    "likes_count": 339,
     "created_at": "2017-10-23T00:51:59+09:00",
     "updated_at": "2018-08-24T18:36:33+09:00",
     "id": "Kuniwak"
+  },
+  {
+    "title": "fzfを活用してTerminalの作業効率を高める",
+    "url": "https://qiita.com/kamykn/items/aa9920f07487559c0c7e",
+    "likes_count": 338,
+    "created_at": "2017-10-20T00:18:31+09:00",
+    "updated_at": "2019-01-27T23:17:16+09:00",
+    "id": "kamykn"
   },
   {
     "title": "SQLの基本を覚える【初心者向け】",
@@ -318,14 +326,6 @@
     "created_at": "2017-10-31T23:38:42+09:00",
     "updated_at": "2017-11-01T22:32:12+09:00",
     "id": "chida09"
-  },
-  {
-    "title": "fzfを活用してTerminalの作業効率を高める",
-    "url": "https://qiita.com/kamykn/items/aa9920f07487559c0c7e",
-    "likes_count": 336,
-    "created_at": "2017-10-20T00:18:31+09:00",
-    "updated_at": "2019-01-27T23:17:16+09:00",
-    "id": "kamykn"
   },
   {
     "title": "【Git】特定のコミットまで戻したい",
@@ -410,7 +410,7 @@
   {
     "title": "psycopg2 でよくやる操作まとめ",
     "url": "https://qiita.com/hoto17296/items/0ca1569d6fa54c7c4732",
-    "likes_count": 277,
+    "likes_count": 279,
     "created_at": "2017-10-25T17:19:42+09:00",
     "updated_at": "2020-08-30T23:20:40+09:00",
     "id": "hoto17296"
