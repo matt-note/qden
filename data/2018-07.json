@@ -2,7 +2,7 @@
   {
     "title": "初心者プログラマが犯しがちな過ち25選",
     "url": "https://qiita.com/rana_kualu/items/379eefb3a40c6b44cb92",
-    "likes_count": 2482,
+    "likes_count": 2483,
     "created_at": "2018-07-06T21:18:51+09:00",
     "updated_at": "2020-01-06T21:50:48+09:00",
     "id": "rana_kualu"
@@ -10,7 +10,7 @@
   {
     "title": "今日からはじめるUnity",
     "url": "https://qiita.com/nmxi/items/7950fb12ef925efa276d",
-    "likes_count": 1695,
+    "likes_count": 1696,
     "created_at": "2018-07-14T20:07:16+09:00",
     "updated_at": "2020-12-24T12:37:47+09:00",
     "id": "nmxi"
@@ -18,7 +18,7 @@
   {
     "title": "スピード感重視なのでテストは書かない。テストはなぜ開発を遅くするか",
     "url": "https://qiita.com/aimof/items/d68bdb347283ee2dbccf",
-    "likes_count": 1396,
+    "likes_count": 1395,
     "created_at": "2018-07-28T11:22:27+09:00",
     "updated_at": "2018-08-03T14:00:30+09:00",
     "id": "aimof"
@@ -26,7 +26,7 @@
   {
     "title": "【SIer新人向け】研修では教えてくれないノウハウ集",
     "url": "https://qiita.com/old-stone/items/6221824566116710453f",
-    "likes_count": 1385,
+    "likes_count": 1384,
     "created_at": "2018-07-17T00:59:02+09:00",
     "updated_at": "2019-09-19T00:12:15+09:00",
     "id": "old-stone"
@@ -90,7 +90,7 @@
   {
     "title": "npmとyarnのコマンド早見表",
     "url": "https://qiita.com/rubytomato@github/items/1696530bb9fd59aa28d8",
-    "likes_count": 848,
+    "likes_count": 849,
     "created_at": "2018-07-02T07:03:00+09:00",
     "updated_at": "2020-07-16T23:37:10+09:00",
     "id": "rubytomato@github"
@@ -122,7 +122,7 @@
   {
     "title": "20万pv/月達成のwebサービスのRailsソースコード、全部見せます！",
     "url": "https://qiita.com/kent_ear/items/f48362b953d74d9f60f0",
-    "likes_count": 814,
+    "likes_count": 813,
     "created_at": "2018-08-01T01:41:17+09:00",
     "updated_at": "2019-08-22T14:05:12+09:00",
     "id": "kent_ear"
@@ -178,7 +178,7 @@
   {
     "title": "Pandas の groupby の使い方",
     "url": "https://qiita.com/propella/items/a9a32b878c77222630ae",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2018-07-02T18:03:48+09:00",
     "updated_at": "2018-11-15T16:12:51+09:00",
     "id": "propella"
@@ -186,7 +186,7 @@
   {
     "title": "【Rails 5】(新) form_with と (旧) form_tag, form_for の違い",
     "url": "https://qiita.com/hmmrjn/items/24f3b8eade206ace17e2",
-    "likes_count": 560,
+    "likes_count": 561,
     "created_at": "2018-07-02T02:57:12+09:00",
     "updated_at": "2020-09-08T01:09:29+09:00",
     "id": "hmmrjn"
@@ -226,7 +226,7 @@
   {
     "title": "Atomic Designってデザイナーには難しくない！？という話",
     "url": "https://qiita.com/rhirayamaaan/items/7f990e146ec01f2e7e08",
-    "likes_count": 521,
+    "likes_count": 520,
     "created_at": "2018-07-30T11:50:10+09:00",
     "updated_at": "2018-11-08T00:58:18+09:00",
     "id": "rhirayamaaan"
@@ -282,7 +282,7 @@
   {
     "title": "DynamoDBのキー・インデックスについてまとめてみた",
     "url": "https://qiita.com/shibataka000/items/e3f3792201d6fcc397fd",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2018-07-14T18:43:22+09:00",
     "updated_at": "2021-04-16T19:22:12+09:00",
     "id": "shibataka000"
@@ -336,14 +336,6 @@
     "id": "kaizen_nagoya"
   },
   {
-    "title": "フロントエンドの命名や設計の基本と自分の現在の設計",
-    "url": "https://qiita.com/buchiya4th/items/127282088f5a9ad56152",
-    "likes_count": 344,
-    "created_at": "2018-07-23T06:22:42+09:00",
-    "updated_at": "2018-12-01T08:12:56+09:00",
-    "id": "buchiya4th"
-  },
-  {
     "title": "Google Maps API を使ってみた",
     "url": "https://qiita.com/Haruka-Ogawa/items/997401a2edcd20e61037",
     "likes_count": 344,
@@ -358,6 +350,14 @@
     "created_at": "2018-07-09T19:13:54+09:00",
     "updated_at": "2018-07-11T11:14:35+09:00",
     "id": "Chanmoro"
+  },
+  {
+    "title": "フロントエンドの命名や設計の基本と自分の現在の設計",
+    "url": "https://qiita.com/buchiya4th/items/127282088f5a9ad56152",
+    "likes_count": 343,
+    "created_at": "2018-07-23T06:22:42+09:00",
+    "updated_at": "2018-12-01T08:12:56+09:00",
+    "id": "buchiya4th"
   },
   {
     "title": "[初学者]Railsのi18nによる日本語化対応",
@@ -538,7 +538,7 @@
   {
     "title": "Chrome デベロッパーツールの使い方まとめ",
     "url": "https://qiita.com/d-dai/items/0b580b26bb1d1622eb46",
-    "likes_count": 218,
+    "likes_count": 219,
     "created_at": "2018-07-09T01:31:00+09:00",
     "updated_at": "2020-12-14T01:53:27+09:00",
     "id": "d-dai"
