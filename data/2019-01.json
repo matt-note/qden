@@ -2,7 +2,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -前編-",
     "url": "https://qiita.com/etaroid/items/b1024c7d200a75b992fc",
-    "likes_count": 4381,
+    "likes_count": 4382,
     "created_at": "2019-01-15T23:07:44+09:00",
     "updated_at": "2020-12-18T00:00:46+09:00",
     "id": "etaroid"
@@ -18,7 +18,7 @@
   {
     "title": "いまさらだけどCircleCIに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/4c7e62434af455e977c2",
-    "likes_count": 1851,
+    "likes_count": 1853,
     "created_at": "2019-01-07T09:17:44+09:00",
     "updated_at": "2020-04-02T17:10:51+09:00",
     "id": "gold-kou"
@@ -154,7 +154,7 @@
   {
     "title": "低レイヤーを学ぶための技術書をまとめてみる",
     "url": "https://qiita.com/hareku/items/3383be7aee616e04b80f",
-    "likes_count": 849,
+    "likes_count": 850,
     "created_at": "2019-01-08T21:04:25+09:00",
     "updated_at": "2020-11-03T03:44:32+09:00",
     "id": "hareku"
@@ -266,7 +266,7 @@
   {
     "title": "ソート可能なUUID互換のulidが便利そう",
     "url": "https://qiita.com/kai_kou/items/b4ac2d316920e08ac75a",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2019-01-08T08:00:15+09:00",
     "updated_at": "2019-01-10T14:22:41+09:00",
     "id": "kai_kou"
@@ -282,7 +282,7 @@
   {
     "title": "any型で諦めない React.EventCallback",
     "url": "https://qiita.com/Takepepe/items/f1ba99a7ca7e66290f24",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2019-01-28T12:19:22+09:00",
     "updated_at": "2019-01-29T00:47:12+09:00",
     "id": "Takepepe"
@@ -416,20 +416,20 @@
     "id": "suin"
   },
   {
+    "title": "Vue.js + Firebase + golangでログインシステムを作ってみた備忘録",
+    "url": "https://qiita.com/yoshinori_hisakawa/items/a2254edc9f9784f47453",
+    "likes_count": 320,
+    "created_at": "2019-01-18T18:00:53+09:00",
+    "updated_at": "2019-01-20T11:48:39+09:00",
+    "id": "yoshinori_hisakawa"
+  },
+  {
     "title": "2019年にもなって未だに非同期I/Oを使わずPHP、Python、Ruby等でProcessを浪費しているサービスが増える理由とは！",
     "url": "https://qiita.com/YukiMiyatake/items/9904ed5b481e3f307bba",
     "likes_count": 319,
     "created_at": "2019-01-11T03:16:48+09:00",
     "updated_at": "2019-01-14T10:22:08+09:00",
     "id": "YukiMiyatake"
-  },
-  {
-    "title": "Vue.js + Firebase + golangでログインシステムを作ってみた備忘録",
-    "url": "https://qiita.com/yoshinori_hisakawa/items/a2254edc9f9784f47453",
-    "likes_count": 319,
-    "created_at": "2019-01-18T18:00:53+09:00",
-    "updated_at": "2019-01-20T11:48:39+09:00",
-    "id": "yoshinori_hisakawa"
   },
   {
     "title": "モデル予測制御（MPC）による軌道追従制御",
@@ -458,7 +458,7 @@
   {
     "title": "DockerによるPHP開発環境構築（PHP + MySQL + Nginx）",
     "url": "https://qiita.com/nemui_/items/f911be7ffa4f29293fd5",
-    "likes_count": 273,
+    "likes_count": 274,
     "created_at": "2019-01-20T19:56:57+09:00",
     "updated_at": "2019-01-22T00:03:56+09:00",
     "id": "nemui_"
@@ -482,7 +482,7 @@
   {
     "title": "Google Colabの使い方まとめ",
     "url": "https://qiita.com/shoji9x9/items/0ff0f6f603df18d631ab",
-    "likes_count": 247,
+    "likes_count": 248,
     "created_at": "2019-01-13T16:28:40+09:00",
     "updated_at": "2019-06-09T19:48:12+09:00",
     "id": "shoji9x9"
@@ -498,7 +498,7 @@
   {
     "title": "VirtualBoxのネットワーク設定を絵で説明する",
     "url": "https://qiita.com/feifo/items/0fde474005589afcff68",
-    "likes_count": 225,
+    "likes_count": 226,
     "created_at": "2019-01-20T01:04:19+09:00",
     "updated_at": "2019-02-01T10:04:55+09:00",
     "id": "feifo"
