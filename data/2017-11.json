@@ -2,7 +2,7 @@
   {
     "title": "テストがなかった無法地帯にテストを導入して開発速度を1.7倍にした話",
     "url": "https://qiita.com/Kuniwak/items/4314451227f4d5eaa6b8",
-    "likes_count": 1681,
+    "likes_count": 1682,
     "created_at": "2017-11-30T23:59:53+09:00",
     "updated_at": "2017-12-02T14:26:55+09:00",
     "id": "Kuniwak"
@@ -42,7 +42,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 881,
+    "likes_count": 882,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -58,7 +58,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 854,
+    "likes_count": 855,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -106,7 +106,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 671,
+    "likes_count": 672,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2018-07-15T15:52:26+09:00",
     "id": "ryouzi"
@@ -168,6 +168,14 @@
     "id": "hogemax"
   },
   {
+    "title": "Docker for Windowsで快適な環境を得るまでの そこそこ長い闘い",
+    "url": "https://qiita.com/YukiMiyatake/items/73c7d6c4f2c9739ebe60",
+    "likes_count": 556,
+    "created_at": "2017-11-10T02:57:16+09:00",
+    "updated_at": "2019-08-22T05:07:38+09:00",
+    "id": "YukiMiyatake"
+  },
+  {
     "title": "「GoogleAnalytics見てアクセス解析して」って言われた時にまずしていること",
     "url": "https://qiita.com/PpJZ28dZke7RKK/items/a4ae7d61d15504a566ce",
     "likes_count": 556,
@@ -182,14 +190,6 @@
     "created_at": "2017-11-26T16:22:19+09:00",
     "updated_at": "2021-06-26T14:05:21+09:00",
     "id": "n0bisuke"
-  },
-  {
-    "title": "Docker for Windowsで快適な環境を得るまでの そこそこ長い闘い",
-    "url": "https://qiita.com/YukiMiyatake/items/73c7d6c4f2c9739ebe60",
-    "likes_count": 555,
-    "created_at": "2017-11-10T02:57:16+09:00",
-    "updated_at": "2019-08-22T05:07:38+09:00",
-    "id": "YukiMiyatake"
   },
   {
     "title": "draw.ioでAWSのインフラ構成図を書く",
@@ -226,7 +226,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -402,7 +402,7 @@
   {
     "title": "Swiftとイニシャライザ",
     "url": "https://qiita.com/shtnkgm/items/8b7979fc84a3cc065238",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2017-11-28T15:44:57+09:00",
     "updated_at": "2018-02-05T01:11:35+09:00",
     "id": "shtnkgm"
@@ -442,7 +442,7 @@
   {
     "title": "OAuth 2.0/OpenID Connectの2つのトークンの使いみち",
     "url": "https://qiita.com/wadahiro/items/ad36c7932c6627149873",
-    "likes_count": 316,
+    "likes_count": 319,
     "created_at": "2017-11-24T17:55:45+09:00",
     "updated_at": "2018-04-16T15:25:55+09:00",
     "id": "wadahiro"

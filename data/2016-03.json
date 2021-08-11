@@ -2,7 +2,7 @@
   {
     "title": "翻訳: WebAPI 設計のベストプラクティス",
     "url": "https://qiita.com/mserizawa/items/b833e407d89abd21ee72",
-    "likes_count": 5462,
+    "likes_count": 5464,
     "created_at": "2016-03-24T03:18:36+09:00",
     "updated_at": "2017-12-17T15:13:02+09:00",
     "id": "mserizawa"
@@ -34,7 +34,7 @@
   {
     "title": "nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する",
     "url": "https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc",
-    "likes_count": 1907,
+    "likes_count": 1908,
     "created_at": "2016-03-18T01:08:31+09:00",
     "updated_at": "2018-04-09T09:05:54+09:00",
     "id": "kotarella1110"
@@ -58,7 +58,7 @@
   {
     "title": "sedでこういう時はどう書く?",
     "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
-    "likes_count": 1465,
+    "likes_count": 1468,
     "created_at": "2016-03-04T11:57:25+09:00",
     "updated_at": "2018-10-25T10:59:12+09:00",
     "id": "hirohiro77"
@@ -74,7 +74,7 @@
   {
     "title": "Macでの開発環境構築をできる限り自動化する。",
     "url": "https://qiita.com/takustaqu/items/a328baf15862faa086ee",
-    "likes_count": 1336,
+    "likes_count": 1337,
     "created_at": "2016-03-19T17:24:15+09:00",
     "updated_at": "2017-11-08T19:03:40+09:00",
     "id": "takustaqu"
@@ -90,7 +90,7 @@
   {
     "title": "Chrome拡張の開発方法まとめ　その1：概念編",
     "url": "https://qiita.com/k7a/items/26d7a22233ecdf48fed8",
-    "likes_count": 1148,
+    "likes_count": 1149,
     "created_at": "2016-03-14T00:11:37+09:00",
     "updated_at": "2016-03-15T20:42:35+09:00",
     "id": "k7a"
@@ -98,7 +98,7 @@
   {
     "title": "「WebAPI 設計のベストプラクティス」に対する所感",
     "url": "https://qiita.com/ryo88c/items/0a3c7861015861026e00",
-    "likes_count": 1026,
+    "likes_count": 1027,
     "created_at": "2016-03-28T21:23:20+09:00",
     "updated_at": "2017-04-07T18:38:34+09:00",
     "id": "ryo88c"
@@ -162,7 +162,7 @@
   {
     "title": "Pythonにおける非同期処理: asyncio逆引きリファレンス",
     "url": "https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0",
-    "likes_count": 781,
+    "likes_count": 782,
     "created_at": "2016-03-26T22:06:48+09:00",
     "updated_at": "2019-03-06T12:38:21+09:00",
     "id": "icoxfog417"
@@ -274,7 +274,7 @@
   {
     "title": "grepでこういう時はどうする?",
     "url": "https://qiita.com/hirohiro77/items/771ffb64dddceabf69a3",
-    "likes_count": 552,
+    "likes_count": 553,
     "created_at": "2016-03-10T10:28:19+09:00",
     "updated_at": "2019-01-24T10:38:52+09:00",
     "id": "hirohiro77"
@@ -392,20 +392,20 @@
     "id": "zembutsu"
   },
   {
+    "title": "オブジェクト指向エクササイズをやってみる",
+    "url": "https://qiita.com/opengl-8080/items/6f0a458df9c34eccf76c",
+    "likes_count": 419,
+    "created_at": "2016-03-20T01:28:58+09:00",
+    "updated_at": "2016-05-28T21:00:03+09:00",
+    "id": "opengl-8080"
+  },
+  {
     "title": "本当はすごいKPTで強いチームを作る for エンジニア",
     "url": "https://qiita.com/netetahito/items/8cae1ab27ef010e45270",
     "likes_count": 418,
     "created_at": "2016-03-23T00:14:43+09:00",
     "updated_at": "2016-04-30T22:12:41+09:00",
     "id": "netetahito"
-  },
-  {
-    "title": "オブジェクト指向エクササイズをやってみる",
-    "url": "https://qiita.com/opengl-8080/items/6f0a458df9c34eccf76c",
-    "likes_count": 417,
-    "created_at": "2016-03-20T01:28:58+09:00",
-    "updated_at": "2016-05-28T21:00:03+09:00",
-    "id": "opengl-8080"
   },
   {
     "title": "Java/Androidにおける例外設計、あるいは「契約による設計」によるシンプルさの追求",
@@ -498,7 +498,7 @@
   {
     "title": "kubernetes : kubectlコマンド一覧",
     "url": "https://qiita.com/suzukihi724/items/241f7241d297a2d4a55c",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2016-03-06T10:35:19+09:00",
     "updated_at": "2021-01-02T15:47:02+09:00",
     "id": "suzukihi724"
@@ -602,7 +602,7 @@
   {
     "title": "Ruby のエラーメッセージを読み解く（初心者向け）その 1",
     "url": "https://qiita.com/scivola/items/3017068a354892b239f4",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2016-03-05T17:34:37+09:00",
     "updated_at": "2021-04-11T10:03:06+09:00",
     "id": "scivola"

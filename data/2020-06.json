@@ -10,7 +10,7 @@
   {
     "title": "【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る",
     "url": "https://qiita.com/tomo_makes/items/aafae4021986553ae1d8",
-    "likes_count": 2067,
+    "likes_count": 2068,
     "created_at": "2020-06-28T19:25:44+09:00",
     "updated_at": "2020-07-12T16:23:06+09:00",
     "id": "tomo_makes"
@@ -42,7 +42,7 @@
   {
     "title": "「ビジネスロジック」とは何か、どう実装するのか",
     "url": "https://qiita.com/os1ma/items/25725edfe3c2af93d735",
-    "likes_count": 1418,
+    "likes_count": 1420,
     "created_at": "2020-06-27T18:48:53+09:00",
     "updated_at": "2021-05-23T10:52:57+09:00",
     "id": "os1ma"
@@ -114,7 +114,7 @@
   {
     "title": "【※絶対に自動化してはいけない】自動化禁止サイトまとめ！",
     "url": "https://qiita.com/n_oshiumi/items/b4efd1f40ec0a1b77376",
-    "likes_count": 751,
+    "likes_count": 752,
     "created_at": "2020-06-24T19:14:45+09:00",
     "updated_at": "2020-06-25T11:04:37+09:00",
     "id": "n_oshiumi"
@@ -146,7 +146,7 @@
   {
     "title": "開発チームの生産性・健全性を客観的に知るためにリポジトリ履歴から機械的に可視化するツールを作った",
     "url": "https://qiita.com/hirokidaichi/items/ceece347f808cc9d14dd",
-    "likes_count": 589,
+    "likes_count": 590,
     "created_at": "2020-06-03T14:27:09+09:00",
     "updated_at": "2020-06-03T17:38:51+09:00",
     "id": "hirokidaichi"
@@ -154,10 +154,18 @@
   {
     "title": "【自動化】PDF内の表をPythonで抜き出す",
     "url": "https://qiita.com/konitech913/items/4ef70e1f7753c824b40f",
-    "likes_count": 588,
+    "likes_count": 589,
     "created_at": "2020-06-28T10:47:22+09:00",
     "updated_at": "2021-08-08T06:53:06+09:00",
     "id": "konitech913"
+  },
+  {
+    "title": "超高速！多倍長整数の計算手法【前編：大きな数の四則計算を圧倒的な速度で！】",
+    "url": "https://qiita.com/square1001/items/1aa12e04934b6e749962",
+    "likes_count": 585,
+    "created_at": "2020-06-15T20:16:53+09:00",
+    "updated_at": "2020-06-23T13:56:05+09:00",
+    "id": "square1001"
   },
   {
     "title": "待ってました CUDA on WSL 2",
@@ -166,14 +174,6 @@
     "created_at": "2020-06-19T00:04:23+09:00",
     "updated_at": "2021-07-30T17:15:14+09:00",
     "id": "ksasaki"
-  },
-  {
-    "title": "超高速！多倍長整数の計算手法【前編：大きな数の四則計算を圧倒的な速度で！】",
-    "url": "https://qiita.com/square1001/items/1aa12e04934b6e749962",
-    "likes_count": 584,
-    "created_at": "2020-06-15T20:16:53+09:00",
-    "updated_at": "2020-06-23T13:56:05+09:00",
-    "id": "square1001"
   },
   {
     "title": "サーバーレスの理解とメリット・デメリット（2020年版）",
@@ -202,7 +202,7 @@
   {
     "title": "エンジニアの「雑談」の効能を考える",
     "url": "https://qiita.com/viva_tweet_x/items/dd9d3353d1b961fd1c71",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2020-06-16T22:56:05+09:00",
     "updated_at": "2020-06-18T14:56:46+09:00",
     "id": "viva_tweet_x"
@@ -238,6 +238,14 @@
     "created_at": "2020-06-20T20:03:36+09:00",
     "updated_at": "2020-07-04T16:50:52+09:00",
     "id": "mascii"
+  },
+  {
+    "title": "4歳娘「パパ、オブジェクトから型を作って？」",
+    "url": "https://qiita.com/Yametaro/items/f8f9023c5e14c9a1e375",
+    "likes_count": 447,
+    "created_at": "2020-06-07T17:06:03+09:00",
+    "updated_at": "2020-06-17T11:48:19+09:00",
+    "id": "Yametaro"
   },
   {
     "title": "Python を Go に書き換えるとどれくらい速くなる？ 7つの言語で Dijkstra の実行速度を比較",
@@ -280,20 +288,20 @@
     "id": "1021ky@github"
   },
   {
+    "title": "家の中のセンサデータをRaspberryPiで取得しまくり、スーパーIoTハウスを実現",
+    "url": "https://qiita.com/c60evaporator/items/283d0569eba58830f86e",
+    "likes_count": 368,
+    "created_at": "2020-06-05T22:27:35+09:00",
+    "updated_at": "2021-06-01T18:36:45+09:00",
+    "id": "c60evaporator"
+  },
+  {
     "title": "機械学習で使われる評価関数まとめ",
     "url": "https://qiita.com/monda00/items/a2ee8e0da51953c24da8",
     "likes_count": 368,
     "created_at": "2020-06-23T20:08:48+09:00",
     "updated_at": "2021-06-27T15:48:17+09:00",
     "id": "monda00"
-  },
-  {
-    "title": "家の中のセンサデータをRaspberryPiで取得しまくり、スーパーIoTハウスを実現",
-    "url": "https://qiita.com/c60evaporator/items/283d0569eba58830f86e",
-    "likes_count": 367,
-    "created_at": "2020-06-05T22:27:35+09:00",
-    "updated_at": "2021-06-01T18:36:45+09:00",
-    "id": "c60evaporator"
   },
   {
     "title": "ソフトウェア開発のキャリアパス",
@@ -322,7 +330,7 @@
   {
     "title": "C#のみを使って、今ソーシャルゲームアプリを作るとしたら",
     "url": "https://qiita.com/yoship1639/items/c54f6942d847f8374377",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2020-06-29T08:10:08+09:00",
     "updated_at": "2020-06-30T09:05:23+09:00",
     "id": "yoship1639"
@@ -338,7 +346,7 @@
   {
     "title": "達人に学ぶDB設計 | 正規化と非正規化、インデックスについて",
     "url": "https://qiita.com/k_kind/items/d2651cd2035ec3589df1",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2020-06-23T08:33:53+09:00",
     "updated_at": "2020-06-27T21:08:04+09:00",
     "id": "k_kind"
@@ -346,7 +354,7 @@
   {
     "title": "Raspberry Pi4 単体で TensorFlow Lite はどれくらいの速度で動く？",
     "url": "https://qiita.com/terryky/items/243000fcfcb89af11510",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2020-06-05T00:32:45+09:00",
     "updated_at": "2020-06-06T00:07:19+09:00",
     "id": "terryky"
