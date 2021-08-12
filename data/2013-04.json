@@ -2,7 +2,7 @@
   {
     "title": "JavaScriptの「this」は「4種類」？？",
     "url": "https://qiita.com/takeharu/items/9935ce476a17d6258e27",
-    "likes_count": 2347,
+    "likes_count": 2348,
     "created_at": "2013-04-09T21:57:39+09:00",
     "updated_at": "2015-12-07T14:11:11+09:00",
     "id": "takeharu"
@@ -112,6 +112,14 @@
     "id": "horimislime"
   },
   {
+    "title": "Bashでコマンドの存在チェックはwhichよりhashの方が良いかも→いやtypeが最強→command -vも",
+    "url": "https://qiita.com/kawaz/items/1b61ee2dd4d1acc7cc94",
+    "likes_count": 320,
+    "created_at": "2013-04-05T15:59:10+09:00",
+    "updated_at": "2020-05-08T11:49:50+09:00",
+    "id": "kawaz"
+  },
+  {
     "title": "GitHubのようなtextareaの補完機能を実装する - カーソル位置の取得",
     "url": "https://qiita.com/yuku_t/items/fb92e173120d7b2e49ed",
     "likes_count": 320,
@@ -126,14 +134,6 @@
     "created_at": "2013-04-19T16:53:55+09:00",
     "updated_at": "2013-04-19T18:00:45+09:00",
     "id": "shimohiko"
-  },
-  {
-    "title": "Bashでコマンドの存在チェックはwhichよりhashの方が良いかも→いやtypeが最強→command -vも",
-    "url": "https://qiita.com/kawaz/items/1b61ee2dd4d1acc7cc94",
-    "likes_count": 319,
-    "created_at": "2013-04-05T15:59:10+09:00",
-    "updated_at": "2020-05-08T11:49:50+09:00",
-    "id": "kawaz"
   },
   {
     "title": "vim に慣れたい人に向けて、おすすめセットアップ",
