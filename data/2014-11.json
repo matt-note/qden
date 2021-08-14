@@ -2,7 +2,7 @@
   {
     "title": "Gitのコミットメッセージの書き方",
     "url": "https://qiita.com/itosho/items/9565c6ad2ffc24c09364",
-    "likes_count": 4626,
+    "likes_count": 4628,
     "created_at": "2014-11-21T20:52:14+09:00",
     "updated_at": "2016-04-18T16:20:36+09:00",
     "id": "itosho"
@@ -18,7 +18,7 @@
   {
     "title": "Javaを使うなら知っておきたい技術、フレームワーク、ライブラリ、ツールまとめ",
     "url": "https://qiita.com/disc99/items/727b51dbe737602a5c91",
-    "likes_count": 2438,
+    "likes_count": 2437,
     "created_at": "2014-11-10T07:20:38+09:00",
     "updated_at": "2019-03-15T18:32:34+09:00",
     "id": "disc99"
@@ -26,7 +26,7 @@
   {
     "title": "Git-flowって何？",
     "url": "https://qiita.com/KosukeSone/items/514dd24828b485c69a05",
-    "likes_count": 1766,
+    "likes_count": 1768,
     "created_at": "2014-11-03T00:58:45+09:00",
     "updated_at": "2016-04-02T16:30:25+09:00",
     "id": "KosukeSone"
@@ -34,7 +34,7 @@
   {
     "title": "2015年に備えて知っておきたいリアクティブアーキテクチャの潮流",
     "url": "https://qiita.com/hirokidaichi/items/9c1d862099c2e12f5b0f",
-    "likes_count": 1545,
+    "likes_count": 1544,
     "created_at": "2014-11-28T17:06:45+09:00",
     "updated_at": "2019-03-17T00:43:12+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」",
     "url": "https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5",
-    "likes_count": 1461,
+    "likes_count": 1462,
     "created_at": "2014-11-06T07:20:52+09:00",
     "updated_at": "2020-02-20T22:41:58+09:00",
     "id": "jnchito"
@@ -146,7 +146,7 @@
   {
     "title": "（あなたの周りでも見かけるかもしれない）インスタンス変数の間違った使い方",
     "url": "https://qiita.com/jnchito/items/49fe82364bca2f4f37f5",
-    "likes_count": 616,
+    "likes_count": 617,
     "created_at": "2014-11-15T07:47:53+09:00",
     "updated_at": "2014-11-17T07:44:29+09:00",
     "id": "jnchito"
@@ -178,7 +178,7 @@
   {
     "title": "bashのヒアドキュメントを活用する",
     "url": "https://qiita.com/take4s5i/items/e207cee4fb04385a9952",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2014-11-19T15:00:09+09:00",
     "updated_at": "2019-06-04T14:25:29+09:00",
     "id": "take4s5i"
@@ -234,7 +234,7 @@
   {
     "title": "PHPネイティブのDOMによるスクレイピング入門",
     "url": "https://qiita.com/mpyw/items/c0312271819baee09132",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2014-11-08T00:22:28+09:00",
     "updated_at": "2016-11-06T22:26:34+09:00",
     "id": "mpyw"
@@ -250,7 +250,7 @@
   {
     "title": "【MySQL, SQL】データベースを扱う基本SQL一覧",
     "url": "https://qiita.com/knife0125/items/bb095a85d1a5d3c8f706",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2014-11-12T17:45:42+09:00",
     "updated_at": "2015-03-17T11:45:52+09:00",
     "id": "knife0125"
@@ -272,14 +272,6 @@
     "id": "naokits"
   },
   {
-    "title": "【2014】海外で話題のjsライブラリ/フレームワークまとめ76選",
-    "url": "https://qiita.com/seiya1121/items/2bc256c0d8f4c1bb1de4",
-    "likes_count": 422,
-    "created_at": "2014-11-16T18:26:44+09:00",
-    "updated_at": "2015-11-13T21:03:33+09:00",
-    "id": "seiya1121"
-  },
-  {
     "title": "(o1, o2) -> o1 - o2 なんて呪文はもうやめて！ - Java8でのComparatorの使い方",
     "url": "https://qiita.com/tag1216/items/50ecf6a7bc10218ee889",
     "likes_count": 421,
@@ -288,9 +280,17 @@
     "id": "tag1216"
   },
   {
+    "title": "【2014】海外で話題のjsライブラリ/フレームワークまとめ76選",
+    "url": "https://qiita.com/seiya1121/items/2bc256c0d8f4c1bb1de4",
+    "likes_count": 421,
+    "created_at": "2014-11-16T18:26:44+09:00",
+    "updated_at": "2015-11-13T21:03:33+09:00",
+    "id": "seiya1121"
+  },
+  {
     "title": "覚えておくと便利！Python標準ライブラリ10選",
     "url": "https://qiita.com/pika_shi/items/bf3b449a354cc7609ab9",
-    "likes_count": 413,
+    "likes_count": 412,
     "created_at": "2014-11-15T18:30:56+09:00",
     "updated_at": "2014-12-12T07:44:55+09:00",
     "id": "pika_shi"
@@ -320,20 +320,20 @@
     "id": "assialiholic"
   },
   {
+    "title": "オブジェクト関係マッピング",
+    "url": "https://qiita.com/yk-nakamura/items/acd071f16cda844579b9",
+    "likes_count": 379,
+    "created_at": "2014-11-20T15:06:21+09:00",
+    "updated_at": "2017-02-28T15:48:26+09:00",
+    "id": "yk-nakamura"
+  },
+  {
     "title": "Datadogの本当の魅力とは",
     "url": "https://qiita.com/jhotta/items/e7e20a1acd797bf2665b",
     "likes_count": 378,
     "created_at": "2014-11-18T08:20:53+09:00",
     "updated_at": "2017-04-20T23:08:29+09:00",
     "id": "jhotta"
-  },
-  {
-    "title": "オブジェクト関係マッピング",
-    "url": "https://qiita.com/yk-nakamura/items/acd071f16cda844579b9",
-    "likes_count": 378,
-    "created_at": "2014-11-20T15:06:21+09:00",
-    "updated_at": "2017-02-28T15:48:26+09:00",
-    "id": "yk-nakamura"
   },
   {
     "title": "隊長、Androidアプリのソースがぐちゃぐちゃであります！！",
@@ -346,7 +346,7 @@
   {
     "title": "いまさらながら、Basic認証のつけかた",
     "url": "https://qiita.com/yuwaita/items/e406c645ae8d0cc3c3fa",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2014-11-13T11:24:53+09:00",
     "updated_at": "2015-06-11T09:38:43+09:00",
     "id": "yuwaita"
@@ -436,7 +436,7 @@
     "url": "https://qiita.com/ikuwow/items/4fae81a099bf82f44749",
     "likes_count": 304,
     "created_at": "2014-11-02T16:57:58+09:00",
-    "updated_at": "2018-02-14T12:49:15+09:00",
+    "updated_at": "2021-08-14T12:01:14+09:00",
     "id": "ikuwow"
   },
   {
