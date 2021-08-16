@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 3988,
+    "likes_count": 3989,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -66,7 +66,7 @@
   {
     "title": "LSTMネットワークの概要",
     "url": "https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca",
-    "likes_count": 1364,
+    "likes_count": 1365,
     "created_at": "2016-01-08T18:22:20+09:00",
     "updated_at": "2017-12-11T08:57:51+09:00",
     "id": "KojiOhki"
@@ -178,7 +178,7 @@
   {
     "title": "(デプロイ編①)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/814e0979217b1a25aa3e",
-    "likes_count": 847,
+    "likes_count": 848,
     "created_at": "2016-01-12T16:00:04+09:00",
     "updated_at": "2020-06-15T12:23:10+09:00",
     "id": "naoki_mochizuki"
@@ -274,7 +274,7 @@
   {
     "title": "【新人教育 資料】第1章 UMLまでの道 〜オブジェクト指向編〜",
     "url": "https://qiita.com/devopsCoordinator/items/7d460008177b318129ea",
-    "likes_count": 571,
+    "likes_count": 572,
     "created_at": "2016-01-28T19:05:47+09:00",
     "updated_at": "2019-04-25T14:47:40+09:00",
     "id": "devopsCoordinator"
@@ -328,6 +328,14 @@
     "id": "shin1ogawa"
   },
   {
+    "title": "bundle install と bundle updateの違いについて",
+    "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
+    "likes_count": 494,
+    "created_at": "2016-01-22T00:25:15+09:00",
+    "updated_at": "2016-01-22T00:26:14+09:00",
+    "id": "lasershow"
+  },
+  {
     "title": "Elasticsearch導入前に気を付けておきたいこと！",
     "url": "https://qiita.com/uzresk/items/e0b10c14875b79c450f2",
     "likes_count": 493,
@@ -336,17 +344,9 @@
     "id": "uzresk"
   },
   {
-    "title": "bundle install と bundle updateの違いについて",
-    "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
-    "likes_count": 493,
-    "created_at": "2016-01-22T00:25:15+09:00",
-    "updated_at": "2016-01-22T00:26:14+09:00",
-    "id": "lasershow"
-  },
-  {
     "title": "Docker compose ことはじめハンズオン",
     "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 476,
+    "likes_count": 477,
     "created_at": "2016-01-05T01:32:35+09:00",
     "updated_at": "2019-10-09T21:04:14+09:00",
     "id": "TsutomuNakamura"
@@ -418,7 +418,7 @@
   {
     "title": "ニューラルネットワーク、多様体、トポロジー",
     "url": "https://qiita.com/KojiOhki/items/af2241027b00f892d2bd",
-    "likes_count": 432,
+    "likes_count": 431,
     "created_at": "2016-01-15T14:53:37+09:00",
     "updated_at": "2018-01-26T10:59:00+09:00",
     "id": "KojiOhki"
