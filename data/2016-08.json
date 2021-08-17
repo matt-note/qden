@@ -10,7 +10,7 @@
   {
     "title": "Windows Subsystem for Linux (WSL1) をインストールしてみよう！",
     "url": "https://qiita.com/Aruneko/items/c79810b0b015bebf30bb",
-    "likes_count": 2229,
+    "likes_count": 2230,
     "created_at": "2016-08-03T10:58:15+09:00",
     "updated_at": "2020-06-07T21:06:52+09:00",
     "id": "Aruneko"
@@ -202,7 +202,7 @@
   {
     "title": "2020年まで使えるfont-familyおすすめゴシック体",
     "url": "https://qiita.com/tsuka-rinorino/items/4181efd43d072e246519",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2016-08-04T10:43:39+09:00",
     "updated_at": "2019-12-25T18:27:36+09:00",
     "id": "tsuka-rinorino"
@@ -248,20 +248,20 @@
     "id": "aokikenichi"
   },
   {
+    "title": "k-meansの最適なクラスター数を調べる方法",
+    "url": "https://qiita.com/deaikei/items/11a10fde5bb47a2cf2c2",
+    "likes_count": 479,
+    "created_at": "2016-08-08T00:49:06+09:00",
+    "updated_at": "2016-08-08T09:11:03+09:00",
+    "id": "deaikei"
+  },
+  {
     "title": "Rubyでディープラーニング",
     "url": "https://qiita.com/elgoog/items/8e7102a87889950d060d",
     "likes_count": 478,
     "created_at": "2016-08-03T07:59:05+09:00",
     "updated_at": "2016-08-30T00:28:10+09:00",
     "id": "elgoog"
-  },
-  {
-    "title": "k-meansの最適なクラスター数を調べる方法",
-    "url": "https://qiita.com/deaikei/items/11a10fde5bb47a2cf2c2",
-    "likes_count": 478,
-    "created_at": "2016-08-08T00:49:06+09:00",
-    "updated_at": "2016-08-08T09:11:03+09:00",
-    "id": "deaikei"
   },
   {
     "title": "UI考：なぜそのセルには押せる感があるのか",
@@ -322,7 +322,7 @@
   {
     "title": "押下(おうか)にまつわる話",
     "url": "https://qiita.com/yaju/items/0ceb6a0343561b4d208e",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2016-08-18T02:55:47+09:00",
     "updated_at": "2021-03-18T20:45:50+09:00",
     "id": "yaju"
@@ -352,20 +352,20 @@
     "id": "masafumi_miya"
   },
   {
-    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
-    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
-    "likes_count": 376,
-    "created_at": "2016-08-30T17:27:15+09:00",
-    "updated_at": "2020-02-07T14:34:31+09:00",
-    "id": "t-a-run"
-  },
-  {
     "title": "[Python] importの躓きどころ",
     "url": "https://qiita.com/ysk24ok/items/2711295d83218c699276",
     "likes_count": 375,
     "created_at": "2016-08-14T23:15:03+09:00",
     "updated_at": "2017-06-09T09:00:13+09:00",
     "id": "ysk24ok"
+  },
+  {
+    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
+    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
+    "likes_count": 375,
+    "created_at": "2016-08-30T17:27:15+09:00",
+    "updated_at": "2020-02-07T14:34:31+09:00",
+    "id": "t-a-run"
   },
   {
     "title": "Laravel5のアーキテクチャから学ぶより良いクラス設計",
@@ -402,7 +402,7 @@
   {
     "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
     "url": "https://qiita.com/ryo2132/items/63ced19601b3fa30e6de",
-    "likes_count": 356,
+    "likes_count": 357,
     "created_at": "2016-08-12T10:26:11+09:00",
     "updated_at": "2020-05-17T05:29:20+09:00",
     "id": "ryo2132"
@@ -426,7 +426,7 @@
   {
     "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
     "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 324,
+    "likes_count": 325,
     "created_at": "2016-08-04T23:10:37+09:00",
     "updated_at": "2016-08-08T12:50:34+09:00",
     "id": "mpyw"
@@ -474,7 +474,7 @@
   {
     "title": "初心者に捧げる対話システムの作り方",
     "url": "https://qiita.com/Hironsan/items/0373339388f460cebb08",
-    "likes_count": 276,
+    "likes_count": 277,
     "created_at": "2016-08-24T10:11:24+09:00",
     "updated_at": "2016-08-25T13:13:12+09:00",
     "id": "Hironsan"

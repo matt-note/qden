@@ -10,7 +10,7 @@
   {
     "title": "jQuery から Vue.js へのステップアップ",
     "url": "https://qiita.com/mio3io/items/e7b2596d06b8005e8e6f",
-    "likes_count": 1965,
+    "likes_count": 1964,
     "created_at": "2017-10-13T09:39:13+09:00",
     "updated_at": "2018-12-14T20:14:40+09:00",
     "id": "mio3io"
@@ -98,7 +98,7 @@
   {
     "title": "要素の取得方法まとめ",
     "url": "https://qiita.com/amamamaou/items/25e8b4e1b41c8d3211f4",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2017-10-27T16:44:49+09:00",
     "updated_at": "2020-07-14T11:18:37+09:00",
     "id": "amamamaou"
@@ -106,7 +106,7 @@
   {
     "title": "[DDD]ドメイン駆動 + オニオンアーキテクチャ概略",
     "url": "https://qiita.com/little_hand_s/items/2040fba15d90b93fc124",
-    "likes_count": 644,
+    "likes_count": 645,
     "created_at": "2017-10-11T07:53:16+09:00",
     "updated_at": "2021-08-12T13:24:35+09:00",
     "id": "little_hand_s"
@@ -114,7 +114,7 @@
   {
     "title": "Visual Studio Code キーボード ショートカット",
     "url": "https://qiita.com/oruponu/items/ae9c720d4522c1606daf",
-    "likes_count": 644,
+    "likes_count": 645,
     "created_at": "2017-10-13T20:40:20+09:00",
     "updated_at": "2020-12-01T02:00:17+09:00",
     "id": "oruponu"
@@ -130,7 +130,7 @@
   {
     "title": "Python クラスについて",
     "url": "https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c",
-    "likes_count": 625,
+    "likes_count": 624,
     "created_at": "2017-10-29T20:49:32+09:00",
     "updated_at": "2021-03-07T21:03:01+09:00",
     "id": "motoki1990"
@@ -146,26 +146,26 @@
   {
     "title": "AWS初心者がインフラ設計/構築を理解するために、まず最初におさえるべきキーワード15選",
     "url": "https://qiita.com/Futo_Horio/items/318d89eccdbf5697f8bf",
-    "likes_count": 577,
+    "likes_count": 576,
     "created_at": "2017-10-12T22:32:11+09:00",
     "updated_at": "2020-02-25T10:25:43+09:00",
     "id": "Futo_Horio"
   },
   {
-    "title": "GithubでのWeb上からのマージの仕方3種とその使いどころ",
-    "url": "https://qiita.com/ko-he-8/items/94e872f2154829c868df",
-    "likes_count": 506,
-    "created_at": "2017-10-11T13:22:58+09:00",
-    "updated_at": "2019-02-19T08:08:27+09:00",
-    "id": "ko-he-8"
-  },
-  {
     "title": "Swaggerの記法まとめ",
     "url": "https://qiita.com/rllllho/items/53a0023b32f4c0f8eabb",
-    "likes_count": 505,
+    "likes_count": 506,
     "created_at": "2017-10-10T15:17:51+09:00",
     "updated_at": "2019-03-10T16:11:41+09:00",
     "id": "rllllho"
+  },
+  {
+    "title": "GithubでのWeb上からのマージの仕方3種とその使いどころ",
+    "url": "https://qiita.com/ko-he-8/items/94e872f2154829c868df",
+    "likes_count": 505,
+    "created_at": "2017-10-11T13:22:58+09:00",
+    "updated_at": "2019-02-19T08:08:27+09:00",
+    "id": "ko-he-8"
   },
   {
     "title": "脱Word、脱Markdown、asciidocでドキュメント作成する際のアレコレ",
@@ -282,7 +282,7 @@
   {
     "title": "競プロ等におけるpython3の標準入力",
     "url": "https://qiita.com/zenrshon/items/c4f3849552348b3dbe67",
-    "likes_count": 355,
+    "likes_count": 354,
     "created_at": "2017-10-25T14:23:32+09:00",
     "updated_at": "2020-04-11T13:45:44+09:00",
     "id": "zenrshon"
@@ -304,6 +304,14 @@
     "id": "skanmera"
   },
   {
+    "title": "fzfを活用してTerminalの作業効率を高める",
+    "url": "https://qiita.com/kamykn/items/aa9920f07487559c0c7e",
+    "likes_count": 339,
+    "created_at": "2017-10-20T00:18:31+09:00",
+    "updated_at": "2019-01-27T23:17:16+09:00",
+    "id": "kamykn"
+  },
+  {
     "title": "Swift の HTTP ライブラリで苦しまないための自作 API クライアント設計",
     "url": "https://qiita.com/Kuniwak/items/a972ff2ade643799d1fe",
     "likes_count": 339,
@@ -318,14 +326,6 @@
     "created_at": "2017-10-31T23:38:42+09:00",
     "updated_at": "2017-11-01T22:32:12+09:00",
     "id": "chida09"
-  },
-  {
-    "title": "fzfを活用してTerminalの作業効率を高める",
-    "url": "https://qiita.com/kamykn/items/aa9920f07487559c0c7e",
-    "likes_count": 338,
-    "created_at": "2017-10-20T00:18:31+09:00",
-    "updated_at": "2019-01-27T23:17:16+09:00",
-    "id": "kamykn"
   },
   {
     "title": "【Git】特定のコミットまで戻したい",
@@ -394,7 +394,7 @@
   {
     "title": "(翻訳)【GitHub公式】Gitコマンドチートシート",
     "url": "https://qiita.com/okamu_/items/d52a6900311ad9073628",
-    "likes_count": 299,
+    "likes_count": 300,
     "created_at": "2017-10-25T08:36:10+09:00",
     "updated_at": "2017-11-01T10:06:14+09:00",
     "id": "okamu_"

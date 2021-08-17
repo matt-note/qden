@@ -18,7 +18,7 @@
   {
     "title": "効率的に安全な Dockerfile を作るには",
     "url": "https://qiita.com/pottava/items/452bf80e334bc1fee69a",
-    "likes_count": 1874,
+    "likes_count": 1875,
     "created_at": "2016-02-07T12:48:50+09:00",
     "updated_at": "2018-03-09T21:07:09+09:00",
     "id": "pottava"
@@ -98,7 +98,7 @@
   {
     "title": "データベース列名の名前付け（英単語での）採用例を集めてみた",
     "url": "https://qiita.com/otagaisama-1/items/4d7e2eb5c274e9fce664",
-    "likes_count": 1027,
+    "likes_count": 1028,
     "created_at": "2016-02-16T13:42:02+09:00",
     "updated_at": "2019-08-27T16:48:24+09:00",
     "id": "otagaisama-1"
@@ -106,7 +106,7 @@
   {
     "title": "Python文字列操作マスター",
     "url": "https://qiita.com/tomotaka_ito/items/594ee1396cf982ba9887",
-    "likes_count": 1025,
+    "likes_count": 1024,
     "created_at": "2016-02-04T18:37:45+09:00",
     "updated_at": "2020-06-01T11:04:50+09:00",
     "id": "tomotaka_ito"
@@ -178,7 +178,7 @@
   {
     "title": "簡単！楽しい！5分でわかるユーザーストーリーマッピング(User Story Mapping)",
     "url": "https://qiita.com/Koki_jp/items/6aebc73bedd0a932dcb8",
-    "likes_count": 715,
+    "likes_count": 716,
     "created_at": "2016-02-23T21:07:58+09:00",
     "updated_at": "2020-02-23T06:27:35+09:00",
     "id": "Koki_jp"
@@ -226,7 +226,7 @@
   {
     "title": "Git で「追跡ブランチ」って言うのやめましょう",
     "url": "https://qiita.com/uasi/items/69368c17c79e99aaddbf",
-    "likes_count": 631,
+    "likes_count": 630,
     "created_at": "2016-02-08T21:44:09+09:00",
     "updated_at": "2016-02-09T10:11:27+09:00",
     "id": "uasi"
@@ -338,10 +338,18 @@
   {
     "title": " (Capistrano編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/657aca7531b8948d267b",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2016-02-01T16:37:20+09:00",
     "updated_at": "2019-11-14T14:45:28+09:00",
     "id": "naoki_mochizuki"
+  },
+  {
+    "title": "新人プログラマに知ってもらいたいRabbitMQ初心者の入門の入門",
+    "url": "https://qiita.com/gambaray/items/3cc02b419c860a96bc94",
+    "likes_count": 438,
+    "created_at": "2016-02-25T12:00:14+09:00",
+    "updated_at": "2016-02-26T14:25:13+09:00",
+    "id": "gambaray"
   },
   {
     "title": "Electron で Markdownプレゼン作成ツールを作って公開するまで",
@@ -358,14 +366,6 @@
     "created_at": "2016-02-18T18:03:00+09:00",
     "updated_at": "2016-02-18T19:33:44+09:00",
     "id": "Tecco"
-  },
-  {
-    "title": "新人プログラマに知ってもらいたいRabbitMQ初心者の入門の入門",
-    "url": "https://qiita.com/gambaray/items/3cc02b419c860a96bc94",
-    "likes_count": 437,
-    "created_at": "2016-02-25T12:00:14+09:00",
-    "updated_at": "2016-02-26T14:25:13+09:00",
-    "id": "gambaray"
   },
   {
     "title": "GitHubのIssue・Pull Requestのテンプレート機能を使おう",
@@ -418,7 +418,7 @@
   {
     "title": "デザインパターン「Factory Method」",
     "url": "https://qiita.com/shoheiyokoyama/items/d752834a6a2e208b90ca",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2016-02-20T22:46:38+09:00",
     "updated_at": "2017-03-27T20:42:30+09:00",
     "id": "shoheiyokoyama"
@@ -434,7 +434,7 @@
   {
     "title": "Ubuntu 最低限抑えておきたい初期設定",
     "url": "https://qiita.com/kotarella1110/items/f638822d64a43824dfa4",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2016-02-23T01:32:49+09:00",
     "updated_at": "2020-07-01T19:00:06+09:00",
     "id": "kotarella1110"
@@ -562,7 +562,7 @@
   {
     "title": "Falcor入門 1日目 Falcorとは何者か",
     "url": "https://qiita.com/Quramy/items/5cf4f112d715c2e2d300",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2016-03-01T03:36:36+09:00",
     "updated_at": "2016-03-25T03:25:00+09:00",
     "id": "Quramy"
@@ -570,7 +570,7 @@
   {
     "title": "WordPressサイトをCloudFrontで配信する",
     "url": "https://qiita.com/Ichiro_Tsuji/items/38592e737257cb45ca13",
-    "likes_count": 293,
+    "likes_count": 294,
     "created_at": "2016-02-08T22:17:18+09:00",
     "updated_at": "2020-05-27T00:26:04+09:00",
     "id": "Ichiro_Tsuji"
@@ -618,7 +618,7 @@
   {
     "title": "eclipseでよく使うショートカット",
     "url": "https://qiita.com/ynxx/items/7734dfb755bc83373d7c",
-    "likes_count": 229,
+    "likes_count": 230,
     "created_at": "2016-02-21T11:56:57+09:00",
     "updated_at": "2017-04-23T22:34:04+09:00",
     "id": "ynxx"

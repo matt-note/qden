@@ -42,7 +42,7 @@
   {
     "title": "homebrewとは何者か。仕組みについて調べてみた",
     "url": "https://qiita.com/omega999/items/6f65217b81ad3fffe7e6",
-    "likes_count": 1668,
+    "likes_count": 1667,
     "created_at": "2014-12-04T20:41:15+09:00",
     "updated_at": "2014-12-04T20:41:15+09:00",
     "id": "omega999"
@@ -50,7 +50,7 @@
   {
     "title": "JSON Web Token の効用",
     "url": "https://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a",
-    "likes_count": 1416,
+    "likes_count": 1415,
     "created_at": "2014-12-14T18:43:28+09:00",
     "updated_at": "2017-06-12T14:23:23+09:00",
     "id": "kaiinui"
@@ -58,7 +58,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1316,
+    "likes_count": 1317,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -66,7 +66,7 @@
   {
     "title": "機械学習をこれから始める人に押さえておいてほしいこと",
     "url": "https://qiita.com/IshitaTakeshi/items/4607d9f729babd273960",
-    "likes_count": 1299,
+    "likes_count": 1300,
     "created_at": "2014-12-06T10:35:31+09:00",
     "updated_at": "2016-04-05T20:14:24+09:00",
     "id": "IshitaTakeshi"
@@ -82,7 +82,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1227,
+    "likes_count": 1228,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -178,7 +178,7 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 739,
+    "likes_count": 740,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
@@ -194,7 +194,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 718,
+    "likes_count": 719,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -202,7 +202,7 @@
   {
     "title": "初心者向けGithubへのPullRequest方法",
     "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 713,
+    "likes_count": 714,
     "created_at": "2014-12-17T23:28:14+09:00",
     "updated_at": "2014-12-19T09:14:55+09:00",
     "id": "samurai_runner"
@@ -602,7 +602,7 @@
   {
     "title": "phpDocumentorの書き方",
     "url": "https://qiita.com/itosho/items/0f809e067a9e4a41515e",
-    "likes_count": 339,
+    "likes_count": 340,
     "created_at": "2014-12-22T14:21:26+09:00",
     "updated_at": "2015-01-15T19:46:15+09:00",
     "id": "itosho"
@@ -688,20 +688,20 @@
     "id": "koba04"
   },
   {
+    "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
+    "url": "https://qiita.com/mkasahara/items/c029154b5436913b20e0",
+    "likes_count": 291,
+    "created_at": "2014-12-19T03:49:35+09:00",
+    "updated_at": "2019-06-18T16:58:55+09:00",
+    "id": "mkasahara"
+  },
+  {
     "title": "Qiita の記事の見出しに Font-Awesome を利用して見栄えを良くする #qiita",
     "url": "https://qiita.com/tbpgr/items/361d8aaa38fb57d75216",
     "likes_count": 287,
     "created_at": "2014-12-15T22:38:03+09:00",
     "updated_at": "2017-06-18T22:48:59+09:00",
     "id": "tbpgr"
-  },
-  {
-    "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
-    "url": "https://qiita.com/mkasahara/items/c029154b5436913b20e0",
-    "likes_count": 287,
-    "created_at": "2014-12-19T03:49:35+09:00",
-    "updated_at": "2019-06-18T16:58:55+09:00",
-    "id": "mkasahara"
   },
   {
     "title": "ボタン電池1個で数年持つ無線ドア開閉センサを作る",

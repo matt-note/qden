@@ -18,7 +18,7 @@
   {
     "title": "AWS認定11冠制覇したのでオススメの勉強法などをまとめてみる",
     "url": "https://qiita.com/nakazax/items/20458e146d3d9f2aa615",
-    "likes_count": 2323,
+    "likes_count": 2322,
     "created_at": "2018-10-15T09:01:09+09:00",
     "updated_at": "2020-05-01T15:01:55+09:00",
     "id": "nakazax"
@@ -114,7 +114,7 @@
   {
     "title": "これから始めるGCP（GCE）　安全に無料枠を使い倒せ",
     "url": "https://qiita.com/Brutus/items/22dfd31a681b67837a74",
-    "likes_count": 1018,
+    "likes_count": 1019,
     "created_at": "2018-10-06T11:52:13+09:00",
     "updated_at": "2021-08-01T18:04:20+09:00",
     "id": "Brutus"
@@ -138,7 +138,7 @@
   {
     "title": "Wordな職場にMarkdownを定着させるためにやった４つのこと",
     "url": "https://qiita.com/segur/items/915aee79a5ba0c5f847b",
-    "likes_count": 839,
+    "likes_count": 840,
     "created_at": "2018-10-31T19:15:31+09:00",
     "updated_at": "2019-10-28T12:09:42+09:00",
     "id": "segur"
@@ -146,7 +146,7 @@
   {
     "title": "深層学習を勉強してリアルタイム映像表現に使ってみた話",
     "url": "https://qiita.com/keijiro/items/8874c5730feaf80b7943",
-    "likes_count": 833,
+    "likes_count": 834,
     "created_at": "2018-10-16T14:58:54+09:00",
     "updated_at": "2018-10-17T22:01:38+09:00",
     "id": "keijiro"
@@ -194,7 +194,7 @@
   {
     "title": "docker-compose.ymlの書き方について解説してみた",
     "url": "https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04",
-    "likes_count": 692,
+    "likes_count": 691,
     "created_at": "2018-10-14T00:53:56+09:00",
     "updated_at": "2019-05-05T12:30:58+09:00",
     "id": "yuta-ushijima"
@@ -226,7 +226,7 @@
   {
     "title": "まだXMLHttpRequestを使ってるの？　fetchのすすめ",
     "url": "https://qiita.com/uhyo/items/91649e260165b35fecd7",
-    "likes_count": 613,
+    "likes_count": 614,
     "created_at": "2018-10-09T01:31:28+09:00",
     "updated_at": "2020-03-25T15:42:42+09:00",
     "id": "uhyo"
@@ -240,17 +240,9 @@
     "id": "sensuikan1973"
   },
   {
-    "title": "TypeScriptの型初級",
-    "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
-    "likes_count": 593,
-    "created_at": "2018-10-24T18:49:35+09:00",
-    "updated_at": "2020-03-19T14:19:40+09:00",
-    "id": "uhyo"
-  },
-  {
     "title": "侍エンジニア塾の記事を Chrome 拡張なしに Google 検索結果から一掃するわりと簡単な方法",
     "url": "https://qiita.com/komiya_atsushi/items/7d2cbf322dd5e8f2dc8e",
-    "likes_count": 593,
+    "likes_count": 594,
     "created_at": "2018-10-26T13:01:20+09:00",
     "updated_at": "2018-10-26T13:01:20+09:00",
     "id": "komiya_atsushi"
@@ -258,10 +250,18 @@
   {
     "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
     "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2018-10-08T20:38:40+09:00",
     "updated_at": "2020-02-17T23:55:55+09:00",
     "id": "little_hand_s"
+  },
+  {
+    "title": "TypeScriptの型初級",
+    "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
+    "likes_count": 593,
+    "created_at": "2018-10-24T18:49:35+09:00",
+    "updated_at": "2020-03-19T14:19:40+09:00",
+    "id": "uhyo"
   },
   {
     "title": "オブジェクト指向をより理解するために実際に書いて解説する",
@@ -282,7 +282,7 @@
   {
     "title": "Pathを通すとは、環境変数とは",
     "url": "https://qiita.com/fuwamaki/items/3d8af42cf7abee760a81",
-    "likes_count": 537,
+    "likes_count": 539,
     "created_at": "2018-10-07T20:29:16+09:00",
     "updated_at": "2019-11-29T13:09:52+09:00",
     "id": "fuwamaki"
@@ -290,9 +290,9 @@
   {
     "title": "Qiita週間ストック数ランキング【自動更新】",
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
-    "likes_count": 528,
+    "likes_count": 529,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-08-16T19:31:29+09:00",
+    "updated_at": "2021-08-17T19:31:30+09:00",
     "id": "kai_kou"
   },
   {
@@ -322,7 +322,7 @@
   {
     "title": "動的型付けと静的型付け",
     "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
-    "likes_count": 491,
+    "likes_count": 490,
     "created_at": "2018-10-24T08:24:11+09:00",
     "updated_at": "2021-08-10T12:13:13+09:00",
     "id": "toryuneko"
@@ -370,7 +370,7 @@
   {
     "title": "Firestore で、DB設計を考える際に参考になった情報",
     "url": "https://qiita.com/samuraikun/items/dfe7d1081f62359b0dcd",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2018-10-05T02:08:09+09:00",
     "updated_at": "2019-09-12T13:04:21+09:00",
     "id": "samuraikun"
@@ -386,7 +386,7 @@
   {
     "title": "リポジトリのcloneとforkの違い",
     "url": "https://qiita.com/matsubox/items/09904e4c51e6bc267990",
-    "likes_count": 434,
+    "likes_count": 433,
     "created_at": "2018-10-07T15:14:11+09:00",
     "updated_at": "2018-10-07T15:14:11+09:00",
     "id": "matsubox"
@@ -450,7 +450,7 @@
   {
     "title": "10分で理解する Scrapy",
     "url": "https://qiita.com/Chanmoro/items/f4df85eb73b18d902739",
-    "likes_count": 347,
+    "likes_count": 346,
     "created_at": "2018-10-08T15:50:25+09:00",
     "updated_at": "2019-11-12T11:21:43+09:00",
     "id": "Chanmoro"
@@ -480,20 +480,20 @@
     "id": "MaxBaconPower"
   },
   {
+    "title": "tmuxを効率よく使って開発を爆速にする最高の設定",
+    "url": "https://qiita.com/yuki_ycino/items/ef5e6b63c8f9af2f03c0",
+    "likes_count": 326,
+    "created_at": "2018-10-15T16:00:51+09:00",
+    "updated_at": "2021-02-19T16:49:28+09:00",
+    "id": "yuki_ycino"
+  },
+  {
     "title": "0から始めるkaggle超初心者向け入門",
     "url": "https://qiita.com/yukinagae/items/661e6021871788e2f05d",
     "likes_count": 324,
     "created_at": "2018-10-01T15:23:59+09:00",
     "updated_at": "2018-10-01T17:57:07+09:00",
     "id": "yukinagae"
-  },
-  {
-    "title": "tmuxを効率よく使って開発を爆速にする最高の設定",
-    "url": "https://qiita.com/yuki_ycino/items/ef5e6b63c8f9af2f03c0",
-    "likes_count": 324,
-    "created_at": "2018-10-15T16:00:51+09:00",
-    "updated_at": "2021-02-19T16:49:28+09:00",
-    "id": "yuki_ycino"
   },
   {
     "title": "データサイエンスを独学した一年のまとめ",
@@ -522,7 +522,7 @@
   {
     "title": "Django REST Framework で API サーバーを実装して得た知見まとめ(OAuthもあるよ）",
     "url": "https://qiita.com/furuuchin/items/c6d6230aa327ad7b337a",
-    "likes_count": 249,
+    "likes_count": 248,
     "created_at": "2018-10-08T10:45:05+09:00",
     "updated_at": "2018-10-08T13:28:02+09:00",
     "id": "furuuchin"
