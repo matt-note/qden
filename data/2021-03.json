@@ -26,7 +26,7 @@
   {
     "title": "道の真ん中をきれいにするプロジェクトマネジメント～イケてるチームになるための10原則～",
     "url": "https://qiita.com/yasuoyasuo/items/37cc24440b278363339e",
-    "likes_count": 957,
+    "likes_count": 958,
     "created_at": "2021-03-24T08:35:07+09:00",
     "updated_at": "2021-04-08T06:49:03+09:00",
     "id": "yasuoyasuo"
@@ -34,7 +34,7 @@
   {
     "title": "【個人開発】これまでになかった席替えアプリ「席替えメーカー」を作りました",
     "url": "https://qiita.com/krpk1900/items/22963432b62a9004717c",
-    "likes_count": 872,
+    "likes_count": 873,
     "created_at": "2021-03-13T08:49:13+09:00",
     "updated_at": "2021-04-05T13:30:45+09:00",
     "id": "krpk1900"
@@ -50,7 +50,7 @@
   {
     "title": "【図解】初心者が知っておきたいサーバ周りの仕組みの話",
     "url": "https://qiita.com/mi-1109/items/a8e5cfa0637ba2925b59",
-    "likes_count": 733,
+    "likes_count": 734,
     "created_at": "2021-03-22T14:37:48+09:00",
     "updated_at": "2021-03-28T19:24:05+09:00",
     "id": "mi-1109"
@@ -66,7 +66,7 @@
   {
     "title": "無料、独学で機械学習エンジニアになる！~機械学習が学べる無料サイト、書籍~",
     "url": "https://qiita.com/KamikawaTakato/items/73b748414567d27a9c52",
-    "likes_count": 687,
+    "likes_count": 689,
     "created_at": "2021-03-04T15:09:09+09:00",
     "updated_at": "2021-05-20T17:25:22+09:00",
     "id": "KamikawaTakato"
@@ -88,6 +88,14 @@
     "id": "watanave"
   },
   {
+    "title": "【新人プログラマ応援】学習用のプログラムと仕事で書くプログラムは何が違うか",
+    "url": "https://qiita.com/jnchito/items/c9ca22efa270ff1b7f3d",
+    "likes_count": 582,
+    "created_at": "2021-03-31T07:32:15+09:00",
+    "updated_at": "2021-04-30T17:03:23+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "「正直９年経ったいまでもfor文ググってる」",
     "url": "https://qiita.com/e99h2121/items/e3c75f2ba3294da80018",
     "likes_count": 581,
@@ -96,17 +104,9 @@
     "id": "e99h2121"
   },
   {
-    "title": "【新人プログラマ応援】学習用のプログラムと仕事で書くプログラムは何が違うか",
-    "url": "https://qiita.com/jnchito/items/c9ca22efa270ff1b7f3d",
-    "likes_count": 581,
-    "created_at": "2021-03-31T07:32:15+09:00",
-    "updated_at": "2021-04-30T17:03:23+09:00",
-    "id": "jnchito"
-  },
-  {
     "title": "なぜあなたのプログラミングスキルは向上しないのか？",
     "url": "https://qiita.com/koki_73/items/6e5334dc619d6c4f7754",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2021-03-29T18:40:01+09:00",
     "updated_at": "2021-03-29T20:32:36+09:00",
     "id": "koki_73"
@@ -154,15 +154,23 @@
   {
     "title": "「CSS完全に理解した」でCSS完全に理解する",
     "url": "https://qiita.com/ichimonji_haji/items/96fb2e7c482ed77dea07",
-    "likes_count": 455,
+    "likes_count": 456,
     "created_at": "2021-03-11T18:04:06+09:00",
     "updated_at": "2021-03-26T15:03:52+09:00",
     "id": "ichimonji_haji"
   },
   {
+    "title": "【異常検知】学習ゼロの衝撃！を可視化する",
+    "url": "https://qiita.com/shinmura0/items/5f2c363812f7cdcc8771",
+    "likes_count": 448,
+    "created_at": "2021-03-09T12:15:01+09:00",
+    "updated_at": "2021-03-09T17:17:59+09:00",
+    "id": "shinmura0"
+  },
+  {
     "title": "図で理解するTransformer",
     "url": "https://qiita.com/birdwatcher/items/b3e4428f63f708db37b7",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2021-03-13T10:42:16+09:00",
     "updated_at": "2021-05-25T04:20:14+09:00",
     "id": "birdwatcher"
@@ -170,7 +178,7 @@
   {
     "title": "ほぼ独学・未経験者がモダンな技術でポートフォリオを作ってみた【Rails / Nuxt.js / Docker / AWS / Terraform / CircleCI】",
     "url": "https://qiita.com/aki0151/items/f39ef43c9d9fc1b87d9a",
-    "likes_count": 426,
+    "likes_count": 425,
     "created_at": "2021-03-23T23:51:50+09:00",
     "updated_at": "2021-05-30T17:33:42+09:00",
     "id": "aki0151"
@@ -182,14 +190,6 @@
     "created_at": "2021-03-05T04:22:40+09:00",
     "updated_at": "2021-03-10T22:43:28+09:00",
     "id": "YiwaiY"
-  },
-  {
-    "title": "【異常検知】学習ゼロの衝撃！を可視化する",
-    "url": "https://qiita.com/shinmura0/items/5f2c363812f7cdcc8771",
-    "likes_count": 362,
-    "created_at": "2021-03-09T12:15:01+09:00",
-    "updated_at": "2021-03-09T17:17:59+09:00",
-    "id": "shinmura0"
   },
   {
     "title": "統計学研究者からみての企業でのデータ分析",
