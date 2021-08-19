@@ -42,7 +42,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 889,
+    "likes_count": 890,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -122,7 +122,7 @@
   {
     "title": "なぜオブジェクト指向は難しいのか",
     "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 639,
+    "likes_count": 642,
     "created_at": "2017-11-16T01:47:45+09:00",
     "updated_at": "2021-01-05T10:16:02+09:00",
     "id": "tutinoco"
@@ -218,7 +218,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 525,
+    "likes_count": 526,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -344,6 +344,14 @@
     "id": "taroc"
   },
   {
+    "title": "Railsアプリで Bootstrap 4 を利用する",
+    "url": "https://qiita.com/NaokiIshimura/items/c8db09daefff5c11dadf",
+    "likes_count": 396,
+    "created_at": "2017-11-03T19:54:09+09:00",
+    "updated_at": "2019-08-14T16:45:50+09:00",
+    "id": "NaokiIshimura"
+  },
+  {
     "title": "次世代Headless CMS「contentful」事始め",
     "url": "https://qiita.com/daikiojm/items/3fbde3c88a7d0a053675",
     "likes_count": 396,
@@ -352,17 +360,9 @@
     "id": "daikiojm"
   },
   {
-    "title": "Railsアプリで Bootstrap 4 を利用する",
-    "url": "https://qiita.com/NaokiIshimura/items/c8db09daefff5c11dadf",
-    "likes_count": 394,
-    "created_at": "2017-11-03T19:54:09+09:00",
-    "updated_at": "2019-08-14T16:45:50+09:00",
-    "id": "NaokiIshimura"
-  },
-  {
     "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",
     "url": "https://qiita.com/teradonburi/items/c4cbd7dd5b4810e1a3a9",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2017-11-23T17:42:03+09:00",
     "updated_at": "2021-07-21T11:34:12+09:00",
     "id": "teradonburi"
@@ -378,7 +378,7 @@
   {
     "title": "意味がわかる主成分分析",
     "url": "https://qiita.com/NoriakiOshita/items/460247bb57c22973a5f0",
-    "likes_count": 372,
+    "likes_count": 373,
     "created_at": "2017-11-30T05:00:00+09:00",
     "updated_at": "2021-06-01T08:44:15+09:00",
     "id": "NoriakiOshita"
@@ -458,7 +458,7 @@
   {
     "title": "いまから始めるCommon Lisp",
     "url": "https://qiita.com/t-sin/items/054c2ff315ec3b9d3bdc",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2017-11-29T21:13:36+09:00",
     "updated_at": "2018-03-02T22:21:31+09:00",
     "id": "t-sin"
