@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2289,
+    "likes_count": 2290,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -82,7 +82,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1228,
+    "likes_count": 1229,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -202,7 +202,7 @@
   {
     "title": "初心者向けGithubへのPullRequest方法",
     "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 716,
+    "likes_count": 717,
     "created_at": "2014-12-17T23:28:14+09:00",
     "updated_at": "2014-12-19T09:14:55+09:00",
     "id": "samurai_runner"
@@ -306,7 +306,7 @@
   {
     "title": "「Git補完をしらない」「git statusを1日100回は使う」そんなあなたに朗報【git-completionとgit-prompt】",
     "url": "https://qiita.com/varmil/items/9b0aeafa85975474e9b6",
-    "likes_count": 565,
+    "likes_count": 566,
     "created_at": "2014-12-12T14:42:05+09:00",
     "updated_at": "2021-02-15T09:27:48+09:00",
     "id": "varmil"
@@ -386,7 +386,7 @@
   {
     "title": "nginxパフォーマンスチューニング〜静的コンテンツ配信編〜",
     "url": "https://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd",
-    "likes_count": 506,
+    "likes_count": 507,
     "created_at": "2014-12-16T03:53:44+09:00",
     "updated_at": "2015-12-08T21:59:14+09:00",
     "id": "cubicdaiya"
@@ -480,20 +480,20 @@
     "id": "calciolife"
   },
   {
+    "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
+    "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
+    "likes_count": 415,
+    "created_at": "2014-12-26T17:08:08+09:00",
+    "updated_at": "2014-12-26T17:08:08+09:00",
+    "id": "mimoe"
+  },
+  {
     "title": "Makefileの関数",
     "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
     "likes_count": 414,
     "created_at": "2014-12-24T21:58:53+09:00",
     "updated_at": "2017-05-15T10:21:03+09:00",
     "id": "chibi929"
-  },
-  {
-    "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
-    "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
-    "likes_count": 414,
-    "created_at": "2014-12-26T17:08:08+09:00",
-    "updated_at": "2014-12-26T17:08:08+09:00",
-    "id": "mimoe"
   },
   {
     "title": "React.jsでPropやStateを使ってComponent間のやりとりをする",
@@ -562,7 +562,7 @@
   {
     "title": "SVMを使いこなす！チェックポイント8つ",
     "url": "https://qiita.com/pika_shi/items/5e59bcf69e85fdd9edb2",
-    "likes_count": 382,
+    "likes_count": 383,
     "created_at": "2014-12-16T08:22:35+09:00",
     "updated_at": "2014-12-16T08:22:35+09:00",
     "id": "pika_shi"
@@ -578,7 +578,7 @@
   {
     "title": "React.jsの地味だけど重要なkeyについて",
     "url": "https://qiita.com/koba04/items/a4d23245d246c53cd49d",
-    "likes_count": 363,
+    "likes_count": 364,
     "created_at": "2014-12-11T14:54:17+09:00",
     "updated_at": "2014-12-11T15:03:06+09:00",
     "id": "koba04"

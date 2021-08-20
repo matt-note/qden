@@ -2,7 +2,7 @@
   {
     "title": "エンジニアは全員技術記事を書くことを習慣化した方がいいぞ",
     "url": "https://qiita.com/HiromuMasuda0228/items/a71dea7ef4d77a30b118",
-    "likes_count": 2482,
+    "likes_count": 2483,
     "created_at": "2018-10-04T17:36:06+09:00",
     "updated_at": "2018-10-19T15:55:57+09:00",
     "id": "HiromuMasuda0228"
@@ -18,7 +18,7 @@
   {
     "title": "AWS認定11冠制覇したのでオススメの勉強法などをまとめてみる",
     "url": "https://qiita.com/nakazax/items/20458e146d3d9f2aa615",
-    "likes_count": 2326,
+    "likes_count": 2327,
     "created_at": "2018-10-15T09:01:09+09:00",
     "updated_at": "2020-05-01T15:01:55+09:00",
     "id": "nakazax"
@@ -42,7 +42,7 @@
   {
     "title": "【保存版】言語別Youtubeおすすめチャンネル",
     "url": "https://qiita.com/gjfcgmi/items/a8b55a0a6d4578abac66",
-    "likes_count": 1442,
+    "likes_count": 1444,
     "created_at": "2018-10-16T07:01:35+09:00",
     "updated_at": "2020-12-01T17:56:40+09:00",
     "id": "gjfcgmi"
@@ -114,7 +114,7 @@
   {
     "title": "これから始めるGCP（GCE）　安全に無料枠を使い倒せ",
     "url": "https://qiita.com/Brutus/items/22dfd31a681b67837a74",
-    "likes_count": 1020,
+    "likes_count": 1023,
     "created_at": "2018-10-06T11:52:13+09:00",
     "updated_at": "2021-08-01T18:04:20+09:00",
     "id": "Brutus"
@@ -194,7 +194,7 @@
   {
     "title": "docker-compose.ymlの書き方について解説してみた",
     "url": "https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04",
-    "likes_count": 693,
+    "likes_count": 695,
     "created_at": "2018-10-14T00:53:56+09:00",
     "updated_at": "2019-05-05T12:30:58+09:00",
     "id": "yuta-ushijima"
@@ -232,6 +232,22 @@
     "id": "uhyo"
   },
   {
+    "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
+    "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
+    "likes_count": 596,
+    "created_at": "2018-10-08T20:38:40+09:00",
+    "updated_at": "2020-02-17T23:55:55+09:00",
+    "id": "little_hand_s"
+  },
+  {
+    "title": "TypeScriptの型初級",
+    "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
+    "likes_count": 595,
+    "created_at": "2018-10-24T18:49:35+09:00",
+    "updated_at": "2020-03-19T14:19:40+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "VSCodeでRuby On Railsを快適に書きたい",
     "url": "https://qiita.com/sensuikan1973/items/219a843e4654e6c2e10d",
     "likes_count": 594,
@@ -240,28 +256,12 @@
     "id": "sensuikan1973"
   },
   {
-    "title": "TypeScriptの型初級",
-    "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
-    "likes_count": 594,
-    "created_at": "2018-10-24T18:49:35+09:00",
-    "updated_at": "2020-03-19T14:19:40+09:00",
-    "id": "uhyo"
-  },
-  {
     "title": "侍エンジニア塾の記事を Chrome 拡張なしに Google 検索結果から一掃するわりと簡単な方法",
     "url": "https://qiita.com/komiya_atsushi/items/7d2cbf322dd5e8f2dc8e",
     "likes_count": 594,
     "created_at": "2018-10-26T13:01:20+09:00",
     "updated_at": "2018-10-26T13:01:20+09:00",
     "id": "komiya_atsushi"
-  },
-  {
-    "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
-    "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
-    "likes_count": 593,
-    "created_at": "2018-10-08T20:38:40+09:00",
-    "updated_at": "2020-02-17T23:55:55+09:00",
-    "id": "little_hand_s"
   },
   {
     "title": "オブジェクト指向をより理解するために実際に書いて解説する",
@@ -292,7 +292,7 @@
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 529,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-08-19T19:31:29+09:00",
+    "updated_at": "2021-08-20T19:31:29+09:00",
     "id": "kai_kou"
   },
   {
@@ -370,7 +370,7 @@
   {
     "title": "Firestore で、DB設計を考える際に参考になった情報",
     "url": "https://qiita.com/samuraikun/items/dfe7d1081f62359b0dcd",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2018-10-05T02:08:09+09:00",
     "updated_at": "2019-09-12T13:04:21+09:00",
     "id": "samuraikun"
@@ -394,7 +394,7 @@
   {
     "title": "Kotlin/Native を Android/iOS アプリ開発に導入しよう",
     "url": "https://qiita.com/irgaly/items/3e6ee5bc3f59302bb76a",
-    "likes_count": 420,
+    "likes_count": 421,
     "created_at": "2018-10-12T11:41:18+09:00",
     "updated_at": "2018-10-17T11:20:14+09:00",
     "id": "irgaly"
@@ -466,7 +466,7 @@
   {
     "title": "Python __init__.pyの書き方",
     "url": "https://qiita.com/FN_Programming/items/2dcabc93365a62397afe",
-    "likes_count": 338,
+    "likes_count": 339,
     "created_at": "2018-10-05T22:47:35+09:00",
     "updated_at": "2019-06-18T17:43:47+09:00",
     "id": "FN_Programming"
