@@ -10,7 +10,7 @@
   {
     "title": "webpack 4 入門",
     "url": "https://qiita.com/soarflat/items/28bf799f7e0335b68186",
-    "likes_count": 2359,
+    "likes_count": 2360,
     "created_at": "2017-02-02T03:21:09+09:00",
     "updated_at": "2021-08-02T02:55:22+09:00",
     "id": "soarflat"
@@ -74,7 +74,7 @@
   {
     "title": "Awesome JavaScript  : 素晴らしい JavaScript ライブラリ・リソースの数々",
     "url": "https://qiita.com/hatai/items/5bf899bfe8f5d86d2096",
-    "likes_count": 681,
+    "likes_count": 682,
     "created_at": "2017-02-03T18:06:04+09:00",
     "updated_at": "2020-06-12T17:08:21+09:00",
     "id": "hatai"
@@ -266,18 +266,10 @@
   {
     "title": "ライトニングトーク(LT)準備の参考資料まとめ",
     "url": "https://qiita.com/moomooya/items/45398e06f189d4a26227",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2017-02-21T10:46:47+09:00",
     "updated_at": "2021-06-16T19:53:53+09:00",
     "id": "moomooya"
-  },
-  {
-    "title": "簡単なウインドウアプリ(GUI)開発のまとめ(Windows偏)",
-    "url": "https://qiita.com/yosgspec/items/810843f863075d33a093",
-    "likes_count": 354,
-    "created_at": "2017-02-06T03:02:28+09:00",
-    "updated_at": "2020-12-09T23:56:03+09:00",
-    "id": "yosgspec"
   },
   {
     "title": "#!/bin/sh は ただのコメントじゃないよ！ Shebangだよ！",
@@ -288,9 +280,17 @@
     "id": "mohira"
   },
   {
+    "title": "簡単なウインドウアプリ(GUI)開発のまとめ(Windows偏)",
+    "url": "https://qiita.com/yosgspec/items/810843f863075d33a093",
+    "likes_count": 353,
+    "created_at": "2017-02-06T03:02:28+09:00",
+    "updated_at": "2020-12-09T23:56:03+09:00",
+    "id": "yosgspec"
+  },
+  {
     "title": "Android 画像ファイルを扱う際のFileとUriまとめ",
     "url": "https://qiita.com/wakamesoba98/items/98b79bdfde19612d12b0",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2017-02-22T13:44:29+09:00",
     "updated_at": "2017-02-24T18:06:39+09:00",
     "id": "wakamesoba98"
@@ -336,20 +336,20 @@
     "id": "PonDad"
   },
   {
+    "title": "重複しているレコードを検索するSQL(大量データも対応)",
+    "url": "https://qiita.com/necoyama3/items/4c24defd6f504366aebe",
+    "likes_count": 308,
+    "created_at": "2017-02-23T18:03:13+09:00",
+    "updated_at": "2019-10-10T21:42:27+09:00",
+    "id": "necoyama3"
+  },
+  {
     "title": "CSSフレームワーク BULMA チュートリアル①",
     "url": "https://qiita.com/ochiochi/items/de1afd2d3fc8f6d3ea55",
     "likes_count": 307,
     "created_at": "2017-02-10T11:41:12+09:00",
     "updated_at": "2020-03-29T14:02:53+09:00",
     "id": "ochiochi"
-  },
-  {
-    "title": "重複しているレコードを検索するSQL(大量データも対応)",
-    "url": "https://qiita.com/necoyama3/items/4c24defd6f504366aebe",
-    "likes_count": 307,
-    "created_at": "2017-02-23T18:03:13+09:00",
-    "updated_at": "2019-10-10T21:42:27+09:00",
-    "id": "necoyama3"
   },
   {
     "title": "dockerでコンテナが立ち上がらないときやってみること",
@@ -398,5 +398,13 @@
     "created_at": "2017-02-17T11:43:48+09:00",
     "updated_at": "2017-10-20T15:59:52+09:00",
     "id": "yukiB"
+  },
+  {
+    "title": "gitのマージとコンフリクトを理解する",
+    "url": "https://qiita.com/te2u/items/c23f82ec84cf65564554",
+    "likes_count": 252,
+    "created_at": "2017-02-11T10:17:23+09:00",
+    "updated_at": "2017-02-11T10:17:23+09:00",
+    "id": "te2u"
   }
 ]

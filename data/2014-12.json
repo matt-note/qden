@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1788,
+    "likes_count": 1789,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2021-02-11T09:21:27+09:00",
     "id": "jnchito"
@@ -114,7 +114,7 @@
   {
     "title": "機械学習はじめの一歩に役立つ記事のまとめ",
     "url": "https://qiita.com/shu223/items/9cbde46c0690f1952750",
-    "likes_count": 963,
+    "likes_count": 964,
     "created_at": "2014-12-09T20:34:42+09:00",
     "updated_at": "2014-12-09T20:55:48+09:00",
     "id": "shu223"
@@ -154,7 +154,7 @@
   {
     "title": "UIViewControllerのライフサイクル",
     "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 760,
+    "likes_count": 761,
     "created_at": "2014-12-24T22:11:02+09:00",
     "updated_at": "2014-12-24T22:11:02+09:00",
     "id": "motokiee"
@@ -376,20 +376,20 @@
     "id": "cuzic"
   },
   {
+    "title": "nginxパフォーマンスチューニング〜静的コンテンツ配信編〜",
+    "url": "https://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd",
+    "likes_count": 510,
+    "created_at": "2014-12-16T03:53:44+09:00",
+    "updated_at": "2015-12-08T21:59:14+09:00",
+    "id": "cubicdaiya"
+  },
+  {
     "title": "PythonでさくっとWebスクレイピングする (JavaScript読み込みにも対応しつつ)",
     "url": "https://qiita.com/beatinaniwa/items/72b777e23ef2390e13f8",
     "likes_count": 510,
     "created_at": "2014-12-25T01:23:03+09:00",
     "updated_at": "2014-12-25T01:27:54+09:00",
     "id": "beatinaniwa"
-  },
-  {
-    "title": "nginxパフォーマンスチューニング〜静的コンテンツ配信編〜",
-    "url": "https://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd",
-    "likes_count": 509,
-    "created_at": "2014-12-16T03:53:44+09:00",
-    "updated_at": "2015-12-08T21:59:14+09:00",
-    "id": "cubicdaiya"
   },
   {
     "title": "MacにPostgreSQLをインストール",
@@ -482,7 +482,7 @@
   {
     "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
     "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2014-12-26T17:08:08+09:00",
     "updated_at": "2014-12-26T17:08:08+09:00",
     "id": "mimoe"
@@ -562,7 +562,7 @@
   {
     "title": "SVMを使いこなす！チェックポイント8つ",
     "url": "https://qiita.com/pika_shi/items/5e59bcf69e85fdd9edb2",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2014-12-16T08:22:35+09:00",
     "updated_at": "2014-12-16T08:22:35+09:00",
     "id": "pika_shi"
@@ -570,7 +570,7 @@
   {
     "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
     "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2014-12-18T22:53:36+09:00",
     "updated_at": "2015-02-14T18:30:30+09:00",
     "id": "y_hokkey"
