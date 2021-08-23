@@ -82,7 +82,7 @@
   {
     "title": "ApacheとNginxについて比較",
     "url": "https://qiita.com/kamihork/items/49e2a363da7d840a4149",
-    "likes_count": 1017,
+    "likes_count": 1019,
     "created_at": "2018-06-15T09:16:24+09:00",
     "updated_at": "2020-06-13T23:35:39+09:00",
     "id": "kamihork"
@@ -122,7 +122,7 @@
   {
     "title": "世のフロントエンドエンジニアにApollo Clientを布教したい",
     "url": "https://qiita.com/seya/items/26c8a0dc549a10efcdf8",
-    "likes_count": 869,
+    "likes_count": 871,
     "created_at": "2018-06-04T07:42:42+09:00",
     "updated_at": "2018-08-27T20:10:22+09:00",
     "id": "seya"
@@ -146,7 +146,7 @@
   {
     "title": "Railsで超簡単API",
     "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 749,
+    "likes_count": 750,
     "created_at": "2018-06-27T16:46:37+09:00",
     "updated_at": "2020-02-24T14:01:49+09:00",
     "id": "k-penguin-sato"
@@ -186,7 +186,7 @@
   {
     "title": "React Nativeの実は使ってはダメなライブラリ素晴らしいライブラリ(随時更新)",
     "url": "https://qiita.com/kaba/items/569aafd80889bb5d9328",
-    "likes_count": 597,
+    "likes_count": 598,
     "created_at": "2018-06-02T16:38:42+09:00",
     "updated_at": "2021-04-01T21:30:01+09:00",
     "id": "kaba"
@@ -240,20 +240,20 @@
     "id": "ao_log"
   },
   {
+    "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
+    "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
+    "likes_count": 476,
+    "created_at": "2018-06-18T10:45:43+09:00",
+    "updated_at": "2018-10-11T13:59:01+09:00",
+    "id": "newta"
+  },
+  {
     "title": "プロダクトのドキュメントにプルリクエストを送れる仕組みがすごい",
     "url": "https://qiita.com/amay077/items/8823376f307235a7f651",
     "likes_count": 474,
     "created_at": "2018-06-12T22:39:58+09:00",
     "updated_at": "2018-06-15T10:28:22+09:00",
     "id": "amay077"
-  },
-  {
-    "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
-    "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 474,
-    "created_at": "2018-06-18T10:45:43+09:00",
-    "updated_at": "2018-10-11T13:59:01+09:00",
-    "id": "newta"
   },
   {
     "title": "windows 10 home で docker を導入するメモ",
@@ -298,7 +298,7 @@
   {
     "title": "【Vue.js】いつから「フロントエンド開発でTDDができない」と錯覚していた？",
     "url": "https://qiita.com/ykhirao/items/becd9be857dbe6804314",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2018-06-25T08:56:37+09:00",
     "updated_at": "2018-06-27T23:47:26+09:00",
     "id": "ykhirao"
@@ -426,9 +426,9 @@
   {
     "title": "統計検定2級のためのチートシート",
     "url": "https://qiita.com/akiyoshi_sasaki/items/c81032c1683f69ff9d11",
-    "likes_count": 329,
+    "likes_count": 328,
     "created_at": "2018-06-12T20:14:50+09:00",
-    "updated_at": "2018-08-27T16:05:32+09:00",
+    "updated_at": "2021-08-23T13:26:43+09:00",
     "id": "akiyoshi_sasaki"
   },
   {
@@ -464,20 +464,20 @@
     "id": "HiromuMasuda0228"
   },
   {
+    "title": "TypeScript チュートリアル",
+    "url": "https://qiita.com/EBIHARA_kenji/items/31b7c1c62426bdabd263",
+    "likes_count": 301,
+    "created_at": "2018-06-27T16:30:48+09:00",
+    "updated_at": "2019-11-22T13:06:43+09:00",
+    "id": "EBIHARA_kenji"
+  },
+  {
     "title": "C# 今更ですが、HttpClientを使う",
     "url": "https://qiita.com/rawr/items/f78a3830d894042f891b",
     "likes_count": 300,
     "created_at": "2018-06-15T12:29:06+09:00",
     "updated_at": "2019-12-02T09:58:17+09:00",
     "id": "rawr"
-  },
-  {
-    "title": "TypeScript チュートリアル",
-    "url": "https://qiita.com/EBIHARA_kenji/items/31b7c1c62426bdabd263",
-    "likes_count": 300,
-    "created_at": "2018-06-27T16:30:48+09:00",
-    "updated_at": "2019-11-22T13:06:43+09:00",
-    "id": "EBIHARA_kenji"
   },
   {
     "title": "[PHP] Xdebug のリモートデバッグ、理解していますか？",
