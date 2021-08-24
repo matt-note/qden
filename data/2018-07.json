@@ -210,7 +210,7 @@
   {
     "title": "permission deniedで悩まされたので勉強してみた",
     "url": "https://qiita.com/takuyanin/items/18590600d077df707923",
-    "likes_count": 529,
+    "likes_count": 530,
     "created_at": "2018-07-12T20:32:36+09:00",
     "updated_at": "2019-11-13T11:45:07+09:00",
     "id": "takuyanin"
@@ -242,7 +242,7 @@
   {
     "title": "Netlifyで静的サイトのホスティングをする",
     "url": "https://qiita.com/sugo/items/2ee64887d682b0dae635",
-    "likes_count": 476,
+    "likes_count": 477,
     "created_at": "2018-07-03T19:03:36+09:00",
     "updated_at": "2018-07-03T19:30:59+09:00",
     "id": "sugo"
@@ -282,7 +282,7 @@
   {
     "title": "DynamoDBのキー・インデックスについてまとめてみた",
     "url": "https://qiita.com/shibataka000/items/e3f3792201d6fcc397fd",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2018-07-14T18:43:22+09:00",
     "updated_at": "2021-04-16T19:22:12+09:00",
     "id": "shibataka000"
@@ -306,7 +306,7 @@
   {
     "title": "Pythonで機械学習やデータ解析やってる人はバグを無くすためにassert文を使うべき",
     "url": "https://qiita.com/machisuke/items/0ec20e2ff9ca4de41fa2",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2018-07-29T10:12:13+09:00",
     "updated_at": "2018-07-30T23:36:28+09:00",
     "id": "machisuke"
@@ -344,6 +344,14 @@
     "id": "Haruka-Ogawa"
   },
   {
+    "title": "[初学者]Railsのi18nによる日本語化対応",
+    "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
+    "likes_count": 345,
+    "created_at": "2018-08-01T01:32:22+09:00",
+    "updated_at": "2020-04-11T14:10:58+09:00",
+    "id": "shimadama"
+  },
+  {
     "title": "10分で理解するGrafana",
     "url": "https://qiita.com/Chanmoro/items/a23f0408f0e64658a775",
     "likes_count": 344,
@@ -352,28 +360,12 @@
     "id": "Chanmoro"
   },
   {
-    "title": "[初学者]Railsのi18nによる日本語化対応",
-    "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
-    "likes_count": 344,
-    "created_at": "2018-08-01T01:32:22+09:00",
-    "updated_at": "2020-04-11T14:10:58+09:00",
-    "id": "shimadama"
-  },
-  {
     "title": "フロントエンドの命名や設計の基本と自分の現在の設計",
     "url": "https://qiita.com/buchiya4th/items/127282088f5a9ad56152",
     "likes_count": 343,
     "created_at": "2018-07-23T06:22:42+09:00",
     "updated_at": "2018-12-01T08:12:56+09:00",
     "id": "buchiya4th"
-  },
-  {
-    "title": "RxSwift 再入門",
-    "url": "https://qiita.com/usamik26/items/444d6dd7386b2949c06b",
-    "likes_count": 335,
-    "created_at": "2018-07-29T22:06:16+09:00",
-    "updated_at": "2019-04-03T07:47:48+09:00",
-    "id": "usamik26"
   },
   {
     "title": "音響処理の基礎 with CNN　〜機械学習で「太鼓の達人」の自動作譜をしてみた〜",
@@ -390,6 +382,14 @@
     "created_at": "2018-07-26T14:27:40+09:00",
     "updated_at": "2018-07-27T15:12:11+09:00",
     "id": "hibikikudo"
+  },
+  {
+    "title": "RxSwift 再入門",
+    "url": "https://qiita.com/usamik26/items/444d6dd7386b2949c06b",
+    "likes_count": 333,
+    "created_at": "2018-07-29T22:06:16+09:00",
+    "updated_at": "2019-04-03T07:47:48+09:00",
+    "id": "usamik26"
   },
   {
     "title": "VIPERアーキテクチャ まとめ",
@@ -426,7 +426,7 @@
   {
     "title": "Scoopを使ったWindows環境構築のススメ - Super!!",
     "url": "https://qiita.com/Dooteeen/items/12dc8fb14042888113d0",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2018-07-27T03:50:48+09:00",
     "updated_at": "2020-07-22T06:34:14+09:00",
     "id": "Dooteeen"
@@ -450,7 +450,7 @@
   {
     "title": "私がハマったVue.jsのショボいミス",
     "url": "https://qiita.com/fruitriin/items/fe26e3ecb33000a6544e",
-    "likes_count": 285,
+    "likes_count": 286,
     "created_at": "2018-07-12T00:15:48+09:00",
     "updated_at": "2020-04-13T00:25:18+09:00",
     "id": "fruitriin"
@@ -538,7 +538,7 @@
   {
     "title": "Chrome デベロッパーツールの使い方まとめ",
     "url": "https://qiita.com/d-dai/items/0b580b26bb1d1622eb46",
-    "likes_count": 220,
+    "likes_count": 221,
     "created_at": "2018-07-09T01:31:00+09:00",
     "updated_at": "2020-12-14T01:53:27+09:00",
     "id": "d-dai"

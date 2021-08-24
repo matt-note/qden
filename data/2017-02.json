@@ -42,7 +42,7 @@
   {
     "title": "メモリリーク、デッドロック、リダイレクトループ、JVMクラッシュ...バグだらけのWebアプリケーションを使ってバグを理解する",
     "url": "https://qiita.com/tamura__246/items/7275c7406706fb0057e8",
-    "likes_count": 1105,
+    "likes_count": 1106,
     "created_at": "2017-02-14T19:08:22+09:00",
     "updated_at": "2018-01-22T10:33:29+09:00",
     "id": "tamura__246"
@@ -50,7 +50,7 @@
   {
     "title": "HTTPとPOSTとGET",
     "url": "https://qiita.com/Sekky0905/items/dff3d0da059d6f5bfabf",
-    "likes_count": 793,
+    "likes_count": 794,
     "created_at": "2017-02-25T15:54:37+09:00",
     "updated_at": "2018-09-06T14:30:10+09:00",
     "id": "Sekky0905"
@@ -90,7 +90,7 @@
   {
     "title": "MySQLパフォーマンスチューニング -my.cnfの見直し-",
     "url": "https://qiita.com/mamy1326/items/9c5eaee3c986cff65a55",
-    "likes_count": 660,
+    "likes_count": 662,
     "created_at": "2017-02-22T02:15:58+09:00",
     "updated_at": "2017-10-04T00:56:56+09:00",
     "id": "mamy1326"
@@ -144,20 +144,20 @@
     "id": "fukuma_biz"
   },
   {
+    "title": "[社内新人向け]Gitで使ってほしくないコマンド",
+    "url": "https://qiita.com/zaramme/items/029d0f9b099e5f929e87",
+    "likes_count": 503,
+    "created_at": "2017-02-20T19:44:54+09:00",
+    "updated_at": "2017-03-01T08:59:58+09:00",
+    "id": "zaramme"
+  },
+  {
     "title": "Stripe Billing 101",
     "url": "https://qiita.com/y_toku/items/235b5e7ee00792edcbbf",
     "likes_count": 501,
     "created_at": "2017-02-23T10:20:30+09:00",
     "updated_at": "2018-10-09T11:01:30+09:00",
     "id": "y_toku"
-  },
-  {
-    "title": "[社内新人向け]Gitで使ってほしくないコマンド",
-    "url": "https://qiita.com/zaramme/items/029d0f9b099e5f929e87",
-    "likes_count": 500,
-    "created_at": "2017-02-20T19:44:54+09:00",
-    "updated_at": "2017-03-01T08:59:58+09:00",
-    "id": "zaramme"
   },
   {
     "title": "なぜ機械学習にPythonが選ばれるのか",
@@ -186,7 +186,7 @@
   {
     "title": "Ruby初心者を脱した人が悩みがちな、ちょっと特殊な記法・演算子・イディオム",
     "url": "https://qiita.com/nashirox/items/0c885edf7d78fd5a83f1",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2017-02-07T21:47:13+09:00",
     "updated_at": "2017-05-24T19:45:52+09:00",
     "id": "nashirox"
@@ -266,7 +266,7 @@
   {
     "title": "ライトニングトーク(LT)準備の参考資料まとめ",
     "url": "https://qiita.com/moomooya/items/45398e06f189d4a26227",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2017-02-21T10:46:47+09:00",
     "updated_at": "2021-06-16T19:53:53+09:00",
     "id": "moomooya"
@@ -298,7 +298,7 @@
   {
     "title": "Railsでcarrierwaveを使ってAWS S3に画像をアップロードする手順を画像付きで説明する",
     "url": "https://qiita.com/junara/items/1899f23c091bcee3b058",
-    "likes_count": 339,
+    "likes_count": 340,
     "created_at": "2017-02-22T17:23:39+09:00",
     "updated_at": "2020-01-11T17:27:08+09:00",
     "id": "junara"
@@ -306,7 +306,7 @@
   {
     "title": "新人さんに知ってほしい「文字コードのお話」",
     "url": "https://qiita.com/yuji38kwmt/items/b3a7820b4d3b544da4ff",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2017-02-14T01:02:33+09:00",
     "updated_at": "2020-06-23T19:23:03+09:00",
     "id": "yuji38kwmt"
@@ -314,7 +314,7 @@
   {
     "title": "[ Markdownでスライド作成 ] 5種類くらいツールを試してみた結果",
     "url": "https://qiita.com/ykhirao/items/74a23f812dd5d22b3b88",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2017-02-23T18:46:05+09:00",
     "updated_at": "2019-12-25T14:59:38+09:00",
     "id": "ykhirao"
@@ -338,7 +338,7 @@
   {
     "title": "重複しているレコードを検索するSQL(大量データも対応)",
     "url": "https://qiita.com/necoyama3/items/4c24defd6f504366aebe",
-    "likes_count": 308,
+    "likes_count": 309,
     "created_at": "2017-02-23T18:03:13+09:00",
     "updated_at": "2019-10-10T21:42:27+09:00",
     "id": "necoyama3"
@@ -402,7 +402,7 @@
   {
     "title": "gitのマージとコンフリクトを理解する",
     "url": "https://qiita.com/te2u/items/c23f82ec84cf65564554",
-    "likes_count": 252,
+    "likes_count": 255,
     "created_at": "2017-02-11T10:17:23+09:00",
     "updated_at": "2017-02-11T10:17:23+09:00",
     "id": "te2u"
