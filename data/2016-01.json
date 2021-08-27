@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2477,
+    "likes_count": 2479,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -114,7 +114,7 @@
   {
     "title": "全盛期のJeff Dean伝説",
     "url": "https://qiita.com/umegaya/items/ef69461d6f4967d5c623",
-    "likes_count": 1024,
+    "likes_count": 1025,
     "created_at": "2016-01-09T05:56:15+09:00",
     "updated_at": "2016-03-26T08:06:24+09:00",
     "id": "umegaya"
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
     "url": "https://qiita.com/wadahiro/items/eb50ac6bbe2e18cf8813",
-    "likes_count": 670,
+    "likes_count": 671,
     "created_at": "2016-01-27T02:08:49+09:00",
     "updated_at": "2018-06-18T12:00:54+09:00",
     "id": "wadahiro"
@@ -346,7 +346,7 @@
   {
     "title": "Docker compose ことはじめハンズオン",
     "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 481,
+    "likes_count": 483,
     "created_at": "2016-01-05T01:32:35+09:00",
     "updated_at": "2019-10-09T21:04:14+09:00",
     "id": "TsutomuNakamura"
@@ -394,7 +394,7 @@
   {
     "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2016-01-13T16:12:45+09:00",
     "updated_at": "2019-01-17T11:55:19+09:00",
     "id": "naoki_mochizuki"
@@ -402,7 +402,7 @@
   {
     "title": "SlackのWebhook URL取得手順",
     "url": "https://qiita.com/vmmhypervisor/items/18c99624a84df8b31008",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2016-01-05T01:20:14+09:00",
     "updated_at": "2017-01-28T09:02:56+09:00",
     "id": "vmmhypervisor"
@@ -512,6 +512,14 @@
     "id": "awakia"
   },
   {
+    "title": "display:table-cell;を安易に使うべきでない理由いろいろ",
+    "url": "https://qiita.com/sawadays0118/items/4c329fd05cdff14ffebc",
+    "likes_count": 352,
+    "created_at": "2016-01-13T23:10:05+09:00",
+    "updated_at": "2016-01-16T00:13:29+09:00",
+    "id": "sawadays0118"
+  },
+  {
     "title": "Nginxセキュリティ設定",
     "url": "https://qiita.com/hideji2/items/1421f9bff2a97a5e5794",
     "likes_count": 352,
@@ -526,14 +534,6 @@
     "created_at": "2016-01-11T19:01:16+09:00",
     "updated_at": "2020-10-18T16:20:35+09:00",
     "id": "YKEI_mrn"
-  },
-  {
-    "title": "display:table-cell;を安易に使うべきでない理由いろいろ",
-    "url": "https://qiita.com/sawadays0118/items/4c329fd05cdff14ffebc",
-    "likes_count": 351,
-    "created_at": "2016-01-13T23:10:05+09:00",
-    "updated_at": "2016-01-16T00:13:29+09:00",
-    "id": "sawadays0118"
   },
   {
     "title": "React + Expressでのサーバーサイドレンダリング方法のまとめ",
