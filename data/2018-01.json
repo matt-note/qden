@@ -2,7 +2,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2592,
+    "likes_count": 2593,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -10,7 +10,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2586,
+    "likes_count": 2587,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1589,
+    "likes_count": 1590,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-01-15T11:00:14+09:00",
     "id": "tfrcm"
@@ -34,7 +34,7 @@
   {
     "title": "未経験者が認識してなさそうなTIPS",
     "url": "https://qiita.com/Nao9syu/items/0950527548a08ff9d8c9",
-    "likes_count": 1237,
+    "likes_count": 1236,
     "created_at": "2018-01-25T15:48:23+09:00",
     "updated_at": "2018-07-17T09:28:46+09:00",
     "id": "Nao9syu"
@@ -42,7 +42,7 @@
   {
     "title": "意外と知らない？ Gitコマンド 100本ノック",
     "url": "https://qiita.com/ueki05/items/5c233773e3186989bfd3",
-    "likes_count": 1194,
+    "likes_count": 1195,
     "created_at": "2018-01-28T22:38:00+09:00",
     "updated_at": "2018-07-10T14:07:53+09:00",
     "id": "ueki05"
@@ -65,11 +65,11 @@
   },
   {
     "title": "Pythonによるデザインパターン5原則",
-    "url": "https://qiita.com/d-tsuji/items/4b903023001f157554a4",
+    "url": "https://qiita.com/tsuji-daisuke/items/4b903023001f157554a4",
     "likes_count": 877,
     "created_at": "2018-01-10T22:19:52+09:00",
     "updated_at": "2018-02-20T09:40:02+09:00",
-    "id": "d-tsuji"
+    "id": "tsuji-daisuke"
   },
   {
     "title": "【秒速で無料GPUを使う】TensorFow(Keras)/PyTorch/Chainer環境構築 on Colaboratory",
@@ -82,7 +82,7 @@
   {
     "title": "未経験から4年働きながら、読んでよかった読み物",
     "url": "https://qiita.com/Nao9syu/items/0bedec7a749ab2d8123a",
-    "likes_count": 772,
+    "likes_count": 771,
     "created_at": "2018-01-24T15:03:19+09:00",
     "updated_at": "2018-07-17T09:25:53+09:00",
     "id": "Nao9syu"
@@ -90,7 +90,7 @@
   {
     "title": "Pythonでパワポの説明資料（報告書）を生成する",
     "url": "https://qiita.com/code_440/items/22e8539da465686496d3",
-    "likes_count": 741,
+    "likes_count": 742,
     "created_at": "2018-01-02T20:39:29+09:00",
     "updated_at": "2018-01-02T20:41:50+09:00",
     "id": "code_440"
@@ -122,7 +122,7 @@
   {
     "title": "‪実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！‬",
     "url": "https://qiita.com/drken/items/e805e3f514acceb87602",
-    "likes_count": 689,
+    "likes_count": 690,
     "created_at": "2018-01-31T10:06:42+09:00",
     "updated_at": "2020-02-06T18:15:46+09:00",
     "id": "drken"
@@ -234,7 +234,7 @@
   {
     "title": "JWT・Cookieそれぞれの認証方式のメリデメ比較",
     "url": "https://qiita.com/doyaaaaaken/items/02357c2ebca994160804",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2018-01-11T01:40:43+09:00",
     "updated_at": "2020-05-02T19:45:29+09:00",
     "id": "doyaaaaaken"
@@ -242,7 +242,7 @@
   {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 468,
+    "likes_count": 469,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
@@ -296,6 +296,14 @@
     "id": "alpaca_taichou"
   },
   {
+    "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
+    "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
+    "likes_count": 429,
+    "created_at": "2018-01-21T01:43:27+09:00",
+    "updated_at": "2018-01-21T08:56:25+09:00",
+    "id": "ishizakiiii"
+  },
+  {
     "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
     "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
     "likes_count": 428,
@@ -304,17 +312,9 @@
     "id": "Nossa"
   },
   {
-    "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
-    "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
-    "likes_count": 428,
-    "created_at": "2018-01-21T01:43:27+09:00",
-    "updated_at": "2018-01-21T08:56:25+09:00",
-    "id": "ishizakiiii"
-  },
-  {
     "title": "Gitでローカルブランチを削除する",
     "url": "https://qiita.com/hogeta_/items/33d2334c9b1919bd5120",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2018-01-11T18:24:12+09:00",
     "updated_at": "2020-01-16T14:28:12+09:00",
     "id": "hogeta_"
@@ -426,7 +426,7 @@
   {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",
     "url": "https://qiita.com/okoppe8/items/c58bb3faaf26c9e2f27f",
-    "likes_count": 293,
+    "likes_count": 294,
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"

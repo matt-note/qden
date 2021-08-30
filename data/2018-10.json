@@ -2,7 +2,7 @@
   {
     "title": "エンジニアは全員技術記事を書くことを習慣化した方がいいぞ",
     "url": "https://qiita.com/HiromuMasuda0228/items/a71dea7ef4d77a30b118",
-    "likes_count": 2482,
+    "likes_count": 2481,
     "created_at": "2018-10-04T17:36:06+09:00",
     "updated_at": "2018-10-19T15:55:57+09:00",
     "id": "HiromuMasuda0228"
@@ -18,7 +18,7 @@
   {
     "title": "AWS認定11冠制覇したのでオススメの勉強法などをまとめてみる",
     "url": "https://qiita.com/nakazax/items/20458e146d3d9f2aa615",
-    "likes_count": 2328,
+    "likes_count": 2329,
     "created_at": "2018-10-15T09:01:09+09:00",
     "updated_at": "2020-05-01T15:01:55+09:00",
     "id": "nakazax"
@@ -26,7 +26,7 @@
   {
     "title": "Webパフォーマンス虎の巻",
     "url": "https://qiita.com/usagi-f/items/10f35969f08dd01fa635",
-    "likes_count": 1828,
+    "likes_count": 1830,
     "created_at": "2018-10-24T17:10:37+09:00",
     "updated_at": "2018-10-24T17:10:37+09:00",
     "id": "usagi-f"
@@ -58,7 +58,7 @@
   {
     "title": "Python + Selenium で Chrome の自動操作を一通り",
     "url": "https://qiita.com/memakura/items/20a02161fa7e18d8a693",
-    "likes_count": 1356,
+    "likes_count": 1358,
     "created_at": "2018-10-14T13:39:44+09:00",
     "updated_at": "2018-10-16T06:19:27+09:00",
     "id": "memakura"
@@ -114,7 +114,7 @@
   {
     "title": "これから始めるGCP（GCE）　安全に無料枠を使い倒せ",
     "url": "https://qiita.com/Brutus/items/22dfd31a681b67837a74",
-    "likes_count": 1032,
+    "likes_count": 1034,
     "created_at": "2018-10-06T11:52:13+09:00",
     "updated_at": "2021-08-01T18:04:20+09:00",
     "id": "Brutus"
@@ -138,7 +138,7 @@
   {
     "title": "Wordな職場にMarkdownを定着させるためにやった４つのこと",
     "url": "https://qiita.com/segur/items/915aee79a5ba0c5f847b",
-    "likes_count": 840,
+    "likes_count": 841,
     "created_at": "2018-10-31T19:15:31+09:00",
     "updated_at": "2019-10-28T12:09:42+09:00",
     "id": "segur"
@@ -184,6 +184,14 @@
     "id": "yuno_miyako"
   },
   {
+    "title": "docker-compose.ymlの書き方について解説してみた",
+    "url": "https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04",
+    "likes_count": 707,
+    "created_at": "2018-10-14T00:53:56+09:00",
+    "updated_at": "2019-05-05T12:30:58+09:00",
+    "id": "yuta-ushijima"
+  },
+  {
     "title": "極小WebアプリをURLに埋め込んで超ポータブルなWebアプリを作りたい！",
     "url": "https://qiita.com/nwtgck/items/f6363a159a5edbfcc3b4",
     "likes_count": 707,
@@ -192,17 +200,9 @@
     "id": "nwtgck"
   },
   {
-    "title": "docker-compose.ymlの書き方について解説してみた",
-    "url": "https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04",
-    "likes_count": 706,
-    "created_at": "2018-10-14T00:53:56+09:00",
-    "updated_at": "2019-05-05T12:30:58+09:00",
-    "id": "yuta-ushijima"
-  },
-  {
     "title": "お前らのTouch Barはダサい",
     "url": "https://qiita.com/2357gi/items/8235093de77aa3e5fecc",
-    "likes_count": 657,
+    "likes_count": 656,
     "created_at": "2018-10-11T12:53:46+09:00",
     "updated_at": "2020-05-09T00:23:27+09:00",
     "id": "2357gi"
@@ -218,7 +218,7 @@
   {
     "title": "まだXMLHttpRequestを使ってるの？　fetchのすすめ",
     "url": "https://qiita.com/uhyo/items/91649e260165b35fecd7",
-    "likes_count": 620,
+    "likes_count": 621,
     "created_at": "2018-10-09T01:31:28+09:00",
     "updated_at": "2020-03-25T15:42:42+09:00",
     "id": "uhyo"
@@ -234,7 +234,7 @@
   {
     "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
     "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
-    "likes_count": 609,
+    "likes_count": 611,
     "created_at": "2018-10-08T20:38:40+09:00",
     "updated_at": "2021-08-29T06:35:33+09:00",
     "id": "little_hand_s"
@@ -292,7 +292,7 @@
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 530,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-08-29T19:31:28+09:00",
+    "updated_at": "2021-08-30T19:31:28+09:00",
     "id": "kai_kou"
   },
   {
@@ -322,7 +322,7 @@
   {
     "title": "動的型付けと静的型付け",
     "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
-    "likes_count": 494,
+    "likes_count": 496,
     "created_at": "2018-10-24T08:24:11+09:00",
     "updated_at": "2021-08-19T11:10:32+09:00",
     "id": "toryuneko"
@@ -330,7 +330,7 @@
   {
     "title": "【比較してみた】みんなが使っている個人開発（Webサービス）向けPaaS・ホスティングサービス",
     "url": "https://qiita.com/nh321/items/0373a740e56fad6a49d8",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2018-10-28T16:04:23+09:00",
     "updated_at": "2018-11-04T10:49:02+09:00",
     "id": "nh321"
@@ -378,7 +378,7 @@
   {
     "title": "TypeScript で型定義ファイル( d.ts )がないときの対処法",
     "url": "https://qiita.com/Nossa/items/726cc3e67527e896ed1e",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2018-10-26T07:49:38+09:00",
     "updated_at": "2018-10-26T07:49:38+09:00",
     "id": "Nossa"
@@ -434,7 +434,7 @@
   {
     "title": "Anaconda でよく使うコマンド一覧",
     "url": "https://qiita.com/naz_/items/84634fbd134fbcd25296",
-    "likes_count": 375,
+    "likes_count": 377,
     "created_at": "2018-10-18T11:14:18+09:00",
     "updated_at": "2019-06-27T12:49:21+09:00",
     "id": "naz_"
@@ -450,7 +450,7 @@
   {
     "title": "10分で理解する Scrapy",
     "url": "https://qiita.com/Chanmoro/items/f4df85eb73b18d902739",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2018-10-08T15:50:25+09:00",
     "updated_at": "2019-11-12T11:21:43+09:00",
     "id": "Chanmoro"
