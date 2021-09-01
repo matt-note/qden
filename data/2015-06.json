@@ -18,7 +18,7 @@
   {
     "title": "出来る限り短く説明するReactJS入門",
     "url": "https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19",
-    "likes_count": 2059,
+    "likes_count": 2060,
     "created_at": "2015-06-21T23:39:15+09:00",
     "updated_at": "2021-08-07T23:18:07+09:00",
     "id": "rgbkids"
@@ -66,7 +66,7 @@
   {
     "title": "実例で学ぶ、JOIN (NLJ) が遅くなる理屈と対処法",
     "url": "https://qiita.com/yuku_t/items/208be188eef17699c7a5",
-    "likes_count": 1279,
+    "likes_count": 1280,
     "created_at": "2015-06-22T11:50:58+09:00",
     "updated_at": "2015-07-13T09:58:53+09:00",
     "id": "yuku_t"
@@ -90,7 +90,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1185,
+    "likes_count": 1186,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -154,7 +154,7 @@
   {
     "title": "良いコードを書く技術（まとめ）",
     "url": "https://qiita.com/NoriakiOshita/items/e60ab5bb01b90d927ae5",
-    "likes_count": 727,
+    "likes_count": 728,
     "created_at": "2015-06-18T23:40:21+09:00",
     "updated_at": "2021-02-05T07:38:16+09:00",
     "id": "NoriakiOshita"
@@ -162,7 +162,7 @@
   {
     "title": "Systemdを使ってさくっと自作コマンドをサービス化してみる",
     "url": "https://qiita.com/DQNEO/items/0b5d0bc5d3cf407cb7ff",
-    "likes_count": 706,
+    "likes_count": 707,
     "created_at": "2015-06-19T18:12:05+09:00",
     "updated_at": "2015-06-19T23:59:57+09:00",
     "id": "DQNEO"
@@ -186,7 +186,7 @@
   {
     "title": "言語別：パスワード向けの正規表現",
     "url": "https://qiita.com/mpyw/items/886218e7b418dfed254b",
-    "likes_count": 640,
+    "likes_count": 641,
     "created_at": "2015-06-20T14:20:26+09:00",
     "updated_at": "2015-06-23T14:50:07+09:00",
     "id": "mpyw"
@@ -504,20 +504,20 @@
     "id": "Yama-to"
   },
   {
+    "title": "Rubyのクラスメソッドとインスタンスメソッドの例",
+    "url": "https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07",
+    "likes_count": 299,
+    "created_at": "2015-06-30T23:23:51+09:00",
+    "updated_at": "2015-06-30T23:23:51+09:00",
+    "id": "tbpgr"
+  },
+  {
     "title": "初めて地図周りの技術に触れた時に作ったまとめ資料",
     "url": "https://qiita.com/ma91n/items/7d256108920ff7afbf08",
     "likes_count": 298,
     "created_at": "2015-06-24T00:01:34+09:00",
     "updated_at": "2015-07-22T09:31:49+09:00",
     "id": "ma91n"
-  },
-  {
-    "title": "Rubyのクラスメソッドとインスタンスメソッドの例",
-    "url": "https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07",
-    "likes_count": 298,
-    "created_at": "2015-06-30T23:23:51+09:00",
-    "updated_at": "2015-06-30T23:23:51+09:00",
-    "id": "tbpgr"
   },
   {
     "title": "秋のiOS 9対応リリースに向けて、iOSアプリ開発者が今からやっておくべきことまとめ",
@@ -570,7 +570,7 @@
   {
     "title": "僕はこうやって画面設計書を作ってる（Webシステムにおける簡潔な画面設計書の例）",
     "url": "https://qiita.com/usugita_san/items/80da897afb4c7edab8a5",
-    "likes_count": 251,
+    "likes_count": 252,
     "created_at": "2015-06-23T15:54:40+09:00",
     "updated_at": "2015-06-23T16:42:10+09:00",
     "id": "usugita_san"

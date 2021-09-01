@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5174,
+    "likes_count": 5177,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -50,7 +50,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアになろう",
     "url": "https://qiita.com/rana_kualu/items/19ab559dddbca6674417",
-    "likes_count": 1913,
+    "likes_count": 1914,
     "created_at": "2018-05-22T20:44:08+09:00",
     "updated_at": "2018-11-25T14:16:11+09:00",
     "id": "rana_kualu"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1693,
+    "likes_count": 1694,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1688,
+    "likes_count": 1691,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -90,7 +90,7 @@
   {
     "title": "Chrome デベロッパーツールの Console を使いこなす",
     "url": "https://qiita.com/howdy39/items/c22c2cfafab88fa73d15",
-    "likes_count": 1055,
+    "likes_count": 1056,
     "created_at": "2018-05-20T18:42:30+09:00",
     "updated_at": "2018-12-28T23:10:55+09:00",
     "id": "howdy39"
@@ -138,7 +138,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 780,
+    "likes_count": 783,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -154,7 +154,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 754,
+    "likes_count": 755,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -234,7 +234,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/takahiro1127/items/fcb81753eaf381b4b33c",
-    "likes_count": 605,
+    "likes_count": 606,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "takahiro1127"
@@ -274,7 +274,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 584,
+    "likes_count": 585,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -496,20 +496,20 @@
     "id": "akiyoshi_sasaki"
   },
   {
+    "title": "PWAをもっと簡単に初めてみる",
+    "url": "https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474",
+    "likes_count": 332,
+    "created_at": "2018-05-13T23:19:26+09:00",
+    "updated_at": "2021-02-21T14:44:36+09:00",
+    "id": "poster-keisuke"
+  },
+  {
     "title": "VirtualBox のネットワークアダプタまとめ",
     "url": "https://qiita.com/pitao/items/0f9475e4c0e230911eb7",
     "likes_count": 330,
     "created_at": "2018-05-01T14:40:59+09:00",
     "updated_at": "2021-01-01T22:57:59+09:00",
     "id": "pitao"
-  },
-  {
-    "title": "PWAをもっと簡単に初めてみる",
-    "url": "https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474",
-    "likes_count": 330,
-    "created_at": "2018-05-13T23:19:26+09:00",
-    "updated_at": "2021-02-21T14:44:36+09:00",
-    "id": "poster-keisuke"
   },
   {
     "title": "Pythonで例外を投げるときのベストプラクティス",
@@ -538,7 +538,7 @@
   {
     "title": "git を初めて使う時 コミット→プッシュ→マージ　の流れ",
     "url": "https://qiita.com/yukiyoshimura/items/7aa4a8f8db493ab97c2b",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2018-05-13T21:59:51+09:00",
     "updated_at": "2018-05-13T22:05:49+09:00",
     "id": "yukiyoshimura"
