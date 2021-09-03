@@ -18,7 +18,7 @@
   {
     "title": "iPadでプログラミングしてる人、今まで馬鹿にしててすみませんでしたァァァァ!!!!",
     "url": "https://qiita.com/Mahito6/items/94c5720a7d477eb4c2f1",
-    "likes_count": 2051,
+    "likes_count": 2053,
     "created_at": "2019-03-04T19:55:49+09:00",
     "updated_at": "2019-07-18T09:42:29+09:00",
     "id": "Mahito6"
@@ -34,7 +34,7 @@
   {
     "title": "ブラウザレンダリング入門〜知ることで見える世界〜",
     "url": "https://qiita.com/codemafia0000/items/caed57ec30d638e40728",
-    "likes_count": 1774,
+    "likes_count": 1773,
     "created_at": "2019-03-16T10:02:27+09:00",
     "updated_at": "2019-03-27T19:30:03+09:00",
     "id": "codemafia0000"
@@ -50,7 +50,7 @@
   {
     "title": "2019年版Vue.jsを使ってる人には必ず知っていてほしいVue.jsの武器とドキュメントに書かれていないコンポーネントやメンテナンスの際に役立つTips",
     "url": "https://qiita.com/kahirokunn/items/6b4834b9a13406535f32",
-    "likes_count": 1681,
+    "likes_count": 1680,
     "created_at": "2019-03-01T19:00:42+09:00",
     "updated_at": "2020-05-02T01:51:17+09:00",
     "id": "kahirokunn"
@@ -58,7 +58,7 @@
   {
     "title": "量子コンピュータエンジニア始めて5年が経った",
     "url": "https://qiita.com/YuichiroMinato/items/7192a15505d15409e904",
-    "likes_count": 1379,
+    "likes_count": 1378,
     "created_at": "2019-03-09T15:42:33+09:00",
     "updated_at": "2019-03-13T23:38:09+09:00",
     "id": "YuichiroMinato"
@@ -66,7 +66,7 @@
   {
     "title": "実践/現場のPythonスクレイピング",
     "url": "https://qiita.com/ulwlu/items/c84501993635c72540a7",
-    "likes_count": 1376,
+    "likes_count": 1377,
     "created_at": "2019-03-18T13:10:31+09:00",
     "updated_at": "2021-06-18T11:17:31+09:00",
     "id": "ulwlu"
@@ -98,7 +98,7 @@
   {
     "title": "３週間でAWS認定ソリューションアーキテクト-アソシエイト-とったので、勉強法などまとめてみる",
     "url": "https://qiita.com/fukubaka0825/items/238225f9e4c1962bc00c",
-    "likes_count": 1241,
+    "likes_count": 1242,
     "created_at": "2019-03-31T01:56:05+09:00",
     "updated_at": "2021-06-06T15:10:04+09:00",
     "id": "fukubaka0825"
@@ -122,7 +122,7 @@
   {
     "title": "3歳娘「パパ、関数をカリー化して？」",
     "url": "https://qiita.com/Yametaro/items/99cc1c8ebcfc703b1410",
-    "likes_count": 1040,
+    "likes_count": 1041,
     "created_at": "2019-03-24T23:14:51+09:00",
     "updated_at": "2019-03-25T10:58:14+09:00",
     "id": "Yametaro"
@@ -162,7 +162,7 @@
   {
     "title": "VSCodeでなるべくマウスを使わない開発環境をがんばる",
     "url": "https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353",
-    "likes_count": 859,
+    "likes_count": 860,
     "created_at": "2019-03-11T07:44:47+09:00",
     "updated_at": "2021-01-23T18:43:42+09:00",
     "id": "y-tsutsu"
@@ -258,7 +258,7 @@
   {
     "title": "TypeScript の概要",
     "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 641,
+    "likes_count": 642,
     "created_at": "2019-03-18T13:33:09+09:00",
     "updated_at": "2019-07-18T07:59:21+09:00",
     "id": "EBIHARA_kenji"
@@ -298,7 +298,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(導入編)",
     "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
-    "likes_count": 613,
+    "likes_count": 614,
     "created_at": "2019-03-27T22:24:09+09:00",
     "updated_at": "2020-03-30T18:47:49+09:00",
     "id": "AokabiC"
@@ -394,10 +394,18 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 429,
+    "likes_count": 431,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
+  },
+  {
+    "title": "全言語で気をつけるべき、ファイル書き込み時のお作法",
+    "url": "https://qiita.com/kazupaka/items/b6479f3f8d13347bf867",
+    "likes_count": 427,
+    "created_at": "2019-03-03T22:06:02+09:00",
+    "updated_at": "2020-07-01T01:23:27+09:00",
+    "id": "kazupaka"
   },
   {
     "title": "JavaScript で陥りやすい失敗例を振り返る",
@@ -406,14 +414,6 @@
     "created_at": "2019-03-15T19:39:37+09:00",
     "updated_at": "2019-03-17T10:14:46+09:00",
     "id": "yuki153"
-  },
-  {
-    "title": "全言語で気をつけるべき、ファイル書き込み時のお作法",
-    "url": "https://qiita.com/kazupaka/items/b6479f3f8d13347bf867",
-    "likes_count": 426,
-    "created_at": "2019-03-03T22:06:02+09:00",
-    "updated_at": "2020-07-01T01:23:27+09:00",
-    "id": "kazupaka"
   },
   {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
@@ -498,7 +498,7 @@
   {
     "title": "【INNER JOIN, LEFT JOIN , RIGHT JOIN】テーブル結合の挙動をまとめてみた【SQL】",
     "url": "https://qiita.com/ngron/items/db4947fb0551f21321c0",
-    "likes_count": 365,
+    "likes_count": 368,
     "created_at": "2019-03-14T14:28:22+09:00",
     "updated_at": "2019-10-18T19:42:54+09:00",
     "id": "ngron"
@@ -538,7 +538,7 @@
   {
     "title": "【入門】Redis",
     "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 335,
+    "likes_count": 336,
     "created_at": "2019-03-22T16:43:36+09:00",
     "updated_at": "2020-09-14T17:26:22+09:00",
     "id": "wind-up-bird"

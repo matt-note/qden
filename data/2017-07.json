@@ -2,7 +2,7 @@
   {
     "title": "一番分かりやすい OAuth の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be",
-    "likes_count": 7074,
+    "likes_count": 7079,
     "created_at": "2017-07-14T06:21:33+09:00",
     "updated_at": "2020-03-20T15:05:04+09:00",
     "id": "TakahikoKawasaki"
@@ -26,7 +26,7 @@
   {
     "title": "一番分かりやすい OpenID Connect の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe",
-    "likes_count": 1974,
+    "likes_count": 1977,
     "created_at": "2017-07-24T04:19:55+09:00",
     "updated_at": "2020-03-20T15:05:48+09:00",
     "id": "TakahikoKawasaki"
@@ -34,7 +34,7 @@
   {
     "title": "JavaScript の this を理解する多分一番分かりやすい説明",
     "url": "https://qiita.com/takkyun/items/c6e2f2cf25327299cf03",
-    "likes_count": 1272,
+    "likes_count": 1274,
     "created_at": "2017-07-30T06:55:45+09:00",
     "updated_at": "2018-10-15T04:31:34+09:00",
     "id": "takkyun"
@@ -106,7 +106,7 @@
   {
     "title": "【これだけ覚えてたらOK！】SQL構文まとめ",
     "url": "https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd",
-    "likes_count": 675,
+    "likes_count": 676,
     "created_at": "2017-07-05T21:25:24+09:00",
     "updated_at": "2020-11-07T11:02:57+09:00",
     "id": "tatsuya4150"
@@ -120,20 +120,20 @@
     "id": "devneko"
   },
   {
+    "title": "Awesome Ruby : 素晴しい Ruby のライブラリ・ツール・フレームワーク・ソフトウェアの数々",
+    "url": "https://qiita.com/hatai/items/62766145f2e24fa1c246",
+    "likes_count": 637,
+    "created_at": "2017-07-24T10:27:28+09:00",
+    "updated_at": "2020-06-02T20:06:10+09:00",
+    "id": "hatai"
+  },
+  {
     "title": "これからはcssはSassで書こう。",
     "url": "https://qiita.com/m0nch1/items/b01c966dd2273e3f6abe",
     "likes_count": 637,
     "created_at": "2017-07-25T11:52:02+09:00",
     "updated_at": "2018-08-08T09:01:02+09:00",
     "id": "m0nch1"
-  },
-  {
-    "title": "Awesome Ruby : 素晴しい Ruby のライブラリ・ツール・フレームワーク・ソフトウェアの数々",
-    "url": "https://qiita.com/hatai/items/62766145f2e24fa1c246",
-    "likes_count": 636,
-    "created_at": "2017-07-24T10:27:28+09:00",
-    "updated_at": "2020-06-02T20:06:10+09:00",
-    "id": "hatai"
   },
   {
     "title": "Pythonの可視化ツールはHoloViewsが標準になるかもしれない",
@@ -154,7 +154,7 @@
   {
     "title": "【いまさらですが】package.jsonのdependenciesとdevDependencies",
     "url": "https://qiita.com/chihiro/items/ca1529f9b3d016af53ec",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2017-07-21T22:26:42+09:00",
     "updated_at": "2019-08-28T08:50:02+09:00",
     "id": "chihiro"
@@ -186,7 +186,7 @@
   {
     "title": "Pythonの並列・並行処理サンプルコードまとめ",
     "url": "https://qiita.com/castaneai/items/9cc33817419896667f34",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2017-07-29T20:41:40+09:00",
     "updated_at": "2018-09-19T00:24:08+09:00",
     "id": "castaneai"
@@ -338,7 +338,7 @@
   {
     "title": "Bash の if 文（test文）のオプションを整理してみた",
     "url": "https://qiita.com/wakayama-y/items/a9b7380263da77e51711",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2017-07-12T18:50:28+09:00",
     "updated_at": "2017-07-13T20:29:22+09:00",
     "id": "wakayama-y"

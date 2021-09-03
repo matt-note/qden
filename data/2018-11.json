@@ -34,7 +34,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1586,
+    "likes_count": 1587,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2021-04-25T17:54:48+09:00",
     "id": "elipmoc101"
@@ -50,7 +50,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1419,
+    "likes_count": 1420,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -58,7 +58,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1371,
+    "likes_count": 1372,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -106,7 +106,7 @@
   {
     "title": "Git/GitHubレベル別オススメ学習サイトまとめ完全保存版【2019.06】",
     "url": "https://qiita.com/thinkalot/items/b3c2e9060f46f5d4ea46",
-    "likes_count": 1061,
+    "likes_count": 1063,
     "created_at": "2018-11-24T14:40:32+09:00",
     "updated_at": "2020-01-13T03:12:52+09:00",
     "id": "thinkalot"
@@ -122,7 +122,7 @@
   {
     "title": "汎用言語表現モデルBERTを日本語で動かす(PyTorch)",
     "url": "https://qiita.com/Kosuke-Szk/items/4b74b5cce84f423b7125",
-    "likes_count": 1014,
+    "likes_count": 1015,
     "created_at": "2018-11-01T19:35:25+09:00",
     "updated_at": "2018-11-27T21:46:51+09:00",
     "id": "Kosuke-Szk"
@@ -170,7 +170,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 741,
+    "likes_count": 742,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -266,7 +266,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 535,
+    "likes_count": 537,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -298,7 +298,7 @@
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
     "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 499,
+    "likes_count": 503,
     "created_at": "2018-11-18T19:13:03+09:00",
     "updated_at": "2019-10-05T07:32:56+09:00",
     "id": "kd9951"
@@ -496,6 +496,14 @@
     "id": "firedfly"
   },
   {
+    "title": "Laravelで始める依存性の注入（DI）",
+    "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
+    "likes_count": 307,
+    "created_at": "2018-11-30T15:37:00+09:00",
+    "updated_at": "2020-08-03T21:31:08+09:00",
+    "id": "harunbu"
+  },
+  {
     "title": "[初心者向け]流行りのプログラミング言語の一言概要(2018年版)",
     "url": "https://qiita.com/ryuichi1208/items/cecd868dfa53c9808777",
     "likes_count": 306,
@@ -504,17 +512,9 @@
     "id": "ryuichi1208"
   },
   {
-    "title": "Laravelで始める依存性の注入（DI）",
-    "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
-    "likes_count": 306,
-    "created_at": "2018-11-30T15:37:00+09:00",
-    "updated_at": "2020-08-03T21:31:08+09:00",
-    "id": "harunbu"
-  },
-  {
     "title": "【Ruby on Rails】N+1問題ってなんだ？",
     "url": "https://qiita.com/massaaaaan/items/4eb770f20e636f7a1361",
-    "likes_count": 302,
+    "likes_count": 305,
     "created_at": "2018-11-20T22:06:41+09:00",
     "updated_at": "2018-11-20T22:06:41+09:00",
     "id": "massaaaaan"

@@ -42,7 +42,7 @@
   {
     "title": "システムで「性別」の情報を扱う前に知っておくべきこと",
     "url": "https://qiita.com/aoshirobo/items/32deb45cb8c8b87d65a4",
-    "likes_count": 1834,
+    "likes_count": 1835,
     "created_at": "2018-04-11T18:02:03+09:00",
     "updated_at": "2019-10-01T10:02:00+09:00",
     "id": "aoshirobo"
@@ -122,7 +122,7 @@
   {
     "title": "ngrokが便利すぎる",
     "url": "https://qiita.com/mininobu/items/b45dbc70faedf30f484e",
-    "likes_count": 1055,
+    "likes_count": 1056,
     "created_at": "2018-04-15T00:55:28+09:00",
     "updated_at": "2018-04-15T00:55:28+09:00",
     "id": "mininobu"
@@ -162,7 +162,7 @@
   {
     "title": "[Python]可読性を上げるための、docstringの書き方を学ぶ（NumPyスタイル）",
     "url": "https://qiita.com/simonritchie/items/49e0813508cad4876b5a",
-    "likes_count": 911,
+    "likes_count": 912,
     "created_at": "2018-04-01T23:34:45+09:00",
     "updated_at": "2020-05-22T19:10:56+09:00",
     "id": "simonritchie"
@@ -186,10 +186,18 @@
   {
     "title": "物体検出についての歴史まとめ(1)",
     "url": "https://qiita.com/mshinoda88/items/9770ee671ea27f2c81a9",
-    "likes_count": 843,
+    "likes_count": 844,
     "created_at": "2018-04-17T21:14:51+09:00",
     "updated_at": "2021-01-15T00:25:15+09:00",
     "id": "mshinoda88"
+  },
+  {
+    "title": "排他制御（楽観ロック・悲観ロック）の基礎　",
+    "url": "https://qiita.com/NagaokaKenichi/items/73040df85b7bd4e9ecfc",
+    "likes_count": 832,
+    "created_at": "2018-04-08T18:17:21+09:00",
+    "updated_at": "2018-04-09T08:59:54+09:00",
+    "id": "NagaokaKenichi"
   },
   {
     "title": "保育園落ちたアラフォーがプログラミングを学び、2か月でWebサービスを作った話",
@@ -198,14 +206,6 @@
     "created_at": "2018-04-25T13:11:54+09:00",
     "updated_at": "2018-05-09T23:38:28+09:00",
     "id": "aocory"
-  },
-  {
-    "title": "排他制御（楽観ロック・悲観ロック）の基礎　",
-    "url": "https://qiita.com/NagaokaKenichi/items/73040df85b7bd4e9ecfc",
-    "likes_count": 831,
-    "created_at": "2018-04-08T18:17:21+09:00",
-    "updated_at": "2018-04-09T08:59:54+09:00",
-    "id": "NagaokaKenichi"
   },
   {
     "title": "チーム開発におけるプルリクの作法",
@@ -226,7 +226,7 @@
   {
     "title": "Rails5.2から追加された credentials.yml.enc のキホン",
     "url": "https://qiita.com/NaokiIshimura/items/2a179f2ab910992c4d39",
-    "likes_count": 698,
+    "likes_count": 699,
     "created_at": "2018-04-12T22:24:26+09:00",
     "updated_at": "2020-11-16T02:00:48+09:00",
     "id": "NaokiIshimura"
@@ -354,7 +354,7 @@
   {
     "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
     "url": "https://qiita.com/drken/items/97e37dd6143e33a64c8c",
-    "likes_count": 496,
+    "likes_count": 498,
     "created_at": "2018-04-20T10:48:11+09:00",
     "updated_at": "2018-07-04T17:57:29+09:00",
     "id": "drken"
@@ -402,7 +402,7 @@
   {
     "title": "Goで学ぶポインタとアドレス",
     "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2018-04-27T14:31:26+09:00",
     "updated_at": "2019-05-18T15:44:03+09:00",
     "id": "Sekky0905"
@@ -464,20 +464,20 @@
     "id": "Akira-Isegawa"
   },
   {
+    "title": "コピペから脱却して自由に Deep Learning するための TensorFlow 再入門",
+    "url": "https://qiita.com/horiem/items/00ec6488b23895cc4fe2",
+    "likes_count": 381,
+    "created_at": "2018-04-06T19:21:29+09:00",
+    "updated_at": "2018-04-08T04:24:31+09:00",
+    "id": "horiem"
+  },
+  {
     "title": "Visual Studio CodeでVue.jsアプリケーションの開発環境を構築する",
     "url": "https://qiita.com/rubytomato@github/items/b35b819671e7cbb3dff7",
     "likes_count": 381,
     "created_at": "2018-04-24T00:27:32+09:00",
     "updated_at": "2018-06-19T00:03:53+09:00",
     "id": "rubytomato@github"
-  },
-  {
-    "title": "コピペから脱却して自由に Deep Learning するための TensorFlow 再入門",
-    "url": "https://qiita.com/horiem/items/00ec6488b23895cc4fe2",
-    "likes_count": 380,
-    "created_at": "2018-04-06T19:21:29+09:00",
-    "updated_at": "2018-04-08T04:24:31+09:00",
-    "id": "horiem"
   },
   {
     "title": "【詳解】抽象クラスとインタフェースを使いこなそう！！",
@@ -554,7 +554,7 @@
   {
     "title": "新米データサイエンティスト、研修プログラムを考える。",
     "url": "https://qiita.com/s_yaginuma/items/a9c97f62d9bec129c33b",
-    "likes_count": 275,
+    "likes_count": 276,
     "created_at": "2018-04-07T14:10:26+09:00",
     "updated_at": "2018-04-07T14:10:26+09:00",
     "id": "s_yaginuma"

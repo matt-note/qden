@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2703,
+    "likes_count": 2706,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -34,7 +34,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1413,
+    "likes_count": 1412,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -42,7 +42,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1344,
+    "likes_count": 1346,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2021-08-06T20:04:22+09:00",
     "id": "teradonburi"
@@ -154,7 +154,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 966,
+    "likes_count": 965,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -170,7 +170,7 @@
   {
     "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
     "url": "https://qiita.com/yumetodo/items/54e1a8230dbf513ea85b",
-    "likes_count": 936,
+    "likes_count": 935,
     "created_at": "2018-12-22T19:33:18+09:00",
     "updated_at": "2019-08-08T12:41:02+09:00",
     "id": "yumetodo"
@@ -194,7 +194,7 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 885,
+    "likes_count": 886,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2018-12-10T02:50:46+09:00",
     "id": "Maki-Daisuke"
@@ -234,7 +234,7 @@
   {
     "title": "2018年版もっとも参考になった機械学習系記事ベスト10",
     "url": "https://qiita.com/junichiro/items/67ddf03014597552d78b",
-    "likes_count": 681,
+    "likes_count": 680,
     "created_at": "2018-12-05T09:02:59+09:00",
     "updated_at": "2018-12-06T13:52:35+09:00",
     "id": "junichiro"
@@ -242,7 +242,7 @@
   {
     "title": "2018年これだけは知っておきたいiOSライブラリ31選",
     "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
-    "likes_count": 672,
+    "likes_count": 671,
     "created_at": "2018-12-12T19:17:50+09:00",
     "updated_at": "2019-03-18T13:42:44+09:00",
     "id": "kohei1218"
@@ -376,20 +376,20 @@
     "id": "gushwell"
   },
   {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 483,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2021-07-12T12:15:57+09:00",
+    "id": "syantien"
+  },
+  {
     "title": "その機械学習プロセス、自動化できませんか？",
     "url": "https://qiita.com/Hironsan/items/30fe09c85da8a28ebd63",
     "likes_count": 482,
     "created_at": "2018-12-03T22:32:16+09:00",
     "updated_at": "2018-12-05T10:36:47+09:00",
     "id": "Hironsan"
-  },
-  {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 480,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2021-07-12T12:15:57+09:00",
-    "id": "syantien"
   },
   {
     "title": "Github Actionsが使えるようになったので使ってみる",
@@ -506,7 +506,7 @@
   {
     "title": "Ruby on Rails 6の主要な新機能・機能追加・変更点",
     "url": "https://qiita.com/ryohashimoto/items/622c3bcfb3336cb9317e",
-    "likes_count": 393,
+    "likes_count": 392,
     "created_at": "2018-12-22T22:11:07+09:00",
     "updated_at": "2019-10-21T18:59:04+09:00",
     "id": "ryohashimoto"
@@ -584,20 +584,20 @@
     "id": "masao-kunii"
   },
   {
+    "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
+    "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
+    "likes_count": 351,
+    "created_at": "2018-12-06T00:54:09+09:00",
+    "updated_at": "2018-12-06T00:55:45+09:00",
+    "id": "yuneco"
+  },
+  {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
     "likes_count": 350,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
-  },
-  {
-    "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
-    "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
-    "likes_count": 350,
-    "created_at": "2018-12-06T00:54:09+09:00",
-    "updated_at": "2018-12-06T00:55:45+09:00",
-    "id": "yuneco"
   },
   {
     "title": "Web API初心者と学ぶGraphQL",
@@ -730,7 +730,7 @@
   {
     "title": "Railsでフォロー機能を作る方法",
     "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
-    "likes_count": 288,
+    "likes_count": 289,
     "created_at": "2018-12-08T19:30:47+09:00",
     "updated_at": "2020-04-13T00:22:52+09:00",
     "id": "mitsumitsu1128"
@@ -794,7 +794,7 @@
   {
     "title": "ゼロから最先端のAIを理解する方法",
     "url": "https://qiita.com/blacksun174/items/f39c4eca833050756103",
-    "likes_count": 208,
+    "likes_count": 207,
     "created_at": "2018-12-09T12:29:50+09:00",
     "updated_at": "2018-12-12T13:57:47+09:00",
     "id": "blacksun174"
