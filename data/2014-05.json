@@ -2,7 +2,7 @@
   {
     "title": "ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習",
     "url": "https://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7",
-    "likes_count": 8289,
+    "likes_count": 8290,
     "created_at": "2014-05-25T16:52:40+09:00",
     "updated_at": "2019-03-17T00:41:02+09:00",
     "id": "hirokidaichi"
@@ -34,7 +34,7 @@
   {
     "title": "中規模Web開発のためのMVC分割とレイヤアーキテクチャ",
     "url": "https://qiita.com/yuku_t/items/961194a5443b618a4cac",
-    "likes_count": 1812,
+    "likes_count": 1813,
     "created_at": "2014-05-20T14:50:36+09:00",
     "updated_at": "2017-08-15T20:33:23+09:00",
     "id": "yuku_t"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1497,
+    "likes_count": 1499,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2020-07-13T19:44:27+09:00",
     "id": "amedama"
@@ -146,7 +146,7 @@
   {
     "title": "Windowsターミナルソフト + Rlogin が最高すぎる！！",
     "url": "https://qiita.com/murachi1208/items/d6e4ce7ba75f1625fe51",
-    "likes_count": 812,
+    "likes_count": 813,
     "created_at": "2014-05-31T23:00:10+09:00",
     "updated_at": "2020-05-09T19:28:00+09:00",
     "id": "murachi1208"
@@ -162,7 +162,7 @@
   {
     "title": "Google HTML/CSS Style Guide まとめ",
     "url": "https://qiita.com/Sugima/items/785644372397595644ba",
-    "likes_count": 758,
+    "likes_count": 759,
     "created_at": "2014-05-12T15:57:33+09:00",
     "updated_at": "2019-09-17T17:11:33+09:00",
     "id": "Sugima"
@@ -258,7 +258,7 @@
   {
     "title": "Dockerでホストとコンテナ間でのファイルコピー",
     "url": "https://qiita.com/gologo13/items/7e4e404af80377b48fd5",
-    "likes_count": 532,
+    "likes_count": 533,
     "created_at": "2014-06-01T06:26:15+09:00",
     "updated_at": "2016-01-22T11:00:45+09:00",
     "id": "gologo13"
@@ -458,7 +458,7 @@
   {
     "title": "display:none と visibility:hidden の違い",
     "url": "https://qiita.com/rico/items/0f645e84028d4fe00be6",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2014-05-26T13:45:05+09:00",
     "updated_at": "2015-09-14T12:06:50+09:00",
     "id": "rico"
@@ -502,6 +502,14 @@
     "created_at": "2014-05-28T18:55:10+09:00",
     "updated_at": "2014-05-28T19:02:44+09:00",
     "id": "tanakahisateru"
+  },
+  {
+    "title": "C++で簡単非同期処理(std::thread,std::async)",
+    "url": "https://qiita.com/termoshtt/items/d3cb7fe226cdd498d2ef",
+    "likes_count": 268,
+    "created_at": "2014-05-18T15:28:40+09:00",
+    "updated_at": "2014-05-19T13:53:12+09:00",
+    "id": "termoshtt"
   },
   {
     "title": "GitLab と Jenkins を連携する (1)",
