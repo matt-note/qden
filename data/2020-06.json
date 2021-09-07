@@ -10,7 +10,7 @@
   {
     "title": "【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る",
     "url": "https://qiita.com/tomo_makes/items/aafae4021986553ae1d8",
-    "likes_count": 2081,
+    "likes_count": 2083,
     "created_at": "2020-06-28T19:25:44+09:00",
     "updated_at": "2020-07-12T16:23:06+09:00",
     "id": "tomo_makes"
@@ -26,10 +26,18 @@
   {
     "title": "Dockerイメージの理解を目指すチュートリアル",
     "url": "https://qiita.com/zembutsu/items/24558f9d0d254e33088f",
-    "likes_count": 1596,
+    "likes_count": 1598,
     "created_at": "2020-06-13T17:30:02+09:00",
     "updated_at": "2020-06-24T16:25:34+09:00",
     "id": "zembutsu"
+  },
+  {
+    "title": "「ビジネスロジック」とは何か、どう実装するのか",
+    "url": "https://qiita.com/os1ma/items/25725edfe3c2af93d735",
+    "likes_count": 1442,
+    "created_at": "2020-06-27T18:48:53+09:00",
+    "updated_at": "2021-05-23T10:52:57+09:00",
+    "id": "os1ma"
   },
   {
     "title": "ワイ「何でそんな小っさいコンポーネント作ってるん？ｗ」",
@@ -40,17 +48,9 @@
     "id": "Yametaro"
   },
   {
-    "title": "「ビジネスロジック」とは何か、どう実装するのか",
-    "url": "https://qiita.com/os1ma/items/25725edfe3c2af93d735",
-    "likes_count": 1441,
-    "created_at": "2020-06-27T18:48:53+09:00",
-    "updated_at": "2021-05-23T10:52:57+09:00",
-    "id": "os1ma"
-  },
-  {
     "title": "【初アプリ】未経験がFlutterで肉牛繁殖農家のためのアプリを作ってみた",
     "url": "https://qiita.com/hara_taku_/items/dbb168b14d1008396a0d",
-    "likes_count": 1290,
+    "likes_count": 1291,
     "created_at": "2020-06-30T11:25:34+09:00",
     "updated_at": "2021-01-19T09:15:42+09:00",
     "id": "hara_taku_"
@@ -90,7 +90,7 @@
   {
     "title": "Reactのレンダリングに関する完全ガイド",
     "url": "https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5",
-    "likes_count": 933,
+    "likes_count": 934,
     "created_at": "2020-06-22T21:54:17+09:00",
     "updated_at": "2020-06-24T18:30:05+09:00",
     "id": "hellokenta"
@@ -144,20 +144,20 @@
     "id": "Takayoshi_Makabe"
   },
   {
+    "title": "待ってました CUDA on WSL 2",
+    "url": "https://qiita.com/ksasaki/items/ee864abd74f95fea1efa",
+    "likes_count": 599,
+    "created_at": "2020-06-19T00:04:23+09:00",
+    "updated_at": "2021-09-07T07:50:08+09:00",
+    "id": "ksasaki"
+  },
+  {
     "title": "【自動化】PDF内の表をPythonで抜き出す",
     "url": "https://qiita.com/konitech913/items/4ef70e1f7753c824b40f",
     "likes_count": 597,
     "created_at": "2020-06-28T10:47:22+09:00",
     "updated_at": "2021-08-08T06:53:06+09:00",
     "id": "konitech913"
-  },
-  {
-    "title": "待ってました CUDA on WSL 2",
-    "url": "https://qiita.com/ksasaki/items/ee864abd74f95fea1efa",
-    "likes_count": 596,
-    "created_at": "2020-06-19T00:04:23+09:00",
-    "updated_at": "2021-09-05T10:19:38+09:00",
-    "id": "ksasaki"
   },
   {
     "title": "開発チームの生産性・健全性を客観的に知るためにリポジトリ履歴から機械的に可視化するツールを作った",
@@ -282,7 +282,7 @@
   {
     "title": "家の中のセンサデータをRaspberryPiで取得しまくり、スーパーIoTハウスを実現",
     "url": "https://qiita.com/c60evaporator/items/283d0569eba58830f86e",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2020-06-05T22:27:35+09:00",
     "updated_at": "2021-08-13T18:10:53+09:00",
     "id": "c60evaporator"
