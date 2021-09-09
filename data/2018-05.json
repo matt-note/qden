@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2798,
+    "likes_count": 2799,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2425,
+    "likes_count": 2426,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2020-07-25T13:47:36+09:00",
     "id": "tani_AI_Academy"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1698,
+    "likes_count": 1699,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1697,
+    "likes_count": 1698,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -74,7 +74,7 @@
   {
     "title": "Dockerについてなるべくわかりやすく説明する",
     "url": "https://qiita.com/rawHam/items/80ba13d2d2d56dba411e",
-    "likes_count": 1418,
+    "likes_count": 1417,
     "created_at": "2018-05-12T19:51:25+09:00",
     "updated_at": "2019-09-13T09:56:44+09:00",
     "id": "rawHam"
@@ -82,7 +82,7 @@
   {
     "title": "就活のためにWEBサービスを作ったら、転職できた以上の価値をもたらしてくれた話",
     "url": "https://qiita.com/kd9951/items/92cc7bb14c1fbfcb6dab",
-    "likes_count": 1291,
+    "likes_count": 1290,
     "created_at": "2018-05-09T00:15:17+09:00",
     "updated_at": "2018-05-10T20:10:23+09:00",
     "id": "kd9951"
@@ -114,7 +114,7 @@
   {
     "title": "学生でもできる！Webサービスの開発・リリースするまでの道のり",
     "url": "https://qiita.com/minakawa-daiki/items/1d7b840c0850ec7c834c",
-    "likes_count": 936,
+    "likes_count": 937,
     "created_at": "2018-05-05T19:32:23+09:00",
     "updated_at": "2018-05-06T16:16:51+09:00",
     "id": "minakawa-daiki"
@@ -170,7 +170,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 713,
+    "likes_count": 715,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -178,7 +178,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 702,
+    "likes_count": 703,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -208,20 +208,20 @@
     "id": "uint256_t"
   },
   {
+    "title": "docker と docker-compose の初歩",
+    "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
+    "likes_count": 663,
+    "created_at": "2018-05-26T16:12:48+09:00",
+    "updated_at": "2021-08-18T14:03:43+09:00",
+    "id": "hiyuzawa"
+  },
+  {
     "title": "小中高大生にプログラミング教育をしてきて分かったこと",
     "url": "https://qiita.com/Kyome/items/138b6c897f191c0e95a5",
     "likes_count": 663,
     "created_at": "2018-05-30T20:00:26+09:00",
     "updated_at": "2019-12-22T23:12:26+09:00",
     "id": "Kyome"
-  },
-  {
-    "title": "docker と docker-compose の初歩",
-    "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 662,
-    "created_at": "2018-05-26T16:12:48+09:00",
-    "updated_at": "2021-08-18T14:03:43+09:00",
-    "id": "hiyuzawa"
   },
   {
     "title": "FizzBuzzを1byteで実装する",
@@ -234,7 +234,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/takahiro1127/items/fcb81753eaf381b4b33c",
-    "likes_count": 610,
+    "likes_count": 611,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "takahiro1127"
@@ -274,7 +274,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 587,
+    "likes_count": 589,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -378,7 +378,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -426,7 +426,7 @@
   {
     "title": "FizzBuzz Zero ―― 人類の知識なしでFizzBuzzをマスターする",
     "url": "https://qiita.com/ymg_aq/items/d276357823f5b2ce46c5",
-    "likes_count": 419,
+    "likes_count": 418,
     "created_at": "2018-05-10T17:14:38+09:00",
     "updated_at": "2018-05-12T09:45:02+09:00",
     "id": "ymg_aq"
@@ -538,7 +538,7 @@
   {
     "title": "git を初めて使う時 コミット→プッシュ→マージ　の流れ",
     "url": "https://qiita.com/yukiyoshimura/items/7aa4a8f8db493ab97c2b",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2018-05-13T21:59:51+09:00",
     "updated_at": "2018-05-13T22:05:49+09:00",
     "id": "yukiyoshimura"
@@ -570,7 +570,7 @@
   {
     "title": "Dockerコマンド よく使うやつ",
     "url": "https://qiita.com/Esfahan/items/52141a2ad741933d7d4c",
-    "likes_count": 248,
+    "likes_count": 249,
     "created_at": "2018-05-07T16:57:11+09:00",
     "updated_at": "2021-07-14T14:40:03+09:00",
     "id": "Esfahan"

@@ -10,7 +10,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2590,
+    "likes_count": 2591,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -34,7 +34,7 @@
   {
     "title": "未経験者が認識してなさそうなTIPS",
     "url": "https://qiita.com/Nao9syu/items/0950527548a08ff9d8c9",
-    "likes_count": 1238,
+    "likes_count": 1237,
     "created_at": "2018-01-25T15:48:23+09:00",
     "updated_at": "2018-07-17T09:28:46+09:00",
     "id": "Nao9syu"
@@ -58,7 +58,7 @@
   {
     "title": "転職ドラフトで1000万円超えのオファーを2度貰ったエンジニアが「評価された理由」と「正社員で働く意味」について考えてみました。",
     "url": "https://qiita.com/poly_soft/items/a6db13a6e18efc1e7db8",
-    "likes_count": 890,
+    "likes_count": 891,
     "created_at": "2018-01-21T16:56:05+09:00",
     "updated_at": "2019-03-11T19:39:10+09:00",
     "id": "poly_soft"
@@ -82,7 +82,7 @@
   {
     "title": "未経験から4年働きながら、読んでよかった読み物",
     "url": "https://qiita.com/Nao9syu/items/0bedec7a749ab2d8123a",
-    "likes_count": 772,
+    "likes_count": 771,
     "created_at": "2018-01-24T15:03:19+09:00",
     "updated_at": "2018-07-17T09:25:53+09:00",
     "id": "Nao9syu"
@@ -96,20 +96,20 @@
     "id": "code_440"
   },
   {
+    "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
+    "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
+    "likes_count": 731,
+    "created_at": "2018-01-05T19:53:26+09:00",
+    "updated_at": "2020-03-12T13:17:09+09:00",
+    "id": "suin"
+  },
+  {
     "title": "認定スクラムマスターの俺が正しいスクラムの理論をまとめてみた",
     "url": "https://qiita.com/gold-kou/items/90ba982a14ca79d843c9",
     "likes_count": 731,
     "created_at": "2018-01-26T15:42:01+09:00",
     "updated_at": "2021-04-15T08:49:53+09:00",
     "id": "gold-kou"
-  },
-  {
-    "title": "Promiseの使い方、それに代わるasync/awaitの使い方",
-    "url": "https://qiita.com/suin/items/97041d3e0691c12f4974",
-    "likes_count": 730,
-    "created_at": "2018-01-05T19:53:26+09:00",
-    "updated_at": "2020-03-12T13:17:09+09:00",
-    "id": "suin"
   },
   {
     "title": "ノンデザイナーでもイケてるLPを作成する方法",
@@ -138,7 +138,7 @@
   {
     "title": "ガチ素人が1ヶ月でディープラーニングのジェネラリストになった話",
     "url": "https://qiita.com/kemi/items/c8469e3ea8c02dd9fed2",
-    "likes_count": 649,
+    "likes_count": 648,
     "created_at": "2018-01-11T00:05:10+09:00",
     "updated_at": "2018-06-25T23:13:54+09:00",
     "id": "kemi"
@@ -242,7 +242,7 @@
   {
     "title": "JSのスプレッド構文を理解する",
     "url": "https://qiita.com/akisx/items/682a4283c13fe336c547",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2018-01-20T15:37:58+09:00",
     "updated_at": "2019-12-04T22:30:22+09:00",
     "id": "akisx"
@@ -250,7 +250,7 @@
   {
     "title": "viコマンド（vimコマンド）リファレンス",
     "url": "https://qiita.com/pe-ta/items/0510bee10bcfd88afeee",
-    "likes_count": 465,
+    "likes_count": 467,
     "created_at": "2018-01-23T13:50:14+09:00",
     "updated_at": "2020-04-20T19:10:29+09:00",
     "id": "pe-ta"
@@ -274,7 +274,7 @@
   {
     "title": "anyenv + macOS環境構築",
     "url": "https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2018-01-12T14:53:20+09:00",
     "updated_at": "2021-02-09T14:54:39+09:00",
     "id": "rinpa"
@@ -370,7 +370,7 @@
   {
     "title": "Pythonのcopyとdeepcopyについて",
     "url": "https://qiita.com/Kaz_K/items/a3d619b9e670e689b6db",
-    "likes_count": 358,
+    "likes_count": 359,
     "created_at": "2018-01-12T23:48:58+09:00",
     "updated_at": "2018-01-13T08:27:28+09:00",
     "id": "Kaz_K"
@@ -378,7 +378,7 @@
   {
     "title": "ゼロから考える脆弱性対応",
     "url": "https://qiita.com/t_nakayama0714/items/16f987742e8e3ee48ffd",
-    "likes_count": 340,
+    "likes_count": 339,
     "created_at": "2018-01-16T01:18:29+09:00",
     "updated_at": "2018-01-24T01:48:16+09:00",
     "id": "t_nakayama0714"

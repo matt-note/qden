@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 4044,
+    "likes_count": 4046,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2673,
+    "likes_count": 2676,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2607,
+    "likes_count": 2608,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -66,7 +66,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1582,
+    "likes_count": 1587,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -90,7 +90,7 @@
   {
     "title": "Ubuntuに最新のNode.jsを難なくインストールする",
     "url": "https://qiita.com/seibe/items/36cef7df85fe2cefa3ea",
-    "likes_count": 1356,
+    "likes_count": 1358,
     "created_at": "2015-12-11T01:45:30+09:00",
     "updated_at": "2019-02-10T15:24:12+09:00",
     "id": "seibe"
@@ -122,7 +122,7 @@
   {
     "title": "さいきょうの二重サブミット対策",
     "url": "https://qiita.com/syobochim/items/120109315f671918f28d",
-    "likes_count": 1230,
+    "likes_count": 1231,
     "created_at": "2015-12-23T00:06:40+09:00",
     "updated_at": "2015-12-23T11:28:45+09:00",
     "id": "syobochim"
@@ -130,7 +130,7 @@
   {
     "title": "本物の golang を... 本物の Gopher を、お見せしますよ。",
     "url": "https://qiita.com/mattn/items/b7889e3c036b408ae8bd",
-    "likes_count": 1198,
+    "likes_count": 1199,
     "created_at": "2015-12-17T00:00:44+09:00",
     "updated_at": "2017-02-03T12:32:49+09:00",
     "id": "mattn"
@@ -162,7 +162,7 @@
   {
     "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発",
     "url": "https://qiita.com/nkjm/items/723990c518acfee6e473",
-    "likes_count": 1047,
+    "likes_count": 1049,
     "created_at": "2015-12-29T17:47:24+09:00",
     "updated_at": "2016-02-13T11:49:00+09:00",
     "id": "nkjm"
@@ -258,7 +258,7 @@
   {
     "title": "Laravelのバリデーションで指定できる内容をざっくりまとめ直しました。",
     "url": "https://qiita.com/fagai/items/9904409d3703ef6f79a2",
-    "likes_count": 672,
+    "likes_count": 674,
     "created_at": "2015-12-18T19:22:27+09:00",
     "updated_at": "2020-09-12T20:25:40+09:00",
     "id": "fagai"
@@ -378,7 +378,7 @@
   {
     "title": "PHPのリリース日とサポート期限",
     "url": "https://qiita.com/bezeklik/items/72d1ff8393f66673e2bc",
-    "likes_count": 467,
+    "likes_count": 469,
     "created_at": "2015-12-14T11:55:09+09:00",
     "updated_at": "2021-08-16T11:30:15+09:00",
     "id": "bezeklik"
@@ -480,20 +480,20 @@
     "id": "rezoolab"
   },
   {
-    "title": "エンジニア経験がなくても自分でコード書いて起業する方法",
-    "url": "https://qiita.com/dice-sasaki@github/items/c7756f04b5da57fd5b1b",
-    "likes_count": 413,
-    "created_at": "2015-12-16T00:03:26+09:00",
-    "updated_at": "2015-12-16T00:22:23+09:00",
-    "id": "dice-sasaki@github"
-  },
-  {
     "title": "namespaceの賢い使い方",
     "url": "https://qiita.com/_EnumHack/items/430da105a541f9ecd774",
     "likes_count": 413,
     "created_at": "2015-12-24T03:59:50+09:00",
     "updated_at": "2020-05-28T18:15:40+09:00",
     "id": "_EnumHack"
+  },
+  {
+    "title": "エンジニア経験がなくても自分でコード書いて起業する方法",
+    "url": "https://qiita.com/dice-sasaki@github/items/c7756f04b5da57fd5b1b",
+    "likes_count": 412,
+    "created_at": "2015-12-16T00:03:26+09:00",
+    "updated_at": "2015-12-16T00:22:23+09:00",
+    "id": "dice-sasaki@github"
   },
   {
     "title": "slack の /remind 機能まとめ",
@@ -586,7 +586,7 @@
   {
     "title": "CTOという職業の人を採用するときに気をつけるべきこと",
     "url": "https://qiita.com/devopsCoordinator/items/eab253a5fd75b56fdf64",
-    "likes_count": 356,
+    "likes_count": 355,
     "created_at": "2015-12-16T11:34:45+09:00",
     "updated_at": "2016-10-28T10:10:00+09:00",
     "id": "devopsCoordinator"
@@ -794,7 +794,7 @@
   {
     "title": "Visual StudioユーザーがReleaseビルドをするときに必ずやってほしい2つの設定",
     "url": "https://qiita.com/lainzero/items/27681ddc96638e33758b",
-    "likes_count": 243,
+    "likes_count": 244,
     "created_at": "2015-12-30T00:47:13+09:00",
     "updated_at": "2015-12-30T00:48:59+09:00",
     "id": "lainzero"
