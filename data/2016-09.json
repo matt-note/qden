@@ -10,7 +10,7 @@
   {
     "title": "Vue.js を vue-cli を使ってシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/dde495d6a8ad1c25fa43",
-    "likes_count": 2077,
+    "likes_count": 2078,
     "created_at": "2016-09-11T00:09:02+09:00",
     "updated_at": "2021-04-25T18:04:24+09:00",
     "id": "567000"
@@ -18,7 +18,7 @@
   {
     "title": "技術的負債とどうやって戦うか",
     "url": "https://qiita.com/kamykn/items/ad687e772da454e3f614",
-    "likes_count": 1747,
+    "likes_count": 1748,
     "created_at": "2016-09-25T23:43:43+09:00",
     "updated_at": "2016-09-27T11:38:56+09:00",
     "id": "kamykn"
@@ -58,7 +58,7 @@
   {
     "title": "IDトークンが分かれば OpenID Connect が分かる",
     "url": "https://qiita.com/TakahikoKawasaki/items/8f0e422c7edd2d220e06",
-    "likes_count": 1049,
+    "likes_count": 1050,
     "created_at": "2016-09-16T18:41:38+09:00",
     "updated_at": "2020-03-20T15:16:11+09:00",
     "id": "TakahikoKawasaki"
@@ -90,7 +90,7 @@
   {
     "title": "aptコマンドチートシート",
     "url": "https://qiita.com/SUZUKI_Masaya/items/1fd9489e631c78e5b007",
-    "likes_count": 884,
+    "likes_count": 885,
     "created_at": "2016-09-23T15:55:30+09:00",
     "updated_at": "2020-06-27T08:55:38+09:00",
     "id": "SUZUKI_Masaya"
@@ -250,7 +250,7 @@
   {
     "title": "nginxについてまとめ(設定編)",
     "url": "https://qiita.com/morrr/items/7c97f0d2e46f7a8ec967",
-    "likes_count": 588,
+    "likes_count": 589,
     "created_at": "2016-09-08T22:17:25+09:00",
     "updated_at": "2021-07-02T18:11:51+09:00",
     "id": "morrr"
@@ -258,7 +258,7 @@
   {
     "title": "Rubyの文字列とシンボルの違いをキッチリ説明できる人になりたい",
     "url": "https://qiita.com/Kta-M/items/53a13ef60e14fcb41193",
-    "likes_count": 566,
+    "likes_count": 567,
     "created_at": "2016-09-05T09:00:08+09:00",
     "updated_at": "2019-04-07T14:54:30+09:00",
     "id": "Kta-M"
@@ -402,7 +402,7 @@
   {
     "title": "RubyのModuleの使い方とはいったい",
     "url": "https://qiita.com/shiopon01/items/fd6803f792398c5219cd",
-    "likes_count": 369,
+    "likes_count": 370,
     "created_at": "2016-09-15T21:16:56+09:00",
     "updated_at": "2016-09-15T22:04:10+09:00",
     "id": "shiopon01"
@@ -442,7 +442,7 @@
   {
     "title": "SwiftでContainerViewとStoryboardをフル活用して複雑なUIを実現する際の実装ポイントまとめ",
     "url": "https://qiita.com/fumiyasac@github/items/17cbcffd90deee2cff43",
-    "likes_count": 342,
+    "likes_count": 341,
     "created_at": "2016-09-13T04:38:59+09:00",
     "updated_at": "2016-09-18T01:26:26+09:00",
     "id": "fumiyasac@github"
@@ -464,20 +464,20 @@
     "id": "kazuki43zoo"
   },
   {
+    "title": "githubのorganizationアカウントの運営について",
+    "url": "https://qiita.com/chari/items/ee16bf16715f4bbcbd9b",
+    "likes_count": 337,
+    "created_at": "2016-09-16T17:18:26+09:00",
+    "updated_at": "2018-10-16T17:02:20+09:00",
+    "id": "chari"
+  },
+  {
     "title": "Angular CLIによるAngular2入門 / Angular2アプリを爆速開発",
     "url": "https://qiita.com/kitfactory/items/c95ca84371670b21f4ac",
     "likes_count": 337,
     "created_at": "2016-09-18T20:47:03+09:00",
     "updated_at": "2016-09-19T22:03:50+09:00",
     "id": "kitfactory"
-  },
-  {
-    "title": "githubのorganizationアカウントの運営について",
-    "url": "https://qiita.com/chari/items/ee16bf16715f4bbcbd9b",
-    "likes_count": 336,
-    "created_at": "2016-09-16T17:18:26+09:00",
-    "updated_at": "2018-10-16T17:02:20+09:00",
-    "id": "chari"
   },
   {
     "title": "Swift 3 の @escaping とは何か",
@@ -498,7 +498,7 @@
   {
     "title": "こんどこそわかる(肯|否)定(先|後)読み",
     "url": "https://qiita.com/tohta/items/2ba7ecde5636b38ef1f6",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2016-09-21T16:30:42+09:00",
     "updated_at": "2020-03-02T22:16:05+09:00",
     "id": "tohta"
@@ -542,6 +542,14 @@
     "created_at": "2016-09-20T03:37:41+09:00",
     "updated_at": "2018-01-29T11:05:36+09:00",
     "id": "rinse_"
+  },
+  {
+    "title": "BOTで使える会話API・ライブラリ・サービスまとめ",
+    "url": "https://qiita.com/kenzo0202/items/582e3a5e06b64ab24964",
+    "likes_count": 252,
+    "created_at": "2016-09-17T00:21:55+09:00",
+    "updated_at": "2018-07-07T11:46:10+09:00",
+    "id": "kenzo0202"
   },
   {
     "title": "Rails初心者でもできる1日で作るクソWebサービス",
