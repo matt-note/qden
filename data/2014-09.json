@@ -18,7 +18,7 @@
   {
     "title": "iPhone/iPad/Apple Watch解像度(画面サイズ)早見表",
     "url": "https://qiita.com/tomohisaota/items/f8857d01f328e34fb551",
-    "likes_count": 2654,
+    "likes_count": 2655,
     "created_at": "2014-09-12T09:33:06+09:00",
     "updated_at": "2020-10-23T08:33:52+09:00",
     "id": "tomohisaota"
@@ -34,7 +34,7 @@
   {
     "title": "rails generate migrationコマンドまとめ",
     "url": "https://qiita.com/zaru/items/cde2c46b6126867a1a64",
-    "likes_count": 1996,
+    "likes_count": 1997,
     "created_at": "2014-09-09T19:57:54+09:00",
     "updated_at": "2018-11-06T21:09:19+09:00",
     "id": "zaru"
@@ -50,7 +50,7 @@
   {
     "title": "[Git]コミットの取り消し、打ち消し、上書き",
     "url": "https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed",
-    "likes_count": 1236,
+    "likes_count": 1237,
     "created_at": "2014-09-12T18:43:31+09:00",
     "updated_at": "2016-03-16T21:10:46+09:00",
     "id": "shuntaro_tamura"
@@ -58,7 +58,7 @@
   {
     "title": "Homebrew使い方まとめ",
     "url": "https://qiita.com/vintersnow/items/fca0be79cdc28bd2f5e4",
-    "likes_count": 1217,
+    "likes_count": 1218,
     "created_at": "2014-09-14T10:11:54+09:00",
     "updated_at": "2019-06-30T12:35:22+09:00",
     "id": "vintersnow"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonのイテレータとジェネレータ",
     "url": "https://qiita.com/tomotaka_ito/items/35f3eb108f587022fa09",
-    "likes_count": 905,
+    "likes_count": 906,
     "created_at": "2014-09-17T08:44:04+09:00",
     "updated_at": "2020-10-26T09:28:48+09:00",
     "id": "tomotaka_ito"
@@ -290,7 +290,7 @@
   {
     "title": "初めてコードレビューされる人のためのpull requestとcommitの作り方",
     "url": "https://qiita.com/reikubonaga/items/e3b3b19c14d4ef4efb95",
-    "likes_count": 483,
+    "likes_count": 482,
     "created_at": "2014-09-04T11:29:14+09:00",
     "updated_at": "2016-11-09T10:42:05+09:00",
     "id": "reikubonaga"
@@ -426,7 +426,7 @@
   {
     "title": "ubuntu ユーザを追加して sudo 権限をつける",
     "url": "https://qiita.com/white_aspara25/items/c1b9d02310b4731bfbaa",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2014-09-05T13:55:00+09:00",
     "updated_at": "2014-09-05T13:55:00+09:00",
     "id": "white_aspara25"
@@ -560,20 +560,20 @@
     "id": "k-shogo"
   },
   {
+    "title": "Doxygen 書き方メモ (C, C++)",
+    "url": "https://qiita.com/inabe49/items/23e615649e8539d857a8",
+    "likes_count": 279,
+    "created_at": "2014-09-04T14:12:47+09:00",
+    "updated_at": "2015-08-27T15:07:06+09:00",
+    "id": "inabe49"
+  },
+  {
     "title": "AFNetworkのSwift版 Alamofireを試してみた",
     "url": "https://qiita.com/susieyy/items/bbad93e4bbf48ae69326",
     "likes_count": 279,
     "created_at": "2014-09-07T13:41:31+09:00",
     "updated_at": "2014-09-07T13:41:31+09:00",
     "id": "susieyy"
-  },
-  {
-    "title": "Doxygen 書き方メモ (C, C++)",
-    "url": "https://qiita.com/inabe49/items/23e615649e8539d857a8",
-    "likes_count": 277,
-    "created_at": "2014-09-04T14:12:47+09:00",
-    "updated_at": "2015-08-27T15:07:06+09:00",
-    "id": "inabe49"
   },
   {
     "title": "Go の開発環境は IntelliJ IDEA + golang plugin がマトモだった",

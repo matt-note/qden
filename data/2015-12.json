@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 4047,
+    "likes_count": 4048,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2609,
+    "likes_count": 2610,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -210,7 +210,7 @@
   {
     "title": "Arduinoを自作して量産して販売する(超小型Arduino互換機 8pinoを例に)",
     "url": "https://qiita.com/akichika/items/4c282c638b38681050d9",
-    "likes_count": 818,
+    "likes_count": 817,
     "created_at": "2015-12-18T06:47:56+09:00",
     "updated_at": "2020-11-13T22:19:15+09:00",
     "id": "akichika"
@@ -258,7 +258,7 @@
   {
     "title": "Laravelのバリデーションで指定できる内容をざっくりまとめ直しました。",
     "url": "https://qiita.com/fagai/items/9904409d3703ef6f79a2",
-    "likes_count": 675,
+    "likes_count": 676,
     "created_at": "2015-12-18T19:22:27+09:00",
     "updated_at": "2020-09-12T20:25:40+09:00",
     "id": "fagai"
@@ -314,7 +314,7 @@
   {
     "title": "SELECT文の評価順序の話",
     "url": "https://qiita.com/suzukito/items/edcd00e680186f2930a8",
-    "likes_count": 569,
+    "likes_count": 570,
     "created_at": "2015-12-27T15:28:38+09:00",
     "updated_at": "2018-12-27T19:20:20+09:00",
     "id": "suzukito"
@@ -392,20 +392,20 @@
     "id": "y_hokkey"
   },
   {
+    "title": "SQLスタイルガイド",
+    "url": "https://qiita.com/taise/items/18c14d9b01a5dfd6d35e",
+    "likes_count": 456,
+    "created_at": "2015-12-13T09:00:22+09:00",
+    "updated_at": "2015-12-13T09:00:22+09:00",
+    "id": "taise"
+  },
+  {
     "title": "[Python]ファイル/ディレクトリ操作",
     "url": "https://qiita.com/supersaiakujin/items/12451cd2b8315fe7d054",
     "likes_count": 456,
     "created_at": "2015-12-26T04:45:05+09:00",
     "updated_at": "2018-10-05T12:38:27+09:00",
     "id": "supersaiakujin"
-  },
-  {
-    "title": "SQLスタイルガイド",
-    "url": "https://qiita.com/taise/items/18c14d9b01a5dfd6d35e",
-    "likes_count": 455,
-    "created_at": "2015-12-13T09:00:22+09:00",
-    "updated_at": "2015-12-13T09:00:22+09:00",
-    "id": "taise"
   },
   {
     "title": "ghq, peco, hubで快適Gitライフを手に入れよう！",
@@ -498,7 +498,7 @@
   {
     "title": "slack の /remind 機能まとめ",
     "url": "https://qiita.com/takesato/items/335061d7945ebd5c23f7",
-    "likes_count": 412,
+    "likes_count": 411,
     "created_at": "2015-12-28T19:30:21+09:00",
     "updated_at": "2015-12-28T19:37:10+09:00",
     "id": "takesato"
@@ -672,20 +672,20 @@
     "id": "ktmg"
   },
   {
+    "title": "[Python]Anacondaで仮想環境を作る",
+    "url": "https://qiita.com/supersaiakujin/items/50def6f33b79f9a61b18",
+    "likes_count": 314,
+    "created_at": "2015-12-26T17:56:11+09:00",
+    "updated_at": "2016-02-15T12:51:15+09:00",
+    "id": "supersaiakujin"
+  },
+  {
     "title": "ECMAScript6のアロー関数とPromiseまとめ - JavaScript",
     "url": "https://qiita.com/takeharu/items/c23998d22903e6d3c1d9",
     "likes_count": 313,
     "created_at": "2015-12-15T09:06:20+09:00",
     "updated_at": "2015-12-17T17:34:03+09:00",
     "id": "takeharu"
-  },
-  {
-    "title": "[Python]Anacondaで仮想環境を作る",
-    "url": "https://qiita.com/supersaiakujin/items/50def6f33b79f9a61b18",
-    "likes_count": 313,
-    "created_at": "2015-12-26T17:56:11+09:00",
-    "updated_at": "2016-02-15T12:51:15+09:00",
-    "id": "supersaiakujin"
   },
   {
     "title": "JavaScript製FlashPlayer「swf2js」swfをそのままHTML5に変換。",
