@@ -2,7 +2,7 @@
   {
     "title": "「AWS is 何」を3行でまとめてみるよ",
     "url": "https://qiita.com/kohashi/items/1bb952313fb695f12577",
-    "likes_count": 3937,
+    "likes_count": 3938,
     "created_at": "2016-06-28T14:38:40+09:00",
     "updated_at": "2019-03-08T13:21:28+09:00",
     "id": "kohashi"
@@ -18,7 +18,7 @@
   {
     "title": "Firebaseの始め方",
     "url": "https://qiita.com/kohashi/items/43ea22f61ade45972881",
-    "likes_count": 1720,
+    "likes_count": 1721,
     "created_at": "2016-06-27T16:54:15+09:00",
     "updated_at": "2019-06-09T17:15:05+09:00",
     "id": "kohashi"
@@ -34,7 +34,7 @@
   {
     "title": "忘れやすい人のための git diff チートシート",
     "url": "https://qiita.com/shibukk/items/8c9362a5bd399b9c56be",
-    "likes_count": 1564,
+    "likes_count": 1565,
     "created_at": "2016-06-15T14:27:21+09:00",
     "updated_at": "2019-01-23T13:48:59+09:00",
     "id": "shibukk"
@@ -58,7 +58,7 @@
   {
     "title": "プログラミング初心者歓迎！「エラーが出ました。どうすればいいですか？」から卒業するための基本と極意（解説動画付き）",
     "url": "https://qiita.com/jnchito/items/056325421b7e36f02335",
-    "likes_count": 1321,
+    "likes_count": 1322,
     "created_at": "2016-06-27T05:06:24+09:00",
     "updated_at": "2019-05-02T07:17:45+09:00",
     "id": "jnchito"
@@ -122,7 +122,7 @@
   {
     "title": "スマートメーターの情報を最安ハードウェアで引っこ抜く",
     "url": "https://qiita.com/rukihena/items/82266ed3a43e4b652adb",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2016-06-04T14:41:54+09:00",
     "updated_at": "2019-10-31T23:21:31+09:00",
     "id": "rukihena"
@@ -136,20 +136,20 @@
     "id": "Qiita"
   },
   {
+    "title": "テストコードの期待値はDRYを捨ててベタ書きする ～テストコードの重要な役割とは？～",
+    "url": "https://qiita.com/jnchito/items/eb3cfa9f7db752dcb796",
+    "likes_count": 679,
+    "created_at": "2016-06-06T10:39:54+09:00",
+    "updated_at": "2016-06-09T10:51:19+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "新人プログラマが知るべきプログラミングの原則６選！",
     "url": "https://qiita.com/ryotanatsume/items/018cae5c5be8faba367a",
     "likes_count": 679,
     "created_at": "2016-06-29T07:38:19+09:00",
     "updated_at": "2017-11-22T16:53:02+09:00",
     "id": "ryotanatsume"
-  },
-  {
-    "title": "テストコードの期待値はDRYを捨ててベタ書きする ～テストコードの重要な役割とは？～",
-    "url": "https://qiita.com/jnchito/items/eb3cfa9f7db752dcb796",
-    "likes_count": 678,
-    "created_at": "2016-06-06T10:39:54+09:00",
-    "updated_at": "2016-06-09T10:51:19+09:00",
-    "id": "jnchito"
   },
   {
     "title": "Gitの最初のコミットは空コミットにしよう",
@@ -194,7 +194,7 @@
   {
     "title": "Pythonではじめる強化学習",
     "url": "https://qiita.com/Hironsan/items/56f6c0b2f4cfd28dd906",
-    "likes_count": 579,
+    "likes_count": 580,
     "created_at": "2016-06-09T08:56:37+09:00",
     "updated_at": "2017-03-13T13:39:27+09:00",
     "id": "Hironsan"
@@ -298,7 +298,7 @@
   {
     "title": "ワークフローエンジンDigdagのまとめ",
     "url": "https://qiita.com/hiroysato/items/d0fe5e2d88c267413a82",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2016-06-15T13:08:47+09:00",
     "updated_at": "2021-07-14T18:51:44+09:00",
     "id": "hiroysato"
@@ -320,20 +320,20 @@
     "id": "cypher256"
   },
   {
+    "title": "フルスタックなWeb開発が無料で学べるFreeCodeCamp",
+    "url": "https://qiita.com/applideveloper/items/9ef1f8258f54982b8045",
+    "likes_count": 317,
+    "created_at": "2016-06-26T13:26:49+09:00",
+    "updated_at": "2016-06-26T17:21:16+09:00",
+    "id": "applideveloper"
+  },
+  {
     "title": "結局のところgetter／setterは要るのか？要らないのか？",
     "url": "https://qiita.com/katolisa/items/6cfd1a2a87058678d646",
     "likes_count": 316,
     "created_at": "2016-06-01T13:17:03+09:00",
     "updated_at": "2016-06-01T13:17:03+09:00",
     "id": "katolisa"
-  },
-  {
-    "title": "フルスタックなWeb開発が無料で学べるFreeCodeCamp",
-    "url": "https://qiita.com/applideveloper/items/9ef1f8258f54982b8045",
-    "likes_count": 316,
-    "created_at": "2016-06-26T13:26:49+09:00",
-    "updated_at": "2016-06-26T17:21:16+09:00",
-    "id": "applideveloper"
   },
   {
     "title": "【Docker】Dockerでホストのディレクトリをマウントする",

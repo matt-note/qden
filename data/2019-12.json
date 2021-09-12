@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2653,
+    "likes_count": 2654,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -82,7 +82,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1392,
+    "likes_count": 1393,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -98,7 +98,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1224,
+    "likes_count": 1225,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -224,20 +224,20 @@
     "id": "sangotaro"
   },
   {
+    "title": "VSCode で最高の LaTeX 環境を作る",
+    "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
+    "likes_count": 653,
+    "created_at": "2019-12-16T07:03:05+09:00",
+    "updated_at": "2021-09-05T00:03:01+09:00",
+    "id": "rainbartown"
+  },
+  {
     "title": "\"技術的負債\"論の道案内 - アーキテクチャの資本コストと情報の非対称性",
     "url": "https://qiita.com/hirokidaichi/items/c66682a64ac2fc59cdf3",
     "likes_count": 653,
     "created_at": "2019-12-19T08:11:33+09:00",
     "updated_at": "2019-12-19T13:44:00+09:00",
     "id": "hirokidaichi"
-  },
-  {
-    "title": "VSCode で最高の LaTeX 環境を作る",
-    "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 652,
-    "created_at": "2019-12-16T07:03:05+09:00",
-    "updated_at": "2021-09-05T00:03:01+09:00",
-    "id": "rainbartown"
   },
   {
     "title": "【サーバーサイド一式】Docker + Rails + Circle CI + Terraformでインフラをコードで環境構築 & ECSへ自動コンテナデプロイ【前半】",
@@ -290,7 +290,7 @@
   {
     "title": "ドメイン駆動設計の比類なきパワーでRailsレガシーコードなど大爆殺したるわあああ！！！",
     "url": "https://qiita.com/MinoDriven/items/3c7db287e2c66f36589a",
-    "likes_count": 560,
+    "likes_count": 561,
     "created_at": "2019-12-12T11:28:00+09:00",
     "updated_at": "2020-12-07T11:53:28+09:00",
     "id": "MinoDriven"
@@ -298,7 +298,7 @@
   {
     "title": "Androidのライフサイクルの基礎からViewModel, LiveData, Kotlin Coroutinesまでを流れるように説明したい",
     "url": "https://qiita.com/takahirom/items/3f012d46e15a1666fa33",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2019-12-22T11:42:01+09:00",
     "updated_at": "2020-09-14T10:13:11+09:00",
     "id": "takahirom"
@@ -450,7 +450,7 @@
   {
     "title": "NestJSのススメ ～Expressを超えてゆけ～",
     "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2019-12-22T15:46:56+09:00",
     "updated_at": "2020-04-18T20:27:13+09:00",
     "id": "elipmoc101"
@@ -482,7 +482,7 @@
   {
     "title": "Vue/Nuxt開発効率を3倍にするVSCode拡張機能セット",
     "url": "https://qiita.com/newt0/items/aeddc6a179ea3a464ed5",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2019-12-04T13:57:15+09:00",
     "updated_at": "2021-01-05T13:28:30+09:00",
     "id": "newt0"
@@ -546,7 +546,7 @@
   {
     "title": "【完全版】Jupyter Notebook ショートカット",
     "url": "https://qiita.com/zawawahoge/items/baa2a5318df079c5f7e5",
-    "likes_count": 238,
+    "likes_count": 239,
     "created_at": "2019-12-09T00:39:30+09:00",
     "updated_at": "2021-01-13T02:33:23+09:00",
     "id": "zawawahoge"
