@@ -2,7 +2,7 @@
   {
     "title": "すべての新米フロントエンドエンジニアに読んでほしい50の資料",
     "url": "https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2",
-    "likes_count": 3849,
+    "likes_count": 3848,
     "created_at": "2019-07-11T20:07:24+09:00",
     "updated_at": "2019-07-12T17:37:42+09:00",
     "id": "suzu-4"
@@ -10,7 +10,7 @@
   {
     "title": "vimを使うとき十字キーで移動して、vimmerに殺されるその前に",
     "url": "https://qiita.com/fasahina/items/2767891134028648f288",
-    "likes_count": 2297,
+    "likes_count": 2298,
     "created_at": "2019-07-04T13:25:51+09:00",
     "updated_at": "2019-09-22T13:57:49+09:00",
     "id": "fasahina"
@@ -18,7 +18,7 @@
   {
     "title": "2019年版 最先端のフロントエンド開発者になるために学ぶべきこと",
     "url": "https://qiita.com/baby-degu/items/da30fa71b8f48fffc568",
-    "likes_count": 1511,
+    "likes_count": 1510,
     "created_at": "2019-07-21T14:50:16+09:00",
     "updated_at": "2020-06-06T19:21:52+09:00",
     "id": "baby-degu"
@@ -66,7 +66,7 @@
   {
     "title": "【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン",
     "url": "https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4",
-    "likes_count": 1155,
+    "likes_count": 1157,
     "created_at": "2019-07-18T19:02:09+09:00",
     "updated_at": "2021-08-13T11:47:21+09:00",
     "id": "ucan-lab"
@@ -106,7 +106,7 @@
   {
     "title": "毎朝15分の勉強会で若手の行動が驚くほど改善した話",
     "url": "https://qiita.com/kojimadev/items/cd5dd5332e33b3ef46a6",
-    "likes_count": 943,
+    "likes_count": 942,
     "created_at": "2019-07-02T08:44:30+09:00",
     "updated_at": "2020-08-26T17:43:44+09:00",
     "id": "kojimadev"
@@ -162,7 +162,7 @@
   {
     "title": "Pythonで\"in list\"から\"in set\"に変えただけで爆速になった件とその理由",
     "url": "https://qiita.com/kitadakyou/items/6f877edd263f097e78f4",
-    "likes_count": 747,
+    "likes_count": 748,
     "created_at": "2019-07-11T11:10:31+09:00",
     "updated_at": "2019-07-12T23:07:05+09:00",
     "id": "kitadakyou"
@@ -234,7 +234,7 @@
   {
     "title": "[Flutter]コピペで使える！ボタンのデザイン16種類をまとめました",
     "url": "https://qiita.com/coka__01/items/30716f42e4a909334c9f",
-    "likes_count": 479,
+    "likes_count": 480,
     "created_at": "2019-07-29T08:26:28+09:00",
     "updated_at": "2021-07-01T23:22:36+09:00",
     "id": "coka__01"
@@ -274,10 +274,18 @@
   {
     "title": "Reactのべからず集",
     "url": "https://qiita.com/jkr_2255/items/041f238a940f923e4dfc",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2019-07-22T22:52:48+09:00",
     "updated_at": "2019-07-22T22:55:30+09:00",
     "id": "jkr_2255"
+  },
+  {
+    "title": "【初心者向け・動画付き】Railsで日時をフォーマットするときはstrftimeよりも、lメソッドを使おう",
+    "url": "https://qiita.com/jnchito/items/831654253fb8a958ec25",
+    "likes_count": 431,
+    "created_at": "2019-07-30T21:41:22+09:00",
+    "updated_at": "2019-12-30T19:37:51+09:00",
+    "id": "jnchito"
   },
   {
     "title": "医薬系データエンジニアのはじめ方、そして、稼ぎ方のイロハ。",
@@ -286,14 +294,6 @@
     "created_at": "2019-07-09T21:56:44+09:00",
     "updated_at": "2020-04-04T10:58:40+09:00",
     "id": "e-a-st"
-  },
-  {
-    "title": "【初心者向け・動画付き】Railsで日時をフォーマットするときはstrftimeよりも、lメソッドを使おう",
-    "url": "https://qiita.com/jnchito/items/831654253fb8a958ec25",
-    "likes_count": 430,
-    "created_at": "2019-07-30T21:41:22+09:00",
-    "updated_at": "2019-12-30T19:37:51+09:00",
-    "id": "jnchito"
   },
   {
     "title": "話題になっている技術系の記事を一瞬で把握できるページを作ってみた",
@@ -314,7 +314,7 @@
   {
     "title": "ほぼ新人があふれる意欲で毎朝の勉強会を立ち上げて成り上がる話",
     "url": "https://qiita.com/kojimadev/items/3f240260c156e8d87fb4",
-    "likes_count": 393,
+    "likes_count": 392,
     "created_at": "2019-07-22T07:23:02+09:00",
     "updated_at": "2019-09-20T23:22:40+09:00",
     "id": "kojimadev"
@@ -322,7 +322,7 @@
   {
     "title": "全部言えたらDOMマスター！　HTML+DOMでノードを挿入する方法大全",
     "url": "https://qiita.com/uhyo/items/1c565b61d934cbb88c2e",
-    "likes_count": 381,
+    "likes_count": 382,
     "created_at": "2019-07-20T03:02:34+09:00",
     "updated_at": "2019-07-21T18:47:28+09:00",
     "id": "uhyo"
@@ -354,7 +354,7 @@
   {
     "title": "〜拝啓〜 アプリ開発を始める半年前の自分へ。アプリ公開初日に300ユーザーを獲得できるぞ!!!",
     "url": "https://qiita.com/yamatatsu10969/items/96a1462997b4478f9aea",
-    "likes_count": 362,
+    "likes_count": 361,
     "created_at": "2019-07-02T08:09:13+09:00",
     "updated_at": "2019-07-03T21:37:56+09:00",
     "id": "yamatatsu10969"

@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 3607,
+    "likes_count": 3609,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2021-04-12T11:28:43+09:00",
     "id": "gold-kou"
@@ -26,7 +26,7 @@
   {
     "title": "「世界最悪のログイン処理コード」を解説してみた",
     "url": "https://qiita.com/YSRKEN/items/0095cf75be3f607b0f98",
-    "likes_count": 1664,
+    "likes_count": 1665,
     "created_at": "2018-08-11T21:45:29+09:00",
     "updated_at": "2018-09-22T21:44:31+09:00",
     "id": "YSRKEN"
@@ -34,7 +34,7 @@
   {
     "title": "Firebaseを使い始めたら人生が変わった(ような気がした)",
     "url": "https://qiita.com/owen/items/c51c6ec27c9e2f5804b0",
-    "likes_count": 1596,
+    "likes_count": 1595,
     "created_at": "2018-08-31T00:06:46+09:00",
     "updated_at": "2018-08-31T00:06:46+09:00",
     "id": "owen"
@@ -42,7 +42,7 @@
   {
     "title": "プログラマが知っているとよい色使い(JIS安全色)",
     "url": "https://qiita.com/kaizen_nagoya/items/cb7eb3199b0b98904a35",
-    "likes_count": 1534,
+    "likes_count": 1535,
     "created_at": "2018-08-14T14:36:55+09:00",
     "updated_at": "2021-08-30T22:12:49+09:00",
     "id": "kaizen_nagoya"
@@ -50,7 +50,7 @@
   {
     "title": "JavaScriptを言語仕様から把握し、ライブラリに振り回されない漢を目指す人に贈るJavaScriptの基礎",
     "url": "https://qiita.com/hakozaru/items/c00e472ab0f5e823098c",
-    "likes_count": 1439,
+    "likes_count": 1438,
     "created_at": "2018-08-22T11:15:53+09:00",
     "updated_at": "2018-12-17T12:42:32+09:00",
     "id": "hakozaru"
@@ -66,7 +66,7 @@
   {
     "title": "モダンなJava開発ガイド (2018年版)",
     "url": "https://qiita.com/yoichiwo7/items/17190cb440ab7d253cea",
-    "likes_count": 1190,
+    "likes_count": 1189,
     "created_at": "2018-08-24T17:07:24+09:00",
     "updated_at": "2018-09-01T14:34:53+09:00",
     "id": "yoichiwo7"
@@ -138,7 +138,7 @@
   {
     "title": "【初心者向け】Anacondaで仮想環境を作ってみる",
     "url": "https://qiita.com/ozaki_physics/items/985188feb92570e5b82d",
-    "likes_count": 597,
+    "likes_count": 598,
     "created_at": "2018-08-09T17:19:50+09:00",
     "updated_at": "2020-06-06T04:37:08+09:00",
     "id": "ozaki_physics"
@@ -154,7 +154,7 @@
   {
     "title": "Git コンフリクト解消手順",
     "url": "https://qiita.com/crarrry/items/c5964512e21e383b73da",
-    "likes_count": 550,
+    "likes_count": 551,
     "created_at": "2018-08-02T08:34:29+09:00",
     "updated_at": "2021-01-17T18:36:45+09:00",
     "id": "crarrry"
@@ -194,7 +194,7 @@
   {
     "title": "ちゃんと理解するCode Splitting",
     "url": "https://qiita.com/seya/items/06b160adb7801ae9e66f",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2018-08-06T07:59:37+09:00",
     "updated_at": "2018-08-06T07:59:37+09:00",
     "id": "seya"
@@ -256,20 +256,20 @@
     "id": "kouheiszk"
   },
   {
+    "title": "チョットできるGoプログラマーになるための詳解GoDoc",
+    "url": "https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce",
+    "likes_count": 450,
+    "created_at": "2018-08-28T10:40:49+09:00",
+    "updated_at": "2020-09-20T16:41:28+09:00",
+    "id": "shibukawa"
+  },
+  {
     "title": "Rustで競技プログラミングの入力をスッキリ記述するマクロ",
     "url": "https://qiita.com/tanakh/items/0ba42c7ca36cd29d0ac8",
     "likes_count": 449,
     "created_at": "2018-08-20T23:05:27+09:00",
     "updated_at": "2018-08-22T01:04:03+09:00",
     "id": "tanakh"
-  },
-  {
-    "title": "チョットできるGoプログラマーになるための詳解GoDoc",
-    "url": "https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce",
-    "likes_count": 449,
-    "created_at": "2018-08-28T10:40:49+09:00",
-    "updated_at": "2020-09-20T16:41:28+09:00",
-    "id": "shibukawa"
   },
   {
     "title": "DockerfileのCMDとENTRYPOINTを改めて解説する",
@@ -322,7 +322,7 @@
   {
     "title": "AWS FargateとTerraformで最強＆簡単なインフラ環境を目指す",
     "url": "https://qiita.com/tarumzu/items/2d7ed918f230fea957e8",
-    "likes_count": 381,
+    "likes_count": 382,
     "created_at": "2018-08-16T00:42:24+09:00",
     "updated_at": "2020-04-14T23:23:26+09:00",
     "id": "tarumzu"
@@ -386,7 +386,7 @@
   {
     "title": "【Git】新人エンジニア、git pushまでの道",
     "url": "https://qiita.com/yukibe/items/9ef9d54f2e7d53cfb51c",
-    "likes_count": 349,
+    "likes_count": 348,
     "created_at": "2018-08-11T17:46:51+09:00",
     "updated_at": "2018-08-11T17:55:08+09:00",
     "id": "yukibe"
