@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2715,
+    "likes_count": 2716,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1589,
+    "likes_count": 1590,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -42,7 +42,7 @@
   {
     "title": "お前らのReactは遅い",
     "url": "https://qiita.com/teradonburi/items/5b8f79d26e1b319ac44f",
-    "likes_count": 1360,
+    "likes_count": 1362,
     "created_at": "2018-12-01T16:47:52+09:00",
     "updated_at": "2021-08-06T20:04:22+09:00",
     "id": "teradonburi"
@@ -50,7 +50,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1320,
+    "likes_count": 1321,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-07-15T22:07:14+09:00",
     "id": "diescake"
@@ -122,7 +122,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 1030,
+    "likes_count": 1031,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -154,7 +154,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 966,
+    "likes_count": 965,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -194,7 +194,7 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 886,
+    "likes_count": 887,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2018-12-10T02:50:46+09:00",
     "id": "Maki-Daisuke"
@@ -274,7 +274,7 @@
   {
     "title": "シェーダー芸人になりたかった6か月前の自分に教えてあげたいリンク集",
     "url": "https://qiita.com/kaneta1992/items/7fe9b47cc6c0836222af",
-    "likes_count": 640,
+    "likes_count": 639,
     "created_at": "2018-12-10T06:08:41+09:00",
     "updated_at": "2018-12-13T10:44:16+09:00",
     "id": "kaneta1992"
@@ -392,20 +392,20 @@
     "id": "Hironsan"
   },
   {
+    "title": "Go Modules",
+    "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
+    "likes_count": 475,
+    "created_at": "2018-12-05T13:44:24+09:00",
+    "updated_at": "2019-07-17T17:52:30+09:00",
+    "id": "propella"
+  },
+  {
     "title": "Github Actionsが使えるようになったので使ってみる",
     "url": "https://qiita.com/1915keke/items/8b18097d2981e88eca93",
     "likes_count": 474,
     "created_at": "2018-12-02T19:23:09+09:00",
     "updated_at": "2019-09-13T14:44:25+09:00",
     "id": "1915keke"
-  },
-  {
-    "title": "Go Modules",
-    "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 474,
-    "created_at": "2018-12-05T13:44:24+09:00",
-    "updated_at": "2019-07-17T17:52:30+09:00",
-    "id": "propella"
   },
   {
     "title": "package-lock.jsonについて知りたくても聞けなかったこと",
@@ -442,7 +442,7 @@
   {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
     "url": "https://qiita.com/po3rin/items/c70105f684e6816621d2",
-    "likes_count": 437,
+    "likes_count": 436,
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
@@ -536,6 +536,14 @@
     "id": "naokiiiii"
   },
   {
+    "title": "Herokuを使いこなすのに必要な術",
+    "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
+    "likes_count": 376,
+    "created_at": "2018-12-04T18:58:45+09:00",
+    "updated_at": "2019-01-29T22:10:42+09:00",
+    "id": "fuwamaki"
+  },
+  {
     "title": "JavaScript Standard Styleのススメ",
     "url": "https://qiita.com/munieru_jp/items/ca16cbfa859468137d2e",
     "likes_count": 375,
@@ -544,17 +552,9 @@
     "id": "munieru_jp"
   },
   {
-    "title": "Herokuを使いこなすのに必要な術",
-    "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 375,
-    "created_at": "2018-12-04T18:58:45+09:00",
-    "updated_at": "2019-01-29T22:10:42+09:00",
-    "id": "fuwamaki"
-  },
-  {
     "title": "SOLID原則について簡単に書く",
     "url": "https://qiita.com/yui_mop/items/93fef037a787318e7067",
-    "likes_count": 365,
+    "likes_count": 366,
     "created_at": "2018-12-08T16:42:44+09:00",
     "updated_at": "2020-01-15T16:33:13+09:00",
     "id": "yui_mop"
@@ -586,7 +586,7 @@
   {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -658,7 +658,7 @@
   {
     "title": "フロントエンドでTDDを実践する（理論編）",
     "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2018-12-08T23:40:26+09:00",
     "updated_at": "2018-12-11T23:14:50+09:00",
     "id": "taneba"
@@ -754,7 +754,7 @@
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
     "url": "https://qiita.com/riversun/items/c924cfe70e16ee3fe3ba",
-    "likes_count": 263,
+    "likes_count": 264,
     "created_at": "2018-12-16T08:41:24+09:00",
     "updated_at": "2018-12-18T21:05:54+09:00",
     "id": "riversun"
@@ -762,7 +762,7 @@
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
     "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
-    "likes_count": 244,
+    "likes_count": 243,
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"

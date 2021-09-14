@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3368,
+    "likes_count": 3367,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2628,
+    "likes_count": 2629,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2153,
+    "likes_count": 2152,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1770,
+    "likes_count": 1771,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -50,7 +50,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1505,
+    "likes_count": 1504,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-09-09T23:45:42+09:00",
     "id": "soarflat"
@@ -58,7 +58,7 @@
   {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1385,
+    "likes_count": 1386,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
@@ -66,7 +66,7 @@
   {
     "title": "学年ビリのアホが1年半でTOEICスコアを300点から840点に上げた英語勉強法の話",
     "url": "https://qiita.com/Hironsan/items/20951116a2650f45fea5",
-    "likes_count": 1366,
+    "likes_count": 1365,
     "created_at": "2016-12-07T06:30:51+09:00",
     "updated_at": "2016-12-17T15:54:28+09:00",
     "id": "Hironsan"
@@ -104,20 +104,20 @@
     "id": "joker1007"
   },
   {
-    "title": "kubernetes初心者のための入門ハンズオン",
-    "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
-    "likes_count": 1054,
-    "created_at": "2016-12-10T00:01:31+09:00",
-    "updated_at": "2020-12-05T20:23:32+09:00",
-    "id": "mihirat"
-  },
-  {
     "title": "初心者がchainerで線画着色してみた。わりとできた。",
     "url": "https://qiita.com/taizan/items/cf77fd37ec3a0bef5d9d",
     "likes_count": 1054,
     "created_at": "2016-12-25T17:58:54+09:00",
     "updated_at": "2017-01-31T00:15:46+09:00",
     "id": "taizan"
+  },
+  {
+    "title": "kubernetes初心者のための入門ハンズオン",
+    "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
+    "likes_count": 1053,
+    "created_at": "2016-12-10T00:01:31+09:00",
+    "updated_at": "2020-12-05T20:23:32+09:00",
+    "id": "mihirat"
   },
   {
     "title": "Webhookとは？",
@@ -234,7 +234,7 @@
   {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
-    "likes_count": 672,
+    "likes_count": 673,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
@@ -266,7 +266,7 @@
   {
     "title": "curlコマンドでapiを叩く",
     "url": "https://qiita.com/buntafujikawa/items/758425773b2239feb9a7",
-    "likes_count": 642,
+    "likes_count": 643,
     "created_at": "2016-12-26T23:43:49+09:00",
     "updated_at": "2020-09-19T11:01:47+09:00",
     "id": "buntafujikawa"
@@ -320,14 +320,6 @@
     "id": "_ha1f"
   },
   {
-    "title": "React Nativeとは何なのか",
-    "url": "https://qiita.com/Iwark/items/7c27e919bb71f8b256f6",
-    "likes_count": 567,
-    "created_at": "2016-12-02T02:20:35+09:00",
-    "updated_at": "2016-12-02T02:20:35+09:00",
-    "id": "Iwark"
-  },
-  {
     "title": "シェルスクリプトの罠を避ける三つの tips",
     "url": "https://qiita.com/magicant/items/f3554274ee500bddaca8",
     "likes_count": 557,
@@ -378,7 +370,7 @@
   {
     "title": "みんなRailsのSTIを誤解してないか!?",
     "url": "https://qiita.com/yebihara/items/9ecb838893ad99be0561",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2016-12-04T17:53:39+09:00",
     "updated_at": "2016-12-16T19:48:07+09:00",
     "id": "yebihara"
@@ -474,7 +466,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 441,
+    "likes_count": 443,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -594,7 +586,7 @@
   {
     "title": "PythonにおいてのJSONファイルの取扱いあれこれ",
     "url": "https://qiita.com/wakaba130/items/5f54aed913156dc4438f",
-    "likes_count": 358,
+    "likes_count": 359,
     "created_at": "2016-12-25T18:12:41+09:00",
     "updated_at": "2018-07-01T20:57:29+09:00",
     "id": "wakaba130"
@@ -624,20 +616,20 @@
     "id": "1ulce"
   },
   {
+    "title": "【Python入門】JSON形式データの扱い方",
+    "url": "https://qiita.com/Morio/items/7538a939cc441367070d",
+    "likes_count": 334,
+    "created_at": "2016-12-10T18:54:00+09:00",
+    "updated_at": "2016-12-12T15:53:55+09:00",
+    "id": "Morio"
+  },
+  {
     "title": "「量子コンピュータが人工知能を加速する」を読んで、数式を使わずにPythonでその概要を説明してみた",
     "url": "https://qiita.com/onhrs/items/aa0aa181c27743956689",
     "likes_count": 334,
     "created_at": "2016-12-22T00:41:26+09:00",
     "updated_at": "2017-10-20T15:15:28+09:00",
     "id": "onhrs"
-  },
-  {
-    "title": "【Python入門】JSON形式データの扱い方",
-    "url": "https://qiita.com/Morio/items/7538a939cc441367070d",
-    "likes_count": 333,
-    "created_at": "2016-12-10T18:54:00+09:00",
-    "updated_at": "2016-12-12T15:53:55+09:00",
-    "id": "Morio"
   },
   {
     "title": "ちょこっとホワイトハッカーになった気持ちになって、VirtualBox上にKali Linuxをインストールし、Metasploitを使ったペネトレーションテスト（脆弱性診断）をやってみた　※最後に「Star Wars」ネタもあるよ！※",
@@ -712,6 +704,14 @@
     "id": "mizno"
   },
   {
+    "title": "logrotate入門",
+    "url": "https://qiita.com/zom/items/c72c7bac63462225971b",
+    "likes_count": 303,
+    "created_at": "2016-12-03T23:59:38+09:00",
+    "updated_at": "2017-08-16T21:16:58+09:00",
+    "id": "zom"
+  },
+  {
     "title": "Docker & Docker-Composeの基本的な使い方",
     "url": "https://qiita.com/koka/items/3d3d4ee5680f92a0ad89",
     "likes_count": 302,
@@ -778,7 +778,7 @@
   {
     "title": "DB未経験の新米エンジニアが読んだ書籍を時系列順に紹介",
     "url": "https://qiita.com/maaaaaaaa/items/4e1d84cb40c83004575f",
-    "likes_count": 266,
+    "likes_count": 265,
     "created_at": "2016-12-09T18:01:44+09:00",
     "updated_at": "2019-10-17T17:54:30+09:00",
     "id": "maaaaaaaa"

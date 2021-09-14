@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2068,
+    "likes_count": 2069,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1480,
+    "likes_count": 1481,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -26,7 +26,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1388,
+    "likes_count": 1387,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1223,
+    "likes_count": 1224,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -66,7 +66,7 @@
   {
     "title": "webpack時代の終わりとparcel時代のはじまり",
     "url": "https://qiita.com/bitrinjani/items/b08876e0a2618745f54a",
-    "likes_count": 1148,
+    "likes_count": 1147,
     "created_at": "2017-12-08T17:42:26+09:00",
     "updated_at": "2017-12-09T16:47:13+09:00",
     "id": "bitrinjani"
@@ -114,7 +114,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 903,
+    "likes_count": 904,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -160,20 +160,20 @@
     "id": "yu4u"
   },
   {
+    "title": "Storybookがなぜ必要か？(Vue.js編)",
+    "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
+    "likes_count": 827,
+    "created_at": "2017-12-24T00:27:00+09:00",
+    "updated_at": "2019-02-26T17:34:46+09:00",
+    "id": "masaakikunsan"
+  },
+  {
     "title": "会社勤めのエンジニアが開発したサービスを買い取って独立した話",
     "url": "https://qiita.com/tnj/items/3bf353fb8964abac40a4",
     "likes_count": 825,
     "created_at": "2017-12-11T12:09:54+09:00",
     "updated_at": "2017-12-11T12:09:54+09:00",
     "id": "tnj"
-  },
-  {
-    "title": "Storybookがなぜ必要か？(Vue.js編)",
-    "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 825,
-    "created_at": "2017-12-24T00:27:00+09:00",
-    "updated_at": "2019-02-26T17:34:46+09:00",
-    "id": "masaakikunsan"
   },
   {
     "title": "こんなGitの教え方をするエンジニアはデザイナーからモテるぞ！",
@@ -298,7 +298,7 @@
   {
     "title": " Nuxt.js使ってみた",
     "url": "https://qiita.com/_takeshi_24/items/224d00e5a026dbb76716",
-    "likes_count": 610,
+    "likes_count": 609,
     "created_at": "2017-12-15T23:18:21+09:00",
     "updated_at": "2021-01-15T16:23:44+09:00",
     "id": "_takeshi_24"
@@ -322,7 +322,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -330,7 +330,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 579,
+    "likes_count": 580,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -346,7 +346,7 @@
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
     "url": "https://qiita.com/567000/items/d6a7c694a370dc92e774",
-    "likes_count": 573,
+    "likes_count": 572,
     "created_at": "2017-12-20T21:06:30+09:00",
     "updated_at": "2020-01-23T09:06:55+09:00",
     "id": "567000"
@@ -354,7 +354,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -586,7 +586,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
@@ -650,7 +650,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
@@ -674,7 +674,7 @@
   {
     "title": "Reactのstate,props,componentの使い方を自分なりにまとめてみた",
     "url": "https://qiita.com/sekikawa_a/items/8ab70f457ef73871419f",
-    "likes_count": 339,
+    "likes_count": 340,
     "created_at": "2017-12-13T21:45:16+09:00",
     "updated_at": "2019-03-22T17:27:09+09:00",
     "id": "sekikawa_a"
@@ -690,7 +690,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2021-04-17T12:31:45+09:00",
     "id": "nightyknite"
@@ -706,7 +706,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
@@ -722,7 +722,7 @@
   {
     "title": "関東最速でReact+Redux+TypeScriptなアプリの開発環境を作る",
     "url": "https://qiita.com/IzumiSy/items/b7d8a96eacd2cd8ad510",
-    "likes_count": 325,
+    "likes_count": 324,
     "created_at": "2017-12-24T23:29:21+09:00",
     "updated_at": "2020-05-11T11:04:03+09:00",
     "id": "IzumiSy"
