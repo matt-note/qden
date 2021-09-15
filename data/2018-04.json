@@ -2,7 +2,7 @@
   {
     "title": "データ分析で頻出のPandas基本操作",
     "url": "https://qiita.com/ysdyt/items/9ccca82fc5b504e7913a",
-    "likes_count": 2264,
+    "likes_count": 2265,
     "created_at": "2018-04-16T08:12:28+09:00",
     "updated_at": "2019-12-17T17:19:27+09:00",
     "id": "ysdyt"
@@ -106,7 +106,7 @@
   {
     "title": "【Python入門】いまさらだけどパイソニスタとして必要な文法を網羅してみた",
     "url": "https://qiita.com/gold-kou/items/9713f6fd82baf1eccd6a",
-    "likes_count": 1172,
+    "likes_count": 1173,
     "created_at": "2018-04-19T08:20:15+09:00",
     "updated_at": "2018-09-12T12:56:34+09:00",
     "id": "gold-kou"
@@ -162,7 +162,7 @@
   {
     "title": "[Python]可読性を上げるための、docstringの書き方を学ぶ（NumPyスタイル）",
     "url": "https://qiita.com/simonritchie/items/49e0813508cad4876b5a",
-    "likes_count": 921,
+    "likes_count": 922,
     "created_at": "2018-04-01T23:34:45+09:00",
     "updated_at": "2020-05-22T19:10:56+09:00",
     "id": "simonritchie"
@@ -178,7 +178,7 @@
   {
     "title": "Python命名規則一覧",
     "url": "https://qiita.com/naomi7325/items/4eb1d2a40277361e898b",
-    "likes_count": 857,
+    "likes_count": 858,
     "created_at": "2018-04-22T14:18:47+09:00",
     "updated_at": "2021-04-25T17:53:12+09:00",
     "id": "naomi7325"
@@ -186,7 +186,7 @@
   {
     "title": "物体検出についての歴史まとめ(1)",
     "url": "https://qiita.com/mshinoda88/items/9770ee671ea27f2c81a9",
-    "likes_count": 850,
+    "likes_count": 851,
     "created_at": "2018-04-17T21:14:51+09:00",
     "updated_at": "2021-01-15T00:25:15+09:00",
     "id": "mshinoda88"
@@ -194,7 +194,7 @@
   {
     "title": "排他制御（楽観ロック・悲観ロック）の基礎　",
     "url": "https://qiita.com/NagaokaKenichi/items/73040df85b7bd4e9ecfc",
-    "likes_count": 838,
+    "likes_count": 839,
     "created_at": "2018-04-08T18:17:21+09:00",
     "updated_at": "2018-04-09T08:59:54+09:00",
     "id": "NagaokaKenichi"
@@ -218,7 +218,7 @@
   {
     "title": "Rails5.2から追加された credentials.yml.enc のキホン",
     "url": "https://qiita.com/NaokiIshimura/items/2a179f2ab910992c4d39",
-    "likes_count": 702,
+    "likes_count": 704,
     "created_at": "2018-04-12T22:24:26+09:00",
     "updated_at": "2020-11-16T02:00:48+09:00",
     "id": "NaokiIshimura"
@@ -234,7 +234,7 @@
   {
     "title": "グレースケール画像のうんちく",
     "url": "https://qiita.com/yoya/items/96c36b069e74398796f3",
-    "likes_count": 686,
+    "likes_count": 687,
     "created_at": "2018-04-13T01:44:35+09:00",
     "updated_at": "2021-09-04T20:33:37+09:00",
     "id": "yoya"
@@ -242,7 +242,7 @@
   {
     "title": "async/await地獄",
     "url": "https://qiita.com/rana_kualu/items/e6c5c0e4f60b0d18799d",
-    "likes_count": 685,
+    "likes_count": 684,
     "created_at": "2018-04-09T19:56:09+09:00",
     "updated_at": "2018-11-25T14:20:35+09:00",
     "id": "rana_kualu"
@@ -336,20 +336,20 @@
     "id": "yyu"
   },
   {
+    "title": "システム設計の流れ・設計書の構成メモ",
+    "url": "https://qiita.com/chocode/items/fd51dd8f561e2a0fbd70",
+    "likes_count": 519,
+    "created_at": "2018-04-26T11:42:28+09:00",
+    "updated_at": "2019-05-09T19:32:33+09:00",
+    "id": "chocode"
+  },
+  {
     "title": "Vue.jsをシンプルに理解しよう",
     "url": "https://qiita.com/yusuke_ten/items/21f97fe961d0070af418",
     "likes_count": 518,
     "created_at": "2018-04-23T01:19:34+09:00",
     "updated_at": "2018-04-26T17:15:37+09:00",
     "id": "yusuke_ten"
-  },
-  {
-    "title": "システム設計の流れ・設計書の構成メモ",
-    "url": "https://qiita.com/chocode/items/fd51dd8f561e2a0fbd70",
-    "likes_count": 517,
-    "created_at": "2018-04-26T11:42:28+09:00",
-    "updated_at": "2019-05-09T19:32:33+09:00",
-    "id": "chocode"
   },
   {
     "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
@@ -384,20 +384,20 @@
     "id": "nanarya"
   },
   {
+    "title": "Goで学ぶポインタとアドレス",
+    "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
+    "likes_count": 476,
+    "created_at": "2018-04-27T14:31:26+09:00",
+    "updated_at": "2019-05-18T15:44:03+09:00",
+    "id": "Sekky0905"
+  },
+  {
     "title": "iPhone画面サイズ早見表（図付き）",
     "url": "https://qiita.com/pe-ta/items/b3b754bde584abc98f44",
     "likes_count": 475,
     "created_at": "2018-04-25T08:11:20+09:00",
     "updated_at": "2020-12-09T10:20:54+09:00",
     "id": "pe-ta"
-  },
-  {
-    "title": "Goで学ぶポインタとアドレス",
-    "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
-    "likes_count": 474,
-    "created_at": "2018-04-27T14:31:26+09:00",
-    "updated_at": "2019-05-18T15:44:03+09:00",
-    "id": "Sekky0905"
   },
   {
     "title": "Promise と async/await の理解度をもう1段階上げる",
@@ -458,7 +458,7 @@
   {
     "title": "ムダな資格集めとはもうサヨナラ　「自分の教育マップ」の作り方",
     "url": "https://qiita.com/Akira-Isegawa/items/d7d103900272b3818ea8",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2018-04-01T23:16:44+09:00",
     "updated_at": "2020-03-25T10:56:49+09:00",
     "id": "Akira-Isegawa"
@@ -482,7 +482,7 @@
   {
     "title": "【詳解】抽象クラスとインタフェースを使いこなそう！！",
     "url": "https://qiita.com/yoshinori_hisakawa/items/cc094bef1caa011cb739",
-    "likes_count": 371,
+    "likes_count": 370,
     "created_at": "2018-04-22T11:04:24+09:00",
     "updated_at": "2018-04-22T12:18:02+09:00",
     "id": "yoshinori_hisakawa"
