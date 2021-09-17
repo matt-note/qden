@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2335,
+    "likes_count": 2334,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1991,
+    "likes_count": 1993,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -42,7 +42,7 @@
   {
     "title": "知識0から始めるVim講座",
     "url": "https://qiita.com/JpnLavender/items/fabcc79b4ab0d52e1f6d",
-    "likes_count": 1774,
+    "likes_count": 1773,
     "created_at": "2016-04-20T13:39:15+09:00",
     "updated_at": "2016-07-18T12:55:03+09:00",
     "id": "JpnLavender"
@@ -66,7 +66,7 @@
   {
     "title": "React+Redux入門",
     "url": "https://qiita.com/erukiti/items/e16aa13ad81d5938374e",
-    "likes_count": 1486,
+    "likes_count": 1485,
     "created_at": "2016-04-11T00:26:29+09:00",
     "updated_at": "2020-11-15T11:42:16+09:00",
     "id": "erukiti"
@@ -176,20 +176,20 @@
     "id": "niisan-tokyo"
   },
   {
-    "title": "RailsアプリをDockerで開発するための手順",
-    "url": "https://qiita.com/togana/items/30b22fc39fe6f7a188ec",
-    "likes_count": 717,
-    "created_at": "2016-04-11T16:04:19+09:00",
-    "updated_at": "2017-07-31T11:11:26+09:00",
-    "id": "togana"
-  },
-  {
     "title": "Googleトレンドに見る2016年人気のCSS・JavaScript・タスクランナー",
     "url": "https://qiita.com/tonkotsuboy_com/items/26ad863bddf98ff01af5",
     "likes_count": 716,
     "created_at": "2016-04-04T13:58:04+09:00",
     "updated_at": "2020-08-29T19:17:14+09:00",
     "id": "tonkotsuboy_com"
+  },
+  {
+    "title": "RailsアプリをDockerで開発するための手順",
+    "url": "https://qiita.com/togana/items/30b22fc39fe6f7a188ec",
+    "likes_count": 716,
+    "created_at": "2016-04-11T16:04:19+09:00",
+    "updated_at": "2017-07-31T11:11:26+09:00",
+    "id": "togana"
   },
   {
     "title": "React.jsとCSS3で長女のためにWEB絵本を作った話",
@@ -226,7 +226,7 @@
   {
     "title": "Thymeleafチートシート",
     "url": "https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482",
-    "likes_count": 653,
+    "likes_count": 654,
     "created_at": "2016-04-18T07:25:38+09:00",
     "updated_at": "2018-04-23T18:05:39+09:00",
     "id": "NagaokaKenichi"
@@ -266,7 +266,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -290,7 +290,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 525,
+    "likes_count": 526,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-04-05T07:56:27+09:00",
     "id": "dai-takahashi"
@@ -298,7 +298,7 @@
   {
     "title": "ttyとかptsとかについて確認してみる",
     "url": "https://qiita.com/toshihirock/items/22de12f99b5c40365369",
-    "likes_count": 477,
+    "likes_count": 476,
     "created_at": "2016-04-28T22:23:17+09:00",
     "updated_at": "2016-04-28T22:23:17+09:00",
     "id": "toshihirock"
@@ -322,7 +322,7 @@
   {
     "title": "シンプルなモデルとイラストでカルマンフィルタを直観的に理解してみる",
     "url": "https://qiita.com/MoriKen/items/0c80ef75749977767b43",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2016-04-11T19:17:39+09:00",
     "updated_at": "2019-08-31T19:18:37+09:00",
     "id": "MoriKen"
@@ -530,7 +530,7 @@
   {
     "title": "知識ゼロからTensorFlowを使った機械学習で人工知能を作るー入門編１",
     "url": "https://qiita.com/jabba/items/2ddd0b8fb855febb4d43",
-    "likes_count": 353,
+    "likes_count": 352,
     "created_at": "2016-04-15T15:33:22+09:00",
     "updated_at": "2016-04-15T15:33:22+09:00",
     "id": "jabba"
@@ -618,7 +618,7 @@
   {
     "title": "今日から始められるリファクタリング10選 (1)",
     "url": "https://qiita.com/nunulk/items/2323b0c30a2cbe5fdb0c",
-    "likes_count": 289,
+    "likes_count": 290,
     "created_at": "2016-04-27T22:35:47+09:00",
     "updated_at": "2016-04-29T13:03:28+09:00",
     "id": "nunulk"

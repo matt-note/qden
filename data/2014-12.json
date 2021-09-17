@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2320,
+    "likes_count": 2321,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -58,7 +58,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1331,
+    "likes_count": 1333,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -122,7 +122,7 @@
   {
     "title": "JavaScriptでforEach, filter, map, reduceとか",
     "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
-    "likes_count": 871,
+    "likes_count": 872,
     "created_at": "2014-12-21T00:42:04+09:00",
     "updated_at": "2018-09-23T17:07:32+09:00",
     "id": "itagakishintaro"
@@ -186,7 +186,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 729,
+    "likes_count": 730,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -272,20 +272,20 @@
     "id": "shinya_131"
   },
   {
-    "title": "React.jsのComponent Lifecycle",
-    "url": "https://qiita.com/koba04/items/66e9c5be8f2e31f28461",
-    "likes_count": 612,
-    "created_at": "2014-12-08T14:31:58+09:00",
-    "updated_at": "2014-12-08T14:37:45+09:00",
-    "id": "koba04"
-  },
-  {
     "title": "DynamoDB ベストプラクティス",
     "url": "https://qiita.com/inouet/items/bcf9467a65b27c362ecf",
     "likes_count": 612,
     "created_at": "2014-12-17T04:08:17+09:00",
     "updated_at": "2014-12-17T13:25:50+09:00",
     "id": "inouet"
+  },
+  {
+    "title": "React.jsのComponent Lifecycle",
+    "url": "https://qiita.com/koba04/items/66e9c5be8f2e31f28461",
+    "likes_count": 611,
+    "created_at": "2014-12-08T14:31:58+09:00",
+    "updated_at": "2014-12-08T14:37:45+09:00",
+    "id": "koba04"
   },
   {
     "title": "米googleの研究者が開発したWord2Vecで自然言語処理(独自データ)",
@@ -354,7 +354,7 @@
   {
     "title": "PostgreSQL のパフォーマンスチューニング",
     "url": "https://qiita.com/cuzic/items/f9b846e6171a54079d77",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2014-12-12T22:45:03+09:00",
     "updated_at": "2014-12-31T22:15:46+09:00",
     "id": "cuzic"
@@ -498,7 +498,7 @@
   {
     "title": "React.jsでPropやStateを使ってComponent間のやりとりをする",
     "url": "https://qiita.com/koba04/items/43200b6fd6e6f43f0d8d",
-    "likes_count": 412,
+    "likes_count": 411,
     "created_at": "2014-12-07T01:05:31+09:00",
     "updated_at": "2015-01-12T22:38:12+09:00",
     "id": "koba04"
@@ -512,20 +512,20 @@
     "id": "gucchon"
   },
   {
+    "title": "Linuxbrew のススメ",
+    "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
+    "likes_count": 399,
+    "created_at": "2014-12-19T08:53:15+09:00",
+    "updated_at": "2020-12-21T20:49:31+09:00",
+    "id": "thermes"
+  },
+  {
     "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
     "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
     "likes_count": 398,
     "created_at": "2014-12-10T11:37:15+09:00",
     "updated_at": "2015-07-03T17:53:15+09:00",
     "id": "izumin5210"
-  },
-  {
-    "title": "Linuxbrew のススメ",
-    "url": "https://qiita.com/thermes/items/926b478ff6e3758ecfea",
-    "likes_count": 398,
-    "created_at": "2014-12-19T08:53:15+09:00",
-    "updated_at": "2020-12-21T20:49:31+09:00",
-    "id": "thermes"
   },
   {
     "title": "ErlangとGolangを比較してみる",
@@ -666,7 +666,7 @@
   {
     "title": "Core Bluetooth with Swift （ObjCのおまけ付き）",
     "url": "https://qiita.com/shu223/items/78614325ce25bf7f4379",
-    "likes_count": 297,
+    "likes_count": 296,
     "created_at": "2014-12-12T18:21:56+09:00",
     "updated_at": "2016-06-10T16:02:24+09:00",
     "id": "shu223"
@@ -720,20 +720,20 @@
     "id": "watanave"
   },
   {
+    "title": "JavaEEをはじめよう！",
+    "url": "https://qiita.com/tkxlab/items/3c0d4073defacb1215f5",
+    "likes_count": 276,
+    "created_at": "2014-12-08T20:45:06+09:00",
+    "updated_at": "2016-10-16T15:02:19+09:00",
+    "id": "tkxlab"
+  },
+  {
     "title": "Linux ネットワークパフォーマンスの機能強化",
     "url": "https://qiita.com/hkajikawa/items/34b21583b216aede0f95",
     "likes_count": 276,
     "created_at": "2014-12-18T12:05:09+09:00",
     "updated_at": "2014-12-18T12:05:09+09:00",
     "id": "hkajikawa"
-  },
-  {
-    "title": "JavaEEをはじめよう！",
-    "url": "https://qiita.com/tkxlab/items/3c0d4073defacb1215f5",
-    "likes_count": 275,
-    "created_at": "2014-12-08T20:45:06+09:00",
-    "updated_at": "2016-10-16T15:02:19+09:00",
-    "id": "tkxlab"
   },
   {
     "title": "知らないと損?RubyMine(IntelliJ)で役立つ細かいテクニック７つ",
@@ -762,7 +762,7 @@
   {
     "title": "golang で streem を実装した。",
     "url": "https://qiita.com/mattn/items/20c7eb056ed8921547a8",
-    "likes_count": 271,
+    "likes_count": 270,
     "created_at": "2014-12-15T22:32:53+09:00",
     "updated_at": "2018-05-08T10:13:10+09:00",
     "id": "mattn"

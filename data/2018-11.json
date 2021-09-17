@@ -10,7 +10,7 @@
   {
     "title": "新人にドヤ顔で説明できるか、今風フロントエンド開発ハンズオン(Git/Node.js/ES6/webpack4/Babel7)",
     "url": "https://qiita.com/riversun/items/29d5264480dd06c7b9fb",
-    "likes_count": 1938,
+    "likes_count": 1940,
     "created_at": "2018-11-12T08:21:10+09:00",
     "updated_at": "2020-12-18T17:26:37+09:00",
     "id": "riversun"
@@ -34,7 +34,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1598,
+    "likes_count": 1599,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2021-04-25T17:54:48+09:00",
     "id": "elipmoc101"
@@ -58,7 +58,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1371,
+    "likes_count": 1370,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -74,7 +74,7 @@
   {
     "title": "たった7行でテトリスを実装「七行プログラミング」とは",
     "url": "https://qiita.com/ryuichi1208/items/f9e6ac2b99bbe4fc82d3",
-    "likes_count": 1220,
+    "likes_count": 1221,
     "created_at": "2018-11-27T22:24:44+09:00",
     "updated_at": "2018-11-27T22:31:56+09:00",
     "id": "ryuichi1208"
@@ -114,7 +114,7 @@
   {
     "title": "【保存版・初心者向け】Python 目的別チュートリアル",
     "url": "https://qiita.com/tani_AI_Academy/items/3edc5effeb386ae3caa9",
-    "likes_count": 1023,
+    "likes_count": 1024,
     "created_at": "2018-11-12T11:51:01+09:00",
     "updated_at": "2020-03-15T19:44:41+09:00",
     "id": "tani_AI_Academy"
@@ -170,7 +170,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 742,
+    "likes_count": 743,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -226,7 +226,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 643,
+    "likes_count": 645,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -258,7 +258,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 545,
+    "likes_count": 547,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -298,7 +298,7 @@
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
     "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 506,
+    "likes_count": 508,
     "created_at": "2018-11-18T19:13:03+09:00",
     "updated_at": "2019-10-05T07:32:56+09:00",
     "id": "kd9951"
@@ -336,20 +336,20 @@
     "id": "uhyo"
   },
   {
-    "title": "State of SEO for SPA 2019",
-    "url": "https://qiita.com/seya/items/2688dc539af217b7b111",
-    "likes_count": 469,
-    "created_at": "2018-11-19T22:51:22+09:00",
-    "updated_at": "2019-05-08T20:37:48+09:00",
-    "id": "seya"
-  },
-  {
     "title": "2万人に聞いた、2018年の最新JavaScript事情",
     "url": "https://qiita.com/rana_kualu/items/b4a7e01cb54b08a171b6",
     "likes_count": 469,
     "created_at": "2018-11-22T23:52:58+09:00",
     "updated_at": "2019-08-17T19:55:27+09:00",
     "id": "rana_kualu"
+  },
+  {
+    "title": "State of SEO for SPA 2019",
+    "url": "https://qiita.com/seya/items/2688dc539af217b7b111",
+    "likes_count": 468,
+    "created_at": "2018-11-19T22:51:22+09:00",
+    "updated_at": "2019-05-08T20:37:48+09:00",
+    "id": "seya"
   },
   {
     "title": "統計検定２級に楽に合格する方法",
@@ -466,7 +466,7 @@
   {
     "title": "Webアプリ初心者がGo言語でサーバサイド（1. 簡単なHTTPサーバの実装）",
     "url": "https://qiita.com/wsuzume/items/75d5c0cd2dd5a1963b9e",
-    "likes_count": 362,
+    "likes_count": 361,
     "created_at": "2018-11-06T00:29:50+09:00",
     "updated_at": "2018-11-06T01:08:22+09:00",
     "id": "wsuzume"
@@ -522,7 +522,7 @@
   {
     "title": "【Ruby on Rails】N+1問題ってなんだ？",
     "url": "https://qiita.com/massaaaaan/items/4eb770f20e636f7a1361",
-    "likes_count": 306,
+    "likes_count": 305,
     "created_at": "2018-11-20T22:06:41+09:00",
     "updated_at": "2018-11-20T22:06:41+09:00",
     "id": "massaaaaan"
@@ -554,7 +554,7 @@
   {
     "title": "【Rails】deviseを導入してみる",
     "url": "https://qiita.com/Hal_mai/items/350c400e8763ce0487a3",
-    "likes_count": 255,
+    "likes_count": 256,
     "created_at": "2018-11-07T22:55:48+09:00",
     "updated_at": "2018-11-08T19:17:42+09:00",
     "id": "Hal_mai"

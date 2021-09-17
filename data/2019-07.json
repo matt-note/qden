@@ -2,7 +2,7 @@
   {
     "title": "すべての新米フロントエンドエンジニアに読んでほしい50の資料",
     "url": "https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2",
-    "likes_count": 3851,
+    "likes_count": 3852,
     "created_at": "2019-07-11T20:07:24+09:00",
     "updated_at": "2019-07-12T17:37:42+09:00",
     "id": "suzu-4"
@@ -18,7 +18,7 @@
   {
     "title": "2019年版 最先端のフロントエンド開発者になるために学ぶべきこと",
     "url": "https://qiita.com/baby-degu/items/da30fa71b8f48fffc568",
-    "likes_count": 1509,
+    "likes_count": 1508,
     "created_at": "2019-07-21T14:50:16+09:00",
     "updated_at": "2020-06-06T19:21:52+09:00",
     "id": "baby-degu"
@@ -66,7 +66,7 @@
   {
     "title": "【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン",
     "url": "https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4",
-    "likes_count": 1163,
+    "likes_count": 1165,
     "created_at": "2019-07-18T19:02:09+09:00",
     "updated_at": "2021-09-16T10:51:50+09:00",
     "id": "ucan-lab"
@@ -146,7 +146,7 @@
   {
     "title": "OAuth 2.0 クライアント認証",
     "url": "https://qiita.com/TakahikoKawasaki/items/63ed4a9d8d6e5109e401",
-    "likes_count": 769,
+    "likes_count": 768,
     "created_at": "2019-07-14T01:13:21+09:00",
     "updated_at": "2020-04-12T03:00:16+09:00",
     "id": "TakahikoKawasaki"
@@ -154,7 +154,7 @@
   {
     "title": "これからVueを勉強しようと思っている人への道しるべ（勉強方法）を書く",
     "url": "https://qiita.com/akashixi/items/8b1f1e9a985b9024bba6",
-    "likes_count": 753,
+    "likes_count": 754,
     "created_at": "2019-07-06T22:06:27+09:00",
     "updated_at": "2019-07-06T22:11:19+09:00",
     "id": "akashixi"
@@ -234,7 +234,7 @@
   {
     "title": "[Flutter]コピペで使える！ボタンのデザイン16種類をまとめました",
     "url": "https://qiita.com/coka__01/items/30716f42e4a909334c9f",
-    "likes_count": 480,
+    "likes_count": 481,
     "created_at": "2019-07-29T08:26:28+09:00",
     "updated_at": "2021-07-01T23:22:36+09:00",
     "id": "coka__01"
@@ -250,7 +250,7 @@
   {
     "title": "SPA、SSR、プリレンダリングの違いをまとめてみた",
     "url": "https://qiita.com/amakawa_/items/e7d0720e1ab8632769bf",
-    "likes_count": 459,
+    "likes_count": 460,
     "created_at": "2019-07-21T15:42:13+09:00",
     "updated_at": "2019-12-20T15:58:34+09:00",
     "id": "amakawa_"
@@ -274,7 +274,7 @@
   {
     "title": "Reactのべからず集",
     "url": "https://qiita.com/jkr_2255/items/041f238a940f923e4dfc",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2019-07-22T22:52:48+09:00",
     "updated_at": "2019-07-22T22:55:30+09:00",
     "id": "jkr_2255"
@@ -368,20 +368,20 @@
     "id": "tomokichi_ruby"
   },
   {
-    "title": "WSLとwindows間のファイル連携",
-    "url": "https://qiita.com/quzq/items/1096c638c0d86795be13",
-    "likes_count": 331,
-    "created_at": "2019-07-24T02:31:24+09:00",
-    "updated_at": "2020-08-03T09:31:49+09:00",
-    "id": "quzq"
-  },
-  {
     "title": "意識低い系フロントエンド勉強法",
     "url": "https://qiita.com/neet_se/items/b44d7e5a3665f7715093",
     "likes_count": 330,
     "created_at": "2019-07-13T18:05:07+09:00",
     "updated_at": "2019-07-13T18:05:07+09:00",
     "id": "neet_se"
+  },
+  {
+    "title": "WSLとwindows間のファイル連携",
+    "url": "https://qiita.com/quzq/items/1096c638c0d86795be13",
+    "likes_count": 330,
+    "created_at": "2019-07-24T02:31:24+09:00",
+    "updated_at": "2020-08-03T09:31:49+09:00",
+    "id": "quzq"
   },
   {
     "title": "Firebase + Nuxt.js + RaspberryPiで作る猫監視システム",
@@ -426,7 +426,7 @@
   {
     "title": "matplotlibの描画の基本 - figやらaxesやらがよくわからなくなった人向け",
     "url": "https://qiita.com/kenichiro_nishioka/items/8e307e164a4e0a279734",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2019-07-07T20:15:47+09:00",
     "updated_at": "2019-07-07T20:15:47+09:00",
     "id": "kenichiro_nishioka"
@@ -434,7 +434,7 @@
   {
     "title": "【Vue】単一ファイルコンポーネントの命名規則まとめ【ファイル名から記法まで】",
     "url": "https://qiita.com/ngron/items/ab2a17ae483c95a2f15e",
-    "likes_count": 277,
+    "likes_count": 279,
     "created_at": "2019-07-10T16:44:26+09:00",
     "updated_at": "2021-03-02T10:16:05+09:00",
     "id": "ngron"

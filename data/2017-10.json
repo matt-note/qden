@@ -2,7 +2,7 @@
   {
     "title": "ブロックチェーンを作ることで学ぶ 〜ブロックチェーンがどのように動いているのか学ぶ最速の方法は作ってみることだ〜",
     "url": "https://qiita.com/hidehiro98/items/841ece65d896aeaa8a2a",
-    "likes_count": 2218,
+    "likes_count": 2219,
     "created_at": "2017-10-13T13:37:47+09:00",
     "updated_at": "2020-09-23T19:06:30+09:00",
     "id": "hidehiro98"
@@ -10,7 +10,7 @@
   {
     "title": "jQuery から Vue.js へのステップアップ",
     "url": "https://qiita.com/mio3io/items/e7b2596d06b8005e8e6f",
-    "likes_count": 1968,
+    "likes_count": 1967,
     "created_at": "2017-10-13T09:39:13+09:00",
     "updated_at": "2018-12-14T20:14:40+09:00",
     "id": "mio3io"
@@ -58,7 +58,7 @@
   {
     "title": "iTerm2のおすすめ設定〜ターミナル作業を効率化する〜",
     "url": "https://qiita.com/ruwatana/items/8d9c174250061721ad11",
-    "likes_count": 753,
+    "likes_count": 752,
     "created_at": "2017-10-22T16:58:10+09:00",
     "updated_at": "2019-06-16T23:16:40+09:00",
     "id": "ruwatana"
@@ -82,7 +82,7 @@
   {
     "title": "ReactJSで作る今時のSPA入門（基本編）",
     "url": "https://qiita.com/teradonburi/items/fb91e5feacab5071cfef",
-    "likes_count": 676,
+    "likes_count": 675,
     "created_at": "2017-10-15T16:50:58+09:00",
     "updated_at": "2018-11-12T02:19:00+09:00",
     "id": "teradonburi"
@@ -106,7 +106,7 @@
   {
     "title": "[DDD]ドメイン駆動 + オニオンアーキテクチャ概略",
     "url": "https://qiita.com/little_hand_s/items/2040fba15d90b93fc124",
-    "likes_count": 657,
+    "likes_count": 659,
     "created_at": "2017-10-11T07:53:16+09:00",
     "updated_at": "2021-08-12T13:24:35+09:00",
     "id": "little_hand_s"
@@ -122,7 +122,7 @@
   {
     "title": "Python クラスについて",
     "url": "https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c",
-    "likes_count": 651,
+    "likes_count": 650,
     "created_at": "2017-10-29T20:49:32+09:00",
     "updated_at": "2021-03-07T21:03:01+09:00",
     "id": "motoki1990"
@@ -154,7 +154,7 @@
   {
     "title": "Swaggerの記法まとめ",
     "url": "https://qiita.com/rllllho/items/53a0023b32f4c0f8eabb",
-    "likes_count": 519,
+    "likes_count": 518,
     "created_at": "2017-10-10T15:17:51+09:00",
     "updated_at": "2019-03-10T16:11:41+09:00",
     "id": "rllllho"
@@ -162,7 +162,7 @@
   {
     "title": "GithubでのWeb上からのマージの仕方3種とその使いどころ",
     "url": "https://qiita.com/ko-he-8/items/94e872f2154829c868df",
-    "likes_count": 515,
+    "likes_count": 516,
     "created_at": "2017-10-11T13:22:58+09:00",
     "updated_at": "2019-02-19T08:08:27+09:00",
     "id": "ko-he-8"
@@ -170,7 +170,7 @@
   {
     "title": "脱Word、脱Markdown、asciidocでドキュメント作成する際のアレコレ",
     "url": "https://qiita.com/tamikura@github/items/5d3f62dae55617ee42bb",
-    "likes_count": 505,
+    "likes_count": 506,
     "created_at": "2017-10-30T04:44:08+09:00",
     "updated_at": "2019-06-28T08:52:35+09:00",
     "id": "tamikura@github"
@@ -234,18 +234,10 @@
   {
     "title": "テスト自動化について、調べてみた",
     "url": "https://qiita.com/yutachaos/items/857472c7d3c65d3cf316",
-    "likes_count": 427,
+    "likes_count": 426,
     "created_at": "2017-10-09T14:38:23+09:00",
     "updated_at": "2021-01-06T16:15:51+09:00",
     "id": "yutachaos"
-  },
-  {
-    "title": "Cloud FirestoreのSubCollectionとQueryっていつ使うの問題",
-    "url": "https://qiita.com/1amageek/items/d2ef7a49bccf5b4ea78e",
-    "likes_count": 415,
-    "created_at": "2017-10-07T16:31:33+09:00",
-    "updated_at": "2019-03-26T10:00:56+09:00",
-    "id": "1amageek"
   },
   {
     "title": "Karabiner-Elementsの設定項目をまとめました",
@@ -256,9 +248,17 @@
     "id": "s-show"
   },
   {
+    "title": "Cloud FirestoreのSubCollectionとQueryっていつ使うの問題",
+    "url": "https://qiita.com/1amageek/items/d2ef7a49bccf5b4ea78e",
+    "likes_count": 414,
+    "created_at": "2017-10-07T16:31:33+09:00",
+    "updated_at": "2019-03-26T10:00:56+09:00",
+    "id": "1amageek"
+  },
+  {
     "title": "Node.jsでウェブスクレイピングする色々な方法",
     "url": "https://qiita.com/ledsun/items/0965a60f9bdff04f2fa0",
-    "likes_count": 411,
+    "likes_count": 410,
     "created_at": "2017-10-06T17:19:09+09:00",
     "updated_at": "2019-07-14T19:32:47+09:00",
     "id": "ledsun"
@@ -282,7 +282,7 @@
   {
     "title": "競プロ等におけるpython3の標準入力",
     "url": "https://qiita.com/zenrshon/items/c4f3849552348b3dbe67",
-    "likes_count": 362,
+    "likes_count": 361,
     "created_at": "2017-10-25T14:23:32+09:00",
     "updated_at": "2020-04-11T13:45:44+09:00",
     "id": "zenrshon"
@@ -386,7 +386,7 @@
   {
     "title": "3分で分かった気になる、Kubernetes とは？",
     "url": "https://qiita.com/r548/items/e6d1e4dcfdd9f8a7874d",
-    "likes_count": 304,
+    "likes_count": 303,
     "created_at": "2017-10-22T01:34:36+09:00",
     "updated_at": "2018-12-12T13:48:07+09:00",
     "id": "r548"
