@@ -18,7 +18,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】",
     "url": "https://qiita.com/e869120/items/f1c6f98364d1443148b3",
-    "likes_count": 2665,
+    "likes_count": 2666,
     "created_at": "2020-02-19T19:00:12+09:00",
     "updated_at": "2021-07-12T22:50:00+09:00",
     "id": "e869120"
@@ -122,18 +122,18 @@
   {
     "title": "GraphQLの全体像とWebApp開発のこれから",
     "url": "https://qiita.com/saboyutaka/items/171f7382cdf75b67d076",
-    "likes_count": 1154,
+    "likes_count": 1155,
     "created_at": "2020-02-24T16:21:54+09:00",
     "updated_at": "2021-07-27T10:30:26+09:00",
     "id": "saboyutaka"
   },
   {
     "title": "Pythonでゼロからでもサービス開発・公開できる学習ロードマップ",
-    "url": "https://qiita.com/Saku731/items/52a3bbacd002f26f408e",
-    "likes_count": 1122,
+    "url": "https://qiita.com/digisaku_tamori/items/52a3bbacd002f26f408e",
+    "likes_count": 1123,
     "created_at": "2020-02-16T10:47:51+09:00",
     "updated_at": "2021-03-26T11:29:50+09:00",
-    "id": "Saku731"
+    "id": "digisaku_tamori"
   },
   {
     "title": "高校生がアルゴリズムとスパコンの力で、京都の碁盤目状道路を13.9%効率化した話",
@@ -210,7 +210,7 @@
   {
     "title": "Jamstackって何なの？何がいいの？",
     "url": "https://qiita.com/ozaki25/items/4075d03278d1fb51cc37",
-    "likes_count": 594,
+    "likes_count": 595,
     "created_at": "2020-02-08T02:59:23+09:00",
     "updated_at": "2020-11-06T00:52:23+09:00",
     "id": "ozaki25"
@@ -224,20 +224,20 @@
     "id": "takayuki"
   },
   {
+    "title": "Django(Python)でシステム開発できるようになる記事_入門編",
+    "url": "https://qiita.com/digisaku_tamori/items/ed64190a12a4498b9446",
+    "likes_count": 511,
+    "created_at": "2020-02-16T10:50:36+09:00",
+    "updated_at": "2021-03-26T11:27:54+09:00",
+    "id": "digisaku_tamori"
+  },
+  {
     "title": "pythonを使った株価の自動収集",
     "url": "https://qiita.com/Hexans/items/12c6483bbce90b470a69",
     "likes_count": 511,
     "created_at": "2020-02-18T21:35:06+09:00",
     "updated_at": "2020-04-18T19:20:38+09:00",
     "id": "Hexans"
-  },
-  {
-    "title": "Django(Python)でシステム開発できるようになる記事_入門編",
-    "url": "https://qiita.com/Saku731/items/ed64190a12a4498b9446",
-    "likes_count": 509,
-    "created_at": "2020-02-16T10:50:36+09:00",
-    "updated_at": "2021-03-26T11:27:54+09:00",
-    "id": "Saku731"
   },
   {
     "title": "ラズパイ4で作るディスプレイ付きKubernetesクラスター",
@@ -362,7 +362,7 @@
   {
     "title": "Pythonのthreadingとmultiprocessingを完全理解",
     "url": "https://qiita.com/kaitolucifer/items/e4ace07bd8e112388c75",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2020-02-26T20:35:18+09:00",
     "updated_at": "2021-05-20T11:58:58+09:00",
     "id": "kaitolucifer"
@@ -400,20 +400,20 @@
     "id": "meshidenn"
   },
   {
+    "title": "create-react-appで React + Typescript な環境を構築する",
+    "url": "https://qiita.com/sunnyG/items/05c2e9381d6ba2d9fccf",
+    "likes_count": 330,
+    "created_at": "2020-02-22T15:09:52+09:00",
+    "updated_at": "2021-04-01T23:19:22+09:00",
+    "id": "sunnyG"
+  },
+  {
     "title": "離散フーリエ変換(DFT)の仕組みを完全に理解する",
     "url": "https://qiita.com/TumoiYorozu/items/5855d75a47ef2c7e62c8",
     "likes_count": 328,
     "created_at": "2020-02-09T05:48:05+09:00",
     "updated_at": "2021-05-24T19:41:17+09:00",
     "id": "TumoiYorozu"
-  },
-  {
-    "title": "create-react-appで React + Typescript な環境を構築する",
-    "url": "https://qiita.com/sunnyG/items/05c2e9381d6ba2d9fccf",
-    "likes_count": 328,
-    "created_at": "2020-02-22T15:09:52+09:00",
-    "updated_at": "2021-04-01T23:19:22+09:00",
-    "id": "sunnyG"
   },
   {
     "title": "【2020年版】Boost Noteの使い方",
@@ -482,7 +482,7 @@
   {
     "title": "すっきり書きたい JavaScriptの条件分岐",
     "url": "https://qiita.com/taiju_suzuki/items/e2bf11fcf1645623235f",
-    "likes_count": 227,
+    "likes_count": 228,
     "created_at": "2020-02-12T18:41:04+09:00",
     "updated_at": "2020-02-19T23:31:36+09:00",
     "id": "taiju_suzuki"
