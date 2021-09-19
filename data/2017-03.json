@@ -58,7 +58,7 @@
   {
     "title": "JavaScript,jQueryの爆速コーディング、デバッグ方法論の勧め～実践向け逆引き(windows,chrome向け)～",
     "url": "https://qiita.com/shgkt/items/0054670269e1d3aa49b8",
-    "likes_count": 791,
+    "likes_count": 792,
     "created_at": "2017-03-29T21:09:22+09:00",
     "updated_at": "2017-05-17T17:19:30+09:00",
     "id": "shgkt"
@@ -154,10 +154,18 @@
   {
     "title": "なぜ自然言語処理にとって単語の分散表現は重要なのか？",
     "url": "https://qiita.com/Hironsan/items/a58636f946dd51f670b0",
-    "likes_count": 551,
+    "likes_count": 552,
     "created_at": "2017-03-08T08:34:16+09:00",
     "updated_at": "2017-03-08T20:22:28+09:00",
     "id": "Hironsan"
+  },
+  {
+    "title": "C# CODING GUIDELINES",
+    "url": "https://qiita.com/Ted-HM/items/67eddbe36b88bf2d441d",
+    "likes_count": 497,
+    "created_at": "2017-03-21T19:59:54+09:00",
+    "updated_at": "2019-09-25T23:01:09+09:00",
+    "id": "Ted-HM"
   },
   {
     "title": "ディープラーニングでアスキーアートを作る",
@@ -166,14 +174,6 @@
     "created_at": "2017-03-11T23:29:55+09:00",
     "updated_at": "2017-03-13T11:25:25+09:00",
     "id": "OsciiArt"
-  },
-  {
-    "title": "C# CODING GUIDELINES",
-    "url": "https://qiita.com/Ted-HM/items/67eddbe36b88bf2d441d",
-    "likes_count": 496,
-    "created_at": "2017-03-21T19:59:54+09:00",
-    "updated_at": "2019-09-25T23:01:09+09:00",
-    "id": "Ted-HM"
   },
   {
     "title": "なぜあなたのPull Requestは読まれないのか",
@@ -266,7 +266,7 @@
   {
     "title": "初心者向け vimrcの設定方法",
     "url": "https://qiita.com/iwaseasahi/items/0b2da68269397906c14c",
-    "likes_count": 353,
+    "likes_count": 354,
     "created_at": "2017-03-06T22:56:48+09:00",
     "updated_at": "2019-05-15T12:49:56+09:00",
     "id": "iwaseasahi"
@@ -322,7 +322,7 @@
   {
     "title": "axios、async/awaitを使ったHTTPリクエスト(Web APIを実行)",
     "url": "https://qiita.com/shisama/items/61cdcc09dc69fd8d3127",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2017-03-12T01:43:22+09:00",
     "updated_at": "2019-02-11T09:37:29+09:00",
     "id": "shisama"
@@ -370,7 +370,7 @@
   {
     "title": "データサイエンス、データ分析、機械学習に必要な数学",
     "url": "https://qiita.com/aokikenichi/items/4d683dc5774f844f8113",
-    "likes_count": 226,
+    "likes_count": 227,
     "created_at": "2017-03-26T20:25:01+09:00",
     "updated_at": "2017-04-04T02:10:51+09:00",
     "id": "aokikenichi"

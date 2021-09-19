@@ -42,7 +42,7 @@
   {
     "title": "覚えておきたい Vim コマンド 備忘録",
     "url": "https://qiita.com/colorrabbit/items/755cfbb0e97d48280775",
-    "likes_count": 1254,
+    "likes_count": 1255,
     "created_at": "2013-04-26T14:09:36+09:00",
     "updated_at": "2014-02-10T17:28:31+09:00",
     "id": "colorrabbit"
@@ -66,7 +66,7 @@
   {
     "title": "状況によってsave時に実行するバリデーションを切り替える",
     "url": "https://qiita.com/kadoppe/items/061d137e6022fa099872",
-    "likes_count": 491,
+    "likes_count": 492,
     "created_at": "2013-04-25T22:56:57+09:00",
     "updated_at": "2013-04-25T22:57:51+09:00",
     "id": "kadoppe"
@@ -104,20 +104,20 @@
     "id": "otoyo"
   },
   {
+    "title": "Bashでコマンドの存在チェックはwhichよりhashの方が良いかも→いやtypeが最強→command -vも",
+    "url": "https://qiita.com/kawaz/items/1b61ee2dd4d1acc7cc94",
+    "likes_count": 324,
+    "created_at": "2013-04-05T15:59:10+09:00",
+    "updated_at": "2020-05-08T11:49:50+09:00",
+    "id": "kawaz"
+  },
+  {
     "title": "知らないと損しそうなApache Commonsの機能集",
     "url": "https://qiita.com/horimislime/items/a9b9cf89e13cc9639ff2",
     "likes_count": 324,
     "created_at": "2013-04-07T13:56:09+09:00",
     "updated_at": "2013-04-07T19:23:09+09:00",
     "id": "horimislime"
-  },
-  {
-    "title": "Bashでコマンドの存在チェックはwhichよりhashの方が良いかも→いやtypeが最強→command -vも",
-    "url": "https://qiita.com/kawaz/items/1b61ee2dd4d1acc7cc94",
-    "likes_count": 323,
-    "created_at": "2013-04-05T15:59:10+09:00",
-    "updated_at": "2020-05-08T11:49:50+09:00",
-    "id": "kawaz"
   },
   {
     "title": "GitHubのようなtextareaの補完機能を実装する - カーソル位置の取得",
