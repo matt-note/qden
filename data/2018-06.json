@@ -82,7 +82,7 @@
   {
     "title": "ApacheとNginxについて比較",
     "url": "https://qiita.com/kamihork/items/49e2a363da7d840a4149",
-    "likes_count": 1032,
+    "likes_count": 1034,
     "created_at": "2018-06-15T09:16:24+09:00",
     "updated_at": "2020-06-13T23:35:39+09:00",
     "id": "kamihork"
@@ -98,7 +98,7 @@
   {
     "title": "リリース済みiOSアプリのソースコード、全部見せます！",
     "url": "https://qiita.com/ryupaka/items/ea272c843d3ebf3b245b",
-    "likes_count": 966,
+    "likes_count": 967,
     "created_at": "2018-06-04T22:59:00+09:00",
     "updated_at": "2018-06-06T23:43:23+09:00",
     "id": "ryupaka"
@@ -122,7 +122,7 @@
   {
     "title": "世のフロントエンドエンジニアにApollo Clientを布教したい",
     "url": "https://qiita.com/seya/items/26c8a0dc549a10efcdf8",
-    "likes_count": 886,
+    "likes_count": 888,
     "created_at": "2018-06-04T07:42:42+09:00",
     "updated_at": "2018-08-27T20:10:22+09:00",
     "id": "seya"
@@ -146,7 +146,7 @@
   {
     "title": "Railsで超簡単API",
     "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 761,
+    "likes_count": 762,
     "created_at": "2018-06-27T16:46:37+09:00",
     "updated_at": "2020-02-24T14:01:49+09:00",
     "id": "k-penguin-sato"
@@ -178,7 +178,7 @@
   {
     "title": "React Nativeの実は使ってはダメなライブラリ素晴らしいライブラリ(随時更新)",
     "url": "https://qiita.com/kaba/items/569aafd80889bb5d9328",
-    "likes_count": 612,
+    "likes_count": 613,
     "created_at": "2018-06-02T16:38:42+09:00",
     "updated_at": "2021-04-01T21:30:01+09:00",
     "id": "kaba"
@@ -282,7 +282,7 @@
   {
     "title": "Visual Studio Code でフロントエンドの開発環境を構築してデバッグする",
     "url": "https://qiita.com/C3REVE/items/273646ad028e98758e70",
-    "likes_count": 464,
+    "likes_count": 465,
     "created_at": "2018-06-11T22:28:36+09:00",
     "updated_at": "2019-07-16T14:45:28+09:00",
     "id": "C3REVE"
@@ -306,7 +306,7 @@
   {
     "title": "正規化の要点を理解する",
     "url": "https://qiita.com/mochichoco/items/2904384b2856db2bf46c",
-    "likes_count": 434,
+    "likes_count": 435,
     "created_at": "2018-06-10T19:21:27+09:00",
     "updated_at": "2021-03-12T19:32:52+09:00",
     "id": "mochichoco"
@@ -330,7 +330,7 @@
   {
     "title": "脆弱性の警告を受けたnpmパッケージの依存関係を力技で直す",
     "url": "https://qiita.com/hibikikudo/items/0af352acac85fce28ec2",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2018-06-18T16:45:59+09:00",
     "updated_at": "2018-12-17T17:47:00+09:00",
     "id": "hibikikudo"
@@ -376,20 +376,20 @@
     "id": "thinksphere"
   },
   {
+    "title": "【初心者向け】Linuxカーネルって一体なんだ？",
+    "url": "https://qiita.com/uguis410/items/17ec1e447e9716bfdca7",
+    "likes_count": 360,
+    "created_at": "2018-06-17T17:04:14+09:00",
+    "updated_at": "2019-09-06T10:42:56+09:00",
+    "id": "uguis410"
+  },
+  {
     "title": "Reactのデザインパターン Compound Components",
     "url": "https://qiita.com/seya/items/d08b8a6c12f3e71d5971",
     "likes_count": 360,
     "created_at": "2018-06-19T11:16:51+09:00",
     "updated_at": "2018-06-21T08:32:11+09:00",
     "id": "seya"
-  },
-  {
-    "title": "【初心者向け】Linuxカーネルって一体なんだ？",
-    "url": "https://qiita.com/uguis410/items/17ec1e447e9716bfdca7",
-    "likes_count": 359,
-    "created_at": "2018-06-17T17:04:14+09:00",
-    "updated_at": "2019-09-06T10:42:56+09:00",
-    "id": "uguis410"
   },
   {
     "title": "python知識ゼロからポケモンの名前でしりとりするslackbotを作ったノウハウのすべて",
@@ -402,7 +402,7 @@
   {
     "title": "貰う DP と配る DP、メモ化再帰、個数制限なしナップサック問題",
     "url": "https://qiita.com/drken/items/ace3142967c4f01d42e9",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2018-06-12T17:17:40+09:00",
     "updated_at": "2020-01-27T14:42:26+09:00",
     "id": "drken"
@@ -482,7 +482,7 @@
   {
     "title": "C# 今更ですが、HttpClientを使う",
     "url": "https://qiita.com/rawr/items/f78a3830d894042f891b",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2018-06-15T12:29:06+09:00",
     "updated_at": "2019-12-02T09:58:17+09:00",
     "id": "rawr"
@@ -530,7 +530,7 @@
   {
     "title": "【超簡単】Vue.jsを使って3時間で自分のホームページを作成&公開する",
     "url": "https://qiita.com/abouch/items/35d7a202f3e74c7d4c3e",
-    "likes_count": 260,
+    "likes_count": 261,
     "created_at": "2018-06-26T19:50:44+09:00",
     "updated_at": "2020-01-10T23:51:54+09:00",
     "id": "abouch"

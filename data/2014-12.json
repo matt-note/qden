@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2321,
+    "likes_count": 2322,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -42,7 +42,7 @@
   {
     "title": "homebrewとは何者か。仕組みについて調べてみた",
     "url": "https://qiita.com/omega999/items/6f65217b81ad3fffe7e6",
-    "likes_count": 1676,
+    "likes_count": 1677,
     "created_at": "2014-12-04T20:41:15+09:00",
     "updated_at": "2014-12-04T20:41:15+09:00",
     "id": "omega999"
@@ -58,7 +58,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1335,
+    "likes_count": 1336,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2020-07-21T15:48:03+09:00",
     "id": "kunichiko"
@@ -106,7 +106,7 @@
   {
     "title": "マイクロソフトはどうやってBingをFPGAで実装したか",
     "url": "https://qiita.com/kazunori279/items/6f517648e8a408254a50",
-    "likes_count": 1212,
+    "likes_count": 1211,
     "created_at": "2014-12-08T10:44:08+09:00",
     "updated_at": "2015-01-22T16:01:02+09:00",
     "id": "kazunori279"
@@ -186,7 +186,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 730,
+    "likes_count": 731,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -202,7 +202,7 @@
   {
     "title": "初心者向けGithubへのPullRequest方法",
     "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 725,
+    "likes_count": 726,
     "created_at": "2014-12-17T23:28:14+09:00",
     "updated_at": "2014-12-19T09:14:55+09:00",
     "id": "samurai_runner"
@@ -570,7 +570,7 @@
   {
     "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
     "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2014-12-18T22:53:36+09:00",
     "updated_at": "2015-02-14T18:30:30+09:00",
     "id": "y_hokkey"
@@ -672,6 +672,14 @@
     "id": "shu223"
   },
   {
+    "title": "React.jsでFormを扱う",
+    "url": "https://qiita.com/koba04/items/40cc217ab925ef651113",
+    "likes_count": 294,
+    "created_at": "2014-12-10T19:13:22+09:00",
+    "updated_at": "2015-05-18T00:39:26+09:00",
+    "id": "koba04"
+  },
+  {
     "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
     "url": "https://qiita.com/mkasahara/items/c029154b5436913b20e0",
     "likes_count": 294,
@@ -686,14 +694,6 @@
     "created_at": "2014-12-28T11:32:19+09:00",
     "updated_at": "2015-01-10T11:50:04+09:00",
     "id": "taiyop"
-  },
-  {
-    "title": "React.jsでFormを扱う",
-    "url": "https://qiita.com/koba04/items/40cc217ab925ef651113",
-    "likes_count": 293,
-    "created_at": "2014-12-10T19:13:22+09:00",
-    "updated_at": "2015-05-18T00:39:26+09:00",
-    "id": "koba04"
   },
   {
     "title": "Qiita の記事の見出しに Font-Awesome を利用して見栄えを良くする #qiita",

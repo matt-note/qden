@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5195,
+    "likes_count": 5196,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4774,
+    "likes_count": 4775,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2820,
+    "likes_count": 2821,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
     "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 1028,
+    "likes_count": 1029,
     "created_at": "2018-05-12T11:14:50+09:00",
     "updated_at": "2020-03-07T10:07:41+09:00",
     "id": "y-tsutsu"
@@ -122,7 +122,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 928,
+    "likes_count": 929,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -138,7 +138,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 794,
+    "likes_count": 795,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -170,7 +170,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 720,
+    "likes_count": 721,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -178,7 +178,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 705,
+    "likes_count": 706,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -210,7 +210,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 666,
+    "likes_count": 667,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2021-08-18T14:03:43+09:00",
     "id": "hiyuzawa"
@@ -264,20 +264,20 @@
     "id": "JotaroS"
   },
   {
+    "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
+    "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
+    "likes_count": 592,
+    "created_at": "2018-05-21T08:09:42+09:00",
+    "updated_at": "2018-05-21T21:53:00+09:00",
+    "id": "tag1216"
+  },
+  {
     "title": "結局、機械学習と統計学は何が違うのか？",
     "url": "https://qiita.com/KanNishida/items/8ab8553b17cb57e772d6",
     "likes_count": 591,
     "created_at": "2018-05-07T15:47:30+09:00",
     "updated_at": "2018-05-08T03:19:12+09:00",
     "id": "KanNishida"
-  },
-  {
-    "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
-    "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 591,
-    "created_at": "2018-05-21T08:09:42+09:00",
-    "updated_at": "2018-05-21T21:53:00+09:00",
-    "id": "tag1216"
   },
   {
     "title": "皆さんはどんな方法で情報収集してますか？私はこんな感じです。",
@@ -330,7 +330,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -442,7 +442,7 @@
   {
     "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
     "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2018-05-21T00:02:30+09:00",
     "updated_at": "2018-12-13T21:47:28+09:00",
     "id": "shtnkgm"
