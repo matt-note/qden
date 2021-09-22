@@ -34,7 +34,7 @@
   {
     "title": "Vue.js + Vuexでデータが循環する全体像を図解してみた",
     "url": "https://qiita.com/m_mitsuhide/items/f16d988ec491b7800ace",
-    "likes_count": 1327,
+    "likes_count": 1328,
     "created_at": "2018-07-30T13:03:15+09:00",
     "updated_at": "2019-12-05T11:02:51+09:00",
     "id": "m_mitsuhide"
@@ -42,7 +42,7 @@
   {
     "title": "直近１年のQiita記事分析で分かった７つの「驚愕」",
     "url": "https://qiita.com/youwht/items/f3fa7e6cc2687509c06e",
-    "likes_count": 1186,
+    "likes_count": 1187,
     "created_at": "2018-07-03T20:57:33+09:00",
     "updated_at": "2018-07-12T11:41:48+09:00",
     "id": "youwht"
@@ -194,7 +194,7 @@
   {
     "title": "permission deniedで悩まされたので勉強してみた",
     "url": "https://qiita.com/takuyanin/items/18590600d077df707923",
-    "likes_count": 543,
+    "likes_count": 544,
     "created_at": "2018-07-12T20:32:36+09:00",
     "updated_at": "2019-11-13T11:45:07+09:00",
     "id": "takuyanin"
@@ -266,7 +266,7 @@
   {
     "title": "DynamoDBのキー・インデックスについてまとめてみた",
     "url": "https://qiita.com/shibataka000/items/e3f3792201d6fcc397fd",
-    "likes_count": 437,
+    "likes_count": 438,
     "created_at": "2018-07-14T18:43:22+09:00",
     "updated_at": "2021-04-16T19:22:12+09:00",
     "id": "shibataka000"
@@ -368,20 +368,20 @@
     "id": "buchiya4th"
   },
   {
+    "title": "RxSwift 再入門",
+    "url": "https://qiita.com/usamik26/items/444d6dd7386b2949c06b",
+    "likes_count": 335,
+    "created_at": "2018-07-29T22:06:16+09:00",
+    "updated_at": "2019-04-03T07:47:48+09:00",
+    "id": "usamik26"
+  },
+  {
     "title": "音響処理の基礎 with CNN　〜機械学習で「太鼓の達人」の自動作譜をしてみた〜",
     "url": "https://qiita.com/woodyZootopia/items/01cc43fafe767d3edf62",
     "likes_count": 334,
     "created_at": "2018-07-20T19:52:47+09:00",
     "updated_at": "2018-08-01T17:52:12+09:00",
     "id": "woodyZootopia"
-  },
-  {
-    "title": "RxSwift 再入門",
-    "url": "https://qiita.com/usamik26/items/444d6dd7386b2949c06b",
-    "likes_count": 334,
-    "created_at": "2018-07-29T22:06:16+09:00",
-    "updated_at": "2019-04-03T07:47:48+09:00",
-    "id": "usamik26"
   },
   {
     "title": "アジャイル開発に関する質疑応答",
@@ -394,7 +394,7 @@
   {
     "title": "VIPERアーキテクチャ まとめ",
     "url": "https://qiita.com/hicka04/items/09534b5daffec33b2bec",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2018-07-30T09:19:37+09:00",
     "updated_at": "2020-08-25T08:46:22+09:00",
     "id": "hicka04"
@@ -494,6 +494,14 @@
     "created_at": "2018-07-23T17:05:13+09:00",
     "updated_at": "2019-06-03T15:00:00+09:00",
     "id": "acidonion"
+  },
+  {
+    "title": "今さら聞けない強化学習（1）：状態価値関数とBellman方程式",
+    "url": "https://qiita.com/triwave33/items/5e13e03d4d76b71bc802",
+    "likes_count": 265,
+    "created_at": "2018-07-16T16:08:12+09:00",
+    "updated_at": "2018-12-25T08:48:26+09:00",
+    "id": "triwave33"
   },
   {
     "title": "深層強化学習のビジネス応用と、AIに自然言語を理解させる方法について",

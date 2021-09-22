@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2335,
+    "likes_count": 2336,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 1997,
+    "likes_count": 1998,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -58,7 +58,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1605,
+    "likes_count": 1607,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -138,7 +138,7 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 847,
+    "likes_count": 846,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
@@ -280,20 +280,20 @@
     "id": "hnishi"
   },
   {
+    "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
+    "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
+    "likes_count": 527,
+    "created_at": "2016-04-17T14:14:54+09:00",
+    "updated_at": "2021-04-05T07:56:27+09:00",
+    "id": "dai-takahashi"
+  },
+  {
     "title": "SSL/TLS（SSL3.0～TLS1.2）のハンドシェイクを復習する",
     "url": "https://qiita.com/n-i-e/items/41673fd16d7bd1189a29",
     "likes_count": 526,
     "created_at": "2016-04-12T00:17:03+09:00",
     "updated_at": "2018-09-03T18:51:40+09:00",
     "id": "n-i-e"
-  },
-  {
-    "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
-    "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 526,
-    "created_at": "2016-04-17T14:14:54+09:00",
-    "updated_at": "2021-04-05T07:56:27+09:00",
-    "id": "dai-takahashi"
   },
   {
     "title": "ttyとかptsとかについて確認してみる",
@@ -322,7 +322,7 @@
   {
     "title": "シンプルなモデルとイラストでカルマンフィルタを直観的に理解してみる",
     "url": "https://qiita.com/MoriKen/items/0c80ef75749977767b43",
-    "likes_count": 466,
+    "likes_count": 468,
     "created_at": "2016-04-11T19:17:39+09:00",
     "updated_at": "2019-08-31T19:18:37+09:00",
     "id": "MoriKen"
@@ -378,7 +378,7 @@
   {
     "title": "ファイルディスクリプタについて理解する",
     "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 414,
+    "likes_count": 416,
     "created_at": "2016-04-22T22:51:58+09:00",
     "updated_at": "2016-04-22T22:51:58+09:00",
     "id": "toshihirock"
@@ -402,7 +402,7 @@
   {
     "title": "変更履歴を持つテーブルの設計",
     "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2016-04-05T14:44:41+09:00",
     "updated_at": "2018-02-09T12:13:08+09:00",
     "id": "ak-ymst"
@@ -562,7 +562,7 @@
   {
     "title": "font-sizeの単位をvwにしてデバイスサイズに合わせて拡縮する",
     "url": "https://qiita.com/katsunory/items/3bede89cee8e2ded8426",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2016-04-23T10:18:44+09:00",
     "updated_at": "2018-11-18T21:21:03+09:00",
     "id": "katsunory"

@@ -66,7 +66,7 @@
   {
     "title": "こんなHTMLとCSSのコーディング規約で書きたい",
     "url": "https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3",
-    "likes_count": 1768,
+    "likes_count": 1769,
     "created_at": "2014-07-09T00:29:52+09:00",
     "updated_at": "2021-07-07T10:13:30+09:00",
     "id": "pugiemonn"
@@ -74,7 +74,7 @@
   {
     "title": "ログ設計指針",
     "url": "https://qiita.com/nanasess/items/350e59b29cceb2f122b3",
-    "likes_count": 1673,
+    "likes_count": 1674,
     "created_at": "2014-07-16T11:28:44+09:00",
     "updated_at": "2020-11-09T18:44:53+09:00",
     "id": "nanasess"
@@ -218,7 +218,7 @@
   {
     "title": "今日から使える！RSpec 3で追加された8つの新機能",
     "url": "https://qiita.com/jnchito/items/a4a51852c2c678b57868",
-    "likes_count": 575,
+    "likes_count": 576,
     "created_at": "2014-07-28T11:40:11+09:00",
     "updated_at": "2015-06-22T08:54:41+09:00",
     "id": "jnchito"
@@ -402,7 +402,7 @@
   {
     "title": "MongoDB コマンドメモとか書き",
     "url": "https://qiita.com/svjunic/items/285e9cf20169d70aa1fa",
-    "likes_count": 436,
+    "likes_count": 437,
     "created_at": "2014-07-25T15:46:46+09:00",
     "updated_at": "2020-08-17T11:25:27+09:00",
     "id": "svjunic"
@@ -418,7 +418,7 @@
   {
     "title": "Excel VBAコーディング ガイドライン案",
     "url": "https://qiita.com/mima_ita/items/8b0eec3b5a81f168822d",
-    "likes_count": 430,
+    "likes_count": 431,
     "created_at": "2014-07-03T21:01:57+09:00",
     "updated_at": "2020-05-20T16:23:41+09:00",
     "id": "mima_ita"
@@ -488,20 +488,20 @@
     "id": "aki"
   },
   {
+    "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
+    "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
+    "likes_count": 374,
+    "created_at": "2014-07-17T19:56:24+09:00",
+    "updated_at": "2014-07-17T19:56:24+09:00",
+    "id": "konweb"
+  },
+  {
     "title": "Slackのべんりな使い方",
     "url": "https://qiita.com/Vexus2/items/aaf87212e7239132446b",
     "likes_count": 373,
     "created_at": "2014-07-03T14:38:07+09:00",
     "updated_at": "2015-09-07T13:58:05+09:00",
     "id": "Vexus2"
-  },
-  {
-    "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
-    "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
-    "likes_count": 372,
-    "created_at": "2014-07-17T19:56:24+09:00",
-    "updated_at": "2014-07-17T19:56:24+09:00",
-    "id": "konweb"
   },
   {
     "title": "気軽にプログラミングを始められるWebエディタ『runstant』作りました",
