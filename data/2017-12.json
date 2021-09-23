@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5547,
+    "likes_count": 5548,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1228,
+    "likes_count": 1227,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -138,7 +138,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 867,
+    "likes_count": 868,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -226,7 +226,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 729,
+    "likes_count": 730,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -330,7 +330,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -368,20 +368,20 @@
     "id": "angel_p_57"
   },
   {
+    "title": "エンジニアが最高のUIをつくるためのプロトタイピング方法まとめ（2017年版）",
+    "url": "https://qiita.com/yuh_iw/items/b0f163c9f649c6cc928c",
+    "likes_count": 547,
+    "created_at": "2017-12-23T22:03:19+09:00",
+    "updated_at": "2018-12-09T17:24:58+09:00",
+    "id": "yuh_iw"
+  },
+  {
     "title": "極めろ！！Google Chrome Devtools 52の関節技",
     "url": "https://qiita.com/sueshin/items/7da3330b0e17696602b1",
     "likes_count": 546,
     "created_at": "2017-12-21T17:49:33+09:00",
     "updated_at": "2017-12-22T00:27:02+09:00",
     "id": "sueshin"
-  },
-  {
-    "title": "エンジニアが最高のUIをつくるためのプロトタイピング方法まとめ（2017年版）",
-    "url": "https://qiita.com/yuh_iw/items/b0f163c9f649c6cc928c",
-    "likes_count": 546,
-    "created_at": "2017-12-23T22:03:19+09:00",
-    "updated_at": "2018-12-09T17:24:58+09:00",
-    "id": "yuh_iw"
   },
   {
     "title": "その資料ちゃんと伝わってる？ノンデザイナーに贈る、3つのポイントで格段に伝わる資料になる方法 ",
@@ -442,7 +442,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 468,
+    "likes_count": 469,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -490,7 +490,7 @@
   {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
@@ -586,7 +586,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 377,
+    "likes_count": 378,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
@@ -610,7 +610,7 @@
   {
     "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
     "url": "https://qiita.com/takish/items/a58c1517c6ac5887ba87",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2017-12-19T18:52:47+09:00",
     "updated_at": "2018-09-27T10:37:03+09:00",
     "id": "takish"
@@ -640,6 +640,14 @@
     "id": "stfate"
   },
   {
+    "title": "pythonでのcsvファイルの読み込み",
+    "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
+    "likes_count": 353,
+    "created_at": "2017-12-16T21:28:42+09:00",
+    "updated_at": "2017-12-16T21:28:42+09:00",
+    "id": "motoki1990"
+  },
+  {
     "title": "C++をこれから勉強する人のための道しるべ（C++03）",
     "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
     "likes_count": 353,
@@ -648,17 +656,9 @@
     "id": "borerere"
   },
   {
-    "title": "pythonでのcsvファイルの読み込み",
-    "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 352,
-    "created_at": "2017-12-16T21:28:42+09:00",
-    "updated_at": "2017-12-16T21:28:42+09:00",
-    "id": "motoki1990"
-  },
-  {
     "title": "WebRTCでビデオチャットアプリを作ってみた！",
     "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2017-12-21T21:30:58+09:00",
     "updated_at": "2019-01-06T14:01:57+09:00",
     "id": "lighthouse"

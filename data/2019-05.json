@@ -18,7 +18,7 @@
   {
     "title": "Vue.jsを100時間勉強して分かったこと",
     "url": "https://qiita.com/kskinaba/items/3e8887d45b11f9132012",
-    "likes_count": 2255,
+    "likes_count": 2256,
     "created_at": "2019-05-16T18:44:50+09:00",
     "updated_at": "2020-07-01T08:46:20+09:00",
     "id": "kskinaba"
@@ -50,7 +50,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1668,
+    "likes_count": 1672,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -66,7 +66,7 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2021.09",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1555,
+    "likes_count": 1556,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2021-09-22T14:47:46+09:00",
     "id": "hayao_k"
@@ -170,7 +170,7 @@
   {
     "title": "ReactとVueを改善したSvelteというライブラリーについて",
     "url": "https://qiita.com/so99ynoodles/items/a8144ced1a21467c6300",
-    "likes_count": 813,
+    "likes_count": 814,
     "created_at": "2019-05-17T14:05:12+09:00",
     "updated_at": "2019-07-05T14:19:39+09:00",
     "id": "so99ynoodles"
@@ -480,6 +480,14 @@
     "id": "hoto17296"
   },
   {
+    "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
+    "url": "https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd",
+    "likes_count": 311,
+    "created_at": "2019-05-08T10:02:28+09:00",
+    "updated_at": "2019-05-08T10:11:41+09:00",
+    "id": "sadnessOjisan"
+  },
+  {
     "title": "まだVSCode拡張機能探しで消耗してるの？　VSCodeの拡張機能は意外と簡単につくれるよ！！",
     "url": "https://qiita.com/delmontz/items/abd075eacb1302fc184c",
     "likes_count": 311,
@@ -494,14 +502,6 @@
     "created_at": "2019-05-13T09:40:29+09:00",
     "updated_at": "2019-05-15T14:53:29+09:00",
     "id": "Kuzira_Kuzira"
-  },
-  {
-    "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
-    "url": "https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd",
-    "likes_count": 307,
-    "created_at": "2019-05-08T10:02:28+09:00",
-    "updated_at": "2019-05-08T10:11:41+09:00",
-    "id": "sadnessOjisan"
   },
   {
     "title": "【VSCode Remote】10秒でNuxt環境を構築【脱WebStorm】",
