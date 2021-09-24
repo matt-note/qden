@@ -18,7 +18,7 @@
   {
     "title": "MacにNode.jsをインストール",
     "url": "https://qiita.com/kyosuke5_20/items/c5f68fc9d89b84c0df09",
-    "likes_count": 1470,
+    "likes_count": 1471,
     "created_at": "2016-11-15T14:02:53+09:00",
     "updated_at": "2021-04-02T12:27:27+09:00",
     "id": "kyosuke5_20"
@@ -50,7 +50,7 @@
   {
     "title": "[*Rails*] deviseの使い方（rails5版）",
     "url": "https://qiita.com/cigalecigales/items/f4274088f20832252374",
-    "likes_count": 1133,
+    "likes_count": 1134,
     "created_at": "2016-11-13T17:12:24+09:00",
     "updated_at": "2020-04-04T23:35:16+09:00",
     "id": "cigalecigales"
@@ -138,7 +138,7 @@
   {
     "title": "Docker for Macを使っていたら50GB位ディスク容量を圧迫していたのでいろんなものを削除する",
     "url": "https://qiita.com/shinespark/items/526b70b5f0b1ac643ba0",
-    "likes_count": 587,
+    "likes_count": 588,
     "created_at": "2016-11-30T02:49:21+09:00",
     "updated_at": "2020-08-12T12:56:31+09:00",
     "id": "shinespark"
@@ -170,7 +170,7 @@
   {
     "title": "インターフェースと抽象クラスの使い分け、活用方法",
     "url": "https://qiita.com/igayamaguchi/items/e1d35db0a14a84bda452",
-    "likes_count": 536,
+    "likes_count": 537,
     "created_at": "2016-11-20T22:47:57+09:00",
     "updated_at": "2020-09-29T00:13:32+09:00",
     "id": "igayamaguchi"
@@ -218,10 +218,18 @@
   {
     "title": "現場を改善したいあなたに送る、くじけない業務改善のメソッド",
     "url": "https://qiita.com/icoxfog417/items/9b798679420218963123",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2016-11-27T16:50:58+09:00",
     "updated_at": "2016-11-27T17:07:57+09:00",
     "id": "icoxfog417"
+  },
+  {
+    "title": "サルでも分かるExpressでのjsonAPIサーバーの作り方",
+    "url": "https://qiita.com/ngmr_mo/items/73cc7160d002a4989416",
+    "likes_count": 469,
+    "created_at": "2016-11-17T02:58:53+09:00",
+    "updated_at": "2019-08-20T22:07:02+09:00",
+    "id": "ngmr_mo"
   },
   {
     "title": "PythonでSeleniumを使ってスクレイピング (基礎)",
@@ -230,14 +238,6 @@
     "created_at": "2016-11-21T14:17:38+09:00",
     "updated_at": "2019-08-19T18:15:48+09:00",
     "id": "kinpira"
-  },
-  {
-    "title": "サルでも分かるExpressでのjsonAPIサーバーの作り方",
-    "url": "https://qiita.com/ngmr_mo/items/73cc7160d002a4989416",
-    "likes_count": 468,
-    "created_at": "2016-11-17T02:58:53+09:00",
-    "updated_at": "2019-08-20T22:07:02+09:00",
-    "id": "ngmr_mo"
   },
   {
     "title": "Redmineを3年間使い続けてお世話になったプラグインたち",
