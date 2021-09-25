@@ -10,7 +10,7 @@
   {
     "title": "Pythonを書き始める前に見るべきTips",
     "url": "https://qiita.com/icoxfog417/items/e8f97a6acad07903b5b0",
-    "likes_count": 4059,
+    "likes_count": 4058,
     "created_at": "2014-07-29T17:43:20+09:00",
     "updated_at": "2020-02-04T12:14:07+09:00",
     "id": "icoxfog417"
@@ -18,7 +18,7 @@
   {
     "title": "Vim幼稚園からVim小学校へ",
     "url": "https://qiita.com/hachi8833/items/7beeee825c11f7437f54",
-    "likes_count": 3923,
+    "likes_count": 3924,
     "created_at": "2014-07-10T00:02:39+09:00",
     "updated_at": "2019-03-20T18:58:14+09:00",
     "id": "hachi8833"
@@ -138,7 +138,7 @@
   {
     "title": "Git の Commit Author と Commiter を変更する",
     "url": "https://qiita.com/sea_mountain/items/d70216a5bc16a88ed932",
-    "likes_count": 871,
+    "likes_count": 872,
     "created_at": "2014-07-12T15:17:52+09:00",
     "updated_at": "2017-07-05T19:37:28+09:00",
     "id": "sea_mountain"
@@ -290,7 +290,7 @@
   {
     "title": "超絶初心者むけtcpdumpの使い方",
     "url": "https://qiita.com/tossh/items/4cd33693965ef231bd2a",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2014-07-26T17:01:58+09:00",
     "updated_at": "2016-05-28T16:03:40+09:00",
     "id": "tossh"
@@ -432,6 +432,14 @@
     "id": "iorionda"
   },
   {
+    "title": "Markdown書き方メモ",
+    "url": "https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b",
+    "likes_count": 420,
+    "created_at": "2014-07-20T21:12:08+09:00",
+    "updated_at": "2018-12-21T09:47:17+09:00",
+    "id": "Minalinsky_1911"
+  },
+  {
     "title": "半年くらい仕事でAndroidアプリ開発していて役に立った本",
     "url": "https://qiita.com/shikato/items/5e03a086fc1b42936d7c",
     "likes_count": 419,
@@ -440,17 +448,9 @@
     "id": "shikato"
   },
   {
-    "title": "Markdown書き方メモ",
-    "url": "https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b",
-    "likes_count": 419,
-    "created_at": "2014-07-20T21:12:08+09:00",
-    "updated_at": "2018-12-21T09:47:17+09:00",
-    "id": "Minalinsky_1911"
-  },
-  {
     "title": "vim置換",
     "url": "https://qiita.com/waoooon/items/8d982e49692c8145ca4b",
-    "likes_count": 412,
+    "likes_count": 411,
     "created_at": "2014-07-18T23:14:42+09:00",
     "updated_at": "2019-08-23T21:28:38+09:00",
     "id": "waoooon"
@@ -586,7 +586,7 @@
   {
     "title": "AngularJSの$scopeをController as で置き換えるべき理由",
     "url": "https://qiita.com/Quramy/items/e55ba394031794236fc9",
-    "likes_count": 330,
+    "likes_count": 329,
     "created_at": "2014-07-26T04:31:34+09:00",
     "updated_at": "2014-07-26T04:33:27+09:00",
     "id": "Quramy"
@@ -688,20 +688,20 @@
     "id": "susieyy"
   },
   {
+    "title": "Sequelizeを使用してデータベースを操作するための基本的な情報(2020.09更新）",
+    "url": "https://qiita.com/mima_ita/items/014dcb42872f3a10855b",
+    "likes_count": 276,
+    "created_at": "2014-07-04T19:01:48+09:00",
+    "updated_at": "2021-03-12T16:36:21+09:00",
+    "id": "mima_ita"
+  },
+  {
     "title": "VisualStudio 便利なショートカット",
     "url": "https://qiita.com/kengop/items/ac9b57404d30e0cfdd20",
     "likes_count": 274,
     "created_at": "2014-07-27T14:20:57+09:00",
     "updated_at": "2016-11-06T19:38:22+09:00",
     "id": "kengop"
-  },
-  {
-    "title": "Sequelizeを使用してデータベースを操作するための基本的な情報(2020.09更新）",
-    "url": "https://qiita.com/mima_ita/items/014dcb42872f3a10855b",
-    "likes_count": 273,
-    "created_at": "2014-07-04T19:01:48+09:00",
-    "updated_at": "2021-03-12T16:36:21+09:00",
-    "id": "mima_ita"
   },
   {
     "title": "RailsじゃないRspec3環境を構築する方法",

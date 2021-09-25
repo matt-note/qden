@@ -10,7 +10,7 @@
   {
     "title": "そろそろ真面目に、HTMLで帳票を描く話をしようか",
     "url": "https://qiita.com/cognitom/items/d39d5f19054c8c8fd592",
-    "likes_count": 2337,
+    "likes_count": 2338,
     "created_at": "2015-10-05T14:56:32+09:00",
     "updated_at": "2015-10-07T17:59:23+09:00",
     "id": "cognitom"
@@ -26,7 +26,7 @@
   {
     "title": "さいつよのターミナル環境を構築しよう",
     "url": "https://qiita.com/b4b4r07/items/09815eda8ef72e0b472e",
-    "likes_count": 1893,
+    "likes_count": 1892,
     "created_at": "2015-10-28T10:19:47+09:00",
     "updated_at": "2017-12-08T08:07:21+09:00",
     "id": "b4b4r07"
@@ -74,7 +74,7 @@
   {
     "title": "base64ってなんぞ？？理解のために実装してみた",
     "url": "https://qiita.com/PlanetMeron/items/2905e2d0aa7fe46a36d4",
-    "likes_count": 1036,
+    "likes_count": 1037,
     "created_at": "2015-10-14T20:06:07+09:00",
     "updated_at": "2018-04-13T16:33:49+09:00",
     "id": "PlanetMeron"
@@ -122,7 +122,7 @@
   {
     "title": "よく使うMySQLコマンド&構文集",
     "url": "https://qiita.com/CyberMergina/items/f889519e6be19c46f5f4",
-    "likes_count": 843,
+    "likes_count": 845,
     "created_at": "2015-10-22T09:28:43+09:00",
     "updated_at": "2021-09-20T11:11:09+09:00",
     "id": "CyberMergina"
@@ -130,7 +130,7 @@
   {
     "title": "Java製アプリを Eclipse から実行したことしかない新人に「ビルドツールとは？」を説明してみる…そして CI へ",
     "url": "https://qiita.com/Mura-Mi/items/225825cc3715dc04d923",
-    "likes_count": 793,
+    "likes_count": 794,
     "created_at": "2015-10-18T23:12:12+09:00",
     "updated_at": "2015-10-19T09:30:59+09:00",
     "id": "Mura-Mi"
@@ -202,7 +202,7 @@
   {
     "title": "おい、peco もいいけど fzf 使えよ",
     "url": "https://qiita.com/b4b4r07/items/9e1bbffb1be70b6ce033",
-    "likes_count": 586,
+    "likes_count": 587,
     "created_at": "2015-10-29T12:20:43+09:00",
     "updated_at": "2016-10-25T11:07:26+09:00",
     "id": "b4b4r07"
@@ -456,20 +456,20 @@
     "id": "ryoheimorimoto"
   },
   {
+    "title": "mysqlが起動できない（Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)）",
+    "url": "https://qiita.com/carotene4035/items/e00076fe3990b9178cc0",
+    "likes_count": 297,
+    "created_at": "2015-10-25T14:58:12+09:00",
+    "updated_at": "2017-09-06T16:54:05+09:00",
+    "id": "carotene4035"
+  },
+  {
     "title": "Slack APIを使用してメッセージを送信する",
     "url": "https://qiita.com/rubytomato@github/items/6558bfdb37d982891c09",
     "likes_count": 296,
     "created_at": "2015-10-10T18:31:34+09:00",
     "updated_at": "2015-10-12T04:08:21+09:00",
     "id": "rubytomato@github"
-  },
-  {
-    "title": "mysqlが起動できない（Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)）",
-    "url": "https://qiita.com/carotene4035/items/e00076fe3990b9178cc0",
-    "likes_count": 296,
-    "created_at": "2015-10-25T14:58:12+09:00",
-    "updated_at": "2017-09-06T16:54:05+09:00",
-    "id": "carotene4035"
   },
   {
     "title": "三項演算子をもっと使おう",

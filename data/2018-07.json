@@ -34,7 +34,7 @@
   {
     "title": "Vue.js + Vuexでデータが循環する全体像を図解してみた",
     "url": "https://qiita.com/m_mitsuhide/items/f16d988ec491b7800ace",
-    "likes_count": 1328,
+    "likes_count": 1329,
     "created_at": "2018-07-30T13:03:15+09:00",
     "updated_at": "2019-12-05T11:02:51+09:00",
     "id": "m_mitsuhide"
@@ -170,7 +170,7 @@
   {
     "title": "Pandas の groupby の使い方",
     "url": "https://qiita.com/propella/items/a9a32b878c77222630ae",
-    "likes_count": 608,
+    "likes_count": 609,
     "created_at": "2018-07-02T18:03:48+09:00",
     "updated_at": "2018-11-15T16:12:51+09:00",
     "id": "propella"
@@ -186,7 +186,7 @@
   {
     "title": "【Rails 5】(新) form_with と (旧) form_tag, form_for の違い",
     "url": "https://qiita.com/hmmrjn/items/24f3b8eade206ace17e2",
-    "likes_count": 563,
+    "likes_count": 564,
     "created_at": "2018-07-02T02:57:12+09:00",
     "updated_at": "2020-09-08T01:09:29+09:00",
     "id": "hmmrjn"
@@ -266,7 +266,7 @@
   {
     "title": "DynamoDBのキー・インデックスについてまとめてみた",
     "url": "https://qiita.com/shibataka000/items/e3f3792201d6fcc397fd",
-    "likes_count": 439,
+    "likes_count": 440,
     "created_at": "2018-07-14T18:43:22+09:00",
     "updated_at": "2021-04-16T19:22:12+09:00",
     "id": "shibataka000"
@@ -320,6 +320,14 @@
     "id": "ushironoko"
   },
   {
+    "title": "[初学者]Railsのi18nによる日本語化対応",
+    "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
+    "likes_count": 350,
+    "created_at": "2018-08-01T01:32:22+09:00",
+    "updated_at": "2021-09-24T00:02:19+09:00",
+    "id": "shimadama"
+  },
+  {
     "title": "10分で理解するGrafana",
     "url": "https://qiita.com/Chanmoro/items/a23f0408f0e64658a775",
     "likes_count": 349,
@@ -328,17 +336,9 @@
     "id": "Chanmoro"
   },
   {
-    "title": "[初学者]Railsのi18nによる日本語化対応",
-    "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
-    "likes_count": 349,
-    "created_at": "2018-08-01T01:32:22+09:00",
-    "updated_at": "2021-09-24T00:02:19+09:00",
-    "id": "shimadama"
-  },
-  {
     "title": "プログラムは音楽だ (A program is a music.) 仮説・検証（54）",
     "url": "https://qiita.com/kaizen_nagoya/items/33c9f33581e6886f8ad8",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2018-07-22T18:30:08+09:00",
     "updated_at": "2021-09-04T16:50:28+09:00",
     "id": "kaizen_nagoya"
@@ -458,7 +458,7 @@
   {
     "title": "React Nativeで楽に作るスマホアプリ開発入門（基本編）",
     "url": "https://qiita.com/teradonburi/items/355a20e6d32bb719ef76",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2018-07-14T21:37:30+09:00",
     "updated_at": "2018-07-17T10:11:17+09:00",
     "id": "teradonburi"
