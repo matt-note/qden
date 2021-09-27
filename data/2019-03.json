@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3231,
+    "likes_count": 3232,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-05-06T13:08:59+09:00",
     "id": "upura"
@@ -34,7 +34,7 @@
   {
     "title": "ブラウザレンダリング入門〜知ることで見える世界〜",
     "url": "https://qiita.com/codemafia0000/items/caed57ec30d638e40728",
-    "likes_count": 1777,
+    "likes_count": 1778,
     "created_at": "2019-03-16T10:02:27+09:00",
     "updated_at": "2019-03-27T19:30:03+09:00",
     "id": "codemafia0000"
@@ -138,7 +138,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 933,
+    "likes_count": 934,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -170,7 +170,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 844,
+    "likes_count": 845,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -178,7 +178,7 @@
   {
     "title": "How to 速度改善 ーWebパフォーマンスについて知っておきたいこと7選ー",
     "url": "https://qiita.com/masanarih0ri/items/1c6b856da0bd04bed995",
-    "likes_count": 794,
+    "likes_count": 795,
     "created_at": "2019-03-26T15:54:21+09:00",
     "updated_at": "2019-05-23T17:05:34+09:00",
     "id": "masanarih0ri"
@@ -200,20 +200,20 @@
     "id": "ulwlu"
   },
   {
+    "title": "【Python】🍜機械学習で「隠れた名店」を探してみた。（そして実際に行ってみた）🍜",
+    "url": "https://qiita.com/toshiyuki_tsutsui/items/b3ac8fd1b300c3404508",
+    "likes_count": 721,
+    "created_at": "2019-03-18T14:49:52+09:00",
+    "updated_at": "2020-08-28T14:35:05+09:00",
+    "id": "toshiyuki_tsutsui"
+  },
+  {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
     "likes_count": 721,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
-  },
-  {
-    "title": "【Python】🍜機械学習で「隠れた名店」を探してみた。（そして実際に行ってみた）🍜",
-    "url": "https://qiita.com/toshiyuki_tsutsui/items/b3ac8fd1b300c3404508",
-    "likes_count": 720,
-    "created_at": "2019-03-18T14:49:52+09:00",
-    "updated_at": "2020-08-28T14:35:05+09:00",
-    "id": "toshiyuki_tsutsui"
   },
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
@@ -298,7 +298,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(導入編)",
     "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
-    "likes_count": 616,
+    "likes_count": 617,
     "created_at": "2019-03-27T22:24:09+09:00",
     "updated_at": "2020-03-30T18:47:49+09:00",
     "id": "AokabiC"
@@ -322,7 +322,7 @@
   {
     "title": "Go / Gin で超簡単なWebアプリを作る",
     "url": "https://qiita.com/hyo_07/items/59c093dda143325b1859",
-    "likes_count": 571,
+    "likes_count": 572,
     "created_at": "2019-03-17T22:20:05+09:00",
     "updated_at": "2020-01-21T02:09:21+09:00",
     "id": "hyo_07"
@@ -378,7 +378,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -482,10 +482,18 @@
   {
     "title": "【INNER JOIN, LEFT JOIN , RIGHT JOIN】テーブル結合の挙動をまとめてみた【SQL】",
     "url": "https://qiita.com/ngron/items/db4947fb0551f21321c0",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2019-03-14T14:28:22+09:00",
     "updated_at": "2019-10-18T19:42:54+09:00",
     "id": "ngron"
+  },
+  {
+    "title": "Pythonの可視化ライブラリDashを使う　1",
+    "url": "https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c",
+    "likes_count": 376,
+    "created_at": "2019-03-11T21:42:01+09:00",
+    "updated_at": "2021-08-01T20:44:08+09:00",
+    "id": "OgawaHideyuki"
   },
   {
     "title": "なんでみんなRunJS使わないのかわからない",
@@ -494,14 +502,6 @@
     "created_at": "2019-03-15T11:53:05+09:00",
     "updated_at": "2019-03-26T15:16:54+09:00",
     "id": "y_shoji"
-  },
-  {
-    "title": "Pythonの可視化ライブラリDashを使う　1",
-    "url": "https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c",
-    "likes_count": 375,
-    "created_at": "2019-03-11T21:42:01+09:00",
-    "updated_at": "2021-08-01T20:44:08+09:00",
-    "id": "OgawaHideyuki"
   },
   {
     "title": "Webの仕事をしていない人が個人Webサービスを作ってみて得られた知見",

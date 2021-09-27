@@ -2,7 +2,7 @@
   {
     "title": "プログラマが独立・起業する時によくするミスと対策 まとめ",
     "url": "https://qiita.com/hshimo/items/776e3ca62be51c3bdc89",
-    "likes_count": 2848,
+    "likes_count": 2849,
     "created_at": "2014-04-07T15:22:02+09:00",
     "updated_at": "2021-05-10T20:45:03+09:00",
     "id": "hshimo"
@@ -18,7 +18,7 @@
   {
     "title": "本当に正しい .bashrc と .bash_profile の使ひ分け",
     "url": "https://qiita.com/magicant/items/d3bb7ea1192e63fba850",
-    "likes_count": 1886,
+    "likes_count": 1888,
     "created_at": "2014-04-16T10:49:22+09:00",
     "updated_at": "2019-06-07T13:58:46+09:00",
     "id": "magicant"
@@ -250,7 +250,7 @@
   {
     "title": "今更聞けないSubversionの使い方",
     "url": "https://qiita.com/mountcedar/items/e756bb9136e3b1722bb2",
-    "likes_count": 431,
+    "likes_count": 432,
     "created_at": "2014-04-22T20:09:28+09:00",
     "updated_at": "2015-03-24T12:54:26+09:00",
     "id": "mountcedar"
@@ -258,7 +258,7 @@
   {
     "title": "型変換のいろいろ",
     "url": "https://qiita.com/zawascript/items/a25eaf7a222ac3671275",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2014-04-07T06:13:16+09:00",
     "updated_at": "2015-05-14T10:56:41+09:00",
     "id": "zawascript"
@@ -370,10 +370,26 @@
   {
     "title": "git 管理をやめる",
     "url": "https://qiita.com/b4b4r07/items/cac4abd9ae66537e2833",
-    "likes_count": 340,
+    "likes_count": 344,
     "created_at": "2014-04-23T13:46:27+09:00",
     "updated_at": "2016-10-25T11:06:47+09:00",
     "id": "b4b4r07"
+  },
+  {
+    "title": "意外と知られてないっぽいMarkdownのリンクの書き方",
+    "url": "https://qiita.com/h1na/items/d305d49b5a27e92d132a",
+    "likes_count": 330,
+    "created_at": "2014-04-02T18:52:51+09:00",
+    "updated_at": "2020-01-16T02:40:45+09:00",
+    "id": "h1na"
+  },
+  {
+    "title": "Makefile ことはじめ",
+    "url": "https://qiita.com/kasei-san/items/ad25df63260e86c5cc71",
+    "likes_count": 330,
+    "created_at": "2014-04-15T09:52:08+09:00",
+    "updated_at": "2015-01-22T12:37:28+09:00",
+    "id": "kasei-san"
   },
   {
     "title": "iPhoneのパケットキャプチャ",
@@ -382,22 +398,6 @@
     "created_at": "2014-04-16T01:32:23+09:00",
     "updated_at": "2015-05-02T19:59:36+09:00",
     "id": "hs7"
-  },
-  {
-    "title": "Makefile ことはじめ",
-    "url": "https://qiita.com/kasei-san/items/ad25df63260e86c5cc71",
-    "likes_count": 329,
-    "created_at": "2014-04-15T09:52:08+09:00",
-    "updated_at": "2015-01-22T12:37:28+09:00",
-    "id": "kasei-san"
-  },
-  {
-    "title": "意外と知られてないっぽいMarkdownのリンクの書き方",
-    "url": "https://qiita.com/h1na/items/d305d49b5a27e92d132a",
-    "likes_count": 328,
-    "created_at": "2014-04-02T18:52:51+09:00",
-    "updated_at": "2020-01-16T02:40:45+09:00",
-    "id": "h1na"
   },
   {
     "title": "Vagrant入門から実践まで",
