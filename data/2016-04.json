@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2006,
+    "likes_count": 2007,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -132,13 +132,13 @@
     "url": "https://qiita.com/midori44/items/acab9106e6dad9653e73",
     "likes_count": 893,
     "created_at": "2016-04-11T08:46:25+09:00",
-    "updated_at": "2016-04-11T13:19:46+09:00",
+    "updated_at": "2021-09-28T00:34:52+09:00",
     "id": "midori44"
   },
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 846,
+    "likes_count": 847,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
@@ -378,7 +378,7 @@
   {
     "title": "ファイルディスクリプタについて理解する",
     "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2016-04-22T22:51:58+09:00",
     "updated_at": "2016-04-22T22:51:58+09:00",
     "id": "toshihirock"
@@ -440,20 +440,20 @@
     "id": "jabba"
   },
   {
+    "title": "CUDAとOpenCLどっちがいいの？",
+    "url": "https://qiita.com/aokomoriuta/items/777f00f4d9f2bec887ba",
+    "likes_count": 378,
+    "created_at": "2016-05-01T00:12:23+09:00",
+    "updated_at": "2016-05-06T18:07:39+09:00",
+    "id": "aokomoriuta"
+  },
+  {
     "title": "XGBoostの主な特徴と理論の概要",
     "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
     "likes_count": 377,
     "created_at": "2016-04-02T21:19:46+09:00",
     "updated_at": "2016-04-02T22:05:31+09:00",
     "id": "yh0sh"
-  },
-  {
-    "title": "CUDAとOpenCLどっちがいいの？",
-    "url": "https://qiita.com/aokomoriuta/items/777f00f4d9f2bec887ba",
-    "likes_count": 377,
-    "created_at": "2016-05-01T00:12:23+09:00",
-    "updated_at": "2016-05-06T18:07:39+09:00",
-    "id": "aokomoriuta"
   },
   {
     "title": "LINE Bot を AWSを使ってシステム構築してみた。",
@@ -524,7 +524,7 @@
     "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
     "likes_count": 355,
     "created_at": "2016-04-28T08:59:43+09:00",
-    "updated_at": "2021-04-16T18:12:58+09:00",
+    "updated_at": "2021-09-28T18:34:17+09:00",
     "id": "tttamaki"
   },
   {
@@ -562,7 +562,7 @@
   {
     "title": "font-sizeの単位をvwにしてデバイスサイズに合わせて拡縮する",
     "url": "https://qiita.com/katsunory/items/3bede89cee8e2ded8426",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2016-04-23T10:18:44+09:00",
     "updated_at": "2018-11-18T21:21:03+09:00",
     "id": "katsunory"
@@ -666,7 +666,7 @@
   {
     "title": "SourceTreeとGithubでGitの練習環境をつくる",
     "url": "https://qiita.com/naoki85/items/4f44601f1365c18035f4",
-    "likes_count": 236,
+    "likes_count": 237,
     "created_at": "2016-04-03T12:21:57+09:00",
     "updated_at": "2018-01-22T14:09:50+09:00",
     "id": "naoki85"
