@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1481,
+    "likes_count": 1482,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -34,7 +34,7 @@
   {
     "title": "11ヶ月間でTOEICスコアを300点から835点に上げた英語学習法",
     "url": "https://qiita.com/sheepland/items/6540c4e32eed12807689",
-    "likes_count": 1380,
+    "likes_count": 1379,
     "created_at": "2017-12-11T15:12:36+09:00",
     "updated_at": "2017-12-28T16:27:27+09:00",
     "id": "sheepland"
@@ -42,7 +42,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1327,
+    "likes_count": 1328,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -58,7 +58,7 @@
   {
     "title": "ｶﾀｶﾀｶﾀｯﾀｰﾝを可視化した",
     "url": "https://qiita.com/ampersand/items/3ef94ebe9cba8c07a157",
-    "likes_count": 1152,
+    "likes_count": 1153,
     "created_at": "2017-12-20T18:16:00+09:00",
     "updated_at": "2017-12-27T11:37:39+09:00",
     "id": "ampersand"
@@ -138,7 +138,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 868,
+    "likes_count": 869,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -282,7 +282,7 @@
   {
     "title": "Dialogflow入門",
     "url": "https://qiita.com/kenz_firespeed/items/0979ceb05e4e3299f313",
-    "likes_count": 615,
+    "likes_count": 616,
     "created_at": "2017-12-08T14:12:23+09:00",
     "updated_at": "2018-01-24T12:29:19+09:00",
     "id": "kenz_firespeed"
@@ -320,6 +320,14 @@
     "id": "yuya_presto"
   },
   {
+    "title": "systemctl コマンド",
+    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
+    "likes_count": 586,
+    "created_at": "2017-12-08T14:15:47+09:00",
+    "updated_at": "2019-03-14T16:14:00+09:00",
+    "id": "sinsengumi"
+  },
+  {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
     "likes_count": 586,
@@ -328,17 +336,9 @@
     "id": "megadreams14"
   },
   {
-    "title": "systemctl コマンド",
-    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 584,
-    "created_at": "2017-12-08T14:15:47+09:00",
-    "updated_at": "2019-03-14T16:14:00+09:00",
-    "id": "sinsengumi"
-  },
-  {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 576,
+    "likes_count": 577,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -426,10 +426,18 @@
   {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
+  },
+  {
+    "title": "E2Eテストの導入から学んだこと",
+    "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
+    "likes_count": 470,
+    "created_at": "2017-12-13T19:21:04+09:00",
+    "updated_at": "2018-07-17T14:04:00+09:00",
+    "id": "mt0m"
   },
   {
     "title": "Google Homeで受付システム作ってみた",
@@ -438,14 +446,6 @@
     "created_at": "2017-12-06T15:46:42+09:00",
     "updated_at": "2017-12-06T22:42:03+09:00",
     "id": "h-takauma"
-  },
-  {
-    "title": "E2Eテストの導入から学んだこと",
-    "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 469,
-    "created_at": "2017-12-13T19:21:04+09:00",
-    "updated_at": "2018-07-17T14:04:00+09:00",
-    "id": "mt0m"
   },
   {
     "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
@@ -466,7 +466,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2021-08-15T17:37:25+09:00",
     "id": "KTakahiro1729"
@@ -514,7 +514,7 @@
   {
     "title": "Elasticsearchのための新しい形態素解析器 「Sudachi」",
     "url": "https://qiita.com/sorami/items/99604ef105f13d2d472b",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2017-12-13T09:54:01+09:00",
     "updated_at": "2021-02-20T14:11:08+09:00",
     "id": "sorami"
@@ -576,20 +576,20 @@
     "id": "tutuz"
   },
   {
+    "title": "深層学習の最適化アルゴリズム",
+    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
+    "likes_count": 380,
+    "created_at": "2017-12-17T19:09:32+09:00",
+    "updated_at": "2019-11-30T18:47:57+09:00",
+    "id": "ZoneTsuyoshi"
+  },
+  {
     "title": "(2017年12月時点) 私的 CloudFormation ベストプラクティス",
     "url": "https://qiita.com/yasuhiroki/items/8463eed1c78123313a6f",
     "likes_count": 380,
     "created_at": "2017-12-23T12:49:57+09:00",
     "updated_at": "2020-01-24T11:29:13+09:00",
     "id": "yasuhiroki"
-  },
-  {
-    "title": "深層学習の最適化アルゴリズム",
-    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 379,
-    "created_at": "2017-12-17T19:09:32+09:00",
-    "updated_at": "2019-11-30T18:47:57+09:00",
-    "id": "ZoneTsuyoshi"
   },
   {
     "title": "はじめてのRails API ",
@@ -602,7 +602,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(実践編)",
     "url": "https://qiita.com/AokabiC/items/af685bfd205dda44ec45",
-    "likes_count": 366,
+    "likes_count": 365,
     "created_at": "2017-12-20T06:18:22+09:00",
     "updated_at": "2019-03-28T15:22:30+09:00",
     "id": "AokabiC"
@@ -730,7 +730,7 @@
   {
     "title": "関東最速でReact+Redux+TypeScriptなアプリの開発環境を作る",
     "url": "https://qiita.com/IzumiSy/items/b7d8a96eacd2cd8ad510",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2017-12-24T23:29:21+09:00",
     "updated_at": "2020-05-11T11:04:03+09:00",
     "id": "IzumiSy"

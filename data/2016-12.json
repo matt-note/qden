@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2155,
+    "likes_count": 2158,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -42,7 +42,7 @@
   {
     "title": "いまさら聞けないLinuxとメモリの基礎＆vmstatの詳しい使い方",
     "url": "https://qiita.com/kunihirotanaka/items/70d43d48757aea79de2d",
-    "likes_count": 1544,
+    "likes_count": 1545,
     "created_at": "2016-12-25T13:48:22+09:00",
     "updated_at": "2016-12-26T11:43:00+09:00",
     "id": "kunihirotanaka"
@@ -50,7 +50,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1512,
+    "likes_count": 1513,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-09-09T23:45:42+09:00",
     "id": "soarflat"
@@ -58,7 +58,7 @@
   {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1387,
+    "likes_count": 1388,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
@@ -74,7 +74,7 @@
   {
     "title": "次世代監視の大本命！ Prometheus を実運用してみた",
     "url": "https://qiita.com/sugitak/items/ff8f5ad845283c5915d2",
-    "likes_count": 1309,
+    "likes_count": 1310,
     "created_at": "2016-12-09T05:00:44+09:00",
     "updated_at": "2016-12-14T13:48:02+09:00",
     "id": "sugitak"
@@ -178,7 +178,7 @@
   {
     "title": "大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察",
     "url": "https://qiita.com/tmknom/items/be5c4b350f561991f2f5",
-    "likes_count": 764,
+    "likes_count": 765,
     "created_at": "2016-12-20T18:24:22+09:00",
     "updated_at": "2018-08-12T01:43:05+09:00",
     "id": "tmknom"
@@ -314,7 +314,7 @@
   {
     "title": "難しいGitコマンドは、仕組みから理解してみよう",
     "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
-    "likes_count": 609,
+    "likes_count": 614,
     "created_at": "2016-12-22T00:02:20+09:00",
     "updated_at": "2018-11-13T23:20:28+09:00",
     "id": "_ha1f"
@@ -344,20 +344,20 @@
     "id": "shibukk"
   },
   {
+    "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
+    "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
+    "likes_count": 534,
+    "created_at": "2016-12-03T15:46:25+09:00",
+    "updated_at": "2016-12-03T15:46:25+09:00",
+    "id": "inosy22"
+  },
+  {
     "title": "Dockerコンテナを本番環境で使うためのセキュリティ設定",
     "url": "https://qiita.com/muff1225/items/4edea7b039dd9f26098f",
     "likes_count": 533,
     "created_at": "2016-12-03T00:02:26+09:00",
     "updated_at": "2016-12-03T00:02:26+09:00",
     "id": "muff1225"
-  },
-  {
-    "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
-    "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
-    "likes_count": 533,
-    "created_at": "2016-12-03T15:46:25+09:00",
-    "updated_at": "2016-12-03T15:46:25+09:00",
-    "id": "inosy22"
   },
   {
     "title": "React、Angularになじめなかった僕に手を差し伸べてくれたVue.js",
@@ -698,7 +698,7 @@
   {
     "title": "logrotate入門",
     "url": "https://qiita.com/zom/items/c72c7bac63462225971b",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2016-12-03T23:59:38+09:00",
     "updated_at": "2017-08-16T21:16:58+09:00",
     "id": "zom"
