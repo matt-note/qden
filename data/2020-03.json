@@ -2,7 +2,7 @@
   {
     "title": "プロジェクトリーダーというお仕事",
     "url": "https://qiita.com/br_branch/items/bbbaba835b45e79efa5b",
-    "likes_count": 3759,
+    "likes_count": 3758,
     "created_at": "2020-03-08T16:27:18+09:00",
     "updated_at": "2020-03-13T13:37:03+09:00",
     "id": "br_branch"
@@ -18,7 +18,7 @@
   {
     "title": "4歳娘「パパ、具体的な名前をつけないで？」",
     "url": "https://qiita.com/Yametaro/items/bcd3166e5d2ad696a89e",
-    "likes_count": 1834,
+    "likes_count": 1835,
     "created_at": "2020-03-19T00:02:21+09:00",
     "updated_at": "2020-12-10T11:12:41+09:00",
     "id": "Yametaro"
@@ -34,7 +34,7 @@
   {
     "title": "JavaScript: 通常の関数とアロー関数の違いは「書き方だけ」ではない。異なる性質が10個ほどある。",
     "url": "https://qiita.com/suin/items/a44825d253d023e31e4d",
-    "likes_count": 1708,
+    "likes_count": 1709,
     "created_at": "2020-03-22T13:48:23+09:00",
     "updated_at": "2020-04-12T23:39:31+09:00",
     "id": "suin"
@@ -248,20 +248,20 @@
     "id": "banquet_kuma"
   },
   {
+    "title": "Next.js 9.3新API getStaticProps と getStaticPaths と getServerSideProps の概要解説",
+    "url": "https://qiita.com/matamatanot/items/1735984f40540b8bdf91",
+    "likes_count": 515,
+    "created_at": "2020-03-08T11:00:43+09:00",
+    "updated_at": "2021-02-04T14:39:33+09:00",
+    "id": "matamatanot"
+  },
+  {
     "title": "2020年はsystemd-homedの登場でLinuxのユーザー管理が大きく変わるぞ",
     "url": "https://qiita.com/onokatio/items/dbae4afe7fabd2602545",
     "likes_count": 515,
     "created_at": "2020-03-17T05:23:43+09:00",
     "updated_at": "2020-03-19T18:25:55+09:00",
     "id": "onokatio"
-  },
-  {
-    "title": "Next.js 9.3新API getStaticProps と getStaticPaths と getServerSideProps の概要解説",
-    "url": "https://qiita.com/matamatanot/items/1735984f40540b8bdf91",
-    "likes_count": 513,
-    "created_at": "2020-03-08T11:00:43+09:00",
-    "updated_at": "2021-02-04T14:39:33+09:00",
-    "id": "matamatanot"
   },
   {
     "title": "WSL2入れてみた",

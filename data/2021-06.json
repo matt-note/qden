@@ -2,7 +2,7 @@
   {
     "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
     "url": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
-    "likes_count": 1090,
+    "likes_count": 1092,
     "created_at": "2021-06-06T10:28:02+09:00",
     "updated_at": "2021-09-08T02:36:13+09:00",
     "id": "c60evaporator"
@@ -10,7 +10,7 @@
   {
     "title": "由来で覚えるlinux用語集",
     "url": "https://qiita.com/essei0-0/items/65d0584ed28c951e5e2b",
-    "likes_count": 1027,
+    "likes_count": 1028,
     "created_at": "2021-06-19T18:01:11+09:00",
     "updated_at": "2021-09-16T11:08:31+09:00",
     "id": "essei0-0"
@@ -18,15 +18,15 @@
   {
     "title": "Dockerfileのベストプラクティス",
     "url": "https://qiita.com/Tsuyozo/items/c706a04848c3fbbaf055",
-    "likes_count": 710,
+    "likes_count": 713,
     "created_at": "2021-06-04T18:50:16+09:00",
-    "updated_at": "2021-09-24T12:47:20+09:00",
+    "updated_at": "2021-09-30T15:11:18+09:00",
     "id": "Tsuyozo"
   },
   {
     "title": "Kaggle Expertになるまで勉強したことを全て書く",
     "url": "https://qiita.com/Yuki_Kaggler/items/8ffe2ffa6f020e09cfd3",
-    "likes_count": 708,
+    "likes_count": 710,
     "created_at": "2021-06-21T19:22:37+09:00",
     "updated_at": "2021-06-28T23:19:10+09:00",
     "id": "Yuki_Kaggler"
@@ -34,7 +34,7 @@
   {
     "title": "今起きている革命、「因果革命」とは",
     "url": "https://qiita.com/naosugi1987/items/c3168b68b05f83d0985c",
-    "likes_count": 635,
+    "likes_count": 636,
     "created_at": "2021-06-28T20:44:34+09:00",
     "updated_at": "2021-06-29T09:51:12+09:00",
     "id": "naosugi1987"
@@ -50,7 +50,7 @@
   {
     "title": "エンジニアリングマネージャーになる前に知りたかった考え方",
     "url": "https://qiita.com/kyntk/items/f5731a68e6aed10e3639",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2021-06-13T22:37:18+09:00",
     "updated_at": "2021-06-14T10:27:56+09:00",
     "id": "kyntk"
@@ -80,6 +80,14 @@
     "id": "tommyecguitar"
   },
   {
+    "title": "イラストで理解するSOLID原則",
+    "url": "https://qiita.com/baby-degu/items/d058a62f145235a0f007",
+    "likes_count": 348,
+    "created_at": "2021-06-14T21:48:30+09:00",
+    "updated_at": "2021-06-14T21:48:30+09:00",
+    "id": "baby-degu"
+  },
+  {
     "title": "機械学習による株価予想の十八手",
     "url": "https://qiita.com/heegle/items/69c27890b8e0dd4df567",
     "likes_count": 348,
@@ -94,14 +102,6 @@
     "created_at": "2021-06-27T11:28:19+09:00",
     "updated_at": "2021-07-01T23:52:31+09:00",
     "id": "katsunory"
-  },
-  {
-    "title": "イラストで理解するSOLID原則",
-    "url": "https://qiita.com/baby-degu/items/d058a62f145235a0f007",
-    "likes_count": 347,
-    "created_at": "2021-06-14T21:48:30+09:00",
-    "updated_at": "2021-06-14T21:48:30+09:00",
-    "id": "baby-degu"
   },
   {
     "title": "綺麗なコミットログを作りたいときのgitテクニック",
@@ -130,7 +130,7 @@
   {
     "title": "使い続けてもらえるアプリUX開発で気を付けた8つのユーザー心理【個人開発】",
     "url": "https://qiita.com/herishiro/items/1f595fcd19e369c5895c",
-    "likes_count": 281,
+    "likes_count": 282,
     "created_at": "2021-06-29T08:51:15+09:00",
     "updated_at": "2021-07-12T09:37:09+09:00",
     "id": "herishiro"
