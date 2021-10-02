@@ -34,7 +34,7 @@
   {
     "title": "スーパーマリオのジャンプのアルゴリズム",
     "url": "https://qiita.com/morian-bisco/items/4c659d9f940c7e3a2099",
-    "likes_count": 1898,
+    "likes_count": 1899,
     "created_at": "2019-11-06T21:09:47+09:00",
     "updated_at": "2019-11-16T22:59:09+09:00",
     "id": "morian-bisco"
@@ -42,7 +42,7 @@
   {
     "title": "【保存版】Webフロントエンド基礎力（初心者向け）",
     "url": "https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9",
-    "likes_count": 1845,
+    "likes_count": 1846,
     "created_at": "2019-11-05T08:41:27+09:00",
     "updated_at": "2020-03-15T22:12:44+09:00",
     "id": "teradonburi"
@@ -90,7 +90,7 @@
   {
     "title": "コードレビュー虎の巻",
     "url": "https://qiita.com/teradonburi/items/2fa475c860d0fb16c0eb",
-    "likes_count": 1259,
+    "likes_count": 1260,
     "created_at": "2019-11-19T12:00:29+09:00",
     "updated_at": "2021-08-18T14:49:53+09:00",
     "id": "teradonburi"
@@ -178,7 +178,7 @@
   {
     "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
     "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 807,
+    "likes_count": 806,
     "created_at": "2019-11-21T16:30:57+09:00",
     "updated_at": "2020-10-14T00:17:51+09:00",
     "id": "ryokkkke"
@@ -226,7 +226,7 @@
   {
     "title": "【初心者向け】無料でPythonの基本文法を5時間で学ぼう！",
     "url": "https://qiita.com/AI_Academy/items/b97b2178b4d10abe0adb",
-    "likes_count": 654,
+    "likes_count": 655,
     "created_at": "2019-11-18T11:43:12+09:00",
     "updated_at": "2019-11-18T14:56:47+09:00",
     "id": "AI_Academy"
@@ -290,7 +290,7 @@
   {
     "title": "RDBの限界とNoSQLの登場",
     "url": "https://qiita.com/1amageek/items/3dbbc3112493a73880d0",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2019-11-11T21:55:56+09:00",
     "updated_at": "2021-03-29T01:08:03+09:00",
     "id": "1amageek"
@@ -344,20 +344,20 @@
     "id": "w-sato-ist"
   },
   {
+    "title": "ぼくのVimさばきを支える設定とその導入手順を紹介する",
+    "url": "https://qiita.com/jiroshin/items/ee86ea426a51fa24b319",
+    "likes_count": 489,
+    "created_at": "2019-11-27T13:29:20+09:00",
+    "updated_at": "2020-12-30T21:53:00+09:00",
+    "id": "jiroshin"
+  },
+  {
     "title": "新人エンジニアが意識すると良いなと思うことまとめ",
     "url": "https://qiita.com/mass-min/items/de9c8bed8fb794ba9450",
     "likes_count": 488,
     "created_at": "2019-11-07T01:45:24+09:00",
     "updated_at": "2019-11-07T01:45:24+09:00",
     "id": "mass-min"
-  },
-  {
-    "title": "ぼくのVimさばきを支える設定とその導入手順を紹介する",
-    "url": "https://qiita.com/jiroshin/items/ee86ea426a51fa24b319",
-    "likes_count": 487,
-    "created_at": "2019-11-27T13:29:20+09:00",
-    "updated_at": "2020-12-30T21:53:00+09:00",
-    "id": "jiroshin"
   },
   {
     "title": "【初心者向け】Gitで個人開発",
@@ -370,7 +370,7 @@
   {
     "title": "やさしい図解で学ぶ　ER図　表記法一覧",
     "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
-    "likes_count": 478,
+    "likes_count": 479,
     "created_at": "2019-11-11T19:20:33+09:00",
     "updated_at": "2020-03-02T12:18:46+09:00",
     "id": "ramuneru"
@@ -386,7 +386,7 @@
   {
     "title": "【検証】ディープラーニングがあるからといって、競馬で回収率100%を簡単に超えられるわけではない",
     "url": "https://qiita.com/kscntt/items/3f215a945c32a2bbcd3c",
-    "likes_count": 460,
+    "likes_count": 461,
     "created_at": "2019-11-16T23:26:11+09:00",
     "updated_at": "2019-11-16T23:26:11+09:00",
     "id": "kscntt"
@@ -394,7 +394,7 @@
   {
     "title": "【入門】はじめての Flutter",
     "url": "https://qiita.com/nskydiving/items/4fcf0dbad923d50601f9",
-    "likes_count": 446,
+    "likes_count": 448,
     "created_at": "2019-11-03T19:19:27+09:00",
     "updated_at": "2021-03-20T09:18:58+09:00",
     "id": "nskydiving"
@@ -474,7 +474,7 @@
   {
     "title": "クロスプラットフォームフレームワーク比較 2021（Flutter, React Native, Xamarin, Unity）",
     "url": "https://qiita.com/nskydiving/items/c13c949cc17c6f980a67",
-    "likes_count": 345,
+    "likes_count": 347,
     "created_at": "2019-11-14T08:18:04+09:00",
     "updated_at": "2021-05-31T07:37:00+09:00",
     "id": "nskydiving"
