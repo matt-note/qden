@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5242,
+    "likes_count": 5243,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2829,
+    "likes_count": 2830,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1725,
+    "likes_count": 1727,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1708,
+    "likes_count": 1710,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -138,7 +138,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 806,
+    "likes_count": 807,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -146,7 +146,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 763,
+    "likes_count": 764,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -242,10 +242,18 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 605,
+    "likes_count": 606,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
+  },
+  {
+    "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
+    "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
+    "likes_count": 600,
+    "created_at": "2018-05-21T08:09:42+09:00",
+    "updated_at": "2018-05-21T21:53:00+09:00",
+    "id": "tag1216"
   },
   {
     "title": "名刺の代わりにCLIアプリを書く",
@@ -254,14 +262,6 @@
     "created_at": "2018-05-15T22:47:19+09:00",
     "updated_at": "2018-05-16T09:36:33+09:00",
     "id": "akameco"
-  },
-  {
-    "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
-    "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 598,
-    "created_at": "2018-05-21T08:09:42+09:00",
-    "updated_at": "2018-05-21T21:53:00+09:00",
-    "id": "tag1216"
   },
   {
     "title": "[macOS向け] gitのクライアントはGitUpがいいぞ。",
@@ -362,7 +362,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -538,7 +538,7 @@
   {
     "title": "git を初めて使う時 コミット→プッシュ→マージ　の流れ",
     "url": "https://qiita.com/yukiyoshimura/items/7aa4a8f8db493ab97c2b",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2018-05-13T21:59:51+09:00",
     "updated_at": "2018-05-13T22:05:49+09:00",
     "id": "yukiyoshimura"
@@ -554,7 +554,7 @@
   {
     "title": "Dockerコマンド よく使うやつ",
     "url": "https://qiita.com/Esfahan/items/52141a2ad741933d7d4c",
-    "likes_count": 259,
+    "likes_count": 260,
     "created_at": "2018-05-07T16:57:11+09:00",
     "updated_at": "2021-07-14T14:40:03+09:00",
     "id": "Esfahan"

@@ -18,7 +18,7 @@
   {
     "title": "イスラエル8200部隊出身のガチプロハッカーに、一流のハッカーになる方法について聞いてみた。",
     "url": "https://qiita.com/tmgauss/items/da5e89496e951629517f",
-    "likes_count": 1677,
+    "likes_count": 1678,
     "created_at": "2020-12-23T18:42:40+09:00",
     "updated_at": "2021-06-09T16:29:05+09:00",
     "id": "tmgauss"
@@ -66,7 +66,7 @@
   {
     "title": "ライセンスをつけないとどうなるの？",
     "url": "https://qiita.com/Tatamo/items/ae7bf4878abcf0584291",
-    "likes_count": 949,
+    "likes_count": 950,
     "created_at": "2020-12-18T02:23:51+09:00",
     "updated_at": "2020-12-20T03:38:42+09:00",
     "id": "Tatamo"
@@ -146,7 +146,7 @@
   {
     "title": "2020年超盛り上がり！自己教師あり学習の最前線まとめ！",
     "url": "https://qiita.com/omiita/items/a7429ec42e4eef4b6a4d",
-    "likes_count": 533,
+    "likes_count": 536,
     "created_at": "2020-12-01T10:10:54+09:00",
     "updated_at": "2021-02-28T14:15:31+09:00",
     "id": "omiita"
@@ -160,20 +160,20 @@
     "id": "raku_taro"
   },
   {
+    "title": "Terraform職人再入門2020",
+    "url": "https://qiita.com/minamijoyo/items/3a7467f70d145ac03324",
+    "likes_count": 474,
+    "created_at": "2020-12-11T10:10:42+09:00",
+    "updated_at": "2020-12-11T11:35:27+09:00",
+    "id": "minamijoyo"
+  },
+  {
     "title": "OpenCVでのデモの見栄えを工夫したまとめ(ディープラーニング系)",
     "url": "https://qiita.com/Kazuhito/items/f8f21956436dc410f8d2",
     "likes_count": 473,
     "created_at": "2020-12-06T16:12:34+09:00",
     "updated_at": "2020-12-12T00:53:13+09:00",
     "id": "Kazuhito"
-  },
-  {
-    "title": "Terraform職人再入門2020",
-    "url": "https://qiita.com/minamijoyo/items/3a7467f70d145ac03324",
-    "likes_count": 473,
-    "created_at": "2020-12-11T10:10:42+09:00",
-    "updated_at": "2020-12-11T11:35:27+09:00",
-    "id": "minamijoyo"
   },
   {
     "title": "理不尽なムチャぶりを全力で回避したいエンジニアのためのサバイバル術",
@@ -240,6 +240,14 @@
     "id": "NayuSato"
   },
   {
+    "title": "【Kaggle】2020年に開催された画像分類コンペの1位の解法を紹介します",
+    "url": "https://qiita.com/inoichan/items/140cf018d31151d2701a",
+    "likes_count": 420,
+    "created_at": "2020-12-14T19:39:02+09:00",
+    "updated_at": "2020-12-17T01:39:42+09:00",
+    "id": "inoichan"
+  },
+  {
     "title": "結局、Go言語をやめる理由はなかった件",
     "url": "https://qiita.com/Maki-Daisuke/items/23c1285500208048de80",
     "likes_count": 420,
@@ -248,28 +256,20 @@
     "id": "Maki-Daisuke"
   },
   {
-    "title": "【Kaggle】2020年に開催された画像分類コンペの1位の解法を紹介します",
-    "url": "https://qiita.com/inoichan/items/140cf018d31151d2701a",
-    "likes_count": 419,
-    "created_at": "2020-12-14T19:39:02+09:00",
-    "updated_at": "2020-12-17T01:39:42+09:00",
-    "id": "inoichan"
-  },
-  {
-    "title": "フロントエンドエンジニアがSPAを開発する上で理解しておきたいこと",
-    "url": "https://qiita.com/shohta-noda/items/a6c1b5264cb2fee7fc6d",
-    "likes_count": 390,
-    "created_at": "2020-12-22T10:16:23+09:00",
-    "updated_at": "2020-12-24T14:32:44+09:00",
-    "id": "shohta-noda"
-  },
-  {
     "title": "「ちょっとLTやってよ」と突然言われた時に押さえたい５つのポイント",
     "url": "https://qiita.com/shogotgm/items/c769cfc7d6fc2ef8f003",
     "likes_count": 389,
     "created_at": "2020-12-09T21:00:38+09:00",
     "updated_at": "2020-12-15T13:49:45+09:00",
     "id": "shogotgm"
+  },
+  {
+    "title": "フロントエンドエンジニアがSPAを開発する上で理解しておきたいこと",
+    "url": "https://qiita.com/shohta-noda/items/a6c1b5264cb2fee7fc6d",
+    "likes_count": 389,
+    "created_at": "2020-12-22T10:16:23+09:00",
+    "updated_at": "2020-12-24T14:32:44+09:00",
+    "id": "shohta-noda"
   },
   {
     "title": "【動画解説】2020年に読んだAI論文100本全部解説(俺的ベスト3付き)",
