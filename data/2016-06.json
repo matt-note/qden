@@ -66,7 +66,7 @@
   {
     "title": "javaプログラマー向け学習のための本（新人から５年めくらいまで）を考えてみた",
     "url": "https://qiita.com/bonybeat/items/a7ed6cc96d256570ac74",
-    "likes_count": 1255,
+    "likes_count": 1256,
     "created_at": "2016-06-11T13:41:42+09:00",
     "updated_at": "2019-08-09T17:22:32+09:00",
     "id": "bonybeat"
@@ -98,7 +98,7 @@
   {
     "title": "PHP isset, empty, is_null の違い早見表",
     "url": "https://qiita.com/shinichi-takii/items/00aed26f96cf6bb3fe62",
-    "likes_count": 831,
+    "likes_count": 832,
     "created_at": "2016-06-22T11:23:13+09:00",
     "updated_at": "2016-06-22T12:09:55+09:00",
     "id": "shinichi-takii"
@@ -176,20 +176,20 @@
     "id": "opengl-8080"
   },
   {
+    "title": "MySQLのIndexをはるコツ",
+    "url": "https://qiita.com/katsukii/items/3409e3c3c96580d37c2b",
+    "likes_count": 591,
+    "created_at": "2016-06-24T09:26:44+09:00",
+    "updated_at": "2016-06-24T09:26:44+09:00",
+    "id": "katsukii"
+  },
+  {
     "title": "一からマイクロサービスの開発フローを作った話",
     "url": "https://qiita.com/tomoyamachi/items/0f049c87bfdef4aa6ad9",
     "likes_count": 591,
     "created_at": "2016-06-24T14:26:45+09:00",
     "updated_at": "2020-08-06T23:31:35+09:00",
     "id": "tomoyamachi"
-  },
-  {
-    "title": "MySQLのIndexをはるコツ",
-    "url": "https://qiita.com/katsukii/items/3409e3c3c96580d37c2b",
-    "likes_count": 590,
-    "created_at": "2016-06-24T09:26:44+09:00",
-    "updated_at": "2016-06-24T09:26:44+09:00",
-    "id": "katsukii"
   },
   {
     "title": "Pythonではじめる強化学習",
@@ -232,17 +232,9 @@
     "id": "Takamichi-tsutsumi"
   },
   {
-    "title": "新 App Store 審査ガイドライン 翻訳&移行ガイド",
-    "url": "https://qiita.com/midnightSuyama/items/54d65502b15d9ca07a19",
-    "likes_count": 503,
-    "created_at": "2016-06-30T00:27:58+09:00",
-    "updated_at": "2016-06-30T00:27:58+09:00",
-    "id": "midnightSuyama"
-  },
-  {
     "title": "Content-Typeの一覧",
     "url": "https://qiita.com/AkihiroTakamura/items/b93fbe511465f52bffaa",
-    "likes_count": 502,
+    "likes_count": 503,
     "created_at": "2016-06-10T15:33:57+09:00",
     "updated_at": "2020-05-22T13:02:43+09:00",
     "id": "AkihiroTakamura"
@@ -250,10 +242,18 @@
   {
     "title": "# CommonJS と ES6の import/export で迷うなら",
     "url": "https://qiita.com/rooooomania/items/4c999d93ae745e9d8657",
-    "likes_count": 502,
+    "likes_count": 503,
     "created_at": "2016-06-28T08:59:42+09:00",
     "updated_at": "2021-01-24T13:12:01+09:00",
     "id": "rooooomania"
+  },
+  {
+    "title": "新 App Store 審査ガイドライン 翻訳&移行ガイド",
+    "url": "https://qiita.com/midnightSuyama/items/54d65502b15d9ca07a19",
+    "likes_count": 503,
+    "created_at": "2016-06-30T00:27:58+09:00",
+    "updated_at": "2016-06-30T00:27:58+09:00",
+    "id": "midnightSuyama"
   },
   {
     "title": "機械学習のデータセットの重要性",
@@ -290,7 +290,7 @@
   {
     "title": "JSON Web Tokenを使ってReactとReduxのSPAでログイン認証をする",
     "url": "https://qiita.com/nabeliwo/items/ac4b77324a9989e8e6bb",
-    "likes_count": 430,
+    "likes_count": 431,
     "created_at": "2016-06-09T18:55:22+09:00",
     "updated_at": "2018-06-28T17:10:28+09:00",
     "id": "nabeliwo"

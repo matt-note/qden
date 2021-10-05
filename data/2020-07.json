@@ -2,7 +2,7 @@
   {
     "title": "エンジニアの劣等感との付き合い方",
     "url": "https://qiita.com/karamage/items/771b633c3243989418a2",
-    "likes_count": 3995,
+    "likes_count": 3996,
     "created_at": "2020-07-25T17:19:02+09:00",
     "updated_at": "2020-07-26T17:49:52+09:00",
     "id": "karamage"
@@ -58,7 +58,7 @@
   {
     "title": "DI (依存性注入) って何のためにするのかわからない人向けに頑張って説明してみる",
     "url": "https://qiita.com/okazuki/items/a0f2fb0a63ca88340ff6",
-    "likes_count": 931,
+    "likes_count": 932,
     "created_at": "2020-07-09T00:07:42+09:00",
     "updated_at": "2020-07-12T17:54:24+09:00",
     "id": "okazuki"
@@ -162,18 +162,10 @@
   {
     "title": "たのしい探索アルゴリズムの世界【前編：全探索、bit全探索から半分全列挙まで】",
     "url": "https://qiita.com/e869120/items/25cb52ba47be0fd418d6",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2020-07-26T20:16:44+09:00",
     "updated_at": "2020-08-04T19:32:00+09:00",
     "id": "e869120"
-  },
-  {
-    "title": "CSSアニメーションとJSで『崩壊するサイト』を簡単に作る",
-    "url": "https://qiita.com/aocattleya/items/485174fde66d4f957788",
-    "likes_count": 438,
-    "created_at": "2020-07-01T17:52:11+09:00",
-    "updated_at": "2020-07-02T16:54:07+09:00",
-    "id": "aocattleya"
   },
   {
     "title": "秘密にしておきたかったんだけど、実はTwitterにはWebページを埋め込めるんだよね",
@@ -182,6 +174,14 @@
     "created_at": "2020-07-09T20:52:54+09:00",
     "updated_at": "2020-07-11T21:09:51+09:00",
     "id": "ver1000000"
+  },
+  {
+    "title": "CSSアニメーションとJSで『崩壊するサイト』を簡単に作る",
+    "url": "https://qiita.com/aocattleya/items/485174fde66d4f957788",
+    "likes_count": 437,
+    "created_at": "2020-07-01T17:52:11+09:00",
+    "updated_at": "2020-07-02T16:54:07+09:00",
+    "id": "aocattleya"
   },
   {
     "title": "障害者支援施設の職員がPHPとLaravelで社内Webシステムを作るまでに勉強した話",
@@ -232,20 +232,20 @@
     "id": "_akira19"
   },
   {
+    "title": "【TypeScript】Utility Typesをまとめて理解する",
+    "url": "https://qiita.com/k-penguin-sato/items/e2791d7a57e96f6144e5",
+    "likes_count": 363,
+    "created_at": "2020-07-09T09:06:28+09:00",
+    "updated_at": "2021-04-03T15:13:54+09:00",
+    "id": "k-penguin-sato"
+  },
+  {
     "title": "【GAS x Vue.js】JavaScript のみで今、家計簿をつくるとしたら【ハンズオン付き！】",
     "url": "https://qiita.com/matsu7089/items/6ea7931e97ae703f6607",
     "likes_count": 362,
     "created_at": "2020-07-05T18:16:40+09:00",
     "updated_at": "2021-01-01T22:30:51+09:00",
     "id": "matsu7089"
-  },
-  {
-    "title": "【TypeScript】Utility Typesをまとめて理解する",
-    "url": "https://qiita.com/k-penguin-sato/items/e2791d7a57e96f6144e5",
-    "likes_count": 360,
-    "created_at": "2020-07-09T09:06:28+09:00",
-    "updated_at": "2021-04-03T15:13:54+09:00",
-    "id": "k-penguin-sato"
   },
   {
     "title": "[JavaScriptデバッグテクニック]メソッド実行中の変数の中とか見たくない？",

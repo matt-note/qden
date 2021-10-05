@@ -66,7 +66,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1710,
+    "likes_count": 1711,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -226,7 +226,7 @@
   {
     "title": "FizzBuzzを1byteで実装する",
     "url": "https://qiita.com/ymg_aq/items/b8e5d26035180bc8797e",
-    "likes_count": 653,
+    "likes_count": 654,
     "created_at": "2018-05-17T16:59:36+09:00",
     "updated_at": "2018-05-19T11:23:34+09:00",
     "id": "ymg_aq"
@@ -234,7 +234,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/takahiro1127/items/fcb81753eaf381b4b33c",
-    "likes_count": 617,
+    "likes_count": 618,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "takahiro1127"
@@ -250,7 +250,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 600,
+    "likes_count": 603,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -408,20 +408,20 @@
     "id": "kahirokunn"
   },
   {
+    "title": "Android Architecture Components 初級 （ MVVM + LiveData + Coroutines 編 ）",
+    "url": "https://qiita.com/Tsutou/items/69a28ebbd69b69e51703",
+    "likes_count": 449,
+    "created_at": "2018-05-30T13:52:14+09:00",
+    "updated_at": "2020-07-17T00:02:52+09:00",
+    "id": "Tsutou"
+  },
+  {
     "title": "ドット絵ゲームをunityで作るときに押さえておきたいポイント",
     "url": "https://qiita.com/pixelflag/items/ad817bdd64931e084a46",
     "likes_count": 448,
     "created_at": "2018-05-06T13:21:05+09:00",
     "updated_at": "2020-05-12T18:19:49+09:00",
     "id": "pixelflag"
-  },
-  {
-    "title": "Android Architecture Components 初級 （ MVVM + LiveData + Coroutines 編 ）",
-    "url": "https://qiita.com/Tsutou/items/69a28ebbd69b69e51703",
-    "likes_count": 448,
-    "created_at": "2018-05-30T13:52:14+09:00",
-    "updated_at": "2020-07-17T00:02:52+09:00",
-    "id": "Tsutou"
   },
   {
     "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
@@ -456,20 +456,20 @@
     "id": "yahsan2"
   },
   {
+    "title": "SSH公開鍵認証で接続するまで",
+    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
+    "likes_count": 387,
+    "created_at": "2018-05-06T12:00:20+09:00",
+    "updated_at": "2021-08-15T21:26:32+09:00",
+    "id": "kazokmr"
+  },
+  {
     "title": "初学者でも5分で理解できるようにDI(Dependency Injection)を説明してみた",
     "url": "https://qiita.com/hirodragon/items/73442390d551fe7376ea",
     "likes_count": 387,
     "created_at": "2018-05-25T00:56:35+09:00",
     "updated_at": "2018-05-28T15:44:02+09:00",
     "id": "hirodragon"
-  },
-  {
-    "title": "SSH公開鍵認証で接続するまで",
-    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 385,
-    "created_at": "2018-05-06T12:00:20+09:00",
-    "updated_at": "2021-08-15T21:26:32+09:00",
-    "id": "kazokmr"
   },
   {
     "title": "dockerで簡易にpython3の環境を作ってみる",
@@ -494,6 +494,14 @@
     "created_at": "2018-05-11T11:45:56+09:00",
     "updated_at": "2020-04-17T11:40:05+09:00",
     "id": "akiyoshi_sasaki"
+  },
+  {
+    "title": "Gradle の compile, api, implementation とかについて",
+    "url": "https://qiita.com/opengl-8080/items/6ad642e0b016465891de",
+    "likes_count": 339,
+    "created_at": "2018-05-25T22:17:55+09:00",
+    "updated_at": "2018-05-25T22:17:55+09:00",
+    "id": "opengl-8080"
   },
   {
     "title": "PWAをもっと簡単に初めてみる",
