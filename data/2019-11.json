@@ -2,7 +2,7 @@
   {
     "title": "2020年のフロントエンドマスターになりたければこの9プロジェクトを作れ",
     "url": "https://qiita.com/rana_kualu/items/915345b8f3f870cfe2aa",
-    "likes_count": 3639,
+    "likes_count": 3640,
     "created_at": "2019-11-11T20:54:20+09:00",
     "updated_at": "2019-11-20T21:12:23+09:00",
     "id": "rana_kualu"
@@ -42,7 +42,7 @@
   {
     "title": "【保存版】Webフロントエンド基礎力（初心者向け）",
     "url": "https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9",
-    "likes_count": 1846,
+    "likes_count": 1847,
     "created_at": "2019-11-05T08:41:27+09:00",
     "updated_at": "2020-03-15T22:12:44+09:00",
     "id": "teradonburi"
@@ -58,7 +58,7 @@
   {
     "title": "エンジニアが活用したい情報リソースまとめ",
     "url": "https://qiita.com/EaE/items/eb8f28223c9c2926b44f",
-    "likes_count": 1788,
+    "likes_count": 1789,
     "created_at": "2019-11-27T19:15:47+09:00",
     "updated_at": "2019-11-29T01:53:56+09:00",
     "id": "EaE"
@@ -160,6 +160,14 @@
     "id": "Yametaro"
   },
   {
+    "title": "チャットやメールの文章をないがしろにする人はチーム全体の開発効率に悪影響を与える",
+    "url": "https://qiita.com/fujinumagic/items/8069f90bdd8b6d642ef3",
+    "likes_count": 909,
+    "created_at": "2019-11-25T17:25:17+09:00",
+    "updated_at": "2019-11-25T17:35:04+09:00",
+    "id": "fujinumagic"
+  },
+  {
     "title": "Reactの最強フレームワークGatsby.jsの良さを伝えたい！！",
     "url": "https://qiita.com/hppRC/items/00739eaf9ae7fc95c1ca",
     "likes_count": 909,
@@ -168,17 +176,9 @@
     "id": "hppRC"
   },
   {
-    "title": "チャットやメールの文章をないがしろにする人はチーム全体の開発効率に悪影響を与える",
-    "url": "https://qiita.com/fujinumagic/items/8069f90bdd8b6d642ef3",
-    "likes_count": 908,
-    "created_at": "2019-11-25T17:25:17+09:00",
-    "updated_at": "2019-11-25T17:35:04+09:00",
-    "id": "fujinumagic"
-  },
-  {
     "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
     "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 809,
+    "likes_count": 810,
     "created_at": "2019-11-21T16:30:57+09:00",
     "updated_at": "2020-10-14T00:17:51+09:00",
     "id": "ryokkkke"
@@ -258,7 +258,7 @@
   {
     "title": "Nuxt.jsに飛びつく前に~Nuxt.jsを習得するための前提技術と、その勉強方法の紹介~",
     "url": "https://qiita.com/newt0/items/763b0c228a8451c68865",
-    "likes_count": 596,
+    "likes_count": 598,
     "created_at": "2019-11-26T01:23:49+09:00",
     "updated_at": "2021-02-18T12:38:46+09:00",
     "id": "newt0"
@@ -266,7 +266,7 @@
   {
     "title": "マルチカーソルで、VSCodeのスニペットをもっと便利に。",
     "url": "https://qiita.com/Yametaro/items/40b6c37437056f2a3ed5",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2019-11-12T23:03:50+09:00",
     "updated_at": "2019-11-13T20:29:59+09:00",
     "id": "Yametaro"
@@ -290,7 +290,7 @@
   {
     "title": "RDBの限界とNoSQLの登場",
     "url": "https://qiita.com/1amageek/items/3dbbc3112493a73880d0",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2019-11-11T21:55:56+09:00",
     "updated_at": "2021-03-29T01:08:03+09:00",
     "id": "1amageek"
@@ -312,20 +312,20 @@
     "id": "v_avenger"
   },
   {
+    "title": "令和時代のPython作図ライブラリのデファクトスタンダードPlotlyExpressの基本的な描き方まとめ",
+    "url": "https://qiita.com/hanon/items/d8cbe25aa8f3a9347b0b",
+    "likes_count": 520,
+    "created_at": "2019-11-04T00:15:43+09:00",
+    "updated_at": "2019-11-05T11:31:26+09:00",
+    "id": "hanon"
+  },
+  {
     "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
     "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
     "likes_count": 519,
     "created_at": "2019-11-15T22:47:51+09:00",
     "updated_at": "2020-03-09T11:53:54+09:00",
     "id": "ramuneru"
-  },
-  {
-    "title": "令和時代のPython作図ライブラリのデファクトスタンダードPlotlyExpressの基本的な描き方まとめ",
-    "url": "https://qiita.com/hanon/items/d8cbe25aa8f3a9347b0b",
-    "likes_count": 518,
-    "created_at": "2019-11-04T00:15:43+09:00",
-    "updated_at": "2019-11-05T11:31:26+09:00",
-    "id": "hanon"
   },
   {
     "title": "「ループ・再帰・gotoを使わず1から100までの数値を印字する」Conner Davis 氏の回答の考察",
@@ -362,7 +362,7 @@
   {
     "title": "やさしい図解で学ぶ　ER図　表記法一覧",
     "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
-    "likes_count": 483,
+    "likes_count": 484,
     "created_at": "2019-11-11T19:20:33+09:00",
     "updated_at": "2020-03-02T12:18:46+09:00",
     "id": "ramuneru"
@@ -394,7 +394,7 @@
   {
     "title": "【入門】はじめての Flutter",
     "url": "https://qiita.com/nskydiving/items/4fcf0dbad923d50601f9",
-    "likes_count": 450,
+    "likes_count": 451,
     "created_at": "2019-11-03T19:19:27+09:00",
     "updated_at": "2021-03-20T09:18:58+09:00",
     "id": "nskydiving"
