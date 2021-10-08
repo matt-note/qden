@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4870,
+    "likes_count": 4869,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3377,
+    "likes_count": 3376,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -58,7 +58,7 @@
   {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1391,
+    "likes_count": 1392,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
@@ -122,7 +122,7 @@
   {
     "title": "Webhookとは？",
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 1048,
+    "likes_count": 1049,
     "created_at": "2016-12-17T12:54:09+09:00",
     "updated_at": "2021-10-02T00:05:10+09:00",
     "id": "soarflat"
@@ -146,7 +146,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 890,
+    "likes_count": 891,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -194,7 +194,7 @@
   {
     "title": "良いエンジニアを採用するための方法論",
     "url": "https://qiita.com/dorarep/items/b9f7f6ff6e1bc344cf0a",
-    "likes_count": 727,
+    "likes_count": 728,
     "created_at": "2016-12-05T14:14:10+09:00",
     "updated_at": "2020-08-05T22:57:31+09:00",
     "id": "dorarep"
@@ -272,20 +272,20 @@
     "id": "chi9rin"
   },
   {
+    "title": "Gitのブランチモデルについて",
+    "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
+    "likes_count": 637,
+    "created_at": "2016-12-05T00:04:34+09:00",
+    "updated_at": "2016-12-05T00:12:43+09:00",
+    "id": "y-okudera"
+  },
+  {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
     "likes_count": 637,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
-  },
-  {
-    "title": "Gitのブランチモデルについて",
-    "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 636,
-    "created_at": "2016-12-05T00:04:34+09:00",
-    "updated_at": "2016-12-05T00:12:43+09:00",
-    "id": "y-okudera"
   },
   {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
@@ -488,6 +488,14 @@
     "id": "itkrt2y"
   },
   {
+    "title": "Ruby on Railsで作ったWebサービスを5倍速くしてメモリを半分以下にした話",
+    "url": "https://qiita.com/zaru/items/04fdd43158e5cd1d835d",
+    "likes_count": 432,
+    "created_at": "2016-12-02T11:10:32+09:00",
+    "updated_at": "2016-12-05T18:00:23+09:00",
+    "id": "zaru"
+  },
+  {
     "title": "恥かどうかはともかく、そもそも逃げられない障害対応のお話",
     "url": "https://qiita.com/s_kozake/items/825348559e4b4e330fb5",
     "likes_count": 432,
@@ -610,7 +618,7 @@
   {
     "title": "railsのrenderとredirect_toの違い",
     "url": "https://qiita.com/1ulce/items/282cccba1e44158489c8",
-    "likes_count": 335,
+    "likes_count": 334,
     "created_at": "2016-12-02T21:16:03+09:00",
     "updated_at": "2016-12-02T21:21:39+09:00",
     "id": "1ulce"
@@ -642,7 +650,7 @@
   {
     "title": "Flux を使わずに React コンポーネント間のコミュニケーションを行う8つの方法",
     "url": "https://qiita.com/kyoshidajp/items/0ddb156d96bb6337f623",
-    "likes_count": 328,
+    "likes_count": 329,
     "created_at": "2016-12-31T12:53:24+09:00",
     "updated_at": "2019-11-21T22:22:39+09:00",
     "id": "kyoshidajp"
@@ -702,14 +710,6 @@
     "created_at": "2016-12-03T23:59:38+09:00",
     "updated_at": "2017-08-16T21:16:58+09:00",
     "id": "zom"
-  },
-  {
-    "title": "マイクロサービス時代に捧ぐ、Railsでの中規模APIサーバ開発のための技術構成",
-    "url": "https://qiita.com/qsona/items/0274c7c1fd27a4a9a545",
-    "likes_count": 302,
-    "created_at": "2016-12-06T22:42:21+09:00",
-    "updated_at": "2016-12-08T19:13:25+09:00",
-    "id": "qsona"
   },
   {
     "title": "Docker & Docker-Composeの基本的な使い方",
@@ -778,7 +778,7 @@
   {
     "title": "DB未経験の新米エンジニアが読んだ書籍を時系列順に紹介",
     "url": "https://qiita.com/maaaaaaaa/items/4e1d84cb40c83004575f",
-    "likes_count": 267,
+    "likes_count": 266,
     "created_at": "2016-12-09T18:01:44+09:00",
     "updated_at": "2019-10-17T17:54:30+09:00",
     "id": "maaaaaaaa"
