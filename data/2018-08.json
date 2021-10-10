@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 3631,
+    "likes_count": 3633,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2021-04-12T11:28:43+09:00",
     "id": "gold-kou"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptのpreventDefault()って難しくない？preventDefault()を使うための前提知識",
     "url": "https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae",
-    "likes_count": 819,
+    "likes_count": 820,
     "created_at": "2018-08-19T23:18:15+09:00",
     "updated_at": "2021-05-15T17:37:16+09:00",
     "id": "tochiji"
@@ -154,7 +154,7 @@
   {
     "title": "Git コンフリクト解消手順",
     "url": "https://qiita.com/crarrry/items/c5964512e21e383b73da",
-    "likes_count": 565,
+    "likes_count": 566,
     "created_at": "2018-08-02T08:34:29+09:00",
     "updated_at": "2021-01-17T18:36:45+09:00",
     "id": "crarrry"
@@ -210,7 +210,7 @@
   {
     "title": "JavaScript 正規表現まとめ",
     "url": "https://qiita.com/iLLviA/items/b6bf680cd2408edd050f",
-    "likes_count": 468,
+    "likes_count": 469,
     "created_at": "2018-08-17T08:19:03+09:00",
     "updated_at": "2018-08-19T17:12:43+09:00",
     "id": "iLLviA"
@@ -240,6 +240,14 @@
     "id": "gounx2"
   },
   {
+    "title": "Rustで競技プログラミングの入力をスッキリ記述するマクロ",
+    "url": "https://qiita.com/tanakh/items/0ba42c7ca36cd29d0ac8",
+    "likes_count": 455,
+    "created_at": "2018-08-20T23:05:27+09:00",
+    "updated_at": "2018-08-22T01:04:03+09:00",
+    "id": "tanakh"
+  },
+  {
     "title": "マサコの知らない自作キーボードの世界",
     "url": "https://qiita.com/sirojake/items/8c60148c03c248fc6a6e",
     "likes_count": 455,
@@ -254,14 +262,6 @@
     "created_at": "2018-08-02T14:16:43+09:00",
     "updated_at": "2018-08-06T18:07:52+09:00",
     "id": "kouheiszk"
-  },
-  {
-    "title": "Rustで競技プログラミングの入力をスッキリ記述するマクロ",
-    "url": "https://qiita.com/tanakh/items/0ba42c7ca36cd29d0ac8",
-    "likes_count": 454,
-    "created_at": "2018-08-20T23:05:27+09:00",
-    "updated_at": "2018-08-22T01:04:03+09:00",
-    "id": "tanakh"
   },
   {
     "title": "チョットできるGoプログラマーになるための詳解GoDoc",
@@ -354,7 +354,7 @@
   {
     "title": "Webpacker使うなら最低限これだけは知っておいてほしいこと",
     "url": "https://qiita.com/chimame/items/8d3d6f4afea675cffa7d",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2018-08-07T15:12:45+09:00",
     "updated_at": "2019-12-18T12:05:23+09:00",
     "id": "chimame"
