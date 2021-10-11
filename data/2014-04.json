@@ -18,7 +18,7 @@
   {
     "title": "本当に正しい .bashrc と .bash_profile の使ひ分け",
     "url": "https://qiita.com/magicant/items/d3bb7ea1192e63fba850",
-    "likes_count": 1890,
+    "likes_count": 1892,
     "created_at": "2014-04-16T10:49:22+09:00",
     "updated_at": "2019-06-07T13:58:46+09:00",
     "id": "magicant"
@@ -114,7 +114,7 @@
   {
     "title": "多段SSHの設定を.ssh/configにまとめる",
     "url": "https://qiita.com/ik-fib/items/12e4fab4478e360a82a1",
-    "likes_count": 776,
+    "likes_count": 777,
     "created_at": "2014-04-23T23:34:22+09:00",
     "updated_at": "2014-04-27T03:22:25+09:00",
     "id": "ik-fib"
@@ -304,20 +304,20 @@
     "id": "miyohide"
   },
   {
+    "title": "【翻訳】プロダクション環境でのベストプラクティス",
+    "url": "https://qiita.com/umisama/items/c2a8db6c23db18dd5437",
+    "likes_count": 384,
+    "created_at": "2014-04-29T14:56:04+09:00",
+    "updated_at": "2014-11-30T08:58:28+09:00",
+    "id": "umisama"
+  },
+  {
     "title": "MySQL: INSERT...ON DUPLICATE KEY UPDATEまとめ",
     "url": "https://qiita.com/yuzroz/items/f0eccf847b2ea42f885f",
     "likes_count": 383,
     "created_at": "2014-04-19T17:21:26+09:00",
     "updated_at": "2015-10-14T17:59:17+09:00",
     "id": "yuzroz"
-  },
-  {
-    "title": "【翻訳】プロダクション環境でのベストプラクティス",
-    "url": "https://qiita.com/umisama/items/c2a8db6c23db18dd5437",
-    "likes_count": 383,
-    "created_at": "2014-04-29T14:56:04+09:00",
-    "updated_at": "2014-11-30T08:58:28+09:00",
-    "id": "umisama"
   },
   {
     "title": "Q. StoryboardとXIBはどう使い分ければいいんだろうか？",
@@ -346,7 +346,7 @@
   {
     "title": "TDDという名の幻想...",
     "url": "https://qiita.com/asip2k25/items/a580417c8aeedd248094",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2014-04-25T19:34:29+09:00",
     "updated_at": "2021-02-09T09:09:11+09:00",
     "id": "asip2k25"
@@ -426,7 +426,7 @@
   {
     "title": "SSH認証キーをGitLabに登録・設定手順 覚書",
     "url": "https://qiita.com/redamoon/items/07e445d1fce360cb5fa3",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2014-04-07T20:42:33+09:00",
     "updated_at": "2015-11-14T16:52:59+09:00",
     "id": "redamoon"
