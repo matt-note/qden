@@ -34,7 +34,7 @@
   {
     "title": "フロントエンドのコンポーネント設計に立ち向かう",
     "url": "https://qiita.com/seya/items/8814e905693f00cdade2",
-    "likes_count": 2043,
+    "likes_count": 2042,
     "created_at": "2018-04-02T07:22:25+09:00",
     "updated_at": "2021-02-19T20:36:30+09:00",
     "id": "seya"
@@ -58,7 +58,7 @@
   {
     "title": "技術書ランキングサイトをQiita記事の集計から作ったら、約4000冊の技術本がいい感じに並んだ",
     "url": "https://qiita.com/jabba/items/edefda09121877b79760",
-    "likes_count": 1624,
+    "likes_count": 1623,
     "created_at": "2018-04-09T18:44:58+09:00",
     "updated_at": "2018-12-29T23:26:21+09:00",
     "id": "jabba"
@@ -74,7 +74,7 @@
   {
     "title": "私からあなたへ 一人前のJavaエンジニアになるためのロードマップを送ろう",
     "url": "https://qiita.com/haruto167/items/5a784df032518277f4a0",
-    "likes_count": 1389,
+    "likes_count": 1391,
     "created_at": "2018-04-07T16:04:15+09:00",
     "updated_at": "2018-04-28T10:13:26+09:00",
     "id": "haruto167"
@@ -194,7 +194,7 @@
   {
     "title": "排他制御（楽観ロック・悲観ロック）の基礎　",
     "url": "https://qiita.com/NagaokaKenichi/items/73040df85b7bd4e9ecfc",
-    "likes_count": 852,
+    "likes_count": 853,
     "created_at": "2018-04-08T18:17:21+09:00",
     "updated_at": "2018-04-09T08:59:54+09:00",
     "id": "NagaokaKenichi"
@@ -210,7 +210,7 @@
   {
     "title": "チーム開発におけるプルリクの作法",
     "url": "https://qiita.com/ikuwow/items/fb52a54c086398eb5b92",
-    "likes_count": 751,
+    "likes_count": 752,
     "created_at": "2018-04-29T15:12:47+09:00",
     "updated_at": "2019-08-17T22:38:20+09:00",
     "id": "ikuwow"
@@ -234,7 +234,7 @@
   {
     "title": "グレースケール画像のうんちく",
     "url": "https://qiita.com/yoya/items/96c36b069e74398796f3",
-    "likes_count": 691,
+    "likes_count": 692,
     "created_at": "2018-04-13T01:44:35+09:00",
     "updated_at": "2021-09-04T20:33:37+09:00",
     "id": "yoya"
@@ -328,20 +328,20 @@
     "id": "dojineko"
   },
   {
+    "title": "システム設計の流れ・設計書の構成メモ",
+    "url": "https://qiita.com/chocode/items/fd51dd8f561e2a0fbd70",
+    "likes_count": 524,
+    "created_at": "2018-04-26T11:42:28+09:00",
+    "updated_at": "2019-05-09T19:32:33+09:00",
+    "id": "chocode"
+  },
+  {
     "title": "“プログラミング言語Rust: 2nd Edition”の日本語版PDFを作成した",
     "url": "https://qiita.com/yyu/items/18df35988f3ea3b12af0",
     "likes_count": 523,
     "created_at": "2018-04-18T00:38:16+09:00",
     "updated_at": "2020-09-26T17:26:24+09:00",
     "id": "yyu"
-  },
-  {
-    "title": "システム設計の流れ・設計書の構成メモ",
-    "url": "https://qiita.com/chocode/items/fd51dd8f561e2a0fbd70",
-    "likes_count": 523,
-    "created_at": "2018-04-26T11:42:28+09:00",
-    "updated_at": "2019-05-09T19:32:33+09:00",
-    "id": "chocode"
   },
   {
     "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
@@ -378,7 +378,7 @@
   {
     "title": "Goで学ぶポインタとアドレス",
     "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2018-04-27T14:31:26+09:00",
     "updated_at": "2019-05-18T15:44:03+09:00",
     "id": "Sekky0905"
@@ -394,7 +394,7 @@
   {
     "title": "分析関数（ウインドウ関数）をわかりやすく説明してみた",
     "url": "https://qiita.com/tlokweng/items/fc13dc30cc1aa28231c5",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2018-04-17T06:37:21+09:00",
     "updated_at": "2018-09-27T20:53:50+09:00",
     "id": "tlokweng"
@@ -404,7 +404,7 @@
     "url": "https://qiita.com/pe-ta/items/b3b754bde584abc98f44",
     "likes_count": 477,
     "created_at": "2018-04-25T08:11:20+09:00",
-    "updated_at": "2020-12-09T10:20:54+09:00",
+    "updated_at": "2021-10-12T18:38:03+09:00",
     "id": "pe-ta"
   },
   {
@@ -578,7 +578,7 @@
   {
     "title": "PythonでLine botを作ってみた",
     "url": "https://qiita.com/kro/items/67f7510b36945eb9689b",
-    "likes_count": 259,
+    "likes_count": 260,
     "created_at": "2018-04-14T22:59:06+09:00",
     "updated_at": "2018-04-14T22:59:26+09:00",
     "id": "kro"

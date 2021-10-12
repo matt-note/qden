@@ -2,7 +2,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -前編-",
     "url": "https://qiita.com/etaroid/items/b1024c7d200a75b992fc",
-    "likes_count": 4486,
+    "likes_count": 4488,
     "created_at": "2019-01-15T23:07:44+09:00",
     "updated_at": "2020-12-18T00:00:46+09:00",
     "id": "etaroid"
@@ -26,7 +26,7 @@
   {
     "title": "動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集",
     "url": "https://qiita.com/drken/items/dc53c683d6de8aeacf5a",
-    "likes_count": 1609,
+    "likes_count": 1612,
     "created_at": "2019-01-09T13:05:22+09:00",
     "updated_at": "2020-09-30T15:51:09+09:00",
     "id": "drken"
@@ -50,7 +50,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -中編-",
     "url": "https://qiita.com/etaroid/items/88ec3a0e2d80d7cdf87a",
-    "likes_count": 1245,
+    "likes_count": 1246,
     "created_at": "2019-01-20T21:34:55+09:00",
     "updated_at": "2020-12-24T22:13:35+09:00",
     "id": "etaroid"
@@ -130,7 +130,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -後編-",
     "url": "https://qiita.com/etaroid/items/40106f13d47bfcbc2572",
-    "likes_count": 884,
+    "likes_count": 885,
     "created_at": "2019-01-21T01:26:55+09:00",
     "updated_at": "2020-12-24T22:28:08+09:00",
     "id": "etaroid"
@@ -144,20 +144,20 @@
     "id": "hareku"
   },
   {
+    "title": "丁寧すぎるDocker-composeによるrails5 + MySQL on Dockerの環境構築(Docker for Mac)",
+    "url": "https://qiita.com/azul915/items/5b7063cbc80192343fc0",
+    "likes_count": 869,
+    "created_at": "2019-01-20T21:16:47+09:00",
+    "updated_at": "2020-11-21T20:52:47+09:00",
+    "id": "azul915"
+  },
+  {
     "title": "JavaScriptの‍ES2019で追加された新機能まとめ",
     "url": "https://qiita.com/tonkotsuboy_com/items/07f8ef98abf89250b90c",
     "likes_count": 869,
     "created_at": "2019-01-30T17:35:41+09:00",
     "updated_at": "2021-06-24T13:41:35+09:00",
     "id": "tonkotsuboy_com"
-  },
-  {
-    "title": "丁寧すぎるDocker-composeによるrails5 + MySQL on Dockerの環境構築(Docker for Mac)",
-    "url": "https://qiita.com/azul915/items/5b7063cbc80192343fc0",
-    "likes_count": 868,
-    "created_at": "2019-01-20T21:16:47+09:00",
-    "updated_at": "2020-11-21T20:52:47+09:00",
-    "id": "azul915"
   },
   {
     "title": "良い子のためのKubernetesガイド",
@@ -170,7 +170,7 @@
   {
     "title": "読みやすいコードを書くために",
     "url": "https://qiita.com/shimataro999/items/ef6cd838d56f1fe87015",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2019-01-11T15:09:26+09:00",
     "updated_at": "2020-11-03T07:29:00+09:00",
     "id": "shimataro999"
@@ -234,7 +234,7 @@
   {
     "title": "仕事で役に立たない！Linuxネタコマンド集",
     "url": "https://qiita.com/ryuichi1208/items/598cb0571a2576ecd0e1",
-    "likes_count": 575,
+    "likes_count": 576,
     "created_at": "2019-01-25T21:00:37+09:00",
     "updated_at": "2019-02-11T22:17:35+09:00",
     "id": "ryuichi1208"
@@ -290,7 +290,7 @@
   {
     "title": "【データ分析】新規データを受領したら最初にすべき10ステップ",
     "url": "https://qiita.com/takubb/items/e18ea4f7c4ecc8be4a5f",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2019-01-14T11:03:28+09:00",
     "updated_at": "2019-01-14T11:35:28+09:00",
     "id": "takubb"
@@ -354,7 +354,7 @@
   {
     "title": "【Firebase】Cloud Firestoreのデータ構造の決め方をFirebaseの動画から学ぶ",
     "url": "https://qiita.com/shiz/items/5f4c8ae19083ccdd46b2",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2019-01-13T16:03:03+09:00",
     "updated_at": "2019-05-23T06:03:25+09:00",
     "id": "shiz"
@@ -362,7 +362,7 @@
   {
     "title": "図で理解する Kotlin Coroutine",
     "url": "https://qiita.com/kawmra/items/d024f9ab32ffe0604d39",
-    "likes_count": 379,
+    "likes_count": 380,
     "created_at": "2019-01-28T14:18:12+09:00",
     "updated_at": "2019-02-04T00:30:38+09:00",
     "id": "kawmra"
@@ -490,7 +490,7 @@
   {
     "title": "VirtualBoxのネットワーク設定を絵で説明する",
     "url": "https://qiita.com/feifo/items/0fde474005589afcff68",
-    "likes_count": 242,
+    "likes_count": 243,
     "created_at": "2019-01-20T01:04:19+09:00",
     "updated_at": "2019-02-01T10:04:55+09:00",
     "id": "feifo"

@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1592,
+    "likes_count": 1593,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -194,7 +194,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 863,
+    "likes_count": 864,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -322,7 +322,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 536,
+    "likes_count": 537,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2021-04-14T00:39:07+09:00",
     "id": "elipmoc101"
@@ -362,7 +362,7 @@
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 498,
+    "likes_count": 497,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
@@ -554,7 +554,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 364,
+    "likes_count": 365,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
@@ -572,7 +572,7 @@
     "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
     "likes_count": 361,
     "created_at": "2018-12-20T03:46:56+09:00",
-    "updated_at": "2020-12-23T18:50:54+09:00",
+    "updated_at": "2021-10-12T15:09:10+09:00",
     "id": "SiragumoHuin"
   },
   {
@@ -656,9 +656,17 @@
     "id": "A-Kira"
   },
   {
+    "title": "Macでmysqlを扱う方法",
+    "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
+    "likes_count": 315,
+    "created_at": "2018-12-04T18:54:43+09:00",
+    "updated_at": "2019-01-29T22:11:03+09:00",
+    "id": "fuwamaki"
+  },
+  {
     "title": "configure, make, make install とは何か",
     "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2018-12-20T14:36:24+09:00",
     "updated_at": "2018-12-20T14:36:24+09:00",
     "id": "chihiro"
@@ -672,17 +680,9 @@
     "id": "hiroyuki_mrp"
   },
   {
-    "title": "Macでmysqlを扱う方法",
-    "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 313,
-    "created_at": "2018-12-04T18:54:43+09:00",
-    "updated_at": "2019-01-29T22:11:03+09:00",
-    "id": "fuwamaki"
-  },
-  {
     "title": "Hugo で静的なサイト・ブログを構築しよう",
     "url": "https://qiita.com/peaceiris/items/ef38cc2a4b5565d0dd7c",
-    "likes_count": 308,
+    "likes_count": 309,
     "created_at": "2018-12-25T03:00:20+09:00",
     "updated_at": "2021-08-16T22:23:06+09:00",
     "id": "peaceiris"
@@ -698,7 +698,7 @@
   {
     "title": "【爆速】HTML + Sass(SCSS)で簡単にレスポンシブ対応のLPを作ろう！",
     "url": "https://qiita.com/Y_ASAMOTO/items/d5f33ecf5bfbb7f028a5",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2018-12-03T20:46:21+09:00",
     "updated_at": "2018-12-19T10:20:41+09:00",
     "id": "Y_ASAMOTO"
@@ -706,7 +706,7 @@
   {
     "title": "まだPowerPointで消耗してるの？",
     "url": "https://qiita.com/suzuki_/items/08cbd75599bd78dcaca2",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2018-12-08T04:39:22+09:00",
     "updated_at": "2018-12-08T15:16:38+09:00",
     "id": "suzuki_"
@@ -746,7 +746,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 270,
+    "likes_count": 271,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
@@ -770,7 +770,7 @@
   {
     "title": "エンジニア向けのポートフォリオサイトまとめ",
     "url": "https://qiita.com/turmericN/items/37c3fbe00ee6bbc7e201",
-    "likes_count": 240,
+    "likes_count": 241,
     "created_at": "2018-12-19T08:26:38+09:00",
     "updated_at": "2018-12-21T13:12:59+09:00",
     "id": "turmericN"

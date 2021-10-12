@@ -10,7 +10,7 @@
   {
     "title": "Reactを使うとなぜjQueryが要らなくなるのか",
     "url": "https://qiita.com/naruto/items/fdb61bc743395f8d8faf",
-    "likes_count": 4435,
+    "likes_count": 4434,
     "created_at": "2016-05-09T11:45:42+09:00",
     "updated_at": "2020-08-13T19:13:42+09:00",
     "id": "naruto"
@@ -18,7 +18,7 @@
   {
     "title": "新入社員が来てメンターになれって言われたけど、どうすればいいのかという対話テクニック",
     "url": "https://qiita.com/hirokidaichi/items/2e8e731acfd7b6c7e02f",
-    "likes_count": 2158,
+    "likes_count": 2159,
     "created_at": "2016-05-08T12:01:24+09:00",
     "updated_at": "2018-12-25T23:58:10+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "redux-sagaで非同期処理と戦う",
     "url": "https://qiita.com/kuy/items/716affc808ebb3e1e8ac",
-    "likes_count": 1286,
+    "likes_count": 1287,
     "created_at": "2016-05-13T16:48:05+09:00",
     "updated_at": "2018-02-05T09:08:38+09:00",
     "id": "kuy"
@@ -82,7 +82,7 @@
   {
     "title": "Linuxパフォーマンス調査などで使うコマンドメモ",
     "url": "https://qiita.com/toshihirock/items/0e0b20064730469e93e6",
-    "likes_count": 1045,
+    "likes_count": 1046,
     "created_at": "2016-05-02T22:25:17+09:00",
     "updated_at": "2016-05-02T22:25:17+09:00",
     "id": "toshihirock"
@@ -146,7 +146,7 @@
   {
     "title": "Pythonのimportについてまとめる",
     "url": "https://qiita.com/suzuki-hoge/items/f951d56290617df4279e",
-    "likes_count": 694,
+    "likes_count": 693,
     "created_at": "2016-05-17T10:03:10+09:00",
     "updated_at": "2016-05-17T10:09:16+09:00",
     "id": "suzuki-hoge"
@@ -266,7 +266,7 @@
   {
     "title": "git tagの使い方まとめ",
     "url": "https://qiita.com/growsic/items/ed67e03fda5ab7ef9d08",
-    "likes_count": 530,
+    "likes_count": 531,
     "created_at": "2016-05-16T21:37:49+09:00",
     "updated_at": "2021-01-12T08:00:19+09:00",
     "id": "growsic"
@@ -464,20 +464,20 @@
     "id": "tomoima525"
   },
   {
+    "title": "PHPとMySQLで新規登録とログインを実装する(PDO使用)",
+    "url": "https://qiita.com/KosukeQiita/items/b56b3004413c999b9858",
+    "likes_count": 310,
+    "created_at": "2016-05-15T17:53:27+09:00",
+    "updated_at": "2018-04-07T18:53:45+09:00",
+    "id": "KosukeQiita"
+  },
+  {
     "title": "Spring MVC(+Spring Boot)上での静的リソースへのアクセスを理解する",
     "url": "https://qiita.com/kazuki43zoo/items/e12a72d4ac4de418ee37",
     "likes_count": 309,
     "created_at": "2016-05-06T00:41:54+09:00",
     "updated_at": "2021-05-05T10:46:26+09:00",
     "id": "kazuki43zoo"
-  },
-  {
-    "title": "PHPとMySQLで新規登録とログインを実装する(PDO使用)",
-    "url": "https://qiita.com/KosukeQiita/items/b56b3004413c999b9858",
-    "likes_count": 309,
-    "created_at": "2016-05-15T17:53:27+09:00",
-    "updated_at": "2018-04-07T18:53:45+09:00",
-    "id": "KosukeQiita"
   },
   {
     "title": "FirebaseでWebサイトを無料でサクッと公開してみる",
@@ -538,7 +538,7 @@
   {
     "title": "PDF.jsを設置する",
     "url": "https://qiita.com/nissuk/items/01d0490e19dff6e19a03",
-    "likes_count": 264,
+    "likes_count": 265,
     "created_at": "2016-05-04T21:57:31+09:00",
     "updated_at": "2016-09-18T22:03:58+09:00",
     "id": "nissuk"
