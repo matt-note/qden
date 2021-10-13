@@ -2,7 +2,7 @@
   {
     "title": "ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】",
     "url": "https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08",
-    "likes_count": 9758,
+    "likes_count": 9757,
     "created_at": "2016-05-16T19:51:18+09:00",
     "updated_at": "2019-03-09T17:13:26+09:00",
     "id": "jacksuzuki"
@@ -18,7 +18,7 @@
   {
     "title": "新入社員が来てメンターになれって言われたけど、どうすればいいのかという対話テクニック",
     "url": "https://qiita.com/hirokidaichi/items/2e8e731acfd7b6c7e02f",
-    "likes_count": 2159,
+    "likes_count": 2160,
     "created_at": "2016-05-08T12:01:24+09:00",
     "updated_at": "2018-12-25T23:58:10+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "redux-sagaで非同期処理と戦う",
     "url": "https://qiita.com/kuy/items/716affc808ebb3e1e8ac",
-    "likes_count": 1287,
+    "likes_count": 1286,
     "created_at": "2016-05-13T16:48:05+09:00",
     "updated_at": "2018-02-05T09:08:38+09:00",
     "id": "kuy"
@@ -82,7 +82,7 @@
   {
     "title": "Linuxパフォーマンス調査などで使うコマンドメモ",
     "url": "https://qiita.com/toshihirock/items/0e0b20064730469e93e6",
-    "likes_count": 1046,
+    "likes_count": 1045,
     "created_at": "2016-05-02T22:25:17+09:00",
     "updated_at": "2016-05-02T22:25:17+09:00",
     "id": "toshihirock"
@@ -90,7 +90,7 @@
   {
     "title": "ちゃんと使い分けてる? dependenciesいろいろ。",
     "url": "https://qiita.com/cognitom/items/acc3ffcbca4c56cf2b95",
-    "likes_count": 1006,
+    "likes_count": 1007,
     "created_at": "2016-05-09T18:27:57+09:00",
     "updated_at": "2016-05-09T22:51:53+09:00",
     "id": "cognitom"
@@ -146,7 +146,7 @@
   {
     "title": "Pythonのimportについてまとめる",
     "url": "https://qiita.com/suzuki-hoge/items/f951d56290617df4279e",
-    "likes_count": 693,
+    "likes_count": 694,
     "created_at": "2016-05-17T10:03:10+09:00",
     "updated_at": "2016-05-17T10:09:16+09:00",
     "id": "suzuki-hoge"
@@ -194,7 +194,7 @@
   {
     "title": "JavaScriptにフレームワークが必要な理由",
     "url": "https://qiita.com/erukiti/items/f6e84f3547f9d47318ec",
-    "likes_count": 611,
+    "likes_count": 610,
     "created_at": "2016-05-22T09:06:17+09:00",
     "updated_at": "2017-08-04T10:06:16+09:00",
     "id": "erukiti"
@@ -352,20 +352,20 @@
     "id": "senou"
   },
   {
+    "title": "プログラムの依存関係とモジュール構成のこと",
+    "url": "https://qiita.com/wm3/items/2c90bfd9e973d368ebd8",
+    "likes_count": 394,
+    "created_at": "2016-05-09T09:20:00+09:00",
+    "updated_at": "2019-09-27T01:43:46+09:00",
+    "id": "wm3"
+  },
+  {
     "title": "Homebrewを取り囲むセットアップシェル界隈の情勢（2016年5月版）",
     "url": "https://qiita.com/shibukk/items/d2d3686ac576bcf497b2",
     "likes_count": 394,
     "created_at": "2016-05-24T13:34:19+09:00",
     "updated_at": "2016-06-21T11:04:58+09:00",
     "id": "shibukk"
-  },
-  {
-    "title": "プログラムの依存関係とモジュール構成のこと",
-    "url": "https://qiita.com/wm3/items/2c90bfd9e973d368ebd8",
-    "likes_count": 393,
-    "created_at": "2016-05-09T09:20:00+09:00",
-    "updated_at": "2019-09-27T01:43:46+09:00",
-    "id": "wm3"
   },
   {
     "title": "ディープラーニングで「顔が似ているAV女優を教えてくれるbot」を構築",
@@ -464,20 +464,20 @@
     "id": "tomoima525"
   },
   {
+    "title": "Spring MVC(+Spring Boot)上での静的リソースへのアクセスを理解する",
+    "url": "https://qiita.com/kazuki43zoo/items/e12a72d4ac4de418ee37",
+    "likes_count": 310,
+    "created_at": "2016-05-06T00:41:54+09:00",
+    "updated_at": "2021-05-05T10:46:26+09:00",
+    "id": "kazuki43zoo"
+  },
+  {
     "title": "PHPとMySQLで新規登録とログインを実装する(PDO使用)",
     "url": "https://qiita.com/KosukeQiita/items/b56b3004413c999b9858",
     "likes_count": 310,
     "created_at": "2016-05-15T17:53:27+09:00",
     "updated_at": "2018-04-07T18:53:45+09:00",
     "id": "KosukeQiita"
-  },
-  {
-    "title": "Spring MVC(+Spring Boot)上での静的リソースへのアクセスを理解する",
-    "url": "https://qiita.com/kazuki43zoo/items/e12a72d4ac4de418ee37",
-    "likes_count": 309,
-    "created_at": "2016-05-06T00:41:54+09:00",
-    "updated_at": "2021-05-05T10:46:26+09:00",
-    "id": "kazuki43zoo"
   },
   {
     "title": "FirebaseでWebサイトを無料でサクッと公開してみる",

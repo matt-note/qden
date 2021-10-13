@@ -2,7 +2,7 @@
   {
     "title": "オブジェクト指向と10年戦ってわかったこと",
     "url": "https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e",
-    "likes_count": 5276,
+    "likes_count": 5275,
     "created_at": "2015-11-19T07:03:23+09:00",
     "updated_at": "2021-01-10T07:34:39+09:00",
     "id": "tutinoco"
@@ -10,7 +10,7 @@
   {
     "title": "初心者エンジニアにおすすめしたい「進捗どうなった？」と言われないための仕事の進め方",
     "url": "https://qiita.com/soyanchu/items/d1cb9785fc211941a009",
-    "likes_count": 2352,
+    "likes_count": 2351,
     "created_at": "2015-11-19T16:38:11+09:00",
     "updated_at": "2020-11-20T22:24:54+09:00",
     "id": "soyanchu"
@@ -34,18 +34,10 @@
   {
     "title": "Dockerイメージとコンテナの削除方法",
     "url": "https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae",
-    "likes_count": 1625,
+    "likes_count": 1627,
     "created_at": "2015-11-02T17:09:47+09:00",
     "updated_at": "2020-04-12T23:12:03+09:00",
     "id": "tifa2chan"
-  },
-  {
-    "title": "日本人が間違いやすいコーディング上の英語",
-    "url": "https://qiita.com/sue738/items/9754b3cad13272bd3d39",
-    "likes_count": 1541,
-    "created_at": "2015-11-13T11:15:14+09:00",
-    "updated_at": "2015-11-25T11:07:21+09:00",
-    "id": "sue738"
   },
   {
     "title": "Slackであまり知られていない便利機能一覧",
@@ -56,9 +48,17 @@
     "id": "kozyty@github"
   },
   {
+    "title": "日本人が間違いやすいコーディング上の英語",
+    "url": "https://qiita.com/sue738/items/9754b3cad13272bd3d39",
+    "likes_count": 1540,
+    "created_at": "2015-11-13T11:15:14+09:00",
+    "updated_at": "2015-11-25T11:07:21+09:00",
+    "id": "sue738"
+  },
+  {
     "title": "【Mac版】 VisualStudioCode キーボードショートカット",
     "url": "https://qiita.com/naru0504/items/99495c4482cd158ddca8",
-    "likes_count": 1511,
+    "likes_count": 1512,
     "created_at": "2015-11-24T23:53:28+09:00",
     "updated_at": "2017-07-20T16:34:51+09:00",
     "id": "naru0504"
@@ -138,9 +138,9 @@
   {
     "title": "テスト仕様書",
     "url": "https://qiita.com/jun2014/items/cad7328978e709fe79f4",
-    "likes_count": 1039,
+    "likes_count": 1040,
     "created_at": "2015-11-11T01:33:58+09:00",
-    "updated_at": "2021-10-05T20:50:16+09:00",
+    "updated_at": "2021-10-13T09:48:27+09:00",
     "id": "jun2014"
   },
   {
@@ -362,7 +362,7 @@
   {
     "title": "cronの設定方法",
     "url": "https://qiita.com/hikouki/items/e744b3a4d356d2af12cf",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2015-11-16T19:32:27+09:00",
     "updated_at": "2016-12-04T19:49:38+09:00",
     "id": "hikouki"
@@ -402,7 +402,7 @@
   {
     "title": "Sassで@mixinを作る時に知っておきたい基礎知識",
     "url": "https://qiita.com/nekoneko-wanwan/items/c8498a21ae0e2b2198be",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2015-11-18T18:25:58+09:00",
     "updated_at": "2016-03-10T17:11:35+09:00",
     "id": "nekoneko-wanwan"
@@ -594,7 +594,7 @@
   {
     "title": ".bat（バッチファイル）のifコマンド解説。",
     "url": "https://qiita.com/plcherrim/items/8edf3d3d33a0ae86cb5c",
-    "likes_count": 214,
+    "likes_count": 215,
     "created_at": "2015-11-29T02:56:26+09:00",
     "updated_at": "2017-05-19T21:32:45+09:00",
     "id": "plcherrim"

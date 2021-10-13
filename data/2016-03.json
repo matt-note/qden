@@ -2,7 +2,7 @@
   {
     "title": "翻訳: WebAPI 設計のベストプラクティス",
     "url": "https://qiita.com/mserizawa/items/b833e407d89abd21ee72",
-    "likes_count": 5559,
+    "likes_count": 5560,
     "created_at": "2016-03-24T03:18:36+09:00",
     "updated_at": "2017-12-17T15:13:02+09:00",
     "id": "mserizawa"
@@ -42,7 +42,7 @@
   {
     "title": "春からはじめるモダンJavaScript / ES2015",
     "url": "https://qiita.com/mizchi/items/3bbb3f466a3b5011b509",
-    "likes_count": 1897,
+    "likes_count": 1896,
     "created_at": "2016-03-16T15:02:34+09:00",
     "updated_at": "2016-07-12T13:58:40+09:00",
     "id": "mizchi"
@@ -58,7 +58,7 @@
   {
     "title": "sedでこういう時はどう書く?",
     "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
-    "likes_count": 1489,
+    "likes_count": 1490,
     "created_at": "2016-03-04T11:57:25+09:00",
     "updated_at": "2018-10-25T10:59:12+09:00",
     "id": "hirohiro77"
@@ -90,7 +90,7 @@
   {
     "title": "Chrome拡張の開発方法まとめ　その1：概念編",
     "url": "https://qiita.com/k7a/items/26d7a22233ecdf48fed8",
-    "likes_count": 1157,
+    "likes_count": 1158,
     "created_at": "2016-03-14T00:11:37+09:00",
     "updated_at": "2016-03-15T20:42:35+09:00",
     "id": "k7a"
@@ -130,7 +130,7 @@
   {
     "title": "エンジニアのハマり時間とその技術的難易度の相関関係",
     "url": "https://qiita.com/jabba/items/b0a0f8c310e164b4db2b",
-    "likes_count": 958,
+    "likes_count": 957,
     "created_at": "2016-03-23T17:28:55+09:00",
     "updated_at": "2018-12-31T18:26:55+09:00",
     "id": "jabba"
@@ -232,20 +232,20 @@
     "id": "mishimay"
   },
   {
+    "title": "プッシュ通知に必要な証明書の作り方2021",
+    "url": "https://qiita.com/natsumo/items/d5cc1d0be427ca3af1cb",
+    "likes_count": 607,
+    "created_at": "2016-03-23T16:00:24+09:00",
+    "updated_at": "2021-01-28T10:09:59+09:00",
+    "id": "natsumo"
+  },
+  {
     "title": "Tensorflowを２ヶ月触ったので\"手書きひらがな\"の識別95.04%で畳み込みニューラルネットワークをわかりやすく解説",
     "url": "https://qiita.com/tawago/items/931bea2ff6d56e32d693",
     "likes_count": 607,
     "created_at": "2016-03-29T11:05:44+09:00",
     "updated_at": "2018-06-15T17:59:23+09:00",
     "id": "tawago"
-  },
-  {
-    "title": "プッシュ通知に必要な証明書の作り方2021",
-    "url": "https://qiita.com/natsumo/items/d5cc1d0be427ca3af1cb",
-    "likes_count": 605,
-    "created_at": "2016-03-23T16:00:24+09:00",
-    "updated_at": "2021-01-28T10:09:59+09:00",
-    "id": "natsumo"
   },
   {
     "title": "HomebrewのインストールからpyenvでPythonのAnaconda環境構築までメモ",
@@ -490,7 +490,7 @@
   {
     "title": "Entrykit のすすめ ",
     "url": "https://qiita.com/spesnova/items/bae6406bf69d2dc6f88b",
-    "likes_count": 377,
+    "likes_count": 376,
     "created_at": "2016-03-16T14:55:05+09:00",
     "updated_at": "2018-04-08T17:00:28+09:00",
     "id": "spesnova"
@@ -592,20 +592,20 @@
     "id": "yai"
   },
   {
+    "title": "Java Stream APIをいまさら入門",
+    "url": "https://qiita.com/takumi-n/items/369dd3fcb9ccb8fcfa44",
+    "likes_count": 340,
+    "created_at": "2016-04-01T00:38:36+09:00",
+    "updated_at": "2021-03-15T16:51:00+09:00",
+    "id": "takumi-n"
+  },
+  {
     "title": "データサイエンティストに向けたコーディング環境Jupyter Notebookの勧め",
     "url": "https://qiita.com/y__sama/items/17aedf0c05187edd61c3",
     "likes_count": 339,
     "created_at": "2016-03-20T19:31:30+09:00",
     "updated_at": "2016-04-23T19:44:53+09:00",
     "id": "y__sama"
-  },
-  {
-    "title": "Java Stream APIをいまさら入門",
-    "url": "https://qiita.com/takumi-n/items/369dd3fcb9ccb8fcfa44",
-    "likes_count": 339,
-    "created_at": "2016-04-01T00:38:36+09:00",
-    "updated_at": "2021-03-15T16:51:00+09:00",
-    "id": "takumi-n"
   },
   {
     "title": "awkコマンドの基本",

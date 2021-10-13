@@ -2,7 +2,7 @@
   {
     "title": "何かのときにすっと出したい、プログラミングに関する法則・原則一覧",
     "url": "https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63",
-    "likes_count": 4282,
+    "likes_count": 4281,
     "created_at": "2014-07-21T23:44:04+09:00",
     "updated_at": "2018-02-21T17:53:55+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3559,
+    "likes_count": 3560,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -34,7 +34,7 @@
   {
     "title": "誰も教えてくれなかったMySQLの障害解析方法",
     "url": "https://qiita.com/muran001/items/14f19959d4723ffc29cc",
-    "likes_count": 2878,
+    "likes_count": 2879,
     "created_at": "2014-07-12T09:36:58+09:00",
     "updated_at": "2014-10-30T07:41:32+09:00",
     "id": "muran001"
@@ -42,7 +42,7 @@
   {
     "title": "Python Django入門 (1)",
     "url": "https://qiita.com/kaki_k/items/511611cadac1d0c69c54",
-    "likes_count": 2235,
+    "likes_count": 2236,
     "created_at": "2014-07-27T00:14:48+09:00",
     "updated_at": "2020-01-09T23:41:21+09:00",
     "id": "kaki_k"
@@ -66,7 +66,7 @@
   {
     "title": "こんなHTMLとCSSのコーディング規約で書きたい",
     "url": "https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3",
-    "likes_count": 1771,
+    "likes_count": 1772,
     "created_at": "2014-07-09T00:29:52+09:00",
     "updated_at": "2021-07-07T10:13:30+09:00",
     "id": "pugiemonn"
@@ -74,7 +74,7 @@
   {
     "title": "ログ設計指針",
     "url": "https://qiita.com/nanasess/items/350e59b29cceb2f122b3",
-    "likes_count": 1681,
+    "likes_count": 1682,
     "created_at": "2014-07-16T11:28:44+09:00",
     "updated_at": "2020-11-09T18:44:53+09:00",
     "id": "nanasess"
@@ -146,7 +146,7 @@
   {
     "title": "本当は怖いMemcached",
     "url": "https://qiita.com/taruhachi/items/a844bf373623991873ff",
-    "likes_count": 773,
+    "likes_count": 772,
     "created_at": "2014-07-02T14:27:49+09:00",
     "updated_at": "2014-07-14T15:15:47+09:00",
     "id": "taruhachi"
@@ -210,7 +210,7 @@
   {
     "title": "DOMイベントのキャプチャ/バブリングを整理する 〜 JSおくのほそ道 #017",
     "url": "https://qiita.com/hosomichi/items/49500fea5fdf43f59c58",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2014-07-25T19:58:10+09:00",
     "updated_at": "2018-09-03T11:03:24+09:00",
     "id": "hosomichi"
@@ -258,7 +258,7 @@
   {
     "title": "テストの種類と技法",
     "url": "https://qiita.com/ktarow/items/8c3d94d6c21a0c86b799",
-    "likes_count": 535,
+    "likes_count": 536,
     "created_at": "2014-07-31T00:38:51+09:00",
     "updated_at": "2014-07-31T00:38:51+09:00",
     "id": "ktarow"
@@ -352,20 +352,20 @@
     "id": "zembutsu"
   },
   {
+    "title": "新しいNTPクライアント＆サーバ、chrony",
+    "url": "https://qiita.com/yunano/items/7883cf295f91f4ef716b",
+    "likes_count": 473,
+    "created_at": "2014-07-22T00:33:29+09:00",
+    "updated_at": "2018-09-30T17:04:21+09:00",
+    "id": "yunano"
+  },
+  {
     "title": "僕にそのコピペを直せというのか(2021年4月版)",
     "url": "https://qiita.com/mima_ita/items/fe1b3443a363e5d90a21",
     "likes_count": 473,
     "created_at": "2014-07-29T21:18:20+09:00",
     "updated_at": "2021-05-17T12:35:20+09:00",
     "id": "mima_ita"
-  },
-  {
-    "title": "新しいNTPクライアント＆サーバ、chrony",
-    "url": "https://qiita.com/yunano/items/7883cf295f91f4ef716b",
-    "likes_count": 472,
-    "created_at": "2014-07-22T00:33:29+09:00",
-    "updated_at": "2018-09-30T17:04:21+09:00",
-    "id": "yunano"
   },
   {
     "title": "ごく簡単なcmakeの使い方",
@@ -680,20 +680,20 @@
     "id": "kouh"
   },
   {
+    "title": "Sequelizeを使用してデータベースを操作するための基本的な情報(2020.09更新）",
+    "url": "https://qiita.com/mima_ita/items/014dcb42872f3a10855b",
+    "likes_count": 277,
+    "created_at": "2014-07-04T19:01:48+09:00",
+    "updated_at": "2021-03-12T16:36:21+09:00",
+    "id": "mima_ita"
+  },
+  {
     "title": "Xcode6とSwift&iOS8のアプリ開発で踏んだ地雷たち",
     "url": "https://qiita.com/susieyy/items/019d5bc69f0921250437",
     "likes_count": 277,
     "created_at": "2014-07-07T07:57:17+09:00",
     "updated_at": "2014-07-07T09:41:43+09:00",
     "id": "susieyy"
-  },
-  {
-    "title": "Sequelizeを使用してデータベースを操作するための基本的な情報(2020.09更新）",
-    "url": "https://qiita.com/mima_ita/items/014dcb42872f3a10855b",
-    "likes_count": 276,
-    "created_at": "2014-07-04T19:01:48+09:00",
-    "updated_at": "2021-03-12T16:36:21+09:00",
-    "id": "mima_ita"
   },
   {
     "title": "VisualStudio 便利なショートカット",
