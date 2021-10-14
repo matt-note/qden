@@ -42,7 +42,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1344,
+    "likes_count": 1347,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-07-15T22:07:14+09:00",
     "id": "diescake"
@@ -50,7 +50,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1320,
+    "likes_count": 1321,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2019-09-14T16:44:47+09:00",
     "id": "saboyutaka"
@@ -74,7 +74,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1206,
+    "likes_count": 1207,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -98,7 +98,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1052,
+    "likes_count": 1054,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -154,7 +154,7 @@
   {
     "title": "【危険シェル芸】禁じられた闇の魔術とその防衛術💥",
     "url": "https://qiita.com/_-_-_-_-_/items/214d537aae2c1488692c",
-    "likes_count": 966,
+    "likes_count": 967,
     "created_at": "2018-12-22T05:22:29+09:00",
     "updated_at": "2019-08-22T20:49:20+09:00",
     "id": "_-_-_-_-_"
@@ -194,7 +194,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 864,
+    "likes_count": 865,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -322,7 +322,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 538,
+    "likes_count": 543,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2021-04-14T00:39:07+09:00",
     "id": "elipmoc101"
@@ -338,7 +338,7 @@
   {
     "title": "スマホ向けサイトをアプリっぽく見せるために半年間頑張ったことをまとめる",
     "url": "https://qiita.com/sadnessOjisan/items/3b21d27cdab0665c0720",
-    "likes_count": 506,
+    "likes_count": 507,
     "created_at": "2018-12-20T10:52:45+09:00",
     "updated_at": "2018-12-22T17:17:16+09:00",
     "id": "sadnessOjisan"
@@ -354,7 +354,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 499,
+    "likes_count": 501,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2021-07-12T12:15:57+09:00",
     "id": "syantien"
@@ -362,7 +362,7 @@
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 497,
+    "likes_count": 498,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
@@ -544,6 +544,14 @@
     "id": "yui_mop"
   },
   {
+    "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
+    "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
+    "likes_count": 366,
+    "created_at": "2018-12-05T08:09:20+09:00",
+    "updated_at": "2021-05-21T15:08:52+09:00",
+    "id": "_takeshi_24"
+  },
+  {
     "title": "今更だけど、SREとは何かについてまとめる",
     "url": "https://qiita.com/masao-kunii/items/f96a89a0cdff66c108fd",
     "likes_count": 366,
@@ -552,12 +560,12 @@
     "id": "masao-kunii"
   },
   {
-    "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
-    "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 365,
-    "created_at": "2018-12-05T08:09:20+09:00",
-    "updated_at": "2021-05-21T15:08:52+09:00",
-    "id": "_takeshi_24"
+    "title": "Web API初心者と学ぶGraphQL",
+    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
+    "likes_count": 363,
+    "created_at": "2018-12-20T03:46:56+09:00",
+    "updated_at": "2021-10-12T15:09:10+09:00",
+    "id": "SiragumoHuin"
   },
   {
     "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
@@ -566,14 +574,6 @@
     "created_at": "2018-12-26T07:50:58+09:00",
     "updated_at": "2019-12-26T14:39:03+09:00",
     "id": "okamu_"
-  },
-  {
-    "title": "Web API初心者と学ぶGraphQL",
-    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 361,
-    "created_at": "2018-12-20T03:46:56+09:00",
-    "updated_at": "2021-10-12T15:09:10+09:00",
-    "id": "SiragumoHuin"
   },
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
@@ -642,7 +642,7 @@
   {
     "title": "フロントエンドでTDDを実践する（理論編）",
     "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
-    "likes_count": 323,
+    "likes_count": 324,
     "created_at": "2018-12-08T23:40:26+09:00",
     "updated_at": "2018-12-11T23:14:50+09:00",
     "id": "taneba"
@@ -656,20 +656,20 @@
     "id": "A-Kira"
   },
   {
+    "title": "configure, make, make install とは何か",
+    "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
+    "likes_count": 316,
+    "created_at": "2018-12-20T14:36:24+09:00",
+    "updated_at": "2018-12-20T14:36:24+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
     "likes_count": 315,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
-  },
-  {
-    "title": "configure, make, make install とは何か",
-    "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 315,
-    "created_at": "2018-12-20T14:36:24+09:00",
-    "updated_at": "2018-12-20T14:36:24+09:00",
-    "id": "chihiro"
   },
   {
     "title": "【Python】とっても便利な正規表現！",
@@ -762,7 +762,7 @@
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
     "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
-    "likes_count": 243,
+    "likes_count": 244,
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"

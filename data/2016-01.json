@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4030,
+    "likes_count": 4031,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2506,
+    "likes_count": 2507,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -328,20 +328,20 @@
     "id": "shin1ogawa"
   },
   {
+    "title": "Docker compose ことはじめハンズオン",
+    "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
+    "likes_count": 499,
+    "created_at": "2016-01-05T01:32:35+09:00",
+    "updated_at": "2019-10-09T21:04:14+09:00",
+    "id": "TsutomuNakamura"
+  },
+  {
     "title": "bundle install と bundle updateの違いについて",
     "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
     "likes_count": 499,
     "created_at": "2016-01-22T00:25:15+09:00",
     "updated_at": "2016-01-22T00:26:14+09:00",
     "id": "lasershow"
-  },
-  {
-    "title": "Docker compose ことはじめハンズオン",
-    "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 498,
-    "created_at": "2016-01-05T01:32:35+09:00",
-    "updated_at": "2019-10-09T21:04:14+09:00",
-    "id": "TsutomuNakamura"
   },
   {
     "title": "Elasticsearch導入前に気を付けておきたいこと！",
@@ -402,7 +402,7 @@
   {
     "title": "SlackのWebhook URL取得手順",
     "url": "https://qiita.com/vmmhypervisor/items/18c99624a84df8b31008",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2016-01-05T01:20:14+09:00",
     "updated_at": "2017-01-28T09:02:56+09:00",
     "id": "vmmhypervisor"
@@ -496,20 +496,20 @@
     "id": "ogaoga"
   },
   {
+    "title": "公式グッズ・ノベルティ オンラインストア一覧(60団体以上を調査)",
+    "url": "https://qiita.com/YKEI_mrn/items/c10b14f9a69ff71b1b7a",
+    "likes_count": 357,
+    "created_at": "2016-01-11T19:01:16+09:00",
+    "updated_at": "2020-10-18T16:20:35+09:00",
+    "id": "YKEI_mrn"
+  },
+  {
     "title": "fluentdを導入時にまず知っておいたほうがよさそうなこと（インストール、監視、HA構成、チューニングなど）",
     "url": "https://qiita.com/uzresk/items/3bfeeac82dfcb2a4300e",
     "likes_count": 357,
     "created_at": "2016-01-27T11:12:11+09:00",
     "updated_at": "2016-01-28T08:39:51+09:00",
     "id": "uzresk"
-  },
-  {
-    "title": "公式グッズ・ノベルティ オンラインストア一覧(60団体以上を調査)",
-    "url": "https://qiita.com/YKEI_mrn/items/c10b14f9a69ff71b1b7a",
-    "likes_count": 356,
-    "created_at": "2016-01-11T19:01:16+09:00",
-    "updated_at": "2020-10-18T16:20:35+09:00",
-    "id": "YKEI_mrn"
   },
   {
     "title": "Ruby/Railsでの高速化の際に使うgem達",

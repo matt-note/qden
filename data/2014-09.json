@@ -18,15 +18,15 @@
   {
     "title": "iPhone/iPad/Apple Watch解像度(画面サイズ)早見表",
     "url": "https://qiita.com/tomohisaota/items/f8857d01f328e34fb551",
-    "likes_count": 2670,
+    "likes_count": 2671,
     "created_at": "2014-09-12T09:33:06+09:00",
-    "updated_at": "2021-09-27T08:40:54+09:00",
+    "updated_at": "2021-10-14T15:19:37+09:00",
     "id": "tomohisaota"
   },
   {
     "title": "PlantUML Cheat Sheet",
     "url": "https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48",
-    "likes_count": 2385,
+    "likes_count": 2386,
     "created_at": "2014-09-22T22:11:54+09:00",
     "updated_at": "2019-10-23T17:58:40+09:00",
     "id": "ogomr"
@@ -34,7 +34,7 @@
   {
     "title": "rails generate migrationコマンドまとめ",
     "url": "https://qiita.com/zaru/items/cde2c46b6126867a1a64",
-    "likes_count": 2007,
+    "likes_count": 2006,
     "created_at": "2014-09-09T19:57:54+09:00",
     "updated_at": "2018-11-06T21:09:19+09:00",
     "id": "zaru"
@@ -58,7 +58,7 @@
   {
     "title": "Homebrew使い方まとめ",
     "url": "https://qiita.com/vintersnow/items/fca0be79cdc28bd2f5e4",
-    "likes_count": 1224,
+    "likes_count": 1225,
     "created_at": "2014-09-14T10:11:54+09:00",
     "updated_at": "2019-06-30T12:35:22+09:00",
     "id": "vintersnow"
@@ -176,20 +176,20 @@
     "id": "erukiti"
   },
   {
+    "title": "データベースにindexを張る方法",
+    "url": "https://qiita.com/seiya1121/items/fb074d727c6f40a55f22",
+    "likes_count": 635,
+    "created_at": "2014-09-05T15:19:27+09:00",
+    "updated_at": "2017-01-10T16:38:09+09:00",
+    "id": "seiya1121"
+  },
+  {
     "title": "超絶初心者のためのフロント入門（HTML、CSS、JavaScript）",
     "url": "https://qiita.com/shuntaro_tamura/items/c9b2fec0f3a9f7d1e987",
     "likes_count": 635,
     "created_at": "2014-09-21T05:19:04+09:00",
     "updated_at": "2016-03-16T21:09:31+09:00",
     "id": "shuntaro_tamura"
-  },
-  {
-    "title": "データベースにindexを張る方法",
-    "url": "https://qiita.com/seiya1121/items/fb074d727c6f40a55f22",
-    "likes_count": 634,
-    "created_at": "2014-09-05T15:19:27+09:00",
-    "updated_at": "2017-01-10T16:38:09+09:00",
-    "id": "seiya1121"
   },
   {
     "title": "Ansible 入門",
@@ -210,7 +210,7 @@
   {
     "title": "システムの負荷の原因を切り分ける方法",
     "url": "https://qiita.com/k0kubun/items/8ab1dfa7c0359d8e618d",
-    "likes_count": 599,
+    "likes_count": 603,
     "created_at": "2014-09-08T22:46:12+09:00",
     "updated_at": "2014-09-08T22:52:51+09:00",
     "id": "k0kubun"
@@ -218,7 +218,7 @@
   {
     "title": "AレコードとCNAMEレコードの違い",
     "url": "https://qiita.com/PharaohKJ/items/b6a933b7f79afe8a32e1",
-    "likes_count": 586,
+    "likes_count": 588,
     "created_at": "2014-10-01T02:33:36+09:00",
     "updated_at": "2017-11-05T18:41:28+09:00",
     "id": "PharaohKJ"
@@ -466,7 +466,7 @@
   {
     "title": "JavaScriptのテンプレートエンジンHandlebars入門",
     "url": "https://qiita.com/sassy_watson/items/f9947624876bf75a9eff",
-    "likes_count": 329,
+    "likes_count": 330,
     "created_at": "2014-09-06T11:27:32+09:00",
     "updated_at": "2016-08-17T09:36:34+09:00",
     "id": "sassy_watson"
@@ -474,7 +474,7 @@
   {
     "title": "AltJSの選び方フローチャート",
     "url": "https://qiita.com/mizchi/items/c5f101cfab8fd456ca20",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2014-09-11T13:42:44+09:00",
     "updated_at": "2014-09-11T14:50:12+09:00",
     "id": "mizchi"
@@ -490,7 +490,7 @@
   {
     "title": "Gitの基本的な使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/451c5967cbbc262f4f0d",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2014-09-14T16:48:14+09:00",
     "updated_at": "2016-05-08T00:52:43+09:00",
     "id": "opengl-8080"
