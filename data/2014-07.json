@@ -170,7 +170,7 @@
   {
     "title": "あなたのおっしゃるレビューってどのことかしら？",
     "url": "https://qiita.com/mima_ita/items/c3490ad1ccc12ad853f1",
-    "likes_count": 715,
+    "likes_count": 716,
     "created_at": "2014-07-25T00:44:48+09:00",
     "updated_at": "2015-10-17T09:56:14+09:00",
     "id": "mima_ita"
@@ -186,7 +186,7 @@
   {
     "title": "Pythonでの正規表現の使い方",
     "url": "https://qiita.com/wanwanland/items/ce272419dde2f95cdabc",
-    "likes_count": 658,
+    "likes_count": 657,
     "created_at": "2014-07-31T03:40:26+09:00",
     "updated_at": "2014-07-31T13:40:31+09:00",
     "id": "wanwanland"
@@ -202,7 +202,7 @@
   {
     "title": "Android Studioで覚えておくと便利なこと",
     "url": "https://qiita.com/sugoi_wada/items/db449d5cbb5c83cb586c",
-    "likes_count": 585,
+    "likes_count": 584,
     "created_at": "2014-07-21T10:09:15+09:00",
     "updated_at": "2020-01-26T21:05:16+09:00",
     "id": "sugoi_wada"
@@ -290,7 +290,7 @@
   {
     "title": "超絶初心者むけtcpdumpの使い方",
     "url": "https://qiita.com/tossh/items/4cd33693965ef231bd2a",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2014-07-26T17:01:58+09:00",
     "updated_at": "2016-05-28T16:03:40+09:00",
     "id": "tossh"
@@ -394,7 +394,7 @@
   {
     "title": "HTML5のお勉強　articleとsectionとか",
     "url": "https://qiita.com/piotzkhider/items/faffbc4a107e7e495998",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2014-07-31T18:00:09+09:00",
     "updated_at": "2015-10-26T09:38:19+09:00",
     "id": "piotzkhider"
@@ -432,14 +432,6 @@
     "id": "iorionda"
   },
   {
-    "title": "Markdown書き方メモ",
-    "url": "https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b",
-    "likes_count": 420,
-    "created_at": "2014-07-20T21:12:08+09:00",
-    "updated_at": "2018-12-21T09:47:17+09:00",
-    "id": "Minalinsky_1911"
-  },
-  {
     "title": "半年くらい仕事でAndroidアプリ開発していて役に立った本",
     "url": "https://qiita.com/shikato/items/5e03a086fc1b42936d7c",
     "likes_count": 419,
@@ -448,9 +440,17 @@
     "id": "shikato"
   },
   {
+    "title": "Markdown書き方メモ",
+    "url": "https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b",
+    "likes_count": 419,
+    "created_at": "2014-07-20T21:12:08+09:00",
+    "updated_at": "2018-12-21T09:47:17+09:00",
+    "id": "Minalinsky_1911"
+  },
+  {
     "title": "vim置換",
     "url": "https://qiita.com/waoooon/items/8d982e49692c8145ca4b",
-    "likes_count": 413,
+    "likes_count": 412,
     "created_at": "2014-07-18T23:14:42+09:00",
     "updated_at": "2019-08-23T21:28:38+09:00",
     "id": "waoooon"
@@ -680,20 +680,20 @@
     "id": "kouh"
   },
   {
-    "title": "Sequelizeを使用してデータベースを操作するための基本的な情報(2020.09更新）",
-    "url": "https://qiita.com/mima_ita/items/014dcb42872f3a10855b",
-    "likes_count": 277,
-    "created_at": "2014-07-04T19:01:48+09:00",
-    "updated_at": "2021-03-12T16:36:21+09:00",
-    "id": "mima_ita"
-  },
-  {
     "title": "Xcode6とSwift&iOS8のアプリ開発で踏んだ地雷たち",
     "url": "https://qiita.com/susieyy/items/019d5bc69f0921250437",
     "likes_count": 277,
     "created_at": "2014-07-07T07:57:17+09:00",
     "updated_at": "2014-07-07T09:41:43+09:00",
     "id": "susieyy"
+  },
+  {
+    "title": "Sequelizeを使用してデータベースを操作するための基本的な情報(2020.09更新）",
+    "url": "https://qiita.com/mima_ita/items/014dcb42872f3a10855b",
+    "likes_count": 276,
+    "created_at": "2014-07-04T19:01:48+09:00",
+    "updated_at": "2021-03-12T16:36:21+09:00",
+    "id": "mima_ita"
   },
   {
     "title": "VisualStudio 便利なショートカット",
