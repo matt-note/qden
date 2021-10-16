@@ -114,7 +114,7 @@
   {
     "title": "Chromeをvimライクに使えるようにするvimium",
     "url": "https://qiita.com/satoshi03/items/9fdfcd0e46e095ec68c1",
-    "likes_count": 849,
+    "likes_count": 850,
     "created_at": "2014-08-02T19:56:18+09:00",
     "updated_at": "2018-04-22T12:22:07+09:00",
     "id": "satoshi03"
@@ -122,7 +122,7 @@
   {
     "title": "MySQL初級者を脱するために勉強してること -INDEX編-",
     "url": "https://qiita.com/kkyouhei/items/e3502ef632c48d94541d",
-    "likes_count": 779,
+    "likes_count": 780,
     "created_at": "2014-08-09T22:23:33+09:00",
     "updated_at": "2014-08-11T11:18:39+09:00",
     "id": "kkyouhei"
@@ -464,20 +464,20 @@
     "id": "opengl-8080"
   },
   {
+    "title": "シェルを再起動させる簡単な方法",
+    "url": "https://qiita.com/yusabana/items/c4de582c6f85a42817d8",
+    "likes_count": 332,
+    "created_at": "2014-08-31T21:11:21+09:00",
+    "updated_at": "2015-04-15T21:44:50+09:00",
+    "id": "yusabana"
+  },
+  {
     "title": "全探索アルゴリズム入門",
     "url": "https://qiita.com/MasayaMizuhara/items/86099ad721a329e1d6cd",
     "likes_count": 331,
     "created_at": "2014-08-23T19:13:34+09:00",
     "updated_at": "2014-08-23T19:13:34+09:00",
     "id": "MasayaMizuhara"
-  },
-  {
-    "title": "シェルを再起動させる簡単な方法",
-    "url": "https://qiita.com/yusabana/items/c4de582c6f85a42817d8",
-    "likes_count": 331,
-    "created_at": "2014-08-31T21:11:21+09:00",
-    "updated_at": "2015-04-15T21:44:50+09:00",
-    "id": "yusabana"
   },
   {
     "title": "【C#の定数】const と readonly、static readonly の使い分け",
@@ -574,6 +574,14 @@
     "created_at": "2014-08-02T22:50:13+09:00",
     "updated_at": "2020-04-13T00:46:25+09:00",
     "id": "daichi87gi"
+  },
+  {
+    "title": "Rails での適切な Sass の構成手法について（翻訳）",
+    "url": "https://qiita.com/nm7279/items/53b38a2543df97df751d",
+    "likes_count": 276,
+    "created_at": "2014-08-06T10:12:14+09:00",
+    "updated_at": "2014-12-10T11:19:33+09:00",
+    "id": "nm7279"
   },
   {
     "title": "nginx + unicorn + Railsの設定方法",
