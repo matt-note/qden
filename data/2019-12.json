@@ -42,7 +42,7 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年10月更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 1797,
+    "likes_count": 1798,
     "created_at": "2019-12-20T15:18:16+09:00",
     "updated_at": "2021-10-16T11:33:06+09:00",
     "id": "kamesennin"
@@ -50,7 +50,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1681,
+    "likes_count": 1683,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2021-08-02T17:06:13+09:00",
     "id": "hirokidaichi"
@@ -82,7 +82,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1444,
+    "likes_count": 1445,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -98,7 +98,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1251,
+    "likes_count": 1252,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -210,7 +210,7 @@
   {
     "title": "VSCode で最高の LaTeX 環境を作る",
     "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 686,
+    "likes_count": 687,
     "created_at": "2019-12-16T07:03:05+09:00",
     "updated_at": "2021-09-05T00:03:01+09:00",
     "id": "rainbartown"
@@ -234,7 +234,7 @@
   {
     "title": "\"技術的負債\"論の道案内 - アーキテクチャの資本コストと情報の非対称性",
     "url": "https://qiita.com/hirokidaichi/items/c66682a64ac2fc59cdf3",
-    "likes_count": 655,
+    "likes_count": 656,
     "created_at": "2019-12-19T08:11:33+09:00",
     "updated_at": "2019-12-19T13:44:00+09:00",
     "id": "hirokidaichi"
@@ -266,7 +266,7 @@
   {
     "title": "ゴリゴリの文系がＡＩをほぼ独学した半年",
     "url": "https://qiita.com/kyamad/items/f9988fe89c7665e933b4",
-    "likes_count": 617,
+    "likes_count": 618,
     "created_at": "2019-12-27T19:50:42+09:00",
     "updated_at": "2021-06-26T21:37:18+09:00",
     "id": "kyamad"
@@ -394,7 +394,7 @@
   {
     "title": "Kaggleコード遺産",
     "url": "https://qiita.com/kaggle_master-arai-san/items/d59b2fb7142ec7e270a5",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2019-12-13T01:03:32+09:00",
     "updated_at": "2019-12-13T01:03:32+09:00",
     "id": "kaggle_master-arai-san"
@@ -426,10 +426,18 @@
   {
     "title": "令和時代に「Spring入門」「Spring徹底入門」を読むとき気をつけるべきN個のこと",
     "url": "https://qiita.com/suke_masa/items/392976749fce94a8ef1f",
-    "likes_count": 382,
+    "likes_count": 384,
     "created_at": "2019-12-31T11:24:07+09:00",
     "updated_at": "2020-10-16T13:09:32+09:00",
     "id": "suke_masa"
+  },
+  {
+    "title": "NestJSのススメ ～Expressを超えてゆけ～",
+    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
+    "likes_count": 380,
+    "created_at": "2019-12-22T15:46:56+09:00",
+    "updated_at": "2020-04-18T20:27:13+09:00",
+    "id": "elipmoc101"
   },
   {
     "title": "AWS初学者が「うっかり課金」されがちなポイントとその対策まとめ",
@@ -438,14 +446,6 @@
     "created_at": "2019-12-01T09:17:57+09:00",
     "updated_at": "2019-12-12T16:36:24+09:00",
     "id": "Yuji-Ishibashi"
-  },
-  {
-    "title": "NestJSのススメ ～Expressを超えてゆけ～",
-    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 378,
-    "created_at": "2019-12-22T15:46:56+09:00",
-    "updated_at": "2020-04-18T20:27:13+09:00",
-    "id": "elipmoc101"
   },
   {
     "title": "物体検出について読むならこれ！",
@@ -474,7 +474,7 @@
   {
     "title": "Ruby on Railsの現場でよく見る書き方【実例あり】",
     "url": "https://qiita.com/ryokky59/items/988f25fa1fb6b9aefa8e",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2019-12-14T09:25:17+09:00",
     "updated_at": "2019-12-16T09:30:27+09:00",
     "id": "ryokky59"
@@ -498,7 +498,7 @@
   {
     "title": "Unityアプリを高速・安定化するために見直すべき事を9選まとめてみた",
     "url": "https://qiita.com/yoship1639/items/7339a6201b44a24fbdfe",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2019-12-12T13:27:06+09:00",
     "updated_at": "2021-06-18T15:14:13+09:00",
     "id": "yoship1639"
@@ -544,6 +544,14 @@
     "id": "matarillo"
   },
   {
+    "title": "「スクラムマスターを雇うときに聞いてみるとよい38個の質問」に答える",
+    "url": "https://qiita.com/viva_tweet_x/items/55258f657eb0b11eaf47",
+    "likes_count": 267,
+    "created_at": "2019-12-30T09:25:12+09:00",
+    "updated_at": "2019-12-30T12:34:25+09:00",
+    "id": "viva_tweet_x"
+  },
+  {
     "title": "【英語学習】海外の面白い・勉強になるプログラミング系Youtuberを5人&その他英語圏のおすすめ動画を一気紹介！",
     "url": "https://qiita.com/keisukee/items/f8ed3e4a32232be977ff",
     "likes_count": 260,
@@ -554,7 +562,7 @@
   {
     "title": "【完全版】Jupyter Notebook ショートカット",
     "url": "https://qiita.com/zawawahoge/items/baa2a5318df079c5f7e5",
-    "likes_count": 253,
+    "likes_count": 254,
     "created_at": "2019-12-09T00:39:30+09:00",
     "updated_at": "2021-01-13T02:33:23+09:00",
     "id": "zawawahoge"
