@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3253,
+    "likes_count": 3254,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-05-06T13:08:59+09:00",
     "id": "upura"
@@ -18,7 +18,7 @@
   {
     "title": "iPadでプログラミングしてる人、今まで馬鹿にしててすみませんでしたァァァァ!!!!",
     "url": "https://qiita.com/Mahito6/items/94c5720a7d477eb4c2f1",
-    "likes_count": 2060,
+    "likes_count": 2061,
     "created_at": "2019-03-04T19:55:49+09:00",
     "updated_at": "2019-07-18T09:42:29+09:00",
     "id": "Mahito6"
@@ -178,7 +178,7 @@
   {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 752,
+    "likes_count": 753,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
@@ -200,20 +200,20 @@
     "id": "ulwlu"
   },
   {
+    "title": "Laravelで実践クリーンアーキテクチャ",
+    "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
+    "likes_count": 720,
+    "created_at": "2019-03-14T23:15:05+09:00",
+    "updated_at": "2020-12-13T21:40:32+09:00",
+    "id": "nrslib"
+  },
+  {
     "title": "【Python】🍜機械学習で「隠れた名店」を探してみた。（そして実際に行ってみた）🍜",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/b3ac8fd1b300c3404508",
     "likes_count": 720,
     "created_at": "2019-03-18T14:49:52+09:00",
     "updated_at": "2020-08-28T14:35:05+09:00",
     "id": "toshiyuki_tsutsui"
-  },
-  {
-    "title": "Laravelで実践クリーンアーキテクチャ",
-    "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 719,
-    "created_at": "2019-03-14T23:15:05+09:00",
-    "updated_at": "2020-12-13T21:40:32+09:00",
-    "id": "nrslib"
   },
   {
     "title": "味気ない記事にちょっとだけ味付けをする画像集",
@@ -370,7 +370,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 462,
+    "likes_count": 463,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -378,7 +378,7 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"
@@ -400,20 +400,20 @@
     "id": "yuki153"
   },
   {
+    "title": "Visual studio codeで競プロ環境構築[mac OS]",
+    "url": "https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6",
+    "likes_count": 429,
+    "created_at": "2019-03-17T19:46:00+09:00",
+    "updated_at": "2020-12-04T23:50:28+09:00",
+    "id": "EngTks"
+  },
+  {
     "title": "全言語で気をつけるべき、ファイル書き込み時のお作法",
     "url": "https://qiita.com/kazupaka/items/b6479f3f8d13347bf867",
     "likes_count": 428,
     "created_at": "2019-03-03T22:06:02+09:00",
     "updated_at": "2020-07-01T01:23:27+09:00",
     "id": "kazupaka"
-  },
-  {
-    "title": "Visual studio codeで競プロ環境構築[mac OS]",
-    "url": "https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6",
-    "likes_count": 428,
-    "created_at": "2019-03-17T19:46:00+09:00",
-    "updated_at": "2020-12-04T23:50:28+09:00",
-    "id": "EngTks"
   },
   {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
@@ -434,7 +434,7 @@
   {
     "title": "【INNER JOIN, LEFT JOIN , RIGHT JOIN】テーブル結合の挙動をまとめてみた【SQL】",
     "url": "https://qiita.com/ngron/items/db4947fb0551f21321c0",
-    "likes_count": 394,
+    "likes_count": 395,
     "created_at": "2019-03-14T14:28:22+09:00",
     "updated_at": "2019-10-18T19:42:54+09:00",
     "id": "ngron"
@@ -482,7 +482,7 @@
   {
     "title": "Pythonの可視化ライブラリDashを使う　1",
     "url": "https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2019-03-11T21:42:01+09:00",
     "updated_at": "2021-08-01T20:44:08+09:00",
     "id": "OgawaHideyuki"
@@ -498,7 +498,7 @@
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 374,
+    "likes_count": 375,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"
@@ -586,7 +586,7 @@
   {
     "title": "Nginxのアーキテクチャを理解する",
     "url": "https://qiita.com/kamihork/items/296ee689a8d48c2bebcd",
-    "likes_count": 287,
+    "likes_count": 288,
     "created_at": "2019-03-06T01:23:01+09:00",
     "updated_at": "2020-06-13T23:46:57+09:00",
     "id": "kamihork"
