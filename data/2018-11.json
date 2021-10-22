@@ -26,7 +26,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1633,
+    "likes_count": 1634,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2021-04-25T17:54:48+09:00",
     "id": "elipmoc101"
@@ -50,7 +50,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1446,
+    "likes_count": 1448,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -176,20 +176,20 @@
     "id": "chan_kaku"
   },
   {
+    "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
+    "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
+    "likes_count": 739,
+    "created_at": "2018-11-30T21:19:12+09:00",
+    "updated_at": "2020-09-18T15:05:43+09:00",
+    "id": "lobin-z0x50"
+  },
+  {
     "title": "Swiftのエラーハンドリングはなぜ最先端なのか",
     "url": "https://qiita.com/omochimetaru/items/c30f7a021fb9b8f0fa92",
     "likes_count": 738,
     "created_at": "2018-11-25T15:54:36+09:00",
     "updated_at": "2018-11-27T23:46:10+09:00",
     "id": "omochimetaru"
-  },
-  {
-    "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
-    "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 737,
-    "created_at": "2018-11-30T21:19:12+09:00",
-    "updated_at": "2020-09-18T15:05:43+09:00",
-    "id": "lobin-z0x50"
   },
   {
     "title": "Dockerfileの静的解析ツールが便利すぎた",
@@ -218,7 +218,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 677,
+    "likes_count": 678,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -234,7 +234,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 631,
+    "likes_count": 632,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2019-12-29T23:17:28+09:00",
     "id": "ryuichi1208"
@@ -250,7 +250,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 569,
+    "likes_count": 572,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -384,20 +384,20 @@
     "id": "yoshizaki_91"
   },
   {
+    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
+    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
+    "likes_count": 441,
+    "created_at": "2018-11-06T02:18:59+09:00",
+    "updated_at": "2018-11-06T02:18:59+09:00",
+    "id": "psychoroid"
+  },
+  {
     "title": "【ファッション×テック】おしゃれ判定アプリを開発した",
     "url": "https://qiita.com/NakaokaRei/items/595fcb21ff10b84919ab",
     "likes_count": 441,
     "created_at": "2018-11-20T20:20:12+09:00",
     "updated_at": "2019-11-26T18:24:08+09:00",
     "id": "NakaokaRei"
-  },
-  {
-    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
-    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 440,
-    "created_at": "2018-11-06T02:18:59+09:00",
-    "updated_at": "2018-11-06T02:18:59+09:00",
-    "id": "psychoroid"
   },
   {
     "title": "2019年版: 脱Babel!フロント/JS開発をTypeScriptに移行するための環境整備マニュアル",
@@ -482,7 +482,7 @@
   {
     "title": "ストーリーポイントで見積もる現実的な方法",
     "url": "https://qiita.com/keitakn/items/c30b7071ebfbf4b1b3e0",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2018-11-22T01:24:43+09:00",
     "updated_at": "2020-08-02T14:22:40+09:00",
     "id": "keitakn"
@@ -490,7 +490,7 @@
   {
     "title": "【入門】Nuxt.js + Contentful + Netlify で始める、JAMstack な CMS 構築",
     "url": "https://qiita.com/isihigameKoudai/items/3e45ade7c438176a4cc9",
-    "likes_count": 335,
+    "likes_count": 336,
     "created_at": "2018-11-21T08:56:43+09:00",
     "updated_at": "2021-03-03T12:29:46+09:00",
     "id": "isihigameKoudai"

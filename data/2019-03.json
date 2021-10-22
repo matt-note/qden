@@ -58,7 +58,7 @@
   {
     "title": "実践/現場のPythonスクレイピング",
     "url": "https://qiita.com/ulwlu/items/c84501993635c72540a7",
-    "likes_count": 1386,
+    "likes_count": 1387,
     "created_at": "2019-03-18T13:10:31+09:00",
     "updated_at": "2021-06-18T11:17:31+09:00",
     "id": "ulwlu"
@@ -90,7 +90,7 @@
   {
     "title": "３週間でAWS認定ソリューションアーキテクト-アソシエイト-とったので、勉強法などまとめてみる",
     "url": "https://qiita.com/fukubaka0825/items/238225f9e4c1962bc00c",
-    "likes_count": 1250,
+    "likes_count": 1251,
     "created_at": "2019-03-31T01:56:05+09:00",
     "updated_at": "2021-06-06T15:10:04+09:00",
     "id": "fukubaka0825"
@@ -202,7 +202,7 @@
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 720,
+    "likes_count": 721,
     "created_at": "2019-03-14T23:15:05+09:00",
     "updated_at": "2020-12-13T21:40:32+09:00",
     "id": "nrslib"
@@ -242,7 +242,7 @@
   {
     "title": "「Railsは終わった」と言われる理由",
     "url": "https://qiita.com/klriutsa/items/86ac5e94ec99c0d95b61",
-    "likes_count": 667,
+    "likes_count": 668,
     "created_at": "2019-03-05T23:25:11+09:00",
     "updated_at": "2019-08-22T20:18:32+09:00",
     "id": "klriutsa"
@@ -338,7 +338,7 @@
   {
     "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
     "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
-    "likes_count": 496,
+    "likes_count": 497,
     "created_at": "2019-03-29T15:54:09+09:00",
     "updated_at": "2019-09-12T14:54:07+09:00",
     "id": "KRiver1"
@@ -370,7 +370,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 463,
+    "likes_count": 464,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -434,7 +434,7 @@
   {
     "title": "【INNER JOIN, LEFT JOIN , RIGHT JOIN】テーブル結合の挙動をまとめてみた【SQL】",
     "url": "https://qiita.com/ngron/items/db4947fb0551f21321c0",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2019-03-14T14:28:22+09:00",
     "updated_at": "2019-10-18T19:42:54+09:00",
     "id": "ngron"
@@ -482,7 +482,7 @@
   {
     "title": "Pythonの可視化ライブラリDashを使う　1",
     "url": "https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c",
-    "likes_count": 377,
+    "likes_count": 378,
     "created_at": "2019-03-11T21:42:01+09:00",
     "updated_at": "2021-08-01T20:44:08+09:00",
     "id": "OgawaHideyuki"
@@ -498,10 +498,18 @@
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"
+  },
+  {
+    "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
+    "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
+    "likes_count": 366,
+    "created_at": "2019-03-21T16:54:22+09:00",
+    "updated_at": "2019-03-21T16:54:59+09:00",
+    "id": "1ain2"
   },
   {
     "title": "Webの仕事をしていない人が個人Webサービスを作ってみて得られた知見",
@@ -510,14 +518,6 @@
     "created_at": "2019-03-18T19:40:12+09:00",
     "updated_at": "2019-03-20T19:22:57+09:00",
     "id": "akahori_ss"
-  },
-  {
-    "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
-    "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
-    "likes_count": 364,
-    "created_at": "2019-03-21T16:54:22+09:00",
-    "updated_at": "2019-03-21T16:54:59+09:00",
-    "id": "1ain2"
   },
   {
     "title": "Kubernetesを始める前に必要そうな知識をまとめてみた",
@@ -538,7 +538,7 @@
   {
     "title": "【入門】Redis",
     "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2019-03-22T16:43:36+09:00",
     "updated_at": "2020-09-14T17:26:22+09:00",
     "id": "wind-up-bird"
@@ -576,20 +576,20 @@
     "id": "riversun"
   },
   {
+    "title": "Nginxのアーキテクチャを理解する",
+    "url": "https://qiita.com/kamihork/items/296ee689a8d48c2bebcd",
+    "likes_count": 289,
+    "created_at": "2019-03-06T01:23:01+09:00",
+    "updated_at": "2020-06-13T23:46:57+09:00",
+    "id": "kamihork"
+  },
+  {
     "title": "Vue で地図を表示する無料で最短の道",
     "url": "https://qiita.com/Satachito/items/929a63e9b266f6db7958",
     "likes_count": 288,
     "created_at": "2019-03-04T16:44:02+09:00",
     "updated_at": "2020-05-18T17:21:41+09:00",
     "id": "Satachito"
-  },
-  {
-    "title": "Nginxのアーキテクチャを理解する",
-    "url": "https://qiita.com/kamihork/items/296ee689a8d48c2bebcd",
-    "likes_count": 288,
-    "created_at": "2019-03-06T01:23:01+09:00",
-    "updated_at": "2020-06-13T23:46:57+09:00",
-    "id": "kamihork"
   },
   {
     "title": "Nuxt.js + FirebaseでOGPの仕組みを完全に理解した　〜俳句をSVGで描画するサービスをリリースした話〜",

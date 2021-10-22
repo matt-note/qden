@@ -26,7 +26,7 @@
   {
     "title": "2020年の開発者が知っておくべき11の必須スキル",
     "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
-    "likes_count": 2035,
+    "likes_count": 2036,
     "created_at": "2020-01-20T19:54:42+09:00",
     "updated_at": "2020-02-11T22:17:43+09:00",
     "id": "rana_kualu"
@@ -42,7 +42,7 @@
   {
     "title": "EC2でブログを立ち上げた途端に来た、怪しい攻撃たち",
     "url": "https://qiita.com/KMim/items/60c1ce893c09872acd15",
-    "likes_count": 1823,
+    "likes_count": 1824,
     "created_at": "2020-01-15T12:39:21+09:00",
     "updated_at": "2021-10-21T10:08:11+09:00",
     "id": "KMim"
@@ -98,7 +98,7 @@
   {
     "title": "2020年現在 Web系企業で採用されてる技術についてまとめてみた",
     "url": "https://qiita.com/inagacky/items/43cc0518ef11f1e4beb3",
-    "likes_count": 1026,
+    "likes_count": 1027,
     "created_at": "2020-01-22T10:43:23+09:00",
     "updated_at": "2020-09-06T09:25:42+09:00",
     "id": "inagacky"
@@ -170,7 +170,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 810,
+    "likes_count": 812,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -186,7 +186,7 @@
   {
     "title": "ラズパイでやらなければいけない４つのセキュリティ対策！",
     "url": "https://qiita.com/nokonoko_1203/items/94a888444d5019f23a11",
-    "likes_count": 727,
+    "likes_count": 728,
     "created_at": "2020-01-31T17:29:12+09:00",
     "updated_at": "2020-06-11T07:52:08+09:00",
     "id": "nokonoko_1203"
@@ -218,7 +218,7 @@
   {
     "title": "経年劣化に耐える ReactComponent の書き方",
     "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
-    "likes_count": 690,
+    "likes_count": 691,
     "created_at": "2020-01-16T19:01:04+09:00",
     "updated_at": "2020-01-19T13:49:21+09:00",
     "id": "Takepepe"
@@ -354,7 +354,7 @@
   {
     "title": "「よいサンプルコード」ってどんなサンプルコード？ 〜Qiitaや技術ブログを書くときに気を付けること〜",
     "url": "https://qiita.com/jnchito/items/da33f793de2e29e470f4",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2020-01-09T11:47:44+09:00",
     "updated_at": "2020-12-15T07:28:23+09:00",
     "id": "jnchito"
@@ -370,7 +370,7 @@
   {
     "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
     "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2020-01-03T17:27:55+09:00",
     "updated_at": "2020-11-10T02:36:37+09:00",
     "id": "bee2"
@@ -400,20 +400,20 @@
     "id": "lovee"
   },
   {
+    "title": "React hooksを基礎から理解する (useState編)",
+    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
+    "likes_count": 423,
+    "created_at": "2020-01-26T20:56:47+09:00",
+    "updated_at": "2021-03-15T16:00:37+09:00",
+    "id": "seira"
+  },
+  {
     "title": "独学で0からプログラミングを始めて、成り上がるためには",
     "url": "https://qiita.com/katy7/items/b28000cd74c10325ee5e",
     "likes_count": 422,
     "created_at": "2020-01-20T01:30:00+09:00",
     "updated_at": "2020-07-20T18:07:45+09:00",
     "id": "katy7"
-  },
-  {
-    "title": "React hooksを基礎から理解する (useState編)",
-    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 422,
-    "created_at": "2020-01-26T20:56:47+09:00",
-    "updated_at": "2021-03-15T16:00:37+09:00",
-    "id": "seira"
   },
   {
     "title": "最短経路問題総特集！！！～BFSから拡張ダイクストラまで～",
@@ -464,20 +464,20 @@
     "id": "serinuntius"
   },
   {
+    "title": "VS CodeでDocker開発コンテナを便利に使おう",
+    "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
+    "likes_count": 374,
+    "created_at": "2020-01-17T21:18:30+09:00",
+    "updated_at": "2020-01-17T21:18:30+09:00",
+    "id": "Yuki_Oshima"
+  },
+  {
     "title": "AtCoder水色になりました",
     "url": "https://qiita.com/pkodama/items/93ab0b654d2597e42ac3",
     "likes_count": 373,
     "created_at": "2020-01-27T18:33:13+09:00",
     "updated_at": "2020-03-31T21:53:47+09:00",
     "id": "pkodama"
-  },
-  {
-    "title": "VS CodeでDocker開発コンテナを便利に使おう",
-    "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
-    "likes_count": 372,
-    "created_at": "2020-01-17T21:18:30+09:00",
-    "updated_at": "2020-01-17T21:18:30+09:00",
-    "id": "Yuki_Oshima"
   },
   {
     "title": "高階関数、カリー化、部分適用",
