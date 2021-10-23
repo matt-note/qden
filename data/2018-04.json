@@ -26,15 +26,15 @@
   {
     "title": "ソートを極める！ 〜 なぜソートを学ぶのか 〜",
     "url": "https://qiita.com/drken/items/44c60118ab3703f7727f",
-    "likes_count": 2068,
+    "likes_count": 2070,
     "created_at": "2018-04-05T09:29:06+09:00",
-    "updated_at": "2019-10-17T14:02:36+09:00",
+    "updated_at": "2021-10-23T20:27:03+09:00",
     "id": "drken"
   },
   {
     "title": "フロントエンドのコンポーネント設計に立ち向かう",
     "url": "https://qiita.com/seya/items/8814e905693f00cdade2",
-    "likes_count": 2047,
+    "likes_count": 2049,
     "created_at": "2018-04-02T07:22:25+09:00",
     "updated_at": "2021-02-19T20:36:30+09:00",
     "id": "seya"
@@ -74,7 +74,7 @@
   {
     "title": "私からあなたへ 一人前のJavaエンジニアになるためのロードマップを送ろう",
     "url": "https://qiita.com/haruto167/items/5a784df032518277f4a0",
-    "likes_count": 1393,
+    "likes_count": 1395,
     "created_at": "2018-04-07T16:04:15+09:00",
     "updated_at": "2018-04-28T10:13:26+09:00",
     "id": "haruto167"
@@ -122,7 +122,7 @@
   {
     "title": "ngrokが便利すぎる",
     "url": "https://qiita.com/mininobu/items/b45dbc70faedf30f484e",
-    "likes_count": 1078,
+    "likes_count": 1079,
     "created_at": "2018-04-15T00:55:28+09:00",
     "updated_at": "2018-04-15T00:55:28+09:00",
     "id": "mininobu"
@@ -184,20 +184,20 @@
     "id": "issei_y"
   },
   {
+    "title": "物体検出についての歴史まとめ(1)",
+    "url": "https://qiita.com/mshinoda88/items/9770ee671ea27f2c81a9",
+    "likes_count": 861,
+    "created_at": "2018-04-17T21:14:51+09:00",
+    "updated_at": "2021-01-15T00:25:15+09:00",
+    "id": "mshinoda88"
+  },
+  {
     "title": "排他制御（楽観ロック・悲観ロック）の基礎　",
     "url": "https://qiita.com/NagaokaKenichi/items/73040df85b7bd4e9ecfc",
     "likes_count": 860,
     "created_at": "2018-04-08T18:17:21+09:00",
     "updated_at": "2018-04-09T08:59:54+09:00",
     "id": "NagaokaKenichi"
-  },
-  {
-    "title": "物体検出についての歴史まとめ(1)",
-    "url": "https://qiita.com/mshinoda88/items/9770ee671ea27f2c81a9",
-    "likes_count": 860,
-    "created_at": "2018-04-17T21:14:51+09:00",
-    "updated_at": "2021-01-15T00:25:15+09:00",
-    "id": "mshinoda88"
   },
   {
     "title": "保育園落ちたアラフォーがプログラミングを学び、2か月でWebサービスを作った話",
@@ -336,20 +336,20 @@
     "id": "chocode"
   },
   {
+    "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
+    "url": "https://qiita.com/drken/items/97e37dd6143e33a64c8c",
+    "likes_count": 524,
+    "created_at": "2018-04-20T10:48:11+09:00",
+    "updated_at": "2018-07-04T17:57:29+09:00",
+    "id": "drken"
+  },
+  {
     "title": "“プログラミング言語Rust: 2nd Edition”の日本語版PDFを作成した",
     "url": "https://qiita.com/yyu/items/18df35988f3ea3b12af0",
     "likes_count": 523,
     "created_at": "2018-04-18T00:38:16+09:00",
     "updated_at": "2020-09-26T17:26:24+09:00",
     "id": "yyu"
-  },
-  {
-    "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
-    "url": "https://qiita.com/drken/items/97e37dd6143e33a64c8c",
-    "likes_count": 523,
-    "created_at": "2018-04-20T10:48:11+09:00",
-    "updated_at": "2018-07-04T17:57:29+09:00",
-    "id": "drken"
   },
   {
     "title": "Vue.jsをシンプルに理解しよう",
@@ -402,7 +402,7 @@
   {
     "title": "iPhone画面サイズ早見表（図付き）",
     "url": "https://qiita.com/pe-ta/items/b3b754bde584abc98f44",
-    "likes_count": 478,
+    "likes_count": 479,
     "created_at": "2018-04-25T08:11:20+09:00",
     "updated_at": "2021-10-12T18:38:03+09:00",
     "id": "pe-ta"
@@ -586,7 +586,7 @@
   {
     "title": "JavaScriptのクロージャはメモリーリークをちゃんと理解して使おう",
     "url": "https://qiita.com/102Design/items/be66ae7ba7d160d7e419",
-    "likes_count": 239,
+    "likes_count": 240,
     "created_at": "2018-04-04T10:08:56+09:00",
     "updated_at": "2018-04-05T14:09:07+09:00",
     "id": "102Design"
