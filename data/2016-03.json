@@ -2,7 +2,7 @@
   {
     "title": "翻訳: WebAPI 設計のベストプラクティス",
     "url": "https://qiita.com/mserizawa/items/b833e407d89abd21ee72",
-    "likes_count": 5576,
+    "likes_count": 5578,
     "created_at": "2016-03-24T03:18:36+09:00",
     "updated_at": "2017-12-17T15:13:02+09:00",
     "id": "mserizawa"
@@ -50,7 +50,7 @@
   {
     "title": "たった1人から始める社内テストコード文化",
     "url": "https://qiita.com/haminiku/items/9f1b9a2fb773c732c494",
-    "likes_count": 1676,
+    "likes_count": 1677,
     "created_at": "2016-03-15T06:38:55+09:00",
     "updated_at": "2016-03-23T12:57:56+09:00",
     "id": "haminiku"
@@ -106,7 +106,7 @@
   {
     "title": "pythonの内包表記を少し詳しく",
     "url": "https://qiita.com/y__sama/items/a2c458de97c4aa5a98e7",
-    "likes_count": 1026,
+    "likes_count": 1027,
     "created_at": "2016-03-14T20:39:02+09:00",
     "updated_at": "2018-01-02T14:52:54+09:00",
     "id": "y__sama"
@@ -130,7 +130,7 @@
   {
     "title": "エンジニアのハマり時間とその技術的難易度の相関関係",
     "url": "https://qiita.com/jabba/items/b0a0f8c310e164b4db2b",
-    "likes_count": 957,
+    "likes_count": 958,
     "created_at": "2016-03-23T17:28:55+09:00",
     "updated_at": "2018-12-31T18:26:55+09:00",
     "id": "jabba"
@@ -282,7 +282,7 @@
   {
     "title": "Swiftの列挙型(enum)おさらい",
     "url": "https://qiita.com/hachinobu/items/392c96820588d1c03b0c",
-    "likes_count": 548,
+    "likes_count": 549,
     "created_at": "2016-03-31T15:26:48+09:00",
     "updated_at": "2018-12-17T16:07:37+09:00",
     "id": "hachinobu"
@@ -344,6 +344,14 @@
     "id": "yunico-jp"
   },
   {
+    "title": "PHPによる簡単なログイン認証いろいろ",
+    "url": "https://qiita.com/mpyw/items/bb8305ba196f5105be15",
+    "likes_count": 452,
+    "created_at": "2016-03-30T22:59:52+09:00",
+    "updated_at": "2018-02-25T03:15:57+09:00",
+    "id": "mpyw"
+  },
+  {
     "title": "Swiftで代数学入門 〜 1. 数とは何か？",
     "url": "https://qiita.com/taketo1024/items/bd356c59dc0559ee9a0b",
     "likes_count": 451,
@@ -358,14 +366,6 @@
     "created_at": "2016-03-14T12:13:55+09:00",
     "updated_at": "2018-12-05T16:58:29+09:00",
     "id": "lovee"
-  },
-  {
-    "title": "PHPによる簡単なログイン認証いろいろ",
-    "url": "https://qiita.com/mpyw/items/bb8305ba196f5105be15",
-    "likes_count": 451,
-    "created_at": "2016-03-30T22:59:52+09:00",
-    "updated_at": "2018-02-25T03:15:57+09:00",
-    "id": "mpyw"
   },
   {
     "title": "オブジェクト指向エクササイズをやってみる",
@@ -522,7 +522,7 @@
   {
     "title": "wgetでこういう時はこうする!!",
     "url": "https://qiita.com/hirohiro77/items/b774908436ec032df719",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2016-03-07T14:47:05+09:00",
     "updated_at": "2019-01-07T20:51:05+09:00",
     "id": "hirohiro77"
@@ -584,20 +584,20 @@
     "id": "scivola"
   },
   {
+    "title": "Java Stream APIをいまさら入門",
+    "url": "https://qiita.com/takumi-n/items/369dd3fcb9ccb8fcfa44",
+    "likes_count": 341,
+    "created_at": "2016-04-01T00:38:36+09:00",
+    "updated_at": "2021-03-15T16:51:00+09:00",
+    "id": "takumi-n"
+  },
+  {
     "title": "ディープラーニング（TensorFlow）を使用した株価予想",
     "url": "https://qiita.com/yai/items/5ec5bbfbcc53c9770c40",
     "likes_count": 340,
     "created_at": "2016-03-24T20:37:18+09:00",
     "updated_at": "2016-03-28T14:42:20+09:00",
     "id": "yai"
-  },
-  {
-    "title": "Java Stream APIをいまさら入門",
-    "url": "https://qiita.com/takumi-n/items/369dd3fcb9ccb8fcfa44",
-    "likes_count": 340,
-    "created_at": "2016-04-01T00:38:36+09:00",
-    "updated_at": "2021-03-15T16:51:00+09:00",
-    "id": "takumi-n"
   },
   {
     "title": "データサイエンティストに向けたコーディング環境Jupyter Notebookの勧め",
@@ -610,7 +610,7 @@
   {
     "title": "awkコマンドの基本",
     "url": "https://qiita.com/yamazon/items/563af1b485ff413d381f",
-    "likes_count": 332,
+    "likes_count": 334,
     "created_at": "2016-03-06T20:03:09+09:00",
     "updated_at": "2016-03-14T23:38:39+09:00",
     "id": "yamazon"

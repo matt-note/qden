@@ -2,7 +2,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2659,
+    "likes_count": 2660,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -10,7 +10,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2628,
+    "likes_count": 2630,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -178,7 +178,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 608,
+    "likes_count": 610,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -296,6 +296,14 @@
     "id": "alpaca_taichou"
   },
   {
+    "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
+    "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
+    "likes_count": 440,
+    "created_at": "2018-01-21T01:43:27+09:00",
+    "updated_at": "2018-01-21T08:56:25+09:00",
+    "id": "ishizakiiii"
+  },
+  {
     "title": "プログラマー１年生がポリモーフィズムについて学んだのでＲＰＧで説明する。",
     "url": "https://qiita.com/Nossa/items/b6e2f4ed0fa079359fc5",
     "likes_count": 439,
@@ -304,17 +312,9 @@
     "id": "Nossa"
   },
   {
-    "title": "DQN（Deep Q Network）を理解したので、Gopherくんの図を使って説明",
-    "url": "https://qiita.com/ishizakiiii/items/5eff79b59bce74fdca0d",
-    "likes_count": 439,
-    "created_at": "2018-01-21T01:43:27+09:00",
-    "updated_at": "2018-01-21T08:56:25+09:00",
-    "id": "ishizakiiii"
-  },
-  {
     "title": "Gitでローカルブランチを削除する",
     "url": "https://qiita.com/hogeta_/items/33d2334c9b1919bd5120",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2018-01-11T18:24:12+09:00",
     "updated_at": "2020-01-16T14:28:12+09:00",
     "id": "hogeta_"
@@ -400,6 +400,14 @@
     "id": "takjg"
   },
   {
+    "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
+    "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
+    "likes_count": 312,
+    "created_at": "2018-01-18T00:36:30+09:00",
+    "updated_at": "2019-07-29T19:26:22+09:00",
+    "id": "tomov3"
+  },
+  {
     "title": "Vim / Vi を終了させる方法",
     "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
     "likes_count": 311,
@@ -408,17 +416,9 @@
     "id": "kon_yu"
   },
   {
-    "title": "scikit-learn を用いた交差検証（Cross-validation）とハイパーパラメータのチューニング（grid search）",
-    "url": "https://qiita.com/tomov3/items/039d4271ed30490edf7b",
-    "likes_count": 311,
-    "created_at": "2018-01-18T00:36:30+09:00",
-    "updated_at": "2019-07-29T19:26:22+09:00",
-    "id": "tomov3"
-  },
-  {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",
     "url": "https://qiita.com/okoppe8/items/c58bb3faaf26c9e2f27f",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"
