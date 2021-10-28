@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3258,
+    "likes_count": 3259,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-05-06T13:08:59+09:00",
     "id": "upura"
@@ -42,7 +42,7 @@
   {
     "title": "【まつもとゆきひろ氏　特別講演】20代エンジニアのためのプログラマー勉強法のまとめ 2019/3/30",
     "url": "https://qiita.com/motoki4917/items/40386dd7fbd70987cc1d",
-    "likes_count": 1715,
+    "likes_count": 1714,
     "created_at": "2019-03-30T21:58:37+09:00",
     "updated_at": "2020-11-28T12:00:08+09:00",
     "id": "motoki4917"
@@ -66,7 +66,7 @@
   {
     "title": "未経験から7日間でコーダーとして現場投入させるまでのカリキュラムを忘れないようにメモっとく",
     "url": "https://qiita.com/hissy/items/e781a62ff6521803a230",
-    "likes_count": 1365,
+    "likes_count": 1366,
     "created_at": "2019-03-25T08:16:32+09:00",
     "updated_at": "2019-03-28T20:08:37+09:00",
     "id": "hissy"
@@ -162,7 +162,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 849,
+    "likes_count": 848,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -178,7 +178,7 @@
   {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 760,
+    "likes_count": 762,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
@@ -202,7 +202,7 @@
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2019-03-14T23:15:05+09:00",
     "updated_at": "2020-12-13T21:40:32+09:00",
     "id": "nrslib"
@@ -258,7 +258,7 @@
   {
     "title": "モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace",
     "url": "https://qiita.com/yu4u/items/078054dfb5592cbb80cc",
-    "likes_count": 655,
+    "likes_count": 656,
     "created_at": "2019-03-06T08:49:26+09:00",
     "updated_at": "2019-03-06T09:56:22+09:00",
     "id": "yu4u"
@@ -352,20 +352,20 @@
     "id": "takasp"
   },
   {
+    "title": "GoFのデザインパターンまとめ",
+    "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
+    "likes_count": 473,
+    "created_at": "2019-03-28T11:27:34+09:00",
+    "updated_at": "2021-01-22T14:38:27+09:00",
+    "id": "i-tanaka730"
+  },
+  {
     "title": "【Rails】MySQL2がbundle installできない時の対応方法",
     "url": "https://qiita.com/fukuda_fu/items/463a39406ce713396403",
     "likes_count": 472,
     "created_at": "2019-03-21T20:01:40+09:00",
     "updated_at": "2019-04-11T01:39:27+09:00",
     "id": "fukuda_fu"
-  },
-  {
-    "title": "GoFのデザインパターンまとめ",
-    "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 470,
-    "created_at": "2019-03-28T11:27:34+09:00",
-    "updated_at": "2021-01-22T14:38:27+09:00",
-    "id": "i-tanaka730"
   },
   {
     "title": "Emacsモダン化計画 -かわEmacs編-",
@@ -378,7 +378,7 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 448,
+    "likes_count": 447,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"
@@ -386,7 +386,7 @@
   {
     "title": "[git] gitconfigで会社用アカウントと個人用アカウントを楽に使い分けする",
     "url": "https://qiita.com/Ancient_Scapes/items/64f239f89d25a3b9f520",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2019-03-27T03:18:41+09:00",
     "updated_at": "2019-03-28T14:55:54+09:00",
     "id": "Ancient_Scapes"
@@ -434,7 +434,7 @@
   {
     "title": "【INNER JOIN, LEFT JOIN , RIGHT JOIN】テーブル結合の挙動をまとめてみた【SQL】",
     "url": "https://qiita.com/ngron/items/db4947fb0551f21321c0",
-    "likes_count": 397,
+    "likes_count": 398,
     "created_at": "2019-03-14T14:28:22+09:00",
     "updated_at": "2019-10-18T19:42:54+09:00",
     "id": "ngron"
@@ -472,6 +472,14 @@
     "id": "Akatsuki_py"
   },
   {
+    "title": "Railsのroutingにおけるscope / namespace / module の違い",
+    "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
+    "likes_count": 380,
+    "created_at": "2019-03-17T22:54:32+09:00",
+    "updated_at": "2019-03-17T22:54:32+09:00",
+    "id": "ryosuketter"
+  },
+  {
     "title": "ダッシュボードを作ってみたら、意外と......",
     "url": "https://qiita.com/Hailee/items/2a8e22b78effe147de0d",
     "likes_count": 379,
@@ -486,14 +494,6 @@
     "created_at": "2019-03-11T21:42:01+09:00",
     "updated_at": "2021-08-01T20:44:08+09:00",
     "id": "OgawaHideyuki"
-  },
-  {
-    "title": "Railsのroutingにおけるscope / namespace / module の違い",
-    "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 378,
-    "created_at": "2019-03-17T22:54:32+09:00",
-    "updated_at": "2019-03-17T22:54:32+09:00",
-    "id": "ryosuketter"
   },
   {
     "title": "なんでみんなRunJS使わないのかわからない",
@@ -538,7 +538,7 @@
   {
     "title": "【入門】Redis",
     "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2019-03-22T16:43:36+09:00",
     "updated_at": "2020-09-14T17:26:22+09:00",
     "id": "wind-up-bird"

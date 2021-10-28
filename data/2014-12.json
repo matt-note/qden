@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2341,
+    "likes_count": 2342,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -90,7 +90,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1220,
+    "likes_count": 1219,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2014-12-18T19:06:40+09:00",
     "id": "k-shogo"
@@ -98,7 +98,7 @@
   {
     "title": "個人のスマホアプリ開発者がParseを使うべき15の理由",
     "url": "https://qiita.com/koyopro/items/b9891aa7bb596b958d7e",
-    "likes_count": 1219,
+    "likes_count": 1218,
     "created_at": "2014-12-20T13:53:04+09:00",
     "updated_at": "2016-01-29T10:06:33+09:00",
     "id": "koyopro"
@@ -114,7 +114,7 @@
   {
     "title": "機械学習はじめの一歩に役立つ記事のまとめ",
     "url": "https://qiita.com/shu223/items/9cbde46c0690f1952750",
-    "likes_count": 965,
+    "likes_count": 966,
     "created_at": "2014-12-09T20:34:42+09:00",
     "updated_at": "2014-12-09T20:55:48+09:00",
     "id": "shu223"
@@ -184,20 +184,20 @@
     "id": "ledmonster"
   },
   {
+    "title": "初心者向けGithubへのPullRequest方法",
+    "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
+    "likes_count": 742,
+    "created_at": "2014-12-17T23:28:14+09:00",
+    "updated_at": "2014-12-19T09:14:55+09:00",
+    "id": "samurai_runner"
+  },
+  {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
     "likes_count": 741,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
-  },
-  {
-    "title": "初心者向けGithubへのPullRequest方法",
-    "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 741,
-    "created_at": "2014-12-17T23:28:14+09:00",
-    "updated_at": "2014-12-19T09:14:55+09:00",
-    "id": "samurai_runner"
   },
   {
     "title": "IE10 以下を切る場合の JavaScript チェックリスト",
@@ -242,7 +242,7 @@
   {
     "title": "俺のJSライブラリの世界観(2014末版)",
     "url": "https://qiita.com/mizchi/items/62f6bda6d3e077de14a9",
-    "likes_count": 623,
+    "likes_count": 622,
     "created_at": "2014-12-11T11:03:54+09:00",
     "updated_at": "2014-12-11T11:13:38+09:00",
     "id": "mizchi"
@@ -272,20 +272,20 @@
     "id": "shinya_131"
   },
   {
+    "title": "DynamoDB ベストプラクティス",
+    "url": "https://qiita.com/inouet/items/bcf9467a65b27c362ecf",
+    "likes_count": 613,
+    "created_at": "2014-12-17T04:08:17+09:00",
+    "updated_at": "2014-12-17T13:25:50+09:00",
+    "id": "inouet"
+  },
+  {
     "title": "React.jsのComponent Lifecycle",
     "url": "https://qiita.com/koba04/items/66e9c5be8f2e31f28461",
     "likes_count": 612,
     "created_at": "2014-12-08T14:31:58+09:00",
     "updated_at": "2014-12-08T14:37:45+09:00",
     "id": "koba04"
-  },
-  {
-    "title": "DynamoDB ベストプラクティス",
-    "url": "https://qiita.com/inouet/items/bcf9467a65b27c362ecf",
-    "likes_count": 612,
-    "created_at": "2014-12-17T04:08:17+09:00",
-    "updated_at": "2014-12-17T13:25:50+09:00",
-    "id": "inouet"
   },
   {
     "title": "米googleの研究者が開発したWord2Vecで自然言語処理(独自データ)",
@@ -378,7 +378,7 @@
   {
     "title": "nginxパフォーマンスチューニング〜静的コンテンツ配信編〜",
     "url": "https://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd",
-    "likes_count": 512,
+    "likes_count": 511,
     "created_at": "2014-12-16T03:53:44+09:00",
     "updated_at": "2015-12-08T21:59:14+09:00",
     "id": "cubicdaiya"
@@ -562,7 +562,7 @@
   {
     "title": "SVMを使いこなす！チェックポイント8つ",
     "url": "https://qiita.com/pika_shi/items/5e59bcf69e85fdd9edb2",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2014-12-16T08:22:35+09:00",
     "updated_at": "2014-12-16T08:22:35+09:00",
     "id": "pika_shi"
@@ -602,7 +602,7 @@
   {
     "title": "phpDocumentorの書き方",
     "url": "https://qiita.com/itosho/items/0f809e067a9e4a41515e",
-    "likes_count": 344,
+    "likes_count": 345,
     "created_at": "2014-12-22T14:21:26+09:00",
     "updated_at": "2015-01-15T19:46:15+09:00",
     "id": "itosho"
@@ -666,7 +666,7 @@
   {
     "title": "Core Bluetooth with Swift （ObjCのおまけ付き）",
     "url": "https://qiita.com/shu223/items/78614325ce25bf7f4379",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2014-12-12T18:21:56+09:00",
     "updated_at": "2016-06-10T16:02:24+09:00",
     "id": "shu223"
