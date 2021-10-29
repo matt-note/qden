@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3580,
+    "likes_count": 3581,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -328,20 +328,20 @@
     "id": "kaki_k"
   },
   {
+    "title": "Javascriptのcall/apply関数のプロっぽい使い方 〜 JSおくのほそ道 #014",
+    "url": "https://qiita.com/hosomichi/items/155af03120a330fd4437",
+    "likes_count": 477,
+    "created_at": "2014-07-10T09:33:23+09:00",
+    "updated_at": "2014-09-14T18:10:53+09:00",
+    "id": "hosomichi"
+  },
+  {
     "title": "Swiftで面倒なJSONの取り扱いをさらに10倍便利にするclass JSON ",
     "url": "https://qiita.com/dankogai/items/e3d9882f4d25bc44cc03",
     "likes_count": 477,
     "created_at": "2014-07-16T06:04:01+09:00",
     "updated_at": "2016-01-29T15:22:19+09:00",
     "id": "dankogai"
-  },
-  {
-    "title": "Javascriptのcall/apply関数のプロっぽい使い方 〜 JSおくのほそ道 #014",
-    "url": "https://qiita.com/hosomichi/items/155af03120a330fd4437",
-    "likes_count": 476,
-    "created_at": "2014-07-10T09:33:23+09:00",
-    "updated_at": "2014-09-14T18:10:53+09:00",
-    "id": "hosomichi"
   },
   {
     "title": "Terraform簡易チュートリアル on AWS",
@@ -354,7 +354,7 @@
   {
     "title": "新しいNTPクライアント＆サーバ、chrony",
     "url": "https://qiita.com/yunano/items/7883cf295f91f4ef716b",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2014-07-22T00:33:29+09:00",
     "updated_at": "2018-09-30T17:04:21+09:00",
     "id": "yunano"
@@ -466,10 +466,18 @@
   {
     "title": "MySQLで簡単にランダムなテストデータを作成する方法",
     "url": "https://qiita.com/tayasu/items/c5ddfc481d6b7cd8866d",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2014-07-30T10:17:01+09:00",
     "updated_at": "2014-07-30T20:54:27+09:00",
     "id": "tayasu"
+  },
+  {
+    "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
+    "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
+    "likes_count": 381,
+    "created_at": "2014-07-17T19:56:24+09:00",
+    "updated_at": "2014-07-17T19:56:24+09:00",
+    "id": "konweb"
   },
   {
     "title": "Swiftのプロパティ監視(willSet/didSet)の挙動について調べてみた",
@@ -478,14 +486,6 @@
     "created_at": "2014-07-17T14:30:47+09:00",
     "updated_at": "2015-03-26T17:30:47+09:00",
     "id": "takabosoft"
-  },
-  {
-    "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
-    "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
-    "likes_count": 380,
-    "created_at": "2014-07-17T19:56:24+09:00",
-    "updated_at": "2014-07-17T19:56:24+09:00",
-    "id": "konweb"
   },
   {
     "title": "SwiftのArrayがヤバくなくなった",
@@ -706,7 +706,7 @@
   {
     "title": "RailsじゃないRspec3環境を構築する方法",
     "url": "https://qiita.com/yusabana/items/db44b81bdddf6ed0e9f5",
-    "likes_count": 262,
+    "likes_count": 263,
     "created_at": "2014-07-30T09:12:57+09:00",
     "updated_at": "2015-07-01T21:02:42+09:00",
     "id": "yusabana"
