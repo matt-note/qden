@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 4072,
+    "likes_count": 4070,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2730,
+    "likes_count": 2729,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2658,
+    "likes_count": 2657,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -34,7 +34,7 @@
   {
     "title": "わかるLSTM ～ 最近の動向と共に",
     "url": "https://qiita.com/t_Signull/items/21b82be280b46f467d1b",
-    "likes_count": 2239,
+    "likes_count": 2240,
     "created_at": "2015-12-14T23:24:11+09:00",
     "updated_at": "2016-06-17T23:59:26+09:00",
     "id": "t_Signull"
@@ -66,7 +66,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1612,
+    "likes_count": 1614,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -90,7 +90,7 @@
   {
     "title": "Ubuntuに最新のNode.jsを難なくインストールする",
     "url": "https://qiita.com/seibe/items/36cef7df85fe2cefa3ea",
-    "likes_count": 1374,
+    "likes_count": 1375,
     "created_at": "2015-12-11T01:45:30+09:00",
     "updated_at": "2019-02-10T15:24:12+09:00",
     "id": "seibe"
@@ -330,7 +330,7 @@
   {
     "title": "気をつけて！Git for Windowsにおける改行コード",
     "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 548,
+    "likes_count": 549,
     "created_at": "2015-12-25T23:01:51+09:00",
     "updated_at": "2018-12-11T08:34:12+09:00",
     "id": "uggds"
@@ -380,7 +380,7 @@
     "url": "https://qiita.com/bezeklik/items/72d1ff8393f66673e2bc",
     "likes_count": 475,
     "created_at": "2015-12-14T11:55:09+09:00",
-    "updated_at": "2021-08-16T11:30:15+09:00",
+    "updated_at": "2021-10-30T08:24:06+09:00",
     "id": "bezeklik"
   },
   {
@@ -464,20 +464,20 @@
     "id": "lovee"
   },
   {
-    "title": "namespaceの賢い使い方",
-    "url": "https://qiita.com/_EnumHack/items/430da105a541f9ecd774",
-    "likes_count": 419,
-    "created_at": "2015-12-24T03:59:50+09:00",
-    "updated_at": "2020-05-28T18:15:40+09:00",
-    "id": "_EnumHack"
-  },
-  {
     "title": "うっかり起動してしまった時間のかかるプロセスをtmux上に付け替えたい",
     "url": "https://qiita.com/__cooper/items/c0d21cf24436621052c3",
     "likes_count": 418,
     "created_at": "2015-12-15T18:05:03+09:00",
     "updated_at": "2015-12-15T21:29:52+09:00",
     "id": "__cooper"
+  },
+  {
+    "title": "namespaceの賢い使い方",
+    "url": "https://qiita.com/_EnumHack/items/430da105a541f9ecd774",
+    "likes_count": 418,
+    "created_at": "2015-12-24T03:59:50+09:00",
+    "updated_at": "2020-05-28T18:15:40+09:00",
+    "id": "_EnumHack"
   },
   {
     "title": "Chainerを使ってコンピュータにイラストを描かせる",
@@ -536,20 +536,20 @@
     "id": "satoyan419"
   },
   {
-    "title": "もっと便利になれる zsh プラグインによる CLI ライフ",
-    "url": "https://qiita.com/b4b4r07/items/f37aadef0b3f740e8c14",
-    "likes_count": 381,
-    "created_at": "2015-12-15T18:59:59+09:00",
-    "updated_at": "2018-01-29T13:20:49+09:00",
-    "id": "b4b4r07"
-  },
-  {
     "title": "Togetter的な社内Slackまとめサイトをつくった話",
     "url": "https://qiita.com/ru_shalm/items/32160b23df535ed78967",
     "likes_count": 381,
     "created_at": "2015-12-18T00:00:59+09:00",
     "updated_at": "2015-12-22T03:34:19+09:00",
     "id": "ru_shalm"
+  },
+  {
+    "title": "もっと便利になれる zsh プラグインによる CLI ライフ",
+    "url": "https://qiita.com/b4b4r07/items/f37aadef0b3f740e8c14",
+    "likes_count": 380,
+    "created_at": "2015-12-15T18:59:59+09:00",
+    "updated_at": "2018-01-29T13:20:49+09:00",
+    "id": "b4b4r07"
   },
   {
     "title": "ニコニコ動画の公開コメントデータをDeep Learningで解析する",
@@ -592,14 +592,6 @@
     "id": "devopsCoordinator"
   },
   {
-    "title": "異常検知と変化検知のまとめ　数式なし",
-    "url": "https://qiita.com/GushiSnow/items/f032806cfa8cec046318",
-    "likes_count": 348,
-    "created_at": "2015-12-17T00:00:49+09:00",
-    "updated_at": "2015-12-17T00:00:49+09:00",
-    "id": "GushiSnow"
-  },
-  {
     "title": "C99からC++14を駆け抜けるC++講座",
     "url": "https://qiita.com/yumetodo/items/e49a673afd9a3ecb81a8",
     "likes_count": 348,
@@ -614,6 +606,14 @@
     "created_at": "2015-12-19T16:02:05+09:00",
     "updated_at": "2015-12-19T16:02:05+09:00",
     "id": "dtan4"
+  },
+  {
+    "title": "異常検知と変化検知のまとめ　数式なし",
+    "url": "https://qiita.com/GushiSnow/items/f032806cfa8cec046318",
+    "likes_count": 347,
+    "created_at": "2015-12-17T00:00:49+09:00",
+    "updated_at": "2015-12-17T00:00:49+09:00",
+    "id": "GushiSnow"
   },
   {
     "title": "まだ oh-my-zsh で消耗してるの？",
