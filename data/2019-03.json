@@ -10,7 +10,7 @@
   {
     "title": "[ver 1.2] Git でよく使われるコマンドにイラストによる説明を加えて1枚のチートシートにまとめてみた",
     "url": "https://qiita.com/kozzy/items/b42ba59a8bac190a16ab",
-    "likes_count": 2449,
+    "likes_count": 2448,
     "created_at": "2019-03-02T21:07:11+09:00",
     "updated_at": "2019-10-31T11:03:34+09:00",
     "id": "kozzy"
@@ -130,7 +130,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 946,
+    "likes_count": 947,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -162,7 +162,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 848,
+    "likes_count": 849,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -202,7 +202,7 @@
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 722,
+    "likes_count": 723,
     "created_at": "2019-03-14T23:15:05+09:00",
     "updated_at": "2020-12-13T21:40:32+09:00",
     "id": "nrslib"
@@ -266,7 +266,7 @@
   {
     "title": "なんとなくVue.jsのUIフレームワークを紹介する",
     "url": "https://qiita.com/yusuke_ten/items/4103f032dd0c6fbe5607",
-    "likes_count": 629,
+    "likes_count": 628,
     "created_at": "2019-03-05T17:07:02+09:00",
     "updated_at": "2019-03-06T09:00:57+09:00",
     "id": "yusuke_ten"
@@ -298,10 +298,18 @@
   {
     "title": "Pythonのコードをきれいに書くコツ",
     "url": "https://qiita.com/kaiware7/items/28d973a653e9825ed582",
-    "likes_count": 589,
+    "likes_count": 588,
     "created_at": "2019-03-31T22:38:24+09:00",
     "updated_at": "2019-04-03T12:23:43+09:00",
     "id": "kaiware7"
+  },
+  {
+    "title": "Go / Gin で超簡単なWebアプリを作る",
+    "url": "https://qiita.com/hyo_07/items/59c093dda143325b1859",
+    "likes_count": 576,
+    "created_at": "2019-03-17T22:20:05+09:00",
+    "updated_at": "2020-01-21T02:09:21+09:00",
+    "id": "hyo_07"
   },
   {
     "title": "非デザイナーのためのWebデザイン開発ガイド - デザインはセンスではない、スキルだ",
@@ -310,14 +318,6 @@
     "created_at": "2019-03-18T20:36:51+09:00",
     "updated_at": "2021-06-10T00:58:21+09:00",
     "id": "rana_kualu"
-  },
-  {
-    "title": "Go / Gin で超簡単なWebアプリを作る",
-    "url": "https://qiita.com/hyo_07/items/59c093dda143325b1859",
-    "likes_count": 575,
-    "created_at": "2019-03-17T22:20:05+09:00",
-    "updated_at": "2020-01-21T02:09:21+09:00",
-    "id": "hyo_07"
   },
   {
     "title": "Linuxを触りたての頃に知っておきたかったよ〜ってことのまとめ",
@@ -354,7 +354,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -378,7 +378,7 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"

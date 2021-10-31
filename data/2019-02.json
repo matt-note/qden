@@ -58,7 +58,7 @@
   {
     "title": "AtCoderの問題を分類しました",
     "url": "https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54",
-    "likes_count": 940,
+    "likes_count": 941,
     "created_at": "2019-02-26T18:22:38+09:00",
     "updated_at": "2021-08-15T17:15:31+09:00",
     "id": "KoyanagiHitoshi"
@@ -96,6 +96,14 @@
     "id": "uhyo"
   },
   {
+    "title": "新人ではないがGit初心者であるエンジニアが「このリポジトリをフォークしてローカルで開発できるようにしておいて！」と言われた時にやること",
+    "url": "https://qiita.com/sky0621/items/8b6e88f4327b42ade5d7",
+    "likes_count": 817,
+    "created_at": "2019-02-14T01:04:39+09:00",
+    "updated_at": "2020-09-28T22:59:40+09:00",
+    "id": "sky0621"
+  },
+  {
     "title": "TypeScript + Node.js プロジェクトのはじめかた2020",
     "url": "https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49",
     "likes_count": 813,
@@ -110,14 +118,6 @@
     "created_at": "2019-02-15T19:00:17+09:00",
     "updated_at": "2020-07-09T16:08:57+09:00",
     "id": "ucan-lab"
-  },
-  {
-    "title": "新人ではないがGit初心者であるエンジニアが「このリポジトリをフォークしてローカルで開発できるようにしておいて！」と言われた時にやること",
-    "url": "https://qiita.com/sky0621/items/8b6e88f4327b42ade5d7",
-    "likes_count": 799,
-    "created_at": "2019-02-14T01:04:39+09:00",
-    "updated_at": "2020-09-28T22:59:40+09:00",
-    "id": "sky0621"
   },
   {
     "title": "📃 Webページをそのままの状態でローカルに保存するツールを作った話",
@@ -178,7 +178,7 @@
   {
     "title": "やってみようNoSQL　MongoDBを最速で理解する",
     "url": "https://qiita.com/Brutus/items/8a67a4db0fdc5a33d549",
-    "likes_count": 649,
+    "likes_count": 650,
     "created_at": "2019-02-19T01:01:37+09:00",
     "updated_at": "2021-02-15T20:49:48+09:00",
     "id": "Brutus"
@@ -224,20 +224,20 @@
     "id": "Hailee"
   },
   {
+    "title": "TypeScriptの型演習",
+    "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
+    "likes_count": 562,
+    "created_at": "2019-02-23T18:09:59+09:00",
+    "updated_at": "2020-05-22T11:16:41+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "データサイエンスや機械学習のチートシートを最も効率的に収集する方法",
     "url": "https://qiita.com/stakemura/items/ad66a1d6b9ff6311fb9e",
     "likes_count": 561,
     "created_at": "2019-02-23T03:31:09+09:00",
     "updated_at": "2019-02-23T03:31:09+09:00",
     "id": "stakemura"
-  },
-  {
-    "title": "TypeScriptの型演習",
-    "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 561,
-    "created_at": "2019-02-23T18:09:59+09:00",
-    "updated_at": "2020-05-22T11:16:41+09:00",
-    "id": "uhyo"
   },
   {
     "title": "あなたの文章に合った「いらすとや」画像をレコメンド♪（機能概要編）",
@@ -258,7 +258,7 @@
   {
     "title": "エンジニアは最初の会社を1年程度で辞めた方がよい理由",
     "url": "https://qiita.com/poly_soft/items/6868a390cb2d47542e59",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2019-02-03T11:20:07+09:00",
     "updated_at": "2019-03-11T19:35:12+09:00",
     "id": "poly_soft"
@@ -314,7 +314,7 @@
   {
     "title": "今さら聞けない？Vue Router",
     "url": "https://qiita.com/hshota28/items/765cf903f055754f7557",
-    "likes_count": 449,
+    "likes_count": 448,
     "created_at": "2019-02-25T04:17:35+09:00",
     "updated_at": "2019-02-25T15:34:55+09:00",
     "id": "hshota28"
@@ -354,7 +354,7 @@
   {
     "title": "【入門者向け】機械学習の分類問題評価指標解説(正解率・適合率・再現率など)",
     "url": "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "likes_count": 405,
+    "likes_count": 409,
     "created_at": "2019-03-01T06:19:45+09:00",
     "updated_at": "2021-03-25T11:53:25+09:00",
     "id": "FukuharaYohei"
@@ -402,7 +402,7 @@
   {
     "title": "Dockerで環境構築するための最低限の概念理解",
     "url": "https://qiita.com/minato-naka/items/e9cd026747693759800c",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2019-02-22T20:13:22+09:00",
     "updated_at": "2021-04-22T16:31:43+09:00",
     "id": "minato-naka"
@@ -490,7 +490,7 @@
   {
     "title": "【読解入門】Linuxカーネル （概要編）",
     "url": "https://qiita.com/ueba/items/47b6de5ea8f4e6749f8f",
-    "likes_count": 251,
+    "likes_count": 250,
     "created_at": "2019-02-13T18:01:50+09:00",
     "updated_at": "2019-12-20T09:29:34+09:00",
     "id": "ueba"
