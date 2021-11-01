@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1770,
+    "likes_count": 1772,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -34,7 +34,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1413,
+    "likes_count": 1414,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -42,7 +42,7 @@
   {
     "title": "JavaScript で forEach を使うのは最終手段",
     "url": "https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce",
-    "likes_count": 1361,
+    "likes_count": 1362,
     "created_at": "2018-12-01T23:55:04+09:00",
     "updated_at": "2021-07-15T22:07:14+09:00",
     "id": "diescake"
@@ -66,7 +66,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1218,
+    "likes_count": 1219,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -82,7 +82,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1196,
+    "likes_count": 1197,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -306,7 +306,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -338,7 +338,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 513,
+    "likes_count": 514,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2021-07-12T12:15:57+09:00",
     "id": "syantien"
@@ -434,7 +434,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -506,7 +506,7 @@
   {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2018-12-21T10:13:58+09:00",
     "updated_at": "2021-01-04T01:36:10+09:00",
     "id": "naokiiiii"
@@ -546,10 +546,18 @@
   {
     "title": "今更だけど、SREとは何かについてまとめる",
     "url": "https://qiita.com/masao-kunii/items/f96a89a0cdff66c108fd",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2018-12-10T19:27:28+09:00",
     "updated_at": "2018-12-10T20:48:49+09:00",
     "id": "masao-kunii"
+  },
+  {
+    "title": "Web API初心者と学ぶGraphQL",
+    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
+    "likes_count": 368,
+    "created_at": "2018-12-20T03:46:56+09:00",
+    "updated_at": "2021-10-12T15:09:10+09:00",
+    "id": "SiragumoHuin"
   },
   {
     "title": "SOLID原則について簡単に書く",
@@ -558,14 +566,6 @@
     "created_at": "2018-12-08T16:42:44+09:00",
     "updated_at": "2020-01-15T16:33:13+09:00",
     "id": "yui_mop"
-  },
-  {
-    "title": "Web API初心者と学ぶGraphQL",
-    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 367,
-    "created_at": "2018-12-20T03:46:56+09:00",
-    "updated_at": "2021-10-12T15:09:10+09:00",
-    "id": "SiragumoHuin"
   },
   {
     "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
@@ -674,7 +674,7 @@
   {
     "title": "【Python】とっても便利な正規表現！",
     "url": "https://qiita.com/hiroyuki_mrp/items/29e87bf5fe46de62983c",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2018-12-02T12:22:46+09:00",
     "updated_at": "2020-07-31T01:30:18+09:00",
     "id": "hiroyuki_mrp"
@@ -754,7 +754,7 @@
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
     "url": "https://qiita.com/riversun/items/c924cfe70e16ee3fe3ba",
-    "likes_count": 266,
+    "likes_count": 267,
     "created_at": "2018-12-16T08:41:24+09:00",
     "updated_at": "2018-12-18T21:05:54+09:00",
     "id": "riversun"
