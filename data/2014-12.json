@@ -10,7 +10,7 @@
   {
     "title": "最近の行儀のよい JavaScript の書き方",
     "url": "https://qiita.com/kaiinui/items/22a75d2adc56a40da7b7",
-    "likes_count": 2368,
+    "likes_count": 2367,
     "created_at": "2014-12-21T03:59:19+09:00",
     "updated_at": "2016-12-02T16:18:05+09:00",
     "id": "kaiinui"
@@ -18,7 +18,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2345,
+    "likes_count": 2347,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1812,
+    "likes_count": 1813,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2021-02-11T09:21:27+09:00",
     "id": "jnchito"
@@ -50,7 +50,7 @@
   {
     "title": "JSON Web Token の効用",
     "url": "https://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a",
-    "likes_count": 1419,
+    "likes_count": 1418,
     "created_at": "2014-12-14T18:43:28+09:00",
     "updated_at": "2017-06-12T14:23:23+09:00",
     "id": "kaiinui"
@@ -154,7 +154,7 @@
   {
     "title": "UIViewControllerのライフサイクル",
     "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 767,
+    "likes_count": 768,
     "created_at": "2014-12-24T22:11:02+09:00",
     "updated_at": "2014-12-24T22:11:02+09:00",
     "id": "motokiee"
@@ -178,10 +178,18 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 748,
+    "likes_count": 749,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
+  },
+  {
+    "title": "初心者向けGithubへのPullRequest方法",
+    "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
+    "likes_count": 744,
+    "created_at": "2014-12-17T23:28:14+09:00",
+    "updated_at": "2014-12-19T09:14:55+09:00",
+    "id": "samurai_runner"
   },
   {
     "title": "B-treeインデックス入門",
@@ -190,14 +198,6 @@
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
-  },
-  {
-    "title": "初心者向けGithubへのPullRequest方法",
-    "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
-    "likes_count": 743,
-    "created_at": "2014-12-17T23:28:14+09:00",
-    "updated_at": "2014-12-19T09:14:55+09:00",
-    "id": "samurai_runner"
   },
   {
     "title": "IE10 以下を切る場合の JavaScript チェックリスト",
@@ -570,7 +570,7 @@
   {
     "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
     "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2014-12-18T22:53:36+09:00",
     "updated_at": "2015-02-14T18:30:30+09:00",
     "id": "y_hokkey"
@@ -776,20 +776,20 @@
     "id": "yoda2020"
   },
   {
-    "title": "[iOS]FabricでTwitterクライアントを作った",
-    "url": "https://qiita.com/daichiro/items/bf0460f420acac3c04fc",
-    "likes_count": 267,
-    "created_at": "2014-12-08T03:02:54+09:00",
-    "updated_at": "2015-03-11T02:29:11+09:00",
-    "id": "daichiro"
-  },
-  {
     "title": "AWSでデプロイとスケーリングを自動化する方法まとめ",
     "url": "https://qiita.com/hiro_koba_jp/items/eb438945d64c3d765e04",
     "likes_count": 267,
     "created_at": "2014-12-24T00:00:35+09:00",
     "updated_at": "2014-12-25T11:18:46+09:00",
     "id": "hiro_koba_jp"
+  },
+  {
+    "title": "[iOS]FabricでTwitterクライアントを作った",
+    "url": "https://qiita.com/daichiro/items/bf0460f420acac3c04fc",
+    "likes_count": 266,
+    "created_at": "2014-12-08T03:02:54+09:00",
+    "updated_at": "2015-03-11T02:29:11+09:00",
+    "id": "daichiro"
   },
   {
     "title": "Unity2Dのこれだけは覚えておけ！集",

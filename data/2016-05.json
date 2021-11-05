@@ -10,7 +10,7 @@
   {
     "title": "Reactを使うとなぜjQueryが要らなくなるのか",
     "url": "https://qiita.com/naruto/items/fdb61bc743395f8d8faf",
-    "likes_count": 4440,
+    "likes_count": 4439,
     "created_at": "2016-05-09T11:45:42+09:00",
     "updated_at": "2020-08-13T19:13:42+09:00",
     "id": "naruto"
@@ -26,7 +26,7 @@
   {
     "title": "HTTP/1.1 200 OK",
     "url": "https://qiita.com/katanov/items/1d99d27844392e380ec7",
-    "likes_count": 1670,
+    "likes_count": 1669,
     "created_at": "2016-05-10T00:11:37+09:00",
     "updated_at": "2016-05-11T21:22:29+09:00",
     "id": "katanov"
@@ -42,7 +42,7 @@
   {
     "title": "redux-sagaで非同期処理と戦う",
     "url": "https://qiita.com/kuy/items/716affc808ebb3e1e8ac",
-    "likes_count": 1288,
+    "likes_count": 1289,
     "created_at": "2016-05-13T16:48:05+09:00",
     "updated_at": "2018-02-05T09:08:38+09:00",
     "id": "kuy"
@@ -74,7 +74,7 @@
   {
     "title": "オブジェクト指向と20年戦ってわかったこと",
     "url": "https://qiita.com/shibukawa/items/2698b980933367ad93b4",
-    "likes_count": 1054,
+    "likes_count": 1053,
     "created_at": "2016-05-09T16:01:30+09:00",
     "updated_at": "2021-02-04T07:42:41+09:00",
     "id": "shibukawa"
@@ -82,7 +82,7 @@
   {
     "title": "Linuxパフォーマンス調査などで使うコマンドメモ",
     "url": "https://qiita.com/toshihirock/items/0e0b20064730469e93e6",
-    "likes_count": 1046,
+    "likes_count": 1047,
     "created_at": "2016-05-02T22:25:17+09:00",
     "updated_at": "2016-05-02T22:25:17+09:00",
     "id": "toshihirock"
@@ -90,7 +90,7 @@
   {
     "title": "ちゃんと使い分けてる? dependenciesいろいろ。",
     "url": "https://qiita.com/cognitom/items/acc3ffcbca4c56cf2b95",
-    "likes_count": 1013,
+    "likes_count": 1014,
     "created_at": "2016-05-09T18:27:57+09:00",
     "updated_at": "2016-05-09T22:51:53+09:00",
     "id": "cognitom"
@@ -106,7 +106,7 @@
   {
     "title": "LaravelのORMで初心者から職人へ",
     "url": "https://qiita.com/henriquebremenkanp/items/cd13944b0281297217a9",
-    "likes_count": 845,
+    "likes_count": 846,
     "created_at": "2016-05-29T19:05:09+09:00",
     "updated_at": "2020-09-14T15:51:02+09:00",
     "id": "henriquebremenkanp"
@@ -170,7 +170,7 @@
   {
     "title": "[翻訳] Airbnb React/JSX Style Guide",
     "url": "https://qiita.com/yamadashy/items/e64762e407b8dd5e0247",
-    "likes_count": 662,
+    "likes_count": 663,
     "created_at": "2016-05-29T17:19:44+09:00",
     "updated_at": "2021-06-03T23:57:55+09:00",
     "id": "yamadashy"
@@ -202,7 +202,7 @@
   {
     "title": "Googleスプレッドシートをプログラムから操作",
     "url": "https://qiita.com/howdy39/items/ca719537bba676dce1cf",
-    "likes_count": 608,
+    "likes_count": 609,
     "created_at": "2016-05-22T03:02:07+09:00",
     "updated_at": "2021-10-23T07:33:36+09:00",
     "id": "howdy39"
@@ -256,20 +256,20 @@
     "id": "Reyurnible"
   },
   {
+    "title": "git tagの使い方まとめ",
+    "url": "https://qiita.com/growsic/items/ed67e03fda5ab7ef9d08",
+    "likes_count": 539,
+    "created_at": "2016-05-16T21:37:49+09:00",
+    "updated_at": "2021-01-12T08:00:19+09:00",
+    "id": "growsic"
+  },
+  {
     "title": "初めてのnpm パッケージ公開",
     "url": "https://qiita.com/TsutomuNakamura/items/f943e0490d509f128ae2",
     "likes_count": 538,
     "created_at": "2016-05-10T06:51:33+09:00",
     "updated_at": "2019-10-03T22:38:24+09:00",
     "id": "TsutomuNakamura"
-  },
-  {
-    "title": "git tagの使い方まとめ",
-    "url": "https://qiita.com/growsic/items/ed67e03fda5ab7ef9d08",
-    "likes_count": 538,
-    "created_at": "2016-05-16T21:37:49+09:00",
-    "updated_at": "2021-01-12T08:00:19+09:00",
-    "id": "growsic"
   },
   {
     "title": "PHPで日付時刻処理を書くならCarbonを使うべき",
@@ -384,20 +384,20 @@
     "id": "Kei18"
   },
   {
+    "title": "nodenv を使って Mac に Node.js の環境を構築する",
+    "url": "https://qiita.com/1000ch/items/41ea7caffe8c42c5211c",
+    "likes_count": 370,
+    "created_at": "2016-05-05T11:21:51+09:00",
+    "updated_at": "2020-08-13T10:10:59+09:00",
+    "id": "1000ch"
+  },
+  {
     "title": "ElectronアプリのXSSでrm -fr /を実行する",
     "url": "https://qiita.com/akameco/items/cc6fc949e7c9f0d1a42a",
     "likes_count": 370,
     "created_at": "2016-05-21T21:28:20+09:00",
     "updated_at": "2019-06-27T17:13:34+09:00",
     "id": "akameco"
-  },
-  {
-    "title": "nodenv を使って Mac に Node.js の環境を構築する",
-    "url": "https://qiita.com/1000ch/items/41ea7caffe8c42c5211c",
-    "likes_count": 369,
-    "created_at": "2016-05-05T11:21:51+09:00",
-    "updated_at": "2020-08-13T10:10:59+09:00",
-    "id": "1000ch"
   },
   {
     "title": "色んなiOSアプリが使っているオープンソースライブラリを調べた",
@@ -554,7 +554,7 @@
   {
     "title": "HTML5 Canvas 入門",
     "url": "https://qiita.com/kyrieleison/items/a3ebf7c55295c3e7d8f0",
-    "likes_count": 258,
+    "likes_count": 259,
     "created_at": "2016-05-17T21:57:54+09:00",
     "updated_at": "2018-06-22T20:13:11+09:00",
     "id": "kyrieleison"
