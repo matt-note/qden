@@ -42,7 +42,7 @@
   {
     "title": "知識0から始めるVim講座",
     "url": "https://qiita.com/JpnLavender/items/fabcc79b4ab0d52e1f6d",
-    "likes_count": 1777,
+    "likes_count": 1778,
     "created_at": "2016-04-20T13:39:15+09:00",
     "updated_at": "2016-07-18T12:55:03+09:00",
     "id": "JpnLavender"
@@ -138,7 +138,7 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 846,
+    "likes_count": 845,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
@@ -154,7 +154,7 @@
   {
     "title": "【噂】IT業界のウソ・ホント【闇】",
     "url": "https://qiita.com/netetahito/items/a317345b4e059267f879",
-    "likes_count": 814,
+    "likes_count": 813,
     "created_at": "2016-04-26T12:21:50+09:00",
     "updated_at": "2019-02-06T11:51:41+09:00",
     "id": "netetahito"
@@ -200,20 +200,20 @@
     "id": "masahikoofjoyto"
   },
   {
+    "title": "中級以上のAndroid開発者がAndroidらしい開発のために見たほうが良いURL一覧",
+    "url": "https://qiita.com/yuya_presto/items/ab2162078e5d5076c718",
+    "likes_count": 673,
+    "created_at": "2016-04-28T17:36:36+09:00",
+    "updated_at": "2016-05-13T12:43:26+09:00",
+    "id": "yuya_presto"
+  },
+  {
     "title": "カフェでトイレに行ってるときに、Macが盗まれそうになるとGet Wildが流れるようにする",
     "url": "https://qiita.com/sion_cojp/items/276d0135216b88e5314b",
     "likes_count": 672,
     "created_at": "2016-04-04T00:07:28+09:00",
     "updated_at": "2016-04-05T17:57:20+09:00",
     "id": "sion_cojp"
-  },
-  {
-    "title": "中級以上のAndroid開発者がAndroidらしい開発のために見たほうが良いURL一覧",
-    "url": "https://qiita.com/yuya_presto/items/ab2162078e5d5076c718",
-    "likes_count": 672,
-    "created_at": "2016-04-28T17:36:36+09:00",
-    "updated_at": "2016-05-13T12:43:26+09:00",
-    "id": "yuya_presto"
   },
   {
     "title": "Visual Studio Code チートシート",
@@ -266,7 +266,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 553,
+    "likes_count": 554,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -274,10 +274,18 @@
   {
     "title": "Linux screenコマンド使い方",
     "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
-    "likes_count": 537,
+    "likes_count": 538,
     "created_at": "2016-04-06T08:44:32+09:00",
     "updated_at": "2019-12-25T19:10:52+09:00",
     "id": "hnishi"
+  },
+  {
+    "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
+    "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
+    "likes_count": 532,
+    "created_at": "2016-04-17T14:14:54+09:00",
+    "updated_at": "2021-04-05T07:56:27+09:00",
+    "id": "dai-takahashi"
   },
   {
     "title": "SSL/TLS（SSL3.0～TLS1.2）のハンドシェイクを復習する",
@@ -286,14 +294,6 @@
     "created_at": "2016-04-12T00:17:03+09:00",
     "updated_at": "2018-09-03T18:51:40+09:00",
     "id": "n-i-e"
-  },
-  {
-    "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
-    "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 531,
-    "created_at": "2016-04-17T14:14:54+09:00",
-    "updated_at": "2021-04-05T07:56:27+09:00",
-    "id": "dai-takahashi"
   },
   {
     "title": "ttyとかptsとかについて確認してみる",
