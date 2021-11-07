@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 4918,
+    "likes_count": 4917,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2646,
+    "likes_count": 2645,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -50,7 +50,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1532,
+    "likes_count": 1533,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-11-03T00:05:43+09:00",
     "id": "soarflat"
@@ -58,7 +58,7 @@
   {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1398,
+    "likes_count": 1399,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
@@ -82,7 +82,7 @@
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
     "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1131,
+    "likes_count": 1132,
     "created_at": "2016-12-28T10:13:50+09:00",
     "updated_at": "2016-12-29T00:03:57+09:00",
     "id": "kunihirotanaka"
@@ -146,7 +146,7 @@
   {
     "title": "絵で理解するWord2vecの仕組み",
     "url": "https://qiita.com/Hironsan/items/11b388575a058dc8a46a",
-    "likes_count": 895,
+    "likes_count": 894,
     "created_at": "2016-12-10T10:26:38+09:00",
     "updated_at": "2016-12-10T12:50:54+09:00",
     "id": "Hironsan"
@@ -218,7 +218,7 @@
   {
     "title": "2016年のディープラーニング論文100選",
     "url": "https://qiita.com/sakaiakira/items/9da1edda802c4884865c",
-    "likes_count": 711,
+    "likes_count": 710,
     "created_at": "2016-12-11T17:19:10+09:00",
     "updated_at": "2017-12-18T13:16:57+09:00",
     "id": "sakaiakira"
@@ -250,7 +250,7 @@
   {
     "title": "電気工事士の資格を取ってコンセントやスイッチを改造しようぜ",
     "url": "https://qiita.com/rukihena/items/a30f07f93ca1718dff8e",
-    "likes_count": 661,
+    "likes_count": 662,
     "created_at": "2016-12-03T01:44:10+09:00",
     "updated_at": "2020-01-14T17:40:54+09:00",
     "id": "rukihena"
@@ -290,18 +290,10 @@
   {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
     "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
-    "likes_count": 631,
+    "likes_count": 630,
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
-  },
-  {
-    "title": "難しいGitコマンドは、仕組みから理解してみよう",
-    "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
-    "likes_count": 625,
-    "created_at": "2016-12-22T00:02:20+09:00",
-    "updated_at": "2018-11-13T23:20:28+09:00",
-    "id": "_ha1f"
   },
   {
     "title": "Amazon Dash ButtonをただのIoTボタンとして使う",
@@ -312,9 +304,17 @@
     "id": "jsoizo"
   },
   {
+    "title": "難しいGitコマンドは、仕組みから理解してみよう",
+    "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
+    "likes_count": 624,
+    "created_at": "2016-12-22T00:02:20+09:00",
+    "updated_at": "2018-11-13T23:20:28+09:00",
+    "id": "_ha1f"
+  },
+  {
     "title": "原理原則で理解するDocker",
     "url": "https://qiita.com/tajima_taso/items/28938415846dcc2e83ff",
-    "likes_count": 620,
+    "likes_count": 621,
     "created_at": "2016-12-23T06:40:30+09:00",
     "updated_at": "2016-12-26T12:42:54+09:00",
     "id": "tajima_taso"
@@ -378,7 +378,7 @@
   {
     "title": "Wordさんは今日もおつかれです",
     "url": "https://qiita.com/kaityo256/items/c15889dbb7acb2632c6e",
-    "likes_count": 506,
+    "likes_count": 507,
     "created_at": "2016-12-25T17:06:50+09:00",
     "updated_at": "2018-09-19T23:24:32+09:00",
     "id": "kaityo256"
@@ -474,7 +474,7 @@
   {
     "title": "府大生が趣味で世界一の認識精度を持つニューラルネットワークを開発してしまった論文を読んだ",
     "url": "https://qiita.com/yu4u/items/4a35b47d5cab8463a4cb",
-    "likes_count": 440,
+    "likes_count": 439,
     "created_at": "2016-12-20T23:56:03+09:00",
     "updated_at": "2017-02-23T01:23:26+09:00",
     "id": "yu4u"
@@ -530,7 +530,7 @@
   {
     "title": "まだ Word で消耗してるの？ 大学のレポートを Markdown で書こう",
     "url": "https://qiita.com/Kumassy/items/5b6ae6b99df08fb434d9",
-    "likes_count": 416,
+    "likes_count": 415,
     "created_at": "2016-12-12T22:58:32+09:00",
     "updated_at": "2019-05-08T12:22:08+09:00",
     "id": "Kumassy"
@@ -562,7 +562,7 @@
   {
     "title": "機械学習を1ヵ月で実践レベルにする #1 (とっかかり編)",
     "url": "https://qiita.com/junichiro/items/ee50af10df77d52cd432",
-    "likes_count": 372,
+    "likes_count": 371,
     "created_at": "2016-12-14T23:08:04+09:00",
     "updated_at": "2017-01-10T18:08:42+09:00",
     "id": "junichiro"
@@ -584,20 +584,20 @@
     "id": "wakaba130"
   },
   {
-    "title": "今から新規でiOSアプリを書き始めるなら。2016年冬",
-    "url": "https://qiita.com/yimajo/items/5a7333fd709e625b60da",
-    "likes_count": 353,
-    "created_at": "2016-12-04T13:04:33+09:00",
-    "updated_at": "2016-12-05T14:18:00+09:00",
-    "id": "yimajo"
-  },
-  {
     "title": "あなたはDRY原則を誤認している？",
     "url": "https://qiita.com/yatmsu/items/b4a84c4ae78fd67a364c",
     "likes_count": 353,
     "created_at": "2016-12-06T22:47:20+09:00",
     "updated_at": "2018-07-29T19:19:28+09:00",
     "id": "yatmsu"
+  },
+  {
+    "title": "今から新規でiOSアプリを書き始めるなら。2016年冬",
+    "url": "https://qiita.com/yimajo/items/5a7333fd709e625b60da",
+    "likes_count": 352,
+    "created_at": "2016-12-04T13:04:33+09:00",
+    "updated_at": "2016-12-05T14:18:00+09:00",
+    "id": "yimajo"
   },
   {
     "title": "LSTMを超える期待の新星、QRNN",
@@ -698,7 +698,7 @@
   {
     "title": "logrotate入門",
     "url": "https://qiita.com/zom/items/c72c7bac63462225971b",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2016-12-03T23:59:38+09:00",
     "updated_at": "2017-08-16T21:16:58+09:00",
     "id": "zom"
@@ -712,20 +712,20 @@
     "id": "mizno"
   },
   {
-    "title": "怖くない！AutoLayout 〜多画面対応 with Storyboard〜",
-    "url": "https://qiita.com/_ha1f/items/5c292bb6a4617da60d4f",
-    "likes_count": 302,
-    "created_at": "2016-12-18T17:35:40+09:00",
-    "updated_at": "2020-06-26T13:05:03+09:00",
-    "id": "_ha1f"
-  },
-  {
     "title": "Docker & Docker-Composeの基本的な使い方",
     "url": "https://qiita.com/koka/items/3d3d4ee5680f92a0ad89",
     "likes_count": 301,
     "created_at": "2016-12-05T00:10:58+09:00",
     "updated_at": "2016-12-05T00:13:22+09:00",
     "id": "koka"
+  },
+  {
+    "title": "怖くない！AutoLayout 〜多画面対応 with Storyboard〜",
+    "url": "https://qiita.com/_ha1f/items/5c292bb6a4617da60d4f",
+    "likes_count": 301,
+    "created_at": "2016-12-18T17:35:40+09:00",
+    "updated_at": "2020-06-26T13:05:03+09:00",
+    "id": "_ha1f"
   },
   {
     "title": "【React Native】良さげなコンポーネント紹介",
@@ -752,20 +752,20 @@
     "id": "yunico-jp"
   },
   {
+    "title": "DB未経験の新米エンジニアが読んだ書籍を時系列順に紹介",
+    "url": "https://qiita.com/maaaaaaaa/items/4e1d84cb40c83004575f",
+    "likes_count": 272,
+    "created_at": "2016-12-09T18:01:44+09:00",
+    "updated_at": "2019-10-17T17:54:30+09:00",
+    "id": "maaaaaaaa"
+  },
+  {
     "title": "使ってみよう！Jenkins 「Pipeline」",
     "url": "https://qiita.com/miyasakura_/items/9d9a8873c333cb9e9f43",
     "likes_count": 271,
     "created_at": "2016-12-05T00:01:49+09:00",
     "updated_at": "2017-01-24T18:05:26+09:00",
     "id": "miyasakura_"
-  },
-  {
-    "title": "DB未経験の新米エンジニアが読んだ書籍を時系列順に紹介",
-    "url": "https://qiita.com/maaaaaaaa/items/4e1d84cb40c83004575f",
-    "likes_count": 271,
-    "created_at": "2016-12-09T18:01:44+09:00",
-    "updated_at": "2019-10-17T17:54:30+09:00",
-    "id": "maaaaaaaa"
   },
   {
     "title": "大学ノート（ルーズリーフ）をモチーフとした手書きまとめノート風Webサイトを制作したときに使用したCSSテクニック",

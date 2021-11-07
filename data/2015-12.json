@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2662,
+    "likes_count": 2663,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2020-08-08T16:22:47+09:00",
     "id": "yasuhiroki"
@@ -34,7 +34,7 @@
   {
     "title": "わかるLSTM ～ 最近の動向と共に",
     "url": "https://qiita.com/t_Signull/items/21b82be280b46f467d1b",
-    "likes_count": 2241,
+    "likes_count": 2240,
     "created_at": "2015-12-14T23:24:11+09:00",
     "updated_at": "2016-06-17T23:59:26+09:00",
     "id": "t_Signull"
@@ -66,7 +66,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1619,
+    "likes_count": 1620,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -122,7 +122,7 @@
   {
     "title": "さいきょうの二重サブミット対策",
     "url": "https://qiita.com/syobochim/items/120109315f671918f28d",
-    "likes_count": 1238,
+    "likes_count": 1239,
     "created_at": "2015-12-23T00:06:40+09:00",
     "updated_at": "2015-12-23T11:28:45+09:00",
     "id": "syobochim"
@@ -130,7 +130,7 @@
   {
     "title": "本物の golang を... 本物の Gopher を、お見せしますよ。",
     "url": "https://qiita.com/mattn/items/b7889e3c036b408ae8bd",
-    "likes_count": 1207,
+    "likes_count": 1206,
     "created_at": "2015-12-17T00:00:44+09:00",
     "updated_at": "2017-02-03T12:32:49+09:00",
     "id": "mattn"
@@ -178,7 +178,7 @@
   {
     "title": "最強のPython統合開発環境PyCharm",
     "url": "https://qiita.com/yamionp/items/f88d50da8d6b548fc44c",
-    "likes_count": 899,
+    "likes_count": 898,
     "created_at": "2015-12-15T23:28:10+09:00",
     "updated_at": "2015-12-18T19:05:48+09:00",
     "id": "yamionp"
@@ -218,7 +218,7 @@
   {
     "title": "1年間真剣にJavaScriptに取り組んだ話",
     "url": "https://qiita.com/keitarou/items/17374d49f11d7b08cee9",
-    "likes_count": 804,
+    "likes_count": 803,
     "created_at": "2015-12-24T20:07:12+09:00",
     "updated_at": "2015-12-24T22:53:43+09:00",
     "id": "keitarou"
@@ -314,7 +314,7 @@
   {
     "title": "Juliaという速くて書きやすい言語をちょっとだけ覗いてみたんだが、なにやらワクワクするものがあったので報告しようと思う",
     "url": "https://qiita.com/sadayuki-matsuno/items/fc5e9ec3894a4b7bfbfb",
-    "likes_count": 573,
+    "likes_count": 572,
     "created_at": "2015-12-30T15:52:51+09:00",
     "updated_at": "2019-05-08T13:57:03+09:00",
     "id": "sadayuki-matsuno"
@@ -458,7 +458,7 @@
   {
     "title": "ガチで Swift でプログラム組んで1年経っての心得",
     "url": "https://qiita.com/lovee/items/555a5b76097347aa2367",
-    "likes_count": 420,
+    "likes_count": 419,
     "created_at": "2015-12-15T23:53:40+09:00",
     "updated_at": "2017-08-29T11:44:16+09:00",
     "id": "lovee"
@@ -536,20 +536,20 @@
     "id": "satoyan419"
   },
   {
-    "title": "もっと便利になれる zsh プラグインによる CLI ライフ",
-    "url": "https://qiita.com/b4b4r07/items/f37aadef0b3f740e8c14",
-    "likes_count": 381,
-    "created_at": "2015-12-15T18:59:59+09:00",
-    "updated_at": "2018-01-29T13:20:49+09:00",
-    "id": "b4b4r07"
-  },
-  {
     "title": "Togetter的な社内Slackまとめサイトをつくった話",
     "url": "https://qiita.com/rutan/items/32160b23df535ed78967",
     "likes_count": 381,
     "created_at": "2015-12-18T00:00:59+09:00",
     "updated_at": "2015-12-22T03:34:19+09:00",
     "id": "rutan"
+  },
+  {
+    "title": "もっと便利になれる zsh プラグインによる CLI ライフ",
+    "url": "https://qiita.com/b4b4r07/items/f37aadef0b3f740e8c14",
+    "likes_count": 380,
+    "created_at": "2015-12-15T18:59:59+09:00",
+    "updated_at": "2018-01-29T13:20:49+09:00",
+    "id": "b4b4r07"
   },
   {
     "title": "ニコニコ動画の公開コメントデータをDeep Learningで解析する",
@@ -674,7 +674,7 @@
   {
     "title": "[Python]Anacondaで仮想環境を作る",
     "url": "https://qiita.com/supersaiakujin/items/50def6f33b79f9a61b18",
-    "likes_count": 314,
+    "likes_count": 313,
     "created_at": "2015-12-26T17:56:11+09:00",
     "updated_at": "2016-02-15T12:51:15+09:00",
     "id": "supersaiakujin"

@@ -2,7 +2,7 @@
   {
     "title": "CSSのクラス名を決めるときに使うリストをつくりました",
     "url": "https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470",
-    "likes_count": 3166,
+    "likes_count": 3167,
     "created_at": "2016-10-07T10:20:53+09:00",
     "updated_at": "2018-09-05T15:13:51+09:00",
     "id": "manabuyasuda"
@@ -18,7 +18,7 @@
   {
     "title": "ゼロから始めるJavaScript生活",
     "url": "https://qiita.com/takahashim/items/7838334d1451fb0a9811",
-    "likes_count": 1885,
+    "likes_count": 1884,
     "created_at": "2016-10-31T16:53:40+09:00",
     "updated_at": "2017-03-03T12:51:59+09:00",
     "id": "takahashim"
@@ -42,7 +42,7 @@
   {
     "title": "代表的な機械学習手法一覧",
     "url": "https://qiita.com/tomomoto/items/b3fd1ec7f9b68ab6dfe2",
-    "likes_count": 1661,
+    "likes_count": 1660,
     "created_at": "2016-10-25T19:13:54+09:00",
     "updated_at": "2017-02-18T10:48:04+09:00",
     "id": "tomomoto"
@@ -66,7 +66,7 @@
   {
     "title": "SwaggerでRESTful APIの管理を楽にする",
     "url": "https://qiita.com/disc99/items/37228f5d687ad2969aa2",
-    "likes_count": 1426,
+    "likes_count": 1425,
     "created_at": "2016-10-11T07:16:03+09:00",
     "updated_at": "2018-02-02T10:35:06+09:00",
     "id": "disc99"
@@ -74,7 +74,7 @@
   {
     "title": "無料のドメインを取得する",
     "url": "https://qiita.com/teekay/items/135dc67e39f24997019e",
-    "likes_count": 1418,
+    "likes_count": 1419,
     "created_at": "2016-10-10T15:58:12+09:00",
     "updated_at": "2017-09-06T19:02:54+09:00",
     "id": "teekay"
@@ -194,7 +194,7 @@
   {
     "title": "イッヌハブ をつくってみよう",
     "url": "https://qiita.com/hiroshitoda/items/6df550386e83bc6f1474",
-    "likes_count": 705,
+    "likes_count": 704,
     "created_at": "2016-10-01T22:33:02+09:00",
     "updated_at": "2016-10-05T20:49:25+09:00",
     "id": "hiroshitoda"
@@ -210,7 +210,7 @@
   {
     "title": "Serverless Frameworkの使い方まとめ",
     "url": "https://qiita.com/horike37/items/b295a91908fcfd4033a2",
-    "likes_count": 679,
+    "likes_count": 680,
     "created_at": "2016-10-17T10:21:32+09:00",
     "updated_at": "2020-11-08T20:19:42+09:00",
     "id": "horike37"
@@ -282,7 +282,7 @@
   {
     "title": "MVCモデルについて",
     "url": "https://qiita.com/s_emoto/items/975cc38a3e0de462966a",
-    "likes_count": 507,
+    "likes_count": 508,
     "created_at": "2016-10-14T11:46:19+09:00",
     "updated_at": "2021-10-03T14:38:11+09:00",
     "id": "s_emoto"
@@ -408,20 +408,20 @@
     "id": "okumurakengo"
   },
   {
-    "title": "Qiitaで技術系の記事を書く時に気をつけていること",
-    "url": "https://qiita.com/potato4d/items/8303f11caad1f088c6cf",
-    "likes_count": 318,
-    "created_at": "2016-10-22T15:09:34+09:00",
-    "updated_at": "2018-12-20T10:26:36+09:00",
-    "id": "potato4d"
-  },
-  {
     "title": "【必見】Atomで作る快適な論文執筆TeX環境【Mac】【卒論】【LaTeX】",
     "url": "https://qiita.com/ken0nek/items/f98f88c9c45d8499786e",
     "likes_count": 317,
     "created_at": "2016-10-03T21:40:42+09:00",
     "updated_at": "2016-12-19T23:38:13+09:00",
     "id": "ken0nek"
+  },
+  {
+    "title": "Qiitaで技術系の記事を書く時に気をつけていること",
+    "url": "https://qiita.com/potato4d/items/8303f11caad1f088c6cf",
+    "likes_count": 317,
+    "created_at": "2016-10-22T15:09:34+09:00",
+    "updated_at": "2018-12-20T10:26:36+09:00",
+    "id": "potato4d"
   },
   {
     "title": "DNC (Differentiable Neural Computers) の概要 + Chainer による実装",
@@ -458,7 +458,7 @@
   {
     "title": "Laravelでウェブアプリケーションをつくるときのベストプラクティスを探る",
     "url": "https://qiita.com/nunulk/items/b1e2da51b5dabab92da0",
-    "likes_count": 286,
+    "likes_count": 287,
     "created_at": "2016-10-20T14:52:52+09:00",
     "updated_at": "2017-10-22T19:35:14+09:00",
     "id": "nunulk"
