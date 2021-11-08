@@ -2,7 +2,7 @@
   {
     "title": "async/await 入門（JavaScript）",
     "url": "https://qiita.com/soarflat/items/1a9613e023200bbebcb3",
-    "likes_count": 3014,
+    "likes_count": 3019,
     "created_at": "2017-08-03T14:25:22+09:00",
     "updated_at": "2021-11-03T00:04:33+09:00",
     "id": "soarflat"
@@ -10,7 +10,7 @@
   {
     "title": "VS Code の便利なショートカットキー",
     "url": "https://qiita.com/12345/items/64f4372fbca041e949d0",
-    "likes_count": 2879,
+    "likes_count": 2880,
     "created_at": "2017-08-13T07:04:56+09:00",
     "updated_at": "2021-10-17T21:17:50+09:00",
     "id": "12345"
@@ -18,7 +18,7 @@
   {
     "title": "今さら人に聞けない Kubernetes とは？",
     "url": "https://qiita.com/MahoTakara/items/85096f8b2632c802ab22",
-    "likes_count": 2587,
+    "likes_count": 2588,
     "created_at": "2017-08-24T17:12:43+09:00",
     "updated_at": "2019-10-11T09:22:22+09:00",
     "id": "MahoTakara"
@@ -34,7 +34,7 @@
   {
     "title": "一番詳しいCSS設計規則BEMのマニュアル",
     "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
-    "likes_count": 1528,
+    "likes_count": 1529,
     "created_at": "2017-08-30T20:48:41+09:00",
     "updated_at": "2019-07-16T17:00:50+09:00",
     "id": "Takuan_Oishii"
@@ -42,7 +42,7 @@
   {
     "title": "<script> タグに async / defer を付けた場合のタイミング",
     "url": "https://qiita.com/phanect/items/82c85ea4b8f9c373d684",
-    "likes_count": 1372,
+    "likes_count": 1373,
     "created_at": "2017-08-05T21:05:47+09:00",
     "updated_at": "2019-02-23T10:01:33+09:00",
     "id": "phanect"
@@ -82,7 +82,7 @@
   {
     "title": "async関数においてtry/catchではなくawait/catchパターンを活用する",
     "url": "https://qiita.com/akameco/items/cc73afcdb5ac5d0774bc",
-    "likes_count": 879,
+    "likes_count": 881,
     "created_at": "2017-08-27T09:01:49+09:00",
     "updated_at": "2017-08-31T13:57:59+09:00",
     "id": "akameco"
@@ -122,7 +122,7 @@
   {
     "title": "Docker コマンドチートシート",
     "url": "https://qiita.com/wMETAw/items/34ba5c980e2a38e548db",
-    "likes_count": 562,
+    "likes_count": 563,
     "created_at": "2017-08-27T11:39:22+09:00",
     "updated_at": "2018-10-13T13:58:48+09:00",
     "id": "wMETAw"
@@ -138,7 +138,7 @@
   {
     "title": "Capybaraチートシート",
     "url": "https://qiita.com/morrr/items/0e24251c049180218db4",
-    "likes_count": 490,
+    "likes_count": 491,
     "created_at": "2017-08-20T01:45:12+09:00",
     "updated_at": "2017-08-20T01:45:12+09:00",
     "id": "morrr"
@@ -170,7 +170,7 @@
   {
     "title": "認証プラットフォーム Auth0 とは？",
     "url": "https://qiita.com/furuth/items/68c3caa3127cbf4f6b77",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2017-08-09T21:09:48+09:00",
     "updated_at": "2018-08-16T11:28:58+09:00",
     "id": "furuth"
@@ -280,20 +280,20 @@
     "id": "Hironsan"
   },
   {
+    "title": "LaravelでRoute::resourceを使うときに気をつけること",
+    "url": "https://qiita.com/sympe/items/9297f41d5f7a9d91aa11",
+    "likes_count": 292,
+    "created_at": "2017-08-30T18:29:58+09:00",
+    "updated_at": "2018-05-14T09:50:19+09:00",
+    "id": "sympe"
+  },
+  {
     "title": "【入門者向け解説】openCV顔検出の仕組と実践(detectMultiScale)",
     "url": "https://qiita.com/FukuharaYohei/items/ec6dce7cc5ea21a51a82",
     "likes_count": 291,
     "created_at": "2017-08-03T19:16:26+09:00",
     "updated_at": "2019-09-19T15:59:34+09:00",
     "id": "FukuharaYohei"
-  },
-  {
-    "title": "LaravelでRoute::resourceを使うときに気をつけること",
-    "url": "https://qiita.com/sympe/items/9297f41d5f7a9d91aa11",
-    "likes_count": 291,
-    "created_at": "2017-08-30T18:29:58+09:00",
-    "updated_at": "2018-05-14T09:50:19+09:00",
-    "id": "sympe"
   },
   {
     "title": "【合格しました！】AWS 認定ソリューションアーキテクト アソシエイト 受験記",
