@@ -26,7 +26,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1638,
+    "likes_count": 1641,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2021-04-25T17:54:48+09:00",
     "id": "elipmoc101"
@@ -178,7 +178,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 745,
+    "likes_count": 746,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -210,7 +210,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 698,
+    "likes_count": 704,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2020-12-25T14:47:16+09:00",
     "id": "RyBB"
@@ -234,7 +234,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 637,
+    "likes_count": 638,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2019-12-29T23:17:28+09:00",
     "id": "ryuichi1208"
@@ -250,7 +250,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 580,
+    "likes_count": 582,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2020-05-25T15:52:26+09:00",
     "id": "grrrr"
@@ -272,20 +272,20 @@
     "id": "inductor"
   },
   {
+    "title": "atcoderでよく使う手法python版",
+    "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
+    "likes_count": 537,
+    "created_at": "2018-11-25T18:13:41+09:00",
+    "updated_at": "2020-11-23T02:30:53+09:00",
+    "id": "chun1182"
+  },
+  {
     "title": "【厳選】Python実務データ分析でよく使う手法（分析手法編）",
     "url": "https://qiita.com/takubb/items/286916434ce44889d0fd",
     "likes_count": 536,
     "created_at": "2018-11-11T00:10:16+09:00",
     "updated_at": "2018-11-11T00:29:17+09:00",
     "id": "takubb"
-  },
-  {
-    "title": "atcoderでよく使う手法python版",
-    "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
-    "likes_count": 536,
-    "created_at": "2018-11-25T18:13:41+09:00",
-    "updated_at": "2020-11-23T02:30:53+09:00",
-    "id": "chun1182"
   },
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
@@ -298,7 +298,7 @@
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
     "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2018-11-18T19:13:03+09:00",
     "updated_at": "2019-10-05T07:32:56+09:00",
     "id": "kd9951"
@@ -362,7 +362,7 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
@@ -458,7 +458,7 @@
   {
     "title": "Chromeを使うなら、必ずServiceWorkersを無効化しよう",
     "url": "https://qiita.com/rana_kualu/items/52d8cb7b200d6fefddc8",
-    "likes_count": 365,
+    "likes_count": 366,
     "created_at": "2018-11-05T00:29:23+09:00",
     "updated_at": "2018-11-05T00:29:23+09:00",
     "id": "rana_kualu"
@@ -506,7 +506,7 @@
   {
     "title": "Laravelで始める依存性の注入（DI）",
     "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2018-11-30T15:37:00+09:00",
     "updated_at": "2020-08-03T21:31:08+09:00",
     "id": "harunbu"
@@ -514,7 +514,7 @@
   {
     "title": "【Ruby on Rails】N+1問題ってなんだ？",
     "url": "https://qiita.com/massaaaaan/items/4eb770f20e636f7a1361",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2018-11-20T22:06:41+09:00",
     "updated_at": "2018-11-20T22:06:41+09:00",
     "id": "massaaaaan"
