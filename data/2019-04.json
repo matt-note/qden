@@ -58,7 +58,7 @@
   {
     "title": "Qiitaで記事を公開するときに気を付けるべきマナーについて 〜無断でネットや書籍の内容を丸写しするのはやめよう〜",
     "url": "https://qiita.com/jnchito/items/215c2d51599eb29adabc",
-    "likes_count": 1256,
+    "likes_count": 1257,
     "created_at": "2019-04-24T03:43:11+09:00",
     "updated_at": "2019-04-25T10:37:02+09:00",
     "id": "jnchito"
@@ -258,7 +258,7 @@
   {
     "title": "OAuth アクセストークンの実装に関する考察",
     "url": "https://qiita.com/TakahikoKawasaki/items/970548727761f9e02bcd",
-    "likes_count": 490,
+    "likes_count": 495,
     "created_at": "2019-04-02T19:57:39+09:00",
     "updated_at": "2021-02-02T16:30:04+09:00",
     "id": "TakahikoKawasaki"
@@ -272,20 +272,20 @@
     "id": "seya"
   },
   {
+    "title": "JavaScriptに参照渡し/値渡しなど存在しない",
+    "url": "https://qiita.com/yuta0801/items/f8690a6e129c594de5fb",
+    "likes_count": 429,
+    "created_at": "2019-04-18T18:02:14+09:00",
+    "updated_at": "2021-01-18T20:57:05+09:00",
+    "id": "yuta0801"
+  },
+  {
     "title": "Visual Studio Codeで日本語化する方法[Windows]",
     "url": "https://qiita.com/nanamesincos/items/5c48ff88a4eeef0a8631",
     "likes_count": 428,
     "created_at": "2019-04-02T12:59:01+09:00",
     "updated_at": "2020-06-09T07:52:12+09:00",
     "id": "nanamesincos"
-  },
-  {
-    "title": "JavaScriptに参照渡し/値渡しなど存在しない",
-    "url": "https://qiita.com/yuta0801/items/f8690a6e129c594de5fb",
-    "likes_count": 428,
-    "created_at": "2019-04-18T18:02:14+09:00",
-    "updated_at": "2021-01-18T20:57:05+09:00",
-    "id": "yuta0801"
   },
   {
     "title": "VSCodeで始めるVim",
@@ -316,7 +316,7 @@
     "url": "https://qiita.com/Brutus/items/d19af6b9c55de93663f6",
     "likes_count": 410,
     "created_at": "2019-04-30T18:47:27+09:00",
-    "updated_at": "2020-07-29T23:18:38+09:00",
+    "updated_at": "2021-11-11T14:25:19+09:00",
     "id": "Brutus"
   },
   {
@@ -344,20 +344,20 @@
     "id": "goofmint"
   },
   {
+    "title": "よく使われているvimのプラグイン top20",
+    "url": "https://qiita.com/reireias/items/5364dcaada1a5b88a206",
+    "likes_count": 376,
+    "created_at": "2019-04-15T07:02:33+09:00",
+    "updated_at": "2020-06-13T17:56:41+09:00",
+    "id": "reireias"
+  },
+  {
     "title": "C# パフォーマンス改善に使える新しめの機能たち 7.0〜",
     "url": "https://qiita.com/hadashiA/items/0c65a999422e7713ed3c",
     "likes_count": 374,
     "created_at": "2019-04-10T15:32:01+09:00",
     "updated_at": "2019-04-17T12:02:20+09:00",
     "id": "hadashiA"
-  },
-  {
-    "title": "よく使われているvimのプラグイン top20",
-    "url": "https://qiita.com/reireias/items/5364dcaada1a5b88a206",
-    "likes_count": 374,
-    "created_at": "2019-04-15T07:02:33+09:00",
-    "updated_at": "2020-06-13T17:56:41+09:00",
-    "id": "reireias"
   },
   {
     "title": "Nuxt.js + phina.js でブラウザゲーを作るためにやったことまとめ",

@@ -42,7 +42,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 930,
+    "likes_count": 931,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2019-02-17T13:56:52+09:00",
     "id": "fuwamaki"
@@ -50,7 +50,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 904,
+    "likes_count": 906,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -146,7 +146,7 @@
   {
     "title": "dev.toと阿部寛のホームページについてちゃんと計測させてくれ",
     "url": "https://qiita.com/naru0504/items/7d652681d698f6d88c4f",
-    "likes_count": 610,
+    "likes_count": 611,
     "created_at": "2017-11-17T07:51:11+09:00",
     "updated_at": "2017-11-18T00:37:53+09:00",
     "id": "naru0504"
@@ -210,7 +210,7 @@
   {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
     "url": "https://qiita.com/akameco/items/519f7e4d5442b2a9d2da",
-    "likes_count": 549,
+    "likes_count": 550,
     "created_at": "2017-11-19T03:46:34+09:00",
     "updated_at": "2020-03-23T18:38:33+09:00",
     "id": "akameco"
@@ -218,10 +218,18 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 545,
+    "likes_count": 546,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
+  },
+  {
+    "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
+    "url": "https://qiita.com/nh321/items/f7e20c7ba737ff5c0f60",
+    "likes_count": 522,
+    "created_at": "2017-11-26T01:05:44+09:00",
+    "updated_at": "2018-10-01T21:43:41+09:00",
+    "id": "nh321"
   },
   {
     "title": "個人プロダクト開発で、困った時にどうするか",
@@ -230,14 +238,6 @@
     "created_at": "2017-11-30T23:52:52+09:00",
     "updated_at": "2017-12-01T11:03:10+09:00",
     "id": "eri"
-  },
-  {
-    "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
-    "url": "https://qiita.com/nh321/items/f7e20c7ba737ff5c0f60",
-    "likes_count": 521,
-    "created_at": "2017-11-26T01:05:44+09:00",
-    "updated_at": "2018-10-01T21:43:41+09:00",
-    "id": "nh321"
   },
   {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
@@ -394,7 +394,7 @@
   {
     "title": "【Swift】iOSアプリ開発で使える（使いたい）Swiftライブラリー",
     "url": "https://qiita.com/BlueEventHorizon/items/080f1e24a6c3d76a0df8",
-    "likes_count": 358,
+    "likes_count": 359,
     "created_at": "2017-11-25T00:37:47+09:00",
     "updated_at": "2019-12-19T18:33:31+09:00",
     "id": "BlueEventHorizon"
