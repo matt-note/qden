@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2659,
+    "likes_count": 2658,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -42,7 +42,7 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年10月25日更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 1836,
+    "likes_count": 1837,
     "created_at": "2019-12-20T15:18:16+09:00",
     "updated_at": "2021-10-25T09:24:03+09:00",
     "id": "kamesennin"
@@ -82,7 +82,7 @@
   {
     "title": "【決定版\b】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1464,
+    "likes_count": 1465,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-02-11T11:35:36+09:00",
     "id": "omiita"
@@ -210,7 +210,7 @@
   {
     "title": "VSCode で最高の LaTeX 環境を作る",
     "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 705,
+    "likes_count": 707,
     "created_at": "2019-12-16T07:03:05+09:00",
     "updated_at": "2021-09-05T00:03:01+09:00",
     "id": "rainbartown"
@@ -276,7 +276,7 @@
     "url": "https://qiita.com/wataoka/items/ae782defabc3706b5c93",
     "likes_count": 615,
     "created_at": "2019-12-30T10:36:08+09:00",
-    "updated_at": "2020-12-19T13:58:36+09:00",
+    "updated_at": "2021-11-12T11:10:05+09:00",
     "id": "wataoka"
   },
   {
@@ -354,7 +354,7 @@
   {
     "title": "ドメイン駆動設計で貧乏を爆殺する",
     "url": "https://qiita.com/MinoDriven/items/39103fba2c7bb8f01e5c",
-    "likes_count": 488,
+    "likes_count": 489,
     "created_at": "2019-12-19T11:26:18+09:00",
     "updated_at": "2019-12-29T10:45:06+09:00",
     "id": "MinoDriven"
@@ -418,7 +418,7 @@
   {
     "title": "Microsoft Azure のオススメの学習方法についてまとめてみる",
     "url": "https://qiita.com/nakazax/items/9311ed4b20d045c094d4",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2019-12-18T01:55:16+09:00",
     "updated_at": "2020-08-12T00:53:11+09:00",
     "id": "nakazax"
@@ -426,7 +426,7 @@
   {
     "title": "令和時代に「Spring入門」「Spring徹底入門」を読むとき気をつけるべきN個のこと",
     "url": "https://qiita.com/suke_masa/items/392976749fce94a8ef1f",
-    "likes_count": 389,
+    "likes_count": 390,
     "created_at": "2019-12-31T11:24:07+09:00",
     "updated_at": "2020-10-16T13:09:32+09:00",
     "id": "suke_masa"
@@ -434,7 +434,7 @@
   {
     "title": "NestJSのススメ ～Expressを超えてゆけ～",
     "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2019-12-22T15:46:56+09:00",
     "updated_at": "2020-04-18T20:27:13+09:00",
     "id": "elipmoc101"
@@ -442,7 +442,7 @@
   {
     "title": "AWS初学者が「うっかり課金」されがちなポイントとその対策まとめ",
     "url": "https://qiita.com/Yuji-Ishibashi/items/bb1c0042fd16a9350c5a",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2019-12-01T09:17:57+09:00",
     "updated_at": "2019-12-12T16:36:24+09:00",
     "id": "Yuji-Ishibashi"
@@ -458,10 +458,18 @@
   {
     "title": "jsのimportとrequireの違い",
     "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2019-12-11T18:25:57+09:00",
     "updated_at": "2019-12-11T18:25:57+09:00",
     "id": "minato-naka"
+  },
+  {
+    "title": "2019年末版 形態素解析器の比較",
+    "url": "https://qiita.com/hi-asano/items/aaf406db875f1c81530e",
+    "likes_count": 357,
+    "created_at": "2019-12-16T02:38:55+09:00",
+    "updated_at": "2020-05-18T21:46:07+09:00",
+    "id": "hi-asano"
   },
   {
     "title": "Vue/Nuxt開発効率を3倍にするVSCode拡張機能セット",
@@ -470,14 +478,6 @@
     "created_at": "2019-12-04T13:57:15+09:00",
     "updated_at": "2021-01-05T13:28:30+09:00",
     "id": "newt0"
-  },
-  {
-    "title": "2019年末版 形態素解析器の比較",
-    "url": "https://qiita.com/hi-asano/items/aaf406db875f1c81530e",
-    "likes_count": 355,
-    "created_at": "2019-12-16T02:38:55+09:00",
-    "updated_at": "2020-05-18T21:46:07+09:00",
-    "id": "hi-asano"
   },
   {
     "title": "Ruby on Railsの現場でよく見る書き方【実例あり】",
@@ -544,6 +544,14 @@
     "id": "sakuraya"
   },
   {
+    "title": "プログラミング初心者がKaggle Expertになるまでの１０ヵ月間を振り返る",
+    "url": "https://qiita.com/Kmat67916008/items/3fbead37b95e4c9506c2",
+    "likes_count": 279,
+    "created_at": "2019-12-28T00:01:47+09:00",
+    "updated_at": "2019-12-28T00:01:47+09:00",
+    "id": "Kmat67916008"
+  },
+  {
     "title": "WSL2とHyper-Vの関係",
     "url": "https://qiita.com/matarillo/items/ca1eecf8f9a3cd76f9ce",
     "likes_count": 271,
@@ -570,7 +578,7 @@
   {
     "title": "【完全版】Jupyter Notebook ショートカット",
     "url": "https://qiita.com/zawawahoge/items/baa2a5318df079c5f7e5",
-    "likes_count": 258,
+    "likes_count": 259,
     "created_at": "2019-12-09T00:39:30+09:00",
     "updated_at": "2021-01-13T02:33:23+09:00",
     "id": "zawawahoge"
