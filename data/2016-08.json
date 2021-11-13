@@ -26,7 +26,7 @@
   {
     "title": "CSSアニメーション 入門",
     "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
-    "likes_count": 1571,
+    "likes_count": 1572,
     "created_at": "2016-08-19T00:50:02+09:00",
     "updated_at": "2021-10-02T00:05:57+09:00",
     "id": "soarflat"
@@ -34,7 +34,7 @@
   {
     "title": "サーバからクライアントに送信する技術 - WebSocketを中心に",
     "url": "https://qiita.com/yuba/items/00fc1892b296fb7b8de9",
-    "likes_count": 1538,
+    "likes_count": 1537,
     "created_at": "2016-08-24T17:54:24+09:00",
     "updated_at": "2016-11-03T01:14:55+09:00",
     "id": "yuba"
@@ -42,7 +42,7 @@
   {
     "title": "【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本",
     "url": "https://qiita.com/aokikenichi/items/ae4df263f591e47528a6",
-    "likes_count": 1391,
+    "likes_count": 1392,
     "created_at": "2016-08-23T11:46:09+09:00",
     "updated_at": "2021-10-10T19:52:11+09:00",
     "id": "aokikenichi"
@@ -98,7 +98,7 @@
   {
     "title": "高機能ホスティングサービスNetlifyについて調べて使ってみた",
     "url": "https://qiita.com/TakahiRoyte/items/b7c4d1581df1a17a93fb",
-    "likes_count": 932,
+    "likes_count": 931,
     "created_at": "2016-08-18T12:28:51+09:00",
     "updated_at": "2016-08-19T10:01:18+09:00",
     "id": "TakahiRoyte"
@@ -138,7 +138,7 @@
   {
     "title": "bash: 標準出力、標準エラー出力をファイル、画面それぞれに出力する方法",
     "url": "https://qiita.com/laikuaut/items/e1cc312ffc7ec2c872fc",
-    "likes_count": 736,
+    "likes_count": 737,
     "created_at": "2016-08-28T05:10:13+09:00",
     "updated_at": "2016-08-28T07:08:24+09:00",
     "id": "laikuaut"
@@ -152,20 +152,20 @@
     "id": "cognitom"
   },
   {
+    "title": "線形代数の基礎",
+    "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
+    "likes_count": 676,
+    "created_at": "2016-08-30T23:11:19+09:00",
+    "updated_at": "2020-08-23T02:47:09+09:00",
+    "id": "nognog"
+  },
+  {
     "title": "[Deprecated] Go CodeReviewComments 日本語翻訳 #golang ",
     "url": "https://qiita.com/knsh14/items/8b73b31822c109d4c497",
     "likes_count": 675,
     "created_at": "2016-08-18T10:48:47+09:00",
     "updated_at": "2020-04-09T12:33:00+09:00",
     "id": "knsh14"
-  },
-  {
-    "title": "線形代数の基礎",
-    "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
-    "likes_count": 675,
-    "created_at": "2016-08-30T23:11:19+09:00",
-    "updated_at": "2020-08-23T02:47:09+09:00",
-    "id": "nognog"
   },
   {
     "title": "ワイヤレスマウスを安価な物理ボタンとして使う",
@@ -386,7 +386,7 @@
   {
     "title": "最適化におけるPython",
     "url": "https://qiita.com/SaitoTsutomu/items/070ca9cb37c6b2b492f0",
-    "likes_count": 369,
+    "likes_count": 370,
     "created_at": "2016-08-18T17:17:48+09:00",
     "updated_at": "2021-03-30T12:39:04+09:00",
     "id": "SaitoTsutomu"
@@ -400,20 +400,20 @@
     "id": "methane"
   },
   {
-    "title": "bundler、bundle execについて　※自分用メモ",
-    "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
-    "likes_count": 364,
-    "created_at": "2016-08-08T10:06:03+09:00",
-    "updated_at": "2016-08-08T15:41:46+09:00",
-    "id": "dawn_628"
-  },
-  {
     "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
     "url": "https://qiita.com/ryo2132/items/63ced19601b3fa30e6de",
     "likes_count": 364,
     "created_at": "2016-08-12T10:26:11+09:00",
     "updated_at": "2020-05-17T05:29:20+09:00",
     "id": "ryo2132"
+  },
+  {
+    "title": "bundler、bundle execについて　※自分用メモ",
+    "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
+    "likes_count": 363,
+    "created_at": "2016-08-08T10:06:03+09:00",
+    "updated_at": "2016-08-08T15:41:46+09:00",
+    "id": "dawn_628"
   },
   {
     "title": "Let's encrypt運用のベストプラクティス",

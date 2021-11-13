@@ -26,7 +26,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1386,
+    "likes_count": 1385,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -66,7 +66,7 @@
   {
     "title": "webpack時代の終わりとparcel時代のはじまり",
     "url": "https://qiita.com/bitrinjani/items/b08876e0a2618745f54a",
-    "likes_count": 1147,
+    "likes_count": 1146,
     "created_at": "2017-12-08T17:42:26+09:00",
     "updated_at": "2017-12-09T16:47:13+09:00",
     "id": "bitrinjani"
@@ -282,7 +282,7 @@
   {
     "title": "Dialogflow入門",
     "url": "https://qiita.com/kenz_firespeed/items/0979ceb05e4e3299f313",
-    "likes_count": 618,
+    "likes_count": 617,
     "created_at": "2017-12-08T14:12:23+09:00",
     "updated_at": "2018-01-24T12:29:19+09:00",
     "id": "kenz_firespeed"
@@ -370,7 +370,7 @@
   {
     "title": "エンジニアが最高のUIをつくるためのプロトタイピング方法まとめ（2017年版）",
     "url": "https://qiita.com/yuh_iw/items/b0f163c9f649c6cc928c",
-    "likes_count": 547,
+    "likes_count": 546,
     "created_at": "2017-12-23T22:03:19+09:00",
     "updated_at": "2018-12-09T17:24:58+09:00",
     "id": "yuh_iw"
@@ -378,7 +378,7 @@
   {
     "title": "極めろ！！Google Chrome Devtools 52の関節技",
     "url": "https://qiita.com/sueshin/items/7da3330b0e17696602b1",
-    "likes_count": 546,
+    "likes_count": 545,
     "created_at": "2017-12-21T17:49:33+09:00",
     "updated_at": "2017-12-22T00:27:02+09:00",
     "id": "sueshin"
@@ -440,14 +440,6 @@
     "id": "y_hokkey"
   },
   {
-    "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
-    "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
-    "likes_count": 470,
-    "created_at": "2017-12-09T08:11:55+09:00",
-    "updated_at": "2018-05-23T16:49:05+09:00",
-    "id": "devneko"
-  },
-  {
     "title": "Google Homeで受付システム作ってみた",
     "url": "https://qiita.com/h-takauma/items/4ecc3421f2995b207284",
     "likes_count": 469,
@@ -456,9 +448,17 @@
     "id": "h-takauma"
   },
   {
+    "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
+    "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
+    "likes_count": 469,
+    "created_at": "2017-12-09T08:11:55+09:00",
+    "updated_at": "2018-05-23T16:49:05+09:00",
+    "id": "devneko"
+  },
+  {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
-    "likes_count": 456,
+    "likes_count": 455,
     "created_at": "2017-12-09T16:10:28+09:00",
     "updated_at": "2018-12-22T12:05:58+09:00",
     "id": "kakakaori830"
@@ -482,7 +482,7 @@
   {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 433,
+    "likes_count": 434,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
@@ -530,7 +530,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 417,
+    "likes_count": 416,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2017-12-25T22:56:03+09:00",
     "id": "takutoki"
@@ -546,7 +546,7 @@
   {
     "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
     "url": "https://qiita.com/kyntk/items/d60fdbc51df4f1d4c3c7",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2017-12-07T08:45:26+09:00",
     "updated_at": "2017-12-20T14:33:45+09:00",
     "id": "kyntk"
@@ -560,20 +560,20 @@
     "id": "icoxfog417"
   },
   {
+    "title": "深層学習の最適化アルゴリズム",
+    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
+    "likes_count": 386,
+    "created_at": "2017-12-17T19:09:32+09:00",
+    "updated_at": "2019-11-30T18:47:57+09:00",
+    "id": "ZoneTsuyoshi"
+  },
+  {
     "title": "知っておきたいLinuxファイルシステムの概念",
     "url": "https://qiita.com/tutuz/items/539d429729d5819de0aa",
     "likes_count": 386,
     "created_at": "2018-01-01T00:27:21+09:00",
     "updated_at": "2018-01-01T00:27:21+09:00",
     "id": "tutuz"
-  },
-  {
-    "title": "深層学習の最適化アルゴリズム",
-    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 385,
-    "created_at": "2017-12-17T19:09:32+09:00",
-    "updated_at": "2019-11-30T18:47:57+09:00",
-    "id": "ZoneTsuyoshi"
   },
   {
     "title": "(2017年12月時点) 私的 CloudFormation ベストプラクティス",
@@ -618,7 +618,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
@@ -770,7 +770,7 @@
   {
     "title": "Google Apps Script (GAS) で毎週 30 分の雑務を自動化した話",
     "url": "https://qiita.com/tanabee/items/e51f107f1e95a42cc636",
-    "likes_count": 257,
+    "likes_count": 256,
     "created_at": "2017-12-19T15:41:47+09:00",
     "updated_at": "2018-12-21T11:07:32+09:00",
     "id": "tanabee"
