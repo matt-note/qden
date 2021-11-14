@@ -98,7 +98,7 @@
   {
     "title": "PATHを通すとは？ (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
-    "likes_count": 1389,
+    "likes_count": 1390,
     "created_at": "2015-09-16T00:08:22+09:00",
     "updated_at": "2021-11-03T00:06:55+09:00",
     "id": "soarflat"
@@ -146,7 +146,7 @@
   {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 1004,
+    "likes_count": 1005,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2019-02-03T11:37:52+09:00",
     "id": "ryouzi"
@@ -170,7 +170,7 @@
   {
     "title": "MySQLでインデックスを貼る時に読みたいページまとめ(初心者向け）",
     "url": "https://qiita.com/C058/items/1c9c57f634ebf54d99bb",
-    "likes_count": 869,
+    "likes_count": 870,
     "created_at": "2015-09-17T19:53:38+09:00",
     "updated_at": "2018-03-16T12:53:39+09:00",
     "id": "C058"
@@ -178,7 +178,7 @@
   {
     "title": "PostgreSQLの基本的なコマンド",
     "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 856,
+    "likes_count": 857,
     "created_at": "2015-09-08T20:16:56+09:00",
     "updated_at": "2021-10-15T23:37:54+09:00",
     "id": "H-A-L"
@@ -320,6 +320,14 @@
     "id": "pebblip"
   },
   {
+    "title": "【Go】print系関数の違い",
+    "url": "https://qiita.com/taji-taji/items/77845ef744da7c88a6fe",
+    "likes_count": 455,
+    "created_at": "2015-09-15T08:38:00+09:00",
+    "updated_at": "2020-02-28T06:08:41+09:00",
+    "id": "taji-taji"
+  },
+  {
     "title": "CSSのメタ言語Sass(SCSS)、LESSの完全入門",
     "url": "https://qiita.com/ritukiii/items/67b3c50002b48c6186d6",
     "likes_count": 455,
@@ -334,14 +342,6 @@
     "created_at": "2015-09-15T06:34:29+09:00",
     "updated_at": "2018-03-06T15:06:48+09:00",
     "id": "hihihiroro"
-  },
-  {
-    "title": "【Go】print系関数の違い",
-    "url": "https://qiita.com/taji-taji/items/77845ef744da7c88a6fe",
-    "likes_count": 454,
-    "created_at": "2015-09-15T08:38:00+09:00",
-    "updated_at": "2020-02-28T06:08:41+09:00",
-    "id": "taji-taji"
   },
   {
     "title": "Macでローカルサーバを立ち上げる方法",
@@ -480,20 +480,20 @@
     "id": "taiponrock"
   },
   {
+    "title": "Unicorn設定のまとめ",
+    "url": "https://qiita.com/townsoft/items/555062cc96dd0b08a610",
+    "likes_count": 323,
+    "created_at": "2015-09-29T12:19:57+09:00",
+    "updated_at": "2015-10-19T20:28:26+09:00",
+    "id": "townsoft"
+  },
+  {
     "title": "Swift 2のパターンマッチ構文集(ほぼ翻訳)",
     "url": "https://qiita.com/mono0926/items/f2875a9eacef53e88122",
     "likes_count": 321,
     "created_at": "2015-09-14T07:52:26+09:00",
     "updated_at": "2016-11-09T17:12:53+09:00",
     "id": "mono0926"
-  },
-  {
-    "title": "Unicorn設定のまとめ",
-    "url": "https://qiita.com/townsoft/items/555062cc96dd0b08a610",
-    "likes_count": 321,
-    "created_at": "2015-09-29T12:19:57+09:00",
-    "updated_at": "2015-10-19T20:28:26+09:00",
-    "id": "townsoft"
   },
   {
     "title": "Rubyのコードを高速にするためのメモ",
@@ -562,7 +562,7 @@
   {
     "title": "C++ コーディングスタイルメモ",
     "url": "https://qiita.com/shirakawa4756/items/55b509fb56cb1bb0c9a4",
-    "likes_count": 292,
+    "likes_count": 293,
     "created_at": "2015-09-01T19:43:51+09:00",
     "updated_at": "2016-02-17T22:01:50+09:00",
     "id": "shirakawa4756"

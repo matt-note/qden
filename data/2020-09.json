@@ -56,17 +56,17 @@
     "id": "megumu-u"
   },
   {
-    "title": "【Python】Pythonicなコードの書き方🐍",
+    "title": "【Python】いい書き方と悪い書き方を知って中級者を目指す🐍",
     "url": "https://qiita.com/_masa_u/items/b21c493a82e8aba8993f",
     "likes_count": 1288,
     "created_at": "2020-09-06T19:15:02+09:00",
-    "updated_at": "2021-03-25T18:01:18+09:00",
+    "updated_at": "2021-11-14T21:53:12+09:00",
     "id": "_masa_u"
   },
   {
     "title": "【C#】インターフェイスの利点が理解できない人は「インターフェイスには３つのタイプがある」ことを理解しよう",
     "url": "https://qiita.com/yutorisan/items/d28386f168f2f3ab166d",
-    "likes_count": 1230,
+    "likes_count": 1231,
     "created_at": "2020-09-09T02:03:42+09:00",
     "updated_at": "2020-09-15T22:52:46+09:00",
     "id": "yutorisan"
@@ -98,10 +98,18 @@
   {
     "title": "PyTorchでの学習・推論を高速化するコツ集",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/62f5f7adee083d96a587",
-    "likes_count": 689,
+    "likes_count": 690,
     "created_at": "2020-09-08T08:10:21+09:00",
     "updated_at": "2020-09-11T07:39:25+09:00",
     "id": "sugulu_Ogawa_ISID"
+  },
+  {
+    "title": "機械学習で競馬の回収率100%超えを達成した話",
+    "url": "https://qiita.com/Mshimia/items/6c54d82b3792925b8199",
+    "likes_count": 674,
+    "created_at": "2020-09-03T11:57:36+09:00",
+    "updated_at": "2021-06-20T01:15:06+09:00",
+    "id": "Mshimia"
   },
   {
     "title": "オブジェクト指向は単なる【整理術】だよ",
@@ -110,14 +118,6 @@
     "created_at": "2020-09-11T16:53:22+09:00",
     "updated_at": "2021-04-21T10:37:41+09:00",
     "id": "br_branch"
-  },
-  {
-    "title": "機械学習で競馬の回収率100%超えを達成した話",
-    "url": "https://qiita.com/Mshimia/items/6c54d82b3792925b8199",
-    "likes_count": 673,
-    "created_at": "2020-09-03T11:57:36+09:00",
-    "updated_at": "2021-06-20T01:15:06+09:00",
-    "id": "Mshimia"
   },
   {
     "title": "読み手をイライラさせない技術記事などを書くために最低限守ったほうがいいこと",
@@ -248,20 +248,20 @@
     "id": "tomoya_oka"
   },
   {
+    "title": "【コードレビュー】レビュアーの心構え",
+    "url": "https://qiita.com/hinora/items/266fbfb62fd3d4c45edd",
+    "likes_count": 308,
+    "created_at": "2020-09-25T09:37:03+09:00",
+    "updated_at": "2020-09-28T13:03:12+09:00",
+    "id": "hinora"
+  },
+  {
     "title": "SwiftUI100本ノック",
     "url": "https://qiita.com/takoikatakotako/items/0838d1bb7a15ad1edb87",
     "likes_count": 308,
     "created_at": "2020-09-27T18:30:45+09:00",
     "updated_at": "2021-02-17T01:16:35+09:00",
     "id": "takoikatakotako"
-  },
-  {
-    "title": "【コードレビュー】レビュアーの心構え",
-    "url": "https://qiita.com/hinora/items/266fbfb62fd3d4c45edd",
-    "likes_count": 307,
-    "created_at": "2020-09-25T09:37:03+09:00",
-    "updated_at": "2020-09-28T13:03:12+09:00",
-    "id": "hinora"
   },
   {
     "title": "綺麗なReactコンポーネント設計でモノリシックなコンポーネントを爆殺する",
@@ -298,7 +298,7 @@
   {
     "title": "未経験者が自社開発企業に就職するためのREADME書き方",
     "url": "https://qiita.com/teruis/items/64fcf585f02162fa2f3b",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2020-09-24T15:48:26+09:00",
     "updated_at": "2020-09-30T12:09:10+09:00",
     "id": "teruis"
