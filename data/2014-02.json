@@ -274,7 +274,7 @@
   {
     "title": "SMACSSによるCSS設計",
     "url": "https://qiita.com/matsui-a/items/9b9188904d160a3ec223",
-    "likes_count": 420,
+    "likes_count": 421,
     "created_at": "2014-02-07T21:23:57+09:00",
     "updated_at": "2014-04-04T14:56:43+09:00",
     "id": "matsui-a"
@@ -336,6 +336,14 @@
     "id": "t2low"
   },
   {
+    "title": "TwilioとRailsで、1通1円のSMS認証を実装してみる",
+    "url": "https://qiita.com/kidach1/items/cd63063fa98aaa5030bd",
+    "likes_count": 326,
+    "created_at": "2014-02-05T22:55:38+09:00",
+    "updated_at": "2014-07-06T11:36:50+09:00",
+    "id": "kidach1"
+  },
+  {
     "title": "Canvasで描画した画像を送信してサーバに保存する",
     "url": "https://qiita.com/0829/items/a8c98c8f53b2e821ac94",
     "likes_count": 326,
@@ -350,14 +358,6 @@
     "created_at": "2014-02-28T19:59:09+09:00",
     "updated_at": "2014-03-07T17:47:45+09:00",
     "id": "luckypool"
-  },
-  {
-    "title": "TwilioとRailsで、1通1円のSMS認証を実装してみる",
-    "url": "https://qiita.com/kidach1/items/cd63063fa98aaa5030bd",
-    "likes_count": 325,
-    "created_at": "2014-02-05T22:55:38+09:00",
-    "updated_at": "2014-07-06T11:36:50+09:00",
-    "id": "kidach1"
   },
   {
     "title": "nginx で http でのアクセスを https にリダイレクト",
