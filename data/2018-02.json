@@ -2,7 +2,7 @@
   {
     "title": "TypeScriptの型入門",
     "url": "https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a",
-    "likes_count": 3938,
+    "likes_count": 3940,
     "created_at": "2018-02-16T23:41:39+09:00",
     "updated_at": "2021-09-25T18:50:57+09:00",
     "id": "uhyo"
@@ -146,7 +146,7 @@
   {
     "title": "地下アイドルとアイドルオタクを疎結合にしてみたら、夢も希望もなくなった〜デザインパターンのObserverを考える〜",
     "url": "https://qiita.com/carotene4035/items/942bef4c7b1529cff572",
-    "likes_count": 908,
+    "likes_count": 909,
     "created_at": "2018-02-26T12:27:39+09:00",
     "updated_at": "2018-02-26T20:29:46+09:00",
     "id": "carotene4035"
@@ -186,7 +186,7 @@
   {
     "title": "JavaScript の仕組み：メモリ管理+ 4つの共通のメモリリーク処理方法",
     "url": "https://qiita.com/tkdn/items/ea4f034e0d661def244a",
-    "likes_count": 728,
+    "likes_count": 729,
     "created_at": "2018-02-11T18:37:40+09:00",
     "updated_at": "2018-08-28T23:36:57+09:00",
     "id": "tkdn"
@@ -314,7 +314,7 @@
   {
     "title": "puppeteerでよく使うであろう処理の書き方",
     "url": "https://qiita.com/rh_taro/items/32bb6851303cbc613124",
-    "likes_count": 408,
+    "likes_count": 410,
     "created_at": "2018-02-19T23:57:24+09:00",
     "updated_at": "2019-01-10T13:47:23+09:00",
     "id": "rh_taro"
@@ -338,7 +338,7 @@
   {
     "title": "並行処理、並列処理のあれこれ",
     "url": "https://qiita.com/Kohei909Otsuka/items/26be74de803d195b37bd",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2018-02-14T22:43:14+09:00",
     "updated_at": "2018-02-16T08:28:09+09:00",
     "id": "Kohei909Otsuka"
@@ -352,6 +352,14 @@
     "id": "VA_nakatsu"
   },
   {
+    "title": "AWS CLIでS3を操作するコマンド一覧",
+    "url": "https://qiita.com/uhooi/items/48ef6ef2b34162988295",
+    "likes_count": 347,
+    "created_at": "2018-02-14T22:05:57+09:00",
+    "updated_at": "2018-09-17T19:33:17+09:00",
+    "id": "uhooi"
+  },
+  {
     "title": "アジャイルとは何か？今あらためて誤魔化さずに実践的に説明してみる",
     "url": "https://qiita.com/567000/items/33c8821f014885024577",
     "likes_count": 347,
@@ -360,17 +368,9 @@
     "id": "567000"
   },
   {
-    "title": "AWS CLIでS3を操作するコマンド一覧",
-    "url": "https://qiita.com/uhooi/items/48ef6ef2b34162988295",
-    "likes_count": 346,
-    "created_at": "2018-02-14T22:05:57+09:00",
-    "updated_at": "2018-09-17T19:33:17+09:00",
-    "id": "uhooi"
-  },
-  {
     "title": "DockerのMySQLコンテナに外部からアクセスする方法まとめ改",
     "url": "https://qiita.com/saken649/items/00e752d89f2a6c5a82f6",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2018-02-03T01:11:39+09:00",
     "updated_at": "2018-05-27T13:09:24+09:00",
     "id": "saken649"
