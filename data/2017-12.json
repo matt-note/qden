@@ -90,7 +90,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 957,
+    "likes_count": 958,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -130,7 +130,7 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 879,
+    "likes_count": 880,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
@@ -154,7 +154,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 849,
+    "likes_count": 848,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -162,7 +162,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 836,
+    "likes_count": 837,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -234,7 +234,7 @@
   {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
     "url": "https://qiita.com/bokuweb/items/1575337bef44ae82f4d3",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2017-12-18T10:54:24+09:00",
     "updated_at": "2020-02-12T11:34:17+09:00",
     "id": "bokuweb"
@@ -306,7 +306,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 599,
+    "likes_count": 606,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -426,7 +426,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 485,
+    "likes_count": 486,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -440,14 +440,6 @@
     "id": "y_hokkey"
   },
   {
-    "title": "Google Homeで受付システム作ってみた",
-    "url": "https://qiita.com/h-takauma/items/4ecc3421f2995b207284",
-    "likes_count": 469,
-    "created_at": "2017-12-06T15:46:42+09:00",
-    "updated_at": "2017-12-06T22:42:03+09:00",
-    "id": "h-takauma"
-  },
-  {
     "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
     "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
     "likes_count": 469,
@@ -458,7 +450,7 @@
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
-    "likes_count": 455,
+    "likes_count": 456,
     "created_at": "2017-12-09T16:10:28+09:00",
     "updated_at": "2018-12-22T12:05:58+09:00",
     "id": "kakakaori830"
@@ -490,7 +482,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -546,10 +538,18 @@
   {
     "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
     "url": "https://qiita.com/kyntk/items/d60fdbc51df4f1d4c3c7",
-    "likes_count": 396,
+    "likes_count": 397,
     "created_at": "2017-12-07T08:45:26+09:00",
     "updated_at": "2017-12-20T14:33:45+09:00",
     "id": "kyntk"
+  },
+  {
+    "title": "深層学習の最適化アルゴリズム",
+    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
+    "likes_count": 387,
+    "created_at": "2017-12-17T19:09:32+09:00",
+    "updated_at": "2019-11-30T18:47:57+09:00",
+    "id": "ZoneTsuyoshi"
   },
   {
     "title": "「君は今日から人工知能開発部門のリーダーだ！」と言われた時の処方箋",
@@ -558,14 +558,6 @@
     "created_at": "2017-12-20T00:12:03+09:00",
     "updated_at": "2017-12-20T12:47:49+09:00",
     "id": "icoxfog417"
-  },
-  {
-    "title": "深層学習の最適化アルゴリズム",
-    "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 386,
-    "created_at": "2017-12-17T19:09:32+09:00",
-    "updated_at": "2019-11-30T18:47:57+09:00",
-    "id": "ZoneTsuyoshi"
   },
   {
     "title": "知っておきたいLinuxファイルシステムの概念",
@@ -774,6 +766,14 @@
     "created_at": "2017-12-19T15:41:47+09:00",
     "updated_at": "2018-12-21T11:07:32+09:00",
     "id": "tanabee"
+  },
+  {
+    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
+    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
+    "likes_count": 251,
+    "created_at": "2017-12-22T11:21:44+09:00",
+    "updated_at": "2021-05-13T11:06:54+09:00",
+    "id": "ffggss"
   },
   {
     "title": "【C#】ReactiveProperty全然分からねぇ！って人向けのFAQ集【修正済】",

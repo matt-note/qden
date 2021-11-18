@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 9993,
+    "likes_count": 9998,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2021-06-20T17:25:31+09:00",
     "id": "Ted-HM"
@@ -26,7 +26,7 @@
   {
     "title": "うまくクラス名を付けるための参考情報",
     "url": "https://qiita.com/KeithYokoma/items/ee21fec6a3ebb5d1e9a8",
-    "likes_count": 2182,
+    "likes_count": 2183,
     "created_at": "2015-09-16T11:30:40+09:00",
     "updated_at": "2015-09-16T11:30:40+09:00",
     "id": "KeithYokoma"
@@ -34,7 +34,7 @@
   {
     "title": "Railsアプリケーションにおけるエラー処理（例外設計）の考え方",
     "url": "https://qiita.com/jnchito/items/3ef95ea144ed15df3637",
-    "likes_count": 1868,
+    "likes_count": 1869,
     "created_at": "2015-09-29T07:04:25+09:00",
     "updated_at": "2020-11-18T15:01:00+09:00",
     "id": "jnchito"
@@ -42,7 +42,7 @@
   {
     "title": "デザイナーに言われた「非デザイナーが気をつけるべきデザインの4原則」",
     "url": "https://qiita.com/Yama-to/items/cb7f280b44a14c898418",
-    "likes_count": 1760,
+    "likes_count": 1761,
     "created_at": "2015-09-07T23:03:06+09:00",
     "updated_at": "2015-09-30T08:46:55+09:00",
     "id": "Yama-to"
@@ -50,7 +50,7 @@
   {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1759,
+    "likes_count": 1760,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2021-11-03T00:06:42+09:00",
     "id": "soarflat"
@@ -58,7 +58,7 @@
   {
     "title": "トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた",
     "url": "https://qiita.com/uasi/items/cfb60588daa18c2ec6f5",
-    "likes_count": 1667,
+    "likes_count": 1670,
     "created_at": "2015-09-25T19:18:30+09:00",
     "updated_at": "2019-05-08T21:41:02+09:00",
     "id": "uasi"
@@ -66,7 +66,7 @@
   {
     "title": "Webアプリケーション開発者から見た、MVCとMVP、そしてMVVMの違い",
     "url": "https://qiita.com/shinkuFencer/items/f2651073fb71416b6cd7",
-    "likes_count": 1664,
+    "likes_count": 1665,
     "created_at": "2015-09-14T15:10:08+09:00",
     "updated_at": "2017-10-03T12:36:12+09:00",
     "id": "shinkuFencer"
@@ -122,7 +122,7 @@
   {
     "title": "JavaScriptの「&&」「||」について盛大に勘違いをしていた件",
     "url": "https://qiita.com/Imamotty/items/bc659569239379dded55",
-    "likes_count": 1262,
+    "likes_count": 1263,
     "created_at": "2015-09-12T01:28:15+09:00",
     "updated_at": "2015-09-12T08:07:39+09:00",
     "id": "Imamotty"
@@ -136,20 +136,20 @@
     "id": "hik0107"
   },
   {
+    "title": "Macのターミナルコマンド一覧（基本編）",
+    "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
+    "likes_count": 1009,
+    "created_at": "2015-09-20T00:26:30+09:00",
+    "updated_at": "2019-02-03T11:37:52+09:00",
+    "id": "ryouzi"
+  },
+  {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
     "likes_count": 1008,
     "created_at": "2015-09-24T01:06:14+09:00",
     "updated_at": "2021-10-12T00:13:04+09:00",
     "id": "nightyknite"
-  },
-  {
-    "title": "Macのターミナルコマンド一覧（基本編）",
-    "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 1007,
-    "created_at": "2015-09-20T00:26:30+09:00",
-    "updated_at": "2019-02-03T11:37:52+09:00",
-    "id": "ryouzi"
   },
   {
     "title": "Kotlin スコープ関数 用途まとめ",
@@ -162,7 +162,7 @@
   {
     "title": "Windowsで使えるターミナルとシェルのまとめ",
     "url": "https://qiita.com/Ted-HM/items/9a60f6fcf74bbd79a904",
-    "likes_count": 918,
+    "likes_count": 919,
     "created_at": "2015-09-22T21:51:07+09:00",
     "updated_at": "2019-09-25T23:22:06+09:00",
     "id": "Ted-HM"
@@ -178,7 +178,7 @@
   {
     "title": "PostgreSQLの基本的なコマンド",
     "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 859,
+    "likes_count": 860,
     "created_at": "2015-09-08T20:16:56+09:00",
     "updated_at": "2021-10-15T23:37:54+09:00",
     "id": "H-A-L"
@@ -538,7 +538,7 @@
   {
     "title": "Railsにおける命名規則",
     "url": "https://qiita.com/gakkie/items/3afcd505c786364aa5fa",
-    "likes_count": 302,
+    "likes_count": 304,
     "created_at": "2015-09-09T14:35:25+09:00",
     "updated_at": "2015-09-09T14:35:25+09:00",
     "id": "gakkie"

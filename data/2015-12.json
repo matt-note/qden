@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 4078,
+    "likes_count": 4079,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2743,
+    "likes_count": 2745,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -66,7 +66,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1620,
+    "likes_count": 1621,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -234,7 +234,7 @@
   {
     "title": "Pythonエラー一覧（日本語）",
     "url": "https://qiita.com/soutarrr7/items/84e529d87aa3b3a9adcb",
-    "likes_count": 751,
+    "likes_count": 752,
     "created_at": "2015-12-26T13:44:59+09:00",
     "updated_at": "2016-01-08T16:20:22+09:00",
     "id": "soutarrr7"
@@ -330,7 +330,7 @@
   {
     "title": "気をつけて！Git for Windowsにおける改行コード",
     "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 551,
+    "likes_count": 552,
     "created_at": "2015-12-25T23:01:51+09:00",
     "updated_at": "2018-12-11T08:34:12+09:00",
     "id": "uggds"
@@ -456,20 +456,20 @@
     "id": "koishi"
   },
   {
+    "title": "namespaceの賢い使い方",
+    "url": "https://qiita.com/_EnumHack/items/430da105a541f9ecd774",
+    "likes_count": 420,
+    "created_at": "2015-12-24T03:59:50+09:00",
+    "updated_at": "2020-05-28T18:15:40+09:00",
+    "id": "_EnumHack"
+  },
+  {
     "title": "ガチで Swift でプログラム組んで1年経っての心得",
     "url": "https://qiita.com/lovee/items/555a5b76097347aa2367",
     "likes_count": 419,
     "created_at": "2015-12-15T23:53:40+09:00",
     "updated_at": "2017-08-29T11:44:16+09:00",
     "id": "lovee"
-  },
-  {
-    "title": "namespaceの賢い使い方",
-    "url": "https://qiita.com/_EnumHack/items/430da105a541f9ecd774",
-    "likes_count": 419,
-    "created_at": "2015-12-24T03:59:50+09:00",
-    "updated_at": "2020-05-28T18:15:40+09:00",
-    "id": "_EnumHack"
   },
   {
     "title": "うっかり起動してしまった時間のかかるプロセスをtmux上に付け替えたい",
