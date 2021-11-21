@@ -4,7 +4,7 @@
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
     "likes_count": 3268,
     "created_at": "2019-03-30T03:08:22+09:00",
-    "updated_at": "2021-05-06T13:08:59+09:00",
+    "updated_at": "2021-11-21T13:01:21+09:00",
     "id": "upura"
   },
   {
@@ -50,7 +50,7 @@
   {
     "title": "2019年版Vue.jsを使ってる人には必ず知っていてほしいVue.jsの武器とドキュメントに書かれていないコンポーネントやメンテナンスの際に役立つTips",
     "url": "https://qiita.com/kahirokunn/items/6b4834b9a13406535f32",
-    "likes_count": 1690,
+    "likes_count": 1689,
     "created_at": "2019-03-01T19:00:42+09:00",
     "updated_at": "2020-05-02T01:51:17+09:00",
     "id": "kahirokunn"
@@ -90,7 +90,7 @@
   {
     "title": "３週間でAWS認定ソリューションアーキテクト-アソシエイト-とったので、勉強法などまとめてみる",
     "url": "https://qiita.com/fukubaka0825/items/238225f9e4c1962bc00c",
-    "likes_count": 1258,
+    "likes_count": 1259,
     "created_at": "2019-03-31T01:56:05+09:00",
     "updated_at": "2021-06-06T15:10:04+09:00",
     "id": "fukubaka0825"
@@ -242,7 +242,7 @@
   {
     "title": "「Railsは終わった」と言われる理由",
     "url": "https://qiita.com/klriutsa/items/86ac5e94ec99c0d95b61",
-    "likes_count": 670,
+    "likes_count": 671,
     "created_at": "2019-03-05T23:25:11+09:00",
     "updated_at": "2019-08-22T20:18:32+09:00",
     "id": "klriutsa"
@@ -250,7 +250,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 663,
+    "likes_count": 664,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -282,7 +282,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(導入編)",
     "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
-    "likes_count": 626,
+    "likes_count": 627,
     "created_at": "2019-03-27T22:24:09+09:00",
     "updated_at": "2020-03-30T18:47:49+09:00",
     "id": "AokabiC"
@@ -354,7 +354,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 482,
+    "likes_count": 483,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -378,7 +378,7 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 454,
+    "likes_count": 455,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"
@@ -418,7 +418,7 @@
   {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
     "url": "https://qiita.com/klriutsa/items/7f6047485968c61b6a5d",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2019-03-26T22:06:32+09:00",
     "updated_at": "2019-04-01T16:45:39+09:00",
     "id": "klriutsa"
@@ -456,20 +456,20 @@
     "id": "masachaco"
   },
   {
+    "title": "【Unity】ド素人からShaderを使えるようにまでに重宝したリンク集まとめ",
+    "url": "https://qiita.com/guru_taka/items/28c7cd5db4ce3a3bf287",
+    "likes_count": 385,
+    "created_at": "2019-03-02T21:33:36+09:00",
+    "updated_at": "2019-03-20T10:49:17+09:00",
+    "id": "guru_taka"
+  },
+  {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
     "likes_count": 385,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"
-  },
-  {
-    "title": "【Unity】ド素人からShaderを使えるようにまでに重宝したリンク集まとめ",
-    "url": "https://qiita.com/guru_taka/items/28c7cd5db4ce3a3bf287",
-    "likes_count": 384,
-    "created_at": "2019-03-02T21:33:36+09:00",
-    "updated_at": "2019-03-20T10:49:17+09:00",
-    "id": "guru_taka"
   },
   {
     "title": "誰でもわかりやすいGitのコミットメッセージが書けるジェネレーターを作りました",
@@ -594,7 +594,7 @@
   {
     "title": "C++ の文字列操作まとめ",
     "url": "https://qiita.com/MasahiroBW/items/3f56b22a079cd3272cd3",
-    "likes_count": 279,
+    "likes_count": 280,
     "created_at": "2019-03-10T22:03:33+09:00",
     "updated_at": "2020-09-11T10:05:47+09:00",
     "id": "MasahiroBW"
