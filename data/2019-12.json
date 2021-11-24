@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2657,
+    "likes_count": 2658,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -42,7 +42,7 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年10月25日更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 1842,
+    "likes_count": 1843,
     "created_at": "2019-12-20T15:18:16+09:00",
     "updated_at": "2021-10-25T09:24:03+09:00",
     "id": "kamesennin"
@@ -50,7 +50,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1703,
+    "likes_count": 1705,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2021-08-02T17:06:13+09:00",
     "id": "hirokidaichi"
@@ -98,7 +98,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1280,
+    "likes_count": 1281,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -234,7 +234,7 @@
   {
     "title": "\"技術的負債\"論の道案内 - アーキテクチャの資本コストと情報の非対称性",
     "url": "https://qiita.com/hirokidaichi/items/c66682a64ac2fc59cdf3",
-    "likes_count": 659,
+    "likes_count": 660,
     "created_at": "2019-12-19T08:11:33+09:00",
     "updated_at": "2019-12-19T13:44:00+09:00",
     "id": "hirokidaichi"
@@ -248,20 +248,20 @@
     "id": "kazukimatsumoto"
   },
   {
+    "title": "lodash やめ方",
+    "url": "https://qiita.com/mizchi/items/af17f45d5653b76f6751",
+    "likes_count": 631,
+    "created_at": "2019-12-23T16:40:55+09:00",
+    "updated_at": "2019-12-23T17:15:02+09:00",
+    "id": "mizchi"
+  },
+  {
     "title": "本当にあったAWSでやらかした話と対策😭",
     "url": "https://qiita.com/kaito_suzuki/items/70a320efcc6a050be3d9",
     "likes_count": 630,
     "created_at": "2019-12-03T21:01:57+09:00",
     "updated_at": "2019-12-04T07:01:57+09:00",
     "id": "kaito_suzuki"
-  },
-  {
-    "title": "lodash やめ方",
-    "url": "https://qiita.com/mizchi/items/af17f45d5653b76f6751",
-    "likes_count": 630,
-    "created_at": "2019-12-23T16:40:55+09:00",
-    "updated_at": "2019-12-23T17:15:02+09:00",
-    "id": "mizchi"
   },
   {
     "title": "ゴリゴリの文系がＡＩをほぼ独学した半年",
@@ -370,7 +370,7 @@
   {
     "title": "メールというインターネットの闇とIPレピュテーション（だけど重要）(前編)",
     "url": "https://qiita.com/nfujita55a/items/5848fcfbbe6cbf7d98c3",
-    "likes_count": 468,
+    "likes_count": 467,
     "created_at": "2019-12-12T20:14:41+09:00",
     "updated_at": "2019-12-21T01:22:19+09:00",
     "id": "nfujita55a"
@@ -386,7 +386,7 @@
   {
     "title": "【Python】10分でイキリ高校生がブロックチェーンを初心者に解説してやる！！！",
     "url": "https://qiita.com/sa2shun/items/f4991357ece3303c7167",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2019-12-12T13:58:12+09:00",
     "updated_at": "2019-12-13T22:52:45+09:00",
     "id": "sa2shun"
@@ -410,10 +410,18 @@
   {
     "title": "機械学習で使用する手法を全公開",
     "url": "https://qiita.com/Saku731/items/61b629fe608ede59a3f5",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2019-12-26T14:14:50+09:00",
     "updated_at": "2021-03-26T11:26:41+09:00",
     "id": "Saku731"
+  },
+  {
+    "title": "NestJSのススメ ～Expressを超えてゆけ～",
+    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
+    "likes_count": 395,
+    "created_at": "2019-12-22T15:46:56+09:00",
+    "updated_at": "2020-04-18T20:27:13+09:00",
+    "id": "elipmoc101"
   },
   {
     "title": "Microsoft Azure のオススメの学習方法についてまとめてみる",
@@ -424,17 +432,9 @@
     "id": "nakazax"
   },
   {
-    "title": "NestJSのススメ ～Expressを超えてゆけ～",
-    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 394,
-    "created_at": "2019-12-22T15:46:56+09:00",
-    "updated_at": "2020-04-18T20:27:13+09:00",
-    "id": "elipmoc101"
-  },
-  {
     "title": "令和時代に「Spring入門」「Spring徹底入門」を読むとき気をつけるべきN個のこと",
     "url": "https://qiita.com/suke_masa/items/392976749fce94a8ef1f",
-    "likes_count": 391,
+    "likes_count": 390,
     "created_at": "2019-12-31T11:24:07+09:00",
     "updated_at": "2020-10-16T13:09:32+09:00",
     "id": "suke_masa"
@@ -450,7 +450,7 @@
   {
     "title": "jsのimportとrequireの違い",
     "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2019-12-11T18:25:57+09:00",
     "updated_at": "2019-12-11T18:25:57+09:00",
     "id": "minato-naka"

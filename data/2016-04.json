@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2058,
+    "likes_count": 2060,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -130,7 +130,7 @@
   {
     "title": "Excelファイルを C# と VB.NET で読み込む \"正しい\" 方法",
     "url": "https://qiita.com/midori44/items/acab9106e6dad9653e73",
-    "likes_count": 902,
+    "likes_count": 903,
     "created_at": "2016-04-11T08:46:25+09:00",
     "updated_at": "2021-09-28T00:34:52+09:00",
     "id": "midori44"
@@ -218,7 +218,7 @@
   {
     "title": "Thymeleafチートシート",
     "url": "https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482",
-    "likes_count": 668,
+    "likes_count": 667,
     "created_at": "2016-04-18T07:25:38+09:00",
     "updated_at": "2018-04-23T18:05:39+09:00",
     "id": "NagaokaKenichi"
@@ -266,7 +266,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 561,
+    "likes_count": 562,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -378,7 +378,7 @@
   {
     "title": "決定版!!Haml小技まとめ！！",
     "url": "https://qiita.com/yukimura1227/items/a1cbf65ac9abd4d138e1",
-    "likes_count": 421,
+    "likes_count": 422,
     "created_at": "2016-04-17T00:47:36+09:00",
     "updated_at": "2018-11-29T16:09:46+09:00",
     "id": "yukimura1227"
@@ -456,20 +456,20 @@
     "id": "yh0sh"
   },
   {
+    "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
+    "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
+    "likes_count": 376,
+    "created_at": "2016-04-15T01:30:46+09:00",
+    "updated_at": "2019-10-28T14:55:45+09:00",
+    "id": "Yinaura"
+  },
+  {
     "title": "LINE Bot を AWSを使ってシステム構築してみた。",
     "url": "https://qiita.com/hiyuzawa/items/10e7bf2f6ad5d1c7fc9c",
     "likes_count": 375,
     "created_at": "2016-04-17T17:19:05+09:00",
     "updated_at": "2021-05-19T23:14:49+09:00",
     "id": "hiyuzawa"
-  },
-  {
-    "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
-    "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
-    "likes_count": 374,
-    "created_at": "2016-04-15T01:30:46+09:00",
-    "updated_at": "2019-10-28T14:55:45+09:00",
-    "id": "Yinaura"
   },
   {
     "title": "Amazon Cognito User Poolsを使って、webサイトにユーザ認証基盤を作る",

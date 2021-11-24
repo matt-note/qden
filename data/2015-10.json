@@ -42,10 +42,18 @@
   {
     "title": "Rails開発におけるwebサーバーとアプリケーションサーバーの違い（翻訳）",
     "url": "https://qiita.com/jnchito/items/3884f9a2ccc057f8f3a3",
-    "likes_count": 1539,
+    "likes_count": 1540,
     "created_at": "2015-10-21T04:02:56+09:00",
     "updated_at": "2020-11-08T08:06:23+09:00",
     "id": "jnchito"
+  },
+  {
+    "title": "Amazon EC2 Container Service(ECS)の概念整理",
+    "url": "https://qiita.com/NewGyu/items/9597ed2eda763bd504d7",
+    "likes_count": 1177,
+    "created_at": "2015-10-17T00:40:24+09:00",
+    "updated_at": "2020-05-06T13:33:41+09:00",
+    "id": "NewGyu"
   },
   {
     "title": "Redis 本番障害から学んだコードレビューの勘所",
@@ -54,14 +62,6 @@
     "created_at": "2015-10-26T19:32:33+09:00",
     "updated_at": "2015-10-27T15:40:33+09:00",
     "id": "haminiku"
-  },
-  {
-    "title": "Amazon EC2 Container Service(ECS)の概念整理",
-    "url": "https://qiita.com/NewGyu/items/9597ed2eda763bd504d7",
-    "likes_count": 1176,
-    "created_at": "2015-10-17T00:40:24+09:00",
-    "updated_at": "2020-05-06T13:33:41+09:00",
-    "id": "NewGyu"
   },
   {
     "title": "サーバーレスアーキテクチャという技術分野についての簡単な調査",
@@ -474,7 +474,7 @@
   {
     "title": "Slack APIを使用してメッセージを送信する",
     "url": "https://qiita.com/rubytomato@github/items/6558bfdb37d982891c09",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2015-10-10T18:31:34+09:00",
     "updated_at": "2015-10-12T04:08:21+09:00",
     "id": "rubytomato@github"
