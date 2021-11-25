@@ -26,7 +26,7 @@
   {
     "title": "うまくクラス名を付けるための参考情報",
     "url": "https://qiita.com/KeithYokoma/items/ee21fec6a3ebb5d1e9a8",
-    "likes_count": 2186,
+    "likes_count": 2188,
     "created_at": "2015-09-16T11:30:40+09:00",
     "updated_at": "2015-09-16T11:30:40+09:00",
     "id": "KeithYokoma"
@@ -58,7 +58,7 @@
   {
     "title": "トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた",
     "url": "https://qiita.com/uasi/items/cfb60588daa18c2ec6f5",
-    "likes_count": 1671,
+    "likes_count": 1674,
     "created_at": "2015-09-25T19:18:30+09:00",
     "updated_at": "2019-05-08T21:41:02+09:00",
     "id": "uasi"
@@ -122,7 +122,7 @@
   {
     "title": "JavaScriptの「&&」「||」について盛大に勘違いをしていた件",
     "url": "https://qiita.com/Imamotty/items/bc659569239379dded55",
-    "likes_count": 1262,
+    "likes_count": 1263,
     "created_at": "2015-09-12T01:28:15+09:00",
     "updated_at": "2015-09-12T08:07:39+09:00",
     "id": "Imamotty"
@@ -138,7 +138,7 @@
   {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 1010,
+    "likes_count": 1011,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2019-02-03T11:37:52+09:00",
     "id": "ryouzi"
@@ -146,7 +146,7 @@
   {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
-    "likes_count": 1009,
+    "likes_count": 1010,
     "created_at": "2015-09-24T01:06:14+09:00",
     "updated_at": "2021-10-12T00:13:04+09:00",
     "id": "nightyknite"
@@ -154,7 +154,7 @@
   {
     "title": "Kotlin スコープ関数 用途まとめ",
     "url": "https://qiita.com/ngsw_taro/items/d29e3080d9fc8a38691e",
-    "likes_count": 979,
+    "likes_count": 980,
     "created_at": "2015-09-29T13:03:50+09:00",
     "updated_at": "2021-07-06T10:38:52+09:00",
     "id": "ngsw_taro"
@@ -178,7 +178,7 @@
   {
     "title": "PostgreSQLの基本的なコマンド",
     "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 862,
+    "likes_count": 863,
     "created_at": "2015-09-08T20:16:56+09:00",
     "updated_at": "2021-10-15T23:37:54+09:00",
     "id": "H-A-L"
@@ -424,20 +424,20 @@
     "id": "HideMatsu"
   },
   {
+    "title": "任意のサイトで任意のJavaScriptを自動実行させるChrome拡張",
+    "url": "https://qiita.com/nakajmg/items/bcbf0e5debcfa70c8d63",
+    "likes_count": 362,
+    "created_at": "2015-09-23T12:16:40+09:00",
+    "updated_at": "2015-09-23T19:42:26+09:00",
+    "id": "nakajmg"
+  },
+  {
     "title": "ESLintのエラールール。日本語ざっくり解説[ベストプラクティス編]",
     "url": "https://qiita.com/M-ISO/items/4cd183e2496c2937a53e",
     "likes_count": 362,
     "created_at": "2015-09-26T01:13:12+09:00",
     "updated_at": "2019-09-25T18:39:33+09:00",
     "id": "M-ISO"
-  },
-  {
-    "title": "任意のサイトで任意のJavaScriptを自動実行させるChrome拡張",
-    "url": "https://qiita.com/nakajmg/items/bcbf0e5debcfa70c8d63",
-    "likes_count": 361,
-    "created_at": "2015-09-23T12:16:40+09:00",
-    "updated_at": "2015-09-23T19:42:26+09:00",
-    "id": "nakajmg"
   },
   {
     "title": "GASのExecution APIを使ってGASを外部からぶっ叩く",
@@ -498,7 +498,7 @@
   {
     "title": "[PHP] 配列・連想配列の初期化、結合、追加",
     "url": "https://qiita.com/shuntaro_tamura/items/784cfd61f355516dfff0",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2015-09-12T16:57:23+09:00",
     "updated_at": "2015-09-12T16:57:23+09:00",
     "id": "shuntaro_tamura"
@@ -520,20 +520,20 @@
     "id": "tetsuy"
   },
   {
+    "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
+    "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
+    "likes_count": 309,
+    "created_at": "2015-09-11T00:15:29+09:00",
+    "updated_at": "2015-09-11T00:16:04+09:00",
+    "id": "moriyaman"
+  },
+  {
     "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",
     "url": "https://qiita.com/shizuma/items/c8c2e71af8c1dcf3d1c2",
     "likes_count": 308,
     "created_at": "2015-09-09T13:02:55+09:00",
     "updated_at": "2020-01-25T14:29:48+09:00",
     "id": "shizuma"
-  },
-  {
-    "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
-    "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
-    "likes_count": 308,
-    "created_at": "2015-09-11T00:15:29+09:00",
-    "updated_at": "2015-09-11T00:16:04+09:00",
-    "id": "moriyaman"
   },
   {
     "title": "Railsにおける命名規則",

@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4048,
+    "likes_count": 4049,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/f795fe3e661a3349a7ce",
-    "likes_count": 3366,
+    "likes_count": 3367,
     "created_at": "2016-01-08T14:56:09+09:00",
     "updated_at": "2021-10-08T20:24:15+09:00",
     "id": "naoki_mochizuki"
@@ -66,7 +66,7 @@
   {
     "title": "LSTMネットワークの概要",
     "url": "https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca",
-    "likes_count": 1426,
+    "likes_count": 1427,
     "created_at": "2016-01-08T18:22:20+09:00",
     "updated_at": "2017-12-11T08:57:51+09:00",
     "id": "KojiOhki"
@@ -82,7 +82,7 @@
   {
     "title": "AWSのネットワーク設計をサボらないでちゃんとやる",
     "url": "https://qiita.com/nisshiee/items/df4261132ec686964605",
-    "likes_count": 1206,
+    "likes_count": 1205,
     "created_at": "2016-01-05T16:17:42+09:00",
     "updated_at": "2016-01-21T17:46:58+09:00",
     "id": "nisshiee"
@@ -188,7 +188,7 @@
     "url": "https://qiita.com/naoki_mochizuki/items/814e0979217b1a25aa3e",
     "likes_count": 856,
     "created_at": "2016-01-12T16:00:04+09:00",
-    "updated_at": "2021-10-08T20:25:10+09:00",
+    "updated_at": "2021-11-25T21:05:34+09:00",
     "id": "naoki_mochizuki"
   },
   {
@@ -258,7 +258,7 @@
   {
     "title": "Rails：Service層を運用して良かったところ、悪かったところ",
     "url": "https://qiita.com/joooee0000/items/369fd4676cd9dfb1f6eb",
-    "likes_count": 620,
+    "likes_count": 621,
     "created_at": "2016-01-28T23:09:44+09:00",
     "updated_at": "2018-05-25T13:27:30+09:00",
     "id": "joooee0000"
@@ -362,7 +362,7 @@
   {
     "title": "TypeScript超入門(2)：構文を理解する",
     "url": "https://qiita.com/ringtail003/items/7ccf992f18b768e0e633",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2016-01-09T16:56:38+09:00",
     "updated_at": "2018-10-17T21:23:09+09:00",
     "id": "ringtail003"
@@ -688,20 +688,20 @@
     "id": "nkjm"
   },
   {
+    "title": "Raspberry Pi Zero(W, WH, 2 W?)のセットアップ",
+    "url": "https://qiita.com/hishi/items/8bdfd9d72fa8fe2e7573",
+    "likes_count": 284,
+    "created_at": "2016-01-05T23:19:41+09:00",
+    "updated_at": "2021-11-16T00:15:53+09:00",
+    "id": "hishi"
+  },
+  {
     "title": "Vagrant+Dockerなんて使わなければよかった・・・",
     "url": "https://qiita.com/korezen/items/29d8ffd4b2c13989a96b",
     "likes_count": 284,
     "created_at": "2016-01-29T01:01:11+09:00",
     "updated_at": "2017-12-14T20:09:19+09:00",
     "id": "korezen"
-  },
-  {
-    "title": "Raspberry Pi Zero(W, WH, 2 W?)のセットアップ",
-    "url": "https://qiita.com/hishi/items/8bdfd9d72fa8fe2e7573",
-    "likes_count": 283,
-    "created_at": "2016-01-05T23:19:41+09:00",
-    "updated_at": "2021-11-16T00:15:53+09:00",
-    "id": "hishi"
   },
   {
     "title": "プログラムいらず！vimで手動スクレイピング",
