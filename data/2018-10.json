@@ -10,7 +10,7 @@
   {
     "title": "AWS認定11冠制覇したのでオススメの勉強法などをまとめてみる",
     "url": "https://qiita.com/nakazax/items/20458e146d3d9f2aa615",
-    "likes_count": 2348,
+    "likes_count": 2349,
     "created_at": "2018-10-15T09:01:09+09:00",
     "updated_at": "2020-05-01T15:01:55+09:00",
     "id": "nakazax"
@@ -50,7 +50,7 @@
   {
     "title": "Python + Selenium で Chrome の自動操作を一通り",
     "url": "https://qiita.com/memakura/items/20a02161fa7e18d8a693",
-    "likes_count": 1399,
+    "likes_count": 1400,
     "created_at": "2018-10-14T13:39:44+09:00",
     "updated_at": "2018-10-16T06:19:27+09:00",
     "id": "memakura"
@@ -202,7 +202,7 @@
   {
     "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
     "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
-    "likes_count": 674,
+    "likes_count": 675,
     "created_at": "2018-10-08T20:38:40+09:00",
     "updated_at": "2021-10-29T15:31:14+09:00",
     "id": "little_hand_s"
@@ -226,9 +226,9 @@
   {
     "title": "TypeScriptの型初級",
     "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
-    "likes_count": 635,
+    "likes_count": 636,
     "created_at": "2018-10-24T18:49:35+09:00",
-    "updated_at": "2020-03-19T14:19:40+09:00",
+    "updated_at": "2021-11-28T14:24:19+09:00",
     "id": "uhyo"
   },
   {
@@ -292,7 +292,7 @@
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 547,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2021-11-27T19:31:29+09:00",
+    "updated_at": "2021-11-28T19:31:27+09:00",
     "id": "kai_kou"
   },
   {
@@ -346,7 +346,7 @@
   {
     "title": "リポジトリのcloneとforkの違い",
     "url": "https://qiita.com/matsubox/items/09904e4c51e6bc267990",
-    "likes_count": 468,
+    "likes_count": 469,
     "created_at": "2018-10-07T15:14:11+09:00",
     "updated_at": "2018-10-07T15:14:11+09:00",
     "id": "matsubox"
@@ -360,20 +360,20 @@
     "id": "samuraikun"
   },
   {
+    "title": "TypeScript で型定義ファイル( d.ts )がないときの対処法",
+    "url": "https://qiita.com/Nossa/items/726cc3e67527e896ed1e",
+    "likes_count": 462,
+    "created_at": "2018-10-26T07:49:38+09:00",
+    "updated_at": "2018-10-26T07:49:38+09:00",
+    "id": "Nossa"
+  },
+  {
     "title": "AmazonECS / Fargate 本番運用のための構築とデプロイ方法まとめ",
     "url": "https://qiita.com/HiromuMasuda0228/items/2170032142ae1c33adcc",
     "likes_count": 461,
     "created_at": "2018-10-21T16:47:41+09:00",
     "updated_at": "2018-10-21T16:47:41+09:00",
     "id": "HiromuMasuda0228"
-  },
-  {
-    "title": "TypeScript で型定義ファイル( d.ts )がないときの対処法",
-    "url": "https://qiita.com/Nossa/items/726cc3e67527e896ed1e",
-    "likes_count": 461,
-    "created_at": "2018-10-26T07:49:38+09:00",
-    "updated_at": "2018-10-26T07:49:38+09:00",
-    "id": "Nossa"
   },
   {
     "title": "Kaggle Masterが勾配ブースティングを解説する",
@@ -402,7 +402,7 @@
   {
     "title": "Go言語開発を便利にするMakefileの書き方",
     "url": "https://qiita.com/yoskeoka/items/317a3afab370155b3ae8",
-    "likes_count": 418,
+    "likes_count": 417,
     "created_at": "2018-10-18T01:09:40+09:00",
     "updated_at": "2018-10-19T23:17:57+09:00",
     "id": "yoskeoka"
@@ -504,20 +504,20 @@
     "id": "namoshika"
   },
   {
+    "title": "RuboCop is 何？",
+    "url": "https://qiita.com/tomohiii/items/1a17018b5a48b8284a8b",
+    "likes_count": 290,
+    "created_at": "2018-10-07T21:50:56+09:00",
+    "updated_at": "2020-02-26T15:16:21+09:00",
+    "id": "tomohiii"
+  },
+  {
     "title": "データサイエンスを独学した一年のまとめ",
     "url": "https://qiita.com/Hailee/items/e04645fecc4b55e828fe",
     "likes_count": 290,
     "created_at": "2018-10-17T11:33:04+09:00",
     "updated_at": "2020-07-14T14:54:02+09:00",
     "id": "Hailee"
-  },
-  {
-    "title": "RuboCop is 何？",
-    "url": "https://qiita.com/tomohiii/items/1a17018b5a48b8284a8b",
-    "likes_count": 289,
-    "created_at": "2018-10-07T21:50:56+09:00",
-    "updated_at": "2020-02-26T15:16:21+09:00",
-    "id": "tomohiii"
   },
   {
     "title": "JavaによるWebアプリケーションの仕組みをざっくり説明",

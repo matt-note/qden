@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 2750,
+    "likes_count": 2752,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -26,7 +26,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2673,
+    "likes_count": 2674,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2021-11-15T07:10:13+09:00",
     "id": "yasuhiroki"
@@ -82,7 +82,7 @@
   {
     "title": "Ansibleをはじめる人に。",
     "url": "https://qiita.com/t_nakayama0714/items/fe55ee56d6446f67113c",
-    "likes_count": 1485,
+    "likes_count": 1486,
     "created_at": "2015-12-20T23:20:14+09:00",
     "updated_at": "2018-08-01T08:37:18+09:00",
     "id": "t_nakayama0714"
@@ -114,7 +114,7 @@
   {
     "title": "さいきょうの二重サブミット対策",
     "url": "https://qiita.com/syobochim/items/120109315f671918f28d",
-    "likes_count": 1239,
+    "likes_count": 1240,
     "created_at": "2015-12-23T00:06:40+09:00",
     "updated_at": "2015-12-23T11:28:45+09:00",
     "id": "syobochim"
@@ -672,14 +672,6 @@
     "id": "ktmg"
   },
   {
-    "title": "[Python]Anacondaで仮想環境を作る",
-    "url": "https://qiita.com/supersaiakujin/items/50def6f33b79f9a61b18",
-    "likes_count": 313,
-    "created_at": "2015-12-26T17:56:11+09:00",
-    "updated_at": "2016-02-15T12:51:15+09:00",
-    "id": "supersaiakujin"
-  },
-  {
     "title": "ECMAScript6のアロー関数とPromiseまとめ - JavaScript",
     "url": "https://qiita.com/takeharu/items/c23998d22903e6d3c1d9",
     "likes_count": 312,
@@ -694,6 +686,14 @@
     "created_at": "2015-12-16T00:02:32+09:00",
     "updated_at": "2020-07-03T10:08:53+09:00",
     "id": "ienaga"
+  },
+  {
+    "title": "[Python]Anacondaで仮想環境を作る",
+    "url": "https://qiita.com/supersaiakujin/items/50def6f33b79f9a61b18",
+    "likes_count": 312,
+    "created_at": "2015-12-26T17:56:11+09:00",
+    "updated_at": "2016-02-15T12:51:15+09:00",
+    "id": "supersaiakujin"
   },
   {
     "title": "AWS IoTとRaspberry Pi使って、プランターの野菜を救う！",
