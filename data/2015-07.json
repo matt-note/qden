@@ -34,7 +34,7 @@
   {
     "title": "Docker Compose - docker-compose.yml リファレンス",
     "url": "https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa",
-    "likes_count": 1577,
+    "likes_count": 1578,
     "created_at": "2015-07-09T21:35:36+09:00",
     "updated_at": "2019-04-08T16:24:01+09:00",
     "id": "zembutsu"
@@ -74,7 +74,7 @@
   {
     "title": "Docker 入門ハンズオン資料",
     "url": "https://qiita.com/zembutsu/items/891c7ffd2c36097400b1",
-    "likes_count": 1317,
+    "likes_count": 1318,
     "created_at": "2015-07-06T14:12:32+09:00",
     "updated_at": "2015-07-07T18:57:24+09:00",
     "id": "zembutsu"
@@ -90,7 +90,7 @@
   {
     "title": "脱ファイルサーバ！！個人でも会社でも使えるOSSのドキュメント管理システム！その名も「Alfresco」！",
     "url": "https://qiita.com/sadayuki-matsuno/items/f57b5f01789080cfc1a0",
-    "likes_count": 1118,
+    "likes_count": 1119,
     "created_at": "2015-07-19T05:57:12+09:00",
     "updated_at": "2016-05-11T18:19:51+09:00",
     "id": "sadayuki-matsuno"
@@ -146,7 +146,7 @@
   {
     "title": "色々な git stash",
     "url": "https://qiita.com/akasakas/items/768c0b563b96f8a9be9d",
-    "likes_count": 859,
+    "likes_count": 860,
     "created_at": "2015-07-05T15:11:08+09:00",
     "updated_at": "2017-08-02T15:37:41+09:00",
     "id": "akasakas"
@@ -376,6 +376,14 @@
     "id": "zaburo"
   },
   {
+    "title": "良く分かるMySQL Innodbのギャップロック",
+    "url": "https://qiita.com/kenjiszk/items/05f7f6e695b93570a9e1",
+    "likes_count": 348,
+    "created_at": "2015-07-26T21:28:46+09:00",
+    "updated_at": "2017-02-14T11:42:13+09:00",
+    "id": "kenjiszk"
+  },
+  {
     "title": "<input type=submit>は止めて<button type=submit>を使うべき",
     "url": "https://qiita.com/irxground/items/c8537d30e9760c5b3e5c",
     "likes_count": 347,
@@ -384,17 +392,9 @@
     "id": "irxground"
   },
   {
-    "title": "良く分かるMySQL Innodbのギャップロック",
-    "url": "https://qiita.com/kenjiszk/items/05f7f6e695b93570a9e1",
-    "likes_count": 347,
-    "created_at": "2015-07-26T21:28:46+09:00",
-    "updated_at": "2017-02-14T11:42:13+09:00",
-    "id": "kenjiszk"
-  },
-  {
     "title": "テキストの縦方向の中央揃えについて",
     "url": "https://qiita.com/Shinji-m/items/69a392685699f3ba95fb",
-    "likes_count": 339,
+    "likes_count": 338,
     "created_at": "2015-07-25T01:06:06+09:00",
     "updated_at": "2015-07-30T14:42:25+09:00",
     "id": "Shinji-m"
