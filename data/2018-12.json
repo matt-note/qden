@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1609,
+    "likes_count": 1610,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2020-09-24T23:30:02+09:00",
     "id": "masaibar"
@@ -90,7 +90,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1073,
+    "likes_count": 1074,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -204,13 +204,13 @@
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
     "likes_count": 779,
     "created_at": "2018-12-11T13:44:33+09:00",
-    "updated_at": "2021-11-21T18:32:38+09:00",
+    "updated_at": "2021-11-30T21:34:50+09:00",
     "id": "cha84rakanal"
   },
   {
     "title": "過去の難案件 PS2のカーネル開発",
     "url": "https://qiita.com/YukiMiyatake/items/dbdd8a45615e476810ce",
-    "likes_count": 751,
+    "likes_count": 752,
     "created_at": "2018-12-27T02:33:34+09:00",
     "updated_at": "2020-01-08T13:35:29+09:00",
     "id": "YukiMiyatake"
@@ -322,7 +322,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 523,
+    "likes_count": 526,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2021-07-12T12:15:57+09:00",
     "id": "syantien"
@@ -330,7 +330,7 @@
   {
     "title": "ExcelにPythonが搭載？その後 - xlwings を使おう ",
     "url": "https://qiita.com/yniji/items/b38bc312e860027108ac",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2018-12-24T19:58:52+09:00",
     "updated_at": "2019-01-22T16:00:41+09:00",
     "id": "yniji"
@@ -386,7 +386,7 @@
   {
     "title": "package-lock.jsonについて知りたくても聞けなかったこと",
     "url": "https://qiita.com/fj_yohei/items/7ca887a45e0855917279",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2018-12-03T15:34:09+09:00",
     "updated_at": "2020-07-11T13:34:36+09:00",
     "id": "fj_yohei"
@@ -434,7 +434,7 @@
   {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
     "url": "https://qiita.com/po3rin/items/c70105f684e6816621d2",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
@@ -544,6 +544,14 @@
     "id": "_takeshi_24"
   },
   {
+    "title": "Web API初心者と学ぶGraphQL",
+    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
+    "likes_count": 372,
+    "created_at": "2018-12-20T03:46:56+09:00",
+    "updated_at": "2021-10-12T15:09:10+09:00",
+    "id": "SiragumoHuin"
+  },
+  {
     "title": "SOLID原則について簡単に書く",
     "url": "https://qiita.com/yui_mop/items/93fef037a787318e7067",
     "likes_count": 371,
@@ -552,17 +560,9 @@
     "id": "yui_mop"
   },
   {
-    "title": "Web API初心者と学ぶGraphQL",
-    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 371,
-    "created_at": "2018-12-20T03:46:56+09:00",
-    "updated_at": "2021-10-12T15:09:10+09:00",
-    "id": "SiragumoHuin"
-  },
-  {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 364,
+    "likes_count": 365,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -578,7 +578,7 @@
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
     "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
-    "likes_count": 357,
+    "likes_count": 358,
     "created_at": "2018-12-06T00:54:09+09:00",
     "updated_at": "2018-12-06T00:55:45+09:00",
     "id": "yuneco"
@@ -616,20 +616,20 @@
     "id": "tsin1rou"
   },
   {
+    "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
+    "url": "https://qiita.com/jiny2001/items/e2175b52013bf655d617",
+    "likes_count": 335,
+    "created_at": "2018-12-26T00:48:06+09:00",
+    "updated_at": "2018-12-27T15:55:41+09:00",
+    "id": "jiny2001"
+  },
+  {
     "title": "月数100万アクセスをDB使わず超簡単にさばく",
     "url": "https://qiita.com/Hisashi_vc/items/a50b49ad6a75d51c880a",
     "likes_count": 334,
     "created_at": "2018-12-17T13:37:31+09:00",
     "updated_at": "2018-12-17T13:37:31+09:00",
     "id": "Hisashi_vc"
-  },
-  {
-    "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
-    "url": "https://qiita.com/jiny2001/items/e2175b52013bf655d617",
-    "likes_count": 334,
-    "created_at": "2018-12-26T00:48:06+09:00",
-    "updated_at": "2018-12-27T15:55:41+09:00",
-    "id": "jiny2001"
   },
   {
     "title": "フロントエンドでTDDを実践する（理論編）",
@@ -736,20 +736,20 @@
     "id": "redshoga"
   },
   {
+    "title": "段階的に理解する Java 例外処理",
+    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
+    "likes_count": 282,
+    "created_at": "2018-12-21T23:27:05+09:00",
+    "updated_at": "2018-12-26T11:18:48+09:00",
+    "id": "ts7i"
+  },
+  {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
     "url": "https://qiita.com/Hailee/items/781e33e2474e254fdd7c",
     "likes_count": 281,
     "created_at": "2018-12-20T16:11:54+09:00",
     "updated_at": "2020-07-14T14:57:29+09:00",
     "id": "Hailee"
-  },
-  {
-    "title": "段階的に理解する Java 例外処理",
-    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 281,
-    "created_at": "2018-12-21T23:27:05+09:00",
-    "updated_at": "2018-12-26T11:18:48+09:00",
-    "id": "ts7i"
   },
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
