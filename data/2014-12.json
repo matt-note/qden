@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1814,
+    "likes_count": 1813,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2021-02-11T09:21:27+09:00",
     "id": "jnchito"
@@ -58,7 +58,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1353,
+    "likes_count": 1352,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2021-10-20T18:10:09+09:00",
     "id": "kunichiko"
@@ -66,7 +66,7 @@
   {
     "title": "機械学習をこれから始める人に押さえておいてほしいこと",
     "url": "https://qiita.com/IshitaTakeshi/items/4607d9f729babd273960",
-    "likes_count": 1300,
+    "likes_count": 1299,
     "created_at": "2014-12-06T10:35:31+09:00",
     "updated_at": "2016-04-05T20:14:24+09:00",
     "id": "IshitaTakeshi"
@@ -226,7 +226,7 @@
   {
     "title": "Groovyを知らない人のためのbuild.gradle読み書き入門",
     "url": "https://qiita.com/opengl-8080/items/a0bb31fb20cb6505188b",
-    "likes_count": 644,
+    "likes_count": 645,
     "created_at": "2014-12-15T00:57:20+09:00",
     "updated_at": "2019-01-13T10:32:56+09:00",
     "id": "opengl-8080"
@@ -242,7 +242,7 @@
   {
     "title": "Spring MVCのコントローラでの戻り値いろいろ",
     "url": "https://qiita.com/tag1216/items/3680b92cf96eb5a170f0",
-    "likes_count": 624,
+    "likes_count": 625,
     "created_at": "2014-12-17T22:18:43+09:00",
     "updated_at": "2014-12-17T22:21:08+09:00",
     "id": "tag1216"
@@ -378,7 +378,7 @@
   {
     "title": "nginxパフォーマンスチューニング〜静的コンテンツ配信編〜",
     "url": "https://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd",
-    "likes_count": 512,
+    "likes_count": 513,
     "created_at": "2014-12-16T03:53:44+09:00",
     "updated_at": "2015-12-08T21:59:14+09:00",
     "id": "cubicdaiya"
@@ -562,10 +562,18 @@
   {
     "title": "SVMを使いこなす！チェックポイント8つ",
     "url": "https://qiita.com/pika_shi/items/5e59bcf69e85fdd9edb2",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2014-12-16T08:22:35+09:00",
     "updated_at": "2014-12-16T08:22:35+09:00",
     "id": "pika_shi"
+  },
+  {
+    "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
+    "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
+    "likes_count": 375,
+    "created_at": "2014-12-18T22:53:36+09:00",
+    "updated_at": "2015-02-14T18:30:30+09:00",
+    "id": "y_hokkey"
   },
   {
     "title": "React.jsの地味だけど重要なkeyについて",
@@ -574,14 +582,6 @@
     "created_at": "2014-12-11T14:54:17+09:00",
     "updated_at": "2014-12-11T15:03:06+09:00",
     "id": "koba04"
-  },
-  {
-    "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
-    "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
-    "likes_count": 374,
-    "created_at": "2014-12-18T22:53:36+09:00",
-    "updated_at": "2015-02-14T18:30:30+09:00",
-    "id": "y_hokkey"
   },
   {
     "title": "Python ビット演算 超入門",

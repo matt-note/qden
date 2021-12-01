@@ -58,7 +58,7 @@
   {
     "title": "世界で通用するエンジニアになるための高度な技術記事（英語）",
     "url": "https://qiita.com/higty/items/f1f981719b1a59b9e020",
-    "likes_count": 949,
+    "likes_count": 948,
     "created_at": "2017-01-18T00:09:36+09:00",
     "updated_at": "2018-07-28T07:02:10+09:00",
     "id": "higty"
@@ -90,7 +90,7 @@
   {
     "title": "AWS ECSでDockerコンテナ管理入門（基本的な使い方、Blue/Green Deployment、AutoScalingなどいろいろ試してみた）",
     "url": "https://qiita.com/uzresk/items/6acc90e80b0a79b961ce",
-    "likes_count": 862,
+    "likes_count": 861,
     "created_at": "2017-01-12T13:56:29+09:00",
     "updated_at": "2021-03-05T10:58:02+09:00",
     "id": "uzresk"
@@ -98,7 +98,7 @@
   {
     "title": "Dockerで作る最強のWeb開発環境2017",
     "url": "https://qiita.com/osyoyu/items/a039b7e05abc6e97fb25",
-    "likes_count": 827,
+    "likes_count": 826,
     "created_at": "2017-01-28T12:50:29+09:00",
     "updated_at": "2017-01-29T11:05:31+09:00",
     "id": "osyoyu"
@@ -122,7 +122,7 @@
   {
     "title": "Fluxとはなんなのか",
     "url": "https://qiita.com/knhr__/items/5fec7571dab80e2dcd92",
-    "likes_count": 698,
+    "likes_count": 699,
     "created_at": "2017-01-31T21:13:00+09:00",
     "updated_at": "2019-05-26T14:54:08+09:00",
     "id": "knhr__"
@@ -154,7 +154,7 @@
   {
     "title": "TypeScriptチュートリアル① -環境構築編-",
     "url": "https://qiita.com/ochiochi/items/efdaa0ae7d8c972c8103",
-    "likes_count": 620,
+    "likes_count": 621,
     "created_at": "2017-01-19T12:15:12+09:00",
     "updated_at": "2021-10-16T14:05:28+09:00",
     "id": "ochiochi"
@@ -162,7 +162,7 @@
   {
     "title": "深入りしないCython入門 ",
     "url": "https://qiita.com/pashango2/items/45cb85390193d97523ca",
-    "likes_count": 599,
+    "likes_count": 600,
     "created_at": "2017-01-10T09:28:48+09:00",
     "updated_at": "2017-01-12T08:24:40+09:00",
     "id": "pashango2"
@@ -218,7 +218,7 @@
   {
     "title": "git rebase についてまとめてみた",
     "url": "https://qiita.com/KTakata/items/d33185fc0457c08654a5",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2017-01-17T19:56:41+09:00",
     "updated_at": "2020-01-22T09:15:19+09:00",
     "id": "KTakata"
@@ -360,20 +360,20 @@
     "id": "hogeta_"
   },
   {
-    "title": "【Docker】これは役に立つ!! docker-compose.ymlの例まとめ",
-    "url": "https://qiita.com/okamu_/items/1c8e5fde742ca165fa12",
-    "likes_count": 358,
-    "created_at": "2017-01-30T02:16:08+09:00",
-    "updated_at": "2017-01-31T23:02:06+09:00",
-    "id": "okamu_"
-  },
-  {
     "title": "Inside of Deep Learning あるいは深層学習は何を変えるのか",
     "url": "https://qiita.com/jiny2001/items/85af7dd163a63b3a152a",
     "likes_count": 357,
     "created_at": "2017-01-14T19:25:11+09:00",
     "updated_at": "2017-03-22T01:55:17+09:00",
     "id": "jiny2001"
+  },
+  {
+    "title": "【Docker】これは役に立つ!! docker-compose.ymlの例まとめ",
+    "url": "https://qiita.com/okamu_/items/1c8e5fde742ca165fa12",
+    "likes_count": 357,
+    "created_at": "2017-01-30T02:16:08+09:00",
+    "updated_at": "2017-01-31T23:02:06+09:00",
+    "id": "okamu_"
   },
   {
     "title": "printデバッグにさようなら！Ruby初心者のためのByebugチュートリアル",
@@ -432,20 +432,20 @@
     "id": "nenokido2000"
   },
   {
+    "title": "任意のログをlogrotateを使って管理する",
+    "url": "https://qiita.com/Esfahan/items/a8058f1eb593170855a1",
+    "likes_count": 283,
+    "created_at": "2017-01-24T23:14:23+09:00",
+    "updated_at": "2020-11-11T19:35:55+09:00",
+    "id": "Esfahan"
+  },
+  {
     "title": "Laravel open source project で参考になりそうなもの",
     "url": "https://qiita.com/acro5piano/items/8dc4597e12d9050c0708",
     "likes_count": 282,
     "created_at": "2017-01-17T00:46:39+09:00",
     "updated_at": "2018-10-10T01:15:07+09:00",
     "id": "acro5piano"
-  },
-  {
-    "title": "任意のログをlogrotateを使って管理する",
-    "url": "https://qiita.com/Esfahan/items/a8058f1eb593170855a1",
-    "likes_count": 282,
-    "created_at": "2017-01-24T23:14:23+09:00",
-    "updated_at": "2020-11-11T19:35:55+09:00",
-    "id": "Esfahan"
   },
   {
     "title": "Inside of Deep Learning （ディープラーニングの性能改善手法 一覧）",
@@ -458,7 +458,7 @@
   {
     "title": "はじめてのgdb",
     "url": "https://qiita.com/arene-calix/items/a08363db88f21c81d351",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2017-01-29T22:56:05+09:00",
     "updated_at": "2019-08-23T22:05:07+09:00",
     "id": "arene-calix"
