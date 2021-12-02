@@ -146,7 +146,7 @@
   {
     "title": "【JWT】 入門",
     "url": "https://qiita.com/Naoto9282/items/8427918564400968bd2b",
-    "likes_count": 730,
+    "likes_count": 733,
     "created_at": "2019-02-05T01:31:29+09:00",
     "updated_at": "2021-03-05T18:50:37+09:00",
     "id": "Naoto9282"
@@ -178,7 +178,7 @@
   {
     "title": "やってみようNoSQL　MongoDBを最速で理解する",
     "url": "https://qiita.com/Brutus/items/8a67a4db0fdc5a33d549",
-    "likes_count": 658,
+    "likes_count": 659,
     "created_at": "2019-02-19T01:01:37+09:00",
     "updated_at": "2021-02-15T20:49:48+09:00",
     "id": "Brutus"
@@ -216,20 +216,20 @@
     "id": "ryuichi1208"
   },
   {
+    "title": "TypeScriptの型演習",
+    "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
+    "likes_count": 569,
+    "created_at": "2019-02-23T18:09:59+09:00",
+    "updated_at": "2020-05-22T11:16:41+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "知らないと損をする「データ分析·サイエンス」サイト37選（ブログ＆オンラインコース）",
     "url": "https://qiita.com/Hailee/items/8828a265091f4b0c23d8",
     "likes_count": 568,
     "created_at": "2019-02-12T11:43:30+09:00",
     "updated_at": "2020-07-14T14:59:12+09:00",
     "id": "Hailee"
-  },
-  {
-    "title": "TypeScriptの型演習",
-    "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 568,
-    "created_at": "2019-02-23T18:09:59+09:00",
-    "updated_at": "2020-05-22T11:16:41+09:00",
-    "id": "uhyo"
   },
   {
     "title": "データサイエンスや機械学習のチートシートを最も効率的に収集する方法",
@@ -250,7 +250,7 @@
   {
     "title": "リビングの環境監視ダッシュボードを６０分で作る方法（Nature Remo Cloud APIとGoogleサービス連携）",
     "url": "https://qiita.com/t-chi/items/01b9a9b98fbccef880c3",
-    "likes_count": 519,
+    "likes_count": 520,
     "created_at": "2019-02-11T20:19:09+09:00",
     "updated_at": "2021-11-02T00:02:37+09:00",
     "id": "t-chi"
@@ -376,6 +376,14 @@
     "id": "minato-naka"
   },
   {
+    "title": "【JavaScript】lodashの使い方",
+    "url": "https://qiita.com/sonishimura/items/a08e28def541c28458a0",
+    "likes_count": 361,
+    "created_at": "2019-02-05T09:20:25+09:00",
+    "updated_at": "2019-02-05T09:20:25+09:00",
+    "id": "sonishimura"
+  },
+  {
     "title": "AWS + Laravel + Vue.js でQiitaのストックを整理するサービスを作りました！【個人開発】",
     "url": "https://qiita.com/kobayashi-m42/items/14e137727ffda3bf79e7",
     "likes_count": 361,
@@ -390,14 +398,6 @@
     "created_at": "2019-02-21T18:33:11+09:00",
     "updated_at": "2020-06-08T15:03:21+09:00",
     "id": "yuji_ariyasu"
-  },
-  {
-    "title": "【JavaScript】lodashの使い方",
-    "url": "https://qiita.com/sonishimura/items/a08e28def541c28458a0",
-    "likes_count": 360,
-    "created_at": "2019-02-05T09:20:25+09:00",
-    "updated_at": "2019-02-05T09:20:25+09:00",
-    "id": "sonishimura"
   },
   {
     "title": "VueとFirebaseで爆速でチャットサービスを作ろう",

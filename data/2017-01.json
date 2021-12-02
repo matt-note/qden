@@ -10,7 +10,7 @@
   {
     "title": "Qiita マークダウン記法 一覧表・チートシート",
     "url": "https://qiita.com/kamorits/items/6f342da395ad57468ae3",
-    "likes_count": 1534,
+    "likes_count": 1538,
     "created_at": "2017-01-18T13:43:38+09:00",
     "updated_at": "2020-04-29T16:50:51+09:00",
     "id": "kamorits"
@@ -162,7 +162,7 @@
   {
     "title": "深入りしないCython入門 ",
     "url": "https://qiita.com/pashango2/items/45cb85390193d97523ca",
-    "likes_count": 600,
+    "likes_count": 602,
     "created_at": "2017-01-10T09:28:48+09:00",
     "updated_at": "2017-01-12T08:24:40+09:00",
     "id": "pashango2"
@@ -200,6 +200,14 @@
     "id": "kitfactory"
   },
   {
+    "title": "CASE式で条件分岐をSQL文に任せる",
+    "url": "https://qiita.com/sfp_waterwalker/items/acc7f95f6ab5aa5412f3",
+    "likes_count": 537,
+    "created_at": "2017-01-18T20:21:41+09:00",
+    "updated_at": "2021-02-02T15:49:24+09:00",
+    "id": "sfp_waterwalker"
+  },
+  {
     "title": "商用利用できるオープンソースライセンスはけっきょくどれで何をすればいいのか？",
     "url": "https://qiita.com/0xfffffff7/items/efbb65521d7708f2db7d",
     "likes_count": 537,
@@ -208,17 +216,9 @@
     "id": "0xfffffff7"
   },
   {
-    "title": "CASE式で条件分岐をSQL文に任せる",
-    "url": "https://qiita.com/sfp_waterwalker/items/acc7f95f6ab5aa5412f3",
-    "likes_count": 536,
-    "created_at": "2017-01-18T20:21:41+09:00",
-    "updated_at": "2021-02-02T15:49:24+09:00",
-    "id": "sfp_waterwalker"
-  },
-  {
     "title": "git rebase についてまとめてみた",
     "url": "https://qiita.com/KTakata/items/d33185fc0457c08654a5",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2017-01-17T19:56:41+09:00",
     "updated_at": "2020-01-22T09:15:19+09:00",
     "id": "KTakata"
@@ -290,7 +290,7 @@
   {
     "title": "機械学習で精度が出ない時にやることまとめ",
     "url": "https://qiita.com/junichiro/items/7e2842c7afba2407c49b",
-    "likes_count": 451,
+    "likes_count": 452,
     "created_at": "2017-01-10T11:25:21+09:00",
     "updated_at": "2019-05-29T17:32:44+09:00",
     "id": "junichiro"
@@ -402,7 +402,7 @@
   {
     "title": "PHPで出来てしまうが控えたほうががいい書き方",
     "url": "https://qiita.com/shinkuFencer/items/48718f0c8d203ca513db",
-    "likes_count": 311,
+    "likes_count": 310,
     "created_at": "2017-01-10T09:52:17+09:00",
     "updated_at": "2017-01-23T15:35:41+09:00",
     "id": "shinkuFencer"
@@ -434,7 +434,7 @@
   {
     "title": "任意のログをlogrotateを使って管理する",
     "url": "https://qiita.com/Esfahan/items/a8058f1eb593170855a1",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2017-01-24T23:14:23+09:00",
     "updated_at": "2020-11-11T19:35:55+09:00",
     "id": "Esfahan"
@@ -466,7 +466,7 @@
   {
     "title": "【Python入門】Pythonにおけるclassの使い方とは?",
     "url": "https://qiita.com/Morio/items/0fe3abb58fcaff229f3d",
-    "likes_count": 270,
+    "likes_count": 271,
     "created_at": "2017-01-27T12:53:28+09:00",
     "updated_at": "2017-01-27T12:53:28+09:00",
     "id": "Morio"
