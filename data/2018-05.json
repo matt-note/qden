@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5276,
+    "likes_count": 5278,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2020-07-06T04:57:46+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4805,
+    "likes_count": 4807,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -56,25 +56,25 @@
     "id": "rana_kualu"
   },
   {
-    "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
-    "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1750,
-    "created_at": "2018-05-22T10:26:17+09:00",
-    "updated_at": "2020-10-09T07:47:43+09:00",
-    "id": "jnchito"
-  },
-  {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1749,
+    "likes_count": 1751,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
   },
   {
+    "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
+    "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
+    "likes_count": 1751,
+    "created_at": "2018-05-22T10:26:17+09:00",
+    "updated_at": "2020-10-09T07:47:43+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "Dockerについてなるべくわかりやすく説明する",
     "url": "https://qiita.com/rawHam/items/80ba13d2d2d56dba411e",
-    "likes_count": 1423,
+    "likes_count": 1424,
     "created_at": "2018-05-12T19:51:25+09:00",
     "updated_at": "2019-09-13T09:56:44+09:00",
     "id": "rawHam"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
     "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 1043,
+    "likes_count": 1044,
     "created_at": "2018-05-12T11:14:50+09:00",
     "updated_at": "2020-03-07T10:07:41+09:00",
     "id": "y-tsutsu"
@@ -114,7 +114,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 952,
+    "likes_count": 953,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -146,7 +146,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 775,
+    "likes_count": 776,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -162,7 +162,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 737,
+    "likes_count": 738,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -170,7 +170,7 @@
   {
     "title": "「データ視覚化のデザイン #1」をmatplotlibで実装する",
     "url": "https://qiita.com/skotaro/items/cdb0732ad1ad2a4b6236",
-    "likes_count": 728,
+    "likes_count": 730,
     "created_at": "2018-05-24T07:06:47+09:00",
     "updated_at": "2018-06-06T21:09:06+09:00",
     "id": "skotaro"
@@ -178,7 +178,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 727,
+    "likes_count": 729,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -226,7 +226,7 @@
   {
     "title": "FizzBuzzを1byteで実装する",
     "url": "https://qiita.com/ymg_aq/items/b8e5d26035180bc8797e",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2018-05-17T16:59:36+09:00",
     "updated_at": "2018-05-19T11:23:34+09:00",
     "id": "ymg_aq"
@@ -242,7 +242,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 618,
+    "likes_count": 620,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -250,7 +250,7 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 614,
+    "likes_count": 615,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
@@ -300,7 +300,7 @@
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
     "likes_count": 573,
     "created_at": "2018-05-02T09:27:43+09:00",
-    "updated_at": "2021-11-27T17:42:21+09:00",
+    "updated_at": "2021-12-03T21:50:29+09:00",
     "id": "srs"
   },
   {
@@ -314,7 +314,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 555,
+    "likes_count": 556,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -354,7 +354,7 @@
   {
     "title": "Django未経験者に送るDjango入門ロードマップ",
     "url": "https://qiita.com/nossey/items/03e114a7b728a8b2ae55",
-    "likes_count": 514,
+    "likes_count": 513,
     "created_at": "2018-05-20T04:31:55+09:00",
     "updated_at": "2019-10-09T23:01:05+09:00",
     "id": "nossey"

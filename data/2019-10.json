@@ -18,7 +18,7 @@
   {
     "title": "4歳娘「パパ、セッションとCookieってなあに？」",
     "url": "https://qiita.com/Yametaro/items/9b65a21940e001554719",
-    "likes_count": 2333,
+    "likes_count": 2334,
     "created_at": "2019-10-22T22:39:35+09:00",
     "updated_at": "2020-11-10T11:19:53+09:00",
     "id": "Yametaro"
@@ -26,7 +26,7 @@
   {
     "title": "Webエンジニア1年目の自分に捧げたい本・記事を超まとめ",
     "url": "https://qiita.com/virtual_techX/items/35034d28cdb9255367ba",
-    "likes_count": 1956,
+    "likes_count": 1959,
     "created_at": "2019-10-30T15:21:54+09:00",
     "updated_at": "2020-01-09T12:41:10+09:00",
     "id": "virtual_techX"
@@ -34,7 +34,7 @@
   {
     "title": "関心の分離を意識した名前設計で巨大クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/37599172b2cd27c38a33",
-    "likes_count": 1906,
+    "likes_count": 1907,
     "created_at": "2019-10-21T11:58:22+09:00",
     "updated_at": "2020-12-07T11:53:08+09:00",
     "id": "MinoDriven"
@@ -58,7 +58,7 @@
   {
     "title": "[あるある]「詰まったら、すぐに質問してください」の克服法",
     "url": "https://qiita.com/yasuX/items/bca386bc47322f22072a",
-    "likes_count": 1343,
+    "likes_count": 1344,
     "created_at": "2019-10-01T10:14:57+09:00",
     "updated_at": "2019-10-23T13:27:53+09:00",
     "id": "yasuX"
@@ -82,7 +82,7 @@
   {
     "title": "GitHubのスターは金にならない",
     "url": "https://qiita.com/rana_kualu/items/db62ad8d7dc0a4cce9db",
-    "likes_count": 933,
+    "likes_count": 934,
     "created_at": "2019-10-14T20:31:09+09:00",
     "updated_at": "2020-04-24T00:51:09+09:00",
     "id": "rana_kualu"
@@ -192,20 +192,20 @@
     "id": "omiita"
   },
   {
+    "title": "「コンピュータシステムの理論と実装」をやりきりました",
+    "url": "https://qiita.com/y-meguro/items/dc11c31cc2667aa20b3c",
+    "likes_count": 641,
+    "created_at": "2019-10-11T20:56:39+09:00",
+    "updated_at": "2019-10-11T20:56:39+09:00",
+    "id": "y-meguro"
+  },
+  {
     "title": "HttpClientをusingで囲わないでください",
     "url": "https://qiita.com/superriver/items/91781bca04a76aec7dc0",
     "likes_count": 640,
     "created_at": "2019-10-02T09:14:03+09:00",
     "updated_at": "2019-10-05T02:00:10+09:00",
     "id": "superriver"
-  },
-  {
-    "title": "「コンピュータシステムの理論と実装」をやりきりました",
-    "url": "https://qiita.com/y-meguro/items/dc11c31cc2667aa20b3c",
-    "likes_count": 639,
-    "created_at": "2019-10-11T20:56:39+09:00",
-    "updated_at": "2019-10-11T20:56:39+09:00",
-    "id": "y-meguro"
   },
   {
     "title": "今すぐJavaScriptデバッグ効率を上げるconsoleテクニック",
@@ -282,7 +282,7 @@
   {
     "title": "未経験者には全てが黒魔術に見える呪いがある",
     "url": "https://qiita.com/mackey0022/items/73f77873facc22e22c8c",
-    "likes_count": 500,
+    "likes_count": 501,
     "created_at": "2019-10-16T08:46:46+09:00",
     "updated_at": "2020-04-10T09:16:57+09:00",
     "id": "mackey0022"
@@ -328,20 +328,20 @@
     "id": "dario_okazaki"
   },
   {
+    "title": "コンテナ・セキュリティ入門 脆弱性",
+    "url": "https://qiita.com/MahoTakara/items/47d9c4ecd67f82977ca8",
+    "likes_count": 376,
+    "created_at": "2019-10-10T09:27:37+09:00",
+    "updated_at": "2019-10-12T08:41:00+09:00",
+    "id": "MahoTakara"
+  },
+  {
     "title": "Firebaseで作ったWebサービスを3ヶ月運用してみて、ハマったこと・知っておきたかったこと",
     "url": "https://qiita.com/kira_puka/items/ef7dd47519403cd9bcf2",
     "likes_count": 376,
     "created_at": "2019-10-11T10:59:09+09:00",
     "updated_at": "2019-11-15T17:15:53+09:00",
     "id": "kira_puka"
-  },
-  {
-    "title": "コンテナ・セキュリティ入門 脆弱性",
-    "url": "https://qiita.com/MahoTakara/items/47d9c4ecd67f82977ca8",
-    "likes_count": 375,
-    "created_at": "2019-10-10T09:27:37+09:00",
-    "updated_at": "2019-10-12T08:41:00+09:00",
-    "id": "MahoTakara"
   },
   {
     "title": "🎊Reactの2種類の新フック「useTransition」と「useDeferredValue」を最速で理解する（プレビュー版）",
@@ -370,7 +370,7 @@
   {
     "title": "Bootstrapのよく使うクラスまとめておいた！！！！",
     "url": "https://qiita.com/nakanishi03/items/c80a16b9b9796c25f890",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2019-10-24T12:06:54+09:00",
     "updated_at": "2019-10-24T12:08:23+09:00",
     "id": "nakanishi03"
