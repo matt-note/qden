@@ -98,7 +98,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 701,
+    "likes_count": 702,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2018-07-15T15:52:26+09:00",
     "id": "ryouzi"
@@ -154,7 +154,7 @@
   {
     "title": "運用に耐えるRailsによるWebアプリケーションの作り方",
     "url": "https://qiita.com/seri_k/items/605e6f75da838ae00007",
-    "likes_count": 607,
+    "likes_count": 608,
     "created_at": "2017-11-25T12:23:30+09:00",
     "updated_at": "2019-09-09T14:32:01+09:00",
     "id": "seri_k"
@@ -202,7 +202,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 555,
+    "likes_count": 556,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -210,7 +210,7 @@
   {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
     "url": "https://qiita.com/akameco/items/519f7e4d5442b2a9d2da",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2017-11-19T03:46:34+09:00",
     "updated_at": "2020-03-23T18:38:33+09:00",
     "id": "akameco"
@@ -218,10 +218,18 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 551,
+    "likes_count": 552,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
+  },
+  {
+    "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
+    "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
+    "likes_count": 522,
+    "created_at": "2017-11-18T06:21:52+09:00",
+    "updated_at": "2021-03-23T03:28:36+09:00",
+    "id": "t_nakayama0714"
   },
   {
     "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
@@ -240,14 +248,6 @@
     "id": "eri"
   },
   {
-    "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
-    "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
-    "likes_count": 521,
-    "created_at": "2017-11-18T06:21:52+09:00",
-    "updated_at": "2021-03-23T03:28:36+09:00",
-    "id": "t_nakayama0714"
-  },
-  {
     "title": "[Node.js] 無料で簡単にウェブアプリを公開できるサービス「Glitch」を使ってみた！",
     "url": "https://qiita.com/yonedaco/items/569bcc442872a1f9a03d",
     "likes_count": 519,
@@ -258,7 +258,7 @@
   {
     "title": " シェルスクリプトを何万倍も遅くしないためには —— ループせずフィルタしよう",
     "url": "https://qiita.com/8x9/items/f1156503694d3683e78d",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2017-12-01T07:53:51+09:00",
     "updated_at": "2018-07-15T22:48:25+09:00",
     "id": "8x9"

@@ -2,7 +2,7 @@
   {
     "title": "メンバーに恨まれそうな3つのコードレビュー施策を徹底したら、逆にメンバーが爆速で成長した話",
     "url": "https://qiita.com/gakuri/items/f4970aea8de5fa9bf016",
-    "likes_count": 3412,
+    "likes_count": 3411,
     "created_at": "2020-02-05T08:16:59+09:00",
     "updated_at": "2020-02-24T08:09:41+09:00",
     "id": "gakuri"
@@ -18,7 +18,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】",
     "url": "https://qiita.com/e869120/items/f1c6f98364d1443148b3",
-    "likes_count": 2778,
+    "likes_count": 2782,
     "created_at": "2020-02-19T19:00:12+09:00",
     "updated_at": "2021-07-12T22:50:00+09:00",
     "id": "e869120"
@@ -34,7 +34,7 @@
   {
     "title": "【動画付き】 draw.io 使い方まとめ 〜エンジニアでなくても使えるTips集〜",
     "url": "https://qiita.com/G-awa/items/8fd414700b68b2bcafcc",
-    "likes_count": 2047,
+    "likes_count": 2048,
     "created_at": "2020-02-09T23:07:17+09:00",
     "updated_at": "2020-02-09T23:09:21+09:00",
     "id": "G-awa"
@@ -50,7 +50,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】",
     "url": "https://qiita.com/e869120/items/eb50fdaece12be418faa",
-    "likes_count": 1868,
+    "likes_count": 1871,
     "created_at": "2020-02-19T19:00:56+09:00",
     "updated_at": "2021-07-12T22:49:23+09:00",
     "id": "e869120"
@@ -90,7 +90,7 @@
   {
     "title": "WEB開発に役に立つAPI一覧+API毎に関連するQiita記事を分類 ！",
     "url": "https://qiita.com/hamaup/items/cd7212aa1d0b1f0e37de",
-    "likes_count": 1287,
+    "likes_count": 1288,
     "created_at": "2020-02-03T11:56:05+09:00",
     "updated_at": "2020-03-05T19:35:55+09:00",
     "id": "hamaup"
@@ -106,7 +106,7 @@
   {
     "title": "2020年現在のNewSQLについて",
     "url": "https://qiita.com/tzkoba/items/5316c6eac66510233115",
-    "likes_count": 1231,
+    "likes_count": 1232,
     "created_at": "2020-02-26T18:34:57+09:00",
     "updated_at": "2021-07-03T18:56:33+09:00",
     "id": "tzkoba"
@@ -114,7 +114,7 @@
   {
     "title": "GraphQLの全体像とWebApp開発のこれから",
     "url": "https://qiita.com/saboyutaka/items/171f7382cdf75b67d076",
-    "likes_count": 1186,
+    "likes_count": 1187,
     "created_at": "2020-02-24T16:21:54+09:00",
     "updated_at": "2021-07-27T10:30:26+09:00",
     "id": "saboyutaka"
@@ -202,7 +202,7 @@
   {
     "title": "Jamstackって何なの？何がいいの？",
     "url": "https://qiita.com/ozaki25/items/4075d03278d1fb51cc37",
-    "likes_count": 655,
+    "likes_count": 657,
     "created_at": "2020-02-08T02:59:23+09:00",
     "updated_at": "2021-10-26T18:46:23+09:00",
     "id": "ozaki25"
@@ -322,7 +322,7 @@
   {
     "title": "Pythonのthreadingとmultiprocessingを完全理解",
     "url": "https://qiita.com/kaitolucifer/items/e4ace07bd8e112388c75",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2020-02-26T20:35:18+09:00",
     "updated_at": "2021-05-20T11:58:58+09:00",
     "id": "kaitolucifer"
@@ -360,6 +360,14 @@
     "id": "chika_s_it"
   },
   {
+    "title": "JSON にもコメントを書きたい",
+    "url": "https://qiita.com/yokra9/items/1ac03876415d7fd47a65",
+    "likes_count": 369,
+    "created_at": "2020-02-16T20:06:46+09:00",
+    "updated_at": "2021-02-02T21:00:01+09:00",
+    "id": "yokra9"
+  },
+  {
     "title": "【競プロ】AtCoder早解きテクニック10選 (灰 ~ 緑コーダー向け)",
     "url": "https://qiita.com/xryuseix/items/7e9b4c6f12d001a0c0db",
     "likes_count": 369,
@@ -368,17 +376,9 @@
     "id": "xryuseix"
   },
   {
-    "title": "JSON にもコメントを書きたい",
-    "url": "https://qiita.com/yokra9/items/1ac03876415d7fd47a65",
-    "likes_count": 368,
-    "created_at": "2020-02-16T20:06:46+09:00",
-    "updated_at": "2021-02-02T21:00:01+09:00",
-    "id": "yokra9"
-  },
-  {
     "title": "create-react-appで React + Typescript な環境を構築する",
     "url": "https://qiita.com/sanogemaru/items/05c2e9381d6ba2d9fccf",
-    "likes_count": 366,
+    "likes_count": 368,
     "created_at": "2020-02-22T15:09:52+09:00",
     "updated_at": "2021-11-20T23:02:45+09:00",
     "id": "sanogemaru"
