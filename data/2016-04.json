@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2358,
+    "likes_count": 2360,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2063,
+    "likes_count": 2064,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -58,7 +58,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1634,
+    "likes_count": 1635,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -138,7 +138,7 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 847,
+    "likes_count": 848,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
@@ -370,7 +370,7 @@
   {
     "title": "ファイルディスクリプタについて理解する",
     "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2016-04-22T22:51:58+09:00",
     "updated_at": "2016-04-22T22:51:58+09:00",
     "id": "toshihirock"
@@ -664,20 +664,20 @@
     "id": "tonkotsuboy_com"
   },
   {
+    "title": "SQLでグループごとにある最大値の行を取得する",
+    "url": "https://qiita.com/nogitsune413/items/f413268d01b4ea2394b1",
+    "likes_count": 271,
+    "created_at": "2016-04-03T14:18:11+09:00",
+    "updated_at": "2018-03-26T20:55:38+09:00",
+    "id": "nogitsune413"
+  },
+  {
     "title": "Visual Studio Code を使う上で良くわかっていなかった(基本的な)用語とか",
     "url": "https://qiita.com/satokaz/items/dd2f16fc953e7bdb6d2f",
     "likes_count": 271,
     "created_at": "2016-04-06T21:16:10+09:00",
     "updated_at": "2017-03-28T10:15:37+09:00",
     "id": "satokaz"
-  },
-  {
-    "title": "SQLでグループごとにある最大値の行を取得する",
-    "url": "https://qiita.com/nogitsune413/items/f413268d01b4ea2394b1",
-    "likes_count": 270,
-    "created_at": "2016-04-03T14:18:11+09:00",
-    "updated_at": "2018-03-26T20:55:38+09:00",
-    "id": "nogitsune413"
   },
   {
     "title": "mybatis-spring-boot-starterの使い方",

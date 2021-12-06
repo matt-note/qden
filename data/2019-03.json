@@ -130,7 +130,7 @@
   {
     "title": "累積和を何も考えずに書けるようにする！",
     "url": "https://qiita.com/drken/items/56a6b68edef8fc605821",
-    "likes_count": 955,
+    "likes_count": 957,
     "created_at": "2019-03-28T09:51:19+09:00",
     "updated_at": "2020-10-25T02:38:29+09:00",
     "id": "drken"
@@ -186,7 +186,7 @@
   {
     "title": "まだExcelで消耗してるの？Pythonによる自動集計ガイド 基礎編",
     "url": "https://qiita.com/stakemura/items/08838d93d43ed4e47fc4",
-    "likes_count": 738,
+    "likes_count": 739,
     "created_at": "2019-03-15T08:42:45+09:00",
     "updated_at": "2019-03-15T08:42:45+09:00",
     "id": "stakemura"
@@ -202,7 +202,7 @@
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 727,
+    "likes_count": 728,
     "created_at": "2019-03-14T23:15:05+09:00",
     "updated_at": "2020-12-13T21:40:32+09:00",
     "id": "nrslib"
@@ -226,7 +226,7 @@
   {
     "title": "Android開発はFlutterでやる方がいい説",
     "url": "https://qiita.com/ko2ic/items/b07d3ec73513c1bd8ba6",
-    "likes_count": 684,
+    "likes_count": 685,
     "created_at": "2019-03-27T16:36:20+09:00",
     "updated_at": "2019-08-30T17:43:25+09:00",
     "id": "ko2ic"
@@ -242,7 +242,7 @@
   {
     "title": "「Railsは終わった」と言われる理由",
     "url": "https://qiita.com/klriutsa/items/86ac5e94ec99c0d95b61",
-    "likes_count": 672,
+    "likes_count": 673,
     "created_at": "2019-03-05T23:25:11+09:00",
     "updated_at": "2019-08-22T20:18:32+09:00",
     "id": "klriutsa"
@@ -250,7 +250,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 671,
+    "likes_count": 672,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -338,10 +338,18 @@
   {
     "title": "pyenv、pyenv-virtualenv、venv、Anaconda、Pipenv。私はPipenvを使う。",
     "url": "https://qiita.com/KRiver1/items/c1788e616b77a9bad4dd",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2019-03-29T15:54:09+09:00",
     "updated_at": "2019-09-12T14:54:07+09:00",
     "id": "KRiver1"
+  },
+  {
+    "title": "GoFのデザインパターンまとめ",
+    "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
+    "likes_count": 497,
+    "created_at": "2019-03-28T11:27:34+09:00",
+    "updated_at": "2021-01-22T14:38:27+09:00",
+    "id": "i-tanaka730"
   },
   {
     "title": "textlint と VS Code で始める文章校正",
@@ -352,17 +360,9 @@
     "id": "takasp"
   },
   {
-    "title": "GoFのデザインパターンまとめ",
-    "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 495,
-    "created_at": "2019-03-28T11:27:34+09:00",
-    "updated_at": "2021-01-22T14:38:27+09:00",
-    "id": "i-tanaka730"
-  },
-  {
     "title": "【Rails】MySQL2がbundle installできない時の対応方法",
     "url": "https://qiita.com/fukuda_fu/items/463a39406ce713396403",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2019-03-21T20:01:40+09:00",
     "updated_at": "2019-04-11T01:39:27+09:00",
     "id": "fukuda_fu"
@@ -530,7 +530,7 @@
   {
     "title": "【入門】Redis",
     "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 356,
+    "likes_count": 357,
     "created_at": "2019-03-22T16:43:36+09:00",
     "updated_at": "2020-09-14T17:26:22+09:00",
     "id": "wind-up-bird"
@@ -554,7 +554,7 @@
   {
     "title": "個人的に便利だと思ったReact hooks 一覧",
     "url": "https://qiita.com/seya/items/f6d311b32cf711a02020",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2019-03-17T20:29:56+09:00",
     "updated_at": "2019-04-26T14:51:41+09:00",
     "id": "seya"
@@ -570,7 +570,7 @@
   {
     "title": "今話題のチャットボットを作ってみた　～スマホ・ＰＣ同時対応のチャットUIを爆速で～",
     "url": "https://qiita.com/riversun/items/279c1dd5ab40a1c8c8cf",
-    "likes_count": 296,
+    "likes_count": 297,
     "created_at": "2019-04-01T08:45:59+09:00",
     "updated_at": "2019-09-10T17:41:15+09:00",
     "id": "riversun"

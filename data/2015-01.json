@@ -10,7 +10,7 @@
   {
     "title": "WebSocketについて調べてみた。",
     "url": "https://qiita.com/south37/items/6f92d4268fe676347160",
-    "likes_count": 1935,
+    "likes_count": 1937,
     "created_at": "2015-01-18T20:00:01+09:00",
     "updated_at": "2018-05-18T11:44:50+09:00",
     "id": "south37"
@@ -18,7 +18,7 @@
   {
     "title": "IPアドレスの基礎知識",
     "url": "https://qiita.com/mogulla3/items/efb4c9328d82d24d98e6",
-    "likes_count": 1927,
+    "likes_count": 1929,
     "created_at": "2015-01-01T22:16:34+09:00",
     "updated_at": "2016-03-07T21:44:03+09:00",
     "id": "mogulla3"
@@ -34,7 +34,7 @@
   {
     "title": "最強の dotfiles 駆動開発と GitHub で管理する運用方法",
     "url": "https://qiita.com/b4b4r07/items/b70178e021bef12cd4a2",
-    "likes_count": 1732,
+    "likes_count": 1733,
     "created_at": "2015-01-16T04:40:06+09:00",
     "updated_at": "2017-12-08T08:03:12+09:00",
     "id": "b4b4r07"
@@ -58,7 +58,7 @@
   {
     "title": "関数型言語のウソとホント",
     "url": "https://qiita.com/hiruberuto/items/26a813ab2b188ca39019",
-    "likes_count": 1671,
+    "likes_count": 1672,
     "created_at": "2015-01-06T00:17:52+09:00",
     "updated_at": "2021-02-25T04:20:00+09:00",
     "id": "hiruberuto"
@@ -170,7 +170,7 @@
   {
     "title": "Ruby on RailsのAjax処理のおさらい",
     "url": "https://qiita.com/ka215/items/dfa602f1ccc652cf2888",
-    "likes_count": 938,
+    "likes_count": 939,
     "created_at": "2015-01-20T20:16:06+09:00",
     "updated_at": "2019-06-25T14:49:42+09:00",
     "id": "ka215"
@@ -202,7 +202,7 @@
   {
     "title": "ActiveRecord の attribute 更新方法まとめ",
     "url": "https://qiita.com/tyamagu2/items/8abd93bb7ab0424cf084",
-    "likes_count": 745,
+    "likes_count": 746,
     "created_at": "2015-01-18T23:22:08+09:00",
     "updated_at": "2016-03-10T18:22:10+09:00",
     "id": "tyamagu2"
@@ -282,7 +282,7 @@
   {
     "title": "RxのHotとColdについて",
     "url": "https://qiita.com/toRisouP/items/f6088963037bfda658d3",
-    "likes_count": 614,
+    "likes_count": 615,
     "created_at": "2015-01-21T03:54:28+09:00",
     "updated_at": "2016-01-29T00:08:15+09:00",
     "id": "toRisouP"
@@ -314,7 +314,7 @@
   {
     "title": "Mac版のChromeで使えるショートカットキー",
     "url": "https://qiita.com/fantm21/items/430a1486132c8938ae1e",
-    "likes_count": 560,
+    "likes_count": 561,
     "created_at": "2015-01-24T22:16:33+09:00",
     "updated_at": "2015-01-24T22:25:58+09:00",
     "id": "fantm21"
@@ -330,7 +330,7 @@
   {
     "title": "GitHub Issueはテンプレート化で、綺麗に書かせる！",
     "url": "https://qiita.com/yoshimikeisui/items/3e1873e3bf1bbafe8733",
-    "likes_count": 517,
+    "likes_count": 518,
     "created_at": "2015-01-27T16:32:17+09:00",
     "updated_at": "2015-07-04T22:05:07+09:00",
     "id": "yoshimikeisui"
@@ -544,20 +544,20 @@
     "id": "dojineko"
   },
   {
+    "title": "Rubyが参照してるgemのパスやインストール済gemを確認する方法",
+    "url": "https://qiita.com/h5y1m141@github/items/74029cab9706971c8dbe",
+    "likes_count": 308,
+    "created_at": "2015-01-09T07:00:22+09:00",
+    "updated_at": "2015-01-09T07:00:35+09:00",
+    "id": "h5y1m141@github"
+  },
+  {
     "title": "Moment.jsを使う",
     "url": "https://qiita.com/osakanafish/items/5ef636bbcb2c3ef94953",
     "likes_count": 308,
     "created_at": "2015-01-11T13:57:38+09:00",
     "updated_at": "2015-09-09T16:04:54+09:00",
     "id": "osakanafish"
-  },
-  {
-    "title": "Rubyが参照してるgemのパスやインストール済gemを確認する方法",
-    "url": "https://qiita.com/h5y1m141@github/items/74029cab9706971c8dbe",
-    "likes_count": 307,
-    "created_at": "2015-01-09T07:00:22+09:00",
-    "updated_at": "2015-01-09T07:00:35+09:00",
-    "id": "h5y1m141@github"
   },
   {
     "title": "RxJSで始めるRx(Reactive Extensions)入門1",
@@ -618,7 +618,7 @@
   {
     "title": "技術系の電子書籍を無料配布してるサイト",
     "url": "https://qiita.com/zakuroishikuro/items/8ead72cd129e76c53d74",
-    "likes_count": 255,
+    "likes_count": 256,
     "created_at": "2015-01-01T17:40:52+09:00",
     "updated_at": "2015-01-01T17:43:35+09:00",
     "id": "zakuroishikuro"
