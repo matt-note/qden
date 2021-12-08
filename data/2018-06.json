@@ -82,7 +82,7 @@
   {
     "title": "ApacheとNginxについて比較",
     "url": "https://qiita.com/kamihork/items/49e2a363da7d840a4149",
-    "likes_count": 1056,
+    "likes_count": 1057,
     "created_at": "2018-06-15T09:16:24+09:00",
     "updated_at": "2020-06-13T23:35:39+09:00",
     "id": "kamihork"
@@ -122,7 +122,7 @@
   {
     "title": "YAMLで履歴書を作る",
     "url": "https://qiita.com/kaityo256/items/e3884d0109223c324baf",
-    "likes_count": 892,
+    "likes_count": 893,
     "created_at": "2018-06-06T18:07:02+09:00",
     "updated_at": "2020-07-19T22:24:57+09:00",
     "id": "kaityo256"
@@ -216,20 +216,20 @@
     "id": "niisan-tokyo"
   },
   {
+    "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
+    "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
+    "likes_count": 542,
+    "created_at": "2018-06-18T10:45:43+09:00",
+    "updated_at": "2018-10-11T13:59:01+09:00",
+    "id": "newta"
+  },
+  {
     "title": "Qiita殿堂入り記事ランキングを作った物語",
     "url": "https://qiita.com/youwht/items/0a12079671750c39fbfa",
     "likes_count": 541,
     "created_at": "2018-06-29T10:26:58+09:00",
     "updated_at": "2018-08-05T11:59:33+09:00",
     "id": "youwht"
-  },
-  {
-    "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
-    "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 538,
-    "created_at": "2018-06-18T10:45:43+09:00",
-    "updated_at": "2018-10-11T13:59:01+09:00",
-    "id": "newta"
   },
   {
     "title": "Dockerfile のベストプラクティスを自分なりに整理してみた",
@@ -256,6 +256,14 @@
     "id": "hirohiro77"
   },
   {
+    "title": "JDK、Oracle JDK、OpenJDK、Java SEってなに？",
+    "url": "https://qiita.com/nowokay/items/c1de127354cd1b0ddc5e",
+    "likes_count": 475,
+    "created_at": "2018-06-25T15:36:18+09:00",
+    "updated_at": "2021-11-25T14:17:17+09:00",
+    "id": "nowokay"
+  },
+  {
     "title": "プロダクトのドキュメントにプルリクエストを送れる仕組みがすごい",
     "url": "https://qiita.com/amay077/items/8823376f307235a7f651",
     "likes_count": 474,
@@ -270,14 +278,6 @@
     "created_at": "2018-06-16T14:34:10+09:00",
     "updated_at": "2021-01-07T01:01:58+09:00",
     "id": "idani"
-  },
-  {
-    "title": "JDK、Oracle JDK、OpenJDK、Java SEってなに？",
-    "url": "https://qiita.com/nowokay/items/c1de127354cd1b0ddc5e",
-    "likes_count": 474,
-    "created_at": "2018-06-25T15:36:18+09:00",
-    "updated_at": "2021-11-25T14:17:17+09:00",
-    "id": "nowokay"
   },
   {
     "title": "そのまま使える！iOSアプリを作るためのswiftサンプル集",
@@ -450,7 +450,7 @@
   {
     "title": "Go言語：文法基礎まとめ",
     "url": "https://qiita.com/HiromuMasuda0228/items/65b9a593275f769f6b69",
-    "likes_count": 327,
+    "likes_count": 328,
     "created_at": "2018-06-17T16:17:38+09:00",
     "updated_at": "2018-06-27T16:08:18+09:00",
     "id": "HiromuMasuda0228"
@@ -498,7 +498,7 @@
   {
     "title": "C# 今更ですが、HttpClientを使う",
     "url": "https://qiita.com/rawr/items/f78a3830d894042f891b",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2018-06-15T12:29:06+09:00",
     "updated_at": "2019-12-02T09:58:17+09:00",
     "id": "rawr"
