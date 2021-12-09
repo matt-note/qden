@@ -26,7 +26,7 @@
   {
     "title": "私たちはどうして公式ドキュメントが読めないのか？",
     "url": "https://qiita.com/hiraike32/items/f0a211cceb0ecc516b6c",
-    "likes_count": 1575,
+    "likes_count": 1576,
     "created_at": "2019-02-12T00:03:40+09:00",
     "updated_at": "2019-02-19T12:07:24+09:00",
     "id": "hiraike32"
@@ -42,7 +42,7 @@
   {
     "title": "我が名は神龍……どんなテストもひとつだけ自動化してやろう",
     "url": "https://qiita.com/tsuemura/items/56ba9942565963858d8f",
-    "likes_count": 1494,
+    "likes_count": 1495,
     "created_at": "2019-02-24T00:48:59+09:00",
     "updated_at": "2019-03-15T11:53:53+09:00",
     "id": "tsuemura"
@@ -90,7 +90,7 @@
   {
     "title": "TypeScript + Node.js プロジェクトのはじめかた2020",
     "url": "https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49",
-    "likes_count": 837,
+    "likes_count": 839,
     "created_at": "2019-02-08T17:25:22+09:00",
     "updated_at": "2020-08-12T17:09:33+09:00",
     "id": "notakaos"
@@ -98,7 +98,7 @@
   {
     "title": "新人ではないがGit初心者であるエンジニアが「このリポジトリをフォークしてローカルで開発できるようにしておいて！」と言われた時にやること",
     "url": "https://qiita.com/sky0621/items/8b6e88f4327b42ade5d7",
-    "likes_count": 830,
+    "likes_count": 831,
     "created_at": "2019-02-14T01:04:39+09:00",
     "updated_at": "2020-09-28T22:59:40+09:00",
     "id": "sky0621"
@@ -106,7 +106,7 @@
   {
     "title": "🎉React 16.8: 正式版となったReact Hooksを今さら総ざらいする",
     "url": "https://qiita.com/uhyo/items/246fb1f30acfeb7699da",
-    "likes_count": 825,
+    "likes_count": 826,
     "created_at": "2019-02-04T03:38:16+09:00",
     "updated_at": "2020-01-19T18:44:27+09:00",
     "id": "uhyo"
@@ -146,7 +146,7 @@
   {
     "title": "【JWT】 入門",
     "url": "https://qiita.com/Naoto9282/items/8427918564400968bd2b",
-    "likes_count": 739,
+    "likes_count": 742,
     "created_at": "2019-02-05T01:31:29+09:00",
     "updated_at": "2021-03-05T18:50:37+09:00",
     "id": "Naoto9282"
@@ -178,7 +178,7 @@
   {
     "title": "やってみようNoSQL　MongoDBを最速で理解する",
     "url": "https://qiita.com/Brutus/items/8a67a4db0fdc5a33d549",
-    "likes_count": 663,
+    "likes_count": 665,
     "created_at": "2019-02-19T01:01:37+09:00",
     "updated_at": "2021-02-15T20:49:48+09:00",
     "id": "Brutus"
@@ -218,7 +218,7 @@
   {
     "title": "TypeScriptの型演習",
     "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 571,
+    "likes_count": 572,
     "created_at": "2019-02-23T18:09:59+09:00",
     "updated_at": "2020-05-22T11:16:41+09:00",
     "id": "uhyo"
@@ -368,20 +368,20 @@
     "id": "yuneco"
   },
   {
+    "title": "【JavaScript】lodashの使い方",
+    "url": "https://qiita.com/sonishimura/items/a08e28def541c28458a0",
+    "likes_count": 365,
+    "created_at": "2019-02-05T09:20:25+09:00",
+    "updated_at": "2019-02-05T09:20:25+09:00",
+    "id": "sonishimura"
+  },
+  {
     "title": "Dockerで環境構築するための最低限の概念理解",
     "url": "https://qiita.com/minato-naka/items/e9cd026747693759800c",
     "likes_count": 365,
     "created_at": "2019-02-22T20:13:22+09:00",
     "updated_at": "2021-04-22T16:31:43+09:00",
     "id": "minato-naka"
-  },
-  {
-    "title": "【JavaScript】lodashの使い方",
-    "url": "https://qiita.com/sonishimura/items/a08e28def541c28458a0",
-    "likes_count": 364,
-    "created_at": "2019-02-05T09:20:25+09:00",
-    "updated_at": "2019-02-05T09:20:25+09:00",
-    "id": "sonishimura"
   },
   {
     "title": "AWS + Laravel + Vue.js でQiitaのストックを整理するサービスを作りました！【個人開発】",

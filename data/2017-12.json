@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2081,
+    "likes_count": 2082,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -106,7 +106,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 925,
+    "likes_count": 926,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -162,7 +162,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 839,
+    "likes_count": 840,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -258,7 +258,7 @@
   {
     "title": "Google Homeでやったことまとめ",
     "url": "https://qiita.com/miso_develop/items/99624915d3d6e41a5fb3",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2017-12-10T00:00:38+09:00",
     "updated_at": "2017-12-20T10:12:21+09:00",
     "id": "miso_develop"
@@ -266,7 +266,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -320,20 +320,20 @@
     "id": "sinsengumi"
   },
   {
+    "title": "次にJSガッツリ書くときはTypeScriptで",
+    "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
+    "likes_count": 595,
+    "created_at": "2017-12-26T18:52:16+09:00",
+    "updated_at": "2020-06-27T01:29:19+09:00",
+    "id": "yuya_presto"
+  },
+  {
     "title": "2017末時点での React Component 設計のベストプラクティス",
     "url": "https://qiita.com/mizchi/items/bcb1aef8d1f14f8d0b4a",
     "likes_count": 594,
     "created_at": "2017-12-17T22:21:29+09:00",
     "updated_at": "2017-12-17T23:42:55+09:00",
     "id": "mizchi"
-  },
-  {
-    "title": "次にJSガッツリ書くときはTypeScriptで",
-    "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
-    "likes_count": 594,
-    "created_at": "2017-12-26T18:52:16+09:00",
-    "updated_at": "2020-06-27T01:29:19+09:00",
-    "id": "yuya_presto"
   },
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
@@ -418,7 +418,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -482,7 +482,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 433,
+    "likes_count": 434,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -650,7 +650,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2021-04-17T12:31:45+09:00",
     "id": "nightyknite"
@@ -658,7 +658,7 @@
   {
     "title": "Reactのstate,props,componentの使い方を自分なりにまとめてみた",
     "url": "https://qiita.com/sekikawa_a/items/8ab70f457ef73871419f",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2017-12-13T21:45:16+09:00",
     "updated_at": "2019-03-22T17:27:09+09:00",
     "id": "sekikawa_a"
@@ -768,6 +768,14 @@
     "id": "tanabee"
   },
   {
+    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
+    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
+    "likes_count": 253,
+    "created_at": "2017-12-22T11:21:44+09:00",
+    "updated_at": "2021-12-04T15:33:59+09:00",
+    "id": "ffggss"
+  },
+  {
     "title": "【C#】ReactiveProperty全然分からねぇ！って人向けのFAQ集【修正済】",
     "url": "https://qiita.com/YSRKEN/items/5a36fb8071104a989fb8",
     "likes_count": 253,
@@ -776,17 +784,9 @@
     "id": "YSRKEN"
   },
   {
-    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
-    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
-    "likes_count": 252,
-    "created_at": "2017-12-22T11:21:44+09:00",
-    "updated_at": "2021-12-04T15:33:59+09:00",
-    "id": "ffggss"
-  },
-  {
     "title": "ＣＴＦを始めるときにおすすめな本とか",
     "url": "https://qiita.com/4hiziri/items/98b5e1f8b1824d0bc841",
-    "likes_count": 244,
+    "likes_count": 245,
     "created_at": "2017-12-12T01:40:32+09:00",
     "updated_at": "2018-09-20T00:23:38+09:00",
     "id": "4hiziri"

@@ -2,7 +2,7 @@
   {
     "title": "早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話",
     "url": "https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9",
-    "likes_count": 2695,
+    "likes_count": 2696,
     "created_at": "2018-01-12T06:31:07+09:00",
     "updated_at": "2018-07-16T15:28:36+09:00",
     "id": "skotaro"
@@ -10,7 +10,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2640,
+    "likes_count": 2641,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -26,7 +26,7 @@
   {
     "title": "他言語プログラマがgolangの基本を押さえる為のまとめ",
     "url": "https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7",
-    "likes_count": 1654,
+    "likes_count": 1656,
     "created_at": "2018-01-01T23:58:52+09:00",
     "updated_at": "2021-11-02T13:34:45+09:00",
     "id": "tfrcm"
@@ -320,6 +320,14 @@
     "id": "hogeta_"
   },
   {
+    "title": "RailsアプリへのRspecとFactory_botの導入手順",
+    "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
+    "likes_count": 396,
+    "created_at": "2018-01-08T21:34:40+09:00",
+    "updated_at": "2021-10-21T10:08:45+09:00",
+    "id": "Ushinji"
+  },
+  {
     "title": "オレ的vimプラグイン10選",
     "url": "https://qiita.com/reireias/items/beaa3bb0e299ae934217",
     "likes_count": 396,
@@ -328,17 +336,9 @@
     "id": "reireias"
   },
   {
-    "title": "RailsアプリへのRspecとFactory_botの導入手順",
-    "url": "https://qiita.com/Ushinji/items/522ed01c9c14b680222c",
-    "likes_count": 395,
-    "created_at": "2018-01-08T21:34:40+09:00",
-    "updated_at": "2021-10-21T10:08:45+09:00",
-    "id": "Ushinji"
-  },
-  {
     "title": "PythonでTwitter API を利用していろいろ遊んでみる",
     "url": "https://qiita.com/bakira/items/00743d10ec42993f85eb",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2018-01-07T21:20:05+09:00",
     "updated_at": "2018-01-08T19:14:05+09:00",
     "id": "bakira"
@@ -394,7 +394,7 @@
   {
     "title": "Vim / Vi を終了させる方法",
     "url": "https://qiita.com/kon_yu/items/b8864ff566b8b67a9810",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2018-01-09T22:50:55+09:00",
     "updated_at": "2019-11-01T09:15:26+09:00",
     "id": "kon_yu"
@@ -418,7 +418,7 @@
   {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",
     "url": "https://qiita.com/okoppe8/items/c58bb3faaf26c9e2f27f",
-    "likes_count": 304,
+    "likes_count": 305,
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"
