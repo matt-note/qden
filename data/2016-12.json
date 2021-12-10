@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2194,
+    "likes_count": 2195,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1775,
+    "likes_count": 1776,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -82,7 +82,7 @@
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
     "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1135,
+    "likes_count": 1134,
     "created_at": "2016-12-28T10:13:50+09:00",
     "updated_at": "2016-12-29T00:03:57+09:00",
     "id": "kunihirotanaka"
@@ -170,7 +170,7 @@
   {
     "title": "大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察",
     "url": "https://qiita.com/tmknom/items/be5c4b350f561991f2f5",
-    "likes_count": 767,
+    "likes_count": 766,
     "created_at": "2016-12-20T18:24:22+09:00",
     "updated_at": "2018-08-12T01:43:05+09:00",
     "id": "tmknom"
@@ -202,7 +202,7 @@
   {
     "title": "至高のDockerイメージ生成を求めて",
     "url": "https://qiita.com/yugui/items/517480f4383b893e092e",
-    "likes_count": 721,
+    "likes_count": 720,
     "created_at": "2016-12-21T19:10:59+09:00",
     "updated_at": "2019-09-19T20:42:30+09:00",
     "id": "yugui"
@@ -344,14 +344,6 @@
     "id": "shibukk"
   },
   {
-    "title": "Dockerコンテナを本番環境で使うためのセキュリティ設定",
-    "url": "https://qiita.com/muff1225/items/4edea7b039dd9f26098f",
-    "likes_count": 538,
-    "created_at": "2016-12-03T00:02:26+09:00",
-    "updated_at": "2016-12-03T00:02:26+09:00",
-    "id": "muff1225"
-  },
-  {
     "title": "React、Angularになじめなかった僕に手を差し伸べてくれたVue.js",
     "url": "https://qiita.com/samuraikun/items/bb2939296bbead341293",
     "likes_count": 531,
@@ -378,7 +370,7 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 499,
+    "likes_count": 501,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
@@ -402,7 +394,7 @@
   {
     "title": "【企業サイト構築用】WordPress設計ガイドライン",
     "url": "https://qiita.com/kgsi/items/65ee2d7814e5cfa199d2",
-    "likes_count": 482,
+    "likes_count": 483,
     "created_at": "2016-12-13T12:13:43+09:00",
     "updated_at": "2019-03-19T14:40:56+09:00",
     "id": "kgsi"
@@ -450,7 +442,7 @@
   {
     "title": "【定番】 新しいWebサービスを開発・運営するときに使いたいサービス 【2016年末版】",
     "url": "https://qiita.com/masuidrive/items/a74454e2c01a1943d1b3",
-    "likes_count": 451,
+    "likes_count": 450,
     "created_at": "2016-12-03T13:28:15+09:00",
     "updated_at": "2016-12-27T17:36:47+09:00",
     "id": "masuidrive"
@@ -482,7 +474,7 @@
   {
     "title": "複数のgitアカウントを使い分ける",
     "url": "https://qiita.com/0084ken/items/f4a8b0fbff135a987fea",
-    "likes_count": 433,
+    "likes_count": 434,
     "created_at": "2016-12-20T12:36:15+09:00",
     "updated_at": "2016-12-20T12:36:15+09:00",
     "id": "0084ken"
@@ -694,6 +686,14 @@
     "created_at": "2016-12-04T18:30:28+09:00",
     "updated_at": "2016-12-05T09:10:26+09:00",
     "id": "mizno"
+  },
+  {
+    "title": "マイクロサービス時代に捧ぐ、Railsでの中規模APIサーバ開発のための技術構成",
+    "url": "https://qiita.com/qsona/items/0274c7c1fd27a4a9a545",
+    "likes_count": 302,
+    "created_at": "2016-12-06T22:42:21+09:00",
+    "updated_at": "2016-12-08T19:13:25+09:00",
+    "id": "qsona"
   },
   {
     "title": "Docker & Docker-Composeの基本的な使い方",

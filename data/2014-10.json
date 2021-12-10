@@ -4,13 +4,13 @@
     "url": "https://qiita.com/sion_cojp/items/04a2aa76a1021fe77079",
     "likes_count": 4424,
     "created_at": "2014-10-21T21:53:32+09:00",
-    "updated_at": "2017-09-21T12:10:09+09:00",
+    "updated_at": "2021-12-10T17:52:16+09:00",
     "id": "sion_cojp"
   },
   {
     "title": "使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」",
     "url": "https://qiita.com/jnchito/items/42193d066bd61c740612",
-    "likes_count": 4262,
+    "likes_count": 4261,
     "created_at": "2014-10-27T07:42:59+09:00",
     "updated_at": "2020-02-20T22:41:32+09:00",
     "id": "jnchito"
@@ -58,7 +58,7 @@
   {
     "title": "フロントエンド、サーバサイド、インフラの具体例",
     "url": "https://qiita.com/shuntaro_tamura/items/e1a20e33c57c71679688",
-    "likes_count": 1299,
+    "likes_count": 1298,
     "created_at": "2014-10-13T22:19:14+09:00",
     "updated_at": "2016-03-16T21:09:08+09:00",
     "id": "shuntaro_tamura"
@@ -106,7 +106,7 @@
   {
     "title": "Apache Benchでサクッと性能テスト",
     "url": "https://qiita.com/flexfirm/items/ac5a2f53cfa933a37192",
-    "likes_count": 841,
+    "likes_count": 842,
     "created_at": "2014-10-22T10:13:41+09:00",
     "updated_at": "2016-07-21T16:45:33+09:00",
     "id": "flexfirm"
@@ -162,7 +162,7 @@
   {
     "title": "[Swift] Optional 型についてのまとめ Ver2",
     "url": "https://qiita.com/cotrpepe/items/518c4476ca957a42f5f1",
-    "likes_count": 663,
+    "likes_count": 664,
     "created_at": "2014-10-17T12:04:01+09:00",
     "updated_at": "2014-12-02T08:04:10+09:00",
     "id": "cotrpepe"
@@ -218,7 +218,7 @@
   {
     "title": "api開発に失敗しないための情報収集まとめ",
     "url": "https://qiita.com/taiyop/items/78d3a0614be9be77ce41",
-    "likes_count": 569,
+    "likes_count": 568,
     "created_at": "2014-10-04T07:27:29+09:00",
     "updated_at": "2016-05-20T16:08:10+09:00",
     "id": "taiyop"
@@ -242,7 +242,7 @@
   {
     "title": "Git 1ファイルだけ別のブランチから持ってくる",
     "url": "https://qiita.com/oret/items/b646fcada9d89ed308c4",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2014-10-06T12:09:14+09:00",
     "updated_at": "2014-10-06T12:46:16+09:00",
     "id": "oret"
@@ -250,7 +250,7 @@
   {
     "title": "Elixir 基礎文法最速マスター",
     "url": "https://qiita.com/niku/items/729ece76d78057b58271",
-    "likes_count": 467,
+    "likes_count": 466,
     "created_at": "2014-10-02T19:56:03+09:00",
     "updated_at": "2020-05-03T16:17:38+09:00",
     "id": "niku"
@@ -282,7 +282,7 @@
   {
     "title": "Linux OOM Killerについて",
     "url": "https://qiita.com/konpyu/items/20d1989d1251d805cf3b",
-    "likes_count": 432,
+    "likes_count": 431,
     "created_at": "2014-10-06T00:20:41+09:00",
     "updated_at": "2016-01-27T13:13:39+09:00",
     "id": "konpyu"
@@ -394,7 +394,7 @@
   {
     "title": "WP-CLIの使い方",
     "url": "https://qiita.com/IK12_info/items/4a9190119be2a0f347a0",
-    "likes_count": 308,
+    "likes_count": 307,
     "created_at": "2014-10-05T16:54:54+09:00",
     "updated_at": "2017-12-14T16:34:20+09:00",
     "id": "IK12_info"
@@ -456,20 +456,20 @@
     "id": "shu223"
   },
   {
-    "title": "Macのターミナルでよく使うコマンドにエイリアスを作りました",
-    "url": "https://qiita.com/pugiemonn/items/da04a422cc7da548632e",
-    "likes_count": 276,
-    "created_at": "2014-10-31T21:46:28+09:00",
-    "updated_at": "2017-02-05T22:16:25+09:00",
-    "id": "pugiemonn"
-  },
-  {
     "title": "Pythonの仮想環境を構築できるvirtualenvを使ってみる",
     "url": "https://qiita.com/H-A-L/items/5d5a2ef73be8d140bdf3",
     "likes_count": 275,
     "created_at": "2014-10-05T23:27:44+09:00",
     "updated_at": "2016-08-11T20:26:52+09:00",
     "id": "H-A-L"
+  },
+  {
+    "title": "Macのターミナルでよく使うコマンドにエイリアスを作りました",
+    "url": "https://qiita.com/pugiemonn/items/da04a422cc7da548632e",
+    "likes_count": 275,
+    "created_at": "2014-10-31T21:46:28+09:00",
+    "updated_at": "2017-02-05T22:16:25+09:00",
+    "id": "pugiemonn"
   },
   {
     "title": "【iOS, UI】iOSアプリ UIデザインパターンまとめサイト",

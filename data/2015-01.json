@@ -10,7 +10,7 @@
   {
     "title": "WebSocketについて調べてみた。",
     "url": "https://qiita.com/south37/items/6f92d4268fe676347160",
-    "likes_count": 1940,
+    "likes_count": 1941,
     "created_at": "2015-01-18T20:00:01+09:00",
     "updated_at": "2018-05-18T11:44:50+09:00",
     "id": "south37"
@@ -34,7 +34,7 @@
   {
     "title": "最強の dotfiles 駆動開発と GitHub で管理する運用方法",
     "url": "https://qiita.com/b4b4r07/items/b70178e021bef12cd4a2",
-    "likes_count": 1733,
+    "likes_count": 1732,
     "created_at": "2015-01-16T04:40:06+09:00",
     "updated_at": "2017-12-08T08:03:12+09:00",
     "id": "b4b4r07"
@@ -74,7 +74,7 @@
   {
     "title": "使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」",
     "url": "https://qiita.com/jnchito/items/607f956263c38a5fec24",
-    "likes_count": 1628,
+    "likes_count": 1627,
     "created_at": "2015-01-02T08:21:53+09:00",
     "updated_at": "2021-09-01T16:29:19+09:00",
     "id": "jnchito"
@@ -98,7 +98,7 @@
   {
     "title": "持続可能な開発を目指す ~ ドメイン・ユースケース駆動（クリーンアーキテクチャ） + 単方向に制限した処理 + FRP",
     "url": "https://qiita.com/kondei/items/41c28674c1bfd4156186",
-    "likes_count": 1412,
+    "likes_count": 1411,
     "created_at": "2015-01-05T00:17:09+09:00",
     "updated_at": "2015-04-16T17:10:45+09:00",
     "id": "kondei"
@@ -106,7 +106,7 @@
   {
     "title": "Pythonのデコレータについて",
     "url": "https://qiita.com/mtb_beta/items/d257519b018b8cd0cc2e",
-    "likes_count": 1323,
+    "likes_count": 1324,
     "created_at": "2015-01-19T21:54:03+09:00",
     "updated_at": "2018-07-06T01:22:38+09:00",
     "id": "mtb_beta"
@@ -114,7 +114,7 @@
   {
     "title": "[Ubuntu] apt-get まとめ",
     "url": "https://qiita.com/white_aspara25/items/723ae4ebf0bfefe2115c",
-    "likes_count": 1253,
+    "likes_count": 1252,
     "created_at": "2015-01-29T00:07:51+09:00",
     "updated_at": "2017-01-27T22:04:49+09:00",
     "id": "white_aspara25"
@@ -130,7 +130,7 @@
   {
     "title": "DB論理設計のノウハウ",
     "url": "https://qiita.com/kiyodori/items/5083ad8bbfc232d01827",
-    "likes_count": 1233,
+    "likes_count": 1232,
     "created_at": "2015-01-10T10:03:36+09:00",
     "updated_at": "2018-11-22T18:49:41+09:00",
     "id": "kiyodori"
@@ -146,7 +146,7 @@
   {
     "title": "Javascriptを理解したい時にみるとはかどる記事まとめ",
     "url": "https://qiita.com/okmttdhr/items/3b35ebe6017fe4057ddc",
-    "likes_count": 1040,
+    "likes_count": 1039,
     "created_at": "2015-01-29T20:42:56+09:00",
     "updated_at": "2019-10-24T09:05:13+09:00",
     "id": "okmttdhr"
@@ -186,7 +186,7 @@
   {
     "title": "HTMLのテンプレート的なの",
     "url": "https://qiita.com/matsui-a/items/8d26f66ded3560d3d004",
-    "likes_count": 841,
+    "likes_count": 840,
     "created_at": "2015-01-13T22:43:18+09:00",
     "updated_at": "2015-01-21T11:45:29+09:00",
     "id": "matsui-a"
@@ -218,7 +218,7 @@
   {
     "title": "「関数型言語」に関するFAQ形式の一般的説明",
     "url": "https://qiita.com/esumii/items/ec589d138e72e22ea97e",
-    "likes_count": 730,
+    "likes_count": 731,
     "created_at": "2015-01-27T12:21:36+09:00",
     "updated_at": "2019-10-04T07:04:15+09:00",
     "id": "esumii"
@@ -400,20 +400,20 @@
     "id": "Usek"
   },
   {
+    "title": "require()とは何か？何が便利なのか",
+    "url": "https://qiita.com/uryyyyyyy/items/b10b012703b5396ded5a",
+    "likes_count": 421,
+    "created_at": "2015-01-13T13:15:11+09:00",
+    "updated_at": "2015-01-13T13:15:11+09:00",
+    "id": "uryyyyyyy"
+  },
+  {
     "title": "Capistrano で Rails アプリケーションの自動デプロイ",
     "url": "https://qiita.com/Salinger/items/4ee4f3c5ebd5227196c0",
     "likes_count": 421,
     "created_at": "2015-01-15T19:11:40+09:00",
     "updated_at": "2016-08-13T20:53:31+09:00",
     "id": "Salinger"
-  },
-  {
-    "title": "require()とは何か？何が便利なのか",
-    "url": "https://qiita.com/uryyyyyyy/items/b10b012703b5396ded5a",
-    "likes_count": 420,
-    "created_at": "2015-01-13T13:15:11+09:00",
-    "updated_at": "2015-01-13T13:15:11+09:00",
-    "id": "uryyyyyyy"
   },
   {
     "title": "Work in ProgressパターンによるPull Requestを利用した開発フロー",
@@ -434,18 +434,10 @@
   {
     "title": "【MySQL】照合順序とは？",
     "url": "https://qiita.com/kazu56/items/6af85ffcf8d3954455ad",
-    "likes_count": 386,
+    "likes_count": 385,
     "created_at": "2015-01-09T15:58:07+09:00",
     "updated_at": "2017-06-17T10:58:02+09:00",
     "id": "kazu56"
-  },
-  {
-    "title": "Javaで書くBuilderパターンのパターン",
-    "url": "https://qiita.com/disc99/items/840cf9936687f97a482b",
-    "likes_count": 380,
-    "created_at": "2015-01-19T07:21:06+09:00",
-    "updated_at": "2017-03-14T12:26:02+09:00",
-    "id": "disc99"
   },
   {
     "title": "Hadoop利用者ならきっと知ってる、Hive/Prestoクエリ関数の挙動の違い",
@@ -454,6 +446,14 @@
     "created_at": "2015-01-22T13:06:27+09:00",
     "updated_at": "2021-08-09T23:44:40+09:00",
     "id": "y-ken"
+  },
+  {
+    "title": "Javaで書くBuilderパターンのパターン",
+    "url": "https://qiita.com/disc99/items/840cf9936687f97a482b",
+    "likes_count": 379,
+    "created_at": "2015-01-19T07:21:06+09:00",
+    "updated_at": "2017-03-14T12:26:02+09:00",
+    "id": "disc99"
   },
   {
     "title": "共通化でモチベーションと効率が低下した話",
@@ -498,7 +498,7 @@
   {
     "title": "composer install と composer updateの違い",
     "url": "https://qiita.com/YusukeHigaki/items/47dd3ec23544225f7301",
-    "likes_count": 333,
+    "likes_count": 332,
     "created_at": "2015-01-02T10:32:57+09:00",
     "updated_at": "2015-01-02T10:32:57+09:00",
     "id": "YusukeHigaki"

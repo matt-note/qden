@@ -18,7 +18,7 @@
   {
     "title": "最近の行儀のよい JavaScript の書き方",
     "url": "https://qiita.com/kaiinui/items/22a75d2adc56a40da7b7",
-    "likes_count": 2366,
+    "likes_count": 2365,
     "created_at": "2014-12-21T03:59:19+09:00",
     "updated_at": "2016-12-02T16:18:05+09:00",
     "id": "kaiinui"
@@ -34,7 +34,7 @@
   {
     "title": "SEO嫌いにお送りするSEO策。これでもうSEOについてしばらく考えなくて良いぜ！！",
     "url": "https://qiita.com/taiyop/items/050c6749fb693dae8f82",
-    "likes_count": 1732,
+    "likes_count": 1731,
     "created_at": "2014-12-30T01:28:18+09:00",
     "updated_at": "2015-01-07T21:48:03+09:00",
     "id": "taiyop"
@@ -50,7 +50,7 @@
   {
     "title": "JSON Web Token の効用",
     "url": "https://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a",
-    "likes_count": 1418,
+    "likes_count": 1417,
     "created_at": "2014-12-14T18:43:28+09:00",
     "updated_at": "2017-06-12T14:23:23+09:00",
     "id": "kaiinui"
@@ -82,7 +82,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1249,
+    "likes_count": 1251,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -160,20 +160,20 @@
     "id": "motokiee"
   },
   {
-    "title": "私のJavaScript情報の集め方",
-    "url": "https://qiita.com/koba04/items/ba2381776d394633de72",
-    "likes_count": 759,
-    "created_at": "2014-12-23T13:32:37+09:00",
-    "updated_at": "2014-12-24T00:09:20+09:00",
-    "id": "koba04"
-  },
-  {
     "title": "AWS EC2 Amazon Linuxインスタンス起動後、最初にやることまとめ（SysVinit編）",
     "url": "https://qiita.com/yangci/items/ef2ab9b6f0d28bad0881",
     "likes_count": 758,
     "created_at": "2014-12-17T14:48:05+09:00",
     "updated_at": "2017-04-25T16:04:31+09:00",
     "id": "yangci"
+  },
+  {
+    "title": "私のJavaScript情報の集め方",
+    "url": "https://qiita.com/koba04/items/ba2381776d394633de72",
+    "likes_count": 758,
+    "created_at": "2014-12-23T13:32:37+09:00",
+    "updated_at": "2014-12-24T00:09:20+09:00",
+    "id": "koba04"
   },
   {
     "title": "B-treeインデックス入門",
@@ -186,7 +186,7 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 753,
+    "likes_count": 752,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
@@ -394,7 +394,7 @@
   {
     "title": "MacにPostgreSQLをインストール",
     "url": "https://qiita.com/_daisuke/items/13996621cf51f835494b",
-    "likes_count": 496,
+    "likes_count": 495,
     "created_at": "2014-12-23T13:56:20+09:00",
     "updated_at": "2015-01-06T22:59:39+09:00",
     "id": "_daisuke"
@@ -568,20 +568,20 @@
     "id": "pika_shi"
   },
   {
+    "title": "React.jsの地味だけど重要なkeyについて",
+    "url": "https://qiita.com/koba04/items/a4d23245d246c53cd49d",
+    "likes_count": 375,
+    "created_at": "2014-12-11T14:54:17+09:00",
+    "updated_at": "2014-12-11T15:03:06+09:00",
+    "id": "koba04"
+  },
+  {
     "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
     "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
     "likes_count": 375,
     "created_at": "2014-12-18T22:53:36+09:00",
     "updated_at": "2015-02-14T18:30:30+09:00",
     "id": "y_hokkey"
-  },
-  {
-    "title": "React.jsの地味だけど重要なkeyについて",
-    "url": "https://qiita.com/koba04/items/a4d23245d246c53cd49d",
-    "likes_count": 374,
-    "created_at": "2014-12-11T14:54:17+09:00",
-    "updated_at": "2014-12-11T15:03:06+09:00",
-    "id": "koba04"
   },
   {
     "title": "Python ビット演算 超入門",
@@ -594,7 +594,7 @@
   {
     "title": "phpDocumentorの書き方",
     "url": "https://qiita.com/itosho/items/0f809e067a9e4a41515e",
-    "likes_count": 348,
+    "likes_count": 347,
     "created_at": "2014-12-22T14:21:26+09:00",
     "updated_at": "2015-01-15T19:46:15+09:00",
     "id": "itosho"
@@ -626,7 +626,7 @@
   {
     "title": "Singleton パターンの使いどころをまとめてみた",
     "url": "https://qiita.com/trashtoy/items/eea5dcfb1eb003101cc9",
-    "likes_count": 331,
+    "likes_count": 330,
     "created_at": "2014-12-19T20:22:05+09:00",
     "updated_at": "2014-12-19T20:22:05+09:00",
     "id": "trashtoy"
