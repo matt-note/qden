@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4812,
+    "likes_count": 4814,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 2992,
+    "likes_count": 2993,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2452,
+    "likes_count": 2451,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2021-11-11T01:49:06+09:00",
     "id": "tani_AI_Academy"
@@ -74,7 +74,7 @@
   {
     "title": "Dockerについてなるべくわかりやすく説明する",
     "url": "https://qiita.com/rawHam/items/80ba13d2d2d56dba411e",
-    "likes_count": 1423,
+    "likes_count": 1422,
     "created_at": "2018-05-12T19:51:25+09:00",
     "updated_at": "2019-09-13T09:56:44+09:00",
     "id": "rawHam"
@@ -82,7 +82,7 @@
   {
     "title": "就活のためにWEBサービスを作ったら、転職できた以上の価値をもたらしてくれた話",
     "url": "https://qiita.com/kd9951/items/92cc7bb14c1fbfcb6dab",
-    "likes_count": 1302,
+    "likes_count": 1301,
     "created_at": "2018-05-09T00:15:17+09:00",
     "updated_at": "2018-05-10T20:10:23+09:00",
     "id": "kd9951"
@@ -98,31 +98,31 @@
   {
     "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
     "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 1046,
+    "likes_count": 1047,
     "created_at": "2018-05-12T11:14:50+09:00",
     "updated_at": "2020-03-07T10:07:41+09:00",
     "id": "y-tsutsu"
   },
   {
-    "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
-    "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
-    "likes_count": 957,
-    "created_at": "2018-05-21T13:12:10+09:00",
-    "updated_at": "2021-02-22T08:28:15+09:00",
-    "id": "kazukimatsumoto"
-  },
-  {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 956,
+    "likes_count": 959,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
   },
   {
+    "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
+    "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
+    "likes_count": 958,
+    "created_at": "2018-05-21T13:12:10+09:00",
+    "updated_at": "2021-02-22T08:28:15+09:00",
+    "id": "kazukimatsumoto"
+  },
+  {
     "title": "学生でもできる！Webサービスの開発・リリースするまでの道のり",
     "url": "https://qiita.com/minakawa-daiki/items/1d7b840c0850ec7c834c",
-    "likes_count": 934,
+    "likes_count": 933,
     "created_at": "2018-05-05T19:32:23+09:00",
     "updated_at": "2018-05-06T16:16:51+09:00",
     "id": "minakawa-daiki"
@@ -130,7 +130,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 839,
+    "likes_count": 840,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -138,7 +138,7 @@
   {
     "title": "忙しい研究者のためのテストコードとドキュメントの書き方",
     "url": "https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a",
-    "likes_count": 828,
+    "likes_count": 830,
     "created_at": "2018-05-25T21:52:09+09:00",
     "updated_at": "2021-05-25T23:39:02+09:00",
     "id": "hmkz"
@@ -146,7 +146,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 778,
+    "likes_count": 779,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -194,7 +194,7 @@
   {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 705,
+    "likes_count": 706,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
@@ -202,7 +202,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 684,
+    "likes_count": 685,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2021-08-18T14:03:43+09:00",
     "id": "hiyuzawa"
@@ -234,7 +234,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/takahiro1127/items/fcb81753eaf381b4b33c",
-    "likes_count": 634,
+    "likes_count": 636,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "takahiro1127"
@@ -418,7 +418,7 @@
   {
     "title": "ドット絵ゲームをunityで作るときに押さえておきたいポイント",
     "url": "https://qiita.com/pixelflag/items/ad817bdd64931e084a46",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2018-05-06T13:21:05+09:00",
     "updated_at": "2020-05-12T18:19:49+09:00",
     "id": "pixelflag"
@@ -442,7 +442,7 @@
   {
     "title": "FizzBuzz Zero ―― 人類の知識なしでFizzBuzzをマスターする",
     "url": "https://qiita.com/ymg_aq/items/d276357823f5b2ce46c5",
-    "likes_count": 417,
+    "likes_count": 416,
     "created_at": "2018-05-10T17:14:38+09:00",
     "updated_at": "2018-05-12T09:45:02+09:00",
     "id": "ymg_aq"

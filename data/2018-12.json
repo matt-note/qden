@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1619,
+    "likes_count": 1618,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2021-12-04T10:37:55+09:00",
     "id": "masaibar"
@@ -34,7 +34,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1414,
+    "likes_count": 1413,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -66,7 +66,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1216,
+    "likes_count": 1218,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -74,7 +74,7 @@
   {
     "title": "おもしろいダジャレを入力すると布団が吹っ飛ぶ装置を作った",
     "url": "https://qiita.com/fujit33/items/dbfbd7a2aa3858067b6c",
-    "likes_count": 1213,
+    "likes_count": 1212,
     "created_at": "2018-12-19T13:03:14+09:00",
     "updated_at": "2019-01-09T21:58:39+09:00",
     "id": "fujit33"
@@ -106,7 +106,7 @@
   {
     "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
     "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
-    "likes_count": 1044,
+    "likes_count": 1043,
     "created_at": "2018-12-06T21:43:43+09:00",
     "updated_at": "2020-04-09T08:20:53+09:00",
     "id": "lobin-z0x50"
@@ -122,7 +122,7 @@
   {
     "title": "機械学習/ディープラーニング初心者が2018年にやったこと、読んだ論文",
     "url": "https://qiita.com/koshian2/items/bb4afec12e5dd50aae50",
-    "likes_count": 989,
+    "likes_count": 988,
     "created_at": "2018-12-31T12:55:48+09:00",
     "updated_at": "2018-12-31T14:27:33+09:00",
     "id": "koshian2"
@@ -138,7 +138,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 978,
+    "likes_count": 977,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -162,7 +162,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 932,
+    "likes_count": 933,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -274,7 +274,7 @@
   {
     "title": "たった17行のコードで音声自動文字起こしを実装する",
     "url": "https://qiita.com/kolife/items/a0af7702eef05994fbfb",
-    "likes_count": 617,
+    "likes_count": 618,
     "created_at": "2018-12-02T14:51:26+09:00",
     "updated_at": "2020-05-22T01:04:45+09:00",
     "id": "kolife"
@@ -416,20 +416,28 @@
     "id": "_somary"
   },
   {
+    "title": "主成分分析を Python で理解する",
+    "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
+    "likes_count": 452,
+    "created_at": "2018-12-10T16:14:33+09:00",
+    "updated_at": "2020-05-02T14:45:56+09:00",
+    "id": "maskot1977"
+  },
+  {
     "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
     "url": "https://qiita.com/koizumittn/items/77923a8f71d47d895b34",
-    "likes_count": 452,
+    "likes_count": 451,
     "created_at": "2018-12-29T11:42:35+09:00",
     "updated_at": "2019-01-21T20:31:35+09:00",
     "id": "koizumittn"
   },
   {
-    "title": "主成分分析を Python で理解する",
-    "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 451,
-    "created_at": "2018-12-10T16:14:33+09:00",
-    "updated_at": "2020-05-02T14:45:56+09:00",
-    "id": "maskot1977"
+    "title": "GitのHEADとは何者なのか",
+    "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
+    "likes_count": 441,
+    "created_at": "2018-12-09T23:59:10+09:00",
+    "updated_at": "2021-10-19T10:39:11+09:00",
+    "id": "ymzkjpx"
   },
   {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
@@ -440,17 +448,9 @@
     "id": "po3rin"
   },
   {
-    "title": "GitのHEADとは何者なのか",
-    "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 439,
-    "created_at": "2018-12-09T23:59:10+09:00",
-    "updated_at": "2021-10-19T10:39:11+09:00",
-    "id": "ymzkjpx"
-  },
-  {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
@@ -498,7 +498,7 @@
   {
     "title": "Ruby on Rails 6の主要な新機能・機能追加・変更点",
     "url": "https://qiita.com/ryohashimoto/items/622c3bcfb3336cb9317e",
-    "likes_count": 396,
+    "likes_count": 397,
     "created_at": "2018-12-22T22:11:07+09:00",
     "updated_at": "2019-10-21T18:59:04+09:00",
     "id": "ryohashimoto"
@@ -738,7 +738,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 288,
+    "likes_count": 289,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"

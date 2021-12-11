@@ -26,7 +26,7 @@
   {
     "title": "【個人開発】遅刻を許容し、社会を浄化するアプリを作りました【クソアプリ】",
     "url": "https://qiita.com/yshici/items/e9365fa99b000eeb0188",
-    "likes_count": 1064,
+    "likes_count": 1062,
     "created_at": "2021-01-31T22:49:15+09:00",
     "updated_at": "2021-02-02T20:14:32+09:00",
     "id": "yshici"
@@ -50,7 +50,7 @@
   {
     "title": "フロントエンド開発者のための便利なオンラインツール11選",
     "url": "https://qiita.com/baby-degu/items/1b65414d856fff671c6f",
-    "likes_count": 946,
+    "likes_count": 945,
     "created_at": "2021-01-11T17:41:34+09:00",
     "updated_at": "2021-02-01T23:07:34+09:00",
     "id": "baby-degu"
@@ -74,7 +74,7 @@
   {
     "title": "まだJupyter Notebook使ってるの? VS CodeでJupyter生活 (.py)で快適Pythonライフを?!",
     "url": "https://qiita.com/386jp/items/f023de9457c99b964a85",
-    "likes_count": 698,
+    "likes_count": 697,
     "created_at": "2021-01-04T19:55:58+09:00",
     "updated_at": "2021-01-04T19:55:58+09:00",
     "id": "386jp"
@@ -122,7 +122,7 @@
   {
     "title": "【2025年の崖】経産省の「DXレポート２」が刊行されたので読んでみた",
     "url": "https://qiita.com/kinuta_masaya/items/59f65d9fef9556ff09a8",
-    "likes_count": 572,
+    "likes_count": 571,
     "created_at": "2021-01-13T22:52:51+09:00",
     "updated_at": "2021-04-28T18:49:46+09:00",
     "id": "kinuta_masaya"
@@ -154,7 +154,7 @@
   {
     "title": "明日から使えるGitHub便利機能 7選 (2021年版)",
     "url": "https://qiita.com/__snow_rabbit__/items/e7c1fcb73877e5428213",
-    "likes_count": 480,
+    "likes_count": 479,
     "created_at": "2021-01-08T13:02:13+09:00",
     "updated_at": "2021-01-14T11:36:45+09:00",
     "id": "__snow_rabbit__"
@@ -162,7 +162,7 @@
   {
     "title": "GitHubがパスワード認証を廃止するらしいので",
     "url": "https://qiita.com/shiro01/items/e886aa1e4beb404f9038",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2021-01-28T23:07:25+09:00",
     "updated_at": "2021-07-28T18:20:36+09:00",
     "id": "shiro01"
@@ -178,7 +178,7 @@
   {
     "title": "React入門！！の前に知っておきたいNode.jsとJavaScriptの知識",
     "url": "https://qiita.com/rpf-nob/items/6823fb8728754386ef30",
-    "likes_count": 445,
+    "likes_count": 444,
     "created_at": "2021-01-28T22:13:36+09:00",
     "updated_at": "2021-02-16T08:14:16+09:00",
     "id": "rpf-nob"
@@ -218,7 +218,7 @@
   {
     "title": "【SQL】SQLってCRUD以外に何があるの？と思った時に読むQiita",
     "url": "https://qiita.com/akane_kato/items/635378b04e6a31ada651",
-    "likes_count": 398,
+    "likes_count": 397,
     "created_at": "2021-01-28T11:56:44+09:00",
     "updated_at": "2021-01-28T18:57:38+09:00",
     "id": "akane_kato"
@@ -226,7 +226,7 @@
   {
     "title": "モバイルアプリ開発は、Flutter一択なのか？-2021版-",
     "url": "https://qiita.com/tetsukick/items/ed9306276942c34b3575",
-    "likes_count": 387,
+    "likes_count": 386,
     "created_at": "2021-01-16T17:23:03+09:00",
     "updated_at": "2021-10-19T18:02:22+09:00",
     "id": "tetsukick"
@@ -264,14 +264,6 @@
     "id": "mmomm"
   },
   {
-    "title": "やってみたら簡単！ディープラーニング・オセロを作って自分を負かすまで強くした話(その1)",
-    "url": "https://qiita.com/TokyoYoshida/items/07bd3cdca6a7e50c3114",
-    "likes_count": 288,
-    "created_at": "2021-01-11T16:54:13+09:00",
-    "updated_at": "2021-01-12T14:28:12+09:00",
-    "id": "TokyoYoshida"
-  },
-  {
     "title": "「AWS Well-Architected フレームワーク」の「レビュープロセス」資料がとても良かったので紹介したい",
     "url": "https://qiita.com/yasuoyasuo/items/d873498ffdfc4d7764f6",
     "likes_count": 287,
@@ -280,9 +272,17 @@
     "id": "yasuoyasuo"
   },
   {
+    "title": "やってみたら簡単！ディープラーニング・オセロを作って自分を負かすまで強くした話(その1)",
+    "url": "https://qiita.com/TokyoYoshida/items/07bd3cdca6a7e50c3114",
+    "likes_count": 287,
+    "created_at": "2021-01-11T16:54:13+09:00",
+    "updated_at": "2021-01-12T14:28:12+09:00",
+    "id": "TokyoYoshida"
+  },
+  {
     "title": "画像ディープラーニングの始め方（画像系AIの概要理解からUdemy受講, E資格取得まで）",
     "url": "https://qiita.com/ryokita/items/0dc2e6b04b7f51320124",
-    "likes_count": 278,
+    "likes_count": 277,
     "created_at": "2021-01-25T06:35:31+09:00",
     "updated_at": "2021-01-27T15:19:53+09:00",
     "id": "ryokita"
@@ -306,7 +306,7 @@
   {
     "title": "文系卒がSlerからWeb系自社開発(Go/AWS/機械学習)に転職した話",
     "url": "https://qiita.com/Sora_TrilingualEngineer/items/f41d75afb6e5d72c16b7",
-    "likes_count": 247,
+    "likes_count": 246,
     "created_at": "2021-01-04T19:56:02+09:00",
     "updated_at": "2021-11-23T18:59:38+09:00",
     "id": "Sora_TrilingualEngineer"
