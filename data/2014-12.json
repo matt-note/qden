@@ -82,7 +82,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1251,
+    "likes_count": 1250,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -90,7 +90,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1221,
+    "likes_count": 1222,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2014-12-18T19:06:40+09:00",
     "id": "k-shogo"
@@ -138,7 +138,7 @@
   {
     "title": "今更聞けないpryの使い方と便利プラグイン集",
     "url": "https://qiita.com/k0kubun/items/b118e9ccaef8707c4d9f",
-    "likes_count": 837,
+    "likes_count": 838,
     "created_at": "2014-12-21T17:57:43+09:00",
     "updated_at": "2016-01-16T21:49:45+09:00",
     "id": "k0kubun"
@@ -482,7 +482,7 @@
   {
     "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
     "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2014-12-26T17:08:08+09:00",
     "updated_at": "2014-12-26T17:08:08+09:00",
     "id": "mimoe"
@@ -640,20 +640,20 @@
     "id": "joker1007"
   },
   {
+    "title": "Rails 4.1以降のコンソールコマンドは必ず bin/ を付けなきゃいけないの？",
+    "url": "https://qiita.com/jnchito/items/c5a0848144203dce6e26",
+    "likes_count": 318,
+    "created_at": "2014-12-31T21:38:43+09:00",
+    "updated_at": "2014-12-31T21:56:54+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "Ruby でラインメモリプロファイラ",
     "url": "https://qiita.com/sonots/items/c14b3e3ca8e6f7dfb651",
     "likes_count": 317,
     "created_at": "2014-12-08T00:50:14+09:00",
     "updated_at": "2017-05-17T16:15:05+09:00",
     "id": "sonots"
-  },
-  {
-    "title": "Rails 4.1以降のコンソールコマンドは必ず bin/ を付けなきゃいけないの？",
-    "url": "https://qiita.com/jnchito/items/c5a0848144203dce6e26",
-    "likes_count": 317,
-    "created_at": "2014-12-31T21:38:43+09:00",
-    "updated_at": "2014-12-31T21:56:54+09:00",
-    "id": "jnchito"
   },
   {
     "title": "Golang パフォーマンスチューニング",
