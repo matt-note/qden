@@ -2,7 +2,7 @@
   {
     "title": "「AWS is 何」を3行でまとめてみるよ",
     "url": "https://qiita.com/kohashi/items/1bb952313fb695f12577",
-    "likes_count": 3946,
+    "likes_count": 3947,
     "created_at": "2016-06-28T14:38:40+09:00",
     "updated_at": "2019-03-08T13:21:28+09:00",
     "id": "kohashi"
@@ -26,7 +26,7 @@
   {
     "title": "忘れやすい人のための git diff チートシート",
     "url": "https://qiita.com/shibukk/items/8c9362a5bd399b9c56be",
-    "likes_count": 1609,
+    "likes_count": 1610,
     "created_at": "2016-06-15T14:27:21+09:00",
     "updated_at": "2019-01-23T13:48:59+09:00",
     "id": "shibukk"
@@ -90,7 +90,7 @@
   {
     "title": "PHP isset, empty, is_null の違い早見表",
     "url": "https://qiita.com/shinichi-takii/items/00aed26f96cf6bb3fe62",
-    "likes_count": 860,
+    "likes_count": 861,
     "created_at": "2016-06-22T11:23:13+09:00",
     "updated_at": "2016-06-22T12:09:55+09:00",
     "id": "shinichi-takii"
@@ -106,7 +106,7 @@
   {
     "title": "Kaggle事始め",
     "url": "https://qiita.com/taka4sato/items/802c494fdebeaa7f43b7",
-    "likes_count": 794,
+    "likes_count": 793,
     "created_at": "2016-06-17T20:16:59+09:00",
     "updated_at": "2017-11-02T07:11:38+09:00",
     "id": "taka4sato"
@@ -242,7 +242,7 @@
   {
     "title": "# CommonJS と ES6の import/export で迷うなら",
     "url": "https://qiita.com/rooooomania/items/4c999d93ae745e9d8657",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2016-06-28T08:59:42+09:00",
     "updated_at": "2021-01-24T13:12:01+09:00",
     "id": "rooooomania"
@@ -320,20 +320,20 @@
     "id": "cypher256"
   },
   {
+    "title": "結局のところgetter／setterは要るのか？要らないのか？",
+    "url": "https://qiita.com/katolisa/items/6cfd1a2a87058678d646",
+    "likes_count": 318,
+    "created_at": "2016-06-01T13:17:03+09:00",
+    "updated_at": "2016-06-01T13:17:03+09:00",
+    "id": "katolisa"
+  },
+  {
     "title": "フルスタックなWeb開発が無料で学べるFreeCodeCamp",
     "url": "https://qiita.com/applideveloper/items/9ef1f8258f54982b8045",
     "likes_count": 318,
     "created_at": "2016-06-26T13:26:49+09:00",
     "updated_at": "2016-06-26T17:21:16+09:00",
     "id": "applideveloper"
-  },
-  {
-    "title": "結局のところgetter／setterは要るのか？要らないのか？",
-    "url": "https://qiita.com/katolisa/items/6cfd1a2a87058678d646",
-    "likes_count": 317,
-    "created_at": "2016-06-01T13:17:03+09:00",
-    "updated_at": "2016-06-01T13:17:03+09:00",
-    "id": "katolisa"
   },
   {
     "title": "【Docker】Dockerでホストのディレクトリをマウントする",
