@@ -98,7 +98,7 @@
   {
     "title": "開発におけるDocker導入のメリット",
     "url": "https://qiita.com/minodisk/items/5ffd20588b995523756f",
-    "likes_count": 1080,
+    "likes_count": 1079,
     "created_at": "2016-01-14T15:20:25+09:00",
     "updated_at": "2016-01-14T23:08:27+09:00",
     "id": "minodisk"
@@ -130,7 +130,7 @@
   {
     "title": "何も知らない人を育てるために（新人教育情報キュレーション）",
     "url": "https://qiita.com/itagakishintaro/items/ca4b60e5fb652160685f",
-    "likes_count": 1010,
+    "likes_count": 1009,
     "created_at": "2016-01-13T18:53:10+09:00",
     "updated_at": "2016-01-13T18:53:10+09:00",
     "id": "itagakishintaro"
@@ -216,20 +216,20 @@
     "id": "mizchi"
   },
   {
-    "title": "マテリアルデザインについて少し調べる",
-    "url": "https://qiita.com/nogson/items/804dd3a879f482fb7018",
-    "likes_count": 745,
-    "created_at": "2016-01-30T17:13:04+09:00",
-    "updated_at": "2017-05-30T18:12:34+09:00",
-    "id": "nogson"
-  },
-  {
     "title": "ブランチの切り替えをしなくてよくなるコマンド git worktree がすごい！",
     "url": "https://qiita.com/shibukk/items/80430b54ecda7f36ca44",
     "likes_count": 744,
     "created_at": "2016-01-12T20:20:30+09:00",
     "updated_at": "2020-09-25T17:22:23+09:00",
     "id": "shibukk"
+  },
+  {
+    "title": "マテリアルデザインについて少し調べる",
+    "url": "https://qiita.com/nogson/items/804dd3a879f482fb7018",
+    "likes_count": 744,
+    "created_at": "2016-01-30T17:13:04+09:00",
+    "updated_at": "2017-05-30T18:12:34+09:00",
+    "id": "nogson"
   },
   {
     "title": "再帰型ニューラルネットワーク: RNN入門",
@@ -346,7 +346,7 @@
   {
     "title": "Elasticsearch導入前に気を付けておきたいこと！",
     "url": "https://qiita.com/uzresk/items/e0b10c14875b79c450f2",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2016-01-06T16:40:06+09:00",
     "updated_at": "2016-01-21T10:13:19+09:00",
     "id": "uzresk"
@@ -466,7 +466,7 @@
   {
     "title": "自然言語処理用語と解析器まとめ",
     "url": "https://qiita.com/yura/items/6c1481ca652d3d131e47",
-    "likes_count": 382,
+    "likes_count": 381,
     "created_at": "2016-01-11T21:35:44+09:00",
     "updated_at": "2016-01-11T21:35:44+09:00",
     "id": "yura"
@@ -728,20 +728,20 @@
     "id": "chrischris0801"
   },
   {
+    "title": "Dockerfileを極めて、Dockerマスターになろう！",
+    "url": "https://qiita.com/soushiy/items/0945bcbc7ecce4822985",
+    "likes_count": 272,
+    "created_at": "2016-01-20T23:34:22+09:00",
+    "updated_at": "2016-01-25T08:33:17+09:00",
+    "id": "soushiy"
+  },
+  {
     "title": "Chainerで学習した対話用のボットをSlackで使用+Twitterから学習データを取得してファインチューニング",
     "url": "https://qiita.com/GushiSnow/items/79ca7deeb976f50126d7",
     "likes_count": 270,
     "created_at": "2016-01-04T07:53:42+09:00",
     "updated_at": "2016-05-01T20:02:10+09:00",
     "id": "GushiSnow"
-  },
-  {
-    "title": "Dockerfileを極めて、Dockerマスターになろう！",
-    "url": "https://qiita.com/soushiy/items/0945bcbc7ecce4822985",
-    "likes_count": 270,
-    "created_at": "2016-01-20T23:34:22+09:00",
-    "updated_at": "2016-01-25T08:33:17+09:00",
-    "id": "soushiy"
   },
   {
     "title": "SSLを利用するための自己証明書（オレオレ証明書）の設定メモ",

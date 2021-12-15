@@ -10,7 +10,7 @@
   {
     "title": "WebSocketについて調べてみた。",
     "url": "https://qiita.com/south37/items/6f92d4268fe676347160",
-    "likes_count": 1939,
+    "likes_count": 1941,
     "created_at": "2015-01-18T20:00:01+09:00",
     "updated_at": "2018-05-18T11:44:50+09:00",
     "id": "south37"
@@ -82,7 +82,7 @@
   {
     "title": "iOSアプリのプロビジョニング周りを図にしてみる",
     "url": "https://qiita.com/fujisan3/items/d037e3c40a0acc46f618",
-    "likes_count": 1621,
+    "likes_count": 1623,
     "created_at": "2015-01-08T23:04:07+09:00",
     "updated_at": "2015-01-08T23:04:07+09:00",
     "id": "fujisan3"
@@ -90,7 +90,7 @@
   {
     "title": "GitHub「完璧なプルリクの書き方を教えるぜ」",
     "url": "https://qiita.com/umanoda/items/93aec41213f8e3ce14c8",
-    "likes_count": 1515,
+    "likes_count": 1514,
     "created_at": "2015-01-24T00:40:15+09:00",
     "updated_at": "2015-02-20T19:41:28+09:00",
     "id": "umanoda"
@@ -106,7 +106,7 @@
   {
     "title": "Pythonのデコレータについて",
     "url": "https://qiita.com/mtb_beta/items/d257519b018b8cd0cc2e",
-    "likes_count": 1326,
+    "likes_count": 1327,
     "created_at": "2015-01-19T21:54:03+09:00",
     "updated_at": "2018-07-06T01:22:38+09:00",
     "id": "mtb_beta"
@@ -114,7 +114,7 @@
   {
     "title": "[Ubuntu] apt-get まとめ",
     "url": "https://qiita.com/white_aspara25/items/723ae4ebf0bfefe2115c",
-    "likes_count": 1252,
+    "likes_count": 1253,
     "created_at": "2015-01-29T00:07:51+09:00",
     "updated_at": "2017-01-27T22:04:49+09:00",
     "id": "white_aspara25"
@@ -184,20 +184,20 @@
     "id": "shrkw"
   },
   {
-    "title": "HTMLのテンプレート的なの",
-    "url": "https://qiita.com/matsui-a/items/8d26f66ded3560d3d004",
-    "likes_count": 840,
-    "created_at": "2015-01-13T22:43:18+09:00",
-    "updated_at": "2015-01-21T11:45:29+09:00",
-    "id": "matsui-a"
-  },
-  {
     "title": "Web な人もアプリな人も、これから新しく Android アプリを作るなら抑えておきたいポイント3選",
     "url": "https://qiita.com/KeithYokoma/items/d1600c67d4b320667e56",
     "likes_count": 840,
     "created_at": "2015-01-22T18:02:13+09:00",
     "updated_at": "2015-01-28T23:06:14+09:00",
     "id": "KeithYokoma"
+  },
+  {
+    "title": "HTMLのテンプレート的なの",
+    "url": "https://qiita.com/matsui-a/items/8d26f66ded3560d3d004",
+    "likes_count": 839,
+    "created_at": "2015-01-13T22:43:18+09:00",
+    "updated_at": "2015-01-21T11:45:29+09:00",
+    "id": "matsui-a"
   },
   {
     "title": "ActiveRecord の attribute 更新方法まとめ",
@@ -234,7 +234,7 @@
   {
     "title": "12 Factor App - モダンなサービス運営に必要な12のインフラ的要素",
     "url": "https://qiita.com/awakia/items/04135ea89be787be1cfc",
-    "likes_count": 713,
+    "likes_count": 712,
     "created_at": "2015-01-12T18:49:34+09:00",
     "updated_at": "2015-03-20T00:59:23+09:00",
     "id": "awakia"
@@ -354,7 +354,7 @@
   {
     "title": "[iOS] AppDelegateを綺麗に保つ4つのテクニック",
     "url": "https://qiita.com/nori0620/items/66ebc623f63fc3f0ca20",
-    "likes_count": 464,
+    "likes_count": 463,
     "created_at": "2015-01-07T01:51:47+09:00",
     "updated_at": "2018-10-23T16:52:09+09:00",
     "id": "nori0620"
@@ -392,20 +392,20 @@
     "id": "Yuta"
   },
   {
+    "title": "require()とは何か？何が便利なのか",
+    "url": "https://qiita.com/uryyyyyyy/items/b10b012703b5396ded5a",
+    "likes_count": 422,
+    "created_at": "2015-01-13T13:15:11+09:00",
+    "updated_at": "2015-01-13T13:15:11+09:00",
+    "id": "uryyyyyyy"
+  },
+  {
     "title": "Python基礎講座(はじめに)",
     "url": "https://qiita.com/Usek/items/7bd985a5d0c00bf3e41a",
     "likes_count": 421,
     "created_at": "2015-01-03T22:26:58+09:00",
     "updated_at": "2015-11-08T09:59:29+09:00",
     "id": "Usek"
-  },
-  {
-    "title": "require()とは何か？何が便利なのか",
-    "url": "https://qiita.com/uryyyyyyy/items/b10b012703b5396ded5a",
-    "likes_count": 421,
-    "created_at": "2015-01-13T13:15:11+09:00",
-    "updated_at": "2015-01-13T13:15:11+09:00",
-    "id": "uryyyyyyy"
   },
   {
     "title": "Capistrano で Rails アプリケーションの自動デプロイ",
@@ -434,7 +434,7 @@
   {
     "title": "【MySQL】照合順序とは？",
     "url": "https://qiita.com/kazu56/items/6af85ffcf8d3954455ad",
-    "likes_count": 385,
+    "likes_count": 384,
     "created_at": "2015-01-09T15:58:07+09:00",
     "updated_at": "2017-06-17T10:58:02+09:00",
     "id": "kazu56"
@@ -450,7 +450,7 @@
   {
     "title": "Javaで書くBuilderパターンのパターン",
     "url": "https://qiita.com/disc99/items/840cf9936687f97a482b",
-    "likes_count": 379,
+    "likes_count": 378,
     "created_at": "2015-01-19T07:21:06+09:00",
     "updated_at": "2017-03-14T12:26:02+09:00",
     "id": "disc99"

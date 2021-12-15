@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 5132,
+    "likes_count": 5133,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -18,7 +18,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 3182,
+    "likes_count": 3185,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -82,7 +82,7 @@
   {
     "title": "tmuxチートシート",
     "url": "https://qiita.com/nmrmsys/items/03f97f5eabec18a3a18b",
-    "likes_count": 1363,
+    "likes_count": 1364,
     "created_at": "2015-05-17T14:38:08+09:00",
     "updated_at": "2016-10-30T07:17:09+09:00",
     "id": "nmrmsys"
@@ -130,7 +130,7 @@
   {
     "title": "仕様書の書き方",
     "url": "https://qiita.com/ko1/items/9f5f1a2683ea54f12362",
-    "likes_count": 976,
+    "likes_count": 977,
     "created_at": "2015-05-15T22:42:33+09:00",
     "updated_at": "2016-04-21T00:19:23+09:00",
     "id": "ko1"
@@ -202,7 +202,7 @@
   {
     "title": "RSpecのletを使うのはどんなときか？（翻訳）",
     "url": "https://qiita.com/jnchito/items/cdd9eef2ed193267c651",
-    "likes_count": 696,
+    "likes_count": 697,
     "created_at": "2015-05-11T09:33:49+09:00",
     "updated_at": "2015-05-11T10:05:20+09:00",
     "id": "jnchito"
@@ -290,7 +290,7 @@
   {
     "title": "Lombok 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/671ffd4bf84fe5e32557",
-    "likes_count": 494,
+    "likes_count": 493,
     "created_at": "2015-05-03T14:02:08+09:00",
     "updated_at": "2019-07-01T22:07:20+09:00",
     "id": "opengl-8080"
@@ -314,7 +314,7 @@
   {
     "title": "sedコマンドの備忘録",
     "url": "https://qiita.com/takech9203/items/b96eff5773ce9d9cc9b3",
-    "likes_count": 450,
+    "likes_count": 451,
     "created_at": "2015-05-05T20:04:06+09:00",
     "updated_at": "2016-05-03T09:44:34+09:00",
     "id": "takech9203"
@@ -488,9 +488,17 @@
     "id": "zaru"
   },
   {
+    "title": "各プログラミング言語のコーディング規約まとめ",
+    "url": "https://qiita.com/moaible/items/134329123074337913fb",
+    "likes_count": 334,
+    "created_at": "2015-05-31T20:46:38+09:00",
+    "updated_at": "2015-05-31T20:47:38+09:00",
+    "id": "moaible"
+  },
+  {
     "title": "Slim入門をして書き方を練習をしました",
     "url": "https://qiita.com/pugiemonn/items/b64171952d958dc4d6be",
-    "likes_count": 334,
+    "likes_count": 333,
     "created_at": "2015-05-02T18:08:56+09:00",
     "updated_at": "2017-02-01T15:03:23+09:00",
     "id": "pugiemonn"
@@ -504,28 +512,20 @@
     "id": "kazuph"
   },
   {
-    "title": "各プログラミング言語のコーディング規約まとめ",
-    "url": "https://qiita.com/moaible/items/134329123074337913fb",
-    "likes_count": 333,
-    "created_at": "2015-05-31T20:46:38+09:00",
-    "updated_at": "2015-05-31T20:47:38+09:00",
-    "id": "moaible"
-  },
-  {
-    "title": "iTunes ConnectのApp Analyticsを使ってみた",
-    "url": "https://qiita.com/koogawa/items/0a681469899bafb40f3e",
-    "likes_count": 319,
-    "created_at": "2015-05-02T11:11:06+09:00",
-    "updated_at": "2018-03-22T22:40:04+09:00",
-    "id": "koogawa"
-  },
-  {
     "title": "Word2Vecの進化形Doc2Vecで文章と文章の類似度を算出する",
     "url": "https://qiita.com/okappy/items/32a7ba7eddf8203c9fa1",
     "likes_count": 319,
     "created_at": "2015-05-12T12:17:48+09:00",
     "updated_at": "2015-05-14T15:57:31+09:00",
     "id": "okappy"
+  },
+  {
+    "title": "iTunes ConnectのApp Analyticsを使ってみた",
+    "url": "https://qiita.com/koogawa/items/0a681469899bafb40f3e",
+    "likes_count": 318,
+    "created_at": "2015-05-02T11:11:06+09:00",
+    "updated_at": "2018-03-22T22:40:04+09:00",
+    "id": "koogawa"
   },
   {
     "title": "Javaの検査例外は、呼び出し側で「どんなに注意しても防げない」異常系",

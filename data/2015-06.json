@@ -2,7 +2,7 @@
   {
     "title": "ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト",
     "url": "https://qiita.com/kazukichi/items/7379b75fba2f90d3cf45",
-    "likes_count": 3865,
+    "likes_count": 3864,
     "created_at": "2015-06-03T20:05:15+09:00",
     "updated_at": "2021-03-27T18:32:17+09:00",
     "id": "kazukichi"
@@ -10,7 +10,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3309,
+    "likes_count": 3308,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2018-10-01T16:44:21+09:00",
     "id": "ryounagaoka"
@@ -26,7 +26,7 @@
   {
     "title": "どこよりも分かりやすいSwiftの\"?\"と\"!\"",
     "url": "https://qiita.com/maiki055/items/b24378a3707bd35a31a8",
-    "likes_count": 1963,
+    "likes_count": 1962,
     "created_at": "2015-06-22T20:32:43+09:00",
     "updated_at": "2016-01-08T13:37:58+09:00",
     "id": "maiki055"
@@ -58,7 +58,7 @@
   {
     "title": "Qiitaの数式チートシート",
     "url": "https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada",
-    "likes_count": 1517,
+    "likes_count": 1520,
     "created_at": "2015-06-14T01:44:10+09:00",
     "updated_at": "2021-03-02T09:29:21+09:00",
     "id": "PlanetMeron"
@@ -98,7 +98,7 @@
   {
     "title": "jQueryを利用したDOM操作 要素の追加メソッドまとめ",
     "url": "https://qiita.com/nekoneko-wanwan/items/227ccad5f8cc449e91e9",
-    "likes_count": 1010,
+    "likes_count": 1011,
     "created_at": "2015-06-29T17:23:12+09:00",
     "updated_at": "2015-06-29T17:24:13+09:00",
     "id": "nekoneko-wanwan"
@@ -138,7 +138,7 @@
   {
     "title": "RxJavaに3日で入門し、Androidアプリのリスト操作、非同期処理、変更通知の課題を解決した話",
     "url": "https://qiita.com/yuya_presto/items/152fa80d073d865cfc90",
-    "likes_count": 801,
+    "likes_count": 800,
     "created_at": "2015-06-29T02:53:05+09:00",
     "updated_at": "2016-04-28T18:07:05+09:00",
     "id": "yuya_presto"
@@ -218,7 +218,7 @@
   {
     "title": "ssh公開鍵認証設定まとめ",
     "url": "https://qiita.com/ir-yk/items/af8550fea92b5c5f7fca",
-    "likes_count": 609,
+    "likes_count": 610,
     "created_at": "2015-06-30T21:40:35+09:00",
     "updated_at": "2019-06-11T11:51:16+09:00",
     "id": "ir-yk"
@@ -250,7 +250,7 @@
   {
     "title": "設定ファイル記述言語 TOML",
     "url": "https://qiita.com/b4b4r07/items/77c327742fc2256d6cbe",
-    "likes_count": 495,
+    "likes_count": 494,
     "created_at": "2015-06-12T15:36:05+09:00",
     "updated_at": "2020-04-07T13:56:49+09:00",
     "id": "b4b4r07"
@@ -264,20 +264,20 @@
     "id": "rigani"
   },
   {
+    "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
+    "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
+    "likes_count": 481,
+    "created_at": "2015-06-18T14:31:26+09:00",
+    "updated_at": "2020-02-03T08:43:46+09:00",
+    "id": "uzresk"
+  },
+  {
     "title": "Swift 2.0 の try, catch ファーストインプレッション",
     "url": "https://qiita.com/koher/items/0c60b13ff0fe93220210",
     "likes_count": 480,
     "created_at": "2015-06-09T23:12:21+09:00",
     "updated_at": "2015-12-08T10:08:35+09:00",
     "id": "koher"
-  },
-  {
-    "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
-    "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
-    "likes_count": 480,
-    "created_at": "2015-06-18T14:31:26+09:00",
-    "updated_at": "2020-02-03T08:43:46+09:00",
-    "id": "uzresk"
   },
   {
     "title": "JavaScript初心者脱却への道のりを考える",
@@ -314,7 +314,7 @@
   {
     "title": "依存性注入(DI)の解説とやり方",
     "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2015-06-21T16:57:46+09:00",
     "updated_at": "2017-11-28T22:04:50+09:00",
     "id": "1000k"
@@ -506,7 +506,7 @@
   {
     "title": "Rubyのクラスメソッドとインスタンスメソッドの例",
     "url": "https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2015-06-30T23:23:51+09:00",
     "updated_at": "2015-06-30T23:23:51+09:00",
     "id": "tbpgr"
@@ -578,7 +578,7 @@
   {
     "title": "エンジニア目線でWordPressで何度も調べたり感心したりした事",
     "url": "https://qiita.com/yousan/items/c925f0a241be02a55292",
-    "likes_count": 249,
+    "likes_count": 250,
     "created_at": "2015-06-03T15:39:57+09:00",
     "updated_at": "2020-10-21T23:06:58+09:00",
     "id": "yousan"
