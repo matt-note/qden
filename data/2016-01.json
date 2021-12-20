@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4049,
+    "likes_count": 4050,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2530,
+    "likes_count": 2531,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -122,7 +122,7 @@
   {
     "title": "Apacheセキュリティ設定",
     "url": "https://qiita.com/bezeklik/items/1c4145652661cf5b2271",
-    "likes_count": 1033,
+    "likes_count": 1034,
     "created_at": "2016-01-18T00:59:29+09:00",
     "updated_at": "2020-02-13T12:00:11+09:00",
     "id": "bezeklik"
@@ -178,7 +178,7 @@
   {
     "title": "(デプロイ編①)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/814e0979217b1a25aa3e",
-    "likes_count": 859,
+    "likes_count": 860,
     "created_at": "2016-01-12T16:00:04+09:00",
     "updated_at": "2021-11-25T21:05:34+09:00",
     "id": "naoki_mochizuki"
@@ -322,7 +322,7 @@
   {
     "title": "Google APIのAccess Tokenをお手軽に取得する",
     "url": "https://qiita.com/shin1ogawa/items/49a076f62e5f17f18fe5",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2016-01-31T23:26:04+09:00",
     "updated_at": "2016-02-01T16:24:22+09:00",
     "id": "shin1ogawa"
@@ -362,7 +362,7 @@
   {
     "title": "TypeScript超入門(2)：構文を理解する",
     "url": "https://qiita.com/ringtail003/items/7ccf992f18b768e0e633",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2016-01-09T16:56:38+09:00",
     "updated_at": "2018-10-17T21:23:09+09:00",
     "id": "ringtail003"
@@ -386,7 +386,7 @@
   {
     "title": "SlackのWebhook URL取得手順",
     "url": "https://qiita.com/vmmhypervisor/items/18c99624a84df8b31008",
-    "likes_count": 455,
+    "likes_count": 456,
     "created_at": "2016-01-05T01:20:14+09:00",
     "updated_at": "2017-01-28T09:02:56+09:00",
     "id": "vmmhypervisor"
@@ -552,20 +552,20 @@
     "id": "hmarui66"
   },
   {
+    "title": "Rails enumについてまとめておく",
+    "url": "https://qiita.com/shizuma/items/d133b18f8093df1e9b70",
+    "likes_count": 333,
+    "created_at": "2016-01-08T00:00:31+09:00",
+    "updated_at": "2016-01-08T00:00:31+09:00",
+    "id": "shizuma"
+  },
+  {
     "title": "AWS EC2でWebサーバーを構築してみる",
     "url": "https://qiita.com/arashida/items/629aaed33401b8f2265c",
     "likes_count": 333,
     "created_at": "2016-01-18T20:25:58+09:00",
     "updated_at": "2019-05-21T10:25:09+09:00",
     "id": "arashida"
-  },
-  {
-    "title": "Rails enumについてまとめておく",
-    "url": "https://qiita.com/shizuma/items/d133b18f8093df1e9b70",
-    "likes_count": 332,
-    "created_at": "2016-01-08T00:00:31+09:00",
-    "updated_at": "2016-01-08T00:00:31+09:00",
-    "id": "shizuma"
   },
   {
     "title": "SSH通信って、結局何してるの？",
@@ -594,7 +594,7 @@
   {
     "title": "MyBatis 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/a9b5d4038f19d4813ee6",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2016-01-03T16:40:30+09:00",
     "updated_at": "2016-01-03T23:05:17+09:00",
     "id": "opengl-8080"

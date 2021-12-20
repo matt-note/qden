@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3396,
+    "likes_count": 3399,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2652,
+    "likes_count": 2653,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2198,
+    "likes_count": 2200,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -98,7 +98,7 @@
   {
     "title": "Webhookとは？",
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 1076,
+    "likes_count": 1077,
     "created_at": "2016-12-17T12:54:09+09:00",
     "updated_at": "2021-12-05T17:11:15+09:00",
     "id": "soarflat"
@@ -130,7 +130,7 @@
   {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 963,
+    "likes_count": 965,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
@@ -178,7 +178,7 @@
   {
     "title": "ようこそ！Electron入門",
     "url": "https://qiita.com/umamichi/items/6ce4f46c1458e89c4cfc",
-    "likes_count": 745,
+    "likes_count": 746,
     "created_at": "2016-12-28T14:02:01+09:00",
     "updated_at": "2019-11-22T19:57:05+09:00",
     "id": "umamichi"
@@ -250,7 +250,7 @@
   {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
@@ -258,7 +258,7 @@
   {
     "title": "curlコマンドでapiを叩く",
     "url": "https://qiita.com/buntafujikawa/items/758425773b2239feb9a7",
-    "likes_count": 654,
+    "likes_count": 656,
     "created_at": "2016-12-26T23:43:49+09:00",
     "updated_at": "2020-09-19T11:01:47+09:00",
     "id": "buntafujikawa"
@@ -368,20 +368,20 @@
     "id": "kaityo256"
   },
   {
+    "title": "Railsのポリモーフィック関連とはなんなのか",
+    "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
+    "likes_count": 503,
+    "created_at": "2016-12-04T00:00:32+09:00",
+    "updated_at": "2018-12-21T01:39:51+09:00",
+    "id": "itkrt2y"
+  },
+  {
     "title": "基本/詳細設計って呼び方やめませんか",
     "url": "https://qiita.com/garbagetown/items/a3ae46595f7c49e587a0",
     "likes_count": 503,
     "created_at": "2016-12-14T18:08:06+09:00",
     "updated_at": "2016-12-18T01:24:21+09:00",
     "id": "garbagetown"
-  },
-  {
-    "title": "Railsのポリモーフィック関連とはなんなのか",
-    "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 502,
-    "created_at": "2016-12-04T00:00:32+09:00",
-    "updated_at": "2018-12-21T01:39:51+09:00",
-    "id": "itkrt2y"
   },
   {
     "title": "Now でクラウドの複雑さから解放されよう、今すぐに",
@@ -426,7 +426,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 459,
+    "likes_count": 461,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -560,20 +560,20 @@
     "id": "YudaiTsukamoto"
   },
   {
+    "title": "PythonにおいてのJSONファイルの取扱いあれこれ",
+    "url": "https://qiita.com/wakaba130/items/5f54aed913156dc4438f",
+    "likes_count": 362,
+    "created_at": "2016-12-25T18:12:41+09:00",
+    "updated_at": "2018-07-01T20:57:29+09:00",
+    "id": "wakaba130"
+  },
+  {
     "title": "あなたはDRY原則を誤認している？",
     "url": "https://qiita.com/yatmsu/items/b4a84c4ae78fd67a364c",
     "likes_count": 361,
     "created_at": "2016-12-06T22:47:20+09:00",
     "updated_at": "2018-07-29T19:19:28+09:00",
     "id": "yatmsu"
-  },
-  {
-    "title": "PythonにおいてのJSONファイルの取扱いあれこれ",
-    "url": "https://qiita.com/wakaba130/items/5f54aed913156dc4438f",
-    "likes_count": 361,
-    "created_at": "2016-12-25T18:12:41+09:00",
-    "updated_at": "2018-07-01T20:57:29+09:00",
-    "id": "wakaba130"
   },
   {
     "title": "今から新規でiOSアプリを書き始めるなら。2016年冬",
