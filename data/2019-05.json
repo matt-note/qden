@@ -42,7 +42,7 @@
   {
     "title": "東大松尾研から新たに無償公開されたDeep Learning講座「DL4US」が良い、という話",
     "url": "https://qiita.com/katsuki104/items/e0f81a9cacc3e5f4fcd7",
-    "likes_count": 1766,
+    "likes_count": 1765,
     "created_at": "2019-05-16T17:25:13+09:00",
     "updated_at": "2019-05-17T02:07:22+09:00",
     "id": "katsuki104"
@@ -58,7 +58,7 @@
   {
     "title": " 「写経」を自動化し、オートで功徳を積める仕組みを作ってみたのでございます。",
     "url": "https://qiita.com/youwht/items/616ccc062725fa050a34",
-    "likes_count": 1654,
+    "likes_count": 1655,
     "created_at": "2019-05-19T15:51:06+09:00",
     "updated_at": "2020-01-27T00:10:48+09:00",
     "id": "youwht"
@@ -66,26 +66,26 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2021.12",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1624,
+    "likes_count": 1628,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2021-12-03T15:54:01+09:00",
     "id": "hayao_k"
   },
   {
-    "title": "新しく言語を学ぶときに心がけていること",
-    "url": "https://qiita.com/hiraike32/items/40ef06f85f6a63828985",
-    "likes_count": 1418,
-    "created_at": "2019-05-12T21:44:32+09:00",
-    "updated_at": "2019-05-15T10:25:17+09:00",
-    "id": "hiraike32"
-  },
-  {
     "title": "Ricty を神フォントだと崇める僕が、フリーライセンスのプログラミングフォント「白源」を作った話",
     "url": "https://qiita.com/tawara_/items/374f3ca0a386fab8b305",
-    "likes_count": 1418,
+    "likes_count": 1420,
     "created_at": "2019-05-21T13:54:46+09:00",
     "updated_at": "2021-06-15T06:23:20+09:00",
     "id": "tawara_"
+  },
+  {
+    "title": "新しく言語を学ぶときに心がけていること",
+    "url": "https://qiita.com/hiraike32/items/40ef06f85f6a63828985",
+    "likes_count": 1417,
+    "created_at": "2019-05-12T21:44:32+09:00",
+    "updated_at": "2019-05-15T10:25:17+09:00",
+    "id": "hiraike32"
   },
   {
     "title": "2019年5月時点　JavaScript初心者が参考にしていいモダンJavaScript解説サイト2つ",
@@ -234,7 +234,7 @@
   {
     "title": "LaTeXにおける正しい論文の書き方",
     "url": "https://qiita.com/birdwatcher/items/5ec42b35d84d3ee2ffbb",
-    "likes_count": 699,
+    "likes_count": 700,
     "created_at": "2019-05-03T02:23:43+09:00",
     "updated_at": "2020-02-10T19:30:28+09:00",
     "id": "birdwatcher"
@@ -274,7 +274,7 @@
   {
     "title": "【2019年】データ分析・可視化に本気でおすすめのツール30選（ノーコード型ツール含め）",
     "url": "https://qiita.com/keisuuuuke/items/e7b5cc6a5db04f2c8d5c",
-    "likes_count": 606,
+    "likes_count": 605,
     "created_at": "2019-05-09T12:36:29+09:00",
     "updated_at": "2019-09-30T16:14:45+09:00",
     "id": "keisuuuuke"
@@ -290,7 +290,7 @@
   {
     "title": "【Python】🍜可愛い店員さんがいるラーメン店を食べログ口コミから自然言語処理で抽出してみた。🍜",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/a192cac082926a7aced5",
-    "likes_count": 524,
+    "likes_count": 523,
     "created_at": "2019-05-13T09:57:02+09:00",
     "updated_at": "2020-08-28T14:35:38+09:00",
     "id": "toshiyuki_tsutsui"
@@ -338,7 +338,7 @@
   {
     "title": "TypeScriptの型推論詳説",
     "url": "https://qiita.com/uhyo/items/6acb7f4ee73287d5dac0",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2019-05-25T03:29:55+09:00",
     "updated_at": "2019-06-10T12:37:04+09:00",
     "id": "uhyo"
@@ -536,20 +536,20 @@
     "id": "hikach"
   },
   {
+    "title": "Laravel で Service 層を取り入れるときに検討したいこと",
+    "url": "https://qiita.com/nunulk/items/6b7a7bbda17192f6b2f5",
+    "likes_count": 299,
+    "created_at": "2019-05-26T20:48:26+09:00",
+    "updated_at": "2019-05-26T22:28:50+09:00",
+    "id": "nunulk"
+  },
+  {
     "title": "【VSCode Remote】10秒でNuxt環境を構築【脱WebStorm】",
     "url": "https://qiita.com/relu/items/defde8de8c4d21af662f",
     "likes_count": 298,
     "created_at": "2019-05-09T02:12:33+09:00",
     "updated_at": "2019-06-14T19:19:38+09:00",
     "id": "relu"
-  },
-  {
-    "title": "Laravel で Service 層を取り入れるときに検討したいこと",
-    "url": "https://qiita.com/nunulk/items/6b7a7bbda17192f6b2f5",
-    "likes_count": 297,
-    "created_at": "2019-05-26T20:48:26+09:00",
-    "updated_at": "2019-05-26T22:28:50+09:00",
-    "id": "nunulk"
   },
   {
     "title": "[ジュニア向け] PythonとProcessingでプログラミング入門：その1 - ブロックくずしを作ろう",

@@ -2,7 +2,7 @@
   {
     "title": "2020年のフロントエンドマスターになりたければこの9プロジェクトを作れ",
     "url": "https://qiita.com/rana_kualu/items/915345b8f3f870cfe2aa",
-    "likes_count": 3665,
+    "likes_count": 3666,
     "created_at": "2019-11-11T20:54:20+09:00",
     "updated_at": "2019-11-20T21:12:23+09:00",
     "id": "rana_kualu"
@@ -10,7 +10,7 @@
   {
     "title": "トップデベロッパーになるために作成したいアプリ8選",
     "url": "https://qiita.com/baby-degu/items/f905c8ee972cf46ce11b",
-    "likes_count": 3266,
+    "likes_count": 3267,
     "created_at": "2019-11-10T21:29:43+09:00",
     "updated_at": "2021-02-10T21:36:50+09:00",
     "id": "baby-degu"
@@ -34,7 +34,7 @@
   {
     "title": "スーパーマリオのジャンプのアルゴリズム",
     "url": "https://qiita.com/morian-bisco/items/4c659d9f940c7e3a2099",
-    "likes_count": 1898,
+    "likes_count": 1899,
     "created_at": "2019-11-06T21:09:47+09:00",
     "updated_at": "2019-11-16T22:59:09+09:00",
     "id": "morian-bisco"
@@ -90,7 +90,7 @@
   {
     "title": "コードレビュー虎の巻",
     "url": "https://qiita.com/teradonburi/items/2fa475c860d0fb16c0eb",
-    "likes_count": 1267,
+    "likes_count": 1268,
     "created_at": "2019-11-19T12:00:29+09:00",
     "updated_at": "2021-08-18T14:49:53+09:00",
     "id": "teradonburi"
@@ -138,7 +138,7 @@
   {
     "title": "設計要件をギッチギチに詰めたValueObjectで低凝集クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/5e69d9bd028aa350e2c4",
-    "likes_count": 1056,
+    "likes_count": 1059,
     "created_at": "2019-11-05T07:38:26+09:00",
     "updated_at": "2019-11-10T12:55:59+09:00",
     "id": "MinoDriven"
@@ -178,7 +178,7 @@
   {
     "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
     "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 880,
+    "likes_count": 881,
     "created_at": "2019-11-21T16:30:57+09:00",
     "updated_at": "2020-10-14T00:17:51+09:00",
     "id": "ryokkkke"
@@ -250,7 +250,7 @@
   {
     "title": "いかにして未経験から4年間でフルスタックエンジニアになったか",
     "url": "https://qiita.com/wildmouse/items/6310f5dc1e15b04fed6d",
-    "likes_count": 621,
+    "likes_count": 622,
     "created_at": "2019-11-19T23:45:38+09:00",
     "updated_at": "2019-11-21T19:31:04+09:00",
     "id": "wildmouse"
@@ -274,7 +274,7 @@
   {
     "title": "IT業界で働く者の基礎知識となるクラウドネイティブ とは？ ",
     "url": "https://qiita.com/MahoTakara/items/7c6c89cbddfd4a8f7b44",
-    "likes_count": 583,
+    "likes_count": 584,
     "created_at": "2019-11-09T23:12:56+09:00",
     "updated_at": "2019-11-14T00:06:41+09:00",
     "id": "MahoTakara"
@@ -306,7 +306,7 @@
   {
     "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
     "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
-    "likes_count": 550,
+    "likes_count": 553,
     "created_at": "2019-11-15T22:47:51+09:00",
     "updated_at": "2020-03-09T11:53:54+09:00",
     "id": "ramuneru"
@@ -352,20 +352,20 @@
     "id": "xtetsuji"
   },
   {
+    "title": "ぼくのVimさばきを支える設定とその導入手順を紹介する",
+    "url": "https://qiita.com/jiroshin/items/ee86ea426a51fa24b319",
+    "likes_count": 498,
+    "created_at": "2019-11-27T13:29:20+09:00",
+    "updated_at": "2020-12-30T21:53:00+09:00",
+    "id": "jiroshin"
+  },
+  {
     "title": "【初心者向け】Gitで個人開発",
     "url": "https://qiita.com/Ken227/items/822851aaca0fd9b3cf72",
     "likes_count": 497,
     "created_at": "2019-11-08T18:47:32+09:00",
     "updated_at": "2020-06-15T19:16:56+09:00",
     "id": "Ken227"
-  },
-  {
-    "title": "ぼくのVimさばきを支える設定とその導入手順を紹介する",
-    "url": "https://qiita.com/jiroshin/items/ee86ea426a51fa24b319",
-    "likes_count": 497,
-    "created_at": "2019-11-27T13:29:20+09:00",
-    "updated_at": "2020-12-30T21:53:00+09:00",
-    "id": "jiroshin"
   },
   {
     "title": "新人エンジニアが意識すると良いなと思うことまとめ",
@@ -434,7 +434,7 @@
   {
     "title": "OpenCV をビジュアルプログラミングできるアプリを Electron + Vue.js で作成",
     "url": "https://qiita.com/ufield/items/f3dc7d9a4174a2bad007",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2019-11-23T09:47:30+09:00",
     "updated_at": "2019-11-23T09:47:30+09:00",
     "id": "ufield"
@@ -466,7 +466,7 @@
   {
     "title": "いまからはじめるReact",
     "url": "https://qiita.com/Kazunori-Kimura/items/d94ddd1a8d8e2e39d504",
-    "likes_count": 365,
+    "likes_count": 366,
     "created_at": "2019-11-15T14:16:10+09:00",
     "updated_at": "2019-11-19T15:16:49+09:00",
     "id": "Kazunori-Kimura"
@@ -474,7 +474,7 @@
   {
     "title": "クロスプラットフォームフレームワーク比較 2021（Flutter, React Native, Xamarin, Unity）",
     "url": "https://qiita.com/nskydiving/items/c13c949cc17c6f980a67",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2019-11-14T08:18:04+09:00",
     "updated_at": "2021-05-31T07:37:00+09:00",
     "id": "nskydiving"
@@ -482,7 +482,7 @@
   {
     "title": "ドメインモデルとは(「現場で役立つシステム設計の原則」より)",
     "url": "https://qiita.com/jimpei/items/93671b4b09407f9d4111",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2019-11-04T23:44:21+09:00",
     "updated_at": "2019-11-06T18:44:55+09:00",
     "id": "jimpei"

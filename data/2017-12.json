@@ -58,7 +58,7 @@
   {
     "title": "ｶﾀｶﾀｶﾀｯﾀｰﾝを可視化した",
     "url": "https://qiita.com/ampersand/items/3ef94ebe9cba8c07a157",
-    "likes_count": 1152,
+    "likes_count": 1153,
     "created_at": "2017-12-20T18:16:00+09:00",
     "updated_at": "2017-12-27T11:37:39+09:00",
     "id": "ampersand"
@@ -90,7 +90,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 965,
+    "likes_count": 968,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -114,7 +114,7 @@
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
     "url": "https://qiita.com/YudaiTsukamoto/items/06b426f4dbee268d5035",
-    "likes_count": 921,
+    "likes_count": 922,
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2017-12-14T17:04:47+09:00",
     "id": "YudaiTsukamoto"
@@ -154,7 +154,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 853,
+    "likes_count": 854,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -314,7 +314,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -386,7 +386,7 @@
   {
     "title": "わかりやすい画像のdiffを求めて",
     "url": "https://qiita.com/Quramy/items/290f7a33c350d910ebab",
-    "likes_count": 532,
+    "likes_count": 533,
     "created_at": "2017-12-22T09:29:46+09:00",
     "updated_at": "2017-12-22T13:07:18+09:00",
     "id": "Quramy"
@@ -482,7 +482,7 @@
   {
     "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
     "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 436,
+    "likes_count": 437,
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
@@ -538,7 +538,7 @@
   {
     "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
     "url": "https://qiita.com/kyntk/items/d60fdbc51df4f1d4c3c7",
-    "likes_count": 407,
+    "likes_count": 408,
     "created_at": "2017-12-07T08:45:26+09:00",
     "updated_at": "2017-12-20T14:33:45+09:00",
     "id": "kyntk"
@@ -546,7 +546,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
@@ -578,7 +578,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(実践編)",
     "url": "https://qiita.com/AokabiC/items/af685bfd205dda44ec45",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2017-12-20T06:18:22+09:00",
     "updated_at": "2019-03-28T15:22:30+09:00",
     "id": "AokabiC"
@@ -760,20 +760,20 @@
     "id": "onhrs"
   },
   {
+    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
+    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
+    "likes_count": 257,
+    "created_at": "2017-12-22T11:21:44+09:00",
+    "updated_at": "2021-12-04T15:33:59+09:00",
+    "id": "ffggss"
+  },
+  {
     "title": "Google Apps Script (GAS) で毎週 30 分の雑務を自動化した話",
     "url": "https://qiita.com/tanabee/items/e51f107f1e95a42cc636",
     "likes_count": 256,
     "created_at": "2017-12-19T15:41:47+09:00",
     "updated_at": "2018-12-21T11:07:32+09:00",
     "id": "tanabee"
-  },
-  {
-    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
-    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
-    "likes_count": 255,
-    "created_at": "2017-12-22T11:21:44+09:00",
-    "updated_at": "2021-12-04T15:33:59+09:00",
-    "id": "ffggss"
   },
   {
     "title": "【C#】ReactiveProperty全然分からねぇ！って人向けのFAQ集【修正済】",
