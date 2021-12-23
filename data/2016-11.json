@@ -2,7 +2,7 @@
   {
     "title": "null安全でない言語は、もはやレガシー言語だ",
     "url": "https://qiita.com/koher/items/e4835bd429b88809ab33",
-    "likes_count": 1856,
+    "likes_count": 1857,
     "created_at": "2016-11-07T11:18:05+09:00",
     "updated_at": "2017-12-22T16:18:52+09:00",
     "id": "koher"
@@ -10,7 +10,7 @@
   {
     "title": "高校生にWeb上でプログラミングを教え始めたエンジニアがこの8ヶ月間で得た気づき",
     "url": "https://qiita.com/sifue/items/7e7c7867b64ce9742aee",
-    "likes_count": 1687,
+    "likes_count": 1686,
     "created_at": "2016-12-01T00:00:58+09:00",
     "updated_at": "2019-12-01T13:46:53+09:00",
     "id": "sifue"
@@ -18,7 +18,7 @@
   {
     "title": "MacにNode.jsをインストール",
     "url": "https://qiita.com/kyosuke5_20/items/c5f68fc9d89b84c0df09",
-    "likes_count": 1523,
+    "likes_count": 1524,
     "created_at": "2016-11-15T14:02:53+09:00",
     "updated_at": "2021-04-02T12:27:27+09:00",
     "id": "kyosuke5_20"
@@ -34,7 +34,7 @@
   {
     "title": "レトロエンジニアのための近代Webフロントエンド事情",
     "url": "https://qiita.com/uctakeoff/items/ce8da368d020273c6064",
-    "likes_count": 1163,
+    "likes_count": 1162,
     "created_at": "2016-11-12T00:59:58+09:00",
     "updated_at": "2016-12-12T23:04:16+09:00",
     "id": "uctakeoff"
@@ -82,7 +82,7 @@
   {
     "title": "テスト計画の立て方",
     "url": "https://qiita.com/kawasima/items/1fed574e7456edbad727",
-    "likes_count": 891,
+    "likes_count": 892,
     "created_at": "2016-12-01T07:54:13+09:00",
     "updated_at": "2016-12-01T07:54:13+09:00",
     "id": "kawasima"
@@ -122,7 +122,7 @@
   {
     "title": "Docker for Macを使っていたら50GB位ディスク容量を圧迫していたのでいろんなものを削除する",
     "url": "https://qiita.com/shinespark/items/526b70b5f0b1ac643ba0",
-    "likes_count": 608,
+    "likes_count": 609,
     "created_at": "2016-11-30T02:49:21+09:00",
     "updated_at": "2020-08-12T12:56:31+09:00",
     "id": "shinespark"
@@ -162,7 +162,7 @@
   {
     "title": "Next.js",
     "url": "https://qiita.com/nkzawa/items/1e0e93efd13fb982c8c0",
-    "likes_count": 565,
+    "likes_count": 564,
     "created_at": "2016-11-05T16:53:30+09:00",
     "updated_at": "2019-01-22T20:26:38+09:00",
     "id": "nkzawa"
@@ -256,20 +256,20 @@
     "id": "ctgk"
   },
   {
+    "title": "セキュリティ未経験の初心者がCTFに出場するための5ステップ",
+    "url": "https://qiita.com/curryperformer-kato/items/245a7cf90f778a88415b",
+    "likes_count": 396,
+    "created_at": "2016-11-07T00:06:17+09:00",
+    "updated_at": "2018-02-26T16:39:08+09:00",
+    "id": "curryperformer-kato"
+  },
+  {
     "title": "ソースコードはしゃべるように書け",
     "url": "https://qiita.com/chooyan_eng/items/72f86a2ce2ca67d3b4a4",
     "likes_count": 396,
     "created_at": "2016-11-18T01:07:45+09:00",
     "updated_at": "2016-11-22T10:55:47+09:00",
     "id": "chooyan_eng"
-  },
-  {
-    "title": "セキュリティ未経験の初心者がCTFに出場するための5ステップ",
-    "url": "https://qiita.com/curryperformer-kato/items/245a7cf90f778a88415b",
-    "likes_count": 394,
-    "created_at": "2016-11-07T00:06:17+09:00",
-    "updated_at": "2018-02-26T16:39:08+09:00",
-    "id": "curryperformer-kato"
   },
   {
     "title": "電卓アプリで学ぶReact/Redux入門(実装編)",
@@ -320,14 +320,6 @@
     "id": "DeployCat"
   },
   {
-    "title": "Node.js + ExpressでREST API開発を体験しよう［作成編］",
-    "url": "https://qiita.com/tamura_CD/items/e3abdab9b8c5aa35fa6b",
-    "likes_count": 320,
-    "created_at": "2016-11-30T10:59:56+09:00",
-    "updated_at": "2020-07-16T16:47:06+09:00",
-    "id": "tamura_CD"
-  },
-  {
     "title": "PHPカンファレンス2016 講演資料まとめ",
     "url": "https://qiita.com/hikarut/items/68d102489a5e936467bb",
     "likes_count": 319,
@@ -344,9 +336,17 @@
     "id": "mima_ita"
   },
   {
+    "title": "Node.js + ExpressでREST API開発を体験しよう［作成編］",
+    "url": "https://qiita.com/tamura_CD/items/e3abdab9b8c5aa35fa6b",
+    "likes_count": 319,
+    "created_at": "2016-11-30T10:59:56+09:00",
+    "updated_at": "2020-07-16T16:47:06+09:00",
+    "id": "tamura_CD"
+  },
+  {
     "title": "要求定義と要件定義の違いを考える",
     "url": "https://qiita.com/sunstripe2011/items/61df719fb1f6178b2605",
-    "likes_count": 304,
+    "likes_count": 306,
     "created_at": "2016-11-02T13:45:03+09:00",
     "updated_at": "2021-04-17T00:58:07+09:00",
     "id": "sunstripe2011"

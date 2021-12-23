@@ -90,7 +90,7 @@
   {
     "title": "MySQLパフォーマンスチューニング -my.cnfの見直し-",
     "url": "https://qiita.com/mamy1326/items/9c5eaee3c986cff65a55",
-    "likes_count": 683,
+    "likes_count": 682,
     "created_at": "2017-02-22T02:15:58+09:00",
     "updated_at": "2021-09-03T11:50:41+09:00",
     "id": "mamy1326"
@@ -98,7 +98,7 @@
   {
     "title": "Pythonistaなら知らないと恥ずかしい計算量のはなし",
     "url": "https://qiita.com/Hironsan/items/68161ee16b1c9d7b25fb",
-    "likes_count": 620,
+    "likes_count": 619,
     "created_at": "2017-02-27T09:02:55+09:00",
     "updated_at": "2021-05-02T21:11:41+09:00",
     "id": "Hironsan"
@@ -106,7 +106,7 @@
   {
     "title": "エンジニアの転職メモ",
     "url": "https://qiita.com/yama-t/items/0dc67cda41a2eb710eeb",
-    "likes_count": 581,
+    "likes_count": 580,
     "created_at": "2017-02-14T19:23:49+09:00",
     "updated_at": "2020-03-11T22:02:17+09:00",
     "id": "yama-t"
@@ -130,7 +130,7 @@
   {
     "title": "Rails で includes して N+1 問題対策",
     "url": "https://qiita.com/hirotakasasaki/items/e0be0b3fd7b0eb350327",
-    "likes_count": 535,
+    "likes_count": 534,
     "created_at": "2017-02-11T00:44:25+09:00",
     "updated_at": "2017-02-11T13:36:03+09:00",
     "id": "hirotakasasaki"
@@ -138,7 +138,7 @@
   {
     "title": "HTTPメソッド(CRUD)についてまとめた",
     "url": "https://qiita.com/fukuma_biz/items/a9e8d18467fe3e04068e",
-    "likes_count": 526,
+    "likes_count": 525,
     "created_at": "2017-02-24T01:32:00+09:00",
     "updated_at": "2020-07-31T18:00:56+09:00",
     "id": "fukuma_biz"
@@ -146,7 +146,7 @@
   {
     "title": "[社内新人向け]Gitで使ってほしくないコマンド",
     "url": "https://qiita.com/zaramme/items/029d0f9b099e5f929e87",
-    "likes_count": 510,
+    "likes_count": 509,
     "created_at": "2017-02-20T19:44:54+09:00",
     "updated_at": "2017-03-01T08:59:58+09:00",
     "id": "zaramme"
@@ -170,7 +170,7 @@
   {
     "title": "なぜ機械学習にPythonが選ばれるのか",
     "url": "https://qiita.com/yaju/items/5502115d7e3d06e6bbdd",
-    "likes_count": 508,
+    "likes_count": 506,
     "created_at": "2017-02-13T00:40:14+09:00",
     "updated_at": "2021-10-12T21:14:46+09:00",
     "id": "yaju"
@@ -186,7 +186,7 @@
   {
     "title": "Ruby初心者を脱した人が悩みがちな、ちょっと特殊な記法・演算子・イディオム",
     "url": "https://qiita.com/nashirox/items/0c885edf7d78fd5a83f1",
-    "likes_count": 450,
+    "likes_count": 449,
     "created_at": "2017-02-07T21:47:13+09:00",
     "updated_at": "2017-05-24T19:45:52+09:00",
     "id": "nashirox"
@@ -224,20 +224,20 @@
     "id": "7968"
   },
   {
-    "title": "Python3基礎文法",
-    "url": "https://qiita.com/Fendo181/items/a934e4f94021115efb2e",
-    "likes_count": 400,
-    "created_at": "2017-02-21T18:43:54+09:00",
-    "updated_at": "2020-05-04T22:19:05+09:00",
-    "id": "Fendo181"
-  },
-  {
     "title": "Pythonのジェネレーターってなんのためにあるのかをなるべく分かりやすく説明しようと試みた",
     "url": "https://qiita.com/keitakurita/items/5a31b902db6adfa45a70",
     "likes_count": 398,
     "created_at": "2017-02-20T23:43:32+09:00",
     "updated_at": "2018-05-12T15:46:32+09:00",
     "id": "keitakurita"
+  },
+  {
+    "title": "Python3基礎文法",
+    "url": "https://qiita.com/Fendo181/items/a934e4f94021115efb2e",
+    "likes_count": 398,
+    "created_at": "2017-02-21T18:43:54+09:00",
+    "updated_at": "2020-05-04T22:19:05+09:00",
+    "id": "Fendo181"
   },
   {
     "title": "ライトニングトーク(LT)準備の参考資料まとめ",
@@ -314,7 +314,7 @@
   {
     "title": "Railsでcarrierwaveを使ってAWS S3に画像をアップロードする手順を画像付きで説明する",
     "url": "https://qiita.com/junara/items/1899f23c091bcee3b058",
-    "likes_count": 344,
+    "likes_count": 343,
     "created_at": "2017-02-22T17:23:39+09:00",
     "updated_at": "2020-01-11T17:27:08+09:00",
     "id": "junara"
@@ -330,7 +330,7 @@
   {
     "title": "重複しているレコードを検索するSQL(大量データも対応)",
     "url": "https://qiita.com/necoyama3/items/4c24defd6f504366aebe",
-    "likes_count": 328,
+    "likes_count": 329,
     "created_at": "2017-02-23T18:03:13+09:00",
     "updated_at": "2019-10-10T21:42:27+09:00",
     "id": "necoyama3"
@@ -362,7 +362,7 @@
   {
     "title": "dockerでコンテナが立ち上がらないときやってみること",
     "url": "https://qiita.com/mom0tomo/items/35dfacb628df1bd3651e",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2017-02-26T08:57:17+09:00",
     "updated_at": "2019-10-18T22:11:06+09:00",
     "id": "mom0tomo"
@@ -394,7 +394,7 @@
   {
     "title": "高速に開発できる Docker + Rails開発環境のテンプレートを作った",
     "url": "https://qiita.com/kawasin73/items/2253523be18e5afd994f",
-    "likes_count": 291,
+    "likes_count": 289,
     "created_at": "2017-02-13T17:03:03+09:00",
     "updated_at": "2018-04-14T19:11:29+09:00",
     "id": "kawasin73"

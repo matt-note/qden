@@ -98,7 +98,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 707,
+    "likes_count": 705,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2018-07-15T15:52:26+09:00",
     "id": "ryouzi"
@@ -106,7 +106,7 @@
   {
     "title": "Pythonで使う競技プログラミング用チートシート",
     "url": "https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0",
-    "likes_count": 692,
+    "likes_count": 693,
     "created_at": "2017-11-12T02:03:04+09:00",
     "updated_at": "2019-08-22T21:01:24+09:00",
     "id": "_-_-_-_-_"
@@ -114,7 +114,7 @@
   {
     "title": "なぜオブジェクト指向は難しいのか",
     "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 663,
+    "likes_count": 661,
     "created_at": "2017-11-16T01:47:45+09:00",
     "updated_at": "2021-01-05T10:16:02+09:00",
     "id": "tutinoco"
@@ -162,7 +162,7 @@
   {
     "title": "Linus Torvalds氏によるGitの内部構造の解説",
     "url": "https://qiita.com/hogemax/items/b09abc522e0ec05da4fe",
-    "likes_count": 588,
+    "likes_count": 589,
     "created_at": "2017-11-03T15:40:51+09:00",
     "updated_at": "2019-09-26T17:23:53+09:00",
     "id": "hogemax"
@@ -186,18 +186,10 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 561,
+    "likes_count": 562,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
-  },
-  {
-    "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
-    "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 557,
-    "created_at": "2017-11-23T13:25:47+09:00",
-    "updated_at": "2019-07-16T14:21:23+09:00",
-    "id": "toshi0607"
   },
   {
     "title": "Docker for Windowsで快適な環境を得るまでの そこそこ長い闘い",
@@ -224,9 +216,17 @@
     "id": "akameco"
   },
   {
+    "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
+    "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
+    "likes_count": 556,
+    "created_at": "2017-11-23T13:25:47+09:00",
+    "updated_at": "2019-07-16T14:21:23+09:00",
+    "id": "toshi0607"
+  },
+  {
     "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
     "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
-    "likes_count": 528,
+    "likes_count": 529,
     "created_at": "2017-11-18T06:21:52+09:00",
     "updated_at": "2021-03-23T03:28:36+09:00",
     "id": "t_nakayama0714"
@@ -290,7 +290,7 @@
   {
     "title": "【Git】オレならこう説明する！Git初心者への用語説明",
     "url": "https://qiita.com/nnahito/items/e546b27f73e7be131d4e",
-    "likes_count": 438,
+    "likes_count": 437,
     "created_at": "2017-11-23T01:59:11+09:00",
     "updated_at": "2018-06-25T17:01:57+09:00",
     "id": "nnahito"
@@ -298,7 +298,7 @@
   {
     "title": "[React Native入門完全版]「いきなりデート」のアプリをReact Nativeで開発した知見をまとめます。",
     "url": "https://qiita.com/gogotanaka/items/07f9f5ed8e93a47a8bcd",
-    "likes_count": 437,
+    "likes_count": 436,
     "created_at": "2017-11-24T09:56:40+09:00",
     "updated_at": "2018-06-15T10:51:19+09:00",
     "id": "gogotanaka"
@@ -322,7 +322,7 @@
   {
     "title": "【React Native入門】Java Scriptでアプリ作ろう【Reactやったことない人向け】１",
     "url": "https://qiita.com/YutamaKotaro/items/dd7846c6db15e2307daa",
-    "likes_count": 415,
+    "likes_count": 414,
     "created_at": "2017-11-19T15:58:50+09:00",
     "updated_at": "2018-10-16T16:46:41+09:00",
     "id": "YutamaKotaro"
@@ -370,7 +370,7 @@
   {
     "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
     "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
-    "likes_count": 386,
+    "likes_count": 385,
     "created_at": "2017-11-28T16:30:16+09:00",
     "updated_at": "2019-01-08T16:43:01+09:00",
     "id": "ryouzi"
