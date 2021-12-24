@@ -10,7 +10,7 @@
   {
     "title": "ReactとVueのどちらを選ぶか",
     "url": "https://qiita.com/yoichiwo7/items/236b6535695ea67b4fbe",
-    "likes_count": 1910,
+    "likes_count": 1911,
     "created_at": "2018-06-16T14:01:19+09:00",
     "updated_at": "2019-06-06T07:16:51+09:00",
     "id": "yoichiwo7"
@@ -146,7 +146,7 @@
   {
     "title": "Vue CLI UIが想像以上に便利だった話",
     "url": "https://qiita.com/isihigameKoudai/items/eee3eb6a435675fdfd73",
-    "likes_count": 775,
+    "likes_count": 776,
     "created_at": "2018-06-23T18:18:11+09:00",
     "updated_at": "2018-06-25T11:15:53+09:00",
     "id": "isihigameKoudai"
@@ -218,7 +218,7 @@
   {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 556,
+    "likes_count": 557,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2018-10-11T13:59:01+09:00",
     "id": "newta"
@@ -250,7 +250,7 @@
   {
     "title": "PyAutoGuiで繰り返し作業をPythonにやらせよう",
     "url": "https://qiita.com/hirohiro77/items/78e26a59c2e45a0fe4e3",
-    "likes_count": 480,
+    "likes_count": 481,
     "created_at": "2018-06-12T14:08:29+09:00",
     "updated_at": "2021-01-05T09:36:14+09:00",
     "id": "hirohiro77"
@@ -266,7 +266,7 @@
   {
     "title": "プロダクトのドキュメントにプルリクエストを送れる仕組みがすごい",
     "url": "https://qiita.com/amay077/items/8823376f307235a7f651",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2018-06-12T22:39:58+09:00",
     "updated_at": "2018-06-15T10:28:22+09:00",
     "id": "amay077"
@@ -314,7 +314,7 @@
   {
     "title": "Goにはディレクトリ構成のスタンダードがあるらしい。",
     "url": "https://qiita.com/sueken/items/87093e5941bfbc09bea8",
-    "likes_count": 436,
+    "likes_count": 438,
     "created_at": "2018-06-10T21:12:36+09:00",
     "updated_at": "2018-06-10T21:12:36+09:00",
     "id": "sueken"
@@ -408,20 +408,20 @@
     "id": "drken"
   },
   {
-    "title": "Category Encodersでカテゴリ特徴量をストレスなく変換する",
-    "url": "https://qiita.com/Hyperion13fleet/items/afa49a84bd5db65ffc31",
-    "likes_count": 350,
-    "created_at": "2018-06-27T21:04:44+09:00",
-    "updated_at": "2020-09-21T11:29:04+09:00",
-    "id": "Hyperion13fleet"
-  },
-  {
     "title": "統計検定2級のためのチートシート",
     "url": "https://qiita.com/akiyoshi_sasaki/items/c81032c1683f69ff9d11",
     "likes_count": 349,
     "created_at": "2018-06-12T20:14:50+09:00",
     "updated_at": "2021-08-23T13:26:43+09:00",
     "id": "akiyoshi_sasaki"
+  },
+  {
+    "title": "Category Encodersでカテゴリ特徴量をストレスなく変換する",
+    "url": "https://qiita.com/Hyperion13fleet/items/afa49a84bd5db65ffc31",
+    "likes_count": 349,
+    "created_at": "2018-06-27T21:04:44+09:00",
+    "updated_at": "2020-09-21T11:29:04+09:00",
+    "id": "Hyperion13fleet"
   },
   {
     "title": "個人的にコードリーディングがはかどったテクニックまとめ",
@@ -530,7 +530,7 @@
   {
     "title": "DataFrameで特徴量作るのめんどくさ過ぎる。。featuretoolsを使って自動生成したろ",
     "url": "https://qiita.com/Hyperion13fleet/items/4eaca365f28049fe11c7",
-    "likes_count": 283,
+    "likes_count": 282,
     "created_at": "2018-06-17T21:20:59+09:00",
     "updated_at": "2018-06-19T10:37:45+09:00",
     "id": "Hyperion13fleet"

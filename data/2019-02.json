@@ -10,7 +10,7 @@
   {
     "title": "VueとFirebaseの基本機能全部使ってぬるぬる動くポートフォリオサイトを作ったのでソースと解説",
     "url": "https://qiita.com/yuneco/items/b14a695a060c96309239",
-    "likes_count": 1760,
+    "likes_count": 1762,
     "created_at": "2019-02-03T23:37:52+09:00",
     "updated_at": "2019-11-15T18:05:38+09:00",
     "id": "yuneco"
@@ -90,7 +90,7 @@
   {
     "title": "TypeScript + Node.js プロジェクトのはじめかた2020",
     "url": "https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49",
-    "likes_count": 848,
+    "likes_count": 850,
     "created_at": "2019-02-08T17:25:22+09:00",
     "updated_at": "2020-08-12T17:09:33+09:00",
     "id": "notakaos"
@@ -138,7 +138,7 @@
   {
     "title": "【JWT】 入門",
     "url": "https://qiita.com/Naoto9282/items/8427918564400968bd2b",
-    "likes_count": 759,
+    "likes_count": 760,
     "created_at": "2019-02-05T01:31:29+09:00",
     "updated_at": "2021-03-05T18:50:37+09:00",
     "id": "Naoto9282"
@@ -218,7 +218,7 @@
   {
     "title": "TypeScriptの型演習",
     "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 575,
+    "likes_count": 576,
     "created_at": "2019-02-23T18:09:59+09:00",
     "updated_at": "2020-05-22T11:16:41+09:00",
     "id": "uhyo"
@@ -256,20 +256,20 @@
     "id": "t-chi"
   },
   {
+    "title": "エンジニアは最初の会社を1年程度で辞めた方がよい理由",
+    "url": "https://qiita.com/poly_soft/items/6868a390cb2d47542e59",
+    "likes_count": 514,
+    "created_at": "2019-02-03T11:20:07+09:00",
+    "updated_at": "2019-03-11T19:35:12+09:00",
+    "id": "poly_soft"
+  },
+  {
     "title": "GNNまとめ(1): GCNの導入",
     "url": "https://qiita.com/shionhonda/items/d27b8f13f7e9232a4ae5",
     "likes_count": 514,
     "created_at": "2019-02-23T16:58:43+09:00",
     "updated_at": "2020-06-25T22:36:46+09:00",
     "id": "shionhonda"
-  },
-  {
-    "title": "エンジニアは最初の会社を1年程度で辞めた方がよい理由",
-    "url": "https://qiita.com/poly_soft/items/6868a390cb2d47542e59",
-    "likes_count": 513,
-    "created_at": "2019-02-03T11:20:07+09:00",
-    "updated_at": "2019-03-11T19:35:12+09:00",
-    "id": "poly_soft"
   },
   {
     "title": "Docker初心者にオススメのゴリラ製ツール",
@@ -298,7 +298,7 @@
   {
     "title": "SVGを使うときに知っておくといいことをまとめました",
     "url": "https://qiita.com/manabuyasuda/items/01a76204f97cd73ffc4e",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2019-02-22T19:47:54+09:00",
     "updated_at": "2019-03-06T14:47:30+09:00",
     "id": "manabuyasuda"
@@ -306,7 +306,7 @@
   {
     "title": "今さら聞けない？Vue Router",
     "url": "https://qiita.com/hshota28/items/765cf903f055754f7557",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2019-02-25T04:17:35+09:00",
     "updated_at": "2019-02-25T15:34:55+09:00",
     "id": "hshota28"
@@ -328,6 +328,14 @@
     "id": "toshiyuki_tsutsui"
   },
   {
+    "title": "完全に理解するアフィン変換",
+    "url": "https://qiita.com/koshian2/items/c133e2e10c261b8646bf",
+    "likes_count": 441,
+    "created_at": "2019-02-10T22:29:20+09:00",
+    "updated_at": "2019-02-13T21:25:28+09:00",
+    "id": "koshian2"
+  },
+  {
     "title": "StyleGAN「写真が証拠になる時代は終わった。」",
     "url": "https://qiita.com/Phoeboooo/items/7be15acb960837adab21",
     "likes_count": 441,
@@ -336,17 +344,9 @@
     "id": "Phoeboooo"
   },
   {
-    "title": "完全に理解するアフィン変換",
-    "url": "https://qiita.com/koshian2/items/c133e2e10c261b8646bf",
-    "likes_count": 440,
-    "created_at": "2019-02-10T22:29:20+09:00",
-    "updated_at": "2019-02-13T21:25:28+09:00",
-    "id": "koshian2"
-  },
-  {
     "title": "不均衡データへの決定打となるか！？「Affinity loss」の論文を読む、実装する",
     "url": "https://qiita.com/koshian2/items/20af1548125c5c32dda9",
-    "likes_count": 432,
+    "likes_count": 431,
     "created_at": "2019-02-05T21:48:18+09:00",
     "updated_at": "2019-02-14T22:28:09+09:00",
     "id": "koshian2"
@@ -370,7 +370,7 @@
   {
     "title": "Dockerで環境構築するための最低限の概念理解",
     "url": "https://qiita.com/minato-naka/items/e9cd026747693759800c",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2019-02-22T20:13:22+09:00",
     "updated_at": "2021-12-21T18:17:32+09:00",
     "id": "minato-naka"
