@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3405,
+    "likes_count": 3406,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2016-12-21T14:10:37+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2657,
+    "likes_count": 2658,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1777,
+    "likes_count": 1776,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -42,7 +42,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1554,
+    "likes_count": 1555,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2021-12-05T17:11:26+09:00",
     "id": "soarflat"
@@ -82,18 +82,10 @@
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
     "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1137,
+    "likes_count": 1138,
     "created_at": "2016-12-28T10:13:50+09:00",
     "updated_at": "2016-12-29T00:03:57+09:00",
     "id": "kunihirotanaka"
-  },
-  {
-    "title": "イケイケなベンチャーの開発チームが、大企業的な開発チームになってしまう5つの兆候",
-    "url": "https://qiita.com/tsuyok/items/116d9076e6149d9c7bbc",
-    "likes_count": 1078,
-    "created_at": "2016-12-18T00:01:45+09:00",
-    "updated_at": "2016-12-20T17:18:30+09:00",
-    "id": "tsuyok"
   },
   {
     "title": "Webhookとは？",
@@ -102,6 +94,14 @@
     "created_at": "2016-12-17T12:54:09+09:00",
     "updated_at": "2021-12-05T17:11:15+09:00",
     "id": "soarflat"
+  },
+  {
+    "title": "イケイケなベンチャーの開発チームが、大企業的な開発チームになってしまう5つの兆候",
+    "url": "https://qiita.com/tsuyok/items/116d9076e6149d9c7bbc",
+    "likes_count": 1077,
+    "created_at": "2016-12-18T00:01:45+09:00",
+    "updated_at": "2016-12-20T17:18:30+09:00",
+    "id": "tsuyok"
   },
   {
     "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
@@ -114,7 +114,7 @@
   {
     "title": "kubernetes初心者のための入門ハンズオン",
     "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
-    "likes_count": 1055,
+    "likes_count": 1056,
     "created_at": "2016-12-10T00:01:31+09:00",
     "updated_at": "2020-12-05T20:23:32+09:00",
     "id": "mihirat"
@@ -138,7 +138,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 924,
+    "likes_count": 925,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -170,7 +170,7 @@
   {
     "title": "大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察",
     "url": "https://qiita.com/tmknom/items/be5c4b350f561991f2f5",
-    "likes_count": 766,
+    "likes_count": 765,
     "created_at": "2016-12-20T18:24:22+09:00",
     "updated_at": "2018-08-12T01:43:05+09:00",
     "id": "tmknom"
@@ -226,7 +226,7 @@
   {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
-    "likes_count": 693,
+    "likes_count": 694,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
@@ -266,7 +266,7 @@
   {
     "title": "Gitのブランチモデルについて",
     "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 654,
+    "likes_count": 653,
     "created_at": "2016-12-05T00:04:34+09:00",
     "updated_at": "2016-12-05T00:12:43+09:00",
     "id": "y-okudera"
@@ -282,7 +282,7 @@
   {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
     "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
-    "likes_count": 638,
+    "likes_count": 639,
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
@@ -368,20 +368,20 @@
     "id": "kaityo256"
   },
   {
-    "title": "基本/詳細設計って呼び方やめませんか",
-    "url": "https://qiita.com/garbagetown/items/a3ae46595f7c49e587a0",
-    "likes_count": 503,
-    "created_at": "2016-12-14T18:08:06+09:00",
-    "updated_at": "2016-12-18T01:24:21+09:00",
-    "id": "garbagetown"
-  },
-  {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
     "likes_count": 502,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
+  },
+  {
+    "title": "基本/詳細設計って呼び方やめませんか",
+    "url": "https://qiita.com/garbagetown/items/a3ae46595f7c49e587a0",
+    "likes_count": 502,
+    "created_at": "2016-12-14T18:08:06+09:00",
+    "updated_at": "2016-12-18T01:24:21+09:00",
+    "id": "garbagetown"
   },
   {
     "title": "Now でクラウドの複雑さから解放されよう、今すぐに",
@@ -426,7 +426,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 463,
+    "likes_count": 465,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -554,7 +554,7 @@
   {
     "title": "独断と偏見で選ぶ、新人Rubyプログラマの為の技術書21選",
     "url": "https://qiita.com/YudaiTsukamoto/items/f81a16f55008378ac15c",
-    "likes_count": 369,
+    "likes_count": 368,
     "created_at": "2016-12-21T15:49:08+09:00",
     "updated_at": "2016-12-28T03:01:39+09:00",
     "id": "YudaiTsukamoto"
