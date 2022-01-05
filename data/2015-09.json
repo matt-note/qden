@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 10128,
+    "likes_count": 10132,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2021-06-20T17:25:31+09:00",
     "id": "Ted-HM"
@@ -18,7 +18,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 2217,
+    "likes_count": 2218,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2021-09-02T23:39:24+09:00",
     "id": "suthio"
@@ -26,7 +26,7 @@
   {
     "title": "うまくクラス名を付けるための参考情報",
     "url": "https://qiita.com/KeithYokoma/items/ee21fec6a3ebb5d1e9a8",
-    "likes_count": 2206,
+    "likes_count": 2207,
     "created_at": "2015-09-16T11:30:40+09:00",
     "updated_at": "2015-09-16T11:30:40+09:00",
     "id": "KeithYokoma"
@@ -34,7 +34,7 @@
   {
     "title": "Railsアプリケーションにおけるエラー処理（例外設計）の考え方",
     "url": "https://qiita.com/jnchito/items/3ef95ea144ed15df3637",
-    "likes_count": 1878,
+    "likes_count": 1881,
     "created_at": "2015-09-29T07:04:25+09:00",
     "updated_at": "2020-11-18T15:01:00+09:00",
     "id": "jnchito"
@@ -42,9 +42,9 @@
   {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1778,
+    "likes_count": 1779,
     "created_at": "2015-09-17T03:10:19+09:00",
-    "updated_at": "2021-12-05T17:13:27+09:00",
+    "updated_at": "2022-01-05T23:48:12+09:00",
     "id": "soarflat"
   },
   {
@@ -74,7 +74,7 @@
   {
     "title": "エンジニアなら知っておきたい lessコマンドtips 11選",
     "url": "https://qiita.com/ine1127/items/64b5b6cf52471c3fe59c",
-    "likes_count": 1576,
+    "likes_count": 1577,
     "created_at": "2015-09-12T01:44:56+09:00",
     "updated_at": "2015-09-15T00:00:44+09:00",
     "id": "ine1127"
@@ -100,7 +100,7 @@
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
     "likes_count": 1408,
     "created_at": "2015-09-16T00:08:22+09:00",
-    "updated_at": "2021-12-05T17:13:37+09:00",
+    "updated_at": "2022-01-05T23:48:24+09:00",
     "id": "soarflat"
   },
   {
@@ -146,7 +146,7 @@
   {
     "title": "UserAgentからOS/ブラウザなどの調べかたのまとめ",
     "url": "https://qiita.com/nightyknite/items/b2590a69f2e0135756dc",
-    "likes_count": 1023,
+    "likes_count": 1024,
     "created_at": "2015-09-24T01:06:14+09:00",
     "updated_at": "2021-10-12T00:13:04+09:00",
     "id": "nightyknite"
@@ -194,7 +194,7 @@
   {
     "title": "Graphvizとdot言語でグラフを描く方法のまとめ",
     "url": "https://qiita.com/rubytomato@github/items/51779135bc4b77c8c20d",
-    "likes_count": 840,
+    "likes_count": 839,
     "created_at": "2015-09-14T19:13:26+09:00",
     "updated_at": "2019-09-12T22:44:12+09:00",
     "id": "rubytomato@github"
@@ -210,7 +210,7 @@
   {
     "title": "RESTful API設計におけるHTTPステータスコードの指針",
     "url": "https://qiita.com/uenosy/items/ba9dbc70781bddc4a491",
-    "likes_count": 785,
+    "likes_count": 786,
     "created_at": "2015-09-14T16:36:59+09:00",
     "updated_at": "2015-09-14T16:36:59+09:00",
     "id": "uenosy"
@@ -322,7 +322,7 @@
   {
     "title": "【Go】print系関数の違い",
     "url": "https://qiita.com/taji-taji/items/77845ef744da7c88a6fe",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2015-09-15T08:38:00+09:00",
     "updated_at": "2020-02-28T06:08:41+09:00",
     "id": "taji-taji"
@@ -480,20 +480,20 @@
     "id": "keygx"
   },
   {
+    "title": "Swift 2のパターンマッチ構文集(ほぼ翻訳)",
+    "url": "https://qiita.com/mono0926/items/f2875a9eacef53e88122",
+    "likes_count": 323,
+    "created_at": "2015-09-14T07:52:26+09:00",
+    "updated_at": "2016-11-09T17:12:53+09:00",
+    "id": "mono0926"
+  },
+  {
     "title": "Unicorn設定のまとめ",
     "url": "https://qiita.com/townsoft/items/555062cc96dd0b08a610",
     "likes_count": 323,
     "created_at": "2015-09-29T12:19:57+09:00",
     "updated_at": "2015-10-19T20:28:26+09:00",
     "id": "townsoft"
-  },
-  {
-    "title": "Swift 2のパターンマッチ構文集(ほぼ翻訳)",
-    "url": "https://qiita.com/mono0926/items/f2875a9eacef53e88122",
-    "likes_count": 322,
-    "created_at": "2015-09-14T07:52:26+09:00",
-    "updated_at": "2016-11-09T17:12:53+09:00",
-    "id": "mono0926"
   },
   {
     "title": "[PHP] 配列・連想配列の初期化、結合、追加",
