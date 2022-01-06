@@ -58,7 +58,7 @@
   {
     "title": "「1000000007 で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜",
     "url": "https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a",
-    "likes_count": 1273,
+    "likes_count": 1275,
     "created_at": "2018-08-01T21:37:04+09:00",
     "updated_at": "2021-01-31T22:14:45+09:00",
     "id": "drken"
@@ -98,7 +98,7 @@
   {
     "title": "ポリモーフィズムを活用するとなぜ if や switch  が消えるのか？",
     "url": "https://qiita.com/Nossa/items/a93024e653ff939115c6",
-    "likes_count": 925,
+    "likes_count": 926,
     "created_at": "2018-08-07T07:13:20+09:00",
     "updated_at": "2019-05-09T13:00:37+09:00",
     "id": "Nossa"
@@ -322,10 +322,18 @@
   {
     "title": "クリーンアーキテクチャの書籍を読んだのでAPIサーバを実装してみた",
     "url": "https://qiita.com/yoshinori_hisakawa/items/f934178d4bd476c8da32",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2018-08-19T11:35:29+09:00",
     "updated_at": "2018-08-20T12:44:01+09:00",
     "id": "yoshinori_hisakawa"
+  },
+  {
+    "title": "Webpacker使うなら最低限これだけは知っておいてほしいこと",
+    "url": "https://qiita.com/chimame/items/8d3d6f4afea675cffa7d",
+    "likes_count": 383,
+    "created_at": "2018-08-07T15:12:45+09:00",
+    "updated_at": "2019-12-18T12:05:23+09:00",
+    "id": "chimame"
   },
   {
     "title": "AWS FargateとTerraformで最強＆簡単なインフラ環境を目指す",
@@ -334,14 +342,6 @@
     "created_at": "2018-08-16T00:42:24+09:00",
     "updated_at": "2020-04-14T23:23:26+09:00",
     "id": "tarumzu"
-  },
-  {
-    "title": "Webpacker使うなら最低限これだけは知っておいてほしいこと",
-    "url": "https://qiita.com/chimame/items/8d3d6f4afea675cffa7d",
-    "likes_count": 382,
-    "created_at": "2018-08-07T15:12:45+09:00",
-    "updated_at": "2019-12-18T12:05:23+09:00",
-    "id": "chimame"
   },
   {
     "title": "[作業効率化] Jupyterの拡張機能を全部調べてみた",
@@ -362,7 +362,7 @@
   {
     "title": "【Git】新人エンジニア、git pushまでの道",
     "url": "https://qiita.com/yukibe/items/9ef9d54f2e7d53cfb51c",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2018-08-11T17:46:51+09:00",
     "updated_at": "2018-08-11T17:55:08+09:00",
     "id": "yukibe"
