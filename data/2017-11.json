@@ -90,7 +90,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 709,
+    "likes_count": 708,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2018-07-15T15:52:26+09:00",
     "id": "ryouzi"
@@ -178,7 +178,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 562,
+    "likes_count": 564,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -258,7 +258,7 @@
   {
     "title": "週末在宅ワークの生産性を上げる5つの視点と32の工夫",
     "url": "https://qiita.com/Akira-Isegawa/items/ab7d6b5db65dc830bb62",
-    "likes_count": 470,
+    "likes_count": 469,
     "created_at": "2017-11-08T21:35:20+09:00",
     "updated_at": "2019-10-12T21:22:22+09:00",
     "id": "Akira-Isegawa"
@@ -328,6 +328,14 @@
     "id": "Tsutou"
   },
   {
+    "title": "Railsアプリで Bootstrap 4 を利用する",
+    "url": "https://qiita.com/NaokiIshimura/items/c8db09daefff5c11dadf",
+    "likes_count": 401,
+    "created_at": "2017-11-03T19:54:09+09:00",
+    "updated_at": "2019-08-14T16:45:50+09:00",
+    "id": "NaokiIshimura"
+  },
+  {
     "title": "puppeteerでスクレイピング",
     "url": "https://qiita.com/tomipetit/items/a68cf7840c3da002c6e0",
     "likes_count": 401,
@@ -342,14 +350,6 @@
     "created_at": "2017-11-27T00:53:47+09:00",
     "updated_at": "2019-07-03T19:41:37+09:00",
     "id": "daikiojm"
-  },
-  {
-    "title": "Railsアプリで Bootstrap 4 を利用する",
-    "url": "https://qiita.com/NaokiIshimura/items/c8db09daefff5c11dadf",
-    "likes_count": 400,
-    "created_at": "2017-11-03T19:54:09+09:00",
-    "updated_at": "2019-08-14T16:45:50+09:00",
-    "id": "NaokiIshimura"
   },
   {
     "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",

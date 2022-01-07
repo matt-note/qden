@@ -2,7 +2,7 @@
   {
     "title": "Google社のテクニカルライティングの基礎教育資料がとても良かったので紹介したい",
     "url": "https://qiita.com/yasuoyasuo/items/c43783316a4d141a140f",
-    "likes_count": 4357,
+    "likes_count": 4359,
     "created_at": "2020-05-24T15:05:01+09:00",
     "updated_at": "2020-07-13T20:20:48+09:00",
     "id": "yasuoyasuo"
@@ -42,7 +42,7 @@
   {
     "title": "4歳娘「パパ、Promiseやasync/awaitって何？」〜Promise編〜",
     "url": "https://qiita.com/Yametaro/items/0d29df53d9ac2a779595",
-    "likes_count": 1594,
+    "likes_count": 1593,
     "created_at": "2020-05-17T17:28:55+09:00",
     "updated_at": "2020-05-27T08:42:16+09:00",
     "id": "Yametaro"
@@ -82,7 +82,7 @@
   {
     "title": "Denoとはなにか - 実際につかってみる",
     "url": "https://qiita.com/azukiazusa/items/8238c0c68ed525377883",
-    "likes_count": 1047,
+    "likes_count": 1048,
     "created_at": "2020-05-19T21:11:48+09:00",
     "updated_at": "2021-03-07T17:09:36+09:00",
     "id": "azukiazusa"
@@ -98,7 +98,7 @@
   {
     "title": "Webサービスによくある各機能の仕様とセキュリティ観点（ユーザ登録機能）",
     "url": "https://qiita.com/shioshiota/items/a2c414e2bbd2be654511",
-    "likes_count": 876,
+    "likes_count": 877,
     "created_at": "2020-05-16T17:00:40+09:00",
     "updated_at": "2020-05-17T12:12:27+09:00",
     "id": "shioshiota"
@@ -138,7 +138,7 @@
   {
     "title": "WSL2によるホストのメモリ枯渇を防ぐための暫定対処",
     "url": "https://qiita.com/yoichiwo7/items/e3e13b6fe2f32c4c6120",
-    "likes_count": 757,
+    "likes_count": 758,
     "created_at": "2020-05-30T07:36:28+09:00",
     "updated_at": "2021-10-16T11:16:15+09:00",
     "id": "yoichiwo7"
@@ -154,7 +154,7 @@
   {
     "title": "React.memo / useCallback / useMemo の使い方、使い所を理解してパフォーマンス最適化をする",
     "url": "https://qiita.com/soarflat/items/b9d3d17b8ab1f5dbfed2",
-    "likes_count": 698,
+    "likes_count": 700,
     "created_at": "2020-05-25T00:01:22+09:00",
     "updated_at": "2022-01-05T23:42:24+09:00",
     "id": "soarflat"
@@ -264,6 +264,14 @@
     "id": "ryo2132"
   },
   {
+    "title": "ログ分析に使えるLinuxコマンド6選",
+    "url": "https://qiita.com/moneymog/items/16d2f843c344a5ace51a",
+    "likes_count": 334,
+    "created_at": "2020-05-06T13:30:11+09:00",
+    "updated_at": "2020-05-06T13:30:11+09:00",
+    "id": "moneymog"
+  },
+  {
     "title": "クラス、インスタンス、メソッドってなんで必要なの？　　ゲームを題材に「名前」に着目して考える。",
     "url": "https://qiita.com/t2-kob/items/01290b341427dc990f0d",
     "likes_count": 334,
@@ -272,12 +280,12 @@
     "id": "t2-kob"
   },
   {
-    "title": "ログ分析に使えるLinuxコマンド6選",
-    "url": "https://qiita.com/moneymog/items/16d2f843c344a5ace51a",
-    "likes_count": 333,
-    "created_at": "2020-05-06T13:30:11+09:00",
-    "updated_at": "2020-05-06T13:30:11+09:00",
-    "id": "moneymog"
+    "title": "【Git】ブランチの命名規則を調べてたらIssueドリブン開発という存在を知った",
+    "url": "https://qiita.com/c6tower/items/fe2aa4ecb78bef69928f",
+    "likes_count": 300,
+    "created_at": "2020-05-16T17:52:42+09:00",
+    "updated_at": "2020-07-28T21:47:46+09:00",
+    "id": "c6tower"
   },
   {
     "title": "明日から使えるDDDのためのユースケース駆動開発（ICONIXプロセス）",
@@ -286,14 +294,6 @@
     "created_at": "2020-05-06T21:50:25+09:00",
     "updated_at": "2021-09-03T18:24:15+09:00",
     "id": "hirodragon"
-  },
-  {
-    "title": "【Git】ブランチの命名規則を調べてたらIssueドリブン開発という存在を知った",
-    "url": "https://qiita.com/c6tower/items/fe2aa4ecb78bef69928f",
-    "likes_count": 299,
-    "created_at": "2020-05-16T17:52:42+09:00",
-    "updated_at": "2020-07-28T21:47:46+09:00",
-    "id": "c6tower"
   },
   {
     "title": "リーンスタートアップで個人開発の成功率を上げる",
