@@ -10,7 +10,7 @@
   {
     "title": "エンジニアの情報収集法まとめ",
     "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
-    "likes_count": 5139,
+    "likes_count": 5140,
     "created_at": "2015-06-01T01:10:02+09:00",
     "updated_at": "2020-10-08T10:44:34+09:00",
     "id": "nesheep5"
@@ -18,7 +18,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 3219,
+    "likes_count": 3220,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -66,7 +66,7 @@
   {
     "title": "【数学】固有値・固有ベクトルとは何かを可視化してみる",
     "url": "https://qiita.com/kenmatsu4/items/2a8573e3c878fc2da306",
-    "likes_count": 1427,
+    "likes_count": 1428,
     "created_at": "2015-05-23T09:16:03+09:00",
     "updated_at": "2015-05-28T08:37:38+09:00",
     "id": "kenmatsu4"
@@ -82,7 +82,7 @@
   {
     "title": "tmuxチートシート",
     "url": "https://qiita.com/nmrmsys/items/03f97f5eabec18a3a18b",
-    "likes_count": 1371,
+    "likes_count": 1373,
     "created_at": "2015-05-17T14:38:08+09:00",
     "updated_at": "2016-10-30T07:17:09+09:00",
     "id": "nmrmsys"
@@ -266,7 +266,7 @@
   {
     "title": "Node.jsでMySQLを使うメモ",
     "url": "https://qiita.com/PianoScoreJP/items/7ed172cd0e7846641e13",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2015-05-29T08:54:18+09:00",
     "updated_at": "2015-05-29T15:43:51+09:00",
     "id": "PianoScoreJP"
@@ -274,7 +274,7 @@
   {
     "title": "FactoryBot（旧FactoryGirl）で関連データを同時に生成する方法いろいろ",
     "url": "https://qiita.com/metheglin/items/47116ccbdb26aa00e034",
-    "likes_count": 508,
+    "likes_count": 509,
     "created_at": "2015-05-13T22:27:52+09:00",
     "updated_at": "2018-01-26T19:15:18+09:00",
     "id": "metheglin"
@@ -346,7 +346,7 @@
   {
     "title": "情報系研究者のための研究ノート",
     "url": "https://qiita.com/guicho271828/items/9307ae12248329b71f12",
-    "likes_count": 407,
+    "likes_count": 408,
     "created_at": "2015-05-02T00:23:04+09:00",
     "updated_at": "2015-05-13T23:22:27+09:00",
     "id": "guicho271828"
@@ -358,6 +358,14 @@
     "created_at": "2015-05-27T05:58:50+09:00",
     "updated_at": "2021-11-11T12:00:52+09:00",
     "id": "2dgames_jp"
+  },
+  {
+    "title": "redis-cli コマンド操作まとめ",
+    "url": "https://qiita.com/rubytomato@github/items/d66d932959d596876ab5",
+    "likes_count": 396,
+    "created_at": "2015-05-24T16:37:36+09:00",
+    "updated_at": "2021-01-15T23:53:55+09:00",
+    "id": "rubytomato@github"
   },
   {
     "title": "これからVimを触る人向け！今まで使っていたエディタのようにVimを使いはじめる。",
@@ -374,14 +382,6 @@
     "created_at": "2015-05-12T00:42:47+09:00",
     "updated_at": "2016-07-25T11:10:51+09:00",
     "id": "sh-ogawa"
-  },
-  {
-    "title": "redis-cli コマンド操作まとめ",
-    "url": "https://qiita.com/rubytomato@github/items/d66d932959d596876ab5",
-    "likes_count": 395,
-    "created_at": "2015-05-24T16:37:36+09:00",
-    "updated_at": "2021-01-15T23:53:55+09:00",
-    "id": "rubytomato@github"
   },
   {
     "title": "AndroidStudioのPostfix Completionで爆速コーディング",
@@ -610,7 +610,7 @@
   {
     "title": "放映中のアニメ作品の情報を提供するAnime RESTful API サーバー作りました ",
     "url": "https://qiita.com/AKB428/items/64938febfd4dcf6ea698",
-    "likes_count": 268,
+    "likes_count": 269,
     "created_at": "2015-05-06T05:54:53+09:00",
     "updated_at": "2015-11-09T01:08:41+09:00",
     "id": "AKB428"
