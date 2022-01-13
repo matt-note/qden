@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5564,
+    "likes_count": 5565,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1256,
+    "likes_count": 1257,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -64,20 +64,20 @@
     "id": "ampersand"
   },
   {
+    "title": "学習を加速させるインデックス読書術",
+    "url": "https://qiita.com/dkatsura/items/3364b293ed1451a66a8a",
+    "likes_count": 1145,
+    "created_at": "2017-12-08T23:19:04+09:00",
+    "updated_at": "2017-12-09T07:01:39+09:00",
+    "id": "dkatsura"
+  },
+  {
     "title": "webpack時代の終わりとparcel時代のはじまり",
     "url": "https://qiita.com/bitrinjani/items/b08876e0a2618745f54a",
     "likes_count": 1144,
     "created_at": "2017-12-08T17:42:26+09:00",
     "updated_at": "2017-12-09T16:47:13+09:00",
     "id": "bitrinjani"
-  },
-  {
-    "title": "学習を加速させるインデックス読書術",
-    "url": "https://qiita.com/dkatsura/items/3364b293ed1451a66a8a",
-    "likes_count": 1144,
-    "created_at": "2017-12-08T23:19:04+09:00",
-    "updated_at": "2017-12-09T07:01:39+09:00",
-    "id": "dkatsura"
   },
   {
     "title": "styled-componentsを使ったCSS設計",
@@ -90,7 +90,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 970,
+    "likes_count": 971,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -106,7 +106,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 930,
+    "likes_count": 931,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -202,7 +202,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 780,
+    "likes_count": 781,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -450,7 +450,7 @@
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2017-12-09T16:10:28+09:00",
     "updated_at": "2018-12-22T12:05:58+09:00",
     "id": "kakakaori830"
@@ -462,6 +462,14 @@
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2021-08-15T17:37:25+09:00",
     "id": "KTakahiro1729"
+  },
+  {
+    "title": "【Python】Word2Vecの使い方",
+    "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
+    "likes_count": 441,
+    "created_at": "2017-12-18T17:48:19+09:00",
+    "updated_at": "2020-09-07T09:40:58+09:00",
+    "id": "kenta1984"
   },
   {
     "title": "Parcel 入門 ～Parcelはwebpackの代わりになるのか～",
@@ -478,14 +486,6 @@
     "created_at": "2017-12-13T01:28:27+09:00",
     "updated_at": "2019-07-28T01:41:15+09:00",
     "id": "tatsurou313"
-  },
-  {
-    "title": "【Python】Word2Vecの使い方",
-    "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 440,
-    "created_at": "2017-12-18T17:48:19+09:00",
-    "updated_at": "2020-09-07T09:40:58+09:00",
-    "id": "kenta1984"
   },
   {
     "title": "【随時更新】2018年にReact Nativeを始める人におすすめ26選",
@@ -682,7 +682,7 @@
   {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
     "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2017-12-13T01:29:31+09:00",
     "updated_at": "2018-08-25T11:45:30+09:00",
     "id": "h1kita"
@@ -722,7 +722,7 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"
@@ -746,7 +746,7 @@
   {
     "title": "機械学習ライブラリ scikit-learnの便利機能の紹介",
     "url": "https://qiita.com/ishizakiiii/items/0650723cc2b4eef2c1cf",
-    "likes_count": 300,
+    "likes_count": 301,
     "created_at": "2017-12-15T21:27:13+09:00",
     "updated_at": "2017-12-18T07:37:14+09:00",
     "id": "ishizakiiii"

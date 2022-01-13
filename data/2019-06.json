@@ -10,7 +10,7 @@
   {
     "title": "見たいエンジニアの職務経歴書の書き方",
     "url": "https://qiita.com/newta/items/77eb14b1d67bc7ef1980",
-    "likes_count": 2230,
+    "likes_count": 2232,
     "created_at": "2019-06-11T09:52:46+09:00",
     "updated_at": "2021-12-15T10:11:01+09:00",
     "id": "newta"
@@ -50,7 +50,7 @@
   {
     "title": "Alfredを使いこなせてない君に！【Alfredの使い方完全版】",
     "url": "https://qiita.com/jackchuka/items/ccd3f66f6dd00481b98b",
-    "likes_count": 1404,
+    "likes_count": 1403,
     "created_at": "2019-06-26T11:10:24+09:00",
     "updated_at": "2021-04-13T19:26:01+09:00",
     "id": "jackchuka"
@@ -122,7 +122,7 @@
   {
     "title": "【これが無料？】無料で学べるプログラミング教材・ハンズオン一覧",
     "url": "https://qiita.com/kocpa/items/b9039d80752d457378d3",
-    "likes_count": 875,
+    "likes_count": 876,
     "created_at": "2019-06-26T21:34:54+09:00",
     "updated_at": "2019-07-05T21:29:36+09:00",
     "id": "kocpa"
@@ -210,7 +210,7 @@
   {
     "title": "3分でできる！最高のDockerfileを書いたあとにやるべき1つのこと",
     "url": "https://qiita.com/tomoyamachi/items/2397457f5d516a1fbc85",
-    "likes_count": 654,
+    "likes_count": 655,
     "created_at": "2019-06-14T08:13:49+09:00",
     "updated_at": "2019-12-26T03:12:01+09:00",
     "id": "tomoyamachi"
@@ -232,20 +232,20 @@
     "id": "drken"
   },
   {
+    "title": "いまさらだけどgRPCに入門したので分かりやすくまとめてみた",
+    "url": "https://qiita.com/gold-kou/items/a1cc2be6045723e242eb",
+    "likes_count": 546,
+    "created_at": "2019-06-06T12:39:48+09:00",
+    "updated_at": "2020-04-23T20:43:08+09:00",
+    "id": "gold-kou"
+  },
+  {
     "title": "細かすぎて伝わりにくい、Pythonの本当の落とし穴10選＋α",
     "url": "https://qiita.com/kwatch/items/525b0f85812c7be7c74c",
     "likes_count": 546,
     "created_at": "2019-06-15T22:22:13+09:00",
     "updated_at": "2021-02-17T15:07:08+09:00",
     "id": "kwatch"
-  },
-  {
-    "title": "いまさらだけどgRPCに入門したので分かりやすくまとめてみた",
-    "url": "https://qiita.com/gold-kou/items/a1cc2be6045723e242eb",
-    "likes_count": 545,
-    "created_at": "2019-06-06T12:39:48+09:00",
-    "updated_at": "2020-04-23T20:43:08+09:00",
-    "id": "gold-kou"
   },
   {
     "title": "経験ゼロから始めるAI開発",
@@ -256,6 +256,14 @@
     "id": "RHM"
   },
   {
+    "title": "SQLアンチパターンもりもりDBを設計しよう！",
+    "url": "https://qiita.com/Mister_K/items/ff4c63085ecd9e77fa33",
+    "likes_count": 526,
+    "created_at": "2019-06-21T12:37:42+09:00",
+    "updated_at": "2019-06-24T12:12:54+09:00",
+    "id": "Mister_K"
+  },
+  {
     "title": "[Swift] SwiftUIのチートシート",
     "url": "https://qiita.com/hcrane/items/eb847ca7fb7a0b9e8073",
     "likes_count": 525,
@@ -264,17 +272,9 @@
     "id": "hcrane"
   },
   {
-    "title": "SQLアンチパターンもりもりDBを設計しよう！",
-    "url": "https://qiita.com/Mister_K/items/ff4c63085ecd9e77fa33",
-    "likes_count": 525,
-    "created_at": "2019-06-21T12:37:42+09:00",
-    "updated_at": "2019-06-24T12:12:54+09:00",
-    "id": "Mister_K"
-  },
-  {
     "title": "bundle install時に--path vendor/bundleを付ける必要性は本当にあるのか、もう一度よく考えてみよう",
     "url": "https://qiita.com/jnchito/items/99b1dbea1767a5095d85",
-    "likes_count": 508,
+    "likes_count": 509,
     "created_at": "2019-06-06T10:06:54+09:00",
     "updated_at": "2019-06-07T09:51:11+09:00",
     "id": "jnchito"
@@ -490,7 +490,7 @@
   {
     "title": "MVC、3 層アーキテクチャから設計を学び始めるための基礎知識",
     "url": "https://qiita.com/os1ma/items/7a229585ebdd8b7d86c2",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2019-06-21T02:14:46+09:00",
     "updated_at": "2021-05-23T10:51:28+09:00",
     "id": "os1ma"
@@ -536,20 +536,20 @@
     "id": "suin"
   },
   {
+    "title": "人を震えさせるツール｢Dockle｣の仕組みを解説〜Dockerセキュリティの基礎知識も一緒に",
+    "url": "https://qiita.com/tomoyamachi/items/8e042e4269427bb3b326",
+    "likes_count": 279,
+    "created_at": "2019-06-19T08:07:52+09:00",
+    "updated_at": "2019-10-27T15:31:16+09:00",
+    "id": "tomoyamachi"
+  },
+  {
     "title": "ディープラーニング声質変換OSS「yukarinライブラリ」関連記事等一覧",
     "url": "https://qiita.com/BURI55/items/e9fdf381087b363c1074",
     "likes_count": 278,
     "created_at": "2019-06-12T05:19:49+09:00",
     "updated_at": "2020-07-02T02:51:58+09:00",
     "id": "BURI55"
-  },
-  {
-    "title": "人を震えさせるツール｢Dockle｣の仕組みを解説〜Dockerセキュリティの基礎知識も一緒に",
-    "url": "https://qiita.com/tomoyamachi/items/8e042e4269427bb3b326",
-    "likes_count": 278,
-    "created_at": "2019-06-19T08:07:52+09:00",
-    "updated_at": "2019-10-27T15:31:16+09:00",
-    "id": "tomoyamachi"
   },
   {
     "title": "2019/06/04 『体系的に学ぶ安全なWebアプリケーションの作り方第2版 脆弱性が生まれる原理と対策の実践』応用講座 (徳丸本応用講座)",
@@ -570,7 +570,7 @@
   {
     "title": "【Material-UI】必ず設定しておきたいTheme項目",
     "url": "https://qiita.com/tag1216/items/2935c9979b857bb7701f",
-    "likes_count": 255,
+    "likes_count": 256,
     "created_at": "2019-06-17T08:19:31+09:00",
     "updated_at": "2019-06-17T08:19:31+09:00",
     "id": "tag1216"
