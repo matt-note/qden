@@ -34,7 +34,7 @@
   {
     "title": "中規模Web開発のためのMVC分割とレイヤアーキテクチャ",
     "url": "https://qiita.com/yuku_t/items/961194a5443b618a4cac",
-    "likes_count": 1815,
+    "likes_count": 1816,
     "created_at": "2014-05-20T14:50:36+09:00",
     "updated_at": "2017-08-15T20:33:23+09:00",
     "id": "yuku_t"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1590,
+    "likes_count": 1591,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2021-09-18T19:08:05+09:00",
     "id": "amedama"
@@ -178,7 +178,7 @@
   {
     "title": "今さら聞けないWebAPIの実装方式RESTとSOAPの違い",
     "url": "https://qiita.com/pink/items/f1a22840619d3b79c4f2",
-    "likes_count": 748,
+    "likes_count": 749,
     "created_at": "2014-05-26T14:26:25+09:00",
     "updated_at": "2014-05-27T17:32:02+09:00",
     "id": "pink"
@@ -280,20 +280,20 @@
     "id": "takeh1k0"
   },
   {
+    "title": "【PHP】連想配列、配列への追加",
+    "url": "https://qiita.com/kazu56/items/6947a0e4830eb556d575",
+    "likes_count": 487,
+    "created_at": "2014-05-28T11:48:51+09:00",
+    "updated_at": "2016-04-13T19:47:12+09:00",
+    "id": "kazu56"
+  },
+  {
     "title": "PostgreSQLのbackup, restore方法まとめ",
     "url": "https://qiita.com/rice_american/items/ceae28dad13c3977e3a8",
     "likes_count": 486,
     "created_at": "2014-05-25T14:37:55+09:00",
     "updated_at": "2019-06-15T20:04:12+09:00",
     "id": "rice_american"
-  },
-  {
-    "title": "【PHP】連想配列、配列への追加",
-    "url": "https://qiita.com/kazu56/items/6947a0e4830eb556d575",
-    "likes_count": 486,
-    "created_at": "2014-05-28T11:48:51+09:00",
-    "updated_at": "2016-04-13T19:47:12+09:00",
-    "id": "kazu56"
   },
   {
     "title": "【JavaScript】～を含むかのチェック",
@@ -482,7 +482,7 @@
   {
     "title": "inotify-toolsでファイルやディレクトリを監視する",
     "url": "https://qiita.com/stc1988/items/464410382f8425681c20",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2014-05-22T20:48:50+09:00",
     "updated_at": "2019-03-07T23:25:03+09:00",
     "id": "stc1988"

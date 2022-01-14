@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1786,
+    "likes_count": 1787,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -58,7 +58,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1266,
+    "likes_count": 1267,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -66,7 +66,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1229,
+    "likes_count": 1230,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -218,7 +218,7 @@
   {
     "title": "2018年版もっとも参考になった機械学習系記事ベスト10",
     "url": "https://qiita.com/junichiro/items/67ddf03014597552d78b",
-    "likes_count": 680,
+    "likes_count": 681,
     "created_at": "2018-12-05T09:02:59+09:00",
     "updated_at": "2018-12-06T13:52:35+09:00",
     "id": "junichiro"
@@ -226,7 +226,7 @@
   {
     "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
     "url": "https://qiita.com/potato4d/items/c9c0c8e674f20c85948a",
-    "likes_count": 675,
+    "likes_count": 676,
     "created_at": "2018-12-12T23:28:42+09:00",
     "updated_at": "2019-12-05T12:05:20+09:00",
     "id": "potato4d"
@@ -234,7 +234,7 @@
   {
     "title": "2018年これだけは知っておきたいiOSライブラリ31選",
     "url": "https://qiita.com/kohei1218/items/275fcee7406395919885",
-    "likes_count": 672,
+    "likes_count": 673,
     "created_at": "2018-12-12T19:17:50+09:00",
     "updated_at": "2019-03-18T13:42:44+09:00",
     "id": "kohei1218"
@@ -314,7 +314,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 534,
+    "likes_count": 536,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2021-07-12T12:15:57+09:00",
     "id": "syantien"
@@ -336,20 +336,20 @@
     "id": "sadnessOjisan"
   },
   {
+    "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
+    "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
+    "likes_count": 509,
+    "created_at": "2018-12-15T23:59:14+09:00",
+    "updated_at": "2020-01-17T23:28:46+09:00",
+    "id": "kabochapo"
+  },
+  {
     "title": "C#リフレクションTIPS 55連発",
     "url": "https://qiita.com/gushwell/items/91436bd1871586f6e663",
     "likes_count": 509,
     "created_at": "2018-12-16T21:41:49+09:00",
     "updated_at": "2020-09-09T13:13:04+09:00",
     "id": "gushwell"
-  },
-  {
-    "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
-    "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 508,
-    "created_at": "2018-12-15T23:59:14+09:00",
-    "updated_at": "2020-01-17T23:28:46+09:00",
-    "id": "kabochapo"
   },
   {
     "title": "積極性と強い問題意識を要求する「振り返り」は、もうたくさん",
@@ -400,20 +400,20 @@
     "id": "youwht"
   },
   {
+    "title": "主成分分析を Python で理解する",
+    "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
+    "likes_count": 464,
+    "created_at": "2018-12-10T16:14:33+09:00",
+    "updated_at": "2020-05-02T14:45:56+09:00",
+    "id": "maskot1977"
+  },
+  {
     "title": "ワイが個人的に便利だと思っていてよく使っているJavaScriptモジュール(npm)たち",
     "url": "https://qiita.com/_somary/items/ac55db148b72726d0753",
     "likes_count": 464,
     "created_at": "2018-12-19T09:52:58+09:00",
     "updated_at": "2018-12-19T09:56:53+09:00",
     "id": "_somary"
-  },
-  {
-    "title": "主成分分析を Python で理解する",
-    "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 463,
-    "created_at": "2018-12-10T16:14:33+09:00",
-    "updated_at": "2020-05-02T14:45:56+09:00",
-    "id": "maskot1977"
   },
   {
     "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
@@ -426,7 +426,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 450,
+    "likes_count": 451,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -450,7 +450,7 @@
   {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2018-12-07T17:46:26+09:00",
     "updated_at": "2020-03-18T20:59:40+09:00",
     "id": "yasuabe2613"
@@ -554,7 +554,7 @@
   {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 369,
+    "likes_count": 371,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -762,7 +762,7 @@
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
     "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
-    "likes_count": 251,
+    "likes_count": 252,
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"
