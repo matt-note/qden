@@ -10,7 +10,7 @@
   {
     "title": "Qiita マークダウン記法 一覧表・チートシート",
     "url": "https://qiita.com/kamorits/items/6f342da395ad57468ae3",
-    "likes_count": 1583,
+    "likes_count": 1586,
     "created_at": "2017-01-18T13:43:38+09:00",
     "updated_at": "2020-04-29T16:50:51+09:00",
     "id": "kamorits"
@@ -34,7 +34,7 @@
   {
     "title": "Swiftのエラー4分類が素晴らしすぎるのでみんなに知ってほしい",
     "url": "https://qiita.com/koher/items/a7a12e7e18d2bb7d8c77",
-    "likes_count": 1096,
+    "likes_count": 1097,
     "created_at": "2017-01-14T23:20:00+09:00",
     "updated_at": "2018-08-28T18:49:11+09:00",
     "id": "koher"
@@ -58,7 +58,7 @@
   {
     "title": "これだけは覚えたい、ユニットテストを書くための４つのデザイン",
     "url": "https://qiita.com/koduki/items/4fde43b68fe450c6a5d8",
-    "likes_count": 948,
+    "likes_count": 947,
     "created_at": "2017-01-16T07:49:09+09:00",
     "updated_at": "2021-07-25T03:09:36+09:00",
     "id": "koduki"
@@ -106,7 +106,7 @@
   {
     "title": "割りと便利だけど微妙に忘れがちなbashのコマンド・チートシート",
     "url": "https://qiita.com/jpshadowapps/items/d6f9b55026637519347f",
-    "likes_count": 814,
+    "likes_count": 813,
     "created_at": "2017-01-08T00:13:56+09:00",
     "updated_at": "2017-01-08T00:13:56+09:00",
     "id": "jpshadowapps"
@@ -130,7 +130,7 @@
   {
     "title": "SVN脳患者から見たGit",
     "url": "https://qiita.com/kaityo256/items/81e7951a1ca2706955a4",
-    "likes_count": 694,
+    "likes_count": 695,
     "created_at": "2017-01-31T20:09:38+09:00",
     "updated_at": "2017-02-08T15:06:14+09:00",
     "id": "kaityo256"
@@ -162,7 +162,7 @@
   {
     "title": "深入りしないCython入門 ",
     "url": "https://qiita.com/pashango2/items/45cb85390193d97523ca",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2017-01-10T09:28:48+09:00",
     "updated_at": "2017-01-12T08:24:40+09:00",
     "id": "pashango2"
@@ -184,20 +184,20 @@
     "id": "pashango2"
   },
   {
+    "title": "CASE式で条件分岐をSQL文に任せる",
+    "url": "https://qiita.com/sfp_waterwalker/items/acc7f95f6ab5aa5412f3",
+    "likes_count": 548,
+    "created_at": "2017-01-18T20:21:41+09:00",
+    "updated_at": "2021-02-02T15:49:24+09:00",
+    "id": "sfp_waterwalker"
+  },
+  {
     "title": "MacOSとHomebrewとpyenvで快適python環境を。",
     "url": "https://qiita.com/crankcube/items/15f06b32ec56736fc43a",
     "likes_count": 547,
     "created_at": "2017-01-07T11:11:43+09:00",
     "updated_at": "2021-05-30T00:03:26+09:00",
     "id": "crankcube"
-  },
-  {
-    "title": "CASE式で条件分岐をSQL文に任せる",
-    "url": "https://qiita.com/sfp_waterwalker/items/acc7f95f6ab5aa5412f3",
-    "likes_count": 547,
-    "created_at": "2017-01-18T20:21:41+09:00",
-    "updated_at": "2021-02-02T15:49:24+09:00",
-    "id": "sfp_waterwalker"
   },
   {
     "title": "商用利用できるオープンソースライセンスはけっきょくどれで何をすればいいのか？",
@@ -226,7 +226,7 @@
   {
     "title": "WebAPI でファイルをアップロードする方法アレコレ",
     "url": "https://qiita.com/mserizawa/items/7f1b9e5077fd3a9d336b",
-    "likes_count": 524,
+    "likes_count": 525,
     "created_at": "2017-01-24T00:19:27+09:00",
     "updated_at": "2017-01-24T18:59:56+09:00",
     "id": "mserizawa"
@@ -360,20 +360,20 @@
     "id": "hogeta_"
   },
   {
+    "title": "【Docker】これは役に立つ!! docker-compose.ymlの例まとめ",
+    "url": "https://qiita.com/okamu_/items/1c8e5fde742ca165fa12",
+    "likes_count": 358,
+    "created_at": "2017-01-30T02:16:08+09:00",
+    "updated_at": "2017-01-31T23:02:06+09:00",
+    "id": "okamu_"
+  },
+  {
     "title": "Inside of Deep Learning あるいは深層学習は何を変えるのか",
     "url": "https://qiita.com/jiny2001/items/85af7dd163a63b3a152a",
     "likes_count": 357,
     "created_at": "2017-01-14T19:25:11+09:00",
     "updated_at": "2017-03-22T01:55:17+09:00",
     "id": "jiny2001"
-  },
-  {
-    "title": "【Docker】これは役に立つ!! docker-compose.ymlの例まとめ",
-    "url": "https://qiita.com/okamu_/items/1c8e5fde742ca165fa12",
-    "likes_count": 357,
-    "created_at": "2017-01-30T02:16:08+09:00",
-    "updated_at": "2017-01-31T23:02:06+09:00",
-    "id": "okamu_"
   },
   {
     "title": "printデバッグにさようなら！Ruby初心者のためのByebugチュートリアル",
@@ -402,7 +402,7 @@
   {
     "title": "PHPで出来てしまうが控えたほうががいい書き方",
     "url": "https://qiita.com/shinkuFencer/items/48718f0c8d203ca513db",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2017-01-10T09:52:17+09:00",
     "updated_at": "2017-01-23T15:35:41+09:00",
     "id": "shinkuFencer"

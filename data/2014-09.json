@@ -42,7 +42,7 @@
   {
     "title": "ActiveRecordのjoinsとpreloadとincludesとeager_loadの違い",
     "url": "https://qiita.com/k0kubun/items/80c5a5494f53bb88dc58",
-    "likes_count": 1962,
+    "likes_count": 1963,
     "created_at": "2014-09-05T01:13:43+09:00",
     "updated_at": "2016-02-12T04:58:27+09:00",
     "id": "k0kubun"
@@ -50,7 +50,7 @@
   {
     "title": "[Git]コミットの取り消し、打ち消し、上書き",
     "url": "https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed",
-    "likes_count": 1317,
+    "likes_count": 1318,
     "created_at": "2014-09-12T18:43:31+09:00",
     "updated_at": "2021-12-29T10:41:09+09:00",
     "id": "shuntaro_tamura"
@@ -58,7 +58,7 @@
   {
     "title": "Homebrew使い方まとめ",
     "url": "https://qiita.com/vintersnow/items/fca0be79cdc28bd2f5e4",
-    "likes_count": 1239,
+    "likes_count": 1240,
     "created_at": "2014-09-14T10:11:54+09:00",
     "updated_at": "2019-06-30T12:35:22+09:00",
     "id": "vintersnow"
@@ -130,18 +130,10 @@
   {
     "title": "QAエンジニア",
     "url": "https://qiita.com/jun2014/items/32ec77be1056f546aada",
-    "likes_count": 778,
+    "likes_count": 779,
     "created_at": "2014-09-27T01:14:29+09:00",
     "updated_at": "2022-01-18T20:18:37+09:00",
     "id": "jun2014"
-  },
-  {
-    "title": "Java 8 \"Optional\" ～ これからのnullとの付き合い方 ～",
-    "url": "https://qiita.com/shindooo/items/815d651a72f568112910",
-    "likes_count": 713,
-    "created_at": "2014-09-14T00:00:04+09:00",
-    "updated_at": "2018-05-05T07:56:03+09:00",
-    "id": "shindooo"
   },
   {
     "title": "スクリプトインジェクション入門",
@@ -150,6 +142,14 @@
     "created_at": "2014-09-20T21:42:35+09:00",
     "updated_at": "2014-09-20T21:53:08+09:00",
     "id": "tomochan154"
+  },
+  {
+    "title": "Java 8 \"Optional\" ～ これからのnullとの付き合い方 ～",
+    "url": "https://qiita.com/shindooo/items/815d651a72f568112910",
+    "likes_count": 712,
+    "created_at": "2014-09-14T00:00:04+09:00",
+    "updated_at": "2018-05-05T07:56:03+09:00",
+    "id": "shindooo"
   },
   {
     "title": "vim-plugin NERDTree で開発効率をアップする！",

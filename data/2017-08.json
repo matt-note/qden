@@ -2,7 +2,7 @@
   {
     "title": "async/await 入門（JavaScript）",
     "url": "https://qiita.com/soarflat/items/1a9613e023200bbebcb3",
-    "likes_count": 3084,
+    "likes_count": 3085,
     "created_at": "2017-08-03T14:25:22+09:00",
     "updated_at": "2022-01-05T23:44:45+09:00",
     "id": "soarflat"
@@ -10,7 +10,7 @@
   {
     "title": "VS Code の便利なショートカットキー",
     "url": "https://qiita.com/12345/items/64f4372fbca041e949d0",
-    "likes_count": 2950,
+    "likes_count": 2949,
     "created_at": "2017-08-13T07:04:56+09:00",
     "updated_at": "2021-12-10T22:22:01+09:00",
     "id": "12345"
@@ -26,7 +26,7 @@
   {
     "title": "優秀な技術者を追い出してしまう方法",
     "url": "https://qiita.com/nonbiri15/items/961543c6460432289a02",
-    "likes_count": 1883,
+    "likes_count": 1884,
     "created_at": "2017-08-12T14:31:39+09:00",
     "updated_at": "2018-10-25T01:27:25+09:00",
     "id": "nonbiri15"
@@ -66,7 +66,7 @@
   {
     "title": "Swaggerの概要をまとめてみた。",
     "url": "https://qiita.com/gcyata/items/342073fa7607fd4082bd",
-    "likes_count": 1254,
+    "likes_count": 1255,
     "created_at": "2017-08-25T18:03:53+09:00",
     "updated_at": "2018-02-17T23:09:25+09:00",
     "id": "gcyata"
@@ -114,7 +114,7 @@
   {
     "title": "一から始める機械学習（機械学習概要）",
     "url": "https://qiita.com/taki_tflare/items/42a40119d3d8e622edd2",
-    "likes_count": 777,
+    "likes_count": 776,
     "created_at": "2017-08-12T06:17:01+09:00",
     "updated_at": "2020-04-23T20:31:42+09:00",
     "id": "taki_tflare"
@@ -274,10 +274,18 @@
   {
     "title": "【MySQL】遅いselect文の原因を調査する【explainの読み方】",
     "url": "https://qiita.com/mtanabe/items/33a80bf2749a872645e6",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2017-08-12T22:04:16+09:00",
     "updated_at": "2018-03-20T23:33:47+09:00",
     "id": "mtanabe"
+  },
+  {
+    "title": "【入門者向け解説】openCV顔検出の仕組と実践(detectMultiScale)",
+    "url": "https://qiita.com/FukuharaYohei/items/ec6dce7cc5ea21a51a82",
+    "likes_count": 297,
+    "created_at": "2017-08-03T19:16:26+09:00",
+    "updated_at": "2019-09-19T15:59:34+09:00",
+    "id": "FukuharaYohei"
   },
   {
     "title": "LaravelでRoute::resourceを使うときに気をつけること",
@@ -286,14 +294,6 @@
     "created_at": "2017-08-30T18:29:58+09:00",
     "updated_at": "2018-05-14T09:50:19+09:00",
     "id": "sympe"
-  },
-  {
-    "title": "【入門者向け解説】openCV顔検出の仕組と実践(detectMultiScale)",
-    "url": "https://qiita.com/FukuharaYohei/items/ec6dce7cc5ea21a51a82",
-    "likes_count": 296,
-    "created_at": "2017-08-03T19:16:26+09:00",
-    "updated_at": "2019-09-19T15:59:34+09:00",
-    "id": "FukuharaYohei"
   },
   {
     "title": "機械学習の情報収集に役立つ14のメルマガ",
@@ -306,7 +306,7 @@
   {
     "title": "【合格しました！】AWS 認定ソリューションアーキテクト アソシエイト 受験記",
     "url": "https://qiita.com/chihiro/items/efad41f83a954f12ec8f",
-    "likes_count": 283,
+    "likes_count": 284,
     "created_at": "2017-08-19T14:34:24+09:00",
     "updated_at": "2017-08-21T16:23:10+09:00",
     "id": "chihiro"

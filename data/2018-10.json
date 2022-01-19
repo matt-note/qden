@@ -2,7 +2,7 @@
   {
     "title": "エンジニアは全員技術記事を書くことを習慣化した方がいいぞ",
     "url": "https://qiita.com/HiromuMasuda0228/items/a71dea7ef4d77a30b118",
-    "likes_count": 2518,
+    "likes_count": 2519,
     "created_at": "2018-10-04T17:36:06+09:00",
     "updated_at": "2018-10-19T15:55:57+09:00",
     "id": "HiromuMasuda0228"
@@ -26,7 +26,7 @@
   {
     "title": "Webパフォーマンス虎の巻",
     "url": "https://qiita.com/usagi-f/items/10f35969f08dd01fa635",
-    "likes_count": 1837,
+    "likes_count": 1836,
     "created_at": "2018-10-24T17:10:37+09:00",
     "updated_at": "2018-10-24T17:10:37+09:00",
     "id": "usagi-f"
@@ -74,7 +74,7 @@
   {
     "title": "2018年の最先端DevOpsエンジニアになるためのロードマップ",
     "url": "https://qiita.com/poly_soft/items/7cce0fb45195575921ae",
-    "likes_count": 1243,
+    "likes_count": 1244,
     "created_at": "2018-10-08T15:44:52+09:00",
     "updated_at": "2019-03-11T19:36:25+09:00",
     "id": "poly_soft"
@@ -194,7 +194,7 @@
   {
     "title": "極小WebアプリをURLに埋め込んで超ポータブルなWebアプリを作りたい！",
     "url": "https://qiita.com/nwtgck/items/f6363a159a5edbfcc3b4",
-    "likes_count": 707,
+    "likes_count": 708,
     "created_at": "2018-10-31T08:40:24+09:00",
     "updated_at": "2019-04-06T15:34:57+09:00",
     "id": "nwtgck"
@@ -226,7 +226,7 @@
   {
     "title": "TypeScriptの型初級",
     "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
-    "likes_count": 648,
+    "likes_count": 650,
     "created_at": "2018-10-24T18:49:35+09:00",
     "updated_at": "2021-11-28T14:24:19+09:00",
     "id": "uhyo"
@@ -280,6 +280,14 @@
     "id": "yoship1639"
   },
   {
+    "title": "動的型付けと静的型付け",
+    "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
+    "likes_count": 558,
+    "created_at": "2018-10-24T08:24:11+09:00",
+    "updated_at": "2021-08-19T11:10:32+09:00",
+    "id": "toryuneko"
+  },
+  {
     "title": "Qiita版TweetDeck！？カラム形式でQiita記事をウォッチできるクライアントサービス「QiitaDeck」をリリースしました！",
     "url": "https://qiita.com/kazu1496/items/7ce5043f9128c9ab55f4",
     "likes_count": 558,
@@ -288,25 +296,17 @@
     "id": "kazu1496"
   },
   {
-    "title": "動的型付けと静的型付け",
-    "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
-    "likes_count": 555,
-    "created_at": "2018-10-24T08:24:11+09:00",
-    "updated_at": "2021-08-19T11:10:32+09:00",
-    "id": "toryuneko"
-  },
-  {
     "title": "Qiita週間ストック数ランキング【自動更新】",
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 554,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2022-01-18T19:31:34+09:00",
+    "updated_at": "2022-01-19T19:31:40+09:00",
     "id": "kai_kou"
   },
   {
     "title": "今更誰も教えてくれない、Unityにおけるアセット読み込みについての基礎知識",
     "url": "https://qiita.com/k7a/items/df6dd8ea66cbc5a1e21d",
-    "likes_count": 530,
+    "likes_count": 531,
     "created_at": "2018-10-18T15:55:08+09:00",
     "updated_at": "2019-03-18T18:39:49+09:00",
     "id": "k7a"
@@ -330,7 +330,7 @@
   {
     "title": "リポジトリのcloneとforkの違い",
     "url": "https://qiita.com/matsubox/items/09904e4c51e6bc267990",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2018-10-07T15:14:11+09:00",
     "updated_at": "2018-10-07T15:14:11+09:00",
     "id": "matsubox"
@@ -386,7 +386,7 @@
   {
     "title": "私のReactのコンポーネント実装アンチパターン",
     "url": "https://qiita.com/seya/items/7a0d20da4de5fab14426",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2018-10-29T07:45:11+09:00",
     "updated_at": "2018-10-29T23:24:36+09:00",
     "id": "seya"

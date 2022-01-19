@@ -2,7 +2,7 @@
   {
     "title": "2020年のフロントエンドマスターになりたければこの9プロジェクトを作れ",
     "url": "https://qiita.com/rana_kualu/items/915345b8f3f870cfe2aa",
-    "likes_count": 3669,
+    "likes_count": 3668,
     "created_at": "2019-11-11T20:54:20+09:00",
     "updated_at": "2019-11-20T21:12:23+09:00",
     "id": "rana_kualu"
@@ -82,7 +82,7 @@
   {
     "title": "高校文化祭の食販で自動注文機を作った話",
     "url": "https://qiita.com/RyotaroSaito/items/7a92d8458ea27dcdecb3",
-    "likes_count": 1284,
+    "likes_count": 1283,
     "created_at": "2019-11-16T00:21:26+09:00",
     "updated_at": "2021-02-28T16:15:43+09:00",
     "id": "RyotaroSaito"
@@ -90,7 +90,7 @@
   {
     "title": "コードレビュー虎の巻",
     "url": "https://qiita.com/teradonburi/items/2fa475c860d0fb16c0eb",
-    "likes_count": 1270,
+    "likes_count": 1269,
     "created_at": "2019-11-19T12:00:29+09:00",
     "updated_at": "2021-08-18T14:49:53+09:00",
     "id": "teradonburi"
@@ -128,20 +128,20 @@
     "id": "sasakiki"
   },
   {
-    "title": "Slackはただのコミュニケーションツールじゃない、企業の技術を映す鏡だ",
-    "url": "https://qiita.com/KizashiTakata/items/d442d4a28d147529f1b6",
-    "likes_count": 1078,
-    "created_at": "2019-11-17T14:28:19+09:00",
-    "updated_at": "2020-10-13T16:47:54+09:00",
-    "id": "KizashiTakata"
-  },
-  {
     "title": "設計要件をギッチギチに詰めたValueObjectで低凝集クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/5e69d9bd028aa350e2c4",
-    "likes_count": 1075,
+    "likes_count": 1077,
     "created_at": "2019-11-05T07:38:26+09:00",
     "updated_at": "2019-11-10T12:55:59+09:00",
     "id": "MinoDriven"
+  },
+  {
+    "title": "Slackはただのコミュニケーションツールじゃない、企業の技術を映す鏡だ",
+    "url": "https://qiita.com/KizashiTakata/items/d442d4a28d147529f1b6",
+    "likes_count": 1077,
+    "created_at": "2019-11-17T14:28:19+09:00",
+    "updated_at": "2020-10-13T16:47:54+09:00",
+    "id": "KizashiTakata"
   },
   {
     "title": "ワイ「何で子コンポーネントに状態を持たせたらあかんの？」",
@@ -178,7 +178,7 @@
   {
     "title": "tsconfig.jsonの全オプションを理解する（随時追加中）",
     "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 900,
+    "likes_count": 901,
     "created_at": "2019-11-21T16:30:57+09:00",
     "updated_at": "2020-10-14T00:17:51+09:00",
     "id": "ryokkkke"
@@ -186,7 +186,7 @@
   {
     "title": "ようこそdotfilesの世界へ",
     "url": "https://qiita.com/yutkat/items/c6c7584d9795799ee164",
-    "likes_count": 758,
+    "likes_count": 759,
     "created_at": "2019-12-01T00:30:44+09:00",
     "updated_at": "2021-02-23T03:36:42+09:00",
     "id": "yutkat"
@@ -296,20 +296,20 @@
     "id": "Chanmoro"
   },
   {
+    "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
+    "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
+    "likes_count": 569,
+    "created_at": "2019-11-15T22:47:51+09:00",
+    "updated_at": "2020-03-09T11:53:54+09:00",
+    "id": "ramuneru"
+  },
+  {
     "title": "RDBの限界とNoSQLの登場",
     "url": "https://qiita.com/1amageek/items/3dbbc3112493a73880d0",
     "likes_count": 568,
     "created_at": "2019-11-11T21:55:56+09:00",
     "updated_at": "2021-03-29T01:08:03+09:00",
     "id": "1amageek"
-  },
-  {
-    "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
-    "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
-    "likes_count": 567,
-    "created_at": "2019-11-15T22:47:51+09:00",
-    "updated_at": "2020-03-09T11:53:54+09:00",
-    "id": "ramuneru"
   },
   {
     "title": "やさしい図解で学ぶ　ER図　表記法一覧",
@@ -322,7 +322,7 @@
   {
     "title": "【ハッキングに挑戦】脆弱性が残された仮想イメージ公開プラットフォーム（VulnHub）で練習をする",
     "url": "https://qiita.com/v_avenger/items/8accd0cecba2c8f1a923",
-    "likes_count": 535,
+    "likes_count": 536,
     "created_at": "2019-11-29T13:58:08+09:00",
     "updated_at": "2021-01-04T15:37:35+09:00",
     "id": "v_avenger"
@@ -370,7 +370,7 @@
   {
     "title": "新人エンジニアが意識すると良いなと思うことまとめ",
     "url": "https://qiita.com/mass-min/items/de9c8bed8fb794ba9450",
-    "likes_count": 488,
+    "likes_count": 487,
     "created_at": "2019-11-07T01:45:24+09:00",
     "updated_at": "2019-11-07T01:45:24+09:00",
     "id": "mass-min"
@@ -378,7 +378,7 @@
   {
     "title": "【入門】はじめての Flutter",
     "url": "https://qiita.com/nskydiving/items/4fcf0dbad923d50601f9",
-    "likes_count": 479,
+    "likes_count": 480,
     "created_at": "2019-11-03T19:19:27+09:00",
     "updated_at": "2021-03-20T09:18:58+09:00",
     "id": "nskydiving"
@@ -474,7 +474,7 @@
   {
     "title": "クロスプラットフォームフレームワーク比較 2022（Flutter, React Native, Xamarin, Unity）",
     "url": "https://qiita.com/nskydiving/items/c13c949cc17c6f980a67",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2019-11-14T08:18:04+09:00",
     "updated_at": "2022-01-18T09:48:36+09:00",
     "id": "nskydiving"
@@ -490,7 +490,7 @@
   {
     "title": "分報で各自の作業を可視化したら、メンバー間の協力が加速された話",
     "url": "https://qiita.com/kojimadev/items/ea8825dec1b0d0d2874c",
-    "likes_count": 328,
+    "likes_count": 329,
     "created_at": "2019-11-19T07:20:43+09:00",
     "updated_at": "2020-08-27T18:36:31+09:00",
     "id": "kojimadev"
@@ -498,7 +498,7 @@
   {
     "title": "【これからScssを使う人へ】Scssの使い方と便利さをさらっと紹介するぞ",
     "url": "https://qiita.com/mame_hashbill/items/e5f01d0f2523de6a13e5",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2019-11-05T18:08:00+09:00",
     "updated_at": "2019-11-06T07:55:54+09:00",
     "id": "mame_hashbill"
@@ -514,7 +514,7 @@
   {
     "title": "Vue.js ユニットテストの基本まとめ",
     "url": "https://qiita.com/kskinaba/items/d23259060e6e13b7353c",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2019-11-27T18:55:16+09:00",
     "updated_at": "2019-12-05T21:31:49+09:00",
     "id": "kskinaba"
