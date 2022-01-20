@@ -18,7 +18,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2371,
+    "likes_count": 2372,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2105,
+    "likes_count": 2106,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -58,7 +58,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1643,
+    "likes_count": 1644,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -282,7 +282,7 @@
   {
     "title": "SSL/TLS（SSL3.0～TLS1.2）のハンドシェイクを復習する",
     "url": "https://qiita.com/n-i-e/items/41673fd16d7bd1189a29",
-    "likes_count": 537,
+    "likes_count": 538,
     "created_at": "2016-04-12T00:17:03+09:00",
     "updated_at": "2018-09-03T18:51:40+09:00",
     "id": "n-i-e"
@@ -352,20 +352,20 @@
     "id": "masuidrive"
   },
   {
+    "title": "データベースさわったこと無い新人向けトランザクション入門",
+    "url": "https://qiita.com/komattio/items/838ea5df68eb076e8099",
+    "likes_count": 431,
+    "created_at": "2016-04-11T06:46:24+09:00",
+    "updated_at": "2016-04-11T06:54:57+09:00",
+    "id": "komattio"
+  },
+  {
     "title": "LINE BOT をとりあえずタダで Heroku で動かす",
     "url": "https://qiita.com/yuya_takeyama/items/0660a59d13e2cd0b2516",
     "likes_count": 430,
     "created_at": "2016-04-08T03:26:27+09:00",
     "updated_at": "2016-04-09T11:42:24+09:00",
     "id": "yuya_takeyama"
-  },
-  {
-    "title": "データベースさわったこと無い新人向けトランザクション入門",
-    "url": "https://qiita.com/komattio/items/838ea5df68eb076e8099",
-    "likes_count": 430,
-    "created_at": "2016-04-11T06:46:24+09:00",
-    "updated_at": "2016-04-11T06:54:57+09:00",
-    "id": "komattio"
   },
   {
     "title": "ファイルディスクリプタについて理解する",
@@ -424,20 +424,20 @@
     "id": "aokomoriuta"
   },
   {
+    "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
+    "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
+    "likes_count": 381,
+    "created_at": "2016-04-15T01:30:46+09:00",
+    "updated_at": "2019-10-28T14:55:45+09:00",
+    "id": "Yinaura"
+  },
+  {
     "title": "Bootstrap 4を使うならSassを使って3倍幸せになろう",
     "url": "https://qiita.com/tonkotsuboy_com/items/1855734522bfe7ef7dad",
     "likes_count": 380,
     "created_at": "2016-04-07T20:01:56+09:00",
     "updated_at": "2018-05-23T17:37:59+09:00",
     "id": "tonkotsuboy_com"
-  },
-  {
-    "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
-    "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
-    "likes_count": 380,
-    "created_at": "2016-04-15T01:30:46+09:00",
-    "updated_at": "2019-10-28T14:55:45+09:00",
-    "id": "Yinaura"
   },
   {
     "title": "Javaエンジニアにお勧めする一度はたどり着くであろうサイトまとめ",
@@ -664,20 +664,20 @@
     "id": "ikemai"
   },
   {
+    "title": "Visual Studio Code を使う上で良くわかっていなかった(基本的な)用語とか",
+    "url": "https://qiita.com/satokaz/items/dd2f16fc953e7bdb6d2f",
+    "likes_count": 273,
+    "created_at": "2016-04-06T21:16:10+09:00",
+    "updated_at": "2017-03-28T10:15:37+09:00",
+    "id": "satokaz"
+  },
+  {
     "title": "[正式版対応] 5分で導入できるBootstrap 4 超入門 〜タブの作り方〜",
     "url": "https://qiita.com/tonkotsuboy_com/items/15a914f073c8f9bb1344",
     "likes_count": 273,
     "created_at": "2016-04-07T16:57:44+09:00",
     "updated_at": "2019-08-27T11:06:39+09:00",
     "id": "tonkotsuboy_com"
-  },
-  {
-    "title": "Visual Studio Code を使う上で良くわかっていなかった(基本的な)用語とか",
-    "url": "https://qiita.com/satokaz/items/dd2f16fc953e7bdb6d2f",
-    "likes_count": 272,
-    "created_at": "2016-04-06T21:16:10+09:00",
-    "updated_at": "2017-03-28T10:15:37+09:00",
-    "id": "satokaz"
   },
   {
     "title": "mybatis-spring-boot-starterの使い方",

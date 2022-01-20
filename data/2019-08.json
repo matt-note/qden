@@ -2,7 +2,7 @@
   {
     "title": "なんとなく CORS がわかる...はもう終わりにする。",
     "url": "https://qiita.com/att55/items/2154a8aad8bf1409db2b",
-    "likes_count": 2180,
+    "likes_count": 2183,
     "created_at": "2019-08-15T01:24:06+09:00",
     "updated_at": "2021-10-19T20:33:46+09:00",
     "id": "att55"
@@ -10,7 +10,7 @@
   {
     "title": "2019年のDevOps/MLOpsエンジニアの標準的スキルセット",
     "url": "https://qiita.com/poly_soft/items/8dd105341869f93b129c",
-    "likes_count": 1517,
+    "likes_count": 1518,
     "created_at": "2019-08-21T16:57:57+09:00",
     "updated_at": "2019-08-27T14:43:19+09:00",
     "id": "poly_soft"
@@ -34,7 +34,7 @@
   {
     "title": "これで完璧！今さら振り返る CSRF 対策と同一オリジンポリシーの基礎",
     "url": "https://qiita.com/mpyw/items/0595f07736cfa5b1f50c",
-    "likes_count": 971,
+    "likes_count": 972,
     "created_at": "2019-08-31T02:45:11+09:00",
     "updated_at": "2019-09-02T04:09:06+09:00",
     "id": "mpyw"
@@ -106,7 +106,7 @@
   {
     "title": "Vimのターミナルの真の力お見せしますよ",
     "url": "https://qiita.com/gorilla0513/items/4d1c610f1283bbe46f81",
-    "likes_count": 627,
+    "likes_count": 628,
     "created_at": "2019-08-13T08:36:33+09:00",
     "updated_at": "2019-08-17T07:49:34+09:00",
     "id": "gorilla0513"
@@ -122,7 +122,7 @@
   {
     "title": "永久保存版！？伊藤さん式・Railsアプリのアップグレード手順",
     "url": "https://qiita.com/jnchito/items/0ee47108972a0e302caf",
-    "likes_count": 598,
+    "likes_count": 599,
     "created_at": "2019-08-19T07:17:30+09:00",
     "updated_at": "2021-04-05T09:18:46+09:00",
     "id": "jnchito"
@@ -152,20 +152,20 @@
     "id": "takuya_tsurumi"
   },
   {
+    "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
+    "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
+    "likes_count": 548,
+    "created_at": "2019-08-23T18:43:20+09:00",
+    "updated_at": "2021-07-07T23:06:23+09:00",
+    "id": "tegnike"
+  },
+  {
     "title": "誰でもできるオリジナルwebサービスを着実にリリースする手順と考え方",
     "url": "https://qiita.com/isotai/items/5a054bf766532c3ed375",
     "likes_count": 547,
     "created_at": "2019-08-20T12:08:48+09:00",
     "updated_at": "2019-08-20T12:08:48+09:00",
     "id": "isotai"
-  },
-  {
-    "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
-    "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
-    "likes_count": 547,
-    "created_at": "2019-08-23T18:43:20+09:00",
-    "updated_at": "2021-07-07T23:06:23+09:00",
-    "id": "tegnike"
   },
   {
     "title": "マイクロサービスが開発・運用コストの削減にどう貢献するか考えてみた件",
@@ -234,7 +234,7 @@
   {
     "title": "[CSS設計] 私のためのFLOCSSまとめ",
     "url": "https://qiita.com/super-mana-chan/items/644c6827be954c8db2c0",
-    "likes_count": 405,
+    "likes_count": 407,
     "created_at": "2019-08-06T19:06:03+09:00",
     "updated_at": "2020-09-24T12:37:24+09:00",
     "id": "super-mana-chan"
@@ -274,7 +274,7 @@
   {
     "title": "React HooksのuseCallbackを正しく理解する",
     "url": "https://qiita.com/uehaj/items/99f7cd014e2c0fa1fc4e",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2019-08-14T14:22:54+09:00",
     "updated_at": "2020-12-22T20:39:38+09:00",
     "id": "uehaj"

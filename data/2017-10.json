@@ -34,7 +34,7 @@
   {
     "title": "コンピュータ業界でよく出る英語",
     "url": "https://qiita.com/tfutada/items/d1b17cd4008876c17bf4",
-    "likes_count": 1499,
+    "likes_count": 1501,
     "created_at": "2017-10-23T08:57:52+09:00",
     "updated_at": "2020-03-04T20:16:51+09:00",
     "id": "tfutada"
@@ -74,7 +74,7 @@
   {
     "title": "Python クラスについて",
     "url": "https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c",
-    "likes_count": 708,
+    "likes_count": 709,
     "created_at": "2017-10-29T20:49:32+09:00",
     "updated_at": "2021-03-07T21:03:01+09:00",
     "id": "motoki1990"
@@ -114,7 +114,7 @@
   {
     "title": "Visual Studio Code キーボード ショートカット",
     "url": "https://qiita.com/oruponu/items/ae9c720d4522c1606daf",
-    "likes_count": 678,
+    "likes_count": 679,
     "created_at": "2017-10-13T20:40:20+09:00",
     "updated_at": "2021-12-01T02:00:03+09:00",
     "id": "oruponu"
@@ -146,10 +146,18 @@
   {
     "title": "AWS初心者がインフラ設計/構築を理解するために、まず最初におさえるべきキーワード15選",
     "url": "https://qiita.com/Futo_Horio/items/318d89eccdbf5697f8bf",
-    "likes_count": 596,
+    "likes_count": 597,
     "created_at": "2017-10-12T22:32:11+09:00",
     "updated_at": "2020-02-25T10:25:43+09:00",
     "id": "Futo_Horio"
+  },
+  {
+    "title": "GithubでのWeb上からのマージの仕方3種とその使いどころ",
+    "url": "https://qiita.com/ko-he-8/items/94e872f2154829c868df",
+    "likes_count": 561,
+    "created_at": "2017-10-11T13:22:58+09:00",
+    "updated_at": "2019-02-19T08:08:27+09:00",
+    "id": "ko-he-8"
   },
   {
     "title": "Swaggerの記法まとめ",
@@ -160,17 +168,9 @@
     "id": "rllllho"
   },
   {
-    "title": "GithubでのWeb上からのマージの仕方3種とその使いどころ",
-    "url": "https://qiita.com/ko-he-8/items/94e872f2154829c868df",
-    "likes_count": 560,
-    "created_at": "2017-10-11T13:22:58+09:00",
-    "updated_at": "2019-02-19T08:08:27+09:00",
-    "id": "ko-he-8"
-  },
-  {
     "title": "脱Word、脱Markdown、asciidocでドキュメント作成する際のアレコレ",
     "url": "https://qiita.com/tamikura@github/items/5d3f62dae55617ee42bb",
-    "likes_count": 513,
+    "likes_count": 514,
     "created_at": "2017-10-30T04:44:08+09:00",
     "updated_at": "2019-06-28T08:52:35+09:00",
     "id": "tamikura@github"
@@ -232,20 +232,20 @@
     "id": "wMETAw"
   },
   {
+    "title": "Karabiner-Elementsの設定項目をまとめました",
+    "url": "https://qiita.com/s-show/items/a1fd228b04801477729c",
+    "likes_count": 434,
+    "created_at": "2017-10-08T20:14:31+09:00",
+    "updated_at": "2021-10-29T21:21:16+09:00",
+    "id": "s-show"
+  },
+  {
     "title": "テスト自動化について、調べてみた",
     "url": "https://qiita.com/yutachaos/items/857472c7d3c65d3cf316",
     "likes_count": 434,
     "created_at": "2017-10-09T14:38:23+09:00",
     "updated_at": "2021-01-06T16:15:51+09:00",
     "id": "yutachaos"
-  },
-  {
-    "title": "Karabiner-Elementsの設定項目をまとめました",
-    "url": "https://qiita.com/s-show/items/a1fd228b04801477729c",
-    "likes_count": 433,
-    "created_at": "2017-10-08T20:14:31+09:00",
-    "updated_at": "2021-10-29T21:21:16+09:00",
-    "id": "s-show"
   },
   {
     "title": "Node.jsでウェブスクレイピングする色々な方法",
@@ -306,7 +306,7 @@
   {
     "title": "fzfを活用してTerminalの作業効率を高める",
     "url": "https://qiita.com/kamykn/items/aa9920f07487559c0c7e",
-    "likes_count": 356,
+    "likes_count": 357,
     "created_at": "2017-10-20T00:18:31+09:00",
     "updated_at": "2019-01-27T23:17:16+09:00",
     "id": "kamykn"
@@ -344,20 +344,20 @@
     "id": "kzm4269"
   },
   {
+    "title": "Swift の HTTP ライブラリで苦しまないための自作 API クライアント設計",
+    "url": "https://qiita.com/Kuniwak/items/a972ff2ade643799d1fe",
+    "likes_count": 340,
+    "created_at": "2017-10-23T00:51:59+09:00",
+    "updated_at": "2018-08-24T18:36:33+09:00",
+    "id": "Kuniwak"
+  },
+  {
     "title": "logging入門",
     "url": "https://qiita.com/knknkn1162/items/87b1153c212b27bd52b4",
     "likes_count": 339,
     "created_at": "2017-10-20T16:52:25+09:00",
     "updated_at": "2018-01-25T18:14:14+09:00",
     "id": "knknkn1162"
-  },
-  {
-    "title": "Swift の HTTP ライブラリで苦しまないための自作 API クライアント設計",
-    "url": "https://qiita.com/Kuniwak/items/a972ff2ade643799d1fe",
-    "likes_count": 339,
-    "created_at": "2017-10-23T00:51:59+09:00",
-    "updated_at": "2018-08-24T18:36:33+09:00",
-    "id": "Kuniwak"
   },
   {
     "title": "Dockerfileはなぜ複雑になるのか",
