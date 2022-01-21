@@ -42,7 +42,7 @@
   {
     "title": "同じチームにいて最高に心強かったエンジニアの特徴をまとめてみた",
     "url": "https://qiita.com/jofuku/items/6420097fd5ff4c44c24d",
-    "likes_count": 1868,
+    "likes_count": 1867,
     "created_at": "2019-12-22T09:59:17+09:00",
     "updated_at": "2020-01-19T15:59:20+09:00",
     "id": "jofuku"
@@ -50,7 +50,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1782,
+    "likes_count": 1783,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2021-08-02T17:06:13+09:00",
     "id": "hirokidaichi"
@@ -66,7 +66,7 @@
   {
     "title": "【決定版】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1540,
+    "likes_count": 1541,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-11-19T11:40:56+09:00",
     "id": "omiita"
@@ -290,7 +290,7 @@
   {
     "title": "フロントエンドの情報収集について",
     "url": "https://qiita.com/toshi-toma/items/cd3cfc40f1dcebfb88c9",
-    "likes_count": 580,
+    "likes_count": 581,
     "created_at": "2019-12-22T18:18:00+09:00",
     "updated_at": "2020-07-17T12:01:00+09:00",
     "id": "toshi-toma"
@@ -330,7 +330,7 @@
   {
     "title": "この TypeScript が Hello, world! のくせに慎重すぎる",
     "url": "https://qiita.com/matzkoh/items/90baab22ad489b78384b",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2019-12-03T08:39:41+09:00",
     "updated_at": "2020-06-05T18:34:23+09:00",
     "id": "matzkoh"
@@ -408,20 +408,20 @@
     "id": "MasanobuAkiba"
   },
   {
+    "title": "NestJSのススメ ～Expressを超えてゆけ～",
+    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
+    "likes_count": 426,
+    "created_at": "2019-12-22T15:46:56+09:00",
+    "updated_at": "2020-04-18T20:27:13+09:00",
+    "id": "elipmoc101"
+  },
+  {
     "title": "機械学習で使用する手法を全公開",
     "url": "https://qiita.com/Saku731/items/61b629fe608ede59a3f5",
     "likes_count": 426,
     "created_at": "2019-12-26T14:14:50+09:00",
     "updated_at": "2021-03-26T11:26:41+09:00",
     "id": "Saku731"
-  },
-  {
-    "title": "NestJSのススメ ～Expressを超えてゆけ～",
-    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 425,
-    "created_at": "2019-12-22T15:46:56+09:00",
-    "updated_at": "2020-04-18T20:27:13+09:00",
-    "id": "elipmoc101"
   },
   {
     "title": "Microsoft Azure のオススメの学習方法についてまとめてみる",
@@ -442,7 +442,7 @@
   {
     "title": "jsのimportとrequireの違い",
     "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2019-12-11T18:25:57+09:00",
     "updated_at": "2019-12-11T18:25:57+09:00",
     "id": "minato-naka"
@@ -544,20 +544,20 @@
     "id": "toshiyuki_tsutsui"
   },
   {
+    "title": "WSL2とHyper-Vの関係",
+    "url": "https://qiita.com/matarillo/items/ca1eecf8f9a3cd76f9ce",
+    "likes_count": 281,
+    "created_at": "2019-12-26T16:49:22+09:00",
+    "updated_at": "2021-09-02T09:13:01+09:00",
+    "id": "matarillo"
+  },
+  {
     "title": "【完全版】Jupyter Notebook ショートカット",
     "url": "https://qiita.com/zawawahoge/items/baa2a5318df079c5f7e5",
     "likes_count": 279,
     "created_at": "2019-12-09T00:39:30+09:00",
     "updated_at": "2021-01-13T02:33:23+09:00",
     "id": "zawawahoge"
-  },
-  {
-    "title": "WSL2とHyper-Vの関係",
-    "url": "https://qiita.com/matarillo/items/ca1eecf8f9a3cd76f9ce",
-    "likes_count": 279,
-    "created_at": "2019-12-26T16:49:22+09:00",
-    "updated_at": "2021-09-02T09:13:01+09:00",
-    "id": "matarillo"
   },
   {
     "title": "プログラミング初心者がKaggle Expertになるまでの１０ヵ月間を振り返る",

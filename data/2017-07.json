@@ -2,7 +2,7 @@
   {
     "title": "一番分かりやすい OAuth の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be",
-    "likes_count": 7417,
+    "likes_count": 7418,
     "created_at": "2017-07-14T06:21:33+09:00",
     "updated_at": "2021-11-24T22:47:41+09:00",
     "id": "TakahikoKawasaki"
@@ -18,7 +18,7 @@
   {
     "title": "一番分かりやすい OpenID Connect の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe",
-    "likes_count": 2154,
+    "likes_count": 2155,
     "created_at": "2017-07-24T04:19:55+09:00",
     "updated_at": "2020-03-20T15:05:48+09:00",
     "id": "TakahikoKawasaki"
@@ -42,7 +42,7 @@
   {
     "title": "JavaScript の this を理解する多分一番分かりやすい説明",
     "url": "https://qiita.com/takkyun/items/c6e2f2cf25327299cf03",
-    "likes_count": 1333,
+    "likes_count": 1335,
     "created_at": "2017-07-30T06:55:45+09:00",
     "updated_at": "2018-10-15T04:31:34+09:00",
     "id": "takkyun"
@@ -162,7 +162,7 @@
   {
     "title": "【gitコマンド】いまさらのrevert",
     "url": "https://qiita.com/chihiro/items/2fa827d0eac98109e7ee",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2017-07-13T08:45:54+09:00",
     "updated_at": "2019-04-30T10:49:39+09:00",
     "id": "chihiro"
@@ -210,7 +210,7 @@
   {
     "title": "Python3.4以降ならos.pathはさっさと捨ててpathlibを使うべき",
     "url": "https://qiita.com/tag1216/items/29bf3b9c3c4b563ff0fe",
-    "likes_count": 462,
+    "likes_count": 463,
     "created_at": "2017-07-24T07:14:37+09:00",
     "updated_at": "2018-01-21T10:22:14+09:00",
     "id": "tag1216"
@@ -312,14 +312,6 @@
     "id": "kamukiriri"
   },
   {
-    "title": "不均衡データに対するClassification",
-    "url": "https://qiita.com/ryouta0506/items/619d9ac0d80f8c0aed92",
-    "likes_count": 340,
-    "created_at": "2017-07-12T22:59:53+09:00",
-    "updated_at": "2018-10-17T08:36:14+09:00",
-    "id": "ryouta0506"
-  },
-  {
     "title": "小規模チームのタスクをTrelloで管理する",
     "url": "https://qiita.com/maimax/items/e81e7fa19b775fd817c0",
     "likes_count": 340,
@@ -328,9 +320,17 @@
     "id": "maimax"
   },
   {
+    "title": "不均衡データに対するClassification",
+    "url": "https://qiita.com/ryouta0506/items/619d9ac0d80f8c0aed92",
+    "likes_count": 339,
+    "created_at": "2017-07-12T22:59:53+09:00",
+    "updated_at": "2018-10-17T08:36:14+09:00",
+    "id": "ryouta0506"
+  },
+  {
     "title": "Bash の if 文（test文）のオプションを整理してみた",
     "url": "https://qiita.com/wakayama-y/items/a9b7380263da77e51711",
-    "likes_count": 332,
+    "likes_count": 334,
     "created_at": "2017-07-12T18:50:28+09:00",
     "updated_at": "2017-07-13T20:29:22+09:00",
     "id": "wakayama-y"
@@ -386,7 +386,7 @@
   {
     "title": "自分用 Git For Windowsのインストール手順",
     "url": "https://qiita.com/toshibe/items/dcf3dd48fdc74c91b409",
-    "likes_count": 276,
+    "likes_count": 275,
     "created_at": "2017-07-27T17:15:13+09:00",
     "updated_at": "2017-10-13T15:35:09+09:00",
     "id": "toshibe"
