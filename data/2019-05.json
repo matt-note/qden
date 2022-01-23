@@ -226,7 +226,7 @@
   {
     "title": "LaTeXにおける正しい論文の書き方",
     "url": "https://qiita.com/birdwatcher/items/5ec42b35d84d3ee2ffbb",
-    "likes_count": 713,
+    "likes_count": 714,
     "created_at": "2019-05-03T02:23:43+09:00",
     "updated_at": "2020-02-10T19:30:28+09:00",
     "id": "birdwatcher"
@@ -258,7 +258,7 @@
   {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 670,
+    "likes_count": 671,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2020-05-08T20:20:06+09:00",
     "id": "simonritchie"
@@ -290,7 +290,7 @@
   {
     "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
     "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
-    "likes_count": 527,
+    "likes_count": 528,
     "created_at": "2019-05-23T08:28:34+09:00",
     "updated_at": "2021-07-26T23:35:59+09:00",
     "id": "drken"
@@ -386,7 +386,7 @@
   {
     "title": "競技プログラミング入門者の成長のためのメモ",
     "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2019-05-14T05:46:53+09:00",
     "updated_at": "2021-11-07T13:27:23+09:00",
     "id": "masakinihirota"
@@ -482,7 +482,7 @@
   {
     "title": "Python で大量のファイルを並列で速く読み込む",
     "url": "https://qiita.com/hoto17296/items/586dc01aee69cd4915cc",
-    "likes_count": 319,
+    "likes_count": 318,
     "created_at": "2019-05-31T11:52:40+09:00",
     "updated_at": "2019-06-03T06:30:01+09:00",
     "id": "hoto17296"
@@ -522,10 +522,18 @@
   {
     "title": "アニメーションで学ぶtmux入門 ～精選10機能～",
     "url": "https://qiita.com/KoyanagiHitoshi/items/318d4b8ef3b4e5b87390",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2019-05-23T08:00:12+09:00",
     "updated_at": "2021-03-06T19:00:26+09:00",
     "id": "KoyanagiHitoshi"
+  },
+  {
+    "title": "Laravel で Service 層を取り入れるときに検討したいこと",
+    "url": "https://qiita.com/nunulk/items/6b7a7bbda17192f6b2f5",
+    "likes_count": 301,
+    "created_at": "2019-05-26T20:48:26+09:00",
+    "updated_at": "2019-05-26T22:28:50+09:00",
+    "id": "nunulk"
   },
   {
     "title": "Vue.jsでファイルアップロードの実装--ついでにプレビュー機能も実装した話--",
@@ -534,14 +542,6 @@
     "created_at": "2019-05-11T13:16:52+09:00",
     "updated_at": "2019-05-11T13:32:22+09:00",
     "id": "hikach"
-  },
-  {
-    "title": "Laravel で Service 層を取り入れるときに検討したいこと",
-    "url": "https://qiita.com/nunulk/items/6b7a7bbda17192f6b2f5",
-    "likes_count": 300,
-    "created_at": "2019-05-26T20:48:26+09:00",
-    "updated_at": "2019-05-26T22:28:50+09:00",
-    "id": "nunulk"
   },
   {
     "title": "【VSCode Remote】10秒でNuxt環境を構築【脱WebStorm】",
