@@ -2,7 +2,7 @@
   {
     "title": "ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ",
     "url": "https://qiita.com/gogotanaka/items/b65e1b081fa976e5d754",
-    "likes_count": 3677,
+    "likes_count": 3676,
     "created_at": "2015-01-14T10:47:59+09:00",
     "updated_at": "2015-03-26T10:43:28+09:00",
     "id": "gogotanaka"
@@ -18,7 +18,7 @@
   {
     "title": "IPアドレスの基礎知識",
     "url": "https://qiita.com/mogulla3/items/efb4c9328d82d24d98e6",
-    "likes_count": 1955,
+    "likes_count": 1956,
     "created_at": "2015-01-01T22:16:34+09:00",
     "updated_at": "2016-03-07T21:44:03+09:00",
     "id": "mogulla3"
@@ -66,7 +66,7 @@
   {
     "title": "使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」",
     "url": "https://qiita.com/jnchito/items/607f956263c38a5fec24",
-    "likes_count": 1636,
+    "likes_count": 1637,
     "created_at": "2015-01-02T08:21:53+09:00",
     "updated_at": "2021-09-01T16:29:19+09:00",
     "id": "jnchito"
@@ -120,20 +120,20 @@
     "id": "white_aspara25"
   },
   {
+    "title": "DB論理設計のノウハウ",
+    "url": "https://qiita.com/kiyodori/items/5083ad8bbfc232d01827",
+    "likes_count": 1242,
+    "created_at": "2015-01-10T10:03:36+09:00",
+    "updated_at": "2018-11-22T18:49:41+09:00",
+    "id": "kiyodori"
+  },
+  {
     "title": "Slack経由で家の外からエアコンをon, offできる装置を、Raspberry Piで作ってみた。（しかも御坂美琴ちゃんが応答してくれる）",
     "url": "https://qiita.com/KAKY/items/55e6c54fa2073cdc0bbe",
     "likes_count": 1242,
     "created_at": "2015-01-12T01:44:57+09:00",
     "updated_at": "2019-01-31T22:30:11+09:00",
     "id": "KAKY"
-  },
-  {
-    "title": "DB論理設計のノウハウ",
-    "url": "https://qiita.com/kiyodori/items/5083ad8bbfc232d01827",
-    "likes_count": 1241,
-    "created_at": "2015-01-10T10:03:36+09:00",
-    "updated_at": "2018-11-22T18:49:41+09:00",
-    "id": "kiyodori"
   },
   {
     "title": "リーダブルコードを読んだので、殴り書き",
@@ -378,7 +378,7 @@
   {
     "title": "CSSフレームワークBourbon/Neat/Bitters/Refillsは美しい",
     "url": "https://qiita.com/zerobase/items/e763dc96b7b398bf8005",
-    "likes_count": 430,
+    "likes_count": 429,
     "created_at": "2015-01-12T23:26:53+09:00",
     "updated_at": "2015-02-22T01:16:44+09:00",
     "id": "zerobase"
@@ -456,20 +456,20 @@
     "id": "disc99"
   },
   {
-    "title": "共通化でモチベーションと効率が低下した話",
-    "url": "https://qiita.com/itkr/items/7189107a96fe2dcff55e",
-    "likes_count": 368,
-    "created_at": "2015-01-20T12:31:13+09:00",
-    "updated_at": "2015-01-20T16:57:34+09:00",
-    "id": "itkr"
-  },
-  {
     "title": "アニメーション最強のVelocity.jsの使い方",
     "url": "https://qiita.com/kyota/items/754e0e6cb7a144eda850",
     "likes_count": 367,
     "created_at": "2015-01-05T13:59:12+09:00",
     "updated_at": "2016-09-06T12:41:23+09:00",
     "id": "kyota"
+  },
+  {
+    "title": "共通化でモチベーションと効率が低下した話",
+    "url": "https://qiita.com/itkr/items/7189107a96fe2dcff55e",
+    "likes_count": 367,
+    "created_at": "2015-01-20T12:31:13+09:00",
+    "updated_at": "2015-01-20T16:57:34+09:00",
+    "id": "itkr"
   },
   {
     "title": "CoreDataはもう古い？新しいモバイルデバイス向けデータベース「Realm」を使ってみた (Swift/Objective-C)",
