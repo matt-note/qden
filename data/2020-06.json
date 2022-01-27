@@ -10,7 +10,7 @@
   {
     "title": "【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る",
     "url": "https://qiita.com/tomo_makes/items/aafae4021986553ae1d8",
-    "likes_count": 2232,
+    "likes_count": 2233,
     "created_at": "2020-06-28T19:25:44+09:00",
     "updated_at": "2020-07-12T16:23:06+09:00",
     "id": "tomo_makes"
@@ -26,7 +26,7 @@
   {
     "title": "Dockerイメージの理解を目指すチュートリアル",
     "url": "https://qiita.com/zembutsu/items/24558f9d0d254e33088f",
-    "likes_count": 1760,
+    "likes_count": 1761,
     "created_at": "2020-06-13T17:30:02+09:00",
     "updated_at": "2021-11-21T15:34:56+09:00",
     "id": "zembutsu"
@@ -34,7 +34,7 @@
   {
     "title": "「ビジネスロジック」とは何か、どう実装するのか",
     "url": "https://qiita.com/os1ma/items/25725edfe3c2af93d735",
-    "likes_count": 1565,
+    "likes_count": 1566,
     "created_at": "2020-06-27T18:48:53+09:00",
     "updated_at": "2021-05-23T10:52:57+09:00",
     "id": "os1ma"
@@ -114,7 +114,7 @@
   {
     "title": "【※絶対に自動化してはいけない】自動化禁止サイトまとめ！",
     "url": "https://qiita.com/n_oshiumi/items/b4efd1f40ec0a1b77376",
-    "likes_count": 758,
+    "likes_count": 757,
     "created_at": "2020-06-24T19:14:45+09:00",
     "updated_at": "2020-06-25T11:04:37+09:00",
     "id": "n_oshiumi"
@@ -122,7 +122,7 @@
   {
     "title": "待ってました CUDA on WSL 2",
     "url": "https://qiita.com/ksasaki/items/ee864abd74f95fea1efa",
-    "likes_count": 680,
+    "likes_count": 681,
     "created_at": "2020-06-19T00:04:23+09:00",
     "updated_at": "2021-10-12T13:16:51+09:00",
     "id": "ksasaki"
@@ -138,7 +138,7 @@
   {
     "title": "AtCoder緑になるまでに勉強した基本的なアルゴリズムやデータ構造まとめ",
     "url": "https://qiita.com/Takayoshi_Makabe/items/65f20edbd970070419f4",
-    "likes_count": 661,
+    "likes_count": 660,
     "created_at": "2020-06-18T14:52:09+09:00",
     "updated_at": "2021-09-27T01:00:43+09:00",
     "id": "Takayoshi_Makabe"
@@ -154,7 +154,7 @@
   {
     "title": "【自動化】PDF内の表をPythonで抜き出す",
     "url": "https://qiita.com/konitech913/items/4ef70e1f7753c824b40f",
-    "likes_count": 634,
+    "likes_count": 635,
     "created_at": "2020-06-28T10:47:22+09:00",
     "updated_at": "2021-08-08T06:53:06+09:00",
     "id": "konitech913"
@@ -194,7 +194,7 @@
   {
     "title": "Gitを触り始めてからGitHubにpushするまでの流れを誰よりも丁寧に説明する",
     "url": "https://qiita.com/gakisan8273/items/6ebaf9217d140ff1f031",
-    "likes_count": 539,
+    "likes_count": 540,
     "created_at": "2020-06-29T07:37:17+09:00",
     "updated_at": "2020-12-08T15:38:51+09:00",
     "id": "gakisan8273"
@@ -250,7 +250,7 @@
   {
     "title": "Pythonによる因果推論と因果探索（初心者の方向け）",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/2cffb239b44853b07f70",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2020-06-22T12:36:40+09:00",
     "updated_at": "2020-06-22T12:40:00+09:00",
     "id": "sugulu_Ogawa_ISID"
@@ -262,6 +262,14 @@
     "created_at": "2020-06-20T16:46:42+09:00",
     "updated_at": "2020-06-24T13:45:34+09:00",
     "id": "reki2000"
+  },
+  {
+    "title": "React Testing Libraryの使い方",
+    "url": "https://qiita.com/ossan-engineer/items/4757d7457fafd44d2d2f",
+    "likes_count": 411,
+    "created_at": "2020-06-14T21:19:07+09:00",
+    "updated_at": "2021-09-12T17:15:45+09:00",
+    "id": "ossan-engineer"
   },
   {
     "title": "だから僕はpandasを辞めた【データサイエンス100本ノック（構造化データ加工編）篇 #1】",
@@ -278,14 +286,6 @@
     "created_at": "2020-06-05T22:27:35+09:00",
     "updated_at": "2022-01-17T19:19:10+09:00",
     "id": "c60evaporator"
-  },
-  {
-    "title": "React Testing Libraryの使い方",
-    "url": "https://qiita.com/ossan-engineer/items/4757d7457fafd44d2d2f",
-    "likes_count": 408,
-    "created_at": "2020-06-14T21:19:07+09:00",
-    "updated_at": "2021-09-12T17:15:45+09:00",
-    "id": "ossan-engineer"
   },
   {
     "title": "爆速python-fire",
@@ -358,6 +358,14 @@
     "created_at": "2020-06-23T08:33:53+09:00",
     "updated_at": "2020-06-27T21:08:04+09:00",
     "id": "k_kind"
+  },
+  {
+    "title": "USBカメラモーションキャプチャーThreeDPoseTrackerの説明 ",
+    "url": "https://qiita.com/yukihiko_a/items/43d09db5628334789fab",
+    "likes_count": 313,
+    "created_at": "2020-06-17T10:46:14+09:00",
+    "updated_at": "2021-08-30T13:33:56+09:00",
+    "id": "yukihiko_a"
   },
   {
     "title": "Raspberry Pi4 単体で TensorFlow Lite はどれくらいの速度で動く？",
