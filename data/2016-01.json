@@ -2,7 +2,7 @@
   {
     "title": "不思議の国のSE用語",
     "url": "https://qiita.com/t_nakayama0714/items/478a8ed3a9ae143ad854",
-    "likes_count": 4377,
+    "likes_count": 4376,
     "created_at": "2016-01-08T02:47:09+09:00",
     "updated_at": "2021-05-28T22:29:18+09:00",
     "id": "t_nakayama0714"
@@ -18,7 +18,7 @@
   {
     "title": "(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/f795fe3e661a3349a7ce",
-    "likes_count": 3369,
+    "likes_count": 3368,
     "created_at": "2016-01-08T14:56:09+09:00",
     "updated_at": "2021-10-08T20:24:15+09:00",
     "id": "naoki_mochizuki"
@@ -58,7 +58,7 @@
   {
     "title": "LSTMネットワークの概要",
     "url": "https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca",
-    "likes_count": 1455,
+    "likes_count": 1456,
     "created_at": "2016-01-08T18:22:20+09:00",
     "updated_at": "2017-12-11T08:57:51+09:00",
     "id": "KojiOhki"
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
     "url": "https://qiita.com/wadahiro/items/eb50ac6bbe2e18cf8813",
-    "likes_count": 687,
+    "likes_count": 686,
     "created_at": "2016-01-27T02:08:49+09:00",
     "updated_at": "2018-06-18T12:00:54+09:00",
     "id": "wadahiro"
@@ -282,7 +282,7 @@
   {
     "title": "【チュートリアル】機械学習を使って30分で固有表現抽出器を作る",
     "url": "https://qiita.com/Hironsan/items/326b66711eb4196aa9d4",
-    "likes_count": 570,
+    "likes_count": 569,
     "created_at": "2016-01-29T10:52:07+09:00",
     "updated_at": "2017-05-03T11:28:35+09:00",
     "id": "Hironsan"
@@ -338,7 +338,7 @@
   {
     "title": "bundle install と bundle updateの違いについて",
     "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
-    "likes_count": 505,
+    "likes_count": 504,
     "created_at": "2016-01-22T00:25:15+09:00",
     "updated_at": "2016-01-22T00:26:14+09:00",
     "id": "lasershow"
@@ -362,7 +362,7 @@
   {
     "title": "TypeScript超入門(2)：構文を理解する",
     "url": "https://qiita.com/ringtail003/items/7ccf992f18b768e0e633",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2016-01-09T16:56:38+09:00",
     "updated_at": "2018-10-17T21:23:09+09:00",
     "id": "ringtail003"
@@ -386,7 +386,7 @@
   {
     "title": "SlackのWebhook URL取得手順",
     "url": "https://qiita.com/vmmhypervisor/items/18c99624a84df8b31008",
-    "likes_count": 460,
+    "likes_count": 462,
     "created_at": "2016-01-05T01:20:14+09:00",
     "updated_at": "2017-01-28T09:02:56+09:00",
     "id": "vmmhypervisor"
@@ -464,20 +464,20 @@
     "id": "horo"
   },
   {
-    "title": "自然言語処理用語と解析器まとめ",
-    "url": "https://qiita.com/yura/items/6c1481ca652d3d131e47",
-    "likes_count": 380,
-    "created_at": "2016-01-11T21:35:44+09:00",
-    "updated_at": "2016-01-11T21:35:44+09:00",
-    "id": "yura"
-  },
-  {
     "title": "[ようやく見つけたかもしれない]WordpressサイトをGit管理する方法[メモ]",
     "url": "https://qiita.com/goosys/items/5c66cb912986afcd86f3",
     "likes_count": 380,
     "created_at": "2016-01-18T14:03:22+09:00",
     "updated_at": "2016-08-19T15:36:10+09:00",
     "id": "goosys"
+  },
+  {
+    "title": "自然言語処理用語と解析器まとめ",
+    "url": "https://qiita.com/yura/items/6c1481ca652d3d131e47",
+    "likes_count": 379,
+    "created_at": "2016-01-11T21:35:44+09:00",
+    "updated_at": "2016-01-11T21:35:44+09:00",
+    "id": "yura"
   },
   {
     "title": "PHPUnitの使い方まとめ2016",
@@ -656,14 +656,6 @@
     "id": "supersaiakujin"
   },
   {
-    "title": "UIWebViewを使わない理由とWKWebViewを使う理由",
-    "url": "https://qiita.com/ShingoFukuyama/items/01a9cdf24090931b4ef3",
-    "likes_count": 292,
-    "created_at": "2016-01-29T00:04:56+09:00",
-    "updated_at": "2018-06-06T09:20:21+09:00",
-    "id": "ShingoFukuyama"
-  },
-  {
     "title": "Express + Node.jsで基本を理解した次の一歩 - ディレクトリ構成をルーティング・ミドルウェアを理解して考えてみる",
     "url": "https://qiita.com/nkjm/items/2016e331f74f1b8ab465",
     "likes_count": 291,
@@ -678,6 +670,14 @@
     "created_at": "2016-01-26T11:40:07+09:00",
     "updated_at": "2019-03-24T20:54:00+09:00",
     "id": "tempura"
+  },
+  {
+    "title": "UIWebViewを使わない理由とWKWebViewを使う理由",
+    "url": "https://qiita.com/ShingoFukuyama/items/01a9cdf24090931b4ef3",
+    "likes_count": 291,
+    "created_at": "2016-01-29T00:04:56+09:00",
+    "updated_at": "2018-06-06T09:20:21+09:00",
+    "id": "ShingoFukuyama"
   },
   {
     "title": "Ansible ( 俺の中で ) 最強の Best Practices",
