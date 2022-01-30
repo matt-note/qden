@@ -10,7 +10,7 @@
   {
     "title": "You Don't Need jQuery",
     "url": "https://qiita.com/tatesuke/items/b9548dd484b01b139b74",
-    "likes_count": 2384,
+    "likes_count": 2383,
     "created_at": "2016-04-12T16:46:34+09:00",
     "updated_at": "2019-06-14T00:40:43+09:00",
     "id": "tatesuke"
@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2111,
+    "likes_count": 2115,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -42,7 +42,7 @@
   {
     "title": "知識0から始めるVim講座",
     "url": "https://qiita.com/JpnLavender/items/fabcc79b4ab0d52e1f6d",
-    "likes_count": 1794,
+    "likes_count": 1795,
     "created_at": "2016-04-20T13:39:15+09:00",
     "updated_at": "2016-07-18T12:55:03+09:00",
     "id": "JpnLavender"
@@ -114,7 +114,7 @@
   {
     "title": "【意訳】Webpackの混乱ポイント",
     "url": "https://qiita.com/chuck0523/items/caacbf4137642cb175ec",
-    "likes_count": 1081,
+    "likes_count": 1082,
     "created_at": "2016-04-14T05:29:43+09:00",
     "updated_at": "2016-10-30T16:05:06+09:00",
     "id": "chuck0523"
@@ -122,7 +122,7 @@
   {
     "title": "強い意志で定時に帰る",
     "url": "https://qiita.com/furu8ma/items/f909b8820c9d6d21897a",
-    "likes_count": 995,
+    "likes_count": 994,
     "created_at": "2016-04-05T17:40:25+09:00",
     "updated_at": "2016-04-08T09:32:49+09:00",
     "id": "furu8ma"
@@ -130,7 +130,7 @@
   {
     "title": "Excelファイルを C# と VB.NET で読み込む \"正しい\" 方法",
     "url": "https://qiita.com/midori44/items/acab9106e6dad9653e73",
-    "likes_count": 910,
+    "likes_count": 911,
     "created_at": "2016-04-11T08:46:25+09:00",
     "updated_at": "2021-09-28T00:34:52+09:00",
     "id": "midori44"
@@ -208,20 +208,20 @@
     "id": "masahikoofjoyto"
   },
   {
-    "title": "カフェでトイレに行ってるときに、Macが盗まれそうになるとGet Wildが流れるようにする",
-    "url": "https://qiita.com/sion_cojp/items/276d0135216b88e5314b",
-    "likes_count": 672,
-    "created_at": "2016-04-04T00:07:28+09:00",
-    "updated_at": "2016-04-05T17:57:20+09:00",
-    "id": "sion_cojp"
-  },
-  {
     "title": "中級以上のAndroid開発者がAndroidらしい開発のために見たほうが良いURL一覧",
     "url": "https://qiita.com/yuya_presto/items/ab2162078e5d5076c718",
     "likes_count": 672,
     "created_at": "2016-04-28T17:36:36+09:00",
     "updated_at": "2016-05-13T12:43:26+09:00",
     "id": "yuya_presto"
+  },
+  {
+    "title": "カフェでトイレに行ってるときに、Macが盗まれそうになるとGet Wildが流れるようにする",
+    "url": "https://qiita.com/sion_cojp/items/276d0135216b88e5314b",
+    "likes_count": 671,
+    "created_at": "2016-04-04T00:07:28+09:00",
+    "updated_at": "2016-04-05T17:57:20+09:00",
+    "id": "sion_cojp"
   },
   {
     "title": "Visual Studio Code チートシート",
@@ -322,7 +322,7 @@
   {
     "title": "jQueryで楽になる部分、楽にならない部分、顧客が本当に必要だったもの",
     "url": "https://qiita.com/mizchi/items/2a7623bda048275b64a8",
-    "likes_count": 472,
+    "likes_count": 471,
     "created_at": "2016-04-19T15:09:58+09:00",
     "updated_at": "2016-04-19T15:17:23+09:00",
     "id": "mizchi"
@@ -456,20 +456,20 @@
     "id": "jabba"
   },
   {
+    "title": "LINE Bot を AWSを使ってシステム構築してみた。",
+    "url": "https://qiita.com/hiyuzawa/items/10e7bf2f6ad5d1c7fc9c",
+    "likes_count": 377,
+    "created_at": "2016-04-17T17:19:05+09:00",
+    "updated_at": "2021-05-19T23:14:49+09:00",
+    "id": "hiyuzawa"
+  },
+  {
     "title": "XGBoostの主な特徴と理論の概要",
     "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
     "likes_count": 376,
     "created_at": "2016-04-02T21:19:46+09:00",
     "updated_at": "2016-04-02T22:05:31+09:00",
     "id": "yh0sh"
-  },
-  {
-    "title": "LINE Bot を AWSを使ってシステム構築してみた。",
-    "url": "https://qiita.com/hiyuzawa/items/10e7bf2f6ad5d1c7fc9c",
-    "likes_count": 376,
-    "created_at": "2016-04-17T17:19:05+09:00",
-    "updated_at": "2021-05-19T23:14:49+09:00",
-    "id": "hiyuzawa"
   },
   {
     "title": "Heroku初心者がHello, Herokuをしてみる",
