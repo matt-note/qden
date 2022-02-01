@@ -2,7 +2,7 @@
   {
     "title": "ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト",
     "url": "https://qiita.com/kazukichi/items/7379b75fba2f90d3cf45",
-    "likes_count": 3867,
+    "likes_count": 3868,
     "created_at": "2015-06-03T20:05:15+09:00",
     "updated_at": "2021-03-27T18:32:17+09:00",
     "id": "kazukichi"
@@ -10,7 +10,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3323,
+    "likes_count": 3324,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2018-10-01T16:44:21+09:00",
     "id": "ryounagaoka"
@@ -26,7 +26,7 @@
   {
     "title": "どこよりも分かりやすいSwiftの\"?\"と\"!\"",
     "url": "https://qiita.com/maiki055/items/b24378a3707bd35a31a8",
-    "likes_count": 1968,
+    "likes_count": 1969,
     "created_at": "2015-06-22T20:32:43+09:00",
     "updated_at": "2016-01-08T13:37:58+09:00",
     "id": "maiki055"
@@ -66,7 +66,7 @@
   {
     "title": "実例で学ぶ、JOIN (NLJ) が遅くなる理屈と対処法",
     "url": "https://qiita.com/yuku_t/items/208be188eef17699c7a5",
-    "likes_count": 1313,
+    "likes_count": 1315,
     "created_at": "2015-06-22T11:50:58+09:00",
     "updated_at": "2015-07-13T09:58:53+09:00",
     "id": "yuku_t"
@@ -120,20 +120,20 @@
     "id": "keigodasu"
   },
   {
+    "title": "~/.ssh/configについて",
+    "url": "https://qiita.com/passol78/items/2ad123e39efeb1a5286b",
+    "likes_count": 823,
+    "created_at": "2015-06-30T18:12:48+09:00",
+    "updated_at": "2018-06-25T23:21:19+09:00",
+    "id": "passol78"
+  },
+  {
     "title": "Swift・iOSアプリ開発情報の集め方",
     "url": "https://qiita.com/mono0926/items/78c5409178a9e3be0fcc",
     "likes_count": 822,
     "created_at": "2015-06-24T11:39:06+09:00",
     "updated_at": "2016-12-20T20:45:07+09:00",
     "id": "mono0926"
-  },
-  {
-    "title": "~/.ssh/configについて",
-    "url": "https://qiita.com/passol78/items/2ad123e39efeb1a5286b",
-    "likes_count": 822,
-    "created_at": "2015-06-30T18:12:48+09:00",
-    "updated_at": "2018-06-25T23:21:19+09:00",
-    "id": "passol78"
   },
   {
     "title": "RxJavaに3日で入門し、Androidアプリのリスト操作、非同期処理、変更通知の課題を解決した話",
@@ -146,7 +146,7 @@
   {
     "title": "なぜ iPhone の画像は Android の画像よりもずっと高品質なのか",
     "url": "https://qiita.com/KeithYokoma/items/c7f32a77402410545edb",
-    "likes_count": 788,
+    "likes_count": 787,
     "created_at": "2015-06-30T14:55:07+09:00",
     "updated_at": "2015-06-30T14:55:07+09:00",
     "id": "KeithYokoma"
@@ -194,7 +194,7 @@
   {
     "title": "JavaScript つい忘れてしまう配列のソート方法",
     "url": "https://qiita.com/PianoScoreJP/items/f0ff7345229871039672",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2015-06-15T11:12:46+09:00",
     "updated_at": "2015-06-15T15:01:10+09:00",
     "id": "PianoScoreJP"
@@ -272,20 +272,20 @@
     "id": "uzresk"
   },
   {
-    "title": "JavaScript初心者脱却への道のりを考える",
-    "url": "https://qiita.com/stkdev/items/cfe4678ac437cb2fdc9f",
-    "likes_count": 481,
-    "created_at": "2015-06-26T03:39:19+09:00",
-    "updated_at": "2016-01-11T02:14:44+09:00",
-    "id": "stkdev"
-  },
-  {
     "title": "Swift 2.0 の try, catch ファーストインプレッション",
     "url": "https://qiita.com/koher/items/0c60b13ff0fe93220210",
     "likes_count": 480,
     "created_at": "2015-06-09T23:12:21+09:00",
     "updated_at": "2015-12-08T10:08:35+09:00",
     "id": "koher"
+  },
+  {
+    "title": "JavaScript初心者脱却への道のりを考える",
+    "url": "https://qiita.com/stkdev/items/cfe4678ac437cb2fdc9f",
+    "likes_count": 480,
+    "created_at": "2015-06-26T03:39:19+09:00",
+    "updated_at": "2016-01-11T02:14:44+09:00",
+    "id": "stkdev"
   },
   {
     "title": "iOSアプリの国際化対応の勘所とTips集(Swift版)",
@@ -506,7 +506,7 @@
   {
     "title": "macでgit使いになるために抑えておきたいコマンド（基礎編）",
     "url": "https://qiita.com/Yama-to/items/25b87e7089bc4803a538",
-    "likes_count": 313,
+    "likes_count": 312,
     "created_at": "2015-06-25T22:14:12+09:00",
     "updated_at": "2015-06-25T22:18:35+09:00",
     "id": "Yama-to"

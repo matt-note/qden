@@ -10,7 +10,7 @@
   {
     "title": "見たいエンジニアの職務経歴書の書き方",
     "url": "https://qiita.com/newta/items/77eb14b1d67bc7ef1980",
-    "likes_count": 2245,
+    "likes_count": 2244,
     "created_at": "2019-06-11T09:52:46+09:00",
     "updated_at": "2021-12-15T10:11:01+09:00",
     "id": "newta"
@@ -34,7 +34,7 @@
   {
     "title": "「あなたを再びプログラミングに駆り立てる映画10選」を和訳した",
     "url": "https://qiita.com/ohara5555/items/881ac3d076c1719ed91c",
-    "likes_count": 1561,
+    "likes_count": 1560,
     "created_at": "2019-06-21T11:43:01+09:00",
     "updated_at": "2019-06-28T16:22:28+09:00",
     "id": "ohara5555"
@@ -42,7 +42,7 @@
   {
     "title": "DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】",
     "url": "https://qiita.com/drken/items/4a7869c5e304883f539b",
-    "likes_count": 1463,
+    "likes_count": 1464,
     "created_at": "2019-06-18T05:39:48+09:00",
     "updated_at": "2021-11-18T16:57:00+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】NPMとpackage.jsonを概念的に理解する",
     "url": "https://qiita.com/righteous/items/e5448cb2e7e11ab7d477",
-    "likes_count": 1385,
+    "likes_count": 1388,
     "created_at": "2019-06-25T02:06:43+09:00",
     "updated_at": "2020-03-11T19:05:53+09:00",
     "id": "righteous"
@@ -74,18 +74,10 @@
   {
     "title": "Flutter入門のためのDart入門",
     "url": "https://qiita.com/teradonburi/items/913fb8c311b9f2bdb1dd",
-    "likes_count": 1230,
+    "likes_count": 1233,
     "created_at": "2019-06-23T20:50:04+09:00",
     "updated_at": "2020-09-09T07:34:03+09:00",
     "id": "teradonburi"
-  },
-  {
-    "title": "ブラウザ君「ワイはCSSのセレクタを右から読むんや」",
-    "url": "https://qiita.com/Yametaro/items/5c2d0267156ecc8562e4",
-    "likes_count": 1095,
-    "created_at": "2019-06-05T03:51:29+09:00",
-    "updated_at": "2020-01-25T22:12:57+09:00",
-    "id": "Yametaro"
   },
   {
     "title": "slackで「投稿ルールが守られない問題」を自作のスラッシュコマンドで解決する(設定編)",
@@ -94,6 +86,14 @@
     "created_at": "2019-06-15T22:49:50+09:00",
     "updated_at": "2019-06-27T10:52:37+09:00",
     "id": "marogoma"
+  },
+  {
+    "title": "ブラウザ君「ワイはCSSのセレクタを右から読むんや」",
+    "url": "https://qiita.com/Yametaro/items/5c2d0267156ecc8562e4",
+    "likes_count": 1094,
+    "created_at": "2019-06-05T03:51:29+09:00",
+    "updated_at": "2020-01-25T22:12:57+09:00",
+    "id": "Yametaro"
   },
   {
     "title": "gitで「あっやべっ！」ってときに使うコマンド[随時更新]",
@@ -146,7 +146,7 @@
   {
     "title": "「コメントは書くな」",
     "url": "https://qiita.com/hiro-hori/items/1cf28a6ac75db077c8f3",
-    "likes_count": 749,
+    "likes_count": 748,
     "created_at": "2019-06-28T11:20:22+09:00",
     "updated_at": "2019-07-01T03:58:15+09:00",
     "id": "hiro-hori"
@@ -162,7 +162,7 @@
   {
     "title": "IT系の技術トレンドを調べるのに使えるサービス",
     "url": "https://qiita.com/tag1216/items/da1b078270c0cb6c07df",
-    "likes_count": 704,
+    "likes_count": 703,
     "created_at": "2019-06-03T23:11:27+09:00",
     "updated_at": "2019-06-28T21:30:43+09:00",
     "id": "tag1216"
@@ -170,7 +170,7 @@
   {
     "title": "BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜",
     "url": "https://qiita.com/drken/items/996d80bcae64649a6580",
-    "likes_count": 689,
+    "likes_count": 692,
     "created_at": "2019-06-25T10:13:51+09:00",
     "updated_at": "2020-05-22T21:31:07+09:00",
     "id": "drken"
@@ -242,7 +242,7 @@
   {
     "title": "細かすぎて伝わりにくい、Pythonの本当の落とし穴10選＋α",
     "url": "https://qiita.com/kwatch/items/525b0f85812c7be7c74c",
-    "likes_count": 545,
+    "likes_count": 544,
     "created_at": "2019-06-15T22:22:13+09:00",
     "updated_at": "2021-02-17T15:07:08+09:00",
     "id": "kwatch"
@@ -282,7 +282,7 @@
   {
     "title": "[初心者]オブジェクト指向でなぜつくるのか",
     "url": "https://qiita.com/IZUMIRU/items/959b43dc9eb4f5cdc202",
-    "likes_count": 497,
+    "likes_count": 496,
     "created_at": "2019-06-02T16:36:27+09:00",
     "updated_at": "2019-06-02T16:37:36+09:00",
     "id": "IZUMIRU"
@@ -298,7 +298,7 @@
   {
     "title": "データベースにRDBを選択するときの注意事項について考える（追記あり）",
     "url": "https://qiita.com/funasaki/items/6cdc8f7f7b709e5e601f",
-    "likes_count": 478,
+    "likes_count": 477,
     "created_at": "2019-06-18T15:02:16+09:00",
     "updated_at": "2019-06-20T19:48:13+09:00",
     "id": "funasaki"
@@ -370,7 +370,7 @@
   {
     "title": "知っておく価値のある珍しいHTMLタグ",
     "url": "https://qiita.com/rana_kualu/items/6ef80be6c5456fc3fa0d",
-    "likes_count": 426,
+    "likes_count": 425,
     "created_at": "2019-06-03T21:19:07+09:00",
     "updated_at": "2019-06-04T19:56:28+09:00",
     "id": "rana_kualu"
@@ -450,7 +450,7 @@
   {
     "title": "一流の「ものさし」職人になろう　Cross Validation (交差検証)を深堀り",
     "url": "https://qiita.com/Hatomugi/items/620c1bc757266b00e87f",
-    "likes_count": 359,
+    "likes_count": 358,
     "created_at": "2019-06-23T13:58:19+09:00",
     "updated_at": "2020-08-06T02:08:56+09:00",
     "id": "Hatomugi"
@@ -482,7 +482,7 @@
   {
     "title": "プログラミング言語の歴史を会話方式で振り返る",
     "url": "https://qiita.com/cube_3110/items/36ed9a604e2f0d12c759",
-    "likes_count": 351,
+    "likes_count": 350,
     "created_at": "2019-06-19T17:23:56+09:00",
     "updated_at": "2019-06-21T12:27:26+09:00",
     "id": "cube_3110"
@@ -490,7 +490,7 @@
   {
     "title": "MVC、3 層アーキテクチャから設計を学び始めるための基礎知識",
     "url": "https://qiita.com/os1ma/items/7a229585ebdd8b7d86c2",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2019-06-21T02:14:46+09:00",
     "updated_at": "2021-05-23T10:51:28+09:00",
     "id": "os1ma"
@@ -514,7 +514,7 @@
   {
     "title": "クッソー！！！！と思って勉強したら報われた。感謝の技術書5冊",
     "url": "https://qiita.com/zoezoemaru/items/93a05a5ca077a0cd3f79",
-    "likes_count": 317,
+    "likes_count": 316,
     "created_at": "2019-06-21T08:12:47+09:00",
     "updated_at": "2019-08-31T19:04:06+09:00",
     "id": "zoezoemaru"
