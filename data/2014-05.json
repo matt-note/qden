@@ -2,7 +2,7 @@
   {
     "title": "ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習",
     "url": "https://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7",
-    "likes_count": 8441,
+    "likes_count": 8442,
     "created_at": "2014-05-25T16:52:40+09:00",
     "updated_at": "2019-03-17T00:41:02+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "PHPオブジェクト指向入門（前半）",
     "url": "https://qiita.com/mpyw/items/41230bec5c02142ae691",
-    "likes_count": 1755,
+    "likes_count": 1756,
     "created_at": "2014-05-26T03:20:00+09:00",
     "updated_at": "2015-01-09T14:35:42+09:00",
     "id": "mpyw"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1598,
+    "likes_count": 1603,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2021-09-18T19:08:05+09:00",
     "id": "amedama"
@@ -234,7 +234,7 @@
   {
     "title": "git コマンド branchの作り方",
     "url": "https://qiita.com/TetsuTaka/items/5ab227a8bd2cd7106833",
-    "likes_count": 587,
+    "likes_count": 588,
     "created_at": "2014-05-19T12:44:11+09:00",
     "updated_at": "2017-04-11T11:58:13+09:00",
     "id": "TetsuTaka"
@@ -250,7 +250,7 @@
   {
     "title": "Dockerでホストとコンテナ間でのファイルコピー",
     "url": "https://qiita.com/gologo13/items/7e4e404af80377b48fd5",
-    "likes_count": 557,
+    "likes_count": 558,
     "created_at": "2014-06-01T06:26:15+09:00",
     "updated_at": "2016-01-22T11:00:45+09:00",
     "id": "gologo13"
@@ -304,6 +304,14 @@
     "id": "kazu56"
   },
   {
+    "title": "AngularJSのDirectiveを理解する.",
+    "url": "https://qiita.com/Quramy/items/dd4e7d2693c32d92048c",
+    "likes_count": 459,
+    "created_at": "2014-05-12T23:04:04+09:00",
+    "updated_at": "2016-03-14T09:59:48+09:00",
+    "id": "Quramy"
+  },
+  {
     "title": "[JavaScript] 非同期処理のコールバック地獄から抜け出す方法",
     "url": "https://qiita.com/LightSpeedC/items/7980a6e790d6cb2d6dad",
     "likes_count": 459,
@@ -312,17 +320,9 @@
     "id": "LightSpeedC"
   },
   {
-    "title": "AngularJSのDirectiveを理解する.",
-    "url": "https://qiita.com/Quramy/items/dd4e7d2693c32d92048c",
-    "likes_count": 458,
-    "created_at": "2014-05-12T23:04:04+09:00",
-    "updated_at": "2016-03-14T09:59:48+09:00",
-    "id": "Quramy"
-  },
-  {
     "title": "NSPredicate 全構文解説",
     "url": "https://qiita.com/yusuga/items/8fd531ebd8f5e72bb97b",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2014-05-13T16:51:10+09:00",
     "updated_at": "2020-03-16T16:12:26+09:00",
     "id": "yusuga"

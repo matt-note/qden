@@ -2,7 +2,7 @@
   {
     "title": "何かのときにすっと出したい、プログラミングに関する法則・原則一覧",
     "url": "https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63",
-    "likes_count": 4307,
+    "likes_count": 4308,
     "created_at": "2014-07-21T23:44:04+09:00",
     "updated_at": "2018-02-21T17:53:55+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3698,
+    "likes_count": 3699,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -34,7 +34,7 @@
   {
     "title": "誰も教えてくれなかったMySQLの障害解析方法",
     "url": "https://qiita.com/muran001/items/14f19959d4723ffc29cc",
-    "likes_count": 2889,
+    "likes_count": 2890,
     "created_at": "2014-07-12T09:36:58+09:00",
     "updated_at": "2014-10-30T07:41:32+09:00",
     "id": "muran001"
@@ -74,7 +74,7 @@
   {
     "title": "ログ設計指針",
     "url": "https://qiita.com/nanasess/items/350e59b29cceb2f122b3",
-    "likes_count": 1718,
+    "likes_count": 1719,
     "created_at": "2014-07-16T11:28:44+09:00",
     "updated_at": "2020-11-09T18:44:53+09:00",
     "id": "nanasess"
@@ -122,7 +122,7 @@
   {
     "title": "MongoDB超入門",
     "url": "https://qiita.com/saba1024/items/f2ad56f2a3ba7aaf8521",
-    "likes_count": 993,
+    "likes_count": 994,
     "created_at": "2014-07-11T01:00:39+09:00",
     "updated_at": "2018-04-03T16:47:21+09:00",
     "id": "saba1024"
@@ -354,7 +354,7 @@
   {
     "title": "新しいNTPクライアント＆サーバ、chrony",
     "url": "https://qiita.com/yunano/items/7883cf295f91f4ef716b",
-    "likes_count": 475,
+    "likes_count": 474,
     "created_at": "2014-07-22T00:33:29+09:00",
     "updated_at": "2018-09-30T17:04:21+09:00",
     "id": "yunano"
@@ -378,7 +378,7 @@
   {
     "title": "SwiftとiBeaconを使ってお母さんが自分の部屋に近づいて来た事を警告するアプリをつくる",
     "url": "https://qiita.com/oggata/items/5de43d71692d1abcff7c",
-    "likes_count": 449,
+    "likes_count": 448,
     "created_at": "2014-07-03T15:43:44+09:00",
     "updated_at": "2014-07-04T00:01:58+09:00",
     "id": "oggata"
@@ -440,20 +440,20 @@
     "id": "Minalinsky_1911"
   },
   {
+    "title": "vim置換",
+    "url": "https://qiita.com/waoooon/items/8d982e49692c8145ca4b",
+    "likes_count": 420,
+    "created_at": "2014-07-18T23:14:42+09:00",
+    "updated_at": "2019-08-23T21:28:38+09:00",
+    "id": "waoooon"
+  },
+  {
     "title": "半年くらい仕事でAndroidアプリ開発していて役に立った本",
     "url": "https://qiita.com/shikato/items/5e03a086fc1b42936d7c",
     "likes_count": 419,
     "created_at": "2014-07-06T20:59:02+09:00",
     "updated_at": "2014-07-06T21:08:55+09:00",
     "id": "shikato"
-  },
-  {
-    "title": "vim置換",
-    "url": "https://qiita.com/waoooon/items/8d982e49692c8145ca4b",
-    "likes_count": 419,
-    "created_at": "2014-07-18T23:14:42+09:00",
-    "updated_at": "2019-08-23T21:28:38+09:00",
-    "id": "waoooon"
   },
   {
     "title": "CentOS7で使われているsystemctlについて少しまとめた",
@@ -474,7 +474,7 @@
   {
     "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
     "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
-    "likes_count": 387,
+    "likes_count": 388,
     "created_at": "2014-07-17T19:56:24+09:00",
     "updated_at": "2014-07-17T19:56:24+09:00",
     "id": "konweb"
@@ -496,20 +496,20 @@
     "id": "aki"
   },
   {
-    "title": "Slackのべんりな使い方",
-    "url": "https://qiita.com/Vexus2/items/aaf87212e7239132446b",
-    "likes_count": 372,
-    "created_at": "2014-07-03T14:38:07+09:00",
-    "updated_at": "2015-09-07T13:58:05+09:00",
-    "id": "Vexus2"
-  },
-  {
     "title": "気軽にプログラミングを始められるWebエディタ『runstant』作りました",
     "url": "https://qiita.com/phi/items/e7fe30156c43a7690c1a",
     "likes_count": 372,
     "created_at": "2014-07-23T13:39:15+09:00",
     "updated_at": "2016-05-09T10:40:21+09:00",
     "id": "phi"
+  },
+  {
+    "title": "Slackのべんりな使い方",
+    "url": "https://qiita.com/Vexus2/items/aaf87212e7239132446b",
+    "likes_count": 371,
+    "created_at": "2014-07-03T14:38:07+09:00",
+    "updated_at": "2015-09-07T13:58:05+09:00",
+    "id": "Vexus2"
   },
   {
     "title": "要約：iOS/Androidアプリエンジニアが理解すべき「Model」の振る舞い",
@@ -674,7 +674,7 @@
   {
     "title": "Sequelizeを使用してデータベースを操作するための基本的な情報(2020.09更新）",
     "url": "https://qiita.com/mima_ita/items/014dcb42872f3a10855b",
-    "likes_count": 281,
+    "likes_count": 280,
     "created_at": "2014-07-04T19:01:48+09:00",
     "updated_at": "2021-12-25T17:37:22+09:00",
     "id": "mima_ita"

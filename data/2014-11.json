@@ -2,7 +2,7 @@
   {
     "title": "Gitのコミットメッセージの書き方",
     "url": "https://qiita.com/itosho/items/9565c6ad2ffc24c09364",
-    "likes_count": 4848,
+    "likes_count": 4850,
     "created_at": "2014-11-21T20:52:14+09:00",
     "updated_at": "2016-04-18T16:20:36+09:00",
     "id": "itosho"
@@ -74,7 +74,7 @@
   {
     "title": "正規表現の基本",
     "url": "https://qiita.com/grrrr/items/7c8811b5cf37d700adc4",
-    "likes_count": 1041,
+    "likes_count": 1042,
     "created_at": "2014-11-13T00:31:06+09:00",
     "updated_at": "2020-01-22T15:26:05+09:00",
     "id": "grrrr"
@@ -154,7 +154,7 @@
   {
     "title": "Rails Asset Pipelineがうまくいかないときの問題の切り分けかた",
     "url": "https://qiita.com/metheglin/items/c5c756246b7afbd34ae2",
-    "likes_count": 612,
+    "likes_count": 613,
     "created_at": "2014-11-14T20:50:30+09:00",
     "updated_at": "2017-04-27T18:12:13+09:00",
     "id": "metheglin"
@@ -234,7 +234,7 @@
   {
     "title": "PHPネイティブのDOMによるスクレイピング入門",
     "url": "https://qiita.com/mpyw/items/c0312271819baee09132",
-    "likes_count": 468,
+    "likes_count": 469,
     "created_at": "2014-11-08T00:22:28+09:00",
     "updated_at": "2016-11-06T22:26:34+09:00",
     "id": "mpyw"
@@ -242,7 +242,7 @@
   {
     "title": "RailsのTransactionの使い方",
     "url": "https://qiita.com/huydx/items/d946970d130b7dabe7ec",
-    "likes_count": 460,
+    "likes_count": 461,
     "created_at": "2014-11-27T23:57:38+09:00",
     "updated_at": "2015-03-18T17:25:49+09:00",
     "id": "huydx"
@@ -528,20 +528,20 @@
     "id": "tejitak"
   },
   {
-    "title": "AWS(EC2)でSoftEtherを使ってL2TP/IPsecなVPNを構築する (Mac)",
-    "url": "https://qiita.com/showwin/items/92861057a8b62611444d",
-    "likes_count": 264,
-    "created_at": "2014-11-10T23:09:21+09:00",
-    "updated_at": "2020-04-08T10:45:04+09:00",
-    "id": "showwin"
-  },
-  {
     "title": "Amazon CloudFront の障害に備えてフェイルオーバーを設定する",
     "url": "https://qiita.com/najeira/items/8e9e6f00394811b3f29c",
     "likes_count": 264,
     "created_at": "2014-11-27T17:12:38+09:00",
     "updated_at": "2014-11-28T10:28:52+09:00",
     "id": "najeira"
+  },
+  {
+    "title": "AWS(EC2)でSoftEtherを使ってL2TP/IPsecなVPNを構築する (Mac)",
+    "url": "https://qiita.com/showwin/items/92861057a8b62611444d",
+    "likes_count": 263,
+    "created_at": "2014-11-10T23:09:21+09:00",
+    "updated_at": "2020-04-08T10:45:04+09:00",
+    "id": "showwin"
   },
   {
     "title": "Python で Twitter から情報収集 (Twitter API 編)",
