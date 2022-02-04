@@ -2,7 +2,7 @@
   {
     "title": "なんとなく CORS がわかる...はもう終わりにする。",
     "url": "https://qiita.com/att55/items/2154a8aad8bf1409db2b",
-    "likes_count": 2217,
+    "likes_count": 2221,
     "created_at": "2019-08-15T01:24:06+09:00",
     "updated_at": "2021-10-19T20:33:46+09:00",
     "id": "att55"
@@ -18,7 +18,7 @@
   {
     "title": "【まとめ】ディープラーニングを使った異常検知",
     "url": "https://qiita.com/shinmura0/items/06d81c72601c7578c6d3",
-    "likes_count": 1131,
+    "likes_count": 1132,
     "created_at": "2019-08-06T12:34:26+09:00",
     "updated_at": "2021-03-10T12:58:40+09:00",
     "id": "shinmura0"
@@ -42,7 +42,7 @@
   {
     "title": "JavaScript開発者のための優秀なVSCodeツール26選",
     "url": "https://qiita.com/rana_kualu/items/4a4ce6ea7f489dc19f63",
-    "likes_count": 930,
+    "likes_count": 931,
     "created_at": "2019-08-13T20:01:45+09:00",
     "updated_at": "2019-08-15T19:24:25+09:00",
     "id": "rana_kualu"
@@ -154,7 +154,7 @@
   {
     "title": "docker-compose `up` とか `build` とか `start` とかの違いを理解できていなかったのでまとめてみた",
     "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2019-08-23T18:43:20+09:00",
     "updated_at": "2021-07-07T23:06:23+09:00",
     "id": "tegnike"
@@ -234,7 +234,7 @@
   {
     "title": "[CSS設計] 私のためのFLOCSSまとめ",
     "url": "https://qiita.com/super-mana-chan/items/644c6827be954c8db2c0",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2019-08-06T19:06:03+09:00",
     "updated_at": "2020-09-24T12:37:24+09:00",
     "id": "super-mana-chan"
@@ -314,10 +314,18 @@
   {
     "title": "MySQL の GROUP BY 完全に理解した",
     "url": "https://qiita.com/Go-Noji/items/5baeb790ade4b57126ff",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2019-08-23T21:03:06+09:00",
     "updated_at": "2019-11-26T13:16:23+09:00",
     "id": "Go-Noji"
+  },
+  {
+    "title": "機械学習にとって大切なことは全部MSE(平均二乗誤差)が教えてくれた",
+    "url": "https://qiita.com/riversun/items/b691cc0fa8a8a8f42013",
+    "likes_count": 304,
+    "created_at": "2019-08-26T07:54:17+09:00",
+    "updated_at": "2020-12-18T16:44:17+09:00",
+    "id": "riversun"
   },
   {
     "title": "FlaskとVue.jsでSPA Webアプリ開発",
@@ -326,14 +334,6 @@
     "created_at": "2019-08-26T07:47:36+09:00",
     "updated_at": "2021-06-15T21:32:06+09:00",
     "id": "y-tsutsu"
-  },
-  {
-    "title": "機械学習にとって大切なことは全部MSE(平均二乗誤差)が教えてくれた",
-    "url": "https://qiita.com/riversun/items/b691cc0fa8a8a8f42013",
-    "likes_count": 303,
-    "created_at": "2019-08-26T07:54:17+09:00",
-    "updated_at": "2020-12-18T16:44:17+09:00",
-    "id": "riversun"
   },
   {
     "title": "ディープラーニング基礎知識まとめ",

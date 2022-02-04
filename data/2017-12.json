@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5567,
+    "likes_count": 5568,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2078,
+    "likes_count": 2079,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "Amazon Auroraの先進性を誰も解説してくれないから解説する",
     "url": "https://qiita.com/kumagi/items/67f9ac0fb4e6f70c056d",
-    "likes_count": 1488,
+    "likes_count": 1490,
     "created_at": "2017-12-13T03:22:20+09:00",
     "updated_at": "2020-10-08T03:31:37+09:00",
     "id": "kumagi"
@@ -162,7 +162,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 854,
+    "likes_count": 855,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -194,7 +194,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 785,
+    "likes_count": 786,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -362,7 +362,7 @@
   {
     "title": "Reactのコンポーネントのスタイリングをどうやるか",
     "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 573,
+    "likes_count": 574,
     "created_at": "2017-12-18T00:05:45+09:00",
     "updated_at": "2019-10-29T15:38:56+09:00",
     "id": "lightnet328"
@@ -394,7 +394,7 @@
   {
     "title": "SlackのIncoming Webhooksを使い倒す",
     "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
-    "likes_count": 533,
+    "likes_count": 534,
     "created_at": "2017-12-14T10:09:51+09:00",
     "updated_at": "2017-12-14T14:47:37+09:00",
     "id": "ik-fib"
@@ -410,7 +410,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 508,
+    "likes_count": 509,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -584,17 +584,9 @@
     "id": "AokabiC"
   },
   {
-    "title": "はじめてのRails API ",
-    "url": "https://qiita.com/c5meru/items/1c921676de8a5a038f70",
-    "likes_count": 374,
-    "created_at": "2017-12-16T14:18:53+09:00",
-    "updated_at": "2017-12-16T14:19:33+09:00",
-    "id": "c5meru"
-  },
-  {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 374,
+    "likes_count": 375,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
@@ -602,10 +594,18 @@
   {
     "title": "線形な手法とカーネル法（回帰分析）",
     "url": "https://qiita.com/wsuzume/items/09a59036c8944fd563ff",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2017-12-07T02:39:13+09:00",
     "updated_at": "2020-11-28T13:29:32+09:00",
     "id": "wsuzume"
+  },
+  {
+    "title": "はじめてのRails API ",
+    "url": "https://qiita.com/c5meru/items/1c921676de8a5a038f70",
+    "likes_count": 374,
+    "created_at": "2017-12-16T14:18:53+09:00",
+    "updated_at": "2017-12-16T14:19:33+09:00",
+    "id": "c5meru"
   },
   {
     "title": "エンジニア組織がない会社でエンジニア組織を立ち上げるためにやった3つのこと",
