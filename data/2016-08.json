@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1771,
+    "likes_count": 1772,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -42,7 +42,7 @@
   {
     "title": "【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本",
     "url": "https://qiita.com/aokikenichi/items/ae4df263f591e47528a6",
-    "likes_count": 1433,
+    "likes_count": 1434,
     "created_at": "2016-08-23T11:46:09+09:00",
     "updated_at": "2021-12-30T22:20:30+09:00",
     "id": "aokikenichi"
@@ -122,7 +122,7 @@
   {
     "title": "初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ",
     "url": "https://qiita.com/takanatsu/items/fc89de9bd11148da1438",
-    "likes_count": 811,
+    "likes_count": 812,
     "created_at": "2016-08-25T23:46:02+09:00",
     "updated_at": "2016-08-25T23:51:28+09:00",
     "id": "takanatsu"
@@ -138,7 +138,7 @@
   {
     "title": "bash: 標準出力、標準エラー出力をファイル、画面それぞれに出力する方法",
     "url": "https://qiita.com/laikuaut/items/e1cc312ffc7ec2c872fc",
-    "likes_count": 762,
+    "likes_count": 763,
     "created_at": "2016-08-28T05:10:13+09:00",
     "updated_at": "2016-08-28T07:08:24+09:00",
     "id": "laikuaut"
@@ -256,6 +256,14 @@
     "id": "aokikenichi"
   },
   {
+    "title": "Pythonでデスクトップアプリを作る with Electron",
+    "url": "https://qiita.com/yoshizaki_91/items/da9711c26e71522ad289",
+    "likes_count": 478,
+    "created_at": "2016-08-07T02:29:43+09:00",
+    "updated_at": "2017-03-16T14:18:12+09:00",
+    "id": "yoshizaki_91"
+  },
+  {
     "title": ".ssh/configファイルでSSH接続を管理する",
     "url": "https://qiita.com/0084ken/items/2e4e9ae44ec5e01328f1",
     "likes_count": 478,
@@ -270,14 +278,6 @@
     "created_at": "2016-08-03T07:59:05+09:00",
     "updated_at": "2016-08-30T00:28:10+09:00",
     "id": "elgoog"
-  },
-  {
-    "title": "Pythonでデスクトップアプリを作る with Electron",
-    "url": "https://qiita.com/yoshizaki_91/items/da9711c26e71522ad289",
-    "likes_count": 477,
-    "created_at": "2016-08-07T02:29:43+09:00",
-    "updated_at": "2017-03-16T14:18:12+09:00",
-    "id": "yoshizaki_91"
   },
   {
     "title": "UI考：なぜそのセルには押せる感があるのか",
@@ -322,7 +322,7 @@
   {
     "title": "資料で使う技術/プロダクトロゴのリンク集",
     "url": "https://qiita.com/tkit/items/932316c5f5f7b162b61e",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2016-08-11T17:05:59+09:00",
     "updated_at": "2022-01-19T17:40:49+09:00",
     "id": "tkit"
@@ -344,20 +344,20 @@
     "id": "ysk24ok"
   },
   {
+    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
+    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
+    "likes_count": 388,
+    "created_at": "2016-08-30T17:27:15+09:00",
+    "updated_at": "2020-02-07T14:34:31+09:00",
+    "id": "t-a-run"
+  },
+  {
     "title": "Laravelでテストコードを書くためのチュートリアル",
     "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
     "likes_count": 387,
     "created_at": "2016-08-06T12:48:15+09:00",
     "updated_at": "2016-08-06T12:48:15+09:00",
     "id": "niisan-tokyo"
-  },
-  {
-    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
-    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
-    "likes_count": 387,
-    "created_at": "2016-08-30T17:27:15+09:00",
-    "updated_at": "2020-02-07T14:34:31+09:00",
-    "id": "t-a-run"
   },
   {
     "title": "Jupyterのショートカットキー一覧を調べてみた",

@@ -10,7 +10,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2405,
+    "likes_count": 2406,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1825,
+    "likes_count": 1826,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2021-02-11T09:21:27+09:00",
     "id": "jnchito"
@@ -538,7 +538,7 @@
   {
     "title": "rails管理画面系gem比較してみた",
     "url": "https://qiita.com/baban/items/f751fb05c4d2367878aa",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2014-12-23T23:12:29+09:00",
     "updated_at": "2019-12-05T14:13:35+09:00",
     "id": "baban"
@@ -690,7 +690,7 @@
   {
     "title": "Qiita の記事の見出しに Font-Awesome を利用して見栄えを良くする #qiita",
     "url": "https://qiita.com/tbpgr/items/361d8aaa38fb57d75216",
-    "likes_count": 287,
+    "likes_count": 286,
     "created_at": "2014-12-15T22:38:03+09:00",
     "updated_at": "2017-06-18T22:48:59+09:00",
     "id": "tbpgr"
@@ -728,6 +728,14 @@
     "id": "Avene"
   },
   {
+    "title": "use-packageで可読性の高いinit.elを書く",
+    "url": "https://qiita.com/kai2nenobu/items/5dfae3767514584f5220",
+    "likes_count": 275,
+    "created_at": "2014-12-07T22:06:03+09:00",
+    "updated_at": "2016-03-08T22:43:32+09:00",
+    "id": "kai2nenobu"
+  },
+  {
     "title": "Linux ネットワークパフォーマンスの機能強化",
     "url": "https://qiita.com/hkajikawa/items/34b21583b216aede0f95",
     "likes_count": 275,
@@ -742,14 +750,6 @@
     "created_at": "2014-12-05T14:46:22+09:00",
     "updated_at": "2014-12-05T15:36:14+09:00",
     "id": "nushio"
-  },
-  {
-    "title": "use-packageで可読性の高いinit.elを書く",
-    "url": "https://qiita.com/kai2nenobu/items/5dfae3767514584f5220",
-    "likes_count": 274,
-    "created_at": "2014-12-07T22:06:03+09:00",
-    "updated_at": "2016-03-08T22:43:32+09:00",
-    "id": "kai2nenobu"
   },
   {
     "title": "golang で streem を実装した。",
