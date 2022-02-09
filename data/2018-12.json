@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2770,
+    "likes_count": 2772,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1788,
+    "likes_count": 1789,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1323,
+    "likes_count": 1324,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2019-09-14T16:44:47+09:00",
     "id": "saboyutaka"
@@ -130,7 +130,7 @@
   {
     "title": "機械学習/ディープラーニング初心者が2018年にやったこと、読んだ論文",
     "url": "https://qiita.com/koshian2/items/bb4afec12e5dd50aae50",
-    "likes_count": 987,
+    "likes_count": 986,
     "created_at": "2018-12-31T12:55:48+09:00",
     "updated_at": "2018-12-31T14:27:33+09:00",
     "id": "koshian2"
@@ -138,7 +138,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 982,
+    "likes_count": 983,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -250,7 +250,7 @@
   {
     "title": "シェーダー芸人になりたかった6か月前の自分に教えてあげたいリンク集",
     "url": "https://qiita.com/kaneta1992/items/7fe9b47cc6c0836222af",
-    "likes_count": 652,
+    "likes_count": 653,
     "created_at": "2018-12-10T06:08:41+09:00",
     "updated_at": "2018-12-13T10:44:16+09:00",
     "id": "kaneta1992"
@@ -290,7 +290,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 580,
+    "likes_count": 581,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2021-04-14T00:39:07+09:00",
     "id": "elipmoc101"
@@ -450,7 +450,7 @@
   {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 426,
+    "likes_count": 428,
     "created_at": "2018-12-07T17:46:26+09:00",
     "updated_at": "2020-03-18T20:59:40+09:00",
     "id": "yasuabe2613"
@@ -538,7 +538,7 @@
   {
     "title": "Herokuを使いこなすのに必要な術",
     "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2018-12-04T18:58:45+09:00",
     "updated_at": "2019-01-29T22:10:42+09:00",
     "id": "fuwamaki"
@@ -584,20 +584,20 @@
     "id": "ko2ic"
   },
   {
+    "title": "ドメイン駆動設計を勉強するときのオススメ資料",
+    "url": "https://qiita.com/dora56/items/db8495fac3fbc6cd2569",
+    "likes_count": 343,
+    "created_at": "2018-12-08T23:10:00+09:00",
+    "updated_at": "2019-06-12T16:42:02+09:00",
+    "id": "dora56"
+  },
+  {
     "title": "Nuxt, netlify, Firebase を使ったWebサービス開発と個人開発における技術選定のポイント",
     "url": "https://qiita.com/howdy39/items/ac4c19dd36cd182841bc",
     "likes_count": 343,
     "created_at": "2018-12-09T07:06:15+09:00",
     "updated_at": "2019-10-22T12:53:39+09:00",
     "id": "howdy39"
-  },
-  {
-    "title": "ドメイン駆動設計を勉強するときのオススメ資料",
-    "url": "https://qiita.com/dora56/items/db8495fac3fbc6cd2569",
-    "likes_count": 342,
-    "created_at": "2018-12-08T23:10:00+09:00",
-    "updated_at": "2019-06-12T16:42:02+09:00",
-    "id": "dora56"
   },
   {
     "title": "configure, make, make install とは何か",
@@ -610,7 +610,7 @@
   {
     "title": "フロントエンドでTDDを実践する（理論編）",
     "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
-    "likes_count": 340,
+    "likes_count": 341,
     "created_at": "2018-12-08T23:40:26+09:00",
     "updated_at": "2018-12-11T23:14:50+09:00",
     "id": "taneba"
@@ -682,7 +682,7 @@
   {
     "title": "【Rails×Ajax】いいね機能ハンズオン",
     "url": "https://qiita.com/naberina/items/c6b5c8d7756cb882fb20",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2018-12-20T02:10:14+09:00",
     "updated_at": "2021-01-08T12:26:47+09:00",
     "id": "naberina"
@@ -714,7 +714,7 @@
   {
     "title": "[Firebase] Cloud Functionsで消耗したくない人のために、開発環境のベストプラクティスをまとめていったらDockerに行き着いた話（随時更新）",
     "url": "https://qiita.com/pannpers/items/244a7e3c18d8c8422e4f",
-    "likes_count": 300,
+    "likes_count": 301,
     "created_at": "2018-12-11T00:00:58+09:00",
     "updated_at": "2019-05-06T12:01:55+09:00",
     "id": "pannpers"
@@ -722,7 +722,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
@@ -746,7 +746,7 @@
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
     "url": "https://qiita.com/riversun/items/c924cfe70e16ee3fe3ba",
-    "likes_count": 279,
+    "likes_count": 280,
     "created_at": "2018-12-16T08:41:24+09:00",
     "updated_at": "2018-12-18T21:05:54+09:00",
     "id": "riversun"
@@ -754,7 +754,7 @@
   {
     "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
     "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
-    "likes_count": 265,
+    "likes_count": 266,
     "created_at": "2018-12-09T00:00:37+09:00",
     "updated_at": "2021-04-15T09:24:25+09:00",
     "id": "ryosuketter"

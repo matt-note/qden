@@ -2,7 +2,7 @@
   {
     "title": "非デザイナーエンジニアが一人でWebサービスを作るときに便利なツール32選",
     "url": "https://qiita.com/okappy/items/119e31cae9aa9bd9da6d",
-    "likes_count": 6668,
+    "likes_count": 6670,
     "created_at": "2014-09-19T02:53:10+09:00",
     "updated_at": "2015-07-09T01:12:38+09:00",
     "id": "okappy"
@@ -18,7 +18,7 @@
   {
     "title": "iPhone/iPad/Apple Watch解像度(画面サイズ)早見表",
     "url": "https://qiita.com/tomohisaota/items/f8857d01f328e34fb551",
-    "likes_count": 2722,
+    "likes_count": 2723,
     "created_at": "2014-09-12T09:33:06+09:00",
     "updated_at": "2021-10-14T15:19:37+09:00",
     "id": "tomohisaota"
@@ -42,7 +42,7 @@
   {
     "title": "ActiveRecordのjoinsとpreloadとincludesとeager_loadの違い",
     "url": "https://qiita.com/k0kubun/items/80c5a5494f53bb88dc58",
-    "likes_count": 1967,
+    "likes_count": 1968,
     "created_at": "2014-09-05T01:13:43+09:00",
     "updated_at": "2016-02-12T04:58:27+09:00",
     "id": "k0kubun"
@@ -50,7 +50,7 @@
   {
     "title": "[Git]コミットの取り消し、打ち消し、上書き",
     "url": "https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed",
-    "likes_count": 1338,
+    "likes_count": 1339,
     "created_at": "2014-09-12T18:43:31+09:00",
     "updated_at": "2021-12-29T10:41:09+09:00",
     "id": "shuntaro_tamura"
@@ -82,10 +82,18 @@
   {
     "title": "Pythonのイテレータとジェネレータ",
     "url": "https://qiita.com/tomotaka_ito/items/35f3eb108f587022fa09",
-    "likes_count": 931,
+    "likes_count": 932,
     "created_at": "2014-09-17T08:44:04+09:00",
     "updated_at": "2020-10-26T09:28:48+09:00",
     "id": "tomotaka_ito"
+  },
+  {
+    "title": "topコマンドの使い方",
+    "url": "https://qiita.com/k0kubun/items/7368c323d90f24a00c2f",
+    "likes_count": 924,
+    "created_at": "2014-09-08T19:25:53+09:00",
+    "updated_at": "2014-09-08T19:43:44+09:00",
+    "id": "k0kubun"
   },
   {
     "title": "サーバサイドエンジニアでも押えておきたい！コアJavaScriptの基本知識",
@@ -94,14 +102,6 @@
     "created_at": "2014-09-16T11:06:03+09:00",
     "updated_at": "2016-01-26T09:05:07+09:00",
     "id": "hkusu"
-  },
-  {
-    "title": "topコマンドの使い方",
-    "url": "https://qiita.com/k0kubun/items/7368c323d90f24a00c2f",
-    "likes_count": 923,
-    "created_at": "2014-09-08T19:25:53+09:00",
-    "updated_at": "2014-09-08T19:43:44+09:00",
-    "id": "k0kubun"
   },
   {
     "title": "iPhone6/iPhone6 Plusの画面対応について",
@@ -132,7 +132,7 @@
     "url": "https://qiita.com/jun2014/items/32ec77be1056f546aada",
     "likes_count": 782,
     "created_at": "2014-09-27T01:14:29+09:00",
-    "updated_at": "2022-02-02T22:02:25+09:00",
+    "updated_at": "2022-02-09T23:19:51+09:00",
     "id": "jun2014"
   },
   {
@@ -170,7 +170,7 @@
   {
     "title": "データベースにindexを張る方法",
     "url": "https://qiita.com/seiya1121/items/fb074d727c6f40a55f22",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2014-09-05T15:19:27+09:00",
     "updated_at": "2017-01-10T16:38:09+09:00",
     "id": "seiya1121"
@@ -266,7 +266,7 @@
   {
     "title": "[C++] STLの型の使い分け",
     "url": "https://qiita.com/h_hiro_/items/a83a8fd2391d4a3f0e1c",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2014-09-17T00:35:46+09:00",
     "updated_at": "2021-03-02T13:59:45+09:00",
     "id": "h_hiro_"
@@ -426,7 +426,7 @@
   {
     "title": "Macでsshfsを使ってローカルからリモートのファイルを触る",
     "url": "https://qiita.com/ysk24ok/items/bb148530a55a4e55d99b",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2014-09-12T14:57:33+09:00",
     "updated_at": "2019-03-06T09:57:41+09:00",
     "id": "ysk24ok"
@@ -554,7 +554,7 @@
   {
     "title": "deviseをAPIで利用しやすくする -Token Authenticationの追加-",
     "url": "https://qiita.com/k-shogo/items/6d687c38b0f7b3ade6f5",
-    "likes_count": 282,
+    "likes_count": 283,
     "created_at": "2014-09-14T19:43:02+09:00",
     "updated_at": "2014-09-15T12:56:09+09:00",
     "id": "k-shogo"
