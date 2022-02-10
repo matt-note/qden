@@ -40,20 +40,20 @@
     "id": "kitfactory"
   },
   {
+    "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
+    "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
+    "likes_count": 1499,
+    "created_at": "2018-11-30T05:49:27+09:00",
+    "updated_at": "2019-12-06T12:14:25+09:00",
+    "id": "kazukimatsumoto"
+  },
+  {
     "title": "インストールするだけでVSCodeをカッコよくする拡張4つ",
     "url": "https://qiita.com/ksakiyama134/items/8ca98295897dc1280644",
     "likes_count": 1498,
     "created_at": "2018-11-04T10:10:19+09:00",
     "updated_at": "2021-09-11T06:27:20+09:00",
     "id": "ksakiyama134"
-  },
-  {
-    "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
-    "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1496,
-    "created_at": "2018-11-30T05:49:27+09:00",
-    "updated_at": "2019-12-06T12:14:25+09:00",
-    "id": "kazukimatsumoto"
   },
   {
     "title": "全ての開発者が学ぶべき5つの言語",
@@ -170,7 +170,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 773,
+    "likes_count": 778,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2022-01-03T17:28:11+09:00",
     "id": "RyBB"
@@ -178,7 +178,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 773,
+    "likes_count": 774,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -242,7 +242,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 649,
+    "likes_count": 650,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2022-02-08T16:57:37+09:00",
     "id": "grrrr"
@@ -258,7 +258,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 561,
+    "likes_count": 562,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -272,20 +272,20 @@
     "id": "asmsuechan"
   },
   {
+    "title": "atcoderでよく使う手法python版",
+    "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
+    "likes_count": 545,
+    "created_at": "2018-11-25T18:13:41+09:00",
+    "updated_at": "2022-01-28T13:42:33+09:00",
+    "id": "chun1182"
+  },
+  {
     "title": "HTTP/3が出るらしいという話を雑に書く",
     "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
     "likes_count": 544,
     "created_at": "2018-11-14T10:02:01+09:00",
     "updated_at": "2019-10-24T10:50:25+09:00",
     "id": "inductor"
-  },
-  {
-    "title": "atcoderでよく使う手法python版",
-    "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
-    "likes_count": 544,
-    "created_at": "2018-11-25T18:13:41+09:00",
-    "updated_at": "2022-01-28T13:42:33+09:00",
-    "id": "chun1182"
   },
   {
     "title": "【厳選】Python実務データ分析でよく使う手法（分析手法編）",
@@ -314,7 +314,7 @@
   {
     "title": "統計検定２級に楽に合格する方法",
     "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 501,
+    "likes_count": 502,
     "created_at": "2018-11-28T12:58:31+09:00",
     "updated_at": "2018-11-28T13:29:26+09:00",
     "id": "okoppe8"
@@ -386,7 +386,7 @@
   {
     "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
     "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 454,
+    "likes_count": 455,
     "created_at": "2018-11-06T02:18:59+09:00",
     "updated_at": "2018-11-06T02:18:59+09:00",
     "id": "psychoroid"
@@ -402,7 +402,7 @@
   {
     "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
     "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
-    "likes_count": 417,
+    "likes_count": 416,
     "created_at": "2018-11-19T10:38:23+09:00",
     "updated_at": "2020-09-01T15:55:23+09:00",
     "id": "amishiro"
@@ -498,7 +498,7 @@
   {
     "title": "Laravelで始める依存性の注入（DI）",
     "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
-    "likes_count": 344,
+    "likes_count": 345,
     "created_at": "2018-11-30T15:37:00+09:00",
     "updated_at": "2020-08-03T21:31:08+09:00",
     "id": "harunbu"

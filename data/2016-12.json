@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2223,
+    "likes_count": 2225,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -74,7 +74,7 @@
   {
     "title": "次世代監視の大本命！ Prometheus を実運用してみた",
     "url": "https://qiita.com/sugitak/items/ff8f5ad845283c5915d2",
-    "likes_count": 1320,
+    "likes_count": 1321,
     "created_at": "2016-12-09T05:00:44+09:00",
     "updated_at": "2016-12-14T13:48:02+09:00",
     "id": "sugitak"
@@ -98,7 +98,7 @@
   {
     "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
     "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
-    "likes_count": 1080,
+    "likes_count": 1081,
     "created_at": "2016-12-15T19:53:31+09:00",
     "updated_at": "2017-01-09T03:54:13+09:00",
     "id": "joker1007"
@@ -130,7 +130,7 @@
   {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 981,
+    "likes_count": 982,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
@@ -138,7 +138,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 933,
+    "likes_count": 934,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -146,7 +146,7 @@
   {
     "title": "絵で理解するWord2vecの仕組み",
     "url": "https://qiita.com/Hironsan/items/11b388575a058dc8a46a",
-    "likes_count": 914,
+    "likes_count": 915,
     "created_at": "2016-12-10T10:26:38+09:00",
     "updated_at": "2016-12-10T12:50:54+09:00",
     "id": "Hironsan"
@@ -216,20 +216,20 @@
     "id": "sakaiakira"
   },
   {
-    "title": "PostCSS まとめ",
-    "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
-    "likes_count": 703,
-    "created_at": "2016-12-31T15:29:28+09:00",
-    "updated_at": "2018-02-27T10:35:44+09:00",
-    "id": "morishitter"
-  },
-  {
     "title": "Amazon Dash Buttonを(正しくない方向で)使ってみた",
     "url": "https://qiita.com/takustaqu/items/8539b33780c9675c8657",
     "likes_count": 702,
     "created_at": "2016-12-06T01:37:54+09:00",
     "updated_at": "2019-11-07T14:44:47+09:00",
     "id": "takustaqu"
+  },
+  {
+    "title": "PostCSS まとめ",
+    "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
+    "likes_count": 702,
+    "created_at": "2016-12-31T15:29:28+09:00",
+    "updated_at": "2018-02-27T10:35:44+09:00",
+    "id": "morishitter"
   },
   {
     "title": "iOSアプリ開発でアニメーションするなら押さえておきたい基礎",
@@ -322,7 +322,7 @@
   {
     "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
     "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
-    "likes_count": 549,
+    "likes_count": 550,
     "created_at": "2016-12-03T15:46:25+09:00",
     "updated_at": "2016-12-03T15:46:25+09:00",
     "id": "inosy22"
@@ -424,20 +424,20 @@
     "id": "Implem"
   },
   {
+    "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
+    "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
+    "likes_count": 473,
+    "created_at": "2016-12-06T16:03:07+09:00",
+    "updated_at": "2019-11-24T08:22:12+09:00",
+    "id": "tenntenn"
+  },
+  {
     "title": "ReactとReduxを結ぶパッケージ「react-redux」についてconnectの実装パターンを試す",
     "url": "https://qiita.com/MegaBlackLabel/items/df868e734d199071b883",
     "likes_count": 473,
     "created_at": "2016-12-23T22:24:32+09:00",
     "updated_at": "2017-06-09T15:35:33+09:00",
     "id": "MegaBlackLabel"
-  },
-  {
-    "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
-    "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 472,
-    "created_at": "2016-12-06T16:03:07+09:00",
-    "updated_at": "2019-11-24T08:22:12+09:00",
-    "id": "tenntenn"
   },
   {
     "title": "最速・最高のファイルアップロードに近づくための1歩",
@@ -514,7 +514,7 @@
   {
     "title": "機械学習モデルの実装における、テストについて",
     "url": "https://qiita.com/icoxfog417/items/67764a6756c4548b5fb8",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2016-12-15T09:21:15+09:00",
     "updated_at": "2017-06-27T09:58:48+09:00",
     "id": "icoxfog417"
