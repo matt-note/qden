@@ -10,7 +10,7 @@
   {
     "title": "新人にドヤ顔で説明できるか、今風フロントエンド開発ハンズオン(Git/Node.js/ES6/webpack4/Babel7)",
     "url": "https://qiita.com/riversun/items/29d5264480dd06c7b9fb",
-    "likes_count": 1952,
+    "likes_count": 1953,
     "created_at": "2018-11-12T08:21:10+09:00",
     "updated_at": "2020-12-18T17:26:37+09:00",
     "id": "riversun"
@@ -58,7 +58,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1388,
+    "likes_count": 1387,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -82,7 +82,7 @@
   {
     "title": "JavaScriptの { } を理解する",
     "url": "https://qiita.com/uhyo/items/39750a5359629b3fee05",
-    "likes_count": 1157,
+    "likes_count": 1156,
     "created_at": "2018-11-08T22:37:29+09:00",
     "updated_at": "2018-11-14T14:53:29+09:00",
     "id": "uhyo"
@@ -98,7 +98,7 @@
   {
     "title": "Git/GitHubレベル別オススメ学習サイトまとめ完全保存版【2019.06】",
     "url": "https://qiita.com/thinkalot/items/b3c2e9060f46f5d4ea46",
-    "likes_count": 1081,
+    "likes_count": 1082,
     "created_at": "2018-11-24T14:40:32+09:00",
     "updated_at": "2020-01-13T03:12:52+09:00",
     "id": "thinkalot"
@@ -130,7 +130,7 @@
   {
     "title": "Vue.jsでドラクエ風のポートフォリオを作った話　①",
     "url": "https://qiita.com/iwathi/items/8f054d10590f32b438a4",
-    "likes_count": 926,
+    "likes_count": 925,
     "created_at": "2018-11-14T07:15:51+09:00",
     "updated_at": "2018-12-05T05:37:44+09:00",
     "id": "iwathi"
@@ -258,7 +258,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 562,
+    "likes_count": 564,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -272,20 +272,20 @@
     "id": "asmsuechan"
   },
   {
+    "title": "HTTP/3が出るらしいという話を雑に書く",
+    "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
+    "likes_count": 545,
+    "created_at": "2018-11-14T10:02:01+09:00",
+    "updated_at": "2019-10-24T10:50:25+09:00",
+    "id": "inductor"
+  },
+  {
     "title": "atcoderでよく使う手法python版",
     "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
     "likes_count": 545,
     "created_at": "2018-11-25T18:13:41+09:00",
     "updated_at": "2022-01-28T13:42:33+09:00",
     "id": "chun1182"
-  },
-  {
-    "title": "HTTP/3が出るらしいという話を雑に書く",
-    "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
-    "likes_count": 544,
-    "created_at": "2018-11-14T10:02:01+09:00",
-    "updated_at": "2019-10-24T10:50:25+09:00",
-    "id": "inductor"
   },
   {
     "title": "【厳選】Python実務データ分析でよく使う手法（分析手法編）",
@@ -314,7 +314,7 @@
   {
     "title": "統計検定２級に楽に合格する方法",
     "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 502,
+    "likes_count": 504,
     "created_at": "2018-11-28T12:58:31+09:00",
     "updated_at": "2018-11-28T13:29:26+09:00",
     "id": "okoppe8"
@@ -354,10 +354,18 @@
   {
     "title": "State of SEO for SPA 2019",
     "url": "https://qiita.com/seya/items/2688dc539af217b7b111",
-    "likes_count": 473,
+    "likes_count": 474,
     "created_at": "2018-11-19T22:51:22+09:00",
     "updated_at": "2019-05-08T20:37:48+09:00",
     "id": "seya"
+  },
+  {
+    "title": "ドメインオブジェクトの責務について",
+    "url": "https://qiita.com/j5ik2o/items/a64007c6d7a89ec2e086",
+    "likes_count": 468,
+    "created_at": "2018-11-17T17:07:19+09:00",
+    "updated_at": "2021-06-24T21:16:01+09:00",
+    "id": "j5ik2o"
   },
   {
     "title": "2万人に聞いた、2018年の最新JavaScript事情",
@@ -366,14 +374,6 @@
     "created_at": "2018-11-22T23:52:58+09:00",
     "updated_at": "2019-08-17T19:55:27+09:00",
     "id": "rana_kualu"
-  },
-  {
-    "title": "ドメインオブジェクトの責務について",
-    "url": "https://qiita.com/j5ik2o/items/a64007c6d7a89ec2e086",
-    "likes_count": 466,
-    "created_at": "2018-11-17T17:07:19+09:00",
-    "updated_at": "2021-06-24T21:16:01+09:00",
-    "id": "j5ik2o"
   },
   {
     "title": "「ＡＩで〇〇したいんだけど」の相談前に確認してほしい３つのこと",
@@ -426,7 +426,7 @@
   {
     "title": "ストーリーポイントで見積もる現実的な方法",
     "url": "https://qiita.com/keitakn/items/c30b7071ebfbf4b1b3e0",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2018-11-22T01:24:43+09:00",
     "updated_at": "2020-08-02T14:22:40+09:00",
     "id": "keitakn"
@@ -498,7 +498,7 @@
   {
     "title": "Laravelで始める依存性の注入（DI）",
     "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2018-11-30T15:37:00+09:00",
     "updated_at": "2020-08-03T21:31:08+09:00",
     "id": "harunbu"
@@ -514,7 +514,7 @@
   {
     "title": "【入門】Nuxt.js + Contentful + Netlify で始める、JAMstack な CMS 構築",
     "url": "https://qiita.com/isihigameKoudai/items/3e45ade7c438176a4cc9",
-    "likes_count": 340,
+    "likes_count": 341,
     "created_at": "2018-11-21T08:56:43+09:00",
     "updated_at": "2021-03-03T12:29:46+09:00",
     "id": "isihigameKoudai"
