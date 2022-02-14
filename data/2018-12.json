@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2774,
+    "likes_count": 2775,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -50,7 +50,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1281,
+    "likes_count": 1282,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -58,7 +58,7 @@
   {
     "title": "インフラエンジニアと謎のサーバ",
     "url": "https://qiita.com/kanga/items/979b0bdc4653e025483a",
-    "likes_count": 1274,
+    "likes_count": 1275,
     "created_at": "2018-12-06T19:56:35+09:00",
     "updated_at": "2019-05-02T16:00:02+09:00",
     "id": "kanga"
@@ -82,7 +82,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1096,
+    "likes_count": 1098,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -106,7 +106,7 @@
   {
     "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
     "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
-    "likes_count": 1047,
+    "likes_count": 1048,
     "created_at": "2018-12-06T21:43:43+09:00",
     "updated_at": "2020-04-09T08:20:53+09:00",
     "id": "lobin-z0x50"
@@ -128,20 +128,20 @@
     "id": "hirokidaichi"
   },
   {
+    "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
+    "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
+    "likes_count": 986,
+    "created_at": "2018-12-18T01:42:28+09:00",
+    "updated_at": "2018-12-21T14:21:57+09:00",
+    "id": "takugi"
+  },
+  {
     "title": "機械学習/ディープラーニング初心者が2018年にやったこと、読んだ論文",
     "url": "https://qiita.com/koshian2/items/bb4afec12e5dd50aae50",
     "likes_count": 986,
     "created_at": "2018-12-31T12:55:48+09:00",
     "updated_at": "2018-12-31T14:27:33+09:00",
     "id": "koshian2"
-  },
-  {
-    "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
-    "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 984,
-    "created_at": "2018-12-18T01:42:28+09:00",
-    "updated_at": "2018-12-21T14:21:57+09:00",
-    "id": "takugi"
   },
   {
     "title": "【危険シェル芸】禁じられた闇の魔術とその防衛術💥",
@@ -152,6 +152,14 @@
     "id": "_-_-_-_-_"
   },
   {
+    "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
+    "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
+    "likes_count": 947,
+    "created_at": "2018-12-17T11:20:33+09:00",
+    "updated_at": "2020-01-16T15:47:34+09:00",
+    "id": "APPLE4869"
+  },
+  {
     "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
     "url": "https://qiita.com/yumetodo/items/54e1a8230dbf513ea85b",
     "likes_count": 947,
@@ -160,17 +168,9 @@
     "id": "yumetodo"
   },
   {
-    "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
-    "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 945,
-    "created_at": "2018-12-17T11:20:33+09:00",
-    "updated_at": "2020-01-16T15:47:34+09:00",
-    "id": "APPLE4869"
-  },
-  {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 921,
+    "likes_count": 923,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2021-09-24T17:22:18+09:00",
     "id": "Maki-Daisuke"
@@ -386,7 +386,7 @@
   {
     "title": "Github Actionsが使えるようになったので使ってみる",
     "url": "https://qiita.com/1915keke/items/8b18097d2981e88eca93",
-    "likes_count": 472,
+    "likes_count": 473,
     "created_at": "2018-12-02T19:23:09+09:00",
     "updated_at": "2019-09-13T14:44:25+09:00",
     "id": "1915keke"
@@ -410,7 +410,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 463,
+    "likes_count": 465,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -474,7 +474,7 @@
   {
     "title": "GCPとDockerでKaggle用計算環境構築",
     "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2018-12-20T19:03:59+09:00",
     "updated_at": "2018-12-21T01:51:55+09:00",
     "id": "lain21"
@@ -530,7 +530,7 @@
   {
     "title": "Web API初心者と学ぶGraphQL",
     "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2018-12-20T03:46:56+09:00",
     "updated_at": "2021-10-12T15:09:10+09:00",
     "id": "SiragumoHuin"
@@ -546,7 +546,7 @@
   {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -570,7 +570,7 @@
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
     "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2018-12-06T00:54:09+09:00",
     "updated_at": "2018-12-06T00:55:45+09:00",
     "id": "yuneco"
@@ -600,20 +600,20 @@
     "id": "howdy39"
   },
   {
+    "title": "configure, make, make install とは何か",
+    "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
+    "likes_count": 343,
+    "created_at": "2018-12-20T14:36:24+09:00",
+    "updated_at": "2018-12-20T14:36:24+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "フロントエンドでTDDを実践する（理論編）",
     "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
     "likes_count": 342,
     "created_at": "2018-12-08T23:40:26+09:00",
     "updated_at": "2018-12-11T23:14:50+09:00",
     "id": "taneba"
-  },
-  {
-    "title": "configure, make, make install とは何か",
-    "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 342,
-    "created_at": "2018-12-20T14:36:24+09:00",
-    "updated_at": "2018-12-20T14:36:24+09:00",
-    "id": "chihiro"
   },
   {
     "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
