@@ -2,7 +2,7 @@
   {
     "title": "すべての新米フロントエンドエンジニアに読んでほしい50の資料",
     "url": "https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2",
-    "likes_count": 3933,
+    "likes_count": 3934,
     "created_at": "2019-07-11T20:07:24+09:00",
     "updated_at": "2019-07-12T17:37:42+09:00",
     "id": "suzu-4"
@@ -34,7 +34,7 @@
   {
     "title": "新人時代に読めば良かったと後悔するほど感謝した技術書4冊",
     "url": "https://qiita.com/kojimadev/items/0bf53b439f0cb4d1f7e3",
-    "likes_count": 1339,
+    "likes_count": 1340,
     "created_at": "2019-07-02T08:39:35+09:00",
     "updated_at": "2020-08-26T17:34:51+09:00",
     "id": "kojimadev"
@@ -50,7 +50,7 @@
   {
     "title": "リアルな眼球を描く。HTMLとCSSだけで。",
     "url": "https://qiita.com/ichimonji_haji/items/b6362aa808ae351affdc",
-    "likes_count": 1241,
+    "likes_count": 1240,
     "created_at": "2019-07-29T09:39:43+09:00",
     "updated_at": "2019-07-29T16:14:55+09:00",
     "id": "ichimonji_haji"
@@ -146,7 +146,7 @@
   {
     "title": "slackのIncoming webhookが新しくなっていたのでまとめてみた",
     "url": "https://qiita.com/kshibata101/items/0e13c420080a993c5d16",
-    "likes_count": 762,
+    "likes_count": 763,
     "created_at": "2019-07-04T15:11:17+09:00",
     "updated_at": "2020-06-23T09:58:54+09:00",
     "id": "kshibata101"
@@ -154,7 +154,7 @@
   {
     "title": "Pythonで\"in list\"から\"in set\"に変えただけで爆速になった件とその理由",
     "url": "https://qiita.com/kitadakyou/items/6f877edd263f097e78f4",
-    "likes_count": 762,
+    "likes_count": 763,
     "created_at": "2019-07-11T11:10:31+09:00",
     "updated_at": "2019-07-12T23:07:05+09:00",
     "id": "kitadakyou"
@@ -210,7 +210,7 @@
   {
     "title": "CSSを非同期ロードする最も簡単な方法",
     "url": "https://qiita.com/rana_kualu/items/95a7adf8420ea2b9f657",
-    "likes_count": 534,
+    "likes_count": 535,
     "created_at": "2019-07-31T20:14:27+09:00",
     "updated_at": "2020-01-09T01:29:38+09:00",
     "id": "rana_kualu"
@@ -234,10 +234,18 @@
   {
     "title": "SPA、SSR、プリレンダリングの違いをまとめてみた",
     "url": "https://qiita.com/amakawa_/items/e7d0720e1ab8632769bf",
-    "likes_count": 488,
+    "likes_count": 487,
     "created_at": "2019-07-21T15:42:13+09:00",
     "updated_at": "2019-12-20T15:58:34+09:00",
     "id": "amakawa_"
+  },
+  {
+    "title": "Reactのべからず集",
+    "url": "https://qiita.com/jkr_2255/items/041f238a940f923e4dfc",
+    "likes_count": 469,
+    "created_at": "2019-07-22T22:52:48+09:00",
+    "updated_at": "2019-07-22T22:55:30+09:00",
+    "id": "jkr_2255"
   },
   {
     "title": "動的計画法を実現する代数〜トロピカル演算でグラフの最短経路を計算する〜",
@@ -246,14 +254,6 @@
     "created_at": "2019-07-10T22:53:35+09:00",
     "updated_at": "2020-04-25T13:09:06+09:00",
     "id": "lotz"
-  },
-  {
-    "title": "Reactのべからず集",
-    "url": "https://qiita.com/jkr_2255/items/041f238a940f923e4dfc",
-    "likes_count": 468,
-    "created_at": "2019-07-22T22:52:48+09:00",
-    "updated_at": "2019-07-22T22:55:30+09:00",
-    "id": "jkr_2255"
   },
   {
     "title": "【初心者向け・動画付き】Railsで日時をフォーマットするときはstrftimeよりも、lメソッドを使おう",
@@ -378,7 +378,7 @@
   {
     "title": "matplotlibの描画の基本 - figやらaxesやらがよくわからなくなった人向け",
     "url": "https://qiita.com/kenichiro_nishioka/items/8e307e164a4e0a279734",
-    "likes_count": 319,
+    "likes_count": 320,
     "created_at": "2019-07-07T20:15:47+09:00",
     "updated_at": "2019-07-07T20:15:47+09:00",
     "id": "kenichiro_nishioka"

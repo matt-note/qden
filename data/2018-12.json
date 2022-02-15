@@ -34,7 +34,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1424,
+    "likes_count": 1423,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -50,7 +50,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1282,
+    "likes_count": 1283,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -82,7 +82,7 @@
   {
     "title": "クォータニオン (Quaternion) を総整理！ ～ 三次元物体の回転と姿勢を鮮やかに扱う ～",
     "url": "https://qiita.com/drken/items/0639cf34cce14e8d58a5",
-    "likes_count": 1098,
+    "likes_count": 1099,
     "created_at": "2018-12-03T11:08:40+09:00",
     "updated_at": "2019-02-12T01:34:29+09:00",
     "id": "drken"
@@ -98,7 +98,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 1058,
+    "likes_count": 1059,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -106,7 +106,7 @@
   {
     "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
     "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
-    "likes_count": 1048,
+    "likes_count": 1049,
     "created_at": "2018-12-06T21:43:43+09:00",
     "updated_at": "2020-04-09T08:20:53+09:00",
     "id": "lobin-z0x50"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptの概念たち (前編)",
     "url": "https://qiita.com/tsin1rou/items/90576b6c00b895478610",
-    "likes_count": 1004,
+    "likes_count": 1005,
     "created_at": "2018-12-04T02:39:25+09:00",
     "updated_at": "2018-12-06T10:40:04+09:00",
     "id": "tsin1rou"
@@ -152,20 +152,20 @@
     "id": "_-_-_-_-_"
   },
   {
+    "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
+    "url": "https://qiita.com/yumetodo/items/54e1a8230dbf513ea85b",
+    "likes_count": 948,
+    "created_at": "2018-12-22T19:33:18+09:00",
+    "updated_at": "2019-08-08T12:41:02+09:00",
+    "id": "yumetodo"
+  },
+  {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
     "likes_count": 947,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
-  },
-  {
-    "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
-    "url": "https://qiita.com/yumetodo/items/54e1a8230dbf513ea85b",
-    "likes_count": 947,
-    "created_at": "2018-12-22T19:33:18+09:00",
-    "updated_at": "2019-08-08T12:41:02+09:00",
-    "id": "yumetodo"
   },
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
@@ -290,7 +290,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 582,
+    "likes_count": 584,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2021-04-14T00:39:07+09:00",
     "id": "elipmoc101"
@@ -400,20 +400,20 @@
     "id": "maskot1977"
   },
   {
+    "title": "GitのHEADとは何者なのか",
+    "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
+    "likes_count": 466,
+    "created_at": "2018-12-09T23:59:10+09:00",
+    "updated_at": "2021-10-19T10:39:11+09:00",
+    "id": "ymzkjpx"
+  },
+  {
     "title": "訓練不要で誰でも速読！日本一の速読アプリ「瞬間速読」の個人開発物語（25万DL）",
     "url": "https://qiita.com/youwht/items/a1b7a843888c27490172",
     "likes_count": 465,
     "created_at": "2018-12-04T00:41:05+09:00",
     "updated_at": "2019-01-03T20:41:27+09:00",
     "id": "youwht"
-  },
-  {
-    "title": "GitのHEADとは何者なのか",
-    "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 465,
-    "created_at": "2018-12-09T23:59:10+09:00",
-    "updated_at": "2021-10-19T10:39:11+09:00",
-    "id": "ymzkjpx"
   },
   {
     "title": "ワイが個人的に便利だと思っていてよく使っているJavaScriptモジュール(npm)たち",
@@ -592,20 +592,20 @@
     "id": "dora56"
   },
   {
+    "title": "configure, make, make install とは何か",
+    "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
+    "likes_count": 344,
+    "created_at": "2018-12-20T14:36:24+09:00",
+    "updated_at": "2018-12-20T14:36:24+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "Nuxt, netlify, Firebase を使ったWebサービス開発と個人開発における技術選定のポイント",
     "url": "https://qiita.com/howdy39/items/ac4c19dd36cd182841bc",
     "likes_count": 343,
     "created_at": "2018-12-09T07:06:15+09:00",
     "updated_at": "2019-10-22T12:53:39+09:00",
     "id": "howdy39"
-  },
-  {
-    "title": "configure, make, make install とは何か",
-    "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 343,
-    "created_at": "2018-12-20T14:36:24+09:00",
-    "updated_at": "2018-12-20T14:36:24+09:00",
-    "id": "chihiro"
   },
   {
     "title": "フロントエンドでTDDを実践する（理論編）",
@@ -714,7 +714,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 299,
+    "likes_count": 300,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
@@ -738,7 +738,7 @@
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
     "url": "https://qiita.com/riversun/items/c924cfe70e16ee3fe3ba",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2018-12-16T08:41:24+09:00",
     "updated_at": "2018-12-18T21:05:54+09:00",
     "id": "riversun"
