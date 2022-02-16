@@ -18,7 +18,7 @@
   {
     "title": "いまさらだけどCircleCIに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/4c7e62434af455e977c2",
-    "likes_count": 1959,
+    "likes_count": 1960,
     "created_at": "2019-01-07T09:17:44+09:00",
     "updated_at": "2020-04-02T17:10:51+09:00",
     "id": "gold-kou"
@@ -58,7 +58,7 @@
   {
     "title": "未経験から4ヶ月でWeb系エンジニアに転職するためにやったこと",
     "url": "https://qiita.com/ryokky59/items/833cb3cf916ec0fd1e19",
-    "likes_count": 1175,
+    "likes_count": 1176,
     "created_at": "2019-01-12T12:42:25+09:00",
     "updated_at": "2020-07-22T14:19:57+09:00",
     "id": "ryokky59"
@@ -82,7 +82,7 @@
   {
     "title": "エラーメッセージの読み方と対処, 検索や質問の原則",
     "url": "https://qiita.com/cannorin/items/eb062aae88bfe2ad6fe5",
-    "likes_count": 1069,
+    "likes_count": 1071,
     "created_at": "2019-01-23T18:16:43+09:00",
     "updated_at": "2019-02-01T16:59:54+09:00",
     "id": "cannorin"
@@ -392,6 +392,14 @@
     "id": "daisuke-team-ai"
   },
   {
+    "title": "GitHubが無料でプライベートリポジトリを無制限に作れるようになったぞ☆",
+    "url": "https://qiita.com/wagase/items/4ed3e9998848cfa733be",
+    "likes_count": 339,
+    "created_at": "2019-01-08T20:11:08+09:00",
+    "updated_at": "2019-01-08T20:11:08+09:00",
+    "id": "wagase"
+  },
+  {
     "title": "VSCode で LaTeX を書く (2018)",
     "url": "https://qiita.com/popunbom/items/7d02fc75ad23b735d28c",
     "likes_count": 339,
@@ -400,17 +408,9 @@
     "id": "popunbom"
   },
   {
-    "title": "GitHubが無料でプライベートリポジトリを無制限に作れるようになったぞ☆",
-    "url": "https://qiita.com/wagase/items/4ed3e9998848cfa733be",
-    "likes_count": 338,
-    "created_at": "2019-01-08T20:11:08+09:00",
-    "updated_at": "2019-01-08T20:11:08+09:00",
-    "id": "wagase"
-  },
-  {
     "title": "モデル予測制御（MPC）による軌道追従制御",
     "url": "https://qiita.com/taka_horibe/items/47f86e02e2db83b0c570",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2019-01-18T15:01:48+09:00",
     "updated_at": "2019-07-03T17:32:25+09:00",
     "id": "taka_horibe"
@@ -442,7 +442,7 @@
   {
     "title": "DockerによるPHP開発環境構築（PHP + MySQL + Nginx）",
     "url": "https://qiita.com/nemui_/items/f911be7ffa4f29293fd5",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2019-01-20T19:56:57+09:00",
     "updated_at": "2019-01-22T00:03:56+09:00",
     "id": "nemui_"
@@ -506,7 +506,7 @@
   {
     "title": "VirtualBoxのネットワーク設定を絵で説明する",
     "url": "https://qiita.com/feifo/items/0fde474005589afcff68",
-    "likes_count": 259,
+    "likes_count": 260,
     "created_at": "2019-01-20T01:04:19+09:00",
     "updated_at": "2019-02-01T10:04:55+09:00",
     "id": "feifo"
