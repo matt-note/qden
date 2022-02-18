@@ -42,7 +42,7 @@
   {
     "title": "Rails開発におけるwebサーバーとアプリケーションサーバーの違い（翻訳）",
     "url": "https://qiita.com/jnchito/items/3884f9a2ccc057f8f3a3",
-    "likes_count": 1566,
+    "likes_count": 1567,
     "created_at": "2015-10-21T04:02:56+09:00",
     "updated_at": "2020-11-08T08:06:23+09:00",
     "id": "jnchito"
@@ -82,7 +82,7 @@
   {
     "title": "mysqldumpまとめ",
     "url": "https://qiita.com/PlanetMeron/items/3a41e14607a65bc9b60c",
-    "likes_count": 1038,
+    "likes_count": 1040,
     "created_at": "2015-10-06T16:00:00+09:00",
     "updated_at": "2021-12-23T20:18:36+09:00",
     "id": "PlanetMeron"
@@ -114,7 +114,7 @@
   {
     "title": "よく使うMySQLコマンド&構文集",
     "url": "https://qiita.com/CyberMergina/items/f889519e6be19c46f5f4",
-    "likes_count": 900,
+    "likes_count": 901,
     "created_at": "2015-10-22T09:28:43+09:00",
     "updated_at": "2021-12-22T22:58:39+09:00",
     "id": "CyberMergina"
@@ -282,7 +282,7 @@
   {
     "title": "Gitのリモートブランチを削除するまとめ",
     "url": "https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2015-10-20T12:53:06+09:00",
     "updated_at": "2015-10-20T12:55:54+09:00",
     "id": "yuu_ta"
@@ -376,20 +376,20 @@
     "id": "scivola"
   },
   {
+    "title": "バッチファイルでの試行錯誤を回避するためのメモ－または人類には早すぎた言語",
+    "url": "https://qiita.com/yz2cm/items/8058d503a1b84688af09",
+    "likes_count": 376,
+    "created_at": "2015-11-01T01:40:14+09:00",
+    "updated_at": "2021-09-15T21:09:52+09:00",
+    "id": "yz2cm"
+  },
+  {
     "title": "Androidな開発をするときにチェックしていること",
     "url": "https://qiita.com/kaelaela/items/85e0bcc26584141fda1d",
     "likes_count": 375,
     "created_at": "2015-10-25T19:02:16+09:00",
     "updated_at": "2015-11-05T00:14:50+09:00",
     "id": "kaelaela"
-  },
-  {
-    "title": "バッチファイルでの試行錯誤を回避するためのメモ－または人類には早すぎた言語",
-    "url": "https://qiita.com/yz2cm/items/8058d503a1b84688af09",
-    "likes_count": 374,
-    "created_at": "2015-11-01T01:40:14+09:00",
-    "updated_at": "2021-09-15T21:09:52+09:00",
-    "id": "yz2cm"
   },
   {
     "title": "大規模Node.jsを支えるロードバランスとオートスケールの独自実装（FRPもあるよ）",
