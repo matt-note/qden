@@ -42,7 +42,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1579,
+    "likes_count": 1580,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2022-02-07T10:46:48+09:00",
     "id": "soarflat"
@@ -146,7 +146,7 @@
   {
     "title": "絵で理解するWord2vecの仕組み",
     "url": "https://qiita.com/Hironsan/items/11b388575a058dc8a46a",
-    "likes_count": 915,
+    "likes_count": 916,
     "created_at": "2016-12-10T10:26:38+09:00",
     "updated_at": "2016-12-10T12:50:54+09:00",
     "id": "Hironsan"
@@ -186,7 +186,7 @@
   {
     "title": "良いエンジニアを採用するための方法論",
     "url": "https://qiita.com/dorarep/items/b9f7f6ff6e1bc344cf0a",
-    "likes_count": 751,
+    "likes_count": 752,
     "created_at": "2016-12-05T14:14:10+09:00",
     "updated_at": "2020-08-05T22:57:31+09:00",
     "id": "dorarep"
@@ -218,7 +218,7 @@
   {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
-    "likes_count": 703,
+    "likes_count": 704,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
@@ -386,7 +386,7 @@
   {
     "title": "基本/詳細設計って呼び方やめませんか",
     "url": "https://qiita.com/garbagetown/items/a3ae46595f7c49e587a0",
-    "likes_count": 503,
+    "likes_count": 504,
     "created_at": "2016-12-14T18:08:06+09:00",
     "updated_at": "2016-12-18T01:24:21+09:00",
     "id": "garbagetown"
@@ -410,10 +410,18 @@
   {
     "title": "転職する時に必ずチェックしたい募集要項",
     "url": "https://qiita.com/ma3tk/items/3336c9a245b86a6c448f",
-    "likes_count": 479,
+    "likes_count": 480,
     "created_at": "2016-12-15T00:04:29+09:00",
     "updated_at": "2017-06-12T09:47:31+09:00",
     "id": "ma3tk"
+  },
+  {
+    "title": "ReactとReduxを結ぶパッケージ「react-redux」についてconnectの実装パターンを試す",
+    "url": "https://qiita.com/MegaBlackLabel/items/df868e734d199071b883",
+    "likes_count": 474,
+    "created_at": "2016-12-23T22:24:32+09:00",
+    "updated_at": "2017-06-09T15:35:33+09:00",
+    "id": "MegaBlackLabel"
   },
   {
     "title": "大きな組織で情報共有するためのOSSつくってみた",
@@ -430,14 +438,6 @@
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
-  },
-  {
-    "title": "ReactとReduxを結ぶパッケージ「react-redux」についてconnectの実装パターンを試す",
-    "url": "https://qiita.com/MegaBlackLabel/items/df868e734d199071b883",
-    "likes_count": 473,
-    "created_at": "2016-12-23T22:24:32+09:00",
-    "updated_at": "2017-06-09T15:35:33+09:00",
-    "id": "MegaBlackLabel"
   },
   {
     "title": "最速・最高のファイルアップロードに近づくための1歩",
@@ -466,7 +466,7 @@
   {
     "title": "府大生が趣味で世界一の認識精度を持つニューラルネットワークを開発してしまった論文を読んだ",
     "url": "https://qiita.com/yu4u/items/4a35b47d5cab8463a4cb",
-    "likes_count": 440,
+    "likes_count": 439,
     "created_at": "2016-12-20T23:56:03+09:00",
     "updated_at": "2017-02-23T01:23:26+09:00",
     "id": "yu4u"
@@ -514,7 +514,7 @@
   {
     "title": "機械学習モデルの実装における、テストについて",
     "url": "https://qiita.com/icoxfog417/items/67764a6756c4548b5fb8",
-    "likes_count": 425,
+    "likes_count": 424,
     "created_at": "2016-12-15T09:21:15+09:00",
     "updated_at": "2017-06-27T09:58:48+09:00",
     "id": "icoxfog417"
@@ -530,7 +530,7 @@
   {
     "title": "iOSアプリ設計大全集 2016",
     "url": "https://qiita.com/tattn/items/d4b95af0b60c3849243a",
-    "likes_count": 411,
+    "likes_count": 412,
     "created_at": "2016-12-03T09:37:17+09:00",
     "updated_at": "2016-12-03T09:39:39+09:00",
     "id": "tattn"
@@ -554,7 +554,7 @@
   {
     "title": "機械学習を1ヵ月で実践レベルにする #1 (とっかかり編)",
     "url": "https://qiita.com/junichiro/items/ee50af10df77d52cd432",
-    "likes_count": 372,
+    "likes_count": 371,
     "created_at": "2016-12-14T23:08:04+09:00",
     "updated_at": "2017-01-10T18:08:42+09:00",
     "id": "junichiro"
@@ -624,20 +624,20 @@
     "id": "fs-rd-takuya-takeda"
   },
   {
+    "title": "Flux を使わずに React コンポーネント間のコミュニケーションを行う8つの方法",
+    "url": "https://qiita.com/kyoshidajp/items/0ddb156d96bb6337f623",
+    "likes_count": 332,
+    "created_at": "2016-12-31T12:53:24+09:00",
+    "updated_at": "2019-11-21T22:22:39+09:00",
+    "id": "kyoshidajp"
+  },
+  {
     "title": "firebase realtime database でよく使う rule",
     "url": "https://qiita.com/mironal/items/b93742e8ef72b3268beb",
     "likes_count": 331,
     "created_at": "2016-12-05T00:00:54+09:00",
     "updated_at": "2017-11-08T09:14:32+09:00",
     "id": "mironal"
-  },
-  {
-    "title": "Flux を使わずに React コンポーネント間のコミュニケーションを行う8つの方法",
-    "url": "https://qiita.com/kyoshidajp/items/0ddb156d96bb6337f623",
-    "likes_count": 331,
-    "created_at": "2016-12-31T12:53:24+09:00",
-    "updated_at": "2019-11-21T22:22:39+09:00",
-    "id": "kyoshidajp"
   },
   {
     "title": "最強のフロントエンドの雛形作った (2016/12/31)",

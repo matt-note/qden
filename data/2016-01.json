@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4068,
+    "likes_count": 4069,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -178,7 +178,7 @@
   {
     "title": "(デプロイ編①)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/814e0979217b1a25aa3e",
-    "likes_count": 865,
+    "likes_count": 866,
     "created_at": "2016-01-12T16:00:04+09:00",
     "updated_at": "2021-11-25T21:05:34+09:00",
     "id": "naoki_mochizuki"
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
     "url": "https://qiita.com/wadahiro/items/eb50ac6bbe2e18cf8813",
-    "likes_count": 688,
+    "likes_count": 689,
     "created_at": "2016-01-27T02:08:49+09:00",
     "updated_at": "2018-06-18T12:00:54+09:00",
     "id": "wadahiro"
@@ -330,10 +330,18 @@
   {
     "title": "Docker compose ことはじめハンズオン",
     "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2016-01-05T01:32:35+09:00",
     "updated_at": "2019-10-09T21:04:14+09:00",
     "id": "TsutomuNakamura"
+  },
+  {
+    "title": "爆速でターミナルを使うためのショートカット集",
+    "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
+    "likes_count": 506,
+    "created_at": "2016-01-19T01:33:35+09:00",
+    "updated_at": "2019-12-23T11:08:38+09:00",
+    "id": "akito"
   },
   {
     "title": "bundle install と bundle updateの違いについて",
@@ -342,14 +350,6 @@
     "created_at": "2016-01-22T00:25:15+09:00",
     "updated_at": "2016-01-22T00:26:14+09:00",
     "id": "lasershow"
-  },
-  {
-    "title": "爆速でターミナルを使うためのショートカット集",
-    "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
-    "likes_count": 504,
-    "created_at": "2016-01-19T01:33:35+09:00",
-    "updated_at": "2019-12-23T11:08:38+09:00",
-    "id": "akito"
   },
   {
     "title": "Elasticsearch導入前に気を付けておきたいこと！",
@@ -610,7 +610,7 @@
   {
     "title": "機械学習のデータセット画像枚数を増やす方法",
     "url": "https://qiita.com/bohemian916/items/9630661cd5292240f8c7",
-    "likes_count": 326,
+    "likes_count": 325,
     "created_at": "2016-01-07T12:44:39+09:00",
     "updated_at": "2016-04-06T10:55:37+09:00",
     "id": "bohemian916"
@@ -634,7 +634,7 @@
   {
     "title": "[Python]Numpyの参照、抽出、結合",
     "url": "https://qiita.com/supersaiakujin/items/d63c73bb7b5aac43898a",
-    "likes_count": 316,
+    "likes_count": 315,
     "created_at": "2016-01-04T23:40:35+09:00",
     "updated_at": "2018-10-05T12:46:11+09:00",
     "id": "supersaiakujin"
