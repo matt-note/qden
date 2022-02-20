@@ -18,7 +18,7 @@
   {
     "title": "ソートを極める！ 〜 なぜソートを学ぶのか 〜",
     "url": "https://qiita.com/drken/items/44c60118ab3703f7727f",
-    "likes_count": 2127,
+    "likes_count": 2128,
     "created_at": "2018-04-05T09:29:06+09:00",
     "updated_at": "2021-10-23T20:27:03+09:00",
     "id": "drken"
@@ -42,7 +42,7 @@
   {
     "title": "システムで「性別」の情報を扱う前に知っておくべきこと",
     "url": "https://qiita.com/aoshirobo/items/32deb45cb8c8b87d65a4",
-    "likes_count": 1859,
+    "likes_count": 1860,
     "created_at": "2018-04-11T18:02:03+09:00",
     "updated_at": "2019-10-01T10:02:00+09:00",
     "id": "aoshirobo"
@@ -74,7 +74,7 @@
   {
     "title": "私からあなたへ 一人前のJavaエンジニアになるためのロードマップを送ろう",
     "url": "https://qiita.com/haruto167/items/5a784df032518277f4a0",
-    "likes_count": 1449,
+    "likes_count": 1450,
     "created_at": "2018-04-07T16:04:15+09:00",
     "updated_at": "2018-04-28T10:13:26+09:00",
     "id": "haruto167"
@@ -82,7 +82,7 @@
   {
     "title": "GAS ビギナーが GAS を使いこなすために知るべきこと 10 選",
     "url": "https://qiita.com/tanabee/items/2c51681396fe12b6a0e4",
-    "likes_count": 1380,
+    "likes_count": 1381,
     "created_at": "2018-04-03T20:21:07+09:00",
     "updated_at": "2020-10-22T01:26:54+09:00",
     "id": "tanabee"
@@ -122,7 +122,7 @@
   {
     "title": "ngrokが便利すぎる",
     "url": "https://qiita.com/mininobu/items/b45dbc70faedf30f484e",
-    "likes_count": 1130,
+    "likes_count": 1132,
     "created_at": "2018-04-15T00:55:28+09:00",
     "updated_at": "2018-04-15T00:55:28+09:00",
     "id": "mininobu"
@@ -130,7 +130,7 @@
   {
     "title": "Java初心者時代にコードレビューで指摘された悪しき習慣",
     "url": "https://qiita.com/gengogo5/items/5b038cf0b4034194f63a",
-    "likes_count": 1043,
+    "likes_count": 1044,
     "created_at": "2018-04-24T01:22:04+09:00",
     "updated_at": "2018-05-01T00:09:05+09:00",
     "id": "gengogo5"
@@ -186,7 +186,7 @@
   {
     "title": "物体検出についての歴史まとめ(1)",
     "url": "https://qiita.com/mshinoda88/items/9770ee671ea27f2c81a9",
-    "likes_count": 912,
+    "likes_count": 913,
     "created_at": "2018-04-17T21:14:51+09:00",
     "updated_at": "2021-01-15T00:25:15+09:00",
     "id": "mshinoda88"
@@ -298,7 +298,7 @@
   {
     "title": "東大を出てゼロからプログラミングを学び、1年後にWebサービスを作ってみた話",
     "url": "https://qiita.com/tetz-akaneya/items/82a0e46e090daf30f4e6",
-    "likes_count": 589,
+    "likes_count": 588,
     "created_at": "2018-04-14T22:46:02+09:00",
     "updated_at": "2018-04-15T18:18:14+09:00",
     "id": "tetz-akaneya"
@@ -314,10 +314,18 @@
   {
     "title": "二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜",
     "url": "https://qiita.com/drken/items/97e37dd6143e33a64c8c",
-    "likes_count": 556,
+    "likes_count": 557,
     "created_at": "2018-04-20T10:48:11+09:00",
     "updated_at": "2018-07-04T17:57:29+09:00",
     "id": "drken"
+  },
+  {
+    "title": "Goで学ぶポインタとアドレス",
+    "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
+    "likes_count": 541,
+    "created_at": "2018-04-27T14:31:26+09:00",
+    "updated_at": "2019-05-18T15:44:03+09:00",
+    "id": "Sekky0905"
   },
   {
     "title": "システム設計の流れ・設計書の構成メモ",
@@ -326,14 +334,6 @@
     "created_at": "2018-04-26T11:42:28+09:00",
     "updated_at": "2019-05-09T19:32:33+09:00",
     "id": "chocode"
-  },
-  {
-    "title": "Goで学ぶポインタとアドレス",
-    "url": "https://qiita.com/Sekky0905/items/447efa04a95e3fec217f",
-    "likes_count": 540,
-    "created_at": "2018-04-27T14:31:26+09:00",
-    "updated_at": "2019-05-18T15:44:03+09:00",
-    "id": "Sekky0905"
   },
   {
     "title": "Netflixがカスタマーを誰よりも理解するためのデータ分析プロセス、コンシューマー・サイエンスの紹介",
@@ -578,7 +578,7 @@
   {
     "title": "[Rails] Facebook/Twitter/Googleでのユーザー登録をDevise & Omniauthを使って爆速で実装する",
     "url": "https://qiita.com/kazuooooo/items/47e7d426cbb33355590e",
-    "likes_count": 264,
+    "likes_count": 265,
     "created_at": "2018-04-28T20:28:03+09:00",
     "updated_at": "2021-02-17T23:17:49+09:00",
     "id": "kazuooooo"

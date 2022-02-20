@@ -2,7 +2,7 @@
   {
     "title": "僕が考える最強のコミットメッセージの書き方",
     "url": "https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e",
-    "likes_count": 2163,
+    "likes_count": 2164,
     "created_at": "2020-12-02T01:58:24+09:00",
     "updated_at": "2020-12-16T07:00:48+09:00",
     "id": "konatsu_p"
@@ -34,7 +34,7 @@
   {
     "title": "技術選定/アーキテクチャ設計で後悔しないためのガイドライン",
     "url": "https://qiita.com/hirokidaichi/items/a746062917595619720b",
-    "likes_count": 1592,
+    "likes_count": 1593,
     "created_at": "2020-12-15T16:21:33+09:00",
     "updated_at": "2021-07-07T17:14:39+09:00",
     "id": "hirokidaichi"
@@ -114,10 +114,18 @@
   {
     "title": "桃太郎電鉄の「いけるかな」を実現する高速なアルゴリズムの実装と考察",
     "url": "https://qiita.com/ashiba/items/4d2ff52c5f295018057e",
-    "likes_count": 666,
+    "likes_count": 667,
     "created_at": "2020-12-16T11:31:31+09:00",
     "updated_at": "2020-12-21T14:01:33+09:00",
     "id": "ashiba"
+  },
+  {
+    "title": "Next.jsを使うべき5つの理由 + 実装Tips",
+    "url": "https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f",
+    "likes_count": 591,
+    "created_at": "2020-12-19T00:04:14+09:00",
+    "updated_at": "2020-12-19T00:07:11+09:00",
+    "id": "Yuki_Oshima"
   },
   {
     "title": "【Webエンジニアど素人】が【3〜4年生】くらいになったら読むといい本を目的別にまとめた",
@@ -126,14 +134,6 @@
     "created_at": "2020-12-19T16:32:40+09:00",
     "updated_at": "2020-12-29T09:35:02+09:00",
     "id": "JunyaShibato"
-  },
-  {
-    "title": "Next.jsを使うべき5つの理由 + 実装Tips",
-    "url": "https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f",
-    "likes_count": 590,
-    "created_at": "2020-12-19T00:04:14+09:00",
-    "updated_at": "2020-12-19T00:07:11+09:00",
-    "id": "Yuki_Oshima"
   },
   {
     "title": "2で割ることと3で割ること",
@@ -328,20 +328,20 @@
     "id": "omiita"
   },
   {
+    "title": "React開発効率を3倍にするVS Code拡張機能&環境設定",
+    "url": "https://qiita.com/newt0/items/b7810fb38c339ec5e4a7",
+    "likes_count": 326,
+    "created_at": "2020-12-19T00:44:19+09:00",
+    "updated_at": "2020-12-19T16:03:08+09:00",
+    "id": "newt0"
+  },
+  {
     "title": "Angular と Firebase で月間 3.5億PV になった PWA の収益性改善とコストカット",
     "url": "https://qiita.com/MasanobuAkiba/items/6f2e02eceaded9664b14",
     "likes_count": 325,
     "created_at": "2020-12-07T06:52:19+09:00",
     "updated_at": "2021-02-17T02:08:57+09:00",
     "id": "MasanobuAkiba"
-  },
-  {
-    "title": "React開発効率を3倍にするVS Code拡張機能&環境設定",
-    "url": "https://qiita.com/newt0/items/b7810fb38c339ec5e4a7",
-    "likes_count": 325,
-    "created_at": "2020-12-19T00:44:19+09:00",
-    "updated_at": "2020-12-19T16:03:08+09:00",
-    "id": "newt0"
   },
   {
     "title": "「新米エンジニア」から「中堅エンジニア」への道〜冷静と情熱のキャリア戦略〜",
@@ -378,7 +378,7 @@
   {
     "title": "コンテナ運用におけるログ基盤設計のベストプラクティス",
     "url": "https://qiita.com/naomichi-y/items/6eeebd21adf8e771a8e7",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2020-12-21T00:53:17+09:00",
     "updated_at": "2020-12-27T12:08:20+09:00",
     "id": "naomichi-y"
