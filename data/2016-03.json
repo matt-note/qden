@@ -10,7 +10,7 @@
   {
     "title": "特にプログラマーでもデータサイエンティストでも\bないけど、Tensorflowを1ヶ月触ったので超分かりやすく解説",
     "url": "https://qiita.com/tawago/items/c977c79b76c5979874e8",
-    "likes_count": 3291,
+    "likes_count": 3290,
     "created_at": "2016-03-06T21:52:25+09:00",
     "updated_at": "2018-10-04T13:46:59+09:00",
     "id": "tawago"
@@ -18,7 +18,7 @@
   {
     "title": "データサイエンティストを目指す人のpython環境構築 2016",
     "url": "https://qiita.com/y__sama/items/5b62d31cb7e6ed50f02c",
-    "likes_count": 2200,
+    "likes_count": 2199,
     "created_at": "2016-03-17T19:19:27+09:00",
     "updated_at": "2016-04-08T08:29:24+09:00",
     "id": "y__sama"
@@ -26,7 +26,7 @@
   {
     "title": "nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する",
     "url": "https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc",
-    "likes_count": 1983,
+    "likes_count": 1982,
     "created_at": "2016-03-18T01:08:31+09:00",
     "updated_at": "2018-04-09T09:05:54+09:00",
     "id": "kotarella1110"
@@ -82,7 +82,7 @@
   {
     "title": "Herokuでbotを運用する時代は終わった。これからはIBM Bluemixを使って無料で運用する",
     "url": "https://qiita.com/akameco/items/39a55635ceb0ba185b7f",
-    "likes_count": 1204,
+    "likes_count": 1203,
     "created_at": "2016-03-19T07:46:55+09:00",
     "updated_at": "2017-01-17T08:15:37+09:00",
     "id": "akameco"
@@ -106,7 +106,7 @@
   {
     "title": "pythonの内包表記を少し詳しく",
     "url": "https://qiita.com/y__sama/items/a2c458de97c4aa5a98e7",
-    "likes_count": 1043,
+    "likes_count": 1044,
     "created_at": "2016-03-14T20:39:02+09:00",
     "updated_at": "2018-01-02T14:52:54+09:00",
     "id": "y__sama"
@@ -210,7 +210,7 @@
   {
     "title": "Markdownで書ける、よさげなWikiサーバーソフトまとめ",
     "url": "https://qiita.com/Bakudankun/items/740ac8ba1395fe4e40a6",
-    "likes_count": 641,
+    "likes_count": 640,
     "created_at": "2016-03-31T21:35:21+09:00",
     "updated_at": "2019-04-14T17:41:12+09:00",
     "id": "Bakudankun"
@@ -242,7 +242,7 @@
   {
     "title": "Tensorflowを２ヶ月触ったので\"手書きひらがな\"の識別95.04%で畳み込みニューラルネットワークをわかりやすく解説",
     "url": "https://qiita.com/tawago/items/931bea2ff6d56e32d693",
-    "likes_count": 609,
+    "likes_count": 608,
     "created_at": "2016-03-29T11:05:44+09:00",
     "updated_at": "2018-06-15T17:59:23+09:00",
     "id": "tawago"
@@ -250,7 +250,7 @@
   {
     "title": "HomebrewのインストールからpyenvでPythonのAnaconda環境構築までメモ",
     "url": "https://qiita.com/aical/items/2d066801a7464a676994",
-    "likes_count": 586,
+    "likes_count": 585,
     "created_at": "2016-03-11T23:54:45+09:00",
     "updated_at": "2021-04-06T11:20:10+09:00",
     "id": "aical"
@@ -352,20 +352,20 @@
     "id": "mpyw"
   },
   {
+    "title": "Swiftで代数学入門 〜 1. 数とは何か？",
+    "url": "https://qiita.com/taketo1024/items/bd356c59dc0559ee9a0b",
+    "likes_count": 452,
+    "created_at": "2016-03-13T20:25:51+09:00",
+    "updated_at": "2016-03-23T19:47:38+09:00",
+    "id": "taketo1024"
+  },
+  {
     "title": "公開ライセンスの話",
     "url": "https://qiita.com/lovee/items/484ae3fc038314a64ee2",
     "likes_count": 452,
     "created_at": "2016-03-14T12:13:55+09:00",
     "updated_at": "2018-12-05T16:58:29+09:00",
     "id": "lovee"
-  },
-  {
-    "title": "Swiftで代数学入門 〜 1. 数とは何か？",
-    "url": "https://qiita.com/taketo1024/items/bd356c59dc0559ee9a0b",
-    "likes_count": 451,
-    "created_at": "2016-03-13T20:25:51+09:00",
-    "updated_at": "2016-03-23T19:47:38+09:00",
-    "id": "taketo1024"
   },
   {
     "title": "オブジェクト指向エクササイズをやってみる",
@@ -650,7 +650,7 @@
   {
     "title": "CSS設計の類はもっとカスタムデータ属性を活用するべきでは",
     "url": "https://qiita.com/trkbt10/items/ae33dfd579c9cea7f056",
-    "likes_count": 302,
+    "likes_count": 301,
     "created_at": "2016-03-04T20:58:28+09:00",
     "updated_at": "2016-04-07T11:43:00+09:00",
     "id": "trkbt10"
