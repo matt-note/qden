@@ -34,7 +34,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1840,
+    "likes_count": 1841,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -58,7 +58,7 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2022.02",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1658,
+    "likes_count": 1660,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2022-02-02T23:41:00+09:00",
     "id": "hayao_k"
@@ -82,7 +82,7 @@
   {
     "title": "新しく言語を学ぶときに心がけていること",
     "url": "https://qiita.com/hiraike32/items/40ef06f85f6a63828985",
-    "likes_count": 1421,
+    "likes_count": 1422,
     "created_at": "2019-05-12T21:44:32+09:00",
     "updated_at": "2019-05-15T10:25:17+09:00",
     "id": "hiraike32"
@@ -90,7 +90,7 @@
   {
     "title": "2019年5月時点　JavaScript初心者が参考にしていいモダンJavaScript解説サイト2つ",
     "url": "https://qiita.com/fujineyuri/items/7dc05612345122b9072e",
-    "likes_count": 1295,
+    "likes_count": 1294,
     "created_at": "2019-05-25T11:45:42+09:00",
     "updated_at": "2019-05-25T11:47:20+09:00",
     "id": "fujineyuri"
@@ -210,7 +210,7 @@
   {
     "title": "LaTeXにおける正しい論文の書き方",
     "url": "https://qiita.com/birdwatcher/items/5ec42b35d84d3ee2ffbb",
-    "likes_count": 720,
+    "likes_count": 721,
     "created_at": "2019-05-03T02:23:43+09:00",
     "updated_at": "2020-02-10T19:30:28+09:00",
     "id": "birdwatcher"
@@ -218,7 +218,7 @@
   {
     "title": "自作JSの読み込みはbodyの最後に書いたほうがいいのに、なんで外部ライブラリはheadにあるんでしょうか？",
     "url": "https://qiita.com/sadahry/items/1e17a149505da839bc5a",
-    "likes_count": 718,
+    "likes_count": 719,
     "created_at": "2019-05-11T00:58:54+09:00",
     "updated_at": "2019-05-11T03:05:09+09:00",
     "id": "sadahry"
@@ -226,7 +226,7 @@
   {
     "title": "Goコンパイラをゼロから作って147日でセルフホストを達成した",
     "url": "https://qiita.com/DQNEO/items/2efaec18772a1ae3c198",
-    "likes_count": 717,
+    "likes_count": 716,
     "created_at": "2019-05-20T16:40:26+09:00",
     "updated_at": "2020-09-18T19:37:47+09:00",
     "id": "DQNEO"
@@ -386,7 +386,7 @@
   {
     "title": "競技プログラミング入門者の成長のためのメモ",
     "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2019-05-14T05:46:53+09:00",
     "updated_at": "2022-02-19T12:16:52+09:00",
     "id": "masakinihirota"
@@ -424,20 +424,20 @@
     "id": "kahirokunn"
   },
   {
-    "title": "モダン JavaScript プログラミングを始めるために知っておきたい技術セット",
-    "url": "https://qiita.com/Go-Noji/items/25a30b8cadef86abc2b0",
-    "likes_count": 360,
-    "created_at": "2019-05-24T02:31:22+09:00",
-    "updated_at": "2020-01-27T18:26:31+09:00",
-    "id": "Go-Noji"
-  },
-  {
     "title": "WSL (Windows Subsystem for Linux)の基本メモ",
     "url": "https://qiita.com/rubytomato@github/items/fdfc0a76e848442f374e",
     "likes_count": 359,
     "created_at": "2019-05-18T00:04:17+09:00",
     "updated_at": "2020-05-15T23:58:04+09:00",
     "id": "rubytomato@github"
+  },
+  {
+    "title": "モダン JavaScript プログラミングを始めるために知っておきたい技術セット",
+    "url": "https://qiita.com/Go-Noji/items/25a30b8cadef86abc2b0",
+    "likes_count": 359,
+    "created_at": "2019-05-24T02:31:22+09:00",
+    "updated_at": "2020-01-27T18:26:31+09:00",
+    "id": "Go-Noji"
   },
   {
     "title": "5時間でWebサービスをローンチするためにした７つのこと",
@@ -528,20 +528,20 @@
     "id": "KoyanagiHitoshi"
   },
   {
-    "title": "Laravel で Service 層を取り入れるときに検討したいこと",
-    "url": "https://qiita.com/nunulk/items/6b7a7bbda17192f6b2f5",
-    "likes_count": 301,
-    "created_at": "2019-05-26T20:48:26+09:00",
-    "updated_at": "2019-05-26T22:28:50+09:00",
-    "id": "nunulk"
-  },
-  {
     "title": "Vue.jsでファイルアップロードの実装--ついでにプレビュー機能も実装した話--",
     "url": "https://qiita.com/hikach/items/655729bc1893392dfd42",
     "likes_count": 300,
     "created_at": "2019-05-11T13:16:52+09:00",
     "updated_at": "2019-05-11T13:32:22+09:00",
     "id": "hikach"
+  },
+  {
+    "title": "Laravel で Service 層を取り入れるときに検討したいこと",
+    "url": "https://qiita.com/nunulk/items/6b7a7bbda17192f6b2f5",
+    "likes_count": 300,
+    "created_at": "2019-05-26T20:48:26+09:00",
+    "updated_at": "2019-05-26T22:28:50+09:00",
+    "id": "nunulk"
   },
   {
     "title": "【VSCode Remote】10秒でNuxt環境を構築【脱WebStorm】",
@@ -554,7 +554,7 @@
   {
     "title": "今度こそわかるぞRNN, LSTM編",
     "url": "https://qiita.com/kazukiii/items/df809d6cd5d7d1f57be3",
-    "likes_count": 272,
+    "likes_count": 273,
     "created_at": "2019-05-05T11:38:50+09:00",
     "updated_at": "2019-05-05T20:13:39+09:00",
     "id": "kazukiii"
