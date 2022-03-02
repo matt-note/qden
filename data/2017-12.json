@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5572,
+    "likes_count": 5573,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2088,
+    "likes_count": 2090,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -106,7 +106,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 943,
+    "likes_count": 944,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2019-08-16T17:10:59+09:00",
     "id": "mochio"
@@ -210,7 +210,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 770,
+    "likes_count": 771,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -328,20 +328,20 @@
     "id": "yuya_presto"
   },
   {
+    "title": "HTTP/2における双方向通信とgRPCとこれから",
+    "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
+    "likes_count": 593,
+    "created_at": "2017-12-25T00:00:21+09:00",
+    "updated_at": "2018-01-04T08:38:50+09:00",
+    "id": "namusyaka"
+  },
+  {
     "title": "2017末時点での React Component 設計のベストプラクティス",
     "url": "https://qiita.com/mizchi/items/bcb1aef8d1f14f8d0b4a",
     "likes_count": 592,
     "created_at": "2017-12-17T22:21:29+09:00",
     "updated_at": "2017-12-17T23:42:55+09:00",
     "id": "mizchi"
-  },
-  {
-    "title": "HTTP/2における双方向通信とgRPCとこれから",
-    "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 592,
-    "created_at": "2017-12-25T00:00:21+09:00",
-    "updated_at": "2018-01-04T08:38:50+09:00",
-    "id": "namusyaka"
   },
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
@@ -386,7 +386,7 @@
   {
     "title": "SlackのIncoming Webhooksを使い倒す",
     "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
-    "likes_count": 538,
+    "likes_count": 540,
     "created_at": "2017-12-14T10:09:51+09:00",
     "updated_at": "2017-12-14T14:47:37+09:00",
     "id": "ik-fib"
@@ -490,7 +490,7 @@
   {
     "title": "WindowsでDocker環境を試してみる",
     "url": "https://qiita.com/fkooo/items/d2fddef9091b906675ca",
-    "likes_count": 430,
+    "likes_count": 431,
     "created_at": "2017-12-20T20:24:56+09:00",
     "updated_at": "2022-02-03T14:00:35+09:00",
     "id": "fkooo"
@@ -722,7 +722,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
@@ -730,7 +730,7 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 320,
+    "likes_count": 321,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"

@@ -10,7 +10,7 @@
   {
     "title": "新卒からの質問をソシャゲっぽい仕組みにしたら捗った話",
     "url": "https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50",
-    "likes_count": 2765,
+    "likes_count": 2766,
     "created_at": "2018-12-04T09:50:05+09:00",
     "updated_at": "2019-02-28T19:10:54+09:00",
     "id": "ysktsuna"
@@ -42,7 +42,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1325,
+    "likes_count": 1324,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2019-09-14T16:44:47+09:00",
     "id": "saboyutaka"
@@ -66,7 +66,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1247,
+    "likes_count": 1248,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -154,7 +154,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 949,
+    "likes_count": 950,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -186,7 +186,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 917,
+    "likes_count": 918,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -314,7 +314,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 546,
+    "likes_count": 547,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2021-07-12T12:15:57+09:00",
     "id": "syantien"
@@ -354,7 +354,7 @@
   {
     "title": "積極性と強い問題意識を要求する「振り返り」は、もうたくさん",
     "url": "https://qiita.com/otktko/items/d1904cb8db3ed3446019",
-    "likes_count": 502,
+    "likes_count": 503,
     "created_at": "2018-12-25T00:01:32+09:00",
     "updated_at": "2018-12-27T10:55:05+09:00",
     "id": "otktko"
@@ -390,14 +390,6 @@
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
-  },
-  {
-    "title": "Github Actionsが使えるようになったので使ってみる",
-    "url": "https://qiita.com/1915keke/items/8b18097d2981e88eca93",
-    "likes_count": 473,
-    "created_at": "2018-12-02T19:23:09+09:00",
-    "updated_at": "2019-09-13T14:44:25+09:00",
-    "id": "1915keke"
   },
   {
     "title": "主成分分析を Python で理解する",
@@ -450,7 +442,7 @@
   {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 433,
+    "likes_count": 434,
     "created_at": "2018-12-07T17:46:26+09:00",
     "updated_at": "2020-03-18T20:59:40+09:00",
     "id": "yasuabe2613"
@@ -510,6 +502,14 @@
     "created_at": "2018-12-06T02:27:47+09:00",
     "updated_at": "2019-10-22T10:30:30+09:00",
     "id": "shibukawa"
+  },
+  {
+    "title": "VSCode に Code Spell Checker を導入して typo と戦う",
+    "url": "https://qiita.com/diescake/items/98c5a099e85775cd917d",
+    "likes_count": 388,
+    "created_at": "2018-12-07T15:48:20+09:00",
+    "updated_at": "2021-01-31T03:24:25+09:00",
+    "id": "diescake"
   },
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
@@ -586,7 +586,7 @@
   {
     "title": "configure, make, make install とは何か",
     "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2018-12-20T14:36:24+09:00",
     "updated_at": "2018-12-20T14:36:24+09:00",
     "id": "chihiro"
@@ -634,7 +634,7 @@
   {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
@@ -746,7 +746,7 @@
   {
     "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
     "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2018-12-09T00:00:37+09:00",
     "updated_at": "2021-04-15T09:24:25+09:00",
     "id": "ryosuketter"
