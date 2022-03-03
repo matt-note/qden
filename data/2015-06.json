@@ -18,7 +18,7 @@
   {
     "title": "出来る限り短く説明するReactJS入門",
     "url": "https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19",
-    "likes_count": 2077,
+    "likes_count": 2078,
     "created_at": "2015-06-21T23:39:15+09:00",
     "updated_at": "2022-02-26T15:59:40+09:00",
     "id": "rgbkids"
@@ -98,7 +98,7 @@
   {
     "title": "jQueryを利用したDOM操作 要素の追加メソッドまとめ",
     "url": "https://qiita.com/nekoneko-wanwan/items/227ccad5f8cc449e91e9",
-    "likes_count": 1018,
+    "likes_count": 1020,
     "created_at": "2015-06-29T17:23:12+09:00",
     "updated_at": "2015-06-29T17:24:13+09:00",
     "id": "nekoneko-wanwan"
@@ -114,7 +114,7 @@
   {
     "title": "~/.ssh/configについて",
     "url": "https://qiita.com/passol78/items/2ad123e39efeb1a5286b",
-    "likes_count": 829,
+    "likes_count": 830,
     "created_at": "2015-06-30T18:12:48+09:00",
     "updated_at": "2018-06-25T23:21:19+09:00",
     "id": "passol78"
@@ -138,7 +138,7 @@
   {
     "title": "RxJavaに3日で入門し、Androidアプリのリスト操作、非同期処理、変更通知の課題を解決した話",
     "url": "https://qiita.com/yuya_presto/items/152fa80d073d865cfc90",
-    "likes_count": 797,
+    "likes_count": 796,
     "created_at": "2015-06-29T02:53:05+09:00",
     "updated_at": "2016-04-28T18:07:05+09:00",
     "id": "yuya_presto"
@@ -226,7 +226,7 @@
   {
     "title": "IT勉強会を探すために捗るサイトまとめ【9選】",
     "url": "https://qiita.com/kobaboy/items/6c80511a10122aa87d02",
-    "likes_count": 570,
+    "likes_count": 571,
     "created_at": "2015-06-02T13:37:53+09:00",
     "updated_at": "2020-09-21T17:42:30+09:00",
     "id": "kobaboy"
@@ -242,7 +242,7 @@
   {
     "title": "AWS 月額料金チートシート",
     "url": "https://qiita.com/jyotti/items/d47b52fa13d12476406f",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2015-06-08T18:24:16+09:00",
     "updated_at": "2018-02-21T01:04:03+09:00",
     "id": "jyotti"
@@ -362,7 +362,7 @@
   {
     "title": "Haskellのビルドツール\"stack\"の紹介",
     "url": "https://qiita.com/tanakh/items/6866d0f570d0547df026",
-    "likes_count": 411,
+    "likes_count": 410,
     "created_at": "2015-06-25T03:09:14+09:00",
     "updated_at": "2016-01-27T20:13:29+09:00",
     "id": "tanakh"
@@ -376,20 +376,20 @@
     "id": "jnchito"
   },
   {
+    "title": "ActiveRecordで生SQLを使いたいときに便利なメソッド達",
+    "url": "https://qiita.com/yut_h1979/items/4cb3d9a3b3fc87ca0435",
+    "likes_count": 389,
+    "created_at": "2015-06-28T10:43:57+09:00",
+    "updated_at": "2015-06-28T10:43:57+09:00",
+    "id": "yut_h1979"
+  },
+  {
     "title": "PHPで学ぶオブジェクト指向",
     "url": "https://qiita.com/ritukiii/items/a1979c3bcdcea9454d53",
     "likes_count": 389,
     "created_at": "2015-06-30T09:16:53+09:00",
     "updated_at": "2017-05-16T10:35:44+09:00",
     "id": "ritukiii"
-  },
-  {
-    "title": "ActiveRecordで生SQLを使いたいときに便利なメソッド達",
-    "url": "https://qiita.com/yut_h1979/items/4cb3d9a3b3fc87ca0435",
-    "likes_count": 388,
-    "created_at": "2015-06-28T10:43:57+09:00",
-    "updated_at": "2015-06-28T10:43:57+09:00",
-    "id": "yut_h1979"
   },
   {
     "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
@@ -472,20 +472,20 @@
     "id": "keigodasu"
   },
   {
-    "title": "声優の声を分類してみた",
-    "url": "https://qiita.com/1234224576/items/f785eef6eed68271be64",
-    "likes_count": 337,
-    "created_at": "2015-06-23T03:32:27+09:00",
-    "updated_at": "2015-06-23T03:57:50+09:00",
-    "id": "1234224576"
-  },
-  {
     "title": "SCSSと付き合う上でやって(知って)よかったこと8選",
     "url": "https://qiita.com/terrierscript/items/e996c42798bbb17add13",
     "likes_count": 337,
     "created_at": "2015-06-26T21:58:44+09:00",
     "updated_at": "2016-02-20T00:37:01+09:00",
     "id": "terrierscript"
+  },
+  {
+    "title": "声優の声を分類してみた",
+    "url": "https://qiita.com/1234224576/items/f785eef6eed68271be64",
+    "likes_count": 336,
+    "created_at": "2015-06-23T03:32:27+09:00",
+    "updated_at": "2015-06-23T03:57:50+09:00",
+    "id": "1234224576"
   },
   {
     "title": "いま話題のSublime Textのテーマやおすすめの設定・使用例を醸す",
