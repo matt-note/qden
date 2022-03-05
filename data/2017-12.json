@@ -42,7 +42,7 @@
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
     "url": "https://qiita.com/potato4d/items/cfddeb8732fec63cb29c",
-    "likes_count": 1385,
+    "likes_count": 1384,
     "created_at": "2017-12-21T11:31:44+09:00",
     "updated_at": "2019-12-05T12:02:14+09:00",
     "id": "potato4d"
@@ -138,10 +138,18 @@
   {
     "title": "Vue.js + Firebase を使って爆速でユーザ認証を実装する",
     "url": "https://qiita.com/sin_tanaka/items/ea149a33bd9e4b388241",
-    "likes_count": 883,
+    "likes_count": 882,
     "created_at": "2017-12-22T13:55:59+09:00",
     "updated_at": "2019-02-20T09:49:20+09:00",
     "id": "sin_tanaka"
+  },
+  {
+    "title": "Storybookがなぜ必要か？(Vue.js編)",
+    "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
+    "likes_count": 861,
+    "created_at": "2017-12-24T00:27:00+09:00",
+    "updated_at": "2019-02-26T17:34:46+09:00",
+    "id": "masaakikunsan"
   },
   {
     "title": "2017年のディープラーニング論文100選",
@@ -150,14 +158,6 @@
     "created_at": "2017-12-18T13:13:50+09:00",
     "updated_at": "2018-05-09T01:01:47+09:00",
     "id": "sakaiakira"
-  },
-  {
-    "title": "Storybookがなぜ必要か？(Vue.js編)",
-    "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 860,
-    "created_at": "2017-12-24T00:27:00+09:00",
-    "updated_at": "2019-02-26T17:34:46+09:00",
-    "id": "masaakikunsan"
   },
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
@@ -210,7 +210,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 771,
+    "likes_count": 772,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -320,20 +320,20 @@
     "id": "_takeshi_24"
   },
   {
+    "title": "HTTP/2における双方向通信とgRPCとこれから",
+    "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
+    "likes_count": 594,
+    "created_at": "2017-12-25T00:00:21+09:00",
+    "updated_at": "2018-01-04T08:38:50+09:00",
+    "id": "namusyaka"
+  },
+  {
     "title": "次にJSガッツリ書くときはTypeScriptで",
     "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
     "likes_count": 594,
     "created_at": "2017-12-26T18:52:16+09:00",
     "updated_at": "2020-06-27T01:29:19+09:00",
     "id": "yuya_presto"
-  },
-  {
-    "title": "HTTP/2における双方向通信とgRPCとこれから",
-    "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 593,
-    "created_at": "2017-12-25T00:00:21+09:00",
-    "updated_at": "2018-01-04T08:38:50+09:00",
-    "id": "namusyaka"
   },
   {
     "title": "2017末時点での React Component 設計のベストプラクティス",
@@ -546,7 +546,7 @@
   {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
-    "likes_count": 403,
+    "likes_count": 404,
     "created_at": "2017-12-17T19:09:32+09:00",
     "updated_at": "2019-11-30T18:47:57+09:00",
     "id": "ZoneTsuyoshi"
@@ -690,7 +690,7 @@
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
     "url": "https://qiita.com/seya/items/225f859d775b31047000",
-    "likes_count": 331,
+    "likes_count": 332,
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
