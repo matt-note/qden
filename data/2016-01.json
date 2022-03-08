@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2560,
+    "likes_count": 2561,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -194,7 +194,7 @@
   {
     "title": "なるべく短い正規表現で住所を「都道府県/市区町村/それ以降」に分けるエクストリームスポーツ",
     "url": "https://qiita.com/zakuroishikuro/items/066421bce820e3c73ce9",
-    "likes_count": 838,
+    "likes_count": 839,
     "created_at": "2016-01-26T22:29:08+09:00",
     "updated_at": "2016-03-16T20:08:37+09:00",
     "id": "zakuroishikuro"
@@ -330,7 +330,7 @@
   {
     "title": "Docker compose ことはじめハンズオン",
     "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2016-01-05T01:32:35+09:00",
     "updated_at": "2019-10-09T21:04:14+09:00",
     "id": "TsutomuNakamura"
@@ -734,6 +734,14 @@
     "created_at": "2016-01-24T18:09:26+09:00",
     "updated_at": "2016-01-24T18:09:26+09:00",
     "id": "saitoxu"
+  },
+  {
+    "title": "Railsでの日付操作でよく使うものまとめ",
+    "url": "https://qiita.com/mmmm/items/efda48f1ac0267c95c29",
+    "likes_count": 275,
+    "created_at": "2016-01-03T17:04:27+09:00",
+    "updated_at": "2017-05-08T20:44:20+09:00",
+    "id": "mmmm"
   },
   {
     "title": "Dockerfileを極めて、Dockerマスターになろう！",

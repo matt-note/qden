@@ -26,7 +26,7 @@
   {
     "title": "ターミナルのディレクトリ移動を高速化する",
     "url": "https://qiita.com/b4b4r07/items/2cf90da00a4c2c7b7e60",
-    "likes_count": 1158,
+    "likes_count": 1159,
     "created_at": "2015-08-07T19:43:53+09:00",
     "updated_at": "2016-02-29T17:53:30+09:00",
     "id": "b4b4r07"
@@ -106,7 +106,7 @@
   {
     "title": "package.json のチルダ(~) とキャレット(^)",
     "url": "https://qiita.com/sotarok/items/4ebd4cfedab186355867",
-    "likes_count": 753,
+    "likes_count": 754,
     "created_at": "2015-08-20T10:42:26+09:00",
     "updated_at": "2016-08-01T11:49:47+09:00",
     "id": "sotarok"
@@ -202,7 +202,7 @@
   {
     "title": "個人的な良い記事のガイドライン = 2ヶ月前の自分が泣いて喜ぶような記事を書く",
     "url": "https://qiita.com/jnchito/items/5c3eb3640ad57b3edc6c",
-    "likes_count": 436,
+    "likes_count": 437,
     "created_at": "2015-08-26T08:03:39+09:00",
     "updated_at": "2015-09-22T08:47:53+09:00",
     "id": "jnchito"
@@ -218,7 +218,7 @@
   {
     "title": "htmlのid属性とclass属性の命名はハイフンかcamelかsnakeか",
     "url": "https://qiita.com/itagakishintaro/items/168667d5ee4c56b30d52",
-    "likes_count": 388,
+    "likes_count": 389,
     "created_at": "2015-08-11T21:29:56+09:00",
     "updated_at": "2018-05-14T07:21:41+09:00",
     "id": "itagakishintaro"
@@ -390,6 +390,14 @@
     "created_at": "2015-08-04T14:04:25+09:00",
     "updated_at": "2016-02-25T15:06:32+09:00",
     "id": "naoya@github"
+  },
+  {
+    "title": "簡単なHTTPサーバーを作る",
+    "url": "https://qiita.com/opengl-8080/items/ca152658a0e52c786029",
+    "likes_count": 270,
+    "created_at": "2015-08-10T00:14:16+09:00",
+    "updated_at": "2017-03-05T22:21:25+09:00",
+    "id": "opengl-8080"
   },
   {
     "title": "ConohaにVPSを設置して、SSHログイン、ポート番号変更、rootログイン禁止までを30分で！",

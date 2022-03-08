@@ -58,7 +58,7 @@
   {
     "title": "インフラエンジニアと謎のサーバ",
     "url": "https://qiita.com/kanga/items/979b0bdc4653e025483a",
-    "likes_count": 1276,
+    "likes_count": 1277,
     "created_at": "2018-12-06T19:56:35+09:00",
     "updated_at": "2019-05-02T16:00:02+09:00",
     "id": "kanga"
@@ -170,7 +170,7 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 925,
+    "likes_count": 926,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2021-09-24T17:22:18+09:00",
     "id": "Maki-Daisuke"
@@ -298,10 +298,18 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 565,
+    "likes_count": 566,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
+  },
+  {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 550,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2021-07-12T12:15:57+09:00",
+    "id": "syantien"
   },
   {
     "title": "とても強い計算量クラスのコンピュータとその実現方法",
@@ -310,14 +318,6 @@
     "created_at": "2018-12-19T23:15:38+09:00",
     "updated_at": "2019-02-15T21:53:19+09:00",
     "id": "iKodack"
-  },
-  {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 549,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2021-07-12T12:15:57+09:00",
-    "id": "syantien"
   },
   {
     "title": "ExcelにPythonが搭載？その後 - xlwings を使おう ",
@@ -512,20 +512,20 @@
     "id": "diescake"
   },
   {
+    "title": "Web API初心者と学ぶGraphQL",
+    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
+    "likes_count": 384,
+    "created_at": "2018-12-20T03:46:56+09:00",
+    "updated_at": "2021-10-12T15:09:10+09:00",
+    "id": "SiragumoHuin"
+  },
+  {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
     "likes_count": 383,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
-  },
-  {
-    "title": "Web API初心者と学ぶGraphQL",
-    "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 383,
-    "created_at": "2018-12-20T03:46:56+09:00",
-    "updated_at": "2021-10-12T15:09:10+09:00",
-    "id": "SiragumoHuin"
   },
   {
     "title": "知っていると捗るcreate-react-appの設定",
@@ -594,7 +594,7 @@
   {
     "title": "フロントエンドでTDDを実践する（理論編）",
     "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2018-12-08T23:40:26+09:00",
     "updated_at": "2018-12-11T23:14:50+09:00",
     "id": "taneba"
