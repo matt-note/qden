@@ -2,7 +2,7 @@
   {
     "title": "データ分析で頻出のPandas基本操作",
     "url": "https://qiita.com/ysdyt/items/9ccca82fc5b504e7913a",
-    "likes_count": 2361,
+    "likes_count": 2362,
     "created_at": "2018-04-16T08:12:28+09:00",
     "updated_at": "2019-12-17T17:19:27+09:00",
     "id": "ysdyt"
@@ -42,7 +42,7 @@
   {
     "title": "システムで「性別」の情報を扱う前に知っておくべきこと",
     "url": "https://qiita.com/aoshirobo/items/32deb45cb8c8b87d65a4",
-    "likes_count": 1860,
+    "likes_count": 1861,
     "created_at": "2018-04-11T18:02:03+09:00",
     "updated_at": "2019-10-01T10:02:00+09:00",
     "id": "aoshirobo"
@@ -74,7 +74,7 @@
   {
     "title": "私からあなたへ 一人前のJavaエンジニアになるためのロードマップを送ろう",
     "url": "https://qiita.com/haruto167/items/5a784df032518277f4a0",
-    "likes_count": 1465,
+    "likes_count": 1466,
     "created_at": "2018-04-07T16:04:15+09:00",
     "updated_at": "2018-04-28T10:13:26+09:00",
     "id": "haruto167"
@@ -82,7 +82,7 @@
   {
     "title": "GAS ビギナーが GAS を使いこなすために知るべきこと 10 選",
     "url": "https://qiita.com/tanabee/items/2c51681396fe12b6a0e4",
-    "likes_count": 1384,
+    "likes_count": 1385,
     "created_at": "2018-04-03T20:21:07+09:00",
     "updated_at": "2020-10-22T01:26:54+09:00",
     "id": "tanabee"
@@ -170,7 +170,7 @@
   {
     "title": "Python命名規則一覧",
     "url": "https://qiita.com/naomi7325/items/4eb1d2a40277361e898b",
-    "likes_count": 926,
+    "likes_count": 927,
     "created_at": "2018-04-22T14:18:47+09:00",
     "updated_at": "2021-04-25T17:53:12+09:00",
     "id": "naomi7325"
@@ -178,7 +178,7 @@
   {
     "title": "排他制御（楽観ロック・悲観ロック）の基礎　",
     "url": "https://qiita.com/NagaokaKenichi/items/73040df85b7bd4e9ecfc",
-    "likes_count": 921,
+    "likes_count": 922,
     "created_at": "2018-04-08T18:17:21+09:00",
     "updated_at": "2022-01-25T22:30:03+09:00",
     "id": "NagaokaKenichi"
@@ -218,7 +218,7 @@
   {
     "title": "Rails5.2から追加された credentials.yml.enc のキホン",
     "url": "https://qiita.com/NaokiIshimura/items/2a179f2ab910992c4d39",
-    "likes_count": 726,
+    "likes_count": 727,
     "created_at": "2018-04-12T22:24:26+09:00",
     "updated_at": "2020-11-16T02:00:48+09:00",
     "id": "NaokiIshimura"
@@ -290,7 +290,7 @@
   {
     "title": "【Pythonメモ】pandas-profilingが探索的データ解析にめちゃめちゃ便利だった件",
     "url": "https://qiita.com/h_kobayashi1125/items/02039e57a656abe8c48f",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2018-04-27T20:40:38+09:00",
     "updated_at": "2018-05-06T02:01:27+09:00",
     "id": "h_kobayashi1125"
@@ -330,7 +330,7 @@
   {
     "title": "システム設計の流れ・設計書の構成メモ",
     "url": "https://qiita.com/chocode/items/fd51dd8f561e2a0fbd70",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2018-04-26T11:42:28+09:00",
     "updated_at": "2019-05-09T19:32:33+09:00",
     "id": "chocode"
@@ -376,20 +376,20 @@
     "id": "tlokweng"
   },
   {
+    "title": "【つづき】つるのおんがえしで学ぶLinuxコマンド「決して、この部屋をのぞかないで」〜chmodとchown〜",
+    "url": "https://qiita.com/carotene4035/items/8058d6c2f1b82fe1c90f",
+    "likes_count": 495,
+    "created_at": "2018-04-09T11:24:59+09:00",
+    "updated_at": "2018-04-09T11:24:59+09:00",
+    "id": "carotene4035"
+  },
+  {
     "title": "iPhone画面サイズ早見表（図付き）",
     "url": "https://qiita.com/pe-ta/items/b3b754bde584abc98f44",
     "likes_count": 495,
     "created_at": "2018-04-25T08:11:20+09:00",
     "updated_at": "2021-10-12T18:38:03+09:00",
     "id": "pe-ta"
-  },
-  {
-    "title": "【つづき】つるのおんがえしで学ぶLinuxコマンド「決して、この部屋をのぞかないで」〜chmodとchown〜",
-    "url": "https://qiita.com/carotene4035/items/8058d6c2f1b82fe1c90f",
-    "likes_count": 494,
-    "created_at": "2018-04-09T11:24:59+09:00",
-    "updated_at": "2018-04-09T11:24:59+09:00",
-    "id": "carotene4035"
   },
   {
     "title": "開発に集中するためのChrome拡張を作りました！",
@@ -434,7 +434,7 @@
   {
     "title": "レビューコメントにラベルをつけるだけで開発効率があがって幸せになれそうな話",
     "url": "https://qiita.com/godgarden/items/3ea57a7ee6dbff1df6e6",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2018-04-04T23:57:11+09:00",
     "updated_at": "2020-04-01T20:06:11+09:00",
     "id": "godgarden"
@@ -466,7 +466,7 @@
   {
     "title": "ムダな資格集めとはもうサヨナラ　「自分の教育マップ」の作り方",
     "url": "https://qiita.com/Akira-Isegawa/items/d7d103900272b3818ea8",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2018-04-01T23:16:44+09:00",
     "updated_at": "2020-03-25T10:56:49+09:00",
     "id": "Akira-Isegawa"
