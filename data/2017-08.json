@@ -4,13 +4,13 @@
     "url": "https://qiita.com/soarflat/items/1a9613e023200bbebcb3",
     "likes_count": 3167,
     "created_at": "2017-08-03T14:25:22+09:00",
-    "updated_at": "2022-02-07T10:45:48+09:00",
+    "updated_at": "2022-03-10T20:18:52+09:00",
     "id": "soarflat"
   },
   {
     "title": "VS Code の便利なショートカットキー",
     "url": "https://qiita.com/12345/items/64f4372fbca041e949d0",
-    "likes_count": 2997,
+    "likes_count": 2998,
     "created_at": "2017-08-13T07:04:56+09:00",
     "updated_at": "2021-12-10T22:22:01+09:00",
     "id": "12345"
@@ -18,7 +18,7 @@
   {
     "title": "今さら人に聞けない Kubernetes とは？",
     "url": "https://qiita.com/MahoTakara/items/85096f8b2632c802ab22",
-    "likes_count": 2622,
+    "likes_count": 2623,
     "created_at": "2017-08-24T17:12:43+09:00",
     "updated_at": "2019-10-11T09:22:22+09:00",
     "id": "MahoTakara"
@@ -34,7 +34,7 @@
   {
     "title": "一番詳しいCSS設計規則BEMのマニュアル",
     "url": "https://qiita.com/Takuan_Oishii/items/0f0d2c5dc33a9b2d9cb1",
-    "likes_count": 1571,
+    "likes_count": 1572,
     "created_at": "2017-08-30T20:48:41+09:00",
     "updated_at": "2019-07-16T17:00:50+09:00",
     "id": "Takuan_Oishii"
@@ -42,7 +42,7 @@
   {
     "title": "<script> タグに async / defer を付けた場合のタイミング",
     "url": "https://qiita.com/phanect/items/82c85ea4b8f9c373d684",
-    "likes_count": 1425,
+    "likes_count": 1426,
     "created_at": "2017-08-05T21:05:47+09:00",
     "updated_at": "2019-02-23T10:01:33+09:00",
     "id": "phanect"
@@ -58,7 +58,7 @@
   {
     "title": "Swaggerの概要をまとめてみた。",
     "url": "https://qiita.com/gcyata/items/342073fa7607fd4082bd",
-    "likes_count": 1271,
+    "likes_count": 1272,
     "created_at": "2017-08-25T18:03:53+09:00",
     "updated_at": "2018-02-17T23:09:25+09:00",
     "id": "gcyata"
@@ -82,7 +82,7 @@
   {
     "title": "async関数においてtry/catchではなくawait/catchパターンを活用する",
     "url": "https://qiita.com/akameco/items/cc73afcdb5ac5d0774bc",
-    "likes_count": 919,
+    "likes_count": 920,
     "created_at": "2017-08-27T09:01:49+09:00",
     "updated_at": "2017-08-31T13:57:59+09:00",
     "id": "akameco"
@@ -90,7 +90,7 @@
   {
     "title": "ECS運用のノウハウ",
     "url": "https://qiita.com/naomichi-y/items/d933867127f27524686a",
-    "likes_count": 866,
+    "likes_count": 867,
     "created_at": "2017-08-31T12:21:20+09:00",
     "updated_at": "2021-12-18T16:11:34+09:00",
     "id": "naomichi-y"
@@ -114,7 +114,7 @@
   {
     "title": "一から始める機械学習（機械学習概要）",
     "url": "https://qiita.com/taki_tflare/items/42a40119d3d8e622edd2",
-    "likes_count": 786,
+    "likes_count": 787,
     "created_at": "2017-08-12T06:17:01+09:00",
     "updated_at": "2020-04-23T20:31:42+09:00",
     "id": "taki_tflare"
@@ -138,7 +138,7 @@
   {
     "title": "Capybaraチートシート",
     "url": "https://qiita.com/morrr/items/0e24251c049180218db4",
-    "likes_count": 512,
+    "likes_count": 513,
     "created_at": "2017-08-20T01:45:12+09:00",
     "updated_at": "2017-08-20T01:45:12+09:00",
     "id": "morrr"
@@ -152,20 +152,20 @@
     "id": "poly_soft"
   },
   {
+    "title": "Pythonを速くしたいときにやったこと",
+    "url": "https://qiita.com/shaka/items/f180ae4dc945dc7b9066",
+    "likes_count": 479,
+    "created_at": "2017-08-08T23:28:35+09:00",
+    "updated_at": "2021-03-20T19:32:34+09:00",
+    "id": "shaka"
+  },
+  {
     "title": "認証プラットフォーム Auth0 とは？",
     "url": "https://qiita.com/furuth/items/68c3caa3127cbf4f6b77",
     "likes_count": 479,
     "created_at": "2017-08-09T21:09:48+09:00",
     "updated_at": "2018-08-16T11:28:58+09:00",
     "id": "furuth"
-  },
-  {
-    "title": "Pythonを速くしたいときにやったこと",
-    "url": "https://qiita.com/shaka/items/f180ae4dc945dc7b9066",
-    "likes_count": 478,
-    "created_at": "2017-08-08T23:28:35+09:00",
-    "updated_at": "2021-03-20T19:32:34+09:00",
-    "id": "shaka"
   },
   {
     "title": "AWS 認定 Associate level を大体一ヶ月で取った話",
@@ -218,7 +218,7 @@
   {
     "title": "「ベクトルで微分・行列で微分」公式まとめ",
     "url": "https://qiita.com/AnchorBlues/items/8fe2483a3a72676eb96d",
-    "likes_count": 383,
+    "likes_count": 382,
     "created_at": "2017-08-05T18:04:50+09:00",
     "updated_at": "2019-07-23T13:33:27+09:00",
     "id": "AnchorBlues"
@@ -314,7 +314,7 @@
   {
     "title": "Androidで個人的によく使うlayout系設定チートシート",
     "url": "https://qiita.com/k_keisuke/items/fa56434dc11ec6608f67",
-    "likes_count": 269,
+    "likes_count": 270,
     "created_at": "2017-08-04T11:46:12+09:00",
     "updated_at": "2020-09-22T00:51:54+09:00",
     "id": "k_keisuke"

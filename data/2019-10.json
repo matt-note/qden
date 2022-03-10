@@ -2,7 +2,7 @@
   {
     "title": "プログラミングで一番難しいのは「見積もり」だと思う",
     "url": "https://qiita.com/yuno_miyako/items/8678cd542fbb7050e40e",
-    "likes_count": 2921,
+    "likes_count": 2920,
     "created_at": "2019-10-07T17:43:11+09:00",
     "updated_at": "2019-10-09T17:52:54+09:00",
     "id": "yuno_miyako"
@@ -138,7 +138,7 @@
   {
     "title": "「美しい」にモヤったら「認知負荷が小さい」と言いかえよう",
     "url": "https://qiita.com/tonluqclml/items/2a2ab902e298b4c8fa71",
-    "likes_count": 806,
+    "likes_count": 805,
     "created_at": "2019-10-16T00:04:44+09:00",
     "updated_at": "2020-01-22T15:11:09+09:00",
     "id": "tonluqclml"
@@ -178,7 +178,7 @@
   {
     "title": "2019年最強の画像認識モデルEfficientNet解説",
     "url": "https://qiita.com/omiita/items/83643f78baabfa210ab1",
-    "likes_count": 657,
+    "likes_count": 659,
     "created_at": "2019-10-30T18:25:06+09:00",
     "updated_at": "2021-11-13T20:39:57+09:00",
     "id": "omiita"
@@ -192,20 +192,20 @@
     "id": "y-meguro"
   },
   {
-    "title": "2020年向け 開発者向けブラウザ拡張機能９選",
-    "url": "https://qiita.com/baby-degu/items/6bbe49b2429b4cfade34",
-    "likes_count": 644,
-    "created_at": "2019-10-27T10:08:41+09:00",
-    "updated_at": "2021-02-10T21:37:14+09:00",
-    "id": "baby-degu"
-  },
-  {
     "title": "HttpClientをusingで囲わないでください",
     "url": "https://qiita.com/superriver/items/91781bca04a76aec7dc0",
     "likes_count": 643,
     "created_at": "2019-10-02T09:14:03+09:00",
     "updated_at": "2019-10-05T02:00:10+09:00",
     "id": "superriver"
+  },
+  {
+    "title": "2020年向け 開発者向けブラウザ拡張機能９選",
+    "url": "https://qiita.com/baby-degu/items/6bbe49b2429b4cfade34",
+    "likes_count": 643,
+    "created_at": "2019-10-27T10:08:41+09:00",
+    "updated_at": "2021-02-10T21:37:14+09:00",
+    "id": "baby-degu"
   },
   {
     "title": "今すぐJavaScriptデバッグ効率を上げるconsoleテクニック",
@@ -344,20 +344,20 @@
     "id": "kira_puka"
   },
   {
+    "title": "DockerでRuby on Railsの環境構築を行うためのステップ【Rails 6対応】",
+    "url": "https://qiita.com/kodai_0122/items/795438d738386c2c1966",
+    "likes_count": 378,
+    "created_at": "2019-10-18T12:15:20+09:00",
+    "updated_at": "2020-02-27T14:49:25+09:00",
+    "id": "kodai_0122"
+  },
+  {
     "title": "OAuth 2.0 の勉強のために認可サーバーを自作する",
     "url": "https://qiita.com/TakahikoKawasaki/items/e508a14ed960347cff11",
     "likes_count": 377,
     "created_at": "2019-10-17T11:25:52+09:00",
     "updated_at": "2019-10-17T11:40:17+09:00",
     "id": "TakahikoKawasaki"
-  },
-  {
-    "title": "DockerでRuby on Railsの環境構築を行うためのステップ【Rails 6対応】",
-    "url": "https://qiita.com/kodai_0122/items/795438d738386c2c1966",
-    "likes_count": 377,
-    "created_at": "2019-10-18T12:15:20+09:00",
-    "updated_at": "2020-02-27T14:49:25+09:00",
-    "id": "kodai_0122"
   },
   {
     "title": "🎊Reactの2種類の新フック「useTransition」と「useDeferredValue」を最速で理解する（プレビュー版）",
@@ -450,7 +450,7 @@
   {
     "title": "【AWS初心者向け】AWSでWebサーバーとデータベースを構築して、ブラウザにデータを表示する【ハンズオン】",
     "url": "https://qiita.com/MayForBlue/items/c96674fb6aac5852a978",
-    "likes_count": 250,
+    "likes_count": 251,
     "created_at": "2019-10-02T18:25:50+09:00",
     "updated_at": "2020-01-19T15:18:02+09:00",
     "id": "MayForBlue"

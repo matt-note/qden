@@ -66,7 +66,7 @@
   {
     "title": "世の中の小説作家と編集者は今すぐ Word や G Suite を窓から投げ捨てて Git と GitHub の使い方を覚えるべきだ",
     "url": "https://qiita.com/ktkraoichi/items/f6ad43c2da0b3136d6be",
-    "likes_count": 1165,
+    "likes_count": 1164,
     "created_at": "2019-01-03T20:17:12+09:00",
     "updated_at": "2020-02-11T16:25:12+09:00",
     "id": "ktkraoichi"
@@ -82,7 +82,7 @@
   {
     "title": "エラーメッセージの読み方と対処, 検索や質問の原則",
     "url": "https://qiita.com/cannorin/items/eb062aae88bfe2ad6fe5",
-    "likes_count": 1076,
+    "likes_count": 1075,
     "created_at": "2019-01-23T18:16:43+09:00",
     "updated_at": "2019-02-01T16:59:54+09:00",
     "id": "cannorin"
@@ -114,7 +114,7 @@
   {
     "title": "低レイヤーを学ぶための技術書をまとめてみる",
     "url": "https://qiita.com/hareku/items/3383be7aee616e04b80f",
-    "likes_count": 916,
+    "likes_count": 917,
     "created_at": "2019-01-08T21:04:25+09:00",
     "updated_at": "2020-11-03T03:44:32+09:00",
     "id": "hareku"
@@ -122,7 +122,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -後編-",
     "url": "https://qiita.com/etaroid/items/40106f13d47bfcbc2572",
-    "likes_count": 916,
+    "likes_count": 917,
     "created_at": "2019-01-21T01:26:55+09:00",
     "updated_at": "2020-12-24T22:28:08+09:00",
     "id": "etaroid"
@@ -130,7 +130,7 @@
   {
     "title": "まだトラックパッドでChromeを操作しているの？ そろそろキーボードだけで操作しようぜ！！ Chromeを使い倒そう！！",
     "url": "https://qiita.com/dodonki1223/items/205a937c21030d1a511e",
-    "likes_count": 908,
+    "likes_count": 907,
     "created_at": "2019-01-28T07:11:34+09:00",
     "updated_at": "2022-01-21T19:56:31+09:00",
     "id": "dodonki1223"
@@ -178,7 +178,7 @@
   {
     "title": "読みやすいコードを書くために",
     "url": "https://qiita.com/shimataro999/items/ef6cd838d56f1fe87015",
-    "likes_count": 733,
+    "likes_count": 732,
     "created_at": "2019-01-11T15:09:26+09:00",
     "updated_at": "2020-11-03T07:29:00+09:00",
     "id": "shimataro999"
@@ -194,7 +194,7 @@
   {
     "title": "たった一行で重いスクロールが軽快に！will-change属性を付けるとFPSが上がる理由",
     "url": "https://qiita.com/ttiger55/items/b2423cb72668c3c98d89",
-    "likes_count": 640,
+    "likes_count": 639,
     "created_at": "2019-01-19T23:44:31+09:00",
     "updated_at": "2021-03-25T12:13:07+09:00",
     "id": "ttiger55"
@@ -242,7 +242,7 @@
   {
     "title": "any型で諦めない React.EventCallback",
     "url": "https://qiita.com/Takepepe/items/f1ba99a7ca7e66290f24",
-    "likes_count": 568,
+    "likes_count": 569,
     "created_at": "2019-01-28T12:19:22+09:00",
     "updated_at": "2019-01-29T00:47:12+09:00",
     "id": "Takepepe"
@@ -274,7 +274,7 @@
   {
     "title": "OSSコントリビュートに挑戦してみた話",
     "url": "https://qiita.com/QWYNG/items/afbca5261f2f770995d2",
-    "likes_count": 486,
+    "likes_count": 485,
     "created_at": "2019-01-22T20:45:06+09:00",
     "updated_at": "2019-01-31T23:20:41+09:00",
     "id": "QWYNG"
@@ -312,20 +312,20 @@
     "id": "riversun"
   },
   {
+    "title": "seabornの細かい見た目調整をあきらめない",
+    "url": "https://qiita.com/skotaro/items/7fee4dd35c6d42e0ebae",
+    "likes_count": 422,
+    "created_at": "2019-01-04T10:01:38+09:00",
+    "updated_at": "2019-01-05T07:27:40+09:00",
+    "id": "skotaro"
+  },
+  {
     "title": "Java 12新機能まとめ",
     "url": "https://qiita.com/nowokay/items/0e860819b6ffb1aca90a",
     "likes_count": 422,
     "created_at": "2019-01-14T21:13:00+09:00",
     "updated_at": "2020-07-22T09:58:03+09:00",
     "id": "nowokay"
-  },
-  {
-    "title": "seabornの細かい見た目調整をあきらめない",
-    "url": "https://qiita.com/skotaro/items/7fee4dd35c6d42e0ebae",
-    "likes_count": 421,
-    "created_at": "2019-01-04T10:01:38+09:00",
-    "updated_at": "2019-01-05T07:27:40+09:00",
-    "id": "skotaro"
   },
   {
     "title": "【個人開発】 技術書籍のレビューや「読みたい」を記録するサービスを作った",
@@ -346,7 +346,7 @@
   {
     "title": "【Firebase】Cloud Firestoreのデータ構造の決め方をFirebaseの動画から学ぶ",
     "url": "https://qiita.com/shiz/items/5f4c8ae19083ccdd46b2",
-    "likes_count": 403,
+    "likes_count": 404,
     "created_at": "2019-01-13T16:03:03+09:00",
     "updated_at": "2019-05-23T06:03:25+09:00",
     "id": "shiz"
@@ -410,7 +410,7 @@
   {
     "title": "モデル予測制御（MPC）による軌道追従制御",
     "url": "https://qiita.com/taka_horibe/items/47f86e02e2db83b0c570",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2019-01-18T15:01:48+09:00",
     "updated_at": "2019-07-03T17:32:25+09:00",
     "id": "taka_horibe"
@@ -456,20 +456,20 @@
     "id": "ogomr"
   },
   {
-    "title": "herokuで本番環境までを構築する上で知っておきたいこと",
-    "url": "https://qiita.com/undrthemt/items/1f49cc2bc9aabeb35a4c",
-    "likes_count": 285,
-    "created_at": "2019-01-04T19:40:09+09:00",
-    "updated_at": "2020-01-11T18:01:17+09:00",
-    "id": "undrthemt"
-  },
-  {
     "title": "Raspberry Piで自宅にかかってきた電話番号をLine通知してみた",
     "url": "https://qiita.com/haradaj/items/c3669e14d430bf234a42",
     "likes_count": 285,
     "created_at": "2019-01-05T10:41:58+09:00",
     "updated_at": "2020-05-18T20:36:54+09:00",
     "id": "haradaj"
+  },
+  {
+    "title": "herokuで本番環境までを構築する上で知っておきたいこと",
+    "url": "https://qiita.com/undrthemt/items/1f49cc2bc9aabeb35a4c",
+    "likes_count": 284,
+    "created_at": "2019-01-04T19:40:09+09:00",
+    "updated_at": "2020-01-11T18:01:17+09:00",
+    "id": "undrthemt"
   },
   {
     "title": "【Laravel】 認証や認可に関する補足資料",
