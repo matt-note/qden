@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5576,
+    "likes_count": 5577,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -26,7 +26,7 @@
   {
     "title": "11ヶ月間でTOEICスコアを300点から835点に上げた英語学習法",
     "url": "https://qiita.com/sheepland/items/6540c4e32eed12807689",
-    "likes_count": 1431,
+    "likes_count": 1432,
     "created_at": "2017-12-11T15:12:36+09:00",
     "updated_at": "2021-11-19T20:08:00+09:00",
     "id": "sheepland"
@@ -34,7 +34,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1387,
+    "likes_count": 1389,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -82,7 +82,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 996,
+    "likes_count": 995,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -290,7 +290,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 625,
+    "likes_count": 626,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -330,7 +330,7 @@
   {
     "title": "次にJSガッツリ書くときはTypeScriptで",
     "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
-    "likes_count": 594,
+    "likes_count": 595,
     "created_at": "2017-12-26T18:52:16+09:00",
     "updated_at": "2020-06-27T01:29:19+09:00",
     "id": "yuya_presto"
@@ -458,7 +458,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 449,
+    "likes_count": 448,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2021-08-15T17:37:25+09:00",
     "id": "KTakahiro1729"
@@ -472,20 +472,20 @@
     "id": "tatsurou313"
   },
   {
+    "title": "【Python】Word2Vecの使い方",
+    "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
+    "likes_count": 442,
+    "created_at": "2017-12-18T17:48:19+09:00",
+    "updated_at": "2020-09-07T09:40:58+09:00",
+    "id": "kenta1984"
+  },
+  {
     "title": "Parcel 入門 ～Parcelはwebpackの代わりになるのか～",
     "url": "https://qiita.com/soarflat/items/3e43368b2d767c730781",
     "likes_count": 441,
     "created_at": "2017-12-10T13:28:47+09:00",
     "updated_at": "2022-03-10T20:18:40+09:00",
     "id": "soarflat"
-  },
-  {
-    "title": "【Python】Word2Vecの使い方",
-    "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 441,
-    "created_at": "2017-12-18T17:48:19+09:00",
-    "updated_at": "2020-09-07T09:40:58+09:00",
-    "id": "kenta1984"
   },
   {
     "title": "WindowsでDocker環境を試してみる",
@@ -530,7 +530,7 @@
   {
     "title": "やはりお前らの真偽値メソッド名は間違っている。 〜「Xxx できる？」系メソッドの命名〜",
     "url": "https://qiita.com/lovee/items/aa2125eb0bce4a9dde1f",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2017-12-07T03:34:42+09:00",
     "updated_at": "2017-12-08T13:27:28+09:00",
     "id": "lovee"
@@ -594,7 +594,7 @@
   {
     "title": "線形な手法とカーネル法（回帰分析）",
     "url": "https://qiita.com/wsuzume/items/09a59036c8944fd563ff",
-    "likes_count": 376,
+    "likes_count": 377,
     "created_at": "2017-12-07T02:39:13+09:00",
     "updated_at": "2020-11-28T13:29:32+09:00",
     "id": "wsuzume"
@@ -666,7 +666,7 @@
   {
     "title": "Kaggleの練習問題（Regression）を解いてKagglerになる",
     "url": "https://qiita.com/katsu1110/items/a1c3185fec39e5629bcb",
-    "likes_count": 343,
+    "likes_count": 342,
     "created_at": "2017-12-15T08:47:16+09:00",
     "updated_at": "2019-06-27T18:00:30+09:00",
     "id": "katsu1110"
@@ -746,7 +746,7 @@
   {
     "title": "機械学習ライブラリ scikit-learnの便利機能の紹介",
     "url": "https://qiita.com/ishizakiiii/items/0650723cc2b4eef2c1cf",
-    "likes_count": 303,
+    "likes_count": 304,
     "created_at": "2017-12-15T21:27:13+09:00",
     "updated_at": "2017-12-18T07:37:14+09:00",
     "id": "ishizakiiii"
