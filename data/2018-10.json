@@ -2,7 +2,7 @@
   {
     "title": "エンジニアは全員技術記事を書くことを習慣化した方がいいぞ",
     "url": "https://qiita.com/HiromuMasuda0228/items/a71dea7ef4d77a30b118",
-    "likes_count": 2523,
+    "likes_count": 2524,
     "created_at": "2018-10-04T17:36:06+09:00",
     "updated_at": "2018-10-19T15:55:57+09:00",
     "id": "HiromuMasuda0228"
@@ -58,7 +58,7 @@
   {
     "title": "vue.js + typescript = vue.ts ことはじめ",
     "url": "https://qiita.com/nrslib/items/be90cc19fa3122266fd7",
-    "likes_count": 1414,
+    "likes_count": 1416,
     "created_at": "2018-10-09T01:50:17+09:00",
     "updated_at": "2019-11-11T10:24:58+09:00",
     "id": "nrslib"
@@ -90,7 +90,7 @@
   {
     "title": "お前らはまだ、侍エンジニア塾の凄さを知らない",
     "url": "https://qiita.com/mu_tomoya/items/b764b655291146a43cc9",
-    "likes_count": 1219,
+    "likes_count": 1220,
     "created_at": "2018-10-22T00:47:26+09:00",
     "updated_at": "2018-10-22T19:47:11+09:00",
     "id": "mu_tomoya"
@@ -232,6 +232,14 @@
     "id": "2357gi"
   },
   {
+    "title": "なぜDockerではホストOSと違うOSベースのコンテナイメージが動くのか",
+    "url": "https://qiita.com/kirikunix/items/33414240b4cacee362da",
+    "likes_count": 646,
+    "created_at": "2018-10-12T10:50:07+09:00",
+    "updated_at": "2020-08-20T00:05:41+09:00",
+    "id": "kirikunix"
+  },
+  {
     "title": "まだXMLHttpRequestを使ってるの？　fetchのすすめ",
     "url": "https://qiita.com/uhyo/items/91649e260165b35fecd7",
     "likes_count": 644,
@@ -240,17 +248,9 @@
     "id": "uhyo"
   },
   {
-    "title": "なぜDockerではホストOSと違うOSベースのコンテナイメージが動くのか",
-    "url": "https://qiita.com/kirikunix/items/33414240b4cacee362da",
-    "likes_count": 644,
-    "created_at": "2018-10-12T10:50:07+09:00",
-    "updated_at": "2020-08-20T00:05:41+09:00",
-    "id": "kirikunix"
-  },
-  {
     "title": "侍エンジニア塾の記事を Chrome 拡張なしに Google 検索結果から一掃するわりと簡単な方法",
     "url": "https://qiita.com/komiya_atsushi/items/7d2cbf322dd5e8f2dc8e",
-    "likes_count": 612,
+    "likes_count": 613,
     "created_at": "2018-10-26T13:01:20+09:00",
     "updated_at": "2018-10-26T13:01:20+09:00",
     "id": "komiya_atsushi"
@@ -266,7 +266,7 @@
   {
     "title": "動的型付けと静的型付け",
     "url": "https://qiita.com/toryuneko/items/c023031b61886cae2a99",
-    "likes_count": 580,
+    "likes_count": 579,
     "created_at": "2018-10-24T08:24:11+09:00",
     "updated_at": "2021-08-19T11:10:32+09:00",
     "id": "toryuneko"
@@ -292,7 +292,7 @@
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 560,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2022-03-12T19:31:32+09:00",
+    "updated_at": "2022-03-13T19:31:39+09:00",
     "id": "kai_kou"
   },
   {
@@ -330,7 +330,7 @@
   {
     "title": "リポジトリのcloneとforkの違い",
     "url": "https://qiita.com/matsubox/items/09904e4c51e6bc267990",
-    "likes_count": 500,
+    "likes_count": 502,
     "created_at": "2018-10-07T15:14:11+09:00",
     "updated_at": "2018-10-07T15:14:11+09:00",
     "id": "matsubox"
@@ -440,20 +440,20 @@
     "id": "KakkiiiiKyg"
   },
   {
+    "title": "10分で理解する Scrapy",
+    "url": "https://qiita.com/Chanmoro/items/f4df85eb73b18d902739",
+    "likes_count": 390,
+    "created_at": "2018-10-08T15:50:25+09:00",
+    "updated_at": "2019-11-12T11:21:43+09:00",
+    "id": "Chanmoro"
+  },
+  {
     "title": "Google Colab上でKaggleのデータをロード、モデル訓練、提出の全てを行う",
     "url": "https://qiita.com/katsu1110/items/a8d508a1b6f07bd3a243",
     "likes_count": 389,
     "created_at": "2018-10-07T07:00:50+09:00",
     "updated_at": "2019-08-13T21:33:49+09:00",
     "id": "katsu1110"
-  },
-  {
-    "title": "10分で理解する Scrapy",
-    "url": "https://qiita.com/Chanmoro/items/f4df85eb73b18d902739",
-    "likes_count": 389,
-    "created_at": "2018-10-08T15:50:25+09:00",
-    "updated_at": "2019-11-12T11:21:43+09:00",
-    "id": "Chanmoro"
   },
   {
     "title": "Python __init__.pyの書き方",
@@ -506,7 +506,7 @@
   {
     "title": "OAuth 2.0 の認可レスポンスとリダイレクトに関する説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/8567c80528da43c7e844",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2018-10-22T00:58:56+09:00",
     "updated_at": "2021-02-16T10:53:41+09:00",
     "id": "TakahikoKawasaki"
