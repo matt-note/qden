@@ -18,7 +18,7 @@
   {
     "title": "フロントエンドのコンポーネント設計に立ち向かう",
     "url": "https://qiita.com/seya/items/8814e905693f00cdade2",
-    "likes_count": 2141,
+    "likes_count": 2142,
     "created_at": "2018-04-02T07:22:25+09:00",
     "updated_at": "2021-02-19T20:36:30+09:00",
     "id": "seya"
@@ -74,7 +74,7 @@
   {
     "title": "私からあなたへ 一人前のJavaエンジニアになるためのロードマップを送ろう",
     "url": "https://qiita.com/haruto167/items/5a784df032518277f4a0",
-    "likes_count": 1469,
+    "likes_count": 1470,
     "created_at": "2018-04-07T16:04:15+09:00",
     "updated_at": "2018-04-28T10:13:26+09:00",
     "id": "haruto167"
@@ -82,7 +82,7 @@
   {
     "title": "GAS ビギナーが GAS を使いこなすために知るべきこと 10 選",
     "url": "https://qiita.com/tanabee/items/2c51681396fe12b6a0e4",
-    "likes_count": 1386,
+    "likes_count": 1385,
     "created_at": "2018-04-03T20:21:07+09:00",
     "updated_at": "2020-10-22T01:26:54+09:00",
     "id": "tanabee"
@@ -90,7 +90,7 @@
   {
     "title": "2018年のPythonプロジェクトのはじめかた",
     "url": "https://qiita.com/sl2/items/1e503952b9506a0539ea",
-    "likes_count": 1364,
+    "likes_count": 1363,
     "created_at": "2018-04-30T17:36:50+09:00",
     "updated_at": "2018-10-01T12:13:41+09:00",
     "id": "sl2"
@@ -128,6 +128,14 @@
     "id": "soichiro_nitta"
   },
   {
+    "title": "Jupyter 知っておくと少し便利なTIPS集",
+    "url": "https://qiita.com/simonritchie/items/d7dccb798f0b9c8b1ec5",
+    "likes_count": 1045,
+    "created_at": "2018-04-17T01:18:51+09:00",
+    "updated_at": "2020-05-08T20:19:26+09:00",
+    "id": "simonritchie"
+  },
+  {
     "title": "Java初心者時代にコードレビューで指摘された悪しき習慣",
     "url": "https://qiita.com/gengogo5/items/5b038cf0b4034194f63a",
     "likes_count": 1045,
@@ -136,17 +144,9 @@
     "id": "gengogo5"
   },
   {
-    "title": "Jupyter 知っておくと少し便利なTIPS集",
-    "url": "https://qiita.com/simonritchie/items/d7dccb798f0b9c8b1ec5",
-    "likes_count": 1044,
-    "created_at": "2018-04-17T01:18:51+09:00",
-    "updated_at": "2020-05-08T20:19:26+09:00",
-    "id": "simonritchie"
-  },
-  {
     "title": "[Python]可読性を上げるための、docstringの書き方を学ぶ（NumPyスタイル）",
     "url": "https://qiita.com/simonritchie/items/49e0813508cad4876b5a",
-    "likes_count": 985,
+    "likes_count": 987,
     "created_at": "2018-04-01T23:34:45+09:00",
     "updated_at": "2020-05-22T19:10:56+09:00",
     "id": "simonritchie"
@@ -154,7 +154,7 @@
   {
     "title": "AWSの料金を「ざっくり」計算できるサイトを作る",
     "url": "https://qiita.com/nishinoshake/items/64491dab247d92e10d41",
-    "likes_count": 959,
+    "likes_count": 960,
     "created_at": "2018-04-09T10:44:25+09:00",
     "updated_at": "2018-12-17T02:58:59+09:00",
     "id": "nishinoshake"
@@ -170,7 +170,7 @@
   {
     "title": "Python命名規則一覧",
     "url": "https://qiita.com/naomi7325/items/4eb1d2a40277361e898b",
-    "likes_count": 931,
+    "likes_count": 932,
     "created_at": "2018-04-22T14:18:47+09:00",
     "updated_at": "2021-04-25T17:53:12+09:00",
     "id": "naomi7325"
@@ -178,7 +178,7 @@
   {
     "title": "排他制御（楽観ロック・悲観ロック）の基礎　",
     "url": "https://qiita.com/NagaokaKenichi/items/73040df85b7bd4e9ecfc",
-    "likes_count": 922,
+    "likes_count": 923,
     "created_at": "2018-04-08T18:17:21+09:00",
     "updated_at": "2022-01-25T22:30:03+09:00",
     "id": "NagaokaKenichi"
@@ -552,20 +552,20 @@
     "id": "tkow"
   },
   {
+    "title": "PythonでLine botを作ってみた",
+    "url": "https://qiita.com/kro/items/67f7510b36945eb9689b",
+    "likes_count": 278,
+    "created_at": "2018-04-14T22:59:06+09:00",
+    "updated_at": "2018-04-14T22:59:26+09:00",
+    "id": "kro"
+  },
+  {
     "title": "新米データサイエンティスト、研修プログラムを考える。",
     "url": "https://qiita.com/s_yaginuma/items/a9c97f62d9bec129c33b",
     "likes_count": 277,
     "created_at": "2018-04-07T14:10:26+09:00",
     "updated_at": "2018-04-07T14:10:26+09:00",
     "id": "s_yaginuma"
-  },
-  {
-    "title": "PythonでLine botを作ってみた",
-    "url": "https://qiita.com/kro/items/67f7510b36945eb9689b",
-    "likes_count": 277,
-    "created_at": "2018-04-14T22:59:06+09:00",
-    "updated_at": "2018-04-14T22:59:26+09:00",
-    "id": "kro"
   },
   {
     "title": "2018年 スタートアップでSSRにVue.jsを導入してWebサービスを開発して得た設計",
