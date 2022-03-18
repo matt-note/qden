@@ -34,7 +34,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1852,
+    "likes_count": 1854,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -138,7 +138,7 @@
   {
     "title": "敗北者のTypeScript",
     "url": "https://qiita.com/uhyo/items/aae57ba0734e36ee846a",
-    "likes_count": 1009,
+    "likes_count": 1010,
     "created_at": "2019-05-12T17:40:10+09:00",
     "updated_at": "2020-05-15T12:52:28+09:00",
     "id": "uhyo"
@@ -234,10 +234,18 @@
   {
     "title": "[2019年5月版] 機械学習・深層学習を学び、トレンドを追うためのリンク150選",
     "url": "https://qiita.com/tomo_makes/items/cd036e2444a938416316",
-    "likes_count": 711,
+    "likes_count": 710,
     "created_at": "2019-05-06T22:06:35+09:00",
     "updated_at": "2019-05-11T10:03:57+09:00",
     "id": "tomo_makes"
+  },
+  {
+    "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
+    "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
+    "likes_count": 694,
+    "created_at": "2019-05-13T00:46:21+09:00",
+    "updated_at": "2020-05-08T20:20:06+09:00",
+    "id": "simonritchie"
   },
   {
     "title": "Vue.jsのv-modelを正しく使う",
@@ -246,14 +254,6 @@
     "created_at": "2019-05-13T20:05:41+09:00",
     "updated_at": "2020-05-01T18:50:04+09:00",
     "id": "simezi9"
-  },
-  {
-    "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
-    "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 692,
-    "created_at": "2019-05-13T00:46:21+09:00",
-    "updated_at": "2020-05-08T20:20:06+09:00",
-    "id": "simonritchie"
   },
   {
     "title": "知識が無いからこそコードレビューで指摘をしよう",
@@ -274,7 +274,7 @@
   {
     "title": "【2019年】データ分析・可視化に本気でおすすめのツール30選（ノーコード型ツール含め）",
     "url": "https://qiita.com/keisuuuuke/items/e7b5cc6a5db04f2c8d5c",
-    "likes_count": 606,
+    "likes_count": 605,
     "created_at": "2019-05-09T12:36:29+09:00",
     "updated_at": "2019-09-30T16:14:45+09:00",
     "id": "keisuuuuke"
@@ -306,7 +306,7 @@
   {
     "title": "PythonでLINEにメッセージを送る",
     "url": "https://qiita.com/moriita/items/5b199ac6b14ceaa4f7c9",
-    "likes_count": 516,
+    "likes_count": 515,
     "created_at": "2019-05-30T02:17:01+09:00",
     "updated_at": "2022-01-03T17:36:36+09:00",
     "id": "moriita"
@@ -464,20 +464,20 @@
     "id": "uhyo"
   },
   {
-    "title": "最近のAndroid開発でよく使われているっぽいライブラリまとめ(2021/08)",
-    "url": "https://qiita.com/tkhskt/items/64e68189a21fea7caa7c",
-    "likes_count": 335,
-    "created_at": "2019-05-26T12:25:55+09:00",
-    "updated_at": "2021-08-20T00:24:48+09:00",
-    "id": "tkhskt"
-  },
-  {
     "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
     "url": "https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd",
     "likes_count": 334,
     "created_at": "2019-05-08T10:02:28+09:00",
     "updated_at": "2019-05-08T10:11:41+09:00",
     "id": "sadnessOjisan"
+  },
+  {
+    "title": "最近のAndroid開発でよく使われているっぽいライブラリまとめ(2021/08)",
+    "url": "https://qiita.com/tkhskt/items/64e68189a21fea7caa7c",
+    "likes_count": 334,
+    "created_at": "2019-05-26T12:25:55+09:00",
+    "updated_at": "2021-08-20T00:24:48+09:00",
+    "id": "tkhskt"
   },
   {
     "title": "Python で大量のファイルを並列で速く読み込む",
@@ -570,7 +570,7 @@
   {
     "title": "RPA九人衆による「ｱｶﾈﾁｬﾝｶﾜｲｲﾔｯﾀ」の自動化",
     "url": "https://qiita.com/mima_ita/items/d4655de865f30bb51c65",
-    "likes_count": 252,
+    "likes_count": 253,
     "created_at": "2019-05-26T22:13:58+09:00",
     "updated_at": "2019-10-04T20:30:08+09:00",
     "id": "mima_ita"
