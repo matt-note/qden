@@ -34,7 +34,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2162,
+    "likes_count": 2161,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -58,7 +58,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1658,
+    "likes_count": 1657,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2017-01-08T10:05:01+09:00",
     "id": "TakahiRoyte"
@@ -154,7 +154,7 @@
   {
     "title": "【噂】IT業界のウソ・ホント【闇】",
     "url": "https://qiita.com/netetahito/items/a317345b4e059267f879",
-    "likes_count": 812,
+    "likes_count": 811,
     "created_at": "2016-04-26T12:21:50+09:00",
     "updated_at": "2019-02-06T11:51:41+09:00",
     "id": "netetahito"
@@ -170,7 +170,7 @@
   {
     "title": "PHP開発でComposerを使わないなんてありえない！基礎編",
     "url": "https://qiita.com/niisan-tokyo/items/8cccec88d45f38171c94",
-    "likes_count": 752,
+    "likes_count": 751,
     "created_at": "2016-04-30T20:46:28+09:00",
     "updated_at": "2019-04-17T19:03:10+09:00",
     "id": "niisan-tokyo"
@@ -416,20 +416,20 @@
     "id": "kyam_"
   },
   {
+    "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
+    "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
+    "likes_count": 390,
+    "created_at": "2016-04-15T01:30:46+09:00",
+    "updated_at": "2019-10-28T14:55:45+09:00",
+    "id": "Yinaura"
+  },
+  {
     "title": "CUDAとOpenCLどっちがいいの？",
     "url": "https://qiita.com/aokomoriuta/items/777f00f4d9f2bec887ba",
     "likes_count": 390,
     "created_at": "2016-05-01T00:12:23+09:00",
     "updated_at": "2016-05-06T18:07:39+09:00",
     "id": "aokomoriuta"
-  },
-  {
-    "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
-    "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
-    "likes_count": 389,
-    "created_at": "2016-04-15T01:30:46+09:00",
-    "updated_at": "2019-10-28T14:55:45+09:00",
-    "id": "Yinaura"
   },
   {
     "title": "Bootstrap 4を使うならSassを使って3倍幸せになろう",
@@ -466,7 +466,7 @@
   {
     "title": "XGBoostの主な特徴と理論の概要",
     "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
-    "likes_count": 376,
+    "likes_count": 375,
     "created_at": "2016-04-02T21:19:46+09:00",
     "updated_at": "2016-04-02T22:05:31+09:00",
     "id": "yh0sh"
@@ -480,20 +480,20 @@
     "id": "arashida"
   },
   {
+    "title": "オンラインでプログラミングして実行できるサイト",
+    "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
+    "likes_count": 373,
+    "created_at": "2016-04-28T08:59:43+09:00",
+    "updated_at": "2021-09-28T18:34:17+09:00",
+    "id": "tttamaki"
+  },
+  {
     "title": "Amazon Cognito User Poolsを使って、webサイトにユーザ認証基盤を作る",
     "url": "https://qiita.com/horike37/items/1d522f66452d3abe1203",
     "likes_count": 372,
     "created_at": "2016-04-23T17:36:48+09:00",
     "updated_at": "2016-05-19T16:37:25+09:00",
     "id": "horike37"
-  },
-  {
-    "title": "オンラインでプログラミングして実行できるサイト",
-    "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
-    "likes_count": 372,
-    "created_at": "2016-04-28T08:59:43+09:00",
-    "updated_at": "2021-09-28T18:34:17+09:00",
-    "id": "tttamaki"
   },
   {
     "title": "ローカルのプロジェクトをGitHubへアップロードする方法",
@@ -546,7 +546,7 @@
   {
     "title": "Djangoの勉強に役に立ったサイト",
     "url": "https://qiita.com/MewW6m/items/0ccc6bdcd984f7cc2d0e",
-    "likes_count": 349,
+    "likes_count": 348,
     "created_at": "2016-04-28T11:02:27+09:00",
     "updated_at": "2020-06-13T14:50:59+09:00",
     "id": "MewW6m"
@@ -632,20 +632,20 @@
     "id": "nunulk"
   },
   {
+    "title": "SQLでグループごとにある最大値の行を取得する",
+    "url": "https://qiita.com/nogitsune413/items/f413268d01b4ea2394b1",
+    "likes_count": 286,
+    "created_at": "2016-04-03T14:18:11+09:00",
+    "updated_at": "2018-03-26T20:55:38+09:00",
+    "id": "nogitsune413"
+  },
+  {
     "title": "世界の凄腕エンジニア達からのプログラミングに関するお言葉集は不思議にココロを打つのでした",
     "url": "https://qiita.com/jabba/items/efcc1d7a15075e631b36",
     "likes_count": 285,
     "created_at": "2016-04-01T10:33:49+09:00",
     "updated_at": "2016-05-12T00:00:48+09:00",
     "id": "jabba"
-  },
-  {
-    "title": "SQLでグループごとにある最大値の行を取得する",
-    "url": "https://qiita.com/nogitsune413/items/f413268d01b4ea2394b1",
-    "likes_count": 285,
-    "created_at": "2016-04-03T14:18:11+09:00",
-    "updated_at": "2018-03-26T20:55:38+09:00",
-    "id": "nogitsune413"
   },
   {
     "title": "chainerによるディープラーニングでAV女優の類似画像検索サービスをつくったノウハウを公開する",
@@ -698,7 +698,7 @@
   {
     "title": "SourceTreeとGithubでGitの練習環境をつくる",
     "url": "https://qiita.com/naoki85/items/4f44601f1365c18035f4",
-    "likes_count": 237,
+    "likes_count": 236,
     "created_at": "2016-04-03T12:21:57+09:00",
     "updated_at": "2018-01-22T14:09:50+09:00",
     "id": "naoki85"
