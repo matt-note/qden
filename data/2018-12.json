@@ -90,7 +90,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 1060,
+    "likes_count": 1061,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -130,7 +130,7 @@
   {
     "title": "機械学習/ディープラーニング初心者が2018年にやったこと、読んだ論文",
     "url": "https://qiita.com/koshian2/items/bb4afec12e5dd50aae50",
-    "likes_count": 986,
+    "likes_count": 987,
     "created_at": "2018-12-31T12:55:48+09:00",
     "updated_at": "2018-12-31T14:27:33+09:00",
     "id": "koshian2"
@@ -146,7 +146,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 952,
+    "likes_count": 953,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -386,7 +386,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -434,7 +434,7 @@
   {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2018-12-07T17:46:26+09:00",
     "updated_at": "2020-03-18T20:59:40+09:00",
     "id": "yasuabe2613"
@@ -480,20 +480,20 @@
     "id": "ryohashimoto"
   },
   {
+    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
+    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
+    "likes_count": 394,
+    "created_at": "2018-12-28T14:05:57+09:00",
+    "updated_at": "2019-08-28T21:53:58+09:00",
+    "id": "suin"
+  },
+  {
     "title": "VSCode に Code Spell Checker を導入して typo と戦う",
     "url": "https://qiita.com/diescake/items/98c5a099e85775cd917d",
     "likes_count": 393,
     "created_at": "2018-12-07T15:48:20+09:00",
     "updated_at": "2021-01-31T03:24:25+09:00",
     "id": "diescake"
-  },
-  {
-    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
-    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
-    "likes_count": 393,
-    "created_at": "2018-12-28T14:05:57+09:00",
-    "updated_at": "2019-08-28T21:53:58+09:00",
-    "id": "suin"
   },
   {
     "title": "マイクロサービスほどじゃないけどウェブサービスを分割開発したい人向けDocker設定を集めるスレ",
@@ -506,7 +506,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 384,
+    "likes_count": 385,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
@@ -562,7 +562,7 @@
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
     "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2018-12-06T00:54:09+09:00",
     "updated_at": "2018-12-06T00:55:45+09:00",
     "id": "yuneco"
@@ -698,7 +698,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
@@ -730,7 +730,7 @@
   {
     "title": "負荷テストの基本的な考え方と進め方(前編)",
     "url": "https://qiita.com/s_yokoi/items/4e21aed46e561badce94",
-    "likes_count": 284,
+    "likes_count": 285,
     "created_at": "2018-12-03T23:22:23+09:00",
     "updated_at": "2019-12-12T22:56:51+09:00",
     "id": "s_yokoi"
