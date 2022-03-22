@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1627,
+    "likes_count": 1628,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2021-12-04T10:37:55+09:00",
     "id": "masaibar"
@@ -50,7 +50,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1299,
+    "likes_count": 1300,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -58,7 +58,7 @@
   {
     "title": "インフラエンジニアと謎のサーバ",
     "url": "https://qiita.com/kanga/items/979b0bdc4653e025483a",
-    "likes_count": 1277,
+    "likes_count": 1278,
     "created_at": "2018-12-06T19:56:35+09:00",
     "updated_at": "2019-05-02T16:00:02+09:00",
     "id": "kanga"
@@ -386,7 +386,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -680,6 +680,14 @@
     "id": "mitsumitsu1128"
   },
   {
+    "title": "段階的に理解する Java 例外処理",
+    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
+    "likes_count": 307,
+    "created_at": "2018-12-21T23:27:05+09:00",
+    "updated_at": "2018-12-26T11:18:48+09:00",
+    "id": "ts7i"
+  },
+  {
     "title": "Python3の標準入力やり方まとめ",
     "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
     "likes_count": 307,
@@ -694,14 +702,6 @@
     "created_at": "2018-12-08T04:39:22+09:00",
     "updated_at": "2018-12-08T15:16:38+09:00",
     "id": "suzuki_"
-  },
-  {
-    "title": "段階的に理解する Java 例外処理",
-    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 306,
-    "created_at": "2018-12-21T23:27:05+09:00",
-    "updated_at": "2018-12-26T11:18:48+09:00",
-    "id": "ts7i"
   },
   {
     "title": "[Firebase] Cloud Functionsで消耗したくない人のために、開発環境のベストプラクティスをまとめていったらDockerに行き着いた話（随時更新）",
