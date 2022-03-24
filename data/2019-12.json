@@ -34,7 +34,7 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年11月25日更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 1905,
+    "likes_count": 1907,
     "created_at": "2019-12-20T15:18:16+09:00",
     "updated_at": "2021-11-26T10:04:39+09:00",
     "id": "kamesennin"
@@ -50,7 +50,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1817,
+    "likes_count": 1819,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2021-08-02T17:06:13+09:00",
     "id": "hirokidaichi"
@@ -66,7 +66,7 @@
   {
     "title": "【決定版】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1612,
+    "likes_count": 1613,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-11-19T11:40:56+09:00",
     "id": "omiita"
@@ -90,7 +90,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1383,
+    "likes_count": 1384,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -170,7 +170,7 @@
   {
     "title": "VSCode で最高の LaTeX 環境を作る",
     "url": "https://qiita.com/rainbartown/items/d7718f12d71e688f3573",
-    "likes_count": 813,
+    "likes_count": 814,
     "created_at": "2019-12-16T07:03:05+09:00",
     "updated_at": "2021-09-05T00:03:01+09:00",
     "id": "rainbartown"
@@ -290,7 +290,7 @@
   {
     "title": "ドメイン駆動設計の比類なきパワーでRailsレガシーコードなど大爆殺したるわあああ！！！",
     "url": "https://qiita.com/MinoDriven/items/3c7db287e2c66f36589a",
-    "likes_count": 594,
+    "likes_count": 595,
     "created_at": "2019-12-12T11:28:00+09:00",
     "updated_at": "2020-12-07T11:53:28+09:00",
     "id": "MinoDriven"
@@ -322,7 +322,7 @@
   {
     "title": "ふりかえりを拡張する「ふりかえりチートシート」",
     "url": "https://qiita.com/viva_tweet_x/items/b06f56ce83038fc2bb8f",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2019-12-04T21:49:42+09:00",
     "updated_at": "2019-12-04T21:49:42+09:00",
     "id": "viva_tweet_x"
@@ -434,7 +434,7 @@
   {
     "title": "jsのimportとrequireの違い",
     "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
-    "likes_count": 413,
+    "likes_count": 415,
     "created_at": "2019-12-11T18:25:57+09:00",
     "updated_at": "2019-12-11T18:25:57+09:00",
     "id": "minato-naka"
@@ -474,7 +474,7 @@
   {
     "title": "Vue.js + LaravelでシンプルなSPA構築チュートリアル：概要編",
     "url": "https://qiita.com/minato-naka/items/2d2def4d66ec88dc3ca2",
-    "likes_count": 374,
+    "likes_count": 375,
     "created_at": "2019-12-18T08:56:52+09:00",
     "updated_at": "2021-06-01T07:22:59+09:00",
     "id": "minato-naka"
@@ -552,20 +552,20 @@
     "id": "zawawahoge"
   },
   {
+    "title": "WSL2とHyper-Vの関係",
+    "url": "https://qiita.com/matarillo/items/ca1eecf8f9a3cd76f9ce",
+    "likes_count": 290,
+    "created_at": "2019-12-26T16:49:22+09:00",
+    "updated_at": "2021-09-02T09:13:01+09:00",
+    "id": "matarillo"
+  },
+  {
     "title": "28歳、一念発起して未経験からデータサイエンティストを志した2年間の軌跡",
     "url": "https://qiita.com/toshiyuki_tsutsui/items/5b0956ceb1d7a3cb2d97",
     "likes_count": 290,
     "created_at": "2019-12-31T23:16:18+09:00",
     "updated_at": "2020-01-06T18:33:15+09:00",
     "id": "toshiyuki_tsutsui"
-  },
-  {
-    "title": "WSL2とHyper-Vの関係",
-    "url": "https://qiita.com/matarillo/items/ca1eecf8f9a3cd76f9ce",
-    "likes_count": 289,
-    "created_at": "2019-12-26T16:49:22+09:00",
-    "updated_at": "2021-09-02T09:13:01+09:00",
-    "id": "matarillo"
   },
   {
     "title": "プログラミング初心者がKaggle Expertになるまでの１０ヵ月間を振り返る",
