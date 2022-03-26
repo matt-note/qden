@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4074,
+    "likes_count": 4072,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -34,7 +34,7 @@
   {
     "title": "2016年 独りで新規WEBサービスを開発・運用した際の知見",
     "url": "https://qiita.com/haminiku/items/711cbdb894d1d6839e3e",
-    "likes_count": 3163,
+    "likes_count": 3162,
     "created_at": "2016-01-06T06:46:37+09:00",
     "updated_at": "2016-02-23T06:50:34+09:00",
     "id": "haminiku"
@@ -122,7 +122,7 @@
   {
     "title": "全盛期のJeff Dean伝説",
     "url": "https://qiita.com/umegaya/items/ef69461d6f4967d5c623",
-    "likes_count": 1038,
+    "likes_count": 1039,
     "created_at": "2016-01-09T05:56:15+09:00",
     "updated_at": "2016-03-26T08:06:24+09:00",
     "id": "umegaya"
@@ -266,7 +266,7 @@
   {
     "title": "(DB・サーバー構築編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/22cfbf4bf7ec95f6ac1c",
-    "likes_count": 594,
+    "likes_count": 593,
     "created_at": "2016-01-10T16:40:33+09:00",
     "updated_at": "2021-10-08T20:24:38+09:00",
     "id": "naoki_mochizuki"
@@ -362,7 +362,7 @@
   {
     "title": "TypeScript超入門(2)：構文を理解する",
     "url": "https://qiita.com/ringtail003/items/7ccf992f18b768e0e633",
-    "likes_count": 486,
+    "likes_count": 487,
     "created_at": "2016-01-09T16:56:38+09:00",
     "updated_at": "2018-10-17T21:23:09+09:00",
     "id": "ringtail003"
@@ -504,20 +504,20 @@
     "id": "ogaoga"
   },
   {
-    "title": "fluentdを導入時にまず知っておいたほうがよさそうなこと（インストール、監視、HA構成、チューニングなど）",
-    "url": "https://qiita.com/uzresk/items/3bfeeac82dfcb2a4300e",
-    "likes_count": 358,
-    "created_at": "2016-01-27T11:12:11+09:00",
-    "updated_at": "2016-01-28T08:39:51+09:00",
-    "id": "uzresk"
-  },
-  {
     "title": "brew tapとは",
     "url": "https://qiita.com/sammrai/items/85ed5e914d424fbf9fd6",
     "likes_count": 357,
     "created_at": "2016-01-07T22:05:56+09:00",
     "updated_at": "2021-04-23T21:52:25+09:00",
     "id": "sammrai"
+  },
+  {
+    "title": "fluentdを導入時にまず知っておいたほうがよさそうなこと（インストール、監視、HA構成、チューニングなど）",
+    "url": "https://qiita.com/uzresk/items/3bfeeac82dfcb2a4300e",
+    "likes_count": 357,
+    "created_at": "2016-01-27T11:12:11+09:00",
+    "updated_at": "2016-01-28T08:39:51+09:00",
+    "id": "uzresk"
   },
   {
     "title": "Nginxセキュリティ設定",
@@ -560,14 +560,6 @@
     "id": "hmarui66"
   },
   {
-    "title": "Rails enumについてまとめておく",
-    "url": "https://qiita.com/shizuma/items/d133b18f8093df1e9b70",
-    "likes_count": 333,
-    "created_at": "2016-01-08T00:00:31+09:00",
-    "updated_at": "2016-01-08T00:00:31+09:00",
-    "id": "shizuma"
-  },
-  {
     "title": "AWS EC2でWebサーバーを構築してみる",
     "url": "https://qiita.com/arashida/items/629aaed33401b8f2265c",
     "likes_count": 333,
@@ -578,10 +570,18 @@
   {
     "title": "MyBatis 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/a9b5d4038f19d4813ee6",
-    "likes_count": 331,
+    "likes_count": 332,
     "created_at": "2016-01-03T16:40:30+09:00",
     "updated_at": "2016-01-03T23:05:17+09:00",
     "id": "opengl-8080"
+  },
+  {
+    "title": "Rails enumについてまとめておく",
+    "url": "https://qiita.com/shizuma/items/d133b18f8093df1e9b70",
+    "likes_count": 332,
+    "created_at": "2016-01-08T00:00:31+09:00",
+    "updated_at": "2016-01-08T00:00:31+09:00",
+    "id": "shizuma"
   },
   {
     "title": "DockerのVolume機能について実験してみたことをまとめます",

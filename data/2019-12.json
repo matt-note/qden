@@ -18,7 +18,7 @@
   {
     "title": "【Webエンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた",
     "url": "https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f",
-    "likes_count": 2044,
+    "likes_count": 2045,
     "created_at": "2019-12-21T16:51:08+09:00",
     "updated_at": "2020-12-25T09:57:29+09:00",
     "id": "JunyaShibato"
@@ -90,7 +90,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1384,
+    "likes_count": 1385,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2020-08-03T13:29:03+09:00",
     "id": "omiita"
@@ -250,7 +250,7 @@
   {
     "title": "【サーバーサイド一式】Docker + Rails + Circle CI + Terraformでインフラをコードで環境構築 & ECSへ自動コンテナデプロイ【前半】",
     "url": "https://qiita.com/kazukimatsumoto/items/fa448e002b0afd441b7c",
-    "likes_count": 650,
+    "likes_count": 649,
     "created_at": "2019-12-04T14:39:49+09:00",
     "updated_at": "2019-12-17T01:31:53+09:00",
     "id": "kazukimatsumoto"
@@ -306,7 +306,7 @@
   {
     "title": "Androidのライフサイクルの基礎からViewModel, LiveData, Kotlin Coroutinesまでを流れるように説明したい",
     "url": "https://qiita.com/takahirom/items/3f012d46e15a1666fa33",
-    "likes_count": 551,
+    "likes_count": 552,
     "created_at": "2019-12-22T11:42:01+09:00",
     "updated_at": "2020-09-14T10:13:11+09:00",
     "id": "takahirom"
@@ -400,20 +400,20 @@
     "id": "kaggle_grandmaster-arai-san"
   },
   {
+    "title": "NestJSのススメ ～Expressを超えてゆけ～",
+    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
+    "likes_count": 451,
+    "created_at": "2019-12-22T15:46:56+09:00",
+    "updated_at": "2020-04-18T20:27:13+09:00",
+    "id": "elipmoc101"
+  },
+  {
     "title": "【Python】10分でイキリ高校生がブロックチェーンを初心者に解説してやる！！！",
     "url": "https://qiita.com/sa2shun/items/f4991357ece3303c7167",
     "likes_count": 450,
     "created_at": "2019-12-12T13:58:12+09:00",
     "updated_at": "2019-12-13T22:52:45+09:00",
     "id": "sa2shun"
-  },
-  {
-    "title": "NestJSのススメ ～Expressを超えてゆけ～",
-    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 450,
-    "created_at": "2019-12-22T15:46:56+09:00",
-    "updated_at": "2020-04-18T20:27:13+09:00",
-    "id": "elipmoc101"
   },
   {
     "title": "Angular と Firebase で月間PV1億超えの PWA を作った話",
@@ -434,7 +434,7 @@
   {
     "title": "jsのimportとrequireの違い",
     "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2019-12-11T18:25:57+09:00",
     "updated_at": "2019-12-11T18:25:57+09:00",
     "id": "minato-naka"
