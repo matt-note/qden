@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4072,
+    "likes_count": 4073,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/f795fe3e661a3349a7ce",
-    "likes_count": 3369,
+    "likes_count": 3370,
     "created_at": "2016-01-08T14:56:09+09:00",
     "updated_at": "2021-10-08T20:24:15+09:00",
     "id": "naoki_mochizuki"
@@ -34,7 +34,7 @@
   {
     "title": "2016年 独りで新規WEBサービスを開発・運用した際の知見",
     "url": "https://qiita.com/haminiku/items/711cbdb894d1d6839e3e",
-    "likes_count": 3162,
+    "likes_count": 3161,
     "created_at": "2016-01-06T06:46:37+09:00",
     "updated_at": "2016-02-23T06:50:34+09:00",
     "id": "haminiku"
@@ -58,7 +58,7 @@
   {
     "title": "LSTMネットワークの概要",
     "url": "https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca",
-    "likes_count": 1474,
+    "likes_count": 1475,
     "created_at": "2016-01-08T18:22:20+09:00",
     "updated_at": "2017-12-11T08:57:51+09:00",
     "id": "KojiOhki"
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
     "url": "https://qiita.com/wadahiro/items/eb50ac6bbe2e18cf8813",
-    "likes_count": 692,
+    "likes_count": 693,
     "created_at": "2016-01-27T02:08:49+09:00",
     "updated_at": "2018-06-18T12:00:54+09:00",
     "id": "wadahiro"
@@ -362,7 +362,7 @@
   {
     "title": "TypeScript超入門(2)：構文を理解する",
     "url": "https://qiita.com/ringtail003/items/7ccf992f18b768e0e633",
-    "likes_count": 487,
+    "likes_count": 486,
     "created_at": "2016-01-09T16:56:38+09:00",
     "updated_at": "2018-10-17T21:23:09+09:00",
     "id": "ringtail003"
@@ -442,7 +442,7 @@
   {
     "title": "PHP開発者が心得ておくべき10の鉄則",
     "url": "https://qiita.com/ka215/items/c4bda101e51b7fe82ab2",
-    "likes_count": 422,
+    "likes_count": 421,
     "created_at": "2016-01-12T12:24:12+09:00",
     "updated_at": "2016-01-12T12:24:12+09:00",
     "id": "ka215"
@@ -560,14 +560,6 @@
     "id": "hmarui66"
   },
   {
-    "title": "AWS EC2でWebサーバーを構築してみる",
-    "url": "https://qiita.com/arashida/items/629aaed33401b8f2265c",
-    "likes_count": 333,
-    "created_at": "2016-01-18T20:25:58+09:00",
-    "updated_at": "2019-05-21T10:25:09+09:00",
-    "id": "arashida"
-  },
-  {
     "title": "MyBatis 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/a9b5d4038f19d4813ee6",
     "likes_count": 332,
@@ -582,6 +574,14 @@
     "created_at": "2016-01-08T00:00:31+09:00",
     "updated_at": "2016-01-08T00:00:31+09:00",
     "id": "shizuma"
+  },
+  {
+    "title": "AWS EC2でWebサーバーを構築してみる",
+    "url": "https://qiita.com/arashida/items/629aaed33401b8f2265c",
+    "likes_count": 332,
+    "created_at": "2016-01-18T20:25:58+09:00",
+    "updated_at": "2019-05-21T10:25:09+09:00",
+    "id": "arashida"
   },
   {
     "title": "DockerのVolume機能について実験してみたことをまとめます",
@@ -618,7 +618,7 @@
   {
     "title": "Raspberry Piに外部ネットワークからアクセスできる様にして携帯でペットを遠隔監視する方法",
     "url": "https://qiita.com/kinpira/items/c9e6dc910e8d96e8c19b",
-    "likes_count": 322,
+    "likes_count": 323,
     "created_at": "2016-01-10T03:23:02+09:00",
     "updated_at": "2016-12-03T21:40:51+09:00",
     "id": "kinpira"
@@ -786,7 +786,7 @@
   {
     "title": "ffmpeg を使い、HTTP Live Streaming(HLS)をファイルに保存し、保存したファイルからストリーミングを行う方法について",
     "url": "https://qiita.com/uupaa/items/c76c76cb149470bf89f2",
-    "likes_count": 244,
+    "likes_count": 243,
     "created_at": "2016-01-12T21:05:56+09:00",
     "updated_at": "2018-03-18T00:25:41+09:00",
     "id": "uupaa"
