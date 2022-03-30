@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 10411,
+    "likes_count": 10418,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2021-06-20T17:25:31+09:00",
     "id": "Ted-HM"
@@ -18,7 +18,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 2242,
+    "likes_count": 2243,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2021-09-02T23:39:24+09:00",
     "id": "suthio"
@@ -34,7 +34,7 @@
   {
     "title": "Railsアプリケーションにおけるエラー処理（例外設計）の考え方",
     "url": "https://qiita.com/jnchito/items/3ef95ea144ed15df3637",
-    "likes_count": 1903,
+    "likes_count": 1904,
     "created_at": "2015-09-29T07:04:25+09:00",
     "updated_at": "2020-11-18T15:01:00+09:00",
     "id": "jnchito"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptの「&&」「||」について盛大に勘違いをしていた件",
     "url": "https://qiita.com/Imamotty/items/bc659569239379dded55",
-    "likes_count": 1288,
+    "likes_count": 1289,
     "created_at": "2015-09-12T01:28:15+09:00",
     "updated_at": "2015-09-12T08:07:39+09:00",
     "id": "Imamotty"
@@ -138,7 +138,7 @@
   {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 1059,
+    "likes_count": 1061,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2022-02-18T20:40:35+09:00",
     "id": "ryouzi"
@@ -314,7 +314,7 @@
   {
     "title": "【Go】print系関数の違い",
     "url": "https://qiita.com/taji-taji/items/77845ef744da7c88a6fe",
-    "likes_count": 483,
+    "likes_count": 482,
     "created_at": "2015-09-15T08:38:00+09:00",
     "updated_at": "2020-02-28T06:08:41+09:00",
     "id": "taji-taji"
@@ -378,7 +378,7 @@
   {
     "title": "Powershellを楽に実行してもらうには",
     "url": "https://qiita.com/tomoko523/items/df8e384d32a377381ef9",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2015-09-18T17:48:57+09:00",
     "updated_at": "2015-09-18T17:48:57+09:00",
     "id": "tomoko523"
@@ -512,17 +512,9 @@
     "id": "sue738"
   },
   {
-    "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
-    "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
-    "likes_count": 312,
-    "created_at": "2015-09-11T00:15:29+09:00",
-    "updated_at": "2015-09-11T00:16:04+09:00",
-    "id": "moriyaman"
-  },
-  {
     "title": "インストール不要！WindowsでLinuxコマンドを使う",
     "url": "https://qiita.com/tetsuy/items/22cba0bc2048967b270a",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2015-09-17T12:51:49+09:00",
     "updated_at": "2018-11-17T16:46:21+09:00",
     "id": "tetsuy"
@@ -530,10 +522,18 @@
   {
     "title": "Railsにおける命名規則",
     "url": "https://qiita.com/gakkie/items/3afcd505c786364aa5fa",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2015-09-09T14:35:25+09:00",
     "updated_at": "2015-09-09T14:35:25+09:00",
     "id": "gakkie"
+  },
+  {
+    "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
+    "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
+    "likes_count": 312,
+    "created_at": "2015-09-11T00:15:29+09:00",
+    "updated_at": "2015-09-11T00:16:04+09:00",
+    "id": "moriyaman"
   },
   {
     "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",

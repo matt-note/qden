@@ -2,10 +2,18 @@
   {
     "title": "非デザイナーエンジニアが一人でWebサービスを作るときに便利なツール32選",
     "url": "https://qiita.com/okappy/items/119e31cae9aa9bd9da6d",
-    "likes_count": 6668,
+    "likes_count": 6667,
     "created_at": "2014-09-19T02:53:10+09:00",
     "updated_at": "2015-07-09T01:12:38+09:00",
     "id": "okappy"
+  },
+  {
+    "title": "クラスの命名のアンチパターン",
+    "url": "https://qiita.com/magicant/items/8134edf969f9629fa66e",
+    "likes_count": 2747,
+    "created_at": "2014-09-04T16:37:27+09:00",
+    "updated_at": "2016-06-22T18:16:28+09:00",
+    "id": "magicant"
   },
   {
     "title": "iPhone/iPad/Apple Watch解像度(画面サイズ)早見表",
@@ -14,14 +22,6 @@
     "created_at": "2014-09-12T09:33:06+09:00",
     "updated_at": "2021-10-14T15:19:37+09:00",
     "id": "tomohisaota"
-  },
-  {
-    "title": "クラスの命名のアンチパターン",
-    "url": "https://qiita.com/magicant/items/8134edf969f9629fa66e",
-    "likes_count": 2745,
-    "created_at": "2014-09-04T16:37:27+09:00",
-    "updated_at": "2016-06-22T18:16:28+09:00",
-    "id": "magicant"
   },
   {
     "title": "PlantUML Cheat Sheet",
@@ -122,7 +122,7 @@
   {
     "title": "Cコンパイラをスクラッチから開発してみた（日記）",
     "url": "https://qiita.com/ruiu/items/4d471216b71ab48d8b74",
-    "likes_count": 805,
+    "likes_count": 804,
     "created_at": "2014-09-07T05:42:21+09:00",
     "updated_at": "2015-12-08T23:50:52+09:00",
     "id": "ruiu"
@@ -210,7 +210,7 @@
   {
     "title": "AレコードとCNAMEレコードの違い",
     "url": "https://qiita.com/PharaohKJ/items/b6a933b7f79afe8a32e1",
-    "likes_count": 610,
+    "likes_count": 611,
     "created_at": "2014-10-01T02:33:36+09:00",
     "updated_at": "2017-11-05T18:41:28+09:00",
     "id": "PharaohKJ"
@@ -338,7 +338,7 @@
   {
     "title": "load averageを見てシステムの負荷を確認する",
     "url": "https://qiita.com/k0kubun/items/8065f5cf2da7605c8043",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2014-09-08T21:08:18+09:00",
     "updated_at": "2014-09-08T21:24:13+09:00",
     "id": "k0kubun"
@@ -352,20 +352,20 @@
     "id": "nightyknite"
   },
   {
+    "title": "iOSデバイス一覧表",
+    "url": "https://qiita.com/takkyun/items/814aa45beee422a5f0c6",
+    "likes_count": 430,
+    "created_at": "2014-09-11T05:01:40+09:00",
+    "updated_at": "2021-09-15T07:48:49+09:00",
+    "id": "takkyun"
+  },
+  {
     "title": "新TestFlightの使用方法",
     "url": "https://qiita.com/Raugh/items/9e803fbb03391cf1b388",
     "likes_count": 430,
     "created_at": "2014-09-25T21:37:09+09:00",
     "updated_at": "2017-09-08T13:23:57+09:00",
     "id": "Raugh"
-  },
-  {
-    "title": "iOSデバイス一覧表",
-    "url": "https://qiita.com/takkyun/items/814aa45beee422a5f0c6",
-    "likes_count": 429,
-    "created_at": "2014-09-11T05:01:40+09:00",
-    "updated_at": "2021-09-15T07:48:49+09:00",
-    "id": "takkyun"
   },
   {
     "title": "Bluetooth Low Energy（BLE）/ iBeaconとは",
