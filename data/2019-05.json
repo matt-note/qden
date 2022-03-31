@@ -18,7 +18,7 @@
   {
     "title": "Vue.jsを100時間勉強して分かったこと",
     "url": "https://qiita.com/kskinaba/items/3e8887d45b11f9132012",
-    "likes_count": 2292,
+    "likes_count": 2293,
     "created_at": "2019-05-16T18:44:50+09:00",
     "updated_at": "2020-07-01T08:46:20+09:00",
     "id": "kskinaba"
@@ -34,7 +34,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 1861,
+    "likes_count": 1862,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2021-01-25T16:27:57+09:00",
     "id": "nkay"
@@ -58,7 +58,7 @@
   {
     "title": "AWS/Azure/GCPサービス比較 2022.02",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1675,
+    "likes_count": 1677,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2022-02-02T23:41:00+09:00",
     "id": "hayao_k"
@@ -122,10 +122,18 @@
   {
     "title": "レガシープロジェクトを引き継いだ時、最初にするべき７つのこと",
     "url": "https://qiita.com/tonluqclml/items/a7ed2f94225ef8a37b8b",
-    "likes_count": 1031,
+    "likes_count": 1032,
     "created_at": "2019-05-23T11:37:59+09:00",
     "updated_at": "2021-12-07T18:21:02+09:00",
     "id": "tonluqclml"
+  },
+  {
+    "title": "敗北者のTypeScript",
+    "url": "https://qiita.com/uhyo/items/aae57ba0734e36ee846a",
+    "likes_count": 1013,
+    "created_at": "2019-05-12T17:40:10+09:00",
+    "updated_at": "2020-05-15T12:52:28+09:00",
+    "id": "uhyo"
   },
   {
     "title": "Chrome なら Web ページ全体のスクリーンショットが簡単に取れる",
@@ -134,14 +142,6 @@
     "created_at": "2019-05-29T17:59:05+09:00",
     "updated_at": "2019-05-30T11:53:55+09:00",
     "id": "kentarosasaki"
-  },
-  {
-    "title": "敗北者のTypeScript",
-    "url": "https://qiita.com/uhyo/items/aae57ba0734e36ee846a",
-    "likes_count": 1012,
-    "created_at": "2019-05-12T17:40:10+09:00",
-    "updated_at": "2020-05-15T12:52:28+09:00",
-    "id": "uhyo"
   },
   {
     "title": "Dockerfileを書くためのベストプラクティス【参考訳】v18.09",
@@ -338,7 +338,7 @@
   {
     "title": "無料！かつ最短？で Ruby on Rails on Docker on AWS のアプリを公開するぞ。",
     "url": "https://qiita.com/at-946/items/1e8acea19cc0b9f31b98",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2019-05-16T21:33:33+09:00",
     "updated_at": "2020-01-26T00:28:07+09:00",
     "id": "at-946"

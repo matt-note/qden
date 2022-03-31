@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1629,
+    "likes_count": 1628,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2021-12-04T10:37:55+09:00",
     "id": "masaibar"
@@ -90,7 +90,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 1061,
+    "likes_count": 1062,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -122,7 +122,7 @@
   {
     "title": "機械学習/ディープラーニング初心者が2018年にやったこと、読んだ論文",
     "url": "https://qiita.com/koshian2/items/bb4afec12e5dd50aae50",
-    "likes_count": 988,
+    "likes_count": 989,
     "created_at": "2018-12-31T12:55:48+09:00",
     "updated_at": "2018-12-31T14:27:33+09:00",
     "id": "koshian2"
@@ -170,7 +170,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 922,
+    "likes_count": 923,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -194,7 +194,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 813,
+    "likes_count": 814,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2021-12-08T08:19:16+09:00",
     "id": "cha84rakanal"
@@ -424,20 +424,20 @@
     "id": "koizumittn"
   },
   {
+    "title": "『Microservice Patterns』 まとめ",
+    "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
+    "likes_count": 437,
+    "created_at": "2018-12-07T17:46:26+09:00",
+    "updated_at": "2020-03-18T20:59:40+09:00",
+    "id": "yasuabe2613"
+  },
+  {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
     "url": "https://qiita.com/po3rin/items/c70105f684e6816621d2",
     "likes_count": 437,
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
-  },
-  {
-    "title": "『Microservice Patterns』 まとめ",
-    "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 436,
-    "created_at": "2018-12-07T17:46:26+09:00",
-    "updated_at": "2020-03-18T20:59:40+09:00",
-    "id": "yasuabe2613"
   },
   {
     "title": "今年、JavaScriptでの仕事の幅を広げた技術６選",
@@ -506,7 +506,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 386,
+    "likes_count": 387,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2021-05-21T15:08:52+09:00",
     "id": "_takeshi_24"
@@ -570,7 +570,7 @@
   {
     "title": "Flutterで1年間開発して利用した使えるライブラリ",
     "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
-    "likes_count": 360,
+    "likes_count": 361,
     "created_at": "2018-12-21T19:15:21+09:00",
     "updated_at": "2019-07-30T14:29:43+09:00",
     "id": "ko2ic"
@@ -672,6 +672,14 @@
     "id": "naberina"
   },
   {
+    "title": "段階的に理解する Java 例外処理",
+    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
+    "likes_count": 308,
+    "created_at": "2018-12-21T23:27:05+09:00",
+    "updated_at": "2018-12-26T11:18:48+09:00",
+    "id": "ts7i"
+  },
+  {
     "title": "Python3の標準入力やり方まとめ",
     "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
     "likes_count": 308,
@@ -686,14 +694,6 @@
     "created_at": "2018-12-08T19:30:47+09:00",
     "updated_at": "2020-04-13T00:22:52+09:00",
     "id": "mitsumitsu1128"
-  },
-  {
-    "title": "段階的に理解する Java 例外処理",
-    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 307,
-    "created_at": "2018-12-21T23:27:05+09:00",
-    "updated_at": "2018-12-26T11:18:48+09:00",
-    "id": "ts7i"
   },
   {
     "title": "まだPowerPointで消耗してるの？",
