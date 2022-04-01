@@ -2,7 +2,7 @@
   {
     "title": "Gitでやらかした時に使える19個の奥義",
     "url": "https://qiita.com/muran001/items/dea2bbbaea1260098051",
-    "likes_count": 6370,
+    "likes_count": 6371,
     "created_at": "2015-02-11T19:46:14+09:00",
     "updated_at": "2015-03-06T08:29:01+09:00",
     "id": "muran001"
@@ -26,7 +26,7 @@
   {
     "title": "WebAPIについての説明",
     "url": "https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47",
-    "likes_count": 3368,
+    "likes_count": 3367,
     "created_at": "2015-02-14T15:27:09+09:00",
     "updated_at": "2019-09-06T14:17:38+09:00",
     "id": "busyoumono99"
@@ -74,7 +74,7 @@
   {
     "title": "Railsバリデーションまとめ",
     "url": "https://qiita.com/h1kita/items/772b81a1cc066e67930e",
-    "likes_count": 1680,
+    "likes_count": 1682,
     "created_at": "2015-02-24T11:07:12+09:00",
     "updated_at": "2017-11-15T16:28:26+09:00",
     "id": "h1kita"
@@ -82,7 +82,7 @@
   {
     "title": "ノンプログラマーが3ヶ月でWebサービスを作ってみた",
     "url": "https://qiita.com/tabbyz/items/6513e84f319843c316d5",
-    "likes_count": 1651,
+    "likes_count": 1650,
     "created_at": "2015-02-25T09:30:19+09:00",
     "updated_at": "2016-03-28T08:52:32+09:00",
     "id": "tabbyz"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptで即時関数を使う理由",
     "url": "https://qiita.com/katsukii/items/cfe9fd968ba0db603b1e",
-    "likes_count": 1005,
+    "likes_count": 1006,
     "created_at": "2015-02-20T17:53:40+09:00",
     "updated_at": "2018-12-12T21:48:28+09:00",
     "id": "katsukii"
@@ -512,20 +512,20 @@
     "id": "katsukii"
   },
   {
+    "title": "WebAPIを叩く(curl)",
+    "url": "https://qiita.com/re-24/items/bfdd533e5dacecd21a7a",
+    "likes_count": 286,
+    "created_at": "2015-02-11T17:35:49+09:00",
+    "updated_at": "2017-01-30T21:42:15+09:00",
+    "id": "re-24"
+  },
+  {
     "title": "LinuxでL4のロードバランサを簡単に作る手順",
     "url": "https://qiita.com/shnagai/items/b9b1940cdaf9a17b4088",
     "likes_count": 286,
     "created_at": "2015-02-19T19:40:53+09:00",
     "updated_at": "2017-09-26T15:36:03+09:00",
     "id": "shnagai"
-  },
-  {
-    "title": "WebAPIを叩く(curl)",
-    "url": "https://qiita.com/re-24/items/bfdd533e5dacecd21a7a",
-    "likes_count": 285,
-    "created_at": "2015-02-11T17:35:49+09:00",
-    "updated_at": "2017-01-30T21:42:15+09:00",
-    "id": "re-24"
   },
   {
     "title": "Node.js+Express+MongoDBでREST APIをつくる",
