@@ -10,7 +10,7 @@
   {
     "title": "Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary)",
     "url": "https://qiita.com/wtetsu/items/c43232c6c44918e977c9",
-    "likes_count": 4809,
+    "likes_count": 4808,
     "created_at": "2018-09-05T00:06:08+09:00",
     "updated_at": "2022-03-20T23:36:43+09:00",
     "id": "wtetsu"
@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 2847,
+    "likes_count": 2848,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -34,7 +34,7 @@
   {
     "title": "今から始めるReact入門 〜 React の基本",
     "url": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
-    "likes_count": 2224,
+    "likes_count": 2225,
     "created_at": "2018-09-08T14:12:46+09:00",
     "updated_at": "2021-04-30T23:50:34+09:00",
     "id": "TsutomuNakamura"
@@ -234,7 +234,7 @@
   {
     "title": "Apache Kafkaの概要とアーキテクチャ",
     "url": "https://qiita.com/sigmalist/items/5a26ab519cbdf1e07af3",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2018-09-07T15:44:03+09:00",
     "updated_at": "2020-01-31T19:01:04+09:00",
     "id": "sigmalist"
@@ -274,7 +274,7 @@
   {
     "title": "オブジェクト指向が0.05%も理解できない記事",
     "url": "https://qiita.com/raccy/items/58254f842788707f8c53",
-    "likes_count": 616,
+    "likes_count": 617,
     "created_at": "2018-09-28T07:30:06+09:00",
     "updated_at": "2018-11-09T18:43:07+09:00",
     "id": "raccy"
@@ -306,7 +306,7 @@
   {
     "title": "最新のRegion CNN(R-CNN)を用いた物体検出入門 ~物体検出とは? R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN~",
     "url": "https://qiita.com/arutema47/items/8ff629a1516f7fd485f9",
-    "likes_count": 555,
+    "likes_count": 556,
     "created_at": "2018-09-17T10:57:35+09:00",
     "updated_at": "2021-02-16T15:02:34+09:00",
     "id": "arutema47"
@@ -344,20 +344,20 @@
     "id": "Haruka-Ogawa"
   },
   {
+    "title": "サイゼリヤ1000円ガチャをつくってみた(Heroku + Flask + LINEbot)",
+    "url": "https://qiita.com/marusho_summers/items/a2d3681fac863734ec8a",
+    "likes_count": 483,
+    "created_at": "2018-09-22T22:23:19+09:00",
+    "updated_at": "2019-05-10T15:41:44+09:00",
+    "id": "marusho_summers"
+  },
+  {
     "title": "KotlinとJavaができる人向けDart速習",
     "url": "https://qiita.com/kikuchy/items/2cce118d38fc15324b2b",
     "likes_count": 482,
     "created_at": "2018-09-18T19:47:13+09:00",
     "updated_at": "2021-05-24T14:09:51+09:00",
     "id": "kikuchy"
-  },
-  {
-    "title": "サイゼリヤ1000円ガチャをつくってみた(Heroku + Flask + LINEbot)",
-    "url": "https://qiita.com/marusho_summers/items/a2d3681fac863734ec8a",
-    "likes_count": 482,
-    "created_at": "2018-09-22T22:23:19+09:00",
-    "updated_at": "2019-05-10T15:41:44+09:00",
-    "id": "marusho_summers"
   },
   {
     "title": "30分でできるRuby on RailsとGitHubやエディタまわりの環境構築",
@@ -458,7 +458,7 @@
   {
     "title": "【物体検出手法の歴史 : YOLOの紹介】",
     "url": "https://qiita.com/cv_carnavi/items/68dcda71e90321574a2b",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2018-09-01T12:15:36+09:00",
     "updated_at": "2021-12-23T19:59:34+09:00",
     "id": "cv_carnavi"
@@ -522,7 +522,7 @@
   {
     "title": "SCSSの基本的な書き方",
     "url": "https://qiita.com/nchhujimiyama/items/8a6aad5abead39d1352a",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2018-09-21T16:06:04+09:00",
     "updated_at": "2020-02-15T22:45:11+09:00",
     "id": "nchhujimiyama"
@@ -536,20 +536,20 @@
     "id": "A-Kira"
   },
   {
+    "title": "VS Code でEmmet使ったらHTML書くの速くなった～‼",
+    "url": "https://qiita.com/tedkuma/items/67876e6be3369b0e730c",
+    "likes_count": 348,
+    "created_at": "2018-09-21T14:18:21+09:00",
+    "updated_at": "2018-09-25T16:43:47+09:00",
+    "id": "tedkuma"
+  },
+  {
     "title": "Nuxt.js + Netlifyで爆速構築するサーバーレス開発入門",
     "url": "https://qiita.com/isihigameKoudai/items/e3b136e9964f1d30d73d",
     "likes_count": 348,
     "created_at": "2018-09-27T03:15:09+09:00",
     "updated_at": "2019-03-14T02:10:21+09:00",
     "id": "isihigameKoudai"
-  },
-  {
-    "title": "VS Code でEmmet使ったらHTML書くの速くなった～‼",
-    "url": "https://qiita.com/tedkuma/items/67876e6be3369b0e730c",
-    "likes_count": 347,
-    "created_at": "2018-09-21T14:18:21+09:00",
-    "updated_at": "2018-09-25T16:43:47+09:00",
-    "id": "tedkuma"
   },
   {
     "title": "圏論のオススメ勉強法（プログラマ向け）",

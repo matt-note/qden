@@ -18,7 +18,7 @@
   {
     "title": "効率的に安全な Dockerfile を作るには",
     "url": "https://qiita.com/pottava/items/452bf80e334bc1fee69a",
-    "likes_count": 1918,
+    "likes_count": 1919,
     "created_at": "2016-02-07T12:48:50+09:00",
     "updated_at": "2018-03-09T21:07:09+09:00",
     "id": "pottava"
@@ -26,7 +26,7 @@
   {
     "title": "OAuth 2.0 + OpenID Connect のフルスクラッチ実装者が知見を語る",
     "url": "https://qiita.com/TakahikoKawasaki/items/f2a0d25a4f05790b3baa",
-    "likes_count": 1911,
+    "likes_count": 1913,
     "created_at": "2016-02-21T06:01:13+09:00",
     "updated_at": "2016-10-15T23:08:38+09:00",
     "id": "TakahikoKawasaki"
@@ -34,7 +34,7 @@
   {
     "title": "UIセンスが壊滅的なエンジニアがそれっぽいwebアプリを作るために使った無料UIライブラリをまとめておく",
     "url": "https://qiita.com/h-tko/items/e2a23beafed2315b56f8",
-    "likes_count": 1873,
+    "likes_count": 1872,
     "created_at": "2016-02-17T10:19:19+09:00",
     "updated_at": "2019-03-20T22:39:30+09:00",
     "id": "h-tko"
@@ -74,7 +74,7 @@
   {
     "title": "[Linux]ファイルの圧縮、解凍方法",
     "url": "https://qiita.com/supersaiakujin/items/c6b54e9add21d375161f",
-    "likes_count": 1186,
+    "likes_count": 1187,
     "created_at": "2016-02-10T08:05:06+09:00",
     "updated_at": "2018-11-03T23:09:59+09:00",
     "id": "supersaiakujin"
@@ -130,7 +130,7 @@
   {
     "title": "【新人教育 資料】SQLへの道 〜DB編〜",
     "url": "https://qiita.com/devopsCoordinator/items/9b70e506150888e190be",
-    "likes_count": 964,
+    "likes_count": 965,
     "created_at": "2016-02-09T07:20:25+09:00",
     "updated_at": "2019-04-25T14:45:25+09:00",
     "id": "devopsCoordinator"
@@ -194,7 +194,7 @@
   {
     "title": "Distributed TensorFlowの話",
     "url": "https://qiita.com/kazunori279/items/981a8a2a44f5d1172856",
-    "likes_count": 707,
+    "likes_count": 708,
     "created_at": "2016-02-08T11:47:37+09:00",
     "updated_at": "2016-02-08T11:47:37+09:00",
     "id": "kazunori279"
@@ -202,7 +202,7 @@
   {
     "title": "おじさんが若い時はね$.ajax()のオプションでsuccessとかerrorとか指定していたんだよ（追憶）",
     "url": "https://qiita.com/tonkotsuboy_com/items/0722ad92f370ab0c411b",
-    "likes_count": 703,
+    "likes_count": 702,
     "created_at": "2016-02-22T22:19:15+09:00",
     "updated_at": "2018-10-31T18:33:44+09:00",
     "id": "tonkotsuboy_com"
@@ -352,20 +352,20 @@
     "id": "yhatt"
   },
   {
-    "title": "GitHubのIssue・Pull Requestのテンプレート機能を使おう",
-    "url": "https://qiita.com/nyamogera/items/3fe6985b45fbd5377184",
-    "likes_count": 442,
-    "created_at": "2016-02-18T14:29:47+09:00",
-    "updated_at": "2020-07-15T20:36:26+09:00",
-    "id": "nyamogera"
-  },
-  {
     "title": " (Capistrano編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/657aca7531b8948d267b",
     "likes_count": 441,
     "created_at": "2016-02-01T16:37:20+09:00",
     "updated_at": "2021-10-08T20:23:44+09:00",
     "id": "naoki_mochizuki"
+  },
+  {
+    "title": "GitHubのIssue・Pull Requestのテンプレート機能を使おう",
+    "url": "https://qiita.com/nyamogera/items/3fe6985b45fbd5377184",
+    "likes_count": 441,
+    "created_at": "2016-02-18T14:29:47+09:00",
+    "updated_at": "2020-07-15T20:36:26+09:00",
+    "id": "nyamogera"
   },
   {
     "title": "個人で30本スマホアプリをリリースしたときのコツ5つを紹介してみるよ",
@@ -378,7 +378,7 @@
   {
     "title": "デザインパターン「Factory Method」",
     "url": "https://qiita.com/shoheiyokoyama/items/d752834a6a2e208b90ca",
-    "likes_count": 433,
+    "likes_count": 434,
     "created_at": "2016-02-20T22:46:38+09:00",
     "updated_at": "2017-03-27T20:42:30+09:00",
     "id": "shoheiyokoyama"
@@ -434,7 +434,7 @@
   {
     "title": "【第二弾】OAuth 2.0 + OpenID Connect のフルスクラッチ実装者が知見を語る",
     "url": "https://qiita.com/TakahikoKawasaki/items/30fbd546935cea914e4f",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2016-02-27T23:00:56+09:00",
     "updated_at": "2017-10-11T17:15:12+09:00",
     "id": "TakahikoKawasaki"
@@ -490,7 +490,7 @@
   {
     "title": "GitHubでユーザ名・パスワード省略（push, pull）",
     "url": "https://qiita.com/azusanakano/items/8dc1d7e384b00239d4d9",
-    "likes_count": 352,
+    "likes_count": 351,
     "created_at": "2016-02-05T19:51:00+09:00",
     "updated_at": "2016-02-17T15:47:45+09:00",
     "id": "azusanakano"
@@ -546,7 +546,7 @@
   {
     "title": "[意訳]グローバルCSSの終焉",
     "url": "https://qiita.com/chuck0523/items/9a3cc6a2190dfb71a684",
-    "likes_count": 322,
+    "likes_count": 321,
     "created_at": "2016-02-07T15:38:21+09:00",
     "updated_at": "2016-02-08T04:43:47+09:00",
     "id": "chuck0523"
