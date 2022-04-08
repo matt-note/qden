@@ -2,7 +2,7 @@
   {
     "title": "1時間で出来るWordPress環境構築(※永久無料・・・だった)【※2020/7/1より約300円/月が有料になります】",
     "url": "https://qiita.com/ulwlu/items/dbb0db5cf7099b7a7cc4",
-    "likes_count": 2853,
+    "likes_count": 2854,
     "created_at": "2019-06-03T17:02:17+09:00",
     "updated_at": "2021-05-13T15:58:38+09:00",
     "id": "ulwlu"
@@ -74,7 +74,7 @@
   {
     "title": "Flutter入門のためのDart入門",
     "url": "https://qiita.com/teradonburi/items/913fb8c311b9f2bdb1dd",
-    "likes_count": 1283,
+    "likes_count": 1284,
     "created_at": "2019-06-23T20:50:04+09:00",
     "updated_at": "2020-09-09T07:34:03+09:00",
     "id": "teradonburi"
@@ -114,7 +114,7 @@
   {
     "title": "実務でどんな git コマンドを使っているか振り返ってみる",
     "url": "https://qiita.com/west-hiroaki/items/74cccbc22b2cc7a4aacb",
-    "likes_count": 968,
+    "likes_count": 969,
     "created_at": "2019-06-26T23:17:26+09:00",
     "updated_at": "2019-07-01T13:54:39+09:00",
     "id": "west-hiroaki"
@@ -256,20 +256,20 @@
     "id": "RHM"
   },
   {
+    "title": "bundle install時に--path vendor/bundleを付ける必要性は本当にあるのか、もう一度よく考えてみよう",
+    "url": "https://qiita.com/jnchito/items/99b1dbea1767a5095d85",
+    "likes_count": 532,
+    "created_at": "2019-06-06T10:06:54+09:00",
+    "updated_at": "2022-02-05T06:30:34+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "SQLアンチパターンもりもりDBを設計しよう！",
     "url": "https://qiita.com/Mister_K/items/ff4c63085ecd9e77fa33",
     "likes_count": 532,
     "created_at": "2019-06-21T12:37:42+09:00",
     "updated_at": "2019-06-24T12:12:54+09:00",
     "id": "Mister_K"
-  },
-  {
-    "title": "bundle install時に--path vendor/bundleを付ける必要性は本当にあるのか、もう一度よく考えてみよう",
-    "url": "https://qiita.com/jnchito/items/99b1dbea1767a5095d85",
-    "likes_count": 531,
-    "created_at": "2019-06-06T10:06:54+09:00",
-    "updated_at": "2022-02-05T06:30:34+09:00",
-    "id": "jnchito"
   },
   {
     "title": "[Swift] SwiftUIのチートシート",
@@ -282,7 +282,7 @@
   {
     "title": "はじめてのvue-property-decorator (nuxtにも対応）",
     "url": "https://qiita.com/simochee/items/e5b77af4aa36bd0f32e5",
-    "likes_count": 500,
+    "likes_count": 501,
     "created_at": "2019-06-27T19:55:13+09:00",
     "updated_at": "2020-06-05T22:41:37+09:00",
     "id": "simochee"
@@ -410,7 +410,7 @@
   {
     "title": "MVC、3 層アーキテクチャから設計を学び始めるための基礎知識",
     "url": "https://qiita.com/os1ma/items/7a229585ebdd8b7d86c2",
-    "likes_count": 385,
+    "likes_count": 386,
     "created_at": "2019-06-21T02:14:46+09:00",
     "updated_at": "2021-05-23T10:51:28+09:00",
     "id": "os1ma"
@@ -434,7 +434,7 @@
   {
     "title": "Material-UI と styled-components を組み合わせて、React のサイトを怠惰にスタイリングする。",
     "url": "https://qiita.com/Ouvill/items/c6761c32d31ffb11e114",
-    "likes_count": 374,
+    "likes_count": 375,
     "created_at": "2019-06-16T14:23:28+09:00",
     "updated_at": "2019-06-16T14:24:03+09:00",
     "id": "Ouvill"
@@ -498,7 +498,7 @@
   {
     "title": "Redux の記述量多すぎなので、 Redux の公式ツールでとことん楽をする。 ( Redux Toolkit)",
     "url": "https://qiita.com/Ouvill/items/a76e9cbce569d01f2931",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2019-06-13T15:24:54+09:00",
     "updated_at": "2019-11-20T17:03:31+09:00",
     "id": "Ouvill"
@@ -554,7 +554,7 @@
   {
     "title": "【Material-UI】必ず設定しておきたいTheme項目",
     "url": "https://qiita.com/tag1216/items/2935c9979b857bb7701f",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2019-06-17T08:19:31+09:00",
     "updated_at": "2019-06-17T08:19:31+09:00",
     "id": "tag1216"

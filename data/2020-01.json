@@ -2,15 +2,15 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 4980,
+    "likes_count": 4982,
     "created_at": "2020-01-11T09:04:24+09:00",
-    "updated_at": "2022-03-30T11:57:23+09:00",
+    "updated_at": "2022-04-08T09:04:26+09:00",
     "id": "Saku731"
   },
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4588,
+    "likes_count": 4589,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -82,7 +82,7 @@
   {
     "title": "駆け出しエンジニアの頃に知ってたら超捗ってたlinux系コマンド・テクニックまとめ",
     "url": "https://qiita.com/keisukee/items/a07743279ae86effe1ca",
-    "likes_count": 1147,
+    "likes_count": 1148,
     "created_at": "2020-01-19T09:30:12+09:00",
     "updated_at": "2021-10-31T14:17:36+09:00",
     "id": "keisukee"
@@ -90,7 +90,7 @@
   {
     "title": "Chrome 80が密かに呼び寄せる地獄 ～ SameSite属性のデフォルト変更を調べてみた",
     "url": "https://qiita.com/ahera/items/0c8276da6b0bed2b580c",
-    "likes_count": 1110,
+    "likes_count": 1111,
     "created_at": "2020-02-01T08:40:29+09:00",
     "updated_at": "2022-01-19T12:46:59+09:00",
     "id": "ahera"
@@ -114,7 +114,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 970,
+    "likes_count": 971,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -226,7 +226,7 @@
   {
     "title": "機械学習による株価予測　いろはの”い”",
     "url": "https://qiita.com/blog_UKI/items/25dc1c2559c61890a449",
-    "likes_count": 690,
+    "likes_count": 691,
     "created_at": "2020-01-09T12:13:39+09:00",
     "updated_at": "2020-01-09T12:13:39+09:00",
     "id": "blog_UKI"
@@ -274,7 +274,7 @@
   {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 596,
+    "likes_count": 597,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2021-03-26T11:27:03+09:00",
     "id": "Saku731"
@@ -312,6 +312,14 @@
     "id": "mizchi"
   },
   {
+    "title": "「アプリケーションが壊れているのに検知できないテストコード」を書かないようにするための、べからず集",
+    "url": "https://qiita.com/jnchito/items/133d9953e1e7214e5357",
+    "likes_count": 555,
+    "created_at": "2020-01-29T09:41:54+09:00",
+    "updated_at": "2020-02-10T06:44:08+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
     "likes_count": 554,
@@ -320,17 +328,9 @@
     "id": "seira"
   },
   {
-    "title": "「アプリケーションが壊れているのに検知できないテストコード」を書かないようにするための、べからず集",
-    "url": "https://qiita.com/jnchito/items/133d9953e1e7214e5357",
-    "likes_count": 553,
-    "created_at": "2020-01-29T09:41:54+09:00",
-    "updated_at": "2020-02-10T06:44:08+09:00",
-    "id": "jnchito"
-  },
-  {
     "title": "ginを最速でマスターしよう",
     "url": "https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a",
-    "likes_count": 528,
+    "likes_count": 529,
     "created_at": "2020-01-01T09:46:12+09:00",
     "updated_at": "2021-09-16T14:42:11+09:00",
     "id": "Syoitu"
@@ -338,7 +338,7 @@
   {
     "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
     "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
-    "likes_count": 505,
+    "likes_count": 506,
     "created_at": "2020-01-10T19:39:06+09:00",
     "updated_at": "2020-10-28T20:23:44+09:00",
     "id": "marnie_ms4"
@@ -402,7 +402,7 @@
   {
     "title": "VS CodeでDocker開発コンテナを便利に使おう",
     "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2020-01-17T21:18:30+09:00",
     "updated_at": "2020-01-17T21:18:30+09:00",
     "id": "Yuki_Oshima"
@@ -418,7 +418,7 @@
   {
     "title": "最短経路問題総特集！！！～BFSから拡張ダイクストラまで～",
     "url": "https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2020-01-18T16:57:24+09:00",
     "updated_at": "2020-01-23T21:44:58+09:00",
     "id": "ageprocpp"
@@ -498,7 +498,7 @@
   {
     "title": "TypeScriptでReactに入門するチュートリアル",
     "url": "https://qiita.com/yonetty/items/012be4c5c6258a609e35",
-    "likes_count": 311,
+    "likes_count": 312,
     "created_at": "2020-01-02T16:30:48+09:00",
     "updated_at": "2021-10-12T22:07:12+09:00",
     "id": "yonetty"
@@ -546,7 +546,7 @@
   {
     "title": "【Rails】form_with/form_forについて【入門】",
     "url": "https://qiita.com/snskOgata/items/44d32a06045e6a52d11c",
-    "likes_count": 268,
+    "likes_count": 267,
     "created_at": "2020-01-02T18:26:38+09:00",
     "updated_at": "2020-01-12T17:32:02+09:00",
     "id": "snskOgata"

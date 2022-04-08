@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4078,
+    "likes_count": 4079,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -26,7 +26,7 @@
   {
     "title": "画像処理の数式を見て石になった時のための、金の針",
     "url": "https://qiita.com/icoxfog417/items/adbbf445d357c924b8fc",
-    "likes_count": 3343,
+    "likes_count": 3344,
     "created_at": "2016-01-31T15:10:23+09:00",
     "updated_at": "2020-03-14T12:23:58+09:00",
     "id": "icoxfog417"
@@ -178,7 +178,7 @@
   {
     "title": "(デプロイ編①)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/814e0979217b1a25aa3e",
-    "likes_count": 869,
+    "likes_count": 870,
     "created_at": "2016-01-12T16:00:04+09:00",
     "updated_at": "2021-11-25T21:05:34+09:00",
     "id": "naoki_mochizuki"
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
     "url": "https://qiita.com/wadahiro/items/eb50ac6bbe2e18cf8813",
-    "likes_count": 692,
+    "likes_count": 693,
     "created_at": "2016-01-27T02:08:49+09:00",
     "updated_at": "2018-06-18T12:00:54+09:00",
     "id": "wadahiro"
@@ -338,7 +338,7 @@
   {
     "title": "爆速でターミナルを使うためのショートカット集",
     "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
-    "likes_count": 515,
+    "likes_count": 514,
     "created_at": "2016-01-19T01:33:35+09:00",
     "updated_at": "2019-12-23T11:08:38+09:00",
     "id": "akito"
@@ -400,20 +400,20 @@
     "id": "naoki_mochizuki"
   },
   {
+    "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
+    "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
+    "likes_count": 453,
+    "created_at": "2016-01-13T16:12:45+09:00",
+    "updated_at": "2021-10-08T20:25:34+09:00",
+    "id": "naoki_mochizuki"
+  },
+  {
     "title": "[Atom] キーボードショートカット個人的まとめ（v1.3.2）",
     "url": "https://qiita.com/YusukeHosonuma/items/0f687b16f0d5eeb0c18f",
     "likes_count": 452,
     "created_at": "2016-01-02T21:24:19+09:00",
     "updated_at": "2016-01-02T21:24:19+09:00",
     "id": "YusukeHosonuma"
-  },
-  {
-    "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
-    "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
-    "likes_count": 452,
-    "created_at": "2016-01-13T16:12:45+09:00",
-    "updated_at": "2021-10-08T20:25:34+09:00",
-    "id": "naoki_mochizuki"
   },
   {
     "title": "プログラマーのためのR言語入門",
@@ -592,14 +592,6 @@
     "id": "namutaka"
   },
   {
-    "title": "SSH通信って、結局何してるの？",
-    "url": "https://qiita.com/naoki_mochizuki/items/aea14a65a4a513e4816f",
-    "likes_count": 329,
-    "created_at": "2016-01-09T17:08:25+09:00",
-    "updated_at": "2020-09-24T17:47:33+09:00",
-    "id": "naoki_mochizuki"
-  },
-  {
     "title": "Courseraの機械学習コースのススメ 前編",
     "url": "https://qiita.com/mono0926/items/2c39649d24b2e515f4b5",
     "likes_count": 328,
@@ -608,9 +600,17 @@
     "id": "mono0926"
   },
   {
+    "title": "SSH通信って、結局何してるの？",
+    "url": "https://qiita.com/naoki_mochizuki/items/aea14a65a4a513e4816f",
+    "likes_count": 328,
+    "created_at": "2016-01-09T17:08:25+09:00",
+    "updated_at": "2020-09-24T17:47:33+09:00",
+    "id": "naoki_mochizuki"
+  },
+  {
     "title": "機械学習のデータセット画像枚数を増やす方法",
     "url": "https://qiita.com/bohemian916/items/9630661cd5292240f8c7",
-    "likes_count": 324,
+    "likes_count": 325,
     "created_at": "2016-01-07T12:44:39+09:00",
     "updated_at": "2016-04-06T10:55:37+09:00",
     "id": "bohemian916"
@@ -730,7 +730,7 @@
   {
     "title": "これだけは知っておきたい、セキュリティのまとめ",
     "url": "https://qiita.com/chrischris0801/items/a8beaeffb58b618d64a4",
-    "likes_count": 278,
+    "likes_count": 279,
     "created_at": "2016-01-16T18:31:32+09:00",
     "updated_at": "2016-01-24T14:20:59+09:00",
     "id": "chrischris0801"
