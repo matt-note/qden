@@ -18,7 +18,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】",
     "url": "https://qiita.com/e869120/items/f1c6f98364d1443148b3",
-    "likes_count": 2979,
+    "likes_count": 2981,
     "created_at": "2020-02-19T19:00:12+09:00",
     "updated_at": "2022-02-05T20:06:13+09:00",
     "id": "e869120"
@@ -42,7 +42,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】",
     "url": "https://qiita.com/e869120/items/eb50fdaece12be418faa",
-    "likes_count": 1991,
+    "likes_count": 1992,
     "created_at": "2020-02-19T19:00:56+09:00",
     "updated_at": "2021-07-12T22:49:23+09:00",
     "id": "e869120"
@@ -50,7 +50,7 @@
   {
     "title": "Excel設計書を抹殺したくて4年前にWiki設計書を導入したら、意外とちゃんと開発回ってた話。",
     "url": "https://qiita.com/gakuri/items/93b06fb47eb538d2e447",
-    "likes_count": 1741,
+    "likes_count": 1740,
     "created_at": "2020-02-24T07:37:56+09:00",
     "updated_at": "2020-02-25T08:16:06+09:00",
     "id": "gakuri"
@@ -80,20 +80,20 @@
     "id": "hamaup"
   },
   {
+    "title": "2020年現在のNewSQLについて",
+    "url": "https://qiita.com/tzkoba/items/5316c6eac66510233115",
+    "likes_count": 1276,
+    "created_at": "2020-02-26T18:34:57+09:00",
+    "updated_at": "2021-07-03T18:56:33+09:00",
+    "id": "tzkoba"
+  },
+  {
     "title": "「募ってはいるが、募集はしていない」 人たちへ",
     "url": "https://qiita.com/omiita/items/0f811f15e569bf2539b8",
     "likes_count": 1275,
     "created_at": "2020-02-19T07:34:28+09:00",
     "updated_at": "2020-08-12T20:05:55+09:00",
     "id": "omiita"
-  },
-  {
-    "title": "2020年現在のNewSQLについて",
-    "url": "https://qiita.com/tzkoba/items/5316c6eac66510233115",
-    "likes_count": 1275,
-    "created_at": "2020-02-26T18:34:57+09:00",
-    "updated_at": "2021-07-03T18:56:33+09:00",
-    "id": "tzkoba"
   },
   {
     "title": "GraphQLの全体像とWebApp開発のこれから",
@@ -160,14 +160,6 @@
     "id": "mizchi"
   },
   {
-    "title": "【PWA】YouTubeをみんなでワイワイ見るためのサービス、DJ7をローンチしました！",
-    "url": "https://qiita.com/imataka7/items/03033f43861ae50e5ea0",
-    "likes_count": 749,
-    "created_at": "2020-02-08T01:16:14+09:00",
-    "updated_at": "2020-02-13T11:23:30+09:00",
-    "id": "imataka7"
-  },
-  {
     "title": "Jamstackって何なの？何がいいの？",
     "url": "https://qiita.com/ozaki25/items/4075d03278d1fb51cc37",
     "likes_count": 749,
@@ -182,6 +174,14 @@
     "created_at": "2020-03-01T01:07:12+09:00",
     "updated_at": "2020-04-04T12:45:15+09:00",
     "id": "_akiyama_"
+  },
+  {
+    "title": "【PWA】YouTubeをみんなでワイワイ見るためのサービス、DJ7をローンチしました！",
+    "url": "https://qiita.com/imataka7/items/03033f43861ae50e5ea0",
+    "likes_count": 748,
+    "created_at": "2020-02-08T01:16:14+09:00",
+    "updated_at": "2020-02-13T11:23:30+09:00",
+    "id": "imataka7"
   },
   {
     "title": "JavaScript ベスト・オブ・ザ・イヤー 2019",
@@ -250,7 +250,7 @@
   {
     "title": "JavaScriptの「演算子」を全種類言えますか？　～演算子とは何かを完全に理解する～",
     "url": "https://qiita.com/uhyo/items/cc92a553059274d85403",
-    "likes_count": 496,
+    "likes_count": 495,
     "created_at": "2020-02-24T17:02:35+09:00",
     "updated_at": "2020-03-12T23:05:01+09:00",
     "id": "uhyo"
@@ -258,7 +258,7 @@
   {
     "title": "脱・Atomic Design - HTML+CSSコーディングの粒度分類法（HTML Parts）",
     "url": "https://qiita.com/croo_works/items/e34d1b0c0e50b37031d7",
-    "likes_count": 491,
+    "likes_count": 490,
     "created_at": "2020-02-26T11:41:18+09:00",
     "updated_at": "2020-03-17T06:07:01+09:00",
     "id": "croo_works"
@@ -314,7 +314,7 @@
   {
     "title": "create-react-appで React + Typescript な環境を構築する",
     "url": "https://qiita.com/sanogemaru/items/05c2e9381d6ba2d9fccf",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2020-02-22T15:09:52+09:00",
     "updated_at": "2021-11-20T23:02:45+09:00",
     "id": "sanogemaru"
@@ -466,7 +466,7 @@
   {
     "title": "初心者でもできる！ ECS × ECR × CircleCIでRailsアプリケーションをコンテナデプロイ",
     "url": "https://qiita.com/saongtx7/items/f36909587014d746db73",
-    "likes_count": 245,
+    "likes_count": 246,
     "created_at": "2020-02-07T17:39:44+09:00",
     "updated_at": "2020-05-04T19:08:44+09:00",
     "id": "saongtx7"

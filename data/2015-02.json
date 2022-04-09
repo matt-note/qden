@@ -10,7 +10,7 @@
   {
     "title": "初心者向け、「上手い」シェルスクリプトの書き方メモ",
     "url": "https://qiita.com/m-yamashita/items/889c116b92dc0bf4ea7d",
-    "likes_count": 4364,
+    "likes_count": 4366,
     "created_at": "2015-02-02T00:38:57+09:00",
     "updated_at": "2018-01-18T16:36:34+09:00",
     "id": "m-yamashita"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptで即時関数を使う理由",
     "url": "https://qiita.com/katsukii/items/cfe9fd968ba0db603b1e",
-    "likes_count": 1010,
+    "likes_count": 1011,
     "created_at": "2015-02-20T17:53:40+09:00",
     "updated_at": "2018-12-12T21:48:28+09:00",
     "id": "katsukii"
@@ -282,7 +282,7 @@
   {
     "title": "【ps・kill】実行中のプロセス表示と強制終了",
     "url": "https://qiita.com/shuntaro_tamura/items/4016868bda604baeac3c",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2015-02-04T02:44:16+09:00",
     "updated_at": "2016-03-16T21:18:15+09:00",
     "id": "shuntaro_tamura"
@@ -306,7 +306,7 @@
   {
     "title": "【長編ポエム】関数型言語が分からんお前でもPythonなら分かるやろ：第1回 関数を受け取る関数は便利だよ編",
     "url": "https://qiita.com/kwatch/items/03fd035a955235681577",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2015-02-06T02:19:14+09:00",
     "updated_at": "2015-08-16T11:31:59+09:00",
     "id": "kwatch"
@@ -512,20 +512,20 @@
     "id": "katsukii"
   },
   {
-    "title": "WebAPIを叩く(curl)",
-    "url": "https://qiita.com/re-24/items/bfdd533e5dacecd21a7a",
-    "likes_count": 286,
-    "created_at": "2015-02-11T17:35:49+09:00",
-    "updated_at": "2017-01-30T21:42:15+09:00",
-    "id": "re-24"
-  },
-  {
     "title": "LinuxでL4のロードバランサを簡単に作る手順",
     "url": "https://qiita.com/shnagai/items/b9b1940cdaf9a17b4088",
     "likes_count": 286,
     "created_at": "2015-02-19T19:40:53+09:00",
     "updated_at": "2017-09-26T15:36:03+09:00",
     "id": "shnagai"
+  },
+  {
+    "title": "WebAPIを叩く(curl)",
+    "url": "https://qiita.com/re-24/items/bfdd533e5dacecd21a7a",
+    "likes_count": 285,
+    "created_at": "2015-02-11T17:35:49+09:00",
+    "updated_at": "2017-01-30T21:42:15+09:00",
+    "id": "re-24"
   },
   {
     "title": "Node.js+Express+MongoDBでREST APIをつくる",
