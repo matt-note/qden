@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3163,
+    "likes_count": 3164,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -26,7 +26,7 @@
   {
     "title": "コーディングをするときに鼻血がでるほど便利なwebツールリスト",
     "url": "https://qiita.com/isuke/items/7fcc5eb0b985005b7b7c",
-    "likes_count": 2714,
+    "likes_count": 2715,
     "created_at": "2018-05-11T00:22:27+09:00",
     "updated_at": "2020-05-10T17:20:53+09:00",
     "id": "isuke"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2473,
+    "likes_count": 2474,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2022-03-25T11:48:28+09:00",
     "id": "tani_AI_Academy"
@@ -58,7 +58,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1846,
+    "likes_count": 1847,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -106,7 +106,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 988,
+    "likes_count": 989,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -114,7 +114,7 @@
   {
     "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
     "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
-    "likes_count": 975,
+    "likes_count": 976,
     "created_at": "2018-05-21T13:12:10+09:00",
     "updated_at": "2022-02-14T13:49:44+09:00",
     "id": "kazukimatsumoto"
@@ -154,10 +154,18 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 773,
+    "likes_count": 774,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
+  },
+  {
+    "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
+    "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
+    "likes_count": 760,
+    "created_at": "2018-05-28T08:39:07+09:00",
+    "updated_at": "2020-11-30T00:02:40+09:00",
+    "id": "drken"
   },
   {
     "title": "キズナアイとねこますの声を入れ替える機械学習をした",
@@ -166,14 +174,6 @@
     "created_at": "2018-05-15T21:54:27+09:00",
     "updated_at": "2018-12-25T18:45:10+09:00",
     "id": "KSRG_Miyabi"
-  },
-  {
-    "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
-    "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 759,
-    "created_at": "2018-05-28T08:39:07+09:00",
-    "updated_at": "2020-11-30T00:02:40+09:00",
-    "id": "drken"
   },
   {
     "title": "「データ視覚化のデザイン #1」をmatplotlibで実装する",
@@ -234,7 +234,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/takahiro1127/items/fcb81753eaf381b4b33c",
-    "likes_count": 653,
+    "likes_count": 654,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "takahiro1127"
@@ -250,7 +250,7 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 634,
+    "likes_count": 635,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
@@ -282,7 +282,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -506,7 +506,7 @@
   {
     "title": "VirtualBox のネットワークアダプタまとめ",
     "url": "https://qiita.com/pitao/items/0f9475e4c0e230911eb7",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2018-05-01T14:40:59+09:00",
     "updated_at": "2021-01-01T22:57:59+09:00",
     "id": "pitao"
