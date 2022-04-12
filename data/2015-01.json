@@ -18,7 +18,7 @@
   {
     "title": "IPアドレスの基礎知識",
     "url": "https://qiita.com/mogulla3/items/efb4c9328d82d24d98e6",
-    "likes_count": 1984,
+    "likes_count": 1983,
     "created_at": "2015-01-01T22:16:34+09:00",
     "updated_at": "2016-03-07T21:44:03+09:00",
     "id": "mogulla3"
@@ -122,7 +122,7 @@
   {
     "title": "DB論理設計のノウハウ",
     "url": "https://qiita.com/kiyodori/items/5083ad8bbfc232d01827",
-    "likes_count": 1250,
+    "likes_count": 1251,
     "created_at": "2015-01-10T10:03:36+09:00",
     "updated_at": "2018-11-22T18:49:41+09:00",
     "id": "kiyodori"
@@ -154,7 +154,7 @@
   {
     "title": "SVNを捨ててGitを使うべき5つの理由",
     "url": "https://qiita.com/YusukeHosonuma/items/14c59f3878d640a401a1",
-    "likes_count": 1023,
+    "likes_count": 1025,
     "created_at": "2015-01-12T22:44:18+09:00",
     "updated_at": "2016-11-03T19:59:48+09:00",
     "id": "YusukeHosonuma"
@@ -314,7 +314,7 @@
   {
     "title": "Mac版のChromeで使えるショートカットキー",
     "url": "https://qiita.com/fantm21/items/430a1486132c8938ae1e",
-    "likes_count": 571,
+    "likes_count": 572,
     "created_at": "2015-01-24T22:16:33+09:00",
     "updated_at": "2015-01-24T22:25:58+09:00",
     "id": "fantm21"
@@ -440,20 +440,20 @@
     "id": "kazu56"
   },
   {
+    "title": "Hadoop利用者ならきっと知ってる、Hive/Prestoクエリ関数の挙動の違い",
+    "url": "https://qiita.com/y-ken/items/400b7c70c324ac67af02",
+    "likes_count": 383,
+    "created_at": "2015-01-22T13:06:27+09:00",
+    "updated_at": "2021-08-09T23:44:40+09:00",
+    "id": "y-ken"
+  },
+  {
     "title": "Javaで書くBuilderパターンのパターン",
     "url": "https://qiita.com/disc99/items/840cf9936687f97a482b",
     "likes_count": 382,
     "created_at": "2015-01-19T07:21:06+09:00",
     "updated_at": "2017-03-14T12:26:02+09:00",
     "id": "disc99"
-  },
-  {
-    "title": "Hadoop利用者ならきっと知ってる、Hive/Prestoクエリ関数の挙動の違い",
-    "url": "https://qiita.com/y-ken/items/400b7c70c324ac67af02",
-    "likes_count": 382,
-    "created_at": "2015-01-22T13:06:27+09:00",
-    "updated_at": "2021-08-09T23:44:40+09:00",
-    "id": "y-ken"
   },
   {
     "title": "共通化でモチベーションと効率が低下した話",
@@ -490,7 +490,7 @@
   {
     "title": "composer install と composer updateの違い",
     "url": "https://qiita.com/YusukeHigaki/items/47dd3ec23544225f7301",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2015-01-02T10:32:57+09:00",
     "updated_at": "2015-01-02T10:32:57+09:00",
     "id": "YusukeHigaki"
@@ -520,20 +520,20 @@
     "id": "yimajo"
   },
   {
-    "title": "ファイルやディレクトリのパーミッションを一括で置換したい",
-    "url": "https://qiita.com/takeshi81/items/48ea62eae2fc7f1cb2f0",
-    "likes_count": 319,
-    "created_at": "2015-01-09T12:37:59+09:00",
-    "updated_at": "2015-01-10T02:24:54+09:00",
-    "id": "takeshi81"
-  },
-  {
     "title": "Vagrant で Ruby on Rails 4 の環境構築",
     "url": "https://qiita.com/Salinger/items/20f466ffe7cc0c04b010",
     "likes_count": 318,
     "created_at": "2015-01-01T16:26:26+09:00",
     "updated_at": "2015-01-03T01:22:13+09:00",
     "id": "Salinger"
+  },
+  {
+    "title": "ファイルやディレクトリのパーミッションを一括で置換したい",
+    "url": "https://qiita.com/takeshi81/items/48ea62eae2fc7f1cb2f0",
+    "likes_count": 318,
+    "created_at": "2015-01-09T12:37:59+09:00",
+    "updated_at": "2015-01-10T02:24:54+09:00",
+    "id": "takeshi81"
   },
   {
     "title": "RequireJS使い方メモ",
@@ -586,7 +586,7 @@
   {
     "title": "コードレビューの際によく指摘するポイントについて",
     "url": "https://qiita.com/twainy@github/items/055c8b60b7779239d88e",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2015-01-19T00:46:26+09:00",
     "updated_at": "2018-07-04T16:45:20+09:00",
     "id": "twainy@github"
