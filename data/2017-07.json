@@ -2,7 +2,7 @@
   {
     "title": "一番分かりやすい OAuth の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be",
-    "likes_count": 7579,
+    "likes_count": 7582,
     "created_at": "2017-07-14T06:21:33+09:00",
     "updated_at": "2021-11-24T22:47:41+09:00",
     "id": "TakahikoKawasaki"
@@ -18,7 +18,7 @@
   {
     "title": "一番分かりやすい OpenID Connect の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe",
-    "likes_count": 2267,
+    "likes_count": 2269,
     "created_at": "2017-07-24T04:19:55+09:00",
     "updated_at": "2020-03-20T15:05:48+09:00",
     "id": "TakahikoKawasaki"
@@ -42,7 +42,7 @@
   {
     "title": "JavaScript の this を理解する多分一番分かりやすい説明",
     "url": "https://qiita.com/takkyun/items/c6e2f2cf25327299cf03",
-    "likes_count": 1369,
+    "likes_count": 1370,
     "created_at": "2017-07-30T06:55:45+09:00",
     "updated_at": "2018-10-15T04:31:34+09:00",
     "id": "takkyun"
@@ -50,7 +50,7 @@
   {
     "title": "Variational Autoencoder徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24",
-    "likes_count": 1189,
+    "likes_count": 1190,
     "created_at": "2017-07-19T10:09:26+09:00",
     "updated_at": "2017-08-01T22:14:22+09:00",
     "id": "kenmatsu4"
@@ -90,7 +90,7 @@
   {
     "title": "【これだけ覚えてたらOK！】SQL構文まとめ",
     "url": "https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd",
-    "likes_count": 743,
+    "likes_count": 744,
     "created_at": "2017-07-05T21:25:24+09:00",
     "updated_at": "2020-11-07T11:02:57+09:00",
     "id": "tatsuya4150"
@@ -296,6 +296,14 @@
     "id": "Hige-Moja"
   },
   {
+    "title": "Bash の if 文（test文）のオプションを整理してみた",
+    "url": "https://qiita.com/wakayama-y/items/a9b7380263da77e51711",
+    "likes_count": 352,
+    "created_at": "2017-07-12T18:50:28+09:00",
+    "updated_at": "2017-07-13T20:29:22+09:00",
+    "id": "wakayama-y"
+  },
+  {
     "title": "Node.js Stream を使いこなす",
     "url": "https://qiita.com/masakura/items/5683e8e3e655bfda6756",
     "likes_count": 352,
@@ -310,14 +318,6 @@
     "created_at": "2017-07-02T01:14:32+09:00",
     "updated_at": "2019-08-02T02:29:10+09:00",
     "id": "7110"
-  },
-  {
-    "title": "Bash の if 文（test文）のオプションを整理してみた",
-    "url": "https://qiita.com/wakayama-y/items/a9b7380263da77e51711",
-    "likes_count": 351,
-    "created_at": "2017-07-12T18:50:28+09:00",
-    "updated_at": "2017-07-13T20:29:22+09:00",
-    "id": "wakayama-y"
   },
   {
     "title": "DockerでサクッとDBからER図を作成する",
@@ -362,7 +362,7 @@
   {
     "title": "Spring MVC コントローラの引数",
     "url": "https://qiita.com/MizoguchiKenji/items/2a041f3a3eb13274e55c",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2017-07-18T18:09:14+09:00",
     "updated_at": "2018-03-22T21:05:53+09:00",
     "id": "MizoguchiKenji"

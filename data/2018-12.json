@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2792,
+    "likes_count": 2793,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -202,7 +202,7 @@
   {
     "title": "過去の難案件 PS2のカーネル開発",
     "url": "https://qiita.com/YukiMiyatake/items/dbdd8a45615e476810ce",
-    "likes_count": 757,
+    "likes_count": 758,
     "created_at": "2018-12-27T02:33:34+09:00",
     "updated_at": "2020-01-08T13:35:29+09:00",
     "id": "YukiMiyatake"
@@ -242,7 +242,7 @@
   {
     "title": "シェーダー芸人になりたかった6か月前の自分に教えてあげたいリンク集",
     "url": "https://qiita.com/kaneta1992/items/7fe9b47cc6c0836222af",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2018-12-10T06:08:41+09:00",
     "updated_at": "2018-12-13T10:44:16+09:00",
     "id": "kaneta1992"
@@ -482,7 +482,7 @@
   {
     "title": "VSCode に Code Spell Checker を導入して typo と戦う",
     "url": "https://qiita.com/diescake/items/98c5a099e85775cd917d",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2018-12-07T15:48:20+09:00",
     "updated_at": "2021-01-31T03:24:25+09:00",
     "id": "diescake"
@@ -498,7 +498,7 @@
   {
     "title": "マイクロサービスほどじゃないけどウェブサービスを分割開発したい人向けDocker設定を集めるスレ",
     "url": "https://qiita.com/shibukawa/items/fd49f98736045789ffc3",
-    "likes_count": 391,
+    "likes_count": 392,
     "created_at": "2018-12-06T02:27:47+09:00",
     "updated_at": "2019-10-22T10:30:30+09:00",
     "id": "shibukawa"
@@ -522,7 +522,7 @@
   {
     "title": "Web API初心者と学ぶGraphQL",
     "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 383,
+    "likes_count": 384,
     "created_at": "2018-12-20T03:46:56+09:00",
     "updated_at": "2021-10-12T15:09:10+09:00",
     "id": "SiragumoHuin"
@@ -584,6 +584,14 @@
     "id": "chihiro"
   },
   {
+    "title": "ドメイン駆動設計を勉強するときのオススメ資料",
+    "url": "https://qiita.com/dora56/items/db8495fac3fbc6cd2569",
+    "likes_count": 348,
+    "created_at": "2018-12-08T23:10:00+09:00",
+    "updated_at": "2019-06-12T16:42:02+09:00",
+    "id": "dora56"
+  },
+  {
     "title": "フロントエンドでTDDを実践する（理論編）",
     "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
     "likes_count": 348,
@@ -592,12 +600,12 @@
     "id": "taneba"
   },
   {
-    "title": "ドメイン駆動設計を勉強するときのオススメ資料",
-    "url": "https://qiita.com/dora56/items/db8495fac3fbc6cd2569",
-    "likes_count": 347,
-    "created_at": "2018-12-08T23:10:00+09:00",
-    "updated_at": "2019-06-12T16:42:02+09:00",
-    "id": "dora56"
+    "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
+    "url": "https://qiita.com/jiny2001/items/e2175b52013bf655d617",
+    "likes_count": 344,
+    "created_at": "2018-12-26T00:48:06+09:00",
+    "updated_at": "2018-12-27T15:55:41+09:00",
+    "id": "jiny2001"
   },
   {
     "title": "Nuxt, netlify, Firebase を使ったWebサービス開発と個人開発における技術選定のポイント",
@@ -606,14 +614,6 @@
     "created_at": "2018-12-09T07:06:15+09:00",
     "updated_at": "2019-10-22T12:53:39+09:00",
     "id": "howdy39"
-  },
-  {
-    "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
-    "url": "https://qiita.com/jiny2001/items/e2175b52013bf655d617",
-    "likes_count": 343,
-    "created_at": "2018-12-26T00:48:06+09:00",
-    "updated_at": "2018-12-27T15:55:41+09:00",
-    "id": "jiny2001"
   },
   {
     "title": "JavaScriptの概念たち (後編)",
@@ -682,7 +682,7 @@
   {
     "title": "Python3の標準入力やり方まとめ",
     "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2018-12-24T08:18:57+09:00",
     "updated_at": "2018-12-24T08:18:57+09:00",
     "id": "yasu_teco"
@@ -690,7 +690,7 @@
   {
     "title": "Railsでフォロー機能を作る方法",
     "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
-    "likes_count": 307,
+    "likes_count": 308,
     "created_at": "2018-12-08T19:30:47+09:00",
     "updated_at": "2020-04-13T00:22:52+09:00",
     "id": "mitsumitsu1128"
