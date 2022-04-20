@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3370,
+    "likes_count": 3371,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-11-21T13:01:21+09:00",
     "id": "upura"
@@ -146,7 +146,7 @@
   {
     "title": "VSCodeでなるべくマウスを使わない開発環境をがんばる",
     "url": "https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353",
-    "likes_count": 910,
+    "likes_count": 911,
     "created_at": "2019-03-11T07:44:47+09:00",
     "updated_at": "2021-01-23T18:43:42+09:00",
     "id": "y-tsutsu"
@@ -194,7 +194,7 @@
   {
     "title": "TypeScript の概要",
     "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 740,
+    "likes_count": 741,
     "created_at": "2019-03-18T13:33:09+09:00",
     "updated_at": "2022-04-07T14:59:08+09:00",
     "id": "EBIHARA_kenji"
@@ -304,20 +304,20 @@
     "id": "hyo_07"
   },
   {
+    "title": "GoFのデザインパターンまとめ",
+    "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
+    "likes_count": 585,
+    "created_at": "2019-03-28T11:27:34+09:00",
+    "updated_at": "2021-01-22T14:38:27+09:00",
+    "id": "i-tanaka730"
+  },
+  {
     "title": "Pythonのコードをきれいに書くコツ",
     "url": "https://qiita.com/kaiware710/items/28d973a653e9825ed582",
     "likes_count": 585,
     "created_at": "2019-03-31T22:38:24+09:00",
     "updated_at": "2022-03-01T19:02:52+09:00",
     "id": "kaiware710"
-  },
-  {
-    "title": "GoFのデザインパターンまとめ",
-    "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 583,
-    "created_at": "2019-03-28T11:27:34+09:00",
-    "updated_at": "2021-01-22T14:38:27+09:00",
-    "id": "i-tanaka730"
   },
   {
     "title": "非デザイナーのためのWebデザイン開発ガイド - デザインはセンスではない、スキルだ",
@@ -344,20 +344,20 @@
     "id": "TANATY"
   },
   {
+    "title": "JavaScriptの関数名の全て",
+    "url": "https://qiita.com/uhyo/items/2a2d67abd56419ea21b8",
+    "likes_count": 521,
+    "created_at": "2019-03-10T12:40:41+09:00",
+    "updated_at": "2019-03-13T14:02:22+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "textlint と VS Code で始める文章校正",
     "url": "https://qiita.com/takasp/items/22f7f72b691fda30aea2",
     "likes_count": 521,
     "created_at": "2019-03-21T12:08:05+09:00",
     "updated_at": "2021-11-23T22:47:31+09:00",
     "id": "takasp"
-  },
-  {
-    "title": "JavaScriptの関数名の全て",
-    "url": "https://qiita.com/uhyo/items/2a2d67abd56419ea21b8",
-    "likes_count": 520,
-    "created_at": "2019-03-10T12:40:41+09:00",
-    "updated_at": "2019-03-13T14:02:22+09:00",
-    "id": "uhyo"
   },
   {
     "title": "【Rails】MySQL2がbundle installできない時の対応方法",
@@ -400,20 +400,20 @@
     "id": "rana_kualu"
   },
   {
+    "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
+    "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
+    "likes_count": 451,
+    "created_at": "2019-03-21T16:54:22+09:00",
+    "updated_at": "2019-03-21T16:54:59+09:00",
+    "id": "1ain2"
+  },
+  {
     "title": "[git] gitconfigで会社用アカウントと個人用アカウントを楽に使い分けする",
     "url": "https://qiita.com/Ancient_Scapes/items/64f239f89d25a3b9f520",
     "likes_count": 451,
     "created_at": "2019-03-27T03:18:41+09:00",
     "updated_at": "2019-03-28T14:55:54+09:00",
     "id": "Ancient_Scapes"
-  },
-  {
-    "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
-    "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
-    "likes_count": 450,
-    "created_at": "2019-03-21T16:54:22+09:00",
-    "updated_at": "2019-03-21T16:54:59+09:00",
-    "id": "1ain2"
   },
   {
     "title": "Visual studio codeで競プロ環境構築[mac OS]",
@@ -440,20 +440,20 @@
     "id": "kazupaka"
   },
   {
+    "title": "Railsのroutingにおけるscope / namespace / module の違い",
+    "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
+    "likes_count": 429,
+    "created_at": "2019-03-17T22:54:32+09:00",
+    "updated_at": "2019-03-17T22:54:32+09:00",
+    "id": "ryosuketter"
+  },
+  {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
     "url": "https://qiita.com/klriutsa/items/7f6047485968c61b6a5d",
     "likes_count": 428,
     "created_at": "2019-03-26T22:06:32+09:00",
     "updated_at": "2019-04-01T16:45:39+09:00",
     "id": "klriutsa"
-  },
-  {
-    "title": "Railsのroutingにおけるscope / namespace / module の違い",
-    "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 427,
-    "created_at": "2019-03-17T22:54:32+09:00",
-    "updated_at": "2019-03-17T22:54:32+09:00",
-    "id": "ryosuketter"
   },
   {
     "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
