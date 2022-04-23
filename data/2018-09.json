@@ -18,7 +18,7 @@
   {
     "title": "個人でも使える！おすすめAPI一覧",
     "url": "https://qiita.com/mikan3rd/items/ba4737023f08bb2ca161",
-    "likes_count": 4233,
+    "likes_count": 4235,
     "created_at": "2018-09-17T21:12:27+09:00",
     "updated_at": "2021-12-21T13:28:54+09:00",
     "id": "mikan3rd"
@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 2875,
+    "likes_count": 2878,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -130,7 +130,7 @@
   {
     "title": "Docker、ボリューム(Volume)について真面目に調べた",
     "url": "https://qiita.com/gounx2/items/23b0dc8b8b95cc629f32",
-    "likes_count": 941,
+    "likes_count": 942,
     "created_at": "2018-09-28T01:01:49+09:00",
     "updated_at": "2019-10-05T15:34:08+09:00",
     "id": "gounx2"
@@ -178,7 +178,7 @@
   {
     "title": "SSHの公開鍵認証における良くある誤解の話",
     "url": "https://qiita.com/angel_p_57/items/2e3f3f8661de32a0d432",
-    "likes_count": 771,
+    "likes_count": 772,
     "created_at": "2018-09-17T21:58:02+09:00",
     "updated_at": "2018-09-17T21:58:02+09:00",
     "id": "angel_p_57"
@@ -186,7 +186,7 @@
   {
     "title": "OpenAPI (Swagger) 超入門",
     "url": "https://qiita.com/teinen_qiita/items/e440ca7b1b52ec918f1b",
-    "likes_count": 756,
+    "likes_count": 757,
     "created_at": "2018-09-08T15:32:15+09:00",
     "updated_at": "2019-08-16T13:36:50+09:00",
     "id": "teinen_qiita"
@@ -194,7 +194,7 @@
   {
     "title": "10年モノのインフラを3年がかりでカイゼンした",
     "url": "https://qiita.com/sasasin/items/30585a3a117d64973645",
-    "likes_count": 741,
+    "likes_count": 742,
     "created_at": "2018-09-17T19:47:30+09:00",
     "updated_at": "2018-09-18T19:15:37+09:00",
     "id": "sasasin"
@@ -250,10 +250,18 @@
   {
     "title": "Python3で競技プログラミングする時に知っておきたいtips（入力編）",
     "url": "https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c",
-    "likes_count": 629,
+    "likes_count": 630,
     "created_at": "2018-09-08T20:13:28+09:00",
     "updated_at": "2019-04-14T12:14:48+09:00",
     "id": "kyuna"
+  },
+  {
+    "title": "[Pythonコーディング規約]PEP8を読み解く",
+    "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
+    "likes_count": 628,
+    "created_at": "2018-09-17T01:05:30+09:00",
+    "updated_at": "2020-12-12T20:58:41+09:00",
+    "id": "simonritchie"
   },
   {
     "title": "あなたを死なせないためのプログラミング",
@@ -262,14 +270,6 @@
     "created_at": "2018-09-22T00:48:00+09:00",
     "updated_at": "2020-05-10T06:09:28+09:00",
     "id": "yossymura"
-  },
-  {
-    "title": "[Pythonコーディング規約]PEP8を読み解く",
-    "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
-    "likes_count": 627,
-    "created_at": "2018-09-17T01:05:30+09:00",
-    "updated_at": "2020-12-12T20:58:41+09:00",
-    "id": "simonritchie"
   },
   {
     "title": "オブジェクト指向が0.05%も理解できない記事",
