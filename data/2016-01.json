@@ -2,7 +2,7 @@
   {
     "title": "不思議の国のSE用語",
     "url": "https://qiita.com/t_nakayama0714/items/478a8ed3a9ae143ad854",
-    "likes_count": 4465,
+    "likes_count": 4466,
     "created_at": "2016-01-08T02:47:09+09:00",
     "updated_at": "2022-04-17T18:45:45+09:00",
     "id": "t_nakayama0714"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2577,
+    "likes_count": 2578,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -58,7 +58,7 @@
   {
     "title": "LSTMネットワークの概要",
     "url": "https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca",
-    "likes_count": 1483,
+    "likes_count": 1486,
     "created_at": "2016-01-08T18:22:20+09:00",
     "updated_at": "2017-12-11T08:57:51+09:00",
     "id": "KojiOhki"
@@ -114,7 +114,7 @@
   {
     "title": "全盛期のJeff Dean伝説",
     "url": "https://qiita.com/umegaya/items/ef69461d6f4967d5c623",
-    "likes_count": 1040,
+    "likes_count": 1041,
     "created_at": "2016-01-09T05:56:15+09:00",
     "updated_at": "2016-03-26T08:06:24+09:00",
     "id": "umegaya"
@@ -346,7 +346,7 @@
   {
     "title": "bundle install と bundle updateの違いについて",
     "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
-    "likes_count": 514,
+    "likes_count": 513,
     "created_at": "2016-01-22T00:25:15+09:00",
     "updated_at": "2016-01-22T00:26:14+09:00",
     "id": "lasershow"
@@ -512,20 +512,20 @@
     "id": "YKEI_mrn"
   },
   {
-    "title": "brew tapとは",
-    "url": "https://qiita.com/sammrai/items/85ed5e914d424fbf9fd6",
-    "likes_count": 357,
-    "created_at": "2016-01-07T22:05:56+09:00",
-    "updated_at": "2021-04-23T21:52:25+09:00",
-    "id": "sammrai"
-  },
-  {
     "title": "fluentdを導入時にまず知っておいたほうがよさそうなこと（インストール、監視、HA構成、チューニングなど）",
     "url": "https://qiita.com/uzresk/items/3bfeeac82dfcb2a4300e",
     "likes_count": 357,
     "created_at": "2016-01-27T11:12:11+09:00",
     "updated_at": "2016-01-28T08:39:51+09:00",
     "id": "uzresk"
+  },
+  {
+    "title": "brew tapとは",
+    "url": "https://qiita.com/sammrai/items/85ed5e914d424fbf9fd6",
+    "likes_count": 356,
+    "created_at": "2016-01-07T22:05:56+09:00",
+    "updated_at": "2021-04-23T21:52:25+09:00",
+    "id": "sammrai"
   },
   {
     "title": "Ruby/Railsでの高速化の際に使うgem達",
