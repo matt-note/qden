@@ -2,7 +2,7 @@
   {
     "title": "「AWS is 何」を3行でまとめてみるよ",
     "url": "https://qiita.com/kohashi/items/1bb952313fb695f12577",
-    "likes_count": 3981,
+    "likes_count": 3983,
     "created_at": "2016-06-28T14:38:40+09:00",
     "updated_at": "2019-03-08T13:21:28+09:00",
     "id": "kohashi"
@@ -26,7 +26,7 @@
   {
     "title": "忘れやすい人のための git diff チートシート",
     "url": "https://qiita.com/shibukk/items/8c9362a5bd399b9c56be",
-    "likes_count": 1672,
+    "likes_count": 1673,
     "created_at": "2016-06-15T14:27:21+09:00",
     "updated_at": "2019-01-23T13:48:59+09:00",
     "id": "shibukk"
@@ -38,14 +38,6 @@
     "created_at": "2016-06-24T15:45:59+09:00",
     "updated_at": "2016-06-29T21:06:04+09:00",
     "id": "chuck0523"
-  },
-  {
-    "title": "中の人に聞いたGitHub flowの本当の使い方",
-    "url": "https://qiita.com/friendtree16/items/72d8f87658cf1100e6ef",
-    "likes_count": 1524,
-    "created_at": "2016-07-01T01:27:27+09:00",
-    "updated_at": "2016-07-21T16:20:47+09:00",
-    "id": "friendtree16"
   },
   {
     "title": "iOSアプリ個人開発で使ってるツールとかノウハウを公開してみる",
@@ -110,6 +102,14 @@
     "created_at": "2016-06-17T20:16:59+09:00",
     "updated_at": "2017-11-02T07:11:38+09:00",
     "id": "taka4sato"
+  },
+  {
+    "title": "2010年以前で止まっていたJavaScript脳を2016年までバージョンアップした話",
+    "url": "https://qiita.com/kotaroito/items/0f04cd089e6c13c79c09",
+    "likes_count": 775,
+    "created_at": "2016-06-01T07:18:44+09:00",
+    "updated_at": "2016-06-08T00:30:40+09:00",
+    "id": "kotaroito"
   },
   {
     "title": "急いでダウンロードしたい時はwgetやcurlじゃなくてaxelを使おう",
@@ -232,20 +232,20 @@
     "id": "devneko"
   },
   {
+    "title": "# CommonJS と ES6の import/export で迷うなら",
+    "url": "https://qiita.com/rooooomania/items/4c999d93ae745e9d8657",
+    "likes_count": 530,
+    "created_at": "2016-06-28T08:59:42+09:00",
+    "updated_at": "2021-01-24T13:12:01+09:00",
+    "id": "rooooomania"
+  },
+  {
     "title": "機械学習・Computer Scienceを勉強する。 リソース一覧",
     "url": "https://qiita.com/Takamichi-tsutsumi/items/12b304cee381a6270649",
     "likes_count": 529,
     "created_at": "2016-06-21T13:25:03+09:00",
     "updated_at": "2016-06-22T11:31:08+09:00",
     "id": "Takamichi-tsutsumi"
-  },
-  {
-    "title": "# CommonJS と ES6の import/export で迷うなら",
-    "url": "https://qiita.com/rooooomania/items/4c999d93ae745e9d8657",
-    "likes_count": 529,
-    "created_at": "2016-06-28T08:59:42+09:00",
-    "updated_at": "2021-01-24T13:12:01+09:00",
-    "id": "rooooomania"
   },
   {
     "title": "新 App Store 審査ガイドライン 翻訳&移行ガイド",
@@ -302,6 +302,14 @@
     "created_at": "2016-06-15T13:08:47+09:00",
     "updated_at": "2021-07-14T18:51:44+09:00",
     "id": "hiroysato"
+  },
+  {
+    "title": "ASP.NET 入門の書",
+    "url": "https://qiita.com/Kei18/items/1a9b936216bd2458ec08",
+    "likes_count": 384,
+    "created_at": "2016-06-01T01:39:21+09:00",
+    "updated_at": "2016-06-01T01:39:21+09:00",
+    "id": "Kei18"
   },
   {
     "title": "レガシー開発環境を今風の開発に近づけるために一年やってきたこと",

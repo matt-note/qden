@@ -2,7 +2,7 @@
   {
     "title": "いまさらだけどDockerに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/44860fbda1a34a001fc1",
-    "likes_count": 4587,
+    "likes_count": 4588,
     "created_at": "2018-08-08T08:31:56+09:00",
     "updated_at": "2020-06-09T14:01:44+09:00",
     "id": "gold-kou"
@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 3796,
+    "likes_count": 3798,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2021-04-12T11:28:43+09:00",
     "id": "gold-kou"
@@ -96,6 +96,14 @@
     "id": "taka-kawa"
   },
   {
+    "title": "すばらしきポケモンエコシステム⚡️",
+    "url": "https://qiita.com/seya/items/47dc0ebae55674d8902f",
+    "likes_count": 933,
+    "created_at": "2018-08-21T08:08:40+09:00",
+    "updated_at": "2018-08-21T11:20:04+09:00",
+    "id": "seya"
+  },
+  {
     "title": "ポリモーフィズムを活用するとなぜ if や switch  が消えるのか？",
     "url": "https://qiita.com/Nossa/items/a93024e653ff939115c6",
     "likes_count": 932,
@@ -104,25 +112,25 @@
     "id": "Nossa"
   },
   {
-    "title": "すばらしきポケモンエコシステム⚡️",
-    "url": "https://qiita.com/seya/items/47dc0ebae55674d8902f",
-    "likes_count": 932,
-    "created_at": "2018-08-21T08:08:40+09:00",
-    "updated_at": "2018-08-21T11:20:04+09:00",
-    "id": "seya"
-  },
-  {
     "title": "JavaScriptのpreventDefault()って難しくない？preventDefault()を使うための前提知識",
     "url": "https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae",
-    "likes_count": 860,
+    "likes_count": 861,
     "created_at": "2018-08-19T23:18:15+09:00",
     "updated_at": "2021-05-15T17:37:16+09:00",
     "id": "tochiji"
   },
   {
+    "title": "20万pv/月達成のwebサービスのRailsソースコード、全部見せます！",
+    "url": "https://qiita.com/kent_ear/items/f48362b953d74d9f60f0",
+    "likes_count": 810,
+    "created_at": "2018-08-01T01:41:17+09:00",
+    "updated_at": "2019-08-22T14:05:12+09:00",
+    "id": "kent_ear"
+  },
+  {
     "title": "【初心者向け】Anacondaで仮想環境を作ってみる",
     "url": "https://qiita.com/ozaki_physics/items/985188feb92570e5b82d",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2018-08-09T17:19:50+09:00",
     "updated_at": "2021-12-20T18:00:39+09:00",
     "id": "ozaki_physics"
@@ -138,7 +146,7 @@
   {
     "title": "Git コンフリクト解消手順",
     "url": "https://qiita.com/crarrry/items/c5964512e21e383b73da",
-    "likes_count": 635,
+    "likes_count": 638,
     "created_at": "2018-08-02T08:34:29+09:00",
     "updated_at": "2021-01-17T18:36:45+09:00",
     "id": "crarrry"
@@ -202,7 +210,7 @@
   {
     "title": "あなたのサイトのjpeg画像は過剰品質である。多分。",
     "url": "https://qiita.com/masato_makino/items/28cc2d82d66dbdb12d9a",
-    "likes_count": 494,
+    "likes_count": 495,
     "created_at": "2018-08-15T21:18:34+09:00",
     "updated_at": "2020-09-28T14:34:43+09:00",
     "id": "masato_makino"
@@ -344,6 +352,14 @@
     "id": "yukibe"
   },
   {
+    "title": "Macのハードディスクの空き容量を開放する",
+    "url": "https://qiita.com/kiyodori/items/0fcc87bb8ab1cb31c731",
+    "likes_count": 384,
+    "created_at": "2018-08-26T08:46:15+09:00",
+    "updated_at": "2020-01-08T15:23:22+09:00",
+    "id": "kiyodori"
+  },
+  {
     "title": "AWS FargateとTerraformで最強＆簡単なインフラ環境を目指す",
     "url": "https://qiita.com/tarumzu/items/2d7ed918f230fea957e8",
     "likes_count": 383,
@@ -352,20 +368,20 @@
     "id": "tarumzu"
   },
   {
-    "title": "Macのハードディスクの空き容量を開放する",
-    "url": "https://qiita.com/kiyodori/items/0fcc87bb8ab1cb31c731",
-    "likes_count": 383,
-    "created_at": "2018-08-26T08:46:15+09:00",
-    "updated_at": "2020-01-08T15:23:22+09:00",
-    "id": "kiyodori"
-  },
-  {
     "title": "[作業効率化] Jupyterの拡張機能を全部調べてみた",
     "url": "https://qiita.com/simonritchie/items/88161c806197a0b84174",
     "likes_count": 382,
     "created_at": "2018-08-13T00:31:47+09:00",
     "updated_at": "2020-05-08T20:19:40+09:00",
     "id": "simonritchie"
+  },
+  {
+    "title": "[初学者]Railsのi18nによる日本語化対応",
+    "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
+    "likes_count": 377,
+    "created_at": "2018-08-01T01:32:22+09:00",
+    "updated_at": "2021-09-24T00:02:19+09:00",
+    "id": "shimadama"
   },
   {
     "title": "firebaseでサーバレスなSPAアプリを作った話",
@@ -426,7 +442,7 @@
   {
     "title": "Railsでいいね機能を実装しよう",
     "url": "https://qiita.com/nojinoji/items/2c66499848d882c31ffa",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2018-08-27T14:39:49+09:00",
     "updated_at": "2019-02-05T17:47:02+09:00",
     "id": "nojinoji"

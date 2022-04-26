@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 5031,
+    "likes_count": 5033,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2022-04-08T09:04:26+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4627,
+    "likes_count": 4631,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -18,7 +18,7 @@
   {
     "title": "【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】",
     "url": "https://qiita.com/keisukee/items/76ce249ed264b8acc5f8",
-    "likes_count": 2872,
+    "likes_count": 2873,
     "created_at": "2020-01-05T11:50:44+09:00",
     "updated_at": "2021-10-31T14:17:12+09:00",
     "id": "keisukee"
@@ -26,7 +26,7 @@
   {
     "title": "2020年の開発者が知っておくべき11の必須スキル",
     "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
-    "likes_count": 2059,
+    "likes_count": 2061,
     "created_at": "2020-01-20T19:54:42+09:00",
     "updated_at": "2020-02-11T22:17:43+09:00",
     "id": "rana_kualu"
@@ -88,14 +88,6 @@
     "id": "keisukee"
   },
   {
-    "title": "Chrome 80が密かに呼び寄せる地獄 ～ SameSite属性のデフォルト変更を調べてみた",
-    "url": "https://qiita.com/ahera/items/0c8276da6b0bed2b580c",
-    "likes_count": 1112,
-    "created_at": "2020-02-01T08:40:29+09:00",
-    "updated_at": "2022-01-19T12:46:59+09:00",
-    "id": "ahera"
-  },
-  {
     "title": "2020年現在 Web系企業で採用されてる技術についてまとめてみた",
     "url": "https://qiita.com/inagacky/items/43cc0518ef11f1e4beb3",
     "likes_count": 1049,
@@ -138,7 +130,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 883,
+    "likes_count": 882,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -186,7 +178,7 @@
   {
     "title": "バッチ処理について考える",
     "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
-    "likes_count": 749,
+    "likes_count": 750,
     "created_at": "2020-01-11T11:25:19+09:00",
     "updated_at": "2020-06-11T18:35:53+09:00",
     "id": "koduki"
@@ -288,20 +280,20 @@
     "id": "omiita"
   },
   {
+    "title": "React hooksを基礎から理解する (useState編)",
+    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
+    "likes_count": 575,
+    "created_at": "2020-01-26T20:56:47+09:00",
+    "updated_at": "2021-03-15T16:00:37+09:00",
+    "id": "seira"
+  },
+  {
     "title": "jQuery愛好家のためのVue.js、React、Angular入門",
     "url": "https://qiita.com/BRSF/items/6a43d4cf56a9dd1a4d0c",
     "likes_count": 574,
     "created_at": "2020-01-24T11:20:43+09:00",
     "updated_at": "2021-12-16T09:19:52+09:00",
     "id": "BRSF"
-  },
-  {
-    "title": "React hooksを基礎から理解する (useState編)",
-    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 574,
-    "created_at": "2020-01-26T20:56:47+09:00",
-    "updated_at": "2021-03-15T16:00:37+09:00",
-    "id": "seira"
   },
   {
     "title": "【SRE Next 2020】発表資料まとめ",
@@ -442,7 +434,7 @@
   {
     "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
     "url": "https://qiita.com/youwht/items/b047225a6fc356fd56ee",
-    "likes_count": 418,
+    "likes_count": 419,
     "created_at": "2020-01-26T13:28:43+09:00",
     "updated_at": "2021-12-22T10:00:27+09:00",
     "id": "youwht"

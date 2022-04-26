@@ -32,6 +32,14 @@
     "id": "vvakame"
   },
   {
+    "title": "パッケージ管理システム Homebrew ",
+    "url": "https://qiita.com/b4b4r07/items/6efebc2f3d1cbbd393fc",
+    "likes_count": 1191,
+    "created_at": "2013-10-01T02:04:33+09:00",
+    "updated_at": "2017-02-14T22:39:43+09:00",
+    "id": "b4b4r07"
+  },
+  {
     "title": "Gitをインストールしたら真っ先にやっておくべき初期設定",
     "url": "https://qiita.com/wnoguchi/items/f7358a227dfe2640cce3",
     "likes_count": 1047,
@@ -90,7 +98,7 @@
   {
     "title": "DynamoDB の基礎知識とまとめ",
     "url": "https://qiita.com/hshimo/items/e5ad98b21786d796f1da",
-    "likes_count": 580,
+    "likes_count": 581,
     "created_at": "2013-10-11T19:48:18+09:00",
     "updated_at": "2013-10-11T19:48:18+09:00",
     "id": "hshimo"
@@ -198,5 +206,13 @@
     "created_at": "2013-10-20T22:43:15+09:00",
     "updated_at": "2014-01-16T16:06:58+09:00",
     "id": "satococoa"
+  },
+  {
+    "title": "URLから画像を非同期に読み込む3種類の実装",
+    "url": "https://qiita.com/EntreGulss/items/d7d9fb5d0b93eb509d43",
+    "likes_count": 263,
+    "created_at": "2013-10-01T00:27:57+09:00",
+    "updated_at": "2013-10-01T00:27:57+09:00",
+    "id": "EntreGulss"
   }
 ]

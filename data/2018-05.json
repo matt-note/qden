@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5381,
+    "likes_count": 5382,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2021-12-26T20:29:49+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4839,
+    "likes_count": 4840,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3180,
+    "likes_count": 3181,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2478,
+    "likes_count": 2480,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2022-03-25T11:48:28+09:00",
     "id": "tani_AI_Academy"
@@ -42,7 +42,7 @@
   {
     "title": "「赤の他人」の対義語は「白い恋人」 これを自動生成したい物語",
     "url": "https://qiita.com/youwht/items/f21325ff62603e8664e6",
-    "likes_count": 2000,
+    "likes_count": 2002,
     "created_at": "2018-05-07T04:26:13+09:00",
     "updated_at": "2018-05-20T12:50:51+09:00",
     "id": "youwht"
@@ -50,7 +50,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアになろう",
     "url": "https://qiita.com/rana_kualu/items/19ab559dddbca6674417",
-    "likes_count": 1921,
+    "likes_count": 1922,
     "created_at": "2018-05-22T20:44:08+09:00",
     "updated_at": "2018-11-25T14:16:11+09:00",
     "id": "rana_kualu"
@@ -106,7 +106,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 990,
+    "likes_count": 991,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -130,7 +130,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 903,
+    "likes_count": 905,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -202,7 +202,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 703,
+    "likes_count": 704,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2021-08-18T14:03:43+09:00",
     "id": "hiyuzawa"
@@ -274,7 +274,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 597,
+    "likes_count": 598,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -346,7 +346,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 536,
+    "likes_count": 537,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -382,6 +382,14 @@
     "created_at": "2018-05-04T05:59:58+09:00",
     "updated_at": "2018-07-12T20:16:34+09:00",
     "id": "Nekonecode"
+  },
+  {
+    "title": "Promise と async/await の理解度をもう1段階上げる",
+    "url": "https://qiita.com/sotszk/items/f23199e864cba47455ce",
+    "likes_count": 486,
+    "created_at": "2018-05-01T01:52:27+09:00",
+    "updated_at": "2018-05-12T12:16:24+09:00",
+    "id": "sotszk"
   },
   {
     "title": "名前、電話番号、メールアドレス、郵便番号等の最適なmaxlengthはいくつか調べてみた",
@@ -554,18 +562,10 @@
   {
     "title": "Dockerコマンド よく使うやつ",
     "url": "https://qiita.com/Esfahan/items/52141a2ad741933d7d4c",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2018-05-07T16:57:11+09:00",
     "updated_at": "2021-11-02T18:28:02+09:00",
     "id": "Esfahan"
-  },
-  {
-    "title": "2018年Vue.jsとVuexを使ってる人には知って欲しいFluxデザインパターンとViewModelとの組み合わせ",
-    "url": "https://qiita.com/kahirokunn/items/f764302db290a504cc19",
-    "likes_count": 297,
-    "created_at": "2018-06-01T04:28:23+09:00",
-    "updated_at": "2020-08-26T10:24:27+09:00",
-    "id": "kahirokunn"
   },
   {
     "title": "PythonとMeCabで形態素解析(on Windows)",
