@@ -2,7 +2,7 @@
   {
     "title": "ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習",
     "url": "https://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7",
-    "likes_count": 8488,
+    "likes_count": 8490,
     "created_at": "2014-05-25T16:52:40+09:00",
     "updated_at": "2019-03-17T00:41:02+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "新人プログラマに知ってもらいたいメソッドを読みやすく維持するいくつかの原則",
     "url": "https://qiita.com/hirokidaichi/items/c9a76191216f3cc6c4b2",
-    "likes_count": 2932,
+    "likes_count": 2933,
     "created_at": "2014-05-09T20:22:27+09:00",
     "updated_at": "2019-03-17T00:42:05+09:00",
     "id": "hirokidaichi"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1633,
+    "likes_count": 1634,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2021-09-18T19:08:05+09:00",
     "id": "amedama"
@@ -82,7 +82,7 @@
   {
     "title": "提言: コミットメッセージの一行目には要求仕様を書け",
     "url": "https://qiita.com/magicant/items/882b5142c4d5064933bc",
-    "likes_count": 1161,
+    "likes_count": 1162,
     "created_at": "2014-05-29T15:46:30+09:00",
     "updated_at": "2014-06-28T12:28:21+09:00",
     "id": "magicant"
@@ -90,7 +90,7 @@
   {
     "title": "我々はどのようにして安全なHTTPS通信を提供すれば良いか",
     "url": "https://qiita.com/harukasan/items/fe37f3bab8a5ca3f4f92",
-    "likes_count": 1033,
+    "likes_count": 1032,
     "created_at": "2014-05-20T15:25:36+09:00",
     "updated_at": "2016-02-08T12:43:22+09:00",
     "id": "harukasan"
@@ -218,7 +218,7 @@
   {
     "title": "Numpyによる乱数生成まとめ",
     "url": "https://qiita.com/yubais/items/bf9ce0a8fefdcc0b0c97",
-    "likes_count": 621,
+    "likes_count": 622,
     "created_at": "2014-05-09T11:49:21+09:00",
     "updated_at": "2021-06-10T21:22:35+09:00",
     "id": "yubais"
@@ -472,20 +472,20 @@
     "id": "mollifier"
   },
   {
+    "title": "C++で簡単非同期処理(std::thread,std::async)",
+    "url": "https://qiita.com/termoshtt/items/d3cb7fe226cdd498d2ef",
+    "likes_count": 272,
+    "created_at": "2014-05-18T15:28:40+09:00",
+    "updated_at": "2014-05-19T13:53:12+09:00",
+    "id": "termoshtt"
+  },
+  {
     "title": "Facebook Graph API 2.0について",
     "url": "https://qiita.com/hilotter/items/b88402505faeebbbce89",
     "likes_count": 271,
     "created_at": "2014-05-08T23:31:59+09:00",
     "updated_at": "2014-06-19T16:04:13+09:00",
     "id": "hilotter"
-  },
-  {
-    "title": "C++で簡単非同期処理(std::thread,std::async)",
-    "url": "https://qiita.com/termoshtt/items/d3cb7fe226cdd498d2ef",
-    "likes_count": 271,
-    "created_at": "2014-05-18T15:28:40+09:00",
-    "updated_at": "2014-05-19T13:53:12+09:00",
-    "id": "termoshtt"
   },
   {
     "title": "Node.jsの人はちゃんとsleepしてください",
