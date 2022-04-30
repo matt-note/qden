@@ -2,7 +2,7 @@
   {
     "title": "数時間で完全理解！わりとゴツいKubernetesハンズオン！！",
     "url": "https://qiita.com/Kta-M/items/ce475c0063d3d3f36d5d",
-    "likes_count": 2859,
+    "likes_count": 2860,
     "created_at": "2019-05-23T07:10:52+09:00",
     "updated_at": "2020-01-31T04:40:34+09:00",
     "id": "Kta-M"
@@ -10,7 +10,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 2606,
+    "likes_count": 2607,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2020-02-11T18:07:22+09:00",
     "id": "jesus_isao"
@@ -82,7 +82,7 @@
   {
     "title": "新しく言語を学ぶときに心がけていること",
     "url": "https://qiita.com/hiraike32/items/40ef06f85f6a63828985",
-    "likes_count": 1431,
+    "likes_count": 1432,
     "created_at": "2019-05-12T21:44:32+09:00",
     "updated_at": "2019-05-15T10:25:17+09:00",
     "id": "hiraike32"
@@ -106,7 +106,7 @@
   {
     "title": "文科省のPythonはPythonじゃねぇ",
     "url": "https://qiita.com/nagataaaas/items/ba33c4c4e0df0b5aa0c4",
-    "likes_count": 1129,
+    "likes_count": 1130,
     "created_at": "2019-05-20T16:58:10+09:00",
     "updated_at": "2022-04-28T15:26:17+09:00",
     "id": "nagataaaas"
@@ -242,7 +242,7 @@
   {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 707,
+    "likes_count": 708,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2020-05-08T20:20:06+09:00",
     "id": "simonritchie"
@@ -290,7 +290,7 @@
   {
     "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
     "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
-    "likes_count": 550,
+    "likes_count": 551,
     "created_at": "2019-05-23T08:28:34+09:00",
     "updated_at": "2021-07-26T23:35:59+09:00",
     "id": "drken"
@@ -352,20 +352,20 @@
     "id": "tatane616"
   },
   {
+    "title": "競技プログラミング入門者の成長のためのメモ",
+    "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
+    "likes_count": 427,
+    "created_at": "2019-05-14T05:46:53+09:00",
+    "updated_at": "2022-04-26T12:30:59+09:00",
+    "id": "masakinihirota"
+  },
+  {
     "title": "【環境構築不要・スマホ/タブレットOK】東大松尾研のDeep Learningエンジニア育成講座『DL4US』を自習する",
     "url": "https://qiita.com/tomo_makes/items/f4d69f2aa3c407891d64",
     "likes_count": 427,
     "created_at": "2019-05-19T19:23:50+09:00",
     "updated_at": "2019-11-16T11:51:56+09:00",
     "id": "tomo_makes"
-  },
-  {
-    "title": "競技プログラミング入門者の成長のためのメモ",
-    "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
-    "likes_count": 425,
-    "created_at": "2019-05-14T05:46:53+09:00",
-    "updated_at": "2022-04-26T12:30:59+09:00",
-    "id": "masakinihirota"
   },
   {
     "title": "headに<base target=\"_blank\">１行入れるだけで、全リンク\bのデフォルトを_blank化できた",
@@ -416,6 +416,14 @@
     "id": "tatane616"
   },
   {
+    "title": "GOのORMを分かりやすくまとめてみた【GORM公式ドキュメントの焼き回し】",
+    "url": "https://qiita.com/gold-kou/items/45a95d61d253184b0f33",
+    "likes_count": 372,
+    "created_at": "2019-05-07T07:54:39+09:00",
+    "updated_at": "2022-02-02T10:49:36+09:00",
+    "id": "gold-kou"
+  },
+  {
     "title": "フロントエンドでとても大切な3つのプラクティス",
     "url": "https://qiita.com/kahirokunn/items/3151bc35adf16ac720c0",
     "likes_count": 367,
@@ -440,20 +448,20 @@
     "id": "Go-Noji"
   },
   {
+    "title": "JavaScriptの数値型完全理解",
+    "url": "https://qiita.com/uhyo/items/f9abb94bcc0374d7ed23",
+    "likes_count": 356,
+    "created_at": "2019-05-06T17:02:43+09:00",
+    "updated_at": "2019-05-09T20:36:35+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "5時間でWebサービスをローンチするためにした７つのこと",
     "url": "https://qiita.com/yuno_miyako/items/314510e4e4b11a080fe3",
     "likes_count": 356,
     "created_at": "2019-05-19T12:46:02+09:00",
     "updated_at": "2019-06-22T23:37:01+09:00",
     "id": "yuno_miyako"
-  },
-  {
-    "title": "JavaScriptの数値型完全理解",
-    "url": "https://qiita.com/uhyo/items/f9abb94bcc0374d7ed23",
-    "likes_count": 355,
-    "created_at": "2019-05-06T17:02:43+09:00",
-    "updated_at": "2019-05-09T20:36:35+09:00",
-    "id": "uhyo"
   },
   {
     "title": "きみたちは今まで何のためにRailsでMVCパターンを勉強してきたのか",
