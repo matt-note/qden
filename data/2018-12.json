@@ -162,7 +162,7 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 932,
+    "likes_count": 933,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2021-09-24T17:22:18+09:00",
     "id": "Maki-Daisuke"
@@ -170,7 +170,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 926,
+    "likes_count": 928,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -344,6 +344,14 @@
     "id": "sadnessOjisan"
   },
   {
+    "title": "GitのHEADとは何者なのか",
+    "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
+    "likes_count": 503,
+    "created_at": "2018-12-09T23:59:10+09:00",
+    "updated_at": "2021-10-19T10:39:11+09:00",
+    "id": "ymzkjpx"
+  },
+  {
     "title": "積極性と強い問題意識を要求する「振り返り」は、もうたくさん",
     "url": "https://qiita.com/otktko/items/d1904cb8db3ed3446019",
     "likes_count": 502,
@@ -358,14 +366,6 @@
     "created_at": "2018-12-05T13:44:24+09:00",
     "updated_at": "2019-07-17T17:52:30+09:00",
     "id": "propella"
-  },
-  {
-    "title": "GitのHEADとは何者なのか",
-    "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 497,
-    "created_at": "2018-12-09T23:59:10+09:00",
-    "updated_at": "2021-10-19T10:39:11+09:00",
-    "id": "ymzkjpx"
   },
   {
     "title": "その機械学習プロセス、自動化できませんか？",
@@ -538,7 +538,7 @@
   {
     "title": "Herokuを使いこなすのに必要な術",
     "url": "https://qiita.com/fuwamaki/items/f7752eb7a2727660239f",
-    "likes_count": 379,
+    "likes_count": 380,
     "created_at": "2018-12-04T18:58:45+09:00",
     "updated_at": "2019-01-29T22:10:42+09:00",
     "id": "fuwamaki"
@@ -618,7 +618,7 @@
   {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 338,
+    "likes_count": 339,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
@@ -650,7 +650,7 @@
   {
     "title": "Hugo で静的なサイト・ブログを構築しよう",
     "url": "https://qiita.com/peaceiris/items/ef38cc2a4b5565d0dd7c",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2018-12-25T03:00:20+09:00",
     "updated_at": "2021-08-16T22:23:06+09:00",
     "id": "peaceiris"
@@ -706,7 +706,7 @@
   {
     "title": "[Firebase] Cloud Functionsで消耗したくない人のために、開発環境のベストプラクティスをまとめていったらDockerに行き着いた話（随時更新）",
     "url": "https://qiita.com/pannpers/items/244a7e3c18d8c8422e4f",
-    "likes_count": 303,
+    "likes_count": 304,
     "created_at": "2018-12-11T00:00:58+09:00",
     "updated_at": "2019-05-06T12:01:55+09:00",
     "id": "pannpers"
