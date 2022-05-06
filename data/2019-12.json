@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2669,
+    "likes_count": 2670,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -58,7 +58,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1839,
+    "likes_count": 1840,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2021-08-02T17:06:13+09:00",
     "id": "hirokidaichi"
@@ -138,7 +138,7 @@
   {
     "title": "GoF デザインパターン チートシート",
     "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 1048,
+    "likes_count": 1049,
     "created_at": "2019-12-24T12:53:20+09:00",
     "updated_at": "2019-12-24T14:49:39+09:00",
     "id": "tanakahisateru"
@@ -202,7 +202,7 @@
   {
     "title": "ようこそdotfilesの世界へ",
     "url": "https://qiita.com/yutkat/items/c6c7584d9795799ee164",
-    "likes_count": 814,
+    "likes_count": 815,
     "created_at": "2019-12-01T00:30:44+09:00",
     "updated_at": "2021-02-23T03:36:42+09:00",
     "id": "yutkat"
@@ -368,6 +368,14 @@
     "id": "tetsufe"
   },
   {
+    "title": "図解！ネットワークの7層を実務に当てはめてみた",
+    "url": "https://qiita.com/manamin0521/items/1df1ec65637ad1620329",
+    "likes_count": 513,
+    "created_at": "2019-12-19T11:00:20+09:00",
+    "updated_at": "2020-12-10T10:44:13+09:00",
+    "id": "manamin0521"
+  },
+  {
     "title": "ドメイン駆動設計で貧乏を爆殺する",
     "url": "https://qiita.com/MinoDriven/items/39103fba2c7bb8f01e5c",
     "likes_count": 513,
@@ -382,14 +390,6 @@
     "created_at": "2019-12-03T08:39:41+09:00",
     "updated_at": "2020-06-05T18:34:23+09:00",
     "id": "matzkoh"
-  },
-  {
-    "title": "図解！ネットワークの7層を実務に当てはめてみた",
-    "url": "https://qiita.com/manamin0521/items/1df1ec65637ad1620329",
-    "likes_count": 512,
-    "created_at": "2019-12-19T11:00:20+09:00",
-    "updated_at": "2020-12-10T10:44:13+09:00",
-    "id": "manamin0521"
   },
   {
     "title": "VS Code ネタ詰め合わせ",
@@ -424,20 +424,20 @@
     "id": "nfujita55a"
   },
   {
+    "title": "Kaggleコード遺産",
+    "url": "https://qiita.com/kaggle_grandmaster-arai-san/items/d59b2fb7142ec7e270a5",
+    "likes_count": 458,
+    "created_at": "2019-12-13T01:03:32+09:00",
+    "updated_at": "2019-12-13T01:03:32+09:00",
+    "id": "kaggle_grandmaster-arai-san"
+  },
+  {
     "title": "NestJSのススメ ～Expressを超えてゆけ～",
     "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
     "likes_count": 458,
     "created_at": "2019-12-22T15:46:56+09:00",
     "updated_at": "2020-04-18T20:27:13+09:00",
     "id": "elipmoc101"
-  },
-  {
-    "title": "Kaggleコード遺産",
-    "url": "https://qiita.com/kaggle_grandmaster-arai-san/items/d59b2fb7142ec7e270a5",
-    "likes_count": 457,
-    "created_at": "2019-12-13T01:03:32+09:00",
-    "updated_at": "2019-12-13T01:03:32+09:00",
-    "id": "kaggle_grandmaster-arai-san"
   },
   {
     "title": "【Python】10分でイキリ高校生がブロックチェーンを初心者に解説してやる！！！",
@@ -448,20 +448,20 @@
     "id": "sa2shun"
   },
   {
+    "title": "jsのimportとrequireの違い",
+    "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
+    "likes_count": 435,
+    "created_at": "2019-12-11T18:25:57+09:00",
+    "updated_at": "2019-12-11T18:25:57+09:00",
+    "id": "minato-naka"
+  },
+  {
     "title": "Angular と Firebase で月間PV1億超えの PWA を作った話",
     "url": "https://qiita.com/MasanobuAkiba/items/d2d4be3f8fd2e23c0c1a",
     "likes_count": 434,
     "created_at": "2019-12-10T08:24:48+09:00",
     "updated_at": "2020-06-04T22:29:36+09:00",
     "id": "MasanobuAkiba"
-  },
-  {
-    "title": "jsのimportとrequireの違い",
-    "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
-    "likes_count": 434,
-    "created_at": "2019-12-11T18:25:57+09:00",
-    "updated_at": "2019-12-11T18:25:57+09:00",
-    "id": "minato-naka"
   },
   {
     "title": "機械学習で使用する手法を全公開",
@@ -546,7 +546,7 @@
   {
     "title": "そのリクエストパラメータ、クエリストリングに入れますか、それともボディに入れますか",
     "url": "https://qiita.com/sakuraya/items/6f1030279a747bcce648",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2019-12-08T00:31:43+09:00",
     "updated_at": "2019-12-08T00:42:00+09:00",
     "id": "sakuraya"
