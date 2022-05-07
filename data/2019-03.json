@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3387,
+    "likes_count": 3388,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2021-11-21T13:01:21+09:00",
     "id": "upura"
@@ -114,7 +114,7 @@
   {
     "title": "3歳娘「パパ、関数をカリー化して？」",
     "url": "https://qiita.com/Yametaro/items/99cc1c8ebcfc703b1410",
-    "likes_count": 1051,
+    "likes_count": 1052,
     "created_at": "2019-03-24T23:14:51+09:00",
     "updated_at": "2019-03-25T10:58:14+09:00",
     "id": "Yametaro"
@@ -226,7 +226,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 703,
+    "likes_count": 704,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -266,7 +266,7 @@
   {
     "title": "Visual Studio Codeで競プロ環境構築(導入編)",
     "url": "https://qiita.com/AokabiC/items/e9312856f588dd9303ed",
-    "likes_count": 652,
+    "likes_count": 653,
     "created_at": "2019-03-27T22:24:09+09:00",
     "updated_at": "2022-04-09T10:53:29+09:00",
     "id": "AokabiC"
@@ -298,7 +298,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 593,
+    "likes_count": 595,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -408,20 +408,20 @@
     "id": "rana_kualu"
   },
   {
+    "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
+    "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
+    "likes_count": 454,
+    "created_at": "2019-03-21T16:54:22+09:00",
+    "updated_at": "2019-03-21T16:54:59+09:00",
+    "id": "1ain2"
+  },
+  {
     "title": "Visual studio codeで競プロ環境構築[mac OS]",
     "url": "https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6",
     "likes_count": 452,
     "created_at": "2019-03-17T19:46:00+09:00",
     "updated_at": "2020-12-04T23:50:28+09:00",
     "id": "EngTks"
-  },
-  {
-    "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
-    "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
-    "likes_count": 452,
-    "created_at": "2019-03-21T16:54:22+09:00",
-    "updated_at": "2019-03-21T16:54:59+09:00",
-    "id": "1ain2"
   },
   {
     "title": "[git] gitconfigで会社用アカウントと個人用アカウントを楽に使い分けする",
@@ -480,14 +480,6 @@
     "id": "tancoro"
   },
   {
-    "title": "【入門】Redis",
-    "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 397,
-    "created_at": "2019-03-22T16:43:36+09:00",
-    "updated_at": "2020-09-14T17:26:22+09:00",
-    "id": "wind-up-bird"
-  },
-  {
     "title": "【Unity】ド素人からShaderを使えるようにまでに重宝したリンク集まとめ",
     "url": "https://qiita.com/guru_taka/items/28c7cd5db4ce3a3bf287",
     "likes_count": 396,
@@ -496,20 +488,28 @@
     "id": "guru_taka"
   },
   {
+    "title": "【入門】Redis",
+    "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
+    "likes_count": 396,
+    "created_at": "2019-03-22T16:43:36+09:00",
+    "updated_at": "2020-09-14T17:26:22+09:00",
+    "id": "wind-up-bird"
+  },
+  {
+    "title": "Pythonの可視化ライブラリDashを使う　1",
+    "url": "https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c",
+    "likes_count": 393,
+    "created_at": "2019-03-11T21:42:01+09:00",
+    "updated_at": "2021-08-01T20:44:08+09:00",
+    "id": "OgawaHideyuki"
+  },
+  {
     "title": "一人旅が捗るWebサービスを思いついたので、開発から公開まで全部一人でやってみた話",
     "url": "https://qiita.com/noranuk0/items/96e83cee1e448cd57569",
     "likes_count": 393,
     "created_at": "2019-03-23T00:51:12+09:00",
     "updated_at": "2020-10-14T18:30:22+09:00",
     "id": "noranuk0"
-  },
-  {
-    "title": "Pythonの可視化ライブラリDashを使う　1",
-    "url": "https://qiita.com/OgawaHideyuki/items/6df65fbbc688f52eb82c",
-    "likes_count": 392,
-    "created_at": "2019-03-11T21:42:01+09:00",
-    "updated_at": "2021-08-01T20:44:08+09:00",
-    "id": "OgawaHideyuki"
   },
   {
     "title": "10分くらいでわかる、KubernetesとEKSの何が便利なのか",
