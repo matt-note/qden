@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡",
     "url": "https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1",
-    "likes_count": 5620,
+    "likes_count": 5619,
     "created_at": "2014-05-14T01:47:19+09:00",
     "updated_at": "2022-04-04T16:45:40+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "新人プログラマに知ってもらいたいメソッドを読みやすく維持するいくつかの原則",
     "url": "https://qiita.com/hirokidaichi/items/c9a76191216f3cc6c4b2",
-    "likes_count": 2933,
+    "likes_count": 2934,
     "created_at": "2014-05-09T20:22:27+09:00",
     "updated_at": "2019-03-17T00:42:05+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "PHPオブジェクト指向入門（前半）",
     "url": "https://qiita.com/mpyw/items/41230bec5c02142ae691",
-    "likes_count": 1759,
+    "likes_count": 1760,
     "created_at": "2014-05-26T03:20:00+09:00",
     "updated_at": "2015-01-09T14:35:42+09:00",
     "id": "mpyw"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1637,
+    "likes_count": 1638,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2021-09-18T19:08:05+09:00",
     "id": "amedama"
@@ -192,20 +192,20 @@
     "id": "mrd-takahashi"
   },
   {
+    "title": "Chrome 拡張機能のマニフェストファイルの書き方",
+    "url": "https://qiita.com/mdstoy/items/9866544e37987337dc79",
+    "likes_count": 644,
+    "created_at": "2014-05-07T01:20:26+09:00",
+    "updated_at": "2019-12-19T22:36:45+09:00",
+    "id": "mdstoy"
+  },
+  {
     "title": "初心者は覚えておきたいRubygemsのコマンドまとめ",
     "url": "https://qiita.com/muran001/items/14f34b735e0a6b4af98c",
     "likes_count": 643,
     "created_at": "2014-05-03T13:19:25+09:00",
     "updated_at": "2014-05-03T13:19:25+09:00",
     "id": "muran001"
-  },
-  {
-    "title": "Chrome 拡張機能のマニフェストファイルの書き方",
-    "url": "https://qiita.com/mdstoy/items/9866544e37987337dc79",
-    "likes_count": 643,
-    "created_at": "2014-05-07T01:20:26+09:00",
-    "updated_at": "2019-12-19T22:36:45+09:00",
-    "id": "mdstoy"
   },
   {
     "title": "CoffeeScriptを使う理由",
@@ -456,20 +456,20 @@
     "id": "tarr1124"
   },
   {
+    "title": "シェルスクリプトのオプション設計ガイドライン",
+    "url": "https://qiita.com/mollifier/items/95a294f95f5977b9d663",
+    "likes_count": 288,
+    "created_at": "2014-05-20T22:17:07+09:00",
+    "updated_at": "2015-04-16T12:11:08+09:00",
+    "id": "mollifier"
+  },
+  {
     "title": "inotify-toolsでファイルやディレクトリを監視する",
     "url": "https://qiita.com/stc1988/items/464410382f8425681c20",
     "likes_count": 288,
     "created_at": "2014-05-22T20:48:50+09:00",
     "updated_at": "2019-03-07T23:25:03+09:00",
     "id": "stc1988"
-  },
-  {
-    "title": "シェルスクリプトのオプション設計ガイドライン",
-    "url": "https://qiita.com/mollifier/items/95a294f95f5977b9d663",
-    "likes_count": 287,
-    "created_at": "2014-05-20T22:17:07+09:00",
-    "updated_at": "2015-04-16T12:11:08+09:00",
-    "id": "mollifier"
   },
   {
     "title": "C++で簡単非同期処理(std::thread,std::async)",
