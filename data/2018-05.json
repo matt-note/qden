@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5398,
+    "likes_count": 5399,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2021-12-26T20:29:49+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4842,
+    "likes_count": 4841,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3198,
+    "likes_count": 3204,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "やはりお前たちのRepositoryは間違っている",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1861,
+    "likes_count": 1862,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2021-02-11T21:39:48+09:00",
     "id": "mikesorae"
@@ -66,7 +66,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1823,
+    "likes_count": 1824,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -74,7 +74,7 @@
   {
     "title": "Dockerについてなるべくわかりやすく説明する",
     "url": "https://qiita.com/rawHam/items/80ba13d2d2d56dba411e",
-    "likes_count": 1444,
+    "likes_count": 1446,
     "created_at": "2018-05-12T19:51:25+09:00",
     "updated_at": "2019-09-13T09:56:44+09:00",
     "id": "rawHam"
@@ -90,7 +90,7 @@
   {
     "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
     "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 1078,
+    "likes_count": 1079,
     "created_at": "2018-05-12T11:14:50+09:00",
     "updated_at": "2020-03-07T10:07:41+09:00",
     "id": "y-tsutsu"
@@ -194,7 +194,7 @@
   {
     "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
     "url": "https://qiita.com/kamesennin/items/89d479112554a6f9d038",
-    "likes_count": 722,
+    "likes_count": 723,
     "created_at": "2018-05-01T18:10:35+09:00",
     "updated_at": "2021-05-22T21:18:25+09:00",
     "id": "kamesennin"
@@ -250,7 +250,7 @@
   {
     "title": "Pythonのlambdaって分かりやすい",
     "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 641,
+    "likes_count": 642,
     "created_at": "2018-05-20T14:33:53+09:00",
     "updated_at": "2020-11-06T12:05:03+09:00",
     "id": "nagataaaas"
@@ -472,20 +472,20 @@
     "id": "yahsan2"
   },
   {
+    "title": "dockerで簡易にpython3の環境を作ってみる",
+    "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
+    "likes_count": 386,
+    "created_at": "2018-05-10T12:01:43+09:00",
+    "updated_at": "2020-01-15T02:08:31+09:00",
+    "id": "reflet"
+  },
+  {
     "title": "初学者でも5分で理解できるようにDI(Dependency Injection)を説明してみた",
     "url": "https://qiita.com/hirodragon/items/73442390d551fe7376ea",
     "likes_count": 386,
     "created_at": "2018-05-25T00:56:35+09:00",
     "updated_at": "2018-05-28T15:44:02+09:00",
     "id": "hirodragon"
-  },
-  {
-    "title": "dockerで簡易にpython3の環境を作ってみる",
-    "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
-    "likes_count": 385,
-    "created_at": "2018-05-10T12:01:43+09:00",
-    "updated_at": "2020-01-15T02:08:31+09:00",
-    "id": "reflet"
   },
   {
     "title": "Gradle の compile, api, implementation とかについて",
