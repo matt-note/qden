@@ -58,7 +58,7 @@
   {
     "title": "「1000000007 で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜",
     "url": "https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a",
-    "likes_count": 1328,
+    "likes_count": 1329,
     "created_at": "2018-08-01T21:37:04+09:00",
     "updated_at": "2021-01-31T22:14:45+09:00",
     "id": "drken"
@@ -82,7 +82,7 @@
   {
     "title": "「さようなら ImageMagick」の考察",
     "url": "https://qiita.com/yoya/items/2076c1f5137d4041e3aa",
-    "likes_count": 1058,
+    "likes_count": 1059,
     "created_at": "2018-08-26T03:32:39+09:00",
     "updated_at": "2022-05-03T18:39:05+09:00",
     "id": "yoya"
@@ -90,7 +90,7 @@
   {
     "title": "TODO: 以外のアノテーションコメントをまとめた",
     "url": "https://qiita.com/taka-kawa/items/673716d77795c937d422",
-    "likes_count": 1044,
+    "likes_count": 1046,
     "created_at": "2018-08-18T23:17:23+09:00",
     "updated_at": "2021-11-17T12:32:17+09:00",
     "id": "taka-kawa"
@@ -106,7 +106,7 @@
   {
     "title": "ポリモーフィズムを活用するとなぜ if や switch  が消えるのか？",
     "url": "https://qiita.com/Nossa/items/a93024e653ff939115c6",
-    "likes_count": 934,
+    "likes_count": 935,
     "created_at": "2018-08-07T07:13:20+09:00",
     "updated_at": "2019-05-09T13:00:37+09:00",
     "id": "Nossa"
@@ -130,7 +130,7 @@
   {
     "title": "【初心者向け】Anacondaで仮想環境を作ってみる",
     "url": "https://qiita.com/ozaki_physics/items/985188feb92570e5b82d",
-    "likes_count": 665,
+    "likes_count": 666,
     "created_at": "2018-08-09T17:19:50+09:00",
     "updated_at": "2021-12-20T18:00:39+09:00",
     "id": "ozaki_physics"
@@ -224,20 +224,20 @@
     "id": "tanakh"
   },
   {
+    "title": "トランザクション分離レベルについてのまとめ",
+    "url": "https://qiita.com/song_ss/items/38e514b05e9dabae3bdb",
+    "likes_count": 486,
+    "created_at": "2018-08-23T20:12:02+09:00",
+    "updated_at": "2018-12-18T11:58:43+09:00",
+    "id": "song_ss"
+  },
+  {
     "title": "DockerfileのCMDとENTRYPOINTを改めて解説する",
     "url": "https://qiita.com/uehaj/items/e6dd013e28593c26372d",
     "likes_count": 484,
     "created_at": "2018-08-14T13:46:59+09:00",
     "updated_at": "2020-02-28T11:08:50+09:00",
     "id": "uehaj"
-  },
-  {
-    "title": "トランザクション分離レベルについてのまとめ",
-    "url": "https://qiita.com/song_ss/items/38e514b05e9dabae3bdb",
-    "likes_count": 484,
-    "created_at": "2018-08-23T20:12:02+09:00",
-    "updated_at": "2018-12-18T11:58:43+09:00",
-    "id": "song_ss"
   },
   {
     "title": "Webサーバをセキュアに保つ設定のまとめ",
@@ -328,20 +328,20 @@
     "id": "nakanishy"
   },
   {
+    "title": "Webpacker使うなら最低限これだけは知っておいてほしいこと",
+    "url": "https://qiita.com/chimame/items/8d3d6f4afea675cffa7d",
+    "likes_count": 393,
+    "created_at": "2018-08-07T15:12:45+09:00",
+    "updated_at": "2019-12-18T12:05:23+09:00",
+    "id": "chimame"
+  },
+  {
     "title": "クリーンアーキテクチャの書籍を読んだのでAPIサーバを実装してみた",
     "url": "https://qiita.com/yoshinori_hisakawa/items/f934178d4bd476c8da32",
     "likes_count": 393,
     "created_at": "2018-08-19T11:35:29+09:00",
     "updated_at": "2018-08-20T12:44:01+09:00",
     "id": "yoshinori_hisakawa"
-  },
-  {
-    "title": "Webpacker使うなら最低限これだけは知っておいてほしいこと",
-    "url": "https://qiita.com/chimame/items/8d3d6f4afea675cffa7d",
-    "likes_count": 392,
-    "created_at": "2018-08-07T15:12:45+09:00",
-    "updated_at": "2019-12-18T12:05:23+09:00",
-    "id": "chimame"
   },
   {
     "title": "【Git】新人エンジニア、git pushまでの道",

@@ -18,7 +18,7 @@
   {
     "title": "OAuth 2.0 + OpenID Connect のフルスクラッチ実装者が知見を語る",
     "url": "https://qiita.com/TakahikoKawasaki/items/f2a0d25a4f05790b3baa",
-    "likes_count": 1928,
+    "likes_count": 1929,
     "created_at": "2016-02-21T06:01:13+09:00",
     "updated_at": "2016-10-15T23:08:38+09:00",
     "id": "TakahikoKawasaki"
@@ -106,7 +106,7 @@
   {
     "title": "Python文字列操作マスター",
     "url": "https://qiita.com/tomotaka_ito/items/594ee1396cf982ba9887",
-    "likes_count": 1079,
+    "likes_count": 1080,
     "created_at": "2016-02-04T18:37:45+09:00",
     "updated_at": "2021-11-24T05:22:55+09:00",
     "id": "tomotaka_ito"
@@ -186,7 +186,7 @@
   {
     "title": "何もしない組み込みコマンド \":\" （コロン）の使い道",
     "url": "https://qiita.com/xtetsuji/items/381dc17241bda548045d",
-    "likes_count": 713,
+    "likes_count": 714,
     "created_at": "2016-02-10T00:31:23+09:00",
     "updated_at": "2022-02-05T00:34:05+09:00",
     "id": "xtetsuji"
@@ -368,6 +368,14 @@
     "id": "nyamogera"
   },
   {
+    "title": "デザインパターン「Factory Method」",
+    "url": "https://qiita.com/shoheiyokoyama/items/d752834a6a2e208b90ca",
+    "likes_count": 441,
+    "created_at": "2016-02-20T22:46:38+09:00",
+    "updated_at": "2017-03-27T20:42:30+09:00",
+    "id": "shoheiyokoyama"
+  },
+  {
     "title": "個人で30本スマホアプリをリリースしたときのコツ5つを紹介してみるよ",
     "url": "https://qiita.com/Tecco/items/518094205784c7e855ee",
     "likes_count": 440,
@@ -376,20 +384,20 @@
     "id": "Tecco"
   },
   {
-    "title": "デザインパターン「Factory Method」",
-    "url": "https://qiita.com/shoheiyokoyama/items/d752834a6a2e208b90ca",
-    "likes_count": 440,
-    "created_at": "2016-02-20T22:46:38+09:00",
-    "updated_at": "2017-03-27T20:42:30+09:00",
-    "id": "shoheiyokoyama"
-  },
-  {
     "title": "Docker network 概論",
     "url": "https://qiita.com/TsutomuNakamura/items/ed046ee21caca4a2ffd9",
-    "likes_count": 431,
+    "likes_count": 432,
     "created_at": "2016-02-08T07:23:17+09:00",
     "updated_at": "2019-03-12T22:50:31+09:00",
     "id": "TsutomuNakamura"
+  },
+  {
+    "title": "最近よく聞くQuorumは過半数(多数決)よりも一般的でパワフルな概念だった",
+    "url": "https://qiita.com/everpeace/items/632831371da5ff215995",
+    "likes_count": 417,
+    "created_at": "2016-02-21T15:43:42+09:00",
+    "updated_at": "2021-10-21T18:33:46+09:00",
+    "id": "everpeace"
   },
   {
     "title": "Rustのイテレータの網羅的かつ大雑把な紹介",
@@ -398,14 +406,6 @@
     "created_at": "2016-02-08T13:56:09+09:00",
     "updated_at": "2021-12-03T06:34:30+09:00",
     "id": "lo48576"
-  },
-  {
-    "title": "最近よく聞くQuorumは過半数(多数決)よりも一般的でパワフルな概念だった",
-    "url": "https://qiita.com/everpeace/items/632831371da5ff215995",
-    "likes_count": 416,
-    "created_at": "2016-02-21T15:43:42+09:00",
-    "updated_at": "2021-10-21T18:33:46+09:00",
-    "id": "everpeace"
   },
   {
     "title": "その使い方はもう古いかも？AngularJS老化チェック（ディレクティブ篇）",
