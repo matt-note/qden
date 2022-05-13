@@ -2,7 +2,7 @@
   {
     "title": "VSCodeのオススメ拡張機能 24 選   (とTipsをいくつか)",
     "url": "https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234",
-    "likes_count": 5474,
+    "likes_count": 5477,
     "created_at": "2018-09-30T14:57:40+09:00",
     "updated_at": "2020-02-09T01:38:33+09:00",
     "id": "sensuikan1973"
@@ -18,7 +18,7 @@
   {
     "title": "個人でも使える！おすすめAPI一覧",
     "url": "https://qiita.com/mikan3rd/items/ba4737023f08bb2ca161",
-    "likes_count": 4248,
+    "likes_count": 4249,
     "created_at": "2018-09-17T21:12:27+09:00",
     "updated_at": "2021-12-21T13:28:54+09:00",
     "id": "mikan3rd"
@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 2905,
+    "likes_count": 2906,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -58,7 +58,7 @@
   {
     "title": "オブジェクト指向が5000%理解できる記事",
     "url": "https://qiita.com/ICT_hero/items/b2f8e39d7cc23ad505f9",
-    "likes_count": 1863,
+    "likes_count": 1864,
     "created_at": "2018-09-22T01:04:00+09:00",
     "updated_at": "2020-01-28T15:05:24+09:00",
     "id": "ICT_hero"
@@ -178,7 +178,7 @@
   {
     "title": "OpenAPI (Swagger) 超入門",
     "url": "https://qiita.com/teinen_qiita/items/e440ca7b1b52ec918f1b",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2018-09-08T15:32:15+09:00",
     "updated_at": "2019-08-16T13:36:50+09:00",
     "id": "teinen_qiita"
@@ -194,7 +194,7 @@
   {
     "title": "Rubyによるデザインパターンまとめ",
     "url": "https://qiita.com/yuji_ariyasu/items/588fef6062b3c7149509",
-    "likes_count": 734,
+    "likes_count": 735,
     "created_at": "2018-09-10T10:52:19+09:00",
     "updated_at": "2021-07-22T22:45:22+09:00",
     "id": "yuji_ariyasu"
@@ -202,7 +202,7 @@
   {
     "title": "機械学習／ディープラーニングにおけるバッチサイズ、イテレーション数、エポック数の決め方",
     "url": "https://qiita.com/kenta1984/items/bad75a37d552510e4682",
-    "likes_count": 725,
+    "likes_count": 726,
     "created_at": "2018-09-21T23:14:49+09:00",
     "updated_at": "2020-06-09T22:33:54+09:00",
     "id": "kenta1984"
@@ -300,7 +300,7 @@
     "url": "https://qiita.com/arutema47/items/8ff629a1516f7fd485f9",
     "likes_count": 565,
     "created_at": "2018-09-17T10:57:35+09:00",
-    "updated_at": "2021-02-16T15:02:34+09:00",
+    "updated_at": "2022-05-13T11:41:55+09:00",
     "id": "arutema47"
   },
   {
@@ -330,7 +330,7 @@
   {
     "title": "Chart.jsでグラフを描画してみた",
     "url": "https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369",
-    "likes_count": 485,
+    "likes_count": 486,
     "created_at": "2018-09-04T16:23:22+09:00",
     "updated_at": "2019-04-09T22:23:04+09:00",
     "id": "Haruka-Ogawa"
@@ -434,7 +434,7 @@
   {
     "title": "今から始めるReact入門 〜 React Router",
     "url": "https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2",
-    "likes_count": 415,
+    "likes_count": 416,
     "created_at": "2018-09-09T19:21:12+09:00",
     "updated_at": "2020-06-14T22:05:03+09:00",
     "id": "TsutomuNakamura"
@@ -520,20 +520,20 @@
     "id": "ICT_hero"
   },
   {
+    "title": "Dockerを使ってLaravel開発環境構築",
+    "url": "https://qiita.com/A-Kira/items/1c55ef689c0f91420e81",
+    "likes_count": 358,
+    "created_at": "2018-09-30T03:04:01+09:00",
+    "updated_at": "2021-08-19T09:42:12+09:00",
+    "id": "A-Kira"
+  },
+  {
     "title": "VS Code でEmmet使ったらHTML書くの速くなった～‼",
     "url": "https://qiita.com/fumikomatsu/items/67876e6be3369b0e730c",
     "likes_count": 357,
     "created_at": "2018-09-21T14:18:21+09:00",
     "updated_at": "2018-09-25T16:43:47+09:00",
     "id": "fumikomatsu"
-  },
-  {
-    "title": "Dockerを使ってLaravel開発環境構築",
-    "url": "https://qiita.com/A-Kira/items/1c55ef689c0f91420e81",
-    "likes_count": 357,
-    "created_at": "2018-09-30T03:04:01+09:00",
-    "updated_at": "2021-08-19T09:42:12+09:00",
-    "id": "A-Kira"
   },
   {
     "title": "Nuxt.js + Netlifyで爆速構築するサーバーレス開発入門",
@@ -578,7 +578,7 @@
   {
     "title": "いまさらGit for Windowsのインストール、GitHubに接続してみた。",
     "url": "https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00",
-    "likes_count": 316,
+    "likes_count": 315,
     "created_at": "2018-09-13T15:01:37+09:00",
     "updated_at": "2018-09-13T16:20:24+09:00",
     "id": "manabu-watanabe"
