@@ -58,7 +58,7 @@
   {
     "title": "オブジェクト指向が5000%理解できる記事",
     "url": "https://qiita.com/ICT_hero/items/b2f8e39d7cc23ad505f9",
-    "likes_count": 1864,
+    "likes_count": 1865,
     "created_at": "2018-09-22T01:04:00+09:00",
     "updated_at": "2020-01-28T15:05:24+09:00",
     "id": "ICT_hero"
@@ -98,7 +98,7 @@
   {
     "title": "[Python] プログラム初心者のためのWebアプリ簡単作成法",
     "url": "https://qiita.com/okoppe8/items/4cc0f87ea933749f5a49",
-    "likes_count": 1143,
+    "likes_count": 1144,
     "created_at": "2018-09-27T15:04:46+09:00",
     "updated_at": "2018-09-28T14:14:51+09:00",
     "id": "okoppe8"
@@ -242,7 +242,7 @@
   {
     "title": "Python3で競技プログラミングする時に知っておきたいtips（入力編）",
     "url": "https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c",
-    "likes_count": 636,
+    "likes_count": 638,
     "created_at": "2018-09-08T20:13:28+09:00",
     "updated_at": "2019-04-14T12:14:48+09:00",
     "id": "kyuna"
@@ -314,7 +314,7 @@
   {
     "title": "フリーランスエンジニアの面談ってこんな感じ",
     "url": "https://qiita.com/turmericN/items/e248d8ac30ca5c21650e",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2018-09-17T10:40:17+09:00",
     "updated_at": "2018-10-09T08:00:27+09:00",
     "id": "turmericN"
@@ -498,10 +498,18 @@
   {
     "title": "【Rails】find・find_by・whereについてまとめてみた",
     "url": "https://qiita.com/nakayuu07/items/3d5e2f8784b6f18186f2",
-    "likes_count": 374,
+    "likes_count": 375,
     "created_at": "2018-09-18T13:36:27+09:00",
     "updated_at": "2020-02-13T14:31:53+09:00",
     "id": "nakayuu07"
+  },
+  {
+    "title": "オブジェクト指向が5000%理解できる記事(実践編)",
+    "url": "https://qiita.com/ICT_hero/items/fab2a6637f681221f687",
+    "likes_count": 369,
+    "created_at": "2018-09-24T14:09:36+09:00",
+    "updated_at": "2018-09-25T23:05:25+09:00",
+    "id": "ICT_hero"
   },
   {
     "title": "SCSSの基本的な書き方",
@@ -510,14 +518,6 @@
     "created_at": "2018-09-21T16:06:04+09:00",
     "updated_at": "2020-02-15T22:45:11+09:00",
     "id": "nchhujimiyama"
-  },
-  {
-    "title": "オブジェクト指向が5000%理解できる記事(実践編)",
-    "url": "https://qiita.com/ICT_hero/items/fab2a6637f681221f687",
-    "likes_count": 368,
-    "created_at": "2018-09-24T14:09:36+09:00",
-    "updated_at": "2018-09-25T23:05:25+09:00",
-    "id": "ICT_hero"
   },
   {
     "title": "Dockerを使ってLaravel開発環境構築",
