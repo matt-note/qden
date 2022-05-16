@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5593,
+    "likes_count": 5594,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -210,7 +210,7 @@
   {
     "title": "matplotlibでのプロットの基本",
     "url": "https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4",
-    "likes_count": 780,
+    "likes_count": 782,
     "created_at": "2017-12-15T11:24:40+09:00",
     "updated_at": "2019-02-14T13:00:47+09:00",
     "id": "KntKnk0328"
@@ -274,7 +274,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -282,7 +282,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 641,
+    "likes_count": 642,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -484,7 +484,7 @@
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
     "likes_count": 445,
     "created_at": "2017-12-25T22:56:03+09:00",
-    "updated_at": "2017-12-25T22:56:03+09:00",
+    "updated_at": "2022-05-16T22:31:37+09:00",
     "id": "takutoki"
   },
   {
@@ -680,6 +680,14 @@
     "id": "nh321"
   },
   {
+    "title": "Django マイグレーション まとめ",
+    "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
+    "likes_count": 340,
+    "created_at": "2017-12-08T16:08:01+09:00",
+    "updated_at": "2017-12-08T16:26:33+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
     "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
     "likes_count": 340,
@@ -688,12 +696,12 @@
     "id": "h1kita"
   },
   {
-    "title": "Django マイグレーション まとめ",
-    "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 339,
-    "created_at": "2017-12-08T16:08:01+09:00",
-    "updated_at": "2017-12-08T16:26:33+09:00",
-    "id": "okoppe8"
+    "title": "組み込みLinuxデバイスドライバの作り方 (1)",
+    "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
+    "likes_count": 334,
+    "created_at": "2017-12-17T01:37:50+09:00",
+    "updated_at": "2018-02-01T19:12:00+09:00",
+    "id": "iwatake2222"
   },
   {
     "title": "Firebaseで動かすNode.jsアプリ入門🔥",
@@ -702,14 +710,6 @@
     "created_at": "2017-12-13T07:18:32+09:00",
     "updated_at": "2017-12-16T07:02:15+09:00",
     "id": "seya"
-  },
-  {
-    "title": "組み込みLinuxデバイスドライバの作り方 (1)",
-    "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 333,
-    "created_at": "2017-12-17T01:37:50+09:00",
-    "updated_at": "2018-02-01T19:12:00+09:00",
-    "id": "iwatake2222"
   },
   {
     "title": "【2018年版】今押さえておきたいフロントエンド関連",
