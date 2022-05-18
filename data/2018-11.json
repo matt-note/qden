@@ -58,7 +58,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1389,
+    "likes_count": 1388,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -74,7 +74,7 @@
   {
     "title": "たった7行でテトリスを実装「七行プログラミング」とは",
     "url": "https://qiita.com/ryuichi1208/items/f9e6ac2b99bbe4fc82d3",
-    "likes_count": 1249,
+    "likes_count": 1248,
     "created_at": "2018-11-27T22:24:44+09:00",
     "updated_at": "2018-11-27T22:31:56+09:00",
     "id": "ryuichi1208"
@@ -82,7 +82,7 @@
   {
     "title": "オブジェクト指向のいろは",
     "url": "https://qiita.com/nrslib/items/73bf176147192c402049",
-    "likes_count": 1163,
+    "likes_count": 1162,
     "created_at": "2018-11-08T07:23:49+09:00",
     "updated_at": "2018-12-23T22:55:48+09:00",
     "id": "nrslib"
@@ -122,7 +122,7 @@
   {
     "title": "汎用言語表現モデルBERTを日本語で動かす(PyTorch)",
     "url": "https://qiita.com/Kosuke-Szk/items/4b74b5cce84f423b7125",
-    "likes_count": 1026,
+    "likes_count": 1027,
     "created_at": "2018-11-01T19:35:25+09:00",
     "updated_at": "2022-05-16T14:17:33+09:00",
     "id": "Kosuke-Szk"
@@ -162,7 +162,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 843,
+    "likes_count": 844,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2022-01-03T17:28:11+09:00",
     "id": "RyBB"
@@ -186,7 +186,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 783,
+    "likes_count": 784,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -194,7 +194,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 779,
+    "likes_count": 780,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -258,7 +258,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 591,
+    "likes_count": 592,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -346,7 +346,7 @@
   {
     "title": "プログラミング歴半年だけど、エンジニアが「知らないことを知る」ためのWEBサービス「Putiita」を作ったよ",
     "url": "https://qiita.com/sunad/items/9dce1bfcbb830a4108f9",
-    "likes_count": 483,
+    "likes_count": 482,
     "created_at": "2018-11-28T17:18:02+09:00",
     "updated_at": "2019-03-21T12:12:56+09:00",
     "id": "sunad"
@@ -432,20 +432,20 @@
     "id": "wsuzume"
   },
   {
+    "title": "【Ruby on Rails】N+1問題ってなんだ？",
+    "url": "https://qiita.com/massaaaaan/items/4eb770f20e636f7a1361",
+    "likes_count": 374,
+    "created_at": "2018-11-20T22:06:41+09:00",
+    "updated_at": "2018-11-20T22:06:41+09:00",
+    "id": "massaaaaan"
+  },
+  {
     "title": "VSCodeのPython拡張機能が更新されJupyter Notebookが扱いやすくなったので試してみた",
     "url": "https://qiita.com/suudon0014/items/dbf0237d90922275af1c",
     "likes_count": 373,
     "created_at": "2018-11-12T12:18:08+09:00",
     "updated_at": "2018-11-17T22:27:08+09:00",
     "id": "suudon0014"
-  },
-  {
-    "title": "【Ruby on Rails】N+1問題ってなんだ？",
-    "url": "https://qiita.com/massaaaaan/items/4eb770f20e636f7a1361",
-    "likes_count": 373,
-    "created_at": "2018-11-20T22:06:41+09:00",
-    "updated_at": "2018-11-20T22:06:41+09:00",
-    "id": "massaaaaan"
   },
   {
     "title": "Chromeを使うなら、必ずServiceWorkersを無効化しよう",
@@ -472,20 +472,20 @@
     "id": "yakimeron"
   },
   {
+    "title": "Laravelで始める依存性の注入（DI）",
+    "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
+    "likes_count": 363,
+    "created_at": "2018-11-30T15:37:00+09:00",
+    "updated_at": "2020-08-03T21:31:08+09:00",
+    "id": "harunbu"
+  },
+  {
     "title": "最近のJava界隈はとても良い感じ ",
     "url": "https://qiita.com/huge-book-storage/items/ad4f7bcaaebca6281154",
     "likes_count": 362,
     "created_at": "2018-11-10T12:47:32+09:00",
     "updated_at": "2018-11-17T13:28:26+09:00",
     "id": "huge-book-storage"
-  },
-  {
-    "title": "Laravelで始める依存性の注入（DI）",
-    "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
-    "likes_count": 362,
-    "created_at": "2018-11-30T15:37:00+09:00",
-    "updated_at": "2020-08-03T21:31:08+09:00",
-    "id": "harunbu"
   },
   {
     "title": "オレオレ流Python可視化 チートシート ※随時更新※",
