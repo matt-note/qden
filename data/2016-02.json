@@ -2,7 +2,7 @@
   {
     "title": "初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」",
     "url": "https://qiita.com/jnchito/items/893c887fbf19e17d3ff9",
-    "likes_count": 3271,
+    "likes_count": 3272,
     "created_at": "2016-02-03T05:31:01+09:00",
     "updated_at": "2019-01-10T10:51:29+09:00",
     "id": "jnchito"
@@ -10,7 +10,7 @@
   {
     "title": "【GitHub超初心者入門】この前初めてGitHubを使い始めたエンジニア見習いが書くGitHubの使い方と実践～とりあえず一緒に動かしてみようぜ！～",
     "url": "https://qiita.com/nnahito/items/565f8755e70c51532459",
-    "likes_count": 2248,
+    "likes_count": 2249,
     "created_at": "2016-02-18T19:16:57+09:00",
     "updated_at": "2021-11-18T16:22:13+09:00",
     "id": "nnahito"
@@ -50,7 +50,7 @@
   {
     "title": "Android案件を見積もる場合に考えておくことリスト",
     "url": "https://qiita.com/eaglesakura/items/3f552dc5971d39fa9466",
-    "likes_count": 1592,
+    "likes_count": 1591,
     "created_at": "2016-02-23T11:35:45+09:00",
     "updated_at": "2018-01-14T13:04:13+09:00",
     "id": "eaglesakura"
@@ -66,7 +66,7 @@
   {
     "title": "テストがうまくいかないプロジェクトに捧ぐ、正しいテストの考え方",
     "url": "https://qiita.com/geshi/items/74ed21615e1ba2ad539d",
-    "likes_count": 1375,
+    "likes_count": 1376,
     "created_at": "2016-02-24T11:08:41+09:00",
     "updated_at": "2017-03-15T21:41:58+09:00",
     "id": "geshi"
@@ -154,7 +154,7 @@
   {
     "title": "ウィルス感染でWebサービスが20日間ダウン。本当にごめんなさい",
     "url": "https://qiita.com/haminiku/items/646124c1ee5d0dd73064",
-    "likes_count": 834,
+    "likes_count": 833,
     "created_at": "2016-02-23T06:47:41+09:00",
     "updated_at": "2016-02-23T14:46:27+09:00",
     "id": "haminiku"
@@ -194,10 +194,18 @@
   {
     "title": "Distributed TensorFlowの話",
     "url": "https://qiita.com/kazunori279/items/981a8a2a44f5d1172856",
-    "likes_count": 708,
+    "likes_count": 707,
     "created_at": "2016-02-08T11:47:37+09:00",
     "updated_at": "2016-02-08T11:47:37+09:00",
     "id": "kazunori279"
+  },
+  {
+    "title": "Git で「追跡ブランチ」って言うのやめましょう",
+    "url": "https://qiita.com/uasi/items/69368c17c79e99aaddbf",
+    "likes_count": 704,
+    "created_at": "2016-02-08T21:44:09+09:00",
+    "updated_at": "2016-02-09T10:11:27+09:00",
+    "id": "uasi"
   },
   {
     "title": "おじさんが若い時はね$.ajax()のオプションでsuccessとかerrorとか指定していたんだよ（追憶）",
@@ -206,14 +214,6 @@
     "created_at": "2016-02-22T22:19:15+09:00",
     "updated_at": "2018-10-31T18:33:44+09:00",
     "id": "tonkotsuboy_com"
-  },
-  {
-    "title": "Git で「追跡ブランチ」って言うのやめましょう",
-    "url": "https://qiita.com/uasi/items/69368c17c79e99aaddbf",
-    "likes_count": 703,
-    "created_at": "2016-02-08T21:44:09+09:00",
-    "updated_at": "2016-02-09T10:11:27+09:00",
-    "id": "uasi"
   },
   {
     "title": "[意訳]初学者のためのJavaScriptモジュール講座 Part1",
@@ -472,20 +472,20 @@
     "id": "hidenorly"
   },
   {
+    "title": "Swift GCD入門",
+    "url": "https://qiita.com/ShoichiKuraoka/items/bb2a280688d29de3ff18",
+    "likes_count": 357,
+    "created_at": "2016-02-21T17:02:16+09:00",
+    "updated_at": "2018-12-29T17:53:24+09:00",
+    "id": "ShoichiKuraoka"
+  },
+  {
     "title": "独自ドメインを使ってAmazon S3で静的Webサイトをホストする",
     "url": "https://qiita.com/Ichiro_Tsuji/items/c174d580587a622d3358",
     "likes_count": 356,
     "created_at": "2016-02-07T13:10:59+09:00",
     "updated_at": "2020-05-27T09:03:43+09:00",
     "id": "Ichiro_Tsuji"
-  },
-  {
-    "title": "Swift GCD入門",
-    "url": "https://qiita.com/ShoichiKuraoka/items/bb2a280688d29de3ff18",
-    "likes_count": 356,
-    "created_at": "2016-02-21T17:02:16+09:00",
-    "updated_at": "2018-12-29T17:53:24+09:00",
-    "id": "ShoichiKuraoka"
   },
   {
     "title": "GitHubでユーザ名・パスワード省略（push, pull）",
@@ -554,7 +554,7 @@
   {
     "title": "[意訳]グローバルCSSの終焉",
     "url": "https://qiita.com/chuck0523/items/9a3cc6a2190dfb71a684",
-    "likes_count": 322,
+    "likes_count": 321,
     "created_at": "2016-02-07T15:38:21+09:00",
     "updated_at": "2016-02-08T04:43:47+09:00",
     "id": "chuck0523"
@@ -570,7 +570,7 @@
   {
     "title": "PHPExcelでエクセル出力入門",
     "url": "https://qiita.com/suin/items/7a8d0979b7675d6fd05b",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2016-02-09T17:25:28+09:00",
     "updated_at": "2020-03-12T13:19:19+09:00",
     "id": "suin"
@@ -586,7 +586,7 @@
   {
     "title": "AWS SESをちゃんと使うためにやるべきこと",
     "url": "https://qiita.com/zaru/items/4be9b55ba807670cf224",
-    "likes_count": 284,
+    "likes_count": 285,
     "created_at": "2016-02-25T12:06:20+09:00",
     "updated_at": "2016-02-25T12:06:20+09:00",
     "id": "zaru"

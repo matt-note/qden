@@ -74,7 +74,7 @@
   {
     "title": "実例で学ぶ、JOIN (NLJ) が遅くなる理屈と対処法",
     "url": "https://qiita.com/yuku_t/items/208be188eef17699c7a5",
-    "likes_count": 1337,
+    "likes_count": 1338,
     "created_at": "2015-06-22T11:50:58+09:00",
     "updated_at": "2015-07-13T09:58:53+09:00",
     "id": "yuku_t"
@@ -82,26 +82,26 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1270,
+    "likes_count": 1271,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
   },
   {
-    "title": "エンジニアの為の、アイデア効率化",
-    "url": "https://qiita.com/Reyurnible/items/342352a0b145a4736ae0",
-    "likes_count": 1229,
-    "created_at": "2015-06-11T13:59:09+09:00",
-    "updated_at": "2015-06-25T18:11:55+09:00",
-    "id": "Reyurnible"
-  },
-  {
     "title": "IT業界で横行する恥ずかしい英語発音",
     "url": "https://qiita.com/ryounagaoka/items/290885ee3291b393fe1f",
-    "likes_count": 1229,
+    "likes_count": 1230,
     "created_at": "2015-06-12T02:03:36+09:00",
     "updated_at": "2018-04-08T23:52:59+09:00",
     "id": "ryounagaoka"
+  },
+  {
+    "title": "エンジニアの為の、アイデア効率化",
+    "url": "https://qiita.com/Reyurnible/items/342352a0b145a4736ae0",
+    "likes_count": 1228,
+    "created_at": "2015-06-11T13:59:09+09:00",
+    "updated_at": "2015-06-25T18:11:55+09:00",
+    "id": "Reyurnible"
   },
   {
     "title": "jQueryを利用したDOM操作 要素の追加メソッドまとめ",
@@ -162,7 +162,7 @@
   {
     "title": "良いコードを書く技術（まとめ）",
     "url": "https://qiita.com/NoriakiOshita/items/e60ab5bb01b90d927ae5",
-    "likes_count": 758,
+    "likes_count": 759,
     "created_at": "2015-06-18T23:40:21+09:00",
     "updated_at": "2021-02-05T07:38:16+09:00",
     "id": "NoriakiOshita"
@@ -362,7 +362,7 @@
   {
     "title": "俺の最近のRailsのJS開発環境を教えてやる",
     "url": "https://qiita.com/kozo002/items/a276569e85395fce801e",
-    "likes_count": 424,
+    "likes_count": 423,
     "created_at": "2015-06-19T14:29:08+09:00",
     "updated_at": "2015-06-19T14:29:08+09:00",
     "id": "kozo002"
@@ -378,7 +378,7 @@
   {
     "title": "実用的な新機能が盛りだくさん！RSpec 3.3 完全ガイド",
     "url": "https://qiita.com/jnchito/items/3a590480ee291a70027c",
-    "likes_count": 406,
+    "likes_count": 405,
     "created_at": "2015-06-22T07:52:16+09:00",
     "updated_at": "2015-06-23T07:20:19+09:00",
     "id": "jnchito"
@@ -526,14 +526,6 @@
     "created_at": "2015-06-24T00:01:34+09:00",
     "updated_at": "2015-07-22T09:31:49+09:00",
     "id": "ma91n"
-  },
-  {
-    "title": "そろそろポリモーフィック関連について一言いっとくか",
-    "url": "https://qiita.com/joker1007/items/9da1e279424554df7bb8",
-    "likes_count": 297,
-    "created_at": "2015-06-02T16:43:17+09:00",
-    "updated_at": "2015-06-02T17:00:12+09:00",
-    "id": "joker1007"
   },
   {
     "title": "【iOS】UUIDの取得の最適化",
