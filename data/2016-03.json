@@ -26,7 +26,7 @@
   {
     "title": "nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する",
     "url": "https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc",
-    "likes_count": 2023,
+    "likes_count": 2024,
     "created_at": "2016-03-18T01:08:31+09:00",
     "updated_at": "2018-04-09T09:05:54+09:00",
     "id": "kotarella1110"
@@ -58,7 +58,7 @@
   {
     "title": "sedでこういう時はどう書く?",
     "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
-    "likes_count": 1515,
+    "likes_count": 1516,
     "created_at": "2016-03-04T11:57:25+09:00",
     "updated_at": "2018-10-25T10:59:12+09:00",
     "id": "hirohiro77"
@@ -162,7 +162,7 @@
   {
     "title": "Pythonにおける非同期処理: asyncio逆引きリファレンス",
     "url": "https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0",
-    "likes_count": 835,
+    "likes_count": 836,
     "created_at": "2016-03-26T22:06:48+09:00",
     "updated_at": "2019-03-06T12:38:21+09:00",
     "id": "icoxfog417"
@@ -290,7 +290,7 @@
   {
     "title": "Bundlerの使い方",
     "url": "https://qiita.com/oshou/items/6283c2315dc7dd244aef",
-    "likes_count": 541,
+    "likes_count": 540,
     "created_at": "2016-03-28T00:21:17+09:00",
     "updated_at": "2017-02-03T18:11:09+09:00",
     "id": "oshou"
@@ -504,20 +504,20 @@
     "id": "jnchito"
   },
   {
+    "title": "wgetでこういう時はこうする!!",
+    "url": "https://qiita.com/hirohiro77/items/b774908436ec032df719",
+    "likes_count": 375,
+    "created_at": "2016-03-07T14:47:05+09:00",
+    "updated_at": "2019-01-07T20:51:05+09:00",
+    "id": "hirohiro77"
+  },
+  {
     "title": "Convolutional Neural Networkを実装する",
     "url": "https://qiita.com/icoxfog417/items/5aa1b3f87bb294f84bac",
     "likes_count": 375,
     "created_at": "2016-03-24T14:00:06+09:00",
     "updated_at": "2016-04-23T23:52:46+09:00",
     "id": "icoxfog417"
-  },
-  {
-    "title": "wgetでこういう時はこうする!!",
-    "url": "https://qiita.com/hirohiro77/items/b774908436ec032df719",
-    "likes_count": 374,
-    "created_at": "2016-03-07T14:47:05+09:00",
-    "updated_at": "2019-01-07T20:51:05+09:00",
-    "id": "hirohiro77"
   },
   {
     "title": "awkコマンドの基本",
@@ -578,7 +578,7 @@
   {
     "title": "Ruby のエラーメッセージを読み解く（初心者向け）その 1",
     "url": "https://qiita.com/scivola/items/3017068a354892b239f4",
-    "likes_count": 352,
+    "likes_count": 351,
     "created_at": "2016-03-05T17:34:37+09:00",
     "updated_at": "2021-04-11T10:03:06+09:00",
     "id": "scivola"

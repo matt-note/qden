@@ -34,7 +34,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1423,
+    "likes_count": 1425,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1290,
+    "likes_count": 1291,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -98,7 +98,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 959,
+    "likes_count": 960,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2022-03-23T15:01:48+09:00",
     "id": "mochio"
@@ -322,7 +322,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 601,
+    "likes_count": 602,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -338,7 +338,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 593,
+    "likes_count": 594,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -446,14 +446,6 @@
     "created_at": "2017-12-09T08:11:55+09:00",
     "updated_at": "2018-05-23T16:49:05+09:00",
     "id": "devneko"
-  },
-  {
-    "title": "Google Homeで受付システム作ってみた",
-    "url": "https://qiita.com/h-takauma/items/4ecc3421f2995b207284",
-    "likes_count": 469,
-    "created_at": "2017-12-06T15:46:42+09:00",
-    "updated_at": "2017-12-06T22:42:03+09:00",
-    "id": "h-takauma"
   },
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
@@ -612,7 +604,7 @@
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
     "likes_count": 367,
     "created_at": "2017-12-29T18:46:42+09:00",
-    "updated_at": "2022-05-08T14:17:45+09:00",
+    "updated_at": "2022-05-22T00:05:00+09:00",
     "id": "nightyknite"
   },
   {
@@ -672,20 +664,20 @@
     "id": "katsu1110"
   },
   {
+    "title": "Django マイグレーション まとめ",
+    "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
+    "likes_count": 341,
+    "created_at": "2017-12-08T16:08:01+09:00",
+    "updated_at": "2017-12-08T16:26:33+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "会議/ミーティングについて本気出して考えて見た結果",
     "url": "https://qiita.com/nh321/items/051fc2f666261e8ee4f0",
     "likes_count": 341,
     "created_at": "2017-12-10T22:57:31+09:00",
     "updated_at": "2017-12-21T20:23:43+09:00",
     "id": "nh321"
-  },
-  {
-    "title": "Django マイグレーション まとめ",
-    "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 340,
-    "created_at": "2017-12-08T16:08:01+09:00",
-    "updated_at": "2017-12-08T16:26:33+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
@@ -760,9 +752,17 @@
     "id": "onhrs"
   },
   {
+    "title": "【５分でなんとなく理解！】Babel入門",
+    "url": "https://qiita.com/Shagamii/items/a87181c22ea777ee2acc",
+    "likes_count": 287,
+    "created_at": "2017-12-25T21:13:51+09:00",
+    "updated_at": "2017-12-26T12:59:53+09:00",
+    "id": "Shagamii"
+  },
+  {
     "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
     "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
-    "likes_count": 277,
+    "likes_count": 278,
     "created_at": "2017-12-22T11:21:44+09:00",
     "updated_at": "2022-01-09T14:00:32+09:00",
     "id": "ffggss"
