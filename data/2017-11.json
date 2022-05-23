@@ -42,7 +42,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 992,
+    "likes_count": 993,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -58,7 +58,7 @@
   {
     "title": "とりあえずド素人が読むべきブロックチェーン入門論文・書籍・サイト",
     "url": "https://qiita.com/onokatio/items/7db58947b05c17d1f44e",
-    "likes_count": 858,
+    "likes_count": 859,
     "created_at": "2017-11-09T21:56:49+09:00",
     "updated_at": "2019-11-09T18:44:59+09:00",
     "id": "onokatio"
@@ -82,7 +82,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 747,
+    "likes_count": 748,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2022-04-01T23:16:07+09:00",
     "id": "ryouzi"
@@ -114,7 +114,7 @@
   {
     "title": "Vue.js スタイルガイド早見表 🎄✨",
     "url": "https://qiita.com/mi_upto/items/58642612b0106b193c82",
-    "likes_count": 663,
+    "likes_count": 664,
     "created_at": "2017-11-19T21:02:48+09:00",
     "updated_at": "2020-03-05T11:49:34+09:00",
     "id": "mi_upto"
@@ -194,7 +194,7 @@
   {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
     "url": "https://qiita.com/akameco/items/519f7e4d5442b2a9d2da",
-    "likes_count": 578,
+    "likes_count": 579,
     "created_at": "2017-11-19T03:46:34+09:00",
     "updated_at": "2020-03-23T18:38:33+09:00",
     "id": "akameco"
@@ -202,7 +202,7 @@
   {
     "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
     "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
-    "likes_count": 575,
+    "likes_count": 576,
     "created_at": "2017-11-18T06:21:52+09:00",
     "updated_at": "2021-12-30T11:36:42+09:00",
     "id": "t_nakayama0714"
@@ -328,20 +328,20 @@
     "id": "Tsutou"
   },
   {
+    "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",
+    "url": "https://qiita.com/teradonburi/items/c4cbd7dd5b4810e1a3a9",
+    "likes_count": 403,
+    "created_at": "2017-11-23T17:42:03+09:00",
+    "updated_at": "2022-03-09T21:37:06+09:00",
+    "id": "teradonburi"
+  },
+  {
     "title": "puppeteerでスクレイピング",
     "url": "https://qiita.com/tomipetit/items/a68cf7840c3da002c6e0",
     "likes_count": 403,
     "created_at": "2017-11-25T11:39:43+09:00",
     "updated_at": "2019-10-18T14:49:43+09:00",
     "id": "tomipetit"
-  },
-  {
-    "title": "VSCodeで爆速コーディング環境を構築する(主にReactJS向け設定)",
-    "url": "https://qiita.com/teradonburi/items/c4cbd7dd5b4810e1a3a9",
-    "likes_count": 402,
-    "created_at": "2017-11-23T17:42:03+09:00",
-    "updated_at": "2022-03-09T21:37:06+09:00",
-    "id": "teradonburi"
   },
   {
     "title": "Railsアプリで Bootstrap 4 を利用する",
@@ -410,7 +410,7 @@
   {
     "title": "Kotlin の Coroutine を概観する",
     "url": "https://qiita.com/kawmra/items/ee4acb7db61f70dec9a8",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2017-11-17T01:51:39+09:00",
     "updated_at": "2019-03-01T15:28:43+09:00",
     "id": "kawmra"
@@ -418,7 +418,7 @@
   {
     "title": "OAuth 2.0/OpenID Connectの2つのトークンの使いみち",
     "url": "https://qiita.com/wadahiro/items/ad36c7932c6627149873",
-    "likes_count": 349,
+    "likes_count": 351,
     "created_at": "2017-11-24T17:55:45+09:00",
     "updated_at": "2018-04-16T15:25:55+09:00",
     "id": "wadahiro"
