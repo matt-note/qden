@@ -26,7 +26,7 @@
   {
     "title": "Denoの登場でNode.jsの時代は終わるのか？",
     "url": "https://qiita.com/so99ynoodles/items/c3ba2a528052827e3b3c",
-    "likes_count": 2029,
+    "likes_count": 2028,
     "created_at": "2020-05-11T15:30:35+09:00",
     "updated_at": "2020-06-03T10:44:15+09:00",
     "id": "so99ynoodles"
@@ -58,7 +58,7 @@
   {
     "title": "AIエンジニアが気をつけたいPython実装のノウハウ・コツまとめ",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/c0e8a5e6b177bfe05e99",
-    "likes_count": 1412,
+    "likes_count": 1414,
     "created_at": "2020-05-04T17:20:16+09:00",
     "updated_at": "2021-02-14T09:03:13+09:00",
     "id": "sugulu_Ogawa_ISID"
@@ -74,7 +74,7 @@
   {
     "title": "Denoとはなにか - 実際につかってみる",
     "url": "https://qiita.com/azukiazusa/items/8238c0c68ed525377883",
-    "likes_count": 1103,
+    "likes_count": 1104,
     "created_at": "2020-05-19T21:11:48+09:00",
     "updated_at": "2021-03-07T17:09:36+09:00",
     "id": "azukiazusa"
@@ -128,6 +128,14 @@
     "id": "zawawahoge"
   },
   {
+    "title": "React.memo / useCallback / useMemo の使い方、使い所を理解してパフォーマンス最適化をする",
+    "url": "https://qiita.com/soarflat/items/b9d3d17b8ab1f5dbfed2",
+    "likes_count": 813,
+    "created_at": "2020-05-25T00:01:22+09:00",
+    "updated_at": "2022-03-10T20:15:37+09:00",
+    "id": "soarflat"
+  },
+  {
     "title": "WSL2によるホストのメモリ枯渇を防ぐための暫定対処",
     "url": "https://qiita.com/yoichiwo7/items/e3e13b6fe2f32c4c6120",
     "likes_count": 813,
@@ -136,17 +144,9 @@
     "id": "yoichiwo7"
   },
   {
-    "title": "React.memo / useCallback / useMemo の使い方、使い所を理解してパフォーマンス最適化をする",
-    "url": "https://qiita.com/soarflat/items/b9d3d17b8ab1f5dbfed2",
-    "likes_count": 812,
-    "created_at": "2020-05-25T00:01:22+09:00",
-    "updated_at": "2022-03-10T20:15:37+09:00",
-    "id": "soarflat"
-  },
-  {
     "title": "もうこれでVIM学習は最後にしよう！ VIMチュートリアルと入門",
     "url": "https://qiita.com/baby-degu/items/9b6b275b72c37a02001c",
-    "likes_count": 793,
+    "likes_count": 794,
     "created_at": "2020-05-10T20:03:30+09:00",
     "updated_at": "2020-06-06T19:50:29+09:00",
     "id": "baby-degu"

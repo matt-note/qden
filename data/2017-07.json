@@ -18,7 +18,7 @@
   {
     "title": "一番分かりやすい OpenID Connect の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe",
-    "likes_count": 2294,
+    "likes_count": 2295,
     "created_at": "2017-07-24T04:19:55+09:00",
     "updated_at": "2020-03-20T15:05:48+09:00",
     "id": "TakahikoKawasaki"
@@ -42,7 +42,7 @@
   {
     "title": "JavaScript の this を理解する多分一番分かりやすい説明",
     "url": "https://qiita.com/takkyun/items/c6e2f2cf25327299cf03",
-    "likes_count": 1374,
+    "likes_count": 1375,
     "created_at": "2017-07-30T06:55:45+09:00",
     "updated_at": "2018-10-15T04:31:34+09:00",
     "id": "takkyun"
@@ -50,7 +50,7 @@
   {
     "title": "Variational Autoencoder徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24",
-    "likes_count": 1206,
+    "likes_count": 1207,
     "created_at": "2017-07-19T10:09:26+09:00",
     "updated_at": "2017-08-01T22:14:22+09:00",
     "id": "kenmatsu4"
@@ -82,7 +82,7 @@
   {
     "title": "LINEのBot開発 超入門（前編） ゼロから応答ができるまで",
     "url": "https://qiita.com/nkjm/items/38808bbc97d6927837cd",
-    "likes_count": 768,
+    "likes_count": 769,
     "created_at": "2017-07-10T10:26:31+09:00",
     "updated_at": "2019-02-22T08:13:44+09:00",
     "id": "nkjm"
@@ -90,7 +90,7 @@
   {
     "title": "【これだけ覚えてたらOK！】SQL構文まとめ",
     "url": "https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd",
-    "likes_count": 748,
+    "likes_count": 749,
     "created_at": "2017-07-05T21:25:24+09:00",
     "updated_at": "2020-11-07T11:02:57+09:00",
     "id": "tatsuya4150"
@@ -154,7 +154,7 @@
   {
     "title": "【gitコマンド】いまさらのrevert",
     "url": "https://qiita.com/chihiro/items/2fa827d0eac98109e7ee",
-    "likes_count": 557,
+    "likes_count": 559,
     "created_at": "2017-07-13T08:45:54+09:00",
     "updated_at": "2019-04-30T10:49:39+09:00",
     "id": "chihiro"
@@ -298,10 +298,18 @@
   {
     "title": "【学習メモ】LinuxCUI初心者が早く知りたかったコマンド(操作も)",
     "url": "https://qiita.com/Hige-Moja/items/44bbfb14868816169978",
-    "likes_count": 362,
+    "likes_count": 361,
     "created_at": "2017-07-28T16:31:42+09:00",
     "updated_at": "2018-09-13T10:55:47+09:00",
     "id": "Hige-Moja"
+  },
+  {
+    "title": "Bash の if 文（test文）のオプションを整理してみた",
+    "url": "https://qiita.com/wakayama-y/items/a9b7380263da77e51711",
+    "likes_count": 358,
+    "created_at": "2017-07-12T18:50:28+09:00",
+    "updated_at": "2017-07-13T20:29:22+09:00",
+    "id": "wakayama-y"
   },
   {
     "title": "Node.js Stream を使いこなす",
@@ -310,14 +318,6 @@
     "created_at": "2017-07-19T12:16:47+09:00",
     "updated_at": "2018-11-23T11:26:47+09:00",
     "id": "masakura"
-  },
-  {
-    "title": "Bash の if 文（test文）のオプションを整理してみた",
-    "url": "https://qiita.com/wakayama-y/items/a9b7380263da77e51711",
-    "likes_count": 357,
-    "created_at": "2017-07-12T18:50:28+09:00",
-    "updated_at": "2017-07-13T20:29:22+09:00",
-    "id": "wakayama-y"
   },
   {
     "title": "Python datetime 日付の計算、文字列変換をする方法 strftime, strptime【決定版】",
