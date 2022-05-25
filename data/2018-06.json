@@ -18,7 +18,7 @@
   {
     "title": "平成の次の元号を、AIだけで決めさせる物語",
     "url": "https://qiita.com/youwht/items/0b204c3575c94fc786b8",
-    "likes_count": 1556,
+    "likes_count": 1557,
     "created_at": "2018-06-03T15:26:51+09:00",
     "updated_at": "2018-06-03T15:26:51+09:00",
     "id": "youwht"
@@ -130,7 +130,7 @@
   {
     "title": "グラフ理論の基礎",
     "url": "https://qiita.com/maskot1977/items/e1819b7a1053eb9f7d61",
-    "likes_count": 863,
+    "likes_count": 862,
     "created_at": "2018-06-17T11:13:44+09:00",
     "updated_at": "2020-12-18T11:25:46+09:00",
     "id": "maskot1977"
@@ -138,7 +138,7 @@
   {
     "title": "Railsで超簡単API",
     "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 825,
+    "likes_count": 826,
     "created_at": "2018-06-27T16:46:37+09:00",
     "updated_at": "2020-02-24T14:01:49+09:00",
     "id": "k-penguin-sato"
@@ -322,7 +322,7 @@
   {
     "title": "脆弱性の警告を受けたnpmパッケージの依存関係を力技で直す",
     "url": "https://qiita.com/hibikikudo/items/0af352acac85fce28ec2",
-    "likes_count": 446,
+    "likes_count": 447,
     "created_at": "2018-06-18T16:45:59+09:00",
     "updated_at": "2018-12-17T17:47:00+09:00",
     "id": "hibikikudo"
@@ -330,7 +330,7 @@
   {
     "title": "画像の保存を禁止する方法とその回避方法",
     "url": "https://qiita.com/shisama/items/be0e432711de359598ed",
-    "likes_count": 442,
+    "likes_count": 443,
     "created_at": "2018-06-26T01:40:58+09:00",
     "updated_at": "2018-06-26T01:40:58+09:00",
     "id": "shisama"
@@ -392,6 +392,14 @@
     "id": "yoda2020"
   },
   {
+    "title": "統計検定2級のためのチートシート",
+    "url": "https://qiita.com/akiyoshi_sasaki/items/c81032c1683f69ff9d11",
+    "likes_count": 365,
+    "created_at": "2018-06-12T20:14:50+09:00",
+    "updated_at": "2022-03-18T10:26:47+09:00",
+    "id": "akiyoshi_sasaki"
+  },
+  {
     "title": "Reactのデザインパターン Compound Components",
     "url": "https://qiita.com/seya/items/d08b8a6c12f3e71d5971",
     "likes_count": 365,
@@ -400,17 +408,9 @@
     "id": "seya"
   },
   {
-    "title": "統計検定2級のためのチートシート",
-    "url": "https://qiita.com/akiyoshi_sasaki/items/c81032c1683f69ff9d11",
-    "likes_count": 364,
-    "created_at": "2018-06-12T20:14:50+09:00",
-    "updated_at": "2022-03-18T10:26:47+09:00",
-    "id": "akiyoshi_sasaki"
-  },
-  {
     "title": "貰う DP と配る DP、メモ化再帰、個数制限なしナップサック問題",
     "url": "https://qiita.com/drken/items/ace3142967c4f01d42e9",
-    "likes_count": 359,
+    "likes_count": 358,
     "created_at": "2018-06-12T17:17:40+09:00",
     "updated_at": "2020-01-27T14:42:26+09:00",
     "id": "drken"
@@ -484,7 +484,7 @@
     "url": "https://qiita.com/kaizen_nagoya/items/46f2333c2647b0e692b2",
     "likes_count": 336,
     "created_at": "2018-06-30T19:35:42+09:00",
-    "updated_at": "2021-10-25T19:05:58+09:00",
+    "updated_at": "2022-05-25T23:55:39+09:00",
     "id": "kaizen_nagoya"
   },
   {
@@ -602,7 +602,7 @@
   {
     "title": "Docker初心者が、Nginxのログを fluentd + elasticsearch + kibana で可視化してみた",
     "url": "https://qiita.com/zgmf_mbfp03/items/0697cc827efa89e5d93e",
-    "likes_count": 224,
+    "likes_count": 225,
     "created_at": "2018-06-10T02:19:29+09:00",
     "updated_at": "2018-12-27T11:05:04+09:00",
     "id": "zgmf_mbfp03"
