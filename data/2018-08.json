@@ -50,7 +50,7 @@
   {
     "title": "JavaScriptを言語仕様から把握し、ライブラリに振り回されない漢を目指す人に贈るJavaScriptの基礎",
     "url": "https://qiita.com/hakozaru/items/c00e472ab0f5e823098c",
-    "likes_count": 1448,
+    "likes_count": 1447,
     "created_at": "2018-08-22T11:15:53+09:00",
     "updated_at": "2018-12-17T12:42:32+09:00",
     "id": "hakozaru"
@@ -66,7 +66,7 @@
   {
     "title": "モダンなJava開発ガイド (2018年版)",
     "url": "https://qiita.com/yoichiwo7/items/17190cb440ab7d253cea",
-    "likes_count": 1213,
+    "likes_count": 1212,
     "created_at": "2018-08-24T17:07:24+09:00",
     "updated_at": "2018-09-01T14:34:53+09:00",
     "id": "yoichiwo7"
@@ -74,7 +74,7 @@
   {
     "title": "ぼくたちのかんがえたさいきょうのi18n国家",
     "url": "https://qiita.com/yugui/items/55f2529c5a731badeff7",
-    "likes_count": 1195,
+    "likes_count": 1196,
     "created_at": "2018-08-06T23:39:54+09:00",
     "updated_at": "2018-08-14T17:36:37+09:00",
     "id": "yugui"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptのpreventDefault()って難しくない？preventDefault()を使うための前提知識",
     "url": "https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae",
-    "likes_count": 871,
+    "likes_count": 872,
     "created_at": "2018-08-19T23:18:15+09:00",
     "updated_at": "2021-05-15T17:37:16+09:00",
     "id": "tochiji"
@@ -162,7 +162,7 @@
   {
     "title": "JavaScript おじさんが教える本当の Modern JavaScript 入門 1",
     "url": "https://qiita.com/superyusuke/items/948d2a084f87eaa3f9c2",
-    "likes_count": 584,
+    "likes_count": 583,
     "created_at": "2018-08-22T17:50:40+09:00",
     "updated_at": "2019-01-08T04:50:51+09:00",
     "id": "superyusuke"
@@ -186,7 +186,7 @@
   {
     "title": "JavaScript 正規表現まとめ",
     "url": "https://qiita.com/iLLviA/items/b6bf680cd2408edd050f",
-    "likes_count": 534,
+    "likes_count": 535,
     "created_at": "2018-08-17T08:19:03+09:00",
     "updated_at": "2018-08-19T17:12:43+09:00",
     "id": "iLLviA"
@@ -194,7 +194,7 @@
   {
     "title": "ちゃんと理解するCode Splitting",
     "url": "https://qiita.com/seya/items/06b160adb7801ae9e66f",
-    "likes_count": 529,
+    "likes_count": 528,
     "created_at": "2018-08-06T07:59:37+09:00",
     "updated_at": "2018-08-06T07:59:37+09:00",
     "id": "seya"
@@ -234,7 +234,7 @@
   {
     "title": "DockerfileのCMDとENTRYPOINTを改めて解説する",
     "url": "https://qiita.com/uehaj/items/e6dd013e28593c26372d",
-    "likes_count": 484,
+    "likes_count": 483,
     "created_at": "2018-08-14T13:46:59+09:00",
     "updated_at": "2020-02-28T11:08:50+09:00",
     "id": "uehaj"
@@ -274,7 +274,7 @@
   {
     "title": "マサコの知らない自作キーボードの世界",
     "url": "https://qiita.com/sirojake/items/8c60148c03c248fc6a6e",
-    "likes_count": 457,
+    "likes_count": 456,
     "created_at": "2018-08-22T10:26:09+09:00",
     "updated_at": "2020-11-06T01:25:19+09:00",
     "id": "sirojake"
@@ -322,7 +322,7 @@
   {
     "title": "React Native をプロダクションで使ってわかった良かった点・悪かった点",
     "url": "https://qiita.com/nakanishy/items/9b8bb8fe5bee6a6c677b",
-    "likes_count": 410,
+    "likes_count": 409,
     "created_at": "2018-08-24T11:01:19+09:00",
     "updated_at": "2018-08-24T13:55:08+09:00",
     "id": "nakanishy"
@@ -360,20 +360,20 @@
     "id": "kiyodori"
   },
   {
-    "title": "AWS FargateとTerraformで最強＆簡単なインフラ環境を目指す",
-    "url": "https://qiita.com/tarumzu/items/2d7ed918f230fea957e8",
-    "likes_count": 384,
-    "created_at": "2018-08-16T00:42:24+09:00",
-    "updated_at": "2020-04-14T23:23:26+09:00",
-    "id": "tarumzu"
-  },
-  {
     "title": "[作業効率化] Jupyterの拡張機能を全部調べてみた",
     "url": "https://qiita.com/simonritchie/items/88161c806197a0b84174",
     "likes_count": 383,
     "created_at": "2018-08-13T00:31:47+09:00",
     "updated_at": "2020-05-08T20:19:40+09:00",
     "id": "simonritchie"
+  },
+  {
+    "title": "AWS FargateとTerraformで最強＆簡単なインフラ環境を目指す",
+    "url": "https://qiita.com/tarumzu/items/2d7ed918f230fea957e8",
+    "likes_count": 383,
+    "created_at": "2018-08-16T00:42:24+09:00",
+    "updated_at": "2020-04-14T23:23:26+09:00",
+    "id": "tarumzu"
   },
   {
     "title": "[初学者]Railsのi18nによる日本語化対応",
