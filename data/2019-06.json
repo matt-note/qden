@@ -2,7 +2,7 @@
   {
     "title": "見たいエンジニアの職務経歴書の書き方",
     "url": "https://qiita.com/newta/items/77eb14b1d67bc7ef1980",
-    "likes_count": 2324,
+    "likes_count": 2325,
     "created_at": "2019-06-11T09:52:46+09:00",
     "updated_at": "2021-12-15T10:11:01+09:00",
     "id": "newta"
@@ -42,7 +42,7 @@
   {
     "title": "【初心者向け】NPMとpackage.jsonを概念的に理解する",
     "url": "https://qiita.com/righteous/items/e5448cb2e7e11ab7d477",
-    "likes_count": 1507,
+    "likes_count": 1508,
     "created_at": "2019-06-25T02:06:43+09:00",
     "updated_at": "2020-03-11T19:05:53+09:00",
     "id": "righteous"
@@ -234,7 +234,7 @@
   {
     "title": "細かすぎて伝わりにくい、Pythonの本当の落とし穴10選＋α",
     "url": "https://qiita.com/kwatch/items/525b0f85812c7be7c74c",
-    "likes_count": 548,
+    "likes_count": 549,
     "created_at": "2019-06-15T22:22:13+09:00",
     "updated_at": "2021-02-17T15:07:08+09:00",
     "id": "kwatch"
@@ -306,7 +306,7 @@
   {
     "title": "FirebaseだけでiOS版マッチングアプリ「Rose Me」をリリースするまでの話",
     "url": "https://qiita.com/koyataro/items/eeb2e81d9f0713f404dc",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2019-06-22T11:25:33+09:00",
     "updated_at": "2019-06-22T11:25:33+09:00",
     "id": "koyataro"
@@ -338,10 +338,18 @@
   {
     "title": "will-changeで目指す60fpsのぬるぬるCSSアニメーション",
     "url": "https://qiita.com/yuneco/items/f07d60ab21dd1de9a51d",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2019-06-09T22:27:07+09:00",
     "updated_at": "2020-08-16T19:50:05+09:00",
     "id": "yuneco"
+  },
+  {
+    "title": "ワイ「ありゃ、SCSSの親セレクタが効かへんで？」について",
+    "url": "https://qiita.com/Yametaro/items/1ded9a23741bc80a7422",
+    "likes_count": 454,
+    "created_at": "2019-06-02T00:00:34+09:00",
+    "updated_at": "2019-06-03T00:02:23+09:00",
+    "id": "Yametaro"
   },
   {
     "title": "かわいい3Dエンジン「Zdog」の紹介",
@@ -350,14 +358,6 @@
     "created_at": "2019-06-25T16:07:25+09:00",
     "updated_at": "2019-06-25T17:56:03+09:00",
     "id": "sushidesu"
-  },
-  {
-    "title": "ワイ「ありゃ、SCSSの親セレクタが効かへんで？」について",
-    "url": "https://qiita.com/Yametaro/items/1ded9a23741bc80a7422",
-    "likes_count": 453,
-    "created_at": "2019-06-02T00:00:34+09:00",
-    "updated_at": "2019-06-03T00:02:23+09:00",
-    "id": "Yametaro"
   },
   {
     "title": "知っておく価値のある珍しいHTMLタグ",
@@ -546,10 +546,18 @@
   {
     "title": "【Material-UI】必ず設定しておきたいTheme項目",
     "url": "https://qiita.com/tag1216/items/2935c9979b857bb7701f",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2019-06-17T08:19:31+09:00",
     "updated_at": "2019-06-17T08:19:31+09:00",
     "id": "tag1216"
+  },
+  {
+    "title": "2019/06/04 『体系的に学ぶ安全なWebアプリケーションの作り方第2版 脆弱性が生まれる原理と対策の実践』応用講座 (徳丸本応用講座)",
+    "url": "https://qiita.com/rana_kualu/items/f7155fa63180aee3579a",
+    "likes_count": 259,
+    "created_at": "2019-06-05T20:55:32+09:00",
+    "updated_at": "2019-06-11T19:40:36+09:00",
+    "id": "rana_kualu"
   },
   {
     "title": "Pythonデータ分析手順のカンニングシート（仮）",
@@ -558,14 +566,6 @@
     "created_at": "2019-06-20T00:08:41+09:00",
     "updated_at": "2021-06-19T09:57:55+09:00",
     "id": "kakiuchis"
-  },
-  {
-    "title": "2019/06/04 『体系的に学ぶ安全なWebアプリケーションの作り方第2版 脆弱性が生まれる原理と対策の実践』応用講座 (徳丸本応用講座)",
-    "url": "https://qiita.com/rana_kualu/items/f7155fa63180aee3579a",
-    "likes_count": 258,
-    "created_at": "2019-06-05T20:55:32+09:00",
-    "updated_at": "2019-06-11T19:40:36+09:00",
-    "id": "rana_kualu"
   },
   {
     "title": "Django逆引きチートシート（QuerySet編）",

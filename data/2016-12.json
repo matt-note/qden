@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 5117,
+    "likes_count": 5118,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -58,7 +58,7 @@
   {
     "title": "GraphQL入門 - 使いたくなるGraphQL",
     "url": "https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad",
-    "likes_count": 1433,
+    "likes_count": 1434,
     "created_at": "2016-12-24T23:11:26+09:00",
     "updated_at": "2017-11-14T20:40:32+09:00",
     "id": "bananaumai"
@@ -130,7 +130,7 @@
   {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 1008,
+    "likes_count": 1009,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
@@ -234,7 +234,7 @@
   {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
-    "likes_count": 689,
+    "likes_count": 690,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
@@ -290,7 +290,7 @@
   {
     "title": "難しいGitコマンドは、仕組みから理解してみよう",
     "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
-    "likes_count": 641,
+    "likes_count": 642,
     "created_at": "2016-12-22T00:02:20+09:00",
     "updated_at": "2018-11-13T23:20:28+09:00",
     "id": "_ha1f"
@@ -498,7 +498,7 @@
   {
     "title": "12800円で自宅や小規模オフィスのネットワークセキュリティ監視環境を構築する",
     "url": "https://qiita.com/m_mizutani/items/dc9988daab24050eb5a2",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2016-12-29T15:07:33+09:00",
     "updated_at": "2017-01-11T12:00:23+09:00",
     "id": "m_mizutani"
@@ -506,7 +506,7 @@
   {
     "title": "機械学習モデルの実装における、テストについて",
     "url": "https://qiita.com/icoxfog417/items/67764a6756c4548b5fb8",
-    "likes_count": 428,
+    "likes_count": 429,
     "created_at": "2016-12-15T09:21:15+09:00",
     "updated_at": "2017-06-27T09:58:48+09:00",
     "id": "icoxfog417"
@@ -696,20 +696,20 @@
     "id": "_ha1f"
   },
   {
+    "title": "PHP でどのように Exception/RuntimeException/LogicException を使い分けるか",
+    "url": "https://qiita.com/tanakahisateru/items/e3e24f3825c4ba0c60e6",
+    "likes_count": 301,
+    "created_at": "2016-12-05T14:56:55+09:00",
+    "updated_at": "2016-12-08T21:15:38+09:00",
+    "id": "tanakahisateru"
+  },
+  {
     "title": "Docker & Docker-Composeの基本的な使い方",
     "url": "https://qiita.com/koka/items/3d3d4ee5680f92a0ad89",
     "likes_count": 300,
     "created_at": "2016-12-05T00:10:58+09:00",
     "updated_at": "2016-12-05T00:13:22+09:00",
     "id": "koka"
-  },
-  {
-    "title": "PHP でどのように Exception/RuntimeException/LogicException を使い分けるか",
-    "url": "https://qiita.com/tanakahisateru/items/e3e24f3825c4ba0c60e6",
-    "likes_count": 300,
-    "created_at": "2016-12-05T14:56:55+09:00",
-    "updated_at": "2016-12-08T21:15:38+09:00",
-    "id": "tanakahisateru"
   },
   {
     "title": "【React Native】良さげなコンポーネント紹介",
