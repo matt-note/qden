@@ -26,7 +26,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2225,
+    "likes_count": 2226,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -322,7 +322,7 @@
   {
     "title": "ベイズ最適化入門",
     "url": "https://qiita.com/masasora/items/cc2f10cb79f8c0a6bbaa",
-    "likes_count": 474,
+    "likes_count": 475,
     "created_at": "2016-04-02T18:43:05+09:00",
     "updated_at": "2016-07-24T12:27:11+09:00",
     "id": "masasora"
@@ -464,6 +464,14 @@
     "id": "deaf_tadashi"
   },
   {
+    "title": "オンラインでプログラミングして実行できるサイト",
+    "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
+    "likes_count": 377,
+    "created_at": "2016-04-28T08:59:43+09:00",
+    "updated_at": "2021-09-28T18:34:17+09:00",
+    "id": "tttamaki"
+  },
+  {
     "title": "XGBoostの主な特徴と理論の概要",
     "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
     "likes_count": 376,
@@ -478,14 +486,6 @@
     "created_at": "2016-04-16T21:46:55+09:00",
     "updated_at": "2016-10-07T15:52:53+09:00",
     "id": "arashida"
-  },
-  {
-    "title": "オンラインでプログラミングして実行できるサイト",
-    "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
-    "likes_count": 376,
-    "created_at": "2016-04-28T08:59:43+09:00",
-    "updated_at": "2021-09-28T18:34:17+09:00",
-    "id": "tttamaki"
   },
   {
     "title": "Amazon Cognito User Poolsを使って、webサイトにユーザ認証基盤を作る",
@@ -514,7 +514,7 @@
   {
     "title": "Java Stream APIをいまさら入門",
     "url": "https://qiita.com/takumi-n/items/369dd3fcb9ccb8fcfa44",
-    "likes_count": 363,
+    "likes_count": 364,
     "created_at": "2016-04-01T00:38:36+09:00",
     "updated_at": "2021-03-15T16:51:00+09:00",
     "id": "takumi-n"
@@ -626,7 +626,7 @@
   {
     "title": "SQLでグループごとにある最大値の行を取得する",
     "url": "https://qiita.com/nogitsune413/items/f413268d01b4ea2394b1",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2016-04-03T14:18:11+09:00",
     "updated_at": "2018-03-26T20:55:38+09:00",
     "id": "nogitsune413"
@@ -634,7 +634,7 @@
   {
     "title": "今日から始められるリファクタリング10選 (1)",
     "url": "https://qiita.com/nunulk/items/2323b0c30a2cbe5fdb0c",
-    "likes_count": 294,
+    "likes_count": 295,
     "created_at": "2016-04-27T22:35:47+09:00",
     "updated_at": "2016-04-29T13:03:28+09:00",
     "id": "nunulk"
