@@ -10,7 +10,7 @@
   {
     "title": "ウェブアプリをソースごとパクる業者に対する対策",
     "url": "https://qiita.com/kacchan6/items/d8576ab6b3c16cf670ca",
-    "likes_count": 1421,
+    "likes_count": 1420,
     "created_at": "2017-11-11T11:06:01+09:00",
     "updated_at": "2017-12-03T23:13:45+09:00",
     "id": "kacchan6"
@@ -34,7 +34,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 1015,
+    "likes_count": 1017,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2022-02-17T11:09:47+09:00",
     "id": "fuwamaki"
@@ -42,7 +42,7 @@
   {
     "title": "Gitコマンド早見表",
     "url": "https://qiita.com/kohga/items/dccf135b0af395f69144",
-    "likes_count": 997,
+    "likes_count": 998,
     "created_at": "2017-11-10T07:44:03+09:00",
     "updated_at": "2019-03-24T19:11:17+09:00",
     "id": "kohga"
@@ -154,7 +154,7 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 597,
+    "likes_count": 598,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
@@ -162,7 +162,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 594,
+    "likes_count": 595,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -298,18 +298,10 @@
   {
     "title": "Istio入門 その1 -Istioとは?-",
     "url": "https://qiita.com/Ladicle/items/979d59ef0303425752c8",
-    "likes_count": 432,
+    "likes_count": 433,
     "created_at": "2017-11-27T00:06:48+09:00",
     "updated_at": "2019-02-25T22:43:07+09:00",
     "id": "Ladicle"
-  },
-  {
-    "title": "【React Native入門】Java Scriptでアプリ作ろう【Reactやったことない人向け】１",
-    "url": "https://qiita.com/YutamaKotaro/items/dd7846c6db15e2307daa",
-    "likes_count": 414,
-    "created_at": "2017-11-19T15:58:50+09:00",
-    "updated_at": "2018-10-16T16:46:41+09:00",
-    "id": "YutamaKotaro"
   },
   {
     "title": "次世代Headless CMS「contentful」事始め",
@@ -318,6 +310,14 @@
     "created_at": "2017-11-27T00:53:47+09:00",
     "updated_at": "2019-07-03T19:41:37+09:00",
     "id": "daikiojm"
+  },
+  {
+    "title": "【React Native入門】Java Scriptでアプリ作ろう【Reactやったことない人向け】１",
+    "url": "https://qiita.com/YutamaKotaro/items/dd7846c6db15e2307daa",
+    "likes_count": 413,
+    "created_at": "2017-11-19T15:58:50+09:00",
+    "updated_at": "2018-10-16T16:46:41+09:00",
+    "id": "YutamaKotaro"
   },
   {
     "title": "Webセキュリティ覚書 : \"攻撃\" 編 [ 初学者向け ]",
@@ -386,7 +386,7 @@
   {
     "title": "C# 今更ですが、await / async",
     "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2017-11-30T18:32:10+09:00",
     "updated_at": "2017-12-11T10:31:16+09:00",
     "id": "rawr"
@@ -410,7 +410,7 @@
   {
     "title": "Kotlin の Coroutine を概観する",
     "url": "https://qiita.com/kawmra/items/ee4acb7db61f70dec9a8",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2017-11-17T01:51:39+09:00",
     "updated_at": "2019-03-01T15:28:43+09:00",
     "id": "kawmra"
@@ -418,7 +418,7 @@
   {
     "title": "OAuth 2.0/OpenID Connectの2つのトークンの使いみち",
     "url": "https://qiita.com/wadahiro/items/ad36c7932c6627149873",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2017-11-24T17:55:45+09:00",
     "updated_at": "2018-04-16T15:25:55+09:00",
     "id": "wadahiro"

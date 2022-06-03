@@ -34,7 +34,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1425,
+    "likes_count": 1426,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1293,
+    "likes_count": 1294,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -202,7 +202,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 791,
+    "likes_count": 792,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -330,7 +330,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 597,
+    "likes_count": 598,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -492,7 +492,7 @@
     "url": "https://qiita.com/soarflat/items/3e43368b2d767c730781",
     "likes_count": 441,
     "created_at": "2017-12-10T13:28:47+09:00",
-    "updated_at": "2022-03-10T20:18:40+09:00",
+    "updated_at": "2022-06-03T13:40:22+09:00",
     "id": "soarflat"
   },
   {
@@ -624,20 +624,20 @@
     "id": "jirokun"
   },
   {
+    "title": "C++をこれから勉強する人のための道しるべ（C++03）",
+    "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
+    "likes_count": 360,
+    "created_at": "2017-12-18T20:08:38+09:00",
+    "updated_at": "2019-04-17T15:10:58+09:00",
+    "id": "borerere"
+  },
+  {
     "title": "WebRTCでビデオチャットアプリを作ってみた！",
     "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
     "likes_count": 360,
     "created_at": "2017-12-21T21:30:58+09:00",
     "updated_at": "2019-01-06T14:01:57+09:00",
     "id": "lighthouse"
-  },
-  {
-    "title": "C++をこれから勉強する人のための道しるべ（C++03）",
-    "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
-    "likes_count": 359,
-    "created_at": "2017-12-18T20:08:38+09:00",
-    "updated_at": "2019-04-17T15:10:58+09:00",
-    "id": "borerere"
   },
   {
     "title": "t-SNEによるイケてる次元圧縮&可視化",
@@ -656,20 +656,20 @@
     "id": "sekikawa_a"
   },
   {
+    "title": "Django マイグレーション まとめ",
+    "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
+    "likes_count": 344,
+    "created_at": "2017-12-08T16:08:01+09:00",
+    "updated_at": "2017-12-08T16:26:33+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "Kaggleの練習問題（Regression）を解いてKagglerになる",
     "url": "https://qiita.com/katsu1110/items/a1c3185fec39e5629bcb",
     "likes_count": 344,
     "created_at": "2017-12-15T08:47:16+09:00",
     "updated_at": "2019-06-27T18:00:30+09:00",
     "id": "katsu1110"
-  },
-  {
-    "title": "Django マイグレーション まとめ",
-    "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 343,
-    "created_at": "2017-12-08T16:08:01+09:00",
-    "updated_at": "2017-12-08T16:26:33+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "会議/ミーティングについて本気出して考えて見た結果",
@@ -682,7 +682,7 @@
   {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
     "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 340,
+    "likes_count": 341,
     "created_at": "2017-12-13T01:29:31+09:00",
     "updated_at": "2018-08-25T11:45:30+09:00",
     "id": "h1kita"

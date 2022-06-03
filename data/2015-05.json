@@ -10,7 +10,7 @@
   {
     "title": "GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~",
     "url": "https://qiita.com/shizuma/items/2b2f873a0034839e47ce",
-    "likes_count": 3409,
+    "likes_count": 3411,
     "created_at": "2015-05-29T01:14:20+09:00",
     "updated_at": "2018-12-05T11:19:05+09:00",
     "id": "shizuma"
@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 3132,
+    "likes_count": 3133,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2021-08-13T09:17:22+09:00",
     "id": "suin"
@@ -98,7 +98,7 @@
   {
     "title": "【bat】Windowsのバッチファイル(*.bat)の書き方自分用まとめ",
     "url": "https://qiita.com/sksmnagisa/items/8c4c1788af44cc1dc63a",
-    "likes_count": 1199,
+    "likes_count": 1208,
     "created_at": "2015-05-14T20:42:49+09:00",
     "updated_at": "2016-11-28T14:38:21+09:00",
     "id": "sksmnagisa"
@@ -202,7 +202,7 @@
   {
     "title": "カーディナリティについてまとめてみた",
     "url": "https://qiita.com/soyanchu/items/034be19a2e3cb87b2efb",
-    "likes_count": 680,
+    "likes_count": 681,
     "created_at": "2015-05-12T11:48:17+09:00",
     "updated_at": "2015-05-12T11:48:17+09:00",
     "id": "soyanchu"
@@ -488,6 +488,14 @@
     "id": "pugiemonn"
   },
   {
+    "title": "良いプログラマとは、僕が今思っていることをまとめてみた",
+    "url": "https://qiita.com/zaru/items/3da2b90b066ec69ab9e9",
+    "likes_count": 333,
+    "created_at": "2015-05-01T09:28:26+09:00",
+    "updated_at": "2015-05-01T13:00:04+09:00",
+    "id": "zaru"
+  },
+  {
     "title": "Webエンジニアが組み込みプログラミングをすることになったときに知っておきたかったC言語の知識",
     "url": "https://qiita.com/kazuph/items/4b6f0856c555242f3fd5",
     "likes_count": 333,
@@ -496,17 +504,9 @@
     "id": "kazuph"
   },
   {
-    "title": "良いプログラマとは、僕が今思っていることをまとめてみた",
-    "url": "https://qiita.com/zaru/items/3da2b90b066ec69ab9e9",
-    "likes_count": 332,
-    "created_at": "2015-05-01T09:28:26+09:00",
-    "updated_at": "2015-05-01T13:00:04+09:00",
-    "id": "zaru"
-  },
-  {
     "title": "Javaの検査例外は、呼び出し側で「どんなに注意しても防げない」異常系",
     "url": "https://qiita.com/yuba/items/d41290eca726559cd743",
-    "likes_count": 324,
+    "likes_count": 325,
     "created_at": "2015-05-13T23:06:36+09:00",
     "updated_at": "2019-02-20T12:29:33+09:00",
     "id": "yuba"
@@ -578,7 +578,7 @@
   {
     "title": "React.js + Babel + Browserify + gulp の環境を作ってみた",
     "url": "https://qiita.com/hkusu/items/e068bba0ae036b447754",
-    "likes_count": 284,
+    "likes_count": 283,
     "created_at": "2015-05-27T15:14:12+09:00",
     "updated_at": "2015-05-29T15:56:34+09:00",
     "id": "hkusu"
