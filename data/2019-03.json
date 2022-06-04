@@ -162,7 +162,7 @@
   {
     "title": "牛乳卵問題に学ぶ、`要望` と `要件定義` と `設計` と `実装` の違い",
     "url": "https://qiita.com/taruhachi/items/b8d71dd1a53768265bdc",
-    "likes_count": 871,
+    "likes_count": 870,
     "created_at": "2019-03-04T10:11:33+09:00",
     "updated_at": "2019-03-04T20:41:30+09:00",
     "id": "taruhachi"
@@ -274,7 +274,7 @@
   {
     "title": "GoFのデザインパターンまとめ",
     "url": "https://qiita.com/i-tanaka730/items/c63c6c22abd1477e0ba0",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2019-03-28T11:27:34+09:00",
     "updated_at": "2021-01-22T14:38:27+09:00",
     "id": "i-tanaka730"
@@ -354,10 +354,18 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"
+  },
+  {
+    "title": "【入門者向け】機械学習の分類問題評価指標解説(正解率・適合率・再現率など)",
+    "url": "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "likes_count": 470,
+    "created_at": "2019-03-01T06:19:45+09:00",
+    "updated_at": "2022-05-18T10:01:00+09:00",
+    "id": "FukuharaYohei"
   },
   {
     "title": "Emacsモダン化計画 -かわEmacs編-",
@@ -368,17 +376,9 @@
     "id": "Ladicle"
   },
   {
-    "title": "【入門者向け】機械学習の分類問題評価指標解説(正解率・適合率・再現率など)",
-    "url": "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "likes_count": 468,
-    "created_at": "2019-03-01T06:19:45+09:00",
-    "updated_at": "2022-05-18T10:01:00+09:00",
-    "id": "FukuharaYohei"
-  },
-  {
     "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
     "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
-    "likes_count": 468,
+    "likes_count": 469,
     "created_at": "2019-03-21T16:54:22+09:00",
     "updated_at": "2019-03-21T16:54:59+09:00",
     "id": "1ain2"
@@ -394,7 +394,7 @@
   {
     "title": "Visual studio codeで競プロ環境構築[mac OS]",
     "url": "https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6",
-    "likes_count": 459,
+    "likes_count": 460,
     "created_at": "2019-03-17T19:46:00+09:00",
     "updated_at": "2020-12-04T23:50:28+09:00",
     "id": "EngTks"
