@@ -82,18 +82,10 @@
   {
     "title": "どんなエディタでもEditorConfigを使ってコードの統一性を高める",
     "url": "https://qiita.com/naru0504/items/82f09881abaf3f4dc171",
-    "likes_count": 817,
+    "likes_count": 816,
     "created_at": "2015-08-20T16:12:23+09:00",
     "updated_at": "2019-04-12T13:49:11+09:00",
     "id": "naru0504"
-  },
-  {
-    "title": "JavaScript の イテレータ を極める！",
-    "url": "https://qiita.com/kura07/items/cf168a7ea20e8c2554c6",
-    "likes_count": 812,
-    "created_at": "2015-08-16T20:51:50+09:00",
-    "updated_at": "2017-03-14T00:53:13+09:00",
-    "id": "kura07"
   },
   {
     "title": "YAPC Asia 2015「Google Cloud Platformの謎テクノロジーを掘り下げる」のまとめ",
@@ -102,6 +94,14 @@
     "created_at": "2015-08-26T09:03:57+09:00",
     "updated_at": "2015-09-02T23:30:38+09:00",
     "id": "kazunori279"
+  },
+  {
+    "title": "JavaScript の イテレータ を極める！",
+    "url": "https://qiita.com/kura07/items/cf168a7ea20e8c2554c6",
+    "likes_count": 811,
+    "created_at": "2015-08-16T20:51:50+09:00",
+    "updated_at": "2017-03-14T00:53:13+09:00",
+    "id": "kura07"
   },
   {
     "title": "package.json のチルダ(~) とキャレット(^)",
@@ -122,7 +122,7 @@
   {
     "title": "JavaScript の ジェネレータ を極める！",
     "url": "https://qiita.com/kura07/items/d1a57ea64ef5c3de8528",
-    "likes_count": 707,
+    "likes_count": 706,
     "created_at": "2015-08-16T20:52:05+09:00",
     "updated_at": "2017-03-14T00:39:44+09:00",
     "id": "kura07"
@@ -146,7 +146,7 @@
   {
     "title": "iOS 課金まとめ",
     "url": "https://qiita.com/kayo311/items/4adeed1048064d9f41f2",
-    "likes_count": 615,
+    "likes_count": 616,
     "created_at": "2015-08-16T19:26:59+09:00",
     "updated_at": "2019-07-03T19:56:40+09:00",
     "id": "kayo311"
@@ -282,7 +282,7 @@
   {
     "title": "Android エンジニアが Android の WebView で苦しんだ話",
     "url": "https://qiita.com/akitaika_/items/654dafa26e1d1dd0d3dd",
-    "likes_count": 317,
+    "likes_count": 318,
     "created_at": "2015-08-21T12:18:03+09:00",
     "updated_at": "2015-10-16T16:50:33+09:00",
     "id": "akitaika_"
@@ -360,14 +360,6 @@
     "id": "HideMatsu"
   },
   {
-    "title": "react-railsでサーバーサイドレンダリングしつつクライアントでsetStateできて最高になった",
-    "url": "https://qiita.com/mizchi/items/c34c3ff88d73a7bd2c88",
-    "likes_count": 281,
-    "created_at": "2015-08-09T17:28:36+09:00",
-    "updated_at": "2015-08-09T17:49:56+09:00",
-    "id": "mizchi"
-  },
-  {
     "title": "普段使っている道具を見直す〜Android Studio編〜",
     "url": "https://qiita.com/shikato/items/518eb763227db8acecf0",
     "likes_count": 281,
@@ -382,6 +374,14 @@
     "created_at": "2015-08-20T22:09:43+09:00",
     "updated_at": "2015-08-21T09:20:26+09:00",
     "id": "shibukawa"
+  },
+  {
+    "title": "react-railsでサーバーサイドレンダリングしつつクライアントでsetStateできて最高になった",
+    "url": "https://qiita.com/mizchi/items/c34c3ff88d73a7bd2c88",
+    "likes_count": 280,
+    "created_at": "2015-08-09T17:28:36+09:00",
+    "updated_at": "2015-08-09T17:49:56+09:00",
+    "id": "mizchi"
   },
   {
     "title": "Microsoft Edgeのユーザーエージェントがカオスなので注意",
@@ -402,7 +402,7 @@
   {
     "title": "簡単なHTTPサーバーを作る",
     "url": "https://qiita.com/opengl-8080/items/ca152658a0e52c786029",
-    "likes_count": 272,
+    "likes_count": 273,
     "created_at": "2015-08-10T00:14:16+09:00",
     "updated_at": "2017-03-05T22:21:25+09:00",
     "id": "opengl-8080"
