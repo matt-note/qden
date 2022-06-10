@@ -50,7 +50,7 @@
   {
     "title": "インストールするだけでVSCodeをカッコよくする拡張4つ",
     "url": "https://qiita.com/ksakiyama134/items/8ca98295897dc1280644",
-    "likes_count": 1499,
+    "likes_count": 1500,
     "created_at": "2018-11-04T10:10:19+09:00",
     "updated_at": "2021-09-11T06:27:20+09:00",
     "id": "ksakiyama134"
@@ -162,7 +162,7 @@
   {
     "title": "Chrome拡張の作り方 (超概要)",
     "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 854,
+    "likes_count": 856,
     "created_at": "2018-11-10T14:03:21+09:00",
     "updated_at": "2022-01-03T17:28:11+09:00",
     "id": "RyBB"
@@ -194,7 +194,7 @@
   {
     "title": "Vueのライフサイクルを完全に理解した",
     "url": "https://qiita.com/chan_kaku/items/7f3233053b0e209ef355",
-    "likes_count": 786,
+    "likes_count": 787,
     "created_at": "2018-11-24T16:59:51+09:00",
     "updated_at": "2020-06-06T10:32:42+09:00",
     "id": "chan_kaku"
@@ -218,7 +218,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 723,
+    "likes_count": 724,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2022-05-22T11:01:39+09:00",
     "id": "ryuichi1208"
@@ -298,7 +298,7 @@
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
     "url": "https://qiita.com/kd9951/items/b1bccc4666976ec90dcc",
-    "likes_count": 532,
+    "likes_count": 533,
     "created_at": "2018-11-18T19:13:03+09:00",
     "updated_at": "2019-10-05T07:32:56+09:00",
     "id": "kd9951"
@@ -344,20 +344,20 @@
     "id": "uhyo"
   },
   {
+    "title": "ドメインオブジェクトの責務について",
+    "url": "https://qiita.com/j5ik2o/items/a64007c6d7a89ec2e086",
+    "likes_count": 482,
+    "created_at": "2018-11-17T17:07:19+09:00",
+    "updated_at": "2021-06-24T21:16:01+09:00",
+    "id": "j5ik2o"
+  },
+  {
     "title": "プログラミング歴半年だけど、エンジニアが「知らないことを知る」ためのWEBサービス「Putiita」を作ったよ",
     "url": "https://qiita.com/sunad/items/9dce1bfcbb830a4108f9",
     "likes_count": 482,
     "created_at": "2018-11-28T17:18:02+09:00",
     "updated_at": "2019-03-21T12:12:56+09:00",
     "id": "sunad"
-  },
-  {
-    "title": "ドメインオブジェクトの責務について",
-    "url": "https://qiita.com/j5ik2o/items/a64007c6d7a89ec2e086",
-    "likes_count": 481,
-    "created_at": "2018-11-17T17:07:19+09:00",
-    "updated_at": "2021-06-24T21:16:01+09:00",
-    "id": "j5ik2o"
   },
   {
     "title": "State of SEO for SPA 2019",
@@ -410,7 +410,7 @@
   {
     "title": "ストーリーポイントで見積もる現実的な方法",
     "url": "https://qiita.com/keitakn/items/c30b7071ebfbf4b1b3e0",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2018-11-22T01:24:43+09:00",
     "updated_at": "2022-05-20T23:39:15+09:00",
     "id": "keitakn"
@@ -456,20 +456,20 @@
     "id": "suudon0014"
   },
   {
+    "title": "Laravelで始める依存性の注入（DI）",
+    "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
+    "likes_count": 371,
+    "created_at": "2018-11-30T15:37:00+09:00",
+    "updated_at": "2020-08-03T21:31:08+09:00",
+    "id": "harunbu"
+  },
+  {
     "title": "iOS/Android セキュリティガイドライン",
     "url": "https://qiita.com/alt_yamamoto/items/f67a7ddb6ba13cca7369",
     "likes_count": 370,
     "created_at": "2018-11-20T17:51:33+09:00",
     "updated_at": "2020-01-22T10:02:28+09:00",
     "id": "alt_yamamoto"
-  },
-  {
-    "title": "Laravelで始める依存性の注入（DI）",
-    "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
-    "likes_count": 370,
-    "created_at": "2018-11-30T15:37:00+09:00",
-    "updated_at": "2020-08-03T21:31:08+09:00",
-    "id": "harunbu"
   },
   {
     "title": "【初心者向け】現代 (2018年11月時点)のフロントエンド開発について",
@@ -490,7 +490,7 @@
   {
     "title": "VS Code コーディング規約を快適に守る",
     "url": "https://qiita.com/firedfly/items/00c34018581c6cec9b84",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2018-11-29T12:07:09+09:00",
     "updated_at": "2019-09-30T16:54:37+09:00",
     "id": "firedfly"
@@ -562,7 +562,7 @@
   {
     "title": "【Vue.js】爆速でSPAを作る",
     "url": "https://qiita.com/nagimaruxxx/items/8fc59a5ca05bb91bfe1f",
-    "likes_count": 261,
+    "likes_count": 262,
     "created_at": "2018-11-09T19:32:28+09:00",
     "updated_at": "2019-09-24T12:29:23+09:00",
     "id": "nagimaruxxx"
