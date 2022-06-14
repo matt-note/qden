@@ -58,7 +58,7 @@
   {
     "title": "Qiitaの数式チートシート",
     "url": "https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada",
-    "likes_count": 1591,
+    "likes_count": 1593,
     "created_at": "2015-06-14T01:44:10+09:00",
     "updated_at": "2022-01-04T10:57:16+09:00",
     "id": "PlanetMeron"
@@ -74,7 +74,7 @@
   {
     "title": "実例で学ぶ、JOIN (NLJ) が遅くなる理屈と対処法",
     "url": "https://qiita.com/yuku_t/items/208be188eef17699c7a5",
-    "likes_count": 1340,
+    "likes_count": 1341,
     "created_at": "2015-06-22T11:50:58+09:00",
     "updated_at": "2015-07-13T09:58:53+09:00",
     "id": "yuku_t"
@@ -114,7 +114,7 @@
   {
     "title": "~/.ssh/configについて",
     "url": "https://qiita.com/passol78/items/2ad123e39efeb1a5286b",
-    "likes_count": 859,
+    "likes_count": 860,
     "created_at": "2015-06-30T18:12:48+09:00",
     "updated_at": "2018-06-25T23:21:19+09:00",
     "id": "passol78"
@@ -242,7 +242,7 @@
   {
     "title": "【初心者向け】エイリアスの設定方法",
     "url": "https://qiita.com/yutat93/items/b5bb9c0366f21bcbea62",
-    "likes_count": 563,
+    "likes_count": 564,
     "created_at": "2015-06-19T16:07:05+09:00",
     "updated_at": "2017-07-06T15:17:34+09:00",
     "id": "yutat93"
@@ -274,7 +274,7 @@
   {
     "title": "JavaScript  忘れがちな　=== と == の違い",
     "url": "https://qiita.com/PianoScoreJP/items/e43d70ec188c6fed73ed",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2015-06-16T00:02:27+09:00",
     "updated_at": "2015-06-16T00:02:27+09:00",
     "id": "PianoScoreJP"
@@ -322,7 +322,7 @@
   {
     "title": "依存性注入(DI)の解説とやり方",
     "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
-    "likes_count": 471,
+    "likes_count": 472,
     "created_at": "2015-06-21T16:57:46+09:00",
     "updated_at": "2017-11-28T22:04:50+09:00",
     "id": "1000k"
@@ -346,7 +346,7 @@
   {
     "title": "Railsでdeviseひとつで複数モデルを管理しよう",
     "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2015-06-27T22:31:44+09:00",
     "updated_at": "2015-06-27T22:34:35+09:00",
     "id": "Yama-to"
@@ -392,20 +392,20 @@
     "id": "yut_h1979"
   },
   {
+    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
+    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
+    "likes_count": 393,
+    "created_at": "2015-06-10T07:55:27+09:00",
+    "updated_at": "2015-06-10T11:36:54+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "PHPで学ぶオブジェクト指向",
     "url": "https://qiita.com/ritukiii/items/a1979c3bcdcea9454d53",
     "likes_count": 392,
     "created_at": "2015-06-30T09:16:53+09:00",
     "updated_at": "2017-05-16T10:35:44+09:00",
     "id": "ritukiii"
-  },
-  {
-    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
-    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
-    "likes_count": 391,
-    "created_at": "2015-06-10T07:55:27+09:00",
-    "updated_at": "2015-06-10T11:36:54+09:00",
-    "id": "jnchito"
   },
   {
     "title": "BUNDLED WITH で Gemfile.lock が更新されてしまう件",

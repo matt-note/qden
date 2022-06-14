@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1298,
+    "likes_count": 1299,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -90,7 +90,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 1002,
+    "likes_count": 1003,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -98,7 +98,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 969,
+    "likes_count": 970,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2022-03-23T15:01:48+09:00",
     "id": "mochio"
@@ -130,7 +130,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 896,
+    "likes_count": 897,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2019-11-05T14:26:01+09:00",
     "id": "hatai"
@@ -322,7 +322,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -448,14 +448,6 @@
     "id": "devneko"
   },
   {
-    "title": "Google Homeで受付システム作ってみた",
-    "url": "https://qiita.com/h-takauma/items/4ecc3421f2995b207284",
-    "likes_count": 469,
-    "created_at": "2017-12-06T15:46:42+09:00",
-    "updated_at": "2017-12-06T22:42:03+09:00",
-    "id": "h-takauma"
-  },
-  {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
     "likes_count": 462,
@@ -490,7 +482,7 @@
   {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 443,
+    "likes_count": 444,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
@@ -610,7 +602,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 369,
+    "likes_count": 370,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2022-05-24T22:36:42+09:00",
     "id": "nightyknite"
@@ -758,6 +750,14 @@
     "created_at": "2017-12-26T05:18:31+09:00",
     "updated_at": "2017-12-27T14:38:56+09:00",
     "id": "onhrs"
+  },
+  {
+    "title": "【５分でなんとなく理解！】Babel入門",
+    "url": "https://qiita.com/Shagamii/items/a87181c22ea777ee2acc",
+    "likes_count": 286,
+    "created_at": "2017-12-25T21:13:51+09:00",
+    "updated_at": "2017-12-26T12:59:53+09:00",
+    "id": "Shagamii"
   },
   {
     "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
