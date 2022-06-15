@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4670,
+    "likes_count": 4671,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -74,7 +74,7 @@
   {
     "title": " 【作業効率化】優秀すぎて課金してでも個人的に使ってるmacOSソフトウェアまとめ【5選】",
     "url": "https://qiita.com/keisukee/items/b14ee87d7bd29511e580",
-    "likes_count": 1264,
+    "likes_count": 1263,
     "created_at": "2020-01-04T09:38:09+09:00",
     "updated_at": "2021-10-31T14:16:59+09:00",
     "id": "keisukee"
@@ -138,7 +138,7 @@
   {
     "title": "テストしやすい「純粋」な関数とは？",
     "url": "https://qiita.com/Yametaro/items/3ec5a7d89afa1a0e9f15",
-    "likes_count": 883,
+    "likes_count": 882,
     "created_at": "2020-01-19T00:30:03+09:00",
     "updated_at": "2020-01-20T09:45:26+09:00",
     "id": "Yametaro"
@@ -194,7 +194,7 @@
   {
     "title": "経年劣化に耐える ReactComponent の書き方",
     "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
-    "likes_count": 723,
+    "likes_count": 725,
     "created_at": "2020-01-16T19:01:04+09:00",
     "updated_at": "2020-01-19T13:49:21+09:00",
     "id": "Takepepe"
@@ -242,7 +242,7 @@
   {
     "title": "TypeScriptを使って嬉しかったこと",
     "url": "https://qiita.com/Yametaro/items/918083d9767ac5e74895",
-    "likes_count": 678,
+    "likes_count": 677,
     "created_at": "2020-01-12T23:25:26+09:00",
     "updated_at": "2020-01-25T10:11:51+09:00",
     "id": "Yametaro"
@@ -266,7 +266,7 @@
   {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 619,
+    "likes_count": 620,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2021-03-26T11:27:03+09:00",
     "id": "Saku731"
@@ -274,7 +274,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 617,
+    "likes_count": 616,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"
@@ -360,6 +360,14 @@
     "id": "v_avenger"
   },
   {
+    "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
+    "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
+    "likes_count": 481,
+    "created_at": "2020-01-19T17:05:28+09:00",
+    "updated_at": "2020-01-21T20:33:07+09:00",
+    "id": "uhyo"
+  },
+  {
     "title": "スマホアプリ開発者のための2019年動向まとめ",
     "url": "https://qiita.com/keidroid/items/ec6039accaa9d043b514",
     "likes_count": 479,
@@ -376,17 +384,9 @@
     "id": "goyae"
   },
   {
-    "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
-    "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
-    "likes_count": 478,
-    "created_at": "2020-01-19T17:05:28+09:00",
-    "updated_at": "2020-01-21T20:33:07+09:00",
-    "id": "uhyo"
-  },
-  {
     "title": "「よいサンプルコード」ってどんなサンプルコード？ 〜Qiitaや技術ブログを書くときに気を付けること〜",
     "url": "https://qiita.com/jnchito/items/da33f793de2e29e470f4",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2020-01-09T11:47:44+09:00",
     "updated_at": "2020-12-15T07:28:23+09:00",
     "id": "jnchito"
@@ -394,7 +394,7 @@
   {
     "title": "VS CodeでDocker開発コンテナを便利に使おう",
     "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
-    "likes_count": 469,
+    "likes_count": 468,
     "created_at": "2020-01-17T21:18:30+09:00",
     "updated_at": "2020-01-17T21:18:30+09:00",
     "id": "Yuki_Oshima"
@@ -490,7 +490,7 @@
   {
     "title": "TypeScriptでReactに入門するチュートリアル",
     "url": "https://qiita.com/yonetty/items/012be4c5c6258a609e35",
-    "likes_count": 321,
+    "likes_count": 320,
     "created_at": "2020-01-02T16:30:48+09:00",
     "updated_at": "2021-10-12T22:07:12+09:00",
     "id": "yonetty"
@@ -522,7 +522,7 @@
   {
     "title": "【2020年1月】令和だし本格的にVSCodeのRemote Containerで、爆速の\"開発コンテナ\"始めよう",
     "url": "https://qiita.com/koinori/items/084a0770c1f9e72e0c14",
-    "likes_count": 291,
+    "likes_count": 290,
     "created_at": "2020-01-03T15:58:37+09:00",
     "updated_at": "2020-01-06T19:15:39+09:00",
     "id": "koinori"
@@ -546,7 +546,7 @@
   {
     "title": "VSCodeのデバッグ機能でJavascriptとTypescriptをデバッグする",
     "url": "https://qiita.com/jlkiri/items/0e76f31a8af5c12019be",
-    "likes_count": 265,
+    "likes_count": 264,
     "created_at": "2020-01-14T13:25:04+09:00",
     "updated_at": "2020-01-14T13:25:04+09:00",
     "id": "jlkiri"

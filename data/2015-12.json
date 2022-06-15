@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 4176,
+    "likes_count": 4177,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -18,7 +18,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 2831,
+    "likes_count": 2833,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2021-11-15T07:10:13+09:00",
     "id": "yasuhiroki"
@@ -58,7 +58,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1684,
+    "likes_count": 1685,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -90,7 +90,7 @@
   {
     "title": "Ubuntuに最新のNode.jsを難なくインストールする",
     "url": "https://qiita.com/seibe/items/36cef7df85fe2cefa3ea",
-    "likes_count": 1420,
+    "likes_count": 1421,
     "created_at": "2015-12-11T01:45:30+09:00",
     "updated_at": "2019-02-10T15:24:12+09:00",
     "id": "seibe"
@@ -264,20 +264,20 @@
     "id": "zaru"
   },
   {
-    "title": "JavaScript中級者への道【5. コールバック関数】",
-    "url": "https://qiita.com/matsuby/items/3f635943f25e520b7c20",
-    "likes_count": 671,
-    "created_at": "2015-12-27T15:46:57+09:00",
-    "updated_at": "2018-10-12T05:06:41+09:00",
-    "id": "matsuby"
-  },
-  {
     "title": "Rails 5 + ActionCableで作る！シンプルなチャットアプリ（DHH氏のデモ動画より）",
     "url": "https://qiita.com/jnchito/items/aec75fab42804287d71b",
     "likes_count": 670,
     "created_at": "2015-12-22T09:14:18+09:00",
     "updated_at": "2016-07-13T16:32:39+09:00",
     "id": "jnchito"
+  },
+  {
+    "title": "JavaScript中級者への道【5. コールバック関数】",
+    "url": "https://qiita.com/matsuby/items/3f635943f25e520b7c20",
+    "likes_count": 670,
+    "created_at": "2015-12-27T15:46:57+09:00",
+    "updated_at": "2018-10-12T05:06:41+09:00",
+    "id": "matsuby"
   },
   {
     "title": "クラウド破産しないように git-secrets を使う",
@@ -298,7 +298,7 @@
   {
     "title": "SELECT文の評価順序の話",
     "url": "https://qiita.com/suzukito/items/edcd00e680186f2930a8",
-    "likes_count": 622,
+    "likes_count": 624,
     "created_at": "2015-12-27T15:28:38+09:00",
     "updated_at": "2018-12-27T19:20:20+09:00",
     "id": "suzukito"
@@ -314,7 +314,7 @@
   {
     "title": "気をつけて！Git for Windowsにおける改行コード",
     "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 598,
+    "likes_count": 600,
     "created_at": "2015-12-25T23:01:51+09:00",
     "updated_at": "2018-12-11T08:34:12+09:00",
     "id": "uggds"
@@ -370,7 +370,7 @@
   {
     "title": "PHPのリリース日とサポート期限",
     "url": "https://qiita.com/bezeklik/items/72d1ff8393f66673e2bc",
-    "likes_count": 497,
+    "likes_count": 499,
     "created_at": "2015-12-14T11:55:09+09:00",
     "updated_at": "2022-04-20T16:33:45+09:00",
     "id": "bezeklik"
@@ -688,20 +688,20 @@
     "id": "hase-ken"
   },
   {
-    "title": "ECMAScript6のアロー関数とPromiseまとめ - JavaScript",
-    "url": "https://qiita.com/takeharu/items/c23998d22903e6d3c1d9",
-    "likes_count": 312,
-    "created_at": "2015-12-15T09:06:20+09:00",
-    "updated_at": "2015-12-17T17:34:03+09:00",
-    "id": "takeharu"
-  },
-  {
     "title": "JavaScript製FlashPlayer「swf2js」swfをそのままHTML5に変換。",
     "url": "https://qiita.com/ienaga/items/c9f04d6cd9874d4ec1a7",
     "likes_count": 312,
     "created_at": "2015-12-16T00:02:32+09:00",
     "updated_at": "2020-07-03T10:08:53+09:00",
     "id": "ienaga"
+  },
+  {
+    "title": "ECMAScript6のアロー関数とPromiseまとめ - JavaScript",
+    "url": "https://qiita.com/takeharu/items/c23998d22903e6d3c1d9",
+    "likes_count": 311,
+    "created_at": "2015-12-15T09:06:20+09:00",
+    "updated_at": "2015-12-17T17:34:03+09:00",
+    "id": "takeharu"
   },
   {
     "title": "Rustで書いた自作OSをRaspberry Pi Zeroで動かす",
