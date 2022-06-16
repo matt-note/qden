@@ -26,7 +26,7 @@
   {
     "title": "スーパーマリオのジャンプのアルゴリズム",
     "url": "https://qiita.com/morian-bisco/items/4c659d9f940c7e3a2099",
-    "likes_count": 1912,
+    "likes_count": 1911,
     "created_at": "2019-11-06T21:09:47+09:00",
     "updated_at": "2019-11-16T22:59:09+09:00",
     "id": "morian-bisco"
@@ -42,7 +42,7 @@
   {
     "title": "フロントエンドのコーディング課題６選-このフロントエンドの課題、実装できますか？",
     "url": "https://qiita.com/baby-degu/items/d68e52a0727248ba2750",
-    "likes_count": 1840,
+    "likes_count": 1839,
     "created_at": "2019-11-21T06:51:33+09:00",
     "updated_at": "2020-03-15T21:11:38+09:00",
     "id": "baby-degu"
@@ -50,7 +50,7 @@
   {
     "title": "エンジニアが活用したい情報リソースまとめ",
     "url": "https://qiita.com/EaE/items/eb8f28223c9c2926b44f",
-    "likes_count": 1793,
+    "likes_count": 1792,
     "created_at": "2019-11-27T19:15:47+09:00",
     "updated_at": "2019-11-29T01:53:56+09:00",
     "id": "EaE"
@@ -162,7 +162,7 @@
   {
     "title": "どこよりもわかりやすいiOS最強課金まとめ",
     "url": "https://qiita.com/Masataka-n/items/6f98a5a9fee7b28ccd1f",
-    "likes_count": 735,
+    "likes_count": 736,
     "created_at": "2019-11-19T12:52:05+09:00",
     "updated_at": "2022-04-26T15:17:33+09:00",
     "id": "Masataka-n"
@@ -200,6 +200,14 @@
     "id": "AI_Academy"
   },
   {
+    "title": "NVIDIA Docker って今どうなってるの？ (19.11版)",
+    "url": "https://qiita.com/ksasaki/items/b20a785e1a0f610efa08",
+    "likes_count": 635,
+    "created_at": "2019-11-14T01:47:30+09:00",
+    "updated_at": "2020-09-08T17:33:54+09:00",
+    "id": "ksasaki"
+  },
+  {
     "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
     "url": "https://qiita.com/ramuneru/items/db43589551dd0c00fef9",
     "likes_count": 635,
@@ -216,17 +224,9 @@
     "id": "newt0"
   },
   {
-    "title": "NVIDIA Docker って今どうなってるの？ (19.11版)",
-    "url": "https://qiita.com/ksasaki/items/b20a785e1a0f610efa08",
-    "likes_count": 634,
-    "created_at": "2019-11-14T01:47:30+09:00",
-    "updated_at": "2020-09-08T17:33:54+09:00",
-    "id": "ksasaki"
-  },
-  {
     "title": "10分で理解する Selenium",
     "url": "https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a",
-    "likes_count": 627,
+    "likes_count": 630,
     "created_at": "2019-11-30T01:26:15+09:00",
     "updated_at": "2021-02-26T14:13:48+09:00",
     "id": "Chanmoro"
@@ -234,7 +234,7 @@
   {
     "title": "やさしい図解で学ぶ　ER図　表記法一覧",
     "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
-    "likes_count": 626,
+    "likes_count": 627,
     "created_at": "2019-11-11T19:20:33+09:00",
     "updated_at": "2020-03-02T12:18:46+09:00",
     "id": "ramuneru"
@@ -281,11 +281,11 @@
   },
   {
     "title": "フロントエンドエンジニア１年目はコードレビューでどんな指摘を受けるのか",
-    "url": "https://qiita.com/sumi_mu/items/c56e7ab2aa88eea8d116",
+    "url": "https://qiita.com/a-muku/items/c56e7ab2aa88eea8d116",
     "likes_count": 571,
     "created_at": "2019-11-19T20:59:03+09:00",
     "updated_at": "2019-12-04T09:37:36+09:00",
-    "id": "sumi_mu"
+    "id": "a-muku"
   },
   {
     "title": "【ハッキングに挑戦】脆弱性が残された仮想イメージ公開プラットフォーム（VulnHub）で練習をする",
@@ -314,7 +314,7 @@
   {
     "title": "そろそろSQLのウィンドウ関数を理解したい - 連載1/3話",
     "url": "https://qiita.com/w-sato-ist/items/63600a3ab84aad38e879",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2019-11-18T17:32:38+09:00",
     "updated_at": "2019-11-18T17:32:38+09:00",
     "id": "w-sato-ist"
@@ -346,7 +346,7 @@
   {
     "title": "新人エンジニアが意識すると良いなと思うことまとめ",
     "url": "https://qiita.com/mass-min/items/de9c8bed8fb794ba9450",
-    "likes_count": 488,
+    "likes_count": 487,
     "created_at": "2019-11-07T01:45:24+09:00",
     "updated_at": "2019-11-07T01:45:24+09:00",
     "id": "mass-min"
@@ -506,7 +506,7 @@
   {
     "title": "pythonのmatplotlibの使い方をまとめてみた",
     "url": "https://qiita.com/renesisu727/items/24fc4cd8fa2635b00a0d",
-    "likes_count": 287,
+    "likes_count": 288,
     "created_at": "2019-11-13T11:52:52+09:00",
     "updated_at": "2022-03-01T00:33:07+09:00",
     "id": "renesisu727"

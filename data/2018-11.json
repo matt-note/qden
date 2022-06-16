@@ -18,7 +18,7 @@
   {
     "title": " プログラミング言語Rustのススメ",
     "url": "https://qiita.com/elipmoc101/items/3c8b6d8332a9019e578c",
-    "likes_count": 1696,
+    "likes_count": 1697,
     "created_at": "2018-11-04T22:29:09+09:00",
     "updated_at": "2022-06-05T01:08:58+09:00",
     "id": "elipmoc101"
@@ -42,7 +42,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1535,
+    "likes_count": 1537,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2019-12-06T12:14:25+09:00",
     "id": "kazukimatsumoto"
@@ -50,7 +50,7 @@
   {
     "title": "インストールするだけでVSCodeをカッコよくする拡張4つ",
     "url": "https://qiita.com/ksakiyama134/items/8ca98295897dc1280644",
-    "likes_count": 1500,
+    "likes_count": 1501,
     "created_at": "2018-11-04T10:10:19+09:00",
     "updated_at": "2021-09-11T06:27:20+09:00",
     "id": "ksakiyama134"
@@ -178,7 +178,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 790,
+    "likes_count": 789,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -218,7 +218,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 723,
+    "likes_count": 724,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2022-05-22T11:01:39+09:00",
     "id": "ryuichi1208"
@@ -226,7 +226,7 @@
   {
     "title": "正規表現を可視化してまとめたチートシート",
     "url": "https://qiita.com/grrrr/items/0b35b5c1c98eebfa5128",
-    "likes_count": 695,
+    "likes_count": 696,
     "created_at": "2018-11-27T19:15:42+09:00",
     "updated_at": "2022-02-08T16:57:37+09:00",
     "id": "grrrr"
@@ -258,7 +258,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2019-09-25T15:09:16+09:00",
     "id": "nishina555"
@@ -440,6 +440,14 @@
     "id": "wsuzume"
   },
   {
+    "title": "Laravelで始める依存性の注入（DI）",
+    "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
+    "likes_count": 374,
+    "created_at": "2018-11-30T15:37:00+09:00",
+    "updated_at": "2020-08-03T21:31:08+09:00",
+    "id": "harunbu"
+  },
+  {
     "title": "Chromeを使うなら、必ずServiceWorkersを無効化しよう",
     "url": "https://qiita.com/rana_kualu/items/52d8cb7b200d6fefddc8",
     "likes_count": 373,
@@ -454,14 +462,6 @@
     "created_at": "2018-11-12T12:18:08+09:00",
     "updated_at": "2018-11-17T22:27:08+09:00",
     "id": "suudon0014"
-  },
-  {
-    "title": "Laravelで始める依存性の注入（DI）",
-    "url": "https://qiita.com/harunbu/items/079ea728d2c9cf4f44d5",
-    "likes_count": 373,
-    "created_at": "2018-11-30T15:37:00+09:00",
-    "updated_at": "2020-08-03T21:31:08+09:00",
-    "id": "harunbu"
   },
   {
     "title": "iOS/Android セキュリティガイドライン",
@@ -560,19 +560,19 @@
     "id": "Hiroshiba"
   },
   {
+    "title": "javaを使ってWebアプリを作るまでに結局なにが必要なのか。仕組みと学習に必要なものをザックリ説明",
+    "url": "https://qiita.com/shimatter/items/c69ffd67a8ae4390b94f",
+    "likes_count": 263,
+    "created_at": "2018-11-16T05:39:54+09:00",
+    "updated_at": "2018-12-11T04:15:08+09:00",
+    "id": "shimatter"
+  },
+  {
     "title": "【Vue.js】爆速でSPAを作る",
     "url": "https://qiita.com/nagimaruxxx/items/8fc59a5ca05bb91bfe1f",
     "likes_count": 262,
     "created_at": "2018-11-09T19:32:28+09:00",
     "updated_at": "2019-09-24T12:29:23+09:00",
     "id": "nagimaruxxx"
-  },
-  {
-    "title": "javaを使ってWebアプリを作るまでに結局なにが必要なのか。仕組みと学習に必要なものをザックリ説明",
-    "url": "https://qiita.com/shimatter/items/c69ffd67a8ae4390b94f",
-    "likes_count": 262,
-    "created_at": "2018-11-16T05:39:54+09:00",
-    "updated_at": "2018-12-11T04:15:08+09:00",
-    "id": "shimatter"
   }
 ]
