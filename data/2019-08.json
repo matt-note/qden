@@ -2,7 +2,7 @@
   {
     "title": "なんとなく CORS がわかる...はもう終わりにする。",
     "url": "https://qiita.com/att55/items/2154a8aad8bf1409db2b",
-    "likes_count": 2488,
+    "likes_count": 2489,
     "created_at": "2019-08-15T01:24:06+09:00",
     "updated_at": "2021-10-19T20:33:46+09:00",
     "id": "att55"
@@ -26,7 +26,7 @@
   {
     "title": "これで完璧！今さら振り返る CSRF 対策と同一オリジンポリシーの基礎",
     "url": "https://qiita.com/mpyw/items/0595f07736cfa5b1f50c",
-    "likes_count": 1021,
+    "likes_count": 1023,
     "created_at": "2019-08-31T02:45:11+09:00",
     "updated_at": "2019-09-02T04:09:06+09:00",
     "id": "mpyw"
@@ -90,7 +90,7 @@
   {
     "title": "Spring Framework / Spring Bootに入門する人はまずこの資料を読もう！ #jsug",
     "url": "https://qiita.com/suke_masa/items/9dd3300c3190d6445ff8",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2019-08-29T14:27:43+09:00",
     "updated_at": "2020-02-07T22:40:24+09:00",
     "id": "suke_masa"
@@ -304,20 +304,20 @@
     "id": "Go-Noji"
   },
   {
-    "title": "FlaskとVue.jsでSPA Webアプリ開発",
-    "url": "https://qiita.com/y-tsutsu/items/67f71fc8430a199a3efd",
-    "likes_count": 324,
-    "created_at": "2019-08-26T07:47:36+09:00",
-    "updated_at": "2021-06-15T21:32:06+09:00",
-    "id": "y-tsutsu"
-  },
-  {
     "title": "「ただのプログラマ」で終わらないためには",
     "url": "https://qiita.com/sorabin/items/3cae75d4428a96ccbbd3",
     "likes_count": 324,
     "created_at": "2019-08-30T14:44:10+09:00",
     "updated_at": "2019-09-03T14:45:54+09:00",
     "id": "sorabin"
+  },
+  {
+    "title": "FlaskとVue.jsでSPA Webアプリ開発",
+    "url": "https://qiita.com/y-tsutsu/items/67f71fc8430a199a3efd",
+    "likes_count": 323,
+    "created_at": "2019-08-26T07:47:36+09:00",
+    "updated_at": "2021-06-15T21:32:06+09:00",
+    "id": "y-tsutsu"
   },
   {
     "title": "KAGGLEでどこから手を付けていいか分からず学ぶことが多すぎてまとめてみた",
@@ -330,7 +330,7 @@
   {
     "title": "機械学習にとって大切なことは全部MSE(平均二乗誤差)が教えてくれた",
     "url": "https://qiita.com/riversun/items/b691cc0fa8a8a8f42013",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2019-08-26T07:54:17+09:00",
     "updated_at": "2020-12-18T16:44:17+09:00",
     "id": "riversun"
@@ -370,9 +370,9 @@
   {
     "title": "データサイエンスにオススメの本80冊！",
     "url": "https://qiita.com/Octoparse_Japan/items/1e933122fba3a9c8dbe7",
-    "likes_count": 241,
+    "likes_count": 240,
     "created_at": "2019-08-14T17:46:14+09:00",
-    "updated_at": "2022-06-15T13:19:07+09:00",
+    "updated_at": "2022-06-17T10:51:26+09:00",
     "id": "Octoparse_Japan"
   }
 ]
