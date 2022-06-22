@@ -10,7 +10,7 @@
   {
     "title": "[git reset (--hard/--soft)]ワーキングツリー、インデックス、HEADを使いこなす方法",
     "url": "https://qiita.com/shuntaro_tamura/items/db1aef9cf9d78db50ffe",
-    "likes_count": 1924,
+    "likes_count": 1925,
     "created_at": "2015-03-07T11:39:00+09:00",
     "updated_at": "2016-03-16T21:10:25+09:00",
     "id": "shuntaro_tamura"
@@ -104,20 +104,20 @@
     "id": "oreo"
   },
   {
+    "title": "rebase -i でコミットをまとめる",
+    "url": "https://qiita.com/takke/items/3400b55becfd72769214",
+    "likes_count": 678,
+    "created_at": "2015-03-03T18:08:56+09:00",
+    "updated_at": "2018-11-19T15:56:57+09:00",
+    "id": "takke"
+  },
+  {
     "title": "幸せな非同期処理ライフを満喫するための基礎から応用まで",
     "url": "https://qiita.com/KeithYokoma/items/4e6e9bd4e44aab63424d",
     "likes_count": 678,
     "created_at": "2015-03-24T10:14:06+09:00",
     "updated_at": "2016-11-16T15:42:01+09:00",
     "id": "KeithYokoma"
-  },
-  {
-    "title": "rebase -i でコミットをまとめる",
-    "url": "https://qiita.com/takke/items/3400b55becfd72769214",
-    "likes_count": 677,
-    "created_at": "2015-03-03T18:08:56+09:00",
-    "updated_at": "2018-11-19T15:56:57+09:00",
-    "id": "takke"
   },
   {
     "title": "React Native ファーストインプレッション",
@@ -264,20 +264,20 @@
     "id": "migi"
   },
   {
+    "title": "Android の Chrome で開発者ツールを使う方法",
+    "url": "https://qiita.com/hojishi/items/12b726f8b02ef3d713e4",
+    "likes_count": 404,
+    "created_at": "2015-03-13T14:57:23+09:00",
+    "updated_at": "2015-03-13T14:57:23+09:00",
+    "id": "hojishi"
+  },
+  {
     "title": "【古い記事】Babelにおける import / export ",
     "url": "https://qiita.com/terrierscript/items/41168a50904242005271",
     "likes_count": 404,
     "created_at": "2015-03-20T23:31:48+09:00",
     "updated_at": "2016-12-02T18:20:30+09:00",
     "id": "terrierscript"
-  },
-  {
-    "title": "Android の Chrome で開発者ツールを使う方法",
-    "url": "https://qiita.com/hojishi/items/12b726f8b02ef3d713e4",
-    "likes_count": 403,
-    "created_at": "2015-03-13T14:57:23+09:00",
-    "updated_at": "2015-03-13T14:57:23+09:00",
-    "id": "hojishi"
   },
   {
     "title": "GCEのライブマイグレーションのすごさをまとめてみた #gcpja",
