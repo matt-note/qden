@@ -26,7 +26,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2246,
+    "likes_count": 2247,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -290,7 +290,7 @@
   {
     "title": "Djangoにおけるクラスベース汎用ビューの入門と使い方サンプル",
     "url": "https://qiita.com/dai-takahashi/items/7d0187485cad4418c073",
-    "likes_count": 541,
+    "likes_count": 540,
     "created_at": "2016-04-17T14:14:54+09:00",
     "updated_at": "2021-04-05T07:56:27+09:00",
     "id": "dai-takahashi"
@@ -322,7 +322,7 @@
   {
     "title": "ベイズ最適化入門",
     "url": "https://qiita.com/masasora/items/cc2f10cb79f8c0a6bbaa",
-    "likes_count": 475,
+    "likes_count": 476,
     "created_at": "2016-04-02T18:43:05+09:00",
     "updated_at": "2016-07-24T12:27:11+09:00",
     "id": "masasora"
@@ -392,20 +392,20 @@
     "id": "tkusumi"
   },
   {
-    "title": "こうすれば理解できるBootstrap 4のレスポンシブWebデザインとそのCSS",
-    "url": "https://qiita.com/tonkotsuboy_com/items/7c01460b59c3ca5ee047",
-    "likes_count": 416,
-    "created_at": "2016-04-14T11:35:11+09:00",
-    "updated_at": "2020-08-29T19:12:09+09:00",
-    "id": "tonkotsuboy_com"
-  },
-  {
     "title": "変更履歴を持つテーブルの設計",
     "url": "https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1",
     "likes_count": 415,
     "created_at": "2016-04-05T14:44:41+09:00",
     "updated_at": "2018-02-09T12:13:08+09:00",
     "id": "ak-ymst"
+  },
+  {
+    "title": "こうすれば理解できるBootstrap 4のレスポンシブWebデザインとそのCSS",
+    "url": "https://qiita.com/tonkotsuboy_com/items/7c01460b59c3ca5ee047",
+    "likes_count": 415,
+    "created_at": "2016-04-14T11:35:11+09:00",
+    "updated_at": "2020-08-29T19:12:09+09:00",
+    "id": "tonkotsuboy_com"
   },
   {
     "title": "約2年のiOSアプリ開発で実際に使ったライブラリとそこから得られた知見",
