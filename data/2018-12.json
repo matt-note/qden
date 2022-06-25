@@ -58,7 +58,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1302,
+    "likes_count": 1303,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -288,20 +288,20 @@
     "id": "ponkotuy"
   },
   {
+    "title": "pandasで1000万件のデータの前処理を高速にするTips集",
+    "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
+    "likes_count": 574,
+    "created_at": "2018-12-21T02:01:45+09:00",
+    "updated_at": "2019-05-03T18:50:06+09:00",
+    "id": "kishiyama"
+  },
+  {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
     "likes_count": 573,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2021-07-12T12:15:57+09:00",
     "id": "syantien"
-  },
-  {
-    "title": "pandasで1000万件のデータの前処理を高速にするTips集",
-    "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 573,
-    "created_at": "2018-12-21T02:01:45+09:00",
-    "updated_at": "2019-05-03T18:50:06+09:00",
-    "id": "kishiyama"
   },
   {
     "title": "とても強い計算量クラスのコンピュータとその実現方法",
@@ -554,7 +554,7 @@
   {
     "title": "configure, make, make install とは何か",
     "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2018-12-20T14:36:24+09:00",
     "updated_at": "2018-12-20T14:36:24+09:00",
     "id": "chihiro"
@@ -672,14 +672,6 @@
     "id": "yasu_teco"
   },
   {
-    "title": "【爆速】HTML + Sass(SCSS)で簡単にレスポンシブ対応のLPを作ろう！",
-    "url": "https://qiita.com/Y_ASAMOTO/items/d5f33ecf5bfbb7f028a5",
-    "likes_count": 319,
-    "created_at": "2018-12-03T20:46:21+09:00",
-    "updated_at": "2018-12-19T10:20:41+09:00",
-    "id": "Y_ASAMOTO"
-  },
-  {
     "title": "Railsでフォロー機能を作る方法",
     "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
     "likes_count": 314,
@@ -718,6 +710,14 @@
     "created_at": "2018-12-03T23:22:23+09:00",
     "updated_at": "2019-12-12T22:56:51+09:00",
     "id": "s_yokoi"
+  },
+  {
+    "title": "scpコマンド",
+    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
+    "likes_count": 293,
+    "created_at": "2018-12-22T21:41:23+09:00",
+    "updated_at": "2018-12-22T21:41:23+09:00",
+    "id": "chihiro"
   },
   {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
