@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5445,
+    "likes_count": 5447,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2021-12-26T20:29:49+09:00",
     "id": "jabba"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3248,
+    "likes_count": 3249,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -66,7 +66,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1845,
+    "likes_count": 1846,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -178,7 +178,7 @@
   {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 756,
+    "likes_count": 757,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
@@ -216,6 +216,14 @@
     "id": "uint256_t"
   },
   {
+    "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
+    "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
+    "likes_count": 666,
+    "created_at": "2018-05-21T08:09:42+09:00",
+    "updated_at": "2018-05-21T21:53:00+09:00",
+    "id": "tag1216"
+  },
+  {
     "title": "小中高大生にプログラミング教育をしてきて分かったこと",
     "url": "https://qiita.com/Kyome/items/138b6c897f191c0e95a5",
     "likes_count": 666,
@@ -230,14 +238,6 @@
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "takahiro1127"
-  },
-  {
-    "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
-    "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 665,
-    "created_at": "2018-05-21T08:09:42+09:00",
-    "updated_at": "2018-05-21T21:53:00+09:00",
-    "id": "tag1216"
   },
   {
     "title": "FizzBuzzを1byteで実装する",
@@ -282,7 +282,7 @@
   {
     "title": "[macOS向け] gitのクライアントはGitUpがいいぞ。",
     "url": "https://qiita.com/JotaroS/items/5042d2944cf0573f133e",
-    "likes_count": 598,
+    "likes_count": 599,
     "created_at": "2018-05-25T04:14:15+09:00",
     "updated_at": "2020-01-29T14:52:32+09:00",
     "id": "JotaroS"
@@ -330,7 +330,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 547,
+    "likes_count": 548,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -402,7 +402,7 @@
   {
     "title": "SpringBootに入門する為の助走本",
     "url": "https://qiita.com/sugaryo/items/5695bfcc21365f429767",
-    "likes_count": 479,
+    "likes_count": 480,
     "created_at": "2018-05-18T12:17:51+09:00",
     "updated_at": "2021-03-08T06:31:38+09:00",
     "id": "sugaryo"
@@ -578,7 +578,7 @@
   {
     "title": "「近代化Redmine」ことOpenProjectでスクラム開発のプロジェクト管理",
     "url": "https://qiita.com/terukizm/items/c94f06a40be55f65d4f9",
-    "likes_count": 261,
+    "likes_count": 262,
     "created_at": "2018-05-04T17:49:47+09:00",
     "updated_at": "2018-05-04T18:07:26+09:00",
     "id": "terukizm"

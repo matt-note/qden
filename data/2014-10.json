@@ -2,7 +2,7 @@
   {
     "title": "インフラエンジニアとしてよく使うコマンド集",
     "url": "https://qiita.com/sion_cojp/items/04a2aa76a1021fe77079",
-    "likes_count": 4442,
+    "likes_count": 4441,
     "created_at": "2014-10-21T21:53:32+09:00",
     "updated_at": "2021-12-10T17:52:16+09:00",
     "id": "sion_cojp"
@@ -10,7 +10,7 @@
   {
     "title": "使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」",
     "url": "https://qiita.com/jnchito/items/42193d066bd61c740612",
-    "likes_count": 4388,
+    "likes_count": 4390,
     "created_at": "2014-10-27T07:42:59+09:00",
     "updated_at": "2022-05-09T08:54:19+09:00",
     "id": "jnchito"
@@ -82,7 +82,7 @@
   {
     "title": "超絶初心者のためのサーバとクライアントの話",
     "url": "https://qiita.com/shuntaro_tamura/items/ae55b99deb9e2a170754",
-    "likes_count": 941,
+    "likes_count": 940,
     "created_at": "2014-10-13T19:29:13+09:00",
     "updated_at": "2016-03-16T21:11:39+09:00",
     "id": "shuntaro_tamura"
@@ -90,7 +90,7 @@
   {
     "title": "tree コマンドが無い環境で tree コマンドを実現",
     "url": "https://qiita.com/yone098@github/items/bba8a42de6b06e40983b",
-    "likes_count": 870,
+    "likes_count": 869,
     "created_at": "2014-10-07T15:13:26+09:00",
     "updated_at": "2018-01-24T16:21:24+09:00",
     "id": "yone098@github"
@@ -114,7 +114,7 @@
   {
     "title": "Apache Benchでサクッと性能テスト",
     "url": "https://qiita.com/flexfirm/items/ac5a2f53cfa933a37192",
-    "likes_count": 860,
+    "likes_count": 859,
     "created_at": "2014-10-22T10:13:41+09:00",
     "updated_at": "2016-07-21T16:45:33+09:00",
     "id": "flexfirm"
@@ -186,7 +186,7 @@
   {
     "title": "バージョン管理したくない作業用スクリプトは「,」ディレクトリに入れるといい",
     "url": "https://qiita.com/uasi/items/cedae627b7596a837c57",
-    "likes_count": 655,
+    "likes_count": 654,
     "created_at": "2014-10-28T10:34:26+09:00",
     "updated_at": "2014-10-29T16:55:08+09:00",
     "id": "uasi"
@@ -322,7 +322,7 @@
   {
     "title": "ghqでリポジトリ管理とpeco連携で快適git生活",
     "url": "https://qiita.com/strsk/items/9151cef7e68f0746820d",
-    "likes_count": 409,
+    "likes_count": 408,
     "created_at": "2014-10-01T22:12:44+09:00",
     "updated_at": "2021-03-31T08:05:20+09:00",
     "id": "strsk"
@@ -346,7 +346,7 @@
   {
     "title": "Go言語の型とreflect",
     "url": "https://qiita.com/atsaki/items/3554f5a0609c59a3e10d",
-    "likes_count": 379,
+    "likes_count": 378,
     "created_at": "2014-10-12T21:27:25+09:00",
     "updated_at": "2017-04-28T10:16:52+09:00",
     "id": "atsaki"
@@ -440,20 +440,20 @@
     "id": "keneo"
   },
   {
-    "title": "Yosemiteをインストールする前に/usr/localをどこかへ退避して時間短縮（ただしインストーラ任せの方が安全）",
-    "url": "https://qiita.com/riocampos/items/a0f58b63b82844a24140",
-    "likes_count": 280,
-    "created_at": "2014-10-17T14:05:56+09:00",
-    "updated_at": "2015-10-01T20:06:54+09:00",
-    "id": "riocampos"
-  },
-  {
     "title": "[Rails 4.x] FormのSelect プルダウンメニューの項目をDBから引っ張ってくる方法",
     "url": "https://qiita.com/colorrabbit/items/b58888506e41d1370fd1",
     "likes_count": 280,
     "created_at": "2014-10-28T15:02:53+09:00",
     "updated_at": "2014-10-28T15:02:53+09:00",
     "id": "colorrabbit"
+  },
+  {
+    "title": "Yosemiteをインストールする前に/usr/localをどこかへ退避して時間短縮（ただしインストーラ任せの方が安全）",
+    "url": "https://qiita.com/riocampos/items/a0f58b63b82844a24140",
+    "likes_count": 279,
+    "created_at": "2014-10-17T14:05:56+09:00",
+    "updated_at": "2015-10-01T20:06:54+09:00",
+    "id": "riocampos"
   },
   {
     "title": "Macのターミナルでよく使うコマンドにエイリアスを作りました",
@@ -502,14 +502,6 @@
     "created_at": "2014-10-17T15:15:07+09:00",
     "updated_at": "2014-10-17T16:17:50+09:00",
     "id": "tenten0213"
-  },
-  {
-    "title": "シェルスクリプトのコーディングルール2014",
-    "url": "https://qiita.com/b4b4r07/items/62d56b7de2b9d6844bb5",
-    "likes_count": 268,
-    "created_at": "2014-10-06T22:30:07+09:00",
-    "updated_at": "2020-06-22T13:00:08+09:00",
-    "id": "b4b4r07"
   },
   {
     "title": "CentOS7のfirewalldをまじめに使うはじめの一歩（systemdも少し）",

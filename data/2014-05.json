@@ -10,7 +10,7 @@
   {
     "title": "新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡",
     "url": "https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1",
-    "likes_count": 5635,
+    "likes_count": 5636,
     "created_at": "2014-05-14T01:47:19+09:00",
     "updated_at": "2022-04-04T16:45:40+09:00",
     "id": "hirokidaichi"
@@ -26,7 +26,7 @@
   {
     "title": "新人プログラマに知ってもらいたいメソッドを読みやすく維持するいくつかの原則",
     "url": "https://qiita.com/hirokidaichi/items/c9a76191216f3cc6c4b2",
-    "likes_count": 2938,
+    "likes_count": 2939,
     "created_at": "2014-05-09T20:22:27+09:00",
     "updated_at": "2019-03-17T00:42:05+09:00",
     "id": "hirokidaichi"
@@ -34,7 +34,7 @@
   {
     "title": "中規模Web開発のためのMVC分割とレイヤアーキテクチャ",
     "url": "https://qiita.com/yuku_t/items/961194a5443b618a4cac",
-    "likes_count": 1828,
+    "likes_count": 1827,
     "created_at": "2014-05-20T14:50:36+09:00",
     "updated_at": "2017-08-15T20:33:23+09:00",
     "id": "yuku_t"
@@ -42,7 +42,7 @@
   {
     "title": "PHPオブジェクト指向入門（前半）",
     "url": "https://qiita.com/mpyw/items/41230bec5c02142ae691",
-    "likes_count": 1760,
+    "likes_count": 1759,
     "created_at": "2014-05-26T03:20:00+09:00",
     "updated_at": "2015-01-09T14:35:42+09:00",
     "id": "mpyw"
@@ -50,7 +50,7 @@
   {
     "title": "ログ出力のための print と import logging はやめてほしい",
     "url": "https://qiita.com/amedama/items/b856b2f30c2f38665701",
-    "likes_count": 1655,
+    "likes_count": 1654,
     "created_at": "2014-05-02T13:12:58+09:00",
     "updated_at": "2021-09-18T19:08:05+09:00",
     "id": "amedama"
@@ -66,7 +66,7 @@
   {
     "title": "最近のインフラ系ツールが多すぎて何が何だかわからない！からの卒業",
     "url": "https://qiita.com/kasaharu/items/59b8d3a76b4a22eab88e",
-    "likes_count": 1205,
+    "likes_count": 1204,
     "created_at": "2014-05-03T20:56:27+09:00",
     "updated_at": "2014-09-18T00:01:16+09:00",
     "id": "kasaharu"
@@ -210,7 +210,7 @@
   {
     "title": "CoffeeScriptを使う理由",
     "url": "https://qiita.com/mugichan3/items/9462844b049900ffb22c",
-    "likes_count": 638,
+    "likes_count": 637,
     "created_at": "2014-05-03T23:54:14+09:00",
     "updated_at": "2014-05-07T23:12:41+09:00",
     "id": "mugichan3"
@@ -330,7 +330,7 @@
   {
     "title": "多段SSHやポートフォワーディングを '.ssh/config' に書く",
     "url": "https://qiita.com/lasta/items/41e95a2fdded18c34dae",
-    "likes_count": 446,
+    "likes_count": 445,
     "created_at": "2014-05-14T16:27:11+09:00",
     "updated_at": "2019-12-27T08:11:20+09:00",
     "id": "lasta"
@@ -346,7 +346,7 @@
   {
     "title": "[Node.js] Socket.ioで双方向通信チャットアプリを構築 〜 JSおくのほそ道 #005 ",
     "url": "https://qiita.com/hosomichi/items/66b309a6c3c20d910218",
-    "likes_count": 408,
+    "likes_count": 407,
     "created_at": "2014-05-19T08:55:52+09:00",
     "updated_at": "2014-09-14T18:06:35+09:00",
     "id": "hosomichi"
@@ -456,20 +456,20 @@
     "id": "tarr1124"
   },
   {
-    "title": "シェルスクリプトのオプション設計ガイドライン",
-    "url": "https://qiita.com/mollifier/items/95a294f95f5977b9d663",
-    "likes_count": 288,
-    "created_at": "2014-05-20T22:17:07+09:00",
-    "updated_at": "2015-04-16T12:11:08+09:00",
-    "id": "mollifier"
-  },
-  {
     "title": "inotify-toolsでファイルやディレクトリを監視する",
     "url": "https://qiita.com/stc1988/items/464410382f8425681c20",
     "likes_count": 288,
     "created_at": "2014-05-22T20:48:50+09:00",
     "updated_at": "2019-03-07T23:25:03+09:00",
     "id": "stc1988"
+  },
+  {
+    "title": "シェルスクリプトのオプション設計ガイドライン",
+    "url": "https://qiita.com/mollifier/items/95a294f95f5977b9d663",
+    "likes_count": 287,
+    "created_at": "2014-05-20T22:17:07+09:00",
+    "updated_at": "2015-04-16T12:11:08+09:00",
+    "id": "mollifier"
   },
   {
     "title": "C++で簡単非同期処理(std::thread,std::async)",
@@ -490,7 +490,7 @@
   {
     "title": "Node.jsの人はちゃんとsleepしてください",
     "url": "https://qiita.com/tanakahisateru/items/9b937989c0ef5345ff9e",
-    "likes_count": 269,
+    "likes_count": 268,
     "created_at": "2014-05-28T18:55:10+09:00",
     "updated_at": "2014-05-28T19:02:44+09:00",
     "id": "tanakahisateru"
