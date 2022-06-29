@@ -18,7 +18,7 @@
   {
     "title": "TypeScript学習ロードマップ",
     "url": "https://qiita.com/irico/items/33744e15a4e0ca52d6bc",
-    "likes_count": 1813,
+    "likes_count": 1814,
     "created_at": "2020-08-17T18:50:32+09:00",
     "updated_at": "2020-08-20T08:42:45+09:00",
     "id": "irico"
@@ -26,7 +26,7 @@
   {
     "title": "Pythonでも簡単にGUIは作れる",
     "url": "https://qiita.com/konitech913/items/61dc715ddaad54505a29",
-    "likes_count": 1692,
+    "likes_count": 1693,
     "created_at": "2020-08-23T10:24:46+09:00",
     "updated_at": "2020-08-26T05:27:38+09:00",
     "id": "konitech913"
@@ -152,20 +152,20 @@
     "id": "ningenMe"
   },
   {
+    "title": "GitHub CLIで始める快適GitHub生活",
+    "url": "https://qiita.com/ryo2132/items/2a29dd7b1627af064d7b",
+    "likes_count": 589,
+    "created_at": "2020-08-13T21:21:09+09:00",
+    "updated_at": "2020-10-07T13:42:05+09:00",
+    "id": "ryo2132"
+  },
+  {
     "title": "バイバイ Python。 ハロー Julia！",
     "url": "https://qiita.com/baby-degu/items/7d4e295964ebb6e92de4",
     "likes_count": 588,
     "created_at": "2020-08-02T23:06:24+09:00",
     "updated_at": "2021-02-10T21:16:55+09:00",
     "id": "baby-degu"
-  },
-  {
-    "title": "GitHub CLIで始める快適GitHub生活",
-    "url": "https://qiita.com/ryo2132/items/2a29dd7b1627af064d7b",
-    "likes_count": 588,
-    "created_at": "2020-08-13T21:21:09+09:00",
-    "updated_at": "2020-10-07T13:42:05+09:00",
-    "id": "ryo2132"
   },
   {
     "title": "正式リリース前に総予習!! Vue3の変更点まとめ",
@@ -258,10 +258,18 @@
   {
     "title": "ネット麻雀(雀魂)をOpenCVと機械学習で自動化した話",
     "url": "https://qiita.com/hiro0156/items/51ab267f4f47f2f8fe76",
-    "likes_count": 343,
+    "likes_count": 344,
     "created_at": "2020-08-12T14:48:42+09:00",
     "updated_at": "2021-01-24T11:11:11+09:00",
     "id": "hiro0156"
+  },
+  {
+    "title": "TypeScript + Node.jsプロジェクトにESLint + Prettierを導入する手順2020",
+    "url": "https://qiita.com/notakaos/items/85fd2f5c549f247585b1",
+    "likes_count": 332,
+    "created_at": "2020-08-12T17:07:04+09:00",
+    "updated_at": "2021-05-13T10:19:59+09:00",
+    "id": "notakaos"
   },
   {
     "title": "リーダブルコードを読み直したのでまとめてみた",
@@ -270,14 +278,6 @@
     "created_at": "2020-08-04T13:28:11+09:00",
     "updated_at": "2020-08-04T17:48:07+09:00",
     "id": "naoya_matsuda"
-  },
-  {
-    "title": "TypeScript + Node.jsプロジェクトにESLint + Prettierを導入する手順2020",
-    "url": "https://qiita.com/notakaos/items/85fd2f5c549f247585b1",
-    "likes_count": 331,
-    "created_at": "2020-08-12T17:07:04+09:00",
-    "updated_at": "2021-05-13T10:19:59+09:00",
-    "id": "notakaos"
   },
   {
     "title": "絶対に失敗しないDockerでLaravel+Vueの実行環境（LEMP環境）を構築する方法〜前編〜",
