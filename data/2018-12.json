@@ -34,7 +34,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1425,
+    "likes_count": 1426,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -50,7 +50,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1338,
+    "likes_count": 1337,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -98,10 +98,18 @@
   {
     "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
     "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
-    "likes_count": 1052,
+    "likes_count": 1053,
     "created_at": "2018-12-06T21:43:43+09:00",
     "updated_at": "2020-04-09T08:20:53+09:00",
     "id": "lobin-z0x50"
+  },
+  {
+    "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
+    "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
+    "likes_count": 1021,
+    "created_at": "2018-12-25T21:17:23+09:00",
+    "updated_at": "2021-07-05T14:33:34+09:00",
+    "id": "hirokidaichi"
   },
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
@@ -110,14 +118,6 @@
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
-  },
-  {
-    "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
-    "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
-    "likes_count": 1020,
-    "created_at": "2018-12-25T21:17:23+09:00",
-    "updated_at": "2021-07-05T14:33:34+09:00",
-    "id": "hirokidaichi"
   },
   {
     "title": "JavaScriptの概念たち (前編)",
@@ -186,7 +186,7 @@
   {
     "title": "仕事で使えるLinux ワンライナー集",
     "url": "https://qiita.com/ryuichi1208/items/55b73d8ae75993dc10c1",
-    "likes_count": 915,
+    "likes_count": 916,
     "created_at": "2018-12-20T21:46:16+09:00",
     "updated_at": "2019-01-06T20:00:56+09:00",
     "id": "ryuichi1208"
@@ -288,20 +288,20 @@
     "id": "ponkotuy"
   },
   {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 575,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2021-07-12T12:15:57+09:00",
+    "id": "syantien"
+  },
+  {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
     "likes_count": 575,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
-  },
-  {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 574,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2021-07-12T12:15:57+09:00",
-    "id": "syantien"
   },
   {
     "title": "とても強い計算量クラスのコンピュータとその実現方法",
@@ -320,20 +320,20 @@
     "id": "gushwell"
   },
   {
-    "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
-    "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 525,
-    "created_at": "2018-12-15T23:59:14+09:00",
-    "updated_at": "2020-01-17T23:28:46+09:00",
-    "id": "kabochapo"
-  },
-  {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 524,
+    "likes_count": 526,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
+  },
+  {
+    "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
+    "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
+    "likes_count": 526,
+    "created_at": "2018-12-15T23:59:14+09:00",
+    "updated_at": "2020-01-17T23:28:46+09:00",
+    "id": "kabochapo"
   },
   {
     "title": "ExcelにPythonが搭載？その後 - xlwings を使おう ",
@@ -410,7 +410,7 @@
   {
     "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
     "url": "https://qiita.com/koizumittn/items/77923a8f71d47d895b34",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2018-12-29T11:42:35+09:00",
     "updated_at": "2019-01-21T20:31:35+09:00",
     "id": "koizumittn"
@@ -520,20 +520,20 @@
     "id": "SiragumoHuin"
   },
   {
+    "title": "今更だけど、SREとは何かについてまとめる",
+    "url": "https://qiita.com/masao-kunii/items/f96a89a0cdff66c108fd",
+    "likes_count": 385,
+    "created_at": "2018-12-10T19:27:28+09:00",
+    "updated_at": "2018-12-10T20:48:49+09:00",
+    "id": "masao-kunii"
+  },
+  {
     "title": "fmt.Printfなんかこわくない",
     "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
     "likes_count": 384,
     "created_at": "2018-12-07T05:35:39+09:00",
     "updated_at": "2019-05-22T20:39:46+09:00",
     "id": "rock619"
-  },
-  {
-    "title": "今更だけど、SREとは何かについてまとめる",
-    "url": "https://qiita.com/masao-kunii/items/f96a89a0cdff66c108fd",
-    "likes_count": 384,
-    "created_at": "2018-12-10T19:27:28+09:00",
-    "updated_at": "2018-12-10T20:48:49+09:00",
-    "id": "masao-kunii"
   },
   {
     "title": "Herokuを使いこなすのに必要な術",
@@ -632,20 +632,20 @@
     "id": "howdy39"
   },
   {
+    "title": "useEffectフックのしくみ",
+    "url": "https://qiita.com/ossan-engineer/items/740425a0df937a47e093",
+    "likes_count": 339,
+    "created_at": "2018-12-05T23:07:55+09:00",
+    "updated_at": "2018-12-19T07:03:03+09:00",
+    "id": "ossan-engineer"
+  },
+  {
     "title": "JavaScriptの概念たち (後編)",
     "url": "https://qiita.com/tsin1rou/items/b30885b189a8ec596c72",
     "likes_count": 337,
     "created_at": "2018-12-04T02:41:51+09:00",
     "updated_at": "2018-12-04T13:27:23+09:00",
     "id": "tsin1rou"
-  },
-  {
-    "title": "useEffectフックのしくみ",
-    "url": "https://qiita.com/ossan-engineer/items/740425a0df937a47e093",
-    "likes_count": 337,
-    "created_at": "2018-12-05T23:07:55+09:00",
-    "updated_at": "2018-12-19T07:03:03+09:00",
-    "id": "ossan-engineer"
   },
   {
     "title": "Hugo で静的なサイト・ブログを構築しよう",
@@ -712,20 +712,20 @@
     "id": "s_yokoi"
   },
   {
+    "title": "scpコマンド",
+    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
+    "likes_count": 294,
+    "created_at": "2018-12-22T21:41:23+09:00",
+    "updated_at": "2018-12-22T21:41:23+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
     "url": "https://qiita.com/Hailee/items/781e33e2474e254fdd7c",
     "likes_count": 293,
     "created_at": "2018-12-20T16:11:54+09:00",
     "updated_at": "2020-07-14T14:57:29+09:00",
     "id": "Hailee"
-  },
-  {
-    "title": "scpコマンド",
-    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
-    "likes_count": 293,
-    "created_at": "2018-12-22T21:41:23+09:00",
-    "updated_at": "2018-12-22T21:41:23+09:00",
-    "id": "chihiro"
   },
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
@@ -746,7 +746,7 @@
   {
     "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
     "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
-    "likes_count": 274,
+    "likes_count": 275,
     "created_at": "2018-12-09T00:00:37+09:00",
     "updated_at": "2021-04-15T09:24:25+09:00",
     "id": "ryosuketter"
@@ -762,7 +762,7 @@
   {
     "title": "Python3インストール（Mac編）",
     "url": "https://qiita.com/ms-rock/items/72b8f1abc661c539bb09",
-    "likes_count": 252,
+    "likes_count": 253,
     "created_at": "2018-12-21T18:45:59+09:00",
     "updated_at": "2019-11-22T09:12:44+09:00",
     "id": "ms-rock"
