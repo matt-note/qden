@@ -82,7 +82,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 1008,
+    "likes_count": 1009,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -90,7 +90,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 1006,
+    "likes_count": 1007,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -274,7 +274,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 657,
+    "likes_count": 658,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -370,10 +370,18 @@
   {
     "title": "SlackのIncoming Webhooksを使い倒す",
     "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
-    "likes_count": 555,
+    "likes_count": 554,
     "created_at": "2017-12-14T10:09:51+09:00",
     "updated_at": "2017-12-14T14:47:37+09:00",
     "id": "ik-fib"
+  },
+  {
+    "title": "E2Eテストの導入から学んだこと",
+    "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
+    "likes_count": 546,
+    "created_at": "2017-12-13T19:21:04+09:00",
+    "updated_at": "2018-07-17T14:04:00+09:00",
+    "id": "mt0m"
   },
   {
     "title": "エンジニアが最高のUIをつくるためのプロトタイピング方法まとめ（2017年版）",
@@ -382,14 +390,6 @@
     "created_at": "2017-12-23T22:03:19+09:00",
     "updated_at": "2018-12-09T17:24:58+09:00",
     "id": "yuh_iw"
-  },
-  {
-    "title": "E2Eテストの導入から学んだこと",
-    "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 545,
-    "created_at": "2017-12-13T19:21:04+09:00",
-    "updated_at": "2018-07-17T14:04:00+09:00",
-    "id": "mt0m"
   },
   {
     "title": "極めろ！！Google Chrome Devtools 52の関節技",
@@ -666,7 +666,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"

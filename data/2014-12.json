@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマに正月休み中を使って読んでみてほしい技術書をセレクトしてみた。",
     "url": "https://qiita.com/hirokidaichi/items/d30714f0698dcff1200f",
-    "likes_count": 3081,
+    "likes_count": 3082,
     "created_at": "2014-12-18T21:49:50+09:00",
     "updated_at": "2018-02-20T09:54:50+09:00",
     "id": "hirokidaichi"
@@ -50,7 +50,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1388,
+    "likes_count": 1389,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2021-10-20T18:10:09+09:00",
     "id": "kunichiko"
@@ -146,7 +146,7 @@
   {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
-    "likes_count": 796,
+    "likes_count": 797,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
@@ -472,20 +472,20 @@
     "id": "hiroyasu55"
   },
   {
+    "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
+    "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
+    "likes_count": 430,
+    "created_at": "2014-12-26T17:08:08+09:00",
+    "updated_at": "2014-12-26T17:08:08+09:00",
+    "id": "mimoe"
+  },
+  {
     "title": "Activity のライフサイクル再確認",
     "url": "https://qiita.com/calciolife/items/39b2696a9a03e8591d40",
     "likes_count": 429,
     "created_at": "2014-12-21T22:51:50+09:00",
     "updated_at": "2014-12-21T22:55:26+09:00",
     "id": "calciolife"
-  },
-  {
-    "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
-    "url": "https://qiita.com/mimoe/items/74cb3a01a30162759fdd",
-    "likes_count": 429,
-    "created_at": "2014-12-26T17:08:08+09:00",
-    "updated_at": "2014-12-26T17:08:08+09:00",
-    "id": "mimoe"
   },
   {
     "title": "コストを下げろと言われたら~AWSでまずやること~",
