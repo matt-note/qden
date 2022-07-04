@@ -18,7 +18,7 @@
   {
     "title": "再帰関数を学ぶと、どんな世界が広がるか",
     "url": "https://qiita.com/drken/items/23a4f604fa3f505dd5ad",
-    "likes_count": 1741,
+    "likes_count": 1742,
     "created_at": "2019-04-04T10:44:13+09:00",
     "updated_at": "2020-08-07T16:31:29+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "世の中のエンジニアのalias設定",
     "url": "https://qiita.com/reireias/items/d906ab086c3bc4c22147",
-    "likes_count": 1476,
+    "likes_count": 1475,
     "created_at": "2019-04-08T23:12:35+09:00",
     "updated_at": "2019-04-15T07:24:31+09:00",
     "id": "reireias"
@@ -42,7 +42,7 @@
   {
     "title": "Qiitaで記事を公開するときに気を付けるべきマナーについて 〜無断でネットや書籍の内容を丸写しするのはやめよう〜",
     "url": "https://qiita.com/jnchito/items/215c2d51599eb29adabc",
-    "likes_count": 1306,
+    "likes_count": 1305,
     "created_at": "2019-04-24T03:43:11+09:00",
     "updated_at": "2019-04-25T10:37:02+09:00",
     "id": "jnchito"
@@ -58,7 +58,7 @@
   {
     "title": "Chainerが作った「ディープラーニング入門」が凄すぎる！",
     "url": "https://qiita.com/DogFortune/items/221c182bc872025a57e7",
-    "likes_count": 950,
+    "likes_count": 949,
     "created_at": "2019-04-15T09:21:13+09:00",
     "updated_at": "2019-05-20T12:36:21+09:00",
     "id": "DogFortune"
@@ -106,7 +106,7 @@
   {
     "title": "AtCoderで始めるPython入門",
     "url": "https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c",
-    "likes_count": 789,
+    "likes_count": 790,
     "created_at": "2019-04-04T14:41:04+09:00",
     "updated_at": "2022-07-03T01:55:21+09:00",
     "id": "KoyanagiHitoshi"
@@ -130,7 +130,7 @@
   {
     "title": "TensorFlow を使ってブラックホールとポンデリングを見分ける (追記あり)",
     "url": "https://qiita.com/mattn/items/429fca1c72bcb99adbc3",
-    "likes_count": 709,
+    "likes_count": 708,
     "created_at": "2019-04-12T01:34:12+09:00",
     "updated_at": "2019-04-19T09:42:56+09:00",
     "id": "mattn"
@@ -248,20 +248,20 @@
     "id": "Harusugi"
   },
   {
+    "title": "JavaScriptに参照渡し/値渡しなど存在しない",
+    "url": "https://qiita.com/yuta0801/items/f8690a6e129c594de5fb",
+    "likes_count": 477,
+    "created_at": "2019-04-18T18:02:14+09:00",
+    "updated_at": "2021-01-18T20:57:05+09:00",
+    "id": "yuta0801"
+  },
+  {
     "title": "VSCodeで始めるVim",
     "url": "https://qiita.com/jintz/items/d357478271179c90ffab",
     "likes_count": 477,
     "created_at": "2019-04-19T13:19:08+09:00",
     "updated_at": "2021-02-07T11:40:25+09:00",
     "id": "jintz"
-  },
-  {
-    "title": "JavaScriptに参照渡し/値渡しなど存在しない",
-    "url": "https://qiita.com/yuta0801/items/f8690a6e129c594de5fb",
-    "likes_count": 476,
-    "created_at": "2019-04-18T18:02:14+09:00",
-    "updated_at": "2021-01-18T20:57:05+09:00",
-    "id": "yuta0801"
   },
   {
     "title": "雰囲気で使わない React hooks の useCallback/useMemo",
@@ -374,6 +374,14 @@
     "created_at": "2019-04-13T18:34:28+09:00",
     "updated_at": "2019-04-14T12:14:08+09:00",
     "id": "masanarih0ri"
+  },
+  {
+    "title": "Docker で環境変数をホストからコンテナに渡す方法（ホスト OS 側からゲスト OS に渡す方法各種）",
+    "url": "https://qiita.com/KEINOS/items/518610bc2fdf5999acf2",
+    "likes_count": 321,
+    "created_at": "2019-04-29T11:19:54+09:00",
+    "updated_at": "2022-04-18T11:22:44+09:00",
+    "id": "KEINOS"
   },
   {
     "title": "今話題のチャットボットを作ってみた　～スマホ・ＰＣ同時対応のチャットUIを爆速で～",

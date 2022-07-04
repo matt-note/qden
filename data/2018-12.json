@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1641,
+    "likes_count": 1640,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2021-12-04T10:37:55+09:00",
     "id": "masaibar"
@@ -42,7 +42,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1353,
+    "likes_count": 1354,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -130,7 +130,7 @@
   {
     "title": "機械学習/ディープラーニング初心者が2018年にやったこと、読んだ論文",
     "url": "https://qiita.com/koshian2/items/bb4afec12e5dd50aae50",
-    "likes_count": 991,
+    "likes_count": 990,
     "created_at": "2018-12-31T12:55:48+09:00",
     "updated_at": "2018-12-31T14:27:33+09:00",
     "id": "koshian2"
@@ -138,7 +138,7 @@
   {
     "title": "【危険シェル芸】禁じられた闇の魔術とその防衛術💥",
     "url": "https://qiita.com/_-_-_-_-_/items/214d537aae2c1488692c",
-    "likes_count": 985,
+    "likes_count": 984,
     "created_at": "2018-12-22T05:22:29+09:00",
     "updated_at": "2019-08-22T20:49:20+09:00",
     "id": "_-_-_-_-_"
@@ -186,7 +186,7 @@
   {
     "title": "仕事で使えるLinux ワンライナー集",
     "url": "https://qiita.com/ryuichi1208/items/55b73d8ae75993dc10c1",
-    "likes_count": 916,
+    "likes_count": 917,
     "created_at": "2018-12-20T21:46:16+09:00",
     "updated_at": "2019-01-06T20:00:56+09:00",
     "id": "ryuichi1208"
@@ -258,7 +258,7 @@
   {
     "title": "Githubでissue管理して開発しよう",
     "url": "https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b",
-    "likes_count": 647,
+    "likes_count": 648,
     "created_at": "2018-12-24T14:56:03+09:00",
     "updated_at": "2020-11-18T15:03:21+09:00",
     "id": "fukubaka0825"
@@ -376,14 +376,6 @@
     "id": "maskot1977"
   },
   {
-    "title": "その機械学習プロセス、自動化できませんか？",
-    "url": "https://qiita.com/Hironsan/items/30fe09c85da8a28ebd63",
-    "likes_count": 494,
-    "created_at": "2018-12-03T22:32:16+09:00",
-    "updated_at": "2018-12-05T10:36:47+09:00",
-    "id": "Hironsan"
-  },
-  {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
     "likes_count": 469,
@@ -450,7 +442,7 @@
   {
     "title": "Python 割と使うライブラリ集",
     "url": "https://qiita.com/ryuichi1208/items/cb5f850a9811d2a4bc3a",
-    "likes_count": 423,
+    "likes_count": 422,
     "created_at": "2018-12-08T23:10:04+09:00",
     "updated_at": "2019-05-07T00:42:55+09:00",
     "id": "ryuichi1208"
@@ -520,20 +512,20 @@
     "id": "SiragumoHuin"
   },
   {
+    "title": "fmt.Printfなんかこわくない",
+    "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
+    "likes_count": 386,
+    "created_at": "2018-12-07T05:35:39+09:00",
+    "updated_at": "2019-05-22T20:39:46+09:00",
+    "id": "rock619"
+  },
+  {
     "title": "今更だけど、SREとは何かについてまとめる",
     "url": "https://qiita.com/masao-kunii/items/f96a89a0cdff66c108fd",
     "likes_count": 386,
     "created_at": "2018-12-10T19:27:28+09:00",
     "updated_at": "2018-12-10T20:48:49+09:00",
     "id": "masao-kunii"
-  },
-  {
-    "title": "fmt.Printfなんかこわくない",
-    "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
-    "likes_count": 385,
-    "created_at": "2018-12-07T05:35:39+09:00",
-    "updated_at": "2019-05-22T20:39:46+09:00",
-    "id": "rock619"
   },
   {
     "title": "Herokuを使いこなすのに必要な術",
@@ -586,7 +578,7 @@
   {
     "title": "フロントエンドでTDDを実践する（理論編）",
     "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
-    "likes_count": 353,
+    "likes_count": 354,
     "created_at": "2018-12-08T23:40:26+09:00",
     "updated_at": "2018-12-11T23:14:50+09:00",
     "id": "taneba"
@@ -702,6 +694,14 @@
     "created_at": "2018-12-11T00:00:58+09:00",
     "updated_at": "2019-05-06T12:01:55+09:00",
     "id": "pannpers"
+  },
+  {
+    "title": "エンジニアは実装と戦う前に UI と戦った方が幸せになれる 〜 メンタルモデル駆動開発の TIPS 〜",
+    "url": "https://qiita.com/numanomanu/items/4a3b48528a67b670b463",
+    "likes_count": 299,
+    "created_at": "2018-12-25T12:06:50+09:00",
+    "updated_at": "2018-12-26T13:49:22+09:00",
+    "id": "numanomanu"
   },
   {
     "title": "負荷テストの基本的な考え方と進め方(前編)",
