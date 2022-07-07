@@ -10,7 +10,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2477,
+    "likes_count": 2478,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -50,7 +50,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1389,
+    "likes_count": 1390,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2021-10-20T18:10:09+09:00",
     "id": "kunichiko"
@@ -152,6 +152,14 @@
     "id": "kiyodori"
   },
   {
+    "title": "UIViewControllerのライフサイクル",
+    "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
+    "likes_count": 789,
+    "created_at": "2014-12-24T22:11:02+09:00",
+    "updated_at": "2014-12-24T22:11:02+09:00",
+    "id": "motokiee"
+  },
+  {
     "title": "初心者向けGithubへのPullRequest方法",
     "url": "https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b",
     "likes_count": 788,
@@ -160,17 +168,9 @@
     "id": "samurai_runner"
   },
   {
-    "title": "UIViewControllerのライフサイクル",
-    "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 788,
-    "created_at": "2014-12-24T22:11:02+09:00",
-    "updated_at": "2014-12-24T22:11:02+09:00",
-    "id": "motokiee"
-  },
-  {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 768,
+    "likes_count": 769,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
@@ -178,7 +178,7 @@
   {
     "title": "AWS EC2 Amazon Linuxインスタンス起動後、最初にやることまとめ（SysVinit編）",
     "url": "https://qiita.com/yangci/items/ef2ab9b6f0d28bad0881",
-    "likes_count": 759,
+    "likes_count": 760,
     "created_at": "2014-12-17T14:48:05+09:00",
     "updated_at": "2017-04-25T16:04:31+09:00",
     "id": "yangci"
@@ -512,20 +512,20 @@
     "id": "thermes"
   },
   {
+    "title": "rails管理画面系gem比較してみた",
+    "url": "https://qiita.com/baban/items/f751fb05c4d2367878aa",
+    "likes_count": 398,
+    "created_at": "2014-12-23T23:12:29+09:00",
+    "updated_at": "2019-12-05T14:13:35+09:00",
+    "id": "baban"
+  },
+  {
     "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
     "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
     "likes_count": 397,
     "created_at": "2014-12-10T11:37:15+09:00",
     "updated_at": "2015-07-03T17:53:15+09:00",
     "id": "izumin5210"
-  },
-  {
-    "title": "rails管理画面系gem比較してみた",
-    "url": "https://qiita.com/baban/items/f751fb05c4d2367878aa",
-    "likes_count": 397,
-    "created_at": "2014-12-23T23:12:29+09:00",
-    "updated_at": "2019-12-05T14:13:35+09:00",
-    "id": "baban"
   },
   {
     "title": "SVMを使いこなす！チェックポイント8つ",
@@ -786,7 +786,7 @@
   {
     "title": "formタグのaction,method属性の使い方と特性〜html,slimでの記述方法〜",
     "url": "https://qiita.com/miku66/items/f3126380d3340f3d8a2b",
-    "likes_count": 257,
+    "likes_count": 258,
     "created_at": "2014-12-25T07:07:44+09:00",
     "updated_at": "2014-12-25T07:07:44+09:00",
     "id": "miku66"
@@ -794,7 +794,7 @@
   {
     "title": "MySQLコマンドまとめ",
     "url": "https://qiita.com/merrill/items/967884c02e10bd8f32f5",
-    "likes_count": 189,
+    "likes_count": 190,
     "created_at": "2014-12-09T11:07:47+09:00",
     "updated_at": "2019-11-29T14:14:43+09:00",
     "id": "merrill"

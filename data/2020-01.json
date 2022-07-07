@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 5112,
+    "likes_count": 5114,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2022-04-08T09:04:26+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4687,
+    "likes_count": 4689,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -26,7 +26,7 @@
   {
     "title": "2020年の開発者が知っておくべき11の必須スキル",
     "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
-    "likes_count": 2064,
+    "likes_count": 2065,
     "created_at": "2020-01-20T19:54:42+09:00",
     "updated_at": "2020-02-11T22:17:43+09:00",
     "id": "rana_kualu"
@@ -34,7 +34,7 @@
   {
     "title": "高校生がリアルタイム投票サイトを公開したらいきなり1万PVを記録した話",
     "url": "https://qiita.com/akaoni_sohei/items/186121bd9994197aab50",
-    "likes_count": 1967,
+    "likes_count": 1968,
     "created_at": "2020-01-05T11:14:16+09:00",
     "updated_at": "2020-02-11T12:25:59+09:00",
     "id": "akaoni_sohei"
@@ -90,7 +90,7 @@
   {
     "title": "2020年現在 Web系企業で採用されてる技術についてまとめてみた",
     "url": "https://qiita.com/inagacky/items/43cc0518ef11f1e4beb3",
-    "likes_count": 1051,
+    "likes_count": 1052,
     "created_at": "2020-01-22T10:43:23+09:00",
     "updated_at": "2020-09-06T09:25:42+09:00",
     "id": "inagacky"
@@ -146,7 +146,7 @@
   {
     "title": "AWSアカウントを作成したら最初にやるべきこと -セキュリティ編-",
     "url": "https://qiita.com/yanyansk/items/3a989b70d2d3d49eff16",
-    "likes_count": 856,
+    "likes_count": 857,
     "created_at": "2020-01-15T14:14:30+09:00",
     "updated_at": "2020-01-29T20:05:27+09:00",
     "id": "yanyansk"
@@ -162,7 +162,7 @@
   {
     "title": "【Firebase, Nuxt】リアルタイムなスライド共有サービスを作ってハッカソンで優勝した話",
     "url": "https://qiita.com/ryotak3/items/8daee38fb909f7ba21e4",
-    "likes_count": 845,
+    "likes_count": 844,
     "created_at": "2020-01-13T01:20:37+09:00",
     "updated_at": "2020-01-17T19:48:55+09:00",
     "id": "ryotak3"
@@ -186,7 +186,7 @@
   {
     "title": "ラズパイでやらなければいけない４つのセキュリティ対策！",
     "url": "https://qiita.com/nokonoko_1203/items/94a888444d5019f23a11",
-    "likes_count": 743,
+    "likes_count": 744,
     "created_at": "2020-01-31T17:29:12+09:00",
     "updated_at": "2020-06-11T07:52:08+09:00",
     "id": "nokonoko_1203"
@@ -202,7 +202,7 @@
   {
     "title": "機械学習による株価予測　いろはの”い”",
     "url": "https://qiita.com/blog_UKI/items/25dc1c2559c61890a449",
-    "likes_count": 706,
+    "likes_count": 707,
     "created_at": "2020-01-09T12:13:39+09:00",
     "updated_at": "2020-01-09T12:13:39+09:00",
     "id": "blog_UKI"
@@ -306,7 +306,7 @@
   {
     "title": "ginを最速でマスターしよう",
     "url": "https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a",
-    "likes_count": 567,
+    "likes_count": 568,
     "created_at": "2020-01-01T09:46:12+09:00",
     "updated_at": "2021-09-16T14:42:11+09:00",
     "id": "Syoitu"
@@ -328,20 +328,20 @@
     "id": "mizchi"
   },
   {
-    "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
-    "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
-    "likes_count": 509,
-    "created_at": "2020-01-10T19:39:06+09:00",
-    "updated_at": "2020-10-28T20:23:44+09:00",
-    "id": "marnie_ms4"
-  },
-  {
     "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
     "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
     "likes_count": 508,
     "created_at": "2020-01-03T17:27:55+09:00",
     "updated_at": "2020-11-10T02:36:37+09:00",
     "id": "bee2"
+  },
+  {
+    "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
+    "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
+    "likes_count": 508,
+    "created_at": "2020-01-10T19:39:06+09:00",
+    "updated_at": "2020-10-28T20:23:44+09:00",
+    "id": "marnie_ms4"
   },
   {
     "title": "Pythonライブラリの「麻雀(mahjong)」って？？",
@@ -362,7 +362,7 @@
   {
     "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
     "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
-    "likes_count": 483,
+    "likes_count": 484,
     "created_at": "2020-01-19T17:05:28+09:00",
     "updated_at": "2020-01-21T20:33:07+09:00",
     "id": "uhyo"
