@@ -2,7 +2,7 @@
   {
     "title": "初心者プログラマーのための英語命名法",
     "url": "https://qiita.com/YutaManaka/items/62dda256bb7ba6c08399",
-    "likes_count": 1129,
+    "likes_count": 1140,
     "created_at": "2022-06-13T23:58:07+09:00",
     "updated_at": "2022-06-29T21:43:54+09:00",
     "id": "YutaManaka"
@@ -10,7 +10,7 @@
   {
     "title": "【2022年最新】オススメのプログラミング学習サービス集",
     "url": "https://qiita.com/SMAC/items/af433f1013221c5ed529",
-    "likes_count": 1088,
+    "likes_count": 1113,
     "created_at": "2022-06-06T09:43:54+09:00",
     "updated_at": "2022-07-10T09:39:12+09:00",
     "id": "SMAC"
@@ -18,7 +18,7 @@
   {
     "title": "わかりやすいシステム構成図の書き方",
     "url": "https://qiita.com/fetaro/items/c8420f5de48f48317391",
-    "likes_count": 916,
+    "likes_count": 920,
     "created_at": "2022-06-12T08:31:38+09:00",
     "updated_at": "2022-06-13T09:12:26+09:00",
     "id": "fetaro"
@@ -26,23 +26,15 @@
   {
     "title": "エンジニアの技術土台となる知識を得るための本の紹介",
     "url": "https://qiita.com/newta/items/4dfbd7ecf86ef74e70dd",
-    "likes_count": 879,
+    "likes_count": 882,
     "created_at": "2022-06-06T11:57:14+09:00",
     "updated_at": "2022-06-11T12:40:48+09:00",
     "id": "newta"
   },
   {
-    "title": "サクッとAPIを叩く方法 (VS CodeでHTTPリクエストが送れちゃう拡張機能)",
-    "url": "https://qiita.com/yoshii0110/items/d40a1c8bcf0353b5bff3",
-    "likes_count": 443,
-    "created_at": "2022-06-19T23:04:03+09:00",
-    "updated_at": "2022-06-20T12:07:35+09:00",
-    "id": "yoshii0110"
-  },
-  {
     "title": "エンジニア1年生の自分に読んでもらいたい書籍",
     "url": "https://qiita.com/SMAC/items/e50c981e0518141be28f",
-    "likes_count": 440,
+    "likes_count": 445,
     "created_at": "2022-06-13T09:31:51+09:00",
     "updated_at": "2022-06-22T10:41:51+09:00",
     "id": "SMAC"
@@ -50,15 +42,23 @@
   {
     "title": "ゲーム感覚でプログラミング学べるサービス集",
     "url": "https://qiita.com/SMAC/items/41065e31970925964b90",
-    "likes_count": 434,
+    "likes_count": 445,
     "created_at": "2022-06-30T10:28:17+09:00",
     "updated_at": "2022-06-30T10:28:17+09:00",
     "id": "SMAC"
   },
   {
+    "title": "サクッとAPIを叩く方法 (VS CodeでHTTPリクエストが送れちゃう拡張機能)",
+    "url": "https://qiita.com/yoshii0110/items/d40a1c8bcf0353b5bff3",
+    "likes_count": 444,
+    "created_at": "2022-06-19T23:04:03+09:00",
+    "updated_at": "2022-06-20T12:07:35+09:00",
+    "id": "yoshii0110"
+  },
+  {
     "title": "あなたのDockerfileはベストプラクティスに従っていますか？(ベストプラクティスとチェックツール)",
     "url": "https://qiita.com/yoshii0110/items/0accb7f21fa1c375e0d7",
-    "likes_count": 379,
+    "likes_count": 384,
     "created_at": "2022-06-19T16:28:03+09:00",
     "updated_at": "2022-06-30T20:06:57+09:00",
     "id": "yoshii0110"
@@ -82,9 +82,17 @@
   {
     "title": " フロント学習の最高の教材集",
     "url": "https://qiita.com/SMAC/items/201c133d6eeaabf675a7",
-    "likes_count": 339,
+    "likes_count": 346,
     "created_at": "2022-06-27T11:59:10+09:00",
     "updated_at": "2022-07-09T23:07:40+09:00",
+    "id": "SMAC"
+  },
+  {
+    "title": "リーダブルコードの要点整理と活用法をまとめた",
+    "url": "https://qiita.com/SMAC/items/3b14e2e8f89a33c0f959",
+    "likes_count": 301,
+    "created_at": "2022-06-22T16:00:32+09:00",
+    "updated_at": "2022-07-09T23:06:32+09:00",
     "id": "SMAC"
   },
   {
@@ -94,14 +102,6 @@
     "created_at": "2022-06-03T09:13:30+09:00",
     "updated_at": "2022-06-04T12:39:58+09:00",
     "id": "a_ya_ka"
-  },
-  {
-    "title": "リーダブルコードの要点整理と活用法をまとめた",
-    "url": "https://qiita.com/SMAC/items/3b14e2e8f89a33c0f959",
-    "likes_count": 294,
-    "created_at": "2022-06-22T16:00:32+09:00",
-    "updated_at": "2022-07-09T23:06:32+09:00",
-    "id": "SMAC"
   },
   {
     "title": "より良いプログラミングのための英語: 初級編",
@@ -114,7 +114,7 @@
   {
     "title": "【AI最新論文】2022年に読むべき「機械学習/ディープラーニングの最新論文」30選",
     "url": "https://qiita.com/skillup_ai/items/f8ad82e414f44389c054",
-    "likes_count": 269,
+    "likes_count": 270,
     "created_at": "2022-06-07T15:07:27+09:00",
     "updated_at": "2022-06-07T15:07:27+09:00",
     "id": "skillup_ai"
