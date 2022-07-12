@@ -10,7 +10,7 @@
   {
     "title": "[ver 1.2] Git でよく使われるコマンドにイラストによる説明を加えて1枚のチートシートにまとめてみた",
     "url": "https://qiita.com/kozzy/items/b42ba59a8bac190a16ab",
-    "likes_count": 2634,
+    "likes_count": 2635,
     "created_at": "2019-03-02T21:07:11+09:00",
     "updated_at": "2019-10-31T11:03:34+09:00",
     "id": "kozzy"
@@ -58,7 +58,7 @@
   {
     "title": "未経験から7日間でコーダーとして現場投入させるまでのカリキュラムを忘れないようにメモっとく",
     "url": "https://qiita.com/hissy/items/e781a62ff6521803a230",
-    "likes_count": 1371,
+    "likes_count": 1370,
     "created_at": "2019-03-25T08:16:32+09:00",
     "updated_at": "2019-03-28T20:08:37+09:00",
     "id": "hissy"
@@ -82,7 +82,7 @@
   {
     "title": "ワイ「いうても型なんて面倒くさいだけやろ？」",
     "url": "https://qiita.com/Yametaro/items/2eaa6fd75255c8c2a2bb",
-    "likes_count": 1283,
+    "likes_count": 1282,
     "created_at": "2019-03-05T23:30:10+09:00",
     "updated_at": "2020-06-01T11:19:55+09:00",
     "id": "Yametaro"
@@ -114,7 +114,7 @@
   {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 1032,
+    "likes_count": 1033,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
@@ -234,7 +234,7 @@
   {
     "title": "「Railsは終わった」と言われる理由",
     "url": "https://qiita.com/klriutsa/items/86ac5e94ec99c0d95b61",
-    "likes_count": 687,
+    "likes_count": 688,
     "created_at": "2019-03-05T23:25:11+09:00",
     "updated_at": "2019-08-22T20:18:32+09:00",
     "id": "klriutsa"
@@ -360,20 +360,20 @@
     "id": "fukuda_fu"
   },
   {
+    "title": "【入門者向け】機械学習の分類問題評価指標解説(正解率・適合率・再現率など)",
+    "url": "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "likes_count": 476,
+    "created_at": "2019-03-01T06:19:45+09:00",
+    "updated_at": "2022-05-18T10:01:00+09:00",
+    "id": "FukuharaYohei"
+  },
+  {
     "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
     "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
     "likes_count": 476,
     "created_at": "2019-03-21T16:54:22+09:00",
     "updated_at": "2019-03-21T16:54:59+09:00",
     "id": "1ain2"
-  },
-  {
-    "title": "【入門者向け】機械学習の分類問題評価指標解説(正解率・適合率・再現率など)",
-    "url": "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
-    "likes_count": 474,
-    "created_at": "2019-03-01T06:19:45+09:00",
-    "updated_at": "2022-05-18T10:01:00+09:00",
-    "id": "FukuharaYohei"
   },
   {
     "title": "Emacsモダン化計画 -かわEmacs編-",
@@ -402,7 +402,7 @@
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
     "url": "https://qiita.com/ryosuketter/items/9240d8c2561b5989f049",
-    "likes_count": 457,
+    "likes_count": 458,
     "created_at": "2019-03-17T22:54:32+09:00",
     "updated_at": "2019-03-17T22:54:32+09:00",
     "id": "ryosuketter"
@@ -426,7 +426,7 @@
   {
     "title": "Rust のエラーハンドリングはシンタックスシュガーが豊富で完全に初見殺しなので自信を持って使えるように整理してみたら完全に理解した",
     "url": "https://qiita.com/nirasan/items/321e7cc42e0e0f238254",
-    "likes_count": 435,
+    "likes_count": 436,
     "created_at": "2019-03-15T09:35:24+09:00",
     "updated_at": "2022-04-25T11:09:27+09:00",
     "id": "nirasan"
@@ -440,6 +440,14 @@
     "id": "kazupaka"
   },
   {
+    "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
+    "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
+    "likes_count": 428,
+    "created_at": "2019-03-22T20:21:49+09:00",
+    "updated_at": "2019-04-04T14:22:15+09:00",
+    "id": "tancoro"
+  },
+  {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
     "url": "https://qiita.com/klriutsa/items/7f6047485968c61b6a5d",
     "likes_count": 428,
@@ -448,17 +456,9 @@
     "id": "klriutsa"
   },
   {
-    "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
-    "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
-    "likes_count": 427,
-    "created_at": "2019-03-22T20:21:49+09:00",
-    "updated_at": "2019-04-04T14:22:15+09:00",
-    "id": "tancoro"
-  },
-  {
     "title": "【入門】Redis",
     "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 415,
+    "likes_count": 417,
     "created_at": "2019-03-22T16:43:36+09:00",
     "updated_at": "2020-09-14T17:26:22+09:00",
     "id": "wind-up-bird"
