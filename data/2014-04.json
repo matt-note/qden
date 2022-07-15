@@ -18,7 +18,7 @@
   {
     "title": "本当に正しい .bashrc と .bash_profile の使ひ分け",
     "url": "https://qiita.com/magicant/items/d3bb7ea1192e63fba850",
-    "likes_count": 1946,
+    "likes_count": 1947,
     "created_at": "2014-04-16T10:49:22+09:00",
     "updated_at": "2019-06-07T13:58:46+09:00",
     "id": "magicant"
@@ -298,7 +298,7 @@
   {
     "title": "クラス・モジュールの概念 Ruby",
     "url": "https://qiita.com/fukumone/items/2dd4d2d1ce6ed05928de",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2014-04-07T21:15:42+09:00",
     "updated_at": "2014-04-17T15:23:27+09:00",
     "id": "fukumone"
@@ -370,7 +370,7 @@
   {
     "title": "意外と知られてないっぽいMarkdownのリンクの書き方",
     "url": "https://qiita.com/h1na/items/d305d49b5a27e92d132a",
-    "likes_count": 342,
+    "likes_count": 343,
     "created_at": "2014-04-02T18:52:51+09:00",
     "updated_at": "2020-01-16T02:40:45+09:00",
     "id": "h1na"
@@ -408,20 +408,20 @@
     "id": "hoshi-takanori"
   },
   {
+    "title": "インデントコミットで真犯人がわからなくなった場合の git blame",
+    "url": "https://qiita.com/sonots/items/b6852db6638cda233bc8",
+    "likes_count": 293,
+    "created_at": "2014-04-01T16:13:37+09:00",
+    "updated_at": "2015-02-01T03:38:16+09:00",
+    "id": "sonots"
+  },
+  {
     "title": "SSH認証キーをGitLabに登録・設定手順 覚書",
     "url": "https://qiita.com/redamoon/items/07e445d1fce360cb5fa3",
     "likes_count": 293,
     "created_at": "2014-04-07T20:42:33+09:00",
     "updated_at": "2015-11-14T16:52:59+09:00",
     "id": "redamoon"
-  },
-  {
-    "title": "インデントコミットで真犯人がわからなくなった場合の git blame",
-    "url": "https://qiita.com/sonots/items/b6852db6638cda233bc8",
-    "likes_count": 292,
-    "created_at": "2014-04-01T16:13:37+09:00",
-    "updated_at": "2015-02-01T03:38:16+09:00",
-    "id": "sonots"
   },
   {
     "title": "dockerを使って動作中のサーバーをホスティング会社間で移動する",

@@ -2,7 +2,7 @@
   {
     "title": "要件定義～システム設計ができる人材になれる記事",
     "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
-    "likes_count": 5120,
+    "likes_count": 5123,
     "created_at": "2020-01-11T09:04:24+09:00",
     "updated_at": "2022-04-08T09:04:26+09:00",
     "id": "Saku731"
@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4694,
+    "likes_count": 4695,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -130,7 +130,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 906,
+    "likes_count": 907,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -194,7 +194,7 @@
   {
     "title": "経年劣化に耐える ReactComponent の書き方",
     "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
-    "likes_count": 734,
+    "likes_count": 735,
     "created_at": "2020-01-16T19:01:04+09:00",
     "updated_at": "2020-01-19T13:49:21+09:00",
     "id": "Takepepe"
@@ -338,7 +338,7 @@
   {
     "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
     "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
-    "likes_count": 508,
+    "likes_count": 509,
     "created_at": "2020-01-10T19:39:06+09:00",
     "updated_at": "2020-10-28T20:23:44+09:00",
     "id": "marnie_ms4"
@@ -410,10 +410,18 @@
   {
     "title": "初の個人アプリを App Store に審査出したら 30 分足らずでリリースされてビビったからその全てをお伝えします",
     "url": "https://qiita.com/lovee/items/67906ec593ebd91d608d",
-    "likes_count": 438,
+    "likes_count": 439,
     "created_at": "2020-01-14T10:51:52+09:00",
     "updated_at": "2022-03-30T02:43:44+09:00",
     "id": "lovee"
+  },
+  {
+    "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
+    "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
+    "likes_count": 421,
+    "created_at": "2020-01-11T13:59:43+09:00",
+    "updated_at": "2021-06-22T14:23:00+09:00",
+    "id": "shiro01"
   },
   {
     "title": "独学で0からプログラミングを始めて、成り上がるためには",
@@ -422,14 +430,6 @@
     "created_at": "2020-01-20T01:30:00+09:00",
     "updated_at": "2020-07-20T18:07:45+09:00",
     "id": "katy7"
-  },
-  {
-    "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
-    "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
-    "likes_count": 420,
-    "created_at": "2020-01-11T13:59:43+09:00",
-    "updated_at": "2021-06-22T14:23:00+09:00",
-    "id": "shiro01"
   },
   {
     "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
