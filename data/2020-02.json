@@ -10,7 +10,7 @@
   {
     "title": "ls よりも exa を使おう！モダンな Linux コマンド達を紹介",
     "url": "https://qiita.com/navitime_tech/items/c249269a3b47666c784b",
-    "likes_count": 3361,
+    "likes_count": 3362,
     "created_at": "2020-02-25T10:59:38+09:00",
     "updated_at": "2020-02-25T11:52:32+09:00",
     "id": "navitime_tech"
@@ -26,7 +26,7 @@
   {
     "title": "2020年にWebフロントエンドを勉強する人が作るべきたったひとつのアプリ",
     "url": "https://qiita.com/Dragon-taro/items/03f322dee15b19c33613",
-    "likes_count": 2419,
+    "likes_count": 2420,
     "created_at": "2020-02-04T11:01:51+09:00",
     "updated_at": "2020-02-09T10:52:17+09:00",
     "id": "Dragon-taro"
@@ -42,7 +42,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】",
     "url": "https://qiita.com/e869120/items/eb50fdaece12be418faa",
-    "likes_count": 2102,
+    "likes_count": 2103,
     "created_at": "2020-02-19T19:00:56+09:00",
     "updated_at": "2021-07-12T22:49:23+09:00",
     "id": "e869120"
@@ -82,7 +82,7 @@
   {
     "title": "2020年現在のNewSQLについて",
     "url": "https://qiita.com/tzkoba/items/5316c6eac66510233115",
-    "likes_count": 1297,
+    "likes_count": 1298,
     "created_at": "2020-02-26T18:34:57+09:00",
     "updated_at": "2021-07-03T18:56:33+09:00",
     "id": "tzkoba"
@@ -98,7 +98,7 @@
   {
     "title": "GraphQLの全体像とWebApp開発のこれから",
     "url": "https://qiita.com/saboyutaka/items/171f7382cdf75b67d076",
-    "likes_count": 1270,
+    "likes_count": 1271,
     "created_at": "2020-02-24T16:21:54+09:00",
     "updated_at": "2021-07-27T10:30:26+09:00",
     "id": "saboyutaka"
@@ -114,7 +114,7 @@
   {
     "title": "Pythonでゼロからでもサービス開発・公開できる学習ロードマップ",
     "url": "https://qiita.com/Saku731/items/52a3bbacd002f26f408e",
-    "likes_count": 1160,
+    "likes_count": 1161,
     "created_at": "2020-02-16T10:47:51+09:00",
     "updated_at": "2021-03-26T11:29:50+09:00",
     "id": "Saku731"
@@ -162,7 +162,7 @@
   {
     "title": "Jamstackって何なの？何がいいの？",
     "url": "https://qiita.com/ozaki25/items/4075d03278d1fb51cc37",
-    "likes_count": 819,
+    "likes_count": 820,
     "created_at": "2020-02-08T02:59:23+09:00",
     "updated_at": "2021-10-26T18:46:23+09:00",
     "id": "ozaki25"
@@ -224,20 +224,20 @@
     "id": "reireias"
   },
   {
+    "title": "Pythonのthreadingとmultiprocessingを完全理解",
+    "url": "https://qiita.com/kaitolucifer/items/e4ace07bd8e112388c75",
+    "likes_count": 509,
+    "created_at": "2020-02-26T20:35:18+09:00",
+    "updated_at": "2021-05-20T11:58:58+09:00",
+    "id": "kaitolucifer"
+  },
+  {
     "title": "pythonを使った株価の自動収集",
     "url": "https://qiita.com/Hexans/items/12c6483bbce90b470a69",
     "likes_count": 508,
     "created_at": "2020-02-18T21:35:06+09:00",
     "updated_at": "2020-04-18T19:20:38+09:00",
     "id": "Hexans"
-  },
-  {
-    "title": "Pythonのthreadingとmultiprocessingを完全理解",
-    "url": "https://qiita.com/kaitolucifer/items/e4ace07bd8e112388c75",
-    "likes_count": 508,
-    "created_at": "2020-02-26T20:35:18+09:00",
-    "updated_at": "2021-05-20T11:58:58+09:00",
-    "id": "kaitolucifer"
   },
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【上級編：目指せレッドコーダー！】",
@@ -258,7 +258,7 @@
   {
     "title": "【TypeScript】Generics(ジェネリックス)を理解する",
     "url": "https://qiita.com/k-penguin-sato/items/9baa959e8919157afcd4",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2020-02-28T07:48:57+09:00",
     "updated_at": "2020-07-22T07:40:53+09:00",
     "id": "k-penguin-sato"
@@ -418,7 +418,7 @@
   {
     "title": "Googleスプレッドシートを利用した、たぶん史上最も簡単にデータを更新できるマップツール",
     "url": "https://qiita.com/champierre/items/e7758b69b39476148492",
-    "likes_count": 280,
+    "likes_count": 281,
     "created_at": "2020-02-02T23:16:27+09:00",
     "updated_at": "2022-03-06T19:15:54+09:00",
     "id": "champierre"
@@ -434,7 +434,7 @@
   {
     "title": "すっきり書きたい JavaScriptの条件分岐",
     "url": "https://qiita.com/taiju_suzuki/items/e2bf11fcf1645623235f",
-    "likes_count": 260,
+    "likes_count": 261,
     "created_at": "2020-02-12T18:41:04+09:00",
     "updated_at": "2020-02-19T23:31:36+09:00",
     "id": "taiju_suzuki"
