@@ -146,7 +146,7 @@
   {
     "title": "Vagrant + VirtualBoxでWindows上に開発環境をサクッと構築する",
     "url": "https://qiita.com/ozawan/items/160728f7c6b10c73b97e",
-    "likes_count": 927,
+    "likes_count": 928,
     "created_at": "2016-03-01T16:05:57+09:00",
     "updated_at": "2018-09-05T04:03:42+09:00",
     "id": "ozawan"
@@ -250,7 +250,7 @@
   {
     "title": "Ruby on Rails カラムの追加と削除",
     "url": "https://qiita.com/azusanakano/items/a2847e4e582b9a627e3a",
-    "likes_count": 598,
+    "likes_count": 599,
     "created_at": "2016-03-29T12:11:04+09:00",
     "updated_at": "2016-03-29T12:16:03+09:00",
     "id": "azusanakano"
@@ -290,7 +290,7 @@
   {
     "title": "Bundlerの使い方",
     "url": "https://qiita.com/oshou/items/6283c2315dc7dd244aef",
-    "likes_count": 543,
+    "likes_count": 544,
     "created_at": "2016-03-28T00:21:17+09:00",
     "updated_at": "2017-02-03T18:11:09+09:00",
     "id": "oshou"
@@ -472,20 +472,20 @@
     "id": "hc0208"
   },
   {
+    "title": "git flowとgithub flowとは？その違いは？",
+    "url": "https://qiita.com/mint__/items/bfc58589b5b1e0a1856a",
+    "likes_count": 397,
+    "created_at": "2016-03-25T13:13:14+09:00",
+    "updated_at": "2016-03-29T10:32:41+09:00",
+    "id": "mint__"
+  },
+  {
     "title": "SlackクローンのMattermostを使ってみる - 導入、初期設定編-",
     "url": "https://qiita.com/terukizm/items/4a4016d8ec5a21856e4f",
     "likes_count": 396,
     "created_at": "2016-03-02T06:20:45+09:00",
     "updated_at": "2019-05-10T23:29:51+09:00",
     "id": "terukizm"
-  },
-  {
-    "title": "git flowとgithub flowとは？その違いは？",
-    "url": "https://qiita.com/mint__/items/bfc58589b5b1e0a1856a",
-    "likes_count": 394,
-    "created_at": "2016-03-25T13:13:14+09:00",
-    "updated_at": "2016-03-29T10:32:41+09:00",
-    "id": "mint__"
   },
   {
     "title": "Entrykit のすすめ ",
@@ -528,20 +528,20 @@
     "id": "icoxfog417"
   },
   {
+    "title": "MySQLの外部キー制約RESTRICT,CASCADE,SET NULL,NO ACTIONの違いは？",
+    "url": "https://qiita.com/suin/items/21fe6c5a78c1505b19cb",
+    "likes_count": 364,
+    "created_at": "2016-03-08T11:26:12+09:00",
+    "updated_at": "2020-03-12T13:19:30+09:00",
+    "id": "suin"
+  },
+  {
     "title": "Go の echo ってWebサーバーでサクッと REST しちゃう",
     "url": "https://qiita.com/ezaki/items/62e806ae42828bb3567a",
     "likes_count": 363,
     "created_at": "2016-03-14T21:32:37+09:00",
     "updated_at": "2019-12-12T10:45:01+09:00",
     "id": "ezaki"
-  },
-  {
-    "title": "MySQLの外部キー制約RESTRICT,CASCADE,SET NULL,NO ACTIONの違いは？",
-    "url": "https://qiita.com/suin/items/21fe6c5a78c1505b19cb",
-    "likes_count": 362,
-    "created_at": "2016-03-08T11:26:12+09:00",
-    "updated_at": "2020-03-12T13:19:30+09:00",
-    "id": "suin"
   },
   {
     "title": "AWS1年目無料期間でやったこととハマったこと",
@@ -666,7 +666,7 @@
   {
     "title": "Springでトランザクション管理",
     "url": "https://qiita.com/NagaokaKenichi/items/a279857cc2d22a35d0dd",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2016-03-30T07:41:14+09:00",
     "updated_at": "2021-01-30T21:35:08+09:00",
     "id": "NagaokaKenichi"
@@ -720,20 +720,20 @@
     "id": "kakky0418"
   },
   {
+    "title": "bashで変数から部分文字列を取得する",
+    "url": "https://qiita.com/koara-local/items/04d3efd1031ea62d8db5",
+    "likes_count": 277,
+    "created_at": "2016-03-01T13:11:52+09:00",
+    "updated_at": "2016-03-01T13:43:08+09:00",
+    "id": "koara-local"
+  },
+  {
     "title": "倒立振子で学ぶ DQN (Deep Q Network)",
     "url": "https://qiita.com/ashitani/items/bb393e24c20e83e54577",
     "likes_count": 277,
     "created_at": "2016-03-27T10:17:03+09:00",
     "updated_at": "2016-09-03T10:18:25+09:00",
     "id": "ashitani"
-  },
-  {
-    "title": "bashで変数から部分文字列を取得する",
-    "url": "https://qiita.com/koara-local/items/04d3efd1031ea62d8db5",
-    "likes_count": 276,
-    "created_at": "2016-03-01T13:11:52+09:00",
-    "updated_at": "2016-03-01T13:43:08+09:00",
-    "id": "koara-local"
   },
   {
     "title": "テストコードとか書いてみてもいいんじゃない？",
