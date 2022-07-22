@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4699,
+    "likes_count": 4702,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -26,7 +26,7 @@
   {
     "title": "2020年の開発者が知っておくべき11の必須スキル",
     "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
-    "likes_count": 2065,
+    "likes_count": 2066,
     "created_at": "2020-01-20T19:54:42+09:00",
     "updated_at": "2020-02-11T22:17:43+09:00",
     "id": "rana_kualu"
@@ -98,7 +98,7 @@
   {
     "title": "Python の __init__.py とは何なのか",
     "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
-    "likes_count": 1017,
+    "likes_count": 1019,
     "created_at": "2020-01-17T22:20:31+09:00",
     "updated_at": "2020-03-19T12:31:33+09:00",
     "id": "msi"
@@ -138,7 +138,7 @@
   {
     "title": "テストしやすい「純粋」な関数とは？",
     "url": "https://qiita.com/Yametaro/items/3ec5a7d89afa1a0e9f15",
-    "likes_count": 885,
+    "likes_count": 886,
     "created_at": "2020-01-19T00:30:03+09:00",
     "updated_at": "2020-01-20T09:45:26+09:00",
     "id": "Yametaro"
@@ -256,20 +256,20 @@
     "id": "kojimadev"
   },
   {
+    "title": "React hooksを基礎から理解する (useState編)",
+    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
+    "likes_count": 644,
+    "created_at": "2020-01-26T20:56:47+09:00",
+    "updated_at": "2021-03-15T16:00:37+09:00",
+    "id": "seira"
+  },
+  {
     "title": "【Google Apps Script, Slack】彼女にバレずにワクワクメールのメッセージに気付くために夜な夜な怪しげなスクリプトを組んだ話",
     "url": "https://qiita.com/83k/items/6661486d37d12ff51dda",
     "likes_count": 641,
     "created_at": "2020-01-06T23:53:01+09:00",
     "updated_at": "2020-01-09T09:33:09+09:00",
     "id": "83k"
-  },
-  {
-    "title": "React hooksを基礎から理解する (useState編)",
-    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 641,
-    "created_at": "2020-01-26T20:56:47+09:00",
-    "updated_at": "2021-03-15T16:00:37+09:00",
-    "id": "seira"
   },
   {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
@@ -298,7 +298,7 @@
   {
     "title": "ginを最速でマスターしよう",
     "url": "https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a",
-    "likes_count": 574,
+    "likes_count": 575,
     "created_at": "2020-01-01T09:46:12+09:00",
     "updated_at": "2021-09-16T14:42:11+09:00",
     "id": "Syoitu"
@@ -346,7 +346,7 @@
   {
     "title": "Pythonライブラリの「麻雀(mahjong)」って？？",
     "url": "https://qiita.com/FJyusk56/items/8189bcca3849532d095f",
-    "likes_count": 498,
+    "likes_count": 499,
     "created_at": "2020-01-19T02:41:22+09:00",
     "updated_at": "2020-05-14T16:09:18+09:00",
     "id": "FJyusk56"
@@ -416,20 +416,20 @@
     "id": "lovee"
   },
   {
+    "title": "独学で0からプログラミングを始めて、成り上がるためには",
+    "url": "https://qiita.com/katy7/items/b28000cd74c10325ee5e",
+    "likes_count": 423,
+    "created_at": "2020-01-20T01:30:00+09:00",
+    "updated_at": "2020-07-20T18:07:45+09:00",
+    "id": "katy7"
+  },
+  {
     "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
     "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
     "likes_count": 422,
     "created_at": "2020-01-11T13:59:43+09:00",
     "updated_at": "2021-06-22T14:23:00+09:00",
     "id": "shiro01"
-  },
-  {
-    "title": "独学で0からプログラミングを始めて、成り上がるためには",
-    "url": "https://qiita.com/katy7/items/b28000cd74c10325ee5e",
-    "likes_count": 422,
-    "created_at": "2020-01-20T01:30:00+09:00",
-    "updated_at": "2020-07-20T18:07:45+09:00",
-    "id": "katy7"
   },
   {
     "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
