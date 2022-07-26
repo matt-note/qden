@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1844,
+    "likes_count": 1846,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -114,7 +114,7 @@
   {
     "title": "Service Workerの基本とそれを使ってできること",
     "url": "https://qiita.com/y_fujieda/items/f9e765ac9d89ba241154",
-    "likes_count": 837,
+    "likes_count": 838,
     "created_at": "2016-08-31T16:38:50+09:00",
     "updated_at": "2016-08-31T16:38:50+09:00",
     "id": "y_fujieda"
@@ -154,7 +154,7 @@
   {
     "title": "線形代数の基礎",
     "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
-    "likes_count": 691,
+    "likes_count": 692,
     "created_at": "2016-08-30T23:11:19+09:00",
     "updated_at": "2020-08-23T02:47:09+09:00",
     "id": "nognog"
@@ -314,7 +314,7 @@
   {
     "title": "資料で使う技術/プロダクトロゴのリンク集",
     "url": "https://qiita.com/tkit/items/932316c5f5f7b162b61e",
-    "likes_count": 429,
+    "likes_count": 430,
     "created_at": "2016-08-11T17:05:59+09:00",
     "updated_at": "2022-07-02T10:31:32+09:00",
     "id": "tkit"
@@ -386,10 +386,18 @@
   {
     "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
     "url": "https://qiita.com/ryo2132/items/63ced19601b3fa30e6de",
-    "likes_count": 379,
+    "likes_count": 380,
     "created_at": "2016-08-12T10:26:11+09:00",
     "updated_at": "2020-05-17T05:29:20+09:00",
     "id": "ryo2132"
+  },
+  {
+    "title": "bundler、bundle execについて　※自分用メモ",
+    "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
+    "likes_count": 371,
+    "created_at": "2016-08-08T10:06:03+09:00",
+    "updated_at": "2016-08-08T15:41:46+09:00",
+    "id": "dawn_628"
   },
   {
     "title": "Github issue で質問してはいけない",
@@ -398,14 +406,6 @@
     "created_at": "2016-08-08T12:03:10+09:00",
     "updated_at": "2016-08-09T18:27:39+09:00",
     "id": "methane"
-  },
-  {
-    "title": "bundler、bundle execについて　※自分用メモ",
-    "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
-    "likes_count": 370,
-    "created_at": "2016-08-08T10:06:03+09:00",
-    "updated_at": "2016-08-08T15:41:46+09:00",
-    "id": "dawn_628"
   },
   {
     "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
@@ -426,7 +426,7 @@
   {
     "title": "Spring Boot解説第18回(基本編：Controllerとは)",
     "url": "https://qiita.com/TEBASAKI/items/267c261db17f178e33eb",
-    "likes_count": 303,
+    "likes_count": 304,
     "created_at": "2016-08-08T10:54:54+09:00",
     "updated_at": "2017-06-22T20:01:30+09:00",
     "id": "TEBASAKI"
@@ -442,7 +442,7 @@
   {
     "title": "Gitの基礎",
     "url": "https://qiita.com/satoshi1335/items/ead109412430a078feaa",
-    "likes_count": 297,
+    "likes_count": 298,
     "created_at": "2016-08-14T02:12:21+09:00",
     "updated_at": "2017-09-12T00:16:57+09:00",
     "id": "satoshi1335"
