@@ -10,7 +10,7 @@
   {
     "title": "良いコードの書き方",
     "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
-    "likes_count": 4711,
+    "likes_count": 4712,
     "created_at": "2020-01-21T10:50:39+09:00",
     "updated_at": "2021-01-27T11:30:35+09:00",
     "id": "alt_yamamoto"
@@ -42,7 +42,7 @@
   {
     "title": "EC2でブログを立ち上げた途端に来た、怪しい攻撃たち",
     "url": "https://qiita.com/KMim/items/60c1ce893c09872acd15",
-    "likes_count": 1813,
+    "likes_count": 1812,
     "created_at": "2020-01-15T12:39:21+09:00",
     "updated_at": "2021-10-21T10:08:11+09:00",
     "id": "KMim"
@@ -130,7 +130,7 @@
   {
     "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
     "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
-    "likes_count": 908,
+    "likes_count": 910,
     "created_at": "2020-01-26T17:13:39+09:00",
     "updated_at": "2021-02-19T01:00:58+09:00",
     "id": "e869120"
@@ -138,7 +138,7 @@
   {
     "title": "テストしやすい「純粋」な関数とは？",
     "url": "https://qiita.com/Yametaro/items/3ec5a7d89afa1a0e9f15",
-    "likes_count": 886,
+    "likes_count": 885,
     "created_at": "2020-01-19T00:30:03+09:00",
     "updated_at": "2020-01-20T09:45:26+09:00",
     "id": "Yametaro"
@@ -170,7 +170,7 @@
   {
     "title": "バッチ処理について考える",
     "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
-    "likes_count": 761,
+    "likes_count": 762,
     "created_at": "2020-01-11T11:25:19+09:00",
     "updated_at": "2020-06-11T18:35:53+09:00",
     "id": "koduki"
@@ -250,7 +250,7 @@
   {
     "title": "React hooksを基礎から理解する (useState編)",
     "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
-    "likes_count": 649,
+    "likes_count": 651,
     "created_at": "2020-01-26T20:56:47+09:00",
     "updated_at": "2021-03-15T16:00:37+09:00",
     "id": "seira"
@@ -274,7 +274,7 @@
   {
     "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
     "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
-    "likes_count": 627,
+    "likes_count": 628,
     "created_at": "2020-01-03T10:45:09+09:00",
     "updated_at": "2021-03-26T11:27:03+09:00",
     "id": "Saku731"
@@ -368,20 +368,20 @@
     "id": "uhyo"
   },
   {
-    "title": "「よいサンプルコード」ってどんなサンプルコード？ 〜Qiitaや技術ブログを書くときに気を付けること〜",
-    "url": "https://qiita.com/jnchito/items/da33f793de2e29e470f4",
-    "likes_count": 479,
-    "created_at": "2020-01-09T11:47:44+09:00",
-    "updated_at": "2020-12-15T07:28:23+09:00",
-    "id": "jnchito"
-  },
-  {
     "title": "【AWS, GCP, Azure, OracleCloud, Firebase】無料で使えるクラウドのサーバリソースまとめ【2020年1月版】",
     "url": "https://qiita.com/goyae/items/196221169391dd44125d",
     "likes_count": 478,
     "created_at": "2020-01-05T10:00:19+09:00",
     "updated_at": "2020-01-15T23:42:46+09:00",
     "id": "goyae"
+  },
+  {
+    "title": "「よいサンプルコード」ってどんなサンプルコード？ 〜Qiitaや技術ブログを書くときに気を付けること〜",
+    "url": "https://qiita.com/jnchito/items/da33f793de2e29e470f4",
+    "likes_count": 478,
+    "created_at": "2020-01-09T11:47:44+09:00",
+    "updated_at": "2020-12-15T07:28:23+09:00",
+    "id": "jnchito"
   },
   {
     "title": "スマホアプリ開発者のための2019年動向まとめ",
@@ -402,7 +402,7 @@
   {
     "title": "最短経路問題総特集！！！～BFSから拡張ダイクストラまで～",
     "url": "https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e",
-    "likes_count": 440,
+    "likes_count": 441,
     "created_at": "2020-01-18T16:57:24+09:00",
     "updated_at": "2020-01-23T21:44:58+09:00",
     "id": "ageprocpp"
@@ -416,20 +416,20 @@
     "id": "lovee"
   },
   {
-    "title": "独学で0からプログラミングを始めて、成り上がるためには",
-    "url": "https://qiita.com/katy7/items/b28000cd74c10325ee5e",
-    "likes_count": 423,
-    "created_at": "2020-01-20T01:30:00+09:00",
-    "updated_at": "2020-07-20T18:07:45+09:00",
-    "id": "katy7"
-  },
-  {
     "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
     "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
     "likes_count": 422,
     "created_at": "2020-01-11T13:59:43+09:00",
     "updated_at": "2021-06-22T14:23:00+09:00",
     "id": "shiro01"
+  },
+  {
+    "title": "独学で0からプログラミングを始めて、成り上がるためには",
+    "url": "https://qiita.com/katy7/items/b28000cd74c10325ee5e",
+    "likes_count": 422,
+    "created_at": "2020-01-20T01:30:00+09:00",
+    "updated_at": "2020-07-20T18:07:45+09:00",
+    "id": "katy7"
   },
   {
     "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
@@ -450,7 +450,7 @@
   {
     "title": "2020年流行するであろうwebデザインのトレンド",
     "url": "https://qiita.com/sugar_tk/items/54562d8756b69774aecf",
-    "likes_count": 412,
+    "likes_count": 411,
     "created_at": "2020-01-20T10:17:37+09:00",
     "updated_at": "2020-01-29T12:33:46+09:00",
     "id": "sugar_tk"
