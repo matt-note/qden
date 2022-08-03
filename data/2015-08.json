@@ -2,7 +2,7 @@
   {
     "title": "Cookieとセッションをちゃんと理解する",
     "url": "https://qiita.com/hththt/items/07136ad74127999df271",
-    "likes_count": 2597,
+    "likes_count": 2596,
     "created_at": "2015-08-07T19:37:58+09:00",
     "updated_at": "2020-01-20T12:54:29+09:00",
     "id": "hththt"
@@ -10,7 +10,7 @@
   {
     "title": "Dockerで即実行できる、社内・自宅向けオープンソースWebアプリ",
     "url": "https://qiita.com/y_hokkey/items/406b5a8c4bc15354d069",
-    "likes_count": 1858,
+    "likes_count": 1857,
     "created_at": "2015-08-07T03:27:31+09:00",
     "updated_at": "2018-03-13T19:30:01+09:00",
     "id": "y_hokkey"
@@ -34,7 +34,7 @@
   {
     "title": "JavaScript の テンプレートリテラル を極める！",
     "url": "https://qiita.com/kura07/items/c9fa858870ad56dfec12",
-    "likes_count": 976,
+    "likes_count": 975,
     "created_at": "2015-08-08T01:35:31+09:00",
     "updated_at": "2018-09-17T19:11:44+09:00",
     "id": "kura07"
@@ -42,7 +42,7 @@
   {
     "title": "プログラミングスタイルガイドのスタイルガイド",
     "url": "https://qiita.com/yugui/items/960b0da38a15c4d6917b",
-    "likes_count": 949,
+    "likes_count": 948,
     "created_at": "2015-08-25T23:19:44+09:00",
     "updated_at": "2018-12-15T07:51:52+09:00",
     "id": "yugui"
@@ -58,7 +58,7 @@
   {
     "title": "Linuxの対話がめんどくさい?そんな時こそ自動化だ！-expect編-",
     "url": "https://qiita.com/ine1127/items/cd6bc91174635016db9b",
-    "likes_count": 846,
+    "likes_count": 847,
     "created_at": "2015-08-08T14:58:15+09:00",
     "updated_at": "2017-11-20T13:13:57+09:00",
     "id": "ine1127"
@@ -66,7 +66,7 @@
   {
     "title": "どんなエディタでもEditorConfigを使ってコードの統一性を高める",
     "url": "https://qiita.com/naru0504/items/82f09881abaf3f4dc171",
-    "likes_count": 820,
+    "likes_count": 821,
     "created_at": "2015-08-20T16:12:23+09:00",
     "updated_at": "2019-04-12T13:49:11+09:00",
     "id": "naru0504"
@@ -162,7 +162,7 @@
   {
     "title": "Facebook Relayについてまとめ",
     "url": "https://qiita.com/kenfdev/items/c3c3a11abb98803a51c6",
-    "likes_count": 549,
+    "likes_count": 548,
     "created_at": "2015-08-15T00:49:44+09:00",
     "updated_at": "2015-08-15T00:49:44+09:00",
     "id": "kenfdev"
@@ -234,7 +234,7 @@
   {
     "title": "あなたがRails触る人なら見ておきたい「体系的な」豆知識",
     "url": "https://qiita.com/Yama-to/items/93cd8b3a8be67b09e353",
-    "likes_count": 350,
+    "likes_count": 349,
     "created_at": "2015-08-09T06:11:36+09:00",
     "updated_at": "2015-08-09T06:11:36+09:00",
     "id": "Yama-to"
@@ -282,18 +282,10 @@
   {
     "title": "SVGをcss/jsで操作するときに知っておきたいこと",
     "url": "https://qiita.com/nekoneko-wanwan/items/26bf366c17a6f240fccd",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2015-08-26T18:38:43+09:00",
     "updated_at": "2017-02-10T00:43:27+09:00",
     "id": "nekoneko-wanwan"
-  },
-  {
-    "title": "プログラマー初学の人へ61の質問",
-    "url": "https://qiita.com/townsoft/items/3e0c14512ee29659ec82",
-    "likes_count": 308,
-    "created_at": "2015-08-27T10:40:44+09:00",
-    "updated_at": "2016-10-05T12:24:07+09:00",
-    "id": "townsoft"
   },
   {
     "title": "Railsで入力の確認画面を出すときの定石",
@@ -310,6 +302,14 @@
     "created_at": "2015-08-18T09:07:25+09:00",
     "updated_at": "2017-06-16T08:43:55+09:00",
     "id": "butada"
+  },
+  {
+    "title": "プログラマー初学の人へ61の質問",
+    "url": "https://qiita.com/townsoft/items/3e0c14512ee29659ec82",
+    "likes_count": 307,
+    "created_at": "2015-08-27T10:40:44+09:00",
+    "updated_at": "2016-10-05T12:24:07+09:00",
+    "id": "townsoft"
   },
   {
     "title": "【短いコードで色々出来る】Google Apps Scriptでスプレッドシートと連携した無料Ajaxフォームの作り方※サンプル付き【自動返信メールもあるよ】",
@@ -360,20 +360,20 @@
     "id": "shibukawa"
   },
   {
-    "title": "react-railsでサーバーサイドレンダリングしつつクライアントでsetStateできて最高になった",
-    "url": "https://qiita.com/mizchi/items/c34c3ff88d73a7bd2c88",
-    "likes_count": 280,
-    "created_at": "2015-08-09T17:28:36+09:00",
-    "updated_at": "2015-08-09T17:49:56+09:00",
-    "id": "mizchi"
-  },
-  {
     "title": "Microsoft Edgeのユーザーエージェントがカオスなので注意",
     "url": "https://qiita.com/tonkotsuboy_com/items/7b36bdfc3a9a0970d23b",
     "likes_count": 279,
     "created_at": "2015-08-05T15:39:05+09:00",
     "updated_at": "2017-11-15T15:03:50+09:00",
     "id": "tonkotsuboy_com"
+  },
+  {
+    "title": "react-railsでサーバーサイドレンダリングしつつクライアントでsetStateできて最高になった",
+    "url": "https://qiita.com/mizchi/items/c34c3ff88d73a7bd2c88",
+    "likes_count": 279,
+    "created_at": "2015-08-09T17:28:36+09:00",
+    "updated_at": "2015-08-09T17:49:56+09:00",
+    "id": "mizchi"
   },
   {
     "title": "Elixir と Reactive System に関する考察",
@@ -386,7 +386,7 @@
   {
     "title": "簡単なHTTPサーバーを作る",
     "url": "https://qiita.com/opengl-8080/items/ca152658a0e52c786029",
-    "likes_count": 271,
+    "likes_count": 272,
     "created_at": "2015-08-10T00:14:16+09:00",
     "updated_at": "2017-03-05T22:21:25+09:00",
     "id": "opengl-8080"

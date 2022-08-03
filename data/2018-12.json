@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1796,
+    "likes_count": 1795,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -42,7 +42,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1369,
+    "likes_count": 1370,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -98,7 +98,7 @@
   {
     "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
     "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
-    "likes_count": 1053,
+    "likes_count": 1054,
     "created_at": "2018-12-06T21:43:43+09:00",
     "updated_at": "2020-04-09T08:20:53+09:00",
     "id": "lobin-z0x50"
@@ -186,7 +186,7 @@
   {
     "title": "Reactベース静的サイトジェネレータGatsbyの真の力をお見せします",
     "url": "https://qiita.com/uehaj/items/1b7f0a86596353587466",
-    "likes_count": 918,
+    "likes_count": 917,
     "created_at": "2018-12-21T18:18:40+09:00",
     "updated_at": "2021-01-28T18:23:11+09:00",
     "id": "uehaj"
@@ -194,7 +194,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 847,
+    "likes_count": 846,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2021-12-08T08:19:16+09:00",
     "id": "cha84rakanal"
@@ -274,7 +274,7 @@
   {
     "title": "プログラミングスクールで習作を週2で2ヶ月間、作り続けて気づいたこと",
     "url": "https://qiita.com/guru_taka/items/938eeae2258e7f1f1d25",
-    "likes_count": 600,
+    "likes_count": 601,
     "created_at": "2018-12-28T21:00:17+09:00",
     "updated_at": "2021-02-12T15:02:08+09:00",
     "id": "guru_taka"
@@ -354,7 +354,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 503,
+    "likes_count": 504,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -370,7 +370,7 @@
   {
     "title": "Go Modules",
     "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 500,
+    "likes_count": 501,
     "created_at": "2018-12-05T13:44:24+09:00",
     "updated_at": "2019-07-17T17:52:30+09:00",
     "id": "propella"
@@ -410,7 +410,7 @@
   {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 444,
+    "likes_count": 443,
     "created_at": "2018-12-07T17:46:26+09:00",
     "updated_at": "2020-03-18T20:59:40+09:00",
     "id": "yasuabe2613"
@@ -480,28 +480,20 @@
     "id": "ryohashimoto"
   },
   {
-    "title": "マイクロサービスほどじゃないけどウェブサービスを分割開発したい人向けDocker設定を集めるスレ",
-    "url": "https://qiita.com/shibukawa/items/fd49f98736045789ffc3",
-    "likes_count": 394,
-    "created_at": "2018-12-06T02:27:47+09:00",
-    "updated_at": "2019-10-22T10:30:30+09:00",
-    "id": "shibukawa"
-  },
-  {
     "title": "fmt.Printfなんかこわくない",
     "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2018-12-07T05:35:39+09:00",
     "updated_at": "2019-05-22T20:39:46+09:00",
     "id": "rock619"
   },
   {
-    "title": "知っていると捗るcreate-react-appの設定",
-    "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
+    "title": "マイクロサービスほどじゃないけどウェブサービスを分割開発したい人向けDocker設定を集めるスレ",
+    "url": "https://qiita.com/shibukawa/items/fd49f98736045789ffc3",
     "likes_count": 393,
-    "created_at": "2018-12-07T12:08:27+09:00",
-    "updated_at": "2019-09-27T12:08:17+09:00",
-    "id": "geekduck"
+    "created_at": "2018-12-06T02:27:47+09:00",
+    "updated_at": "2019-10-22T10:30:30+09:00",
+    "id": "shibukawa"
   },
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
@@ -510,6 +502,14 @@
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2022-06-17T22:36:24+09:00",
     "id": "_takeshi_24"
+  },
+  {
+    "title": "知っていると捗るcreate-react-appの設定",
+    "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
+    "likes_count": 392,
+    "created_at": "2018-12-07T12:08:27+09:00",
+    "updated_at": "2019-09-27T12:08:17+09:00",
+    "id": "geekduck"
   },
   {
     "title": "Web API初心者と学ぶGraphQL",
@@ -624,20 +624,20 @@
     "id": "howdy39"
   },
   {
+    "title": "useEffectフックのしくみ",
+    "url": "https://qiita.com/ossan-engineer/items/740425a0df937a47e093",
+    "likes_count": 340,
+    "created_at": "2018-12-05T23:07:55+09:00",
+    "updated_at": "2018-12-19T07:03:03+09:00",
+    "id": "ossan-engineer"
+  },
+  {
     "title": "JavaScriptの概念たち (後編)",
     "url": "https://qiita.com/tsin1rou/items/b30885b189a8ec596c72",
     "likes_count": 339,
     "created_at": "2018-12-04T02:41:51+09:00",
     "updated_at": "2018-12-04T13:27:23+09:00",
     "id": "tsin1rou"
-  },
-  {
-    "title": "useEffectフックのしくみ",
-    "url": "https://qiita.com/ossan-engineer/items/740425a0df937a47e093",
-    "likes_count": 339,
-    "created_at": "2018-12-05T23:07:55+09:00",
-    "updated_at": "2018-12-19T07:03:03+09:00",
-    "id": "ossan-engineer"
   },
   {
     "title": "Hugo で静的なサイト・ブログを構築しよう",
@@ -704,20 +704,20 @@
     "id": "s_yokoi"
   },
   {
+    "title": "scpコマンド",
+    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
+    "likes_count": 299,
+    "created_at": "2018-12-22T21:41:23+09:00",
+    "updated_at": "2018-12-22T21:41:23+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "エンジニアは実装と戦う前に UI と戦った方が幸せになれる 〜 メンタルモデル駆動開発の TIPS 〜",
     "url": "https://qiita.com/numanomanu/items/4a3b48528a67b670b463",
     "likes_count": 299,
     "created_at": "2018-12-25T12:06:50+09:00",
     "updated_at": "2018-12-26T13:49:22+09:00",
     "id": "numanomanu"
-  },
-  {
-    "title": "scpコマンド",
-    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
-    "likes_count": 298,
-    "created_at": "2018-12-22T21:41:23+09:00",
-    "updated_at": "2018-12-22T21:41:23+09:00",
-    "id": "chihiro"
   },
   {
     "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
@@ -746,10 +746,18 @@
   {
     "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
     "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
-    "likes_count": 282,
+    "likes_count": 283,
     "created_at": "2018-12-09T00:00:37+09:00",
     "updated_at": "2021-04-15T09:24:25+09:00",
     "id": "ryosuketter"
+  },
+  {
+    "title": "Python3インストール（Mac編）",
+    "url": "https://qiita.com/ms-rock/items/72b8f1abc661c539bb09",
+    "likes_count": 254,
+    "created_at": "2018-12-21T18:45:59+09:00",
+    "updated_at": "2019-11-22T09:12:44+09:00",
+    "id": "ms-rock"
   },
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
@@ -758,14 +766,6 @@
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"
-  },
-  {
-    "title": "Python3インストール（Mac編）",
-    "url": "https://qiita.com/ms-rock/items/72b8f1abc661c539bb09",
-    "likes_count": 253,
-    "created_at": "2018-12-21T18:45:59+09:00",
-    "updated_at": "2019-11-22T09:12:44+09:00",
-    "id": "ms-rock"
   },
   {
     "title": "エンジニア向けのポートフォリオサイトまとめ",

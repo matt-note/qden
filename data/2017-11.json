@@ -18,7 +18,7 @@
   {
     "title": "機械学習案件を納品するのは、そんなに簡単な話じゃないから気をつけて",
     "url": "https://qiita.com/yoshizaki_91/items/fa8b45918445bb3e6dc3",
-    "likes_count": 1343,
+    "likes_count": 1342,
     "created_at": "2017-11-21T12:22:15+09:00",
     "updated_at": "2017-11-22T09:28:48+09:00",
     "id": "yoshizaki_91"
@@ -58,7 +58,7 @@
   {
     "title": "とりあえずド素人が読むべきブロックチェーン入門論文・書籍・サイト",
     "url": "https://qiita.com/onokatio/items/7db58947b05c17d1f44e",
-    "likes_count": 857,
+    "likes_count": 856,
     "created_at": "2017-11-09T21:56:49+09:00",
     "updated_at": "2019-11-09T18:44:59+09:00",
     "id": "onokatio"
@@ -82,7 +82,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 762,
+    "likes_count": 763,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2022-04-01T23:16:07+09:00",
     "id": "ryouzi"
@@ -106,7 +106,7 @@
   {
     "title": "なぜオブジェクト指向は難しいのか",
     "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 678,
+    "likes_count": 679,
     "created_at": "2017-11-16T01:47:45+09:00",
     "updated_at": "2021-01-05T10:16:02+09:00",
     "id": "tutinoco"
@@ -130,7 +130,7 @@
   {
     "title": "のび太と学ぶ「機械学習」～FX予測プログラムを作成～【第1話】if文作戦",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/45e3cfaa78e5f13d9389",
-    "likes_count": 629,
+    "likes_count": 628,
     "created_at": "2017-11-06T05:51:37+09:00",
     "updated_at": "2017-11-08T21:26:31+09:00",
     "id": "sugulu_Ogawa_ISID"
@@ -192,20 +192,20 @@
     "id": "t_nakayama0714"
   },
   {
-    "title": "1時間でLINE BOTを作るハンズオン (資料+レポート) in Node学園祭2017 #nodefest",
-    "url": "https://qiita.com/n0bisuke/items/ceaa09ef8898bee8369d",
-    "likes_count": 589,
-    "created_at": "2017-11-26T16:22:19+09:00",
-    "updated_at": "2022-04-18T17:33:32+09:00",
-    "id": "n0bisuke"
-  },
-  {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
     "url": "https://qiita.com/akameco/items/519f7e4d5442b2a9d2da",
-    "likes_count": 588,
+    "likes_count": 589,
     "created_at": "2017-11-19T03:46:34+09:00",
     "updated_at": "2020-03-23T18:38:33+09:00",
     "id": "akameco"
+  },
+  {
+    "title": "1時間でLINE BOTを作るハンズオン (資料+レポート) in Node学園祭2017 #nodefest",
+    "url": "https://qiita.com/n0bisuke/items/ceaa09ef8898bee8369d",
+    "likes_count": 588,
+    "created_at": "2017-11-26T16:22:19+09:00",
+    "updated_at": "2022-04-18T17:33:32+09:00",
+    "id": "n0bisuke"
   },
   {
     "title": "「GoogleAnalytics見てアクセス解析して」って言われた時にまずしていること",
@@ -226,7 +226,7 @@
   {
     "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
     "url": "https://qiita.com/nh321/items/f7e20c7ba737ff5c0f60",
-    "likes_count": 529,
+    "likes_count": 528,
     "created_at": "2017-11-26T01:05:44+09:00",
     "updated_at": "2018-10-01T21:43:41+09:00",
     "id": "nh321"
@@ -258,7 +258,7 @@
   {
     "title": "axiosのパラメータ指定方法まとめ",
     "url": "https://qiita.com/taroc/items/f22f7dd5d6d5443c72a4",
-    "likes_count": 463,
+    "likes_count": 465,
     "created_at": "2017-11-08T19:17:23+09:00",
     "updated_at": "2017-11-08T19:17:23+09:00",
     "id": "taroc"
@@ -392,6 +392,14 @@
     "id": "nachashin"
   },
   {
+    "title": "Kotlin の Coroutine を概観する",
+    "url": "https://qiita.com/kawmra/items/ee4acb7db61f70dec9a8",
+    "likes_count": 365,
+    "created_at": "2017-11-17T01:51:39+09:00",
+    "updated_at": "2019-03-01T15:28:43+09:00",
+    "id": "kawmra"
+  },
+  {
     "title": "C# 今更ですが、await / async",
     "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
     "likes_count": 365,
@@ -408,17 +416,9 @@
     "id": "mochizukikotaro"
   },
   {
-    "title": "Kotlin の Coroutine を概観する",
-    "url": "https://qiita.com/kawmra/items/ee4acb7db61f70dec9a8",
-    "likes_count": 364,
-    "created_at": "2017-11-17T01:51:39+09:00",
-    "updated_at": "2019-03-01T15:28:43+09:00",
-    "id": "kawmra"
-  },
-  {
     "title": "OAuth 2.0/OpenID Connectの2つのトークンの使いみち",
     "url": "https://qiita.com/wadahiro/items/ad36c7932c6627149873",
-    "likes_count": 357,
+    "likes_count": 356,
     "created_at": "2017-11-24T17:55:45+09:00",
     "updated_at": "2018-04-16T15:25:55+09:00",
     "id": "wadahiro"
@@ -440,20 +440,20 @@
     "id": "go_sagawa"
   },
   {
+    "title": "Python配列のループ処理",
+    "url": "https://qiita.com/motoki1990/items/d06fc7559546a8471392",
+    "likes_count": 310,
+    "created_at": "2017-11-09T22:39:32+09:00",
+    "updated_at": "2017-11-11T07:34:45+09:00",
+    "id": "motoki1990"
+  },
+  {
     "title": "いまから始めるCommon Lisp",
     "url": "https://qiita.com/t-sin/items/054c2ff315ec3b9d3bdc",
     "likes_count": 310,
     "created_at": "2017-11-29T21:13:36+09:00",
     "updated_at": "2018-03-02T22:21:31+09:00",
     "id": "t-sin"
-  },
-  {
-    "title": "Python配列のループ処理",
-    "url": "https://qiita.com/motoki1990/items/d06fc7559546a8471392",
-    "likes_count": 309,
-    "created_at": "2017-11-09T22:39:32+09:00",
-    "updated_at": "2017-11-11T07:34:45+09:00",
-    "id": "motoki1990"
   },
   {
     "title": "Vue.jsで始めるPWA",

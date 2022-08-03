@@ -2,7 +2,7 @@
   {
     "title": "エンジニアが情報収集とトレンドを追うのに読むと良いサイト",
     "url": "https://qiita.com/ryuichi1208/items/604a68abb91949e79ece",
-    "likes_count": 3096,
+    "likes_count": 3095,
     "created_at": "2018-11-29T22:01:23+09:00",
     "updated_at": "2019-03-13T17:59:59+09:00",
     "id": "ryuichi1208"
@@ -26,7 +26,7 @@
   {
     "title": "iMac/MacBook購入後に必ず設定したい設定項目",
     "url": "https://qiita.com/ryuichi1208/items/5905240f3bfce793b33d",
-    "likes_count": 1666,
+    "likes_count": 1665,
     "created_at": "2018-11-21T18:58:00+09:00",
     "updated_at": "2019-10-05T23:38:37+09:00",
     "id": "ryuichi1208"
@@ -58,7 +58,7 @@
   {
     "title": "全ての開発者が学ぶべき5つの言語",
     "url": "https://qiita.com/poly_soft/items/e89bc757596cfdfba784",
-    "likes_count": 1395,
+    "likes_count": 1394,
     "created_at": "2018-11-03T12:17:21+09:00",
     "updated_at": "2019-03-11T19:36:09+09:00",
     "id": "poly_soft"
@@ -66,7 +66,7 @@
   {
     "title": "Ruby->Go->Scalaという習得順序がエンジニアの爆速の成長に最適である理由",
     "url": "https://qiita.com/poly_soft/items/1feaa1ec5ecab08dc6db",
-    "likes_count": 1326,
+    "likes_count": 1325,
     "created_at": "2018-11-04T07:35:05+09:00",
     "updated_at": "2019-03-11T19:35:33+09:00",
     "id": "poly_soft"
@@ -130,7 +130,7 @@
   {
     "title": "Vue.jsでドラクエ風のポートフォリオを作った話　①",
     "url": "https://qiita.com/iwathi/items/8f054d10590f32b438a4",
-    "likes_count": 926,
+    "likes_count": 927,
     "created_at": "2018-11-14T07:15:51+09:00",
     "updated_at": "2018-12-05T05:37:44+09:00",
     "id": "iwathi"
@@ -170,7 +170,7 @@
   {
     "title": "Docker 入門にはインストールなしで使える「Play with Docker」がいいと思う",
     "url": "https://qiita.com/tag1216/items/ec7228440f6eaf849cd6",
-    "likes_count": 809,
+    "likes_count": 808,
     "created_at": "2018-11-21T08:06:11+09:00",
     "updated_at": "2018-11-23T09:08:58+09:00",
     "id": "tag1216"
@@ -178,7 +178,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 794,
+    "likes_count": 795,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -186,7 +186,7 @@
   {
     "title": "Laravel入門 - 使い方チュートリアル - ",
     "url": "https://qiita.com/sano1202/items/6021856b70e4f8d3dc3d",
-    "likes_count": 791,
+    "likes_count": 792,
     "created_at": "2018-11-01T22:29:05+09:00",
     "updated_at": "2020-12-13T22:45:14+09:00",
     "id": "sano1202"
@@ -216,20 +216,20 @@
     "id": "ryuichi1208"
   },
   {
+    "title": "macOSアップデート後の『xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools)...』の対処法",
+    "url": "https://qiita.com/nishina555/items/e23d73067a5cac182a63",
+    "likes_count": 736,
+    "created_at": "2018-11-12T13:59:18+09:00",
+    "updated_at": "2019-10-11T11:13:11+09:00",
+    "id": "nishina555"
+  },
+  {
     "title": "Dockerfileの静的解析ツールが便利すぎた",
     "url": "https://qiita.com/ryuichi1208/items/d49f3f6ba39c88899049",
     "likes_count": 734,
     "created_at": "2018-11-09T20:53:27+09:00",
     "updated_at": "2019-11-08T23:13:25+09:00",
     "id": "ryuichi1208"
-  },
-  {
-    "title": "macOSアップデート後の『xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools)...』の対処法",
-    "url": "https://qiita.com/nishina555/items/e23d73067a5cac182a63",
-    "likes_count": 734,
-    "created_at": "2018-11-12T13:59:18+09:00",
-    "updated_at": "2019-10-11T11:13:11+09:00",
-    "id": "nishina555"
   },
   {
     "title": "正規表現を可視化してまとめたチートシート",
@@ -266,7 +266,7 @@
   {
     "title": "gem installでpermissionエラーになった時の対応方法",
     "url": "https://qiita.com/nishina555/items/63ebd4a508a09c481150",
-    "likes_count": 603,
+    "likes_count": 604,
     "created_at": "2018-11-25T22:52:44+09:00",
     "updated_at": "2022-06-18T00:00:01+09:00",
     "id": "nishina555"
@@ -274,7 +274,7 @@
   {
     "title": "atcoderでよく使う手法python版",
     "url": "https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e",
-    "likes_count": 560,
+    "likes_count": 561,
     "created_at": "2018-11-25T18:13:41+09:00",
     "updated_at": "2022-01-28T13:42:33+09:00",
     "id": "chun1182"
@@ -314,7 +314,7 @@
   {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
-    "likes_count": 530,
+    "likes_count": 531,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
@@ -378,7 +378,7 @@
   {
     "title": "State of SEO for SPA 2019",
     "url": "https://qiita.com/seya/items/2688dc539af217b7b111",
-    "likes_count": 476,
+    "likes_count": 475,
     "created_at": "2018-11-19T22:51:22+09:00",
     "updated_at": "2019-05-08T20:37:48+09:00",
     "id": "seya"
@@ -386,7 +386,7 @@
   {
     "title": "2万人に聞いた、2018年の最新JavaScript事情",
     "url": "https://qiita.com/rana_kualu/items/b4a7e01cb54b08a171b6",
-    "likes_count": 466,
+    "likes_count": 465,
     "created_at": "2018-11-22T23:52:58+09:00",
     "updated_at": "2019-08-17T19:55:27+09:00",
     "id": "rana_kualu"
@@ -456,20 +456,20 @@
     "id": "harunbu"
   },
   {
-    "title": "Chromeを使うなら、必ずServiceWorkersを無効化しよう",
-    "url": "https://qiita.com/rana_kualu/items/52d8cb7b200d6fefddc8",
-    "likes_count": 373,
-    "created_at": "2018-11-05T00:29:23+09:00",
-    "updated_at": "2022-01-17T20:01:10+09:00",
-    "id": "rana_kualu"
-  },
-  {
     "title": "VSCodeのPython拡張機能が更新されJupyter Notebookが扱いやすくなったので試してみた",
     "url": "https://qiita.com/suudon0014/items/dbf0237d90922275af1c",
     "likes_count": 373,
     "created_at": "2018-11-12T12:18:08+09:00",
     "updated_at": "2018-11-17T22:27:08+09:00",
     "id": "suudon0014"
+  },
+  {
+    "title": "Chromeを使うなら、必ずServiceWorkersを無効化しよう",
+    "url": "https://qiita.com/rana_kualu/items/52d8cb7b200d6fefddc8",
+    "likes_count": 372,
+    "created_at": "2018-11-05T00:29:23+09:00",
+    "updated_at": "2022-01-17T20:01:10+09:00",
+    "id": "rana_kualu"
   },
   {
     "title": "iOS/Android セキュリティガイドライン",
@@ -522,7 +522,7 @@
   {
     "title": "rbenvでRubyのバージョンを最新安定版にupdate",
     "url": "https://qiita.com/_kanacan_/items/c1499f6c13b1c41da982",
-    "likes_count": 329,
+    "likes_count": 328,
     "created_at": "2018-11-09T14:25:18+09:00",
     "updated_at": "2019-05-13T11:11:00+09:00",
     "id": "_kanacan_"
@@ -546,7 +546,7 @@
   {
     "title": "現状においてC#のベースを完全に理解できる本のすゝめ",
     "url": "https://qiita.com/4_mio_11/items/8cf866d2243c90e341cb",
-    "likes_count": 275,
+    "likes_count": 274,
     "created_at": "2018-11-28T02:55:53+09:00",
     "updated_at": "2018-12-22T03:11:25+09:00",
     "id": "4_mio_11"
