@@ -10,7 +10,7 @@
   {
     "title": "Pythonを書き始める前に見るべきTips",
     "url": "https://qiita.com/icoxfog417/items/e8f97a6acad07903b5b0",
-    "likes_count": 4097,
+    "likes_count": 4096,
     "created_at": "2014-07-29T17:43:20+09:00",
     "updated_at": "2020-02-04T12:14:07+09:00",
     "id": "icoxfog417"
@@ -26,7 +26,7 @@
   {
     "title": "Markdown記法 サンプル集",
     "url": "https://qiita.com/tbpgr/items/989c6badefff69377da7",
-    "likes_count": 3902,
+    "likes_count": 3903,
     "created_at": "2014-07-15T22:36:13+09:00",
     "updated_at": "2020-03-27T00:12:03+09:00",
     "id": "tbpgr"
@@ -50,18 +50,10 @@
   {
     "title": "【Git】基本コマンド",
     "url": "https://qiita.com/konweb/items/621722f67fdd8f86a017",
-    "likes_count": 1936,
+    "likes_count": 1938,
     "created_at": "2014-07-12T03:08:15+09:00",
     "updated_at": "2019-06-15T23:17:12+09:00",
     "id": "konweb"
-  },
-  {
-    "title": "こんなHTMLとCSSのコーディング規約で書きたい",
-    "url": "https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3",
-    "likes_count": 1794,
-    "created_at": "2014-07-09T00:29:52+09:00",
-    "updated_at": "2021-07-07T10:13:30+09:00",
-    "id": "pugiemonn"
   },
   {
     "title": "全国のSeleniumer必読",
@@ -70,6 +62,14 @@
     "created_at": "2014-07-30T17:15:44+09:00",
     "updated_at": "2019-09-09T23:39:15+09:00",
     "id": "oh_rusty_nail"
+  },
+  {
+    "title": "こんなHTMLとCSSのコーディング規約で書きたい",
+    "url": "https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3",
+    "likes_count": 1793,
+    "created_at": "2014-07-09T00:29:52+09:00",
+    "updated_at": "2021-07-07T10:13:30+09:00",
+    "id": "pugiemonn"
   },
   {
     "title": "ログ設計指針",
@@ -146,7 +146,7 @@
   {
     "title": "bashコーディング規約",
     "url": "https://qiita.com/mashumashu/items/f5b5ff62fef8af0859c5",
-    "likes_count": 794,
+    "likes_count": 796,
     "created_at": "2014-07-27T15:32:05+09:00",
     "updated_at": "2015-11-02T21:13:59+09:00",
     "id": "mashumashu"
@@ -218,7 +218,7 @@
   {
     "title": "DOMイベントのキャプチャ/バブリングを整理する 〜 JSおくのほそ道 #017",
     "url": "https://qiita.com/hosomichi/items/49500fea5fdf43f59c58",
-    "likes_count": 592,
+    "likes_count": 593,
     "created_at": "2014-07-25T19:58:10+09:00",
     "updated_at": "2018-09-03T11:03:24+09:00",
     "id": "hosomichi"
@@ -474,7 +474,7 @@
   {
     "title": "【Git】ブランチの切り替えとかプルとか出来ないときの対処法",
     "url": "https://qiita.com/konweb/items/061475d6376db957b3c4",
-    "likes_count": 403,
+    "likes_count": 404,
     "created_at": "2014-07-17T19:56:24+09:00",
     "updated_at": "2014-07-17T19:56:24+09:00",
     "id": "konweb"
