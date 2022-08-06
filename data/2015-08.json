@@ -10,7 +10,7 @@
   {
     "title": "Dockerで即実行できる、社内・自宅向けオープンソースWebアプリ",
     "url": "https://qiita.com/y_hokkey/items/406b5a8c4bc15354d069",
-    "likes_count": 1857,
+    "likes_count": 1856,
     "created_at": "2015-08-07T03:27:31+09:00",
     "updated_at": "2018-03-13T19:30:01+09:00",
     "id": "y_hokkey"
@@ -18,7 +18,7 @@
   {
     "title": "【統計学】初めての「標準偏差」（統計学に挫折しないために）",
     "url": "https://qiita.com/kenmatsu4/items/e6c6acb289c02609e619",
-    "likes_count": 1299,
+    "likes_count": 1298,
     "created_at": "2015-08-01T07:55:02+09:00",
     "updated_at": "2017-02-11T23:50:13+09:00",
     "id": "kenmatsu4"
@@ -26,7 +26,7 @@
   {
     "title": "プログラマなのに知らなかったら恥ずかしい英単語集",
     "url": "https://qiita.com/usatie/items/b41adf8114188406d2b8",
-    "likes_count": 1101,
+    "likes_count": 1100,
     "created_at": "2015-08-24T05:52:40+09:00",
     "updated_at": "2015-08-25T09:00:30+09:00",
     "id": "usatie"
@@ -42,7 +42,7 @@
   {
     "title": "プログラミングスタイルガイドのスタイルガイド",
     "url": "https://qiita.com/yugui/items/960b0da38a15c4d6917b",
-    "likes_count": 948,
+    "likes_count": 947,
     "created_at": "2015-08-25T23:19:44+09:00",
     "updated_at": "2018-12-15T07:51:52+09:00",
     "id": "yugui"
@@ -66,7 +66,7 @@
   {
     "title": "どんなエディタでもEditorConfigを使ってコードの統一性を高める",
     "url": "https://qiita.com/naru0504/items/82f09881abaf3f4dc171",
-    "likes_count": 822,
+    "likes_count": 823,
     "created_at": "2015-08-20T16:12:23+09:00",
     "updated_at": "2019-04-12T13:49:11+09:00",
     "id": "naru0504"
@@ -114,7 +114,7 @@
   {
     "title": "サーバー管理ツール「Ajenti」がなかなか良さげ",
     "url": "https://qiita.com/kijtra/items/cda3648ed06410f492ef",
-    "likes_count": 680,
+    "likes_count": 679,
     "created_at": "2015-08-27T18:46:17+09:00",
     "updated_at": "2015-08-28T14:40:47+09:00",
     "id": "kijtra"
@@ -154,7 +154,7 @@
   {
     "title": "CSS3を使ったちょっと便利なテクニックシリーズ",
     "url": "https://qiita.com/kokushin/items/95a0ed389665fd51898a",
-    "likes_count": 579,
+    "likes_count": 578,
     "created_at": "2015-08-14T11:01:27+09:00",
     "updated_at": "2017-01-31T14:35:53+09:00",
     "id": "kokushin"
@@ -162,7 +162,7 @@
   {
     "title": "Facebook Relayについてまとめ",
     "url": "https://qiita.com/kenfdev/items/c3c3a11abb98803a51c6",
-    "likes_count": 548,
+    "likes_count": 547,
     "created_at": "2015-08-15T00:49:44+09:00",
     "updated_at": "2015-08-15T00:49:44+09:00",
     "id": "kenfdev"
@@ -194,7 +194,7 @@
   {
     "title": "個人的な良い記事のガイドライン = 2ヶ月前の自分が泣いて喜ぶような記事を書く",
     "url": "https://qiita.com/jnchito/items/5c3eb3640ad57b3edc6c",
-    "likes_count": 445,
+    "likes_count": 444,
     "created_at": "2015-08-26T08:03:39+09:00",
     "updated_at": "2015-09-22T08:47:53+09:00",
     "id": "jnchito"
@@ -210,18 +210,10 @@
   {
     "title": "htmlのid属性とclass属性の命名はハイフンかcamelかsnakeか",
     "url": "https://qiita.com/itagakishintaro/items/168667d5ee4c56b30d52",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2015-08-11T21:29:56+09:00",
     "updated_at": "2018-05-14T07:21:41+09:00",
     "id": "itagakishintaro"
-  },
-  {
-    "title": "まだSwiftyJSONで消耗してるの？",
-    "url": "https://qiita.com/koher/items/300d89136b515291dac4",
-    "likes_count": 357,
-    "created_at": "2015-08-10T10:01:21+09:00",
-    "updated_at": "2016-01-05T01:34:28+09:00",
-    "id": "koher"
   },
   {
     "title": "ssh越しにAtom他GUIエディタを使いたい？それ、同期ツールunisonでできるよ",
@@ -230,6 +222,14 @@
     "created_at": "2015-08-04T10:57:15+09:00",
     "updated_at": "2016-10-07T18:36:34+09:00",
     "id": "yuya_presto"
+  },
+  {
+    "title": "まだSwiftyJSONで消耗してるの？",
+    "url": "https://qiita.com/koher/items/300d89136b515291dac4",
+    "likes_count": 356,
+    "created_at": "2015-08-10T10:01:21+09:00",
+    "updated_at": "2016-01-05T01:34:28+09:00",
+    "id": "koher"
   },
   {
     "title": "あなたがRails触る人なら見ておきたい「体系的な」豆知識",
@@ -344,20 +344,20 @@
     "id": "uzresk"
   },
   {
-    "title": "普段使っている道具を見直す〜Android Studio編〜",
-    "url": "https://qiita.com/shikato/items/518eb763227db8acecf0",
-    "likes_count": 281,
-    "created_at": "2015-08-09T23:42:34+09:00",
-    "updated_at": "2017-12-19T08:55:21+09:00",
-    "id": "shikato"
-  },
-  {
     "title": "Electron + Mithrilで、ふつうのデスクトップアプリを作る",
     "url": "https://qiita.com/shibukawa/items/e1836a8c98413448f746",
     "likes_count": 281,
     "created_at": "2015-08-20T22:09:43+09:00",
     "updated_at": "2015-08-21T09:20:26+09:00",
     "id": "shibukawa"
+  },
+  {
+    "title": "普段使っている道具を見直す〜Android Studio編〜",
+    "url": "https://qiita.com/shikato/items/518eb763227db8acecf0",
+    "likes_count": 280,
+    "created_at": "2015-08-09T23:42:34+09:00",
+    "updated_at": "2017-12-19T08:55:21+09:00",
+    "id": "shikato"
   },
   {
     "title": "Microsoft Edgeのユーザーエージェントがカオスなので注意",
@@ -370,7 +370,7 @@
   {
     "title": "react-railsでサーバーサイドレンダリングしつつクライアントでsetStateできて最高になった",
     "url": "https://qiita.com/mizchi/items/c34c3ff88d73a7bd2c88",
-    "likes_count": 279,
+    "likes_count": 278,
     "created_at": "2015-08-09T17:28:36+09:00",
     "updated_at": "2015-08-09T17:49:56+09:00",
     "id": "mizchi"
@@ -378,7 +378,7 @@
   {
     "title": "Elixir と Reactive System に関する考察",
     "url": "https://qiita.com/naoya@github/items/8a626a8b6c3a46b9d21b",
-    "likes_count": 275,
+    "likes_count": 274,
     "created_at": "2015-08-04T14:04:25+09:00",
     "updated_at": "2016-02-25T15:06:32+09:00",
     "id": "naoya@github"
