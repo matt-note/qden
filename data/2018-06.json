@@ -90,7 +90,7 @@
   {
     "title": "世のフロントエンドエンジニアにApollo Clientを布教したい",
     "url": "https://qiita.com/seya/items/26c8a0dc549a10efcdf8",
-    "likes_count": 982,
+    "likes_count": 983,
     "created_at": "2018-06-04T07:42:42+09:00",
     "updated_at": "2018-08-27T20:10:22+09:00",
     "id": "seya"
@@ -98,9 +98,9 @@
   {
     "title": "リリース済みiOSアプリのソースコード、全部見せます！",
     "url": "https://qiita.com/ryupaka/items/ea272c843d3ebf3b245b",
-    "likes_count": 969,
+    "likes_count": 970,
     "created_at": "2018-06-04T22:59:00+09:00",
-    "updated_at": "2018-06-06T23:43:23+09:00",
+    "updated_at": "2022-08-10T15:44:19+09:00",
     "id": "ryupaka"
   },
   {
@@ -170,7 +170,7 @@
   {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 648,
+    "likes_count": 649,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2018-10-11T13:59:01+09:00",
     "id": "newta"
@@ -424,20 +424,20 @@
     "id": "HiromuMasuda0228"
   },
   {
+    "title": "Category Encodersでカテゴリ特徴量をストレスなく変換する",
+    "url": "https://qiita.com/Hyperion13fleet/items/afa49a84bd5db65ffc31",
+    "likes_count": 360,
+    "created_at": "2018-06-27T21:04:44+09:00",
+    "updated_at": "2020-09-21T11:29:04+09:00",
+    "id": "Hyperion13fleet"
+  },
+  {
     "title": "ReactをRailsと共に使う方法",
     "url": "https://qiita.com/k-penguin-sato/items/e3cc04f787cf3254cfae",
     "likes_count": 359,
     "created_at": "2018-06-25T08:38:55+09:00",
     "updated_at": "2019-09-11T13:18:37+09:00",
     "id": "k-penguin-sato"
-  },
-  {
-    "title": "Category Encodersでカテゴリ特徴量をストレスなく変換する",
-    "url": "https://qiita.com/Hyperion13fleet/items/afa49a84bd5db65ffc31",
-    "likes_count": 359,
-    "created_at": "2018-06-27T21:04:44+09:00",
-    "updated_at": "2020-09-21T11:29:04+09:00",
-    "id": "Hyperion13fleet"
   },
   {
     "title": "python知識ゼロからポケモンの名前でしりとりするslackbotを作ったノウハウのすべて",
@@ -452,7 +452,7 @@
     "url": "https://qiita.com/KEINOS/items/c92268386d265042ea16",
     "likes_count": 355,
     "created_at": "2018-06-01T13:40:37+09:00",
-    "updated_at": "2022-08-08T16:21:42+09:00",
+    "updated_at": "2022-08-10T12:42:06+09:00",
     "id": "KEINOS"
   },
   {
@@ -552,20 +552,20 @@
     "id": "kahirokunn"
   },
   {
+    "title": "DataFrameで特徴量作るのめんどくさ過ぎる。。featuretoolsを使って自動生成したろ",
+    "url": "https://qiita.com/Hyperion13fleet/items/4eaca365f28049fe11c7",
+    "likes_count": 286,
+    "created_at": "2018-06-17T21:20:59+09:00",
+    "updated_at": "2018-06-19T10:37:45+09:00",
+    "id": "Hyperion13fleet"
+  },
+  {
     "title": "kindle書籍のpdf化",
     "url": "https://qiita.com/keitasumiya/items/c9d0f81fd7fb96e505b3",
     "likes_count": 285,
     "created_at": "2018-06-02T20:26:05+09:00",
     "updated_at": "2021-09-06T11:07:52+09:00",
     "id": "keitasumiya"
-  },
-  {
-    "title": "DataFrameで特徴量作るのめんどくさ過ぎる。。featuretoolsを使って自動生成したろ",
-    "url": "https://qiita.com/Hyperion13fleet/items/4eaca365f28049fe11c7",
-    "likes_count": 285,
-    "created_at": "2018-06-17T21:20:59+09:00",
-    "updated_at": "2018-06-19T10:37:45+09:00",
-    "id": "Hyperion13fleet"
   },
   {
     "title": "大規模Vue.jsアプリを開発するときのディレクトリ構成考えた",
