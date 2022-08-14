@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1312,
+    "likes_count": 1313,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -170,7 +170,7 @@
   {
     "title": "こんなGitの教え方をするエンジニアはデザイナーからモテるぞ！",
     "url": "https://qiita.com/gilly/items/aed8eab37d0f72d6106d",
-    "likes_count": 821,
+    "likes_count": 822,
     "created_at": "2017-12-12T20:14:58+09:00",
     "updated_at": "2021-03-18T11:50:06+09:00",
     "id": "gilly"
@@ -248,20 +248,20 @@
     "id": "JorgeBucaran"
   },
   {
-    "title": "Django データベース操作 についてのまとめ",
-    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 695,
-    "created_at": "2017-12-26T14:03:46+09:00",
-    "updated_at": "2017-12-28T13:03:50+09:00",
-    "id": "okoppe8"
-  },
-  {
     "title": "CTOのやるべきことは何なのか？（翻訳と考察）",
     "url": "https://qiita.com/takano1222/items/ef897b2156067688f3ae",
     "likes_count": 694,
     "created_at": "2017-12-09T17:48:32+09:00",
     "updated_at": "2017-12-14T12:41:19+09:00",
     "id": "takano1222"
+  },
+  {
+    "title": "Django データベース操作 についてのまとめ",
+    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
+    "likes_count": 694,
+    "created_at": "2017-12-26T14:03:46+09:00",
+    "updated_at": "2017-12-28T13:03:50+09:00",
+    "id": "okoppe8"
   },
   {
     "title": "systemctl コマンド",
@@ -272,20 +272,20 @@
     "id": "sinsengumi"
   },
   {
+    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
+    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
+    "likes_count": 665,
+    "created_at": "2017-12-22T11:55:57+09:00",
+    "updated_at": "2019-07-11T10:18:55+09:00",
+    "id": "megadreams14"
+  },
+  {
     "title": "Google Homeでやったことまとめ",
     "url": "https://qiita.com/miso_develop/items/99624915d3d6e41a5fb3",
     "likes_count": 664,
     "created_at": "2017-12-10T00:00:38+09:00",
     "updated_at": "2017-12-20T10:12:21+09:00",
     "id": "miso_develop"
-  },
-  {
-    "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
-    "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 664,
-    "created_at": "2017-12-22T11:55:57+09:00",
-    "updated_at": "2019-07-11T10:18:55+09:00",
-    "id": "megadreams14"
   },
   {
     "title": "Vue.js いろいろまとめ",
@@ -306,7 +306,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 614,
+    "likes_count": 615,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -322,7 +322,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 610,
+    "likes_count": 611,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -456,20 +456,20 @@
     "id": "h-takauma"
   },
   {
+    "title": ".bash_profileと.bashrcのまとめ",
+    "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
+    "likes_count": 464,
+    "created_at": "2017-12-25T22:56:03+09:00",
+    "updated_at": "2022-05-16T22:31:37+09:00",
+    "id": "takutoki"
+  },
+  {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
     "likes_count": 463,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2021-08-15T17:37:25+09:00",
     "id": "KTakahiro1729"
-  },
-  {
-    "title": ".bash_profileと.bashrcのまとめ",
-    "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
-    "likes_count": 463,
-    "created_at": "2017-12-25T22:56:03+09:00",
-    "updated_at": "2022-05-16T22:31:37+09:00",
-    "id": "takutoki"
   },
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
@@ -562,7 +562,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 403,
+    "likes_count": 402,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
@@ -666,7 +666,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 347,
+    "likes_count": 346,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
