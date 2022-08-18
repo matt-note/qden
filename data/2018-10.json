@@ -58,7 +58,7 @@
   {
     "title": "vue.js + typescript = vue.ts ことはじめ",
     "url": "https://qiita.com/nrslib/items/be90cc19fa3122266fd7",
-    "likes_count": 1434,
+    "likes_count": 1435,
     "created_at": "2018-10-09T01:50:17+09:00",
     "updated_at": "2019-11-11T10:24:58+09:00",
     "id": "nrslib"
@@ -178,7 +178,7 @@
   {
     "title": "ドメイン駆動設計は何を解決しようとしているのか[DDD]",
     "url": "https://qiita.com/little_hand_s/items/721afcbc555444663247",
-    "likes_count": 810,
+    "likes_count": 811,
     "created_at": "2018-10-08T20:38:40+09:00",
     "updated_at": "2022-05-26T00:33:34+09:00",
     "id": "little_hand_s"
@@ -218,7 +218,7 @@
   {
     "title": "TypeScriptの型初級",
     "url": "https://qiita.com/uhyo/items/da21e2b3c10c8a03952f",
-    "likes_count": 707,
+    "likes_count": 708,
     "created_at": "2018-10-24T18:49:35+09:00",
     "updated_at": "2021-11-28T14:24:19+09:00",
     "id": "uhyo"
@@ -240,20 +240,20 @@
     "id": "uhyo"
   },
   {
+    "title": "なぜDockerではホストOSと違うOSベースのコンテナイメージが動くのか",
+    "url": "https://qiita.com/kirikunix/items/33414240b4cacee362da",
+    "likes_count": 663,
+    "created_at": "2018-10-12T10:50:07+09:00",
+    "updated_at": "2020-08-20T00:05:41+09:00",
+    "id": "kirikunix"
+  },
+  {
     "title": "GASを使って運転日報のWEBシステムを作ってみた話",
     "url": "https://qiita.com/rarara_x16/items/81659db9b4bbd374b929",
     "likes_count": 663,
     "created_at": "2018-10-28T18:51:28+09:00",
     "updated_at": "2018-12-01T19:33:16+09:00",
     "id": "rarara_x16"
-  },
-  {
-    "title": "なぜDockerではホストOSと違うOSベースのコンテナイメージが動くのか",
-    "url": "https://qiita.com/kirikunix/items/33414240b4cacee362da",
-    "likes_count": 662,
-    "created_at": "2018-10-12T10:50:07+09:00",
-    "updated_at": "2020-08-20T00:05:41+09:00",
-    "id": "kirikunix"
   },
   {
     "title": "お前らのTouch Barはダサい",
@@ -292,7 +292,7 @@
     "url": "https://qiita.com/kai_kou/items/180a91fd88dbbbd746f6",
     "likes_count": 576,
     "created_at": "2018-10-14T18:00:05+09:00",
-    "updated_at": "2022-08-17T19:31:27+09:00",
+    "updated_at": "2022-08-18T19:31:29+09:00",
     "id": "kai_kou"
   },
   {
@@ -370,7 +370,7 @@
   {
     "title": "私のReactのコンポーネント実装アンチパターン",
     "url": "https://qiita.com/seya/items/7a0d20da4de5fab14426",
-    "likes_count": 483,
+    "likes_count": 484,
     "created_at": "2018-10-29T07:45:11+09:00",
     "updated_at": "2018-10-29T23:24:36+09:00",
     "id": "seya"
