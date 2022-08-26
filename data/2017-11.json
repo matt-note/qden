@@ -82,7 +82,7 @@
   {
     "title": "Railsの外部キー制約とreference型について",
     "url": "https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47",
-    "likes_count": 767,
+    "likes_count": 768,
     "created_at": "2017-11-24T14:32:12+09:00",
     "updated_at": "2022-04-01T23:16:07+09:00",
     "id": "ryouzi"
@@ -106,7 +106,7 @@
   {
     "title": "なぜオブジェクト指向は難しいのか",
     "url": "https://qiita.com/tutinoco/items/7f7568cc7dbf7e2276c8",
-    "likes_count": 684,
+    "likes_count": 685,
     "created_at": "2017-11-16T01:47:45+09:00",
     "updated_at": "2021-01-05T10:16:02+09:00",
     "id": "tutinoco"
@@ -170,10 +170,18 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 607,
+    "likes_count": 608,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
+  },
+  {
+    "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
+    "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
+    "likes_count": 593,
+    "created_at": "2017-11-18T06:21:52+09:00",
+    "updated_at": "2021-12-30T11:36:42+09:00",
+    "id": "t_nakayama0714"
   },
   {
     "title": "Linus Torvalds氏によるGitの内部構造の解説",
@@ -182,14 +190,6 @@
     "created_at": "2017-11-03T15:40:51+09:00",
     "updated_at": "2019-09-26T17:23:53+09:00",
     "id": "hogemax"
-  },
-  {
-    "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
-    "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
-    "likes_count": 592,
-    "created_at": "2017-11-18T06:21:52+09:00",
-    "updated_at": "2021-12-30T11:36:42+09:00",
-    "id": "t_nakayama0714"
   },
   {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
@@ -354,7 +354,7 @@
   {
     "title": "Railsアプリで Bootstrap 4 を利用する",
     "url": "https://qiita.com/NaokiIshimura/items/c8db09daefff5c11dadf",
-    "likes_count": 401,
+    "likes_count": 402,
     "created_at": "2017-11-03T19:54:09+09:00",
     "updated_at": "2019-08-14T16:45:50+09:00",
     "id": "NaokiIshimura"
@@ -384,20 +384,20 @@
     "id": "BlueEventHorizon"
   },
   {
+    "title": "C# 今更ですが、await / async",
+    "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
+    "likes_count": 368,
+    "created_at": "2017-11-30T18:32:10+09:00",
+    "updated_at": "2017-12-11T10:31:16+09:00",
+    "id": "rawr"
+  },
+  {
     "title": "Kotlin の Coroutine を概観する",
     "url": "https://qiita.com/kawmra/items/ee4acb7db61f70dec9a8",
     "likes_count": 367,
     "created_at": "2017-11-17T01:51:39+09:00",
     "updated_at": "2019-03-01T15:28:43+09:00",
     "id": "kawmra"
-  },
-  {
-    "title": "C# 今更ですが、await / async",
-    "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
-    "likes_count": 367,
-    "created_at": "2017-11-30T18:32:10+09:00",
-    "updated_at": "2017-12-11T10:31:16+09:00",
-    "id": "rawr"
   },
   {
     "title": "Django: モデルフィールドリファレンスの一覧",
@@ -434,7 +434,7 @@
   {
     "title": "puppeteerでの要素の取得方法",
     "url": "https://qiita.com/go_sagawa/items/85f97deab7ccfdce53ea",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2017-11-07T10:50:37+09:00",
     "updated_at": "2019-06-17T17:22:55+09:00",
     "id": "go_sagawa"
