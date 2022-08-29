@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4865,
+    "likes_count": 4868,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3299,
+    "likes_count": 3302,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2518,
+    "likes_count": 2519,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2022-03-25T11:48:28+09:00",
     "id": "tani_AI_Academy"
@@ -66,7 +66,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1874,
+    "likes_count": 1875,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2020-10-09T07:47:43+09:00",
     "id": "jnchito"
@@ -106,7 +106,7 @@
   {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
-    "likes_count": 1017,
+    "likes_count": 1018,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
@@ -114,7 +114,7 @@
   {
     "title": "【初心者向け】railsアプリをherokuを使って確実にデプロイする方法【決定版】",
     "url": "https://qiita.com/kazukimatsumoto/items/a0daa7281a3948701c39",
-    "likes_count": 994,
+    "likes_count": 995,
     "created_at": "2018-05-21T13:12:10+09:00",
     "updated_at": "2022-07-01T18:49:15+09:00",
     "id": "kazukimatsumoto"
@@ -154,7 +154,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 812,
+    "likes_count": 813,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -218,7 +218,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 678,
+    "likes_count": 679,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -376,20 +376,20 @@
     "id": "sotszk"
   },
   {
+    "title": "【企業サイト構築用】Webページコーディングガイドライン",
+    "url": "https://qiita.com/kgsi/items/d8aa2424b86c0dc0d3f9",
+    "likes_count": 489,
+    "created_at": "2018-05-17T02:16:11+09:00",
+    "updated_at": "2020-01-20T13:49:54+09:00",
+    "id": "kgsi"
+  },
+  {
     "title": "意外と若い、プログラム言語の誕生日と年齢。",
     "url": "https://qiita.com/Nekonecode/items/841c9dda9ba1a3014635",
     "likes_count": 488,
     "created_at": "2018-05-04T05:59:58+09:00",
     "updated_at": "2018-07-12T20:16:34+09:00",
     "id": "Nekonecode"
-  },
-  {
-    "title": "【企業サイト構築用】Webページコーディングガイドライン",
-    "url": "https://qiita.com/kgsi/items/d8aa2424b86c0dc0d3f9",
-    "likes_count": 488,
-    "created_at": "2018-05-17T02:16:11+09:00",
-    "updated_at": "2020-01-20T13:49:54+09:00",
-    "id": "kgsi"
   },
   {
     "title": "SSH公開鍵認証で接続するまで",
@@ -538,7 +538,7 @@
   {
     "title": "git を初めて使う時 コミット→プッシュ→マージ　の流れ",
     "url": "https://qiita.com/yukiyoshimura/items/7aa4a8f8db493ab97c2b",
-    "likes_count": 340,
+    "likes_count": 341,
     "created_at": "2018-05-13T21:59:51+09:00",
     "updated_at": "2018-05-13T22:05:49+09:00",
     "id": "yukiyoshimura"
