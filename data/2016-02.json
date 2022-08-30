@@ -106,7 +106,7 @@
   {
     "title": "Python文字列操作マスター",
     "url": "https://qiita.com/tomotaka_ito/items/594ee1396cf982ba9887",
-    "likes_count": 1089,
+    "likes_count": 1090,
     "created_at": "2016-02-04T18:37:45+09:00",
     "updated_at": "2021-11-24T05:22:55+09:00",
     "id": "tomotaka_ito"
@@ -258,7 +258,7 @@
   {
     "title": "【Swift】CocoaPods導入手順",
     "url": "https://qiita.com/ShinokiRyosei/items/3090290cb72434852460",
-    "likes_count": 597,
+    "likes_count": 598,
     "created_at": "2016-02-19T18:36:48+09:00",
     "updated_at": "2020-04-19T10:34:41+09:00",
     "id": "ShinokiRyosei"
@@ -370,7 +370,7 @@
   {
     "title": "Docker network 概論",
     "url": "https://qiita.com/TsutomuNakamura/items/ed046ee21caca4a2ffd9",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2016-02-08T07:23:17+09:00",
     "updated_at": "2019-03-12T22:50:31+09:00",
     "id": "TsutomuNakamura"
@@ -522,10 +522,18 @@
   {
     "title": "【新人教育 資料】第3章 UMLまでの道 〜図種類紹介とクラス図の解説編〜",
     "url": "https://qiita.com/devopsCoordinator/items/213e45694dfac0edcfbc",
-    "likes_count": 332,
+    "likes_count": 333,
     "created_at": "2016-02-01T16:53:10+09:00",
     "updated_at": "2019-04-25T14:48:20+09:00",
     "id": "devopsCoordinator"
+  },
+  {
+    "title": "Rails 共通部分を切り出す (View, Controller, Model) メモ",
+    "url": "https://qiita.com/shizuma/items/ae6ecb85615f74444693",
+    "likes_count": 329,
+    "created_at": "2016-02-09T12:30:47+09:00",
+    "updated_at": "2016-02-09T12:30:47+09:00",
+    "id": "shizuma"
   },
   {
     "title": "Kotlin 1.0 リリース: JVM, Android向けの実用的な言語",
@@ -534,14 +542,6 @@
     "created_at": "2016-02-15T22:00:36+09:00",
     "updated_at": "2016-02-18T16:29:32+09:00",
     "id": "ngsw_taro"
-  },
-  {
-    "title": "Rails 共通部分を切り出す (View, Controller, Model) メモ",
-    "url": "https://qiita.com/shizuma/items/ae6ecb85615f74444693",
-    "likes_count": 328,
-    "created_at": "2016-02-09T12:30:47+09:00",
-    "updated_at": "2016-02-09T12:30:47+09:00",
-    "id": "shizuma"
   },
   {
     "title": "glibcの脆弱性対策（取り急ぎiptables/firewalldで叩き落とす！）for CVE-2015-7547",
