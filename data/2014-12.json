@@ -10,7 +10,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2496,
+    "likes_count": 2497,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -50,7 +50,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1404,
+    "likes_count": 1403,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2021-10-20T18:10:09+09:00",
     "id": "kunichiko"
@@ -82,7 +82,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1244,
+    "likes_count": 1243,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2022-01-17T09:49:27+09:00",
     "id": "k-shogo"
@@ -136,20 +136,20 @@
     "id": "k0kubun"
   },
   {
-    "title": "現場で使うGitのテクニック",
-    "url": "https://qiita.com/treby/items/9184251b545d9ebc3198",
-    "likes_count": 817,
-    "created_at": "2014-12-23T21:18:22+09:00",
-    "updated_at": "2020-05-28T16:39:38+09:00",
-    "id": "treby"
-  },
-  {
     "title": "B-treeインデックス入門",
     "url": "https://qiita.com/kiyodori/items/f66a545a47dc59dd8839",
     "likes_count": 816,
     "created_at": "2014-12-11T23:33:29+09:00",
     "updated_at": "2014-12-12T09:27:12+09:00",
     "id": "kiyodori"
+  },
+  {
+    "title": "現場で使うGitのテクニック",
+    "url": "https://qiita.com/treby/items/9184251b545d9ebc3198",
+    "likes_count": 816,
+    "created_at": "2014-12-23T21:18:22+09:00",
+    "updated_at": "2020-05-28T16:39:38+09:00",
+    "id": "treby"
   },
   {
     "title": "初心者向けGithubへのPullRequest方法",
@@ -162,7 +162,7 @@
   {
     "title": "UIViewControllerのライフサイクル",
     "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 795,
+    "likes_count": 796,
     "created_at": "2014-12-24T22:11:02+09:00",
     "updated_at": "2014-12-24T22:11:02+09:00",
     "id": "motokiee"
@@ -210,7 +210,7 @@
   {
     "title": "Groovyを知らない人のためのbuild.gradle読み書き入門",
     "url": "https://qiita.com/opengl-8080/items/a0bb31fb20cb6505188b",
-    "likes_count": 680,
+    "likes_count": 679,
     "created_at": "2014-12-15T00:57:20+09:00",
     "updated_at": "2019-01-13T10:32:56+09:00",
     "id": "opengl-8080"
@@ -264,20 +264,20 @@
     "id": "koba04"
   },
   {
-    "title": "[翻訳] android best practice",
-    "url": "https://qiita.com/kgmyshin/items/a2358d54ffb3c5435d11",
-    "likes_count": 612,
-    "created_at": "2014-12-11T09:53:51+09:00",
-    "updated_at": "2017-05-07T18:38:58+09:00",
-    "id": "kgmyshin"
-  },
-  {
     "title": "Rubyの凄く面白い特徴をRailsのコードを例に解説",
     "url": "https://qiita.com/shinya_131/items/901b9c70642b1e1f9227",
     "likes_count": 611,
     "created_at": "2014-12-06T23:47:56+09:00",
     "updated_at": "2014-12-08T22:52:17+09:00",
     "id": "shinya_131"
+  },
+  {
+    "title": "[翻訳] android best practice",
+    "url": "https://qiita.com/kgmyshin/items/a2358d54ffb3c5435d11",
+    "likes_count": 611,
+    "created_at": "2014-12-11T09:53:51+09:00",
+    "updated_at": "2017-05-07T18:38:58+09:00",
+    "id": "kgmyshin"
   },
   {
     "title": "米googleの研究者が開発したWord2Vecで自然言語処理(独自データ)",
@@ -290,7 +290,7 @@
   {
     "title": "zshの外部プラグインまとめ",
     "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
-    "likes_count": 589,
+    "likes_count": 588,
     "created_at": "2014-12-25T00:15:28+09:00",
     "updated_at": "2015-03-10T00:02:36+09:00",
     "id": "mollifier"
@@ -458,7 +458,7 @@
   {
     "title": "Makefileの関数",
     "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
-    "likes_count": 439,
+    "likes_count": 440,
     "created_at": "2014-12-24T21:58:53+09:00",
     "updated_at": "2017-05-15T10:21:03+09:00",
     "id": "chibi929"
@@ -586,7 +586,7 @@
   {
     "title": "phpDocumentorの書き方",
     "url": "https://qiita.com/itosho/items/0f809e067a9e4a41515e",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2014-12-22T14:21:26+09:00",
     "updated_at": "2015-01-15T19:46:15+09:00",
     "id": "itosho"
@@ -658,7 +658,7 @@
   {
     "title": "Golang パフォーマンスチューニング",
     "url": "https://qiita.com/naoina/items/d71ddfab31f4b29f6693",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2014-12-17T00:26:14+09:00",
     "updated_at": "2014-12-17T14:35:31+09:00",
     "id": "naoina"
@@ -730,7 +730,7 @@
   {
     "title": "use-packageで可読性の高いinit.elを書く",
     "url": "https://qiita.com/kai2nenobu/items/5dfae3767514584f5220",
-    "likes_count": 276,
+    "likes_count": 275,
     "created_at": "2014-12-07T22:06:03+09:00",
     "updated_at": "2016-03-08T22:43:32+09:00",
     "id": "kai2nenobu"
