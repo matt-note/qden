@@ -42,7 +42,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1387,
+    "likes_count": 1389,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -330,7 +330,7 @@
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 533,
+    "likes_count": 534,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
@@ -386,7 +386,7 @@
   {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 483,
+    "likes_count": 484,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
@@ -440,6 +440,14 @@
     "id": "lain21"
   },
   {
+    "title": "Python 割と使うライブラリ集",
+    "url": "https://qiita.com/ryuichi1208/items/cb5f850a9811d2a4bc3a",
+    "likes_count": 423,
+    "created_at": "2018-12-08T23:10:04+09:00",
+    "updated_at": "2019-05-07T00:42:55+09:00",
+    "id": "ryuichi1208"
+  },
+  {
     "title": "今年、JavaScriptでの仕事の幅を広げた技術６選",
     "url": "https://qiita.com/gonshi_com/items/72c79f380e7e90e1504e",
     "likes_count": 423,
@@ -454,14 +462,6 @@
     "created_at": "2018-12-07T15:48:20+09:00",
     "updated_at": "2021-01-31T03:24:25+09:00",
     "id": "diescake"
-  },
-  {
-    "title": "Python 割と使うライブラリ集",
-    "url": "https://qiita.com/ryuichi1208/items/cb5f850a9811d2a4bc3a",
-    "likes_count": 422,
-    "created_at": "2018-12-08T23:10:04+09:00",
-    "updated_at": "2019-05-07T00:42:55+09:00",
-    "id": "ryuichi1208"
   },
   {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
@@ -674,7 +674,7 @@
   {
     "title": "Railsでフォロー機能を作る方法",
     "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
-    "likes_count": 318,
+    "likes_count": 319,
     "created_at": "2018-12-08T19:30:47+09:00",
     "updated_at": "2020-04-13T00:22:52+09:00",
     "id": "mitsumitsu1128"
@@ -736,20 +736,20 @@
     "id": "Hailee"
   },
   {
+    "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
+    "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
+    "likes_count": 288,
+    "created_at": "2018-12-09T00:00:37+09:00",
+    "updated_at": "2022-09-05T21:35:09+09:00",
+    "id": "ryosuketter"
+  },
+  {
     "title": "FirebaseとNuxt.jsを使ってユーザ認証関係を簡単に作ってみる+1ヶ月前の自分に教えたいリンク集",
     "url": "https://qiita.com/redshoga/items/da5c0e247e0df314a257",
     "likes_count": 288,
     "created_at": "2018-12-13T13:49:59+09:00",
     "updated_at": "2019-03-01T15:20:32+09:00",
     "id": "redshoga"
-  },
-  {
-    "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
-    "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
-    "likes_count": 287,
-    "created_at": "2018-12-09T00:00:37+09:00",
-    "updated_at": "2021-04-15T09:24:25+09:00",
-    "id": "ryosuketter"
   },
   {
     "title": "Python3インストール（Mac編）",
