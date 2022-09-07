@@ -34,7 +34,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1444,
+    "likes_count": 1445,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -82,7 +82,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 1022,
+    "likes_count": 1023,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -248,14 +248,6 @@
     "id": "JorgeBucaran"
   },
   {
-    "title": "Django データベース操作 についてのまとめ",
-    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 695,
-    "created_at": "2017-12-26T14:03:46+09:00",
-    "updated_at": "2017-12-28T13:03:50+09:00",
-    "id": "okoppe8"
-  },
-  {
     "title": "CTOのやるべきことは何なのか？（翻訳と考察）",
     "url": "https://qiita.com/takano1222/items/ef897b2156067688f3ae",
     "likes_count": 694,
@@ -264,9 +256,17 @@
     "id": "takano1222"
   },
   {
+    "title": "Django データベース操作 についてのまとめ",
+    "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
+    "likes_count": 694,
+    "created_at": "2017-12-26T14:03:46+09:00",
+    "updated_at": "2017-12-28T13:03:50+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 673,
+    "likes_count": 674,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -274,7 +274,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 671,
+    "likes_count": 672,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -370,7 +370,7 @@
   {
     "title": "SlackのIncoming Webhooksを使い倒す",
     "url": "https://qiita.com/ik-fib/items/b4a502d173a22b3947a0",
-    "likes_count": 558,
+    "likes_count": 559,
     "created_at": "2017-12-14T10:09:51+09:00",
     "updated_at": "2017-12-14T14:47:37+09:00",
     "id": "ik-fib"
@@ -458,7 +458,7 @@
   {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
-    "likes_count": 465,
+    "likes_count": 466,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2021-08-15T17:37:25+09:00",
     "id": "KTakahiro1729"
@@ -562,7 +562,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 405,
+    "likes_count": 407,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"

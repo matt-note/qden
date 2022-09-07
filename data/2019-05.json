@@ -10,7 +10,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 2626,
+    "likes_count": 2627,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2020-02-11T18:07:22+09:00",
     "id": "jesus_isao"
@@ -42,7 +42,7 @@
   {
     "title": "東大松尾研から新たに無償公開されたDeep Learning講座「DL4US」が良い、という話",
     "url": "https://qiita.com/katsuki104/items/e0f81a9cacc3e5f4fcd7",
-    "likes_count": 1771,
+    "likes_count": 1772,
     "created_at": "2019-05-16T17:25:13+09:00",
     "updated_at": "2019-05-17T02:07:22+09:00",
     "id": "katsuki104"
@@ -66,7 +66,7 @@
   {
     "title": " 「写経」を自動化し、オートで功徳を積める仕組みを作ってみたのでございます。",
     "url": "https://qiita.com/youwht/items/616ccc062725fa050a34",
-    "likes_count": 1657,
+    "likes_count": 1658,
     "created_at": "2019-05-19T15:51:06+09:00",
     "updated_at": "2020-01-27T00:10:48+09:00",
     "id": "youwht"
@@ -114,7 +114,7 @@
   {
     "title": "敗北者のTypeScript",
     "url": "https://qiita.com/uhyo/items/aae57ba0734e36ee846a",
-    "likes_count": 1071,
+    "likes_count": 1072,
     "created_at": "2019-05-12T17:40:10+09:00",
     "updated_at": "2020-05-15T12:52:28+09:00",
     "id": "uhyo"
@@ -192,6 +192,14 @@
     "id": "Zonoma"
   },
   {
+    "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
+    "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
+    "likes_count": 744,
+    "created_at": "2019-05-13T00:46:21+09:00",
+    "updated_at": "2020-05-08T20:20:06+09:00",
+    "id": "simonritchie"
+  },
+  {
     "title": "アニメーションで学ぶVim入門 ～精選10機能～",
     "url": "https://qiita.com/KoyanagiHitoshi/items/82ef910432552d0a4553",
     "likes_count": 744,
@@ -208,14 +216,6 @@
     "id": "birdwatcher"
   },
   {
-    "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
-    "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 743,
-    "created_at": "2019-05-13T00:46:21+09:00",
-    "updated_at": "2020-05-08T20:20:06+09:00",
-    "id": "simonritchie"
-  },
-  {
     "title": "サーバーレスを使用して最初の６ヶ月で学んだ６つのこと",
     "url": "https://qiita.com/nottakis/items/8bd6ae3a95ea726ea730",
     "likes_count": 737,
@@ -226,7 +226,7 @@
   {
     "title": "Vue.jsのv-modelを正しく使う",
     "url": "https://qiita.com/simezi9/items/c27d69f17d2d08722b3a",
-    "likes_count": 724,
+    "likes_count": 725,
     "created_at": "2019-05-13T20:05:41+09:00",
     "updated_at": "2020-05-01T18:50:04+09:00",
     "id": "simezi9"
@@ -356,7 +356,7 @@
     "url": "https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c",
     "likes_count": 445,
     "created_at": "2019-05-14T05:46:53+09:00",
-    "updated_at": "2022-08-26T23:54:36+09:00",
+    "updated_at": "2022-09-07T01:51:11+09:00",
     "id": "masakinihirota"
   },
   {
@@ -402,10 +402,18 @@
   {
     "title": "GOのORMを分かりやすくまとめてみた【GORM公式ドキュメントの焼き回し】",
     "url": "https://qiita.com/gold-kou/items/45a95d61d253184b0f33",
-    "likes_count": 390,
+    "likes_count": 391,
     "created_at": "2019-05-07T07:54:39+09:00",
     "updated_at": "2022-02-02T10:49:36+09:00",
     "id": "gold-kou"
+  },
+  {
+    "title": "JavaScriptの数値型完全理解",
+    "url": "https://qiita.com/uhyo/items/f9abb94bcc0374d7ed23",
+    "likes_count": 386,
+    "created_at": "2019-05-06T17:02:43+09:00",
+    "updated_at": "2019-05-09T20:36:35+09:00",
+    "id": "uhyo"
   },
   {
     "title": "テスト初心者が知っておくべきブラックボックステストの種類と概要",
@@ -414,14 +422,6 @@
     "created_at": "2019-05-25T12:55:35+09:00",
     "updated_at": "2019-05-30T14:33:44+09:00",
     "id": "tatane616"
-  },
-  {
-    "title": "JavaScriptの数値型完全理解",
-    "url": "https://qiita.com/uhyo/items/f9abb94bcc0374d7ed23",
-    "likes_count": 384,
-    "created_at": "2019-05-06T17:02:43+09:00",
-    "updated_at": "2019-05-09T20:36:35+09:00",
-    "id": "uhyo"
   },
   {
     "title": "WSL (Windows Subsystem for Linux)の基本メモ",
@@ -562,7 +562,7 @@
   {
     "title": "AtCoderに登録したら解くべき精選過去問10問をPythonで解いてみた",
     "url": "https://qiita.com/KoyanagiHitoshi/items/c5e82841b8d0f750851d",
-    "likes_count": 255,
+    "likes_count": 256,
     "created_at": "2019-05-17T11:56:23+09:00",
     "updated_at": "2022-08-07T01:20:07+09:00",
     "id": "KoyanagiHitoshi"
