@@ -90,7 +90,7 @@
   {
     "title": "Pythonで使う競技プログラミング用チートシート",
     "url": "https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0",
-    "likes_count": 721,
+    "likes_count": 720,
     "created_at": "2017-11-12T02:03:04+09:00",
     "updated_at": "2019-08-22T21:01:24+09:00",
     "id": "_-_-_-_-_"
@@ -122,7 +122,7 @@
   {
     "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
     "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 643,
+    "likes_count": 644,
     "created_at": "2017-11-23T13:25:47+09:00",
     "updated_at": "2019-07-16T14:21:23+09:00",
     "id": "toshi0607"
@@ -170,7 +170,7 @@
   {
     "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
     "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 609,
+    "likes_count": 610,
     "created_at": "2017-11-18T15:46:30+09:00",
     "updated_at": "2020-01-02T15:49:43+09:00",
     "id": "tomo0"
@@ -250,7 +250,7 @@
   {
     "title": "axiosのパラメータ指定方法まとめ",
     "url": "https://qiita.com/taroc/items/f22f7dd5d6d5443c72a4",
-    "likes_count": 471,
+    "likes_count": 472,
     "created_at": "2017-11-08T19:17:23+09:00",
     "updated_at": "2017-11-08T19:17:23+09:00",
     "id": "taroc"
@@ -370,10 +370,18 @@
   {
     "title": "Swiftとイニシャライザ",
     "url": "https://qiita.com/shtnkgm/items/8b7979fc84a3cc065238",
-    "likes_count": 375,
+    "likes_count": 374,
     "created_at": "2017-11-28T15:44:57+09:00",
     "updated_at": "2018-02-05T01:11:35+09:00",
     "id": "shtnkgm"
+  },
+  {
+    "title": "Django: モデルフィールドリファレンスの一覧",
+    "url": "https://qiita.com/nachashin/items/f768f0d437e0042dd4b3",
+    "likes_count": 369,
+    "created_at": "2017-11-15T13:54:29+09:00",
+    "updated_at": "2018-10-20T17:15:00+09:00",
+    "id": "nachashin"
   },
   {
     "title": "Kotlin の Coroutine を概観する",
@@ -384,14 +392,6 @@
     "id": "kawmra"
   },
   {
-    "title": "【Swift】iOSアプリ開発で使える（使いたい）Swiftライブラリー",
-    "url": "https://qiita.com/BlueEventHorizon/items/080f1e24a6c3d76a0df8",
-    "likes_count": 369,
-    "created_at": "2017-11-25T00:37:47+09:00",
-    "updated_at": "2019-12-19T18:33:31+09:00",
-    "id": "BlueEventHorizon"
-  },
-  {
     "title": "C# 今更ですが、await / async",
     "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
     "likes_count": 369,
@@ -400,12 +400,12 @@
     "id": "rawr"
   },
   {
-    "title": "Django: モデルフィールドリファレンスの一覧",
-    "url": "https://qiita.com/nachashin/items/f768f0d437e0042dd4b3",
-    "likes_count": 368,
-    "created_at": "2017-11-15T13:54:29+09:00",
-    "updated_at": "2018-10-20T17:15:00+09:00",
-    "id": "nachashin"
+    "title": "【Swift】iOSアプリ開発で使える（使いたい）Swiftライブラリー",
+    "url": "https://qiita.com/BlueEventHorizon/items/080f1e24a6c3d76a0df8",
+    "likes_count": 367,
+    "created_at": "2017-11-25T00:37:47+09:00",
+    "updated_at": "2019-12-19T18:33:31+09:00",
+    "id": "BlueEventHorizon"
   },
   {
     "title": "CORS を分かってないから動くコード書いて理解する",
@@ -482,7 +482,7 @@
   {
     "title": "VS Codeのワークスペース",
     "url": "https://qiita.com/YuichiNukiyama/items/ef16a0219f46ea03a045",
-    "likes_count": 251,
+    "likes_count": 252,
     "created_at": "2017-11-05T15:31:32+09:00",
     "updated_at": "2017-12-05T23:07:22+09:00",
     "id": "YuichiNukiyama"
