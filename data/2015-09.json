@@ -10,7 +10,7 @@
   {
     "title": "npm とか bower とか一体何なんだよ！Javascript 界隈の文脈を理解しよう",
     "url": "https://qiita.com/megane42/items/2ab6ffd866c3f2fda066",
-    "likes_count": 2575,
+    "likes_count": 2573,
     "created_at": "2015-09-23T19:23:35+09:00",
     "updated_at": "2015-10-01T02:27:07+09:00",
     "id": "megane42"
@@ -74,7 +74,7 @@
   {
     "title": "エンジニアなら知っておきたい lessコマンドtips 11選",
     "url": "https://qiita.com/ine1127/items/64b5b6cf52471c3fe59c",
-    "likes_count": 1585,
+    "likes_count": 1586,
     "created_at": "2015-09-12T01:44:56+09:00",
     "updated_at": "2015-09-15T00:00:44+09:00",
     "id": "ine1127"
@@ -106,7 +106,7 @@
   {
     "title": "JavaScriptの「&&」「||」について盛大に勘違いをしていた件",
     "url": "https://qiita.com/Imamotty/items/bc659569239379dded55",
-    "likes_count": 1325,
+    "likes_count": 1326,
     "created_at": "2015-09-12T01:28:15+09:00",
     "updated_at": "2015-09-12T08:07:39+09:00",
     "id": "Imamotty"
@@ -146,7 +146,7 @@
   {
     "title": "Kotlin スコープ関数 用途まとめ",
     "url": "https://qiita.com/ngsw_taro/items/d29e3080d9fc8a38691e",
-    "likes_count": 1040,
+    "likes_count": 1041,
     "created_at": "2015-09-29T13:03:50+09:00",
     "updated_at": "2021-07-06T10:38:52+09:00",
     "id": "ngsw_taro"
@@ -154,7 +154,7 @@
   {
     "title": "PostgreSQLの基本的なコマンド",
     "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 958,
+    "likes_count": 960,
     "created_at": "2015-09-08T20:16:56+09:00",
     "updated_at": "2021-10-15T23:37:54+09:00",
     "id": "H-A-L"
@@ -162,7 +162,7 @@
   {
     "title": "Windowsで使えるターミナルとシェルのまとめ",
     "url": "https://qiita.com/Ted-HM/items/9a60f6fcf74bbd79a904",
-    "likes_count": 947,
+    "likes_count": 948,
     "created_at": "2015-09-22T21:51:07+09:00",
     "updated_at": "2019-09-25T23:22:06+09:00",
     "id": "Ted-HM"
@@ -178,7 +178,7 @@
   {
     "title": "Graphvizとdot言語でグラフを描く方法のまとめ",
     "url": "https://qiita.com/rubytomato@github/items/51779135bc4b77c8c20d",
-    "likes_count": 868,
+    "likes_count": 869,
     "created_at": "2015-09-14T19:13:26+09:00",
     "updated_at": "2019-09-12T22:44:12+09:00",
     "id": "rubytomato@github"
@@ -298,7 +298,7 @@
   {
     "title": "Carthageを使ってビルド時間を短縮しよう",
     "url": "https://qiita.com/yutat93/items/97fe9bc2bf2e97da7ec1",
-    "likes_count": 495,
+    "likes_count": 496,
     "created_at": "2015-09-26T22:03:23+09:00",
     "updated_at": "2017-01-08T12:13:48+09:00",
     "id": "yutat93"
@@ -354,7 +354,7 @@
   {
     "title": "Powershellを楽に実行してもらうには",
     "url": "https://qiita.com/tomoko523/items/df8e384d32a377381ef9",
-    "likes_count": 392,
+    "likes_count": 393,
     "created_at": "2015-09-18T17:48:57+09:00",
     "updated_at": "2015-09-18T17:48:57+09:00",
     "id": "tomoko523"
@@ -378,7 +378,7 @@
   {
     "title": "【Android】Fragmentを使うときのコツとか色々",
     "url": "https://qiita.com/HideMatsu/items/ddf640899cbe1b2027ed",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2015-09-11T16:12:52+09:00",
     "updated_at": "2016-05-30T08:44:59+09:00",
     "id": "HideMatsu"
@@ -472,20 +472,20 @@
     "id": "townsoft"
   },
   {
+    "title": "Railsにおける命名規則",
+    "url": "https://qiita.com/gakkie/items/3afcd505c786364aa5fa",
+    "likes_count": 324,
+    "created_at": "2015-09-09T14:35:25+09:00",
+    "updated_at": "2015-09-09T14:35:25+09:00",
+    "id": "gakkie"
+  },
+  {
     "title": "iOS用のCIサービスBitriseを使ってみた",
     "url": "https://qiita.com/keygx/items/ab6149476f43ec51eb5c",
     "likes_count": 324,
     "created_at": "2015-09-13T12:06:00+09:00",
     "updated_at": "2016-09-01T15:00:09+09:00",
     "id": "keygx"
-  },
-  {
-    "title": "Railsにおける命名規則",
-    "url": "https://qiita.com/gakkie/items/3afcd505c786364aa5fa",
-    "likes_count": 323,
-    "created_at": "2015-09-09T14:35:25+09:00",
-    "updated_at": "2015-09-09T14:35:25+09:00",
-    "id": "gakkie"
   },
   {
     "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
@@ -520,20 +520,20 @@
     "id": "tetsuy"
   },
   {
-    "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",
-    "url": "https://qiita.com/shizuma/items/c8c2e71af8c1dcf3d1c2",
-    "likes_count": 313,
-    "created_at": "2015-09-09T13:02:55+09:00",
-    "updated_at": "2020-01-25T14:29:48+09:00",
-    "id": "shizuma"
-  },
-  {
     "title": "C++ コーディングスタイルメモ",
     "url": "https://qiita.com/shirakawa4756/items/55b509fb56cb1bb0c9a4",
-    "likes_count": 312,
+    "likes_count": 313,
     "created_at": "2015-09-01T19:43:51+09:00",
     "updated_at": "2016-02-17T22:01:50+09:00",
     "id": "shirakawa4756"
+  },
+  {
+    "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",
+    "url": "https://qiita.com/shizuma/items/c8c2e71af8c1dcf3d1c2",
+    "likes_count": 312,
+    "created_at": "2015-09-09T13:02:55+09:00",
+    "updated_at": "2020-01-25T14:29:48+09:00",
+    "id": "shizuma"
   },
   {
     "title": "突然だがEmacs を始めよう",
