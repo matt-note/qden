@@ -264,20 +264,20 @@
     "id": "takano1222"
   },
   {
-    "title": "systemctl コマンド",
-    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 677,
-    "created_at": "2017-12-08T14:15:47+09:00",
-    "updated_at": "2019-03-14T16:14:00+09:00",
-    "id": "sinsengumi"
-  },
-  {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
     "likes_count": 677,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
+  },
+  {
+    "title": "systemctl コマンド",
+    "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
+    "likes_count": 676,
+    "created_at": "2017-12-08T14:15:47+09:00",
+    "updated_at": "2019-03-14T16:14:00+09:00",
+    "id": "sinsengumi"
   },
   {
     "title": "Google Homeでやったことまとめ",
@@ -448,14 +448,6 @@
     "id": "devneko"
   },
   {
-    "title": "Google Homeで受付システム作ってみた",
-    "url": "https://qiita.com/h-takauma/items/4ecc3421f2995b207284",
-    "likes_count": 469,
-    "created_at": "2017-12-06T15:46:42+09:00",
-    "updated_at": "2017-12-06T22:42:03+09:00",
-    "id": "h-takauma"
-  },
-  {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
     "likes_count": 466,
@@ -490,7 +482,7 @@
   {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 454,
+    "likes_count": 453,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
@@ -562,7 +554,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 409,
+    "likes_count": 410,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2017-12-16T21:28:42+09:00",
     "id": "motoki1990"
@@ -782,6 +774,14 @@
     "created_at": "2017-12-12T01:40:32+09:00",
     "updated_at": "2018-09-20T00:23:38+09:00",
     "id": "4hiziri"
+  },
+  {
+    "title": "Pythonの変数スコープの話",
+    "url": "https://qiita.com/msssgur/items/12992fc816e6adf32cff",
+    "likes_count": 258,
+    "created_at": "2017-12-15T23:52:02+09:00",
+    "updated_at": "2017-12-18T00:42:42+09:00",
+    "id": "msssgur"
   },
   {
     "title": "Google Apps Script (GAS) で毎週 30 分の雑務を自動化した話",
