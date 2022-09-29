@@ -2,7 +2,7 @@
   {
     "title": "ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習",
     "url": "https://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7",
-    "likes_count": 8526,
+    "likes_count": 8527,
     "created_at": "2014-05-25T16:52:40+09:00",
     "updated_at": "2019-03-17T00:41:02+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "モデルやメソッドに名前を付けるときは英語の品詞に気をつけよう",
     "url": "https://qiita.com/jnchito/items/459d58ba652bf4763820",
-    "likes_count": 3728,
+    "likes_count": 3727,
     "created_at": "2014-05-28T11:06:08+09:00",
     "updated_at": "2021-10-11T08:32:58+09:00",
     "id": "jnchito"
@@ -42,7 +42,7 @@
   {
     "title": "PHPオブジェクト指向入門（前半）",
     "url": "https://qiita.com/mpyw/items/41230bec5c02142ae691",
-    "likes_count": 1768,
+    "likes_count": 1769,
     "created_at": "2014-05-26T03:20:00+09:00",
     "updated_at": "2015-01-09T14:35:42+09:00",
     "id": "mpyw"
@@ -82,7 +82,7 @@
   {
     "title": "提言: コミットメッセージの一行目には要求仕様を書け",
     "url": "https://qiita.com/magicant/items/882b5142c4d5064933bc",
-    "likes_count": 1166,
+    "likes_count": 1167,
     "created_at": "2014-05-29T15:46:30+09:00",
     "updated_at": "2014-06-28T12:28:21+09:00",
     "id": "magicant"
@@ -152,20 +152,20 @@
     "id": "murachi1208"
   },
   {
-    "title": "RSpecにおけるFactoryGirlの使い方まとめ",
-    "url": "https://qiita.com/muran001/items/436fd07eba1db18ed622",
-    "likes_count": 770,
-    "created_at": "2014-05-05T00:10:49+09:00",
-    "updated_at": "2016-02-23T00:00:53+09:00",
-    "id": "muran001"
-  },
-  {
     "title": "Google HTML/CSS Style Guide まとめ",
     "url": "https://qiita.com/Sugima/items/785644372397595644ba",
     "likes_count": 770,
     "created_at": "2014-05-12T15:57:33+09:00",
     "updated_at": "2019-09-17T17:11:33+09:00",
     "id": "Sugima"
+  },
+  {
+    "title": "RSpecにおけるFactoryGirlの使い方まとめ",
+    "url": "https://qiita.com/muran001/items/436fd07eba1db18ed622",
+    "likes_count": 769,
+    "created_at": "2014-05-05T00:10:49+09:00",
+    "updated_at": "2016-02-23T00:00:53+09:00",
+    "id": "muran001"
   },
   {
     "title": "今さら聞けないWebAPIの実装方式RESTとSOAPの違い",
@@ -186,7 +186,7 @@
   {
     "title": "Chrome 拡張機能のマニフェストファイルの書き方",
     "url": "https://qiita.com/mdstoy/items/9866544e37987337dc79",
-    "likes_count": 662,
+    "likes_count": 661,
     "created_at": "2014-05-07T01:20:26+09:00",
     "updated_at": "2019-12-19T22:36:45+09:00",
     "id": "mdstoy"
@@ -194,7 +194,7 @@
   {
     "title": "BEMを参考にしたCSS設計",
     "url": "https://qiita.com/mrd-takahashi/items/07dc3b4bad027daa2884",
-    "likes_count": 651,
+    "likes_count": 650,
     "created_at": "2014-05-26T16:35:09+09:00",
     "updated_at": "2017-08-25T13:56:45+09:00",
     "id": "mrd-takahashi"
@@ -210,7 +210,7 @@
   {
     "title": "CoffeeScriptを使う理由",
     "url": "https://qiita.com/mugichan3/items/9462844b049900ffb22c",
-    "likes_count": 636,
+    "likes_count": 635,
     "created_at": "2014-05-03T23:54:14+09:00",
     "updated_at": "2014-05-07T23:12:41+09:00",
     "id": "mugichan3"
@@ -218,7 +218,7 @@
   {
     "title": "Numpyによる乱数生成まとめ",
     "url": "https://qiita.com/yubais/items/bf9ce0a8fefdcc0b0c97",
-    "likes_count": 626,
+    "likes_count": 625,
     "created_at": "2014-05-09T11:49:21+09:00",
     "updated_at": "2021-06-10T21:22:35+09:00",
     "id": "yubais"
@@ -258,7 +258,7 @@
   {
     "title": "複数の子レコードを作成・更新する. accepts_nested_attributes_for",
     "url": "https://qiita.com/hmuronaka/items/818c421dc632e3efb7a6",
-    "likes_count": 520,
+    "likes_count": 519,
     "created_at": "2014-05-06T09:10:56+09:00",
     "updated_at": "2014-05-06T09:10:56+09:00",
     "id": "hmuronaka"
@@ -314,7 +314,7 @@
   {
     "title": "NSPredicate 全構文解説",
     "url": "https://qiita.com/yusuga/items/8fd531ebd8f5e72bb97b",
-    "likes_count": 460,
+    "likes_count": 459,
     "created_at": "2014-05-13T16:51:10+09:00",
     "updated_at": "2020-03-16T16:12:26+09:00",
     "id": "yusuga"
@@ -338,7 +338,7 @@
   {
     "title": "TypeScriptを使う理由",
     "url": "https://qiita.com/mugichan3/items/a0f17d9f4f757d88a83a",
-    "likes_count": 417,
+    "likes_count": 416,
     "created_at": "2014-05-06T20:15:47+09:00",
     "updated_at": "2018-11-03T21:32:43+09:00",
     "id": "mugichan3"
