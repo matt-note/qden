@@ -42,7 +42,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1406,
+    "likes_count": 1409,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -90,7 +90,7 @@
   {
     "title": "JupyterLabのすゝめ",
     "url": "https://qiita.com/kirikei/items/a1639954ce5ccaf7ac3c",
-    "likes_count": 1083,
+    "likes_count": 1084,
     "created_at": "2018-12-04T22:26:21+09:00",
     "updated_at": "2020-08-23T23:19:14+09:00",
     "id": "kirikei"
@@ -138,7 +138,7 @@
   {
     "title": "【危険シェル芸】禁じられた闇の魔術とその防衛術💥",
     "url": "https://qiita.com/_-_-_-_-_/items/214d537aae2c1488692c",
-    "likes_count": 987,
+    "likes_count": 988,
     "created_at": "2018-12-22T05:22:29+09:00",
     "updated_at": "2019-08-22T20:49:20+09:00",
     "id": "_-_-_-_-_"
@@ -146,7 +146,7 @@
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 982,
+    "likes_count": 983,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -424,20 +424,20 @@
     "id": "po3rin"
   },
   {
+    "title": "VSCode に Code Spell Checker を導入して typo と戦う",
+    "url": "https://qiita.com/diescake/items/98c5a099e85775cd917d",
+    "likes_count": 426,
+    "created_at": "2018-12-07T15:48:20+09:00",
+    "updated_at": "2021-01-31T03:24:25+09:00",
+    "id": "diescake"
+  },
+  {
     "title": "GCPとDockerでKaggle用計算環境構築",
     "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
     "likes_count": 426,
     "created_at": "2018-12-20T19:03:59+09:00",
     "updated_at": "2018-12-21T01:51:55+09:00",
     "id": "lain21"
-  },
-  {
-    "title": "VSCode に Code Spell Checker を導入して typo と戦う",
-    "url": "https://qiita.com/diescake/items/98c5a099e85775cd917d",
-    "likes_count": 425,
-    "created_at": "2018-12-07T15:48:20+09:00",
-    "updated_at": "2021-01-31T03:24:25+09:00",
-    "id": "diescake"
   },
   {
     "title": "Python 割と使うライブラリ集",
@@ -680,6 +680,14 @@
     "id": "naberina"
   },
   {
+    "title": "scpコマンド",
+    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
+    "likes_count": 310,
+    "created_at": "2018-12-22T21:41:23+09:00",
+    "updated_at": "2018-12-22T21:41:23+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "負荷テストの基本的な考え方と進め方(前編)",
     "url": "https://qiita.com/s_yokoi/items/4e21aed46e561badce94",
     "likes_count": 309,
@@ -694,14 +702,6 @@
     "created_at": "2018-12-08T04:39:22+09:00",
     "updated_at": "2018-12-08T15:16:38+09:00",
     "id": "suzuki_"
-  },
-  {
-    "title": "scpコマンド",
-    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
-    "likes_count": 309,
-    "created_at": "2018-12-22T21:41:23+09:00",
-    "updated_at": "2018-12-22T21:41:23+09:00",
-    "id": "chihiro"
   },
   {
     "title": "[Firebase] Cloud Functionsで消耗したくない人のために、開発環境のベストプラクティスをまとめていったらDockerに行き着いた話（随時更新）",
