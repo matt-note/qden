@@ -194,10 +194,18 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 852,
+    "likes_count": 853,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2021-12-08T08:19:16+09:00",
     "id": "cha84rakanal"
+  },
+  {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 775,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2022-07-19T20:17:24+09:00",
+    "id": "syantien"
   },
   {
     "title": "過去の難案件 PS2のカーネル開発",
@@ -206,14 +214,6 @@
     "created_at": "2018-12-27T02:33:34+09:00",
     "updated_at": "2020-01-08T13:35:29+09:00",
     "id": "YukiMiyatake"
-  },
-  {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 752,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2022-07-19T20:17:24+09:00",
-    "id": "syantien"
   },
   {
     "title": "2018年版もっとも参考になった機械学習系記事ベスト10",
@@ -424,20 +424,20 @@
     "id": "po3rin"
   },
   {
+    "title": "GCPとDockerでKaggle用計算環境構築",
+    "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
+    "likes_count": 428,
+    "created_at": "2018-12-20T19:03:59+09:00",
+    "updated_at": "2018-12-21T01:51:55+09:00",
+    "id": "lain21"
+  },
+  {
     "title": "VSCode に Code Spell Checker を導入して typo と戦う",
     "url": "https://qiita.com/diescake/items/98c5a099e85775cd917d",
     "likes_count": 427,
     "created_at": "2018-12-07T15:48:20+09:00",
     "updated_at": "2021-01-31T03:24:25+09:00",
     "id": "diescake"
-  },
-  {
-    "title": "GCPとDockerでKaggle用計算環境構築",
-    "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
-    "likes_count": 426,
-    "created_at": "2018-12-20T19:03:59+09:00",
-    "updated_at": "2018-12-21T01:51:55+09:00",
-    "id": "lain21"
   },
   {
     "title": "Python 割と使うライブラリ集",
@@ -578,7 +578,7 @@
   {
     "title": "フロントエンドでTDDを実践する（理論編）",
     "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
-    "likes_count": 358,
+    "likes_count": 359,
     "created_at": "2018-12-08T23:40:26+09:00",
     "updated_at": "2018-12-11T23:14:50+09:00",
     "id": "taneba"
@@ -682,7 +682,7 @@
   {
     "title": "scpコマンド",
     "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
-    "likes_count": 310,
+    "likes_count": 311,
     "created_at": "2018-12-22T21:41:23+09:00",
     "updated_at": "2018-12-22T21:41:23+09:00",
     "id": "chihiro"
