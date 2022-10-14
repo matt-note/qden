@@ -2,7 +2,7 @@
   {
     "title": "治安の悪い Slack Emoji を作るツールを作った",
     "url": "https://qiita.com/zk_phi/items/8a24b8ad9d1eabd364aa",
-    "likes_count": 2648,
+    "likes_count": 2649,
     "created_at": "2018-06-18T02:09:36+09:00",
     "updated_at": "2020-01-29T17:51:03+09:00",
     "id": "zk_phi"
@@ -138,7 +138,7 @@
   {
     "title": "Railsで超簡単API",
     "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 854,
+    "likes_count": 855,
     "created_at": "2018-06-27T16:46:37+09:00",
     "updated_at": "2020-02-24T14:01:49+09:00",
     "id": "k-penguin-sato"
@@ -202,7 +202,7 @@
   {
     "title": "月で絵を描きたいだと？それならpythonに任せなさい🌝",
     "url": "https://qiita.com/wataoka/items/261fc12c956a517049d8",
-    "likes_count": 606,
+    "likes_count": 607,
     "created_at": "2018-06-14T17:55:09+09:00",
     "updated_at": "2020-05-02T15:04:11+09:00",
     "id": "wataoka"
@@ -250,7 +250,7 @@
   {
     "title": "正規化の要点を理解する",
     "url": "https://qiita.com/mochichoco/items/2904384b2856db2bf46c",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2018-06-10T19:21:27+09:00",
     "updated_at": "2021-03-12T19:32:52+09:00",
     "id": "mochichoco"
@@ -266,7 +266,7 @@
   {
     "title": "Goにはディレクトリ構成のスタンダードがあるらしい。",
     "url": "https://qiita.com/sueken/items/87093e5941bfbc09bea8",
-    "likes_count": 498,
+    "likes_count": 499,
     "created_at": "2018-06-10T21:12:36+09:00",
     "updated_at": "2018-06-10T21:12:36+09:00",
     "id": "sueken"
@@ -320,20 +320,20 @@
     "id": "hibikikudo"
   },
   {
+    "title": "画像の保存を禁止する方法とその回避方法",
+    "url": "https://qiita.com/shisama/items/be0e432711de359598ed",
+    "likes_count": 453,
+    "created_at": "2018-06-26T01:40:58+09:00",
+    "updated_at": "2018-06-26T01:40:58+09:00",
+    "id": "shisama"
+  },
+  {
     "title": "【Vue.js】いつから「フロントエンド開発でTDDができない」と錯覚していた？",
     "url": "https://qiita.com/ykhirao/items/becd9be857dbe6804314",
     "likes_count": 452,
     "created_at": "2018-06-25T08:56:37+09:00",
     "updated_at": "2018-06-27T23:47:26+09:00",
     "id": "ykhirao"
-  },
-  {
-    "title": "画像の保存を禁止する方法とその回避方法",
-    "url": "https://qiita.com/shisama/items/be0e432711de359598ed",
-    "likes_count": 452,
-    "created_at": "2018-06-26T01:40:58+09:00",
-    "updated_at": "2018-06-26T01:40:58+09:00",
-    "id": "shisama"
   },
   {
     "title": "Unity使いは全員Unity Test Runnerを使え！爆速のトライ＆エラー環境だぞ！",
@@ -418,7 +418,7 @@
   {
     "title": "hashアルゴリズムとハッシュ値の長さ一覧（＋ハッシュ関数の基本と応用）",
     "url": "https://qiita.com/KEINOS/items/c92268386d265042ea16",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2018-06-01T13:40:37+09:00",
     "updated_at": "2022-10-11T15:04:51+09:00",
     "id": "KEINOS"
@@ -448,20 +448,20 @@
     "id": "k-penguin-sato"
   },
   {
+    "title": "TypeScript チュートリアル",
+    "url": "https://qiita.com/EBIHARA_kenji/items/31b7c1c62426bdabd263",
+    "likes_count": 359,
+    "created_at": "2018-06-27T16:30:48+09:00",
+    "updated_at": "2019-11-22T13:06:43+09:00",
+    "id": "EBIHARA_kenji"
+  },
+  {
     "title": "python知識ゼロからポケモンの名前でしりとりするslackbotを作ったノウハウのすべて",
     "url": "https://qiita.com/wagase/items/24eada2db8467119c458",
     "likes_count": 359,
     "created_at": "2018-06-30T19:21:10+09:00",
     "updated_at": "2019-08-19T14:58:01+09:00",
     "id": "wagase"
-  },
-  {
-    "title": "TypeScript チュートリアル",
-    "url": "https://qiita.com/EBIHARA_kenji/items/31b7c1c62426bdabd263",
-    "likes_count": 358,
-    "created_at": "2018-06-27T16:30:48+09:00",
-    "updated_at": "2019-11-22T13:06:43+09:00",
-    "id": "EBIHARA_kenji"
   },
   {
     "title": "個人的にコードリーディングがはかどったテクニックまとめ",
@@ -538,7 +538,7 @@
   {
     "title": "第1回 もう怖くない DIだって知らなくていい こんなにカンタンだから今日から Laravelのサービスコンテナ を使ってみて！",
     "url": "https://qiita.com/kd9951/items/951ab700f28d1d49c9c9",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2018-06-07T04:59:19+09:00",
     "updated_at": "2019-10-18T11:16:32+09:00",
     "id": "kd9951"
