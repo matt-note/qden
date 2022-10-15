@@ -2,7 +2,7 @@
   {
     "title": "エンジニアが情報収集とトレンドを追うのに読むと良いサイト",
     "url": "https://qiita.com/ryuichi1208/items/604a68abb91949e79ece",
-    "likes_count": 3110,
+    "likes_count": 3111,
     "created_at": "2018-11-29T22:01:23+09:00",
     "updated_at": "2019-03-13T17:59:59+09:00",
     "id": "ryuichi1208"
@@ -42,7 +42,7 @@
   {
     "title": "【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】",
     "url": "https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1",
-    "likes_count": 1576,
+    "likes_count": 1575,
     "created_at": "2018-11-30T05:49:27+09:00",
     "updated_at": "2022-07-12T23:11:59+09:00",
     "id": "kazukimatsumoto"
@@ -98,7 +98,7 @@
   {
     "title": "Git/GitHubレベル別オススメ学習サイトまとめ完全保存版【2019.06】",
     "url": "https://qiita.com/thinkalot/items/b3c2e9060f46f5d4ea46",
-    "likes_count": 1108,
+    "likes_count": 1107,
     "created_at": "2018-11-24T14:40:32+09:00",
     "updated_at": "2020-01-13T03:12:52+09:00",
     "id": "thinkalot"
@@ -122,18 +122,10 @@
   {
     "title": "汎用言語表現モデルBERTを日本語で動かす(PyTorch)",
     "url": "https://qiita.com/Kosuke-Szk/items/4b74b5cce84f423b7125",
-    "likes_count": 1028,
+    "likes_count": 1029,
     "created_at": "2018-11-01T19:35:25+09:00",
     "updated_at": "2022-05-16T14:17:33+09:00",
     "id": "Kosuke-Szk"
-  },
-  {
-    "title": "Chrome拡張の作り方 (超概要)",
-    "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
-    "likes_count": 927,
-    "created_at": "2018-11-10T14:03:21+09:00",
-    "updated_at": "2022-01-03T17:28:11+09:00",
-    "id": "RyBB"
   },
   {
     "title": "Vue.jsでドラクエ風のポートフォリオを作った話　①",
@@ -142,6 +134,14 @@
     "created_at": "2018-11-14T07:15:51+09:00",
     "updated_at": "2018-12-05T05:37:44+09:00",
     "id": "iwathi"
+  },
+  {
+    "title": "Chrome拡張の作り方 (超概要)",
+    "url": "https://qiita.com/RyBB/items/32b2a7b879f21b3edefc",
+    "likes_count": 926,
+    "created_at": "2018-11-10T14:03:21+09:00",
+    "updated_at": "2022-01-03T17:28:11+09:00",
+    "id": "RyBB"
   },
   {
     "title": "報酬がQiitaを阻害する「アンダーマイニング効果」（人間とは、かくもヘンテコな生きものなり）",
@@ -186,7 +186,7 @@
   {
     "title": "引数の型を何でも List にしちゃう奴にそろそろ一言いっておくか",
     "url": "https://qiita.com/lobin-z0x50/items/248db6d0629c7abe47dd",
-    "likes_count": 804,
+    "likes_count": 805,
     "created_at": "2018-11-30T21:19:12+09:00",
     "updated_at": "2020-09-18T15:05:43+09:00",
     "id": "lobin-z0x50"
@@ -296,20 +296,20 @@
     "id": "takubb"
   },
   {
-    "title": "HTTP/3が出るらしいという話を雑に書く",
-    "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
-    "likes_count": 542,
-    "created_at": "2018-11-14T10:02:01+09:00",
-    "updated_at": "2019-10-24T10:50:25+09:00",
-    "id": "inductor"
-  },
-  {
     "title": "pipでアップデートするときのコマンド pip update",
     "url": "https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8",
     "likes_count": 542,
     "created_at": "2018-11-26T22:41:11+09:00",
     "updated_at": "2020-12-29T14:00:19+09:00",
     "id": "HyunwookPark"
+  },
+  {
+    "title": "HTTP/3が出るらしいという話を雑に書く",
+    "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
+    "likes_count": 541,
+    "created_at": "2018-11-14T10:02:01+09:00",
+    "updated_at": "2019-10-24T10:50:25+09:00",
+    "id": "inductor"
   },
   {
     "title": "エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ",
@@ -408,20 +408,20 @@
     "id": "NakaokaRei"
   },
   {
-    "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
-    "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
-    "likes_count": 426,
-    "created_at": "2018-11-19T10:38:23+09:00",
-    "updated_at": "2020-09-01T15:55:23+09:00",
-    "id": "amishiro"
-  },
-  {
     "title": "ストーリーポイントで見積もる現実的な方法",
     "url": "https://qiita.com/keitakn/items/c30b7071ebfbf4b1b3e0",
     "likes_count": 426,
     "created_at": "2018-11-22T01:24:43+09:00",
     "updated_at": "2022-05-20T23:39:15+09:00",
     "id": "keitakn"
+  },
+  {
+    "title": "Nuxt.js(v2)でgenerate納品する前にやっておきたい設定",
+    "url": "https://qiita.com/amishiro/items/11bd642728f6b5838189",
+    "likes_count": 425,
+    "created_at": "2018-11-19T10:38:23+09:00",
+    "updated_at": "2020-09-01T15:55:23+09:00",
+    "id": "amishiro"
   },
   {
     "title": "【Ruby on Rails】N+1問題ってなんだ？",

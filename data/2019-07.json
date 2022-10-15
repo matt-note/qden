@@ -2,7 +2,7 @@
   {
     "title": "すべての新米フロントエンドエンジニアに読んでほしい50の資料",
     "url": "https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2",
-    "likes_count": 4104,
+    "likes_count": 4105,
     "created_at": "2019-07-11T20:07:24+09:00",
     "updated_at": "2019-07-12T17:37:42+09:00",
     "id": "suzu-4"
@@ -10,7 +10,7 @@
   {
     "title": "vimを使うとき十字キーで移動して、vimmerに殺されるその前に",
     "url": "https://qiita.com/fasahina/items/2767891134028648f288",
-    "likes_count": 2367,
+    "likes_count": 2368,
     "created_at": "2019-07-04T13:25:51+09:00",
     "updated_at": "2019-09-22T13:57:49+09:00",
     "id": "fasahina"
@@ -26,7 +26,7 @@
   {
     "title": "【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン",
     "url": "https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4",
-    "likes_count": 1456,
+    "likes_count": 1457,
     "created_at": "2019-07-18T19:02:09+09:00",
     "updated_at": "2022-03-14T07:32:51+09:00",
     "id": "ucan-lab"
@@ -34,7 +34,7 @@
   {
     "title": "基本的なシステム構成図を理解するためのAWS基礎をまとめてみた",
     "url": "https://qiita.com/g_ayushi/items/0e0f34d19813b8fdc2b8",
-    "likes_count": 1434,
+    "likes_count": 1433,
     "created_at": "2019-07-08T23:43:51+09:00",
     "updated_at": "2019-11-17T22:40:24+09:00",
     "id": "g_ayushi"
@@ -42,18 +42,10 @@
   {
     "title": "新人時代に読めば良かったと後悔するほど感謝した技術書4冊",
     "url": "https://qiita.com/kojimadev/items/0bf53b439f0cb4d1f7e3",
-    "likes_count": 1384,
+    "likes_count": 1385,
     "created_at": "2019-07-02T08:39:35+09:00",
     "updated_at": "2020-08-26T17:34:51+09:00",
     "id": "kojimadev"
-  },
-  {
-    "title": "【未経験でも挫折しない】40時間でAWS認定ソリューションアーキテクトアソシエイトを取得する方法",
-    "url": "https://qiita.com/rexiaxm7/items/c5b361ce14c55c19b13a",
-    "likes_count": 1239,
-    "created_at": "2019-07-17T21:27:24+09:00",
-    "updated_at": "2019-07-17T21:45:56+09:00",
-    "id": "rexiaxm7"
   },
   {
     "title": "リアルな眼球を描く。HTMLとCSSだけで。",
@@ -62,6 +54,14 @@
     "created_at": "2019-07-29T09:39:43+09:00",
     "updated_at": "2019-07-29T16:14:55+09:00",
     "id": "ichimonji_haji"
+  },
+  {
+    "title": "【未経験でも挫折しない】40時間でAWS認定ソリューションアーキテクトアソシエイトを取得する方法",
+    "url": "https://qiita.com/rexiaxm7/items/c5b361ce14c55c19b13a",
+    "likes_count": 1238,
+    "created_at": "2019-07-17T21:27:24+09:00",
+    "updated_at": "2019-07-17T21:45:56+09:00",
+    "id": "rexiaxm7"
   },
   {
     "title": "CSSだけでできるあんなことこんなこと",
@@ -178,7 +178,7 @@
   {
     "title": "毎朝15分の勉強会で若手の設計力がメキメキアップした話",
     "url": "https://qiita.com/kojimadev/items/99d2aa1c9bc67a835480",
-    "likes_count": 671,
+    "likes_count": 674,
     "created_at": "2019-07-02T08:46:55+09:00",
     "updated_at": "2020-08-27T18:30:47+09:00",
     "id": "kojimadev"
@@ -290,7 +290,7 @@
   {
     "title": "医薬系データエンジニアのはじめ方、そして、稼ぎ方のイロハ。",
     "url": "https://qiita.com/e-a-st/items/4fffc8daf1a911fac637",
-    "likes_count": 427,
+    "likes_count": 426,
     "created_at": "2019-07-09T21:56:44+09:00",
     "updated_at": "2022-02-10T11:04:56+09:00",
     "id": "e-a-st"
@@ -418,7 +418,7 @@
   {
     "title": "「ようこそ・・・『テストの世界』へ・・・」",
     "url": "https://qiita.com/shonansurvivors/items/eff8dbd4a63f7b608eaa",
-    "likes_count": 301,
+    "likes_count": 300,
     "created_at": "2019-07-30T19:58:50+09:00",
     "updated_at": "2021-04-25T17:49:14+09:00",
     "id": "shonansurvivors"
@@ -490,7 +490,7 @@
   {
     "title": "Pythonしか書きたくない人が、AWS上にWEBアプリを作ってみました。",
     "url": "https://qiita.com/IKEH/items/d1495a37649c25bcfc27",
-    "likes_count": 242,
+    "likes_count": 243,
     "created_at": "2019-07-22T08:19:55+09:00",
     "updated_at": "2020-08-28T08:11:04+09:00",
     "id": "IKEH"
