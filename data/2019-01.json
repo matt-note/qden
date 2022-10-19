@@ -2,7 +2,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -前編-",
     "url": "https://qiita.com/etaroid/items/b1024c7d200a75b992fc",
-    "likes_count": 4943,
+    "likes_count": 4945,
     "created_at": "2019-01-15T23:07:44+09:00",
     "updated_at": "2020-12-18T00:00:46+09:00",
     "id": "etaroid"
@@ -74,7 +74,7 @@
   {
     "title": "エラーメッセージの読み方と対処, 検索や質問の原則",
     "url": "https://qiita.com/cannorin/items/eb062aae88bfe2ad6fe5",
-    "likes_count": 1118,
+    "likes_count": 1119,
     "created_at": "2019-01-23T18:16:43+09:00",
     "updated_at": "2019-02-01T16:59:54+09:00",
     "id": "cannorin"
@@ -162,7 +162,7 @@
   {
     "title": "読みやすいコードを書くために",
     "url": "https://qiita.com/shimataro999/items/ef6cd838d56f1fe87015",
-    "likes_count": 756,
+    "likes_count": 757,
     "created_at": "2019-01-11T15:09:26+09:00",
     "updated_at": "2020-11-03T07:29:00+09:00",
     "id": "shimataro999"
@@ -186,7 +186,7 @@
   {
     "title": "2つの公開鍵暗号(公開鍵暗号の基礎知識)",
     "url": "https://qiita.com/angel_p_57/items/897bf94160be8d637585",
-    "likes_count": 684,
+    "likes_count": 685,
     "created_at": "2019-01-14T19:41:11+09:00",
     "updated_at": "2020-01-11T19:46:55+09:00",
     "id": "angel_p_57"
@@ -194,7 +194,7 @@
   {
     "title": "Macで開発するなら抑えておくべきショートカットキーまとめ",
     "url": "https://qiita.com/ryuichi1208/items/95b835b63c31d39c7629",
-    "likes_count": 682,
+    "likes_count": 683,
     "created_at": "2019-01-05T16:01:20+09:00",
     "updated_at": "2019-01-31T22:54:23+09:00",
     "id": "ryuichi1208"
@@ -258,7 +258,7 @@
   {
     "title": "Webフロントエンドでアニメーションを実装する時になにを考えるか",
     "url": "https://qiita.com/seya/items/8ffe954a6342c930b430",
-    "likes_count": 575,
+    "likes_count": 576,
     "created_at": "2019-01-07T09:03:20+09:00",
     "updated_at": "2021-05-09T22:19:15+09:00",
     "id": "seya"
@@ -298,7 +298,7 @@
   {
     "title": "seabornの細かい見た目調整をあきらめない",
     "url": "https://qiita.com/skotaro/items/7fee4dd35c6d42e0ebae",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2019-01-04T10:01:38+09:00",
     "updated_at": "2019-01-05T07:27:40+09:00",
     "id": "skotaro"
@@ -440,6 +440,14 @@
     "id": "yoshinori_hisakawa"
   },
   {
+    "title": "VirtualBoxのネットワーク設定を絵で説明する",
+    "url": "https://qiita.com/feifo/items/0fde474005589afcff68",
+    "likes_count": 300,
+    "created_at": "2019-01-20T01:04:19+09:00",
+    "updated_at": "2019-02-01T10:04:55+09:00",
+    "id": "feifo"
+  },
+  {
     "title": "DockerによるPHP開発環境構築（PHP + MySQL + Nginx）",
     "url": "https://qiita.com/nemui_/items/f911be7ffa4f29293fd5",
     "likes_count": 300,
@@ -456,14 +464,6 @@
     "id": "undrthemt"
   },
   {
-    "title": "VirtualBoxのネットワーク設定を絵で説明する",
-    "url": "https://qiita.com/feifo/items/0fde474005589afcff68",
-    "likes_count": 299,
-    "created_at": "2019-01-20T01:04:19+09:00",
-    "updated_at": "2019-02-01T10:04:55+09:00",
-    "id": "feifo"
-  },
-  {
     "title": "【Laravel】 認証や認可に関する補足資料",
     "url": "https://qiita.com/mpyw/items/8c5413b99b8e299f7002",
     "likes_count": 298,
@@ -474,7 +474,7 @@
   {
     "title": "Ansibleとは何か　構成管理ツールの目的〜Ansible導入まで最速で理解する",
     "url": "https://qiita.com/Brutus/items/1894629105d61f4854bc",
-    "likes_count": 293,
+    "likes_count": 294,
     "created_at": "2019-01-23T00:10:24+09:00",
     "updated_at": "2021-09-08T23:28:26+09:00",
     "id": "Brutus"
