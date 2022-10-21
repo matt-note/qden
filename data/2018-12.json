@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2856,
+    "likes_count": 2857,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -34,7 +34,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1426,
+    "likes_count": 1427,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -162,7 +162,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 966,
+    "likes_count": 967,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -170,10 +170,18 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 952,
+    "likes_count": 953,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2021-09-24T17:22:18+09:00",
     "id": "Maki-Daisuke"
+  },
+  {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 932,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2022-07-19T20:17:24+09:00",
+    "id": "syantien"
   },
   {
     "title": "仕事で使えるLinux ワンライナー集",
@@ -182,14 +190,6 @@
     "created_at": "2018-12-20T21:46:16+09:00",
     "updated_at": "2019-01-06T20:00:56+09:00",
     "id": "ryuichi1208"
-  },
-  {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 926,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2022-07-19T20:17:24+09:00",
-    "id": "syantien"
   },
   {
     "title": "Reactベース静的サイトジェネレータGatsbyの真の力をお見せします",
@@ -266,7 +266,7 @@
   {
     "title": "エンジニアにも役に立つ、MBAで学んだ基礎スキル 20選",
     "url": "https://qiita.com/sue738/items/97b602debf680183c4e7",
-    "likes_count": 652,
+    "likes_count": 653,
     "created_at": "2018-12-25T12:24:05+09:00",
     "updated_at": "2018-12-26T01:42:21+09:00",
     "id": "sue738"
@@ -298,7 +298,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 584,
+    "likes_count": 585,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -466,7 +466,7 @@
   {
     "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
     "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
-    "likes_count": 412,
+    "likes_count": 413,
     "created_at": "2018-12-28T14:05:57+09:00",
     "updated_at": "2019-08-28T21:53:58+09:00",
     "id": "suin"
@@ -482,7 +482,7 @@
   {
     "title": "fmt.Printfなんかこわくない",
     "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
-    "likes_count": 404,
+    "likes_count": 405,
     "created_at": "2018-12-07T05:35:39+09:00",
     "updated_at": "2019-05-22T20:39:46+09:00",
     "id": "rock619"
@@ -648,20 +648,20 @@
     "id": "ts7i"
   },
   {
+    "title": "Python3の標準入力やり方まとめ",
+    "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
+    "likes_count": 331,
+    "created_at": "2018-12-24T08:18:57+09:00",
+    "updated_at": "2018-12-24T08:18:57+09:00",
+    "id": "yasu_teco"
+  },
+  {
     "title": "Hugo で静的なサイト・ブログを構築しよう",
     "url": "https://qiita.com/peaceiris/items/ef38cc2a4b5565d0dd7c",
     "likes_count": 331,
     "created_at": "2018-12-25T03:00:20+09:00",
     "updated_at": "2021-08-16T22:23:06+09:00",
     "id": "peaceiris"
-  },
-  {
-    "title": "Python3の標準入力やり方まとめ",
-    "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
-    "likes_count": 330,
-    "created_at": "2018-12-24T08:18:57+09:00",
-    "updated_at": "2018-12-24T08:18:57+09:00",
-    "id": "yasu_teco"
   },
   {
     "title": "Railsでフォロー機能を作る方法",
@@ -680,20 +680,20 @@
     "id": "naberina"
   },
   {
+    "title": "負荷テストの基本的な考え方と進め方(前編)",
+    "url": "https://qiita.com/s_yokoi/items/4e21aed46e561badce94",
+    "likes_count": 312,
+    "created_at": "2018-12-03T23:22:23+09:00",
+    "updated_at": "2019-12-12T22:56:51+09:00",
+    "id": "s_yokoi"
+  },
+  {
     "title": "scpコマンド",
     "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
     "likes_count": 312,
     "created_at": "2018-12-22T21:41:23+09:00",
     "updated_at": "2018-12-22T21:41:23+09:00",
     "id": "chihiro"
-  },
-  {
-    "title": "負荷テストの基本的な考え方と進め方(前編)",
-    "url": "https://qiita.com/s_yokoi/items/4e21aed46e561badce94",
-    "likes_count": 311,
-    "created_at": "2018-12-03T23:22:23+09:00",
-    "updated_at": "2019-12-12T22:56:51+09:00",
-    "id": "s_yokoi"
   },
   {
     "title": "まだPowerPointで消耗してるの？",
@@ -794,7 +794,7 @@
   {
     "title": "Office 365 だけで業務アプリを作る",
     "url": "https://qiita.com/tetsuya-ooooo/items/88db7aef948493fad15d",
-    "likes_count": 179,
+    "likes_count": 180,
     "created_at": "2018-12-29T08:53:58+09:00",
     "updated_at": "2020-03-30T10:05:05+09:00",
     "id": "tetsuya-ooooo"

@@ -210,7 +210,7 @@
   {
     "title": "Markdownで書ける、よさげなWikiサーバーソフトまとめ",
     "url": "https://qiita.com/Bakudankun/items/740ac8ba1395fe4e40a6",
-    "likes_count": 650,
+    "likes_count": 651,
     "created_at": "2016-03-31T21:35:21+09:00",
     "updated_at": "2019-04-14T17:41:12+09:00",
     "id": "Bakudankun"
@@ -240,20 +240,20 @@
     "id": "mishimay"
   },
   {
+    "title": "Ruby on Rails カラムの追加と削除",
+    "url": "https://qiita.com/azusanakano/items/a2847e4e582b9a627e3a",
+    "likes_count": 611,
+    "created_at": "2016-03-29T12:11:04+09:00",
+    "updated_at": "2016-03-29T12:16:03+09:00",
+    "id": "azusanakano"
+  },
+  {
     "title": "Tensorflowを２ヶ月触ったので\"手書きひらがな\"の識別95.04%で畳み込みニューラルネットワークをわかりやすく解説",
     "url": "https://qiita.com/tawago/items/931bea2ff6d56e32d693",
     "likes_count": 610,
     "created_at": "2016-03-29T11:05:44+09:00",
     "updated_at": "2018-06-15T17:59:23+09:00",
     "id": "tawago"
-  },
-  {
-    "title": "Ruby on Rails カラムの追加と削除",
-    "url": "https://qiita.com/azusanakano/items/a2847e4e582b9a627e3a",
-    "likes_count": 610,
-    "created_at": "2016-03-29T12:11:04+09:00",
-    "updated_at": "2016-03-29T12:16:03+09:00",
-    "id": "azusanakano"
   },
   {
     "title": "grepでこういう時はどうする?",
@@ -472,20 +472,20 @@
     "id": "hc0208"
   },
   {
-    "title": "git flowとgithub flowとは？その違いは？",
-    "url": "https://qiita.com/mint__/items/bfc58589b5b1e0a1856a",
-    "likes_count": 398,
-    "created_at": "2016-03-25T13:13:14+09:00",
-    "updated_at": "2016-03-29T10:32:41+09:00",
-    "id": "mint__"
-  },
-  {
     "title": "SlackクローンのMattermostを使ってみる - 導入、初期設定編-",
     "url": "https://qiita.com/terukizm/items/4a4016d8ec5a21856e4f",
     "likes_count": 397,
     "created_at": "2016-03-02T06:20:45+09:00",
     "updated_at": "2019-05-10T23:29:51+09:00",
     "id": "terukizm"
+  },
+  {
+    "title": "git flowとgithub flowとは？その違いは？",
+    "url": "https://qiita.com/mint__/items/bfc58589b5b1e0a1856a",
+    "likes_count": 397,
+    "created_at": "2016-03-25T13:13:14+09:00",
+    "updated_at": "2016-03-29T10:32:41+09:00",
+    "id": "mint__"
   },
   {
     "title": "awkコマンドの基本",
@@ -538,7 +538,7 @@
   {
     "title": "Go の echo ってWebサーバーでサクッと REST しちゃう",
     "url": "https://qiita.com/ezaki/items/62e806ae42828bb3567a",
-    "likes_count": 363,
+    "likes_count": 364,
     "created_at": "2016-03-14T21:32:37+09:00",
     "updated_at": "2019-12-12T10:45:01+09:00",
     "id": "ezaki"
@@ -642,7 +642,7 @@
   {
     "title": "Springでトランザクション管理",
     "url": "https://qiita.com/NagaokaKenichi/items/a279857cc2d22a35d0dd",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2016-03-30T07:41:14+09:00",
     "updated_at": "2021-01-30T21:35:08+09:00",
     "id": "NagaokaKenichi"
@@ -750,13 +750,5 @@
     "created_at": "2016-03-27T09:23:35+09:00",
     "updated_at": "2016-04-03T12:24:50+09:00",
     "id": "naoki85"
-  },
-  {
-    "title": "【初心者向け】すぐできるIntelliJ IDEAの最初の使い方",
-    "url": "https://qiita.com/syuchan1005/items/46f94412f7493d6e60eb",
-    "likes_count": 222,
-    "created_at": "2016-03-22T23:38:59+09:00",
-    "updated_at": "2016-10-02T23:52:08+09:00",
-    "id": "syuchan1005"
   }
 ]
