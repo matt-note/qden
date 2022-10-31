@@ -2,7 +2,7 @@
   {
     "title": "一番分かりやすい OAuth の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be",
-    "likes_count": 7936,
+    "likes_count": 7939,
     "created_at": "2017-07-14T06:21:33+09:00",
     "updated_at": "2021-11-24T22:47:41+09:00",
     "id": "TakahikoKawasaki"
@@ -10,7 +10,7 @@
   {
     "title": "一番分かりやすい OpenID Connect の説明",
     "url": "https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe",
-    "likes_count": 2435,
+    "likes_count": 2438,
     "created_at": "2017-07-24T04:19:55+09:00",
     "updated_at": "2020-03-20T15:05:48+09:00",
     "id": "TakahikoKawasaki"
@@ -58,7 +58,7 @@
   {
     "title": "GitHub English Challenge Cheat Sheet",
     "url": "https://qiita.com/kawasima/items/feac49a299213e2c8ba6",
-    "likes_count": 1130,
+    "likes_count": 1131,
     "created_at": "2017-07-20T19:15:25+09:00",
     "updated_at": "2017-07-21T15:29:42+09:00",
     "id": "kawasima"
@@ -74,7 +74,7 @@
   {
     "title": "【超初心者向け】Maven超入門",
     "url": "https://qiita.com/tarosa0001/items/e5667cfa857529900216",
-    "likes_count": 803,
+    "likes_count": 804,
     "created_at": "2017-07-01T18:17:19+09:00",
     "updated_at": "2018-11-01T00:48:30+09:00",
     "id": "tarosa0001"
@@ -82,7 +82,7 @@
   {
     "title": "【これだけ覚えてたらOK！】SQL構文まとめ",
     "url": "https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd",
-    "likes_count": 789,
+    "likes_count": 790,
     "created_at": "2017-07-05T21:25:24+09:00",
     "updated_at": "2020-11-07T11:02:57+09:00",
     "id": "tatsuya4150"
@@ -280,20 +280,20 @@
     "id": "maruloop"
   },
   {
+    "title": "Node.js Stream を使いこなす",
+    "url": "https://qiita.com/masakura/items/5683e8e3e655bfda6756",
+    "likes_count": 378,
+    "created_at": "2017-07-19T12:16:47+09:00",
+    "updated_at": "2018-11-23T11:26:47+09:00",
+    "id": "masakura"
+  },
+  {
     "title": "Bash の if 文（test文）のオプションを整理してみた",
     "url": "https://qiita.com/wakayama-y/items/a9b7380263da77e51711",
     "likes_count": 377,
     "created_at": "2017-07-12T18:50:28+09:00",
     "updated_at": "2017-07-13T20:29:22+09:00",
     "id": "wakayama-y"
-  },
-  {
-    "title": "Node.js Stream を使いこなす",
-    "url": "https://qiita.com/masakura/items/5683e8e3e655bfda6756",
-    "likes_count": 377,
-    "created_at": "2017-07-19T12:16:47+09:00",
-    "updated_at": "2018-11-23T11:26:47+09:00",
-    "id": "masakura"
   },
   {
     "title": "要件定義と基本設計で決めなきゃいけないこと",
