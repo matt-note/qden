@@ -98,7 +98,7 @@
   {
     "title": "プログラマーの君！ 勘違いするな！ シェルスクリプトでは読みやすさのためにスペースを置くな！！ という話",
     "url": "https://qiita.com/piroor/items/0cb44663430bfc66c204",
-    "likes_count": 879,
+    "likes_count": 880,
     "created_at": "2018-07-15T02:26:18+09:00",
     "updated_at": "2021-11-14T22:25:02+09:00",
     "id": "piroor"
@@ -144,6 +144,14 @@
     "id": "kojira"
   },
   {
+    "title": "permission deniedで悩まされたので勉強してみた",
+    "url": "https://qiita.com/takuyanin/items/18590600d077df707923",
+    "likes_count": 645,
+    "created_at": "2018-07-12T20:32:36+09:00",
+    "updated_at": "2019-11-13T11:45:07+09:00",
+    "id": "takuyanin"
+  },
+  {
     "title": "今話題のAIをweb上で誰でも気軽に作れる「AIメーカー」を作ってみた",
     "url": "https://qiita.com/2zn01/items/0d3147c9d9d804ad9880",
     "likes_count": 645,
@@ -158,14 +166,6 @@
     "created_at": "2018-07-24T16:19:46+09:00",
     "updated_at": "2020-09-28T21:56:46+09:00",
     "id": "masato_makino"
-  },
-  {
-    "title": "permission deniedで悩まされたので勉強してみた",
-    "url": "https://qiita.com/takuyanin/items/18590600d077df707923",
-    "likes_count": 644,
-    "created_at": "2018-07-12T20:32:36+09:00",
-    "updated_at": "2019-11-13T11:45:07+09:00",
-    "id": "takuyanin"
   },
   {
     "title": "[Python入門] 覚えておくと得するかもしれない書き方集",
@@ -186,7 +186,7 @@
   {
     "title": "DynamoDBのキー・インデックスについてまとめてみた",
     "url": "https://qiita.com/shibataka000/items/e3f3792201d6fcc397fd",
-    "likes_count": 587,
+    "likes_count": 588,
     "created_at": "2018-07-14T18:43:22+09:00",
     "updated_at": "2021-04-16T19:22:12+09:00",
     "id": "shibataka000"
@@ -250,7 +250,7 @@
   {
     "title": "GitLabに触ってみて、GitHubと比較した",
     "url": "https://qiita.com/developer-kikikaikai/items/3fd1277a9a5778000638",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2018-07-14T11:23:50+09:00",
     "updated_at": "2019-10-13T16:20:50+09:00",
     "id": "developer-kikikaikai"
@@ -290,7 +290,7 @@
   {
     "title": "Google Maps API を使ってみた",
     "url": "https://qiita.com/Haruka-Ogawa/items/997401a2edcd20e61037",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2018-07-26T16:51:48+09:00",
     "updated_at": "2022-10-12T14:44:37+09:00",
     "id": "Haruka-Ogawa"
@@ -314,7 +314,7 @@
   {
     "title": "Pythonで機械学習やデータ解析やってる人はバグを無くすためにassert文を使うべき",
     "url": "https://qiita.com/machisuke/items/0ec20e2ff9ca4de41fa2",
-    "likes_count": 394,
+    "likes_count": 395,
     "created_at": "2018-07-29T10:12:13+09:00",
     "updated_at": "2018-07-30T23:36:28+09:00",
     "id": "machisuke"
@@ -330,7 +330,7 @@
   {
     "title": "コンテナランタイムの動向を整理してみた件",
     "url": "https://qiita.com/mamomamo/items/ed5db2ab1555078f8a24",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2018-07-27T12:00:35+09:00",
     "updated_at": "2019-04-09T22:24:23+09:00",
     "id": "mamomamo"
@@ -346,7 +346,7 @@
   {
     "title": "プログラムは音楽だ (A program is a music.) 仮説（54）",
     "url": "https://qiita.com/kaizen_nagoya/items/33c9f33581e6886f8ad8",
-    "likes_count": 361,
+    "likes_count": 362,
     "created_at": "2018-07-22T18:30:08+09:00",
     "updated_at": "2022-10-22T22:36:28+09:00",
     "id": "kaizen_nagoya"
@@ -404,7 +404,7 @@
     "url": "https://qiita.com/soarflat/items/755bbbcd6eb81bd128c4",
     "likes_count": 343,
     "created_at": "2018-07-04T02:08:05+09:00",
-    "updated_at": "2022-07-31T17:32:03+09:00",
+    "updated_at": "2022-11-01T12:52:29+09:00",
     "id": "soarflat"
   },
   {

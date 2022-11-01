@@ -130,7 +130,7 @@
   {
     "title": "[DDD]ドメイン駆動設計で実装を始めるのに一番とっつきやすいアーキテクチャは何か",
     "url": "https://qiita.com/little_hand_s/items/ebb4284afeea0e8cc752",
-    "likes_count": 686,
+    "likes_count": 687,
     "created_at": "2017-10-04T23:18:58+09:00",
     "updated_at": "2022-05-26T00:34:58+09:00",
     "id": "little_hand_s"
@@ -146,7 +146,7 @@
   {
     "title": "GithubでのWeb上からのマージの仕方3種とその使いどころ",
     "url": "https://qiita.com/ko-he-8/items/94e872f2154829c868df",
-    "likes_count": 652,
+    "likes_count": 654,
     "created_at": "2017-10-11T13:22:58+09:00",
     "updated_at": "2019-02-19T08:08:27+09:00",
     "id": "ko-he-8"
@@ -258,10 +258,18 @@
   {
     "title": "競プロ等におけるpython3の標準入力",
     "url": "https://qiita.com/zenrshon/items/c4f3849552348b3dbe67",
-    "likes_count": 439,
+    "likes_count": 440,
     "created_at": "2017-10-25T14:23:32+09:00",
     "updated_at": "2020-04-11T13:45:44+09:00",
     "id": "zenrshon"
+  },
+  {
+    "title": "Node.jsでウェブスクレイピングする色々な方法",
+    "url": "https://qiita.com/ledsun/items/0965a60f9bdff04f2fa0",
+    "likes_count": 436,
+    "created_at": "2017-10-06T17:19:09+09:00",
+    "updated_at": "2019-07-14T19:32:47+09:00",
+    "id": "ledsun"
   },
   {
     "title": "オブジェクト指向とは結局何なのか あるいはプログラミングで気をつけるべきたった一つのこと",
@@ -270,14 +278,6 @@
     "created_at": "2017-10-30T00:00:08+09:00",
     "updated_at": "2022-06-22T04:39:10+09:00",
     "id": "lamrongol"
-  },
-  {
-    "title": "Node.jsでウェブスクレイピングする色々な方法",
-    "url": "https://qiita.com/ledsun/items/0965a60f9bdff04f2fa0",
-    "likes_count": 435,
-    "created_at": "2017-10-06T17:19:09+09:00",
-    "updated_at": "2019-07-14T19:32:47+09:00",
-    "id": "ledsun"
   },
   {
     "title": "Cloud FirestoreのSubCollectionとQueryっていつ使うの問題",
@@ -298,7 +298,7 @@
   {
     "title": "fzfを活用してTerminalの作業効率を高める",
     "url": "https://qiita.com/kamykn/items/aa9920f07487559c0c7e",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2017-10-20T00:18:31+09:00",
     "updated_at": "2019-01-27T23:17:16+09:00",
     "id": "kamykn"
