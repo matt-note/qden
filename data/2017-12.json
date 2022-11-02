@@ -34,7 +34,7 @@
   {
     "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
     "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1454,
+    "likes_count": 1456,
     "created_at": "2017-12-12T20:24:10+09:00",
     "updated_at": "2017-12-15T01:46:37+09:00",
     "id": "takasek"
@@ -58,7 +58,7 @@
   {
     "title": "学習を加速させるインデックス読書術",
     "url": "https://qiita.com/dkatsura/items/3364b293ed1451a66a8a",
-    "likes_count": 1205,
+    "likes_count": 1206,
     "created_at": "2017-12-08T23:19:04+09:00",
     "updated_at": "2017-12-09T07:01:39+09:00",
     "id": "dkatsura"
@@ -266,7 +266,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 688,
+    "likes_count": 690,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -472,20 +472,20 @@
     "id": "tatsurou313"
   },
   {
+    "title": "【Python】Word2Vecの使い方",
+    "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
+    "likes_count": 462,
+    "created_at": "2017-12-18T17:48:19+09:00",
+    "updated_at": "2020-09-07T09:40:58+09:00",
+    "id": "kenta1984"
+  },
+  {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
     "likes_count": 461,
     "created_at": "2017-12-09T16:10:28+09:00",
     "updated_at": "2022-04-12T23:13:51+09:00",
     "id": "kakakaori830"
-  },
-  {
-    "title": "【Python】Word2Vecの使い方",
-    "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
-    "likes_count": 460,
-    "created_at": "2017-12-18T17:48:19+09:00",
-    "updated_at": "2020-09-07T09:40:58+09:00",
-    "id": "kenta1984"
   },
   {
     "title": "Parcel 入門 ～Parcelはwebpackの代わりになるのか～",
@@ -536,6 +536,14 @@
     "id": "lovee"
   },
   {
+    "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
+    "url": "https://qiita.com/kyntk/items/d60fdbc51df4f1d4c3c7",
+    "likes_count": 420,
+    "created_at": "2017-12-07T08:45:26+09:00",
+    "updated_at": "2022-03-06T16:46:11+09:00",
+    "id": "kyntk"
+  },
+  {
     "title": "深層学習の最適化アルゴリズム",
     "url": "https://qiita.com/ZoneTsuyoshi/items/8ef6fa1e154d176e25b8",
     "likes_count": 420,
@@ -544,17 +552,9 @@
     "id": "ZoneTsuyoshi"
   },
   {
-    "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
-    "url": "https://qiita.com/kyntk/items/d60fdbc51df4f1d4c3c7",
-    "likes_count": 419,
-    "created_at": "2017-12-07T08:45:26+09:00",
-    "updated_at": "2022-03-06T16:46:11+09:00",
-    "id": "kyntk"
-  },
-  {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 413,
+    "likes_count": 414,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2022-10-23T21:21:59+09:00",
     "id": "motoki1990"
@@ -666,7 +666,7 @@
   {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
     "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2017-12-13T01:29:31+09:00",
     "updated_at": "2018-08-25T11:45:30+09:00",
     "id": "h1kita"
@@ -712,14 +712,6 @@
     "id": "IzumiSy"
   },
   {
-    "title": "まだ間に合う！着々と進化しているFirebaseをまとめてみるよ #Firebase #FJUG",
-    "url": "https://qiita.com/Yatima/items/23797ca868ee988c824b",
-    "likes_count": 323,
-    "created_at": "2017-12-06T22:02:53+09:00",
-    "updated_at": "2018-03-15T07:24:29+09:00",
-    "id": "Yatima"
-  },
-  {
     "title": "【2018年版】今押さえておきたいフロントエンド関連",
     "url": "https://qiita.com/sawadays0118/items/88efc7c85caeb6d1bbd1",
     "likes_count": 321,
@@ -758,6 +750,14 @@
     "created_at": "2017-12-22T11:21:44+09:00",
     "updated_at": "2022-09-29T11:58:33+09:00",
     "id": "ffggss"
+  },
+  {
+    "title": "【５分でなんとなく理解！】Babel入門",
+    "url": "https://qiita.com/Shagamii/items/a87181c22ea777ee2acc",
+    "likes_count": 286,
+    "created_at": "2017-12-25T21:13:51+09:00",
+    "updated_at": "2017-12-26T12:59:53+09:00",
+    "id": "Shagamii"
   },
   {
     "title": "【C#】ReactiveProperty全然分からねぇ！って人向けのFAQ集【修正済】",
