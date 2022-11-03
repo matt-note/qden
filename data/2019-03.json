@@ -66,7 +66,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメのAI勉強方法 (2019年改定版)",
     "url": "https://qiita.com/tani_AI_Academy/items/ab2208e21a2215f8dfad",
-    "likes_count": 1332,
+    "likes_count": 1331,
     "created_at": "2019-03-23T22:30:31+09:00",
     "updated_at": "2022-01-01T00:59:32+09:00",
     "id": "tani_AI_Academy"
@@ -114,7 +114,7 @@
   {
     "title": "3歳娘「パパ、関数をカリー化して？」",
     "url": "https://qiita.com/Yametaro/items/99cc1c8ebcfc703b1410",
-    "likes_count": 1058,
+    "likes_count": 1059,
     "created_at": "2019-03-24T23:14:51+09:00",
     "updated_at": "2019-03-25T10:58:14+09:00",
     "id": "Yametaro"
@@ -178,7 +178,7 @@
   {
     "title": "TypeScript の概要",
     "url": "https://qiita.com/EBIHARA_kenji/items/4de2a1ee6e2a541246f6",
-    "likes_count": 796,
+    "likes_count": 797,
     "created_at": "2019-03-18T13:33:09+09:00",
     "updated_at": "2022-04-07T14:59:08+09:00",
     "id": "EBIHARA_kenji"
@@ -210,7 +210,7 @@
   {
     "title": "モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace",
     "url": "https://qiita.com/yu4u/items/078054dfb5592cbb80cc",
-    "likes_count": 728,
+    "likes_count": 727,
     "created_at": "2019-03-06T08:49:26+09:00",
     "updated_at": "2019-03-06T09:56:22+09:00",
     "id": "yu4u"
@@ -266,7 +266,7 @@
   {
     "title": "なんとなくVue.jsのUIフレームワークを紹介する",
     "url": "https://qiita.com/yusuke_ten/items/4103f032dd0c6fbe5607",
-    "likes_count": 631,
+    "likes_count": 630,
     "created_at": "2019-03-05T17:07:02+09:00",
     "updated_at": "2019-03-06T09:00:57+09:00",
     "id": "yusuke_ten"
@@ -290,7 +290,7 @@
   {
     "title": "非デザイナーのためのWebデザイン開発ガイド - デザインはセンスではない、スキルだ",
     "url": "https://qiita.com/rana_kualu/items/6955a2e4bc3284c361a5",
-    "likes_count": 579,
+    "likes_count": 578,
     "created_at": "2019-03-18T20:36:51+09:00",
     "updated_at": "2021-06-10T00:58:21+09:00",
     "id": "rana_kualu"
@@ -426,7 +426,7 @@
   {
     "title": "Deep Metric Learning の定番⁈ Triplet Lossを徹底解説",
     "url": "https://qiita.com/tancoro/items/35d0925de74f21bfff14",
-    "likes_count": 440,
+    "likes_count": 439,
     "created_at": "2019-03-22T20:21:49+09:00",
     "updated_at": "2019-04-04T14:22:15+09:00",
     "id": "tancoro"
@@ -522,7 +522,7 @@
   {
     "title": "[最新論文] 新しい最適化手法誕生! AdaBound & AMSBound",
     "url": "https://qiita.com/Phoeboooo/items/f610affdcaaae0a28f34",
-    "likes_count": 358,
+    "likes_count": 357,
     "created_at": "2019-03-04T08:37:35+09:00",
     "updated_at": "2019-03-04T08:37:35+09:00",
     "id": "Phoeboooo"
@@ -554,7 +554,7 @@
   {
     "title": "安全なWebサイトのつくりかた　ざっくりまとめpart1",
     "url": "https://qiita.com/E-46/items/93199f38bdacd6b6076a",
-    "likes_count": 332,
+    "likes_count": 333,
     "created_at": "2019-03-24T17:55:30+09:00",
     "updated_at": "2019-03-27T10:53:58+09:00",
     "id": "E-46"
@@ -592,20 +592,20 @@
     "id": "Satachito"
   },
   {
+    "title": "【Rails】$rails db:rollbackしたい時の間違えない手順",
+    "url": "https://qiita.com/s_tatsuki/items/3e1f119c91e21b8f0c33",
+    "likes_count": 281,
+    "created_at": "2019-03-14T13:16:42+09:00",
+    "updated_at": "2021-11-19T10:15:10+09:00",
+    "id": "s_tatsuki"
+  },
+  {
     "title": "Nuxt.js + FirebaseでOGPの仕組みを完全に理解した　〜俳句をSVGで描画するサービスをリリースした話〜",
     "url": "https://qiita.com/mitsudaman/items/1956b94dc8faf8fb8c59",
     "likes_count": 280,
     "created_at": "2019-03-12T22:43:53+09:00",
     "updated_at": "2019-03-12T22:43:53+09:00",
     "id": "mitsudaman"
-  },
-  {
-    "title": "【Rails】$rails db:rollbackしたい時の間違えない手順",
-    "url": "https://qiita.com/s_tatsuki/items/3e1f119c91e21b8f0c33",
-    "likes_count": 280,
-    "created_at": "2019-03-14T13:16:42+09:00",
-    "updated_at": "2021-11-19T10:15:10+09:00",
-    "id": "s_tatsuki"
   },
   {
     "title": "[最新論文/GAN] ラベルがないなら推測すればいい。",
