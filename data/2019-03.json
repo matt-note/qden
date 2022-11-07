@@ -10,7 +10,7 @@
   {
     "title": "[ver 1.2] Git でよく使われるコマンドにイラストによる説明を加えて1枚のチートシートにまとめてみた",
     "url": "https://qiita.com/kozzy/items/b42ba59a8bac190a16ab",
-    "likes_count": 2658,
+    "likes_count": 2659,
     "created_at": "2019-03-02T21:07:11+09:00",
     "updated_at": "2019-10-31T11:03:34+09:00",
     "id": "kozzy"
@@ -74,7 +74,7 @@
   {
     "title": "ワイ「いうても型なんて面倒くさいだけやろ？」",
     "url": "https://qiita.com/Yametaro/items/2eaa6fd75255c8c2a2bb",
-    "likes_count": 1310,
+    "likes_count": 1311,
     "created_at": "2019-03-05T23:30:10+09:00",
     "updated_at": "2020-06-01T11:19:55+09:00",
     "id": "Yametaro"
@@ -106,7 +106,7 @@
   {
     "title": " 【初心者向け】git fetch、git merge、git pullの違いについて",
     "url": "https://qiita.com/wann/items/688bc17460a457104d7d",
-    "likes_count": 1101,
+    "likes_count": 1102,
     "created_at": "2019-03-27T19:20:10+09:00",
     "updated_at": "2019-03-27T20:33:18+09:00",
     "id": "wann"
@@ -138,7 +138,7 @@
   {
     "title": "VSCodeでなるべくマウスを使わない開発環境をがんばる",
     "url": "https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353",
-    "likes_count": 946,
+    "likes_count": 947,
     "created_at": "2019-03-11T07:44:47+09:00",
     "updated_at": "2021-01-23T18:43:42+09:00",
     "id": "y-tsutsu"
@@ -154,7 +154,7 @@
   {
     "title": "webpackとBabelの基本を理解する(1) ―webpack編―",
     "url": "https://qiita.com/koedamon/items/3e64612d22f3473f36a4",
-    "likes_count": 887,
+    "likes_count": 888,
     "created_at": "2019-03-03T15:52:24+09:00",
     "updated_at": "2020-06-23T12:41:24+09:00",
     "id": "koedamon"
@@ -202,7 +202,7 @@
   {
     "title": "React開発において便利なTypeScriptの型まとめ",
     "url": "https://qiita.com/markey/items/134386ee98b277f181f7",
-    "likes_count": 730,
+    "likes_count": 731,
     "created_at": "2019-03-07T00:20:51+09:00",
     "updated_at": "2020-04-04T00:23:07+09:00",
     "id": "markey"
@@ -330,7 +330,7 @@
   {
     "title": "JavaScriptの関数名の全て",
     "url": "https://qiita.com/uhyo/items/2a2d67abd56419ea21b8",
-    "likes_count": 518,
+    "likes_count": 519,
     "created_at": "2019-03-10T12:40:41+09:00",
     "updated_at": "2019-03-13T14:02:22+09:00",
     "id": "uhyo"
@@ -338,7 +338,7 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"
@@ -346,7 +346,7 @@
   {
     "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
     "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
-    "likes_count": 497,
+    "likes_count": 498,
     "created_at": "2019-03-21T16:54:22+09:00",
     "updated_at": "2019-03-21T16:54:59+09:00",
     "id": "1ain2"
@@ -432,20 +432,20 @@
     "id": "tancoro"
   },
   {
+    "title": "【入門】Redis",
+    "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
+    "likes_count": 435,
+    "created_at": "2019-03-22T16:43:36+09:00",
+    "updated_at": "2020-09-14T17:26:22+09:00",
+    "id": "wind-up-bird"
+  },
+  {
     "title": "全言語で気をつけるべき、ファイル書き込み時のお作法",
     "url": "https://qiita.com/kazupaka/items/b6479f3f8d13347bf867",
     "likes_count": 434,
     "created_at": "2019-03-03T22:06:02+09:00",
     "updated_at": "2020-07-01T01:23:27+09:00",
     "id": "kazupaka"
-  },
-  {
-    "title": "【入門】Redis",
-    "url": "https://qiita.com/wind-up-bird/items/f2d41d08e86789322c71",
-    "likes_count": 434,
-    "created_at": "2019-03-22T16:43:36+09:00",
-    "updated_at": "2020-09-14T17:26:22+09:00",
-    "id": "wind-up-bird"
   },
   {
     "title": "「サーバーサイドエンジニアも知っておくべきフロントエンドの今」をわかりやすくする",
@@ -578,7 +578,7 @@
   {
     "title": "vuexをまだ理解していない全人類に捧ぐvuexを利用したコードの図解",
     "url": "https://qiita.com/fruitriin/items/42b0ebc5f8a524a0ae17",
-    "likes_count": 315,
+    "likes_count": 314,
     "created_at": "2019-03-06T00:55:07+09:00",
     "updated_at": "2020-05-04T15:47:33+09:00",
     "id": "fruitriin"
@@ -594,7 +594,7 @@
   {
     "title": "【Rails】$rails db:rollbackしたい時の間違えない手順",
     "url": "https://qiita.com/s_tatsuki/items/3e1f119c91e21b8f0c33",
-    "likes_count": 282,
+    "likes_count": 283,
     "created_at": "2019-03-14T13:16:42+09:00",
     "updated_at": "2021-11-19T10:15:10+09:00",
     "id": "s_tatsuki"

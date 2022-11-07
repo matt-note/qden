@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2160,
+    "likes_count": 2161,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -82,7 +82,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 1029,
+    "likes_count": 1030,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -98,7 +98,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 990,
+    "likes_count": 991,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2022-03-23T15:01:48+09:00",
     "id": "mochio"
@@ -344,20 +344,20 @@
     "id": "_takeshi_24"
   },
   {
-    "title": "Reactのコンポーネントのスタイリングをどうやるか",
-    "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 593,
-    "created_at": "2017-12-18T00:05:45+09:00",
-    "updated_at": "2019-10-29T15:38:56+09:00",
-    "id": "lightnet328"
-  },
-  {
     "title": "2017末時点での React Component 設計のベストプラクティス",
     "url": "https://qiita.com/mizchi/items/bcb1aef8d1f14f8d0b4a",
     "likes_count": 592,
     "created_at": "2017-12-17T22:21:29+09:00",
     "updated_at": "2017-12-17T23:42:55+09:00",
     "id": "mizchi"
+  },
+  {
+    "title": "Reactのコンポーネントのスタイリングをどうやるか",
+    "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
+    "likes_count": 592,
+    "created_at": "2017-12-18T00:05:45+09:00",
+    "updated_at": "2019-10-29T15:38:56+09:00",
+    "id": "lightnet328"
   },
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
@@ -378,7 +378,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 558,
+    "likes_count": 557,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -402,7 +402,7 @@
   {
     "title": "わかりやすい画像のdiffを求めて",
     "url": "https://qiita.com/Quramy/items/290f7a33c350d910ebab",
-    "likes_count": 540,
+    "likes_count": 539,
     "created_at": "2017-12-22T09:29:46+09:00",
     "updated_at": "2017-12-22T13:07:18+09:00",
     "id": "Quramy"
@@ -418,7 +418,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 520,
+    "likes_count": 521,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -434,7 +434,7 @@
   {
     "title": "打ち捨てられていたRedmineが復活するまでの軌跡",
     "url": "https://qiita.com/y_hokkey/items/44cae35f4a3f359f5c25",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2017-12-11T04:27:53+09:00",
     "updated_at": "2019-09-16T14:17:01+09:00",
     "id": "y_hokkey"
@@ -530,7 +530,7 @@
   {
     "title": "やはりお前らの真偽値メソッド名は間違っている。 〜「Xxx できる？」系メソッドの命名〜",
     "url": "https://qiita.com/lovee/items/aa2125eb0bce4a9dde1f",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2017-12-07T03:34:42+09:00",
     "updated_at": "2017-12-08T13:27:28+09:00",
     "id": "lovee"
@@ -538,7 +538,7 @@
   {
     "title": "きれいなコードとは？ リファクタリングできれいなコードを書く方法",
     "url": "https://qiita.com/kyntk/items/d60fdbc51df4f1d4c3c7",
-    "likes_count": 420,
+    "likes_count": 421,
     "created_at": "2017-12-07T08:45:26+09:00",
     "updated_at": "2022-03-06T16:46:11+09:00",
     "id": "kyntk"
@@ -554,7 +554,7 @@
   {
     "title": "pythonでのcsvファイルの読み込み",
     "url": "https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2017-12-16T21:28:42+09:00",
     "updated_at": "2022-10-23T21:21:59+09:00",
     "id": "motoki1990"
@@ -658,7 +658,7 @@
   {
     "title": "Reactのstate,props,componentの使い方を自分なりにまとめてみた",
     "url": "https://qiita.com/sekikawa_a/items/8ab70f457ef73871419f",
-    "likes_count": 351,
+    "likes_count": 350,
     "created_at": "2017-12-13T21:45:16+09:00",
     "updated_at": "2019-03-22T17:27:09+09:00",
     "id": "sekikawa_a"

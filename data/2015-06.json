@@ -18,7 +18,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3437,
+    "likes_count": 3436,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2022-06-22T17:02:53+09:00",
     "id": "ryounagaoka"
@@ -26,7 +26,7 @@
   {
     "title": "出来る限り短く説明するReactJS入門",
     "url": "https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19",
-    "likes_count": 2088,
+    "likes_count": 2087,
     "created_at": "2015-06-21T23:39:15+09:00",
     "updated_at": "2022-02-26T15:59:40+09:00",
     "id": "rgbkids"
@@ -82,7 +82,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1308,
+    "likes_count": 1307,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -114,7 +114,7 @@
   {
     "title": "~/.ssh/configについて",
     "url": "https://qiita.com/passol78/items/2ad123e39efeb1a5286b",
-    "likes_count": 880,
+    "likes_count": 881,
     "created_at": "2015-06-30T18:12:48+09:00",
     "updated_at": "2018-06-25T23:21:19+09:00",
     "id": "passol78"
@@ -258,7 +258,7 @@
   {
     "title": "JavaScript  忘れがちな　=== と == の違い",
     "url": "https://qiita.com/PianoScoreJP/items/e43d70ec188c6fed73ed",
-    "likes_count": 515,
+    "likes_count": 517,
     "created_at": "2015-06-16T00:02:27+09:00",
     "updated_at": "2015-06-16T00:02:27+09:00",
     "id": "PianoScoreJP"
@@ -360,6 +360,14 @@
     "id": "kozo002"
   },
   {
+    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
+    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
+    "likes_count": 410,
+    "created_at": "2015-06-10T07:55:27+09:00",
+    "updated_at": "2015-06-10T11:36:54+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "Haskellのビルドツール\"stack\"の紹介",
     "url": "https://qiita.com/tanakh/items/6866d0f570d0547df026",
     "likes_count": 410,
@@ -376,14 +384,6 @@
     "id": "jnchito"
   },
   {
-    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
-    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
-    "likes_count": 408,
-    "created_at": "2015-06-10T07:55:27+09:00",
-    "updated_at": "2015-06-10T11:36:54+09:00",
-    "id": "jnchito"
-  },
-  {
     "title": "ActiveRecordで生SQLを使いたいときに便利なメソッド達",
     "url": "https://qiita.com/yut_h1979/items/4cb3d9a3b3fc87ca0435",
     "likes_count": 401,
@@ -394,7 +394,7 @@
   {
     "title": "PHPで学ぶオブジェクト指向",
     "url": "https://qiita.com/ritukiii/items/a1979c3bcdcea9454d53",
-    "likes_count": 395,
+    "likes_count": 394,
     "created_at": "2015-06-30T09:16:53+09:00",
     "updated_at": "2017-05-16T10:35:44+09:00",
     "id": "ritukiii"
@@ -514,7 +514,7 @@
   {
     "title": "初めて地図周りの技術に触れた時に作ったまとめ資料",
     "url": "https://qiita.com/ma91n/items/7d256108920ff7afbf08",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2015-06-24T00:01:34+09:00",
     "updated_at": "2015-07-22T09:31:49+09:00",
     "id": "ma91n"
@@ -522,7 +522,7 @@
   {
     "title": "そろそろポリモーフィック関連について一言いっとくか",
     "url": "https://qiita.com/joker1007/items/9da1e279424554df7bb8",
-    "likes_count": 298,
+    "likes_count": 299,
     "created_at": "2015-06-02T16:43:17+09:00",
     "updated_at": "2015-06-02T17:00:12+09:00",
     "id": "joker1007"
