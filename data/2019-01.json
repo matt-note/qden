@@ -2,7 +2,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -前編-",
     "url": "https://qiita.com/etaroid/items/b1024c7d200a75b992fc",
-    "likes_count": 4969,
+    "likes_count": 4971,
     "created_at": "2019-01-15T23:07:44+09:00",
     "updated_at": "2020-12-18T00:00:46+09:00",
     "id": "etaroid"
@@ -104,20 +104,20 @@
     "id": "azukisiromochi"
   },
   {
-    "title": "Webでどこまで遊べるか試してみた",
-    "url": "https://qiita.com/Leonardo-mbc/items/3c365836acfd71a55185",
-    "likes_count": 969,
-    "created_at": "2019-01-30T07:47:49+09:00",
-    "updated_at": "2019-01-30T13:20:59+09:00",
-    "id": "Leonardo-mbc"
-  },
-  {
     "title": "低レイヤーを学ぶための技術書をまとめてみる",
     "url": "https://qiita.com/hareku/items/3383be7aee616e04b80f",
-    "likes_count": 968,
+    "likes_count": 969,
     "created_at": "2019-01-08T21:04:25+09:00",
     "updated_at": "2020-11-03T03:44:32+09:00",
     "id": "hareku"
+  },
+  {
+    "title": "Webでどこまで遊べるか試してみた",
+    "url": "https://qiita.com/Leonardo-mbc/items/3c365836acfd71a55185",
+    "likes_count": 968,
+    "created_at": "2019-01-30T07:47:49+09:00",
+    "updated_at": "2019-01-30T13:20:59+09:00",
+    "id": "Leonardo-mbc"
   },
   {
     "title": "【図解】Dockerの全体像を理解する -後編-",
@@ -202,7 +202,7 @@
   {
     "title": "any型で諦めない React.EventCallback",
     "url": "https://qiita.com/Takepepe/items/f1ba99a7ca7e66290f24",
-    "likes_count": 649,
+    "likes_count": 650,
     "created_at": "2019-01-28T12:19:22+09:00",
     "updated_at": "2019-01-29T00:47:12+09:00",
     "id": "Takepepe"
@@ -266,7 +266,7 @@
   {
     "title": "【Deep Learning入門】0から勉強して3ヶ月でポリープ検出AIをつくったった",
     "url": "https://qiita.com/Mizukichi777/items/c026588f94f967e9c800",
-    "likes_count": 530,
+    "likes_count": 531,
     "created_at": "2019-01-29T16:01:09+09:00",
     "updated_at": "2020-02-20T13:42:15+09:00",
     "id": "Mizukichi777"
@@ -282,7 +282,7 @@
   {
     "title": "測度論の「お気持ち」を最短で理解する",
     "url": "https://qiita.com/mo-mo-666/items/731bf1d58a7720aa7739",
-    "likes_count": 481,
+    "likes_count": 482,
     "created_at": "2019-01-07T00:19:04+09:00",
     "updated_at": "2019-11-01T02:09:59+09:00",
     "id": "mo-mo-666"
@@ -450,7 +450,7 @@
   {
     "title": "Ansibleとは何か　構成管理ツールの目的〜Ansible導入まで最速で理解する",
     "url": "https://qiita.com/Brutus/items/1894629105d61f4854bc",
-    "likes_count": 302,
+    "likes_count": 303,
     "created_at": "2019-01-23T00:10:24+09:00",
     "updated_at": "2021-09-08T23:28:26+09:00",
     "id": "Brutus"
@@ -464,20 +464,20 @@
     "id": "undrthemt"
   },
   {
+    "title": "【Laravel】 認証や認可に関する補足資料",
+    "url": "https://qiita.com/mpyw/items/8c5413b99b8e299f7002",
+    "likes_count": 301,
+    "created_at": "2019-01-22T21:52:43+09:00",
+    "updated_at": "2019-11-23T01:26:24+09:00",
+    "id": "mpyw"
+  },
+  {
     "title": "DockerによるPHP開発環境構築（PHP + MySQL + Nginx）",
     "url": "https://qiita.com/nemui_/items/f911be7ffa4f29293fd5",
     "likes_count": 300,
     "created_at": "2019-01-20T19:56:57+09:00",
     "updated_at": "2019-01-22T00:03:56+09:00",
     "id": "nemui_"
-  },
-  {
-    "title": "【Laravel】 認証や認可に関する補足資料",
-    "url": "https://qiita.com/mpyw/items/8c5413b99b8e299f7002",
-    "likes_count": 300,
-    "created_at": "2019-01-22T21:52:43+09:00",
-    "updated_at": "2019-11-23T01:26:24+09:00",
-    "id": "mpyw"
   },
   {
     "title": "PlantUML Example for モデルベース要件定義テクニック",
