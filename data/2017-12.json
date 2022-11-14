@@ -26,7 +26,7 @@
   {
     "title": "11ヶ月間でTOEICスコアを300点から835点に上げた英語学習法",
     "url": "https://qiita.com/sheepland/items/6540c4e32eed12807689",
-    "likes_count": 1465,
+    "likes_count": 1466,
     "created_at": "2017-12-11T15:12:36+09:00",
     "updated_at": "2021-11-19T20:08:00+09:00",
     "id": "sheepland"
@@ -82,7 +82,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 1034,
+    "likes_count": 1036,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -266,7 +266,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 690,
+    "likes_count": 691,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -298,7 +298,7 @@
   {
     "title": "標準入力・標準出力ってなに?",
     "url": "https://qiita.com/angel_p_57/items/03582181e9f7a69f8168",
-    "likes_count": 627,
+    "likes_count": 628,
     "created_at": "2017-12-17T21:10:27+09:00",
     "updated_at": "2019-03-30T11:03:39+09:00",
     "id": "angel_p_57"
@@ -344,20 +344,20 @@
     "id": "_takeshi_24"
   },
   {
+    "title": "Reactのコンポーネントのスタイリングをどうやるか",
+    "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
+    "likes_count": 593,
+    "created_at": "2017-12-18T00:05:45+09:00",
+    "updated_at": "2019-10-29T15:38:56+09:00",
+    "id": "lightnet328"
+  },
+  {
     "title": "2017末時点での React Component 設計のベストプラクティス",
     "url": "https://qiita.com/mizchi/items/bcb1aef8d1f14f8d0b4a",
     "likes_count": 592,
     "created_at": "2017-12-17T22:21:29+09:00",
     "updated_at": "2017-12-17T23:42:55+09:00",
     "id": "mizchi"
-  },
-  {
-    "title": "Reactのコンポーネントのスタイリングをどうやるか",
-    "url": "https://qiita.com/lightnet328/items/218eb1c4a347302cc340",
-    "likes_count": 592,
-    "created_at": "2017-12-18T00:05:45+09:00",
-    "updated_at": "2019-10-29T15:38:56+09:00",
-    "id": "lightnet328"
   },
   {
     "title": "Vue-routerを使って、SPAをシンプルにはじめてみる",
@@ -378,7 +378,7 @@
   {
     "title": "E2Eテストの導入から学んだこと",
     "url": "https://qiita.com/mt0m/items/7e18d8802843d9f60d28",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2017-12-13T19:21:04+09:00",
     "updated_at": "2018-07-17T14:04:00+09:00",
     "id": "mt0m"
@@ -442,7 +442,7 @@
   {
     "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
     "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
-    "likes_count": 471,
+    "likes_count": 470,
     "created_at": "2017-12-09T08:11:55+09:00",
     "updated_at": "2018-05-23T16:49:05+09:00",
     "id": "devneko"
@@ -650,7 +650,7 @@
   {
     "title": "Django マイグレーション まとめ",
     "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2017-12-08T16:08:01+09:00",
     "updated_at": "2017-12-08T16:26:33+09:00",
     "id": "okoppe8"
@@ -768,6 +768,14 @@
     "id": "YSRKEN"
   },
   {
+    "title": "ＣＴＦを始めるときにおすすめな本とか",
+    "url": "https://qiita.com/4hiziri/items/98b5e1f8b1824d0bc841",
+    "likes_count": 261,
+    "created_at": "2017-12-12T01:40:32+09:00",
+    "updated_at": "2018-09-20T00:23:38+09:00",
+    "id": "4hiziri"
+  },
+  {
     "title": "Pythonの変数スコープの話",
     "url": "https://qiita.com/msssgur/items/12992fc816e6adf32cff",
     "likes_count": 261,
@@ -776,17 +784,9 @@
     "id": "msssgur"
   },
   {
-    "title": "ＣＴＦを始めるときにおすすめな本とか",
-    "url": "https://qiita.com/4hiziri/items/98b5e1f8b1824d0bc841",
-    "likes_count": 260,
-    "created_at": "2017-12-12T01:40:32+09:00",
-    "updated_at": "2018-09-20T00:23:38+09:00",
-    "id": "4hiziri"
-  },
-  {
     "title": "Google Apps Script (GAS) で毎週 30 分の雑務を自動化した話",
     "url": "https://qiita.com/tanabee/items/e51f107f1e95a42cc636",
-    "likes_count": 258,
+    "likes_count": 259,
     "created_at": "2017-12-19T15:41:47+09:00",
     "updated_at": "2018-12-21T11:07:32+09:00",
     "id": "tanabee"
