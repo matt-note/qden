@@ -2,7 +2,7 @@
   {
     "title": "オブジェクト指向と10年戦ってわかったこと",
     "url": "https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e",
-    "likes_count": 5461,
+    "likes_count": 5462,
     "created_at": "2015-11-19T07:03:23+09:00",
     "updated_at": "2021-01-10T07:34:39+09:00",
     "id": "tutinoco"
@@ -58,7 +58,7 @@
   {
     "title": "Dockerコンテナの作成、起動〜停止まで",
     "url": "https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53",
-    "likes_count": 1446,
+    "likes_count": 1447,
     "created_at": "2015-11-16T16:38:52+09:00",
     "updated_at": "2015-11-16T16:38:52+09:00",
     "id": "kooohei"
@@ -386,10 +386,18 @@
   {
     "title": "Sassで@mixinを作る時に知っておきたい基礎知識",
     "url": "https://qiita.com/nekoneko-wanwan/items/c8498a21ae0e2b2198be",
-    "likes_count": 389,
+    "likes_count": 388,
     "created_at": "2015-11-18T18:25:58+09:00",
     "updated_at": "2016-03-10T17:11:35+09:00",
     "id": "nekoneko-wanwan"
+  },
+  {
+    "title": "滅び行くAndroid 標準ブラウザをサポート外にして悩みの種をなくす話",
+    "url": "https://qiita.com/narikei/items/ada44891cb0902efc165",
+    "likes_count": 381,
+    "created_at": "2015-11-11T09:10:01+09:00",
+    "updated_at": "2015-11-26T12:19:43+09:00",
+    "id": "narikei"
   },
   {
     "title": "Visual Studio CodeでJavascriptの開発環境を構築する",
@@ -398,14 +406,6 @@
     "created_at": "2015-11-23T22:29:19+09:00",
     "updated_at": "2018-04-22T02:03:40+09:00",
     "id": "rubytomato@github"
-  },
-  {
-    "title": "滅び行くAndroid 標準ブラウザをサポート外にして悩みの種をなくす話",
-    "url": "https://qiita.com/narikei/items/ada44891cb0902efc165",
-    "likes_count": 380,
-    "created_at": "2015-11-11T09:10:01+09:00",
-    "updated_at": "2015-11-26T12:19:43+09:00",
-    "id": "narikei"
   },
   {
     "title": "WebPackを使ってRailsからJavaScriptを楽に良い感じに分離する",
@@ -610,7 +610,7 @@
   {
     "title": ".bat（バッチファイル）のifコマンド解説。",
     "url": "https://qiita.com/plcherrim/items/8edf3d3d33a0ae86cb5c",
-    "likes_count": 229,
+    "likes_count": 230,
     "created_at": "2015-11-29T02:56:26+09:00",
     "updated_at": "2017-05-19T21:32:45+09:00",
     "id": "plcherrim"

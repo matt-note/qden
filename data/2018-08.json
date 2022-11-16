@@ -2,7 +2,7 @@
   {
     "title": "いまさらだけどDockerに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/44860fbda1a34a001fc1",
-    "likes_count": 4679,
+    "likes_count": 4680,
     "created_at": "2018-08-08T08:31:56+09:00",
     "updated_at": "2020-06-09T14:01:44+09:00",
     "id": "gold-kou"
@@ -34,9 +34,9 @@
   {
     "title": "プログラマが知っているとよい色使い(JIS安全色)",
     "url": "https://qiita.com/kaizen_nagoya/items/cb7eb3199b0b98904a35",
-    "likes_count": 1648,
+    "likes_count": 1649,
     "created_at": "2018-08-14T14:36:55+09:00",
-    "updated_at": "2022-11-15T01:36:28+09:00",
+    "updated_at": "2022-11-16T22:49:01+09:00",
     "id": "kaizen_nagoya"
   },
   {
@@ -82,7 +82,7 @@
   {
     "title": "TODO: 以外のアノテーションコメントをまとめた",
     "url": "https://qiita.com/taka-kawa/items/673716d77795c937d422",
-    "likes_count": 1165,
+    "likes_count": 1167,
     "created_at": "2018-08-18T23:17:23+09:00",
     "updated_at": "2021-11-17T12:32:17+09:00",
     "id": "taka-kawa"
@@ -160,6 +160,14 @@
     "id": "SoraKumo"
   },
   {
+    "title": "トランザクション分離レベルについてのまとめ",
+    "url": "https://qiita.com/song_ss/items/38e514b05e9dabae3bdb",
+    "likes_count": 583,
+    "created_at": "2018-08-23T20:12:02+09:00",
+    "updated_at": "2018-12-18T11:58:43+09:00",
+    "id": "song_ss"
+  },
+  {
     "title": "JavaScript おじさんが教える本当の Modern JavaScript 入門 1",
     "url": "https://qiita.com/superyusuke/items/948d2a084f87eaa3f9c2",
     "likes_count": 582,
@@ -168,17 +176,9 @@
     "id": "superyusuke"
   },
   {
-    "title": "トランザクション分離レベルについてのまとめ",
-    "url": "https://qiita.com/song_ss/items/38e514b05e9dabae3bdb",
-    "likes_count": 582,
-    "created_at": "2018-08-23T20:12:02+09:00",
-    "updated_at": "2018-12-18T11:58:43+09:00",
-    "id": "song_ss"
-  },
-  {
     "title": "JavaScript 正規表現まとめ",
     "url": "https://qiita.com/iLLviA/items/b6bf680cd2408edd050f",
-    "likes_count": 576,
+    "likes_count": 577,
     "created_at": "2018-08-17T08:19:03+09:00",
     "updated_at": "2018-08-19T17:12:43+09:00",
     "id": "iLLviA"
@@ -346,7 +346,7 @@
   {
     "title": "[初学者]Railsのi18nによる日本語化対応",
     "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
-    "likes_count": 401,
+    "likes_count": 403,
     "created_at": "2018-08-01T01:32:22+09:00",
     "updated_at": "2021-09-24T00:02:19+09:00",
     "id": "shimadama"
@@ -440,20 +440,20 @@
     "id": "SoraKumo"
   },
   {
+    "title": "Railsでいいね機能を実装しよう",
+    "url": "https://qiita.com/nojinoji/items/2c66499848d882c31ffa",
+    "likes_count": 303,
+    "created_at": "2018-08-27T14:39:49+09:00",
+    "updated_at": "2019-02-05T17:47:02+09:00",
+    "id": "nojinoji"
+  },
+  {
     "title": "GUIテストツール一覧",
     "url": "https://qiita.com/jun2014/items/8cabbd52830904af49af",
     "likes_count": 302,
     "created_at": "2018-08-14T20:00:58+09:00",
     "updated_at": "2022-10-27T14:37:05+09:00",
     "id": "jun2014"
-  },
-  {
-    "title": "Railsでいいね機能を実装しよう",
-    "url": "https://qiita.com/nojinoji/items/2c66499848d882c31ffa",
-    "likes_count": 302,
-    "created_at": "2018-08-27T14:39:49+09:00",
-    "updated_at": "2019-02-05T17:47:02+09:00",
-    "id": "nojinoji"
   },
   {
     "title": "【Pythonで多分人気2位のWebアプリケーションフレームワーク】Flaskの基本をわかりやすくまとめる",
