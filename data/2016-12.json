@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 5278,
+    "likes_count": 5277,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3568,
+    "likes_count": 3567,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2022-04-09T10:11:53+09:00",
     "id": "YudaiTsukamoto"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1792,
+    "likes_count": 1791,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -82,7 +82,7 @@
   {
     "title": "Webhookとは？",
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 1212,
+    "likes_count": 1213,
     "created_at": "2016-12-17T12:54:09+09:00",
     "updated_at": "2022-11-01T13:19:05+09:00",
     "id": "soarflat"
@@ -90,7 +90,7 @@
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
     "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1148,
+    "likes_count": 1149,
     "created_at": "2016-12-28T10:13:50+09:00",
     "updated_at": "2016-12-29T00:03:57+09:00",
     "id": "kunihirotanaka"
@@ -98,7 +98,7 @@
   {
     "title": "俺が悪かった。素直に間違いを認めるから、もうサービスクラスとか作るのは止めてくれ",
     "url": "https://qiita.com/joker1007/items/25de535cd8bb2857a685",
-    "likes_count": 1119,
+    "likes_count": 1120,
     "created_at": "2016-12-15T19:53:31+09:00",
     "updated_at": "2017-01-09T03:54:13+09:00",
     "id": "joker1007"
@@ -138,7 +138,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 973,
+    "likes_count": 974,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -232,20 +232,20 @@
     "id": "sakaiakira"
   },
   {
+    "title": "Gitのブランチモデルについて",
+    "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
+    "likes_count": 703,
+    "created_at": "2016-12-05T00:04:34+09:00",
+    "updated_at": "2016-12-05T00:12:43+09:00",
+    "id": "y-okudera"
+  },
+  {
     "title": "iOSアプリ開発でアニメーションするなら押さえておきたい基礎",
     "url": "https://qiita.com/hachinobu/items/57d4c305c907805b4a53",
     "likes_count": 703,
     "created_at": "2016-12-22T15:31:54+09:00",
     "updated_at": "2018-12-27T15:29:57+09:00",
     "id": "hachinobu"
-  },
-  {
-    "title": "Gitのブランチモデルについて",
-    "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 702,
-    "created_at": "2016-12-05T00:04:34+09:00",
-    "updated_at": "2016-12-05T00:12:43+09:00",
-    "id": "y-okudera"
   },
   {
     "title": "Amazon Dash Buttonを(正しくない方向で)使ってみた",
@@ -274,7 +274,7 @@
   {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
     "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
-    "likes_count": 661,
+    "likes_count": 662,
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
@@ -394,7 +394,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 511,
+    "likes_count": 510,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -570,7 +570,7 @@
   {
     "title": "独断と偏見で選ぶ、新人Rubyプログラマの為の技術書21選",
     "url": "https://qiita.com/YudaiTsukamoto/items/f81a16f55008378ac15c",
-    "likes_count": 366,
+    "likes_count": 365,
     "created_at": "2016-12-21T15:49:08+09:00",
     "updated_at": "2016-12-28T03:01:39+09:00",
     "id": "YudaiTsukamoto"
@@ -736,20 +736,20 @@
     "id": "yunico-jp"
   },
   {
+    "title": "残業したくないあなたに：データ構造とアルゴリズム",
+    "url": "https://qiita.com/GushiSnow/items/70765a7cae52c0a1b2b8",
+    "likes_count": 291,
+    "created_at": "2016-12-26T07:44:45+09:00",
+    "updated_at": "2017-04-16T09:17:23+09:00",
+    "id": "GushiSnow"
+  },
+  {
     "title": "使ってみよう！Jenkins 「Pipeline」",
     "url": "https://qiita.com/miyasakura_/items/9d9a8873c333cb9e9f43",
     "likes_count": 290,
     "created_at": "2016-12-05T00:01:49+09:00",
     "updated_at": "2017-01-24T18:05:26+09:00",
     "id": "miyasakura_"
-  },
-  {
-    "title": "残業したくないあなたに：データ構造とアルゴリズム",
-    "url": "https://qiita.com/GushiSnow/items/70765a7cae52c0a1b2b8",
-    "likes_count": 290,
-    "created_at": "2016-12-26T07:44:45+09:00",
-    "updated_at": "2017-04-16T09:17:23+09:00",
-    "id": "GushiSnow"
   },
   {
     "title": "PythonデバッグTips",
