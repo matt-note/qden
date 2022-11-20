@@ -58,7 +58,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1703,
+    "likes_count": 1704,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -154,7 +154,7 @@
   {
     "title": "スタートアップはお金を払ってでも使うべきプロダクト14選",
     "url": "https://qiita.com/kou/items/2be212ed38e3d1bb4473",
-    "likes_count": 1131,
+    "likes_count": 1132,
     "created_at": "2015-12-14T00:08:07+09:00",
     "updated_at": "2020-01-22T09:16:45+09:00",
     "id": "kou"
@@ -304,6 +304,14 @@
     "id": "pottava"
   },
   {
+    "title": "気をつけて！Git for Windowsにおける改行コード",
+    "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
+    "likes_count": 627,
+    "created_at": "2015-12-25T23:01:51+09:00",
+    "updated_at": "2018-12-11T08:34:12+09:00",
+    "id": "uggds"
+  },
+  {
     "title": "Rails のアーキテクチャ設計を考える",
     "url": "https://qiita.com/kbaba1001/items/e265ad1e40f238931468",
     "likes_count": 626,
@@ -312,17 +320,9 @@
     "id": "kbaba1001"
   },
   {
-    "title": "気をつけて！Git for Windowsにおける改行コード",
-    "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 626,
-    "created_at": "2015-12-25T23:01:51+09:00",
-    "updated_at": "2018-12-11T08:34:12+09:00",
-    "id": "uggds"
-  },
-  {
     "title": "テンプレートエンジンEJSで使える便利な構文まとめ",
     "url": "https://qiita.com/y_hokkey/items/31f1daa6cecb5f4ea4c9",
-    "likes_count": 622,
+    "likes_count": 623,
     "created_at": "2015-12-16T18:35:48+09:00",
     "updated_at": "2017-02-02T16:24:23+09:00",
     "id": "y_hokkey"
@@ -330,7 +330,7 @@
   {
     "title": "Juliaという速くて書きやすい言語をちょっとだけ覗いてみたんだが、なにやらワクワクするものがあったので報告しようと思う",
     "url": "https://qiita.com/sadayuki-matsuno/items/fc5e9ec3894a4b7bfbfb",
-    "likes_count": 578,
+    "likes_count": 579,
     "created_at": "2015-12-30T15:52:51+09:00",
     "updated_at": "2019-05-08T13:57:03+09:00",
     "id": "sadayuki-matsuno"
@@ -386,7 +386,7 @@
   {
     "title": "SQLスタイルガイド",
     "url": "https://qiita.com/taise/items/18c14d9b01a5dfd6d35e",
-    "likes_count": 495,
+    "likes_count": 496,
     "created_at": "2015-12-13T09:00:22+09:00",
     "updated_at": "2015-12-13T09:00:22+09:00",
     "id": "taise"
@@ -656,20 +656,20 @@
     "id": "narikei"
   },
   {
+    "title": "SpreadSheetでスクレイピング。Importxml他、便利な関数9+1",
+    "url": "https://qiita.com/ktmg/items/d53440c913e20f8bb34c",
+    "likes_count": 317,
+    "created_at": "2015-12-12T21:47:24+09:00",
+    "updated_at": "2015-12-13T00:00:28+09:00",
+    "id": "ktmg"
+  },
+  {
     "title": "はじめてのRaspberry PIで監視カメラを作ってみた。",
     "url": "https://qiita.com/kinpira/items/bf1df2c1983ba79ba455",
     "likes_count": 317,
     "created_at": "2015-12-24T00:01:33+09:00",
     "updated_at": "2016-05-20T10:43:48+09:00",
     "id": "kinpira"
-  },
-  {
-    "title": "SpreadSheetでスクレイピング。Importxml他、便利な関数9+1",
-    "url": "https://qiita.com/ktmg/items/d53440c913e20f8bb34c",
-    "likes_count": 316,
-    "created_at": "2015-12-12T21:47:24+09:00",
-    "updated_at": "2015-12-13T00:00:28+09:00",
-    "id": "ktmg"
   },
   {
     "title": "AWS IoTとRaspberry Pi使って、プランターの野菜を救う！",
