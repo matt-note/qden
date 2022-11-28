@@ -26,7 +26,7 @@
   {
     "title": "お前らのターミナルはダサい",
     "url": "https://qiita.com/kinchiki/items/57e9391128d07819c321",
-    "likes_count": 2287,
+    "likes_count": 2288,
     "created_at": "2016-12-20T19:53:01+09:00",
     "updated_at": "2019-08-31T15:47:42+09:00",
     "id": "kinchiki"
@@ -42,7 +42,7 @@
   {
     "title": "ES2015(ES6) 入門",
     "url": "https://qiita.com/soarflat/items/b251caf9cb59b72beb9b",
-    "likes_count": 1684,
+    "likes_count": 1683,
     "created_at": "2016-12-15T02:42:35+09:00",
     "updated_at": "2022-11-01T13:19:16+09:00",
     "id": "soarflat"
@@ -66,7 +66,7 @@
   {
     "title": "学年ビリのアホが1年半でTOEICスコアを300点から840点に上げた英語勉強法の話",
     "url": "https://qiita.com/Hironsan/items/20951116a2650f45fea5",
-    "likes_count": 1435,
+    "likes_count": 1436,
     "created_at": "2016-12-07T06:30:51+09:00",
     "updated_at": "2016-12-17T15:54:28+09:00",
     "id": "Hironsan"
@@ -82,7 +82,7 @@
   {
     "title": "Webhookとは？",
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 1217,
+    "likes_count": 1218,
     "created_at": "2016-12-17T12:54:09+09:00",
     "updated_at": "2022-11-01T13:19:05+09:00",
     "id": "soarflat"
@@ -138,7 +138,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 974,
+    "likes_count": 975,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -192,20 +192,20 @@
     "id": "dorarep"
   },
   {
+    "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
+    "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
+    "likes_count": 739,
+    "created_at": "2016-12-14T20:50:38+09:00",
+    "updated_at": "2020-02-10T20:27:02+09:00",
+    "id": "agate-pris"
+  },
+  {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
     "likes_count": 739,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
-  },
-  {
-    "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
-    "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
-    "likes_count": 737,
-    "created_at": "2016-12-14T20:50:38+09:00",
-    "updated_at": "2020-02-10T20:27:02+09:00",
-    "id": "agate-pris"
   },
   {
     "title": "DeepLearning研究 2016年のまとめ",
@@ -258,7 +258,7 @@
   {
     "title": "電気工事士の資格を取ってコンセントやスイッチを改造しようぜ",
     "url": "https://qiita.com/rukihena/items/a30f07f93ca1718dff8e",
-    "likes_count": 682,
+    "likes_count": 681,
     "created_at": "2016-12-03T01:44:10+09:00",
     "updated_at": "2020-01-14T17:40:54+09:00",
     "id": "rukihena"
@@ -314,7 +314,7 @@
   {
     "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
     "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
-    "likes_count": 593,
+    "likes_count": 594,
     "created_at": "2016-12-03T15:46:25+09:00",
     "updated_at": "2016-12-03T15:46:25+09:00",
     "id": "inosy22"
@@ -394,7 +394,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 510,
+    "likes_count": 511,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
