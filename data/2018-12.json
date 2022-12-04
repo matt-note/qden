@@ -120,17 +120,9 @@
     "id": "hirokidaichi"
   },
   {
-    "title": "JavaScriptの概念たち (前編)",
-    "url": "https://qiita.com/tsin1rou/items/90576b6c00b895478610",
-    "likes_count": 1008,
-    "created_at": "2018-12-04T02:39:25+09:00",
-    "updated_at": "2018-12-06T10:40:04+09:00",
-    "id": "tsin1rou"
-  },
-  {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 996,
+    "likes_count": 997,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -170,7 +162,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 965,
+    "likes_count": 966,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2022-07-19T20:17:24+09:00",
     "id": "syantien"
@@ -290,7 +282,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 588,
+    "likes_count": 589,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -306,7 +298,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 568,
+    "likes_count": 569,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -584,6 +576,14 @@
     "id": "dora56"
   },
   {
+    "title": "GraphQLのクエリを基礎から整理してみた",
+    "url": "https://qiita.com/shunp/items/d85fc47b33e1b3a88167",
+    "likes_count": 353,
+    "created_at": "2018-12-23T04:55:03+09:00",
+    "updated_at": "2018-12-23T04:55:03+09:00",
+    "id": "shunp"
+  },
+  {
     "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
     "url": "https://qiita.com/jiny2001/items/e2175b52013bf655d617",
     "likes_count": 353,
@@ -688,20 +688,20 @@
     "id": "suzuki_"
   },
   {
-    "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
-    "url": "https://qiita.com/riversun/items/c924cfe70e16ee3fe3ba",
-    "likes_count": 308,
-    "created_at": "2018-12-16T08:41:24+09:00",
-    "updated_at": "2018-12-18T21:05:54+09:00",
-    "id": "riversun"
-  },
-  {
     "title": "[Firebase] Cloud Functionsで消耗したくない人のために、開発環境のベストプラクティスをまとめていったらDockerに行き着いた話（随時更新）",
     "url": "https://qiita.com/pannpers/items/244a7e3c18d8c8422e4f",
     "likes_count": 307,
     "created_at": "2018-12-11T00:00:58+09:00",
     "updated_at": "2019-05-06T12:01:55+09:00",
     "id": "pannpers"
+  },
+  {
+    "title": "今から10分ではじめる Google Apps Script(GAS) で Web API公開",
+    "url": "https://qiita.com/riversun/items/c924cfe70e16ee3fe3ba",
+    "likes_count": 307,
+    "created_at": "2018-12-16T08:41:24+09:00",
+    "updated_at": "2018-12-18T21:05:54+09:00",
+    "id": "riversun"
   },
   {
     "title": "超軽量なAlpine Linuxについて調べた",
