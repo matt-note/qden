@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5622,
+    "likes_count": 5623,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -10,7 +10,7 @@
   {
     "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点",
     "url": "https://qiita.com/tmknom/items/08b69594e32a92bccee5",
-    "likes_count": 2171,
+    "likes_count": 2172,
     "created_at": "2017-12-16T20:43:05+09:00",
     "updated_at": "2020-03-26T00:21:17+09:00",
     "id": "tmknom"
@@ -24,20 +24,20 @@
     "id": "kumagi"
   },
   {
+    "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
+    "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
+    "likes_count": 1468,
+    "created_at": "2017-12-12T20:24:10+09:00",
+    "updated_at": "2017-12-15T01:46:37+09:00",
+    "id": "takasek"
+  },
+  {
     "title": "11ヶ月間でTOEICスコアを300点から835点に上げた英語学習法",
     "url": "https://qiita.com/sheepland/items/6540c4e32eed12807689",
     "likes_count": 1467,
     "created_at": "2017-12-11T15:12:36+09:00",
     "updated_at": "2021-11-19T20:08:00+09:00",
     "id": "sheepland"
-  },
-  {
-    "title": "お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える",
-    "url": "https://qiita.com/takasek/items/70ab5a61756ee620aee6",
-    "likes_count": 1466,
-    "created_at": "2017-12-12T20:24:10+09:00",
-    "updated_at": "2017-12-15T01:46:37+09:00",
-    "id": "takasek"
   },
   {
     "title": "【v2対応】Nuxt.jsとFirebaseを組み合わせて爆速でWebアプリケーションを構築する",
@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1328,
+    "likes_count": 1329,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -58,7 +58,7 @@
   {
     "title": "学習を加速させるインデックス読書術",
     "url": "https://qiita.com/dkatsura/items/3364b293ed1451a66a8a",
-    "likes_count": 1210,
+    "likes_count": 1211,
     "created_at": "2017-12-08T23:19:04+09:00",
     "updated_at": "2017-12-09T07:01:39+09:00",
     "id": "dkatsura"
@@ -114,7 +114,7 @@
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
     "url": "https://qiita.com/YudaiTsukamoto/items/06b426f4dbee268d5035",
-    "likes_count": 943,
+    "likes_count": 944,
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2022-04-09T10:45:54+09:00",
     "id": "YudaiTsukamoto"
@@ -440,20 +440,20 @@
     "id": "y_hokkey"
   },
   {
+    "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
+    "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
+    "likes_count": 471,
+    "created_at": "2017-12-09T08:11:55+09:00",
+    "updated_at": "2018-05-23T16:49:05+09:00",
+    "id": "devneko"
+  },
+  {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/takutoki/items/021b804b9957fe65e093",
     "likes_count": 471,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2022-05-16T22:31:37+09:00",
     "id": "takutoki"
-  },
-  {
-    "title": "Nuxt.jsの本格導入で遠回りしないためのTips v1.1",
-    "url": "https://qiita.com/devneko/items/afe12b8acaf9648ccbb6",
-    "likes_count": 470,
-    "created_at": "2017-12-09T08:11:55+09:00",
-    "updated_at": "2018-05-23T16:49:05+09:00",
-    "id": "devneko"
   },
   {
     "title": "リスト内包表記の活用と悪用",
@@ -762,7 +762,7 @@
   {
     "title": "【C#】ReactiveProperty全然分からねぇ！って人向けのFAQ集【修正済】",
     "url": "https://qiita.com/YSRKEN/items/5a36fb8071104a989fb8",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2017-12-30T16:38:59+09:00",
     "updated_at": "2020-07-22T10:29:31+09:00",
     "id": "YSRKEN"
