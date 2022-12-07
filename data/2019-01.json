@@ -2,7 +2,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -前編-",
     "url": "https://qiita.com/etaroid/items/b1024c7d200a75b992fc",
-    "likes_count": 4988,
+    "likes_count": 4990,
     "created_at": "2019-01-15T23:07:44+09:00",
     "updated_at": "2020-12-18T00:00:46+09:00",
     "id": "etaroid"
@@ -42,7 +42,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -中編-",
     "url": "https://qiita.com/etaroid/items/88ec3a0e2d80d7cdf87a",
-    "likes_count": 1364,
+    "likes_count": 1365,
     "created_at": "2019-01-20T21:34:55+09:00",
     "updated_at": "2020-12-24T22:13:35+09:00",
     "id": "etaroid"
@@ -112,6 +112,14 @@
     "id": "hareku"
   },
   {
+    "title": "【図解】Dockerの全体像を理解する -後編-",
+    "url": "https://qiita.com/etaroid/items/40106f13d47bfcbc2572",
+    "likes_count": 968,
+    "created_at": "2019-01-21T01:26:55+09:00",
+    "updated_at": "2020-12-24T22:28:08+09:00",
+    "id": "etaroid"
+  },
+  {
     "title": "Webでどこまで遊べるか試してみた",
     "url": "https://qiita.com/Leonardo-mbc/items/3c365836acfd71a55185",
     "likes_count": 968,
@@ -120,17 +128,9 @@
     "id": "Leonardo-mbc"
   },
   {
-    "title": "【図解】Dockerの全体像を理解する -後編-",
-    "url": "https://qiita.com/etaroid/items/40106f13d47bfcbc2572",
-    "likes_count": 967,
-    "created_at": "2019-01-21T01:26:55+09:00",
-    "updated_at": "2020-12-24T22:28:08+09:00",
-    "id": "etaroid"
-  },
-  {
     "title": "まだトラックパッドでChromeを操作しているの？ そろそろキーボードだけで操作しようぜ！！ Chromeを使い倒そう！！",
     "url": "https://qiita.com/dodonki1223/items/205a937c21030d1a511e",
-    "likes_count": 922,
+    "likes_count": 923,
     "created_at": "2019-01-28T07:11:34+09:00",
     "updated_at": "2022-01-21T19:56:31+09:00",
     "id": "dodonki1223"
@@ -186,7 +186,7 @@
   {
     "title": "2つの公開鍵暗号(公開鍵暗号の基礎知識)",
     "url": "https://qiita.com/angel_p_57/items/897bf94160be8d637585",
-    "likes_count": 699,
+    "likes_count": 700,
     "created_at": "2019-01-14T19:41:11+09:00",
     "updated_at": "2020-01-11T19:46:55+09:00",
     "id": "angel_p_57"
@@ -450,7 +450,7 @@
   {
     "title": "【Laravel】 認証や認可に関する補足資料",
     "url": "https://qiita.com/mpyw/items/8c5413b99b8e299f7002",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2019-01-22T21:52:43+09:00",
     "updated_at": "2019-11-23T01:26:24+09:00",
     "id": "mpyw"
@@ -466,7 +466,7 @@
   {
     "title": "herokuで本番環境までを構築する上で知っておきたいこと",
     "url": "https://qiita.com/undrthemt/items/1f49cc2bc9aabeb35a4c",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2019-01-04T19:40:09+09:00",
     "updated_at": "2020-01-11T18:01:17+09:00",
     "id": "undrthemt"
