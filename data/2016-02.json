@@ -18,7 +18,7 @@
   {
     "title": "効率的に安全な Dockerfile を作るには",
     "url": "https://qiita.com/pottava/items/452bf80e334bc1fee69a",
-    "likes_count": 1971,
+    "likes_count": 1972,
     "created_at": "2016-02-07T12:48:50+09:00",
     "updated_at": "2018-03-09T21:07:09+09:00",
     "id": "pottava"
@@ -74,7 +74,7 @@
   {
     "title": "[Linux]ファイルの圧縮、解凍方法",
     "url": "https://qiita.com/supersaiakujin/items/c6b54e9add21d375161f",
-    "likes_count": 1261,
+    "likes_count": 1262,
     "created_at": "2016-02-10T08:05:06+09:00",
     "updated_at": "2018-11-03T23:09:59+09:00",
     "id": "supersaiakujin"
@@ -186,7 +186,7 @@
   {
     "title": "Git で「追跡ブランチ」って言うのやめましょう",
     "url": "https://qiita.com/uasi/items/69368c17c79e99aaddbf",
-    "likes_count": 739,
+    "likes_count": 741,
     "created_at": "2016-02-08T21:44:09+09:00",
     "updated_at": "2016-02-09T10:11:27+09:00",
     "id": "uasi"
@@ -322,7 +322,7 @@
   {
     "title": "デザインパターン「Factory Method」",
     "url": "https://qiita.com/shoheiyokoyama/items/d752834a6a2e208b90ca",
-    "likes_count": 487,
+    "likes_count": 488,
     "created_at": "2016-02-20T22:46:38+09:00",
     "updated_at": "2017-03-27T20:42:30+09:00",
     "id": "shoheiyokoyama"
@@ -472,20 +472,20 @@
     "id": "hidenorly"
   },
   {
+    "title": "独自ドメインを使ってAmazon S3で静的Webサイトをホストする",
+    "url": "https://qiita.com/Ichiro_Tsuji/items/c174d580587a622d3358",
+    "likes_count": 362,
+    "created_at": "2016-02-07T13:10:59+09:00",
+    "updated_at": "2020-05-27T09:03:43+09:00",
+    "id": "Ichiro_Tsuji"
+  },
+  {
     "title": "GitHubでユーザ名・パスワード省略（push, pull）",
     "url": "https://qiita.com/azusanakano/items/8dc1d7e384b00239d4d9",
     "likes_count": 361,
     "created_at": "2016-02-05T19:51:00+09:00",
     "updated_at": "2016-02-17T15:47:45+09:00",
     "id": "azusanakano"
-  },
-  {
-    "title": "独自ドメインを使ってAmazon S3で静的Webサイトをホストする",
-    "url": "https://qiita.com/Ichiro_Tsuji/items/c174d580587a622d3358",
-    "likes_count": 361,
-    "created_at": "2016-02-07T13:10:59+09:00",
-    "updated_at": "2020-05-27T09:03:43+09:00",
-    "id": "Ichiro_Tsuji"
   },
   {
     "title": "Swift GCD入門",
