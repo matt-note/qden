@@ -26,7 +26,7 @@
   {
     "title": "【初心者向け】NPMとpackage.jsonを概念的に理解する",
     "url": "https://qiita.com/righteous/items/e5448cb2e7e11ab7d477",
-    "likes_count": 1657,
+    "likes_count": 1660,
     "created_at": "2019-06-25T02:06:43+09:00",
     "updated_at": "2020-03-11T19:05:53+09:00",
     "id": "righteous"
@@ -34,7 +34,7 @@
   {
     "title": "DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】",
     "url": "https://qiita.com/drken/items/4a7869c5e304883f539b",
-    "likes_count": 1577,
+    "likes_count": 1578,
     "created_at": "2019-06-18T05:39:48+09:00",
     "updated_at": "2021-11-18T16:57:00+09:00",
     "id": "drken"
@@ -298,7 +298,7 @@
   {
     "title": "ポケモンデータ解析.py",
     "url": "https://qiita.com/maskot1977/items/2680927b58cdc4fad8d4",
-    "likes_count": 476,
+    "likes_count": 477,
     "created_at": "2019-06-14T11:58:26+09:00",
     "updated_at": "2020-01-15T09:52:56+09:00",
     "id": "maskot1977"
@@ -370,7 +370,7 @@
   {
     "title": "Webアプリ初心者のFlaskチュートリアル",
     "url": "https://qiita.com/kiyokiyo_kzsby/items/0184973e9de0ea9011ed",
-    "likes_count": 442,
+    "likes_count": 443,
     "created_at": "2019-06-22T03:05:18+09:00",
     "updated_at": "2019-06-29T11:51:40+09:00",
     "id": "kiyokiyo_kzsby"
@@ -474,10 +474,18 @@
   {
     "title": "プログラミング言語の歴史を会話方式で振り返る",
     "url": "https://qiita.com/cube_3110/items/36ed9a604e2f0d12c759",
-    "likes_count": 353,
+    "likes_count": 354,
     "created_at": "2019-06-19T17:23:56+09:00",
     "updated_at": "2019-06-21T12:27:26+09:00",
     "id": "cube_3110"
+  },
+  {
+    "title": "Railsのモデルに書いたメソッドってどうやってコントローラで使うの？",
+    "url": "https://qiita.com/leavescomic1/items/99f32f45cd04035f146c",
+    "likes_count": 353,
+    "created_at": "2019-06-19T16:42:55+09:00",
+    "updated_at": "2019-12-13T16:37:33+09:00",
+    "id": "leavescomic1"
   },
   {
     "title": "Nuxt + Sails + TypeScript + Fargateでタスク管理ツールを作ったら快適だった話",
@@ -486,14 +494,6 @@
     "created_at": "2019-06-28T17:51:39+09:00",
     "updated_at": "2021-04-13T10:21:26+09:00",
     "id": "GussieTech"
-  },
-  {
-    "title": "Railsのモデルに書いたメソッドってどうやってコントローラで使うの？",
-    "url": "https://qiita.com/leavescomic1/items/99f32f45cd04035f146c",
-    "likes_count": 352,
-    "created_at": "2019-06-19T16:42:55+09:00",
-    "updated_at": "2019-12-13T16:37:33+09:00",
-    "id": "leavescomic1"
   },
   {
     "title": "【爆速】React+Amplify+AppSyncでリアルタイム掲示板アプリを15分で作り上げる　〜これが最高のDeveloper Experienceだ〜",
