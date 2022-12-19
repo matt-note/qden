@@ -98,18 +98,10 @@
   {
     "title": "null安全を誤解している人達へのメッセージ",
     "url": "https://qiita.com/omochimetaru/items/ee29d4c6eb0d78f02b15",
-    "likes_count": 714,
+    "likes_count": 713,
     "created_at": "2016-11-10T02:49:28+09:00",
     "updated_at": "2016-11-18T17:15:54+09:00",
     "id": "omochimetaru"
-  },
-  {
-    "title": "インターフェースと抽象クラスの使い分け、活用方法",
-    "url": "https://qiita.com/igayamaguchi/items/e1d35db0a14a84bda452",
-    "likes_count": 622,
-    "created_at": "2016-11-20T22:47:57+09:00",
-    "updated_at": "2020-09-29T00:13:32+09:00",
-    "id": "igayamaguchi"
   },
   {
     "title": "Docker for Macを使っていたら50GB位ディスク容量を圧迫していたのでいろんなものを削除する",
@@ -118,6 +110,14 @@
     "created_at": "2016-11-30T02:49:21+09:00",
     "updated_at": "2020-08-12T12:56:31+09:00",
     "id": "shinespark"
+  },
+  {
+    "title": "インターフェースと抽象クラスの使い分け、活用方法",
+    "url": "https://qiita.com/igayamaguchi/items/e1d35db0a14a84bda452",
+    "likes_count": 621,
+    "created_at": "2016-11-20T22:47:57+09:00",
+    "updated_at": "2020-09-29T00:13:32+09:00",
+    "id": "igayamaguchi"
   },
   {
     "title": "Amazon Linuxがコンテナ化されたので、Macで動かしてみた。",
@@ -154,7 +154,7 @@
   {
     "title": "Python標準のunittestの使い方メモ",
     "url": "https://qiita.com/aomidro/items/3e3449fde924893f18ca",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2016-11-30T15:19:33+09:00",
     "updated_at": "2020-05-04T13:51:57+09:00",
     "id": "aomidro"
