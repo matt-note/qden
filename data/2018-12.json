@@ -10,7 +10,7 @@
   {
     "title": "新卒からの質問をソシャゲっぽい仕組みにしたら捗った話",
     "url": "https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50",
-    "likes_count": 2792,
+    "likes_count": 2793,
     "created_at": "2018-12-04T09:50:05+09:00",
     "updated_at": "2019-02-28T19:10:54+09:00",
     "id": "ysktsuna"
@@ -50,7 +50,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1344,
+    "likes_count": 1345,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -58,7 +58,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1343,
+    "likes_count": 1344,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -162,7 +162,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 971,
+    "likes_count": 972,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2022-07-19T20:17:24+09:00",
     "id": "syantien"
@@ -250,7 +250,7 @@
   {
     "title": "未経験がWeb系転職成功したいならgithubでissue管理して開発しよう",
     "url": "https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b",
-    "likes_count": 656,
+    "likes_count": 657,
     "created_at": "2018-12-24T14:56:03+09:00",
     "updated_at": "2022-08-29T17:07:12+09:00",
     "id": "fukubaka0825"
@@ -298,7 +298,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 578,
+    "likes_count": 579,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -418,7 +418,7 @@
   {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
-    "likes_count": 430,
+    "likes_count": 431,
     "created_at": "2018-12-21T10:13:58+09:00",
     "updated_at": "2021-01-04T01:36:10+09:00",
     "id": "naokiiiii"
@@ -448,20 +448,20 @@
     "id": "gonshi_com"
   },
   {
-    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
-    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
-    "likes_count": 417,
-    "created_at": "2018-12-28T14:05:57+09:00",
-    "updated_at": "2019-08-28T21:53:58+09:00",
-    "id": "suin"
-  },
-  {
     "title": "fmt.Printfなんかこわくない",
     "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
     "likes_count": 416,
     "created_at": "2018-12-07T05:35:39+09:00",
     "updated_at": "2019-05-22T20:39:46+09:00",
     "id": "rock619"
+  },
+  {
+    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
+    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
+    "likes_count": 416,
+    "created_at": "2018-12-28T14:05:57+09:00",
+    "updated_at": "2019-08-28T21:53:58+09:00",
+    "id": "suin"
   },
   {
     "title": "Ruby on Rails 6の主要な新機能・機能追加・変更点",
@@ -482,7 +482,7 @@
   {
     "title": "Web API初心者と学ぶGraphQL",
     "url": "https://qiita.com/SiragumoHuin/items/cc58f456bc43a1be41b4",
-    "likes_count": 398,
+    "likes_count": 399,
     "created_at": "2018-12-20T03:46:56+09:00",
     "updated_at": "2021-10-12T15:09:10+09:00",
     "id": "SiragumoHuin"
@@ -578,7 +578,7 @@
   {
     "title": "GraphQLのクエリを基礎から整理してみた",
     "url": "https://qiita.com/shunp/items/d85fc47b33e1b3a88167",
-    "likes_count": 354,
+    "likes_count": 355,
     "created_at": "2018-12-23T04:55:03+09:00",
     "updated_at": "2018-12-23T04:55:03+09:00",
     "id": "shunp"
@@ -616,20 +616,20 @@
     "id": "ossan-engineer"
   },
   {
+    "title": "段階的に理解する Java 例外処理",
+    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
+    "likes_count": 345,
+    "created_at": "2018-12-21T23:27:05+09:00",
+    "updated_at": "2018-12-26T11:18:48+09:00",
+    "id": "ts7i"
+  },
+  {
     "title": "Nuxt, netlify, Firebase を使ったWebサービス開発と個人開発における技術選定のポイント",
     "url": "https://qiita.com/howdy39/items/ac4c19dd36cd182841bc",
     "likes_count": 344,
     "created_at": "2018-12-09T07:06:15+09:00",
     "updated_at": "2019-10-22T12:53:39+09:00",
     "id": "howdy39"
-  },
-  {
-    "title": "段階的に理解する Java 例外処理",
-    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 344,
-    "created_at": "2018-12-21T23:27:05+09:00",
-    "updated_at": "2018-12-26T11:18:48+09:00",
-    "id": "ts7i"
   },
   {
     "title": "JavaScriptの概念たち (後編)",
@@ -666,7 +666,7 @@
   {
     "title": "Railsでフォロー機能を作る方法",
     "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
-    "likes_count": 322,
+    "likes_count": 321,
     "created_at": "2018-12-08T19:30:47+09:00",
     "updated_at": "2020-04-13T00:22:52+09:00",
     "id": "mitsumitsu1128"
@@ -704,20 +704,20 @@
     "id": "pannpers"
   },
   {
+    "title": "超軽量なAlpine Linuxについて調べた",
+    "url": "https://qiita.com/ryuichi1208/items/6020cfabc92bd8153654",
+    "likes_count": 298,
+    "created_at": "2018-12-11T21:32:51+09:00",
+    "updated_at": "2019-01-12T00:55:40+09:00",
+    "id": "ryuichi1208"
+  },
+  {
     "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
     "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
     "likes_count": 297,
     "created_at": "2018-12-09T00:00:37+09:00",
     "updated_at": "2022-09-05T21:35:09+09:00",
     "id": "ryosuketter"
-  },
-  {
-    "title": "超軽量なAlpine Linuxについて調べた",
-    "url": "https://qiita.com/ryuichi1208/items/6020cfabc92bd8153654",
-    "likes_count": 297,
-    "created_at": "2018-12-11T21:32:51+09:00",
-    "updated_at": "2019-01-12T00:55:40+09:00",
-    "id": "ryuichi1208"
   },
   {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
