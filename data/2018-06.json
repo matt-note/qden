@@ -42,18 +42,10 @@
   {
     "title": "成り上がりたくて必死に読んだ感謝の技術書6冊",
     "url": "https://qiita.com/kurkuru/items/97a90e3c267bd127af9b",
-    "likes_count": 1210,
+    "likes_count": 1212,
     "created_at": "2018-06-05T21:50:09+09:00",
     "updated_at": "2020-12-22T16:37:06+09:00",
     "id": "kurkuru"
-  },
-  {
-    "title": "【まつもとゆきひろ氏　特別講演】若手エンジニアの生存戦略に行ってきたので私的メモ",
-    "url": "https://qiita.com/Taku0055/items/17b6194a5f5a7d5867b6",
-    "likes_count": 1169,
-    "created_at": "2018-06-23T18:07:07+09:00",
-    "updated_at": "2018-06-27T22:00:39+09:00",
-    "id": "Taku0055"
   },
   {
     "title": "わかる！Firebase ～全てのサービスをおつまみ紹介～",
@@ -62,6 +54,14 @@
     "created_at": "2018-06-28T02:47:16+09:00",
     "updated_at": "2018-07-04T15:58:56+09:00",
     "id": "dogwood008"
+  },
+  {
+    "title": "【まつもとゆきひろ氏　特別講演】若手エンジニアの生存戦略に行ってきたので私的メモ",
+    "url": "https://qiita.com/Taku0055/items/17b6194a5f5a7d5867b6",
+    "likes_count": 1168,
+    "created_at": "2018-06-23T18:07:07+09:00",
+    "updated_at": "2018-06-27T22:00:39+09:00",
+    "id": "Taku0055"
   },
   {
     "title": "もし、異世界転生モノのチートスキルが「Gitコマンド」だったら【その１】",
@@ -106,7 +106,7 @@
   {
     "title": "画像認識で「綾鷹を選ばせる」AIを作る",
     "url": "https://qiita.com/tomo_20180402/items/e8c55bdca648f4877188",
-    "likes_count": 969,
+    "likes_count": 968,
     "created_at": "2018-06-22T23:32:45+09:00",
     "updated_at": "2018-06-26T23:43:20+09:00",
     "id": "tomo_20180402"
@@ -128,20 +128,20 @@
     "id": "kaityo256"
   },
   {
+    "title": "Railsで超簡単API",
+    "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
+    "likes_count": 867,
+    "created_at": "2018-06-27T16:46:37+09:00",
+    "updated_at": "2020-02-24T14:01:49+09:00",
+    "id": "k-penguin-sato"
+  },
+  {
     "title": "グラフ理論の基礎",
     "url": "https://qiita.com/maskot1977/items/e1819b7a1053eb9f7d61",
     "likes_count": 866,
     "created_at": "2018-06-17T11:13:44+09:00",
     "updated_at": "2020-12-18T11:25:46+09:00",
     "id": "maskot1977"
-  },
-  {
-    "title": "Railsで超簡単API",
-    "url": "https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9",
-    "likes_count": 866,
-    "created_at": "2018-06-27T16:46:37+09:00",
-    "updated_at": "2020-02-24T14:01:49+09:00",
-    "id": "k-penguin-sato"
   },
   {
     "title": "Pythonで実用Discord Bot(discordpy解説)",
@@ -170,7 +170,7 @@
   {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 681,
+    "likes_count": 682,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2018-10-11T13:59:01+09:00",
     "id": "newta"
@@ -338,7 +338,7 @@
   {
     "title": "【初心者向け】Linuxカーネルって一体なんだ？",
     "url": "https://qiita.com/uguis410/items/17ec1e447e9716bfdca7",
-    "likes_count": 430,
+    "likes_count": 431,
     "created_at": "2018-06-17T17:04:14+09:00",
     "updated_at": "2019-09-06T10:42:56+09:00",
     "id": "uguis410"
@@ -474,7 +474,7 @@
   {
     "title": "個人的にコードリーディングがはかどったテクニックまとめ",
     "url": "https://qiita.com/gotchane/items/ef69af260c40fa26d78b",
-    "likes_count": 346,
+    "likes_count": 345,
     "created_at": "2018-06-24T11:46:07+09:00",
     "updated_at": "2018-06-27T20:55:27+09:00",
     "id": "gotchane"
@@ -546,7 +546,7 @@
   {
     "title": "第1回 もう怖くない DIだって知らなくていい こんなにカンタンだから今日から Laravelのサービスコンテナ を使ってみて！",
     "url": "https://qiita.com/kd9951/items/951ab700f28d1d49c9c9",
-    "likes_count": 307,
+    "likes_count": 308,
     "created_at": "2018-06-07T04:59:19+09:00",
     "updated_at": "2019-10-18T11:16:32+09:00",
     "id": "kd9951"
@@ -584,20 +584,20 @@
     "id": "wonohe"
   },
   {
+    "title": "[Django] モデルフィールド 設定テンプレート",
+    "url": "https://qiita.com/okoppe8/items/a1149b2be54441951de1",
+    "likes_count": 281,
+    "created_at": "2018-06-14T15:52:27+09:00",
+    "updated_at": "2018-08-16T14:13:07+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "PHP(Laravel)入門者のための要点まとめ",
     "url": "https://qiita.com/yyokii/items/c7c98d467239dda2a59d",
     "likes_count": 280,
     "created_at": "2018-06-11T12:37:06+09:00",
     "updated_at": "2019-01-21T02:30:09+09:00",
     "id": "yyokii"
-  },
-  {
-    "title": "[Django] モデルフィールド 設定テンプレート",
-    "url": "https://qiita.com/okoppe8/items/a1149b2be54441951de1",
-    "likes_count": 279,
-    "created_at": "2018-06-14T15:52:27+09:00",
-    "updated_at": "2018-08-16T14:13:07+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "【超簡単】Vue.jsを使って3時間で自分のホームページを作成&公開する",
@@ -618,7 +618,7 @@
   {
     "title": "【深層強化学習】Ape-X 実装・解説",
     "url": "https://qiita.com/omuram/items/bb7d463d8177cb395bb7",
-    "likes_count": 243,
+    "likes_count": 244,
     "created_at": "2018-06-20T17:42:47+09:00",
     "updated_at": "2021-11-11T04:38:20+09:00",
     "id": "omuram"
