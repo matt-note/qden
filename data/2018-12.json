@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2872,
+    "likes_count": 2875,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1803,
+    "likes_count": 1806,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -194,7 +194,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 867,
+    "likes_count": 868,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2021-12-08T08:19:16+09:00",
     "id": "cha84rakanal"
@@ -600,6 +600,14 @@
     "id": "fuwamaki"
   },
   {
+    "title": "useEffectフックのしくみ",
+    "url": "https://qiita.com/ossan-engineer/items/740425a0df937a47e093",
+    "likes_count": 346,
+    "created_at": "2018-12-05T23:07:55+09:00",
+    "updated_at": "2018-12-19T07:03:03+09:00",
+    "id": "ossan-engineer"
+  },
+  {
     "title": "月数100万アクセスをDB使わず超簡単にさばく",
     "url": "https://qiita.com/Hisashi_vc/items/a50b49ad6a75d51c880a",
     "likes_count": 346,
@@ -608,17 +616,9 @@
     "id": "Hisashi_vc"
   },
   {
-    "title": "useEffectフックのしくみ",
-    "url": "https://qiita.com/ossan-engineer/items/740425a0df937a47e093",
-    "likes_count": 345,
-    "created_at": "2018-12-05T23:07:55+09:00",
-    "updated_at": "2018-12-19T07:03:03+09:00",
-    "id": "ossan-engineer"
-  },
-  {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
@@ -642,7 +642,7 @@
   {
     "title": "Python3の標準入力やり方まとめ",
     "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2018-12-24T08:18:57+09:00",
     "updated_at": "2018-12-24T08:18:57+09:00",
     "id": "yasu_teco"
@@ -666,7 +666,7 @@
   {
     "title": "Railsでフォロー機能を作る方法",
     "url": "https://qiita.com/mitsumitsu1128/items/e41e2ff37f143db81897",
-    "likes_count": 321,
+    "likes_count": 322,
     "created_at": "2018-12-08T19:30:47+09:00",
     "updated_at": "2020-04-13T00:22:52+09:00",
     "id": "mitsumitsu1128"
@@ -754,7 +754,7 @@
   {
     "title": "Python boto3 でAWSを自在に操ろう ~入門編~",
     "url": "https://qiita.com/kimihiro_n/items/f3ce86472152b2676004",
-    "likes_count": 251,
+    "likes_count": 252,
     "created_at": "2018-12-11T14:29:08+09:00",
     "updated_at": "2019-07-22T16:45:39+09:00",
     "id": "kimihiro_n"
