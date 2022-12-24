@@ -2,7 +2,7 @@
   {
     "title": "TypeScriptの型入門",
     "url": "https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a",
-    "likes_count": 4598,
+    "likes_count": 4599,
     "created_at": "2018-02-16T23:41:39+09:00",
     "updated_at": "2021-12-05T21:35:03+09:00",
     "id": "uhyo"
@@ -138,7 +138,7 @@
   {
     "title": "Slack Botの種類と大まかな作り方",
     "url": "https://qiita.com/namutaka/items/233a83100c94af033575",
-    "likes_count": 1097,
+    "likes_count": 1098,
     "created_at": "2018-02-17T22:05:23+09:00",
     "updated_at": "2019-11-05T10:59:41+09:00",
     "id": "namutaka"
@@ -266,7 +266,7 @@
   {
     "title": "Python の HTTP クライアントは urllib.request で十分",
     "url": "https://qiita.com/hoto17296/items/8fcf55cc6cd823a18217",
-    "likes_count": 493,
+    "likes_count": 494,
     "created_at": "2018-02-28T12:07:33+09:00",
     "updated_at": "2019-12-18T10:29:56+09:00",
     "id": "hoto17296"
@@ -322,7 +322,7 @@
   {
     "title": "AWS CLIでS3を操作するコマンド一覧",
     "url": "https://qiita.com/uhooi/items/48ef6ef2b34162988295",
-    "likes_count": 419,
+    "likes_count": 420,
     "created_at": "2018-02-14T22:05:57+09:00",
     "updated_at": "2018-09-17T19:33:17+09:00",
     "id": "uhooi"
@@ -338,7 +338,7 @@
   {
     "title": "Seleniumで要素を選択する方法まとめ",
     "url": "https://qiita.com/VA_nakatsu/items/0095755dc48ad7e86e2f",
-    "likes_count": 400,
+    "likes_count": 401,
     "created_at": "2018-02-08T19:58:30+09:00",
     "updated_at": "2019-01-15T11:26:02+09:00",
     "id": "VA_nakatsu"
@@ -400,20 +400,20 @@
     "id": "yoshimo123"
   },
   {
+    "title": "pythonでローカルwebサーバを立ち上げる",
+    "url": "https://qiita.com/okhrn/items/4d3c74563154f191ba16",
+    "likes_count": 334,
+    "created_at": "2018-02-13T19:07:59+09:00",
+    "updated_at": "2018-08-03T18:24:00+09:00",
+    "id": "okhrn"
+  },
+  {
     "title": "Raspberry PiでWebサーバを構築し自作アプリを使う",
     "url": "https://qiita.com/jun6231jp/items/5596ef0c912c7f57ef0a",
     "likes_count": 333,
     "created_at": "2018-02-09T00:18:04+09:00",
     "updated_at": "2022-02-11T00:07:03+09:00",
     "id": "jun6231jp"
-  },
-  {
-    "title": "pythonでローカルwebサーバを立ち上げる",
-    "url": "https://qiita.com/okhrn/items/4d3c74563154f191ba16",
-    "likes_count": 333,
-    "created_at": "2018-02-13T19:07:59+09:00",
-    "updated_at": "2018-08-03T18:24:00+09:00",
-    "id": "okhrn"
   },
   {
     "title": "遅くまで会社にいたら自動で「帰り遅くなる」とメールする",
