@@ -2,7 +2,7 @@
   {
     "title": "VSCodeでのGitの基本操作まとめ",
     "url": "https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be",
-    "likes_count": 2484,
+    "likes_count": 2485,
     "created_at": "2019-04-15T07:38:11+09:00",
     "updated_at": "2021-10-31T16:11:21+09:00",
     "id": "y-tsutsu"
@@ -196,13 +196,13 @@
     "url": "https://qiita.com/hishi/items/8f77fd4655027fac7c7d",
     "likes_count": 631,
     "created_at": "2019-04-25T21:56:29+09:00",
-    "updated_at": "2022-12-08T18:36:32+09:00",
+    "updated_at": "2023-01-06T22:17:47+09:00",
     "id": "hishi"
   },
   {
     "title": "私が async/await、promise をちゃんと理解するまでのステップ１，２，３",
     "url": "https://qiita.com/gounx2/items/18602a4081d0aaffe852",
-    "likes_count": 613,
+    "likes_count": 616,
     "created_at": "2019-04-28T02:05:10+09:00",
     "updated_at": "2019-05-01T19:19:51+09:00",
     "id": "gounx2"
@@ -346,10 +346,18 @@
   {
     "title": "Docker で環境変数をホストからコンテナに渡す方法（ホスト OS 側からゲスト OS に渡す方法各種）",
     "url": "https://qiita.com/KEINOS/items/518610bc2fdf5999acf2",
-    "likes_count": 352,
+    "likes_count": 353,
     "created_at": "2019-04-29T11:19:54+09:00",
     "updated_at": "2023-01-02T14:12:28+09:00",
     "id": "KEINOS"
+  },
+  {
+    "title": "Matplotlibで綺麗な論文用のグラフを作る",
+    "url": "https://qiita.com/MENDY/items/fe9b0c50383d8b2fd919",
+    "likes_count": 348,
+    "created_at": "2019-04-12T17:49:12+09:00",
+    "updated_at": "2020-01-21T19:40:59+09:00",
+    "id": "MENDY"
   },
   {
     "title": "Nuxt.js + phina.js でブラウザゲーを作るためにやったことまとめ",
@@ -358,14 +366,6 @@
     "created_at": "2019-04-20T18:03:08+09:00",
     "updated_at": "2019-04-22T21:16:41+09:00",
     "id": "arinomurakumo"
-  },
-  {
-    "title": "Matplotlibで綺麗な論文用のグラフを作る",
-    "url": "https://qiita.com/MENDY/items/fe9b0c50383d8b2fd919",
-    "likes_count": 347,
-    "created_at": "2019-04-12T17:49:12+09:00",
-    "updated_at": "2020-01-21T19:40:59+09:00",
-    "id": "MENDY"
   },
   {
     "title": "Pythonのselfとかinitを理解する",

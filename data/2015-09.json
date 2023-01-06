@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 11084,
+    "likes_count": 11086,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2022-09-04T14:00:34+09:00",
     "id": "Ted-HM"
@@ -66,7 +66,7 @@
   {
     "title": "Nginx設定のまとめ",
     "url": "https://qiita.com/townsoft/items/3e2d410bbe65a364b603",
-    "likes_count": 1601,
+    "likes_count": 1600,
     "created_at": "2015-09-30T10:30:39+09:00",
     "updated_at": "2015-11-18T10:09:23+09:00",
     "id": "townsoft"
@@ -114,7 +114,7 @@
   {
     "title": "検索ではあんまり出ないbashの便利技",
     "url": "https://qiita.com/rsooo/items/ef1d036bcc7282a66d7d",
-    "likes_count": 1287,
+    "likes_count": 1286,
     "created_at": "2015-09-20T14:29:59+09:00",
     "updated_at": "2015-09-25T23:04:44+09:00",
     "id": "rsooo"
@@ -154,7 +154,7 @@
   {
     "title": "PostgreSQLの基本的なコマンド",
     "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 989,
+    "likes_count": 990,
     "created_at": "2015-09-08T20:16:56+09:00",
     "updated_at": "2021-10-15T23:37:54+09:00",
     "id": "H-A-L"
@@ -178,7 +178,7 @@
   {
     "title": "Graphvizとdot言語でグラフを描く方法のまとめ",
     "url": "https://qiita.com/rubytomato@github/items/51779135bc4b77c8c20d",
-    "likes_count": 873,
+    "likes_count": 872,
     "created_at": "2015-09-14T19:13:26+09:00",
     "updated_at": "2019-09-12T22:44:12+09:00",
     "id": "rubytomato@github"
@@ -234,7 +234,7 @@
   {
     "title": "【CSS3】Transform（変形）関連のまとめ",
     "url": "https://qiita.com/7968/items/eddfeb4b424d7c2d2d34",
-    "likes_count": 621,
+    "likes_count": 622,
     "created_at": "2015-09-11T17:50:44+09:00",
     "updated_at": "2021-07-19T02:15:16+09:00",
     "id": "7968"
@@ -258,7 +258,7 @@
   {
     "title": "JSのパフォーマンスをお手軽に解析する方法",
     "url": "https://qiita.com/sakatam/items/62e73f04170bf778eb8e",
-    "likes_count": 545,
+    "likes_count": 544,
     "created_at": "2015-09-16T11:56:39+09:00",
     "updated_at": "2015-09-16T14:40:19+09:00",
     "id": "sakatam"
@@ -298,18 +298,10 @@
   {
     "title": "Carthageを使ってビルド時間を短縮しよう",
     "url": "https://qiita.com/yutat93/items/97fe9bc2bf2e97da7ec1",
-    "likes_count": 496,
+    "likes_count": 495,
     "created_at": "2015-09-26T22:03:23+09:00",
     "updated_at": "2017-01-08T12:13:48+09:00",
     "id": "yutat93"
-  },
-  {
-    "title": "クロージャ再考",
-    "url": "https://qiita.com/pebblip/items/2ed30f59cd5981513908",
-    "likes_count": 484,
-    "created_at": "2015-09-14T01:19:31+09:00",
-    "updated_at": "2015-09-23T19:45:13+09:00",
-    "id": "pebblip"
   },
   {
     "title": "ES2015(ES6)な時代だからこそ、ES5を改めて調べたJavaScript初級者のメモ",
@@ -318,6 +310,14 @@
     "created_at": "2015-09-13T01:44:02+09:00",
     "updated_at": "2019-12-04T15:42:12+09:00",
     "id": "zaru"
+  },
+  {
+    "title": "クロージャ再考",
+    "url": "https://qiita.com/pebblip/items/2ed30f59cd5981513908",
+    "likes_count": 483,
+    "created_at": "2015-09-14T01:19:31+09:00",
+    "updated_at": "2015-09-23T19:45:13+09:00",
+    "id": "pebblip"
   },
   {
     "title": "Docker ハンズオン - 基本コマンド編",
@@ -330,7 +330,7 @@
   {
     "title": "CSSのメタ言語Sass(SCSS)、LESSの完全入門",
     "url": "https://qiita.com/ritukiii/items/67b3c50002b48c6186d6",
-    "likes_count": 452,
+    "likes_count": 453,
     "created_at": "2015-09-24T08:33:53+09:00",
     "updated_at": "2015-09-24T08:33:53+09:00",
     "id": "ritukiii"
@@ -458,7 +458,7 @@
   {
     "title": "[PHP] 配列・連想配列の初期化、結合、追加",
     "url": "https://qiita.com/shuntaro_tamura/items/784cfd61f355516dfff0",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2015-09-12T16:57:23+09:00",
     "updated_at": "2015-09-12T16:57:23+09:00",
     "id": "shuntaro_tamura"
@@ -522,7 +522,7 @@
   {
     "title": "C++ コーディングスタイルメモ",
     "url": "https://qiita.com/shirakawa4756/items/55b509fb56cb1bb0c9a4",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2015-09-01T19:43:51+09:00",
     "updated_at": "2016-02-17T22:01:50+09:00",
     "id": "shirakawa4756"

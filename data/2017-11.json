@@ -34,7 +34,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 1077,
+    "likes_count": 1078,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2022-02-17T11:09:47+09:00",
     "id": "fuwamaki"
@@ -112,6 +112,14 @@
     "id": "tutinoco"
   },
   {
+    "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
+    "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
+    "likes_count": 666,
+    "created_at": "2017-11-23T13:25:47+09:00",
+    "updated_at": "2019-07-16T14:21:23+09:00",
+    "id": "toshi0607"
+  },
+  {
     "title": "Vue.js スタイルガイド早見表 🎄✨",
     "url": "https://qiita.com/mi_upto/items/58642612b0106b193c82",
     "likes_count": 665,
@@ -120,20 +128,20 @@
     "id": "mi_upto"
   },
   {
-    "title": "VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介",
-    "url": "https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c",
-    "likes_count": 665,
-    "created_at": "2017-11-23T13:25:47+09:00",
-    "updated_at": "2019-07-16T14:21:23+09:00",
-    "id": "toshi0607"
-  },
-  {
     "title": "【シェル芸人への道】Bashの変数展開と真摯に向き合う",
     "url": "https://qiita.com/t_nakayama0714/items/80b4c94de43643f4be51",
-    "likes_count": 632,
+    "likes_count": 633,
     "created_at": "2017-11-18T06:21:52+09:00",
     "updated_at": "2021-12-30T11:36:42+09:00",
     "id": "t_nakayama0714"
+  },
+  {
+    "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
+    "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
+    "likes_count": 629,
+    "created_at": "2017-11-18T15:46:30+09:00",
+    "updated_at": "2020-01-02T15:49:43+09:00",
+    "id": "tomo0"
   },
   {
     "title": "のび太と学ぶ「機械学習」～FX予測プログラムを作成～【第1話】if文作戦",
@@ -142,14 +150,6 @@
     "created_at": "2017-11-06T05:51:37+09:00",
     "updated_at": "2017-11-08T21:26:31+09:00",
     "id": "sugulu_Ogawa_ISID"
-  },
-  {
-    "title": "【PythonのORM】SQLAlchemyで基本的なSQLクエリまとめ",
-    "url": "https://qiita.com/tomo0/items/a762b1bc0f192a55eae8",
-    "likes_count": 628,
-    "created_at": "2017-11-18T15:46:30+09:00",
-    "updated_at": "2020-01-02T15:49:43+09:00",
-    "id": "tomo0"
   },
   {
     "title": "Elmはどんな人にオススメできないか",
@@ -194,7 +194,7 @@
   {
     "title": "idやclassを使ってテストを書くのは、もはやアンチパターンである",
     "url": "https://qiita.com/akameco/items/519f7e4d5442b2a9d2da",
-    "likes_count": 595,
+    "likes_count": 597,
     "created_at": "2017-11-19T03:46:34+09:00",
     "updated_at": "2020-03-23T18:38:33+09:00",
     "id": "akameco"
@@ -226,7 +226,7 @@
   {
     "title": "有志の社内勉強会を1年で50回くらいやった結果 伝えたいこと",
     "url": "https://qiita.com/nh321/items/f7e20c7ba737ff5c0f60",
-    "likes_count": 531,
+    "likes_count": 532,
     "created_at": "2017-11-26T01:05:44+09:00",
     "updated_at": "2018-10-01T21:43:41+09:00",
     "id": "nh321"
@@ -482,7 +482,7 @@
   {
     "title": "VS Codeのワークスペース",
     "url": "https://qiita.com/YuichiNukiyama/items/ef16a0219f46ea03a045",
-    "likes_count": 258,
+    "likes_count": 259,
     "created_at": "2017-11-05T15:31:32+09:00",
     "updated_at": "2017-12-05T23:07:22+09:00",
     "id": "YuichiNukiyama"
