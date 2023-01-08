@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2901,
+    "likes_count": 2903,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -26,7 +26,7 @@
   {
     "title": "個人開発のすゝめ",
     "url": "https://qiita.com/masaibar/items/fdc1a7ee46de0edcd612",
-    "likes_count": 1655,
+    "likes_count": 1656,
     "created_at": "2018-12-18T16:32:28+09:00",
     "updated_at": "2022-12-05T17:14:19+09:00",
     "id": "masaibar"
@@ -74,7 +74,7 @@
   {
     "title": "おもしろいダジャレを入力すると布団が吹っ飛ぶ装置を作った",
     "url": "https://qiita.com/fujit33/items/dbfbd7a2aa3858067b6c",
-    "likes_count": 1214,
+    "likes_count": 1215,
     "created_at": "2018-12-19T13:03:14+09:00",
     "updated_at": "2019-01-09T21:58:39+09:00",
     "id": "fujit33"
@@ -162,7 +162,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 977,
+    "likes_count": 978,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2022-07-19T20:17:24+09:00",
     "id": "syantien"
@@ -218,7 +218,7 @@
   {
     "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
     "url": "https://qiita.com/potato4d/items/c9c0c8e674f20c85948a",
-    "likes_count": 677,
+    "likes_count": 678,
     "created_at": "2018-12-12T23:28:42+09:00",
     "updated_at": "2019-12-05T12:05:20+09:00",
     "id": "potato4d"
@@ -592,14 +592,6 @@
     "id": "jiny2001"
   },
   {
-    "title": "Macでmysqlを扱う方法",
-    "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 347,
-    "created_at": "2018-12-04T18:54:43+09:00",
-    "updated_at": "2019-01-29T22:11:03+09:00",
-    "id": "fuwamaki"
-  },
-  {
     "title": "useEffectフックのしくみ",
     "url": "https://qiita.com/ossan-engineer/items/740425a0df937a47e093",
     "likes_count": 347,
@@ -608,20 +600,28 @@
     "id": "ossan-engineer"
   },
   {
+    "title": "段階的に理解する Java 例外処理",
+    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
+    "likes_count": 347,
+    "created_at": "2018-12-21T23:27:05+09:00",
+    "updated_at": "2018-12-26T11:18:48+09:00",
+    "id": "ts7i"
+  },
+  {
+    "title": "Macでmysqlを扱う方法",
+    "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
+    "likes_count": 346,
+    "created_at": "2018-12-04T18:54:43+09:00",
+    "updated_at": "2019-01-29T22:11:03+09:00",
+    "id": "fuwamaki"
+  },
+  {
     "title": "月数100万アクセスをDB使わず超簡単にさばく",
     "url": "https://qiita.com/Hisashi_vc/items/a50b49ad6a75d51c880a",
     "likes_count": 346,
     "created_at": "2018-12-17T13:37:31+09:00",
     "updated_at": "2018-12-17T13:37:31+09:00",
     "id": "Hisashi_vc"
-  },
-  {
-    "title": "段階的に理解する Java 例外処理",
-    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 346,
-    "created_at": "2018-12-21T23:27:05+09:00",
-    "updated_at": "2018-12-26T11:18:48+09:00",
-    "id": "ts7i"
   },
   {
     "title": "Nuxt, netlify, Firebase を使ったWebサービス開発と個人開発における技術選定のポイント",
