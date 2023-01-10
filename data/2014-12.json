@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1873,
+    "likes_count": 1874,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2022-05-14T07:51:03+09:00",
     "id": "jnchito"
@@ -50,7 +50,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1424,
+    "likes_count": 1425,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2021-10-20T18:10:09+09:00",
     "id": "kunichiko"
@@ -58,7 +58,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1333,
+    "likes_count": 1334,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -114,7 +114,7 @@
   {
     "title": "JavaScriptでforEach, filter, map, reduceとか",
     "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
-    "likes_count": 886,
+    "likes_count": 887,
     "created_at": "2014-12-21T00:42:04+09:00",
     "updated_at": "2018-09-23T17:07:32+09:00",
     "id": "itagakishintaro"
@@ -736,20 +736,20 @@
     "id": "kai2nenobu"
   },
   {
+    "title": "Linux ネットワークパフォーマンスの機能強化",
+    "url": "https://qiita.com/hkajikawa/items/34b21583b216aede0f95",
+    "likes_count": 274,
+    "created_at": "2014-12-18T12:05:09+09:00",
+    "updated_at": "2014-12-18T12:05:09+09:00",
+    "id": "hkajikawa"
+  },
+  {
     "title": "ニューラルネットワークと深層学習(和訳)",
     "url": "https://qiita.com/nushio/items/7bc4a32d8e27e8b5b751",
     "likes_count": 273,
     "created_at": "2014-12-05T14:46:22+09:00",
     "updated_at": "2014-12-05T15:36:14+09:00",
     "id": "nushio"
-  },
-  {
-    "title": "Linux ネットワークパフォーマンスの機能強化",
-    "url": "https://qiita.com/hkajikawa/items/34b21583b216aede0f95",
-    "likes_count": 273,
-    "created_at": "2014-12-18T12:05:09+09:00",
-    "updated_at": "2014-12-18T12:05:09+09:00",
-    "id": "hkajikawa"
   },
   {
     "title": "AWSでデプロイとスケーリングを自動化する方法まとめ",
