@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2907,
+    "likes_count": 2908,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -10,7 +10,7 @@
   {
     "title": "新卒からの質問をソシャゲっぽい仕組みにしたら捗った話",
     "url": "https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50",
-    "likes_count": 2795,
+    "likes_count": 2796,
     "created_at": "2018-12-04T09:50:05+09:00",
     "updated_at": "2019-02-28T19:10:54+09:00",
     "id": "ysktsuna"
@@ -34,7 +34,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1480,
+    "likes_count": 1482,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -330,7 +330,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 526,
+    "likes_count": 525,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -386,7 +386,7 @@
   {
     "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
     "url": "https://qiita.com/koizumittn/items/77923a8f71d47d895b34",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2018-12-29T11:42:35+09:00",
     "updated_at": "2019-01-21T20:31:35+09:00",
     "id": "koizumittn"
@@ -418,7 +418,7 @@
   {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
-    "likes_count": 436,
+    "likes_count": 437,
     "created_at": "2018-12-21T10:13:58+09:00",
     "updated_at": "2021-01-04T01:36:10+09:00",
     "id": "naokiiiii"
@@ -602,7 +602,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 348,
+    "likes_count": 349,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
@@ -752,20 +752,20 @@
     "id": "turmericN"
   },
   {
-    "title": "Python boto3 でAWSを自在に操ろう ~入門編~",
-    "url": "https://qiita.com/kimihiro_n/items/f3ce86472152b2676004",
-    "likes_count": 255,
-    "created_at": "2018-12-11T14:29:08+09:00",
-    "updated_at": "2019-07-22T16:45:39+09:00",
-    "id": "kimihiro_n"
-  },
-  {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
     "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
     "likes_count": 254,
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"
+  },
+  {
+    "title": "Python boto3 でAWSを自在に操ろう ~入門編~",
+    "url": "https://qiita.com/kimihiro_n/items/f3ce86472152b2676004",
+    "likes_count": 254,
+    "created_at": "2018-12-11T14:29:08+09:00",
+    "updated_at": "2019-07-22T16:45:39+09:00",
+    "id": "kimihiro_n"
   },
   {
     "title": "Python 環境構築いろいろ - Windows",
