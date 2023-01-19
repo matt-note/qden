@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2908,
+    "likes_count": 2910,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -18,7 +18,7 @@
   {
     "title": "心理的安全性ガイドライン（あるいは権威勾配に関する一考察）",
     "url": "https://qiita.com/hirokidaichi/items/5d8c4294083d85654a04",
-    "likes_count": 1807,
+    "likes_count": 1808,
     "created_at": "2018-12-11T01:15:06+09:00",
     "updated_at": "2020-12-23T12:52:48+09:00",
     "id": "hirokidaichi"
@@ -34,7 +34,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1482,
+    "likes_count": 1484,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -58,7 +58,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1345,
+    "likes_count": 1346,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -82,7 +82,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1125,
+    "likes_count": 1126,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -106,7 +106,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 1041,
+    "likes_count": 1042,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -114,7 +114,7 @@
   {
     "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
     "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
-    "likes_count": 1028,
+    "likes_count": 1029,
     "created_at": "2018-12-25T21:17:23+09:00",
     "updated_at": "2021-07-05T14:33:34+09:00",
     "id": "hirokidaichi"
@@ -130,7 +130,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 993,
+    "likes_count": 994,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2022-07-19T20:17:24+09:00",
     "id": "syantien"
@@ -218,7 +218,7 @@
   {
     "title": "Vuexによる状態管理を含む最高に快適な Vue.js + TypeScript の開発環境を目指す話",
     "url": "https://qiita.com/potato4d/items/c9c0c8e674f20c85948a",
-    "likes_count": 678,
+    "likes_count": 679,
     "created_at": "2018-12-12T23:28:42+09:00",
     "updated_at": "2019-12-05T12:05:20+09:00",
     "id": "potato4d"
@@ -266,7 +266,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 631,
+    "likes_count": 632,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2021-04-14T00:39:07+09:00",
     "id": "elipmoc101"
@@ -400,6 +400,14 @@
     "id": "yasuabe2613"
   },
   {
+    "title": "カオスエンジニアリングと聞いてカオスになった人必見",
+    "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
+    "likes_count": 438,
+    "created_at": "2018-12-21T10:13:58+09:00",
+    "updated_at": "2021-01-04T01:36:10+09:00",
+    "id": "naokiiiii"
+  },
+  {
     "title": "VSCode に Code Spell Checker を導入して typo と戦う",
     "url": "https://qiita.com/diescake/items/98c5a099e85775cd917d",
     "likes_count": 437,
@@ -414,14 +422,6 @@
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
-  },
-  {
-    "title": "カオスエンジニアリングと聞いてカオスになった人必見",
-    "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
-    "likes_count": 437,
-    "created_at": "2018-12-21T10:13:58+09:00",
-    "updated_at": "2021-01-04T01:36:10+09:00",
-    "id": "naokiiiii"
   },
   {
     "title": "GCPとDockerでKaggle用計算環境構築",
@@ -586,7 +586,7 @@
   {
     "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
     "url": "https://qiita.com/jiny2001/items/e2175b52013bf655d617",
-    "likes_count": 353,
+    "likes_count": 354,
     "created_at": "2018-12-26T00:48:06+09:00",
     "updated_at": "2018-12-27T15:55:41+09:00",
     "id": "jiny2001"
@@ -594,7 +594,7 @@
   {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 349,
+    "likes_count": 350,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
@@ -666,7 +666,7 @@
   {
     "title": "scpコマンド",
     "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2018-12-22T21:41:23+09:00",
     "updated_at": "2018-12-22T21:41:23+09:00",
     "id": "chihiro"
