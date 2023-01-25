@@ -66,7 +66,7 @@
   {
     "title": "機械学習をこれから始める人に押さえておいてほしいこと",
     "url": "https://qiita.com/IshitaTakeshi/items/4607d9f729babd273960",
-    "likes_count": 1295,
+    "likes_count": 1294,
     "created_at": "2014-12-06T10:35:31+09:00",
     "updated_at": "2016-04-05T20:14:24+09:00",
     "id": "IshitaTakeshi"
@@ -74,7 +74,7 @@
   {
     "title": "今更だけどPromise入門",
     "url": "https://qiita.com/koki_cheese/items/c559da338a3d307c9d88",
-    "likes_count": 1250,
+    "likes_count": 1251,
     "created_at": "2014-12-05T00:00:05+09:00",
     "updated_at": "2014-12-05T12:10:26+09:00",
     "id": "koki_cheese"
@@ -138,7 +138,7 @@
   {
     "title": "今更聞けないpryの使い方と便利プラグイン集",
     "url": "https://qiita.com/k0kubun/items/b118e9ccaef8707c4d9f",
-    "likes_count": 850,
+    "likes_count": 849,
     "created_at": "2014-12-21T17:57:43+09:00",
     "updated_at": "2016-01-16T21:49:45+09:00",
     "id": "k0kubun"
@@ -290,7 +290,7 @@
   {
     "title": "zshの外部プラグインまとめ",
     "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
-    "likes_count": 593,
+    "likes_count": 592,
     "created_at": "2014-12-25T00:15:28+09:00",
     "updated_at": "2015-03-10T00:02:36+09:00",
     "id": "mollifier"
@@ -368,6 +368,14 @@
     "id": "cubicdaiya"
   },
   {
+    "title": "Githubで特定のpull requestをローカルに持ってくる",
+    "url": "https://qiita.com/tarr1124/items/d807887418671adbc46f",
+    "likes_count": 512,
+    "created_at": "2014-12-15T17:30:18+09:00",
+    "updated_at": "2019-07-12T14:23:50+09:00",
+    "id": "tarr1124"
+  },
+  {
     "title": "Rails開発で有用な便利Gem一覧：2014年版",
     "url": "https://qiita.com/shu_0115/items/b9dd17c01e1e6bd65e71",
     "likes_count": 510,
@@ -376,17 +384,9 @@
     "id": "shu_0115"
   },
   {
-    "title": "Githubで特定のpull requestをローカルに持ってくる",
-    "url": "https://qiita.com/tarr1124/items/d807887418671adbc46f",
-    "likes_count": 510,
-    "created_at": "2014-12-15T17:30:18+09:00",
-    "updated_at": "2019-07-12T14:23:50+09:00",
-    "id": "tarr1124"
-  },
-  {
     "title": "PythonでさくっとWebスクレイピングする (JavaScript読み込みにも対応しつつ)",
     "url": "https://qiita.com/beatinaniwa/items/72b777e23ef2390e13f8",
-    "likes_count": 510,
+    "likes_count": 509,
     "created_at": "2014-12-25T01:23:03+09:00",
     "updated_at": "2014-12-25T01:27:54+09:00",
     "id": "beatinaniwa"
@@ -418,7 +418,7 @@
   {
     "title": "むずかしくないWPF",
     "url": "https://qiita.com/karno/items/f30f661b40d9adec6a6d",
-    "likes_count": 459,
+    "likes_count": 460,
     "created_at": "2014-12-12T20:31:59+09:00",
     "updated_at": "2016-02-02T21:47:33+09:00",
     "id": "karno"
@@ -520,14 +520,6 @@
     "id": "baban"
   },
   {
-    "title": "SVMを使いこなす！チェックポイント8つ",
-    "url": "https://qiita.com/pika_shi/items/5e59bcf69e85fdd9edb2",
-    "likes_count": 398,
-    "created_at": "2014-12-16T08:22:35+09:00",
-    "updated_at": "2014-12-16T08:22:35+09:00",
-    "id": "pika_shi"
-  },
-  {
     "title": "5分で作るPROXYサーバー",
     "url": "https://qiita.com/pcnikki/items/404329f9ad9cb6e235d4",
     "likes_count": 397,
@@ -542,6 +534,14 @@
     "created_at": "2014-12-10T11:37:15+09:00",
     "updated_at": "2015-07-03T17:53:15+09:00",
     "id": "izumin5210"
+  },
+  {
+    "title": "SVMを使いこなす！チェックポイント8つ",
+    "url": "https://qiita.com/pika_shi/items/5e59bcf69e85fdd9edb2",
+    "likes_count": 397,
+    "created_at": "2014-12-16T08:22:35+09:00",
+    "updated_at": "2014-12-16T08:22:35+09:00",
+    "id": "pika_shi"
   },
   {
     "title": "ErlangとGolangを比較してみる",
@@ -594,7 +594,7 @@
   {
     "title": "RaspberryPiで人感センサーを作る",
     "url": "https://qiita.com/inaBowBow/items/dca01622d086f113db00",
-    "likes_count": 346,
+    "likes_count": 345,
     "created_at": "2014-12-07T16:08:49+09:00",
     "updated_at": "2019-03-16T02:24:24+09:00",
     "id": "inaBowBow"
@@ -658,7 +658,7 @@
   {
     "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
     "url": "https://qiita.com/mkasahara/items/c029154b5436913b20e0",
-    "likes_count": 305,
+    "likes_count": 304,
     "created_at": "2014-12-19T03:49:35+09:00",
     "updated_at": "2019-06-18T16:58:55+09:00",
     "id": "mkasahara"

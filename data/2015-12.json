@@ -42,7 +42,7 @@
   {
     "title": "気付いたら.gitignoreはgiboで自動生成する時代になっていた",
     "url": "https://qiita.com/tmknom/items/c4bcebe17d25381fa45d",
-    "likes_count": 1902,
+    "likes_count": 1901,
     "created_at": "2015-12-31T13:47:48+09:00",
     "updated_at": "2017-06-26T15:44:25+09:00",
     "id": "tmknom"
@@ -58,7 +58,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1710,
+    "likes_count": 1711,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -178,7 +178,7 @@
   {
     "title": "最強のPython統合開発環境PyCharm",
     "url": "https://qiita.com/yamionp/items/f88d50da8d6b548fc44c",
-    "likes_count": 899,
+    "likes_count": 898,
     "created_at": "2015-12-15T23:28:10+09:00",
     "updated_at": "2015-12-18T19:05:48+09:00",
     "id": "yamionp"
@@ -402,7 +402,7 @@
   {
     "title": "ライブラリーを使わずにPythonでニューラルネットワークを構築してみる",
     "url": "https://qiita.com/kiminaka/items/9ae195739093277490fe",
-    "likes_count": 486,
+    "likes_count": 485,
     "created_at": "2015-12-31T18:07:58+09:00",
     "updated_at": "2016-07-31T01:50:14+09:00",
     "id": "kiminaka"
@@ -410,7 +410,7 @@
   {
     "title": "ghq, peco, hubで快適Gitライフを手に入れよう！",
     "url": "https://qiita.com/itkrt2y/items/0671d1f48e66f21241e2",
-    "likes_count": 471,
+    "likes_count": 470,
     "created_at": "2015-12-23T20:57:53+09:00",
     "updated_at": "2015-12-23T22:58:31+09:00",
     "id": "itkrt2y"
@@ -696,20 +696,20 @@
     "id": "takeharu"
   },
   {
-    "title": "Rustで書いた自作OSをRaspberry Pi Zeroで動かす",
-    "url": "https://qiita.com/mopp/items/826f192095961c811690",
-    "likes_count": 294,
-    "created_at": "2015-12-25T22:51:24+09:00",
-    "updated_at": "2015-12-27T02:51:52+09:00",
-    "id": "mopp"
-  },
-  {
     "title": "【Rails】Amazon APIで書籍検索アプリ作成",
     "url": "https://qiita.com/tatsuki-m/items/043f14e7d4504277c947",
     "likes_count": 293,
     "created_at": "2015-12-10T23:14:50+09:00",
     "updated_at": "2015-12-11T01:05:48+09:00",
     "id": "tatsuki-m"
+  },
+  {
+    "title": "Rustで書いた自作OSをRaspberry Pi Zeroで動かす",
+    "url": "https://qiita.com/mopp/items/826f192095961c811690",
+    "likes_count": 293,
+    "created_at": "2015-12-25T22:51:24+09:00",
+    "updated_at": "2015-12-27T02:51:52+09:00",
+    "id": "mopp"
   },
   {
     "title": "Kotlinの公式リファレンスを日本語化してみた[前編]",
