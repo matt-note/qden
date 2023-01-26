@@ -2,7 +2,7 @@
   {
     "title": "典型的な DP (動的計画法) のパターンを整理 Part 1 ～ ナップサック DP 編 ～",
     "url": "https://qiita.com/drken/items/a5e6fe22863b7992efdb",
-    "likes_count": 2136,
+    "likes_count": 2137,
     "created_at": "2017-09-01T18:12:03+09:00",
     "updated_at": "2021-09-03T22:18:51+09:00",
     "id": "drken"
@@ -26,7 +26,7 @@
   {
     "title": "真偽値を返す関数のネーミング",
     "url": "https://qiita.com/yskszk/items/5a7f99c974773f03a82a",
-    "likes_count": 1510,
+    "likes_count": 1512,
     "created_at": "2017-09-06T22:42:55+09:00",
     "updated_at": "2017-09-19T22:42:23+09:00",
     "id": "yskszk"
@@ -34,7 +34,7 @@
   {
     "title": "いい加減覚えよう。 `command > /dev/null 2>&1`の意味",
     "url": "https://qiita.com/ritukiii/items/b3d91e97b71ecd41d4ea",
-    "likes_count": 1103,
+    "likes_count": 1104,
     "created_at": "2017-09-06T22:55:16+09:00",
     "updated_at": "2018-11-09T10:28:16+09:00",
     "id": "ritukiii"
@@ -288,20 +288,20 @@
     "id": "fagai"
   },
   {
+    "title": "XMLで始めるConstraintLayout",
+    "url": "https://qiita.com/nakker1218/items/0faa8c1ab504cc4cedea",
+    "likes_count": 362,
+    "created_at": "2017-09-08T21:57:26+09:00",
+    "updated_at": "2021-02-15T13:45:11+09:00",
+    "id": "nakker1218"
+  },
+  {
     "title": "メソッドとクラスメソッドとインスタンスメソッドが曖昧だった",
     "url": "https://qiita.com/moshi1121/items/c74d350bab32113d4f3d",
     "likes_count": 362,
     "created_at": "2017-09-25T00:58:12+09:00",
     "updated_at": "2020-04-07T00:09:56+09:00",
     "id": "moshi1121"
-  },
-  {
-    "title": "XMLで始めるConstraintLayout",
-    "url": "https://qiita.com/nakker1218/items/0faa8c1ab504cc4cedea",
-    "likes_count": 361,
-    "created_at": "2017-09-08T21:57:26+09:00",
-    "updated_at": "2021-02-15T13:45:11+09:00",
-    "id": "nakker1218"
   },
   {
     "title": "【iOSDC2017】MVC→MVP→MVVM→Fluxの実装の違いを比較してみる",
