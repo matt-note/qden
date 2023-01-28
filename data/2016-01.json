@@ -18,7 +18,7 @@
   {
     "title": "画像処理の数式を見て石になった時のための、金の針",
     "url": "https://qiita.com/icoxfog417/items/adbbf445d357c924b8fc",
-    "likes_count": 3414,
+    "likes_count": 3415,
     "created_at": "2016-01-31T15:10:23+09:00",
     "updated_at": "2020-03-14T12:23:58+09:00",
     "id": "icoxfog417"
@@ -210,7 +210,7 @@
   {
     "title": "テストがないJS環境にモダンなテスト環境を導入していく",
     "url": "https://qiita.com/mizchi/items/bdf84f0b1c11c2870290",
-    "likes_count": 770,
+    "likes_count": 769,
     "created_at": "2016-01-05T17:24:42+09:00",
     "updated_at": "2016-01-05T17:24:42+09:00",
     "id": "mizchi"
@@ -290,7 +290,7 @@
   {
     "title": "【チュートリアル】機械学習を使って30分で固有表現抽出器を作る",
     "url": "https://qiita.com/Hironsan/items/326b66711eb4196aa9d4",
-    "likes_count": 578,
+    "likes_count": 579,
     "created_at": "2016-01-29T10:52:07+09:00",
     "updated_at": "2017-05-03T11:28:35+09:00",
     "id": "Hironsan"
@@ -482,7 +482,7 @@
   {
     "title": "Nginxセキュリティ設定",
     "url": "https://qiita.com/hideji2/items/1421f9bff2a97a5e5794",
-    "likes_count": 374,
+    "likes_count": 373,
     "created_at": "2016-01-28T00:27:00+09:00",
     "updated_at": "2016-02-03T15:29:48+09:00",
     "id": "hideji2"
@@ -514,18 +514,10 @@
   {
     "title": "Rollupがちょうどいい感じ",
     "url": "https://qiita.com/cognitom/items/e3ac0da00241f427dad6",
-    "likes_count": 362,
+    "likes_count": 361,
     "created_at": "2016-01-21T23:49:33+09:00",
     "updated_at": "2016-12-03T13:15:45+09:00",
     "id": "cognitom"
-  },
-  {
-    "title": "fluentdを導入時にまず知っておいたほうがよさそうなこと（インストール、監視、HA構成、チューニングなど）",
-    "url": "https://qiita.com/uzresk/items/3bfeeac82dfcb2a4300e",
-    "likes_count": 357,
-    "created_at": "2016-01-27T11:12:11+09:00",
-    "updated_at": "2016-01-28T08:39:51+09:00",
-    "id": "uzresk"
   },
   {
     "title": "Parse.com 終了に伴う mbaas サービスの移行方法（終了直前の大幅更新！）",
@@ -542,6 +534,14 @@
     "created_at": "2016-01-25T11:46:58+09:00",
     "updated_at": "2016-01-25T11:46:58+09:00",
     "id": "awakia"
+  },
+  {
+    "title": "fluentdを導入時にまず知っておいたほうがよさそうなこと（インストール、監視、HA構成、チューニングなど）",
+    "url": "https://qiita.com/uzresk/items/3bfeeac82dfcb2a4300e",
+    "likes_count": 356,
+    "created_at": "2016-01-27T11:12:11+09:00",
+    "updated_at": "2016-01-28T08:39:51+09:00",
+    "id": "uzresk"
   },
   {
     "title": "display:table-cell;を安易に使うべきでない理由いろいろ",

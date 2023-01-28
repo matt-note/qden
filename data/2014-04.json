@@ -18,18 +18,10 @@
   {
     "title": "本当に正しい .bashrc と .bash_profile の使ひ分け",
     "url": "https://qiita.com/magicant/items/d3bb7ea1192e63fba850",
-    "likes_count": 1960,
+    "likes_count": 1959,
     "created_at": "2014-04-16T10:49:22+09:00",
     "updated_at": "2019-06-07T13:58:46+09:00",
     "id": "magicant"
-  },
-  {
-    "title": "WebのUIテスト自動化 - Seleniumを使ってみる",
-    "url": "https://qiita.com/edo_m18/items/ba7d8a95818e9c0552d9",
-    "likes_count": 1602,
-    "created_at": "2014-04-20T18:22:18+09:00",
-    "updated_at": "2017-08-23T17:39:01+09:00",
-    "id": "edo_m18"
   },
   {
     "title": "Pythonのデコレータを理解するための12Step",
@@ -40,9 +32,17 @@
     "id": "_rdtr"
   },
   {
+    "title": "WebのUIテスト自動化 - Seleniumを使ってみる",
+    "url": "https://qiita.com/edo_m18/items/ba7d8a95818e9c0552d9",
+    "likes_count": 1601,
+    "created_at": "2014-04-20T18:22:18+09:00",
+    "updated_at": "2017-08-23T17:39:01+09:00",
+    "id": "edo_m18"
+  },
+  {
     "title": "Nginx導入時やること",
     "url": "https://qiita.com/kidach1/items/985efebba639713c562e",
-    "likes_count": 1505,
+    "likes_count": 1504,
     "created_at": "2014-04-23T23:23:25+09:00",
     "updated_at": "2017-01-29T09:59:10+09:00",
     "id": "kidach1"
@@ -66,7 +66,7 @@
   {
     "title": "JavaScriptのスタイルガイドまとめ(おすすめ4選)",
     "url": "https://qiita.com/takeharu/items/dee0972e5f39bfd4d7c8",
-    "likes_count": 914,
+    "likes_count": 913,
     "created_at": "2014-04-07T07:13:13+09:00",
     "updated_at": "2017-11-29T22:26:52+09:00",
     "id": "takeharu"
@@ -98,7 +98,7 @@
   {
     "title": "npmコマンドの使い方",
     "url": "https://qiita.com/yoh-nak/items/8446bf12094c729d00fe",
-    "likes_count": 794,
+    "likes_count": 793,
     "created_at": "2014-04-09T17:25:11+09:00",
     "updated_at": "2014-04-19T06:01:07+09:00",
     "id": "yoh-nak"
@@ -146,7 +146,7 @@
   {
     "title": "IPythonの使い方",
     "url": "https://qiita.com/5t111111/items/7852e13ace6de288042f",
-    "likes_count": 624,
+    "likes_count": 623,
     "created_at": "2014-04-15T22:44:37+09:00",
     "updated_at": "2014-04-15T22:48:25+09:00",
     "id": "5t111111"
@@ -178,7 +178,7 @@
   {
     "title": "scikit-learnとgensimでニュース記事を分類する",
     "url": "https://qiita.com/yasunori/items/31a23eb259482e4824e2",
-    "likes_count": 539,
+    "likes_count": 538,
     "created_at": "2014-04-01T13:10:59+09:00",
     "updated_at": "2014-04-01T13:10:59+09:00",
     "id": "yasunori"
@@ -218,7 +218,7 @@
   {
     "title": "Rack解説 - Rackの構造とRack DSL",
     "url": "https://qiita.com/higuma/items/838f4f58bc4a0645950a",
-    "likes_count": 489,
+    "likes_count": 488,
     "created_at": "2014-04-13T21:00:59+09:00",
     "updated_at": "2014-07-26T17:03:32+09:00",
     "id": "higuma"
@@ -290,7 +290,7 @@
   {
     "title": "クラス・モジュールの概念 Ruby",
     "url": "https://qiita.com/fukumone/items/2dd4d2d1ce6ed05928de",
-    "likes_count": 417,
+    "likes_count": 416,
     "created_at": "2014-04-07T21:15:42+09:00",
     "updated_at": "2014-04-17T15:23:27+09:00",
     "id": "fukumone"
@@ -322,7 +322,7 @@
   {
     "title": "Q. StoryboardとXIBはどう使い分ければいいんだろうか？",
     "url": "https://qiita.com/gfx/items/dfd850749a1493e68513",
-    "likes_count": 383,
+    "likes_count": 382,
     "created_at": "2014-04-13T13:11:10+09:00",
     "updated_at": "2014-04-13T13:11:10+09:00",
     "id": "gfx"
@@ -346,7 +346,7 @@
   {
     "title": "Vimをメモ帳程度に使うために覚えておくべきコマンド",
     "url": "https://qiita.com/honeniq/items/201156650310c4968c3a",
-    "likes_count": 362,
+    "likes_count": 363,
     "created_at": "2014-04-29T09:12:20+09:00",
     "updated_at": "2014-04-29T09:12:20+09:00",
     "id": "honeniq"
@@ -354,7 +354,7 @@
   {
     "title": "AWS Elastic Beanstalkで環境構築自動化",
     "url": "https://qiita.com/supertaihei02/items/b2373890b7e739ded318",
-    "likes_count": 357,
+    "likes_count": 356,
     "created_at": "2014-04-25T13:32:11+09:00",
     "updated_at": "2014-04-25T13:32:11+09:00",
     "id": "supertaihei02"
@@ -378,7 +378,7 @@
   {
     "title": "Makefile ことはじめ",
     "url": "https://qiita.com/kasei-san/items/ad25df63260e86c5cc71",
-    "likes_count": 337,
+    "likes_count": 336,
     "created_at": "2014-04-15T09:52:08+09:00",
     "updated_at": "2015-01-22T12:37:28+09:00",
     "id": "kasei-san"
@@ -402,7 +402,7 @@
   {
     "title": "Express 4 をはじめよう",
     "url": "https://qiita.com/hoshi-takanori/items/2128a6cf1dbb533379a2",
-    "likes_count": 319,
+    "likes_count": 318,
     "created_at": "2014-04-15T16:57:51+09:00",
     "updated_at": "2014-07-07T00:17:36+09:00",
     "id": "hoshi-takanori"
@@ -430,14 +430,6 @@
     "created_at": "2014-04-23T23:47:24+09:00",
     "updated_at": "2014-04-24T00:22:50+09:00",
     "id": "bols_blue"
-  },
-  {
-    "title": "特異クラス・特異メソッド・メソッドの種類 Ruby",
-    "url": "https://qiita.com/fukumone/items/95117f418dec590ebbc8",
-    "likes_count": 266,
-    "created_at": "2014-04-12T12:37:37+09:00",
-    "updated_at": "2014-04-22T21:05:57+09:00",
-    "id": "fukumone"
   },
   {
     "title": "たった6個のsedを通せば、Apacheログは驚くほど扱いやすくなる",

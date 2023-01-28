@@ -10,7 +10,7 @@
   {
     "title": "Javaを使うなら知っておきたい技術、フレームワーク、ライブラリ、ツールまとめ",
     "url": "https://qiita.com/disc99/items/727b51dbe737602a5c91",
-    "likes_count": 2488,
+    "likes_count": 2487,
     "created_at": "2014-11-10T07:20:38+09:00",
     "updated_at": "2019-03-15T18:32:34+09:00",
     "id": "disc99"
@@ -34,7 +34,7 @@
   {
     "title": "2015年に備えて知っておきたいリアクティブアーキテクチャの潮流",
     "url": "https://qiita.com/hirokidaichi/items/9c1d862099c2e12f5b0f",
-    "likes_count": 1537,
+    "likes_count": 1536,
     "created_at": "2014-11-28T17:06:45+09:00",
     "updated_at": "2019-03-17T00:43:12+09:00",
     "id": "hirokidaichi"
@@ -50,7 +50,7 @@
   {
     "title": "はじめるDeep learning",
     "url": "https://qiita.com/icoxfog417/items/65e800c3a2094457c3a0",
-    "likes_count": 1305,
+    "likes_count": 1304,
     "created_at": "2014-11-14T17:28:18+09:00",
     "updated_at": "2016-11-06T16:36:40+09:00",
     "id": "icoxfog417"
@@ -90,7 +90,7 @@
   {
     "title": "JavaScript・jQueryの改修・高速化のためのメモ",
     "url": "https://qiita.com/redamoon/items/1c38ee93834588e3c4ff",
-    "likes_count": 868,
+    "likes_count": 867,
     "created_at": "2014-11-20T18:37:43+09:00",
     "updated_at": "2017-07-04T23:56:40+09:00",
     "id": "redamoon"
@@ -106,7 +106,7 @@
   {
     "title": "React.jsとは",
     "url": "https://qiita.com/koba04/items/4d13caf5ab4507974bf0",
-    "likes_count": 774,
+    "likes_count": 773,
     "created_at": "2014-11-27T23:45:09+09:00",
     "updated_at": "2014-12-01T15:45:07+09:00",
     "id": "koba04"
@@ -138,7 +138,7 @@
   {
     "title": "bashのヒアドキュメントを活用する",
     "url": "https://qiita.com/take4s5i/items/e207cee4fb04385a9952",
-    "likes_count": 638,
+    "likes_count": 637,
     "created_at": "2014-11-19T15:00:09+09:00",
     "updated_at": "2019-06-04T14:25:29+09:00",
     "id": "take4s5i"
@@ -146,7 +146,7 @@
   {
     "title": "（あなたの周りでも見かけるかもしれない）インスタンス変数の間違った使い方",
     "url": "https://qiita.com/jnchito/items/49fe82364bca2f4f37f5",
-    "likes_count": 632,
+    "likes_count": 631,
     "created_at": "2014-11-15T07:47:53+09:00",
     "updated_at": "2021-08-28T11:45:35+09:00",
     "id": "jnchito"
@@ -402,7 +402,7 @@
   {
     "title": "0行から始めるクライアントサイドJavaScript入門",
     "url": "https://qiita.com/nowri/items/928f2271d50bfa74cb70",
-    "likes_count": 326,
+    "likes_count": 325,
     "created_at": "2014-11-14T21:22:35+09:00",
     "updated_at": "2014-12-04T11:36:31+09:00",
     "id": "nowri"
@@ -426,7 +426,7 @@
   {
     "title": "chkconfigまとめ",
     "url": "https://qiita.com/shell/items/30031862d91cedf9ceef",
-    "likes_count": 311,
+    "likes_count": 310,
     "created_at": "2014-11-13T01:39:39+09:00",
     "updated_at": "2014-11-13T01:41:13+09:00",
     "id": "shell"
@@ -458,18 +458,10 @@
   {
     "title": "Herokuのメリット、デメリット",
     "url": "https://qiita.com/shu_0115/items/0106198f7a0be2f2a509",
-    "likes_count": 296,
+    "likes_count": 295,
     "created_at": "2014-11-26T11:29:49+09:00",
     "updated_at": "2017-09-12T15:09:15+09:00",
     "id": "shu_0115"
-  },
-  {
-    "title": "storyboardを使わずSwiftでToDoアプリを作ったら、とても勉強になった。",
-    "url": "https://qiita.com/mochizukikotaro/items/a934a0a02ec3c632a7bc",
-    "likes_count": 294,
-    "created_at": "2014-11-24T20:02:33+09:00",
-    "updated_at": "2014-11-24T20:10:41+09:00",
-    "id": "mochizukikotaro"
   },
   {
     "title": "Ansible マジック変数の一覧と内容",
@@ -478,6 +470,14 @@
     "created_at": "2014-11-06T00:44:32+09:00",
     "updated_at": "2014-11-06T08:47:27+09:00",
     "id": "h2suzuki"
+  },
+  {
+    "title": "storyboardを使わずSwiftでToDoアプリを作ったら、とても勉強になった。",
+    "url": "https://qiita.com/mochizukikotaro/items/a934a0a02ec3c632a7bc",
+    "likes_count": 293,
+    "created_at": "2014-11-24T20:02:33+09:00",
+    "updated_at": "2014-11-24T20:10:41+09:00",
+    "id": "mochizukikotaro"
   },
   {
     "title": "Google API OAuth2.0のアクセストークン&リフレッシュトークン取得手順メモ",
@@ -520,20 +520,20 @@
     "id": "nurburg"
   },
   {
-    "title": "最近のJS&CSSアニメーションライブラリまとめ",
-    "url": "https://qiita.com/tejitak/items/de7fbed9bf22b9037526",
-    "likes_count": 266,
-    "created_at": "2014-11-24T01:00:31+09:00",
-    "updated_at": "2014-11-24T01:00:31+09:00",
-    "id": "tejitak"
-  },
-  {
     "title": "AWS(EC2)でSoftEtherを使ってL2TP/IPsecなVPNを構築する (Mac)",
     "url": "https://qiita.com/showwin/items/92861057a8b62611444d",
     "likes_count": 265,
     "created_at": "2014-11-10T23:09:21+09:00",
     "updated_at": "2022-05-27T13:47:45+09:00",
     "id": "showwin"
+  },
+  {
+    "title": "最近のJS&CSSアニメーションライブラリまとめ",
+    "url": "https://qiita.com/tejitak/items/de7fbed9bf22b9037526",
+    "likes_count": 265,
+    "created_at": "2014-11-24T01:00:31+09:00",
+    "updated_at": "2014-11-24T01:00:31+09:00",
+    "id": "tejitak"
   },
   {
     "title": "Python で Twitter から情報収集 (Twitter API 編)",

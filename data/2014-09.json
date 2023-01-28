@@ -50,7 +50,7 @@
   {
     "title": "[Git]コミットの取り消し、打ち消し、上書き",
     "url": "https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed",
-    "likes_count": 1547,
+    "likes_count": 1548,
     "created_at": "2014-09-12T18:43:31+09:00",
     "updated_at": "2022-09-13T23:19:08+09:00",
     "id": "shuntaro_tamura"
@@ -66,7 +66,7 @@
   {
     "title": "オブジェクト指向の法則集",
     "url": "https://qiita.com/kenjihiranabe/items/9eddc70e279861992274",
-    "likes_count": 1083,
+    "likes_count": 1084,
     "created_at": "2014-09-10T19:14:55+09:00",
     "updated_at": "2017-05-23T15:44:33+09:00",
     "id": "kenjihiranabe"
@@ -90,7 +90,7 @@
   {
     "title": "Pythonのイテレータとジェネレータ",
     "url": "https://qiita.com/tomotaka_ito/items/35f3eb108f587022fa09",
-    "likes_count": 961,
+    "likes_count": 960,
     "created_at": "2014-09-17T08:44:04+09:00",
     "updated_at": "2020-10-26T09:28:48+09:00",
     "id": "tomotaka_ito"
@@ -130,7 +130,7 @@
   {
     "title": "Cコンパイラをスクラッチから開発してみた（日記）",
     "url": "https://qiita.com/ruiu/items/4d471216b71ab48d8b74",
-    "likes_count": 817,
+    "likes_count": 816,
     "created_at": "2014-09-07T05:42:21+09:00",
     "updated_at": "2015-12-08T23:50:52+09:00",
     "id": "ruiu"
@@ -146,7 +146,7 @@
   {
     "title": "Java 8 \"Optional\" ～ これからのnullとの付き合い方 ～",
     "url": "https://qiita.com/shindooo/items/815d651a72f568112910",
-    "likes_count": 729,
+    "likes_count": 728,
     "created_at": "2014-09-14T00:00:04+09:00",
     "updated_at": "2018-05-05T07:56:03+09:00",
     "id": "shindooo"
@@ -250,7 +250,7 @@
   {
     "title": "[C++] STLの型の使い分け",
     "url": "https://qiita.com/h_hiro_/items/a83a8fd2391d4a3f0e1c",
-    "likes_count": 527,
+    "likes_count": 526,
     "created_at": "2014-09-17T00:35:46+09:00",
     "updated_at": "2021-03-02T13:59:45+09:00",
     "id": "h_hiro_"
@@ -272,20 +272,20 @@
     "id": "koduki"
   },
   {
-    "title": "Backbone.js 使い方メモ",
-    "url": "https://qiita.com/opengl-8080/items/36e9b380c64ba7766511",
-    "likes_count": 486,
-    "created_at": "2014-09-11T00:45:39+09:00",
-    "updated_at": "2015-12-12T09:31:50+09:00",
-    "id": "opengl-8080"
-  },
-  {
     "title": "初めてコードレビューされる人のためのpull requestとcommitの作り方",
     "url": "https://qiita.com/reikubonaga/items/e3b3b19c14d4ef4efb95",
     "likes_count": 485,
     "created_at": "2014-09-04T11:29:14+09:00",
     "updated_at": "2016-11-09T10:42:05+09:00",
     "id": "reikubonaga"
+  },
+  {
+    "title": "Backbone.js 使い方メモ",
+    "url": "https://qiita.com/opengl-8080/items/36e9b380c64ba7766511",
+    "likes_count": 485,
+    "created_at": "2014-09-11T00:45:39+09:00",
+    "updated_at": "2015-12-12T09:31:50+09:00",
+    "id": "opengl-8080"
   },
   {
     "title": "GitHub 製エディタ Atom入門",
@@ -338,7 +338,7 @@
   {
     "title": "WEBページに設定しておくと良いHTTPヘッダとかメタタグとか",
     "url": "https://qiita.com/nightyknite/items/1b8070d1e31083ee79ee",
-    "likes_count": 449,
+    "likes_count": 448,
     "created_at": "2014-09-22T16:39:38+09:00",
     "updated_at": "2020-05-24T23:01:34+09:00",
     "id": "nightyknite"
@@ -410,7 +410,7 @@
   {
     "title": "nc コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/d470829ab2e30ee6203f",
-    "likes_count": 382,
+    "likes_count": 381,
     "created_at": "2014-09-23T02:52:08+09:00",
     "updated_at": "2016-09-09T00:56:19+09:00",
     "id": "yasuhiroki"
@@ -458,7 +458,7 @@
   {
     "title": "AltJSの選び方フローチャート",
     "url": "https://qiita.com/mizchi/items/c5f101cfab8fd456ca20",
-    "likes_count": 329,
+    "likes_count": 328,
     "created_at": "2014-09-11T13:42:44+09:00",
     "updated_at": "2014-09-11T14:50:12+09:00",
     "id": "mizchi"
@@ -490,7 +490,7 @@
   {
     "title": "Doxygen 書き方メモ (C, C++)",
     "url": "https://qiita.com/inabe49/items/23e615649e8539d857a8",
-    "likes_count": 306,
+    "likes_count": 305,
     "created_at": "2014-09-04T14:12:47+09:00",
     "updated_at": "2015-08-27T15:07:06+09:00",
     "id": "inabe49"
@@ -530,18 +530,10 @@
   {
     "title": "iOSで独自Viewを作る時の5つのTips",
     "url": "https://qiita.com/kikuchy/items/f1d6731d804b63cf7a29",
-    "likes_count": 286,
+    "likes_count": 285,
     "created_at": "2014-09-13T17:06:49+09:00",
     "updated_at": "2014-09-13T17:06:49+09:00",
     "id": "kikuchy"
-  },
-  {
-    "title": "「iPhoneアプリの数値計測したいんだけど」と言われた君へ",
-    "url": "https://qiita.com/masaki925/items/2a6bd81747d7660c0bee",
-    "likes_count": 284,
-    "created_at": "2014-09-23T12:49:41+09:00",
-    "updated_at": "2014-09-30T13:46:17+09:00",
-    "id": "masaki925"
   },
   {
     "title": "deviseをAPIで利用しやすくする -Token Authenticationの追加-",
@@ -550,6 +542,14 @@
     "created_at": "2014-09-14T19:43:02+09:00",
     "updated_at": "2014-09-15T12:56:09+09:00",
     "id": "k-shogo"
+  },
+  {
+    "title": "「iPhoneアプリの数値計測したいんだけど」と言われた君へ",
+    "url": "https://qiita.com/masaki925/items/2a6bd81747d7660c0bee",
+    "likes_count": 283,
+    "created_at": "2014-09-23T12:49:41+09:00",
+    "updated_at": "2014-09-30T13:46:17+09:00",
+    "id": "masaki925"
   },
   {
     "title": "AFNetworkのSwift版 Alamofireを試してみた",

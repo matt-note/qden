@@ -26,7 +26,7 @@
   {
     "title": "【入門】Vimで高速で移動~プラグインなしでの移動まとめ~",
     "url": "https://qiita.com/takeharu/items/9d1c3577f8868f7b07b5",
-    "likes_count": 1904,
+    "likes_count": 1905,
     "created_at": "2014-03-19T19:46:27+09:00",
     "updated_at": "2015-12-07T14:13:00+09:00",
     "id": "takeharu"
@@ -42,7 +42,7 @@
   {
     "title": "Vim初心者に捧ぐ実践的入門",
     "url": "https://qiita.com/okamos/items/c97970ab34ff55ff3167",
-    "likes_count": 1490,
+    "likes_count": 1489,
     "created_at": "2014-03-26T11:35:32+09:00",
     "updated_at": "2019-08-14T17:14:14+09:00",
     "id": "okamos"
@@ -58,7 +58,7 @@
   {
     "title": "CoreOS 入門",
     "url": "https://qiita.com/mopemope/items/fa9424b094aae3eac580",
-    "likes_count": 903,
+    "likes_count": 902,
     "created_at": "2014-03-31T14:06:57+09:00",
     "updated_at": "2014-04-02T11:37:56+09:00",
     "id": "mopemope"
@@ -106,7 +106,7 @@
   {
     "title": "/tmpと/var/tmpの仁義無き戦い",
     "url": "https://qiita.com/kuni-nakaji/items/f29be14be578b5a19d4b",
-    "likes_count": 763,
+    "likes_count": 762,
     "created_at": "2014-03-30T20:37:48+09:00",
     "updated_at": "2014-04-04T00:41:01+09:00",
     "id": "kuni-nakaji"
@@ -170,7 +170,7 @@
   {
     "title": "まだまだあった！iOSの開発を劇的に改善する最新のwebサービス、開発ツール集１",
     "url": "https://qiita.com/appwatcher/items/f0024fe2ac34da345f04",
-    "likes_count": 571,
+    "likes_count": 570,
     "created_at": "2014-03-20T15:16:02+09:00",
     "updated_at": "2016-02-04T15:23:27+09:00",
     "id": "appwatcher"
@@ -218,7 +218,7 @@
   {
     "title": "Google Apps Scriptの開発手法まとめ",
     "url": "https://qiita.com/soundTricker/items/4d04c97c499b22886dfd",
-    "likes_count": 542,
+    "likes_count": 541,
     "created_at": "2014-03-11T17:08:14+09:00",
     "updated_at": "2014-03-12T09:54:00+09:00",
     "id": "soundTricker"
@@ -232,19 +232,19 @@
     "id": "irxground"
   },
   {
-    "title": "俺がGitHubでスターを付けたリポジトリ一覧",
-    "url": "https://qiita.com/joker1007/items/be5dc3f3b1e93132a4f7",
-    "likes_count": 509,
-    "created_at": "2014-03-11T00:48:24+09:00",
-    "updated_at": "2014-03-11T10:35:38+09:00",
-    "id": "joker1007"
-  },
-  {
     "title": "Railsと周辺のTimeZone設定を整理する (active_record.default_timezoneの罠)",
     "url": "https://qiita.com/joker1007/items/2c277cca5bd50e4cce5e",
     "likes_count": 508,
     "created_at": "2014-03-05T13:56:38+09:00",
     "updated_at": "2014-05-16T14:12:23+09:00",
+    "id": "joker1007"
+  },
+  {
+    "title": "俺がGitHubでスターを付けたリポジトリ一覧",
+    "url": "https://qiita.com/joker1007/items/be5dc3f3b1e93132a4f7",
+    "likes_count": 508,
+    "created_at": "2014-03-11T00:48:24+09:00",
+    "updated_at": "2014-03-11T10:35:38+09:00",
     "id": "joker1007"
   },
   {
@@ -266,7 +266,7 @@
   {
     "title": "[初心者向け] Railsで関連するデータ(親子関係)を保存する方法あれこれ",
     "url": "https://qiita.com/jnchito/items/7f41ff3df900909952db",
-    "likes_count": 492,
+    "likes_count": 493,
     "created_at": "2014-03-21T05:58:34+09:00",
     "updated_at": "2014-03-21T07:08:27+09:00",
     "id": "jnchito"
@@ -338,7 +338,7 @@
   {
     "title": "「最速」フルスタックWebフレームワーク「revel」の紹介",
     "url": "https://qiita.com/2KB/items/7a743033d8d1a87f1b72",
-    "likes_count": 402,
+    "likes_count": 401,
     "created_at": "2014-03-13T03:41:31+09:00",
     "updated_at": "2014-03-28T08:54:10+09:00",
     "id": "2KB"
@@ -432,14 +432,6 @@
     "id": "yubais"
   },
   {
-    "title": "Varnishに関していろいろ調べて試してみた",
-    "url": "https://qiita.com/TsuyoshiUshio@github/items/e3902d33e3867368e695",
-    "likes_count": 315,
-    "created_at": "2014-03-11T16:08:55+09:00",
-    "updated_at": "2014-03-11T16:08:55+09:00",
-    "id": "TsuyoshiUshio@github"
-  },
-  {
     "title": "GitHub を使いやすくする Chrome Extension 5 選",
     "url": "https://qiita.com/kbaba1001/items/b26157fbee95a0433495",
     "likes_count": 315,
@@ -454,6 +446,14 @@
     "created_at": "2014-03-30T22:09:31+09:00",
     "updated_at": "2016-04-08T23:45:02+09:00",
     "id": "muran001"
+  },
+  {
+    "title": "Varnishに関していろいろ調べて試してみた",
+    "url": "https://qiita.com/TsuyoshiUshio@github/items/e3902d33e3867368e695",
+    "likes_count": 314,
+    "created_at": "2014-03-11T16:08:55+09:00",
+    "updated_at": "2014-03-11T16:08:55+09:00",
+    "id": "TsuyoshiUshio@github"
   },
   {
     "title": "[iOS] プロビジョニングファイルと証明書の意味",
@@ -538,7 +538,7 @@
   {
     "title": "pandas + matplotlib による多彩なデータプロッティング",
     "url": "https://qiita.com/ynakayama/items/68eff3cb146181329b48",
-    "likes_count": 250,
+    "likes_count": 249,
     "created_at": "2014-03-10T17:48:32+09:00",
     "updated_at": "2014-03-11T09:17:11+09:00",
     "id": "ynakayama"
