@@ -2,10 +2,18 @@
   {
     "title": "糞コードは直すな。",
     "url": "https://qiita.com/kotauchisunsun/items/d03c1e6936ffb250e4a1",
-    "likes_count": 2204,
+    "likes_count": 2203,
     "created_at": "2020-08-01T00:03:33+09:00",
     "updated_at": "2020-08-01T00:03:33+09:00",
     "id": "kotauchisunsun"
+  },
+  {
+    "title": "TypeScript学習ロードマップ",
+    "url": "https://qiita.com/irico/items/33744e15a4e0ca52d6bc",
+    "likes_count": 1903,
+    "created_at": "2020-08-17T18:50:32+09:00",
+    "updated_at": "2020-08-20T08:42:45+09:00",
+    "id": "irico"
   },
   {
     "title": "過去の自分に教えなければならないVSCodeのショートカット",
@@ -14,14 +22,6 @@
     "created_at": "2020-08-24T20:27:13+09:00",
     "updated_at": "2021-01-06T01:49:07+09:00",
     "id": "rana_kualu"
-  },
-  {
-    "title": "TypeScript学習ロードマップ",
-    "url": "https://qiita.com/irico/items/33744e15a4e0ca52d6bc",
-    "likes_count": 1901,
-    "created_at": "2020-08-17T18:50:32+09:00",
-    "updated_at": "2020-08-20T08:42:45+09:00",
-    "id": "irico"
   },
   {
     "title": "Pythonでも簡単にGUIは作れる",
@@ -34,7 +34,7 @@
   {
     "title": "開発体験を変える! Chrome DevTools Tips 7選",
     "url": "https://qiita.com/ryo2132/items/d02863bddbd0c86efa4a",
-    "likes_count": 1537,
+    "likes_count": 1536,
     "created_at": "2020-08-17T20:45:24+09:00",
     "updated_at": "2020-08-18T12:21:45+09:00",
     "id": "ryo2132"
@@ -146,7 +146,7 @@
   {
     "title": "Visual Studio Code公式の設定同期「Settings Sync」を利用する",
     "url": "https://qiita.com/Nuits/items/6204a6b0576b7a4e37ea",
-    "likes_count": 628,
+    "likes_count": 627,
     "created_at": "2020-08-16T09:05:37+09:00",
     "updated_at": "2021-03-11T05:17:05+09:00",
     "id": "Nuits"
@@ -194,7 +194,7 @@
   {
     "title": "URLにアニメーションをつける",
     "url": "https://qiita.com/takashimelon/items/c412eae95d3010700d7f",
-    "likes_count": 481,
+    "likes_count": 480,
     "created_at": "2020-08-13T21:21:25+09:00",
     "updated_at": "2022-10-24T19:00:23+09:00",
     "id": "takashimelon"
@@ -202,7 +202,7 @@
   {
     "title": "Safariは危険なJavaScriptに対応しない",
     "url": "https://qiita.com/rana_kualu/items/2e610c78aa8887ca62bb",
-    "likes_count": 480,
+    "likes_count": 479,
     "created_at": "2020-08-17T20:50:58+09:00",
     "updated_at": "2021-07-05T20:30:37+09:00",
     "id": "rana_kualu"
@@ -256,14 +256,6 @@
     "id": "hiro0156"
   },
   {
-    "title": "TypeScript + Node.jsプロジェクトにESLint + Prettierを導入する手順2020",
-    "url": "https://qiita.com/notakaos/items/85fd2f5c549f247585b1",
-    "likes_count": 345,
-    "created_at": "2020-08-12T17:07:04+09:00",
-    "updated_at": "2021-05-13T10:19:59+09:00",
-    "id": "notakaos"
-  },
-  {
     "title": "DockerでのディープラーニングGPU学習環境構築方法",
     "url": "https://qiita.com/karaage0703/items/e79a8ad2f57abc6872aa",
     "likes_count": 344,
@@ -272,9 +264,17 @@
     "id": "karaage0703"
   },
   {
+    "title": "TypeScript + Node.jsプロジェクトにESLint + Prettierを導入する手順2020",
+    "url": "https://qiita.com/notakaos/items/85fd2f5c549f247585b1",
+    "likes_count": 344,
+    "created_at": "2020-08-12T17:07:04+09:00",
+    "updated_at": "2021-05-13T10:19:59+09:00",
+    "id": "notakaos"
+  },
+  {
     "title": "WSL2 + Ubuntu 20.04 + Docker 開発環境構築",
     "url": "https://qiita.com/amenoyoya/items/ca9210593395dbfc8531",
-    "likes_count": 331,
+    "likes_count": 330,
     "created_at": "2020-08-02T19:17:16+09:00",
     "updated_at": "2021-11-13T16:58:53+09:00",
     "id": "amenoyoya"
@@ -282,7 +282,7 @@
   {
     "title": "リーダブルコードを読み直したのでまとめてみた",
     "url": "https://qiita.com/naoya_matsuda/items/b4ad19ef576fe7026ddc",
-    "likes_count": 331,
+    "likes_count": 330,
     "created_at": "2020-08-04T13:28:11+09:00",
     "updated_at": "2020-08-04T17:48:07+09:00",
     "id": "naoya_matsuda"

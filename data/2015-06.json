@@ -10,7 +10,7 @@
   {
     "title": "ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト",
     "url": "https://qiita.com/kazukichi/items/7379b75fba2f90d3cf45",
-    "likes_count": 3901,
+    "likes_count": 3902,
     "created_at": "2015-06-03T20:05:15+09:00",
     "updated_at": "2021-03-27T18:32:17+09:00",
     "id": "kazukichi"
@@ -82,7 +82,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1317,
+    "likes_count": 1318,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -298,7 +298,7 @@
   {
     "title": "すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順",
     "url": "https://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61",
-    "likes_count": 481,
+    "likes_count": 480,
     "created_at": "2015-06-14T02:20:05+09:00",
     "updated_at": "2022-06-22T17:02:16+09:00",
     "id": "ryounagaoka"
@@ -578,7 +578,7 @@
   {
     "title": "リーダブルコードまとめ",
     "url": "https://qiita.com/fkrw/items/7646563a2b238fbcff9a",
-    "likes_count": 258,
+    "likes_count": 257,
     "created_at": "2015-06-06T00:40:47+09:00",
     "updated_at": "2015-06-06T00:46:06+09:00",
     "id": "fkrw"
@@ -586,10 +586,18 @@
   {
     "title": "Go 言語に関するブックマーク",
     "url": "https://qiita.com/spiegel-im-spiegel/items/98d49ac456485b007a15",
-    "likes_count": 255,
+    "likes_count": 254,
     "created_at": "2015-06-16T10:55:06+09:00",
     "updated_at": "2017-01-31T09:51:55+09:00",
     "id": "spiegel-im-spiegel"
+  },
+  {
+    "title": "Linuxでユーザーをグループに追加する",
+    "url": "https://qiita.com/orangain/items/056db6ffc16d765a8187",
+    "likes_count": 249,
+    "created_at": "2015-06-24T22:19:35+09:00",
+    "updated_at": "2015-06-24T22:19:35+09:00",
+    "id": "orangain"
   },
   {
     "title": "エンジニア目線でWordPressで何度も調べたり感心したりした事",
@@ -598,13 +606,5 @@
     "created_at": "2015-06-03T15:39:57+09:00",
     "updated_at": "2020-10-21T23:06:58+09:00",
     "id": "yousan"
-  },
-  {
-    "title": "Linuxでユーザーをグループに追加する",
-    "url": "https://qiita.com/orangain/items/056db6ffc16d765a8187",
-    "likes_count": 248,
-    "created_at": "2015-06-24T22:19:35+09:00",
-    "updated_at": "2015-06-24T22:19:35+09:00",
-    "id": "orangain"
   }
 ]
