@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5625,
+    "likes_count": 5624,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -90,7 +90,7 @@
   {
     "title": "styled-componentsを使ったCSS設計",
     "url": "https://qiita.com/taneba/items/4547830b461d11a69a20",
-    "likes_count": 1012,
+    "likes_count": 1011,
     "created_at": "2017-12-14T03:10:33+09:00",
     "updated_at": "2019-11-14T16:17:13+09:00",
     "id": "taneba"
@@ -98,7 +98,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 1002,
+    "likes_count": 1003,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2022-03-23T15:01:48+09:00",
     "id": "mochio"
@@ -114,7 +114,7 @@
   {
     "title": "ペアプロ懐疑派だった僕が、実務でペアプロ導入して180度考えが変わった話",
     "url": "https://qiita.com/YudaiTsukamoto/items/06b426f4dbee268d5035",
-    "likes_count": 945,
+    "likes_count": 946,
     "created_at": "2017-12-14T13:38:28+09:00",
     "updated_at": "2022-04-09T10:45:54+09:00",
     "id": "YudaiTsukamoto"
@@ -242,7 +242,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 713,
+    "likes_count": 712,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -250,7 +250,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 706,
+    "likes_count": 707,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -656,20 +656,20 @@
     "id": "lighthouse"
   },
   {
-    "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
-    "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 349,
-    "created_at": "2017-12-13T01:29:31+09:00",
-    "updated_at": "2018-08-25T11:45:30+09:00",
-    "id": "h1kita"
-  },
-  {
     "title": "Reactのstate,props,componentの使い方を自分なりにまとめてみた",
     "url": "https://qiita.com/sekikawa_a/items/8ab70f457ef73871419f",
     "likes_count": 349,
     "created_at": "2017-12-13T21:45:16+09:00",
     "updated_at": "2019-03-22T17:27:09+09:00",
     "id": "sekikawa_a"
+  },
+  {
+    "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
+    "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
+    "likes_count": 348,
+    "created_at": "2017-12-13T01:29:31+09:00",
+    "updated_at": "2018-08-25T11:45:30+09:00",
+    "id": "h1kita"
   },
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
@@ -706,7 +706,7 @@
   {
     "title": "関東最速でReact+Redux+TypeScriptなアプリの開発環境を作る",
     "url": "https://qiita.com/IzumiSy/items/b7d8a96eacd2cd8ad510",
-    "likes_count": 324,
+    "likes_count": 323,
     "created_at": "2017-12-24T23:29:21+09:00",
     "updated_at": "2020-05-11T11:04:03+09:00",
     "id": "IzumiSy"
@@ -770,7 +770,7 @@
   {
     "title": "Pythonの変数スコープの話",
     "url": "https://qiita.com/msssgur/items/12992fc816e6adf32cff",
-    "likes_count": 265,
+    "likes_count": 266,
     "created_at": "2017-12-15T23:52:02+09:00",
     "updated_at": "2017-12-18T00:42:42+09:00",
     "id": "msssgur"
