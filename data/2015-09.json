@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 11139,
+    "likes_count": 11140,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2022-09-04T14:00:34+09:00",
     "id": "Ted-HM"
@@ -50,7 +50,7 @@
   {
     "title": "トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた",
     "url": "https://qiita.com/uasi/items/cfb60588daa18c2ec6f5",
-    "likes_count": 1737,
+    "likes_count": 1740,
     "created_at": "2015-09-25T19:18:30+09:00",
     "updated_at": "2019-05-08T21:41:02+09:00",
     "id": "uasi"
@@ -114,7 +114,7 @@
   {
     "title": "検索ではあんまり出ないbashの便利技",
     "url": "https://qiita.com/rsooo/items/ef1d036bcc7282a66d7d",
-    "likes_count": 1287,
+    "likes_count": 1288,
     "created_at": "2015-09-20T14:29:59+09:00",
     "updated_at": "2015-09-25T23:04:44+09:00",
     "id": "rsooo"
@@ -130,7 +130,7 @@
   {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 1150,
+    "likes_count": 1152,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2022-04-01T23:13:48+09:00",
     "id": "ryouzi"
@@ -466,10 +466,18 @@
   {
     "title": "[PHP] 配列・連想配列の初期化、結合、追加",
     "url": "https://qiita.com/shuntaro_tamura/items/784cfd61f355516dfff0",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2015-09-12T16:57:23+09:00",
     "updated_at": "2015-09-12T16:57:23+09:00",
     "id": "shuntaro_tamura"
+  },
+  {
+    "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
+    "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
+    "likes_count": 326,
+    "created_at": "2015-09-11T00:15:29+09:00",
+    "updated_at": "2015-09-11T00:16:04+09:00",
+    "id": "moriyaman"
   },
   {
     "title": "iOS用のCIサービスBitriseを使ってみた",
@@ -486,14 +494,6 @@
     "created_at": "2015-09-29T12:19:57+09:00",
     "updated_at": "2015-10-19T20:28:26+09:00",
     "id": "townsoft"
-  },
-  {
-    "title": "【初心者向け】サーバが重い時に確認すべきこと & サーバの基礎知識",
-    "url": "https://qiita.com/moriyaman/items/366f7eca5eda369eaf32",
-    "likes_count": 325,
-    "created_at": "2015-09-11T00:15:29+09:00",
-    "updated_at": "2015-09-11T00:16:04+09:00",
-    "id": "moriyaman"
   },
   {
     "title": "Rubyのコードを高速にするためのメモ",
@@ -514,7 +514,7 @@
   {
     "title": "インストール不要！WindowsでLinuxコマンドを使う",
     "url": "https://qiita.com/tetsuy/items/22cba0bc2048967b270a",
-    "likes_count": 320,
+    "likes_count": 319,
     "created_at": "2015-09-17T12:51:49+09:00",
     "updated_at": "2018-11-17T16:46:21+09:00",
     "id": "tetsuy"
@@ -554,7 +554,7 @@
   {
     "title": "StackOverFlowの「MVPとMVCの違い」についての回答を読んでみた",
     "url": "https://qiita.com/takahirom/items/597c48ece57b4623cdee",
-    "likes_count": 291,
+    "likes_count": 292,
     "created_at": "2015-09-23T23:34:32+09:00",
     "updated_at": "2015-09-24T08:51:48+09:00",
     "id": "takahirom"

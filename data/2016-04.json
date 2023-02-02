@@ -10,7 +10,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2495,
+    "likes_count": 2496,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -18,7 +18,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2407,
+    "likes_count": 2409,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -202,7 +202,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 702,
+    "likes_count": 703,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -298,7 +298,7 @@
   {
     "title": "ttyとかptsとかについて確認してみる",
     "url": "https://qiita.com/toshihirock/items/22de12f99b5c40365369",
-    "likes_count": 530,
+    "likes_count": 531,
     "created_at": "2016-04-28T22:23:17+09:00",
     "updated_at": "2016-04-28T22:23:17+09:00",
     "id": "toshihirock"
@@ -400,20 +400,20 @@
     "id": "tkusumi"
   },
   {
+    "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
+    "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
+    "likes_count": 420,
+    "created_at": "2016-04-15T01:30:46+09:00",
+    "updated_at": "2022-05-20T04:27:47+09:00",
+    "id": "Yinaura"
+  },
+  {
     "title": "こうすれば理解できるBootstrap 4のレスポンシブWebデザインとそのCSS",
     "url": "https://qiita.com/tonkotsuboy_com/items/7c01460b59c3ca5ee047",
     "likes_count": 419,
     "created_at": "2016-04-14T11:35:11+09:00",
     "updated_at": "2020-08-29T19:12:09+09:00",
     "id": "tonkotsuboy_com"
-  },
-  {
-    "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
-    "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
-    "likes_count": 419,
-    "created_at": "2016-04-15T01:30:46+09:00",
-    "updated_at": "2022-05-20T04:27:47+09:00",
-    "id": "Yinaura"
   },
   {
     "title": "約2年のiOSアプリ開発で実際に使ったライブラリとそこから得られた知見",
@@ -498,7 +498,7 @@
   {
     "title": "お名前.comからRoute53へネームサーバーを変更する時に迷子になる人へ",
     "url": "https://qiita.com/ysKey2/items/0545e13ec05def42ad55",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2016-04-22T15:50:55+09:00",
     "updated_at": "2018-08-21T19:08:57+09:00",
     "id": "ysKey2"
