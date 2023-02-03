@@ -138,7 +138,7 @@
   {
     "title": "テストコードの期待値はDRYを捨ててベタ書きする ～テストコードの重要な役割とは？～",
     "url": "https://qiita.com/jnchito/items/eb3cfa9f7db752dcb796",
-    "likes_count": 742,
+    "likes_count": 743,
     "created_at": "2016-06-06T10:39:54+09:00",
     "updated_at": "2016-06-09T10:51:19+09:00",
     "id": "jnchito"
@@ -170,7 +170,7 @@
   {
     "title": "Kotlin のコレクション使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/36351dca891b6d9c9687",
-    "likes_count": 669,
+    "likes_count": 671,
     "created_at": "2016-06-04T14:15:10+09:00",
     "updated_at": "2020-05-05T19:46:41+09:00",
     "id": "opengl-8080"
@@ -248,20 +248,20 @@
     "id": "Takamichi-tsutsumi"
   },
   {
-    "title": "［API］ API仕様書の書き方",
-    "url": "https://qiita.com/sunstripe2011/items/9230396febfab2eae2c2",
-    "likes_count": 503,
-    "created_at": "2016-06-09T19:52:08+09:00",
-    "updated_at": "2022-11-02T20:29:53+09:00",
-    "id": "sunstripe2011"
-  },
-  {
     "title": "新 App Store 審査ガイドライン 翻訳&移行ガイド",
     "url": "https://qiita.com/midnightSuyama/items/54d65502b15d9ca07a19",
     "likes_count": 503,
     "created_at": "2016-06-30T00:27:58+09:00",
     "updated_at": "2016-06-30T00:27:58+09:00",
     "id": "midnightSuyama"
+  },
+  {
+    "title": "［API］ API仕様書の書き方",
+    "url": "https://qiita.com/sunstripe2011/items/9230396febfab2eae2c2",
+    "likes_count": 502,
+    "created_at": "2016-06-09T19:52:08+09:00",
+    "updated_at": "2022-11-02T20:29:53+09:00",
+    "id": "sunstripe2011"
   },
   {
     "title": "機械学習のデータセットの重要性",
@@ -320,6 +320,14 @@
     "id": "pugiemonn"
   },
   {
+    "title": "結局のところgetter／setterは要るのか？要らないのか？",
+    "url": "https://qiita.com/katolisa/items/6cfd1a2a87058678d646",
+    "likes_count": 333,
+    "created_at": "2016-06-01T13:17:03+09:00",
+    "updated_at": "2016-06-01T13:17:03+09:00",
+    "id": "katolisa"
+  },
+  {
     "title": "Eclipse 4.6 Neon 新機能 TOP10！と Spring Boot STS",
     "url": "https://qiita.com/cypher256/items/2384d6797ac49740f217",
     "likes_count": 333,
@@ -328,17 +336,9 @@
     "id": "cypher256"
   },
   {
-    "title": "結局のところgetter／setterは要るのか？要らないのか？",
-    "url": "https://qiita.com/katolisa/items/6cfd1a2a87058678d646",
-    "likes_count": 332,
-    "created_at": "2016-06-01T13:17:03+09:00",
-    "updated_at": "2016-06-01T13:17:03+09:00",
-    "id": "katolisa"
-  },
-  {
     "title": "【Docker】Dockerでホストのディレクトリをマウントする",
     "url": "https://qiita.com/Yarimizu14/items/52f4859027165a805630",
-    "likes_count": 331,
+    "likes_count": 332,
     "created_at": "2016-06-29T21:13:22+09:00",
     "updated_at": "2019-05-02T00:42:28+09:00",
     "id": "Yarimizu14"
