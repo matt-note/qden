@@ -74,7 +74,7 @@
   {
     "title": "TypeScript + Node.js プロジェクトのはじめかた2020",
     "url": "https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49",
-    "likes_count": 931,
+    "likes_count": 932,
     "created_at": "2019-02-08T17:25:22+09:00",
     "updated_at": "2020-08-12T17:09:33+09:00",
     "id": "notakaos"
@@ -98,7 +98,7 @@
   {
     "title": "新人ではないがGit初心者であるエンジニアが「このリポジトリをフォークしてローカルで開発できるようにしておいて！」と言われた時にやること",
     "url": "https://qiita.com/sky0621/items/8b6e88f4327b42ade5d7",
-    "likes_count": 862,
+    "likes_count": 861,
     "created_at": "2019-02-14T01:04:39+09:00",
     "updated_at": "2020-09-28T22:59:40+09:00",
     "id": "sky0621"
@@ -106,7 +106,7 @@
   {
     "title": "target=\"_blank\"には気をつけよう",
     "url": "https://qiita.com/Apprentice_engineer/items/5db19a6d9bd4e7978aec",
-    "likes_count": 855,
+    "likes_count": 854,
     "created_at": "2019-02-01T20:47:57+09:00",
     "updated_at": "2019-02-02T00:16:27+09:00",
     "id": "Apprentice_engineer"
@@ -136,6 +136,14 @@
     "id": "ucan-lab"
   },
   {
+    "title": "やってみようNoSQL　MongoDBを最速で理解する",
+    "url": "https://qiita.com/Brutus/items/8a67a4db0fdc5a33d549",
+    "likes_count": 773,
+    "created_at": "2019-02-19T01:01:37+09:00",
+    "updated_at": "2021-02-15T20:49:48+09:00",
+    "id": "Brutus"
+  },
+  {
     "title": "📃 Webページをそのままの状態でローカルに保存するツールを作った話",
     "url": "https://qiita.com/yarnaimo/items/66f3b71077d15a22699d",
     "likes_count": 772,
@@ -144,20 +152,20 @@
     "id": "yarnaimo"
   },
   {
-    "title": "やってみようNoSQL　MongoDBを最速で理解する",
-    "url": "https://qiita.com/Brutus/items/8a67a4db0fdc5a33d549",
-    "likes_count": 772,
-    "created_at": "2019-02-19T01:01:37+09:00",
-    "updated_at": "2021-02-15T20:49:48+09:00",
-    "id": "Brutus"
-  },
-  {
     "title": "これからもずっと勉強を続けていけるだろうか？",
     "url": "https://qiita.com/katsu1110/items/d3ca6939114132a85769",
     "likes_count": 760,
     "created_at": "2019-02-23T05:48:19+09:00",
     "updated_at": "2019-02-23T05:48:19+09:00",
     "id": "katsu1110"
+  },
+  {
+    "title": "TypeScriptの型演習",
+    "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
+    "likes_count": 718,
+    "created_at": "2019-02-23T18:09:59+09:00",
+    "updated_at": "2020-05-22T11:16:41+09:00",
+    "id": "uhyo"
   },
   {
     "title": "化学系研究者が完全未経験からWeb系自社開発企業に転職するまで",
@@ -182,14 +190,6 @@
     "created_at": "2019-02-27T18:09:40+09:00",
     "updated_at": "2019-05-20T12:44:09+09:00",
     "id": "redshoga"
-  },
-  {
-    "title": "TypeScriptの型演習",
-    "url": "https://qiita.com/uhyo/items/e4f54ef3b87afdd65546",
-    "likes_count": 670,
-    "created_at": "2019-02-23T18:09:59+09:00",
-    "updated_at": "2020-05-22T11:16:41+09:00",
-    "id": "uhyo"
   },
   {
     "title": "Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する",
