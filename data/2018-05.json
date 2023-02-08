@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4891,
+    "likes_count": 4893,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3435,
+    "likes_count": 3436,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2551,
+    "likes_count": 2552,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2022-03-25T11:48:28+09:00",
     "id": "tani_AI_Academy"
@@ -50,7 +50,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 1997,
+    "likes_count": 1998,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -202,7 +202,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 725,
+    "likes_count": 726,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2021-08-18T14:03:43+09:00",
     "id": "hiyuzawa"
@@ -218,7 +218,7 @@
   {
     "title": "Webブラウザの作り方",
     "url": "https://qiita.com/uint256_t/items/01308b46ea839ba4a919",
-    "likes_count": 692,
+    "likes_count": 693,
     "created_at": "2018-05-13T18:38:55+09:00",
     "updated_at": "2018-05-17T19:49:14+09:00",
     "id": "uint256_t"
@@ -234,7 +234,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 676,
+    "likes_count": 677,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -266,7 +266,7 @@
   {
     "title": "ROS講座00 目次",
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
-    "likes_count": 651,
+    "likes_count": 652,
     "created_at": "2018-05-02T09:27:43+09:00",
     "updated_at": "2022-10-07T09:52:10+09:00",
     "id": "srs"
@@ -304,20 +304,20 @@
     "id": "koyopro"
   },
   {
+    "title": "API開発・テスト便利ツール Postmanの使い方メモ",
+    "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
+    "likes_count": 579,
+    "created_at": "2018-05-10T05:45:31+09:00",
+    "updated_at": "2018-05-10T11:28:33+09:00",
+    "id": "zaburo"
+  },
+  {
     "title": "皆さんはどんな方法で情報収集してますか？私はこんな感じです。",
     "url": "https://qiita.com/minakawa-daiki/items/edfc3d1ff1270756b52a",
     "likes_count": 579,
     "created_at": "2018-05-11T11:20:01+09:00",
     "updated_at": "2018-05-11T13:53:49+09:00",
     "id": "minakawa-daiki"
-  },
-  {
-    "title": "API開発・テスト便利ツール Postmanの使い方メモ",
-    "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 578,
-    "created_at": "2018-05-10T05:45:31+09:00",
-    "updated_at": "2018-05-10T11:28:33+09:00",
-    "id": "zaburo"
   },
   {
     "title": "【退職】履歴書をGit管理したかってん【しました】",
@@ -498,7 +498,7 @@
   {
     "title": "python3 の async/awaitを理解する",
     "url": "https://qiita.com/maueki/items/8f1e190681682ea11c98",
-    "likes_count": 363,
+    "likes_count": 364,
     "created_at": "2018-05-18T15:04:54+09:00",
     "updated_at": "2019-03-12T11:13:29+09:00",
     "id": "maueki"
@@ -538,7 +538,7 @@
   {
     "title": "ホワイトボックステストにおけるカバレッジ（C0/C1/C2/MCC）について",
     "url": "https://qiita.com/odekekepeanuts/items/8b6542467d2a0066e5af",
-    "likes_count": 347,
+    "likes_count": 348,
     "created_at": "2018-05-17T23:30:18+09:00",
     "updated_at": "2018-05-17T23:30:40+09:00",
     "id": "odekekepeanuts"
