@@ -26,7 +26,7 @@
   {
     "title": "nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する",
     "url": "https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc",
-    "likes_count": 2121,
+    "likes_count": 2123,
     "created_at": "2016-03-18T01:08:31+09:00",
     "updated_at": "2018-04-09T09:05:54+09:00",
     "id": "kotarella1110"
@@ -50,7 +50,7 @@
   {
     "title": "たった1人から始める社内テストコード文化",
     "url": "https://qiita.com/haminiku/items/9f1b9a2fb773c732c494",
-    "likes_count": 1687,
+    "likes_count": 1688,
     "created_at": "2016-03-15T06:38:55+09:00",
     "updated_at": "2016-03-23T12:57:56+09:00",
     "id": "haminiku"
@@ -210,7 +210,7 @@
   {
     "title": "Markdownで書ける、よさげなWikiサーバーソフトまとめ",
     "url": "https://qiita.com/Bakudankun/items/740ac8ba1395fe4e40a6",
-    "likes_count": 654,
+    "likes_count": 655,
     "created_at": "2016-03-31T21:35:21+09:00",
     "updated_at": "2019-04-14T17:41:12+09:00",
     "id": "Bakudankun"
@@ -354,7 +354,7 @@
   {
     "title": "オブジェクト指向エクササイズをやってみる",
     "url": "https://qiita.com/opengl-8080/items/6f0a458df9c34eccf76c",
-    "likes_count": 460,
+    "likes_count": 461,
     "created_at": "2016-03-20T01:28:58+09:00",
     "updated_at": "2016-05-28T21:00:03+09:00",
     "id": "opengl-8080"
@@ -464,6 +464,14 @@
     "id": "mint__"
   },
   {
+    "title": "awkコマンドの基本",
+    "url": "https://qiita.com/yamazon/items/563af1b485ff413d381f",
+    "likes_count": 398,
+    "created_at": "2016-03-06T20:03:09+09:00",
+    "updated_at": "2016-03-14T23:38:39+09:00",
+    "id": "yamazon"
+  },
+  {
     "title": "【初心者向け】これからRailsエンジニアとして成長したい人がすべきこと",
     "url": "https://qiita.com/hc0208/items/b646db440438cc2df17e",
     "likes_count": 398,
@@ -478,14 +486,6 @@
     "created_at": "2016-03-02T06:20:45+09:00",
     "updated_at": "2019-05-10T23:29:51+09:00",
     "id": "terukizm"
-  },
-  {
-    "title": "awkコマンドの基本",
-    "url": "https://qiita.com/yamazon/items/563af1b485ff413d381f",
-    "likes_count": 397,
-    "created_at": "2016-03-06T20:03:09+09:00",
-    "updated_at": "2016-03-14T23:38:39+09:00",
-    "id": "yamazon"
   },
   {
     "title": "Railsの正規表現でよく使われる \\A \\z って何？？",
