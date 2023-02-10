@@ -122,7 +122,7 @@
   {
     "title": "React Native ファーストインプレッション",
     "url": "https://qiita.com/naoya@github/items/ecda4d3089902dcbea53",
-    "likes_count": 668,
+    "likes_count": 667,
     "created_at": "2015-03-28T11:09:30+09:00",
     "updated_at": "2015-03-28T12:27:34+09:00",
     "id": "naoya@github"
@@ -184,20 +184,20 @@
     "id": "naoya@github"
   },
   {
-    "title": "最近のjs非同期処理 PromiseとGeneratorの共存",
-    "url": "https://qiita.com/kidach1/items/d997df84a0ede39d76ad",
-    "likes_count": 475,
-    "created_at": "2015-03-30T09:44:48+09:00",
-    "updated_at": "2015-10-21T09:50:51+09:00",
-    "id": "kidach1"
-  },
-  {
     "title": "Git リポジトリに上がっているファイルを履歴ごと消すには？",
     "url": "https://qiita.com/go_astrayer/items/6e39d3ab16ae8094496c",
     "likes_count": 474,
     "created_at": "2015-03-08T04:42:27+09:00",
     "updated_at": "2016-04-27T22:40:15+09:00",
     "id": "go_astrayer"
+  },
+  {
+    "title": "最近のjs非同期処理 PromiseとGeneratorの共存",
+    "url": "https://qiita.com/kidach1/items/d997df84a0ede39d76ad",
+    "likes_count": 474,
+    "created_at": "2015-03-30T09:44:48+09:00",
+    "updated_at": "2015-10-21T09:50:51+09:00",
+    "id": "kidach1"
   },
   {
     "title": "とりあえずZshを使えば良いんだろう？",
@@ -258,7 +258,7 @@
   {
     "title": "Android の Chrome で開発者ツールを使う方法",
     "url": "https://qiita.com/hojishi/items/12b726f8b02ef3d713e4",
-    "likes_count": 408,
+    "likes_count": 407,
     "created_at": "2015-03-13T14:57:23+09:00",
     "updated_at": "2015-03-13T14:57:23+09:00",
     "id": "hojishi"
@@ -424,14 +424,6 @@
     "id": "AkiyoshiOkano"
   },
   {
-    "title": "JavaScriptで正規表現（文字列置換え編）",
-    "url": "https://qiita.com/hrdaya/items/291276a5a20971592216",
-    "likes_count": 297,
-    "created_at": "2015-03-08T10:06:37+09:00",
-    "updated_at": "2015-03-12T04:34:44+09:00",
-    "id": "hrdaya"
-  },
-  {
     "title": ".bat初心者・未経験者に贈るコマンド集",
     "url": "https://qiita.com/plcherrim/items/4432263ef34418175fa9",
     "likes_count": 296,
@@ -440,9 +432,17 @@
     "id": "plcherrim"
   },
   {
+    "title": "JavaScriptで正規表現（文字列置換え編）",
+    "url": "https://qiita.com/hrdaya/items/291276a5a20971592216",
+    "likes_count": 296,
+    "created_at": "2015-03-08T10:06:37+09:00",
+    "updated_at": "2015-03-12T04:34:44+09:00",
+    "id": "hrdaya"
+  },
+  {
     "title": "CORS 対応時の注意点などメモ",
     "url": "https://qiita.com/umechiki/items/82dd43cd1465de5f5afe",
-    "likes_count": 288,
+    "likes_count": 287,
     "created_at": "2015-03-19T20:19:05+09:00",
     "updated_at": "2018-05-22T19:51:39+09:00",
     "id": "umechiki"
@@ -470,14 +470,6 @@
     "created_at": "2015-03-23T18:40:00+09:00",
     "updated_at": "2017-01-03T11:12:58+09:00",
     "id": "sofpyon"
-  },
-  {
-    "title": "JavaScriptでのサロゲートペア文字列のメモ",
-    "url": "https://qiita.com/YusukeHirao/items/2f0fb8d5bbb981101be0",
-    "likes_count": 279,
-    "created_at": "2015-03-14T02:16:31+09:00",
-    "updated_at": "2015-07-07T15:45:17+09:00",
-    "id": "YusukeHirao"
   },
   {
     "title": "ちょいちょいわからなくなるcheckbox, radio, selectboxの値の取り方",
