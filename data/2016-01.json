@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4139,
+    "likes_count": 4138,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "画像処理の数式を見て石になった時のための、金の針",
     "url": "https://qiita.com/icoxfog417/items/adbbf445d357c924b8fc",
-    "likes_count": 3414,
+    "likes_count": 3415,
     "created_at": "2016-01-31T15:10:23+09:00",
     "updated_at": "2020-03-14T12:23:58+09:00",
     "id": "icoxfog417"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2677,
+    "likes_count": 2678,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -114,7 +114,7 @@
   {
     "title": "Pythonでデータ分析するのに必要なツールのまとめ",
     "url": "https://qiita.com/hik0107/items/19dd2f6a4ab61ec21905",
-    "likes_count": 1062,
+    "likes_count": 1061,
     "created_at": "2016-01-01T20:33:50+09:00",
     "updated_at": "2017-05-08T16:28:38+09:00",
     "id": "hik0107"
@@ -130,7 +130,7 @@
   {
     "title": "何も知らない人を育てるために（新人教育情報キュレーション）",
     "url": "https://qiita.com/itagakishintaro/items/ca4b60e5fb652160685f",
-    "likes_count": 1015,
+    "likes_count": 1014,
     "created_at": "2016-01-13T18:53:10+09:00",
     "updated_at": "2016-01-13T18:53:10+09:00",
     "id": "itagakishintaro"
@@ -162,7 +162,7 @@
   {
     "title": "Bootstrapのグリッドシステムについてまとめてみた",
     "url": "https://qiita.com/akatsuki174/items/53b7367b04ed0b066bbf",
-    "likes_count": 920,
+    "likes_count": 919,
     "created_at": "2016-01-05T23:36:20+09:00",
     "updated_at": "2016-01-06T12:25:24+09:00",
     "id": "akatsuki174"
@@ -328,20 +328,20 @@
     "id": "sagaraya"
   },
   {
-    "title": "Docker compose ことはじめハンズオン",
-    "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 533,
-    "created_at": "2016-01-05T01:32:35+09:00",
-    "updated_at": "2019-10-09T21:04:14+09:00",
-    "id": "TsutomuNakamura"
-  },
-  {
     "title": "bundle install と bundle updateの違いについて",
     "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
     "likes_count": 533,
     "created_at": "2016-01-22T00:25:15+09:00",
     "updated_at": "2016-01-22T00:26:14+09:00",
     "id": "lasershow"
+  },
+  {
+    "title": "Docker compose ことはじめハンズオン",
+    "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
+    "likes_count": 532,
+    "created_at": "2016-01-05T01:32:35+09:00",
+    "updated_at": "2019-10-09T21:04:14+09:00",
+    "id": "TsutomuNakamura"
   },
   {
     "title": "正しい名前をつけることが大切な理由",
@@ -698,7 +698,7 @@
   {
     "title": "Raspberry Pi Zero(W, WH, 2 W)のセットアップ",
     "url": "https://qiita.com/hishi/items/8bdfd9d72fa8fe2e7573",
-    "likes_count": 291,
+    "likes_count": 290,
     "created_at": "2016-01-05T23:19:41+09:00",
     "updated_at": "2022-06-26T07:47:13+09:00",
     "id": "hishi"
@@ -738,7 +738,7 @@
   {
     "title": "Vagrant+Dockerなんて使わなければよかった・・・",
     "url": "https://qiita.com/chiku_dev/items/29d8ffd4b2c13989a96b",
-    "likes_count": 280,
+    "likes_count": 279,
     "created_at": "2016-01-29T01:01:11+09:00",
     "updated_at": "2017-12-14T20:09:19+09:00",
     "id": "chiku_dev"
