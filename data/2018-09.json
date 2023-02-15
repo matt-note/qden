@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 3165,
+    "likes_count": 3166,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -74,7 +74,7 @@
   {
     "title": "フリーランスエンジニアの単価を決める",
     "url": "https://qiita.com/KazukiTanaka/items/130a2c477847b24e35ce",
-    "likes_count": 1508,
+    "likes_count": 1509,
     "created_at": "2018-09-03T11:20:09+09:00",
     "updated_at": "2018-09-06T11:24:40+09:00",
     "id": "KazukiTanaka"
@@ -106,7 +106,7 @@
   {
     "title": "Docker、ボリューム(Volume)について真面目に調べた",
     "url": "https://qiita.com/gounx2/items/23b0dc8b8b95cc629f32",
-    "likes_count": 1012,
+    "likes_count": 1013,
     "created_at": "2018-09-28T01:01:49+09:00",
     "updated_at": "2019-10-05T15:34:08+09:00",
     "id": "gounx2"
@@ -202,7 +202,7 @@
   {
     "title": "Apache Kafkaの概要とアーキテクチャ",
     "url": "https://qiita.com/sigmalist/items/5a26ab519cbdf1e07af3",
-    "likes_count": 709,
+    "likes_count": 710,
     "created_at": "2018-09-07T15:44:03+09:00",
     "updated_at": "2020-01-31T19:01:04+09:00",
     "id": "sigmalist"
@@ -528,20 +528,20 @@
     "id": "A-Kira"
   },
   {
+    "title": "Nuxt.js + Netlifyで爆速構築するサーバーレス開発入門",
+    "url": "https://qiita.com/isihigameKoudai/items/e3b136e9964f1d30d73d",
+    "likes_count": 352,
+    "created_at": "2018-09-27T03:15:09+09:00",
+    "updated_at": "2019-03-14T02:10:21+09:00",
+    "id": "isihigameKoudai"
+  },
+  {
     "title": "圏論のオススメ勉強法（プログラマ向け）",
     "url": "https://qiita.com/inamiy/items/922d4220bf407efa2dab",
     "likes_count": 351,
     "created_at": "2018-09-10T09:19:42+09:00",
     "updated_at": "2018-09-21T13:35:57+09:00",
     "id": "inamiy"
-  },
-  {
-    "title": "Nuxt.js + Netlifyで爆速構築するサーバーレス開発入門",
-    "url": "https://qiita.com/isihigameKoudai/items/e3b136e9964f1d30d73d",
-    "likes_count": 351,
-    "created_at": "2018-09-27T03:15:09+09:00",
-    "updated_at": "2019-03-14T02:10:21+09:00",
-    "id": "isihigameKoudai"
   },
   {
     "title": "Railsで remote: true と js.erbを使って簡単にAjax(非同期通信)を実装しよう！(いいね機能のデモ付)",
