@@ -138,7 +138,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 982,
+    "likes_count": 983,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -274,7 +274,7 @@
   {
     "title": "REST APIの設計で消耗している感じたときのgRPC入門",
     "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
-    "likes_count": 665,
+    "likes_count": 666,
     "created_at": "2016-12-19T07:11:20+09:00",
     "updated_at": "2019-11-27T08:00:01+09:00",
     "id": "disc99"
@@ -378,7 +378,7 @@
   {
     "title": "基本/詳細設計って呼び方やめませんか",
     "url": "https://qiita.com/garbagetown/items/a3ae46595f7c49e587a0",
-    "likes_count": 521,
+    "likes_count": 522,
     "created_at": "2016-12-14T18:08:06+09:00",
     "updated_at": "2016-12-18T01:24:21+09:00",
     "id": "garbagetown"
@@ -440,20 +440,20 @@
     "id": "Implem"
   },
   {
+    "title": "最速・最高のファイルアップロードに近づくための1歩",
+    "url": "https://qiita.com/zaru/items/8c0ab5c70775644d4d41",
+    "likes_count": 471,
+    "created_at": "2016-12-08T00:00:28+09:00",
+    "updated_at": "2017-07-03T13:28:31+09:00",
+    "id": "zaru"
+  },
+  {
     "title": "ReactとReduxを結ぶパッケージ「react-redux」についてconnectの実装パターンを試す",
     "url": "https://qiita.com/MegaBlackLabel/items/df868e734d199071b883",
     "likes_count": 471,
     "created_at": "2016-12-23T22:24:32+09:00",
     "updated_at": "2017-06-09T15:35:33+09:00",
     "id": "MegaBlackLabel"
-  },
-  {
-    "title": "最速・最高のファイルアップロードに近づくための1歩",
-    "url": "https://qiita.com/zaru/items/8c0ab5c70775644d4d41",
-    "likes_count": 470,
-    "created_at": "2016-12-08T00:00:28+09:00",
-    "updated_at": "2017-07-03T13:28:31+09:00",
-    "id": "zaru"
   },
   {
     "title": "【定番】 新しいWebサービスを開発・運営するときに使いたいサービス 【2016年末版】",
@@ -626,7 +626,7 @@
   {
     "title": "firebase realtime database でよく使う rule",
     "url": "https://qiita.com/mironal/items/b93742e8ef72b3268beb",
-    "likes_count": 335,
+    "likes_count": 336,
     "created_at": "2016-12-05T00:00:54+09:00",
     "updated_at": "2017-11-08T09:14:32+09:00",
     "id": "mironal"
