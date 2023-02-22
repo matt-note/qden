@@ -1,5 +1,13 @@
 [
   {
+    "title": "ls よりも exa を使おう！モダンな Linux コマンド達を紹介",
+    "url": "https://qiita.com/navitime_tech/items/c249269a3b47666c784b",
+    "likes_count": 3434,
+    "created_at": "2020-02-25T10:59:38+09:00",
+    "updated_at": "2020-02-25T11:52:32+09:00",
+    "id": "navitime_tech"
+  },
+  {
     "title": "メンバーに恨まれそうな3つのコードレビュー施策を徹底したら、逆にメンバーが爆速で成長した話",
     "url": "https://qiita.com/gakuri/items/f4970aea8de5fa9bf016",
     "likes_count": 3433,
@@ -8,17 +16,9 @@
     "id": "gakuri"
   },
   {
-    "title": "ls よりも exa を使おう！モダンな Linux コマンド達を紹介",
-    "url": "https://qiita.com/navitime_tech/items/c249269a3b47666c784b",
-    "likes_count": 3432,
-    "created_at": "2020-02-25T10:59:38+09:00",
-    "updated_at": "2020-02-25T11:52:32+09:00",
-    "id": "navitime_tech"
-  },
-  {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】",
     "url": "https://qiita.com/e869120/items/f1c6f98364d1443148b3",
-    "likes_count": 3381,
+    "likes_count": 3383,
     "created_at": "2020-02-19T19:00:12+09:00",
     "updated_at": "2022-02-05T20:06:13+09:00",
     "id": "e869120"
@@ -34,7 +34,7 @@
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【中級編：目指せ水色コーダー！】",
     "url": "https://qiita.com/e869120/items/eb50fdaece12be418faa",
-    "likes_count": 2261,
+    "likes_count": 2262,
     "created_at": "2020-02-19T19:00:56+09:00",
     "updated_at": "2021-07-12T22:49:23+09:00",
     "id": "e869120"
@@ -146,7 +146,7 @@
   {
     "title": "Jamstackって何なの？何がいいの？",
     "url": "https://qiita.com/ozaki25/items/4075d03278d1fb51cc37",
-    "likes_count": 911,
+    "likes_count": 912,
     "created_at": "2020-02-08T02:59:23+09:00",
     "updated_at": "2021-10-26T18:46:23+09:00",
     "id": "ozaki25"
@@ -224,20 +224,20 @@
     "id": "Saku731"
   },
   {
+    "title": "【TypeScript】Generics(ジェネリックス)を理解する",
+    "url": "https://qiita.com/k-penguin-sato/items/9baa959e8919157afcd4",
+    "likes_count": 536,
+    "created_at": "2020-02-28T07:48:57+09:00",
+    "updated_at": "2020-07-22T07:40:53+09:00",
+    "id": "k-penguin-sato"
+  },
+  {
     "title": "ラズパイ4で作るディスプレイ付きKubernetesクラスター",
     "url": "https://qiita.com/reireias/items/0d87de18f43f27a8ed9b",
     "likes_count": 535,
     "created_at": "2020-02-12T07:44:27+09:00",
     "updated_at": "2021-05-12T20:58:39+09:00",
     "id": "reireias"
-  },
-  {
-    "title": "【TypeScript】Generics(ジェネリックス)を理解する",
-    "url": "https://qiita.com/k-penguin-sato/items/9baa959e8919157afcd4",
-    "likes_count": 535,
-    "created_at": "2020-02-28T07:48:57+09:00",
-    "updated_at": "2020-07-22T07:40:53+09:00",
-    "id": "k-penguin-sato"
   },
   {
     "title": "レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【上級編：目指せレッドコーダー！】",
@@ -434,7 +434,7 @@
   {
     "title": "DBeaver使い方メモ",
     "url": "https://qiita.com/12345/items/48f6856e32fd618ea307",
-    "likes_count": 269,
+    "likes_count": 270,
     "created_at": "2020-02-13T17:26:19+09:00",
     "updated_at": "2022-10-20T10:45:17+09:00",
     "id": "12345"
