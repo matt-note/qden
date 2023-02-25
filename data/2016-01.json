@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4138,
+    "likes_count": 4137,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -18,7 +18,7 @@
   {
     "title": "画像処理の数式を見て石になった時のための、金の針",
     "url": "https://qiita.com/icoxfog417/items/adbbf445d357c924b8fc",
-    "likes_count": 3416,
+    "likes_count": 3415,
     "created_at": "2016-01-31T15:10:23+09:00",
     "updated_at": "2020-03-14T12:23:58+09:00",
     "id": "icoxfog417"
@@ -26,7 +26,7 @@
   {
     "title": "(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/f795fe3e661a3349a7ce",
-    "likes_count": 3368,
+    "likes_count": 3367,
     "created_at": "2016-01-08T14:56:09+09:00",
     "updated_at": "2021-10-08T20:24:15+09:00",
     "id": "naoki_mochizuki"
@@ -34,7 +34,7 @@
   {
     "title": "2016年 独りで新規WEBサービスを開発・運用した際の知見",
     "url": "https://qiita.com/haminiku/items/711cbdb894d1d6839e3e",
-    "likes_count": 3174,
+    "likes_count": 3173,
     "created_at": "2016-01-06T06:46:37+09:00",
     "updated_at": "2016-02-23T06:50:34+09:00",
     "id": "haminiku"
@@ -98,7 +98,7 @@
   {
     "title": "開発におけるDocker導入のメリット",
     "url": "https://qiita.com/minodisk/items/5ffd20588b995523756f",
-    "likes_count": 1077,
+    "likes_count": 1076,
     "created_at": "2016-01-14T15:20:25+09:00",
     "updated_at": "2016-01-14T23:08:27+09:00",
     "id": "minodisk"
@@ -106,7 +106,7 @@
   {
     "title": "全盛期のJeff Dean伝説",
     "url": "https://qiita.com/umegaya/items/ef69461d6f4967d5c623",
-    "likes_count": 1073,
+    "likes_count": 1072,
     "created_at": "2016-01-09T05:56:15+09:00",
     "updated_at": "2016-03-26T08:06:24+09:00",
     "id": "umegaya"
@@ -130,7 +130,7 @@
   {
     "title": "何も知らない人を育てるために（新人教育情報キュレーション）",
     "url": "https://qiita.com/itagakishintaro/items/ca4b60e5fb652160685f",
-    "likes_count": 1014,
+    "likes_count": 1013,
     "created_at": "2016-01-13T18:53:10+09:00",
     "updated_at": "2016-01-13T18:53:10+09:00",
     "id": "itagakishintaro"
@@ -224,20 +224,20 @@
     "id": "nogson"
   },
   {
+    "title": "ブランチの切り替えをしなくてよくなるコマンド git worktree がすごい！",
+    "url": "https://qiita.com/shibukk/items/80430b54ecda7f36ca44",
+    "likes_count": 740,
+    "created_at": "2016-01-12T20:20:30+09:00",
+    "updated_at": "2020-09-25T17:22:23+09:00",
+    "id": "shibukk"
+  },
+  {
     "title": "再帰型ニューラルネットワーク: RNN入門",
     "url": "https://qiita.com/kiminaka/items/87afd4a433dc655d8cfd",
     "likes_count": 740,
     "created_at": "2016-01-14T11:53:46+09:00",
     "updated_at": "2017-02-12T14:02:52+09:00",
     "id": "kiminaka"
-  },
-  {
-    "title": "ブランチの切り替えをしなくてよくなるコマンド git worktree がすごい！",
-    "url": "https://qiita.com/shibukk/items/80430b54ecda7f36ca44",
-    "likes_count": 739,
-    "created_at": "2016-01-12T20:20:30+09:00",
-    "updated_at": "2020-09-25T17:22:23+09:00",
-    "id": "shibukk"
   },
   {
     "title": "JavaScriptでファイルダウンロード処理を実現する",
@@ -504,20 +504,20 @@
     "id": "t_ishida"
   },
   {
-    "title": "公式グッズ・ノベルティ オンラインストア一覧(60団体以上を調査)",
-    "url": "https://qiita.com/YKEI_mrn/items/c10b14f9a69ff71b1b7a",
-    "likes_count": 362,
-    "created_at": "2016-01-11T19:01:16+09:00",
-    "updated_at": "2020-10-18T16:20:35+09:00",
-    "id": "YKEI_mrn"
-  },
-  {
     "title": "Rollupがちょうどいい感じ",
     "url": "https://qiita.com/cognitom/items/e3ac0da00241f427dad6",
     "likes_count": 362,
     "created_at": "2016-01-21T23:49:33+09:00",
     "updated_at": "2016-12-03T13:15:45+09:00",
     "id": "cognitom"
+  },
+  {
+    "title": "公式グッズ・ノベルティ オンラインストア一覧(60団体以上を調査)",
+    "url": "https://qiita.com/YKEI_mrn/items/c10b14f9a69ff71b1b7a",
+    "likes_count": 361,
+    "created_at": "2016-01-11T19:01:16+09:00",
+    "updated_at": "2020-10-18T16:20:35+09:00",
+    "id": "YKEI_mrn"
   },
   {
     "title": "Parse.com 終了に伴う mbaas サービスの移行方法（終了直前の大幅更新！）",
@@ -658,7 +658,7 @@
   {
     "title": "[Python]Matplotlibでヒストグラムを描画する方法",
     "url": "https://qiita.com/supersaiakujin/items/be4a78809e7278c065e6",
-    "likes_count": 315,
+    "likes_count": 314,
     "created_at": "2016-01-07T00:27:50+09:00",
     "updated_at": "2018-10-05T12:49:47+09:00",
     "id": "supersaiakujin"
