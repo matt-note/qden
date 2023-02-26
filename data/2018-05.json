@@ -50,7 +50,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2010,
+    "likes_count": 2011,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -82,7 +82,7 @@
   {
     "title": "就活のためにWEBサービスを作ったら、転職できた以上の価値をもたらしてくれた話",
     "url": "https://qiita.com/kd9951/items/92cc7bb14c1fbfcb6dab",
-    "likes_count": 1315,
+    "likes_count": 1316,
     "created_at": "2018-05-09T00:15:17+09:00",
     "updated_at": "2018-05-10T20:10:23+09:00",
     "id": "kd9951"
@@ -90,7 +90,7 @@
   {
     "title": "Pythonで競プロやるときによく書くコードをまとめてみた",
     "url": "https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1",
-    "likes_count": 1112,
+    "likes_count": 1113,
     "created_at": "2018-05-12T11:14:50+09:00",
     "updated_at": "2020-03-07T10:07:41+09:00",
     "id": "y-tsutsu"
@@ -226,7 +226,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/fritz22/items/fcb81753eaf381b4b33c",
-    "likes_count": 684,
+    "likes_count": 685,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "fritz22"
@@ -464,20 +464,20 @@
     "id": "yahsan2"
   },
   {
-    "title": "dockerで簡易にpython3の環境を作ってみる",
-    "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
-    "likes_count": 392,
-    "created_at": "2018-05-10T12:01:43+09:00",
-    "updated_at": "2020-01-15T02:08:31+09:00",
-    "id": "reflet"
-  },
-  {
     "title": "Gradle の compile, api, implementation とかについて",
     "url": "https://qiita.com/opengl-8080/items/6ad642e0b016465891de",
     "likes_count": 392,
     "created_at": "2018-05-25T22:17:55+09:00",
     "updated_at": "2018-05-25T22:17:55+09:00",
     "id": "opengl-8080"
+  },
+  {
+    "title": "dockerで簡易にpython3の環境を作ってみる",
+    "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
+    "likes_count": 391,
+    "created_at": "2018-05-10T12:01:43+09:00",
+    "updated_at": "2020-01-15T02:08:31+09:00",
+    "id": "reflet"
   },
   {
     "title": "初学者でも5分で理解できるようにDI(Dependency Injection)を説明してみた",
@@ -578,7 +578,7 @@
   {
     "title": "そろそろ知っておきたいHTTP/2の話",
     "url": "https://qiita.com/mogamin3/items/7698ee3336c70a482843",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2018-05-21T13:32:19+09:00",
     "updated_at": "2018-10-20T14:09:20+09:00",
     "id": "mogamin3"
