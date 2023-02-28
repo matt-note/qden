@@ -10,7 +10,7 @@
   {
     "title": "特にプログラマーでもデータサイエンティストでも\bないけど、Tensorflowを1ヶ月触ったので超分かりやすく解説",
     "url": "https://qiita.com/tawago/items/c977c79b76c5979874e8",
-    "likes_count": 3326,
+    "likes_count": 3327,
     "created_at": "2016-03-06T21:52:25+09:00",
     "updated_at": "2018-10-04T13:46:59+09:00",
     "id": "tawago"
@@ -410,7 +410,7 @@
   {
     "title": "Java/Androidにおける例外設計、あるいは「契約による設計」によるシンプルさの追求",
     "url": "https://qiita.com/yuya_presto/items/3b651d6b0cf38f77e933",
-    "likes_count": 417,
+    "likes_count": 418,
     "created_at": "2016-03-06T20:09:39+09:00",
     "updated_at": "2016-03-16T11:50:24+09:00",
     "id": "yuya_presto"
@@ -456,6 +456,14 @@
     "id": "thrbrd"
   },
   {
+    "title": "Railsの正規表現でよく使われる \\A \\z って何？？",
+    "url": "https://qiita.com/jnchito/items/ea7832df6f64a9034872",
+    "likes_count": 398,
+    "created_at": "2016-03-01T09:02:09+09:00",
+    "updated_at": "2016-03-01T17:53:09+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "CSSベンダープレフィックス-webkit-を今この瞬間に辞める為のAutoprefixerの導入",
     "url": "https://qiita.com/tonkotsuboy_com/items/377913c51b1ac00deffe",
     "likes_count": 398,
@@ -478,14 +486,6 @@
     "created_at": "2016-03-25T13:13:14+09:00",
     "updated_at": "2016-03-29T10:32:41+09:00",
     "id": "mint__"
-  },
-  {
-    "title": "Railsの正規表現でよく使われる \\A \\z って何？？",
-    "url": "https://qiita.com/jnchito/items/ea7832df6f64a9034872",
-    "likes_count": 397,
-    "created_at": "2016-03-01T09:02:09+09:00",
-    "updated_at": "2016-03-01T17:53:09+09:00",
-    "id": "jnchito"
   },
   {
     "title": "SlackクローンのMattermostを使ってみる - 導入、初期設定編-",
