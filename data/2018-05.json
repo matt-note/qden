@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4904,
+    "likes_count": 4902,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3453,
+    "likes_count": 3452,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -26,7 +26,7 @@
   {
     "title": "コーディングをするときに鼻血がでるほど便利なwebツールリスト",
     "url": "https://qiita.com/isuke/items/7fcc5eb0b985005b7b7c",
-    "likes_count": 2772,
+    "likes_count": 2771,
     "created_at": "2018-05-11T00:22:27+09:00",
     "updated_at": "2020-05-10T17:20:53+09:00",
     "id": "isuke"
@@ -50,7 +50,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2013,
+    "likes_count": 2014,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1943,
+    "likes_count": 1942,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -82,7 +82,7 @@
   {
     "title": "就活のためにWEBサービスを作ったら、転職できた以上の価値をもたらしてくれた話",
     "url": "https://qiita.com/kd9951/items/92cc7bb14c1fbfcb6dab",
-    "likes_count": 1317,
+    "likes_count": 1316,
     "created_at": "2018-05-09T00:15:17+09:00",
     "updated_at": "2018-05-10T20:10:23+09:00",
     "id": "kd9951"
@@ -130,7 +130,7 @@
   {
     "title": "学生でもできる！Webサービスの開発・リリースするまでの道のり",
     "url": "https://qiita.com/minakawa-daiki/items/1d7b840c0850ec7c834c",
-    "likes_count": 927,
+    "likes_count": 926,
     "created_at": "2018-05-05T19:32:23+09:00",
     "updated_at": "2018-05-06T16:16:51+09:00",
     "id": "minakawa-daiki"
@@ -170,7 +170,7 @@
   {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 791,
+    "likes_count": 792,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
@@ -218,7 +218,7 @@
   {
     "title": "Webブラウザの作り方",
     "url": "https://qiita.com/uint256_t/items/01308b46ea839ba4a919",
-    "likes_count": 693,
+    "likes_count": 692,
     "created_at": "2018-05-13T18:38:55+09:00",
     "updated_at": "2018-05-17T19:49:14+09:00",
     "id": "uint256_t"
@@ -258,7 +258,7 @@
   {
     "title": "FizzBuzzを1byteで実装する",
     "url": "https://qiita.com/ymg_aq/items/b8e5d26035180bc8797e",
-    "likes_count": 660,
+    "likes_count": 659,
     "created_at": "2018-05-17T16:59:36+09:00",
     "updated_at": "2018-05-19T11:23:34+09:00",
     "id": "ymg_aq"
@@ -288,20 +288,20 @@
     "id": "KanNishida"
   },
   {
-    "title": "名刺の代わりにCLIアプリを書く",
-    "url": "https://qiita.com/akameco/items/e0af9e3cdf1cdb6fca61",
-    "likes_count": 596,
-    "created_at": "2018-05-15T22:47:19+09:00",
-    "updated_at": "2018-05-16T09:36:33+09:00",
-    "id": "akameco"
-  },
-  {
     "title": "GitFlowをやめて本番リリースが楽になった話",
     "url": "https://qiita.com/koyopro/items/b4569285efc22c6397c6",
     "likes_count": 595,
     "created_at": "2018-05-13T09:53:45+09:00",
     "updated_at": "2018-06-10T14:48:56+09:00",
     "id": "koyopro"
+  },
+  {
+    "title": "名刺の代わりにCLIアプリを書く",
+    "url": "https://qiita.com/akameco/items/e0af9e3cdf1cdb6fca61",
+    "likes_count": 595,
+    "created_at": "2018-05-15T22:47:19+09:00",
+    "updated_at": "2018-05-16T09:36:33+09:00",
+    "id": "akameco"
   },
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
@@ -338,7 +338,7 @@
   {
     "title": "Hyperでイケてるターミナルをつかおう",
     "url": "https://qiita.com/vimyum/items/44478a51ef3a6f49804f",
-    "likes_count": 544,
+    "likes_count": 543,
     "created_at": "2018-05-18T01:22:23+09:00",
     "updated_at": "2018-07-07T23:56:17+09:00",
     "id": "vimyum"
@@ -370,7 +370,7 @@
   {
     "title": "5000人に聞いた、2018年最先端のフロントエンド開発者が使ってるツールはこれだ",
     "url": "https://qiita.com/rana_kualu/items/8dc3f93a7176d9a0f05d",
-    "likes_count": 517,
+    "likes_count": 516,
     "created_at": "2018-05-11T20:17:44+09:00",
     "updated_at": "2019-04-28T09:01:57+09:00",
     "id": "rana_kualu"
@@ -490,7 +490,7 @@
   {
     "title": "python3 の async/awaitを理解する",
     "url": "https://qiita.com/maueki/items/8f1e190681682ea11c98",
-    "likes_count": 368,
+    "likes_count": 369,
     "created_at": "2018-05-18T15:04:54+09:00",
     "updated_at": "2019-03-12T11:13:29+09:00",
     "id": "maueki"

@@ -18,7 +18,7 @@
   {
     "title": "プロジェクトの残業を50%削減したタスク管理手法を惜しみなく公開する",
     "url": "https://qiita.com/0w0/items/0b287be30af6539ac5e9",
-    "likes_count": 1733,
+    "likes_count": 1732,
     "created_at": "2017-09-10T21:46:15+09:00",
     "updated_at": "2018-08-07T18:36:23+09:00",
     "id": "0w0"
@@ -26,7 +26,7 @@
   {
     "title": "真偽値を返す関数のネーミング",
     "url": "https://qiita.com/yskszk/items/5a7f99c974773f03a82a",
-    "likes_count": 1526,
+    "likes_count": 1525,
     "created_at": "2017-09-06T22:42:55+09:00",
     "updated_at": "2017-09-19T22:42:23+09:00",
     "id": "yskszk"
@@ -34,7 +34,7 @@
   {
     "title": "いい加減覚えよう。 `command > /dev/null 2>&1`の意味",
     "url": "https://qiita.com/ritukiii/items/b3d91e97b71ecd41d4ea",
-    "likes_count": 1110,
+    "likes_count": 1109,
     "created_at": "2017-09-06T22:55:16+09:00",
     "updated_at": "2018-11-09T10:28:16+09:00",
     "id": "ritukiii"
@@ -42,7 +42,7 @@
   {
     "title": "pythonで小さなツールを作る時のtips",
     "url": "https://qiita.com/m_mizutani/items/c48f67f871d1d41ff4b9",
-    "likes_count": 1063,
+    "likes_count": 1062,
     "created_at": "2017-09-04T12:50:02+09:00",
     "updated_at": "2017-09-05T15:39:30+09:00",
     "id": "m_mizutani"
@@ -146,7 +146,7 @@
   {
     "title": "【2017年8月】先輩エンジニアに聞いた信頼できる書籍まとめ",
     "url": "https://qiita.com/maimax/items/c5ac541be1d475c012cf",
-    "likes_count": 588,
+    "likes_count": 587,
     "created_at": "2017-09-02T16:36:32+09:00",
     "updated_at": "2017-09-04T16:03:09+09:00",
     "id": "maimax"
@@ -200,14 +200,6 @@
     "id": "rotelstift"
   },
   {
-    "title": "データサイエンティストを目指して半年で学んだことまとめ",
-    "url": "https://qiita.com/KIKUYA-Takumi/items/531edd4e62c3e14a6d08",
-    "likes_count": 505,
-    "created_at": "2017-09-28T06:19:26+09:00",
-    "updated_at": "2017-09-28T06:19:26+09:00",
-    "id": "KIKUYA-Takumi"
-  },
-  {
     "title": "【初心者向け】「コミットの粒度がわからない問題」の模範解答を考えてみた",
     "url": "https://qiita.com/jnchito/items/40e0c7d32fde352607be",
     "likes_count": 504,
@@ -216,9 +208,17 @@
     "id": "jnchito"
   },
   {
+    "title": "データサイエンティストを目指して半年で学んだことまとめ",
+    "url": "https://qiita.com/KIKUYA-Takumi/items/531edd4e62c3e14a6d08",
+    "likes_count": 504,
+    "created_at": "2017-09-28T06:19:26+09:00",
+    "updated_at": "2017-09-28T06:19:26+09:00",
+    "id": "KIKUYA-Takumi"
+  },
+  {
     "title": "日常から使えるUnix系OS業務効率up技",
     "url": "https://qiita.com/onokatio/items/50fb616f71bf3c5021b9",
-    "likes_count": 494,
+    "likes_count": 493,
     "created_at": "2017-09-14T16:36:20+09:00",
     "updated_at": "2019-11-09T18:47:02+09:00",
     "id": "onokatio"
@@ -242,7 +242,7 @@
   {
     "title": "無駄な会議・ミーティングなくし、生産性を上げるためにやるべき26（＋1）のこと",
     "url": "https://qiita.com/Akira-Isegawa/items/e33de4309202c73c4ca0",
-    "likes_count": 446,
+    "likes_count": 445,
     "created_at": "2017-09-30T16:48:01+09:00",
     "updated_at": "2019-12-04T22:05:19+09:00",
     "id": "Akira-Isegawa"
@@ -306,7 +306,7 @@
   {
     "title": "【iOSDC2017】MVC→MVP→MVVM→Fluxの実装の違いを比較してみる",
     "url": "https://qiita.com/marty-suzuki/items/5a4f680b10bb82501aa3",
-    "likes_count": 356,
+    "likes_count": 357,
     "created_at": "2017-09-22T17:35:49+09:00",
     "updated_at": "2017-09-22T17:35:49+09:00",
     "id": "marty-suzuki"
@@ -402,7 +402,7 @@
   {
     "title": "IT関連技術を効率的に検索する",
     "url": "https://qiita.com/yoichiwo7/items/9a38ef1c5ab41b163cf1",
-    "likes_count": 249,
+    "likes_count": 248,
     "created_at": "2017-09-30T17:00:59+09:00",
     "updated_at": "2018-04-08T14:36:25+09:00",
     "id": "yoichiwo7"
@@ -410,7 +410,7 @@
   {
     "title": "【オマケ記事】超短期型タスク管理をカバーする！ステキな中長期計画法",
     "url": "https://qiita.com/0w0/items/f2aafd0d9a5fa95f7c24",
-    "likes_count": 245,
+    "likes_count": 244,
     "created_at": "2017-09-18T20:16:40+09:00",
     "updated_at": "2018-09-30T10:46:55+09:00",
     "id": "0w0"
