@@ -10,7 +10,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 3008,
+    "likes_count": 3009,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -42,7 +42,7 @@
   {
     "title": "気付いたら.gitignoreはgiboで自動生成する時代になっていた",
     "url": "https://qiita.com/tmknom/items/c4bcebe17d25381fa45d",
-    "likes_count": 1903,
+    "likes_count": 1902,
     "created_at": "2015-12-31T13:47:48+09:00",
     "updated_at": "2017-06-26T15:44:25+09:00",
     "id": "tmknom"
@@ -218,7 +218,7 @@
   {
     "title": "Arduinoを自作して量産して販売する(超小型Arduino互換機 8pinoを例に)",
     "url": "https://qiita.com/akichika/items/4c282c638b38681050d9",
-    "likes_count": 826,
+    "likes_count": 827,
     "created_at": "2015-12-18T06:47:56+09:00",
     "updated_at": "2020-11-13T22:19:15+09:00",
     "id": "akichika"
@@ -242,7 +242,7 @@
   {
     "title": "Pythonエラー一覧（日本語）",
     "url": "https://qiita.com/soutarrr7/items/84e529d87aa3b3a9adcb",
-    "likes_count": 764,
+    "likes_count": 765,
     "created_at": "2015-12-26T13:44:59+09:00",
     "updated_at": "2016-01-08T16:20:22+09:00",
     "id": "soutarrr7"
@@ -592,20 +592,20 @@
     "id": "daichiro"
   },
   {
+    "title": "異常検知と変化検知のまとめ　数式なし",
+    "url": "https://qiita.com/GushiSnow/items/f032806cfa8cec046318",
+    "likes_count": 359,
+    "created_at": "2015-12-17T00:00:49+09:00",
+    "updated_at": "2015-12-17T00:00:49+09:00",
+    "id": "GushiSnow"
+  },
+  {
     "title": "C99からC++14を駆け抜けるC++講座",
     "url": "https://qiita.com/yumetodo/items/e49a673afd9a3ecb81a8",
     "likes_count": 359,
     "created_at": "2015-12-17T00:46:03+09:00",
     "updated_at": "2019-04-02T11:20:25+09:00",
     "id": "yumetodo"
-  },
-  {
-    "title": "異常検知と変化検知のまとめ　数式なし",
-    "url": "https://qiita.com/GushiSnow/items/f032806cfa8cec046318",
-    "likes_count": 358,
-    "created_at": "2015-12-17T00:00:49+09:00",
-    "updated_at": "2015-12-17T00:00:49+09:00",
-    "id": "GushiSnow"
   },
   {
     "title": "Terraform と CI で実現するインフラのコード化と構築の自動化",
