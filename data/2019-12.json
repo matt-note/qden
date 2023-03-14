@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2714,
+    "likes_count": 2715,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -26,7 +26,7 @@
   {
     "title": "エンジニア採用面接での「質問項目」と「意図」を公開する（2021年11月25日更新）",
     "url": "https://qiita.com/kamesennin/items/fc8242f7c395b828f650",
-    "likes_count": 2019,
+    "likes_count": 2021,
     "created_at": "2019-12-20T15:18:16+09:00",
     "updated_at": "2023-02-01T18:43:03+09:00",
     "id": "kamesennin"
@@ -50,7 +50,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1945,
+    "likes_count": 1947,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2021-08-02T17:06:13+09:00",
     "id": "hirokidaichi"
@@ -82,7 +82,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1585,
+    "likes_count": 1587,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2022-12-16T17:42:28+09:00",
     "id": "omiita"
@@ -106,7 +106,7 @@
   {
     "title": "いつものように本番作業してたはずなのに",
     "url": "https://qiita.com/2gt/items/d6906a185109e66df74f",
-    "likes_count": 1458,
+    "likes_count": 1457,
     "created_at": "2019-12-01T03:14:24+09:00",
     "updated_at": "2019-12-01T09:40:48+09:00",
     "id": "2gt"
@@ -138,7 +138,7 @@
   {
     "title": "GoF デザインパターン チートシート",
     "url": "https://qiita.com/tanakahisateru/items/df03d2558f9499d1a64a",
-    "likes_count": 1084,
+    "likes_count": 1085,
     "created_at": "2019-12-24T12:53:20+09:00",
     "updated_at": "2019-12-24T14:49:39+09:00",
     "id": "tanakahisateru"
@@ -162,7 +162,7 @@
   {
     "title": "ようこそdotfilesの世界へ",
     "url": "https://qiita.com/yutkat/items/c6c7584d9795799ee164",
-    "likes_count": 976,
+    "likes_count": 977,
     "created_at": "2019-12-01T00:30:44+09:00",
     "updated_at": "2021-02-23T03:36:42+09:00",
     "id": "yutkat"
@@ -170,7 +170,7 @@
   {
     "title": "Reactの最強フレームワークGatsby.jsの良さを伝えたい！！",
     "url": "https://qiita.com/hppRC/items/00739eaf9ae7fc95c1ca",
-    "likes_count": 976,
+    "likes_count": 977,
     "created_at": "2019-12-01T02:06:05+09:00",
     "updated_at": "2020-02-15T00:29:26+09:00",
     "id": "hppRC"
@@ -242,7 +242,7 @@
   {
     "title": "Party Parrot とは 〜イカれたオウムの歴史を紐解く〜",
     "url": "https://qiita.com/ayatothos/items/0c3da3d48fe8ade705e6",
-    "likes_count": 734,
+    "likes_count": 733,
     "created_at": "2019-12-17T01:20:19+09:00",
     "updated_at": "2020-07-28T17:57:45+09:00",
     "id": "ayatothos"
@@ -360,20 +360,20 @@
     "id": "tetsufe"
   },
   {
+    "title": "NestJSのススメ ～Expressを超えてゆけ～",
+    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
+    "likes_count": 528,
+    "created_at": "2019-12-22T15:46:56+09:00",
+    "updated_at": "2020-04-18T20:27:13+09:00",
+    "id": "elipmoc101"
+  },
+  {
     "title": "図解！ネットワークの7層を実務に当てはめてみた",
     "url": "https://qiita.com/manamin0521/items/1df1ec65637ad1620329",
     "likes_count": 527,
     "created_at": "2019-12-19T11:00:20+09:00",
     "updated_at": "2020-12-10T10:44:13+09:00",
     "id": "manamin0521"
-  },
-  {
-    "title": "NestJSのススメ ～Expressを超えてゆけ～",
-    "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 527,
-    "created_at": "2019-12-22T15:46:56+09:00",
-    "updated_at": "2020-04-18T20:27:13+09:00",
-    "id": "elipmoc101"
   },
   {
     "title": "ドメイン駆動設計で貧乏を爆殺する",
@@ -410,7 +410,7 @@
   {
     "title": "VS Code ネタ詰め合わせ",
     "url": "https://qiita.com/wraith13/items/9b7da9e2c2355f7573dd",
-    "likes_count": 491,
+    "likes_count": 490,
     "created_at": "2019-12-25T23:43:23+09:00",
     "updated_at": "2019-12-26T16:19:24+09:00",
     "id": "wraith13"
