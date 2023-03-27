@@ -18,7 +18,7 @@
   {
     "title": "Awesome Python：素晴らしい Python フレームワーク・ライブラリ・ソフトウェア・リソースの数々",
     "url": "https://qiita.com/hatai/items/34c91d4ee0b54bd7cb8b",
-    "likes_count": 1597,
+    "likes_count": 1596,
     "created_at": "2017-02-01T19:47:28+09:00",
     "updated_at": "2020-05-31T22:48:15+09:00",
     "id": "hatai"
@@ -74,7 +74,7 @@
   {
     "title": "Pythonistaなら知っておきたい計算量のはなし",
     "url": "https://qiita.com/Hironsan/items/68161ee16b1c9d7b25fb",
-    "likes_count": 721,
+    "likes_count": 722,
     "created_at": "2017-02-27T09:02:55+09:00",
     "updated_at": "2022-11-16T12:19:02+09:00",
     "id": "Hironsan"
@@ -90,7 +90,7 @@
   {
     "title": "Awesome JavaScript  : 素晴らしい JavaScript ライブラリ・リソースの数々",
     "url": "https://qiita.com/hatai/items/5bf899bfe8f5d86d2096",
-    "likes_count": 696,
+    "likes_count": 695,
     "created_at": "2017-02-03T18:06:04+09:00",
     "updated_at": "2020-06-12T17:08:21+09:00",
     "id": "hatai"
@@ -256,20 +256,20 @@
     "id": "mohira"
   },
   {
+    "title": "簡単なウインドウアプリ(GUI)開発のまとめ(Windows偏)",
+    "url": "https://qiita.com/yosgspec/items/810843f863075d33a093",
+    "likes_count": 393,
+    "created_at": "2017-02-06T03:02:28+09:00",
+    "updated_at": "2020-12-09T23:56:03+09:00",
+    "id": "yosgspec"
+  },
+  {
     "title": "新人さんに知ってほしい「文字コードのお話」",
     "url": "https://qiita.com/yuji38kwmt/items/b3a7820b4d3b544da4ff",
     "likes_count": 393,
     "created_at": "2017-02-14T01:02:33+09:00",
     "updated_at": "2020-06-23T19:23:03+09:00",
     "id": "yuji38kwmt"
-  },
-  {
-    "title": "簡単なウインドウアプリ(GUI)開発のまとめ(Windows偏)",
-    "url": "https://qiita.com/yosgspec/items/810843f863075d33a093",
-    "likes_count": 391,
-    "created_at": "2017-02-06T03:02:28+09:00",
-    "updated_at": "2020-12-09T23:56:03+09:00",
-    "id": "yosgspec"
   },
   {
     "title": "4人規模で同人ゲームを制作するに当たって使用したツールやサービスの紹介",
@@ -408,19 +408,19 @@
     "id": "yukiB"
   },
   {
-    "title": "gitのマージとコンフリクトを理解する",
-    "url": "https://qiita.com/te2u/items/c23f82ec84cf65564554",
-    "likes_count": 274,
-    "created_at": "2017-02-11T10:17:23+09:00",
-    "updated_at": "2017-02-11T10:17:23+09:00",
-    "id": "te2u"
-  },
-  {
     "title": "Kibanaで簡単! サクサク ビジュアライズしよう！",
     "url": "https://qiita.com/kitfactory/items/9c2f990d87e33fab828a",
     "likes_count": 274,
     "created_at": "2017-02-25T19:23:17+09:00",
     "updated_at": "2017-02-25T22:37:13+09:00",
     "id": "kitfactory"
+  },
+  {
+    "title": "gitのマージとコンフリクトを理解する",
+    "url": "https://qiita.com/te2u/items/c23f82ec84cf65564554",
+    "likes_count": 273,
+    "created_at": "2017-02-11T10:17:23+09:00",
+    "updated_at": "2017-02-11T10:17:23+09:00",
+    "id": "te2u"
   }
 ]
