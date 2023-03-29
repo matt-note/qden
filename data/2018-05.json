@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3473,
+    "likes_count": 3475,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -40,6 +40,14 @@
     "id": "tani_AI_Academy"
   },
   {
+    "title": "Repositoryパターンのアンチパターン",
+    "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
+    "likes_count": 2029,
+    "created_at": "2018-05-18T18:00:05+09:00",
+    "updated_at": "2022-07-05T23:31:13+09:00",
+    "id": "mikesorae"
+  },
+  {
     "title": "「赤の他人」の対義語は「白い恋人」 これを自動生成したい物語",
     "url": "https://qiita.com/youwht/items/f21325ff62603e8664e6",
     "likes_count": 2026,
@@ -48,17 +56,9 @@
     "id": "youwht"
   },
   {
-    "title": "Repositoryパターンのアンチパターン",
-    "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2026,
-    "created_at": "2018-05-18T18:00:05+09:00",
-    "updated_at": "2022-07-05T23:31:13+09:00",
-    "id": "mikesorae"
-  },
-  {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1945,
+    "likes_count": 1947,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -226,7 +226,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/fritz22/items/fcb81753eaf381b4b33c",
-    "likes_count": 687,
+    "likes_count": 688,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "fritz22"
@@ -258,7 +258,7 @@
   {
     "title": "ROS講座00 目次",
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
-    "likes_count": 660,
+    "likes_count": 661,
     "created_at": "2018-05-02T09:27:43+09:00",
     "updated_at": "2022-10-07T09:52:10+09:00",
     "id": "srs"
@@ -266,7 +266,7 @@
   {
     "title": "FizzBuzzを1byteで実装する",
     "url": "https://qiita.com/ymg_aq/items/b8e5d26035180bc8797e",
-    "likes_count": 659,
+    "likes_count": 660,
     "created_at": "2018-05-17T16:59:36+09:00",
     "updated_at": "2018-05-19T11:23:34+09:00",
     "id": "ymg_aq"
