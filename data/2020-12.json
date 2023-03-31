@@ -10,7 +10,7 @@
   {
     "title": "もしあなたが急にAndroidアプリを業務で作るはめになった場合の選択肢(2021年初頭版)",
     "url": "https://qiita.com/Gazyu/items/dafdb74c4aadf722da92",
-    "likes_count": 2002,
+    "likes_count": 2003,
     "created_at": "2020-12-01T00:37:33+09:00",
     "updated_at": "2020-12-02T13:17:25+09:00",
     "id": "Gazyu"
@@ -34,7 +34,7 @@
   {
     "title": "イスラエル8200部隊出身のガチプロハッカーに、一流のハッカーになる方法について聞いてみた。",
     "url": "https://qiita.com/tmgauss/items/da5e89496e951629517f",
-    "likes_count": 1754,
+    "likes_count": 1755,
     "created_at": "2020-12-23T18:42:40+09:00",
     "updated_at": "2021-06-09T16:29:05+09:00",
     "id": "tmgauss"
@@ -42,7 +42,7 @@
   {
     "title": "技術選定/アーキテクチャ設計で後悔しないためのガイドライン",
     "url": "https://qiita.com/hirokidaichi/items/a746062917595619720b",
-    "likes_count": 1745,
+    "likes_count": 1746,
     "created_at": "2020-12-15T16:21:33+09:00",
     "updated_at": "2021-07-07T17:14:39+09:00",
     "id": "hirokidaichi"
@@ -50,7 +50,7 @@
   {
     "title": "フロントエンドを100倍速くした（ ＾ω＾）",
     "url": "https://qiita.com/nanocloudx/items/ed53c1cdb90f8d0f120c",
-    "likes_count": 1361,
+    "likes_count": 1362,
     "created_at": "2020-12-25T00:01:06+09:00",
     "updated_at": "2021-01-21T23:23:48+09:00",
     "id": "nanocloudx"
@@ -98,7 +98,7 @@
   {
     "title": "WebSocketの次の技術！？WebTransportについての解説とチュートリアル",
     "url": "https://qiita.com/yuki_uchida/items/d9de148bb2ee418563cf",
-    "likes_count": 847,
+    "likes_count": 846,
     "created_at": "2020-12-02T20:02:38+09:00",
     "updated_at": "2021-04-27T23:21:54+09:00",
     "id": "yuki_uchida"
@@ -106,7 +106,7 @@
   {
     "title": "1年半のソフトウェアエンジニア長期インターンで出会ったオススメ本をたくさん紹介します",
     "url": "https://qiita.com/TodayInsane/items/5a04b5b1cf846a6d11d8",
-    "likes_count": 833,
+    "likes_count": 835,
     "created_at": "2020-12-04T09:48:13+09:00",
     "updated_at": "2020-12-05T02:24:52+09:00",
     "id": "TodayInsane"
@@ -122,7 +122,7 @@
   {
     "title": "「俺はこっちのデザインの方が良いと思うな〜」の倒し方",
     "url": "https://qiita.com/Leonardo-mbc/items/02f1bc15127c7e77e5d0",
-    "likes_count": 687,
+    "likes_count": 686,
     "created_at": "2020-12-21T07:06:02+09:00",
     "updated_at": "2021-05-14T11:12:02+09:00",
     "id": "Leonardo-mbc"
@@ -306,18 +306,10 @@
   {
     "title": "【動画解説】2020年に読んだAI論文100本全部解説(俺的ベスト3付き)",
     "url": "https://qiita.com/wataoka/items/85a92ec66fb2432a9b4b",
-    "likes_count": 394,
+    "likes_count": 395,
     "created_at": "2020-12-31T11:09:19+09:00",
     "updated_at": "2021-12-11T22:00:22+09:00",
     "id": "wataoka"
-  },
-  {
-    "title": "Pythonさえ分かればDjangoでWebアプリは作れる",
-    "url": "https://qiita.com/pythonista/items/19613663ef7bb3c57d4f",
-    "likes_count": 389,
-    "created_at": "2020-12-25T06:52:48+09:00",
-    "updated_at": "2021-01-02T14:50:22+09:00",
-    "id": "pythonista"
   },
   {
     "title": "レビューする人も、される人も知っておきたい！開発プロセスごとのレビュー観点チェックリスト",
@@ -334,6 +326,14 @@
     "created_at": "2020-12-22T10:16:23+09:00",
     "updated_at": "2020-12-24T14:32:44+09:00",
     "id": "shohta-noda"
+  },
+  {
+    "title": "Pythonさえ分かればDjangoでWebアプリは作れる",
+    "url": "https://qiita.com/pythonista/items/19613663ef7bb3c57d4f",
+    "likes_count": 388,
+    "created_at": "2020-12-25T06:52:48+09:00",
+    "updated_at": "2021-01-02T14:50:22+09:00",
+    "id": "pythonista"
   },
   {
     "title": "【図解】1から学ぶ JavaScript の 非同期処理",
@@ -402,7 +402,7 @@
   {
     "title": "GraphQLはサーバーサイド実装のベストプラクティスとなるか",
     "url": "https://qiita.com/saboyutaka/items/8a75602a3a7b52af1a69",
-    "likes_count": 326,
+    "likes_count": 327,
     "created_at": "2020-12-15T07:00:42+09:00",
     "updated_at": "2022-11-28T10:27:47+09:00",
     "id": "saboyutaka"

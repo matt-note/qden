@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4908,
+    "likes_count": 4907,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -42,7 +42,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2032,
+    "likes_count": 2033,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1947,
+    "likes_count": 1949,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -210,7 +210,7 @@
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
     "url": "https://qiita.com/tag1216/items/13b032348c893667862a",
-    "likes_count": 710,
+    "likes_count": 711,
     "created_at": "2018-05-21T08:09:42+09:00",
     "updated_at": "2018-05-21T21:53:00+09:00",
     "id": "tag1216"
@@ -226,7 +226,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/fritz22/items/fcb81753eaf381b4b33c",
-    "likes_count": 688,
+    "likes_count": 687,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "fritz22"
@@ -352,20 +352,20 @@
     "id": "nowokay"
   },
   {
+    "title": "SSH公開鍵認証で接続するまで",
+    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
+    "likes_count": 534,
+    "created_at": "2018-05-06T12:00:20+09:00",
+    "updated_at": "2021-08-15T21:26:32+09:00",
+    "id": "kazokmr"
+  },
+  {
     "title": "Django未経験者に送るDjango入門ロードマップ",
     "url": "https://qiita.com/nossey/items/03e114a7b728a8b2ae55",
     "likes_count": 534,
     "created_at": "2018-05-20T04:31:55+09:00",
     "updated_at": "2019-10-09T23:01:05+09:00",
     "id": "nossey"
-  },
-  {
-    "title": "SSH公開鍵認証で接続するまで",
-    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 533,
-    "created_at": "2018-05-06T12:00:20+09:00",
-    "updated_at": "2021-08-15T21:26:32+09:00",
-    "id": "kazokmr"
   },
   {
     "title": "5000人に聞いた、2018年最先端のフロントエンド開発者が使ってるツールはこれだ",
@@ -538,7 +538,7 @@
   {
     "title": "ホワイトボックステストにおけるカバレッジ（C0/C1/C2/MCC）について",
     "url": "https://qiita.com/odekekepeanuts/items/8b6542467d2a0066e5af",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2018-05-17T23:30:18+09:00",
     "updated_at": "2018-05-17T23:30:40+09:00",
     "id": "odekekepeanuts"
@@ -594,7 +594,7 @@
   {
     "title": "【sed / awk / grep】文字列の置換・抽出・検索と正規表現 | Linux Cheat Sheet",
     "url": "https://qiita.com/shuntaro_tamura/items/e4e942e7186934fae5e7",
-    "likes_count": 265,
+    "likes_count": 266,
     "created_at": "2018-05-29T23:27:59+09:00",
     "updated_at": "2018-05-30T00:41:15+09:00",
     "id": "shuntaro_tamura"
