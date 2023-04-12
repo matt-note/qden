@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3484,
+    "likes_count": 3486,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -42,7 +42,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2035,
+    "likes_count": 2036,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1952,
+    "likes_count": 1953,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -74,7 +74,7 @@
   {
     "title": "Dockerについてなるべくわかりやすく説明する",
     "url": "https://qiita.com/rawHam/items/80ba13d2d2d56dba411e",
-    "likes_count": 1463,
+    "likes_count": 1464,
     "created_at": "2018-05-12T19:51:25+09:00",
     "updated_at": "2019-09-13T09:56:44+09:00",
     "id": "rawHam"
@@ -114,7 +114,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 1024,
+    "likes_count": 1025,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -258,7 +258,7 @@
   {
     "title": "ROS講座00 目次",
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
-    "likes_count": 662,
+    "likes_count": 663,
     "created_at": "2018-05-02T09:27:43+09:00",
     "updated_at": "2022-10-07T09:52:10+09:00",
     "id": "srs"
@@ -282,7 +282,7 @@
   {
     "title": "結局、機械学習と統計学は何が違うのか？",
     "url": "https://qiita.com/KanNishida/items/8ab8553b17cb57e772d6",
-    "likes_count": 603,
+    "likes_count": 604,
     "created_at": "2018-05-07T15:47:30+09:00",
     "updated_at": "2018-05-08T03:19:12+09:00",
     "id": "KanNishida"
@@ -402,7 +402,7 @@
   {
     "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
     "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
-    "likes_count": 485,
+    "likes_count": 486,
     "created_at": "2018-05-21T00:02:30+09:00",
     "updated_at": "2018-12-13T21:47:28+09:00",
     "id": "shtnkgm"
@@ -456,20 +456,20 @@
     "id": "ymg_aq"
   },
   {
+    "title": "Gradle の compile, api, implementation とかについて",
+    "url": "https://qiita.com/opengl-8080/items/6ad642e0b016465891de",
+    "likes_count": 395,
+    "created_at": "2018-05-25T22:17:55+09:00",
+    "updated_at": "2018-05-25T22:17:55+09:00",
+    "id": "opengl-8080"
+  },
+  {
     "title": "【コードある】Nuxt + WordPress  で  netlify 運用が爆速すぎて神だった",
     "url": "https://qiita.com/yahsan2/items/39eb9e3e19f72257084c",
     "likes_count": 394,
     "created_at": "2018-05-02T21:43:05+09:00",
     "updated_at": "2018-06-04T19:28:55+09:00",
     "id": "yahsan2"
-  },
-  {
-    "title": "Gradle の compile, api, implementation とかについて",
-    "url": "https://qiita.com/opengl-8080/items/6ad642e0b016465891de",
-    "likes_count": 394,
-    "created_at": "2018-05-25T22:17:55+09:00",
-    "updated_at": "2018-05-25T22:17:55+09:00",
-    "id": "opengl-8080"
   },
   {
     "title": "dockerで簡易にpython3の環境を作ってみる",
@@ -554,7 +554,7 @@
   {
     "title": "知識0から統計検定2級取得を目指した話",
     "url": "https://qiita.com/akiyoshi_sasaki/items/8e4d7895f2647e22b5f9",
-    "likes_count": 344,
+    "likes_count": 343,
     "created_at": "2018-05-11T11:45:56+09:00",
     "updated_at": "2020-04-17T11:40:05+09:00",
     "id": "akiyoshi_sasaki"
@@ -568,20 +568,20 @@
     "id": "kojiro_ueda"
   },
   {
+    "title": "そろそろ知っておきたいHTTP/2の話",
+    "url": "https://qiita.com/mogamin3/items/7698ee3336c70a482843",
+    "likes_count": 329,
+    "created_at": "2018-05-21T13:32:19+09:00",
+    "updated_at": "2018-10-20T14:09:20+09:00",
+    "id": "mogamin3"
+  },
+  {
     "title": "ゲームでよく見落とされるテストケースとその再現手法",
     "url": "https://qiita.com/taptappun/items/1d3e2c9646cf7d4557db",
     "likes_count": 328,
     "created_at": "2018-05-19T04:30:59+09:00",
     "updated_at": "2019-06-14T19:59:13+09:00",
     "id": "taptappun"
-  },
-  {
-    "title": "そろそろ知っておきたいHTTP/2の話",
-    "url": "https://qiita.com/mogamin3/items/7698ee3336c70a482843",
-    "likes_count": 328,
-    "created_at": "2018-05-21T13:32:19+09:00",
-    "updated_at": "2018-10-20T14:09:20+09:00",
-    "id": "mogamin3"
   },
   {
     "title": "PythonとMeCabで形態素解析(on Windows)",

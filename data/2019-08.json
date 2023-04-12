@@ -10,7 +10,7 @@
   {
     "title": "2019年のDevOps/MLOpsエンジニアの標準的スキルセット",
     "url": "https://qiita.com/poly_soft/items/8dd105341869f93b129c",
-    "likes_count": 1552,
+    "likes_count": 1551,
     "created_at": "2019-08-21T16:57:57+09:00",
     "updated_at": "2019-08-27T14:43:19+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "【まとめ】ディープラーニングを使った異常検知",
     "url": "https://qiita.com/shinmura0/items/06d81c72601c7578c6d3",
-    "likes_count": 1166,
+    "likes_count": 1165,
     "created_at": "2019-08-06T12:34:26+09:00",
     "updated_at": "2021-03-10T12:58:40+09:00",
     "id": "shinmura0"
@@ -26,7 +26,7 @@
   {
     "title": "これで完璧！今さら振り返る CSRF 対策と同一オリジンポリシーの基礎",
     "url": "https://qiita.com/mpyw/items/0595f07736cfa5b1f50c",
-    "likes_count": 1088,
+    "likes_count": 1089,
     "created_at": "2019-08-31T02:45:11+09:00",
     "updated_at": "2019-09-02T04:09:06+09:00",
     "id": "mpyw"
@@ -58,7 +58,7 @@
   {
     "title": "XGBoost論文を丁寧に解説する(1)",
     "url": "https://qiita.com/triwave33/items/aad60f25485a4595b5c8",
-    "likes_count": 763,
+    "likes_count": 764,
     "created_at": "2019-08-08T22:11:19+09:00",
     "updated_at": "2021-01-29T21:56:18+09:00",
     "id": "triwave33"
@@ -66,7 +66,7 @@
   {
     "title": "docker-compose 'up' とか 'build' とか 'start' とかの違いを理解できていなかったのでまとめてみた",
     "url": "https://qiita.com/tegnike/items/bcdcee0320e11a928d46",
-    "likes_count": 690,
+    "likes_count": 691,
     "created_at": "2019-08-23T18:43:20+09:00",
     "updated_at": "2022-10-18T15:47:27+09:00",
     "id": "tegnike"
@@ -96,20 +96,20 @@
     "id": "yukibear"
   },
   {
-    "title": "あなたが必要としていることを知らなかった10の開発ツール",
-    "url": "https://qiita.com/rana_kualu/items/5070079e46e629e18ed0",
-    "likes_count": 650,
-    "created_at": "2019-08-08T19:58:10+09:00",
-    "updated_at": "2019-08-09T19:54:10+09:00",
-    "id": "rana_kualu"
-  },
-  {
     "title": "Vimのターミナルの真の力お見せしますよ",
     "url": "https://qiita.com/gorilla0513/items/4d1c610f1283bbe46f81",
     "likes_count": 650,
     "created_at": "2019-08-13T08:36:33+09:00",
     "updated_at": "2019-08-17T07:49:34+09:00",
     "id": "gorilla0513"
+  },
+  {
+    "title": "あなたが必要としていることを知らなかった10の開発ツール",
+    "url": "https://qiita.com/rana_kualu/items/5070079e46e629e18ed0",
+    "likes_count": 649,
+    "created_at": "2019-08-08T19:58:10+09:00",
+    "updated_at": "2019-08-09T19:54:10+09:00",
+    "id": "rana_kualu"
   },
   {
     "title": "git操作はGUIツール派な自分もCUIに乗り換えた便利git拡張まとめ",
@@ -122,7 +122,7 @@
   {
     "title": "面倒くさがり屋な私でもできた、楽ちんなWebサービスの作り方。",
     "url": "https://qiita.com/igz0/items/9f09aa6f61c1eeb808f7",
-    "likes_count": 590,
+    "likes_count": 589,
     "created_at": "2019-08-10T12:22:17+09:00",
     "updated_at": "2021-03-23T10:37:59+09:00",
     "id": "igz0"
@@ -194,7 +194,7 @@
   {
     "title": "Excelで誰でも簡単言語処理 (感情推定, 固有表現抽出, キーワード抽出,  文類似度推定 etc...)",
     "url": "https://qiita.com/Harusugi/items/535874c0456dbc4db231",
-    "likes_count": 483,
+    "likes_count": 482,
     "created_at": "2019-08-05T08:01:22+09:00",
     "updated_at": "2019-09-13T15:24:03+09:00",
     "id": "Harusugi"
@@ -250,7 +250,7 @@
   {
     "title": "失敗しづらいUIへのアプローチ",
     "url": "https://qiita.com/megumu-u/items/b96b7fc7b0a57d72a47f",
-    "likes_count": 383,
+    "likes_count": 382,
     "created_at": "2019-08-05T07:59:02+09:00",
     "updated_at": "2019-09-05T17:02:40+09:00",
     "id": "megumu-u"
@@ -298,7 +298,7 @@
   {
     "title": "FlaskとVue.jsでSPA Webアプリ開発",
     "url": "https://qiita.com/y-tsutsu/items/67f71fc8430a199a3efd",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2019-08-26T07:47:36+09:00",
     "updated_at": "2021-06-15T21:32:06+09:00",
     "id": "y-tsutsu"
