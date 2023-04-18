@@ -2,7 +2,7 @@
   {
     "title": "Cookieとセッションをちゃんと理解する",
     "url": "https://qiita.com/hththt/items/07136ad74127999df271",
-    "likes_count": 2686,
+    "likes_count": 2687,
     "created_at": "2015-08-07T19:37:58+09:00",
     "updated_at": "2020-01-20T12:54:29+09:00",
     "id": "hththt"
@@ -66,10 +66,18 @@
   {
     "title": "package.json のチルダ(~) とキャレット(^)",
     "url": "https://qiita.com/sotarok/items/4ebd4cfedab186355867",
-    "likes_count": 850,
+    "likes_count": 851,
     "created_at": "2015-08-20T10:42:26+09:00",
     "updated_at": "2016-08-01T11:49:47+09:00",
     "id": "sotarok"
+  },
+  {
+    "title": "どんなエディタでもEditorConfigを使ってコードの統一性を高める",
+    "url": "https://qiita.com/naru0504/items/82f09881abaf3f4dc171",
+    "likes_count": 843,
+    "created_at": "2015-08-20T16:12:23+09:00",
+    "updated_at": "2019-04-12T13:49:11+09:00",
+    "id": "naru0504"
   },
   {
     "title": "JavaScript の イテレータ を極める！",
@@ -78,14 +86,6 @@
     "created_at": "2015-08-16T20:51:50+09:00",
     "updated_at": "2017-03-14T00:53:13+09:00",
     "id": "kura07"
-  },
-  {
-    "title": "どんなエディタでもEditorConfigを使ってコードの統一性を高める",
-    "url": "https://qiita.com/naru0504/items/82f09881abaf3f4dc171",
-    "likes_count": 842,
-    "created_at": "2015-08-20T16:12:23+09:00",
-    "updated_at": "2019-04-12T13:49:11+09:00",
-    "id": "naru0504"
   },
   {
     "title": "YAPC Asia 2015「Google Cloud Platformの謎テクノロジーを掘り下げる」のまとめ",
@@ -162,7 +162,7 @@
   {
     "title": "MySQLとPostgreSQLコマンド比較表",
     "url": "https://qiita.com/aosho235/items/c657e2fcd15fa0647471",
-    "likes_count": 559,
+    "likes_count": 560,
     "created_at": "2015-08-02T17:08:55+09:00",
     "updated_at": "2023-04-16T01:03:15+09:00",
     "id": "aosho235"
@@ -184,20 +184,20 @@
     "id": "koitaro"
   },
   {
-    "title": "個人的な良い記事のガイドライン = 2ヶ月前の自分が泣いて喜ぶような記事を書く",
-    "url": "https://qiita.com/jnchito/items/5c3eb3640ad57b3edc6c",
-    "likes_count": 457,
-    "created_at": "2015-08-26T08:03:39+09:00",
-    "updated_at": "2015-09-22T08:47:53+09:00",
-    "id": "jnchito"
-  },
-  {
     "title": "ローグライクを作ったので開発手順をまとめてみた",
     "url": "https://qiita.com/2dgames_jp/items/1730e7c4822091c3c320",
     "likes_count": 457,
     "created_at": "2015-08-31T13:28:12+09:00",
     "updated_at": "2016-03-16T22:34:38+09:00",
     "id": "2dgames_jp"
+  },
+  {
+    "title": "個人的な良い記事のガイドライン = 2ヶ月前の自分が泣いて喜ぶような記事を書く",
+    "url": "https://qiita.com/jnchito/items/5c3eb3640ad57b3edc6c",
+    "likes_count": 456,
+    "created_at": "2015-08-26T08:03:39+09:00",
+    "updated_at": "2015-09-22T08:47:53+09:00",
+    "id": "jnchito"
   },
   {
     "title": "HackMDってMarkdownEditorが革新的で使いやすい",
