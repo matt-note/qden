@@ -2,7 +2,7 @@
   {
     "title": "null安全でない言語は、もはやレガシー言語だ",
     "url": "https://qiita.com/koher/items/e4835bd429b88809ab33",
-    "likes_count": 1921,
+    "likes_count": 1920,
     "created_at": "2016-11-07T11:18:05+09:00",
     "updated_at": "2017-12-22T16:18:52+09:00",
     "id": "koher"
@@ -18,7 +18,7 @@
   {
     "title": "UUID(v4) がぶつかる可能性を考えなくていい理由",
     "url": "https://qiita.com/ta_ta_ta_miya/items/1f8f71db3c1bf2dfb7ea",
-    "likes_count": 1250,
+    "likes_count": 1249,
     "created_at": "2016-11-28T12:56:04+09:00",
     "updated_at": "2018-02-20T12:16:45+09:00",
     "id": "ta_ta_ta_miya"
@@ -98,7 +98,7 @@
   {
     "title": "null安全を誤解している人達へのメッセージ",
     "url": "https://qiita.com/omochimetaru/items/ee29d4c6eb0d78f02b15",
-    "likes_count": 714,
+    "likes_count": 713,
     "created_at": "2016-11-10T02:49:28+09:00",
     "updated_at": "2016-11-18T17:15:54+09:00",
     "id": "omochimetaru"
@@ -114,10 +114,18 @@
   {
     "title": "Docker for Macを使っていたら50GB位ディスク容量を圧迫していたのでいろんなものを削除する",
     "url": "https://qiita.com/shinespark/items/526b70b5f0b1ac643ba0",
-    "likes_count": 622,
+    "likes_count": 623,
     "created_at": "2016-11-30T02:49:21+09:00",
     "updated_at": "2020-08-12T12:56:31+09:00",
     "id": "shinespark"
+  },
+  {
+    "title": "ネットワーク図・システム構成図作成に使えるアイコン集",
+    "url": "https://qiita.com/Ping/items/521bbb8c66080a617a09",
+    "likes_count": 608,
+    "created_at": "2016-11-30T13:57:15+09:00",
+    "updated_at": "2022-03-04T15:44:33+09:00",
+    "id": "Ping"
   },
   {
     "title": "Amazon Linuxがコンテナ化されたので、Macで動かしてみた。",
@@ -126,14 +134,6 @@
     "created_at": "2016-11-02T09:31:29+09:00",
     "updated_at": "2016-11-02T09:32:50+09:00",
     "id": "taishin"
-  },
-  {
-    "title": "ネットワーク図・システム構成図作成に使えるアイコン集",
-    "url": "https://qiita.com/Ping/items/521bbb8c66080a617a09",
-    "likes_count": 599,
-    "created_at": "2016-11-30T13:57:15+09:00",
-    "updated_at": "2022-03-04T15:44:33+09:00",
-    "id": "Ping"
   },
   {
     "title": "Step by Stepで始めるESLint",
