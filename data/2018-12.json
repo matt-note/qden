@@ -58,7 +58,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1355,
+    "likes_count": 1356,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -194,7 +194,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 879,
+    "likes_count": 880,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2021-12-08T08:19:16+09:00",
     "id": "cha84rakanal"
@@ -266,7 +266,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 642,
+    "likes_count": 643,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2021-04-14T00:39:07+09:00",
     "id": "elipmoc101"
@@ -570,7 +570,7 @@
   {
     "title": "GraphQLのクエリを基礎から整理してみた",
     "url": "https://qiita.com/shunp/items/d85fc47b33e1b3a88167",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2018-12-23T04:55:03+09:00",
     "updated_at": "2018-12-23T04:55:03+09:00",
     "id": "shunp"
@@ -578,7 +578,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
@@ -632,6 +632,14 @@
     "id": "Hisashi_vc"
   },
   {
+    "title": "scpコマンド",
+    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
+    "likes_count": 345,
+    "created_at": "2018-12-22T21:41:23+09:00",
+    "updated_at": "2018-12-22T21:41:23+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "制御理論としての動的計画法",
     "url": "https://qiita.com/Ken-ichi_Hironaka/items/4158462e5a3efaba9d7b",
     "likes_count": 345,
@@ -646,14 +654,6 @@
     "created_at": "2018-12-09T07:06:15+09:00",
     "updated_at": "2019-10-22T12:53:39+09:00",
     "id": "howdy39"
-  },
-  {
-    "title": "scpコマンド",
-    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
-    "likes_count": 344,
-    "created_at": "2018-12-22T21:41:23+09:00",
-    "updated_at": "2018-12-22T21:41:23+09:00",
-    "id": "chihiro"
   },
   {
     "title": "Hugo で静的なサイト・ブログを構築しよう",
