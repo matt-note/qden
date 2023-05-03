@@ -26,7 +26,7 @@
   {
     "title": "【スマホOK/実行しながら学ぶ】東大松尾研のデータサイエンティスト育成/ Deep Learning基礎講座を自習する",
     "url": "https://qiita.com/tomo_makes/items/5d6f5860bb793e3b354a",
-    "likes_count": 1491,
+    "likes_count": 1490,
     "created_at": "2018-06-30T17:26:55+09:00",
     "updated_at": "2019-11-16T11:53:06+09:00",
     "id": "tomo_makes"
@@ -122,7 +122,7 @@
   {
     "title": "YAMLで履歴書を作る",
     "url": "https://qiita.com/kaityo256/items/e3884d0109223c324baf",
-    "likes_count": 920,
+    "likes_count": 921,
     "created_at": "2018-06-06T18:07:02+09:00",
     "updated_at": "2020-07-19T22:24:57+09:00",
     "id": "kaityo256"
@@ -170,7 +170,7 @@
   {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 709,
+    "likes_count": 711,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2023-04-28T01:36:45+09:00",
     "id": "newta"
@@ -396,8 +396,16 @@
     "url": "https://qiita.com/KEINOS/items/c92268386d265042ea16",
     "likes_count": 395,
     "created_at": "2018-06-01T13:40:37+09:00",
-    "updated_at": "2023-05-03T00:10:39+09:00",
+    "updated_at": "2023-05-03T00:21:48+09:00",
     "id": "KEINOS"
+  },
+  {
+    "title": "拡張ユークリッドの互除法 〜 一次不定方程式 ax + by = c の解き方 〜",
+    "url": "https://qiita.com/drken/items/b97ff231e43bce50199a",
+    "likes_count": 381,
+    "created_at": "2018-06-11T06:22:37+09:00",
+    "updated_at": "2019-10-17T16:46:12+09:00",
+    "id": "drken"
   },
   {
     "title": "統計検定2級のためのチートシート",
@@ -406,14 +414,6 @@
     "created_at": "2018-06-12T20:14:50+09:00",
     "updated_at": "2022-03-18T10:26:47+09:00",
     "id": "akiyoshi_sasaki"
-  },
-  {
-    "title": "拡張ユークリッドの互除法 〜 一次不定方程式 ax + by = c の解き方 〜",
-    "url": "https://qiita.com/drken/items/b97ff231e43bce50199a",
-    "likes_count": 380,
-    "created_at": "2018-06-11T06:22:37+09:00",
-    "updated_at": "2019-10-17T16:46:12+09:00",
-    "id": "drken"
   },
   {
     "title": "機械学習を使って焼肉で肉が焼けたかどうかを区別してみた",
@@ -490,7 +490,7 @@
   {
     "title": "C# 今更ですが、HttpClientを使う",
     "url": "https://qiita.com/rawr/items/f78a3830d894042f891b",
-    "likes_count": 345,
+    "likes_count": 346,
     "created_at": "2018-06-15T12:29:06+09:00",
     "updated_at": "2022-08-15T12:07:58+09:00",
     "id": "rawr"
