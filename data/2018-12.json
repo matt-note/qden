@@ -112,20 +112,20 @@
     "id": "takugi"
   },
   {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 1033,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2023-03-27T13:58:24+09:00",
+    "id": "syantien"
+  },
+  {
     "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
     "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
     "likes_count": 1033,
     "created_at": "2018-12-25T21:17:23+09:00",
     "updated_at": "2021-07-05T14:33:34+09:00",
     "id": "hirokidaichi"
-  },
-  {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 1032,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2023-03-27T13:58:24+09:00",
-    "id": "syantien"
   },
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
@@ -274,7 +274,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 621,
+    "likes_count": 622,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -330,7 +330,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 545,
+    "likes_count": 546,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -338,7 +338,7 @@
   {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 528,
+    "likes_count": 529,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
@@ -418,7 +418,7 @@
   {
     "title": "fmt.Printfなんかこわくない",
     "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
-    "likes_count": 439,
+    "likes_count": 438,
     "created_at": "2018-12-07T05:35:39+09:00",
     "updated_at": "2019-05-22T20:39:46+09:00",
     "id": "rock619"
@@ -560,20 +560,20 @@
     "id": "taneba"
   },
   {
+    "title": "GraphQLのクエリを基礎から整理してみた",
+    "url": "https://qiita.com/shunp/items/d85fc47b33e1b3a88167",
+    "likes_count": 368,
+    "created_at": "2018-12-23T04:55:03+09:00",
+    "updated_at": "2018-12-23T04:55:03+09:00",
+    "id": "shunp"
+  },
+  {
     "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
     "url": "https://qiita.com/okamu_/items/a8577431749b72869aa3",
     "likes_count": 368,
     "created_at": "2018-12-26T07:50:58+09:00",
     "updated_at": "2019-12-26T14:39:03+09:00",
     "id": "okamu_"
-  },
-  {
-    "title": "GraphQLのクエリを基礎から整理してみた",
-    "url": "https://qiita.com/shunp/items/d85fc47b33e1b3a88167",
-    "likes_count": 367,
-    "created_at": "2018-12-23T04:55:03+09:00",
-    "updated_at": "2018-12-23T04:55:03+09:00",
-    "id": "shunp"
   },
   {
     "title": "段階的に理解する Java 例外処理",
@@ -624,20 +624,20 @@
     "id": "ossan-engineer"
   },
   {
+    "title": "scpコマンド",
+    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
+    "likes_count": 347,
+    "created_at": "2018-12-22T21:41:23+09:00",
+    "updated_at": "2018-12-22T21:41:23+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "月数100万アクセスをDB使わず超簡単にさばく",
     "url": "https://qiita.com/Hisashi_vc/items/a50b49ad6a75d51c880a",
     "likes_count": 346,
     "created_at": "2018-12-17T13:37:31+09:00",
     "updated_at": "2018-12-17T13:37:31+09:00",
     "id": "Hisashi_vc"
-  },
-  {
-    "title": "scpコマンド",
-    "url": "https://qiita.com/chihiro/items/142ebe6980a498b5d4a7",
-    "likes_count": 345,
-    "created_at": "2018-12-22T21:41:23+09:00",
-    "updated_at": "2018-12-22T21:41:23+09:00",
-    "id": "chihiro"
   },
   {
     "title": "制御理論としての動的計画法",
@@ -658,7 +658,7 @@
   {
     "title": "Hugo で静的なサイト・ブログを構築しよう",
     "url": "https://qiita.com/peaceiris/items/ef38cc2a4b5565d0dd7c",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2018-12-25T03:00:20+09:00",
     "updated_at": "2021-08-16T22:23:06+09:00",
     "id": "peaceiris"
@@ -704,20 +704,20 @@
     "id": "ryuichi1208"
   },
   {
+    "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
+    "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
+    "likes_count": 307,
+    "created_at": "2018-12-09T00:00:37+09:00",
+    "updated_at": "2022-09-05T21:35:09+09:00",
+    "id": "ryosuketter"
+  },
+  {
     "title": "[Firebase] Cloud Functionsで消耗したくない人のために、開発環境のベストプラクティスをまとめていったらDockerに行き着いた話（随時更新）",
     "url": "https://qiita.com/pannpers/items/244a7e3c18d8c8422e4f",
     "likes_count": 307,
     "created_at": "2018-12-11T00:00:58+09:00",
     "updated_at": "2019-05-06T12:01:55+09:00",
     "id": "pannpers"
-  },
-  {
-    "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
-    "url": "https://qiita.com/ryosuketter/items/ba54d595a31f4ad0a58f",
-    "likes_count": 306,
-    "created_at": "2018-12-09T00:00:37+09:00",
-    "updated_at": "2022-09-05T21:35:09+09:00",
-    "id": "ryosuketter"
   },
   {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
