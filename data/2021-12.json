@@ -2,7 +2,7 @@
   {
     "title": "なぜエンジニアが作る画面はダサいのか…?「理由」と「対策」を徹底解説【エンジニア向け画面デザイン講座】",
     "url": "https://qiita.com/mskmiki/items/544149987475719e417b",
-    "likes_count": 7135,
+    "likes_count": 7136,
     "created_at": "2021-12-07T17:47:56+09:00",
     "updated_at": "2023-02-12T17:25:25+09:00",
     "id": "mskmiki"
@@ -42,7 +42,7 @@
   {
     "title": "リファクタリング自爆奥義集",
     "url": "https://qiita.com/MinoDriven/items/dac5505cf8442e1721d1",
-    "likes_count": 747,
+    "likes_count": 748,
     "created_at": "2021-12-10T09:47:40+09:00",
     "updated_at": "2021-12-19T19:37:02+09:00",
     "id": "MinoDriven"
@@ -106,7 +106,7 @@
   {
     "title": "SIerで幸せな技術キャリアを築くために",
     "url": "https://qiita.com/comware_tkonishi/items/dd2f59d8b71df1f0c456",
-    "likes_count": 453,
+    "likes_count": 454,
     "created_at": "2021-12-06T12:57:25+09:00",
     "updated_at": "2021-12-20T07:02:04+09:00",
     "id": "comware_tkonishi"
@@ -128,6 +128,14 @@
     "id": "papi_tokei"
   },
   {
+    "title": "Rails 7.0 + Ruby 3.1でゼロからアプリを作ってみたときにハマったところあれこれ",
+    "url": "https://qiita.com/jnchito/items/5c41a7031404c313da1f",
+    "likes_count": 369,
+    "created_at": "2021-12-31T20:01:39+09:00",
+    "updated_at": "2023-02-18T13:12:01+09:00",
+    "id": "jnchito"
+  },
+  {
     "title": "たぶんもう怖くないGit ~Git内部の仕組み~",
     "url": "https://qiita.com/marchin_1989/items/2ec01553e907f3a9e6bb",
     "likes_count": 368,
@@ -136,17 +144,9 @@
     "id": "marchin_1989"
   },
   {
-    "title": "Rails 7.0 + Ruby 3.1でゼロからアプリを作ってみたときにハマったところあれこれ",
-    "url": "https://qiita.com/jnchito/items/5c41a7031404c313da1f",
-    "likes_count": 367,
-    "created_at": "2021-12-31T20:01:39+09:00",
-    "updated_at": "2023-02-18T13:12:01+09:00",
-    "id": "jnchito"
-  },
-  {
     "title": "完璧な要件定義など幻想である。個ではなく、チームで作る要件定義",
     "url": "https://qiita.com/Haruyuki_Hirose/items/2ce5a2877bc5c66aa2b3",
-    "likes_count": 346,
+    "likes_count": 347,
     "created_at": "2021-12-12T19:30:05+09:00",
     "updated_at": "2022-02-03T22:42:26+09:00",
     "id": "Haruyuki_Hirose"
