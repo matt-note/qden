@@ -2,7 +2,7 @@
   {
     "title": "新規Webサービスを独りで開発・運用する際に立ちはだかった壁とそれを乗り越えた方法まとめ【個人開発】",
     "url": "https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc",
-    "likes_count": 2720,
+    "likes_count": 2721,
     "created_at": "2019-12-15T09:01:19+09:00",
     "updated_at": "2019-12-17T04:34:27+09:00",
     "id": "terubooon"
@@ -42,10 +42,18 @@
   {
     "title": "【決定版】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 1972,
+    "likes_count": 1973,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2021-11-19T11:40:56+09:00",
     "id": "omiita"
+  },
+  {
+    "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
+    "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
+    "likes_count": 1952,
+    "created_at": "2019-12-01T10:38:32+09:00",
+    "updated_at": "2021-08-02T17:06:13+09:00",
+    "id": "hirokidaichi"
   },
   {
     "title": "社内slackにVIPチャンネルを作った話",
@@ -54,14 +62,6 @@
     "created_at": "2019-12-03T02:35:54+09:00",
     "updated_at": "2019-12-03T15:44:57+09:00",
     "id": "peisuke"
-  },
-  {
-    "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
-    "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 1951,
-    "created_at": "2019-12-01T10:38:32+09:00",
-    "updated_at": "2021-08-02T17:06:13+09:00",
-    "id": "hirokidaichi"
   },
   {
     "title": "同じチームにいて最高に心強かったエンジニアの特徴をまとめてみた",
@@ -90,7 +90,7 @@
   {
     "title": "個人開発したアプリが大コケしてるので失敗要因を分析してみた",
     "url": "https://qiita.com/aiiro_swift/items/fe27eae6e708b187d341",
-    "likes_count": 1483,
+    "likes_count": 1482,
     "created_at": "2019-12-12T03:46:09+09:00",
     "updated_at": "2019-12-19T02:35:45+09:00",
     "id": "aiiro_swift"
@@ -376,20 +376,20 @@
     "id": "elipmoc101"
   },
   {
+    "title": "jsのimportとrequireの違い",
+    "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
+    "likes_count": 524,
+    "created_at": "2019-12-11T18:25:57+09:00",
+    "updated_at": "2019-12-11T18:25:57+09:00",
+    "id": "minato-naka"
+  },
+  {
     "title": "ドメイン駆動設計で貧乏を爆殺する",
     "url": "https://qiita.com/MinoDriven/items/39103fba2c7bb8f01e5c",
     "likes_count": 524,
     "created_at": "2019-12-19T11:26:18+09:00",
     "updated_at": "2019-12-29T10:45:06+09:00",
     "id": "MinoDriven"
-  },
-  {
-    "title": "jsのimportとrequireの違い",
-    "url": "https://qiita.com/minato-naka/items/39ecc285d1e37226a283",
-    "likes_count": 523,
-    "created_at": "2019-12-11T18:25:57+09:00",
-    "updated_at": "2019-12-11T18:25:57+09:00",
-    "id": "minato-naka"
   },
   {
     "title": "この TypeScript が Hello, world! のくせに慎重すぎる",
@@ -450,7 +450,7 @@
   {
     "title": "令和時代に「Spring入門」「Spring徹底入門」を読むとき気をつけるべきN個のこと",
     "url": "https://qiita.com/suke_masa/items/392976749fce94a8ef1f",
-    "likes_count": 443,
+    "likes_count": 445,
     "created_at": "2019-12-31T11:24:07+09:00",
     "updated_at": "2022-06-16T07:55:27+09:00",
     "id": "suke_masa"
@@ -570,7 +570,7 @@
   {
     "title": "治安の良いCSSを目指して 〜 平和な世界のために僕たちができること 〜",
     "url": "https://qiita.com/otsuky/items/ae2f3a260249520c746a",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2019-12-23T08:05:26+09:00",
     "updated_at": "2019-12-24T11:46:07+09:00",
     "id": "otsuky"
