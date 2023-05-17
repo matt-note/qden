@@ -112,6 +112,14 @@
     "id": "kotaroito"
   },
   {
+    "title": "Gitの最初のコミットは空コミットにしよう",
+    "url": "https://qiita.com/NorsteinBekkler/items/b2418cd5e14a52189d19",
+    "likes_count": 761,
+    "created_at": "2016-06-29T12:26:02+09:00",
+    "updated_at": "2020-03-31T16:23:21+09:00",
+    "id": "NorsteinBekkler"
+  },
+  {
     "title": "急いでダウンロードしたい時はwgetやcurlじゃなくてaxelを使おう",
     "url": "https://qiita.com/sarumonera/items/2b30999d7d41a4747d74",
     "likes_count": 761,
@@ -120,17 +128,9 @@
     "id": "sarumonera"
   },
   {
-    "title": "Gitの最初のコミットは空コミットにしよう",
-    "url": "https://qiita.com/NorsteinBekkler/items/b2418cd5e14a52189d19",
-    "likes_count": 760,
-    "created_at": "2016-06-29T12:26:02+09:00",
-    "updated_at": "2020-03-31T16:23:21+09:00",
-    "id": "NorsteinBekkler"
-  },
-  {
     "title": "テストコードの期待値はDRYを捨ててベタ書きする ～テストコードの重要な役割とは？～",
     "url": "https://qiita.com/jnchito/items/eb3cfa9f7db752dcb796",
-    "likes_count": 753,
+    "likes_count": 754,
     "created_at": "2016-06-06T10:39:54+09:00",
     "updated_at": "2016-06-09T10:51:19+09:00",
     "id": "jnchito"
@@ -250,7 +250,7 @@
   {
     "title": "［API］ API仕様書の書き方",
     "url": "https://qiita.com/sunstripe2011/items/9230396febfab2eae2c2",
-    "likes_count": 514,
+    "likes_count": 515,
     "created_at": "2016-06-09T19:52:08+09:00",
     "updated_at": "2023-02-23T06:45:33+09:00",
     "id": "sunstripe2011"
@@ -322,7 +322,7 @@
   {
     "title": "結局のところgetter／setterは要るのか？要らないのか？",
     "url": "https://qiita.com/katolisa/items/6cfd1a2a87058678d646",
-    "likes_count": 336,
+    "likes_count": 337,
     "created_at": "2016-06-01T13:17:03+09:00",
     "updated_at": "2016-06-01T13:17:03+09:00",
     "id": "katolisa"
