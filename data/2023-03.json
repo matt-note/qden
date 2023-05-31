@@ -18,7 +18,7 @@
   {
     "title": "AWSエンジニアロードマップ2023",
     "url": "https://qiita.com/KurokawaKouhei/items/3836802fc3a0286f668f",
-    "likes_count": 785,
+    "likes_count": 787,
     "created_at": "2023-03-17T12:18:30+09:00",
     "updated_at": "2023-04-07T11:34:41+09:00",
     "id": "KurokawaKouhei"
@@ -34,7 +34,7 @@
   {
     "title": "【完全保存版】GPT を特定の目的に特化させて扱う (Fine-tuning, Prompt, Index, etc.)",
     "url": "https://qiita.com/tmgauss/items/22c4e5e00282a23e569d",
-    "likes_count": 716,
+    "likes_count": 718,
     "created_at": "2023-03-30T11:33:23+09:00",
     "updated_at": "2023-03-31T17:55:00+09:00",
     "id": "tmgauss"
@@ -42,7 +42,7 @@
   {
     "title": "いちいちシェルコマンド思い出せないので、ChatGPTで自然言語からスクリプトを生成するツールつくった",
     "url": "https://qiita.com/hirokidaichi/items/6d568d5ddcb02a91edf4",
-    "likes_count": 684,
+    "likes_count": 685,
     "created_at": "2023-03-03T17:33:59+09:00",
     "updated_at": "2023-03-22T17:04:01+09:00",
     "id": "hirokidaichi"
@@ -50,7 +50,7 @@
   {
     "title": "4年間毎週個人開発を継続したら月間利用ユーザー30万を超えるサービスになった話",
     "url": "https://qiita.com/mycndev/items/b76a7ff961ded7d49d70",
-    "likes_count": 662,
+    "likes_count": 664,
     "created_at": "2023-03-18T10:55:28+09:00",
     "updated_at": "2023-03-23T11:56:56+09:00",
     "id": "mycndev"
@@ -82,10 +82,18 @@
   {
     "title": "ChatGPT APIを使ってAIキャラクターを作ってみる！",
     "url": "https://qiita.com/sakasegawa/items/db2cff79bd14faf2c8e0",
-    "likes_count": 413,
+    "likes_count": 415,
     "created_at": "2023-03-02T04:21:11+09:00",
     "updated_at": "2023-03-02T10:10:52+09:00",
     "id": "sakasegawa"
+  },
+  {
+    "title": "ChatGPTを使って爆速でプレゼン資料を作る",
+    "url": "https://qiita.com/ydty/items/39d39ad5d5b6448d55fc",
+    "likes_count": 346,
+    "created_at": "2023-03-30T20:36:38+09:00",
+    "updated_at": "2023-04-03T18:45:19+09:00",
+    "id": "ydty"
   },
   {
     "title": "ChatGPTプロンプトエンジニアリングのコツ8箇条～OpenAI公式のベストプラクティスから学ぶ～",
@@ -96,17 +104,9 @@
     "id": "iwaken71"
   },
   {
-    "title": "ChatGPTを使って爆速でプレゼン資料を作る",
-    "url": "https://qiita.com/ydty/items/39d39ad5d5b6448d55fc",
-    "likes_count": 344,
-    "created_at": "2023-03-30T20:36:38+09:00",
-    "updated_at": "2023-04-03T18:45:19+09:00",
-    "id": "ydty"
-  },
-  {
     "title": "ChatGPTとLangChainで何でもできるAIを作る",
     "url": "https://qiita.com/fuyu_quant/items/c0b29f037b7834c19e2c",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2023-03-24T13:05:22+09:00",
     "updated_at": "2023-05-29T22:46:55+09:00",
     "id": "fuyu_quant"
