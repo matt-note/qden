@@ -10,7 +10,7 @@
   {
     "title": "【今日からできる】コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話",
     "url": "https://qiita.com/numanomanu/items/45dd285b286a1f7280ed",
-    "likes_count": 2790,
+    "likes_count": 2789,
     "created_at": "2018-01-23T09:16:43+09:00",
     "updated_at": "2018-08-02T19:11:39+09:00",
     "id": "numanomanu"
@@ -26,7 +26,7 @@
   {
     "title": "意外と知らない？ Gitコマンド 100本ノック",
     "url": "https://qiita.com/ueki05/items/5c233773e3186989bfd3",
-    "likes_count": 1314,
+    "likes_count": 1313,
     "created_at": "2018-01-28T22:38:00+09:00",
     "updated_at": "2018-07-10T14:07:53+09:00",
     "id": "ueki05"
@@ -82,7 +82,7 @@
   {
     "title": "分かりやすいpythonの正規表現の例",
     "url": "https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3",
-    "likes_count": 808,
+    "likes_count": 809,
     "created_at": "2018-01-25T14:31:15+09:00",
     "updated_at": "2019-12-24T15:56:30+09:00",
     "id": "luohao0404"
@@ -122,7 +122,7 @@
   {
     "title": "ノンデザイナーでもイケてるLPを作成する方法",
     "url": "https://qiita.com/teradonburi/items/412f65147525ff34dbbd",
-    "likes_count": 711,
+    "likes_count": 710,
     "created_at": "2018-01-03T12:38:52+09:00",
     "updated_at": "2018-12-24T17:21:21+09:00",
     "id": "teradonburi"
@@ -146,7 +146,7 @@
   {
     "title": "Vim日本語チートシート作った",
     "url": "https://qiita.com/zipper/items/8fbed306e203b17be0c3",
-    "likes_count": 645,
+    "likes_count": 646,
     "created_at": "2018-01-06T18:08:46+09:00",
     "updated_at": "2018-01-06T18:08:46+09:00",
     "id": "zipper"
@@ -154,7 +154,7 @@
   {
     "title": "ガチ素人が1ヶ月でディープラーニングのジェネラリストになった話",
     "url": "https://qiita.com/kemi/items/c8469e3ea8c02dd9fed2",
-    "likes_count": 641,
+    "likes_count": 640,
     "created_at": "2018-01-11T00:05:10+09:00",
     "updated_at": "2018-06-25T23:13:54+09:00",
     "id": "kemi"
@@ -402,18 +402,10 @@
   {
     "title": "Stripe Connect 101",
     "url": "https://qiita.com/y_toku/items/7bfa42793801dfc5415d",
-    "likes_count": 344,
+    "likes_count": 343,
     "created_at": "2018-01-25T13:34:54+09:00",
     "updated_at": "2018-01-25T13:34:54+09:00",
     "id": "y_toku"
-  },
-  {
-    "title": "ゼロから考える脆弱性対応",
-    "url": "https://qiita.com/t_nakayama0714/items/16f987742e8e3ee48ffd",
-    "likes_count": 340,
-    "created_at": "2018-01-16T01:18:29+09:00",
-    "updated_at": "2018-01-24T01:48:16+09:00",
-    "id": "t_nakayama0714"
   },
   {
     "title": "Django REST framework カスタマイズ方法 - チュートリアルの補足",
@@ -422,6 +414,14 @@
     "created_at": "2018-01-15T15:02:48+09:00",
     "updated_at": "2019-01-30T08:53:49+09:00",
     "id": "okoppe8"
+  },
+  {
+    "title": "ゼロから考える脆弱性対応",
+    "url": "https://qiita.com/t_nakayama0714/items/16f987742e8e3ee48ffd",
+    "likes_count": 339,
+    "created_at": "2018-01-16T01:18:29+09:00",
+    "updated_at": "2018-01-24T01:48:16+09:00",
+    "id": "t_nakayama0714"
   },
   {
     "title": "画像を扱う機械学習のためのデータセットまとめ",
