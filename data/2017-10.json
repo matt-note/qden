@@ -82,7 +82,7 @@
   {
     "title": "要素の取得方法まとめ",
     "url": "https://qiita.com/amamamaou/items/25e8b4e1b41c8d3211f4",
-    "likes_count": 770,
+    "likes_count": 771,
     "created_at": "2017-10-27T16:44:49+09:00",
     "updated_at": "2020-07-14T11:18:37+09:00",
     "id": "amamamaou"
@@ -146,7 +146,7 @@
   {
     "title": "Swaggerの記法まとめ",
     "url": "https://qiita.com/rllllho/items/53a0023b32f4c0f8eabb",
-    "likes_count": 676,
+    "likes_count": 677,
     "created_at": "2017-10-10T15:17:51+09:00",
     "updated_at": "2019-03-10T16:11:41+09:00",
     "id": "rllllho"
@@ -232,6 +232,14 @@
     "id": "onokatio"
   },
   {
+    "title": "テスト自動化について、調べてみた",
+    "url": "https://qiita.com/yutachaos/items/857472c7d3c65d3cf316",
+    "likes_count": 459,
+    "created_at": "2017-10-09T14:38:23+09:00",
+    "updated_at": "2021-01-06T16:15:51+09:00",
+    "id": "yutachaos"
+  },
+  {
     "title": "Docker入門 #1 【Dockerとは】",
     "url": "https://qiita.com/wMETAw/items/b9bc643ded4b92bf6add",
     "likes_count": 459,
@@ -240,17 +248,9 @@
     "id": "wMETAw"
   },
   {
-    "title": "テスト自動化について、調べてみた",
-    "url": "https://qiita.com/yutachaos/items/857472c7d3c65d3cf316",
-    "likes_count": 458,
-    "created_at": "2017-10-09T14:38:23+09:00",
-    "updated_at": "2021-01-06T16:15:51+09:00",
-    "id": "yutachaos"
-  },
-  {
     "title": "競プロ等におけるpython3の標準入力",
     "url": "https://qiita.com/zenrshon/items/c4f3849552348b3dbe67",
-    "likes_count": 458,
+    "likes_count": 459,
     "created_at": "2017-10-25T14:23:32+09:00",
     "updated_at": "2020-04-11T13:45:44+09:00",
     "id": "zenrshon"
@@ -298,7 +298,7 @@
   {
     "title": "fzfを活用してTerminalの作業効率を高める",
     "url": "https://qiita.com/kamykn/items/aa9920f07487559c0c7e",
-    "likes_count": 416,
+    "likes_count": 417,
     "created_at": "2017-10-20T00:18:31+09:00",
     "updated_at": "2019-01-27T23:17:16+09:00",
     "id": "kamykn"
@@ -328,20 +328,20 @@
     "id": "amowwee"
   },
   {
+    "title": "【Python】NetworkX 2.0の基礎的な使い方まとめ",
+    "url": "https://qiita.com/kzm4269/items/081ff2fdb8a6b0a6112f",
+    "likes_count": 377,
+    "created_at": "2017-10-31T23:41:55+09:00",
+    "updated_at": "2020-06-16T09:00:19+09:00",
+    "id": "kzm4269"
+  },
+  {
     "title": "logging入門",
     "url": "https://qiita.com/knknkn1162/items/87b1153c212b27bd52b4",
     "likes_count": 376,
     "created_at": "2017-10-20T16:52:25+09:00",
     "updated_at": "2018-01-25T18:14:14+09:00",
     "id": "knknkn1162"
-  },
-  {
-    "title": "【Python】NetworkX 2.0の基礎的な使い方まとめ",
-    "url": "https://qiita.com/kzm4269/items/081ff2fdb8a6b0a6112f",
-    "likes_count": 376,
-    "created_at": "2017-10-31T23:41:55+09:00",
-    "updated_at": "2020-06-16T09:00:19+09:00",
-    "id": "kzm4269"
   },
   {
     "title": "C# 今更ですが、ラムダ式",
@@ -354,7 +354,7 @@
   {
     "title": "psycopg2 でよくやる操作まとめ",
     "url": "https://qiita.com/hoto17296/items/0ca1569d6fa54c7c4732",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2017-10-25T17:19:42+09:00",
     "updated_at": "2022-01-11T15:32:12+09:00",
     "id": "hoto17296"
@@ -426,7 +426,7 @@
   {
     "title": "AWS-CLIの初期設定のメモ",
     "url": "https://qiita.com/reflet/items/e4225435fe692663b705",
-    "likes_count": 292,
+    "likes_count": 293,
     "created_at": "2017-10-23T10:47:54+09:00",
     "updated_at": "2019-11-27T12:51:06+09:00",
     "id": "reflet"
