@@ -10,7 +10,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 3044,
+    "likes_count": 3043,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2021-11-15T07:10:13+09:00",
     "id": "yasuhiroki"
@@ -26,7 +26,7 @@
   {
     "title": "究極のIT系最新技術情報収集用Slackチーム公開 - モヒカンSlack -",
     "url": "https://qiita.com/kotakanbe@github/items/32cf4eb3de1741af26fb",
-    "likes_count": 2792,
+    "likes_count": 2791,
     "created_at": "2015-12-15T17:10:39+09:00",
     "updated_at": "2018-12-01T13:49:26+09:00",
     "id": "kotakanbe@github"
@@ -90,7 +90,7 @@
   {
     "title": "非同期処理ってどういうこと？JavaScriptで一から学ぶ",
     "url": "https://qiita.com/kiyodori/items/da434d169755cbb20447",
-    "likes_count": 1405,
+    "likes_count": 1406,
     "created_at": "2015-12-19T22:32:13+09:00",
     "updated_at": "2015-12-19T22:37:55+09:00",
     "id": "kiyodori"
@@ -122,7 +122,7 @@
   {
     "title": "2015年までにWebのフロントエンドが辿ってきた道",
     "url": "https://qiita.com/joe-re/items/3b6730eb90dbeb2f8272",
-    "likes_count": 1229,
+    "likes_count": 1228,
     "created_at": "2015-12-16T00:17:47+09:00",
     "updated_at": "2016-01-13T22:06:38+09:00",
     "id": "joe-re"
@@ -234,7 +234,7 @@
   {
     "title": "1年間真剣にJavaScriptに取り組んだ話",
     "url": "https://qiita.com/keitarou/items/17374d49f11d7b08cee9",
-    "likes_count": 800,
+    "likes_count": 799,
     "created_at": "2015-12-24T20:07:12+09:00",
     "updated_at": "2015-12-24T22:53:43+09:00",
     "id": "keitarou"
@@ -306,7 +306,7 @@
   {
     "title": "クラウド破産しないように git-secrets を使う",
     "url": "https://qiita.com/pottava/items/4c602c97aacf10c058f1",
-    "likes_count": 640,
+    "likes_count": 639,
     "created_at": "2015-12-24T14:55:53+09:00",
     "updated_at": "2016-01-04T16:13:49+09:00",
     "id": "pottava"
@@ -418,7 +418,7 @@
   {
     "title": "Vagrant・CoreOS・Dockerでインフラ素人が自宅サーバを立てた話",
     "url": "https://qiita.com/y_hokkey/items/3dd0d8f20f9daadbbf0b",
-    "likes_count": 465,
+    "likes_count": 464,
     "created_at": "2015-12-20T06:08:16+09:00",
     "updated_at": "2016-03-02T13:37:47+09:00",
     "id": "y_hokkey"
@@ -496,20 +496,20 @@
     "id": "__cooper"
   },
   {
-    "title": "slack の /remind 機能まとめ",
-    "url": "https://qiita.com/takesato/items/335061d7945ebd5c23f7",
-    "likes_count": 414,
-    "created_at": "2015-12-28T19:30:21+09:00",
-    "updated_at": "2015-12-28T19:37:10+09:00",
-    "id": "takesato"
-  },
-  {
     "title": "エンジニア経験がなくても自分でコード書いて起業する方法",
     "url": "https://qiita.com/dice-sasaki@github/items/c7756f04b5da57fd5b1b",
     "likes_count": 413,
     "created_at": "2015-12-16T00:03:26+09:00",
     "updated_at": "2015-12-16T00:22:23+09:00",
     "id": "dice-sasaki@github"
+  },
+  {
+    "title": "slack の /remind 機能まとめ",
+    "url": "https://qiita.com/takesato/items/335061d7945ebd5c23f7",
+    "likes_count": 413,
+    "created_at": "2015-12-28T19:30:21+09:00",
+    "updated_at": "2015-12-28T19:37:10+09:00",
+    "id": "takesato"
   },
   {
     "title": "Go最後の秘宝「GUI」を探しに行く",
@@ -728,14 +728,6 @@
     "id": "k24d"
   },
   {
-    "title": "2015年にググって「おっ」ってなった技術系記事・ニュースまとめ",
-    "url": "https://qiita.com/y_hokkey/items/1a5cbbd957ff13251252",
-    "likes_count": 289,
-    "created_at": "2015-12-21T05:23:15+09:00",
-    "updated_at": "2015-12-21T23:36:41+09:00",
-    "id": "y_hokkey"
-  },
-  {
     "title": "Railsやるなら知っておきたい便利Gem",
     "url": "https://qiita.com/asamomo/items/65db3a77994634141bd3",
     "likes_count": 288,
@@ -744,9 +736,17 @@
     "id": "asamomo"
   },
   {
+    "title": "2015年にググって「おっ」ってなった技術系記事・ニュースまとめ",
+    "url": "https://qiita.com/y_hokkey/items/1a5cbbd957ff13251252",
+    "likes_count": 288,
+    "created_at": "2015-12-21T05:23:15+09:00",
+    "updated_at": "2015-12-21T23:36:41+09:00",
+    "id": "y_hokkey"
+  },
+  {
     "title": "PHP7.0がでたので、いまどきの「普通」のPHPの話。",
     "url": "https://qiita.com/urakawa/items/c5fe8859647f5ecfbb10",
-    "likes_count": 287,
+    "likes_count": 286,
     "created_at": "2015-12-11T01:18:54+09:00",
     "updated_at": "2015-12-11T01:18:54+09:00",
     "id": "urakawa"
