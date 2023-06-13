@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2968,
+    "likes_count": 2972,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -114,7 +114,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 1056,
+    "likes_count": 1060,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2023-03-27T13:58:24+09:00",
     "id": "syantien"
@@ -138,10 +138,18 @@
   {
     "title": "C++標準化委員会、ついに文字とは何かを理解する: char8_t",
     "url": "https://qiita.com/yumetodo/items/54e1a8230dbf513ea85b",
-    "likes_count": 1032,
+    "likes_count": 1033,
     "created_at": "2018-12-22T19:33:18+09:00",
     "updated_at": "2019-08-08T12:41:02+09:00",
     "id": "yumetodo"
+  },
+  {
+    "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
+    "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
+    "likes_count": 1023,
+    "created_at": "2018-12-08T04:10:06+09:00",
+    "updated_at": "2021-09-24T17:22:18+09:00",
+    "id": "Maki-Daisuke"
   },
   {
     "title": "3分でわかるXSSとCSRFの違い",
@@ -152,17 +160,9 @@
     "id": "wanko5296"
   },
   {
-    "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
-    "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 1022,
-    "created_at": "2018-12-08T04:10:06+09:00",
-    "updated_at": "2021-09-24T17:22:18+09:00",
-    "id": "Maki-Daisuke"
-  },
-  {
     "title": "【危険シェル芸】禁じられた闇の魔術とその防衛術💥",
     "url": "https://qiita.com/_-_-_-_-_/items/214d537aae2c1488692c",
-    "likes_count": 1004,
+    "likes_count": 1010,
     "created_at": "2018-12-22T05:22:29+09:00",
     "updated_at": "2019-08-22T20:49:20+09:00",
     "id": "_-_-_-_-_"
@@ -338,7 +338,7 @@
   {
     "title": "特徴量選択のまとめ",
     "url": "https://qiita.com/shimopino/items/5fee7504c7acf044a521",
-    "likes_count": 530,
+    "likes_count": 531,
     "created_at": "2018-12-16T21:03:51+09:00",
     "updated_at": "2020-07-08T19:11:14+09:00",
     "id": "shimopino"
@@ -402,7 +402,7 @@
   {
     "title": "VSCode に Code Spell Checker を導入して typo と戦う",
     "url": "https://qiita.com/diescake/items/98c5a099e85775cd917d",
-    "likes_count": 447,
+    "likes_count": 448,
     "created_at": "2018-12-07T15:48:20+09:00",
     "updated_at": "2021-01-31T03:24:25+09:00",
     "id": "diescake"
@@ -448,20 +448,20 @@
     "id": "ryuichi1208"
   },
   {
+    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
+    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
+    "likes_count": 424,
+    "created_at": "2018-12-28T14:05:57+09:00",
+    "updated_at": "2019-08-28T21:53:58+09:00",
+    "id": "suin"
+  },
+  {
     "title": "今年、JavaScriptでの仕事の幅を広げた技術６選",
     "url": "https://qiita.com/gonshi_com/items/72c79f380e7e90e1504e",
     "likes_count": 423,
     "created_at": "2018-12-13T16:44:32+09:00",
     "updated_at": "2018-12-15T11:29:34+09:00",
     "id": "gonshi_com"
-  },
-  {
-    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
-    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
-    "likes_count": 423,
-    "created_at": "2018-12-28T14:05:57+09:00",
-    "updated_at": "2019-08-28T21:53:58+09:00",
-    "id": "suin"
   },
   {
     "title": "Ruby on Rails 6の主要な新機能・機能追加・変更点",
@@ -482,7 +482,7 @@
   {
     "title": "configure, make, make install とは何か",
     "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 406,
+    "likes_count": 407,
     "created_at": "2018-12-20T14:36:24+09:00",
     "updated_at": "2018-12-20T14:36:24+09:00",
     "id": "chihiro"
@@ -682,7 +682,7 @@
   {
     "title": "超軽量なAlpine Linuxについて調べた",
     "url": "https://qiita.com/ryuichi1208/items/6020cfabc92bd8153654",
-    "likes_count": 314,
+    "likes_count": 315,
     "created_at": "2018-12-11T21:32:51+09:00",
     "updated_at": "2019-01-12T00:55:40+09:00",
     "id": "ryuichi1208"
@@ -738,7 +738,7 @@
   {
     "title": "Python boto3 でAWSを自在に操ろう ~入門編~",
     "url": "https://qiita.com/kimihiro_n/items/f3ce86472152b2676004",
-    "likes_count": 267,
+    "likes_count": 268,
     "created_at": "2018-12-11T14:29:08+09:00",
     "updated_at": "2019-07-22T16:45:39+09:00",
     "id": "kimihiro_n"
