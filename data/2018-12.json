@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 2983,
+    "likes_count": 2984,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -34,7 +34,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1599,
+    "likes_count": 1601,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -42,7 +42,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1427,
+    "likes_count": 1426,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -104,14 +104,6 @@
     "id": "lobin-z0x50"
   },
   {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 1066,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2023-03-27T13:58:24+09:00",
-    "id": "syantien"
-  },
-  {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
     "likes_count": 1066,
@@ -120,9 +112,17 @@
     "id": "takugi"
   },
   {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 1065,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2023-03-27T13:58:24+09:00",
+    "id": "syantien"
+  },
+  {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
     "url": "https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338",
-    "likes_count": 1036,
+    "likes_count": 1037,
     "created_at": "2018-12-17T11:20:33+09:00",
     "updated_at": "2020-01-16T15:47:34+09:00",
     "id": "APPLE4869"
@@ -154,7 +154,7 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 1023,
+    "likes_count": 1024,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2021-09-24T17:22:18+09:00",
     "id": "Maki-Daisuke"
@@ -330,7 +330,7 @@
   {
     "title": "長めだけどたぶんわかりやすいBLoCパターンの解説",
     "url": "https://qiita.com/kabochapo/items/8738223894fb74f952d3",
-    "likes_count": 549,
+    "likes_count": 550,
     "created_at": "2018-12-15T23:59:14+09:00",
     "updated_at": "2020-01-17T23:28:46+09:00",
     "id": "kabochapo"
@@ -472,20 +472,20 @@
     "id": "ryohashimoto"
   },
   {
+    "title": "configure, make, make install とは何か",
+    "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
+    "likes_count": 409,
+    "created_at": "2018-12-20T14:36:24+09:00",
+    "updated_at": "2018-12-20T14:36:24+09:00",
+    "id": "chihiro"
+  },
+  {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
     "likes_count": 408,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
-  },
-  {
-    "title": "configure, make, make install とは何か",
-    "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 407,
-    "created_at": "2018-12-20T14:36:24+09:00",
-    "updated_at": "2018-12-20T14:36:24+09:00",
-    "id": "chihiro"
   },
   {
     "title": "Web API初心者と学ぶGraphQL",
