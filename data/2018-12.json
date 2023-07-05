@@ -10,7 +10,7 @@
   {
     "title": "新卒からの質問をソシャゲっぽい仕組みにしたら捗った話",
     "url": "https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50",
-    "likes_count": 2805,
+    "likes_count": 2807,
     "created_at": "2018-12-04T09:50:05+09:00",
     "updated_at": "2019-02-28T19:10:54+09:00",
     "id": "ysktsuna"
@@ -34,7 +34,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1608,
+    "likes_count": 1609,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -58,7 +58,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1362,
+    "likes_count": 1363,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -98,10 +98,18 @@
   {
     "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
     "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
-    "likes_count": 1075,
+    "likes_count": 1076,
     "created_at": "2018-12-06T21:43:43+09:00",
     "updated_at": "2020-04-09T08:20:53+09:00",
     "id": "lobin-z0x50"
+  },
+  {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 1068,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2023-03-27T13:58:24+09:00",
+    "id": "syantien"
   },
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
@@ -110,14 +118,6 @@
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
-  },
-  {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 1067,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2023-03-27T13:58:24+09:00",
-    "id": "syantien"
   },
   {
     "title": "「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！",
@@ -154,7 +154,7 @@
   {
     "title": "「例外」がないからGo言語はイケてないとかって言ってるヤツが本当にイケてない件",
     "url": "https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4",
-    "likes_count": 1025,
+    "likes_count": 1027,
     "created_at": "2018-12-08T04:10:06+09:00",
     "updated_at": "2021-09-24T17:22:18+09:00",
     "id": "Maki-Daisuke"
@@ -266,7 +266,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 646,
+    "likes_count": 647,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2021-04-14T00:39:07+09:00",
     "id": "elipmoc101"
@@ -274,7 +274,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 638,
+    "likes_count": 639,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -322,7 +322,7 @@
   {
     "title": "主成分分析を Python で理解する",
     "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 554,
+    "likes_count": 555,
     "created_at": "2018-12-10T16:14:33+09:00",
     "updated_at": "2020-05-02T14:45:56+09:00",
     "id": "maskot1977"
@@ -410,7 +410,7 @@
   {
     "title": "fmt.Printfなんかこわくない",
     "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
-    "likes_count": 445,
+    "likes_count": 446,
     "created_at": "2018-12-07T05:35:39+09:00",
     "updated_at": "2019-05-22T20:39:46+09:00",
     "id": "rock619"
@@ -570,7 +570,7 @@
   {
     "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
     "url": "https://qiita.com/okamu_/items/a8577431749b72869aa3",
-    "likes_count": 369,
+    "likes_count": 370,
     "created_at": "2018-12-26T07:50:58+09:00",
     "updated_at": "2019-12-26T14:39:03+09:00",
     "id": "okamu_"
