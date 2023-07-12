@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 4068,
+    "likes_count": 4069,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2021-04-12T11:28:43+09:00",
     "id": "gold-kou"
@@ -36,7 +36,7 @@
     "url": "https://qiita.com/kaizen_nagoya/items/cb7eb3199b0b98904a35",
     "likes_count": 1687,
     "created_at": "2018-08-14T14:36:55+09:00",
-    "updated_at": "2023-06-20T21:35:35+09:00",
+    "updated_at": "2023-07-12T15:36:13+09:00",
     "id": "kaizen_nagoya"
   },
   {
@@ -66,7 +66,7 @@
   {
     "title": "TODO: 以外のアノテーションコメントをまとめた",
     "url": "https://qiita.com/taka-kawa/items/673716d77795c937d422",
-    "likes_count": 1274,
+    "likes_count": 1275,
     "created_at": "2018-08-18T23:17:23+09:00",
     "updated_at": "2021-11-17T12:32:17+09:00",
     "id": "taka-kawa"
@@ -74,7 +74,7 @@
   {
     "title": "モダンなJava開発ガイド (2018年版)",
     "url": "https://qiita.com/yoichiwo7/items/17190cb440ab7d253cea",
-    "likes_count": 1241,
+    "likes_count": 1242,
     "created_at": "2018-08-24T17:07:24+09:00",
     "updated_at": "2018-09-01T14:34:53+09:00",
     "id": "yoichiwo7"
@@ -146,7 +146,7 @@
   {
     "title": "トランザクション分離レベルについてのまとめ",
     "url": "https://qiita.com/song_ss/items/38e514b05e9dabae3bdb",
-    "likes_count": 680,
+    "likes_count": 683,
     "created_at": "2018-08-23T20:12:02+09:00",
     "updated_at": "2018-12-18T11:58:43+09:00",
     "id": "song_ss"
@@ -226,7 +226,7 @@
   {
     "title": "DockerfileのCMDとENTRYPOINTを改めて解説する",
     "url": "https://qiita.com/uehaj/items/e6dd013e28593c26372d",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2018-08-14T13:46:59+09:00",
     "updated_at": "2020-02-28T11:08:50+09:00",
     "id": "uehaj"
@@ -246,6 +246,14 @@
     "created_at": "2018-08-15T21:18:34+09:00",
     "updated_at": "2020-09-28T14:34:43+09:00",
     "id": "masato_makino"
+  },
+  {
+    "title": "AWSのParameter StoreとSecrets Manager、結局どちらを使えばいいのか？比較",
+    "url": "https://qiita.com/tomoya_oka/items/a3dd44879eea0d1e3ef5",
+    "likes_count": 493,
+    "created_at": "2018-08-20T10:15:13+09:00",
+    "updated_at": "2019-05-08T16:38:35+09:00",
+    "id": "tomoya_oka"
   },
   {
     "title": "チョットできるGoプログラマーになるための詳解GoDoc",
