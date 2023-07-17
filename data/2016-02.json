@@ -18,7 +18,7 @@
   {
     "title": "効率的に安全な Dockerfile を作るには",
     "url": "https://qiita.com/pottava/items/452bf80e334bc1fee69a",
-    "likes_count": 2019,
+    "likes_count": 2020,
     "created_at": "2016-02-07T12:48:50+09:00",
     "updated_at": "2018-03-09T21:07:09+09:00",
     "id": "pottava"
@@ -122,7 +122,7 @@
   {
     "title": "【新人教育 資料】SQLへの道 〜DB編〜",
     "url": "https://qiita.com/devopsCoordinator/items/9b70e506150888e190be",
-    "likes_count": 1098,
+    "likes_count": 1099,
     "created_at": "2016-02-09T07:20:25+09:00",
     "updated_at": "2019-04-25T14:45:25+09:00",
     "id": "devopsCoordinator"
@@ -186,7 +186,7 @@
   {
     "title": "Git で「追跡ブランチ」って言うのやめましょう",
     "url": "https://qiita.com/uasi/items/69368c17c79e99aaddbf",
-    "likes_count": 771,
+    "likes_count": 772,
     "created_at": "2016-02-08T21:44:09+09:00",
     "updated_at": "2016-02-09T10:11:27+09:00",
     "id": "uasi"
@@ -472,6 +472,14 @@
     "id": "hidenorly"
   },
   {
+    "title": "GitHubでユーザ名・パスワード省略（push, pull）",
+    "url": "https://qiita.com/azusanakano/items/8dc1d7e384b00239d4d9",
+    "likes_count": 365,
+    "created_at": "2016-02-05T19:51:00+09:00",
+    "updated_at": "2016-02-17T15:47:45+09:00",
+    "id": "azusanakano"
+  },
+  {
     "title": "独自ドメインを使ってAmazon S3で静的Webサイトをホストする",
     "url": "https://qiita.com/Ichiro_Tsuji/items/c174d580587a622d3358",
     "likes_count": 365,
@@ -486,14 +494,6 @@
     "created_at": "2016-02-21T17:02:16+09:00",
     "updated_at": "2018-12-29T17:53:24+09:00",
     "id": "ShoichiKuraoka"
-  },
-  {
-    "title": "GitHubでユーザ名・パスワード省略（push, pull）",
-    "url": "https://qiita.com/azusanakano/items/8dc1d7e384b00239d4d9",
-    "likes_count": 364,
-    "created_at": "2016-02-05T19:51:00+09:00",
-    "updated_at": "2016-02-17T15:47:45+09:00",
-    "id": "azusanakano"
   },
   {
     "title": " Hot Module Replacementの設定と仕組みを理解する",
