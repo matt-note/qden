@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 5521,
+    "likes_count": 5525,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3820,
+    "likes_count": 3822,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2022-04-09T10:11:53+09:00",
     "id": "YudaiTsukamoto"
@@ -122,7 +122,7 @@
   {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 1062,
+    "likes_count": 1063,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
@@ -168,20 +168,20 @@
     "id": "umamichi"
   },
   {
+    "title": "良いエンジニアを採用するための方法論",
+    "url": "https://qiita.com/dorarep/items/b9f7f6ff6e1bc344cf0a",
+    "likes_count": 783,
+    "created_at": "2016-12-05T14:14:10+09:00",
+    "updated_at": "2020-08-05T22:57:31+09:00",
+    "id": "dorarep"
+  },
+  {
     "title": "大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察",
     "url": "https://qiita.com/tmknom/items/be5c4b350f561991f2f5",
     "likes_count": 783,
     "created_at": "2016-12-20T18:24:22+09:00",
     "updated_at": "2018-08-12T01:43:05+09:00",
     "id": "tmknom"
-  },
-  {
-    "title": "良いエンジニアを採用するための方法論",
-    "url": "https://qiita.com/dorarep/items/b9f7f6ff6e1bc344cf0a",
-    "likes_count": 782,
-    "created_at": "2016-12-05T14:14:10+09:00",
-    "updated_at": "2020-08-05T22:57:31+09:00",
-    "id": "dorarep"
   },
   {
     "title": "Retty流『2200万ユーザを支える機械学習基盤』の作り方",
@@ -378,7 +378,7 @@
   {
     "title": "Wordさんは今日もおつかれです",
     "url": "https://qiita.com/kaityo256/items/c15889dbb7acb2632c6e",
-    "likes_count": 516,
+    "likes_count": 517,
     "created_at": "2016-12-25T17:06:50+09:00",
     "updated_at": "2018-09-19T23:24:32+09:00",
     "id": "kaityo256"
@@ -464,20 +464,20 @@
     "id": "masuidrive"
   },
   {
+    "title": "12800円で自宅や小規模オフィスのネットワークセキュリティ監視環境を構築する",
+    "url": "https://qiita.com/m_mizutani/items/dc9988daab24050eb5a2",
+    "likes_count": 440,
+    "created_at": "2016-12-29T15:07:33+09:00",
+    "updated_at": "2017-01-11T12:00:23+09:00",
+    "id": "m_mizutani"
+  },
+  {
     "title": "府大生が趣味で世界一の認識精度を持つニューラルネットワークを開発してしまった論文を読んだ",
     "url": "https://qiita.com/yu4u/items/4a35b47d5cab8463a4cb",
     "likes_count": 439,
     "created_at": "2016-12-20T23:56:03+09:00",
     "updated_at": "2017-02-23T01:23:26+09:00",
     "id": "yu4u"
-  },
-  {
-    "title": "12800円で自宅や小規模オフィスのネットワークセキュリティ監視環境を構築する",
-    "url": "https://qiita.com/m_mizutani/items/dc9988daab24050eb5a2",
-    "likes_count": 439,
-    "created_at": "2016-12-29T15:07:33+09:00",
-    "updated_at": "2017-01-11T12:00:23+09:00",
-    "id": "m_mizutani"
   },
   {
     "title": "恥かどうかはともかく、そもそも逃げられない障害対応のお話",
@@ -506,7 +506,7 @@
   {
     "title": "あなたはDRY原則を誤認している？",
     "url": "https://qiita.com/yatmsu/items/b4a84c4ae78fd67a364c",
-    "likes_count": 425,
+    "likes_count": 426,
     "created_at": "2016-12-06T22:47:20+09:00",
     "updated_at": "2022-09-26T18:43:01+09:00",
     "id": "yatmsu"
@@ -624,20 +624,20 @@
     "id": "onhrs"
   },
   {
+    "title": "JavaScriptテスト自動化キホンのキ",
+    "url": "https://qiita.com/ysktsuna/items/6b8b824e444030070754",
+    "likes_count": 329,
+    "created_at": "2016-12-03T05:46:25+09:00",
+    "updated_at": "2017-04-14T19:03:20+09:00",
+    "id": "ysktsuna"
+  },
+  {
     "title": "【転職会議】クチコミをword2vecで自然言語処理して会社を分類してみる",
     "url": "https://qiita.com/naotaka1128/items/2c4551abfd40e43b0146",
     "likes_count": 329,
     "created_at": "2016-12-20T08:17:33+09:00",
     "updated_at": "2017-01-15T03:57:28+09:00",
     "id": "naotaka1128"
-  },
-  {
-    "title": "JavaScriptテスト自動化キホンのキ",
-    "url": "https://qiita.com/ysktsuna/items/6b8b824e444030070754",
-    "likes_count": 328,
-    "created_at": "2016-12-03T05:46:25+09:00",
-    "updated_at": "2017-04-14T19:03:20+09:00",
-    "id": "ysktsuna"
   },
   {
     "title": "ストリーム処理とは何か？＋2016年の出来事",
