@@ -338,10 +338,18 @@
   {
     "title": "新人プログラマに知ってもらいたいRabbitMQ初心者の入門の入門",
     "url": "https://qiita.com/gambaray/items/3cc02b419c860a96bc94",
-    "likes_count": 472,
+    "likes_count": 473,
     "created_at": "2016-02-25T12:00:14+09:00",
     "updated_at": "2016-02-26T14:25:13+09:00",
     "id": "gambaray"
+  },
+  {
+    "title": "Rustのイテレータの網羅的かつ大雑把な紹介",
+    "url": "https://qiita.com/lo48576/items/34887794c146042aebf1",
+    "likes_count": 470,
+    "created_at": "2016-02-08T13:56:09+09:00",
+    "updated_at": "2023-02-25T06:59:47+09:00",
+    "id": "lo48576"
   },
   {
     "title": "Lodash/Underscoreは必要ない（かも）",
@@ -350,14 +358,6 @@
     "created_at": "2016-02-27T21:52:38+09:00",
     "updated_at": "2017-11-09T10:53:25+09:00",
     "id": "ossan-engineer"
-  },
-  {
-    "title": "Rustのイテレータの網羅的かつ大雑把な紹介",
-    "url": "https://qiita.com/lo48576/items/34887794c146042aebf1",
-    "likes_count": 469,
-    "created_at": "2016-02-08T13:56:09+09:00",
-    "updated_at": "2023-02-25T06:59:47+09:00",
-    "id": "lo48576"
   },
   {
     "title": "Electron で Markdownプレゼン作成ツールを作って公開するまで",
@@ -666,7 +666,7 @@
   {
     "title": "eclipseでよく使うショートカット",
     "url": "https://qiita.com/ynxx/items/7734dfb755bc83373d7c",
-    "likes_count": 250,
+    "likes_count": 251,
     "created_at": "2016-02-21T11:56:57+09:00",
     "updated_at": "2017-04-23T22:34:04+09:00",
     "id": "ynxx"
