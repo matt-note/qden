@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 3214,
+    "likes_count": 3215,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2021-08-13T09:17:22+09:00",
     "id": "suin"
@@ -98,7 +98,7 @@
   {
     "title": "【bat】Windowsのバッチファイル(*.bat)の書き方自分用まとめ",
     "url": "https://qiita.com/sksmnagisa/items/8c4c1788af44cc1dc63a",
-    "likes_count": 1244,
+    "likes_count": 1245,
     "created_at": "2015-05-14T20:42:49+09:00",
     "updated_at": "2016-11-28T14:38:21+09:00",
     "id": "sksmnagisa"
@@ -114,7 +114,7 @@
   {
     "title": "仕様書の書き方",
     "url": "https://qiita.com/ko1/items/9f5f1a2683ea54f12362",
-    "likes_count": 1085,
+    "likes_count": 1086,
     "created_at": "2015-05-15T22:42:33+09:00",
     "updated_at": "2016-04-21T00:19:23+09:00",
     "id": "ko1"
@@ -496,20 +496,20 @@
     "id": "moaible"
   },
   {
+    "title": "Javaの検査例外は、呼び出し側で「どんなに注意しても防げない」異常系",
+    "url": "https://qiita.com/yuba/items/d41290eca726559cd743",
+    "likes_count": 331,
+    "created_at": "2015-05-13T23:06:36+09:00",
+    "updated_at": "2019-02-20T12:29:33+09:00",
+    "id": "yuba"
+  },
+  {
     "title": "Webエンジニアが組み込みプログラミングをすることになったときに知っておきたかったC言語の知識",
     "url": "https://qiita.com/kazuph/items/4b6f0856c555242f3fd5",
     "likes_count": 331,
     "created_at": "2015-05-14T14:49:06+09:00",
     "updated_at": "2015-05-26T09:02:13+09:00",
     "id": "kazuph"
-  },
-  {
-    "title": "Javaの検査例外は、呼び出し側で「どんなに注意しても防げない」異常系",
-    "url": "https://qiita.com/yuba/items/d41290eca726559cd743",
-    "likes_count": 330,
-    "created_at": "2015-05-13T23:06:36+09:00",
-    "updated_at": "2019-02-20T12:29:33+09:00",
-    "id": "yuba"
   },
   {
     "title": "Word2Vecの進化形Doc2Vecで文章と文章の類似度を算出する",
