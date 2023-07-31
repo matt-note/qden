@@ -10,7 +10,7 @@
   {
     "title": "新卒からの質問をソシャゲっぽい仕組みにしたら捗った話",
     "url": "https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50",
-    "likes_count": 2812,
+    "likes_count": 2813,
     "created_at": "2018-12-04T09:50:05+09:00",
     "updated_at": "2019-02-28T19:10:54+09:00",
     "id": "ysktsuna"
@@ -58,7 +58,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1364,
+    "likes_count": 1365,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -106,7 +106,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 1073,
+    "likes_count": 1074,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2023-03-27T13:58:24+09:00",
     "id": "syantien"
@@ -536,6 +536,14 @@
     "id": "fuwamaki"
   },
   {
+    "title": "フロントエンドでTDDを実践する（理論編）",
+    "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
+    "likes_count": 377,
+    "created_at": "2018-12-08T23:40:26+09:00",
+    "updated_at": "2018-12-11T23:14:50+09:00",
+    "id": "taneba"
+  },
+  {
     "title": "Flutterで1年間開発して利用した使えるライブラリ",
     "url": "https://qiita.com/ko2ic/items/2a0aa4301011f8f52275",
     "likes_count": 377,
@@ -544,28 +552,20 @@
     "id": "ko2ic"
   },
   {
-    "title": "フロントエンドでTDDを実践する（理論編）",
-    "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
-    "likes_count": 376,
-    "created_at": "2018-12-08T23:40:26+09:00",
-    "updated_at": "2018-12-11T23:14:50+09:00",
-    "id": "taneba"
-  },
-  {
-    "title": "GraphQLのクエリを基礎から整理してみた",
-    "url": "https://qiita.com/shunp/items/d85fc47b33e1b3a88167",
-    "likes_count": 373,
-    "created_at": "2018-12-23T04:55:03+09:00",
-    "updated_at": "2018-12-23T04:55:03+09:00",
-    "id": "shunp"
-  },
-  {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
     "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
     "likes_count": 372,
     "created_at": "2018-12-06T00:54:09+09:00",
     "updated_at": "2018-12-06T00:55:45+09:00",
     "id": "yuneco"
+  },
+  {
+    "title": "GraphQLのクエリを基礎から整理してみた",
+    "url": "https://qiita.com/shunp/items/d85fc47b33e1b3a88167",
+    "likes_count": 372,
+    "created_at": "2018-12-23T04:55:03+09:00",
+    "updated_at": "2018-12-23T04:55:03+09:00",
+    "id": "shunp"
   },
   {
     "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
@@ -586,10 +586,18 @@
   {
     "title": "Macでmysqlを扱う方法",
     "url": "https://qiita.com/fuwamaki/items/194c2a82bd6865f26045",
-    "likes_count": 359,
+    "likes_count": 360,
     "created_at": "2018-12-04T18:54:43+09:00",
     "updated_at": "2019-01-29T22:11:03+09:00",
     "id": "fuwamaki"
+  },
+  {
+    "title": "Python3の標準入力やり方まとめ",
+    "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
+    "likes_count": 358,
+    "created_at": "2018-12-24T08:18:57+09:00",
+    "updated_at": "2018-12-24T08:18:57+09:00",
+    "id": "yasu_teco"
   },
   {
     "title": "トップ学会採択論文にみる、超解像ディープラーニング技術のまとめ",
@@ -606,14 +614,6 @@
     "created_at": "2018-12-22T21:41:23+09:00",
     "updated_at": "2018-12-22T21:41:23+09:00",
     "id": "chihiro"
-  },
-  {
-    "title": "Python3の標準入力やり方まとめ",
-    "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
-    "likes_count": 357,
-    "created_at": "2018-12-24T08:18:57+09:00",
-    "updated_at": "2018-12-24T08:18:57+09:00",
-    "id": "yasu_teco"
   },
   {
     "title": "ドメイン駆動設計を勉強するときのオススメ資料",
