@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4924,
+    "likes_count": 4925,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3557,
+    "likes_count": 3559,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 1997,
+    "likes_count": 1998,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -218,7 +218,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 703,
+    "likes_count": 704,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -226,7 +226,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/fritz22/items/fcb81753eaf381b4b33c",
-    "likes_count": 696,
+    "likes_count": 697,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "fritz22"
@@ -234,7 +234,7 @@
   {
     "title": "Webブラウザの作り方",
     "url": "https://qiita.com/uint256_t/items/01308b46ea839ba4a919",
-    "likes_count": 694,
+    "likes_count": 695,
     "created_at": "2018-05-13T18:38:55+09:00",
     "updated_at": "2018-05-17T19:49:14+09:00",
     "id": "uint256_t"
@@ -306,7 +306,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 586,
+    "likes_count": 587,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -520,20 +520,20 @@
     "id": "odekekepeanuts"
   },
   {
+    "title": "PWAをもっと簡単に初めてみる",
+    "url": "https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474",
+    "likes_count": 361,
+    "created_at": "2018-05-13T23:19:26+09:00",
+    "updated_at": "2021-02-21T14:44:36+09:00",
+    "id": "poster-keisuke"
+  },
+  {
     "title": "Pythonで例外を投げるときのベストプラクティス",
     "url": "https://qiita.com/hasoya/items/05d4e49d492869875cca",
     "likes_count": 360,
     "created_at": "2018-05-02T14:17:43+09:00",
     "updated_at": "2018-05-05T11:55:13+09:00",
     "id": "hasoya"
-  },
-  {
-    "title": "PWAをもっと簡単に初めてみる",
-    "url": "https://qiita.com/poster-keisuke/items/6651140fa20c7aa18474",
-    "likes_count": 360,
-    "created_at": "2018-05-13T23:19:26+09:00",
-    "updated_at": "2021-02-21T14:44:36+09:00",
-    "id": "poster-keisuke"
   },
   {
     "title": "Dockerコマンド よく使うやつ",
