@@ -2,7 +2,7 @@
   {
     "title": "なんとなく CORS がわかる...はもう終わりにする。",
     "url": "https://qiita.com/att55/items/2154a8aad8bf1409db2b",
-    "likes_count": 2940,
+    "likes_count": 2941,
     "created_at": "2019-08-15T01:24:06+09:00",
     "updated_at": "2022-10-20T10:07:43+09:00",
     "id": "att55"
@@ -26,7 +26,7 @@
   {
     "title": "これで完璧！今さら振り返る CSRF 対策と同一オリジンポリシーの基礎",
     "url": "https://qiita.com/mpyw/items/0595f07736cfa5b1f50c",
-    "likes_count": 1106,
+    "likes_count": 1108,
     "created_at": "2019-08-31T02:45:11+09:00",
     "updated_at": "2019-09-02T04:09:06+09:00",
     "id": "mpyw"
@@ -178,7 +178,7 @@
   {
     "title": "めちゃくちゃ手間のかかっていた手作業をPython使って激効率化した話",
     "url": "https://qiita.com/nir_takemi/items/d5886b6057eec55c9b70",
-    "likes_count": 499,
+    "likes_count": 500,
     "created_at": "2019-08-22T11:44:37+09:00",
     "updated_at": "2019-08-22T11:56:22+09:00",
     "id": "nir_takemi"
@@ -186,10 +186,18 @@
   {
     "title": "[CSS設計] 私のためのFLOCSSまとめ",
     "url": "https://qiita.com/super-mana-chan/items/644c6827be954c8db2c0",
-    "likes_count": 496,
+    "likes_count": 497,
     "created_at": "2019-08-06T19:06:03+09:00",
     "updated_at": "2022-12-22T10:04:35+09:00",
     "id": "super-mana-chan"
+  },
+  {
+    "title": "Bearer認証について",
+    "url": "https://qiita.com/h_tyokinuhata/items/ab8e0337085997be04b1",
+    "likes_count": 484,
+    "created_at": "2019-08-24T06:52:28+09:00",
+    "updated_at": "2022-10-31T14:30:26+09:00",
+    "id": "h_tyokinuhata"
   },
   {
     "title": "Excelで誰でも簡単言語処理 (感情推定, 固有表現抽出, キーワード抽出,  文類似度推定 etc...)",
@@ -198,14 +206,6 @@
     "created_at": "2019-08-05T08:01:22+09:00",
     "updated_at": "2019-09-13T15:24:03+09:00",
     "id": "Harusugi"
-  },
-  {
-    "title": "Bearer認証について",
-    "url": "https://qiita.com/h_tyokinuhata/items/ab8e0337085997be04b1",
-    "likes_count": 483,
-    "created_at": "2019-08-24T06:52:28+09:00",
-    "updated_at": "2022-10-31T14:30:26+09:00",
-    "id": "h_tyokinuhata"
   },
   {
     "title": "僕たちがテスト駆動開発をする理由",
