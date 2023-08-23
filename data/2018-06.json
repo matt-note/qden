@@ -490,10 +490,18 @@
   {
     "title": "アセンブラへの道",
     "url": "https://qiita.com/kaizen_nagoya/items/46f2333c2647b0e692b2",
-    "likes_count": 350,
+    "likes_count": 351,
     "created_at": "2018-06-30T19:35:42+09:00",
     "updated_at": "2023-06-28T20:36:00+09:00",
     "id": "kaizen_nagoya"
+  },
+  {
+    "title": "[PHP] Xdebug のリモートデバッグ、理解していますか？",
+    "url": "https://qiita.com/castaneai/items/d5fdf577a348012ed8af",
+    "likes_count": 346,
+    "created_at": "2018-06-28T00:45:23+09:00",
+    "updated_at": "2018-08-29T17:15:34+09:00",
+    "id": "castaneai"
   },
   {
     "title": "個人的にコードリーディングがはかどったテクニックまとめ",
@@ -502,14 +510,6 @@
     "created_at": "2018-06-24T11:46:07+09:00",
     "updated_at": "2018-06-27T20:55:27+09:00",
     "id": "gotchane"
-  },
-  {
-    "title": "[PHP] Xdebug のリモートデバッグ、理解していますか？",
-    "url": "https://qiita.com/castaneai/items/d5fdf577a348012ed8af",
-    "likes_count": 345,
-    "created_at": "2018-06-28T00:45:23+09:00",
-    "updated_at": "2018-08-29T17:15:34+09:00",
-    "id": "castaneai"
   },
   {
     "title": "バグだらけのWebアプリケーションをDjango 2（Python 3）で実装してみました",
