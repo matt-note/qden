@@ -74,7 +74,7 @@
   {
     "title": "データの集計は、ExcelよりPython使ったほうが100倍早い（pandas-profiling, pixiedust）",
     "url": "https://qiita.com/pocket_kyoto/items/8d1fbcbca5d5dfd1dbd5",
-    "likes_count": 892,
+    "likes_count": 891,
     "created_at": "2019-04-26T21:57:04+09:00",
     "updated_at": "2019-04-26T21:57:04+09:00",
     "id": "pocket_kyoto"
@@ -106,7 +106,7 @@
   {
     "title": "AtCoderで始めるPython入門",
     "url": "https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c",
-    "likes_count": 844,
+    "likes_count": 843,
     "created_at": "2019-04-04T14:41:04+09:00",
     "updated_at": "2023-08-13T23:30:09+09:00",
     "id": "KoyanagiHitoshi"
@@ -122,7 +122,7 @@
   {
     "title": "暗号技術勉強メモ",
     "url": "https://qiita.com/opengl-8080/items/85df520e2d8c4e19be8e",
-    "likes_count": 782,
+    "likes_count": 781,
     "created_at": "2019-04-30T23:59:06+09:00",
     "updated_at": "2019-07-11T22:59:12+09:00",
     "id": "opengl-8080"
@@ -130,7 +130,7 @@
   {
     "title": "コーディングテストに打ち勝つ",
     "url": "https://qiita.com/yohachi/items/e4bef4035da135a4808d",
-    "likes_count": 767,
+    "likes_count": 769,
     "created_at": "2019-04-18T22:21:07+09:00",
     "updated_at": "2019-04-18T22:21:26+09:00",
     "id": "yohachi"
@@ -160,20 +160,20 @@
     "id": "4m1t0"
   },
   {
-    "title": "TensorFlow を使ってブラックホールとポンデリングを見分ける (追記あり)",
-    "url": "https://qiita.com/mattn/items/429fca1c72bcb99adbc3",
-    "likes_count": 704,
-    "created_at": "2019-04-12T01:34:12+09:00",
-    "updated_at": "2019-04-19T09:42:56+09:00",
-    "id": "mattn"
-  },
-  {
     "title": "pͪoͣnͬpͣoͥnͭpͣa͡inͥを支える技術",
     "url": "https://qiita.com/ykhirao/items/9ca1fbd294883e06dbd6",
     "likes_count": 704,
     "created_at": "2019-04-25T11:07:49+09:00",
     "updated_at": "2020-10-20T13:43:57+09:00",
     "id": "ykhirao"
+  },
+  {
+    "title": "TensorFlow を使ってブラックホールとポンデリングを見分ける (追記あり)",
+    "url": "https://qiita.com/mattn/items/429fca1c72bcb99adbc3",
+    "likes_count": 703,
+    "created_at": "2019-04-12T01:34:12+09:00",
+    "updated_at": "2019-04-19T09:42:56+09:00",
+    "id": "mattn"
   },
   {
     "title": "Vue.js to TypeScriptの書き方一覧",
@@ -304,20 +304,20 @@
     "id": "Brutus"
   },
   {
-    "title": "よく使われているvimのプラグイン top20",
-    "url": "https://qiita.com/reireias/items/5364dcaada1a5b88a206",
-    "likes_count": 422,
-    "created_at": "2019-04-15T07:02:33+09:00",
-    "updated_at": "2020-06-13T17:56:41+09:00",
-    "id": "reireias"
-  },
-  {
     "title": "Visual Studio Codeで日本語化する方法[Windows]",
     "url": "https://qiita.com/nanamesincos/items/5c48ff88a4eeef0a8631",
     "likes_count": 421,
     "created_at": "2019-04-02T12:59:01+09:00",
     "updated_at": "2020-06-09T07:52:12+09:00",
     "id": "nanamesincos"
+  },
+  {
+    "title": "よく使われているvimのプラグイン top20",
+    "url": "https://qiita.com/reireias/items/5364dcaada1a5b88a206",
+    "likes_count": 421,
+    "created_at": "2019-04-15T07:02:33+09:00",
+    "updated_at": "2020-06-13T17:56:41+09:00",
+    "id": "reireias"
   },
   {
     "title": "Pythonで開発するならKiteを導入して爆速開発",
