@@ -26,7 +26,7 @@
   {
     "title": "単一責任原則で無責任な多目的クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/76307b1b066467cbfd6a",
-    "likes_count": 1924,
+    "likes_count": 1925,
     "created_at": "2020-12-08T11:46:34+09:00",
     "updated_at": "2020-12-09T13:17:47+09:00",
     "id": "MinoDriven"
@@ -114,7 +114,7 @@
   {
     "title": "Next.jsを使うべき5つの理由 + 実装Tips",
     "url": "https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f",
-    "likes_count": 795,
+    "likes_count": 796,
     "created_at": "2020-12-19T00:04:14+09:00",
     "updated_at": "2023-07-26T13:23:49+09:00",
     "id": "Yuki_Oshima"
@@ -240,6 +240,14 @@
     "id": "nfujita55a"
   },
   {
+    "title": "【図解】1から学ぶ JavaScript の 非同期処理",
+    "url": "https://qiita.com/ryosuketter/items/dd467f827c1b93a74d76",
+    "likes_count": 471,
+    "created_at": "2020-12-15T01:51:34+09:00",
+    "updated_at": "2023-07-17T12:55:00+09:00",
+    "id": "ryosuketter"
+  },
+  {
     "title": "2021年のTypeScript環境構築で絶対入れるべき「better-typescript-lib」の紹介",
     "url": "https://qiita.com/uhyo/items/18458646e8aae25207db",
     "likes_count": 471,
@@ -254,14 +262,6 @@
     "created_at": "2020-12-14T19:39:02+09:00",
     "updated_at": "2020-12-17T01:39:42+09:00",
     "id": "inoichan"
-  },
-  {
-    "title": "【図解】1から学ぶ JavaScript の 非同期処理",
-    "url": "https://qiita.com/ryosuketter/items/dd467f827c1b93a74d76",
-    "likes_count": 470,
-    "created_at": "2020-12-15T01:51:34+09:00",
-    "updated_at": "2023-07-17T12:55:00+09:00",
-    "id": "ryosuketter"
   },
   {
     "title": "二年目エンジニアが伝授。新人プログラマが成長するための8個のTips",
@@ -282,7 +282,7 @@
   {
     "title": "[翻訳] Shopifyにおけるモジュラモノリスへの移行",
     "url": "https://qiita.com/tkyowa/items/ae9fa550237cb6f48318",
-    "likes_count": 463,
+    "likes_count": 464,
     "created_at": "2020-12-21T11:21:27+09:00",
     "updated_at": "2020-12-23T20:15:03+09:00",
     "id": "tkyowa"
