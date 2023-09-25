@@ -18,7 +18,7 @@
   {
     "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
     "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
-    "likes_count": 1951,
+    "likes_count": 1953,
     "created_at": "2016-08-02T09:10:12+09:00",
     "updated_at": "2017-02-03T16:30:10+09:00",
     "id": "ritukiii"
@@ -178,7 +178,7 @@
   {
     "title": "language server protocolについて (前編)",
     "url": "https://qiita.com/atsushieno/items/ce31df9bd88e98eec5c4",
-    "likes_count": 628,
+    "likes_count": 629,
     "created_at": "2016-08-19T12:33:03+09:00",
     "updated_at": "2021-05-15T14:49:58+09:00",
     "id": "atsushieno"
@@ -186,7 +186,7 @@
   {
     "title": "Let's Encrypt で Nginx にSSLを設定する",
     "url": "https://qiita.com/HeRo/items/f9eb8d8a08d4d5b63ee9",
-    "likes_count": 611,
+    "likes_count": 612,
     "created_at": "2016-08-14T11:31:29+09:00",
     "updated_at": "2021-06-13T13:31:11+09:00",
     "id": "HeRo"
@@ -376,6 +376,14 @@
     "id": "ryo2132"
   },
   {
+    "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
+    "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
+    "likes_count": 383,
+    "created_at": "2016-08-04T23:10:37+09:00",
+    "updated_at": "2016-08-08T12:50:34+09:00",
+    "id": "mpyw"
+  },
+  {
     "title": "Jupyterのショートカットキー一覧を調べてみた",
     "url": "https://qiita.com/masafumi_miya/items/6524dbd227705351a00c",
     "likes_count": 383,
@@ -390,14 +398,6 @@
     "created_at": "2016-08-22T23:51:46+09:00",
     "updated_at": "2016-08-22T23:51:46+09:00",
     "id": "yoh_okuno"
-  },
-  {
-    "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
-    "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 382,
-    "created_at": "2016-08-04T23:10:37+09:00",
-    "updated_at": "2016-08-08T12:50:34+09:00",
-    "id": "mpyw"
   },
   {
     "title": "bundler、bundle execについて　※自分用メモ",
