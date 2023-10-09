@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2786,
+    "likes_count": 2785,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1808,
+    "likes_count": 1809,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -114,7 +114,7 @@
   {
     "title": "イケイケなベンチャーの開発チームが、大企業的な開発チームになってしまう5つの兆候",
     "url": "https://qiita.com/tsuyok/items/116d9076e6149d9c7bbc",
-    "likes_count": 1081,
+    "likes_count": 1080,
     "created_at": "2016-12-18T00:01:45+09:00",
     "updated_at": "2016-12-20T17:18:30+09:00",
     "id": "tsuyok"
@@ -154,7 +154,7 @@
   {
     "title": "ゆるふわPandasチートシート",
     "url": "https://qiita.com/tanemaki/items/2ed05e258ef4c9e6caac",
-    "likes_count": 866,
+    "likes_count": 867,
     "created_at": "2016-12-06T00:51:42+09:00",
     "updated_at": "2018-06-18T15:35:20+09:00",
     "id": "tanemaki"
@@ -184,20 +184,20 @@
     "id": "umamichi"
   },
   {
-    "title": "Retty流『2200万ユーザを支える機械学習基盤』の作り方",
-    "url": "https://qiita.com/taru0216/items/dda1f9f11397f811e98a",
-    "likes_count": 781,
-    "created_at": "2016-12-25T09:02:32+09:00",
-    "updated_at": "2017-06-09T19:53:14+09:00",
-    "id": "taru0216"
-  },
-  {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
     "likes_count": 780,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
+  },
+  {
+    "title": "Retty流『2200万ユーザを支える機械学習基盤』の作り方",
+    "url": "https://qiita.com/taru0216/items/dda1f9f11397f811e98a",
+    "likes_count": 780,
+    "created_at": "2016-12-25T09:02:32+09:00",
+    "updated_at": "2017-06-09T19:53:14+09:00",
+    "id": "taru0216"
   },
   {
     "title": "PostCSS まとめ",
@@ -298,7 +298,7 @@
   {
     "title": "Linuxコマンド(Bash)でバックグラウンド実行する方法のまとめメモ",
     "url": "https://qiita.com/inosy22/items/341cfc589494b8211844",
-    "likes_count": 631,
+    "likes_count": 630,
     "created_at": "2016-12-03T15:46:25+09:00",
     "updated_at": "2016-12-03T15:46:25+09:00",
     "id": "inosy22"
@@ -370,7 +370,7 @@
   {
     "title": "基本/詳細設計って呼び方やめませんか",
     "url": "https://qiita.com/garbagetown/items/a3ae46595f7c49e587a0",
-    "likes_count": 526,
+    "likes_count": 527,
     "created_at": "2016-12-14T18:08:06+09:00",
     "updated_at": "2016-12-18T01:24:21+09:00",
     "id": "garbagetown"
@@ -400,14 +400,6 @@
     "id": "0084ken"
   },
   {
-    "title": "転職する時に必ずチェックしたい募集要項",
-    "url": "https://qiita.com/ma3tk/items/3336c9a245b86a6c448f",
-    "likes_count": 482,
-    "created_at": "2016-12-15T00:04:29+09:00",
-    "updated_at": "2017-06-12T09:47:31+09:00",
-    "id": "ma3tk"
-  },
-  {
     "title": "Now でクラウドの複雑さから解放されよう、今すぐに",
     "url": "https://qiita.com/aggre/items/f0cb9f8b8e8c54768e50",
     "likes_count": 481,
@@ -422,6 +414,14 @@
     "created_at": "2016-12-06T00:03:48+09:00",
     "updated_at": "2016-12-06T00:03:48+09:00",
     "id": "Implem"
+  },
+  {
+    "title": "転職する時に必ずチェックしたい募集要項",
+    "url": "https://qiita.com/ma3tk/items/3336c9a245b86a6c448f",
+    "likes_count": 481,
+    "created_at": "2016-12-15T00:04:29+09:00",
+    "updated_at": "2017-06-12T09:47:31+09:00",
+    "id": "ma3tk"
   },
   {
     "title": "最速・最高のファイルアップロードに近づくための1歩",
@@ -440,14 +440,6 @@
     "id": "MegaBlackLabel"
   },
   {
-    "title": "機械学習モデルの実装における、テストについて",
-    "url": "https://qiita.com/icoxfog417/items/67764a6756c4548b5fb8",
-    "likes_count": 448,
-    "created_at": "2016-12-15T09:21:15+09:00",
-    "updated_at": "2017-06-27T09:58:48+09:00",
-    "id": "icoxfog417"
-  },
-  {
     "title": "【swift】イラストで分かる！具体的なDelegateの使い方。",
     "url": "https://qiita.com/natya/items/326bd50a78cf34371169",
     "likes_count": 448,
@@ -462,6 +454,14 @@
     "created_at": "2016-12-03T13:28:15+09:00",
     "updated_at": "2016-12-27T17:36:47+09:00",
     "id": "masuidrive"
+  },
+  {
+    "title": "機械学習モデルの実装における、テストについて",
+    "url": "https://qiita.com/icoxfog417/items/67764a6756c4548b5fb8",
+    "likes_count": 447,
+    "created_at": "2016-12-15T09:21:15+09:00",
+    "updated_at": "2017-06-27T09:58:48+09:00",
+    "id": "icoxfog417"
   },
   {
     "title": "12800円で自宅や小規模オフィスのネットワークセキュリティ監視環境を構築する",

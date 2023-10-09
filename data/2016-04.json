@@ -10,7 +10,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2572,
+    "likes_count": 2573,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -18,7 +18,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2539,
+    "likes_count": 2541,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -90,7 +90,7 @@
   {
     "title": "[新人教育] 何も知らない人がGitとGitHubを独学で知る",
     "url": "https://qiita.com/ikenji/items/367e8344490dd37e14f0",
-    "likes_count": 1180,
+    "likes_count": 1179,
     "created_at": "2016-04-15T13:28:42+09:00",
     "updated_at": "2019-03-01T12:04:58+09:00",
     "id": "ikenji"
@@ -138,7 +138,7 @@
   {
     "title": "何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜",
     "url": "https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301",
-    "likes_count": 878,
+    "likes_count": 877,
     "created_at": "2016-04-08T10:02:45+09:00",
     "updated_at": "2019-01-28T13:20:03+09:00",
     "id": "morikooooo"
@@ -186,7 +186,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 746,
+    "likes_count": 747,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -450,7 +450,7 @@
   {
     "title": "LINE Bot を AWSを使ってシステム構築してみた。",
     "url": "https://qiita.com/hiyuzawa/items/10e7bf2f6ad5d1c7fc9c",
-    "likes_count": 385,
+    "likes_count": 384,
     "created_at": "2016-04-17T17:19:05+09:00",
     "updated_at": "2021-05-19T23:14:49+09:00",
     "id": "hiyuzawa"
@@ -472,20 +472,20 @@
     "id": "jabba"
   },
   {
-    "title": "Javaエンジニアにお勧めする一度はたどり着くであろうサイトまとめ",
-    "url": "https://qiita.com/deaf_tadashi/items/d72ac92dec1e66319f97",
-    "likes_count": 379,
-    "created_at": "2016-04-21T15:53:06+09:00",
-    "updated_at": "2017-05-12T16:44:40+09:00",
-    "id": "deaf_tadashi"
-  },
-  {
     "title": "お名前.comからRoute53へネームサーバーを変更する時に迷子になる人へ",
     "url": "https://qiita.com/ysKey2/items/0545e13ec05def42ad55",
     "likes_count": 379,
     "created_at": "2016-04-22T15:50:55+09:00",
     "updated_at": "2018-08-21T19:08:57+09:00",
     "id": "ysKey2"
+  },
+  {
+    "title": "Javaエンジニアにお勧めする一度はたどり着くであろうサイトまとめ",
+    "url": "https://qiita.com/deaf_tadashi/items/d72ac92dec1e66319f97",
+    "likes_count": 378,
+    "created_at": "2016-04-21T15:53:06+09:00",
+    "updated_at": "2017-05-12T16:44:40+09:00",
+    "id": "deaf_tadashi"
   },
   {
     "title": "XGBoostの主な特徴と理論の概要",
@@ -496,20 +496,20 @@
     "id": "yh0sh"
   },
   {
-    "title": "Heroku初心者がHello, Herokuをしてみる",
-    "url": "https://qiita.com/arashida/items/b2f2e01259238235e187",
-    "likes_count": 374,
-    "created_at": "2016-04-16T21:46:55+09:00",
-    "updated_at": "2016-10-07T15:52:53+09:00",
-    "id": "arashida"
-  },
-  {
     "title": "Amazon Cognito User Poolsを使って、webサイトにユーザ認証基盤を作る",
     "url": "https://qiita.com/horike37/items/1d522f66452d3abe1203",
     "likes_count": 374,
     "created_at": "2016-04-23T17:36:48+09:00",
     "updated_at": "2016-05-19T16:37:25+09:00",
     "id": "horike37"
+  },
+  {
+    "title": "Heroku初心者がHello, Herokuをしてみる",
+    "url": "https://qiita.com/arashida/items/b2f2e01259238235e187",
+    "likes_count": 373,
+    "created_at": "2016-04-16T21:46:55+09:00",
+    "updated_at": "2016-10-07T15:52:53+09:00",
+    "id": "arashida"
   },
   {
     "title": "インフラエンジニアの自分が買ってよかったと思う書籍10選",
