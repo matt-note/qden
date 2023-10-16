@@ -2,7 +2,7 @@
   {
     "title": "Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～",
     "url": "https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0",
-    "likes_count": 3685,
+    "likes_count": 3686,
     "created_at": "2019-03-30T03:08:22+09:00",
     "updated_at": "2022-12-05T13:01:24+09:00",
     "id": "upura"
@@ -26,7 +26,7 @@
   {
     "title": "[翻訳]あなたがプログラミングに向いていない10のサイン",
     "url": "https://qiita.com/hareku/items/4bfc48e23e83e0d300f3",
-    "likes_count": 1915,
+    "likes_count": 1916,
     "created_at": "2019-03-15T08:13:39+09:00",
     "updated_at": "2019-09-11T19:34:10+09:00",
     "id": "hareku"
@@ -130,7 +130,7 @@
   {
     "title": "新人Webプログラマの学習が捗るリンク集",
     "url": "https://qiita.com/tgsmsk/items/5bc9a2a5fd2d4cb155c2",
-    "likes_count": 991,
+    "likes_count": 992,
     "created_at": "2019-03-21T21:58:03+09:00",
     "updated_at": "2019-04-08T12:09:13+09:00",
     "id": "tgsmsk"
@@ -170,7 +170,7 @@
   {
     "title": "Laravelで実践クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/aa49d10dd2bcb3110f22",
-    "likes_count": 852,
+    "likes_count": 853,
     "created_at": "2019-03-14T23:15:05+09:00",
     "updated_at": "2020-12-13T21:40:32+09:00",
     "id": "nrslib"
@@ -312,6 +312,14 @@
     "id": "rana_kualu"
   },
   {
+    "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
+    "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
+    "likes_count": 547,
+    "created_at": "2019-03-21T16:54:22+09:00",
+    "updated_at": "2019-03-21T16:54:59+09:00",
+    "id": "1ain2"
+  },
+  {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
     "likes_count": 547,
@@ -326,14 +334,6 @@
     "created_at": "2019-03-21T12:08:05+09:00",
     "updated_at": "2021-11-23T22:47:31+09:00",
     "id": "takasp"
-  },
-  {
-    "title": "127.0.0.1とlocalhostと0.0.0.0の違い",
-    "url": "https://qiita.com/1ain2/items/194a9372798eaef6c5ab",
-    "likes_count": 546,
-    "created_at": "2019-03-21T16:54:22+09:00",
-    "updated_at": "2019-03-21T16:54:59+09:00",
-    "id": "1ain2"
   },
   {
     "title": "Railsのroutingにおけるscope / namespace / module の違い",
@@ -370,7 +370,7 @@
   {
     "title": "Rust のエラーハンドリングはシンタックスシュガーが豊富で完全に初見殺しなので自信を持って使えるように整理してみたら完全に理解した",
     "url": "https://qiita.com/nirasan/items/321e7cc42e0e0f238254",
-    "likes_count": 505,
+    "likes_count": 506,
     "created_at": "2019-03-15T09:35:24+09:00",
     "updated_at": "2022-04-25T11:09:27+09:00",
     "id": "nirasan"
@@ -498,7 +498,7 @@
   {
     "title": "Nginxのアーキテクチャを理解する",
     "url": "https://qiita.com/kamihork/items/296ee689a8d48c2bebcd",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2019-03-06T01:23:01+09:00",
     "updated_at": "2020-06-13T23:46:57+09:00",
     "id": "kamihork"
@@ -554,7 +554,7 @@
   {
     "title": "個人的に便利だと思ったReact hooks 一覧",
     "url": "https://qiita.com/seya/items/f6d311b32cf711a02020",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2019-03-17T20:29:56+09:00",
     "updated_at": "2019-04-26T14:51:41+09:00",
     "id": "seya"
@@ -586,7 +586,7 @@
   {
     "title": "【Rails】$rails db:rollbackしたい時の間違えない手順",
     "url": "https://qiita.com/s_tatsuki/items/3e1f119c91e21b8f0c33",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2019-03-14T13:16:42+09:00",
     "updated_at": "2021-11-19T10:15:10+09:00",
     "id": "s_tatsuki"
