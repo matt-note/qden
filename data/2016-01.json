@@ -58,7 +58,7 @@
   {
     "title": "LSTMネットワークの概要",
     "url": "https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca",
-    "likes_count": 1606,
+    "likes_count": 1607,
     "created_at": "2016-01-08T18:22:20+09:00",
     "updated_at": "2017-12-11T08:57:51+09:00",
     "id": "KojiOhki"
@@ -82,7 +82,7 @@
   {
     "title": "AWSのネットワーク設計をサボらないでちゃんとやる",
     "url": "https://qiita.com/nisshiee/items/df4261132ec686964605",
-    "likes_count": 1219,
+    "likes_count": 1218,
     "created_at": "2016-01-05T16:17:42+09:00",
     "updated_at": "2016-01-21T17:46:58+09:00",
     "id": "nisshiee"
@@ -202,7 +202,7 @@
   {
     "title": "REST API設計者のための有名APIのURL例",
     "url": "https://qiita.com/yu1ro/items/f366ded721f03ae91d96",
-    "likes_count": 782,
+    "likes_count": 781,
     "created_at": "2016-01-03T01:50:10+09:00",
     "updated_at": "2021-05-28T08:58:57+09:00",
     "id": "yu1ro"
@@ -218,7 +218,7 @@
   {
     "title": "マテリアルデザインについて少し調べる",
     "url": "https://qiita.com/nogson/items/804dd3a879f482fb7018",
-    "likes_count": 755,
+    "likes_count": 754,
     "created_at": "2016-01-30T17:13:04+09:00",
     "updated_at": "2017-05-30T18:12:34+09:00",
     "id": "nogson"
@@ -392,6 +392,14 @@
     "id": "ossan-engineer"
   },
   {
+    "title": "ニューラルネットワーク、多様体、トポロジー",
+    "url": "https://qiita.com/KojiOhki/items/af2241027b00f892d2bd",
+    "likes_count": 461,
+    "created_at": "2016-01-15T14:53:37+09:00",
+    "updated_at": "2018-01-26T10:59:00+09:00",
+    "id": "KojiOhki"
+  },
+  {
     "title": "ssh-agentを利用して、安全にSSH認証を行う",
     "url": "https://qiita.com/naoki_mochizuki/items/93ee2643a4c6ab0a20f5",
     "likes_count": 461,
@@ -406,14 +414,6 @@
     "created_at": "2016-01-18T07:47:46+09:00",
     "updated_at": "2017-12-26T19:33:11+09:00",
     "id": "stkdev"
-  },
-  {
-    "title": "ニューラルネットワーク、多様体、トポロジー",
-    "url": "https://qiita.com/KojiOhki/items/af2241027b00f892d2bd",
-    "likes_count": 459,
-    "created_at": "2016-01-15T14:53:37+09:00",
-    "updated_at": "2018-01-26T10:59:00+09:00",
-    "id": "KojiOhki"
   },
   {
     "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
@@ -450,7 +450,7 @@
   {
     "title": "お手軽なWebサーバーの立て方",
     "url": "https://qiita.com/massie_g/items/2913066e596dae197539",
-    "likes_count": 426,
+    "likes_count": 427,
     "created_at": "2016-01-08T14:50:59+09:00",
     "updated_at": "2018-07-03T14:42:55+09:00",
     "id": "massie_g"
