@@ -18,7 +18,7 @@
   {
     "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
     "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
-    "likes_count": 3472,
+    "likes_count": 3473,
     "created_at": "2015-06-11T00:20:30+09:00",
     "updated_at": "2022-06-22T17:02:53+09:00",
     "id": "ryounagaoka"
@@ -34,7 +34,7 @@
   {
     "title": "どこよりも分かりやすいSwiftの\"?\"と\"!\"",
     "url": "https://qiita.com/maiki055/items/b24378a3707bd35a31a8",
-    "likes_count": 2046,
+    "likes_count": 2047,
     "created_at": "2015-06-22T20:32:43+09:00",
     "updated_at": "2016-01-08T13:37:58+09:00",
     "id": "maiki055"
@@ -82,7 +82,7 @@
   {
     "title": "PUT か POST か PATCH か？",
     "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
-    "likes_count": 1368,
+    "likes_count": 1369,
     "created_at": "2015-06-02T02:01:16+09:00",
     "updated_at": "2020-03-12T13:16:54+09:00",
     "id": "suin"
@@ -114,7 +114,7 @@
   {
     "title": "~/.ssh/configについて",
     "url": "https://qiita.com/passol78/items/2ad123e39efeb1a5286b",
-    "likes_count": 902,
+    "likes_count": 903,
     "created_at": "2015-06-30T18:12:48+09:00",
     "updated_at": "2018-06-25T23:21:19+09:00",
     "id": "passol78"
@@ -146,7 +146,7 @@
   {
     "title": "良いコードを書く技術（まとめ）",
     "url": "https://qiita.com/NoriakiOshita/items/e60ab5bb01b90d927ae5",
-    "likes_count": 817,
+    "likes_count": 818,
     "created_at": "2015-06-18T23:40:21+09:00",
     "updated_at": "2021-02-05T07:38:16+09:00",
     "id": "NoriakiOshita"
@@ -450,7 +450,7 @@
   {
     "title": "Rubyのクラスメソッドとインスタンスメソッドの例",
     "url": "https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2015-06-30T23:23:51+09:00",
     "updated_at": "2022-01-23T04:50:50+09:00",
     "id": "tbpgr"
@@ -568,6 +568,14 @@
     "id": "shizuma"
   },
   {
+    "title": "リーダブルコードまとめ",
+    "url": "https://qiita.com/fkrw/items/7646563a2b238fbcff9a",
+    "likes_count": 264,
+    "created_at": "2015-06-06T00:40:47+09:00",
+    "updated_at": "2015-06-06T00:46:06+09:00",
+    "id": "fkrw"
+  },
+  {
     "title": "いちいちbundle execしたくない 決定版",
     "url": "https://qiita.com/ymmtmdk/items/374d5319e8d5c9ab2ff4",
     "likes_count": 263,
@@ -576,12 +584,12 @@
     "id": "ymmtmdk"
   },
   {
-    "title": "リーダブルコードまとめ",
-    "url": "https://qiita.com/fkrw/items/7646563a2b238fbcff9a",
-    "likes_count": 263,
-    "created_at": "2015-06-06T00:40:47+09:00",
-    "updated_at": "2015-06-06T00:46:06+09:00",
-    "id": "fkrw"
+    "title": "Linuxでユーザーをグループに追加する",
+    "url": "https://qiita.com/orangain/items/056db6ffc16d765a8187",
+    "likes_count": 256,
+    "created_at": "2015-06-24T22:19:35+09:00",
+    "updated_at": "2015-06-24T22:19:35+09:00",
+    "id": "orangain"
   },
   {
     "title": "あなたが知らないかもしれないスタートアップを加速させるサービス44選",
@@ -590,14 +598,6 @@
     "created_at": "2015-06-22T09:38:10+09:00",
     "updated_at": "2015-09-17T12:09:58+09:00",
     "id": "suin"
-  },
-  {
-    "title": "Linuxでユーザーをグループに追加する",
-    "url": "https://qiita.com/orangain/items/056db6ffc16d765a8187",
-    "likes_count": 255,
-    "created_at": "2015-06-24T22:19:35+09:00",
-    "updated_at": "2015-06-24T22:19:35+09:00",
-    "id": "orangain"
   },
   {
     "title": "OpenSSLコマンドの備忘録",
