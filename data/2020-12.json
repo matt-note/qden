@@ -74,7 +74,7 @@
   {
     "title": "ライセンスをつけないとどうなるの？",
     "url": "https://qiita.com/Tatamo/items/ae7bf4878abcf0584291",
-    "likes_count": 1120,
+    "likes_count": 1121,
     "created_at": "2020-12-18T02:23:51+09:00",
     "updated_at": "2020-12-20T03:38:42+09:00",
     "id": "Tatamo"
@@ -114,7 +114,7 @@
   {
     "title": "Next.jsを使うべき5つの理由 + 実装Tips",
     "url": "https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f",
-    "likes_count": 822,
+    "likes_count": 824,
     "created_at": "2020-12-19T00:04:14+09:00",
     "updated_at": "2023-07-26T13:23:49+09:00",
     "id": "Yuki_Oshima"
@@ -146,7 +146,7 @@
   {
     "title": "【Webエンジニアど素人】が【3〜4年生】くらいになったら読むといい本を目的別にまとめた",
     "url": "https://qiita.com/JunyaShibato/items/59743191e4883bc1c517",
-    "likes_count": 638,
+    "likes_count": 639,
     "created_at": "2020-12-19T16:32:40+09:00",
     "updated_at": "2020-12-29T09:35:02+09:00",
     "id": "JunyaShibato"
@@ -192,6 +192,14 @@
     "id": "Kohki_Mametani"
   },
   {
+    "title": "Go1.16からは go get は使わず go install を使おう",
+    "url": "https://qiita.com/eihigh/items/9fe52804610a8c4b7e41",
+    "likes_count": 493,
+    "created_at": "2020-12-17T03:26:39+09:00",
+    "updated_at": "2022-04-24T13:05:45+09:00",
+    "id": "eihigh"
+  },
+  {
     "title": "低スペックでも応用情報技術者試験に合格した話",
     "url": "https://qiita.com/raku_taro/items/c045971f4d38e9154dd1",
     "likes_count": 493,
@@ -200,17 +208,9 @@
     "id": "raku_taro"
   },
   {
-    "title": "Go1.16からは go get は使わず go install を使おう",
-    "url": "https://qiita.com/eihigh/items/9fe52804610a8c4b7e41",
-    "likes_count": 492,
-    "created_at": "2020-12-17T03:26:39+09:00",
-    "updated_at": "2022-04-24T13:05:45+09:00",
-    "id": "eihigh"
-  },
-  {
     "title": "【図解】1から学ぶ JavaScript の 非同期処理",
     "url": "https://qiita.com/ryosuketter/items/dd467f827c1b93a74d76",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2020-12-15T01:51:34+09:00",
     "updated_at": "2023-07-17T12:55:00+09:00",
     "id": "ryosuketter"
@@ -290,7 +290,7 @@
   {
     "title": "Python3.7以上のデータ格納はdataclassを活用しよう",
     "url": "https://qiita.com/ttyszk/items/01934dc42cbd4f6665d2",
-    "likes_count": 449,
+    "likes_count": 450,
     "created_at": "2020-12-16T18:52:06+09:00",
     "updated_at": "2020-12-17T11:56:40+09:00",
     "id": "ttyszk"
