@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマをレビューで殺さない方法",
     "url": "https://qiita.com/hiraike32/items/32840b11536fa1b78621",
-    "likes_count": 3006,
+    "likes_count": 3005,
     "created_at": "2018-12-27T22:40:39+09:00",
     "updated_at": "2019-01-11T11:22:48+09:00",
     "id": "hiraike32"
@@ -58,7 +58,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1375,
+    "likes_count": 1374,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -98,7 +98,7 @@
   {
     "title": "変更に強いアーキテクチャについてIT業界19年目の僕が超ザックリ説明する",
     "url": "https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443",
-    "likes_count": 1122,
+    "likes_count": 1121,
     "created_at": "2018-12-06T21:43:43+09:00",
     "updated_at": "2020-04-09T08:20:53+09:00",
     "id": "lobin-z0x50"
@@ -114,7 +114,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 1083,
+    "likes_count": 1082,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -248,14 +248,6 @@
     "id": "kohemon"
   },
   {
-    "title": "GitのHEADとは何者なのか",
-    "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 668,
-    "created_at": "2018-12-09T23:59:10+09:00",
-    "updated_at": "2021-10-19T10:39:11+09:00",
-    "id": "ymzkjpx"
-  },
-  {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
     "likes_count": 668,
@@ -264,9 +256,17 @@
     "id": "elipmoc101"
   },
   {
+    "title": "GitのHEADとは何者なのか",
+    "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
+    "likes_count": 667,
+    "created_at": "2018-12-09T23:59:10+09:00",
+    "updated_at": "2021-10-19T10:39:11+09:00",
+    "id": "ymzkjpx"
+  },
+  {
     "title": "個人アプリ開発を支える技術と開発フロー",
     "url": "https://qiita.com/tattn/items/f1ad65d9d29c9d8b154d",
-    "likes_count": 666,
+    "likes_count": 664,
     "created_at": "2018-12-09T21:16:53+09:00",
     "updated_at": "2018-12-17T18:00:42+09:00",
     "id": "tattn"
@@ -458,7 +458,7 @@
   {
     "title": "今年、JavaScriptでの仕事の幅を広げた技術６選",
     "url": "https://qiita.com/gonshi_com/items/72c79f380e7e90e1504e",
-    "likes_count": 424,
+    "likes_count": 423,
     "created_at": "2018-12-13T16:44:32+09:00",
     "updated_at": "2018-12-15T11:29:34+09:00",
     "id": "gonshi_com"
@@ -514,7 +514,7 @@
   {
     "title": "今更だけど、SREとは何かについてまとめる",
     "url": "https://qiita.com/masao-kunii/items/f96a89a0cdff66c108fd",
-    "likes_count": 393,
+    "likes_count": 392,
     "created_at": "2018-12-10T19:27:28+09:00",
     "updated_at": "2018-12-10T20:48:49+09:00",
     "id": "masao-kunii"
@@ -562,7 +562,7 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 375,
+    "likes_count": 374,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
@@ -626,7 +626,7 @@
   {
     "title": "JavaScriptの概念たち (後編)",
     "url": "https://qiita.com/tsin1rou/items/b30885b189a8ec596c72",
-    "likes_count": 350,
+    "likes_count": 349,
     "created_at": "2018-12-04T02:41:51+09:00",
     "updated_at": "2018-12-04T13:27:23+09:00",
     "id": "tsin1rou"
@@ -762,7 +762,7 @@
   {
     "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
     "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
-    "likes_count": 258,
+    "likes_count": 257,
     "created_at": "2018-12-05T00:06:24+09:00",
     "updated_at": "2019-05-26T02:14:17+09:00",
     "id": "RyoMa_0923"

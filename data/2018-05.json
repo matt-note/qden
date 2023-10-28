@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3601,
+    "likes_count": 3600,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -26,7 +26,7 @@
   {
     "title": "コーディングをするときに鼻血がでるほど便利なwebツールリスト",
     "url": "https://qiita.com/isuke/items/7fcc5eb0b985005b7b7c",
-    "likes_count": 2867,
+    "likes_count": 2868,
     "created_at": "2018-05-11T00:22:27+09:00",
     "updated_at": "2023-07-16T17:28:11+09:00",
     "id": "isuke"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 2021,
+    "likes_count": 2020,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -96,20 +96,20 @@
     "id": "y-tsutsu"
   },
   {
+    "title": "Chrome デベロッパーツールの Console を使いこなす",
+    "url": "https://qiita.com/howdy39/items/c22c2cfafab88fa73d15",
+    "likes_count": 1095,
+    "created_at": "2018-05-20T18:42:30+09:00",
+    "updated_at": "2018-12-28T23:10:55+09:00",
+    "id": "howdy39"
+  },
+  {
     "title": "tmuxを必要最低限で入門して使う",
     "url": "https://qiita.com/shin-ch13/items/9d207a70ccc8467f7bab",
     "likes_count": 1094,
     "created_at": "2018-05-05T20:29:16+09:00",
     "updated_at": "2019-03-24T07:42:52+09:00",
     "id": "shin-ch13"
-  },
-  {
-    "title": "Chrome デベロッパーツールの Console を使いこなす",
-    "url": "https://qiita.com/howdy39/items/c22c2cfafab88fa73d15",
-    "likes_count": 1094,
-    "created_at": "2018-05-20T18:42:30+09:00",
-    "updated_at": "2018-12-28T23:10:55+09:00",
-    "id": "howdy39"
   },
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
@@ -154,7 +154,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 854,
+    "likes_count": 860,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -202,7 +202,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 738,
+    "likes_count": 737,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2021-08-18T14:03:43+09:00",
     "id": "hiyuzawa"
@@ -498,7 +498,7 @@
   {
     "title": "git を初めて使う時 コミット→プッシュ→マージ　の流れ",
     "url": "https://qiita.com/yukiyoshimura/items/7aa4a8f8db493ab97c2b",
-    "likes_count": 380,
+    "likes_count": 381,
     "created_at": "2018-05-13T21:59:51+09:00",
     "updated_at": "2018-05-13T22:05:49+09:00",
     "id": "yukiyoshimura"
@@ -530,7 +530,7 @@
   {
     "title": "Dockerコマンド よく使うやつ",
     "url": "https://qiita.com/Esfahan/items/52141a2ad741933d7d4c",
-    "likes_count": 363,
+    "likes_count": 362,
     "created_at": "2018-05-07T16:57:11+09:00",
     "updated_at": "2021-11-02T18:28:02+09:00",
     "id": "Esfahan"
