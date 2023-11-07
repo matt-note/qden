@@ -18,7 +18,7 @@
   {
     "title": "平成のうちにやめたかった『ITの7つの無意味な習慣』",
     "url": "https://qiita.com/spaces/items/39a822050b6e22d35123",
-    "likes_count": 2220,
+    "likes_count": 2221,
     "created_at": "2019-12-31T22:31:26+09:00",
     "updated_at": "2019-12-31T22:31:26+09:00",
     "id": "spaces"
@@ -34,7 +34,7 @@
   {
     "title": "エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド",
     "url": "https://qiita.com/hirokidaichi/items/95678bb1cef32629c317",
-    "likes_count": 2072,
+    "likes_count": 2071,
     "created_at": "2019-12-01T10:38:32+09:00",
     "updated_at": "2021-08-02T17:06:13+09:00",
     "id": "hirokidaichi"
@@ -266,7 +266,7 @@
   {
     "title": "\"技術的負債\"論の道案内 - アーキテクチャの資本コストと情報の非対称性",
     "url": "https://qiita.com/hirokidaichi/items/c66682a64ac2fc59cdf3",
-    "likes_count": 681,
+    "likes_count": 680,
     "created_at": "2019-12-19T08:11:33+09:00",
     "updated_at": "2019-12-19T13:44:00+09:00",
     "id": "hirokidaichi"
@@ -282,7 +282,7 @@
   {
     "title": "ドメイン駆動設計の比類なきパワーでRailsレガシーコードなど大爆殺したるわあああ！！！",
     "url": "https://qiita.com/MinoDriven/items/3c7db287e2c66f36589a",
-    "likes_count": 659,
+    "likes_count": 660,
     "created_at": "2019-12-12T11:28:00+09:00",
     "updated_at": "2020-12-07T11:53:28+09:00",
     "id": "MinoDriven"
@@ -362,7 +362,7 @@
   {
     "title": "NestJSのススメ ～Expressを超えてゆけ～",
     "url": "https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166",
-    "likes_count": 542,
+    "likes_count": 543,
     "created_at": "2019-12-22T15:46:56+09:00",
     "updated_at": "2020-04-18T20:27:13+09:00",
     "id": "elipmoc101"
@@ -394,7 +394,7 @@
   {
     "title": "「記事を書くこと」のススメ 〜 最高の達成感を求めて 〜",
     "url": "https://qiita.com/drken/items/afad07b70695c414fff7",
-    "likes_count": 513,
+    "likes_count": 514,
     "created_at": "2019-12-21T06:16:18+09:00",
     "updated_at": "2020-06-07T11:53:59+09:00",
     "id": "drken"
@@ -482,7 +482,7 @@
   {
     "title": "Angular と Firebase で月間PV1億超えの PWA を作った話",
     "url": "https://qiita.com/MasanobuAkiba/items/d2d4be3f8fd2e23c0c1a",
-    "likes_count": 436,
+    "likes_count": 435,
     "created_at": "2019-12-10T08:24:48+09:00",
     "updated_at": "2020-06-04T22:29:36+09:00",
     "id": "MasanobuAkiba"
@@ -506,7 +506,7 @@
   {
     "title": "そのリクエストパラメータ、クエリストリングに入れますか、それともボディに入れますか",
     "url": "https://qiita.com/sakuraya/items/6f1030279a747bcce648",
-    "likes_count": 414,
+    "likes_count": 415,
     "created_at": "2019-12-08T00:31:43+09:00",
     "updated_at": "2019-12-08T00:42:00+09:00",
     "id": "sakuraya"
@@ -578,10 +578,18 @@
   {
     "title": "font-familyについて本気で考えてみた",
     "url": "https://qiita.com/tsuka-rinorino/items/b30e03ce10aa38ac2a10",
-    "likes_count": 350,
+    "likes_count": 349,
     "created_at": "2019-12-22T13:02:27+09:00",
     "updated_at": "2020-03-07T23:56:06+09:00",
     "id": "tsuka-rinorino"
+  },
+  {
+    "title": "Laravelでドメイン駆動設計(DDD)を実践し、Eloquent Model依存の設計から脱却する",
+    "url": "https://qiita.com/mejileben/items/302a9f502ca0801b1efb",
+    "likes_count": 346,
+    "created_at": "2019-12-09T16:53:33+09:00",
+    "updated_at": "2021-09-07T10:59:11+09:00",
+    "id": "mejileben"
   },
   {
     "title": "WSL2とHyper-Vの関係",
@@ -590,14 +598,6 @@
     "created_at": "2019-12-26T16:49:22+09:00",
     "updated_at": "2021-09-02T09:13:01+09:00",
     "id": "matarillo"
-  },
-  {
-    "title": "Laravelでドメイン駆動設計(DDD)を実践し、Eloquent Model依存の設計から脱却する",
-    "url": "https://qiita.com/mejileben/items/302a9f502ca0801b1efb",
-    "likes_count": 345,
-    "created_at": "2019-12-09T16:53:33+09:00",
-    "updated_at": "2021-09-07T10:59:11+09:00",
-    "id": "mejileben"
   },
   {
     "title": "crontabを捨てsystemdに定期実行を任せよう。",
