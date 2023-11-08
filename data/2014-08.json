@@ -90,7 +90,7 @@
   {
     "title": "プログラマが持つべき心構え (The Zen of Python)",
     "url": "https://qiita.com/IshitaTakeshi/items/e4145921c8dbf7ba57ef",
-    "likes_count": 965,
+    "likes_count": 966,
     "created_at": "2014-08-13T10:44:49+09:00",
     "updated_at": "2021-08-20T23:44:52+09:00",
     "id": "IshitaTakeshi"
@@ -352,20 +352,20 @@
     "id": "KeithYokoma"
   },
   {
+    "title": "15分でわかる かんたんオブジェクト指向",
+    "url": "https://qiita.com/koher/items/6878c80014992900add7",
+    "likes_count": 428,
+    "created_at": "2014-08-22T10:29:57+09:00",
+    "updated_at": "2020-04-26T03:40:02+09:00",
+    "id": "koher"
+  },
+  {
     "title": "MySQLのSELECT文でcsvを出力する",
     "url": "https://qiita.com/catatsuy/items/9fdf4423d5f4885b9bf9",
     "likes_count": 428,
     "created_at": "2014-08-27T18:23:40+09:00",
     "updated_at": "2014-08-27T18:23:40+09:00",
     "id": "catatsuy"
-  },
-  {
-    "title": "15分でわかる かんたんオブジェクト指向",
-    "url": "https://qiita.com/koher/items/6878c80014992900add7",
-    "likes_count": 427,
-    "created_at": "2014-08-22T10:29:57+09:00",
-    "updated_at": "2020-04-26T03:40:02+09:00",
-    "id": "koher"
   },
   {
     "title": "RailsにDevise+OmniAuthでユーザ認証を実装する手順",
