@@ -146,7 +146,7 @@
   {
     "title": "なぜ、組織のつくりとソフトウェアアーキテクチャは似てしまうのか",
     "url": "https://qiita.com/hirokidaichi/items/d12fcce80ee593bcf34d",
-    "likes_count": 1041,
+    "likes_count": 1042,
     "created_at": "2018-12-25T21:17:23+09:00",
     "updated_at": "2021-07-05T14:33:34+09:00",
     "id": "hirokidaichi"
@@ -250,7 +250,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 671,
+    "likes_count": 670,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -282,7 +282,7 @@
   {
     "title": "pandasで1000万件のデータの前処理を高速にするTips集",
     "url": "https://qiita.com/kishiyama/items/b9d0a7ba3f03fd4089f3",
-    "likes_count": 612,
+    "likes_count": 613,
     "created_at": "2018-12-21T02:01:45+09:00",
     "updated_at": "2019-05-03T18:50:06+09:00",
     "id": "kishiyama"
@@ -304,20 +304,20 @@
     "id": "ponkotuy"
   },
   {
+    "title": "主成分分析を Python で理解する",
+    "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
+    "likes_count": 573,
+    "created_at": "2018-12-10T16:14:33+09:00",
+    "updated_at": "2020-05-02T14:45:56+09:00",
+    "id": "maskot1977"
+  },
+  {
     "title": "とても強い計算量クラスのコンピュータとその実現方法",
     "url": "https://qiita.com/iKodack/items/d606a09f0a40b95bf2b6",
     "likes_count": 573,
     "created_at": "2018-12-19T23:15:38+09:00",
     "updated_at": "2019-02-15T21:53:19+09:00",
     "id": "iKodack"
-  },
-  {
-    "title": "主成分分析を Python で理解する",
-    "url": "https://qiita.com/maskot1977/items/082557fcda78c4cdb41f",
-    "likes_count": 572,
-    "created_at": "2018-12-10T16:14:33+09:00",
-    "updated_at": "2020-05-02T14:45:56+09:00",
-    "id": "maskot1977"
   },
   {
     "title": "C#リフレクションTIPS 55連発",
@@ -362,7 +362,7 @@
   {
     "title": "積極性と強い問題意識を要求する「振り返り」は、もうたくさん",
     "url": "https://qiita.com/otktko/items/d1904cb8db3ed3446019",
-    "likes_count": 506,
+    "likes_count": 505,
     "created_at": "2018-12-25T00:01:32+09:00",
     "updated_at": "2018-12-27T10:55:05+09:00",
     "id": "otktko"
@@ -370,7 +370,7 @@
   {
     "title": "Go Modules",
     "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 501,
+    "likes_count": 500,
     "created_at": "2018-12-05T13:44:24+09:00",
     "updated_at": "2019-07-17T17:52:30+09:00",
     "id": "propella"
@@ -506,7 +506,7 @@
   {
     "title": "async/await、promise・・これが最後の「JavaScriptの非同期処理完全に理解した」",
     "url": "https://qiita.com/_takeshi_24/items/1403727efb3fd86f0bcd",
-    "likes_count": 394,
+    "likes_count": 393,
     "created_at": "2018-12-05T08:09:20+09:00",
     "updated_at": "2022-06-17T22:36:24+09:00",
     "id": "_takeshi_24"
@@ -522,7 +522,7 @@
   {
     "title": "SOLID原則について簡単に書く",
     "url": "https://qiita.com/yui_mop/items/93fef037a787318e7067",
-    "likes_count": 383,
+    "likes_count": 382,
     "created_at": "2018-12-08T16:42:44+09:00",
     "updated_at": "2020-01-15T16:33:13+09:00",
     "id": "yui_mop"
@@ -544,20 +544,20 @@
     "id": "fuwamaki"
   },
   {
-    "title": "フロントエンドでTDDを実践する（理論編）",
-    "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
-    "likes_count": 377,
-    "created_at": "2018-12-08T23:40:26+09:00",
-    "updated_at": "2018-12-11T23:14:50+09:00",
-    "id": "taneba"
-  },
-  {
     "title": "GraphQLのクエリを基礎から整理してみた",
     "url": "https://qiita.com/shunp/items/d85fc47b33e1b3a88167",
     "likes_count": 377,
     "created_at": "2018-12-23T04:55:03+09:00",
     "updated_at": "2018-12-23T04:55:03+09:00",
     "id": "shunp"
+  },
+  {
+    "title": "フロントエンドでTDDを実践する（理論編）",
+    "url": "https://qiita.com/taneba/items/48db2ad9cf10ad644908",
+    "likes_count": 376,
+    "created_at": "2018-12-08T23:40:26+09:00",
+    "updated_at": "2018-12-11T23:14:50+09:00",
+    "id": "taneba"
   },
   {
     "title": "段階的に理解する Java 例外処理",
