@@ -2,7 +2,7 @@
   {
     "title": "プログラミングでよく使う英単語のまとめ【随時更新】",
     "url": "https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923",
-    "likes_count": 11814,
+    "likes_count": 11816,
     "created_at": "2015-09-11T02:32:41+09:00",
     "updated_at": "2023-07-20T21:04:56+09:00",
     "id": "Ted-HM"
@@ -34,7 +34,7 @@
   {
     "title": "PATHを通すために環境変数の設定を理解する (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/d5015bec37f8a8254380",
-    "likes_count": 1909,
+    "likes_count": 1908,
     "created_at": "2015-09-17T03:10:19+09:00",
     "updated_at": "2023-04-14T21:13:00+09:00",
     "id": "soarflat"
@@ -82,7 +82,7 @@
   {
     "title": "PATHを通すとは？ (Mac OS X)",
     "url": "https://qiita.com/soarflat/items/09be6ab9cd91d366bf71",
-    "likes_count": 1500,
+    "likes_count": 1499,
     "created_at": "2015-09-16T00:08:22+09:00",
     "updated_at": "2023-04-14T21:13:10+09:00",
     "id": "soarflat"
@@ -154,7 +154,7 @@
   {
     "title": "PostgreSQLの基本的なコマンド",
     "url": "https://qiita.com/H-A-L/items/fe8cb0e0ee0041ff3ceb",
-    "likes_count": 1075,
+    "likes_count": 1076,
     "created_at": "2015-09-08T20:16:56+09:00",
     "updated_at": "2021-10-15T23:37:54+09:00",
     "id": "H-A-L"
@@ -504,9 +504,17 @@
     "id": "sue738"
   },
   {
+    "title": "インストール不要！WindowsでLinuxコマンドを使う",
+    "url": "https://qiita.com/tetsuy/items/22cba0bc2048967b270a",
+    "likes_count": 322,
+    "created_at": "2015-09-17T12:51:49+09:00",
+    "updated_at": "2018-11-17T16:46:21+09:00",
+    "id": "tetsuy"
+  },
+  {
     "title": "C++ コーディングスタイルメモ",
     "url": "https://qiita.com/shirakawa4756/items/55b509fb56cb1bb0c9a4",
-    "likes_count": 322,
+    "likes_count": 321,
     "created_at": "2015-09-01T19:43:51+09:00",
     "updated_at": "2016-02-17T22:01:50+09:00",
     "id": "shirakawa4756"
@@ -518,14 +526,6 @@
     "created_at": "2015-09-14T07:52:26+09:00",
     "updated_at": "2016-11-09T17:12:53+09:00",
     "id": "mono0926"
-  },
-  {
-    "title": "インストール不要！WindowsでLinuxコマンドを使う",
-    "url": "https://qiita.com/tetsuy/items/22cba0bc2048967b270a",
-    "likes_count": 321,
-    "created_at": "2015-09-17T12:51:49+09:00",
-    "updated_at": "2018-11-17T16:46:21+09:00",
-    "id": "tetsuy"
   },
   {
     "title": "Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで",

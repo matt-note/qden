@@ -2,7 +2,7 @@
   {
     "title": "個人的に超絶為になったので新人エンジニアに勧めたい記事まとめ",
     "url": "https://qiita.com/shimajiri/items/501828dc8d589e214470",
-    "likes_count": 3338,
+    "likes_count": 3337,
     "created_at": "2019-09-17T17:39:59+09:00",
     "updated_at": "2019-09-30T18:32:33+09:00",
     "id": "shimajiri"
@@ -18,7 +18,7 @@
   {
     "title": "2020年以降のプログラミング技術のトレンド予想",
     "url": "https://qiita.com/baby-degu/items/a311ca07d155037253c8",
-    "likes_count": 1222,
+    "likes_count": 1221,
     "created_at": "2019-09-14T20:57:47+09:00",
     "updated_at": "2020-06-06T19:24:19+09:00",
     "id": "baby-degu"
@@ -122,7 +122,7 @@
   {
     "title": "宣言的UIはReact Hooksで完成に至り、現代的設計論が必須の時代になる",
     "url": "https://qiita.com/erukiti/items/fb7bcbd9d79696579d06",
-    "likes_count": 723,
+    "likes_count": 722,
     "created_at": "2019-09-06T14:08:20+09:00",
     "updated_at": "2019-09-29T14:46:50+09:00",
     "id": "erukiti"
@@ -242,7 +242,7 @@
   {
     "title": "おまえはReact hooksを知っているか",
     "url": "https://qiita.com/hystking/items/2a082ee86dc0b66793cb",
-    "likes_count": 453,
+    "likes_count": 452,
     "created_at": "2019-09-17T00:36:25+09:00",
     "updated_at": "2019-09-17T09:20:24+09:00",
     "id": "hystking"
@@ -250,10 +250,18 @@
   {
     "title": "「ライブラリ」と「フレームワーク」は何が違うのか",
     "url": "https://qiita.com/baby-degu/items/7dc4548bf7befc2671f4",
-    "likes_count": 444,
+    "likes_count": 445,
     "created_at": "2019-09-25T22:06:49+09:00",
     "updated_at": "2020-06-06T19:25:00+09:00",
     "id": "baby-degu"
+  },
+  {
+    "title": "こわくないLLVM入門！",
+    "url": "https://qiita.com/Anko_9801/items/df4475fecbddd0d91ccc",
+    "likes_count": 439,
+    "created_at": "2019-09-09T08:06:42+09:00",
+    "updated_at": "2020-10-27T07:37:47+09:00",
+    "id": "Anko_9801"
   },
   {
     "title": "【個人開発】Qiitaの人気の記事・ユーザー・書籍を見つけられるWebサービスを作りました",
@@ -262,14 +270,6 @@
     "created_at": "2019-09-17T23:26:00+09:00",
     "updated_at": "2022-08-29T20:41:30+09:00",
     "id": "KIYS"
-  },
-  {
-    "title": "こわくないLLVM入門！",
-    "url": "https://qiita.com/Anko_9801/items/df4475fecbddd0d91ccc",
-    "likes_count": 438,
-    "created_at": "2019-09-09T08:06:42+09:00",
-    "updated_at": "2020-10-27T07:37:47+09:00",
-    "id": "Anko_9801"
   },
   {
     "title": "【入門】はじめての Docker Desktop  for Windows のインストールと CentOS の仮想環境構築のセットアップ",
@@ -354,10 +354,18 @@
   {
     "title": "Raspberry Piでプログラムを自動起動する5種類の方法を比較・解説",
     "url": "https://qiita.com/karaage0703/items/ed18f318a1775b28eab4",
-    "likes_count": 318,
+    "likes_count": 317,
     "created_at": "2019-09-26T00:15:31+09:00",
     "updated_at": "2023-10-08T10:32:15+09:00",
     "id": "karaage0703"
+  },
+  {
+    "title": "【WSL / WSL2】VSCode×WSLでWindows上にLinux開発環境を構築",
+    "url": "https://qiita.com/_masa_u/items/d3c1fa7898b0783bc3ed",
+    "likes_count": 314,
+    "created_at": "2019-09-24T03:59:54+09:00",
+    "updated_at": "2020-05-24T17:40:37+09:00",
+    "id": "_masa_u"
   },
   {
     "title": "Rubyで学ぶ１年目に知っておきたいプログラミング技法８選",
@@ -366,14 +374,6 @@
     "created_at": "2019-09-02T07:56:25+09:00",
     "updated_at": "2021-02-12T12:44:55+09:00",
     "id": "aki202"
-  },
-  {
-    "title": "【WSL / WSL2】VSCode×WSLでWindows上にLinux開発環境を構築",
-    "url": "https://qiita.com/_masa_u/items/d3c1fa7898b0783bc3ed",
-    "likes_count": 313,
-    "created_at": "2019-09-24T03:59:54+09:00",
-    "updated_at": "2020-05-24T17:40:37+09:00",
-    "id": "_masa_u"
   },
   {
     "title": "わかりやすいデザインを考える",
