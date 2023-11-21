@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 5913,
+    "likes_count": 5915,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2023-10-03T23:41:43+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4938,
+    "likes_count": 4937,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3614,
+    "likes_count": 3615,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 2024,
+    "likes_count": 2025,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -138,7 +138,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 872,
+    "likes_count": 873,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -154,7 +154,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 863,
+    "likes_count": 862,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -210,7 +210,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 722,
+    "likes_count": 723,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -418,7 +418,7 @@
   {
     "title": "名前、電話番号、メールアドレス、郵便番号等の最適なmaxlengthはいくつか調べてみた",
     "url": "https://qiita.com/kyogom/items/49fe51044d57e3b19929",
-    "likes_count": 480,
+    "likes_count": 481,
     "created_at": "2018-05-05T20:18:38+09:00",
     "updated_at": "2023-07-15T06:57:45+09:00",
     "id": "kyogom"
@@ -512,20 +512,20 @@
     "id": "odekekepeanuts"
   },
   {
-    "title": "Pythonで例外を投げるときのベストプラクティス",
-    "url": "https://qiita.com/hasoya/items/05d4e49d492869875cca",
-    "likes_count": 368,
-    "created_at": "2018-05-02T14:17:43+09:00",
-    "updated_at": "2018-05-05T11:55:13+09:00",
-    "id": "hasoya"
-  },
-  {
     "title": "すごいぞitertoolsくん",
     "url": "https://qiita.com/anmint/items/37ca0ded5e1d360b51f3",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2018-05-07T19:21:46+09:00",
     "updated_at": "2019-10-22T19:54:44+09:00",
     "id": "anmint"
+  },
+  {
+    "title": "Pythonで例外を投げるときのベストプラクティス",
+    "url": "https://qiita.com/hasoya/items/05d4e49d492869875cca",
+    "likes_count": 367,
+    "created_at": "2018-05-02T14:17:43+09:00",
+    "updated_at": "2018-05-05T11:55:13+09:00",
+    "id": "hasoya"
   },
   {
     "title": "コンパイルエラーやランタイムエラーを直していくだけでiOSアプリの作り方がわかるプロジェクト",
