@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3887,
+    "likes_count": 3885,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2022-04-09T10:11:53+09:00",
     "id": "YudaiTsukamoto"
@@ -18,7 +18,7 @@
   {
     "title": "プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話",
     "url": "https://qiita.com/piroor/items/77233173707a0baa6360",
-    "likes_count": 2788,
+    "likes_count": 2790,
     "created_at": "2016-12-08T00:02:39+09:00",
     "updated_at": "2021-05-06T23:57:52+09:00",
     "id": "piroor"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1811,
+    "likes_count": 1812,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -58,7 +58,7 @@
   {
     "title": "学年ビリのアホが1年半でTOEICスコアを300点から840点に上げた英語勉強法の話",
     "url": "https://qiita.com/Hironsan/items/20951116a2650f45fea5",
-    "likes_count": 1464,
+    "likes_count": 1463,
     "created_at": "2016-12-07T06:30:51+09:00",
     "updated_at": "2016-12-17T15:54:28+09:00",
     "id": "Hironsan"
@@ -82,7 +82,7 @@
   {
     "title": "Webhookとは？",
     "url": "https://qiita.com/soarflat/items/ed970f6dc59b2ab76169",
-    "likes_count": 1283,
+    "likes_count": 1282,
     "created_at": "2016-12-17T12:54:09+09:00",
     "updated_at": "2023-04-14T21:12:35+09:00",
     "id": "soarflat"
@@ -112,20 +112,20 @@
     "id": "tsuyok"
   },
   {
-    "title": "kubernetes初心者のための入門ハンズオン",
-    "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
-    "likes_count": 1083,
-    "created_at": "2016-12-10T00:01:31+09:00",
-    "updated_at": "2020-12-05T20:23:32+09:00",
-    "id": "mihirat"
-  },
-  {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 1082,
+    "likes_count": 1083,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
+  },
+  {
+    "title": "kubernetes初心者のための入門ハンズオン",
+    "url": "https://qiita.com/mihirat/items/ebb0833d50c882398b0f",
+    "likes_count": 1082,
+    "created_at": "2016-12-10T00:01:31+09:00",
+    "updated_at": "2020-12-05T20:23:32+09:00",
+    "id": "mihirat"
   },
   {
     "title": "初心者がchainerで線画着色してみた。わりとできた。",
@@ -146,7 +146,7 @@
   {
     "title": "絵で理解するWord2vecの仕組み",
     "url": "https://qiita.com/Hironsan/items/11b388575a058dc8a46a",
-    "likes_count": 957,
+    "likes_count": 958,
     "created_at": "2016-12-10T10:26:38+09:00",
     "updated_at": "2016-12-10T12:50:54+09:00",
     "id": "Hironsan"
@@ -258,18 +258,10 @@
   {
     "title": "curlコマンドでapiを叩く",
     "url": "https://qiita.com/buntafujikawa/items/758425773b2239feb9a7",
-    "likes_count": 696,
+    "likes_count": 695,
     "created_at": "2016-12-26T23:43:49+09:00",
     "updated_at": "2022-09-11T12:02:11+09:00",
     "id": "buntafujikawa"
-  },
-  {
-    "title": "REST APIの設計で消耗している感じたときのgRPC入門",
-    "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
-    "likes_count": 665,
-    "created_at": "2016-12-19T07:11:20+09:00",
-    "updated_at": "2019-11-27T08:00:01+09:00",
-    "id": "disc99"
   },
   {
     "title": "難しいGitコマンドは、仕組みから理解してみよう",
@@ -278,6 +270,14 @@
     "created_at": "2016-12-22T00:02:20+09:00",
     "updated_at": "2018-11-13T23:20:28+09:00",
     "id": "_ha1f"
+  },
+  {
+    "title": "REST APIの設計で消耗している感じたときのgRPC入門",
+    "url": "https://qiita.com/disc99/items/cfca50a32240284578bb",
+    "likes_count": 664,
+    "created_at": "2016-12-19T07:11:20+09:00",
+    "updated_at": "2019-11-27T08:00:01+09:00",
+    "id": "disc99"
   },
   {
     "title": "SELinux を使おう．使ってくれ．",
@@ -314,7 +314,7 @@
   {
     "title": "シェルスクリプトの罠を避ける三つの tips",
     "url": "https://qiita.com/magicant/items/f3554274ee500bddaca8",
-    "likes_count": 582,
+    "likes_count": 581,
     "created_at": "2016-12-08T00:03:10+09:00",
     "updated_at": "2016-12-08T13:58:34+09:00",
     "id": "magicant"
@@ -690,7 +690,7 @@
   {
     "title": "Docker & Docker-Composeの基本的な使い方",
     "url": "https://qiita.com/koka/items/3d3d4ee5680f92a0ad89",
-    "likes_count": 304,
+    "likes_count": 303,
     "created_at": "2016-12-05T00:10:58+09:00",
     "updated_at": "2016-12-05T00:13:22+09:00",
     "id": "koka"
@@ -730,7 +730,7 @@
   {
     "title": "[PASMO] FeliCa から情報を吸い出してみる - FeliCaの仕様編 [Android][Kotlin]",
     "url": "https://qiita.com/YasuakiNakazawa/items/3109df682af2a7032f8d",
-    "likes_count": 282,
+    "likes_count": 283,
     "created_at": "2016-12-10T04:35:16+09:00",
     "updated_at": "2019-10-07T20:28:45+09:00",
     "id": "YasuakiNakazawa"

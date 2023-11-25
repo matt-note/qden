@@ -10,7 +10,7 @@
   {
     "title": "ReactとVueのどちらを選ぶか",
     "url": "https://qiita.com/yoichiwo7/items/236b6535695ea67b4fbe",
-    "likes_count": 1941,
+    "likes_count": 1939,
     "created_at": "2018-06-16T14:01:19+09:00",
     "updated_at": "2019-06-06T07:16:51+09:00",
     "id": "yoichiwo7"
@@ -34,7 +34,7 @@
   {
     "title": "「Vue.js + Go言語 + Firebase 」で始める! Frontend & Backend API 両方で認証するセキュアなSPA開発ハンズオン!",
     "url": "https://qiita.com/po3rin/items/d3e016d01162e9d9de80",
-    "likes_count": 1351,
+    "likes_count": 1350,
     "created_at": "2018-06-18T18:51:14+09:00",
     "updated_at": "2019-05-14T11:15:27+09:00",
     "id": "po3rin"
@@ -66,7 +66,7 @@
   {
     "title": "【まつもとゆきひろ氏　特別講演】若手エンジニアの生存戦略に行ってきたので私的メモ",
     "url": "https://qiita.com/Taku0055/items/17b6194a5f5a7d5867b6",
-    "likes_count": 1163,
+    "likes_count": 1162,
     "created_at": "2018-06-23T18:07:07+09:00",
     "updated_at": "2018-06-27T22:00:39+09:00",
     "id": "Taku0055"
@@ -90,7 +90,7 @@
   {
     "title": "世のフロントエンドエンジニアにApollo Clientを布教したい",
     "url": "https://qiita.com/seya/items/26c8a0dc549a10efcdf8",
-    "likes_count": 1040,
+    "likes_count": 1041,
     "created_at": "2018-06-04T07:42:42+09:00",
     "updated_at": "2018-08-27T20:10:22+09:00",
     "id": "seya"
@@ -162,7 +162,7 @@
   {
     "title": "エンジニアを面接するときに面接官が本当に知りたいこと",
     "url": "https://qiita.com/newta/items/63a06516521998ddd9f0",
-    "likes_count": 752,
+    "likes_count": 751,
     "created_at": "2018-06-18T10:45:43+09:00",
     "updated_at": "2023-04-28T01:36:45+09:00",
     "id": "newta"
@@ -170,7 +170,7 @@
   {
     "title": "ターミナルプロンプトの表示・色の変更",
     "url": "https://qiita.com/hmmrjn/items/60d2a64c9e5bf7c0fe60",
-    "likes_count": 737,
+    "likes_count": 736,
     "created_at": "2018-06-20T04:30:23+09:00",
     "updated_at": "2022-01-10T10:07:03+09:00",
     "id": "hmmrjn"
@@ -242,26 +242,26 @@
   {
     "title": "Qiita殿堂入り記事ランキングを作った物語",
     "url": "https://qiita.com/youwht/items/0a12079671750c39fbfa",
-    "likes_count": 555,
+    "likes_count": 554,
     "created_at": "2018-06-29T10:26:58+09:00",
     "updated_at": "2018-08-05T11:59:33+09:00",
     "id": "youwht"
   },
   {
-    "title": "Goにはディレクトリ構成のスタンダードがあるらしい。",
-    "url": "https://qiita.com/sueken/items/87093e5941bfbc09bea8",
-    "likes_count": 541,
-    "created_at": "2018-06-10T21:12:36+09:00",
-    "updated_at": "2018-06-10T21:12:36+09:00",
-    "id": "sueken"
-  },
-  {
     "title": "JDK、Oracle JDK、OpenJDK、Java SEってなに？",
     "url": "https://qiita.com/nowokay/items/c1de127354cd1b0ddc5e",
-    "likes_count": 540,
+    "likes_count": 541,
     "created_at": "2018-06-25T15:36:18+09:00",
     "updated_at": "2022-11-04T12:40:12+09:00",
     "id": "nowokay"
+  },
+  {
+    "title": "Goにはディレクトリ構成のスタンダードがあるらしい。",
+    "url": "https://qiita.com/sueken/items/87093e5941bfbc09bea8",
+    "likes_count": 540,
+    "created_at": "2018-06-10T21:12:36+09:00",
+    "updated_at": "2018-06-10T21:12:36+09:00",
+    "id": "sueken"
   },
   {
     "title": "Dockerfile のベストプラクティスを自分なりに整理してみた",
@@ -328,20 +328,20 @@
     "id": "shisama"
   },
   {
-    "title": "【Vue.js】いつから「フロントエンド開発でTDDができない」と錯覚していた？",
-    "url": "https://qiita.com/ykhirao/items/becd9be857dbe6804314",
-    "likes_count": 457,
-    "created_at": "2018-06-25T08:56:37+09:00",
-    "updated_at": "2018-06-27T23:47:26+09:00",
-    "id": "ykhirao"
-  },
-  {
     "title": "【初心者向け】Linuxカーネルって一体なんだ？",
     "url": "https://qiita.com/uguis410/items/17ec1e447e9716bfdca7",
-    "likes_count": 455,
+    "likes_count": 456,
     "created_at": "2018-06-17T17:04:14+09:00",
     "updated_at": "2019-09-06T10:42:56+09:00",
     "id": "uguis410"
+  },
+  {
+    "title": "【Vue.js】いつから「フロントエンド開発でTDDができない」と錯覚していた？",
+    "url": "https://qiita.com/ykhirao/items/becd9be857dbe6804314",
+    "likes_count": 456,
+    "created_at": "2018-06-25T08:56:37+09:00",
+    "updated_at": "2018-06-27T23:47:26+09:00",
+    "id": "ykhirao"
   },
   {
     "title": "Unity使いは全員Unity Test Runnerを使え！爆速のトライ＆エラー環境だぞ！",
@@ -386,7 +386,7 @@
   {
     "title": "Go言語で理解するJWT認証 実装ハンズオン",
     "url": "https://qiita.com/po3rin/items/740445d21487dfcb5d9f",
-    "likes_count": 415,
+    "likes_count": 414,
     "created_at": "2018-06-06T08:54:19+09:00",
     "updated_at": "2022-04-13T10:11:28+09:00",
     "id": "po3rin"
@@ -394,7 +394,7 @@
   {
     "title": "10分で作れる社員用ランチマップを紹介したい",
     "url": "https://qiita.com/kyogom/items/720a8c5023900b8e9b1f",
-    "likes_count": 406,
+    "likes_count": 405,
     "created_at": "2018-06-28T11:19:13+09:00",
     "updated_at": "2023-07-15T06:56:09+09:00",
     "id": "kyogom"

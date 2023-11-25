@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4163,
+    "likes_count": 4160,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -26,7 +26,7 @@
   {
     "title": "(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/f795fe3e661a3349a7ce",
-    "likes_count": 3363,
+    "likes_count": 3362,
     "created_at": "2016-01-08T14:56:09+09:00",
     "updated_at": "2021-10-08T20:24:15+09:00",
     "id": "naoki_mochizuki"
@@ -34,7 +34,7 @@
   {
     "title": "2016年 独りで新規WEBサービスを開発・運用した際の知見",
     "url": "https://qiita.com/haminiku/items/711cbdb894d1d6839e3e",
-    "likes_count": 3197,
+    "likes_count": 3198,
     "created_at": "2016-01-06T06:46:37+09:00",
     "updated_at": "2016-02-23T06:50:34+09:00",
     "id": "haminiku"
@@ -82,7 +82,7 @@
   {
     "title": "AWSのネットワーク設計をサボらないでちゃんとやる",
     "url": "https://qiita.com/nisshiee/items/df4261132ec686964605",
-    "likes_count": 1218,
+    "likes_count": 1217,
     "created_at": "2016-01-05T16:17:42+09:00",
     "updated_at": "2016-01-21T17:46:58+09:00",
     "id": "nisshiee"
@@ -122,7 +122,7 @@
   {
     "title": "Apacheセキュリティ設定",
     "url": "https://qiita.com/bezeklik/items/1c4145652661cf5b2271",
-    "likes_count": 1051,
+    "likes_count": 1050,
     "created_at": "2016-01-18T00:59:29+09:00",
     "updated_at": "2020-02-13T12:00:11+09:00",
     "id": "bezeklik"
@@ -146,7 +146,7 @@
   {
     "title": "絶対に見逃せない投稿が、そこにはある",
     "url": "https://qiita.com/koher/items/b5c7c949aa62c60d5457",
-    "likes_count": 971,
+    "likes_count": 970,
     "created_at": "2016-01-04T10:17:16+09:00",
     "updated_at": "2017-12-22T16:26:47+09:00",
     "id": "koher"
@@ -218,7 +218,7 @@
   {
     "title": "マテリアルデザインについて少し調べる",
     "url": "https://qiita.com/nogson/items/804dd3a879f482fb7018",
-    "likes_count": 753,
+    "likes_count": 752,
     "created_at": "2016-01-30T17:13:04+09:00",
     "updated_at": "2017-05-30T18:12:34+09:00",
     "id": "nogson"
@@ -306,7 +306,7 @@
   {
     "title": "Google APIのAccess Tokenをお手軽に取得する",
     "url": "https://qiita.com/shin1ogawa/items/49a076f62e5f17f18fe5",
-    "likes_count": 553,
+    "likes_count": 552,
     "created_at": "2016-01-31T23:26:04+09:00",
     "updated_at": "2016-02-01T16:24:22+09:00",
     "id": "shin1ogawa"
@@ -418,7 +418,7 @@
   {
     "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
-    "likes_count": 449,
+    "likes_count": 448,
     "created_at": "2016-01-13T16:12:45+09:00",
     "updated_at": "2021-10-08T20:25:34+09:00",
     "id": "naoki_mochizuki"
@@ -490,7 +490,7 @@
   {
     "title": "brew tapとは",
     "url": "https://qiita.com/sammrai/items/85ed5e914d424fbf9fd6",
-    "likes_count": 378,
+    "likes_count": 377,
     "created_at": "2016-01-07T22:05:56+09:00",
     "updated_at": "2021-04-23T21:52:25+09:00",
     "id": "sammrai"
@@ -608,20 +608,20 @@
     "id": "namutaka"
   },
   {
+    "title": "Raspberry Piに外部ネットワークからアクセスできる様にして携帯でペットを遠隔監視する方法",
+    "url": "https://qiita.com/kinpira/items/c9e6dc910e8d96e8c19b",
+    "likes_count": 327,
+    "created_at": "2016-01-10T03:23:02+09:00",
+    "updated_at": "2016-12-03T21:40:51+09:00",
+    "id": "kinpira"
+  },
+  {
     "title": "Courseraの機械学習コースのススメ 前編",
     "url": "https://qiita.com/mono0926/items/2c39649d24b2e515f4b5",
     "likes_count": 326,
     "created_at": "2016-01-02T21:49:07+09:00",
     "updated_at": "2016-12-22T11:04:05+09:00",
     "id": "mono0926"
-  },
-  {
-    "title": "Raspberry Piに外部ネットワークからアクセスできる様にして携帯でペットを遠隔監視する方法",
-    "url": "https://qiita.com/kinpira/items/c9e6dc910e8d96e8c19b",
-    "likes_count": 326,
-    "created_at": "2016-01-10T03:23:02+09:00",
-    "updated_at": "2016-12-03T21:40:51+09:00",
-    "id": "kinpira"
   },
   {
     "title": "SSH通信って、結局何してるの？",
