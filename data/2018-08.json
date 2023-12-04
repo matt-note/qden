@@ -2,7 +2,7 @@
   {
     "title": "いまさらだけどDockerに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/44860fbda1a34a001fc1",
-    "likes_count": 4798,
+    "likes_count": 4797,
     "created_at": "2018-08-08T08:31:56+09:00",
     "updated_at": "2023-02-24T09:09:38+09:00",
     "id": "gold-kou"
@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどGitを基本から分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0",
-    "likes_count": 4143,
+    "likes_count": 4144,
     "created_at": "2018-08-14T08:47:28+09:00",
     "updated_at": "2021-04-12T11:28:43+09:00",
     "id": "gold-kou"
@@ -26,7 +26,7 @@
   {
     "title": "「世界最悪のログイン処理コード」を解説してみた",
     "url": "https://qiita.com/YSRKEN/items/0095cf75be3f607b0f98",
-    "likes_count": 1736,
+    "likes_count": 1740,
     "created_at": "2018-08-11T21:45:29+09:00",
     "updated_at": "2018-09-22T21:44:31+09:00",
     "id": "YSRKEN"
@@ -48,6 +48,14 @@
     "id": "owen"
   },
   {
+    "title": " 「998244353 で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜",
+    "url": "https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a",
+    "likes_count": 1444,
+    "created_at": "2018-08-01T21:37:04+09:00",
+    "updated_at": "2023-12-04T12:18:35+09:00",
+    "id": "drken"
+  },
+  {
     "title": "JavaScriptを言語仕様から把握し、ライブラリに振り回されない漢を目指す人に贈るJavaScriptの基礎",
     "url": "https://qiita.com/hakozaru/items/c00e472ab0f5e823098c",
     "likes_count": 1444,
@@ -56,17 +64,9 @@
     "id": "hakozaru"
   },
   {
-    "title": "「1000000007 で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜",
-    "url": "https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a",
-    "likes_count": 1441,
-    "created_at": "2018-08-01T21:37:04+09:00",
-    "updated_at": "2021-01-31T22:14:45+09:00",
-    "id": "drken"
-  },
-  {
     "title": "TODO: 以外のアノテーションコメントをまとめた",
     "url": "https://qiita.com/taka-kawa/items/673716d77795c937d422",
-    "likes_count": 1344,
+    "likes_count": 1345,
     "created_at": "2018-08-18T23:17:23+09:00",
     "updated_at": "2021-11-17T12:32:17+09:00",
     "id": "taka-kawa"
@@ -82,7 +82,7 @@
   {
     "title": "ぼくたちのかんがえたさいきょうのi18n国家",
     "url": "https://qiita.com/yugui/items/55f2529c5a731badeff7",
-    "likes_count": 1231,
+    "likes_count": 1232,
     "created_at": "2018-08-06T23:39:54+09:00",
     "updated_at": "2023-08-15T21:12:26+09:00",
     "id": "yugui"
@@ -146,7 +146,7 @@
   {
     "title": "トランザクション分離レベルについてのまとめ",
     "url": "https://qiita.com/song_ss/items/38e514b05e9dabae3bdb",
-    "likes_count": 726,
+    "likes_count": 728,
     "created_at": "2018-08-23T20:12:02+09:00",
     "updated_at": "2023-11-30T10:07:10+09:00",
     "id": "song_ss"
@@ -194,7 +194,7 @@
   {
     "title": "ちゃんと理解するCode Splitting",
     "url": "https://qiita.com/seya/items/06b160adb7801ae9e66f",
-    "likes_count": 549,
+    "likes_count": 550,
     "created_at": "2018-08-06T07:59:37+09:00",
     "updated_at": "2018-08-06T07:59:37+09:00",
     "id": "seya"
@@ -266,7 +266,7 @@
   {
     "title": "Webサーバをセキュアに保つ設定のまとめ",
     "url": "https://qiita.com/ariaki/items/78ed2d3810ad17f72398",
-    "likes_count": 483,
+    "likes_count": 484,
     "created_at": "2018-08-30T23:47:15+09:00",
     "updated_at": "2018-09-03T17:38:30+09:00",
     "id": "ariaki"
@@ -322,7 +322,7 @@
   {
     "title": "[初学者]Railsのi18nによる日本語化対応",
     "url": "https://qiita.com/shimadama/items/7e5c3d75c9a9f51abdd5",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2018-08-01T01:32:22+09:00",
     "updated_at": "2023-05-24T17:11:43+09:00",
     "id": "shimadama"
