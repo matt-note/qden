@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 5610,
+    "likes_count": 5613,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3890,
+    "likes_count": 3891,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2022-04-09T10:11:53+09:00",
     "id": "YudaiTsukamoto"
@@ -106,10 +106,18 @@
   {
     "title": "イケイケなベンチャーの開発チームが、大企業的な開発チームになってしまう5つの兆候",
     "url": "https://qiita.com/tsuyok/items/116d9076e6149d9c7bbc",
-    "likes_count": 1131,
+    "likes_count": 1132,
     "created_at": "2016-12-18T00:01:45+09:00",
     "updated_at": "2016-12-20T17:18:30+09:00",
     "id": "tsuyok"
+  },
+  {
+    "title": "Taskを極めろ！async/await完全攻略",
+    "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
+    "likes_count": 1084,
+    "created_at": "2016-12-09T23:56:21+09:00",
+    "updated_at": "2016-12-10T17:19:56+09:00",
+    "id": "acple@github"
   },
   {
     "title": "kubernetes初心者のための入門ハンズオン",
@@ -118,14 +126,6 @@
     "created_at": "2016-12-10T00:01:31+09:00",
     "updated_at": "2020-12-05T20:23:32+09:00",
     "id": "mihirat"
-  },
-  {
-    "title": "Taskを極めろ！async/await完全攻略",
-    "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 1083,
-    "created_at": "2016-12-09T23:56:21+09:00",
-    "updated_at": "2016-12-10T17:19:56+09:00",
-    "id": "acple@github"
   },
   {
     "title": "初心者がchainerで線画着色してみた。わりとできた。",
@@ -138,7 +138,7 @@
   {
     "title": "Clean ArchitectureでAPI Serverを構築してみる",
     "url": "https://qiita.com/hirotakan/items/698c1f5773a3cca6193e",
-    "likes_count": 1013,
+    "likes_count": 1012,
     "created_at": "2016-12-11T00:03:29+09:00",
     "updated_at": "2019-10-09T11:09:12+09:00",
     "id": "hirotakan"
@@ -154,7 +154,7 @@
   {
     "title": "ゆるふわPandasチートシート",
     "url": "https://qiita.com/tanemaki/items/2ed05e258ef4c9e6caac",
-    "likes_count": 867,
+    "likes_count": 868,
     "created_at": "2016-12-06T00:51:42+09:00",
     "updated_at": "2018-06-18T15:35:20+09:00",
     "id": "tanemaki"
@@ -298,7 +298,7 @@
   {
     "title": "原理原則で理解するDocker",
     "url": "https://qiita.com/tajima_taso/items/28938415846dcc2e83ff",
-    "likes_count": 646,
+    "likes_count": 647,
     "created_at": "2016-12-23T06:40:30+09:00",
     "updated_at": "2016-12-26T12:42:54+09:00",
     "id": "tajima_taso"
@@ -360,20 +360,20 @@
     "id": "shibukk"
   },
   {
+    "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
+    "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
+    "likes_count": 547,
+    "created_at": "2016-12-06T16:03:07+09:00",
+    "updated_at": "2019-11-24T08:22:12+09:00",
+    "id": "tenntenn"
+  },
+  {
     "title": "Google Apps Script 入門",
     "url": "https://qiita.com/t_imagawa/items/47fc130a419b9be0b447",
     "likes_count": 546,
     "created_at": "2016-12-06T11:40:50+09:00",
     "updated_at": "2018-06-15T11:24:58+09:00",
     "id": "t_imagawa"
-  },
-  {
-    "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
-    "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 546,
-    "created_at": "2016-12-06T16:03:07+09:00",
-    "updated_at": "2019-11-24T08:22:12+09:00",
-    "id": "tenntenn"
   },
   {
     "title": "React、Angularになじめなかった僕に手を差し伸べてくれたVue.js",
