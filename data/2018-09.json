@@ -10,7 +10,7 @@
   {
     "title": "Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary)",
     "url": "https://qiita.com/wtetsu/items/c43232c6c44918e977c9",
-    "likes_count": 4928,
+    "likes_count": 4929,
     "created_at": "2018-09-05T00:06:08+09:00",
     "updated_at": "2023-11-19T00:44:23+09:00",
     "id": "wtetsu"
@@ -26,7 +26,7 @@
   {
     "title": "実装クリーンアーキテクチャ",
     "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
-    "likes_count": 3373,
+    "likes_count": 3374,
     "created_at": "2018-09-30T00:42:41+09:00",
     "updated_at": "2020-12-13T21:44:21+09:00",
     "id": "nrslib"
@@ -34,7 +34,7 @@
   {
     "title": "今から始めるReact入門 〜 React の基本",
     "url": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
-    "likes_count": 2397,
+    "likes_count": 2398,
     "created_at": "2018-09-08T14:12:46+09:00",
     "updated_at": "2021-04-30T23:50:34+09:00",
     "id": "TsutomuNakamura"
@@ -154,7 +154,7 @@
   {
     "title": "VSCodeでCSVをステキに見やすくする「Rainbow CSV」を紹介するよ",
     "url": "https://qiita.com/0w0/items/07a481921a2ac09a049f",
-    "likes_count": 906,
+    "likes_count": 907,
     "created_at": "2018-09-22T17:38:38+09:00",
     "updated_at": "2018-09-22T17:38:38+09:00",
     "id": "0w0"
@@ -162,7 +162,7 @@
   {
     "title": "機械学習／ディープラーニングにおけるバッチサイズ、イテレーション数、エポック数の決め方",
     "url": "https://qiita.com/kenta1984/items/bad75a37d552510e4682",
-    "likes_count": 833,
+    "likes_count": 834,
     "created_at": "2018-09-21T23:14:49+09:00",
     "updated_at": "2020-06-09T22:33:54+09:00",
     "id": "kenta1984"
@@ -186,7 +186,7 @@
   {
     "title": "Apache Kafkaの概要とアーキテクチャ",
     "url": "https://qiita.com/sigmalist/items/5a26ab519cbdf1e07af3",
-    "likes_count": 773,
+    "likes_count": 774,
     "created_at": "2018-09-07T15:44:03+09:00",
     "updated_at": "2020-01-31T19:01:04+09:00",
     "id": "sigmalist"
@@ -234,7 +234,7 @@
   {
     "title": "約3年かけてプログラマ向けニュース推薦アプリを作り直した話",
     "url": "https://qiita.com/ytanaka/items/6cfad69a4c000c05be40",
-    "likes_count": 661,
+    "likes_count": 662,
     "created_at": "2018-09-07T06:05:54+09:00",
     "updated_at": "2020-06-16T15:44:12+09:00",
     "id": "ytanaka"
@@ -432,20 +432,20 @@
     "id": "nakayuu07"
   },
   {
-    "title": "初心者がSSHについて学ぶ(´･ω･`)",
-    "url": "https://qiita.com/shobooon/items/70cc74cd20c8b5b4fe15",
-    "likes_count": 424,
-    "created_at": "2018-09-12T13:05:41+09:00",
-    "updated_at": "2021-10-20T10:17:28+09:00",
-    "id": "shobooon"
-  },
-  {
     "title": "広告IDを使っている覚えがないのにGoogle Playからポリシー違反を通告されたけどFirebaseのせいだった",
     "url": "https://qiita.com/Nkzn/items/326ad03e358b5d3fbafc",
     "likes_count": 424,
     "created_at": "2018-09-20T11:02:23+09:00",
     "updated_at": "2018-09-28T13:32:09+09:00",
     "id": "Nkzn"
+  },
+  {
+    "title": "初心者がSSHについて学ぶ(´･ω･`)",
+    "url": "https://qiita.com/shobooon/items/70cc74cd20c8b5b4fe15",
+    "likes_count": 423,
+    "created_at": "2018-09-12T13:05:41+09:00",
+    "updated_at": "2021-10-20T10:17:28+09:00",
+    "id": "shobooon"
   },
   {
     "title": "Google ColaboratoryのTPUを試してみる",
