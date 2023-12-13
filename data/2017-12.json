@@ -138,7 +138,7 @@
   {
     "title": "畳み込みニューラルネットワークの最新研究動向 (〜2017)",
     "url": "https://qiita.com/yu4u/items/7e93c454c9410c4b5427",
-    "likes_count": 891,
+    "likes_count": 892,
     "created_at": "2017-12-25T07:57:47+09:00",
     "updated_at": "2019-05-20T15:34:54+09:00",
     "id": "yu4u"
@@ -242,7 +242,7 @@
   {
     "title": "知ったかぶりをしていたソケット通信の基礎を改めて学んでみる",
     "url": "https://qiita.com/megadreams14/items/32a3eed4661e55419e1c",
-    "likes_count": 735,
+    "likes_count": 736,
     "created_at": "2017-12-22T11:55:57+09:00",
     "updated_at": "2019-07-11T10:18:55+09:00",
     "id": "megadreams14"
@@ -250,7 +250,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 730,
+    "likes_count": 731,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -298,7 +298,7 @@
   {
     "title": "HTTP/2における双方向通信とgRPCとこれから",
     "url": "https://qiita.com/namusyaka/items/71cf27fd3242adbf348c",
-    "likes_count": 640,
+    "likes_count": 641,
     "created_at": "2017-12-25T00:00:21+09:00",
     "updated_at": "2018-01-04T08:38:50+09:00",
     "id": "namusyaka"
@@ -448,20 +448,20 @@
     "id": "tockey"
   },
   {
+    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
+    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
+    "likes_count": 479,
+    "created_at": "2017-12-13T01:28:27+09:00",
+    "updated_at": "2019-07-28T01:41:15+09:00",
+    "id": "tatsurou313"
+  },
+  {
     "title": "【Python】Word2Vecの使い方",
     "url": "https://qiita.com/kenta1984/items/93b64768494f971edf86",
     "likes_count": 479,
     "created_at": "2017-12-18T17:48:19+09:00",
     "updated_at": "2020-09-07T09:40:58+09:00",
     "id": "kenta1984"
-  },
-  {
-    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
-    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 478,
-    "created_at": "2017-12-13T01:28:27+09:00",
-    "updated_at": "2019-07-28T01:41:15+09:00",
-    "id": "tatsurou313"
   },
   {
     "title": "リスト内包表記の活用と悪用",
@@ -578,7 +578,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2022-05-24T22:36:42+09:00",
     "id": "nightyknite"
@@ -720,20 +720,20 @@
     "id": "sawadays0118"
   },
   {
+    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
+    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
+    "likes_count": 320,
+    "created_at": "2017-12-22T11:21:44+09:00",
+    "updated_at": "2023-11-13T19:18:28+09:00",
+    "id": "ffggss"
+  },
+  {
     "title": "2017年版 SSH公開鍵認証で使用する秘密鍵ペアの作り方",
     "url": "https://qiita.com/wnoguchi/items/a72a042bb8159c35d056",
     "likes_count": 319,
     "created_at": "2017-12-09T23:19:26+09:00",
     "updated_at": "2019-09-18T20:16:17+09:00",
     "id": "wnoguchi"
-  },
-  {
-    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
-    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
-    "likes_count": 319,
-    "created_at": "2017-12-22T11:21:44+09:00",
-    "updated_at": "2023-11-13T19:18:28+09:00",
-    "id": "ffggss"
   },
   {
     "title": "機械学習ライブラリ scikit-learnの便利機能の紹介",
