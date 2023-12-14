@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2749,
+    "likes_count": 2748,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -194,7 +194,7 @@
   {
     "title": "完全に単一のHTMLファイルで動作するMarkdownエディタ作った",
     "url": "https://qiita.com/tatesuke/items/225b51b270faf8b10923",
-    "likes_count": 858,
+    "likes_count": 857,
     "created_at": "2016-01-25T17:11:17+09:00",
     "updated_at": "2018-12-22T12:27:33+09:00",
     "id": "tatesuke"
@@ -298,7 +298,7 @@
   {
     "title": "爆速でターミナルを使うためのショートカット集",
     "url": "https://qiita.com/akito/items/d09a2d5b36d4cf7bac6d",
-    "likes_count": 559,
+    "likes_count": 558,
     "created_at": "2016-01-19T01:33:35+09:00",
     "updated_at": "2019-12-23T11:08:38+09:00",
     "id": "akito"
@@ -354,7 +354,7 @@
   {
     "title": "ES2015以降のJavaScriptでObjectのkeyに変数を使う",
     "url": "https://qiita.com/kmagai/items/95481a3b9fd97e4616c9",
-    "likes_count": 515,
+    "likes_count": 516,
     "created_at": "2016-01-11T15:39:37+09:00",
     "updated_at": "2016-01-11T15:40:00+09:00",
     "id": "kmagai"
@@ -378,7 +378,7 @@
   {
     "title": "Elasticsearch導入前に気を付けておきたいこと！",
     "url": "https://qiita.com/uzresk/items/e0b10c14875b79c450f2",
-    "likes_count": 501,
+    "likes_count": 500,
     "created_at": "2016-01-06T16:40:06+09:00",
     "updated_at": "2016-01-21T10:13:19+09:00",
     "id": "uzresk"
@@ -472,20 +472,20 @@
     "id": "yura"
   },
   {
-    "title": "Nginxセキュリティ設定",
-    "url": "https://qiita.com/hideji2/items/1421f9bff2a97a5e5794",
-    "likes_count": 382,
-    "created_at": "2016-01-28T00:27:00+09:00",
-    "updated_at": "2016-02-03T15:29:48+09:00",
-    "id": "hideji2"
-  },
-  {
     "title": "[ようやく見つけたかもしれない]WordpressサイトをGit管理する方法[メモ]",
     "url": "https://qiita.com/goosys/items/5c66cb912986afcd86f3",
     "likes_count": 381,
     "created_at": "2016-01-18T14:03:22+09:00",
     "updated_at": "2016-08-19T15:36:10+09:00",
     "id": "goosys"
+  },
+  {
+    "title": "Nginxセキュリティ設定",
+    "url": "https://qiita.com/hideji2/items/1421f9bff2a97a5e5794",
+    "likes_count": 381,
+    "created_at": "2016-01-28T00:27:00+09:00",
+    "updated_at": "2016-02-03T15:29:48+09:00",
+    "id": "hideji2"
   },
   {
     "title": "brew tapとは",
@@ -544,20 +544,20 @@
     "id": "awakia"
   },
   {
-    "title": "fluentdを導入時にまず知っておいたほうがよさそうなこと（インストール、監視、HA構成、チューニングなど）",
-    "url": "https://qiita.com/uzresk/items/3bfeeac82dfcb2a4300e",
-    "likes_count": 356,
-    "created_at": "2016-01-27T11:12:11+09:00",
-    "updated_at": "2016-01-28T08:39:51+09:00",
-    "id": "uzresk"
-  },
-  {
     "title": "Parse.com 終了に伴う mbaas サービスの移行方法（終了直前の大幅更新！）",
     "url": "https://qiita.com/ogaoga/items/d300e64dbe923ecbdf1c",
     "likes_count": 356,
     "created_at": "2016-01-29T09:22:03+09:00",
     "updated_at": "2016-12-21T00:54:37+09:00",
     "id": "ogaoga"
+  },
+  {
+    "title": "fluentdを導入時にまず知っておいたほうがよさそうなこと（インストール、監視、HA構成、チューニングなど）",
+    "url": "https://qiita.com/uzresk/items/3bfeeac82dfcb2a4300e",
+    "likes_count": 355,
+    "created_at": "2016-01-27T11:12:11+09:00",
+    "updated_at": "2016-01-28T08:39:51+09:00",
+    "id": "uzresk"
   },
   {
     "title": "bashの変数展開によるファイル名や拡張子の取得",
