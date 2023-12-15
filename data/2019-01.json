@@ -2,7 +2,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -前編-",
     "url": "https://qiita.com/etaroid/items/b1024c7d200a75b992fc",
-    "likes_count": 5523,
+    "likes_count": 5526,
     "created_at": "2019-01-15T23:07:44+09:00",
     "updated_at": "2020-12-18T00:00:46+09:00",
     "id": "etaroid"
@@ -10,7 +10,7 @@
   {
     "title": "いまさらだけどCircleCIに入門したので分かりやすくまとめてみた",
     "url": "https://qiita.com/gold-kou/items/4c7e62434af455e977c2",
-    "likes_count": 2130,
+    "likes_count": 2131,
     "created_at": "2019-01-07T09:17:44+09:00",
     "updated_at": "2020-04-02T17:10:51+09:00",
     "id": "gold-kou"
@@ -42,7 +42,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -中編-",
     "url": "https://qiita.com/etaroid/items/88ec3a0e2d80d7cdf87a",
-    "likes_count": 1458,
+    "likes_count": 1459,
     "created_at": "2019-01-20T21:34:55+09:00",
     "updated_at": "2020-12-24T22:13:35+09:00",
     "id": "etaroid"
@@ -58,7 +58,7 @@
   {
     "title": "未経験から4ヶ月でWeb系エンジニアに転職するためにやったこと",
     "url": "https://qiita.com/ryokky59/items/833cb3cf916ec0fd1e19",
-    "likes_count": 1207,
+    "likes_count": 1208,
     "created_at": "2019-01-12T12:42:25+09:00",
     "updated_at": "2020-07-22T14:19:57+09:00",
     "id": "ryokky59"
@@ -66,7 +66,7 @@
   {
     "title": "世の中の小説作家と編集者は今すぐ Word や G Suite を窓から投げ捨てて Git と GitHub の使い方を覚えるべきだ",
     "url": "https://qiita.com/ktkraoichi/items/f6ad43c2da0b3136d6be",
-    "likes_count": 1199,
+    "likes_count": 1200,
     "created_at": "2019-01-03T20:17:12+09:00",
     "updated_at": "2020-02-11T16:25:12+09:00",
     "id": "ktkraoichi"
@@ -90,7 +90,7 @@
   {
     "title": "PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-",
     "url": "https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9",
-    "likes_count": 1041,
+    "likes_count": 1042,
     "created_at": "2019-01-14T18:12:32+09:00",
     "updated_at": "2019-02-01T00:28:11+09:00",
     "id": "Kentaro_okumura"
@@ -98,7 +98,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -後編-",
     "url": "https://qiita.com/etaroid/items/40106f13d47bfcbc2572",
-    "likes_count": 1041,
+    "likes_count": 1042,
     "created_at": "2019-01-21T01:26:55+09:00",
     "updated_at": "2020-12-24T22:28:08+09:00",
     "id": "etaroid"
@@ -106,7 +106,7 @@
   {
     "title": "低レイヤーを学ぶための技術書をまとめてみる",
     "url": "https://qiita.com/hareku/items/3383be7aee616e04b80f",
-    "likes_count": 1026,
+    "likes_count": 1028,
     "created_at": "2019-01-08T21:04:25+09:00",
     "updated_at": "2020-11-03T03:44:32+09:00",
     "id": "hareku"
@@ -138,7 +138,7 @@
   {
     "title": "追伸。そろそろおまえもstationでslackやWebアプリを一括管理をするように。　母より",
     "url": "https://qiita.com/shojimotio/items/77678d55a2d1557f5e68",
-    "likes_count": 900,
+    "likes_count": 899,
     "created_at": "2019-01-08T01:04:33+09:00",
     "updated_at": "2019-01-30T18:35:40+09:00",
     "id": "shojimotio"
@@ -426,7 +426,7 @@
   {
     "title": "Ansibleとは何か　構成管理ツールの目的〜Ansible導入まで最速で理解する",
     "url": "https://qiita.com/Brutus/items/1894629105d61f4854bc",
-    "likes_count": 334,
+    "likes_count": 335,
     "created_at": "2019-01-23T00:10:24+09:00",
     "updated_at": "2021-09-08T23:28:26+09:00",
     "id": "Brutus"
@@ -472,20 +472,20 @@
     "id": "undrthemt"
   },
   {
+    "title": "エラー監視には Sentry が超便利！",
+    "url": "https://qiita.com/Chanmoro/items/a9cbde57fd6c0926b5b4",
+    "likes_count": 306,
+    "created_at": "2019-01-10T17:39:12+09:00",
+    "updated_at": "2019-01-10T22:11:56+09:00",
+    "id": "Chanmoro"
+  },
+  {
     "title": "【爆速で習得】Railsでslimを使う方法から基本文法まで",
     "url": "https://qiita.com/ngron/items/c03e68642c2ab77e7283",
     "likes_count": 306,
     "created_at": "2019-01-27T12:08:59+09:00",
     "updated_at": "2019-10-03T19:31:31+09:00",
     "id": "ngron"
-  },
-  {
-    "title": "エラー監視には Sentry が超便利！",
-    "url": "https://qiita.com/Chanmoro/items/a9cbde57fd6c0926b5b4",
-    "likes_count": 305,
-    "created_at": "2019-01-10T17:39:12+09:00",
-    "updated_at": "2019-01-10T22:11:56+09:00",
-    "id": "Chanmoro"
   },
   {
     "title": "DockerによるPHP開発環境構築（PHP + MySQL + Nginx）",
