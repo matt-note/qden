@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3631,
+    "likes_count": 3632,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -162,7 +162,7 @@
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
     "url": "https://qiita.com/shisama/items/48e2eaf1dc356568b0d7",
-    "likes_count": 853,
+    "likes_count": 854,
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
@@ -210,7 +210,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 726,
+    "likes_count": 728,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -242,7 +242,7 @@
   {
     "title": "ROS講座00 目次",
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
-    "likes_count": 694,
+    "likes_count": 696,
     "created_at": "2018-05-02T09:27:43+09:00",
     "updated_at": "2022-10-07T09:52:10+09:00",
     "id": "srs"
@@ -482,7 +482,7 @@
   {
     "title": "dockerで簡易にpython3の環境を作ってみる",
     "url": "https://qiita.com/reflet/items/4b3f91661a54ec70a7dc",
-    "likes_count": 390,
+    "likes_count": 389,
     "created_at": "2018-05-10T12:01:43+09:00",
     "updated_at": "2020-01-15T02:08:31+09:00",
     "id": "reflet"
@@ -608,20 +608,20 @@
     "id": "soarflat"
   },
   {
+    "title": "【sed / awk / grep】文字列の置換・抽出・検索と正規表現 | Linux Cheat Sheet",
+    "url": "https://qiita.com/shuntaro_tamura/items/e4e942e7186934fae5e7",
+    "likes_count": 274,
+    "created_at": "2018-05-29T23:27:59+09:00",
+    "updated_at": "2018-05-30T00:41:15+09:00",
+    "id": "shuntaro_tamura"
+  },
+  {
     "title": "PythonとMeCabで形態素解析(on Windows)",
     "url": "https://qiita.com/menon/items/f041b7c46543f38f78f7",
     "likes_count": 273,
     "created_at": "2018-05-04T19:20:03+09:00",
     "updated_at": "2019-11-08T16:11:44+09:00",
     "id": "menon"
-  },
-  {
-    "title": "【sed / awk / grep】文字列の置換・抽出・検索と正規表現 | Linux Cheat Sheet",
-    "url": "https://qiita.com/shuntaro_tamura/items/e4e942e7186934fae5e7",
-    "likes_count": 273,
-    "created_at": "2018-05-29T23:27:59+09:00",
-    "updated_at": "2018-05-30T00:41:15+09:00",
-    "id": "shuntaro_tamura"
   },
   {
     "title": "「近代化Redmine」ことOpenProjectでスクラム開発のプロジェクト管理",
