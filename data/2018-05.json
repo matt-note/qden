@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3632,
+    "likes_count": 3631,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -42,7 +42,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2105,
+    "likes_count": 2106,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -50,7 +50,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 2034,
+    "likes_count": 2038,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -146,7 +146,7 @@
   {
     "title": "忙しい研究者のためのテストコードとドキュメントの書き方",
     "url": "https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a",
-    "likes_count": 866,
+    "likes_count": 867,
     "created_at": "2018-05-25T21:52:09+09:00",
     "updated_at": "2023-10-27T14:33:46+09:00",
     "id": "hmkz"
@@ -154,7 +154,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 865,
+    "likes_count": 867,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -178,7 +178,7 @@
   {
     "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
     "url": "https://qiita.com/kamesennin/items/89d479112554a6f9d038",
-    "likes_count": 777,
+    "likes_count": 778,
     "created_at": "2018-05-01T18:10:35+09:00",
     "updated_at": "2022-05-12T14:22:04+09:00",
     "id": "kamesennin"
@@ -242,7 +242,7 @@
   {
     "title": "ROS講座00 目次",
     "url": "https://qiita.com/srs/items/5f44440afea0eb616b4a",
-    "likes_count": 696,
+    "likes_count": 697,
     "created_at": "2018-05-02T09:27:43+09:00",
     "updated_at": "2022-10-07T09:52:10+09:00",
     "id": "srs"
@@ -312,20 +312,20 @@
     "id": "akameco"
   },
   {
+    "title": "SSH公開鍵認証で接続するまで",
+    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
+    "likes_count": 579,
+    "created_at": "2018-05-06T12:00:20+09:00",
+    "updated_at": "2021-08-15T21:26:32+09:00",
+    "id": "kazokmr"
+  },
+  {
     "title": "皆さんはどんな方法で情報収集してますか？私はこんな感じです。",
     "url": "https://qiita.com/minakawa-daiki/items/edfc3d1ff1270756b52a",
     "likes_count": 578,
     "created_at": "2018-05-11T11:20:01+09:00",
     "updated_at": "2018-05-11T13:53:49+09:00",
     "id": "minakawa-daiki"
-  },
-  {
-    "title": "SSH公開鍵認証で接続するまで",
-    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 577,
-    "created_at": "2018-05-06T12:00:20+09:00",
-    "updated_at": "2021-08-15T21:26:32+09:00",
-    "id": "kazokmr"
   },
   {
     "title": "【退職】履歴書をGit管理したかってん【しました】",
@@ -522,7 +522,7 @@
   {
     "title": "Pythonで例外を投げるときのベストプラクティス",
     "url": "https://qiita.com/hasoya/items/05d4e49d492869875cca",
-    "likes_count": 367,
+    "likes_count": 368,
     "created_at": "2018-05-02T14:17:43+09:00",
     "updated_at": "2018-05-05T11:55:13+09:00",
     "id": "hasoya"
