@@ -2,7 +2,7 @@
   {
     "title": "脱初心者を目指すなら知っておきたい便利なVimコマンド25選 (Vimmerレベル診断付き)",
     "url": "https://qiita.com/jnchito/items/57ffda5712636a9a1e62",
-    "likes_count": 3140,
+    "likes_count": 3139,
     "created_at": "2014-06-12T07:19:13+09:00",
     "updated_at": "2016-06-30T07:31:58+09:00",
     "id": "jnchito"
@@ -42,7 +42,7 @@
   {
     "title": "Mac始めて6年目にして、使い続けている開発ツール73選",
     "url": "https://qiita.com/suin/items/a45f14aeb31f169c616e",
-    "likes_count": 1417,
+    "likes_count": 1416,
     "created_at": "2014-06-21T09:33:32+09:00",
     "updated_at": "2014-06-21T09:40:09+09:00",
     "id": "suin"
@@ -66,7 +66,7 @@
   {
     "title": "[JavaScript] null とか undefined とか 0 とか 空文字('') とか false とかの判定について",
     "url": "https://qiita.com/phi/items/723aa59851b0716a87e3",
-    "likes_count": 1229,
+    "likes_count": 1228,
     "created_at": "2014-06-18T14:11:38+09:00",
     "updated_at": "2016-05-09T09:35:59+09:00",
     "id": "phi"
@@ -82,7 +82,7 @@
   {
     "title": "Railsが時代に合わなくなってきた",
     "url": "https://qiita.com/kaiinui/items/2781219340d427543d08",
-    "likes_count": 1074,
+    "likes_count": 1073,
     "created_at": "2014-06-27T00:30:05+09:00",
     "updated_at": "2014-06-29T03:03:58+09:00",
     "id": "kaiinui"
@@ -106,7 +106,7 @@
   {
     "title": "REST APIドキュメント作成ツールはapiary.ioが決定版かもしれない",
     "url": "https://qiita.com/horimislime/items/38327a3f4166b7b39eb5",
-    "likes_count": 817,
+    "likes_count": 816,
     "created_at": "2014-06-04T13:09:09+09:00",
     "updated_at": "2014-06-04T13:09:09+09:00",
     "id": "horimislime"
@@ -178,7 +178,7 @@
   {
     "title": "Javascriptを使うのをやめろ：Railsの時代遅れ云々についての結論",
     "url": "https://qiita.com/kaiinui/items/dad6180f1910c6a4bfd5",
-    "likes_count": 607,
+    "likes_count": 606,
     "created_at": "2014-06-29T02:51:48+09:00",
     "updated_at": "2014-06-29T03:32:28+09:00",
     "id": "kaiinui"
@@ -258,7 +258,7 @@
   {
     "title": "GitHubのリリース機能を使う",
     "url": "https://qiita.com/todogzm/items/db9f5f2cedf976379f84",
-    "likes_count": 500,
+    "likes_count": 499,
     "created_at": "2014-06-05T11:51:11+09:00",
     "updated_at": "2014-06-05T11:51:11+09:00",
     "id": "todogzm"
@@ -266,7 +266,7 @@
   {
     "title": "Rubyによるデザインパターン5原則",
     "url": "https://qiita.com/kidach1/items/4b63de9ad5a97726c50c",
-    "likes_count": 495,
+    "likes_count": 494,
     "created_at": "2014-06-16T00:03:12+09:00",
     "updated_at": "2014-06-20T17:09:28+09:00",
     "id": "kidach1"
@@ -306,18 +306,10 @@
   {
     "title": "Swiftエンジニアが今週末キャッチアップしたいサンプルコードまとめ",
     "url": "https://qiita.com/susieyy/items/7acd2fdaa1115f28cd70",
-    "likes_count": 421,
+    "likes_count": 420,
     "created_at": "2014-06-06T11:23:38+09:00",
     "updated_at": "2014-06-06T14:23:28+09:00",
     "id": "susieyy"
-  },
-  {
-    "title": "[Swift]  Swiftのoptional valueの便利さ /「?」と「!」でより堅牢なコードへ",
-    "url": "https://qiita.com/nori0620/items/afa94cc42f3233f54bdc",
-    "likes_count": 406,
-    "created_at": "2014-06-05T08:21:04+09:00",
-    "updated_at": "2015-01-12T16:48:27+09:00",
-    "id": "nori0620"
   },
   {
     "title": "iOS8でのダイアログ表示：廃止になるUIAlertViewと推奨されているUIAlertControllerのメリット",
@@ -326,6 +318,14 @@
     "created_at": "2014-06-25T06:10:35+09:00",
     "updated_at": "2016-03-17T00:28:00+09:00",
     "id": "Night___"
+  },
+  {
+    "title": "[Swift]  Swiftのoptional valueの便利さ /「?」と「!」でより堅牢なコードへ",
+    "url": "https://qiita.com/nori0620/items/afa94cc42f3233f54bdc",
+    "likes_count": 405,
+    "created_at": "2014-06-05T08:21:04+09:00",
+    "updated_at": "2015-01-12T16:48:27+09:00",
+    "id": "nori0620"
   },
   {
     "title": "Go 言語で標準入力から読み込む競技プログラミングのアレ --- 改訂第二版",
@@ -410,7 +410,7 @@
   {
     "title": "SwiftのArrayとDictionaryの使い方",
     "url": "https://qiita.com/hachinobu/items/d591d0cba23b6dfec559",
-    "likes_count": 340,
+    "likes_count": 339,
     "created_at": "2014-06-11T20:26:46+09:00",
     "updated_at": "2014-06-17T18:56:06+09:00",
     "id": "hachinobu"
@@ -490,7 +490,7 @@
   {
     "title": "リモートにプッシュしたコミットを取り消す",
     "url": "https://qiita.com/kkyouhei/items/f7588566cba0364ea832",
-    "likes_count": 307,
+    "likes_count": 306,
     "created_at": "2014-06-16T13:08:33+09:00",
     "updated_at": "2014-06-16T13:08:33+09:00",
     "id": "kkyouhei"
@@ -554,7 +554,7 @@
   {
     "title": "UnityのRigidbodyとColliderで衝突判定",
     "url": "https://qiita.com/yando/items/0cd2daaf1314c0674bbe",
-    "likes_count": 269,
+    "likes_count": 268,
     "created_at": "2014-06-07T22:01:52+09:00",
     "updated_at": "2016-12-27T21:49:14+09:00",
     "id": "yando"
@@ -562,7 +562,7 @@
   {
     "title": "MySQL の権限のコマンドまとめ。",
     "url": "https://qiita.com/PallCreaker/items/0b02c5f42be5d1a14adb",
-    "likes_count": 252,
+    "likes_count": 251,
     "created_at": "2014-06-11T11:38:43+09:00",
     "updated_at": "2014-06-11T11:38:43+09:00",
     "id": "PallCreaker"

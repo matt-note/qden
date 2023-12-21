@@ -42,7 +42,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1428,
+    "likes_count": 1427,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -90,7 +90,7 @@
   {
     "title": "リーダブルコードを3年ぶりに読み返してみて見つけた たった1つの大原則",
     "url": "https://qiita.com/HiromuMasuda0228/items/f80e4ac45b9160c33013",
-    "likes_count": 1138,
+    "likes_count": 1137,
     "created_at": "2018-12-11T15:50:01+09:00",
     "updated_at": "2018-12-12T22:15:06+09:00",
     "id": "HiromuMasuda0228"
@@ -114,7 +114,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 1090,
+    "likes_count": 1089,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -138,7 +138,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 1046,
+    "likes_count": 1045,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -274,7 +274,7 @@
   {
     "title": "エンジニアにも役に立つ、MBAで学んだ基礎スキル 20選",
     "url": "https://qiita.com/sue738/items/97b602debf680183c4e7",
-    "likes_count": 658,
+    "likes_count": 657,
     "created_at": "2018-12-25T12:24:05+09:00",
     "updated_at": "2018-12-26T01:42:21+09:00",
     "id": "sue738"
@@ -346,7 +346,7 @@
   {
     "title": "スマホ向けサイトをアプリっぽく見せるために半年間頑張ったことをまとめる",
     "url": "https://qiita.com/sadnessOjisan/items/3b21d27cdab0665c0720",
-    "likes_count": 528,
+    "likes_count": 529,
     "created_at": "2018-12-20T10:52:45+09:00",
     "updated_at": "2018-12-22T17:17:16+09:00",
     "id": "sadnessOjisan"
@@ -392,14 +392,6 @@
     "id": "_somary"
   },
   {
-    "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
-    "url": "https://qiita.com/koizumittn/items/77923a8f71d47d895b34",
-    "likes_count": 460,
-    "created_at": "2018-12-29T11:42:35+09:00",
-    "updated_at": "2019-01-21T20:31:35+09:00",
-    "id": "koizumittn"
-  },
-  {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
     "likes_count": 459,
@@ -408,9 +400,17 @@
     "id": "yasuabe2613"
   },
   {
+    "title": "AWS初心者のための勉強会資料【入門編】〜結局AWSって何なの？〜",
+    "url": "https://qiita.com/koizumittn/items/77923a8f71d47d895b34",
+    "likes_count": 459,
+    "created_at": "2018-12-29T11:42:35+09:00",
+    "updated_at": "2019-01-21T20:31:35+09:00",
+    "id": "koizumittn"
+  },
+  {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2018-12-21T10:13:58+09:00",
     "updated_at": "2021-01-04T01:36:10+09:00",
     "id": "naokiiiii"
@@ -418,7 +418,7 @@
   {
     "title": "fmt.Printfなんかこわくない",
     "url": "https://qiita.com/rock619/items/14eb2b32f189514b5c3c",
-    "likes_count": 449,
+    "likes_count": 448,
     "created_at": "2018-12-07T05:35:39+09:00",
     "updated_at": "2019-05-22T20:39:46+09:00",
     "id": "rock619"
@@ -450,7 +450,7 @@
   {
     "title": "Python 割と使うライブラリ集",
     "url": "https://qiita.com/ryuichi1208/items/cb5f850a9811d2a4bc3a",
-    "likes_count": 424,
+    "likes_count": 423,
     "created_at": "2018-12-08T23:10:04+09:00",
     "updated_at": "2019-05-07T00:42:55+09:00",
     "id": "ryuichi1208"
@@ -466,7 +466,7 @@
   {
     "title": "configure, make, make install とは何か",
     "url": "https://qiita.com/chihiro/items/f270744d7e09c58a50a5",
-    "likes_count": 423,
+    "likes_count": 422,
     "created_at": "2018-12-20T14:36:24+09:00",
     "updated_at": "2018-12-20T14:36:24+09:00",
     "id": "chihiro"
@@ -482,7 +482,7 @@
   {
     "title": "知っていると捗るcreate-react-appの設定",
     "url": "https://qiita.com/geekduck/items/6f99a3da15dd39658fff",
-    "likes_count": 409,
+    "likes_count": 408,
     "created_at": "2018-12-07T12:08:27+09:00",
     "updated_at": "2019-09-27T12:08:17+09:00",
     "id": "geekduck"
@@ -618,7 +618,7 @@
   {
     "title": "ドメイン駆動設計を勉強するときのオススメ資料",
     "url": "https://qiita.com/dora56/items/db8495fac3fbc6cd2569",
-    "likes_count": 355,
+    "likes_count": 356,
     "created_at": "2018-12-08T23:10:00+09:00",
     "updated_at": "2019-06-12T16:42:02+09:00",
     "id": "dora56"
@@ -744,20 +744,20 @@
     "id": "kimihiro_n"
   },
   {
-    "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
-    "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
-    "likes_count": 260,
-    "created_at": "2018-12-05T00:06:24+09:00",
-    "updated_at": "2019-05-26T02:14:17+09:00",
-    "id": "RyoMa_0923"
-  },
-  {
     "title": "エンジニア向けのポートフォリオサイトまとめ",
     "url": "https://qiita.com/turmericN/items/37c3fbe00ee6bbc7e201",
     "likes_count": 260,
     "created_at": "2018-12-19T08:26:38+09:00",
     "updated_at": "2018-12-21T13:12:59+09:00",
     "id": "turmericN"
+  },
+  {
+    "title": "インフラエンジニアとしてなんとなく役立っていそうな書籍をリストアップする",
+    "url": "https://qiita.com/RyoMa_0923/items/d630d3bb8de78e0b77f7",
+    "likes_count": 259,
+    "created_at": "2018-12-05T00:06:24+09:00",
+    "updated_at": "2019-05-26T02:14:17+09:00",
+    "id": "RyoMa_0923"
   },
   {
     "title": "Python3インストール（Mac編）",

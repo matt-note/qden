@@ -2,7 +2,7 @@
   {
     "title": "エンジニアが情報収集とトレンドを追うのに読むと良いサイト",
     "url": "https://qiita.com/ryuichi1208/items/604a68abb91949e79ece",
-    "likes_count": 3187,
+    "likes_count": 3186,
     "created_at": "2018-11-29T22:01:23+09:00",
     "updated_at": "2019-03-13T17:59:59+09:00",
     "id": "ryuichi1208"
@@ -10,7 +10,7 @@
   {
     "title": "新人にドヤ顔で説明できるか、今風フロントエンド開発ハンズオン(Git/Node.js/ES6/webpack4/Babel7)",
     "url": "https://qiita.com/riversun/items/29d5264480dd06c7b9fb",
-    "likes_count": 1968,
+    "likes_count": 1967,
     "created_at": "2018-11-12T08:21:10+09:00",
     "updated_at": "2020-12-18T17:26:37+09:00",
     "id": "riversun"
@@ -26,7 +26,7 @@
   {
     "title": "iMac/MacBook購入後に必ず設定したい設定項目",
     "url": "https://qiita.com/ryuichi1208/items/5905240f3bfce793b33d",
-    "likes_count": 1673,
+    "likes_count": 1672,
     "created_at": "2018-11-21T18:58:00+09:00",
     "updated_at": "2019-10-05T23:38:37+09:00",
     "id": "ryuichi1208"
@@ -114,7 +114,7 @@
   {
     "title": "開発が捗る Visual Studio Code 拡張機能",
     "url": "https://qiita.com/bison_/items/fbeb7b31173b3e787fc2",
-    "likes_count": 1068,
+    "likes_count": 1067,
     "created_at": "2018-11-15T12:02:26+09:00",
     "updated_at": "2018-11-19T11:57:05+09:00",
     "id": "bison_"
@@ -138,7 +138,7 @@
   {
     "title": "Vue.jsでドラクエ風のポートフォリオを作った話　①",
     "url": "https://qiita.com/iwathi/items/8f054d10590f32b438a4",
-    "likes_count": 928,
+    "likes_count": 927,
     "created_at": "2018-11-14T07:15:51+09:00",
     "updated_at": "2018-12-05T05:37:44+09:00",
     "id": "iwathi"
@@ -178,7 +178,7 @@
   {
     "title": "よく使うcurlコマンドのオプション",
     "url": "https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9",
-    "likes_count": 858,
+    "likes_count": 859,
     "created_at": "2018-11-27T19:55:10+09:00",
     "updated_at": "2022-05-22T11:01:39+09:00",
     "id": "ryuichi1208"
@@ -218,7 +218,7 @@
   {
     "title": "Docker 入門にはインストールなしで使える「Play with Docker」がいいと思う",
     "url": "https://qiita.com/tag1216/items/ec7228440f6eaf849cd6",
-    "likes_count": 809,
+    "likes_count": 808,
     "created_at": "2018-11-21T08:06:11+09:00",
     "updated_at": "2018-11-23T09:08:58+09:00",
     "id": "tag1216"
@@ -234,7 +234,7 @@
   {
     "title": "Dockerfileの静的解析ツールが便利すぎた",
     "url": "https://qiita.com/ryuichi1208/items/d49f3f6ba39c88899049",
-    "likes_count": 733,
+    "likes_count": 732,
     "created_at": "2018-11-09T20:53:27+09:00",
     "updated_at": "2019-11-08T23:13:25+09:00",
     "id": "ryuichi1208"
@@ -266,7 +266,7 @@
   {
     "title": "最低限知っておくべきネットワーク系コマンド",
     "url": "https://qiita.com/ryuichi1208/items/eeb98d5a94d71c55aa34",
-    "likes_count": 617,
+    "likes_count": 616,
     "created_at": "2018-11-26T00:00:27+09:00",
     "updated_at": "2018-11-28T09:07:31+09:00",
     "id": "ryuichi1208"
@@ -322,7 +322,7 @@
   {
     "title": "HTTP/3が出るらしいという話を雑に書く",
     "url": "https://qiita.com/inductor/items/61b824289ac9b2f11b3e",
-    "likes_count": 541,
+    "likes_count": 540,
     "created_at": "2018-11-14T10:02:01+09:00",
     "updated_at": "2019-10-24T10:50:25+09:00",
     "id": "inductor"
@@ -330,18 +330,10 @@
   {
     "title": "統計検定２級に楽に合格する方法",
     "url": "https://qiita.com/okoppe8/items/6caca7ab6509edf0c497",
-    "likes_count": 538,
+    "likes_count": 539,
     "created_at": "2018-11-28T12:58:31+09:00",
     "updated_at": "2018-11-28T13:29:26+09:00",
     "id": "okoppe8"
-  },
-  {
-    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
-    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
-    "likes_count": 500,
-    "created_at": "2018-11-06T02:18:59+09:00",
-    "updated_at": "2018-11-06T02:18:59+09:00",
-    "id": "psychoroid"
   },
   {
     "title": "ドメインオブジェクトの責務について",
@@ -350,6 +342,14 @@
     "created_at": "2018-11-17T17:07:19+09:00",
     "updated_at": "2021-06-24T21:16:01+09:00",
     "id": "j5ik2o"
+  },
+  {
+    "title": "VSCodeのPython開発環境でpylintの代わりにflake8を導入し自動整形を設定する",
+    "url": "https://qiita.com/psychoroid/items/2c2acc06c900d2c0c8cb",
+    "likes_count": 499,
+    "created_at": "2018-11-06T02:18:59+09:00",
+    "updated_at": "2018-11-06T02:18:59+09:00",
+    "id": "psychoroid"
   },
   {
     "title": "スクラムとは何か？〜Certified ScrumMaster 研修を受けて〜",
@@ -506,7 +506,7 @@
   {
     "title": "【初心者向け】現代 (2018年11月時点)のフロントエンド開発について",
     "url": "https://qiita.com/yakimeron/items/8745ea220fdd86279d3e",
-    "likes_count": 362,
+    "likes_count": 361,
     "created_at": "2018-11-15T12:20:01+09:00",
     "updated_at": "2019-02-04T16:02:06+09:00",
     "id": "yakimeron"

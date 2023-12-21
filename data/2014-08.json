@@ -2,7 +2,7 @@
   {
     "title": "Facebook, Twitter, Instagram等がどうやってIDを生成しているのか まとめ",
     "url": "https://qiita.com/daisy1754/items/98a6e6b17d8161eab081",
-    "likes_count": 1413,
+    "likes_count": 1412,
     "created_at": "2014-08-11T11:11:23+09:00",
     "updated_at": "2014-08-27T17:30:14+09:00",
     "id": "daisy1754"
@@ -34,7 +34,7 @@
   {
     "title": "忘れっぽい人のための正規表現チートシート",
     "url": "https://qiita.com/tossh/items/635aea9a529b9deb3038",
-    "likes_count": 1243,
+    "likes_count": 1242,
     "created_at": "2014-08-14T09:41:37+09:00",
     "updated_at": "2016-02-02T23:22:20+09:00",
     "id": "tossh"
@@ -74,7 +74,7 @@
   {
     "title": "インタフェースの実装パターン #golang",
     "url": "https://qiita.com/tenntenn/items/eac962a49c56b2b15ee8",
-    "likes_count": 1086,
+    "likes_count": 1084,
     "created_at": "2014-08-04T11:07:54+09:00",
     "updated_at": "2017-12-03T12:00:41+09:00",
     "id": "tenntenn"
@@ -90,7 +90,7 @@
   {
     "title": "プログラマが持つべき心構え (The Zen of Python)",
     "url": "https://qiita.com/IshitaTakeshi/items/e4145921c8dbf7ba57ef",
-    "likes_count": 972,
+    "likes_count": 971,
     "created_at": "2014-08-13T10:44:49+09:00",
     "updated_at": "2021-08-20T23:44:52+09:00",
     "id": "IshitaTakeshi"
@@ -98,7 +98,7 @@
   {
     "title": "Chromeをvimライクに使えるようにするvimium",
     "url": "https://qiita.com/satoshi03/items/9fdfcd0e46e095ec68c1",
-    "likes_count": 894,
+    "likes_count": 892,
     "created_at": "2014-08-02T19:56:18+09:00",
     "updated_at": "2018-04-22T12:22:07+09:00",
     "id": "satoshi03"
@@ -106,7 +106,7 @@
   {
     "title": "障害対応でよくつかうコマンド覚書(逐次更新)",
     "url": "https://qiita.com/ikaro1192/items/282e4d4d0918401f7cbe",
-    "likes_count": 891,
+    "likes_count": 890,
     "created_at": "2014-08-27T13:14:11+09:00",
     "updated_at": "2016-10-14T15:49:18+09:00",
     "id": "ikaro1192"
@@ -130,7 +130,7 @@
   {
     "title": "なぜクロージャ（Closure）と言うのか？",
     "url": "https://qiita.com/mochizukikotaro/items/7403835a0dbb00ea71ae",
-    "likes_count": 791,
+    "likes_count": 790,
     "created_at": "2014-08-24T12:34:19+09:00",
     "updated_at": "2014-08-24T12:34:19+09:00",
     "id": "mochizukikotaro"
@@ -138,7 +138,7 @@
   {
     "title": "似ているようで全然違う!?Activerecordにおけるincludesとjoinsの振る舞いまとめ",
     "url": "https://qiita.com/south37/items/b2c81932756d2cd84d7d",
-    "likes_count": 747,
+    "likes_count": 746,
     "created_at": "2014-08-10T02:15:18+09:00",
     "updated_at": "2018-05-18T11:45:07+09:00",
     "id": "south37"
@@ -162,7 +162,7 @@
   {
     "title": "開発者（個人）のためのJenkins - Git Plugin編",
     "url": "https://qiita.com/yasuhiroki/items/61a2be613fc7dcfc8682",
-    "likes_count": 701,
+    "likes_count": 700,
     "created_at": "2014-08-13T01:40:32+09:00",
     "updated_at": "2015-11-03T11:30:50+09:00",
     "id": "yasuhiroki"
@@ -186,7 +186,7 @@
   {
     "title": "Ruby の private と protected 。歴史と使い分け",
     "url": "https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e",
-    "likes_count": 639,
+    "likes_count": 638,
     "created_at": "2014-08-18T22:16:06+09:00",
     "updated_at": "2016-08-16T21:46:37+09:00",
     "id": "tbpgr"
@@ -208,20 +208,20 @@
     "id": "mogulla3"
   },
   {
-    "title": "Railsをバージョンアップし続けるために必要なこと",
-    "url": "https://qiita.com/joker1007/items/82db0b5d1a7f2572710b",
-    "likes_count": 627,
-    "created_at": "2014-08-28T02:45:22+09:00",
-    "updated_at": "2014-08-28T02:45:22+09:00",
-    "id": "joker1007"
-  },
-  {
     "title": "vagrantのネットワークについて",
     "url": "https://qiita.com/ftakao2007/items/0ec05c2ef3c14cdbea11",
     "likes_count": 626,
     "created_at": "2014-08-12T00:38:27+09:00",
     "updated_at": "2016-06-18T17:35:30+09:00",
     "id": "ftakao2007"
+  },
+  {
+    "title": "Railsをバージョンアップし続けるために必要なこと",
+    "url": "https://qiita.com/joker1007/items/82db0b5d1a7f2572710b",
+    "likes_count": 626,
+    "created_at": "2014-08-28T02:45:22+09:00",
+    "updated_at": "2014-08-28T02:45:22+09:00",
+    "id": "joker1007"
   },
   {
     "title": "無料で読めるデータ分析に役立つ Python の電子書籍まとめ",
@@ -250,18 +250,10 @@
   {
     "title": "システム設計の流れ",
     "url": "https://qiita.com/mikakane/items/b8045a11dba8d08e5fe4",
-    "likes_count": 595,
+    "likes_count": 594,
     "created_at": "2014-08-30T19:34:43+09:00",
     "updated_at": "2014-08-30T19:34:43+09:00",
     "id": "mikakane"
-  },
-  {
-    "title": "プロトコルとデリゲートのとても簡単なサンプルについて",
-    "url": "https://qiita.com/mochizukikotaro/items/a5bc60d92aa2d6fe52ca",
-    "likes_count": 590,
-    "created_at": "2014-08-12T10:10:06+09:00",
-    "updated_at": "2015-02-15T12:56:13+09:00",
-    "id": "mochizukikotaro"
   },
   {
     "title": "Swiftで書くデザインパターンまとめ",
@@ -272,9 +264,17 @@
     "id": "susieyy"
   },
   {
+    "title": "プロトコルとデリゲートのとても簡単なサンプルについて",
+    "url": "https://qiita.com/mochizukikotaro/items/a5bc60d92aa2d6fe52ca",
+    "likes_count": 589,
+    "created_at": "2014-08-12T10:10:06+09:00",
+    "updated_at": "2015-02-15T12:56:13+09:00",
+    "id": "mochizukikotaro"
+  },
+  {
     "title": "pyenv を使って macOS に Python の環境を構築する",
     "url": "https://qiita.com/1000ch/items/93841f76ea52551b6a97",
-    "likes_count": 551,
+    "likes_count": 550,
     "created_at": "2014-08-28T14:59:56+09:00",
     "updated_at": "2022-02-17T15:04:20+09:00",
     "id": "1000ch"
@@ -290,7 +290,7 @@
   {
     "title": "DateTime クラスのまとめメモ",
     "url": "https://qiita.com/re-24/items/c3ed814f2e1ee0f8e811",
-    "likes_count": 505,
+    "likes_count": 504,
     "created_at": "2014-08-07T21:17:46+09:00",
     "updated_at": "2017-06-05T23:09:14+09:00",
     "id": "re-24"
@@ -370,7 +370,7 @@
   {
     "title": "RailsにDevise+OmniAuthでユーザ認証を実装する手順",
     "url": "https://qiita.com/zenizh/items/94aec2d94a2b4e9a1d0b",
-    "likes_count": 426,
+    "likes_count": 425,
     "created_at": "2014-08-31T00:56:27+09:00",
     "updated_at": "2020-07-28T11:01:20+09:00",
     "id": "zenizh"
@@ -386,7 +386,7 @@
   {
     "title": "SQLアンチパターン勉強会",
     "url": "https://qiita.com/iwata@github/items/9a47ddababd8e0a82662",
-    "likes_count": 411,
+    "likes_count": 410,
     "created_at": "2014-08-17T12:04:40+09:00",
     "updated_at": "2015-01-22T16:09:39+09:00",
     "id": "iwata@github"
@@ -394,7 +394,7 @@
   {
     "title": "シェルを再起動させる簡単な方法",
     "url": "https://qiita.com/takaesu_ug/items/c4de582c6f85a42817d8",
-    "likes_count": 399,
+    "likes_count": 402,
     "created_at": "2014-08-31T21:11:21+09:00",
     "updated_at": "2015-04-15T21:44:50+09:00",
     "id": "takaesu_ug"

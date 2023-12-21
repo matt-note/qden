@@ -10,7 +10,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2562,
+    "likes_count": 2561,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -42,7 +42,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1464,
+    "likes_count": 1463,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2021-10-20T18:10:09+09:00",
     "id": "kunichiko"
@@ -50,7 +50,7 @@
   {
     "title": "JSON Web Token の効用",
     "url": "https://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a",
-    "likes_count": 1434,
+    "likes_count": 1433,
     "created_at": "2014-12-14T18:43:28+09:00",
     "updated_at": "2017-06-12T14:23:23+09:00",
     "id": "kaiinui"
@@ -58,7 +58,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1359,
+    "likes_count": 1360,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -66,7 +66,7 @@
   {
     "title": "機械学習をこれから始める人に押さえておいてほしいこと",
     "url": "https://qiita.com/IshitaTakeshi/items/4607d9f729babd273960",
-    "likes_count": 1293,
+    "likes_count": 1292,
     "created_at": "2014-12-06T10:35:31+09:00",
     "updated_at": "2016-04-05T20:14:24+09:00",
     "id": "IshitaTakeshi"
@@ -74,7 +74,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1252,
+    "likes_count": 1251,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2022-01-17T09:49:27+09:00",
     "id": "k-shogo"
@@ -82,7 +82,7 @@
   {
     "title": "今更だけどPromise入門",
     "url": "https://qiita.com/koki_cheese/items/c559da338a3d307c9d88",
-    "likes_count": 1249,
+    "likes_count": 1248,
     "created_at": "2014-12-05T00:00:05+09:00",
     "updated_at": "2014-12-05T12:10:26+09:00",
     "id": "koki_cheese"
@@ -122,7 +122,7 @@
   {
     "title": "JavaScriptでforEach, filter, map, reduceとか",
     "url": "https://qiita.com/itagakishintaro/items/29e301f3125760b81302",
-    "likes_count": 888,
+    "likes_count": 887,
     "created_at": "2014-12-21T00:42:04+09:00",
     "updated_at": "2018-09-23T17:07:32+09:00",
     "id": "itagakishintaro"
@@ -146,7 +146,7 @@
   {
     "title": "今更聞けないpryの使い方と便利プラグイン集",
     "url": "https://qiita.com/k0kubun/items/b118e9ccaef8707c4d9f",
-    "likes_count": 854,
+    "likes_count": 853,
     "created_at": "2014-12-21T17:57:43+09:00",
     "updated_at": "2016-01-16T21:49:45+09:00",
     "id": "k0kubun"
@@ -154,18 +154,10 @@
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
     "url": "https://qiita.com/ledmonster/items/22b00c65208dffeff7e4",
-    "likes_count": 822,
+    "likes_count": 823,
     "created_at": "2014-12-28T11:51:45+09:00",
     "updated_at": "2015-11-02T16:48:49+09:00",
     "id": "ledmonster"
-  },
-  {
-    "title": "現場で使うGitのテクニック",
-    "url": "https://qiita.com/treby/items/9184251b545d9ebc3198",
-    "likes_count": 813,
-    "created_at": "2014-12-23T21:18:22+09:00",
-    "updated_at": "2020-05-28T16:39:38+09:00",
-    "id": "treby"
   },
   {
     "title": "UIViewControllerのライフサイクル",
@@ -174,6 +166,14 @@
     "created_at": "2014-12-24T22:11:02+09:00",
     "updated_at": "2014-12-24T22:11:02+09:00",
     "id": "motokiee"
+  },
+  {
+    "title": "現場で使うGitのテクニック",
+    "url": "https://qiita.com/treby/items/9184251b545d9ebc3198",
+    "likes_count": 812,
+    "created_at": "2014-12-23T21:18:22+09:00",
+    "updated_at": "2020-05-28T16:39:38+09:00",
+    "id": "treby"
   },
   {
     "title": "AWS EC2 Amazon Linuxインスタンス起動後、最初にやることまとめ（SysVinit編）",
@@ -370,7 +370,7 @@
   {
     "title": "nginxパフォーマンスチューニング〜静的コンテンツ配信編〜",
     "url": "https://qiita.com/cubicdaiya/items/2763ba2240476ab1d9dd",
-    "likes_count": 522,
+    "likes_count": 521,
     "created_at": "2014-12-16T03:53:44+09:00",
     "updated_at": "2015-12-08T21:59:14+09:00",
     "id": "cubicdaiya"
@@ -632,20 +632,20 @@
     "id": "jnchito"
   },
   {
-    "title": "Sprockets再考 モダンなJSのエコシステムとRailsのより良い関係を探す",
-    "url": "https://qiita.com/joker1007/items/9068e223744b3ac8c6dd",
-    "likes_count": 324,
-    "created_at": "2014-12-05T16:38:05+09:00",
-    "updated_at": "2014-12-06T18:42:26+09:00",
-    "id": "joker1007"
-  },
-  {
     "title": "Ruby でラインメモリプロファイラ",
     "url": "https://qiita.com/sonots/items/c14b3e3ca8e6f7dfb651",
     "likes_count": 324,
     "created_at": "2014-12-08T00:50:14+09:00",
     "updated_at": "2017-05-17T16:15:05+09:00",
     "id": "sonots"
+  },
+  {
+    "title": "Sprockets再考 モダンなJSのエコシステムとRailsのより良い関係を探す",
+    "url": "https://qiita.com/joker1007/items/9068e223744b3ac8c6dd",
+    "likes_count": 323,
+    "created_at": "2014-12-05T16:38:05+09:00",
+    "updated_at": "2014-12-06T18:42:26+09:00",
+    "id": "joker1007"
   },
   {
     "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
@@ -696,14 +696,6 @@
     "id": "tbpgr"
   },
   {
-    "title": "SwiftでCoreData",
-    "url": "https://qiita.com/watanave/items/4da9f4bc97247f780af8",
-    "likes_count": 281,
-    "created_at": "2014-12-04T23:16:35+09:00",
-    "updated_at": "2014-12-04T23:16:35+09:00",
-    "id": "watanave"
-  },
-  {
     "title": "use-packageで可読性の高いinit.elを書く",
     "url": "https://qiita.com/kai2nenobu/items/5dfae3767514584f5220",
     "likes_count": 281,
@@ -718,6 +710,14 @@
     "created_at": "2014-12-08T20:45:06+09:00",
     "updated_at": "2016-10-16T15:02:19+09:00",
     "id": "tkxlab"
+  },
+  {
+    "title": "SwiftでCoreData",
+    "url": "https://qiita.com/watanave/items/4da9f4bc97247f780af8",
+    "likes_count": 280,
+    "created_at": "2014-12-04T23:16:35+09:00",
+    "updated_at": "2014-12-04T23:16:35+09:00",
+    "id": "watanave"
   },
   {
     "title": "ボタン電池1個で数年持つ無線ドア開閉センサを作る",
@@ -746,7 +746,7 @@
   {
     "title": "ニューラルネットワークと深層学習(和訳)",
     "url": "https://qiita.com/nushio/items/7bc4a32d8e27e8b5b751",
-    "likes_count": 272,
+    "likes_count": 271,
     "created_at": "2014-12-05T14:46:22+09:00",
     "updated_at": "2014-12-05T15:36:14+09:00",
     "id": "nushio"
@@ -760,20 +760,20 @@
     "id": "miku66"
   },
   {
-    "title": "[Swift]APIで取得したJSONをswiftyJSONでパースして、天気情報をUITableViewで表示。お天気アプリを作ってみる。",
-    "url": "https://qiita.com/yoda2020/items/c5432207868fa2d5cfc9",
-    "likes_count": 268,
-    "created_at": "2014-12-28T12:55:54+09:00",
-    "updated_at": "2017-05-09T14:33:02+09:00",
-    "id": "yoda2020"
-  },
-  {
     "title": "AWSでデプロイとスケーリングを自動化する方法まとめ",
     "url": "https://qiita.com/hiro_koba_jp/items/eb438945d64c3d765e04",
     "likes_count": 267,
     "created_at": "2014-12-24T00:00:35+09:00",
     "updated_at": "2014-12-25T11:18:46+09:00",
     "id": "hiro_koba_jp"
+  },
+  {
+    "title": "[Swift]APIで取得したJSONをswiftyJSONでパースして、天気情報をUITableViewで表示。お天気アプリを作ってみる。",
+    "url": "https://qiita.com/yoda2020/items/c5432207868fa2d5cfc9",
+    "likes_count": 267,
+    "created_at": "2014-12-28T12:55:54+09:00",
+    "updated_at": "2017-05-09T14:33:02+09:00",
+    "id": "yoda2020"
   },
   {
     "title": "[iOS]FabricでTwitterクライアントを作った",
@@ -794,7 +794,7 @@
   {
     "title": "MySQLコマンドまとめ",
     "url": "https://qiita.com/merrill/items/967884c02e10bd8f32f5",
-    "likes_count": 198,
+    "likes_count": 199,
     "created_at": "2014-12-09T11:07:47+09:00",
     "updated_at": "2019-11-29T14:14:43+09:00",
     "id": "merrill"
