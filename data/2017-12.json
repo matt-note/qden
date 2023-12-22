@@ -50,7 +50,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1366,
+    "likes_count": 1367,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2020-12-11T10:32:15+09:00",
     "id": "minamijoyo"
@@ -82,7 +82,7 @@
   {
     "title": "EMアルゴリズム徹底解説",
     "url": "https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb",
-    "likes_count": 1101,
+    "likes_count": 1102,
     "created_at": "2017-12-18T19:47:53+09:00",
     "updated_at": "2017-12-31T02:21:02+09:00",
     "id": "kenmatsu4"
@@ -218,7 +218,7 @@
   {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
     "url": "https://qiita.com/bokuweb/items/1575337bef44ae82f4d3",
-    "likes_count": 764,
+    "likes_count": 765,
     "created_at": "2017-12-18T10:54:24+09:00",
     "updated_at": "2020-02-12T11:34:17+09:00",
     "id": "bokuweb"
@@ -250,7 +250,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 732,
+    "likes_count": 733,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -266,7 +266,7 @@
   {
     "title": "CTOのやるべきことは何なのか？（翻訳と考察）",
     "url": "https://qiita.com/takano1222/items/ef897b2156067688f3ae",
-    "likes_count": 699,
+    "likes_count": 698,
     "created_at": "2017-12-09T17:48:32+09:00",
     "updated_at": "2017-12-14T12:41:19+09:00",
     "id": "takano1222"
@@ -442,7 +442,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/tockey/items/021b804b9957fe65e093",
-    "likes_count": 482,
+    "likes_count": 484,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2022-05-16T22:31:37+09:00",
     "id": "tockey"
@@ -474,7 +474,7 @@
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
     "url": "https://qiita.com/kakakaori830/items/52e52d969800de61ce28",
-    "likes_count": 470,
+    "likes_count": 471,
     "created_at": "2017-12-09T16:10:28+09:00",
     "updated_at": "2022-04-12T23:13:51+09:00",
     "id": "kakakaori830"
@@ -538,7 +538,7 @@
   {
     "title": "【随時更新】2018年にReact Nativeを始める人におすすめ26選",
     "url": "https://qiita.com/yutasuzuki/items/046e120eac9b20bed487",
-    "likes_count": 427,
+    "likes_count": 426,
     "created_at": "2017-12-07T11:28:01+09:00",
     "updated_at": "2018-08-23T12:08:51+09:00",
     "id": "yutasuzuki"
@@ -704,6 +704,14 @@
     "id": "seya"
   },
   {
+    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
+    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
+    "likes_count": 322,
+    "created_at": "2017-12-22T11:21:44+09:00",
+    "updated_at": "2023-11-13T19:18:28+09:00",
+    "id": "ffggss"
+  },
+  {
     "title": "関東最速でReact+Redux+TypeScriptなアプリの開発環境を作る",
     "url": "https://qiita.com/IzumiSy/items/b7d8a96eacd2cd8ad510",
     "likes_count": 322,
@@ -718,14 +726,6 @@
     "created_at": "2017-12-22T07:56:52+09:00",
     "updated_at": "2017-12-25T21:00:44+09:00",
     "id": "sawadays0118"
-  },
-  {
-    "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
-    "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
-    "likes_count": 321,
-    "created_at": "2017-12-22T11:21:44+09:00",
-    "updated_at": "2023-11-13T19:18:28+09:00",
-    "id": "ffggss"
   },
   {
     "title": "2017年版 SSH公開鍵認証で使用する秘密鍵ペアの作り方",
