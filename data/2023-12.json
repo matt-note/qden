@@ -2,7 +2,7 @@
   {
     "title": "中途入社や部署異動で来た新メンバーを活躍しづらくするアンチパターン",
     "url": "https://qiita.com/kojimadev/items/06506d374f19493d7e72",
-    "likes_count": 1183,
+    "likes_count": 1186,
     "created_at": "2023-12-04T08:28:33+09:00",
     "updated_at": "2023-12-13T18:19:23+09:00",
     "id": "kojimadev"
@@ -10,7 +10,7 @@
   {
     "title": "【永久保存版】シェルスクリプト完全攻略ガイド",
     "url": "https://qiita.com/osw_nuco/items/a5d7173c1e443030875f",
-    "likes_count": 1135,
+    "likes_count": 1175,
     "created_at": "2023-12-10T08:14:08+09:00",
     "updated_at": "2023-12-14T11:46:53+09:00",
     "id": "osw_nuco"
@@ -18,15 +18,23 @@
   {
     "title": "【11万文字越え】プログラミング初心者に贈る即戦力ガイド",
     "url": "https://qiita.com/nuco_bk/items/27f5ad03d0c4b41241fc",
-    "likes_count": 864,
+    "likes_count": 897,
     "created_at": "2023-12-14T07:50:26+09:00",
     "updated_at": "2023-12-14T09:22:13+09:00",
     "id": "nuco_bk"
   },
   {
+    "title": "なぜエンジニア組織をうまくマネジメントできないと悩む経営者が多いのか？",
+    "url": "https://qiita.com/kunihirotanaka/items/06b4789b60e2e1d5c661",
+    "likes_count": 895,
+    "created_at": "2023-12-17T15:17:14+09:00",
+    "updated_at": "2023-12-22T08:13:55+09:00",
+    "id": "kunihirotanaka"
+  },
+  {
     "title": "【まとめ】大学が公開している有益な資料",
     "url": "https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6",
-    "likes_count": 496,
+    "likes_count": 497,
     "created_at": "2023-12-04T06:57:54+09:00",
     "updated_at": "2023-12-04T06:57:54+09:00",
     "id": "KNR109"
@@ -34,7 +42,7 @@
   {
     "title": "2023年度版フロントエンド開発環境構築徹底解説",
     "url": "https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf",
-    "likes_count": 486,
+    "likes_count": 489,
     "created_at": "2023-12-01T08:27:45+09:00",
     "updated_at": "2023-12-01T15:40:04+09:00",
     "id": "kjm_nuco"
@@ -50,7 +58,7 @@
   {
     "title": "Visual Studio Codeに入れるべき拡張機能【2023年最新版】",
     "url": "https://qiita.com/midiambear/items/f38686bd4d139e0cd46c",
-    "likes_count": 441,
+    "likes_count": 444,
     "created_at": "2023-12-03T11:20:48+09:00",
     "updated_at": "2023-12-03T11:20:48+09:00",
     "id": "midiambear"
@@ -58,23 +66,39 @@
   {
     "title": "【2023年版】ブックマークすべきGitHubリポジトリまとめ",
     "url": "https://qiita.com/KNR109/items/b5dadd056da9b227041b",
-    "likes_count": 436,
+    "likes_count": 438,
     "created_at": "2023-12-10T12:20:03+09:00",
     "updated_at": "2023-12-10T12:20:03+09:00",
     "id": "KNR109"
   },
   {
+    "title": "全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】",
+    "url": "https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3",
+    "likes_count": 438,
+    "created_at": "2023-12-18T06:48:17+09:00",
+    "updated_at": "2023-12-18T18:27:28+09:00",
+    "id": "tadashiro_ninomiya"
+  },
+  {
     "title": "【閲覧注意】イライラ不可避なUIデザイン10選",
     "url": "https://qiita.com/9re-pe/items/0296f8a8c11490efda21",
-    "likes_count": 417,
+    "likes_count": 420,
     "created_at": "2023-12-08T10:24:56+09:00",
     "updated_at": "2023-12-08T10:29:18+09:00",
     "id": "9re-pe"
   },
   {
+    "title": "Docker が俺の Postgres を勝手に全世界に公開しやがって色々怒られた話",
+    "url": "https://qiita.com/isso_719/items/c22e617986c821b2f624",
+    "likes_count": 384,
+    "created_at": "2023-12-21T17:53:07+09:00",
+    "updated_at": "2023-12-22T07:02:59+09:00",
+    "id": "isso_719"
+  },
+  {
     "title": "【エンジニア向け】生産性を上げるチートシートまとめ",
     "url": "https://qiita.com/KNR109/items/0b59c841a7efa567f952",
-    "likes_count": 365,
+    "likes_count": 367,
     "created_at": "2023-12-06T08:38:22+09:00",
     "updated_at": "2023-12-06T08:38:22+09:00",
     "id": "KNR109"
@@ -88,25 +112,25 @@
     "id": "KNR109"
   },
   {
-    "title": "全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】",
-    "url": "https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3",
-    "likes_count": 317,
-    "created_at": "2023-12-18T06:48:17+09:00",
-    "updated_at": "2023-12-18T18:27:28+09:00",
-    "id": "tadashiro_ninomiya"
-  },
-  {
     "title": "Dockerによる開発環境構築のための概念理解と方法解説",
     "url": "https://qiita.com/S4nTo/items/977d28b0eac316915702",
-    "likes_count": 288,
+    "likes_count": 300,
     "created_at": "2023-12-09T09:41:29+09:00",
     "updated_at": "2023-12-20T14:54:23+09:00",
     "id": "S4nTo"
   },
   {
+    "title": "【2023年版 優良ツールまとめ】このツールを使っていないエンジニアは人生を悔い改めよ",
+    "url": "https://qiita.com/kokiiii/items/7d634e3c3b6c096a492b",
+    "likes_count": 241,
+    "created_at": "2023-12-22T07:31:47+09:00",
+    "updated_at": "2023-12-27T01:32:13+09:00",
+    "id": "kokiiii"
+  },
+  {
     "title": "【2023年】モダンフロント学習教材まとめ",
     "url": "https://qiita.com/KNR109/items/3264fff3e73d19af5f9f",
-    "likes_count": 227,
+    "likes_count": 228,
     "created_at": "2023-12-05T08:41:10+09:00",
     "updated_at": "2023-12-05T08:41:10+09:00",
     "id": "KNR109"
@@ -114,7 +138,7 @@
   {
     "title": "使いこなせていますか？Python 組み込み関数全71件 完全解説[2023 最新版]",
     "url": "https://qiita.com/t_aki/items/a5e578aecf8cc20bec31",
-    "likes_count": 210,
+    "likes_count": 211,
     "created_at": "2023-12-05T07:17:35+09:00",
     "updated_at": "2023-12-05T07:17:35+09:00",
     "id": "t_aki"
