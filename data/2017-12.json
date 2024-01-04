@@ -2,7 +2,7 @@
   {
     "title": "イマドキのJavaScriptの書き方2018",
     "url": "https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9",
-    "likes_count": 5632,
+    "likes_count": 5631,
     "created_at": "2017-12-26T14:31:16+09:00",
     "updated_at": "2020-07-26T17:36:53+09:00",
     "id": "shibukawa"
@@ -66,7 +66,7 @@
   {
     "title": "ｶﾀｶﾀｶﾀｯﾀｰﾝを可視化した",
     "url": "https://qiita.com/ampersand/items/3ef94ebe9cba8c07a157",
-    "likes_count": 1159,
+    "likes_count": 1158,
     "created_at": "2017-12-20T18:16:00+09:00",
     "updated_at": "2017-12-27T11:37:39+09:00",
     "id": "ampersand"
@@ -122,7 +122,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 927,
+    "likes_count": 928,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2022-12-27T13:49:39+09:00",
     "id": "hatai"
@@ -178,7 +178,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 839,
+    "likes_count": 840,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -202,7 +202,7 @@
   {
     "title": "半年で40kg痩せた！ダイエットでわかるリーンなプロジェクトマネジメント手法",
     "url": "https://qiita.com/hirokidaichi/items/9422841b5972b3a5664c",
-    "likes_count": 809,
+    "likes_count": 810,
     "created_at": "2017-12-24T23:36:26+09:00",
     "updated_at": "2017-12-25T16:04:16+09:00",
     "id": "hirokidaichi"
@@ -250,7 +250,7 @@
   {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
-    "likes_count": 733,
+    "likes_count": 734,
     "created_at": "2017-12-08T14:15:47+09:00",
     "updated_at": "2019-03-14T16:14:00+09:00",
     "id": "sinsengumi"
@@ -258,7 +258,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 727,
+    "likes_count": 728,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -282,7 +282,7 @@
   {
     "title": "Google Homeでやったことまとめ",
     "url": "https://qiita.com/miso_develop/items/99624915d3d6e41a5fb3",
-    "likes_count": 667,
+    "likes_count": 666,
     "created_at": "2017-12-10T00:00:38+09:00",
     "updated_at": "2017-12-20T10:12:21+09:00",
     "id": "miso_develop"
@@ -442,7 +442,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/tockey/items/021b804b9957fe65e093",
-    "likes_count": 484,
+    "likes_count": 485,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2022-05-16T22:31:37+09:00",
     "id": "tockey"
@@ -578,7 +578,7 @@
   {
     "title": "あのサイトで使われている技術を調べる",
     "url": "https://qiita.com/nightyknite/items/1258eeca403e7d449b5a",
-    "likes_count": 398,
+    "likes_count": 397,
     "created_at": "2017-12-29T18:46:42+09:00",
     "updated_at": "2022-05-24T22:36:42+09:00",
     "id": "nightyknite"
@@ -600,6 +600,14 @@
     "id": "takish"
   },
   {
+    "title": "Django マイグレーション まとめ",
+    "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
+    "likes_count": 380,
+    "created_at": "2017-12-08T16:08:01+09:00",
+    "updated_at": "2017-12-08T16:26:33+09:00",
+    "id": "okoppe8"
+  },
+  {
     "title": "Envoy (Envoy proxy)、Istio とは？",
     "url": "https://qiita.com/seikoudoku2000/items/9d54f910d6f05cbd556d",
     "likes_count": 380,
@@ -614,14 +622,6 @@
     "created_at": "2017-12-16T14:18:53+09:00",
     "updated_at": "2017-12-16T14:19:33+09:00",
     "id": "c5meru"
-  },
-  {
-    "title": "Django マイグレーション まとめ",
-    "url": "https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396",
-    "likes_count": 379,
-    "created_at": "2017-12-08T16:08:01+09:00",
-    "updated_at": "2017-12-08T16:26:33+09:00",
-    "id": "okoppe8"
   },
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
@@ -674,7 +674,7 @@
   {
     "title": "Railsでやってしまいがちな保守性を下げてしまうコードとその解決策",
     "url": "https://qiita.com/h1kita/items/7fdb5d95c883e38c63fc",
-    "likes_count": 351,
+    "likes_count": 350,
     "created_at": "2017-12-13T01:29:31+09:00",
     "updated_at": "2018-08-25T11:45:30+09:00",
     "id": "h1kita"
