@@ -106,7 +106,7 @@
   {
     "title": "Gitコンフリクト解消ガイド（git mergetoolの使い方）",
     "url": "https://qiita.com/yuya_presto/items/5d99499cf96c0ebb09f8",
-    "likes_count": 850,
+    "likes_count": 849,
     "created_at": "2014-02-09T23:58:59+09:00",
     "updated_at": "2014-06-26T12:16:01+09:00",
     "id": "yuya_presto"
@@ -224,14 +224,6 @@
     "id": "nekoe"
   },
   {
-    "title": "JSDoc使い方メモ",
-    "url": "https://qiita.com/opengl-8080/items/a36679f7926f4cac0a81",
-    "likes_count": 483,
-    "created_at": "2014-02-15T21:43:38+09:00",
-    "updated_at": "2014-02-15T21:43:38+09:00",
-    "id": "opengl-8080"
-  },
-  {
     "title": "MacにJava(JDK)をインストール",
     "url": "https://qiita.com/ryo0301/items/3c9a02e03b4e9a41f576",
     "likes_count": 483,
@@ -246,6 +238,14 @@
     "created_at": "2014-02-27T10:44:50+09:00",
     "updated_at": "2018-06-14T15:04:59+09:00",
     "id": "isaac-otao"
+  },
+  {
+    "title": "JSDoc使い方メモ",
+    "url": "https://qiita.com/opengl-8080/items/a36679f7926f4cac0a81",
+    "likes_count": 482,
+    "created_at": "2014-02-15T21:43:38+09:00",
+    "updated_at": "2014-02-15T21:43:38+09:00",
+    "id": "opengl-8080"
   },
   {
     "title": "Python3系 基礎文法",
@@ -306,7 +306,7 @@
   {
     "title": "git commit --allow-empty を使った WIP PR ワークフロー",
     "url": "https://qiita.com/a-suenami/items/129e09f8550f31e4c2da",
-    "likes_count": 391,
+    "likes_count": 390,
     "created_at": "2014-02-19T13:13:21+09:00",
     "updated_at": "2014-02-19T13:13:21+09:00",
     "id": "a-suenami"
