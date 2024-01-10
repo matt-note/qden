@@ -2,7 +2,7 @@
   {
     "title": "不思議の国のSE用語",
     "url": "https://qiita.com/t_nakayama0714/items/478a8ed3a9ae143ad854",
-    "likes_count": 4829,
+    "likes_count": 4830,
     "created_at": "2016-01-08T02:47:09+09:00",
     "updated_at": "2023-05-02T01:32:39+09:00",
     "id": "t_nakayama0714"
@@ -42,10 +42,18 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2757,
+    "likes_count": 2758,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
+  },
+  {
+    "title": "LSTMネットワークの概要",
+    "url": "https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca",
+    "likes_count": 1620,
+    "created_at": "2016-01-08T18:22:20+09:00",
+    "updated_at": "2017-12-11T08:57:51+09:00",
+    "id": "KojiOhki"
   },
   {
     "title": "JavascriptのChromeでのデバッグ方法個人的まとめ2016",
@@ -54,14 +62,6 @@
     "created_at": "2016-01-26T17:09:29+09:00",
     "updated_at": "2016-12-20T22:30:34+09:00",
     "id": "snoguchi"
-  },
-  {
-    "title": "LSTMネットワークの概要",
-    "url": "https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca",
-    "likes_count": 1619,
-    "created_at": "2016-01-08T18:22:20+09:00",
-    "updated_at": "2017-12-11T08:57:51+09:00",
-    "id": "KojiOhki"
   },
   {
     "title": "ディープラーニングの有名ライブラリ5種を最短距離で試す半日コース（TensorFlow, Chainer, Caffe, DeepDream, 画風変換）",
@@ -306,7 +306,7 @@
   {
     "title": "bundle install と bundle updateの違いについて",
     "url": "https://qiita.com/lasershow/items/1a048d03ddaaba98171e",
-    "likes_count": 552,
+    "likes_count": 553,
     "created_at": "2016-01-22T00:25:15+09:00",
     "updated_at": "2016-01-22T00:26:14+09:00",
     "id": "lasershow"
@@ -770,7 +770,7 @@
   {
     "title": "SSLを利用するための自己証明書（オレオレ証明書）の設定メモ",
     "url": "https://qiita.com/clown0082/items/551d7c081ff6b41b1717",
-    "likes_count": 264,
+    "likes_count": 265,
     "created_at": "2016-01-15T00:24:21+09:00",
     "updated_at": "2021-04-28T13:56:36+09:00",
     "id": "clown0082"
