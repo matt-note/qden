@@ -82,7 +82,7 @@
   {
     "title": "ブラウザレンダリングを理解するため簡単にまとめてみた",
     "url": "https://qiita.com/mikimhk/items/7cfbd6c94d0f3d7aa51f",
-    "likes_count": 809,
+    "likes_count": 808,
     "created_at": "2017-09-22T14:41:44+09:00",
     "updated_at": "2019-08-09T12:55:33+09:00",
     "id": "mikimhk"
@@ -112,20 +112,20 @@
     "id": "sugulu_Ogawa_ISID"
   },
   {
-    "title": "エンジニアを名乗るなら、いつでも転職できるようにしておこう",
-    "url": "https://qiita.com/yassai/items/3bdab4bf0c686a51b27a",
-    "likes_count": 701,
-    "created_at": "2017-09-25T12:46:33+09:00",
-    "updated_at": "2017-09-25T12:52:04+09:00",
-    "id": "yassai"
-  },
-  {
     "title": "Vue.jsの書き方実例集(随時追加)※逆引きリファレンス的な",
     "url": "https://qiita.com/alpha_z/items/a0144c34e4edb0777493",
     "likes_count": 700,
     "created_at": "2017-09-02T11:11:59+09:00",
     "updated_at": "2019-01-27T01:33:08+09:00",
     "id": "alpha_z"
+  },
+  {
+    "title": "エンジニアを名乗るなら、いつでも転職できるようにしておこう",
+    "url": "https://qiita.com/yassai/items/3bdab4bf0c686a51b27a",
+    "likes_count": 699,
+    "created_at": "2017-09-25T12:46:33+09:00",
+    "updated_at": "2017-09-25T12:52:04+09:00",
+    "id": "yassai"
   },
   {
     "title": "GitLab CI/CDパイプライン設定リファレンス(日本語訳:GitLab CI/CD Pipeline Configuration Reference)",
@@ -162,7 +162,7 @@
   {
     "title": "初心者向け：Zshの導入",
     "url": "https://qiita.com/iwaseasahi/items/a2b00b65ebd06785b443",
-    "likes_count": 579,
+    "likes_count": 578,
     "created_at": "2017-09-02T12:56:38+09:00",
     "updated_at": "2021-01-23T10:24:13+09:00",
     "id": "iwaseasahi"
@@ -394,18 +394,10 @@
   {
     "title": "Python 3 エンジニア認定基礎試験の勉強法と受験した感想",
     "url": "https://qiita.com/pio2/items/e98480483f7f759710ca",
-    "likes_count": 278,
+    "likes_count": 277,
     "created_at": "2017-09-24T23:34:19+09:00",
     "updated_at": "2021-10-20T16:11:27+09:00",
     "id": "pio2"
-  },
-  {
-    "title": "初心者向け：command not foundを解決する方法",
-    "url": "https://qiita.com/iwaseasahi/items/6e00883ccd0864ede17e",
-    "likes_count": 270,
-    "created_at": "2017-09-04T12:09:46+09:00",
-    "updated_at": "2017-09-04T12:14:27+09:00",
-    "id": "iwaseasahi"
   },
   {
     "title": "MVVMを勉強するときに参考になった 概要まとめ & アンチパターン & リンク集",
@@ -414,6 +406,14 @@
     "created_at": "2017-09-08T13:25:31+09:00",
     "updated_at": "2022-04-05T17:48:00+09:00",
     "id": "ebi-toro"
+  },
+  {
+    "title": "初心者向け：command not foundを解決する方法",
+    "url": "https://qiita.com/iwaseasahi/items/6e00883ccd0864ede17e",
+    "likes_count": 269,
+    "created_at": "2017-09-04T12:09:46+09:00",
+    "updated_at": "2017-09-04T12:14:27+09:00",
+    "id": "iwaseasahi"
   },
   {
     "title": "IT関連技術を効率的に検索する",
