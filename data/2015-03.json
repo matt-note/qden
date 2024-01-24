@@ -18,7 +18,7 @@
   {
     "title": "ターミナルの作業が捗るかもな小技５つ",
     "url": "https://qiita.com/simeji/items/cae94349a2ae02d3204d",
-    "likes_count": 1694,
+    "likes_count": 1693,
     "created_at": "2015-03-23T08:46:55+09:00",
     "updated_at": "2015-09-09T22:42:39+09:00",
     "id": "simeji"
@@ -58,7 +58,7 @@
   {
     "title": "メディアアート系で重要な数式・概念 & p5.jsで遊ぶ",
     "url": "https://qiita.com/hp0me/items/8f43ad146744310664ae",
-    "likes_count": 936,
+    "likes_count": 935,
     "created_at": "2015-03-30T08:24:05+09:00",
     "updated_at": "2015-12-22T13:17:20+09:00",
     "id": "hp0me"
@@ -90,7 +90,7 @@
   {
     "title": "Markdown記法一覧",
     "url": "https://qiita.com/oreo/items/82183bfbaac69971917f",
-    "likes_count": 766,
+    "likes_count": 767,
     "created_at": "2015-03-04T21:00:59+09:00",
     "updated_at": "2022-12-09T17:04:31+09:00",
     "id": "oreo"
@@ -130,7 +130,7 @@
   {
     "title": "React Native ファーストインプレッション",
     "url": "https://qiita.com/naoya@github/items/ecda4d3089902dcbea53",
-    "likes_count": 667,
+    "likes_count": 666,
     "created_at": "2015-03-28T11:09:30+09:00",
     "updated_at": "2015-03-28T12:27:34+09:00",
     "id": "naoya@github"
@@ -186,7 +186,7 @@
   {
     "title": "Git リポジトリに上がっているファイルを履歴ごと消すには？",
     "url": "https://qiita.com/go_astrayer/items/6e39d3ab16ae8094496c",
-    "likes_count": 483,
+    "likes_count": 482,
     "created_at": "2015-03-08T04:42:27+09:00",
     "updated_at": "2016-04-27T22:40:15+09:00",
     "id": "go_astrayer"
@@ -194,7 +194,7 @@
   {
     "title": "最近のjs非同期処理 PromiseとGeneratorの共存",
     "url": "https://qiita.com/kidach1/items/d997df84a0ede39d76ad",
-    "likes_count": 473,
+    "likes_count": 472,
     "created_at": "2015-03-30T09:44:48+09:00",
     "updated_at": "2015-10-21T09:50:51+09:00",
     "id": "kidach1"
@@ -234,7 +234,7 @@
   {
     "title": "isset, empty, is_null の動作まとめ",
     "url": "https://qiita.com/mpyw/items/51bf42fe1ad8a7e535aa",
-    "likes_count": 455,
+    "likes_count": 454,
     "created_at": "2015-03-24T20:11:18+09:00",
     "updated_at": "2016-06-05T12:37:05+09:00",
     "id": "mpyw"
@@ -274,7 +274,7 @@
   {
     "title": "【古い記事】Babelにおける import / export ",
     "url": "https://qiita.com/terrierscript/items/41168a50904242005271",
-    "likes_count": 401,
+    "likes_count": 400,
     "created_at": "2015-03-20T23:31:48+09:00",
     "updated_at": "2016-12-02T18:20:30+09:00",
     "id": "terrierscript"
@@ -322,7 +322,7 @@
   {
     "title": "チャート、グラフを書くのに良さそうなJavascriptライブラリ6選",
     "url": "https://qiita.com/awakia/items/d064c772b759333c209a",
-    "likes_count": 367,
+    "likes_count": 366,
     "created_at": "2015-03-18T17:19:49+09:00",
     "updated_at": "2015-03-18T17:19:49+09:00",
     "id": "awakia"
@@ -378,7 +378,7 @@
   {
     "title": "AWS上のデータベースサービスが沢山あってよくわからないので、整理してまとめてみた",
     "url": "https://qiita.com/iron-breaker/items/48b430e125e7c4ef0fbd",
-    "likes_count": 335,
+    "likes_count": 336,
     "created_at": "2015-03-22T18:54:32+09:00",
     "updated_at": "2015-03-23T12:32:51+09:00",
     "id": "iron-breaker"
@@ -448,20 +448,20 @@
     "id": "umechiki"
   },
   {
-    "title": "JavaScriptでのサロゲートペア文字列のメモ",
-    "url": "https://qiita.com/YusukeHirao/items/2f0fb8d5bbb981101be0",
-    "likes_count": 285,
-    "created_at": "2015-03-14T02:16:31+09:00",
-    "updated_at": "2015-07-07T15:45:17+09:00",
-    "id": "YusukeHirao"
-  },
-  {
     "title": "既存のRailsアプリの検索にElasticSearchを導入してみる",
     "url": "https://qiita.com/moriyaman/items/373107a3870c33229bac",
     "likes_count": 284,
     "created_at": "2015-03-12T12:37:11+09:00",
     "updated_at": "2015-03-12T18:26:31+09:00",
     "id": "moriyaman"
+  },
+  {
+    "title": "JavaScriptでのサロゲートペア文字列のメモ",
+    "url": "https://qiita.com/YusukeHirao/items/2f0fb8d5bbb981101be0",
+    "likes_count": 284,
+    "created_at": "2015-03-14T02:16:31+09:00",
+    "updated_at": "2015-07-07T15:45:17+09:00",
+    "id": "YusukeHirao"
   },
   {
     "title": "Macを使う新人エンジニアに絶対に覚えてもらいたいキーバインド入門",
@@ -474,7 +474,7 @@
   {
     "title": "【PHP】新TwitterOAuthでログイン機能を実装する",
     "url": "https://qiita.com/sofpyon/items/982fe3a9ccebd8702867",
-    "likes_count": 281,
+    "likes_count": 280,
     "created_at": "2015-03-23T18:40:00+09:00",
     "updated_at": "2017-01-03T11:12:58+09:00",
     "id": "sofpyon"

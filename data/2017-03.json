@@ -66,7 +66,7 @@
   {
     "title": "JavaScript,jQueryの爆速コーディング、デバッグ方法論の勧め～実践向け逆引き(windows,chrome向け)～",
     "url": "https://qiita.com/shgkt/items/0054670269e1d3aa49b8",
-    "likes_count": 793,
+    "likes_count": 792,
     "created_at": "2017-03-29T21:09:22+09:00",
     "updated_at": "2017-05-17T17:19:30+09:00",
     "id": "shgkt"
@@ -138,7 +138,7 @@
   {
     "title": "IE11のバグまとめ",
     "url": "https://qiita.com/sawadays0118/items/bd0731878e9eb49c03f5",
-    "likes_count": 609,
+    "likes_count": 608,
     "created_at": "2017-03-10T21:53:34+09:00",
     "updated_at": "2017-05-12T22:11:13+09:00",
     "id": "sawadays0118"
@@ -146,7 +146,7 @@
   {
     "title": "なぜ自然言語処理にとって単語の分散表現は重要なのか？",
     "url": "https://qiita.com/Hironsan/items/a58636f946dd51f670b0",
-    "likes_count": 580,
+    "likes_count": 579,
     "created_at": "2017-03-08T08:34:16+09:00",
     "updated_at": "2017-03-08T20:22:28+09:00",
     "id": "Hironsan"
@@ -170,18 +170,10 @@
   {
     "title": "ディープラーニングでアスキーアートを作る",
     "url": "https://qiita.com/OsciiArt/items/325714d8ab3f2b482ced",
-    "likes_count": 509,
+    "likes_count": 508,
     "created_at": "2017-03-11T23:29:55+09:00",
     "updated_at": "2017-03-13T11:25:25+09:00",
     "id": "OsciiArt"
-  },
-  {
-    "title": "なぜあなたのPull Requestは読まれないのか",
-    "url": "https://qiita.com/SpicyCoffee/items/b580afe3a86fabf61b1c",
-    "likes_count": 469,
-    "created_at": "2017-03-11T19:23:58+09:00",
-    "updated_at": "2017-03-13T12:03:49+09:00",
-    "id": "SpicyCoffee"
   },
   {
     "title": "[Rails]ransackを利用した色々な検索フォーム作成方法まとめ",
@@ -190,6 +182,14 @@
     "created_at": "2017-03-03T01:57:30+09:00",
     "updated_at": "2019-05-13T17:37:00+09:00",
     "id": "nishina555"
+  },
+  {
+    "title": "なぜあなたのPull Requestは読まれないのか",
+    "url": "https://qiita.com/SpicyCoffee/items/b580afe3a86fabf61b1c",
+    "likes_count": 468,
+    "created_at": "2017-03-11T19:23:58+09:00",
+    "updated_at": "2017-03-13T12:03:49+09:00",
+    "id": "SpicyCoffee"
   },
   {
     "title": "実践Pytorch",
@@ -202,7 +202,7 @@
   {
     "title": "初心者向け vimrcの設定方法",
     "url": "https://qiita.com/iwaseasahi/items/0b2da68269397906c14c",
-    "likes_count": 454,
+    "likes_count": 455,
     "created_at": "2017-03-06T22:56:48+09:00",
     "updated_at": "2019-05-15T12:49:56+09:00",
     "id": "iwaseasahi"
@@ -224,20 +224,20 @@
     "id": "kazu04r"
   },
   {
-    "title": "そのベンダープレフィックス、いつまでつけてるの？",
-    "url": "https://qiita.com/amamamaou/items/42197e443134478befaf",
-    "likes_count": 417,
-    "created_at": "2017-03-21T12:14:35+09:00",
-    "updated_at": "2020-01-21T15:20:52+09:00",
-    "id": "amamamaou"
-  },
-  {
     "title": "Dockerfileを書いてみる",
     "url": "https://qiita.com/shin-ch13/items/1de829288db2670276e8",
     "likes_count": 416,
     "created_at": "2017-03-01T22:57:56+09:00",
     "updated_at": "2019-11-19T20:09:29+09:00",
     "id": "shin-ch13"
+  },
+  {
+    "title": "そのベンダープレフィックス、いつまでつけてるの？",
+    "url": "https://qiita.com/amamamaou/items/42197e443134478befaf",
+    "likes_count": 416,
+    "created_at": "2017-03-21T12:14:35+09:00",
+    "updated_at": "2020-01-21T15:20:52+09:00",
+    "id": "amamamaou"
   },
   {
     "title": "[Python] assert文で超お手軽テスト",
@@ -370,7 +370,7 @@
   {
     "title": "CSS3で縦書きにする方法と挙動",
     "url": "https://qiita.com/tsuka-rinorino/items/3e3eaaba8cddb6ff08e9",
-    "likes_count": 296,
+    "likes_count": 295,
     "created_at": "2017-03-08T13:35:31+09:00",
     "updated_at": "2019-07-12T16:59:50+09:00",
     "id": "tsuka-rinorino"
