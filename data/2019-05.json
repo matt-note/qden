@@ -10,7 +10,7 @@
   {
     "title": "数時間で完全理解！わりとゴツいKubernetesハンズオン！！",
     "url": "https://qiita.com/Kta-M/items/ce475c0063d3d3f36d5d",
-    "likes_count": 3077,
+    "likes_count": 3078,
     "created_at": "2019-05-23T07:10:52+09:00",
     "updated_at": "2020-01-31T04:40:34+09:00",
     "id": "Kta-M"
@@ -34,7 +34,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 2206,
+    "likes_count": 2207,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2024-01-11T15:19:25+09:00",
     "id": "nkay"
@@ -42,7 +42,7 @@
   {
     "title": "AWS/Azure/Google Cloudサービス比較 2023.12",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1878,
+    "likes_count": 1879,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2023-12-14T09:10:23+09:00",
     "id": "hayao_k"
@@ -186,7 +186,7 @@
   {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 821,
+    "likes_count": 822,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2022-12-07T10:07:55+09:00",
     "id": "simonritchie"
@@ -248,20 +248,20 @@
     "id": "sadahry"
   },
   {
+    "title": "知識が無いからこそコードレビューで指摘をしよう",
+    "url": "https://qiita.com/teshima/items/4eb1c7c09863e71d5ed0",
+    "likes_count": 711,
+    "created_at": "2019-05-13T17:57:31+09:00",
+    "updated_at": "2019-05-14T13:09:34+09:00",
+    "id": "teshima"
+  },
+  {
     "title": "[2019年5月版] 機械学習・深層学習を学び、トレンドを追うためのリンク150選",
     "url": "https://qiita.com/tomo_makes/items/cd036e2444a938416316",
     "likes_count": 710,
     "created_at": "2019-05-06T22:06:35+09:00",
     "updated_at": "2019-05-11T10:03:57+09:00",
     "id": "tomo_makes"
-  },
-  {
-    "title": "知識が無いからこそコードレビューで指摘をしよう",
-    "url": "https://qiita.com/teshima/items/4eb1c7c09863e71d5ed0",
-    "likes_count": 710,
-    "created_at": "2019-05-13T17:57:31+09:00",
-    "updated_at": "2019-05-14T13:09:34+09:00",
-    "id": "teshima"
   },
   {
     "title": "3歳娘「いつから論理式が真偽値のみを返すと錯覚していた？」",
@@ -274,7 +274,7 @@
   {
     "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
     "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
-    "likes_count": 635,
+    "likes_count": 636,
     "created_at": "2019-05-23T08:28:34+09:00",
     "updated_at": "2021-07-26T23:35:59+09:00",
     "id": "drken"
@@ -402,7 +402,7 @@
   {
     "title": "webサービスの本番サーバーをダウンさせてしまった時に爆速で土下座する方法🙇‍♂️🙇‍♂️💦💦",
     "url": "https://qiita.com/retoruto_carry/items/09e87f45c0192f0819e9",
-    "likes_count": 408,
+    "likes_count": 409,
     "created_at": "2019-05-16T00:11:47+09:00",
     "updated_at": "2019-12-16T17:36:01+09:00",
     "id": "retoruto_carry"
@@ -536,20 +536,20 @@
     "id": "KoyanagiHitoshi"
   },
   {
+    "title": "混同行列(Confusion Matrix) とは 〜 2 値分類の機械学習のクラス分類について",
+    "url": "https://qiita.com/TsutomuNakamura/items/a1a6a02cb9bb0dcbb37f",
+    "likes_count": 315,
+    "created_at": "2019-05-04T08:30:16+09:00",
+    "updated_at": "2019-05-05T09:57:16+09:00",
+    "id": "TsutomuNakamura"
+  },
+  {
     "title": "C++のvectorまとめ",
     "url": "https://qiita.com/ysuzuki19/items/df872d91c9c89cc31aee",
     "likes_count": 314,
     "created_at": "2019-05-02T16:53:51+09:00",
     "updated_at": "2022-03-03T23:25:45+09:00",
     "id": "ysuzuki19"
-  },
-  {
-    "title": "混同行列(Confusion Matrix) とは 〜 2 値分類の機械学習のクラス分類について",
-    "url": "https://qiita.com/TsutomuNakamura/items/a1a6a02cb9bb0dcbb37f",
-    "likes_count": 314,
-    "created_at": "2019-05-04T08:30:16+09:00",
-    "updated_at": "2019-05-05T09:57:16+09:00",
-    "id": "TsutomuNakamura"
   },
   {
     "title": "Vue.jsでファイルアップロードの実装--ついでにプレビュー機能も実装した話--",
