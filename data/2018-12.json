@@ -34,7 +34,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1683,
+    "likes_count": 1684,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -42,7 +42,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1432,
+    "likes_count": 1434,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -58,7 +58,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1380,
+    "likes_count": 1381,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -82,7 +82,7 @@
   {
     "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
     "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 1209,
+    "likes_count": 1211,
     "created_at": "2018-12-10T02:27:41+09:00",
     "updated_at": "2023-03-27T13:58:24+09:00",
     "id": "syantien"
@@ -194,7 +194,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 907,
+    "likes_count": 908,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2021-12-08T08:19:16+09:00",
     "id": "cha84rakanal"
@@ -210,7 +210,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 687,
+    "likes_count": 688,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2021-04-14T00:39:07+09:00",
     "id": "elipmoc101"
@@ -344,20 +344,20 @@
     "id": "shimopino"
   },
   {
+    "title": "スマホ向けサイトをアプリっぽく見せるために半年間頑張ったことをまとめる",
+    "url": "https://qiita.com/sadnessOjisan/items/3b21d27cdab0665c0720",
+    "likes_count": 529,
+    "created_at": "2018-12-20T10:52:45+09:00",
+    "updated_at": "2018-12-22T17:17:16+09:00",
+    "id": "sadnessOjisan"
+  },
+  {
     "title": "ExcelにPythonが搭載？その後 - xlwings を使おう ",
     "url": "https://qiita.com/yniji/items/b38bc312e860027108ac",
     "likes_count": 529,
     "created_at": "2018-12-24T19:58:52+09:00",
     "updated_at": "2019-01-22T16:00:41+09:00",
     "id": "yniji"
-  },
-  {
-    "title": "スマホ向けサイトをアプリっぽく見せるために半年間頑張ったことをまとめる",
-    "url": "https://qiita.com/sadnessOjisan/items/3b21d27cdab0665c0720",
-    "likes_count": 528,
-    "created_at": "2018-12-20T10:52:45+09:00",
-    "updated_at": "2018-12-22T17:17:16+09:00",
-    "id": "sadnessOjisan"
   },
   {
     "title": "積極性と強い問題意識を要求する「振り返り」は、もうたくさん",
@@ -400,20 +400,20 @@
     "id": "koizumittn"
   },
   {
+    "title": "『Microservice Patterns』 まとめ",
+    "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
+    "likes_count": 459,
+    "created_at": "2018-12-07T17:46:26+09:00",
+    "updated_at": "2020-03-18T20:59:40+09:00",
+    "id": "yasuabe2613"
+  },
+  {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
     "likes_count": 459,
     "created_at": "2018-12-21T10:13:58+09:00",
     "updated_at": "2021-01-04T01:36:10+09:00",
     "id": "naokiiiii"
-  },
-  {
-    "title": "『Microservice Patterns』 まとめ",
-    "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 458,
-    "created_at": "2018-12-07T17:46:26+09:00",
-    "updated_at": "2020-03-18T20:59:40+09:00",
-    "id": "yasuabe2613"
   },
   {
     "title": "fmt.Printfなんかこわくない",
@@ -424,20 +424,20 @@
     "id": "rock619"
   },
   {
-    "title": "GCPとDockerでKaggle用計算環境構築",
-    "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
-    "likes_count": 440,
-    "created_at": "2018-12-20T19:03:59+09:00",
-    "updated_at": "2018-12-21T01:51:55+09:00",
-    "id": "lain21"
-  },
-  {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
     "url": "https://qiita.com/po3rin/items/c70105f684e6816621d2",
     "likes_count": 439,
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
+  },
+  {
+    "title": "GCPとDockerでKaggle用計算環境構築",
+    "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
+    "likes_count": 439,
+    "created_at": "2018-12-20T19:03:59+09:00",
+    "updated_at": "2018-12-21T01:51:55+09:00",
+    "id": "lain21"
   },
   {
     "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
@@ -458,7 +458,7 @@
   {
     "title": "Python 割と使うライブラリ集",
     "url": "https://qiita.com/ryuichi1208/items/cb5f850a9811d2a4bc3a",
-    "likes_count": 423,
+    "likes_count": 424,
     "created_at": "2018-12-08T23:10:04+09:00",
     "updated_at": "2019-05-07T00:42:55+09:00",
     "id": "ryuichi1208"
@@ -624,14 +624,6 @@
     "id": "dora56"
   },
   {
-    "title": "JavaScriptの概念たち (後編)",
-    "url": "https://qiita.com/tsin1rou/items/b30885b189a8ec596c72",
-    "likes_count": 350,
-    "created_at": "2018-12-04T02:41:51+09:00",
-    "updated_at": "2018-12-04T13:27:23+09:00",
-    "id": "tsin1rou"
-  },
-  {
     "title": "useEffectフックのしくみ",
     "url": "https://qiita.com/ossan-engineer/items/740425a0df937a47e093",
     "likes_count": 350,
@@ -718,6 +710,14 @@
     "created_at": "2018-12-11T00:00:58+09:00",
     "updated_at": "2019-05-06T12:01:55+09:00",
     "id": "pannpers"
+  },
+  {
+    "title": "エンジニアは実装と戦う前に UI と戦った方が幸せになれる 〜 メンタルモデル駆動開発の TIPS 〜",
+    "url": "https://qiita.com/numanomanu/items/4a3b48528a67b670b463",
+    "likes_count": 299,
+    "created_at": "2018-12-25T12:06:50+09:00",
+    "updated_at": "2018-12-26T13:49:22+09:00",
+    "id": "numanomanu"
   },
   {
     "title": "【学習計画】十週間で知識ゼロからのデータ分析入門",
