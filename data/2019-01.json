@@ -2,7 +2,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -前編-",
     "url": "https://qiita.com/etaroid/items/b1024c7d200a75b992fc",
-    "likes_count": 5597,
+    "likes_count": 5598,
     "created_at": "2019-01-15T23:07:44+09:00",
     "updated_at": "2020-12-18T00:00:46+09:00",
     "id": "etaroid"
@@ -42,7 +42,7 @@
   {
     "title": "【図解】Dockerの全体像を理解する -中編-",
     "url": "https://qiita.com/etaroid/items/88ec3a0e2d80d7cdf87a",
-    "likes_count": 1474,
+    "likes_count": 1473,
     "created_at": "2019-01-20T21:34:55+09:00",
     "updated_at": "2020-12-24T22:13:35+09:00",
     "id": "etaroid"
@@ -106,7 +106,7 @@
   {
     "title": "PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-",
     "url": "https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9",
-    "likes_count": 1040,
+    "likes_count": 1039,
     "created_at": "2019-01-14T18:12:32+09:00",
     "updated_at": "2019-02-01T00:28:11+09:00",
     "id": "Kentaro_okumura"
@@ -138,7 +138,7 @@
   {
     "title": "追伸。そろそろおまえもstationでslackやWebアプリを一括管理をするように。　母より",
     "url": "https://qiita.com/shojimotio/items/77678d55a2d1557f5e68",
-    "likes_count": 899,
+    "likes_count": 898,
     "created_at": "2019-01-08T01:04:33+09:00",
     "updated_at": "2019-01-30T18:35:40+09:00",
     "id": "shojimotio"
@@ -226,7 +226,7 @@
   {
     "title": "仕事で役に立たない！Linuxネタコマンド集",
     "url": "https://qiita.com/ryuichi1208/items/598cb0571a2576ecd0e1",
-    "likes_count": 639,
+    "likes_count": 640,
     "created_at": "2019-01-25T21:00:37+09:00",
     "updated_at": "2022-05-22T11:01:14+09:00",
     "id": "ryuichi1208"
@@ -250,7 +250,7 @@
   {
     "title": "Qiitaやブログのタイトルは自分で考える必要なんてなかったんだ",
     "url": "https://qiita.com/YumaInaura/items/0d8427bfe2d7be476d0d",
-    "likes_count": 590,
+    "likes_count": 589,
     "created_at": "2019-01-10T08:11:02+09:00",
     "updated_at": "2022-08-21T16:32:14+09:00",
     "id": "YumaInaura"
@@ -258,7 +258,7 @@
   {
     "title": "Webフロントエンドでアニメーションを実装する時になにを考えるか",
     "url": "https://qiita.com/seya/items/8ffe954a6342c930b430",
-    "likes_count": 582,
+    "likes_count": 583,
     "created_at": "2019-01-07T09:03:20+09:00",
     "updated_at": "2021-05-09T22:19:15+09:00",
     "id": "seya"
@@ -290,7 +290,7 @@
   {
     "title": "seabornの細かい見た目調整をあきらめない",
     "url": "https://qiita.com/skotaro/items/7fee4dd35c6d42e0ebae",
-    "likes_count": 485,
+    "likes_count": 484,
     "created_at": "2019-01-04T10:01:38+09:00",
     "updated_at": "2019-01-05T07:27:40+09:00",
     "id": "skotaro"
@@ -298,7 +298,7 @@
   {
     "title": "【データ分析】新規データを受領したら最初にすべき10ステップ",
     "url": "https://qiita.com/takubb/items/e18ea4f7c4ecc8be4a5f",
-    "likes_count": 474,
+    "likes_count": 473,
     "created_at": "2019-01-14T11:03:28+09:00",
     "updated_at": "2019-01-14T11:35:28+09:00",
     "id": "takubb"
@@ -344,14 +344,6 @@
     "id": "nowokay"
   },
   {
-    "title": "モデル予測制御（MPC）による軌道追従制御",
-    "url": "https://qiita.com/taka_horibe/items/47f86e02e2db83b0c570",
-    "likes_count": 415,
-    "created_at": "2019-01-18T15:01:48+09:00",
-    "updated_at": "2019-07-03T17:32:25+09:00",
-    "id": "taka_horibe"
-  },
-  {
     "title": "仕事で使えるかも知れないWindows コマンド＆ワンライナー集 + バッチファイル",
     "url": "https://qiita.com/ryuichi1208/items/4bf20f702176101a3ecf",
     "likes_count": 414,
@@ -360,12 +352,12 @@
     "id": "ryuichi1208"
   },
   {
-    "title": "【個人開発】 技術書籍のレビューや「読みたい」を記録するサービスを作った",
-    "url": "https://qiita.com/Yuhsak/items/03967437b8a6438eb625",
-    "likes_count": 412,
-    "created_at": "2019-01-29T07:45:42+09:00",
-    "updated_at": "2019-02-01T15:33:24+09:00",
-    "id": "Yuhsak"
+    "title": "モデル予測制御（MPC）による軌道追従制御",
+    "url": "https://qiita.com/taka_horibe/items/47f86e02e2db83b0c570",
+    "likes_count": 414,
+    "created_at": "2019-01-18T15:01:48+09:00",
+    "updated_at": "2019-07-03T17:32:25+09:00",
+    "id": "taka_horibe"
   },
   {
     "title": "Vimのインサートモードでできること",
@@ -374,6 +366,14 @@
     "created_at": "2019-01-23T23:50:23+09:00",
     "updated_at": "2019-01-25T00:31:06+09:00",
     "id": "gorilla0513"
+  },
+  {
+    "title": "【個人開発】 技術書籍のレビューや「読みたい」を記録するサービスを作った",
+    "url": "https://qiita.com/Yuhsak/items/03967437b8a6438eb625",
+    "likes_count": 411,
+    "created_at": "2019-01-29T07:45:42+09:00",
+    "updated_at": "2019-02-01T15:33:24+09:00",
+    "id": "Yuhsak"
   },
   {
     "title": "AWSサービス一覧（2019/03版）※2022/12/29更新",
@@ -402,7 +402,7 @@
   {
     "title": "AI論文の日本語全訳をスマホでサクサク読める裏技",
     "url": "https://qiita.com/daisuke-team-ai/items/abf5c460f86a35df5136",
-    "likes_count": 351,
+    "likes_count": 350,
     "created_at": "2019-01-03T14:05:42+09:00",
     "updated_at": "2019-01-06T16:38:46+09:00",
     "id": "daisuke-team-ai"
@@ -482,7 +482,7 @@
   {
     "title": "エラー監視には Sentry が超便利！",
     "url": "https://qiita.com/Chanmoro/items/a9cbde57fd6c0926b5b4",
-    "likes_count": 307,
+    "likes_count": 308,
     "created_at": "2019-01-10T17:39:12+09:00",
     "updated_at": "2019-01-10T22:11:56+09:00",
     "id": "Chanmoro"
@@ -562,7 +562,7 @@
   {
     "title": "【AI】機械学習の勉強に役に立つサイト",
     "url": "https://qiita.com/Raphael_de_murl/items/ce461e181fe127a05a6e",
-    "likes_count": 171,
+    "likes_count": 170,
     "created_at": "2019-01-22T13:49:09+09:00",
     "updated_at": "2019-03-05T14:18:27+09:00",
     "id": "Raphael_de_murl"

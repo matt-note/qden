@@ -2,7 +2,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 3216,
+    "likes_count": 3215,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2020-02-11T18:07:22+09:00",
     "id": "jesus_isao"
@@ -18,7 +18,7 @@
   {
     "title": "Vue.jsを100時間勉強して分かったこと",
     "url": "https://qiita.com/kskinaba/items/3e8887d45b11f9132012",
-    "likes_count": 2357,
+    "likes_count": 2359,
     "created_at": "2019-05-16T18:44:50+09:00",
     "updated_at": "2020-07-01T08:46:20+09:00",
     "id": "kskinaba"
@@ -42,7 +42,7 @@
   {
     "title": "AWS/Azure/Google Cloudサービス比較 2023.12",
     "url": "https://qiita.com/hayao_k/items/906ac1fba9e239e08ae8",
-    "likes_count": 1889,
+    "likes_count": 1888,
     "created_at": "2019-05-14T07:57:00+09:00",
     "updated_at": "2023-12-14T09:10:23+09:00",
     "id": "hayao_k"
@@ -74,7 +74,7 @@
   {
     "title": "Ricty を神フォントだと崇める僕が、フリーライセンスのプログラミングフォント「白源」を作った話",
     "url": "https://qiita.com/tawara_/items/374f3ca0a386fab8b305",
-    "likes_count": 1546,
+    "likes_count": 1545,
     "created_at": "2019-05-21T13:54:46+09:00",
     "updated_at": "2023-02-08T18:24:04+09:00",
     "id": "tawara_"
@@ -90,7 +90,7 @@
   {
     "title": "文科省のPythonはPythonじゃねぇ",
     "url": "https://qiita.com/nagataaaas/items/ba33c4c4e0df0b5aa0c4",
-    "likes_count": 1297,
+    "likes_count": 1296,
     "created_at": "2019-05-20T16:58:10+09:00",
     "updated_at": "2022-10-16T15:48:26+09:00",
     "id": "nagataaaas"
@@ -130,7 +130,7 @@
   {
     "title": "レガシープロジェクトを引き継いだ時、最初にするべき７つのこと",
     "url": "https://qiita.com/tonluqclml/items/a7ed2f94225ef8a37b8b",
-    "likes_count": 1051,
+    "likes_count": 1050,
     "created_at": "2019-05-23T11:37:59+09:00",
     "updated_at": "2023-12-25T00:44:59+09:00",
     "id": "tonluqclml"
@@ -266,7 +266,7 @@
   {
     "title": "3歳娘「いつから論理式が真偽値のみを返すと錯覚していた？」",
     "url": "https://qiita.com/Yametaro/items/17f9b2baa67440b8664a",
-    "likes_count": 676,
+    "likes_count": 675,
     "created_at": "2019-05-02T18:58:53+09:00",
     "updated_at": "2019-05-14T17:30:08+09:00",
     "id": "Yametaro"
@@ -274,7 +274,7 @@
   {
     "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
     "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
-    "likes_count": 639,
+    "likes_count": 638,
     "created_at": "2019-05-23T08:28:34+09:00",
     "updated_at": "2021-07-26T23:35:59+09:00",
     "id": "drken"
@@ -282,7 +282,7 @@
   {
     "title": "【2019年】データ分析・可視化に本気でおすすめのツール30選（ノーコード型ツール含め）",
     "url": "https://qiita.com/keisuuuuke/items/e7b5cc6a5db04f2c8d5c",
-    "likes_count": 612,
+    "likes_count": 611,
     "created_at": "2019-05-09T12:36:29+09:00",
     "updated_at": "2019-09-30T16:14:45+09:00",
     "id": "keisuuuuke"
@@ -384,20 +384,20 @@
     "id": "gold-kou"
   },
   {
-    "title": "たぶん知らないPythonマイナー文法の世界",
-    "url": "https://qiita.com/kotauchisunsun/items/8cf50c33a8c8e1ab5452",
-    "likes_count": 423,
-    "created_at": "2019-05-26T15:36:01+09:00",
-    "updated_at": "2019-05-26T15:36:01+09:00",
-    "id": "kotauchisunsun"
-  },
-  {
     "title": "競技プログラミングで使う有名グラフアルゴリズムまとめ",
     "url": "https://qiita.com/kazukazukazukazu/items/e5db00a3aefb1f5ed72f",
     "likes_count": 422,
     "created_at": "2019-05-05T09:10:53+09:00",
     "updated_at": "2019-07-11T17:47:24+09:00",
     "id": "kazukazukazukazu"
+  },
+  {
+    "title": "たぶん知らないPythonマイナー文法の世界",
+    "url": "https://qiita.com/kotauchisunsun/items/8cf50c33a8c8e1ab5452",
+    "likes_count": 422,
+    "created_at": "2019-05-26T15:36:01+09:00",
+    "updated_at": "2019-05-26T15:36:01+09:00",
+    "id": "kotauchisunsun"
   },
   {
     "title": "webサービスの本番サーバーをダウンさせてしまった時に爆速で土下座する方法🙇‍♂️🙇‍♂️💦💦",
@@ -414,14 +414,6 @@
     "created_at": "2019-05-04T18:42:19+09:00",
     "updated_at": "2020-02-14T00:38:47+09:00",
     "id": "muroya2355"
-  },
-  {
-    "title": "VSCode公式の機能で、リモートサーバにSSHして編集する【Insiders Preview】",
-    "url": "https://qiita.com/suzuki_sh/items/245b9817536eba808842",
-    "likes_count": 391,
-    "created_at": "2019-05-03T13:48:08+09:00",
-    "updated_at": "2019-05-12T13:31:50+09:00",
-    "id": "suzuki_sh"
   },
   {
     "title": "WSL (Windows Subsystem for Linux)の基本メモ",
@@ -448,6 +440,14 @@
     "id": "tatane616"
   },
   {
+    "title": "VSCode公式の機能で、リモートサーバにSSHして編集する【Insiders Preview】",
+    "url": "https://qiita.com/suzuki_sh/items/245b9817536eba808842",
+    "likes_count": 390,
+    "created_at": "2019-05-03T13:48:08+09:00",
+    "updated_at": "2019-05-12T13:31:50+09:00",
+    "id": "suzuki_sh"
+  },
+  {
     "title": "今度こそわかるぞRNN, LSTM編",
     "url": "https://qiita.com/kazukiii/items/df809d6cd5d7d1f57be3",
     "likes_count": 369,
@@ -472,20 +472,20 @@
     "id": "jnchito"
   },
   {
-    "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
-    "url": "https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd",
-    "likes_count": 361,
-    "created_at": "2019-05-08T10:02:28+09:00",
-    "updated_at": "2019-05-08T10:11:41+09:00",
-    "id": "sadnessOjisan"
-  },
-  {
     "title": "モダン JavaScript プログラミングを始めるために知っておきたい技術セット",
     "url": "https://qiita.com/Go-Noji/items/25a30b8cadef86abc2b0",
     "likes_count": 361,
     "created_at": "2019-05-24T02:31:22+09:00",
     "updated_at": "2020-01-27T18:26:31+09:00",
     "id": "Go-Noji"
+  },
+  {
+    "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
+    "url": "https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd",
+    "likes_count": 360,
+    "created_at": "2019-05-08T10:02:28+09:00",
+    "updated_at": "2019-05-08T10:11:41+09:00",
+    "id": "sadnessOjisan"
   },
   {
     "title": "5時間でWebサービスをローンチするためにした７つのこと",
@@ -562,7 +562,7 @@
   {
     "title": "まだVSCode拡張機能探しで消耗してるの？　VSCodeの拡張機能は意外と簡単につくれるよ！！",
     "url": "https://qiita.com/delmontz/items/abd075eacb1302fc184c",
-    "likes_count": 312,
+    "likes_count": 311,
     "created_at": "2019-05-20T11:17:57+09:00",
     "updated_at": "2019-05-20T11:17:57+09:00",
     "id": "delmontz"

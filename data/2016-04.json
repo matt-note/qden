@@ -10,7 +10,7 @@
   {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
-    "likes_count": 2618,
+    "likes_count": 2619,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
@@ -50,7 +50,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1842,
+    "likes_count": 1843,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2024-02-08T10:39:21+09:00",
     "id": "TakahiRoyte"
@@ -224,14 +224,6 @@
     "id": "sion_cojp"
   },
   {
-    "title": "Linux screenコマンド使い方",
-    "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
-    "likes_count": 667,
-    "created_at": "2016-04-06T08:44:32+09:00",
-    "updated_at": "2023-01-12T21:01:14+09:00",
-    "id": "hnishi"
-  },
-  {
     "title": "Visual Studio Code チートシート",
     "url": "https://qiita.com/aoinu/items/681f932ce0b162cd9520",
     "likes_count": 667,
@@ -246,6 +238,14 @@
     "created_at": "2016-04-28T17:36:36+09:00",
     "updated_at": "2016-05-13T12:43:26+09:00",
     "id": "yuya_presto"
+  },
+  {
+    "title": "Linux screenコマンド使い方",
+    "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
+    "likes_count": 666,
+    "created_at": "2016-04-06T08:44:32+09:00",
+    "updated_at": "2023-01-12T21:01:14+09:00",
+    "id": "hnishi"
   },
   {
     "title": "Markdown風テキストでダイアグラムが描けるWebツール",
@@ -576,20 +576,20 @@
     "id": "takuya0301"
   },
   {
+    "title": "SQLでグループごとにある最大値の行を取得する",
+    "url": "https://qiita.com/nogitsune413/items/f413268d01b4ea2394b1",
+    "likes_count": 325,
+    "created_at": "2016-04-03T14:18:11+09:00",
+    "updated_at": "2018-03-26T20:55:38+09:00",
+    "id": "nogitsune413"
+  },
+  {
     "title": "機械学習のライブラリ dlib",
     "url": "https://qiita.com/nonbiri15/items/9561c8194ba0b2041bd0",
     "likes_count": 325,
     "created_at": "2016-04-09T23:32:44+09:00",
     "updated_at": "2023-09-24T23:30:22+09:00",
     "id": "nonbiri15"
-  },
-  {
-    "title": "SQLでグループごとにある最大値の行を取得する",
-    "url": "https://qiita.com/nogitsune413/items/f413268d01b4ea2394b1",
-    "likes_count": 324,
-    "created_at": "2016-04-03T14:18:11+09:00",
-    "updated_at": "2018-03-26T20:55:38+09:00",
-    "id": "nogitsune413"
   },
   {
     "title": "【シェル芸人への道】Bash on Windowsを探検する",
@@ -610,7 +610,7 @@
   {
     "title": "最初に押さえておきたいKotlin言語仕様",
     "url": "https://qiita.com/ssuzaki/items/0ab14379e2d30e807e9a",
-    "likes_count": 311,
+    "likes_count": 310,
     "created_at": "2016-04-06T14:10:08+09:00",
     "updated_at": "2022-12-06T15:57:39+09:00",
     "id": "ssuzaki"
