@@ -34,7 +34,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 2215,
+    "likes_count": 2216,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2024-01-11T15:19:25+09:00",
     "id": "nkay"
@@ -114,7 +114,7 @@
   {
     "title": "敗北者のTypeScript",
     "url": "https://qiita.com/uhyo/items/aae57ba0734e36ee846a",
-    "likes_count": 1172,
+    "likes_count": 1173,
     "created_at": "2019-05-12T17:40:10+09:00",
     "updated_at": "2020-05-15T12:52:28+09:00",
     "id": "uhyo"
@@ -162,7 +162,7 @@
   {
     "title": "JavaScriptでの賢いconsole.log( )の使い方 & その他便利なconsole.xxx( )使い方まとめ (dir・table・warn・groupとか)",
     "url": "https://qiita.com/mtoyopet/items/7274761af5424cee342a",
-    "likes_count": 871,
+    "likes_count": 872,
     "created_at": "2019-05-17T22:16:39+09:00",
     "updated_at": "2019-08-15T13:32:06+09:00",
     "id": "mtoyopet"
@@ -186,7 +186,7 @@
   {
     "title": "Pythonの並列処理・並行処理をしっかり調べてみた",
     "url": "https://qiita.com/simonritchie/items/1ce3914eb5444d2157ac",
-    "likes_count": 824,
+    "likes_count": 825,
     "created_at": "2019-05-13T00:46:21+09:00",
     "updated_at": "2022-12-07T10:07:55+09:00",
     "id": "simonritchie"
@@ -400,20 +400,20 @@
     "id": "kotauchisunsun"
   },
   {
+    "title": "[解説] SQLクエリのN+1問題",
+    "url": "https://qiita.com/muroya2355/items/d4eecbe722a8ddb2568b",
+    "likes_count": 409,
+    "created_at": "2019-05-04T18:42:19+09:00",
+    "updated_at": "2020-02-14T00:38:47+09:00",
+    "id": "muroya2355"
+  },
+  {
     "title": "webサービスの本番サーバーをダウンさせてしまった時に爆速で土下座する方法🙇‍♂️🙇‍♂️💦💦",
     "url": "https://qiita.com/retoruto_carry/items/09e87f45c0192f0819e9",
     "likes_count": 409,
     "created_at": "2019-05-16T00:11:47+09:00",
     "updated_at": "2019-12-16T17:36:01+09:00",
     "id": "retoruto_carry"
-  },
-  {
-    "title": "[解説] SQLクエリのN+1問題",
-    "url": "https://qiita.com/muroya2355/items/d4eecbe722a8ddb2568b",
-    "likes_count": 408,
-    "created_at": "2019-05-04T18:42:19+09:00",
-    "updated_at": "2020-02-14T00:38:47+09:00",
-    "id": "muroya2355"
   },
   {
     "title": "アーキテクチャの「なぜ？」を記録する！ADRってなんぞや？",
@@ -520,20 +520,20 @@
     "id": "hoto17296"
   },
   {
+    "title": "C++のvectorまとめ",
+    "url": "https://qiita.com/ysuzuki19/items/df872d91c9c89cc31aee",
+    "likes_count": 321,
+    "created_at": "2019-05-02T16:53:51+09:00",
+    "updated_at": "2022-03-03T23:25:45+09:00",
+    "id": "ysuzuki19"
+  },
+  {
     "title": "アニメーションで学ぶtmux入門 ～精選10機能～",
     "url": "https://qiita.com/KoyanagiHitoshi/items/318d4b8ef3b4e5b87390",
     "likes_count": 321,
     "created_at": "2019-05-23T08:00:12+09:00",
     "updated_at": "2023-03-25T00:35:06+09:00",
     "id": "KoyanagiHitoshi"
-  },
-  {
-    "title": "C++のvectorまとめ",
-    "url": "https://qiita.com/ysuzuki19/items/df872d91c9c89cc31aee",
-    "likes_count": 320,
-    "created_at": "2019-05-02T16:53:51+09:00",
-    "updated_at": "2022-03-03T23:25:45+09:00",
-    "id": "ysuzuki19"
   },
   {
     "title": "[Python]爆速で報告パワポを生成する！",
@@ -546,7 +546,7 @@
   {
     "title": "混同行列(Confusion Matrix) とは 〜 2 値分類の機械学習のクラス分類について",
     "url": "https://qiita.com/TsutomuNakamura/items/a1a6a02cb9bb0dcbb37f",
-    "likes_count": 316,
+    "likes_count": 317,
     "created_at": "2019-05-04T08:30:16+09:00",
     "updated_at": "2019-05-05T09:57:16+09:00",
     "id": "TsutomuNakamura"
