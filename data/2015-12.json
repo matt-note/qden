@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 4370,
+    "likes_count": 4369,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -10,7 +10,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 3119,
+    "likes_count": 3120,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2021-11-15T07:10:13+09:00",
     "id": "yasuhiroki"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 3056,
+    "likes_count": 3055,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -58,7 +58,7 @@
   {
     "title": "Django REST Frameworkを使って爆速でAPIを実装する",
     "url": "https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8",
-    "likes_count": 1735,
+    "likes_count": 1736,
     "created_at": "2015-12-14T00:01:11+09:00",
     "updated_at": "2019-12-13T12:07:35+09:00",
     "id": "kimihiro_n"
@@ -282,7 +282,7 @@
   {
     "title": "気をつけて！Git for Windowsにおける改行コード",
     "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 685,
+    "likes_count": 686,
     "created_at": "2015-12-25T23:01:51+09:00",
     "updated_at": "2018-12-11T08:34:12+09:00",
     "id": "uggds"
@@ -432,20 +432,20 @@
     "id": "_EnumHack"
   },
   {
-    "title": "GitHub にパスワードとかセンシティブなファイルを push してしまったときの対処法",
-    "url": "https://qiita.com/dtan4/items/34e41e3bd40a43fd8cbf",
-    "likes_count": 455,
-    "created_at": "2015-12-19T23:39:47+09:00",
-    "updated_at": "2015-12-30T15:13:06+09:00",
-    "id": "dtan4"
-  },
-  {
     "title": "C言語を使うならMakeを使おうよ",
     "url": "https://qiita.com/j8takagi/items/74232a00cc33623f7844",
     "likes_count": 455,
     "created_at": "2015-12-23T00:03:46+09:00",
     "updated_at": "2018-07-31T15:01:01+09:00",
     "id": "j8takagi"
+  },
+  {
+    "title": "GitHub にパスワードとかセンシティブなファイルを push してしまったときの対処法",
+    "url": "https://qiita.com/dtan4/items/34e41e3bd40a43fd8cbf",
+    "likes_count": 454,
+    "created_at": "2015-12-19T23:39:47+09:00",
+    "updated_at": "2015-12-30T15:13:06+09:00",
+    "id": "dtan4"
   },
   {
     "title": "Swift 4.0 エラー処理入門",
@@ -784,19 +784,19 @@
     "id": "wrist"
   },
   {
+    "title": "Visual StudioユーザーがReleaseビルドをするときに必ずやってほしい2つの設定",
+    "url": "https://qiita.com/lainzero/items/27681ddc96638e33758b",
+    "likes_count": 261,
+    "created_at": "2015-12-30T00:47:13+09:00",
+    "updated_at": "2015-12-30T00:48:59+09:00",
+    "id": "lainzero"
+  },
+  {
     "title": "Node.jsの「構築事例」、そして「向いていること」と「向いてないこと」",
     "url": "https://qiita.com/twipg/items/bc972aa3ab56b18a71fe",
     "likes_count": 260,
     "created_at": "2015-12-13T13:37:16+09:00",
     "updated_at": "2015-12-15T12:20:35+09:00",
     "id": "twipg"
-  },
-  {
-    "title": "Visual StudioユーザーがReleaseビルドをするときに必ずやってほしい2つの設定",
-    "url": "https://qiita.com/lainzero/items/27681ddc96638e33758b",
-    "likes_count": 260,
-    "created_at": "2015-12-30T00:47:13+09:00",
-    "updated_at": "2015-12-30T00:48:59+09:00",
-    "id": "lainzero"
   }
 ]
