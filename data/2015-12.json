@@ -144,14 +144,6 @@
     "id": "mattya"
   },
   {
-    "title": "プログラマ向けニュースキュレーションサービスを作ってみた話",
-    "url": "https://qiita.com/ytanaka/items/a0144b623a8dd7fcdbbe",
-    "likes_count": 1153,
-    "created_at": "2015-12-10T02:05:22+09:00",
-    "updated_at": "2018-10-10T19:54:46+09:00",
-    "id": "ytanaka"
-  },
-  {
     "title": "スタートアップはお金を払ってでも使うべきプロダクト14選",
     "url": "https://qiita.com/kou/items/2be212ed38e3d1bb4473",
     "likes_count": 1131,
@@ -194,7 +186,7 @@
   {
     "title": "分岐アンチパターン",
     "url": "https://qiita.com/pakkun/items/9bef9132f168ba0befd7",
-    "likes_count": 886,
+    "likes_count": 887,
     "created_at": "2015-12-10T12:30:39+09:00",
     "updated_at": "2019-02-01T14:07:23+09:00",
     "id": "pakkun"
@@ -402,7 +394,7 @@
   {
     "title": "ライブラリーを使わずにPythonでニューラルネットワークを構築してみる",
     "url": "https://qiita.com/kiminaka/items/9ae195739093277490fe",
-    "likes_count": 486,
+    "likes_count": 485,
     "created_at": "2015-12-31T18:07:58+09:00",
     "updated_at": "2016-07-31T01:50:14+09:00",
     "id": "kiminaka"
@@ -798,5 +790,13 @@
     "created_at": "2015-12-13T13:37:16+09:00",
     "updated_at": "2015-12-15T12:20:35+09:00",
     "id": "twipg"
+  },
+  {
+    "title": "Google Apps Scriptでクレジットカード利用明細を毎月自動で奥さんにメール送信する",
+    "url": "https://qiita.com/takeruko/items/5fed0f7acc1a60d1df76",
+    "likes_count": 228,
+    "created_at": "2015-12-12T02:56:46+09:00",
+    "updated_at": "2015-12-12T13:05:25+09:00",
+    "id": "takeruko"
   }
 ]
