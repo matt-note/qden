@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 6038,
+    "likes_count": 6041,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2023-10-03T23:41:43+09:00",
     "id": "jabba"
@@ -42,7 +42,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2125,
+    "likes_count": 2126,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -129,11 +129,11 @@
   },
   {
     "title": "学生でもできる！Webサービスの開発・リリースするまでの道のり",
-    "url": "https://qiita.com/minakawa-daiki/items/1d7b840c0850ec7c834c",
+    "url": "https://qiita.com/niwatoliver/items/1d7b840c0850ec7c834c",
     "likes_count": 924,
     "created_at": "2018-05-05T19:32:23+09:00",
     "updated_at": "2018-05-06T16:16:51+09:00",
-    "id": "minakawa-daiki"
+    "id": "niwatoliver"
   },
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
@@ -146,7 +146,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 880,
+    "likes_count": 881,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -170,7 +170,7 @@
   {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 843,
+    "likes_count": 844,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
@@ -194,7 +194,7 @@
   {
     "title": "docker と docker-compose の初歩",
     "url": "https://qiita.com/hiyuzawa/items/81490020568417d85e86",
-    "likes_count": 746,
+    "likes_count": 747,
     "created_at": "2018-05-26T16:12:48+09:00",
     "updated_at": "2021-08-18T14:03:43+09:00",
     "id": "hiyuzawa"
@@ -202,7 +202,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 742,
+    "likes_count": 743,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -242,7 +242,7 @@
   {
     "title": "Webブラウザの作り方",
     "url": "https://qiita.com/uint256_t/items/01308b46ea839ba4a919",
-    "likes_count": 707,
+    "likes_count": 708,
     "created_at": "2018-05-13T18:38:55+09:00",
     "updated_at": "2018-05-17T19:49:14+09:00",
     "id": "uint256_t"
@@ -274,7 +274,7 @@
   {
     "title": "API開発・テスト便利ツール Postmanの使い方メモ",
     "url": "https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1",
-    "likes_count": 616,
+    "likes_count": 617,
     "created_at": "2018-05-10T05:45:31+09:00",
     "updated_at": "2018-05-10T11:28:33+09:00",
     "id": "zaburo"
@@ -296,20 +296,20 @@
     "id": "JotaroS"
   },
   {
+    "title": "SSH公開鍵認証で接続するまで",
+    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
+    "likes_count": 604,
+    "created_at": "2018-05-06T12:00:20+09:00",
+    "updated_at": "2021-08-15T21:26:32+09:00",
+    "id": "kazokmr"
+  },
+  {
     "title": "結局、機械学習と統計学は何が違うのか？",
     "url": "https://qiita.com/KanNishida/items/8ab8553b17cb57e772d6",
     "likes_count": 604,
     "created_at": "2018-05-07T15:47:30+09:00",
     "updated_at": "2018-05-08T03:19:12+09:00",
     "id": "KanNishida"
-  },
-  {
-    "title": "SSH公開鍵認証で接続するまで",
-    "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 603,
-    "created_at": "2018-05-06T12:00:20+09:00",
-    "updated_at": "2021-08-15T21:26:32+09:00",
-    "id": "kazokmr"
   },
   {
     "title": "名刺の代わりにCLIアプリを書く",
@@ -321,11 +321,11 @@
   },
   {
     "title": "皆さんはどんな方法で情報収集してますか？私はこんな感じです。",
-    "url": "https://qiita.com/minakawa-daiki/items/edfc3d1ff1270756b52a",
+    "url": "https://qiita.com/niwatoliver/items/edfc3d1ff1270756b52a",
     "likes_count": 576,
     "created_at": "2018-05-11T11:20:01+09:00",
     "updated_at": "2018-05-11T13:53:49+09:00",
-    "id": "minakawa-daiki"
+    "id": "niwatoliver"
   },
   {
     "title": "【退職】履歴書をGit管理したかってん【しました】",
@@ -634,7 +634,7 @@
   {
     "title": "「近代化Redmine」ことOpenProjectでスクラム開発のプロジェクト管理",
     "url": "https://qiita.com/terukizm/items/c94f06a40be55f65d4f9",
-    "likes_count": 265,
+    "likes_count": 266,
     "created_at": "2018-05-04T17:49:47+09:00",
     "updated_at": "2018-05-04T18:07:26+09:00",
     "id": "terukizm"
