@@ -10,7 +10,7 @@
   {
     "title": "大手Webサービスがクライアント側で発生したJavaScriptのエラーをどう収集しているのか まとめ",
     "url": "https://qiita.com/grapswiz/items/4e97968f3d3df97a4c76",
-    "likes_count": 1298,
+    "likes_count": 1297,
     "created_at": "2014-08-29T00:47:02+09:00",
     "updated_at": "2014-08-29T12:23:04+09:00",
     "id": "grapswiz"
@@ -18,7 +18,7 @@
   {
     "title": "Rubyで%記法（パーセント記法）を使う",
     "url": "https://qiita.com/mogulla3/items/46bb876391be07921743",
-    "likes_count": 1270,
+    "likes_count": 1269,
     "created_at": "2014-08-23T23:49:39+09:00",
     "updated_at": "2014-08-23T23:50:26+09:00",
     "id": "mogulla3"
@@ -50,7 +50,7 @@
   {
     "title": "Haskell 超入門",
     "url": "https://qiita.com/7shi/items/145f1234f8ec2af923ef",
-    "likes_count": 1224,
+    "likes_count": 1223,
     "created_at": "2014-08-20T15:02:12+09:00",
     "updated_at": "2020-10-10T17:26:29+09:00",
     "id": "7shi"
@@ -74,7 +74,7 @@
   {
     "title": "インタフェースの実装パターン #golang",
     "url": "https://qiita.com/tenntenn/items/eac962a49c56b2b15ee8",
-    "likes_count": 1088,
+    "likes_count": 1089,
     "created_at": "2014-08-04T11:07:54+09:00",
     "updated_at": "2017-12-03T12:00:41+09:00",
     "id": "tenntenn"
@@ -114,7 +114,7 @@
   {
     "title": "Mac へ MySQL を Homebrew でインストールする手順",
     "url": "https://qiita.com/hkusu/items/cda3e8461e7a46ecf25d",
-    "likes_count": 864,
+    "likes_count": 863,
     "created_at": "2014-08-09T19:19:05+09:00",
     "updated_at": "2016-08-05T16:37:35+09:00",
     "id": "hkusu"
@@ -242,7 +242,7 @@
   {
     "title": "Fluentdの設定を考えるときはこんなかんじで考えると便利",
     "url": "https://qiita.com/harukasan/items/0e69f5c17f12db7b2e98",
-    "likes_count": 608,
+    "likes_count": 609,
     "created_at": "2014-08-15T13:06:10+09:00",
     "updated_at": "2014-08-15T13:12:03+09:00",
     "id": "harukasan"
@@ -250,7 +250,7 @@
   {
     "title": "システム設計の流れ",
     "url": "https://qiita.com/mikakane/items/b8045a11dba8d08e5fe4",
-    "likes_count": 598,
+    "likes_count": 597,
     "created_at": "2014-08-30T19:34:43+09:00",
     "updated_at": "2014-08-30T19:34:43+09:00",
     "id": "mikakane"
@@ -298,7 +298,7 @@
   {
     "title": "SSH で Permission Denied となる傾向と対策",
     "url": "https://qiita.com/youcune/items/2f427979403771f2e03a",
-    "likes_count": 495,
+    "likes_count": 494,
     "created_at": "2014-08-31T11:34:28+09:00",
     "updated_at": "2015-02-27T12:14:33+09:00",
     "id": "youcune"
@@ -328,20 +328,20 @@
     "id": "nextfactory"
   },
   {
+    "title": "15分でわかる かんたんオブジェクト指向",
+    "url": "https://qiita.com/koher/items/6878c80014992900add7",
+    "likes_count": 438,
+    "created_at": "2014-08-22T10:29:57+09:00",
+    "updated_at": "2020-04-26T03:40:02+09:00",
+    "id": "koher"
+  },
+  {
     "title": "VirtualBox (Windows) 上に CentOS 7 をインストールする",
     "url": "https://qiita.com/100/items/80a899fbaeb1e82b3f67",
     "likes_count": 437,
     "created_at": "2014-08-21T17:45:51+09:00",
     "updated_at": "2016-01-08T18:50:14+09:00",
     "id": "100"
-  },
-  {
-    "title": "15分でわかる かんたんオブジェクト指向",
-    "url": "https://qiita.com/koher/items/6878c80014992900add7",
-    "likes_count": 437,
-    "created_at": "2014-08-22T10:29:57+09:00",
-    "updated_at": "2020-04-26T03:40:02+09:00",
-    "id": "koher"
   },
   {
     "title": "Spring Data JPA でのクエリー実装方法まとめ",
@@ -370,7 +370,7 @@
   {
     "title": "RailsにDevise+OmniAuthでユーザ認証を実装する手順",
     "url": "https://qiita.com/zenizh/items/94aec2d94a2b4e9a1d0b",
-    "likes_count": 427,
+    "likes_count": 426,
     "created_at": "2014-08-31T00:56:27+09:00",
     "updated_at": "2020-07-28T11:01:20+09:00",
     "id": "zenizh"
@@ -392,6 +392,14 @@
     "id": "iwata@github"
   },
   {
+    "title": "powershell チートシート",
+    "url": "https://qiita.com/jca02266/items/a0c71ae90d055ab3893c",
+    "likes_count": 405,
+    "created_at": "2014-08-05T23:14:58+09:00",
+    "updated_at": "2021-02-01T16:51:52+09:00",
+    "id": "jca02266"
+  },
+  {
     "title": "シェルを再起動させる簡単な方法",
     "url": "https://qiita.com/takaesu_ug/items/c4de582c6f85a42817d8",
     "likes_count": 405,
@@ -400,17 +408,9 @@
     "id": "takaesu_ug"
   },
   {
-    "title": "powershell チートシート",
-    "url": "https://qiita.com/jca02266/items/a0c71ae90d055ab3893c",
-    "likes_count": 404,
-    "created_at": "2014-08-05T23:14:58+09:00",
-    "updated_at": "2021-02-01T16:51:52+09:00",
-    "id": "jca02266"
-  },
-  {
     "title": "Sass(SCSS)のmixin, extendなどまとめ",
     "url": "https://qiita.com/one-a/items/2758511326c09200fded",
-    "likes_count": 397,
+    "likes_count": 396,
     "created_at": "2014-08-14T12:36:43+09:00",
     "updated_at": "2014-08-14T12:36:43+09:00",
     "id": "one-a"

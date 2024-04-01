@@ -74,7 +74,7 @@
   {
     "title": "ライセンスをつけないとどうなるの？",
     "url": "https://qiita.com/Tatamo/items/ae7bf4878abcf0584291",
-    "likes_count": 1150,
+    "likes_count": 1151,
     "created_at": "2020-12-18T02:23:51+09:00",
     "updated_at": "2020-12-20T03:38:42+09:00",
     "id": "Tatamo"
@@ -88,14 +88,6 @@
     "id": "Megane-kazuma"
   },
   {
-    "title": "Next.jsを使うべき5つの理由 + 実装Tips",
-    "url": "https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f",
-    "likes_count": 918,
-    "created_at": "2020-12-19T00:04:14+09:00",
-    "updated_at": "2023-07-26T13:23:49+09:00",
-    "id": "Yuki_Oshima"
-  },
-  {
     "title": "管理者用初期化URLを踏んでWebサービスのデータをふっとばした話",
     "url": "https://qiita.com/HirotoKagotani/items/181052eb85b686783806",
     "likes_count": 917,
@@ -104,9 +96,17 @@
     "id": "HirotoKagotani"
   },
   {
+    "title": "Next.jsを使うべき5つの理由 + 実装Tips",
+    "url": "https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f",
+    "likes_count": 917,
+    "created_at": "2020-12-19T00:04:14+09:00",
+    "updated_at": "2023-07-26T13:23:49+09:00",
+    "id": "Yuki_Oshima"
+  },
+  {
     "title": "WebSocketの次の技術！？WebTransportについての解説とチュートリアル",
     "url": "https://qiita.com/yuki_uchida/items/d9de148bb2ee418563cf",
-    "likes_count": 877,
+    "likes_count": 878,
     "created_at": "2020-12-02T20:02:38+09:00",
     "updated_at": "2021-04-27T23:21:54+09:00",
     "id": "yuki_uchida"
@@ -210,7 +210,7 @@
   {
     "title": "低スペックでも応用情報技術者試験に合格した話",
     "url": "https://qiita.com/raku_taro/items/c045971f4d38e9154dd1",
-    "likes_count": 493,
+    "likes_count": 494,
     "created_at": "2020-12-26T23:14:18+09:00",
     "updated_at": "2020-12-26T23:14:18+09:00",
     "id": "raku_taro"
@@ -234,7 +234,7 @@
   {
     "title": "Python3.7以上のデータ格納はdataclassを活用しよう",
     "url": "https://qiita.com/ttyszk/items/01934dc42cbd4f6665d2",
-    "likes_count": 478,
+    "likes_count": 479,
     "created_at": "2020-12-16T18:52:06+09:00",
     "updated_at": "2020-12-17T11:56:40+09:00",
     "id": "ttyszk"
@@ -376,20 +376,20 @@
     "id": "omiita"
   },
   {
+    "title": "コンテナ運用におけるログ基盤設計のベストプラクティス",
+    "url": "https://qiita.com/naomichi-y/items/6eeebd21adf8e771a8e7",
+    "likes_count": 358,
+    "created_at": "2020-12-21T00:53:17+09:00",
+    "updated_at": "2020-12-27T12:08:20+09:00",
+    "id": "naomichi-y"
+  },
+  {
     "title": "プロジェクトマネジャー目線での安心できる若手エンジニアの言動",
     "url": "https://qiita.com/hirotaka-awata/items/7ed2b190f1450a916dbd",
     "likes_count": 357,
     "created_at": "2020-12-18T11:24:46+09:00",
     "updated_at": "2020-12-21T07:03:00+09:00",
     "id": "hirotaka-awata"
-  },
-  {
-    "title": "コンテナ運用におけるログ基盤設計のベストプラクティス",
-    "url": "https://qiita.com/naomichi-y/items/6eeebd21adf8e771a8e7",
-    "likes_count": 357,
-    "created_at": "2020-12-21T00:53:17+09:00",
-    "updated_at": "2020-12-27T12:08:20+09:00",
-    "id": "naomichi-y"
   },
   {
     "title": "GraphQLはサーバーサイド実装のベストプラクティスとなるか",

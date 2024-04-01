@@ -42,7 +42,7 @@
   {
     "title": "RSA鍵、証明書のファイルフォーマットについて",
     "url": "https://qiita.com/kunichiko/items/12cbccaadcbf41c72735",
-    "likes_count": 1468,
+    "likes_count": 1469,
     "created_at": "2014-12-26T13:31:10+09:00",
     "updated_at": "2021-10-20T18:10:09+09:00",
     "id": "kunichiko"
@@ -58,7 +58,7 @@
   {
     "title": "テスト環境で使えるクレジットカード番号",
     "url": "https://qiita.com/mimoe/items/8f5d9ce46b72b7fecff5",
-    "likes_count": 1367,
+    "likes_count": 1366,
     "created_at": "2014-12-10T11:27:03+09:00",
     "updated_at": "2014-12-10T11:27:03+09:00",
     "id": "mimoe"
@@ -66,7 +66,7 @@
   {
     "title": "機械学習をこれから始める人に押さえておいてほしいこと",
     "url": "https://qiita.com/IshitaTakeshi/items/4607d9f729babd273960",
-    "likes_count": 1290,
+    "likes_count": 1289,
     "created_at": "2014-12-06T10:35:31+09:00",
     "updated_at": "2016-04-05T20:14:24+09:00",
     "id": "IshitaTakeshi"
@@ -74,7 +74,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1250,
+    "likes_count": 1249,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2022-01-17T09:49:27+09:00",
     "id": "k-shogo"
@@ -272,14 +272,6 @@
     "id": "koba04"
   },
   {
-    "title": "米googleの研究者が開発したWord2Vecで自然言語処理(独自データ)",
-    "url": "https://qiita.com/okappy/items/e16639178ba85edfee72",
-    "likes_count": 606,
-    "created_at": "2014-12-09T12:19:38+09:00",
-    "updated_at": "2015-06-08T19:13:20+09:00",
-    "id": "okappy"
-  },
-  {
     "title": "zshの外部プラグインまとめ",
     "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
     "likes_count": 606,
@@ -288,9 +280,17 @@
     "id": "mollifier"
   },
   {
+    "title": "米googleの研究者が開発したWord2Vecで自然言語処理(独自データ)",
+    "url": "https://qiita.com/okappy/items/e16639178ba85edfee72",
+    "likes_count": 605,
+    "created_at": "2014-12-09T12:19:38+09:00",
+    "updated_at": "2015-06-08T19:13:20+09:00",
+    "id": "okappy"
+  },
+  {
     "title": "Rubyの凄く面白い特徴をRailsのコードを例に解説",
     "url": "https://qiita.com/shinya_131/items/901b9c70642b1e1f9227",
-    "likes_count": 605,
+    "likes_count": 604,
     "created_at": "2014-12-06T23:47:56+09:00",
     "updated_at": "2014-12-08T22:52:17+09:00",
     "id": "shinya_131"
@@ -490,7 +490,7 @@
   {
     "title": "rails管理画面系gem比較してみた",
     "url": "https://qiita.com/baban/items/f751fb05c4d2367878aa",
-    "likes_count": 415,
+    "likes_count": 414,
     "created_at": "2014-12-23T23:12:29+09:00",
     "updated_at": "2019-12-05T14:13:35+09:00",
     "id": "baban"
@@ -546,7 +546,7 @@
   {
     "title": "【Rails】RSpecと三種の神器でらくちんWeb APIテスト",
     "url": "https://qiita.com/izumin5210/items/de614b5b5b2c44486e87",
-    "likes_count": 398,
+    "likes_count": 397,
     "created_at": "2014-12-10T11:37:15+09:00",
     "updated_at": "2015-07-03T17:53:15+09:00",
     "id": "izumin5210"
@@ -626,7 +626,7 @@
   {
     "title": "Rails 4.1以降のコンソールコマンドは必ず bin/ を付けなきゃいけないの？",
     "url": "https://qiita.com/jnchito/items/c5a0848144203dce6e26",
-    "likes_count": 330,
+    "likes_count": 329,
     "created_at": "2014-12-31T21:38:43+09:00",
     "updated_at": "2014-12-31T21:56:54+09:00",
     "id": "jnchito"
@@ -674,7 +674,7 @@
   {
     "title": "React.jsでFormを扱う",
     "url": "https://qiita.com/koba04/items/40cc217ab925ef651113",
-    "likes_count": 297,
+    "likes_count": 296,
     "created_at": "2014-12-10T19:13:22+09:00",
     "updated_at": "2015-05-18T00:39:26+09:00",
     "id": "koba04"
