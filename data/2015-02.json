@@ -2,7 +2,7 @@
   {
     "title": "Gitでやらかした時に使える19個の奥義",
     "url": "https://qiita.com/muran001/items/dea2bbbaea1260098051",
-    "likes_count": 6625,
+    "likes_count": 6626,
     "created_at": "2015-02-11T19:46:14+09:00",
     "updated_at": "2015-03-06T08:29:01+09:00",
     "id": "muran001"
@@ -26,7 +26,7 @@
   {
     "title": "WebAPIについての説明",
     "url": "https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47",
-    "likes_count": 3684,
+    "likes_count": 3683,
     "created_at": "2015-02-14T15:27:09+09:00",
     "updated_at": "2019-09-06T14:17:38+09:00",
     "id": "busyoumono99"
@@ -50,7 +50,7 @@
   {
     "title": "プレゼンテーションに使う画像の探し方",
     "url": "https://qiita.com/TAKAKING22/items/20c006206d2ce23a5608",
-    "likes_count": 2051,
+    "likes_count": 2050,
     "created_at": "2015-02-22T17:38:28+09:00",
     "updated_at": "2019-03-20T16:11:11+09:00",
     "id": "TAKAKING22"
@@ -74,7 +74,7 @@
   {
     "title": "アプリ開発で参考にしておきたい UI デザインパターンまとめサイトのまとめ",
     "url": "https://qiita.com/sho5nn/items/3a2293e3549ba698a71c",
-    "likes_count": 1684,
+    "likes_count": 1683,
     "created_at": "2015-02-03T10:54:35+09:00",
     "updated_at": "2016-12-30T21:22:16+09:00",
     "id": "sho5nn"
@@ -82,7 +82,7 @@
   {
     "title": "ノンプログラマーが3ヶ月でWebサービスを作ってみた",
     "url": "https://qiita.com/tabbyz/items/6513e84f319843c316d5",
-    "likes_count": 1662,
+    "likes_count": 1661,
     "created_at": "2015-02-25T09:30:19+09:00",
     "updated_at": "2016-03-28T08:52:32+09:00",
     "id": "tabbyz"
@@ -98,7 +98,7 @@
   {
     "title": "SwiftのOptional型を極める",
     "url": "https://qiita.com/koher/items/c6f446bad54442a28bf4",
-    "likes_count": 1191,
+    "likes_count": 1192,
     "created_at": "2015-02-16T09:42:48+09:00",
     "updated_at": "2017-12-22T16:21:08+09:00",
     "id": "koher"
@@ -106,7 +106,7 @@
   {
     "title": "【LINQの前に】ラムダ式？デリゲート？Func<T, TResult>？な人へのまとめ【知ってほしい】",
     "url": "https://qiita.com/RyotaMurohoshi/items/740151bd772889cf07de",
-    "likes_count": 1106,
+    "likes_count": 1105,
     "created_at": "2015-02-17T02:38:57+09:00",
     "updated_at": "2015-02-17T10:25:57+09:00",
     "id": "RyotaMurohoshi"
@@ -226,7 +226,7 @@
   {
     "title": "Chef-soloからItamaeに完全移行した話",
     "url": "https://qiita.com/toritori0318/items/00ea2a75c8321aaf9ef6",
-    "likes_count": 629,
+    "likes_count": 628,
     "created_at": "2015-02-22T23:56:02+09:00",
     "updated_at": "2016-04-24T23:46:59+09:00",
     "id": "toritori0318"
@@ -258,7 +258,7 @@
   {
     "title": "mysqlで文字コードをutf8にセットする",
     "url": "https://qiita.com/YusukeHigaki/items/2cab311d2a559a543e3a",
-    "likes_count": 545,
+    "likes_count": 544,
     "created_at": "2015-02-12T12:21:34+09:00",
     "updated_at": "2015-02-12T12:25:54+09:00",
     "id": "YusukeHigaki"
@@ -400,20 +400,20 @@
     "id": "4cres"
   },
   {
-    "title": "ベストなコーディング規約の作り方",
-    "url": "https://qiita.com/tadnakam/items/5d1280559eb75b29847c",
-    "likes_count": 380,
-    "created_at": "2015-02-27T09:42:48+09:00",
-    "updated_at": "2017-11-03T19:56:14+09:00",
-    "id": "tadnakam"
-  },
-  {
     "title": "Docker Machine リファレンス",
     "url": "https://qiita.com/spesnova/items/073dd64a8a1d580d9ae9",
     "likes_count": 380,
     "created_at": "2015-02-28T13:16:03+09:00",
     "updated_at": "2019-01-31T19:43:44+09:00",
     "id": "spesnova"
+  },
+  {
+    "title": "ベストなコーディング規約の作り方",
+    "url": "https://qiita.com/tadnakam/items/5d1280559eb75b29847c",
+    "likes_count": 379,
+    "created_at": "2015-02-27T09:42:48+09:00",
+    "updated_at": "2017-11-03T19:56:14+09:00",
+    "id": "tadnakam"
   },
   {
     "title": "encodeURIComponentが世界基準だと誤解してた話",
@@ -482,7 +482,7 @@
   {
     "title": "【PSR】PHPの標準コーディング規約",
     "url": "https://qiita.com/katsukii/items/e68183f14407722de9cc",
-    "likes_count": 308,
+    "likes_count": 307,
     "created_at": "2015-02-09T18:26:53+09:00",
     "updated_at": "2018-08-07T12:08:32+09:00",
     "id": "katsukii"
