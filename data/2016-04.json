@@ -2,7 +2,7 @@
   {
     "title": "もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った",
     "url": "https://qiita.com/hirokidaichi/items/ff54a968bdd7bcc50d42",
-    "likes_count": 4873,
+    "likes_count": 4875,
     "created_at": "2016-04-02T18:21:53+09:00",
     "updated_at": "2018-12-26T00:03:58+09:00",
     "id": "hirokidaichi"
@@ -18,7 +18,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2609,
+    "likes_count": 2610,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -34,7 +34,7 @@
   {
     "title": "あなたのサーバは本当に安全ですか？今もっともイケてる脆弱性検知ツールVulsを使ってみた",
     "url": "https://qiita.com/sadayuki-matsuno/items/0bb8bb1689425bb9a21c",
-    "likes_count": 2192,
+    "likes_count": 2191,
     "created_at": "2016-04-29T16:44:07+09:00",
     "updated_at": "2019-11-28T16:54:23+09:00",
     "id": "sadayuki-matsuno"
@@ -58,7 +58,7 @@
   {
     "title": "iOS ヒューマンインターフェースの原則",
     "url": "https://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38",
-    "likes_count": 1689,
+    "likes_count": 1688,
     "created_at": "2016-04-03T05:27:56+09:00",
     "updated_at": "2019-03-01T04:21:27+09:00",
     "id": "usagimaru"
@@ -90,7 +90,7 @@
   {
     "title": "[新人教育] 何も知らない人がGitとGitHubを独学で知る",
     "url": "https://qiita.com/ikenji/items/367e8344490dd37e14f0",
-    "likes_count": 1177,
+    "likes_count": 1176,
     "created_at": "2016-04-15T13:28:42+09:00",
     "updated_at": "2019-03-01T12:04:58+09:00",
     "id": "ikenji"
@@ -114,7 +114,7 @@
   {
     "title": "【意訳】Webpackの混乱ポイント",
     "url": "https://qiita.com/tenkei/items/caacbf4137642cb175ec",
-    "likes_count": 1086,
+    "likes_count": 1085,
     "created_at": "2016-04-14T05:29:43+09:00",
     "updated_at": "2016-10-30T16:05:06+09:00",
     "id": "tenkei"
@@ -250,7 +250,7 @@
   {
     "title": "Markdown風テキストでダイアグラムが描けるWebツール",
     "url": "https://qiita.com/wakufactory/items/8a0cf4ffdd52936f7469",
-    "likes_count": 640,
+    "likes_count": 641,
     "created_at": "2016-04-18T23:54:09+09:00",
     "updated_at": "2016-04-25T18:51:00+09:00",
     "id": "wakufactory"
@@ -336,20 +336,20 @@
     "id": "toshihirock"
   },
   {
-    "title": "IntelliJ IDEA 入門",
-    "url": "https://qiita.com/opengl-8080/items/108102d692b49f804dbd",
-    "likes_count": 465,
-    "created_at": "2016-04-07T00:13:00+09:00",
-    "updated_at": "2018-04-02T23:29:26+09:00",
-    "id": "opengl-8080"
-  },
-  {
     "title": "jQueryで楽になる部分、楽にならない部分、顧客が本当に必要だったもの",
     "url": "https://qiita.com/mizchi/items/2a7623bda048275b64a8",
     "likes_count": 465,
     "created_at": "2016-04-19T15:09:58+09:00",
     "updated_at": "2016-04-19T15:17:23+09:00",
     "id": "mizchi"
+  },
+  {
+    "title": "IntelliJ IDEA 入門",
+    "url": "https://qiita.com/opengl-8080/items/108102d692b49f804dbd",
+    "likes_count": 464,
+    "created_at": "2016-04-07T00:13:00+09:00",
+    "updated_at": "2018-04-02T23:29:26+09:00",
+    "id": "opengl-8080"
   },
   {
     "title": "変更履歴を持つテーブルの設計",
@@ -442,7 +442,7 @@
   {
     "title": "オンラインでプログラミングして実行できるサイト",
     "url": "https://qiita.com/tttamaki/items/2b009aa957cfa4895d50",
-    "likes_count": 395,
+    "likes_count": 396,
     "created_at": "2016-04-28T08:59:43+09:00",
     "updated_at": "2021-09-28T18:34:17+09:00",
     "id": "tttamaki"
@@ -450,7 +450,7 @@
   {
     "title": "Bootstrap 4を使うならSassを使って3倍幸せになろう",
     "url": "https://qiita.com/tonkotsuboy_com/items/1855734522bfe7ef7dad",
-    "likes_count": 384,
+    "likes_count": 385,
     "created_at": "2016-04-07T20:01:56+09:00",
     "updated_at": "2018-05-23T17:37:59+09:00",
     "id": "tonkotsuboy_com"
@@ -498,7 +498,7 @@
   {
     "title": "Amazon Cognito User Poolsを使って、webサイトにユーザ認証基盤を作る",
     "url": "https://qiita.com/horike37/items/1d522f66452d3abe1203",
-    "likes_count": 375,
+    "likes_count": 374,
     "created_at": "2016-04-23T17:36:48+09:00",
     "updated_at": "2016-05-19T16:37:25+09:00",
     "id": "horike37"
