@@ -2,7 +2,7 @@
   {
     "title": "【サボりたいエンジニア向け】コーディングに役立つチートシートまとめ",
     "url": "https://qiita.com/saboriman/items/b7461f0ab5526845a0a5",
-    "likes_count": 1245,
+    "likes_count": 1246,
     "created_at": "2022-09-04T15:32:09+09:00",
     "updated_at": "2022-09-19T22:35:32+09:00",
     "id": "saboriman"
@@ -40,6 +40,14 @@
     "id": "KNR109"
   },
   {
+    "title": "シェルスクリプトで安全簡単な二重起動防止・排他/共有ロックの徹底解説",
+    "url": "https://qiita.com/ko1nksm/items/f86537f8b533e1ef55c1",
+    "likes_count": 387,
+    "created_at": "2022-09-27T21:07:12+09:00",
+    "updated_at": "2022-10-12T21:19:05+09:00",
+    "id": "ko1nksm"
+  },
+  {
     "title": "「機械学習で競馬予想」をガチで作る〜「予測してみた」で終わらせないAI開発〜",
     "url": "https://qiita.com/dijzpeb/items/db74aa9726aaf55201eb",
     "likes_count": 386,
@@ -54,13 +62,5 @@
     "created_at": "2022-09-17T19:27:53+09:00",
     "updated_at": "2022-10-13T10:09:22+09:00",
     "id": "tommyecguitar"
-  },
-  {
-    "title": "シェルスクリプトで安全簡単な二重起動防止・排他/共有ロックの徹底解説",
-    "url": "https://qiita.com/ko1nksm/items/f86537f8b533e1ef55c1",
-    "likes_count": 386,
-    "created_at": "2022-09-27T21:07:12+09:00",
-    "updated_at": "2022-10-12T21:19:05+09:00",
-    "id": "ko1nksm"
   }
 ]

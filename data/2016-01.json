@@ -106,7 +106,7 @@
   {
     "title": "全盛期のJeff Dean伝説",
     "url": "https://qiita.com/umegaya/items/ef69461d6f4967d5c623",
-    "likes_count": 1088,
+    "likes_count": 1089,
     "created_at": "2016-01-09T05:56:15+09:00",
     "updated_at": "2016-03-26T08:06:24+09:00",
     "id": "umegaya"
@@ -408,14 +408,6 @@
     "id": "stkdev"
   },
   {
-    "title": "ssh-agentを利用して、安全にSSH認証を行う",
-    "url": "https://qiita.com/naoki_mochizuki/items/93ee2643a4c6ab0a20f5",
-    "likes_count": 461,
-    "created_at": "2016-01-21T09:08:47+09:00",
-    "updated_at": "2023-12-24T00:44:51+09:00",
-    "id": "naoki_mochizuki"
-  },
-  {
     "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
     "likes_count": 448,
@@ -684,8 +676,16 @@
     "url": "https://qiita.com/hishi/items/8bdfd9d72fa8fe2e7573",
     "likes_count": 304,
     "created_at": "2016-01-05T23:19:41+09:00",
-    "updated_at": "2023-05-13T10:58:19+09:00",
+    "updated_at": "2024-04-10T18:04:54+09:00",
     "id": "hishi"
+  },
+  {
+    "title": "ES6の新機能: 「let」「const」宣言を調べてみた",
+    "url": "https://qiita.com/niisan-tokyo/items/bacb5ed98ea10831eeba",
+    "likes_count": 302,
+    "created_at": "2016-01-01T00:57:50+09:00",
+    "updated_at": "2016-05-15T07:39:25+09:00",
+    "id": "niisan-tokyo"
   },
   {
     "title": "C#パーの日常",
