@@ -2,7 +2,7 @@
   {
     "title": "Android開発を受注したからKotlinをガッツリ使ってみたら最高だった",
     "url": "https://qiita.com/omochimetaru/items/98e015b0b694dd97f323",
-    "likes_count": 2415,
+    "likes_count": 2414,
     "created_at": "2015-10-05T09:45:56+09:00",
     "updated_at": "2017-06-17T13:51:53+09:00",
     "id": "omochimetaru"
@@ -18,7 +18,7 @@
   {
     "title": "お前らのSSH Keysの作り方は間違っている",
     "url": "https://qiita.com/suthio/items/2760e4cff0e185fe2db9",
-    "likes_count": 2348,
+    "likes_count": 2349,
     "created_at": "2015-10-01T01:46:28+09:00",
     "updated_at": "2021-09-02T23:39:24+09:00",
     "id": "suthio"
@@ -26,7 +26,7 @@
   {
     "title": "最強のSSH踏み台設定",
     "url": "https://qiita.com/kawaz/items/a0151d3aa2b6f9c4b3b8",
-    "likes_count": 2041,
+    "likes_count": 2042,
     "created_at": "2015-10-15T15:36:30+09:00",
     "updated_at": "2020-03-10T13:49:22+09:00",
     "id": "kawaz"
@@ -58,7 +58,7 @@
   {
     "title": "base64ってなんぞ？？理解のために実装してみた",
     "url": "https://qiita.com/PlanetMeron/items/2905e2d0aa7fe46a36d4",
-    "likes_count": 1304,
+    "likes_count": 1303,
     "created_at": "2015-10-14T20:06:07+09:00",
     "updated_at": "2022-07-20T12:19:57+09:00",
     "id": "PlanetMeron"
@@ -122,7 +122,7 @@
   {
     "title": "CSSで中央寄せの方法いろいろメモ",
     "url": "https://qiita.com/KAMEch/items/b52c5e23212b8fef81a7",
-    "likes_count": 889,
+    "likes_count": 888,
     "created_at": "2015-10-07T18:36:54+09:00",
     "updated_at": "2019-06-24T14:00:13+09:00",
     "id": "KAMEch"
@@ -184,20 +184,20 @@
     "id": "tatarou1986"
   },
   {
-    "title": "Typescriptのinterfaceの使い方",
-    "url": "https://qiita.com/nogson/items/86b47ee6947f505f6a7b",
-    "likes_count": 598,
-    "created_at": "2015-10-22T22:14:16+09:00",
-    "updated_at": "2017-04-17T20:09:56+09:00",
-    "id": "nogson"
-  },
-  {
     "title": "そろそろデータサイエンティストの定義とスキルセットについて本気で考えてみる",
     "url": "https://qiita.com/hik0107/items/f9bf14a7575d5c885a16",
     "likes_count": 598,
     "created_at": "2015-10-26T22:27:04+09:00",
     "updated_at": "2016-12-27T19:06:45+09:00",
     "id": "hik0107"
+  },
+  {
+    "title": "Typescriptのinterfaceの使い方",
+    "url": "https://qiita.com/nogson/items/86b47ee6947f505f6a7b",
+    "likes_count": 597,
+    "created_at": "2015-10-22T22:14:16+09:00",
+    "updated_at": "2017-04-17T20:09:56+09:00",
+    "id": "nogson"
   },
   {
     "title": "複雑な条件分岐にサヨウナラ。PHPのルールエンジンRulerを使って複雑な条件をシンプルにしてみた",
@@ -210,7 +210,7 @@
   {
     "title": "Gitのリモートブランチを削除するまとめ",
     "url": "https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9",
-    "likes_count": 524,
+    "likes_count": 523,
     "created_at": "2015-10-20T12:53:06+09:00",
     "updated_at": "2015-10-20T12:55:54+09:00",
     "id": "yuu_ta"
@@ -218,7 +218,7 @@
   {
     "title": "知識0から、AWSのEC2でウェブサーバーを構築するまで",
     "url": "https://qiita.com/shunsuke227ono/items/23dbf4f3bc663a2875f0",
-    "likes_count": 511,
+    "likes_count": 512,
     "created_at": "2015-10-26T18:44:41+09:00",
     "updated_at": "2016-04-24T23:40:39+09:00",
     "id": "shunsuke227ono"
@@ -250,7 +250,7 @@
   {
     "title": "Logback 使い方メモ",
     "url": "https://qiita.com/opengl-8080/items/49719f2d35171f017aa9",
-    "likes_count": 466,
+    "likes_count": 467,
     "created_at": "2015-10-27T01:07:38+09:00",
     "updated_at": "2015-12-28T23:02:31+09:00",
     "id": "opengl-8080"
@@ -290,7 +290,7 @@
   {
     "title": "Laravelでプロジェクトを作成したらまずやることメモ",
     "url": "https://qiita.com/ponko2/items/f2f59b43dae1561ceb50",
-    "likes_count": 410,
+    "likes_count": 409,
     "created_at": "2015-10-09T19:28:59+09:00",
     "updated_at": "2017-11-23T21:57:06+09:00",
     "id": "ponko2"
@@ -370,7 +370,7 @@
   {
     "title": "[JavaScript] オブジェクトの基礎",
     "url": "https://qiita.com/yoshi389111/items/245df2d642e49d2acf3a",
-    "likes_count": 365,
+    "likes_count": 364,
     "created_at": "2015-10-26T23:52:25+09:00",
     "updated_at": "2020-05-13T17:50:00+09:00",
     "id": "yoshi389111"
