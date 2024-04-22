@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3686,
+    "likes_count": 3688,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -50,7 +50,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 2071,
+    "likes_count": 2072,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -98,7 +98,7 @@
   {
     "title": "ArgumentParserの使い方を簡単にまとめた",
     "url": "https://qiita.com/kzkadc/items/e4fc7bc9c003de1eb6d0",
-    "likes_count": 1115,
+    "likes_count": 1117,
     "created_at": "2018-05-24T23:54:26+09:00",
     "updated_at": "2020-06-27T13:55:46+09:00",
     "id": "kzkadc"
@@ -114,7 +114,7 @@
   {
     "title": "Chrome デベロッパーツールの Console を使いこなす",
     "url": "https://qiita.com/howdy39/items/c22c2cfafab88fa73d15",
-    "likes_count": 1099,
+    "likes_count": 1100,
     "created_at": "2018-05-20T18:42:30+09:00",
     "updated_at": "2018-12-28T23:10:55+09:00",
     "id": "howdy39"
@@ -138,7 +138,7 @@
   {
     "title": "初心者による初心者のためのDocker入門 その１ dockerコマンド編",
     "url": "https://qiita.com/k5n/items/2212b87feac5ebc33ecb",
-    "likes_count": 898,
+    "likes_count": 899,
     "created_at": "2018-05-10T12:49:41+09:00",
     "updated_at": "2019-04-23T14:36:43+09:00",
     "id": "k5n"
@@ -456,20 +456,20 @@
     "id": "Tsutou"
   },
   {
+    "title": "python3 の async/awaitを理解する",
+    "url": "https://qiita.com/maueki/items/8f1e190681682ea11c98",
+    "likes_count": 418,
+    "created_at": "2018-05-18T15:04:54+09:00",
+    "updated_at": "2019-03-12T11:13:29+09:00",
+    "id": "maueki"
+  },
+  {
     "title": "FizzBuzz Zero ―― 人類の知識なしでFizzBuzzをマスターする",
     "url": "https://qiita.com/ymg_aq/items/d276357823f5b2ce46c5",
     "likes_count": 417,
     "created_at": "2018-05-10T17:14:38+09:00",
     "updated_at": "2018-05-12T09:45:02+09:00",
     "id": "ymg_aq"
-  },
-  {
-    "title": "python3 の async/awaitを理解する",
-    "url": "https://qiita.com/maueki/items/8f1e190681682ea11c98",
-    "likes_count": 417,
-    "created_at": "2018-05-18T15:04:54+09:00",
-    "updated_at": "2019-03-12T11:13:29+09:00",
-    "id": "maueki"
   },
   {
     "title": "git を初めて使う時 コミット→プッシュ→マージ　の流れ",
@@ -530,7 +530,7 @@
   {
     "title": "Dockerコマンド よく使うやつ",
     "url": "https://qiita.com/Esfahan/items/52141a2ad741933d7d4c",
-    "likes_count": 373,
+    "likes_count": 374,
     "created_at": "2018-05-07T16:57:11+09:00",
     "updated_at": "2021-11-02T18:28:02+09:00",
     "id": "Esfahan"
@@ -650,7 +650,7 @@
   {
     "title": "Git 初期設定",
     "url": "https://qiita.com/ucan-lab/items/aadbedcacbc2ac86a2b3",
-    "likes_count": 250,
+    "likes_count": 251,
     "created_at": "2018-05-20T16:29:56+09:00",
     "updated_at": "2024-04-03T11:51:45+09:00",
     "id": "ucan-lab"
