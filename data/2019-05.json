@@ -34,7 +34,7 @@
   {
     "title": "matplotlibのめっちゃまとめ",
     "url": "https://qiita.com/nkay/items/d1eb91e33b9d6469ef51",
-    "likes_count": 2231,
+    "likes_count": 2232,
     "created_at": "2019-05-20T16:41:33+09:00",
     "updated_at": "2024-01-11T15:19:25+09:00",
     "id": "nkay"
@@ -178,7 +178,7 @@
   {
     "title": "LaTeXにおける正しい論文の書き方",
     "url": "https://qiita.com/birdwatcher/items/5ec42b35d84d3ee2ffbb",
-    "likes_count": 857,
+    "likes_count": 858,
     "created_at": "2019-05-03T02:23:43+09:00",
     "updated_at": "2020-02-10T19:30:28+09:00",
     "id": "birdwatcher"
@@ -274,7 +274,7 @@
   {
     "title": "スタックとキューを極める！ 〜 考え方と使い所を特集 〜",
     "url": "https://qiita.com/drken/items/6a95b57d2e374a3d3292",
-    "likes_count": 649,
+    "likes_count": 651,
     "created_at": "2019-05-23T08:28:34+09:00",
     "updated_at": "2021-07-26T23:35:59+09:00",
     "id": "drken"
@@ -384,6 +384,14 @@
     "id": "gold-kou"
   },
   {
+    "title": "[解説] SQLクエリのN+1問題",
+    "url": "https://qiita.com/muroya2355/items/d4eecbe722a8ddb2568b",
+    "likes_count": 423,
+    "created_at": "2019-05-04T18:42:19+09:00",
+    "updated_at": "2020-02-14T00:38:47+09:00",
+    "id": "muroya2355"
+  },
+  {
     "title": "競技プログラミングで使う有名グラフアルゴリズムまとめ",
     "url": "https://qiita.com/kazukazukazukazu/items/e5db00a3aefb1f5ed72f",
     "likes_count": 422,
@@ -398,14 +406,6 @@
     "created_at": "2019-05-26T15:36:01+09:00",
     "updated_at": "2019-05-26T15:36:01+09:00",
     "id": "kotauchisunsun"
-  },
-  {
-    "title": "[解説] SQLクエリのN+1問題",
-    "url": "https://qiita.com/muroya2355/items/d4eecbe722a8ddb2568b",
-    "likes_count": 419,
-    "created_at": "2019-05-04T18:42:19+09:00",
-    "updated_at": "2020-02-14T00:38:47+09:00",
-    "id": "muroya2355"
   },
   {
     "title": "webサービスの本番サーバーをダウンさせてしまった時に爆速で土下座する方法🙇‍♂️🙇‍♂️💦💦",
@@ -426,7 +426,7 @@
   {
     "title": "WSL (Windows Subsystem for Linux)の基本メモ",
     "url": "https://qiita.com/rubytomato@github/items/fdfc0a76e848442f374e",
-    "likes_count": 393,
+    "likes_count": 394,
     "created_at": "2019-05-18T00:04:17+09:00",
     "updated_at": "2020-05-15T23:58:04+09:00",
     "id": "rubytomato@github"
@@ -514,7 +514,7 @@
   {
     "title": "C++のvectorまとめ",
     "url": "https://qiita.com/ysuzuki19/items/df872d91c9c89cc31aee",
-    "likes_count": 329,
+    "likes_count": 331,
     "created_at": "2019-05-02T16:53:51+09:00",
     "updated_at": "2022-03-03T23:25:45+09:00",
     "id": "ysuzuki19"
