@@ -8,20 +8,20 @@
     "id": "hirokidaichi"
   },
   {
+    "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
+    "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
+    "likes_count": 2627,
+    "created_at": "2016-04-25T02:35:23+09:00",
+    "updated_at": "2019-09-16T21:18:04+09:00",
+    "id": "shisama"
+  },
+  {
     "title": "関数型プログラミングはまず考え方から理解しよう",
     "url": "https://qiita.com/stkdev/items/5c021d4e5d54d56b927c",
     "likes_count": 2626,
     "created_at": "2016-04-25T08:01:39+09:00",
     "updated_at": "2016-05-09T02:49:16+09:00",
     "id": "stkdev"
-  },
-  {
-    "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
-    "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2625,
-    "created_at": "2016-04-25T02:35:23+09:00",
-    "updated_at": "2019-09-16T21:18:04+09:00",
-    "id": "shisama"
   },
   {
     "title": "You Don't Need jQuery",
@@ -50,7 +50,7 @@
   {
     "title": "REST入門 基礎知識",
     "url": "https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa",
-    "likes_count": 1868,
+    "likes_count": 1869,
     "created_at": "2016-04-26T00:18:31+09:00",
     "updated_at": "2024-02-08T10:39:21+09:00",
     "id": "TakahiRoyte"
@@ -130,7 +130,7 @@
   {
     "title": "Excelファイルを C# と VB.NET で読み込む \"正しい\" 方法",
     "url": "https://qiita.com/midori44/items/acab9106e6dad9653e73",
-    "likes_count": 966,
+    "likes_count": 967,
     "created_at": "2016-04-11T08:46:25+09:00",
     "updated_at": "2021-09-28T00:34:52+09:00",
     "id": "midori44"
@@ -330,7 +330,7 @@
   {
     "title": "ファイルディスクリプタについて理解する",
     "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 477,
+    "likes_count": 478,
     "created_at": "2016-04-22T22:51:58+09:00",
     "updated_at": "2016-04-22T22:51:58+09:00",
     "id": "toshihirock"
@@ -554,7 +554,7 @@
   {
     "title": "font-sizeの単位をvwにしてデバイスサイズに合わせて拡縮する",
     "url": "https://qiita.com/katsunory/items/3bede89cee8e2ded8426",
-    "likes_count": 344,
+    "likes_count": 343,
     "created_at": "2016-04-23T10:18:44+09:00",
     "updated_at": "2018-11-18T21:21:03+09:00",
     "id": "katsunory"
@@ -566,6 +566,14 @@
     "created_at": "2016-04-10T00:08:29+09:00",
     "updated_at": "2018-08-07T19:10:00+09:00",
     "id": "yo1000"
+  },
+  {
+    "title": "僕がnpm installに-gをつけないわけ",
+    "url": "https://qiita.com/DeployCat/items/cd456d6bea72937464f8",
+    "likes_count": 331,
+    "created_at": "2016-04-13T20:20:27+09:00",
+    "updated_at": "2016-04-14T20:07:03+09:00",
+    "id": "DeployCat"
   },
   {
     "title": "JavaScript の原理：クロージャの真実",
