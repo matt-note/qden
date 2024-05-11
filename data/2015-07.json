@@ -10,7 +10,7 @@
   {
     "title": "意外ととっつきやすいOSS開発参加方法まとめ",
     "url": "https://qiita.com/shunsuke227ono/items/94dd6e707d34a1da2617",
-    "likes_count": 2250,
+    "likes_count": 2249,
     "created_at": "2015-07-14T08:41:06+09:00",
     "updated_at": "2016-11-14T12:07:23+09:00",
     "id": "shunsuke227ono"
@@ -66,7 +66,7 @@
   {
     "title": "iOSのPUSH通知(APNS)の特徴・ノウハウまとめ(iOS 9まで対応)",
     "url": "https://qiita.com/mono0926/items/df03c61adc56934e2e7a",
-    "likes_count": 1406,
+    "likes_count": 1405,
     "created_at": "2015-07-22T07:12:12+09:00",
     "updated_at": "2017-08-05T18:03:46+09:00",
     "id": "mono0926"
@@ -82,7 +82,7 @@
   {
     "title": "脱ファイルサーバ！！個人でも会社でも使えるOSSのドキュメント管理システム！その名も「Alfresco」！",
     "url": "https://qiita.com/sadayuki-matsuno/items/f57b5f01789080cfc1a0",
-    "likes_count": 1121,
+    "likes_count": 1120,
     "created_at": "2015-07-19T05:57:12+09:00",
     "updated_at": "2016-05-11T18:19:51+09:00",
     "id": "sadayuki-matsuno"
@@ -98,7 +98,7 @@
   {
     "title": "URLスキーム・独自ディープリンク実装に代わる、Universal Links(iOS 9で導入)でより良いUXを実現",
     "url": "https://qiita.com/mono0926/items/2bf651246714f20df626",
-    "likes_count": 1115,
+    "likes_count": 1114,
     "created_at": "2015-07-06T06:48:44+09:00",
     "updated_at": "2018-05-08T16:50:31+09:00",
     "id": "mono0926"
@@ -162,7 +162,7 @@
   {
     "title": "Linux負荷監視コマンドまとめ",
     "url": "https://qiita.com/aosho235/items/c4d6995743dd1dac16e1",
-    "likes_count": 799,
+    "likes_count": 800,
     "created_at": "2015-07-19T18:51:54+09:00",
     "updated_at": "2019-10-20T23:31:16+09:00",
     "id": "aosho235"
@@ -290,7 +290,7 @@
   {
     "title": "Amazon API Gateway & Lambda & S3 で放置可能なサービスを作ってみた",
     "url": "https://qiita.com/macoshita/items/10bc707a019431817952",
-    "likes_count": 468,
+    "likes_count": 467,
     "created_at": "2015-07-29T00:19:40+09:00",
     "updated_at": "2017-04-20T12:53:28+09:00",
     "id": "macoshita"
@@ -322,7 +322,7 @@
   {
     "title": "rsyncオプション",
     "url": "https://qiita.com/bezeklik/items/22e791df7187958d76c1",
-    "likes_count": 437,
+    "likes_count": 436,
     "created_at": "2015-07-27T19:26:38+09:00",
     "updated_at": "2016-01-14T12:02:34+09:00",
     "id": "bezeklik"
@@ -426,7 +426,7 @@
   {
     "title": "HSTS (HTTP Strict Transport Security) の導入",
     "url": "https://qiita.com/takoratta/items/fb6b3486257eb7b9f12e",
-    "likes_count": 327,
+    "likes_count": 326,
     "created_at": "2015-07-01T18:06:32+09:00",
     "updated_at": "2016-04-22T08:59:03+09:00",
     "id": "takoratta"
@@ -450,7 +450,7 @@
   {
     "title": "iOS版LINEアプリの使っているライブラリを調べた",
     "url": "https://qiita.com/mono0926/items/cd8518fc7f8f220d6935",
-    "likes_count": 306,
+    "likes_count": 305,
     "created_at": "2015-07-21T13:27:52+09:00",
     "updated_at": "2015-09-14T15:34:41+09:00",
     "id": "mono0926"
@@ -528,20 +528,20 @@
     "id": "mono0926"
   },
   {
-    "title": "Git 基本の用語集",
-    "url": "https://qiita.com/toshi_um/items/72c9d929a600323b2e77",
-    "likes_count": 276,
-    "created_at": "2015-07-02T00:02:53+09:00",
-    "updated_at": "2017-01-22T17:20:56+09:00",
-    "id": "toshi_um"
-  },
-  {
     "title": "プログラマのためのDocker超入門 01.仮想化",
     "url": "https://qiita.com/pottava/items/7086f9d63487aa3d7d08",
     "likes_count": 276,
     "created_at": "2015-07-17T16:06:12+09:00",
     "updated_at": "2015-07-19T16:05:05+09:00",
     "id": "pottava"
+  },
+  {
+    "title": "Git 基本の用語集",
+    "url": "https://qiita.com/toshi_um/items/72c9d929a600323b2e77",
+    "likes_count": 275,
+    "created_at": "2015-07-02T00:02:53+09:00",
+    "updated_at": "2017-01-22T17:20:56+09:00",
+    "id": "toshi_um"
   },
   {
     "title": "技適済み格安高性能Wi-FiモジュールESP8266をArduinoIDEを使ってIoT開発する為の環境準備を10分でやる方法",

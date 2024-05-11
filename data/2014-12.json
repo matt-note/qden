@@ -10,7 +10,7 @@
   {
     "title": "jq コマンドを使う日常のご紹介",
     "url": "https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af",
-    "likes_count": 2563,
+    "likes_count": 2562,
     "created_at": "2014-12-17T02:26:16+09:00",
     "updated_at": "2019-06-08T10:42:54+09:00",
     "id": "takeshinoda@github"
@@ -50,7 +50,7 @@
   {
     "title": "JSON Web Token の効用",
     "url": "https://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a",
-    "likes_count": 1434,
+    "likes_count": 1432,
     "created_at": "2014-12-14T18:43:28+09:00",
     "updated_at": "2017-06-12T14:23:23+09:00",
     "id": "kaiinui"
@@ -74,7 +74,7 @@
   {
     "title": "早く知ってたら良かったrailsの技",
     "url": "https://qiita.com/k-shogo/items/5bbc23e1d0dd0ad3a8a2",
-    "likes_count": 1249,
+    "likes_count": 1248,
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2022-01-17T09:49:27+09:00",
     "id": "k-shogo"
@@ -82,7 +82,7 @@
   {
     "title": "今更だけどPromise入門",
     "url": "https://qiita.com/koki_cheese/items/c559da338a3d307c9d88",
-    "likes_count": 1248,
+    "likes_count": 1247,
     "created_at": "2014-12-05T00:00:05+09:00",
     "updated_at": "2014-12-05T12:10:26+09:00",
     "id": "koki_cheese"
@@ -98,7 +98,7 @@
   {
     "title": "個人のスマホアプリ開発者がParseを使うべき15の理由",
     "url": "https://qiita.com/koyopro/items/b9891aa7bb596b958d7e",
-    "likes_count": 1209,
+    "likes_count": 1208,
     "created_at": "2014-12-20T13:53:04+09:00",
     "updated_at": "2016-01-29T10:06:33+09:00",
     "id": "koyopro"
@@ -136,20 +136,20 @@
     "id": "itagakishintaro"
   },
   {
-    "title": "今更聞けないpryの使い方と便利プラグイン集",
-    "url": "https://qiita.com/k0kubun/items/b118e9ccaef8707c4d9f",
-    "likes_count": 853,
-    "created_at": "2014-12-21T17:57:43+09:00",
-    "updated_at": "2016-01-16T21:49:45+09:00",
-    "id": "k0kubun"
-  },
-  {
     "title": "iOSとの比較つき!Androidでこんなアプリ,こんな機能を作りたかったらこれを見ろ！作りたいアプリに対応するクラス、ライブラリのまとめ！",
     "url": "https://qiita.com/appwatcher/items/7d270de99d63bb9f2be4",
     "likes_count": 852,
     "created_at": "2014-12-07T12:26:51+09:00",
     "updated_at": "2016-09-26T09:48:37+09:00",
     "id": "appwatcher"
+  },
+  {
+    "title": "今更聞けないpryの使い方と便利プラグイン集",
+    "url": "https://qiita.com/k0kubun/items/b118e9ccaef8707c4d9f",
+    "likes_count": 852,
+    "created_at": "2014-12-21T17:57:43+09:00",
+    "updated_at": "2016-01-16T21:49:45+09:00",
+    "id": "k0kubun"
   },
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
@@ -162,7 +162,7 @@
   {
     "title": "UIViewControllerのライフサイクル",
     "url": "https://qiita.com/motokiee/items/0ca628b4cc74c8c5599d",
-    "likes_count": 817,
+    "likes_count": 816,
     "created_at": "2014-12-24T22:11:02+09:00",
     "updated_at": "2014-12-24T22:11:02+09:00",
     "id": "motokiee"
@@ -218,7 +218,7 @@
   {
     "title": "Spring MVCのコントローラでの戻り値いろいろ",
     "url": "https://qiita.com/tag1216/items/3680b92cf96eb5a170f0",
-    "likes_count": 673,
+    "likes_count": 672,
     "created_at": "2014-12-17T22:18:43+09:00",
     "updated_at": "2014-12-17T22:21:08+09:00",
     "id": "tag1216"
@@ -290,7 +290,7 @@
   {
     "title": "Rubyの凄く面白い特徴をRailsのコードを例に解説",
     "url": "https://qiita.com/shinya_131/items/901b9c70642b1e1f9227",
-    "likes_count": 604,
+    "likes_count": 603,
     "created_at": "2014-12-06T23:47:56+09:00",
     "updated_at": "2014-12-08T22:52:17+09:00",
     "id": "shinya_131"
@@ -386,7 +386,7 @@
   {
     "title": "Rails開発で有用な便利Gem一覧：2014年版",
     "url": "https://qiita.com/shu_0115/items/b9dd17c01e1e6bd65e71",
-    "likes_count": 507,
+    "likes_count": 506,
     "created_at": "2014-12-11T14:10:37+09:00",
     "updated_at": "2015-03-05T16:51:32+09:00",
     "id": "shu_0115"
@@ -394,7 +394,7 @@
   {
     "title": "How to use CanCan / CanCanCan",
     "url": "https://qiita.com/umanoda/items/679419ce30d1996628ed",
-    "likes_count": 505,
+    "likes_count": 506,
     "created_at": "2014-12-20T21:47:33+09:00",
     "updated_at": "2016-11-16T23:26:05+09:00",
     "id": "umanoda"
@@ -410,7 +410,7 @@
   {
     "title": "本気で使う Docker",
     "url": "https://qiita.com/rosylilly/items/08f4c0771e2ca92a72aa",
-    "likes_count": 470,
+    "likes_count": 469,
     "created_at": "2014-12-25T23:33:09+09:00",
     "updated_at": "2014-12-31T21:36:00+09:00",
     "id": "rosylilly"
@@ -466,7 +466,7 @@
   {
     "title": "React.jsとFlux",
     "url": "https://qiita.com/koba04/items/b32ba449d753fdb2b597",
-    "likes_count": 443,
+    "likes_count": 442,
     "created_at": "2014-12-22T14:24:46+09:00",
     "updated_at": "2015-03-05T17:04:01+09:00",
     "id": "koba04"
@@ -538,7 +538,7 @@
   {
     "title": "Webサイトのディレクトリ構造とその命名規則に悩む",
     "url": "https://qiita.com/y_hokkey/items/871c23c24d31021d7c40",
-    "likes_count": 400,
+    "likes_count": 401,
     "created_at": "2014-12-18T22:53:36+09:00",
     "updated_at": "2015-02-14T18:30:30+09:00",
     "id": "y_hokkey"
