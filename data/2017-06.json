@@ -34,7 +34,7 @@
   {
     "title": "藤井四段で学ぶ最尤推定、MAP推定、ベイズ推定",
     "url": "https://qiita.com/jyori112/items/80b21422b15753a1c5a4",
-    "likes_count": 797,
+    "likes_count": 798,
     "created_at": "2017-06-25T21:21:45+09:00",
     "updated_at": "2020-01-08T03:45:59+09:00",
     "id": "jyori112"
@@ -98,7 +98,7 @@
   {
     "title": "Linuxのパッケージをアップデートしたあとrestartが必要なプロセスを見つける方法",
     "url": "https://qiita.com/usiusi360/items/7b47be9d0ab5b1acd608",
-    "likes_count": 575,
+    "likes_count": 577,
     "created_at": "2017-06-26T09:57:48+09:00",
     "updated_at": "2021-12-24T13:09:10+09:00",
     "id": "usiusi360"
@@ -202,10 +202,18 @@
   {
     "title": "【Python3】ログイン機能付サイトでスクレイピング【requests】【BeautifulSoup】",
     "url": "https://qiita.com/syunyo/items/36af8bcb501baf8c7014",
-    "likes_count": 430,
+    "likes_count": 429,
     "created_at": "2017-06-04T03:20:23+09:00",
     "updated_at": "2018-02-19T04:09:45+09:00",
     "id": "syunyo"
+  },
+  {
+    "title": "活性化関数のまとめ（ステップ、シグモイド、ReLU、ソフトマックス、恒等関数）",
+    "url": "https://qiita.com/namitop/items/d3d5091c7d0ab669195f",
+    "likes_count": 414,
+    "created_at": "2017-06-21T02:03:18+09:00",
+    "updated_at": "2017-10-01T23:05:39+09:00",
+    "id": "namitop"
   },
   {
     "title": "個人開発環境をvagrantで建てるべきか、dockerで建てるべきか",
@@ -214,14 +222,6 @@
     "created_at": "2017-06-22T12:24:41+09:00",
     "updated_at": "2017-06-25T09:57:57+09:00",
     "id": "hirohero"
-  },
-  {
-    "title": "活性化関数のまとめ（ステップ、シグモイド、ReLU、ソフトマックス、恒等関数）",
-    "url": "https://qiita.com/namitop/items/d3d5091c7d0ab669195f",
-    "likes_count": 413,
-    "created_at": "2017-06-21T02:03:18+09:00",
-    "updated_at": "2017-10-01T23:05:39+09:00",
-    "id": "namitop"
   },
   {
     "title": "UIKitのView表示ライフサイクルを理解する",
@@ -322,7 +322,7 @@
   {
     "title": "正規表現あれこれ",
     "url": "https://qiita.com/ikedams/items/12d1127056cdf4f0eea5",
-    "likes_count": 251,
+    "likes_count": 252,
     "created_at": "2017-06-19T03:47:58+09:00",
     "updated_at": "2017-06-25T14:32:25+09:00",
     "id": "ikedams"
