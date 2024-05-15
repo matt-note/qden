@@ -42,7 +42,7 @@
   {
     "title": "クソコードにならない為に、これだけは守って欲しい７つのこと",
     "url": "https://qiita.com/koitaro/items/c3720d9c3ac1e7b0590f",
-    "likes_count": 1705,
+    "likes_count": 1706,
     "created_at": "2016-07-12T19:40:11+09:00",
     "updated_at": "2017-03-17T02:02:42+09:00",
     "id": "koitaro"
@@ -50,7 +50,7 @@
   {
     "title": "プログラマが知っておくべき、メモリ/ディスク/ネットワークの速度まとめ",
     "url": "https://qiita.com/awakia/items/c8ada6c8101efe2de561",
-    "likes_count": 1548,
+    "likes_count": 1549,
     "created_at": "2016-07-06T13:08:28+09:00",
     "updated_at": "2016-07-12T11:26:42+09:00",
     "id": "awakia"
@@ -178,7 +178,7 @@
   {
     "title": ".gitignore の書き方",
     "url": "https://qiita.com/inabe49/items/16ee3d9d1ce68daa9fff",
-    "likes_count": 924,
+    "likes_count": 925,
     "created_at": "2016-07-04T11:31:51+09:00",
     "updated_at": "2016-08-04T09:46:56+09:00",
     "id": "inabe49"
@@ -256,14 +256,6 @@
     "id": "kawasima"
   },
   {
-    "title": "Googleクラウド自然言語APIを使ってみた",
-    "url": "https://qiita.com/howdy39/items/a1aef86fef1ce1b6d778",
-    "likes_count": 584,
-    "created_at": "2016-07-21T22:27:43+09:00",
-    "updated_at": "2017-11-11T11:00:53+09:00",
-    "id": "howdy39"
-  },
-  {
     "title": "最近の画像認識の実力～MS の最先端の研究成果 Computer Vision API を Python で使ってみた",
     "url": "https://qiita.com/kosfuji/items/621cbedfad0eb68b2f5d",
     "likes_count": 584,
@@ -272,9 +264,17 @@
     "id": "kosfuji"
   },
   {
+    "title": "Googleクラウド自然言語APIを使ってみた",
+    "url": "https://qiita.com/howdy39/items/a1aef86fef1ce1b6d778",
+    "likes_count": 583,
+    "created_at": "2016-07-21T22:27:43+09:00",
+    "updated_at": "2017-11-11T11:00:53+09:00",
+    "id": "howdy39"
+  },
+  {
     "title": "PostgreSQLコマンドチートシート",
     "url": "https://qiita.com/Shitimi_613/items/bcd6a7f4134e6a8f0621",
-    "likes_count": 549,
+    "likes_count": 550,
     "created_at": "2016-07-01T22:43:12+09:00",
     "updated_at": "2019-04-12T23:30:20+09:00",
     "id": "Shitimi_613"
@@ -352,20 +352,20 @@
     "id": "codehex"
   },
   {
+    "title": "iTerm2ショートカット備忘録",
+    "url": "https://qiita.com/0084ken/items/8aefabef4fd3cfdf8fce",
+    "likes_count": 405,
+    "created_at": "2016-07-07T23:54:21+09:00",
+    "updated_at": "2016-12-12T13:05:40+09:00",
+    "id": "0084ken"
+  },
+  {
     "title": "マイクロサービスアーキテクチャにおけるオーケストレーションとコレオグラフィ",
     "url": "https://qiita.com/kawasima/items/17475a993e03f249a077",
     "likes_count": 405,
     "created_at": "2016-07-13T11:27:36+09:00",
     "updated_at": "2016-07-29T14:06:13+09:00",
     "id": "kawasima"
-  },
-  {
-    "title": "iTerm2ショートカット備忘録",
-    "url": "https://qiita.com/0084ken/items/8aefabef4fd3cfdf8fce",
-    "likes_count": 404,
-    "created_at": "2016-07-07T23:54:21+09:00",
-    "updated_at": "2016-12-12T13:05:40+09:00",
-    "id": "0084ken"
   },
   {
     "title": "LINQチートシート的なもの",
