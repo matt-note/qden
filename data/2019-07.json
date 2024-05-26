@@ -2,7 +2,7 @@
   {
     "title": "すべての新米フロントエンドエンジニアに読んでほしい50の資料",
     "url": "https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2",
-    "likes_count": 4574,
+    "likes_count": 4573,
     "created_at": "2019-07-11T20:07:24+09:00",
     "updated_at": "2019-07-12T17:37:42+09:00",
     "id": "suzu-4"
@@ -26,7 +26,7 @@
   {
     "title": "【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン",
     "url": "https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4",
-    "likes_count": 1585,
+    "likes_count": 1586,
     "created_at": "2019-07-18T19:02:09+09:00",
     "updated_at": "2023-07-07T15:19:31+09:00",
     "id": "ucan-lab"
@@ -42,7 +42,7 @@
   {
     "title": "新人時代に読めば良かったと後悔するほど感謝した技術書4冊",
     "url": "https://qiita.com/kojimadev/items/0bf53b439f0cb4d1f7e3",
-    "likes_count": 1438,
+    "likes_count": 1437,
     "created_at": "2019-07-02T08:39:35+09:00",
     "updated_at": "2020-08-26T17:34:51+09:00",
     "id": "kojimadev"
@@ -106,7 +106,7 @@
   {
     "title": "フロントエンドのプロ直伝！ CSS余白設定の三原則（＋線の引き方）",
     "url": "https://qiita.com/yama-t/items/da7740769cfc0f8446a0",
-    "likes_count": 952,
+    "likes_count": 953,
     "created_at": "2019-07-03T16:53:25+09:00",
     "updated_at": "2019-07-04T10:43:41+09:00",
     "id": "yama-t"
@@ -114,7 +114,7 @@
   {
     "title": "OAuth 2.0 クライアント認証",
     "url": "https://qiita.com/TakahikoKawasaki/items/63ed4a9d8d6e5109e401",
-    "likes_count": 938,
+    "likes_count": 937,
     "created_at": "2019-07-14T01:13:21+09:00",
     "updated_at": "2020-04-12T03:00:16+09:00",
     "id": "TakahikoKawasaki"
@@ -122,7 +122,7 @@
   {
     "title": "ngrokよりserveoがすごい。０秒で localhostを固定URLで公開",
     "url": "https://qiita.com/kaba/items/53b297e2bfb5b4f20a48",
-    "likes_count": 927,
+    "likes_count": 926,
     "created_at": "2019-07-29T11:19:35+09:00",
     "updated_at": "2020-12-11T14:55:10+09:00",
     "id": "kaba"
@@ -138,7 +138,7 @@
   {
     "title": "色彩検定１級がオススメする 🎨 配色Webツール５選",
     "url": "https://qiita.com/azukisiromochi/items/c0b3ab496974d3706f31",
-    "likes_count": 833,
+    "likes_count": 832,
     "created_at": "2019-07-08T12:39:24+09:00",
     "updated_at": "2019-08-09T23:50:47+09:00",
     "id": "azukisiromochi"
@@ -250,7 +250,7 @@
   {
     "title": "SPA、SSR、プリレンダリングの違いをまとめてみた",
     "url": "https://qiita.com/amakawa_/items/e7d0720e1ab8632769bf",
-    "likes_count": 519,
+    "likes_count": 518,
     "created_at": "2019-07-21T15:42:13+09:00",
     "updated_at": "2019-12-20T15:58:34+09:00",
     "id": "amakawa_"
@@ -424,20 +424,20 @@
     "id": "reireias"
   },
   {
-    "title": "テストコードの書き方はわかったけどテストケースってどうやって挙げたらいいの？",
-    "url": "https://qiita.com/tan3_sugarless/items/7bd89c92bfaac1e852e0",
-    "likes_count": 308,
-    "created_at": "2019-07-13T17:50:22+09:00",
-    "updated_at": "2019-07-13T17:59:01+09:00",
-    "id": "tan3_sugarless"
-  },
-  {
     "title": "【エンジニアも最低限知っておきたい！】構造化データマークアップ入門",
     "url": "https://qiita.com/tateishi_chihiro/items/207762801a395f0b764e",
     "likes_count": 307,
     "created_at": "2019-07-01T15:17:45+09:00",
     "updated_at": "2019-11-20T11:47:27+09:00",
     "id": "tateishi_chihiro"
+  },
+  {
+    "title": "テストコードの書き方はわかったけどテストケースってどうやって挙げたらいいの？",
+    "url": "https://qiita.com/tan3_sugarless/items/7bd89c92bfaac1e852e0",
+    "likes_count": 307,
+    "created_at": "2019-07-13T17:50:22+09:00",
+    "updated_at": "2019-07-13T17:59:01+09:00",
+    "id": "tan3_sugarless"
   },
   {
     "title": "ネットワークスペシャリスト試験 合格体験記",
@@ -488,20 +488,20 @@
     "id": "yuki153"
   },
   {
-    "title": "Laravel+Nuxt.jsでDocker開発環境構築からHerokuデプロイまで",
-    "url": "https://qiita.com/kon_shou/items/8af16956325a447a2d64",
-    "likes_count": 256,
-    "created_at": "2019-07-09T13:03:14+09:00",
-    "updated_at": "2019-07-09T13:03:14+09:00",
-    "id": "kon_shou"
-  },
-  {
     "title": "Pythonしか書きたくない人が、AWS上にWEBアプリを作ってみました。",
     "url": "https://qiita.com/IKEH/items/d1495a37649c25bcfc27",
     "likes_count": 256,
     "created_at": "2019-07-22T08:19:55+09:00",
     "updated_at": "2020-08-28T08:11:04+09:00",
     "id": "IKEH"
+  },
+  {
+    "title": "Laravel+Nuxt.jsでDocker開発環境構築からHerokuデプロイまで",
+    "url": "https://qiita.com/kon_shou/items/8af16956325a447a2d64",
+    "likes_count": 255,
+    "created_at": "2019-07-09T13:03:14+09:00",
+    "updated_at": "2019-07-09T13:03:14+09:00",
+    "id": "kon_shou"
   },
   {
     "title": "さよならFTPツール。VS Codeからファイルを即サーバー同期して作業効率アップ",
