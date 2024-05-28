@@ -26,7 +26,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1738,
+    "likes_count": 1739,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -58,7 +58,7 @@
   {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1407,
+    "likes_count": 1409,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -90,7 +90,7 @@
   {
     "title": "Webエンジニアが知るべき低レイヤーの技術とその学習方法",
     "url": "https://qiita.com/takugi/items/9de03b264fced76eb767",
-    "likes_count": 1133,
+    "likes_count": 1134,
     "created_at": "2018-12-18T01:42:28+09:00",
     "updated_at": "2018-12-21T14:21:57+09:00",
     "id": "takugi"
@@ -314,7 +314,7 @@
   {
     "title": "とても強い計算量クラスのコンピュータとその実現方法",
     "url": "https://qiita.com/iKodack/items/d606a09f0a40b95bf2b6",
-    "likes_count": 577,
+    "likes_count": 578,
     "created_at": "2018-12-19T23:15:38+09:00",
     "updated_at": "2019-02-15T21:53:19+09:00",
     "id": "iKodack"
@@ -322,7 +322,7 @@
   {
     "title": "C#リフレクションTIPS 55連発",
     "url": "https://qiita.com/gushwell/items/91436bd1871586f6e663",
-    "likes_count": 576,
+    "likes_count": 577,
     "created_at": "2018-12-16T21:41:49+09:00",
     "updated_at": "2023-06-15T09:25:47+09:00",
     "id": "gushwell"
@@ -424,20 +424,20 @@
     "id": "lain21"
   },
   {
+    "title": "段階的に理解する Java 例外処理",
+    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
+    "likes_count": 439,
+    "created_at": "2018-12-21T23:27:05+09:00",
+    "updated_at": "2018-12-26T11:18:48+09:00",
+    "id": "ts7i"
+  },
+  {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
     "url": "https://qiita.com/po3rin/items/c70105f684e6816621d2",
     "likes_count": 438,
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
-  },
-  {
-    "title": "段階的に理解する Java 例外処理",
-    "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 438,
-    "created_at": "2018-12-21T23:27:05+09:00",
-    "updated_at": "2018-12-26T11:18:48+09:00",
-    "id": "ts7i"
   },
   {
     "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
@@ -714,7 +714,7 @@
   {
     "title": "エンジニアは実装と戦う前に UI と戦った方が幸せになれる 〜 メンタルモデル駆動開発の TIPS 〜",
     "url": "https://qiita.com/numanomanu/items/4a3b48528a67b670b463",
-    "likes_count": 301,
+    "likes_count": 302,
     "created_at": "2018-12-25T12:06:50+09:00",
     "updated_at": "2018-12-26T13:49:22+09:00",
     "id": "numanomanu"
@@ -730,7 +730,7 @@
   {
     "title": "Python boto3 でAWSを自在に操ろう ~入門編~",
     "url": "https://qiita.com/kimihiro_n/items/f3ce86472152b2676004",
-    "likes_count": 295,
+    "likes_count": 296,
     "created_at": "2018-12-11T14:29:08+09:00",
     "updated_at": "2019-07-22T16:45:39+09:00",
     "id": "kimihiro_n"
