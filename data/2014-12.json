@@ -34,7 +34,7 @@
   {
     "title": "SEO嫌いにお送りするSEO策。これでもうSEOについてしばらく考えなくて良いぜ！！",
     "url": "https://qiita.com/taiyop/items/050c6749fb693dae8f82",
-    "likes_count": 1726,
+    "likes_count": 1725,
     "created_at": "2014-12-30T01:28:18+09:00",
     "updated_at": "2015-01-07T21:48:03+09:00",
     "id": "taiyop"
@@ -145,11 +145,11 @@
   },
   {
     "title": "iOSとの比較つき!Androidでこんなアプリ,こんな機能を作りたかったらこれを見ろ！作りたいアプリに対応するクラス、ライブラリのまとめ！",
-    "url": "https://qiita.com/appwatcher/items/7d270de99d63bb9f2be4",
+    "url": "https://qiita.com/appwchr/items/7d270de99d63bb9f2be4",
     "likes_count": 851,
     "created_at": "2014-12-07T12:26:51+09:00",
     "updated_at": "2016-09-26T09:48:37+09:00",
-    "id": "appwatcher"
+    "id": "appwchr"
   },
   {
     "title": "DDDで設計するならCQRSの利用を検討すべき",
@@ -496,20 +496,20 @@
     "id": "baban"
   },
   {
+    "title": "Python ビット演算 超入門",
+    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
+    "likes_count": 412,
+    "created_at": "2014-12-14T19:50:10+09:00",
+    "updated_at": "2023-08-06T14:06:45+09:00",
+    "id": "7shi"
+  },
+  {
     "title": "コストを下げろと言われたら~AWSでまずやること~",
     "url": "https://qiita.com/gucchon/items/33731a18e5b457f2bd34",
     "likes_count": 411,
     "created_at": "2014-12-08T22:39:58+09:00",
     "updated_at": "2014-12-09T22:20:53+09:00",
     "id": "gucchon"
-  },
-  {
-    "title": "Python ビット演算 超入門",
-    "url": "https://qiita.com/7shi/items/41d262ca11ea16d85abc",
-    "likes_count": 411,
-    "created_at": "2014-12-14T19:50:10+09:00",
-    "updated_at": "2023-08-06T14:06:45+09:00",
-    "id": "7shi"
   },
   {
     "title": "React.jsでPropやStateを使ってComponent間のやりとりをする",
@@ -626,7 +626,7 @@
   {
     "title": "Rails 4.1以降のコンソールコマンドは必ず bin/ を付けなきゃいけないの？",
     "url": "https://qiita.com/jnchito/items/c5a0848144203dce6e26",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2014-12-31T21:38:43+09:00",
     "updated_at": "2014-12-31T21:56:54+09:00",
     "id": "jnchito"
@@ -646,6 +646,14 @@
     "created_at": "2014-12-05T16:38:05+09:00",
     "updated_at": "2014-12-06T18:42:26+09:00",
     "id": "joker1007"
+  },
+  {
+    "title": "Goでnet/httpを使う時のこまごまとした注意",
+    "url": "https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18",
+    "likes_count": 312,
+    "created_at": "2014-12-22T03:06:15+09:00",
+    "updated_at": "2015-12-25T20:00:15+09:00",
+    "id": "ono_matope"
   },
   {
     "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
@@ -712,14 +720,6 @@
     "id": "kai2nenobu"
   },
   {
-    "title": "SwiftでCoreData",
-    "url": "https://qiita.com/watanave/items/4da9f4bc97247f780af8",
-    "likes_count": 280,
-    "created_at": "2014-12-04T23:16:35+09:00",
-    "updated_at": "2014-12-04T23:16:35+09:00",
-    "id": "watanave"
-  },
-  {
     "title": "知らないと損?RubyMine(IntelliJ)で役立つ細かいテクニック７つ",
     "url": "https://qiita.com/Avene/items/756c17f87d28d2ee47a4",
     "likes_count": 278,
@@ -762,7 +762,7 @@
   {
     "title": "AWSでデプロイとスケーリングを自動化する方法まとめ",
     "url": "https://qiita.com/hiro_koba_jp/items/eb438945d64c3d765e04",
-    "likes_count": 267,
+    "likes_count": 266,
     "created_at": "2014-12-24T00:00:35+09:00",
     "updated_at": "2014-12-25T11:18:46+09:00",
     "id": "hiro_koba_jp"
