@@ -2,7 +2,7 @@
   {
     "title": "不思議の国のSE用語",
     "url": "https://qiita.com/t_nakayama0714/items/478a8ed3a9ae143ad854",
-    "likes_count": 4895,
+    "likes_count": 4896,
     "created_at": "2016-01-08T02:47:09+09:00",
     "updated_at": "2023-05-02T01:32:39+09:00",
     "id": "t_nakayama0714"
@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4176,
+    "likes_count": 4177,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2818,
+    "likes_count": 2819,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -352,14 +352,6 @@
     "id": "sagaraya"
   },
   {
-    "title": "ES2015以降のJavaScriptでObjectのkeyに変数を使う",
-    "url": "https://qiita.com/kmagai/items/95481a3b9fd97e4616c9",
-    "likes_count": 518,
-    "created_at": "2016-01-11T15:39:37+09:00",
-    "updated_at": "2016-01-11T15:40:00+09:00",
-    "id": "kmagai"
-  },
-  {
     "title": "SlackのWebhook URL取得手順",
     "url": "https://qiita.com/vmmhypervisor/items/18c99624a84df8b31008",
     "likes_count": 516,
@@ -616,20 +608,20 @@
     "id": "mono0926"
   },
   {
+    "title": "Railsでの日付操作でよく使うものまとめ",
+    "url": "https://qiita.com/mmmm/items/efda48f1ac0267c95c29",
+    "likes_count": 323,
+    "created_at": "2016-01-03T17:04:27+09:00",
+    "updated_at": "2023-10-19T21:53:42+09:00",
+    "id": "mmmm"
+  },
+  {
     "title": "CSSアニメーションを使いこなすために知っておきたい5つのこと",
     "url": "https://qiita.com/nekoneko-wanwan/items/e8114c6e34d2950a7b28",
     "likes_count": 323,
     "created_at": "2016-01-28T18:14:18+09:00",
     "updated_at": "2016-02-19T10:58:01+09:00",
     "id": "nekoneko-wanwan"
-  },
-  {
-    "title": "Railsでの日付操作でよく使うものまとめ",
-    "url": "https://qiita.com/mmmm/items/efda48f1ac0267c95c29",
-    "likes_count": 322,
-    "created_at": "2016-01-03T17:04:27+09:00",
-    "updated_at": "2023-10-19T21:53:42+09:00",
-    "id": "mmmm"
   },
   {
     "title": "PHPでファイルを開いて読み込む",
