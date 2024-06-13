@@ -2,7 +2,7 @@
   {
     "title": "テストがなかった無法地帯にテストを導入して開発速度を1.7倍にした話",
     "url": "https://qiita.com/Kuniwak/items/4314451227f4d5eaa6b8",
-    "likes_count": 1700,
+    "likes_count": 1701,
     "created_at": "2017-11-30T23:59:53+09:00",
     "updated_at": "2017-12-02T14:26:55+09:00",
     "id": "Kuniwak"
@@ -34,7 +34,7 @@
   {
     "title": ".gitignoreに記載したのに反映されない件",
     "url": "https://qiita.com/fuwamaki/items/3ed021163e50beab7154",
-    "likes_count": 1200,
+    "likes_count": 1202,
     "created_at": "2017-11-09T22:58:08+09:00",
     "updated_at": "2022-02-17T11:09:47+09:00",
     "id": "fuwamaki"
@@ -434,10 +434,18 @@
   {
     "title": "Python配列のループ処理",
     "url": "https://qiita.com/motoki1990/items/d06fc7559546a8471392",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2017-11-09T22:39:32+09:00",
     "updated_at": "2017-11-11T07:34:45+09:00",
     "id": "motoki1990"
+  },
+  {
+    "title": "enum 超まとめ python3.11",
+    "url": "https://qiita.com/macinjoke/items/13aa9ba64cf9b688e74a",
+    "likes_count": 310,
+    "created_at": "2017-11-18T16:01:42+09:00",
+    "updated_at": "2023-07-24T12:11:26+09:00",
+    "id": "macinjoke"
   },
   {
     "title": "Vue.jsで始めるPWA",
@@ -446,14 +454,6 @@
     "created_at": "2017-11-07T09:40:24+09:00",
     "updated_at": "2017-12-09T07:01:09+09:00",
     "id": "gyarasu"
-  },
-  {
-    "title": "enum 超まとめ python3.11",
-    "url": "https://qiita.com/macinjoke/items/13aa9ba64cf9b688e74a",
-    "likes_count": 309,
-    "created_at": "2017-11-18T16:01:42+09:00",
-    "updated_at": "2023-07-24T12:11:26+09:00",
-    "id": "macinjoke"
   },
   {
     "title": "逆強化学習を理解する",
