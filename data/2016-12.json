@@ -346,18 +346,10 @@
   {
     "title": "Railsのポリモーフィック関連とはなんなのか",
     "url": "https://qiita.com/itkrt2y/items/32ad1512fce1bf90c20b",
-    "likes_count": 571,
+    "likes_count": 572,
     "created_at": "2016-12-04T00:00:32+09:00",
     "updated_at": "2018-12-21T01:39:51+09:00",
     "id": "itkrt2y"
-  },
-  {
-    "title": "Dockerコンテナを本番環境で使うためのセキュリティ設定",
-    "url": "https://qiita.com/muff1225/items/4edea7b039dd9f26098f",
-    "likes_count": 562,
-    "created_at": "2016-12-03T00:02:26+09:00",
-    "updated_at": "2016-12-03T00:02:26+09:00",
-    "id": "muff1225"
   },
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
@@ -402,7 +394,7 @@
   {
     "title": "複数のgitアカウントを使い分ける",
     "url": "https://qiita.com/0084ken/items/f4a8b0fbff135a987fea",
-    "likes_count": 501,
+    "likes_count": 502,
     "created_at": "2016-12-20T12:36:15+09:00",
     "updated_at": "2024-03-02T22:17:51+09:00",
     "id": "0084ken"
@@ -546,7 +538,7 @@
   {
     "title": "【Python入門】JSON形式データの扱い方",
     "url": "https://qiita.com/Morio/items/7538a939cc441367070d",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2016-12-10T18:54:00+09:00",
     "updated_at": "2016-12-12T15:53:55+09:00",
     "id": "Morio"
@@ -664,6 +656,14 @@
     "id": "mizchi"
   },
   {
+    "title": "PythonのPickleモジュールを理解したいだけの人生だった",
+    "url": "https://qiita.com/hatt0519/items/f1f4c059c28cb1575a93",
+    "likes_count": 327,
+    "created_at": "2016-12-27T16:40:53+09:00",
+    "updated_at": "2018-09-09T19:47:13+09:00",
+    "id": "hatt0519"
+  },
+  {
     "title": "【転職会議】クチコミをword2vecで自然言語処理して会社を分類してみる",
     "url": "https://qiita.com/naotaka1128/items/2c4551abfd40e43b0146",
     "likes_count": 326,
@@ -698,7 +698,7 @@
   {
     "title": "怖くない！AutoLayout 〜多画面対応 with Storyboard〜",
     "url": "https://qiita.com/_ha1f/items/5c292bb6a4617da60d4f",
-    "likes_count": 305,
+    "likes_count": 306,
     "created_at": "2016-12-18T17:35:40+09:00",
     "updated_at": "2020-06-26T13:05:03+09:00",
     "id": "_ha1f"
