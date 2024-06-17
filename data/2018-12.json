@@ -26,7 +26,7 @@
   {
     "title": "作って理解する Transformer / Attention",
     "url": "https://qiita.com/halhorn/items/c91497522be27bde17ce",
-    "likes_count": 1746,
+    "likes_count": 1747,
     "created_at": "2018-12-04T23:54:25+09:00",
     "updated_at": "2018-12-05T16:16:04+09:00",
     "id": "halhorn"
@@ -42,7 +42,7 @@
   {
     "title": "Pipenvを使ったPython開発まとめ",
     "url": "https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a",
-    "likes_count": 1451,
+    "likes_count": 1452,
     "created_at": "2018-12-13T23:43:04+09:00",
     "updated_at": "2020-09-12T16:11:22+09:00",
     "id": "y-tsutsu"
@@ -194,7 +194,7 @@
   {
     "title": "それFFmpegで出来るよ！",
     "url": "https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8",
-    "likes_count": 917,
+    "likes_count": 919,
     "created_at": "2018-12-11T13:44:33+09:00",
     "updated_at": "2021-12-08T08:19:16+09:00",
     "id": "cha84rakanal"
@@ -218,7 +218,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 719,
+    "likes_count": 720,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -394,7 +394,7 @@
   {
     "title": "カオスエンジニアリングと聞いてカオスになった人必見",
     "url": "https://qiita.com/naokiiiii/items/de20997a70922c01f754",
-    "likes_count": 462,
+    "likes_count": 463,
     "created_at": "2018-12-21T10:13:58+09:00",
     "updated_at": "2021-01-04T01:36:10+09:00",
     "id": "naokiiiii"
@@ -426,10 +426,18 @@
   {
     "title": "段階的に理解する Java 例外処理",
     "url": "https://qiita.com/ts7i/items/d7f6c1cd5a14e55943d4",
-    "likes_count": 441,
+    "likes_count": 442,
     "created_at": "2018-12-21T23:27:05+09:00",
     "updated_at": "2018-12-26T11:18:48+09:00",
     "id": "ts7i"
+  },
+  {
+    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
+    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
+    "likes_count": 439,
+    "created_at": "2018-12-28T14:05:57+09:00",
+    "updated_at": "2019-08-28T21:53:58+09:00",
+    "id": "suin"
   },
   {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
@@ -438,14 +446,6 @@
     "created_at": "2018-12-09T00:00:21+09:00",
     "updated_at": "2019-01-30T00:32:37+09:00",
     "id": "po3rin"
-  },
-  {
-    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
-    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
-    "likes_count": 438,
-    "created_at": "2018-12-28T14:05:57+09:00",
-    "updated_at": "2019-08-28T21:53:58+09:00",
-    "id": "suin"
   },
   {
     "title": "configure, make, make install とは何か",
