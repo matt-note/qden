@@ -186,7 +186,7 @@
   {
     "title": "分岐アンチパターン",
     "url": "https://qiita.com/pakkun/items/9bef9132f168ba0befd7",
-    "likes_count": 892,
+    "likes_count": 893,
     "created_at": "2015-12-10T12:30:39+09:00",
     "updated_at": "2019-02-01T14:07:23+09:00",
     "id": "pakkun"
@@ -264,20 +264,20 @@
     "id": "zaru"
   },
   {
+    "title": "SELECT文の評価順序の話",
+    "url": "https://qiita.com/suzukito/items/edcd00e680186f2930a8",
+    "likes_count": 701,
+    "created_at": "2015-12-27T15:28:38+09:00",
+    "updated_at": "2018-12-27T19:20:20+09:00",
+    "id": "suzukito"
+  },
+  {
     "title": "気をつけて！Git for Windowsにおける改行コード",
     "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
     "likes_count": 700,
     "created_at": "2015-12-25T23:01:51+09:00",
     "updated_at": "2018-12-11T08:34:12+09:00",
     "id": "uggds"
-  },
-  {
-    "title": "SELECT文の評価順序の話",
-    "url": "https://qiita.com/suzukito/items/edcd00e680186f2930a8",
-    "likes_count": 700,
-    "created_at": "2015-12-27T15:28:38+09:00",
-    "updated_at": "2018-12-27T19:20:20+09:00",
-    "id": "suzukito"
   },
   {
     "title": "JavaScript中級者への道【5. コールバック関数】",
@@ -554,7 +554,7 @@
   {
     "title": "ニコニコ動画の公開コメントデータをDeep Learningで解析する",
     "url": "https://qiita.com/ixixi/items/a3d56b2db6e09249a519",
-    "likes_count": 375,
+    "likes_count": 376,
     "created_at": "2015-12-24T02:11:23+09:00",
     "updated_at": "2015-12-29T23:23:23+09:00",
     "id": "ixixi"
