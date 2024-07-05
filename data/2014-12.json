@@ -202,7 +202,7 @@
   {
     "title": "IE10 以下を切る場合の JavaScript チェックリスト",
     "url": "https://qiita.com/Jxck/items/fe8a1c49cac717e52ae3",
-    "likes_count": 721,
+    "likes_count": 720,
     "created_at": "2014-12-18T18:27:14+09:00",
     "updated_at": "2014-12-23T22:04:48+09:00",
     "id": "Jxck"
@@ -418,7 +418,7 @@
   {
     "title": "むずかしくないWPF",
     "url": "https://qiita.com/karno/items/f30f661b40d9adec6a6d",
-    "likes_count": 467,
+    "likes_count": 468,
     "created_at": "2014-12-12T20:31:59+09:00",
     "updated_at": "2016-02-02T21:47:33+09:00",
     "id": "karno"
@@ -648,14 +648,6 @@
     "id": "joker1007"
   },
   {
-    "title": "Goでnet/httpを使う時のこまごまとした注意",
-    "url": "https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18",
-    "likes_count": 312,
-    "created_at": "2014-12-22T03:06:15+09:00",
-    "updated_at": "2015-12-25T20:00:15+09:00",
-    "id": "ono_matope"
-  },
-  {
     "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
     "url": "https://qiita.com/mkasahara/items/c029154b5436913b20e0",
     "likes_count": 307,
@@ -666,7 +658,7 @@
   {
     "title": "Golang パフォーマンスチューニング",
     "url": "https://qiita.com/naoina/items/d71ddfab31f4b29f6693",
-    "likes_count": 303,
+    "likes_count": 302,
     "created_at": "2014-12-17T00:26:14+09:00",
     "updated_at": "2014-12-17T14:35:31+09:00",
     "id": "naoina"
@@ -718,6 +710,14 @@
     "created_at": "2014-12-07T22:06:03+09:00",
     "updated_at": "2016-03-08T22:43:32+09:00",
     "id": "kai2nenobu"
+  },
+  {
+    "title": "SwiftでCoreData",
+    "url": "https://qiita.com/watanave/items/4da9f4bc97247f780af8",
+    "likes_count": 280,
+    "created_at": "2014-12-04T23:16:35+09:00",
+    "updated_at": "2014-12-04T23:16:35+09:00",
+    "id": "watanave"
   },
   {
     "title": "知らないと損?RubyMine(IntelliJ)で役立つ細かいテクニック７つ",
