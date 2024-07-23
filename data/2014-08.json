@@ -66,7 +66,7 @@
   {
     "title": "インタフェースの実装パターン #golang",
     "url": "https://qiita.com/tenntenn/items/eac962a49c56b2b15ee8",
-    "likes_count": 1101,
+    "likes_count": 1102,
     "created_at": "2014-08-04T11:07:54+09:00",
     "updated_at": "2017-12-03T12:00:41+09:00",
     "id": "tenntenn"
@@ -466,10 +466,18 @@
   {
     "title": "プログラマーが効果的な可視化を作成する （中編）",
     "url": "https://qiita.com/keiono/items/76c0aaabb4e6e0c10dc5",
-    "likes_count": 351,
+    "likes_count": 352,
     "created_at": "2014-08-27T08:28:53+09:00",
     "updated_at": "2015-02-19T02:35:24+09:00",
     "id": "keiono"
+  },
+  {
+    "title": "【C#の定数】const と readonly、static readonly の使い分け",
+    "url": "https://qiita.com/tanakaworld/items/eda69da263e24adfa07d",
+    "likes_count": 331,
+    "created_at": "2014-08-14T09:54:40+09:00",
+    "updated_at": "2017-08-17T16:28:41+09:00",
+    "id": "tanakaworld"
   },
   {
     "title": "全探索アルゴリズム入門",
@@ -478,14 +486,6 @@
     "created_at": "2014-08-23T19:13:34+09:00",
     "updated_at": "2014-08-23T19:13:34+09:00",
     "id": "MasayaMizuhara"
-  },
-  {
-    "title": "【C#の定数】const と readonly、static readonly の使い分け",
-    "url": "https://qiita.com/tanakaworld/items/eda69da263e24adfa07d",
-    "likes_count": 330,
-    "created_at": "2014-08-14T09:54:40+09:00",
-    "updated_at": "2017-08-17T16:28:41+09:00",
-    "id": "tanakaworld"
   },
   {
     "title": "AnsibleでWindowsを操作する準備をする",
