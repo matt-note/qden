@@ -26,7 +26,7 @@
   {
     "title": "RubyとRailsにおけるTime, Date, DateTime, TimeWithZoneの違い",
     "url": "https://qiita.com/jnchito/items/cae89ee43c30f5d6fa2c",
-    "likes_count": 1924,
+    "likes_count": 1925,
     "created_at": "2014-12-08T08:44:49+09:00",
     "updated_at": "2022-05-14T07:51:03+09:00",
     "id": "jnchito"
@@ -170,7 +170,7 @@
   {
     "title": "現場で使うGitのテクニック",
     "url": "https://qiita.com/treby/items/9184251b545d9ebc3198",
-    "likes_count": 809,
+    "likes_count": 808,
     "created_at": "2014-12-23T21:18:22+09:00",
     "updated_at": "2020-05-28T16:39:38+09:00",
     "id": "treby"
@@ -600,14 +600,6 @@
     "id": "inaBowBow"
   },
   {
-    "title": "xcodeでAutoLayoutでレスポンシブデザイン",
-    "url": "https://qiita.com/teradonburi/items/94b89379aa5a0bfdc71d",
-    "likes_count": 337,
-    "created_at": "2014-12-27T16:41:54+09:00",
-    "updated_at": "2016-02-14T17:36:15+09:00",
-    "id": "teradonburi"
-  },
-  {
     "title": "Singleton パターンの使いどころをまとめてみた",
     "url": "https://qiita.com/trashtoy/items/eea5dcfb1eb003101cc9",
     "likes_count": 336,
@@ -622,6 +614,14 @@
     "created_at": "2014-12-20T08:11:30+09:00",
     "updated_at": "2018-02-06T12:39:09+09:00",
     "id": "yumiyon"
+  },
+  {
+    "title": "xcodeでAutoLayoutでレスポンシブデザイン",
+    "url": "https://qiita.com/teradonburi/items/94b89379aa5a0bfdc71d",
+    "likes_count": 336,
+    "created_at": "2014-12-27T16:41:54+09:00",
+    "updated_at": "2016-02-14T17:36:15+09:00",
+    "id": "teradonburi"
   },
   {
     "title": "Rails 4.1以降のコンソールコマンドは必ず bin/ を付けなきゃいけないの？",
@@ -738,7 +738,7 @@
   {
     "title": "formタグのaction,method属性の使い方と特性〜html,slimでの記述方法〜",
     "url": "https://qiita.com/miku66/items/f3126380d3340f3d8a2b",
-    "likes_count": 275,
+    "likes_count": 277,
     "created_at": "2014-12-25T07:07:44+09:00",
     "updated_at": "2014-12-25T07:07:44+09:00",
     "id": "miku66"
