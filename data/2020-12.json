@@ -10,7 +10,7 @@
   {
     "title": "単一責任原則で無責任な多目的クラスを爆殺する",
     "url": "https://qiita.com/MinoDriven/items/76307b1b066467cbfd6a",
-    "likes_count": 2116,
+    "likes_count": 2117,
     "created_at": "2020-12-08T11:46:34+09:00",
     "updated_at": "2020-12-09T13:17:47+09:00",
     "id": "MinoDriven"
@@ -26,7 +26,7 @@
   {
     "title": "今時のPythonはこう書く2020",
     "url": "https://qiita.com/nicco_mirai/items/c1810ed2a6fc8c53c006",
-    "likes_count": 1972,
+    "likes_count": 1971,
     "created_at": "2020-12-04T08:24:15+09:00",
     "updated_at": "2020-12-06T14:11:32+09:00",
     "id": "nicco_mirai"
@@ -42,7 +42,7 @@
   {
     "title": "イスラエル8200部隊出身のガチプロハッカーに、一流のハッカーになる方法について聞いてみた。",
     "url": "https://qiita.com/tmgauss/items/da5e89496e951629517f",
-    "likes_count": 1774,
+    "likes_count": 1773,
     "created_at": "2020-12-23T18:42:40+09:00",
     "updated_at": "2021-06-09T16:29:05+09:00",
     "id": "tmgauss"
@@ -232,6 +232,14 @@
     "id": "Kazuhito"
   },
   {
+    "title": "【Kaggle】2020年に開催された画像分類コンペの1位の解法を紹介します",
+    "url": "https://qiita.com/inoichan/items/140cf018d31151d2701a",
+    "likes_count": 485,
+    "created_at": "2020-12-14T19:39:02+09:00",
+    "updated_at": "2020-12-17T01:39:42+09:00",
+    "id": "inoichan"
+  },
+  {
     "title": "[翻訳] Shopifyにおけるモジュラモノリスへの移行",
     "url": "https://qiita.com/tkyowa/items/ae9fa550237cb6f48318",
     "likes_count": 485,
@@ -240,12 +248,12 @@
     "id": "tkyowa"
   },
   {
-    "title": "【Kaggle】2020年に開催された画像分類コンペの1位の解法を紹介します",
-    "url": "https://qiita.com/inoichan/items/140cf018d31151d2701a",
-    "likes_count": 484,
-    "created_at": "2020-12-14T19:39:02+09:00",
-    "updated_at": "2020-12-17T01:39:42+09:00",
-    "id": "inoichan"
+    "title": "自動作曲AI Music Transformerの衝撃",
+    "url": "https://qiita.com/NayuSato/items/e193ea8b8fc5db560431",
+    "likes_count": 478,
+    "created_at": "2020-12-13T12:41:52+09:00",
+    "updated_at": "2020-12-16T00:32:41+09:00",
+    "id": "NayuSato"
   },
   {
     "title": "よく知らないアプリケーションの性能と戦わないといけないときの防衛術（前編）",
@@ -254,14 +262,6 @@
     "created_at": "2020-12-05T12:31:33+09:00",
     "updated_at": "2022-04-14T14:19:02+09:00",
     "id": "nfujita55a"
-  },
-  {
-    "title": "自動作曲AI Music Transformerの衝撃",
-    "url": "https://qiita.com/NayuSato/items/e193ea8b8fc5db560431",
-    "likes_count": 477,
-    "created_at": "2020-12-13T12:41:52+09:00",
-    "updated_at": "2020-12-16T00:32:41+09:00",
-    "id": "NayuSato"
   },
   {
     "title": "Pythonさえ分かればDjangoでWebアプリは作れる",
@@ -280,20 +280,20 @@
     "id": "omiita"
   },
   {
+    "title": "JavaScriptでconsole.log()を使うのはやめよう",
+    "url": "https://qiita.com/baby-degu/items/1046763163bc794870ea",
+    "likes_count": 473,
+    "created_at": "2020-12-05T20:20:17+09:00",
+    "updated_at": "2020-12-26T20:25:41+09:00",
+    "id": "baby-degu"
+  },
+  {
     "title": "二年目エンジニアが伝授。新人プログラマが成長するための8個のTips",
     "url": "https://qiita.com/ReiTamura/items/7ff902ea80e8766b7503",
     "likes_count": 473,
     "created_at": "2020-12-24T07:49:46+09:00",
     "updated_at": "2020-12-25T17:15:40+09:00",
     "id": "ReiTamura"
-  },
-  {
-    "title": "JavaScriptでconsole.log()を使うのはやめよう",
-    "url": "https://qiita.com/baby-degu/items/1046763163bc794870ea",
-    "likes_count": 472,
-    "created_at": "2020-12-05T20:20:17+09:00",
-    "updated_at": "2020-12-26T20:25:41+09:00",
-    "id": "baby-degu"
   },
   {
     "title": "2021年のTypeScript環境構築で絶対入れるべき「better-typescript-lib」の紹介",
