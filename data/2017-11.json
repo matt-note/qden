@@ -320,6 +320,14 @@
     "id": "YutamaKotaro"
   },
   {
+    "title": "C# 今更ですが、await / async",
+    "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
+    "likes_count": 411,
+    "created_at": "2017-11-30T18:32:10+09:00",
+    "updated_at": "2017-12-11T10:31:16+09:00",
+    "id": "rawr"
+  },
+  {
     "title": "Railsのjbuilderの書き方と便利なイディオムやメソッド",
     "url": "https://qiita.com/ryouzi/items/06cb0d4aa7b6527b3645",
     "likes_count": 410,
@@ -334,14 +342,6 @@
     "created_at": "2017-11-30T05:00:00+09:00",
     "updated_at": "2021-06-01T08:44:15+09:00",
     "id": "NoriakiOshita"
-  },
-  {
-    "title": "C# 今更ですが、await / async",
-    "url": "https://qiita.com/rawr/items/5d49960a4e4d3823722f",
-    "likes_count": 410,
-    "created_at": "2017-11-30T18:32:10+09:00",
-    "updated_at": "2017-12-11T10:31:16+09:00",
-    "id": "rawr"
   },
   {
     "title": "Kotlin の Coroutine を概観する",
@@ -434,7 +434,7 @@
   {
     "title": "Python配列のループ処理",
     "url": "https://qiita.com/motoki1990/items/d06fc7559546a8471392",
-    "likes_count": 337,
+    "likes_count": 338,
     "created_at": "2017-11-09T22:39:32+09:00",
     "updated_at": "2017-11-11T07:34:45+09:00",
     "id": "motoki1990"
