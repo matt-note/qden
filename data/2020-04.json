@@ -2,7 +2,7 @@
   {
     "title": "VSCode に必ず入れておきたい拡張機能",
     "url": "https://qiita.com/ucan-lab/items/e85931bf8276da43cc97",
-    "likes_count": 3239,
+    "likes_count": 3238,
     "created_at": "2020-04-16T10:15:06+09:00",
     "updated_at": "2021-05-06T16:53:08+09:00",
     "id": "ucan-lab"
@@ -26,7 +26,7 @@
   {
     "title": "[JavaScript]初心者が初見で必ずthinking顔になるもの特集",
     "url": "https://qiita.com/kozzzz/items/b4cd57ead41fc6355afd",
-    "likes_count": 1595,
+    "likes_count": 1596,
     "created_at": "2020-04-13T08:30:12+09:00",
     "updated_at": "2020-04-29T12:06:54+09:00",
     "id": "kozzzz"
@@ -40,20 +40,20 @@
     "id": "jonghyo"
   },
   {
-    "title": "最近のポケモンはデザインが複雑になったのか？【Python】【OpenCV】",
-    "url": "https://qiita.com/mrok273/items/6f0bcdc62b6184f79308",
-    "likes_count": 1223,
-    "created_at": "2020-04-21T20:26:46+09:00",
-    "updated_at": "2020-04-22T08:48:58+09:00",
-    "id": "mrok273"
-  },
-  {
     "title": "4歳娘「パパ、懐かしいJavaScript書いてるね！」",
     "url": "https://qiita.com/Yametaro/items/70e7878c5ea51788b643",
     "likes_count": 1222,
     "created_at": "2020-04-19T17:12:14+09:00",
     "updated_at": "2020-04-20T12:06:04+09:00",
     "id": "Yametaro"
+  },
+  {
+    "title": "最近のポケモンはデザインが複雑になったのか？【Python】【OpenCV】",
+    "url": "https://qiita.com/mrok273/items/6f0bcdc62b6184f79308",
+    "likes_count": 1222,
+    "created_at": "2020-04-21T20:26:46+09:00",
+    "updated_at": "2020-04-22T08:48:58+09:00",
+    "id": "mrok273"
   },
   {
     "title": "SPAのログイン認証のベストプラクティスがわからなかったのでわりと網羅的に研究してみた〜JWT or Session どっち？〜",
@@ -82,7 +82,7 @@
   {
     "title": "【長期】Qiitaの今読んでおくべき記事１００選【2021/8 更新停止】",
     "url": "https://qiita.com/j5c8k6m8/items/942c158db873f4a0eb12",
-    "likes_count": 936,
+    "likes_count": 935,
     "created_at": "2020-04-04T17:38:21+09:00",
     "updated_at": "2022-06-30T20:38:01+09:00",
     "id": "j5c8k6m8"
@@ -210,7 +210,7 @@
   {
     "title": "あやしいサイトの3分調査方法(初心者向け)",
     "url": "https://qiita.com/moneymog/items/2205388ff18b3f89f021",
-    "likes_count": 419,
+    "likes_count": 418,
     "created_at": "2020-04-19T18:28:10+09:00",
     "updated_at": "2020-04-29T16:03:37+09:00",
     "id": "moneymog"
@@ -226,7 +226,7 @@
   {
     "title": "curlコマンドでちょこっとHTTPリクエストを試すだけの記事",
     "url": "https://qiita.com/ist-a-k/items/34b408336f4ec372b139",
-    "likes_count": 410,
+    "likes_count": 411,
     "created_at": "2020-04-03T17:27:21+09:00",
     "updated_at": "2020-04-03T17:27:21+09:00",
     "id": "ist-a-k"
@@ -242,7 +242,7 @@
   {
     "title": "Microsoft Teamsに関するあれこれ（2020/04）",
     "url": "https://qiita.com/ishiayaya/items/fc89591019a4c9a991e2",
-    "likes_count": 357,
+    "likes_count": 356,
     "created_at": "2020-04-18T14:45:59+09:00",
     "updated_at": "2022-06-19T06:24:09+09:00",
     "id": "ishiayaya"
@@ -250,7 +250,7 @@
   {
     "title": "Ubuntu 20.04 LTS をインストールした後やること13選",
     "url": "https://qiita.com/outou_hakutou/items/ce06cb3c8c355d5fd87c",
-    "likes_count": 334,
+    "likes_count": 333,
     "created_at": "2020-04-23T23:39:26+09:00",
     "updated_at": "2021-01-03T20:55:01+09:00",
     "id": "outou_hakutou"
@@ -296,14 +296,6 @@
     "id": "102Design"
   },
   {
-    "title": "基本無料のPython・機械学習が学べるサイトを25個くらいまとめた",
-    "url": "https://qiita.com/meganeo/items/823e3113816651755e95",
-    "likes_count": 272,
-    "created_at": "2020-04-27T07:51:07+09:00",
-    "updated_at": "2020-09-11T19:30:52+09:00",
-    "id": "meganeo"
-  },
-  {
     "title": "【PyCaret入門】機械学習を自動化するライブラリ「PyCaret」を入門する",
     "url": "https://qiita.com/tani_AI_Academy/items/62151d7e151024733919",
     "likes_count": 271,
@@ -312,20 +304,20 @@
     "id": "tani_AI_Academy"
   },
   {
+    "title": "基本無料のPython・機械学習が学べるサイトを25個くらいまとめた",
+    "url": "https://qiita.com/meganeo/items/823e3113816651755e95",
+    "likes_count": 271,
+    "created_at": "2020-04-27T07:51:07+09:00",
+    "updated_at": "2020-09-11T19:30:52+09:00",
+    "id": "meganeo"
+  },
+  {
     "title": "React向けUIコンポーネントライブラリ、Material UI(v4)の紹介",
     "url": "https://qiita.com/h-yoshikawa44/items/efa33101b0a02cba7759",
     "likes_count": 258,
     "created_at": "2020-04-19T19:43:47+09:00",
     "updated_at": "2022-01-24T16:40:42+09:00",
     "id": "h-yoshikawa44"
-  },
-  {
-    "title": "Chromeの拡張機能を2つ使うだけでブラウザの操作を自動化！？",
-    "url": "https://qiita.com/Daara_y/items/4f006ead604e015186dc",
-    "likes_count": 255,
-    "created_at": "2020-04-24T10:56:07+09:00",
-    "updated_at": "2020-05-07T11:16:21+09:00",
-    "id": "Daara_y"
   },
   {
     "title": "あとで後悔しないPythonのディレクトリ構成をつくってみる",

@@ -10,7 +10,7 @@
   {
     "title": "Dockerイメージの理解を目指すチュートリアル",
     "url": "https://qiita.com/zembutsu/items/24558f9d0d254e33088f",
-    "likes_count": 2270,
+    "likes_count": 2269,
     "created_at": "2020-06-13T17:30:02+09:00",
     "updated_at": "2021-11-21T15:34:56+09:00",
     "id": "zembutsu"
@@ -18,7 +18,7 @@
   {
     "title": "「ビジネスロジック」とは何か、どう実装するのか",
     "url": "https://qiita.com/os1ma/items/25725edfe3c2af93d735",
-    "likes_count": 2181,
+    "likes_count": 2180,
     "created_at": "2020-06-27T18:48:53+09:00",
     "updated_at": "2021-05-23T10:52:57+09:00",
     "id": "os1ma"
@@ -26,7 +26,7 @@
   {
     "title": "Dockerとはどういったものなのか、めちゃくちゃ丁寧に説明してみる",
     "url": "https://qiita.com/SatoshiSobue/items/a612ebbb3a9242c09db5",
-    "likes_count": 1951,
+    "likes_count": 1950,
     "created_at": "2020-06-05T11:50:40+09:00",
     "updated_at": "2022-08-30T02:27:10+09:00",
     "id": "SatoshiSobue"
@@ -50,7 +50,7 @@
   {
     "title": "現代の僕「コンピュータが生まれた歴史知りたい」",
     "url": "https://qiita.com/zawawahoge/items/176801fc3511b259b4ac",
-    "likes_count": 1271,
+    "likes_count": 1270,
     "created_at": "2020-06-03T21:32:15+09:00",
     "updated_at": "2023-06-17T12:19:04+09:00",
     "id": "zawawahoge"
@@ -74,7 +74,7 @@
   {
     "title": "OSS活動をはじめて5ヶ月の振り返りと学んだこと",
     "url": "https://qiita.com/ryo2132/items/0ea06e93ac26f2c83736",
-    "likes_count": 1141,
+    "likes_count": 1140,
     "created_at": "2020-06-15T20:31:37+09:00",
     "updated_at": "2020-07-26T08:10:11+09:00",
     "id": "ryo2132"
@@ -106,7 +106,7 @@
   {
     "title": "【※絶対に自動化してはいけない】自動化禁止サイトまとめ！",
     "url": "https://qiita.com/n_oshiumi/items/b4efd1f40ec0a1b77376",
-    "likes_count": 788,
+    "likes_count": 787,
     "created_at": "2020-06-24T19:14:45+09:00",
     "updated_at": "2020-06-25T11:04:37+09:00",
     "id": "n_oshiumi"
@@ -122,7 +122,7 @@
   {
     "title": "超高速！多倍長整数の計算手法【前編：大きな数の四則計算を圧倒的な速度で！】",
     "url": "https://qiita.com/square1001/items/1aa12e04934b6e749962",
-    "likes_count": 751,
+    "likes_count": 750,
     "created_at": "2020-06-15T20:16:53+09:00",
     "updated_at": "2021-12-31T00:57:41+09:00",
     "id": "square1001"
@@ -154,7 +154,7 @@
   {
     "title": "awsって最近すごいらしいね？あれいくらで作れる？を雑に見積もる",
     "url": "https://qiita.com/otupy/items/0448468cbc833d407302",
-    "likes_count": 677,
+    "likes_count": 676,
     "created_at": "2020-06-12T14:42:59+09:00",
     "updated_at": "2020-06-12T20:43:45+09:00",
     "id": "otupy"
@@ -162,18 +162,10 @@
   {
     "title": "浮動小数点数オタクが AtCoder Beginner Contest 169 のC問題をガチで解説してみる",
     "url": "https://qiita.com/mod_poppo/items/910b5fb9303baf864bf7",
-    "likes_count": 666,
+    "likes_count": 665,
     "created_at": "2020-06-01T21:09:33+09:00",
     "updated_at": "2020-06-04T14:16:02+09:00",
     "id": "mod_poppo"
-  },
-  {
-    "title": "【自動化】PDF内の表をPythonで抜き出す",
-    "url": "https://qiita.com/run1000dori/items/4ef70e1f7753c824b40f",
-    "likes_count": 665,
-    "created_at": "2020-06-28T10:47:22+09:00",
-    "updated_at": "2021-08-08T06:53:06+09:00",
-    "id": "run1000dori"
   },
   {
     "title": "開発チームの生産性・健全性を客観的に知るためにリポジトリ履歴から機械的に可視化するツールを作った",
@@ -182,6 +174,14 @@
     "created_at": "2020-06-03T14:27:09+09:00",
     "updated_at": "2020-06-03T17:38:51+09:00",
     "id": "hirokidaichi"
+  },
+  {
+    "title": "【自動化】PDF内の表をPythonで抜き出す",
+    "url": "https://qiita.com/run1000dori/items/4ef70e1f7753c824b40f",
+    "likes_count": 664,
+    "created_at": "2020-06-28T10:47:22+09:00",
+    "updated_at": "2021-08-08T06:53:06+09:00",
+    "id": "run1000dori"
   },
   {
     "title": "サーバーレスの理解とメリット・デメリット（2020年版）",
@@ -194,7 +194,7 @@
   {
     "title": "Gitを触り始めてからGitHubにpushするまでの流れを誰よりも丁寧に説明する",
     "url": "https://qiita.com/gakisan8273/items/6ebaf9217d140ff1f031",
-    "likes_count": 586,
+    "likes_count": 585,
     "created_at": "2020-06-29T07:37:17+09:00",
     "updated_at": "2020-12-08T15:38:51+09:00",
     "id": "gakisan8273"
@@ -202,7 +202,7 @@
   {
     "title": "Kuwahara filterとかいう明らかに日本人の名前な画像フィルターに出会い、試してみたらすごかったので紹介する。",
     "url": "https://qiita.com/Cartelet/items/5c1c012c132be3aa9608",
-    "likes_count": 563,
+    "likes_count": 562,
     "created_at": "2020-06-10T21:19:48+09:00",
     "updated_at": "2023-02-25T06:29:54+09:00",
     "id": "Cartelet"
@@ -210,7 +210,7 @@
   {
     "title": "エンジニアの「雑談」の効能を考える",
     "url": "https://qiita.com/viva_tweet_x/items/dd9d3353d1b961fd1c71",
-    "likes_count": 547,
+    "likes_count": 546,
     "created_at": "2020-06-16T22:56:05+09:00",
     "updated_at": "2020-06-18T14:56:46+09:00",
     "id": "viva_tweet_x"
@@ -242,7 +242,7 @@
   {
     "title": "なぜ僕らはGitでバージョン管理をするのか",
     "url": "https://qiita.com/gakisan8273/items/d2d52a12ad553a82b94b",
-    "likes_count": 481,
+    "likes_count": 480,
     "created_at": "2020-06-16T08:47:32+09:00",
     "updated_at": "2020-06-29T08:18:31+09:00",
     "id": "gakisan8273"
@@ -282,7 +282,7 @@
   {
     "title": "Python を Go に書き換えるとどれくらい速くなる？ 7つの言語で Dijkstra の実行速度を比較",
     "url": "https://qiita.com/reki2000/items/55ef54b96b26d80ad694",
-    "likes_count": 451,
+    "likes_count": 450,
     "created_at": "2020-06-20T16:46:42+09:00",
     "updated_at": "2022-09-10T22:43:37+09:00",
     "id": "reki2000"
@@ -290,7 +290,7 @@
   {
     "title": "機械学習で使われる評価関数まとめ",
     "url": "https://qiita.com/monda00/items/a2ee8e0da51953c24da8",
-    "likes_count": 420,
+    "likes_count": 419,
     "created_at": "2020-06-23T20:08:48+09:00",
     "updated_at": "2021-06-27T15:48:17+09:00",
     "id": "monda00"
@@ -306,7 +306,7 @@
   {
     "title": "ソフトウェア開発のキャリアパス",
     "url": "https://qiita.com/baby-degu/items/98de55e0a94e4c0d65ba",
-    "likes_count": 372,
+    "likes_count": 371,
     "created_at": "2020-06-07T20:58:27+09:00",
     "updated_at": "2020-06-07T20:58:27+09:00",
     "id": "baby-degu"
@@ -314,7 +314,7 @@
   {
     "title": "非エンジニアの友人にPythonを教えた。彼はPythonistaとなった。",
     "url": "https://qiita.com/1021ky@github/items/3d9230f35be5c7d61e4d",
-    "likes_count": 366,
+    "likes_count": 365,
     "created_at": "2020-06-13T16:21:44+09:00",
     "updated_at": "2024-08-23T16:06:29+09:00",
     "id": "1021ky@github"
@@ -330,7 +330,7 @@
   {
     "title": "【個人開発】フローチャートで診断を作れるWebサービスをリリースしました【全コード公開】",
     "url": "https://qiita.com/retoruto_carry/items/0d427e24ed7ba6d4d6e7",
-    "likes_count": 355,
+    "likes_count": 354,
     "created_at": "2020-06-15T15:59:07+09:00",
     "updated_at": "2020-06-22T15:04:58+09:00",
     "id": "retoruto_carry"
@@ -338,7 +338,7 @@
   {
     "title": "Qiitaやはてブロに投稿するようなユーザーはみんなtextlintを使うと捗るぞ！",
     "url": "https://qiita.com/fruitriin/items/de0e3d4c2205b734bdc5",
-    "likes_count": 354,
+    "likes_count": 353,
     "created_at": "2020-06-06T18:54:56+09:00",
     "updated_at": "2020-06-09T10:08:00+09:00",
     "id": "fruitriin"
@@ -368,14 +368,6 @@
     "id": "yamaru"
   },
   {
-    "title": "話題のGoogle製OSS - Tsunamiを試してみた",
-    "url": "https://qiita.com/satto_sann/items/69deb12ed3f11155a284",
-    "likes_count": 313,
-    "created_at": "2020-06-27T02:44:35+09:00",
-    "updated_at": "2020-06-27T02:44:35+09:00",
-    "id": "satto_sann"
-  },
-  {
     "title": "Raspberry Pi4 単体で TensorFlow Lite はどれくらいの速度で動く？",
     "url": "https://qiita.com/terryky/items/243000fcfcb89af11510",
     "likes_count": 312,
@@ -384,9 +376,17 @@
     "id": "terryky"
   },
   {
+    "title": "話題のGoogle製OSS - Tsunamiを試してみた",
+    "url": "https://qiita.com/satto_sann/items/69deb12ed3f11155a284",
+    "likes_count": 312,
+    "created_at": "2020-06-27T02:44:35+09:00",
+    "updated_at": "2020-06-27T02:44:35+09:00",
+    "id": "satto_sann"
+  },
+  {
     "title": "AIエンジニアが知っておきたいAI新ビジネス立案のノウハウ・コツまとめ",
     "url": "https://qiita.com/sugulu_Ogawa_ISID/items/fa0ea622979507cdad6b",
-    "likes_count": 307,
+    "likes_count": 306,
     "created_at": "2020-06-14T00:13:08+09:00",
     "updated_at": "2022-07-16T14:50:03+09:00",
     "id": "sugulu_Ogawa_ISID"
@@ -418,7 +418,7 @@
   {
     "title": "機械学習について一回挫折してしまったエンジニアが何とかお仕事で機械学習を使えるようになるまで",
     "url": "https://qiita.com/nord2sudjp/items/c5590b108f5e72dd52cf",
-    "likes_count": 272,
+    "likes_count": 271,
     "created_at": "2020-06-25T12:34:48+09:00",
     "updated_at": "2020-06-29T21:06:10+09:00",
     "id": "nord2sudjp"
@@ -434,7 +434,7 @@
   {
     "title": "Macユーザーエンジニア業務効率化オススメアプリ10選",
     "url": "https://qiita.com/microstone/items/f7882492a2de11aa7b2b",
-    "likes_count": 232,
+    "likes_count": 231,
     "created_at": "2020-06-07T22:11:46+09:00",
     "updated_at": "2020-06-07T22:11:46+09:00",
     "id": "microstone"
