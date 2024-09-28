@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3959,
+    "likes_count": 3960,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2022-04-09T10:11:53+09:00",
     "id": "YudaiTsukamoto"
@@ -50,7 +50,7 @@
   {
     "title": "いまさら聞けないLinuxとメモリの基礎＆vmstatの詳しい使い方",
     "url": "https://qiita.com/kunihirotanaka/items/70d43d48757aea79de2d",
-    "likes_count": 1675,
+    "likes_count": 1676,
     "created_at": "2016-12-25T13:48:22+09:00",
     "updated_at": "2016-12-26T11:43:00+09:00",
     "id": "kunihirotanaka"
@@ -98,7 +98,7 @@
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
     "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1171,
+    "likes_count": 1172,
     "created_at": "2016-12-28T10:13:50+09:00",
     "updated_at": "2016-12-29T00:03:57+09:00",
     "id": "kunihirotanaka"
@@ -200,20 +200,20 @@
     "id": "taru0216"
   },
   {
+    "title": "Gitのブランチモデルについて",
+    "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
+    "likes_count": 762,
+    "created_at": "2016-12-05T00:04:34+09:00",
+    "updated_at": "2016-12-05T00:12:43+09:00",
+    "id": "y-okudera"
+  },
+  {
     "title": "PostCSS まとめ",
     "url": "https://qiita.com/morishitter/items/4a04eb144abf49f41d7d",
     "likes_count": 762,
     "created_at": "2016-12-31T15:29:28+09:00",
     "updated_at": "2018-02-27T10:35:44+09:00",
     "id": "morishitter"
-  },
-  {
-    "title": "Gitのブランチモデルについて",
-    "url": "https://qiita.com/y-okudera/items/0b57830d2f56d1d51692",
-    "likes_count": 761,
-    "created_at": "2016-12-05T00:04:34+09:00",
-    "updated_at": "2016-12-05T00:12:43+09:00",
-    "id": "y-okudera"
   },
   {
     "title": "至高のDockerイメージ生成を求めて",
@@ -424,20 +424,20 @@
     "id": "ma3tk"
   },
   {
+    "title": "あなたはDRY原則を誤認している？",
+    "url": "https://qiita.com/yatmsu/items/b4a84c4ae78fd67a364c",
+    "likes_count": 476,
+    "created_at": "2016-12-06T22:47:20+09:00",
+    "updated_at": "2022-09-26T18:43:01+09:00",
+    "id": "yatmsu"
+  },
+  {
     "title": "Now でクラウドの複雑さから解放されよう、今すぐに",
     "url": "https://qiita.com/aggre/items/f0cb9f8b8e8c54768e50",
     "likes_count": 475,
     "created_at": "2016-12-04T18:52:17+09:00",
     "updated_at": "2019-09-10T15:55:24+09:00",
     "id": "aggre"
-  },
-  {
-    "title": "あなたはDRY原則を誤認している？",
-    "url": "https://qiita.com/yatmsu/items/b4a84c4ae78fd67a364c",
-    "likes_count": 475,
-    "created_at": "2016-12-06T22:47:20+09:00",
-    "updated_at": "2022-09-26T18:43:01+09:00",
-    "id": "yatmsu"
   },
   {
     "title": "ReactとReduxを結ぶパッケージ「react-redux」についてconnectの実装パターンを試す",
