@@ -362,7 +362,7 @@
   {
     "title": "[解説] SQLクエリのN+1問題",
     "url": "https://qiita.com/muroya2355/items/d4eecbe722a8ddb2568b",
-    "likes_count": 451,
+    "likes_count": 454,
     "created_at": "2019-05-04T18:42:19+09:00",
     "updated_at": "2020-02-14T00:38:47+09:00",
     "id": "muroya2355"
@@ -394,7 +394,7 @@
   {
     "title": "アーキテクチャの「なぜ？」を記録する！ADRってなんぞや？",
     "url": "https://qiita.com/fuubit/items/dbb22435202acbe48849",
-    "likes_count": 424,
+    "likes_count": 425,
     "created_at": "2019-05-20T19:23:13+09:00",
     "updated_at": "2019-05-23T19:32:22+09:00",
     "id": "fuubit"
@@ -472,20 +472,20 @@
     "id": "jnchito"
   },
   {
+    "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
+    "url": "https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd",
+    "likes_count": 361,
+    "created_at": "2019-05-08T10:02:28+09:00",
+    "updated_at": "2019-05-08T10:11:41+09:00",
+    "id": "sadnessOjisan"
+  },
+  {
     "title": "モダン JavaScript プログラミングを始めるために知っておきたい技術セット",
     "url": "https://qiita.com/Go-Noji/items/25a30b8cadef86abc2b0",
     "likes_count": 361,
     "created_at": "2019-05-24T02:31:22+09:00",
     "updated_at": "2020-01-27T18:26:31+09:00",
     "id": "Go-Noji"
-  },
-  {
-    "title": "関心の分離を意識してサーバーを作ってみる(TypeScript + Express)",
-    "url": "https://qiita.com/sadnessOjisan/items/ea5590efa3f55ef56edd",
-    "likes_count": 360,
-    "created_at": "2019-05-08T10:02:28+09:00",
-    "updated_at": "2019-05-08T10:11:41+09:00",
-    "id": "sadnessOjisan"
   },
   {
     "title": "5時間でWebサービスをローンチするためにした７つのこと",
