@@ -48,6 +48,14 @@
     "id": "y-tsutsu"
   },
   {
+    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
+    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
+    "likes_count": 1423,
+    "created_at": "2018-12-10T02:27:41+09:00",
+    "updated_at": "2024-03-30T10:25:19+09:00",
+    "id": "syantien"
+  },
+  {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
     "likes_count": 1422,
@@ -56,17 +64,9 @@
     "id": "ampersand"
   },
   {
-    "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方",
-    "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7",
-    "likes_count": 1421,
-    "created_at": "2018-12-10T02:27:41+09:00",
-    "updated_at": "2024-03-30T10:25:19+09:00",
-    "id": "syantien"
-  },
-  {
     "title": "未経験からRuby on Railsを学んで仕事につなげるまでの1000時間メニュー",
     "url": "https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a",
-    "likes_count": 1420,
+    "likes_count": 1421,
     "created_at": "2018-12-09T16:53:44+09:00",
     "updated_at": "2022-04-09T10:11:13+09:00",
     "id": "saboyutaka"
@@ -218,7 +218,7 @@
   {
     "title": "C++でクリーンなコードの書き方",
     "url": "https://qiita.com/elipmoc101/items/01003c82dbd2e464a071",
-    "likes_count": 754,
+    "likes_count": 755,
     "created_at": "2018-12-14T00:12:22+09:00",
     "updated_at": "2024-05-30T11:18:20+09:00",
     "id": "elipmoc101"
@@ -432,20 +432,20 @@
     "id": "chihiro"
   },
   {
+    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
+    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
+    "likes_count": 442,
+    "created_at": "2018-12-28T14:05:57+09:00",
+    "updated_at": "2019-08-28T21:53:58+09:00",
+    "id": "suin"
+  },
+  {
     "title": "GCPとDockerでKaggle用計算環境構築",
     "url": "https://qiita.com/lain21/items/a33a39d465cd08b662f1",
     "likes_count": 441,
     "created_at": "2018-12-20T19:03:59+09:00",
     "updated_at": "2018-12-21T01:51:55+09:00",
     "id": "lain21"
-  },
-  {
-    "title": "コードに頻出する語形変化が難しい英単語: register, success, fail, data, statusなど",
-    "url": "https://qiita.com/suin/items/cbef2dd0dba9c02e491f",
-    "likes_count": 441,
-    "created_at": "2018-12-28T14:05:57+09:00",
-    "updated_at": "2019-08-28T21:53:58+09:00",
-    "id": "suin"
   },
   {
     "title": "「Vue.js + Go言語 + Docker」で作る！画像アップロード機能実装ハンズオン",
