@@ -10,7 +10,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 3178,
+    "likes_count": 3177,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2021-11-15T07:10:13+09:00",
     "id": "yasuhiroki"
@@ -74,7 +74,7 @@
   {
     "title": "Ansibleをはじめる人に。",
     "url": "https://qiita.com/t_nakayama0714/items/fe55ee56d6446f67113c",
-    "likes_count": 1493,
+    "likes_count": 1492,
     "created_at": "2015-12-20T23:20:14+09:00",
     "updated_at": "2018-08-01T08:37:18+09:00",
     "id": "t_nakayama0714"
@@ -242,7 +242,7 @@
   {
     "title": "Laravelのバリデーションで指定できる内容をざっくりまとめ直しました。",
     "url": "https://qiita.com/fagai/items/9904409d3703ef6f79a2",
-    "likes_count": 749,
+    "likes_count": 750,
     "created_at": "2015-12-18T19:22:27+09:00",
     "updated_at": "2024-05-22T13:25:46+09:00",
     "id": "fagai"
@@ -298,7 +298,7 @@
   {
     "title": "テンプレートエンジンEJSで使える便利な構文まとめ",
     "url": "https://qiita.com/y_hokkey/items/31f1daa6cecb5f4ea4c9",
-    "likes_count": 647,
+    "likes_count": 648,
     "created_at": "2015-12-16T18:35:48+09:00",
     "updated_at": "2023-05-04T18:51:18+09:00",
     "id": "y_hokkey"
@@ -696,14 +696,6 @@
     "id": "k24d"
   },
   {
-    "title": "Rustで書いた自作OSをRaspberry Pi Zeroで動かす",
-    "url": "https://qiita.com/mopp/items/826f192095961c811690",
-    "likes_count": 295,
-    "created_at": "2015-12-25T22:51:24+09:00",
-    "updated_at": "2015-12-27T02:51:52+09:00",
-    "id": "mopp"
-  },
-  {
     "title": "【Rails】Amazon APIで書籍検索アプリ作成",
     "url": "https://qiita.com/tatsuki-m/items/043f14e7d4504277c947",
     "likes_count": 294,
@@ -718,6 +710,14 @@
     "created_at": "2015-12-17T00:00:33+09:00",
     "updated_at": "2017-03-29T10:58:59+09:00",
     "id": "dogwood008"
+  },
+  {
+    "title": "Rustで書いた自作OSをRaspberry Pi Zeroで動かす",
+    "url": "https://qiita.com/mopp/items/826f192095961c811690",
+    "likes_count": 294,
+    "created_at": "2015-12-25T22:51:24+09:00",
+    "updated_at": "2015-12-27T02:51:52+09:00",
+    "id": "mopp"
   },
   {
     "title": "PHP7.0がでたので、いまどきの「普通」のPHPの話。",

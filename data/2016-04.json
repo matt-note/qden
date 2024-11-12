@@ -274,7 +274,7 @@
   {
     "title": "Android Studioでできる、あなたが（多分）知らない（大体）10個のコト",
     "url": "https://qiita.com/sugoi_wada/items/b5d1f9185c4de3f3af2f",
-    "likes_count": 586,
+    "likes_count": 585,
     "created_at": "2016-04-17T03:39:24+09:00",
     "updated_at": "2016-04-17T03:39:24+09:00",
     "id": "sugoi_wada"
@@ -330,7 +330,7 @@
   {
     "title": "ファイルディスクリプタについて理解する",
     "url": "https://qiita.com/toshihirock/items/78286fccf07dbe6df38f",
-    "likes_count": 481,
+    "likes_count": 480,
     "created_at": "2016-04-22T22:51:58+09:00",
     "updated_at": "2016-04-22T22:51:58+09:00",
     "id": "toshihirock"
@@ -386,7 +386,7 @@
   {
     "title": "Java Stream APIをいまさら入門",
     "url": "https://qiita.com/takumi-n/items/369dd3fcb9ccb8fcfa44",
-    "likes_count": 435,
+    "likes_count": 434,
     "created_at": "2016-04-01T00:38:36+09:00",
     "updated_at": "2021-03-15T16:51:00+09:00",
     "id": "takumi-n"
@@ -488,20 +488,20 @@
     "id": "deaf_tadashi"
   },
   {
-    "title": "XGBoostの主な特徴と理論の概要",
-    "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
-    "likes_count": 377,
-    "created_at": "2016-04-02T21:19:46+09:00",
-    "updated_at": "2016-04-02T22:05:31+09:00",
-    "id": "yh0sh"
-  },
-  {
     "title": "お名前.comからRoute53へネームサーバーを変更する時に迷子になる人へ",
     "url": "https://qiita.com/ysKey2/items/0545e13ec05def42ad55",
     "likes_count": 377,
     "created_at": "2016-04-22T15:50:55+09:00",
     "updated_at": "2018-08-21T19:08:57+09:00",
     "id": "ysKey2"
+  },
+  {
+    "title": "XGBoostの主な特徴と理論の概要",
+    "url": "https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa",
+    "likes_count": 376,
+    "created_at": "2016-04-02T21:19:46+09:00",
+    "updated_at": "2016-04-02T22:05:31+09:00",
+    "id": "yh0sh"
   },
   {
     "title": "Amazon Cognito User Poolsを使って、webサイトにユーザ認証基盤を作る",
@@ -568,20 +568,20 @@
     "id": "yo1000"
   },
   {
+    "title": "機械学習のライブラリ dlib",
+    "url": "https://qiita.com/nonbiri15/items/9561c8194ba0b2041bd0",
+    "likes_count": 331,
+    "created_at": "2016-04-09T23:32:44+09:00",
+    "updated_at": "2023-09-24T23:30:22+09:00",
+    "id": "nonbiri15"
+  },
+  {
     "title": "JavaScript の原理：クロージャの真実",
     "url": "https://qiita.com/takuya0301/items/278f1d9507c28a251735",
     "likes_count": 331,
     "created_at": "2016-04-19T04:56:13+09:00",
     "updated_at": "2016-04-20T22:21:42+09:00",
     "id": "takuya0301"
-  },
-  {
-    "title": "機械学習のライブラリ dlib",
-    "url": "https://qiita.com/nonbiri15/items/9561c8194ba0b2041bd0",
-    "likes_count": 330,
-    "created_at": "2016-04-09T23:32:44+09:00",
-    "updated_at": "2023-09-24T23:30:22+09:00",
-    "id": "nonbiri15"
   },
   {
     "title": "SQLでグループごとにある最大値の行を取得する",
@@ -674,7 +674,7 @@
   {
     "title": "mybatis-spring-boot-starterの使い方",
     "url": "https://qiita.com/kazuki43zoo/items/ea79e206d7c2e990e478",
-    "likes_count": 265,
+    "likes_count": 266,
     "created_at": "2016-04-02T18:31:39+09:00",
     "updated_at": "2019-07-17T00:30:31+09:00",
     "id": "kazuki43zoo"
