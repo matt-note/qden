@@ -10,7 +10,7 @@
   {
     "title": "Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary)",
     "url": "https://qiita.com/wtetsu/items/c43232c6c44918e977c9",
-    "likes_count": 4965,
+    "likes_count": 4964,
     "created_at": "2018-09-05T00:06:08+09:00",
     "updated_at": "2023-11-19T00:44:23+09:00",
     "id": "wtetsu"
@@ -170,7 +170,7 @@
   {
     "title": "Apache Kafkaの概要とアーキテクチャ",
     "url": "https://qiita.com/sigmalist/items/5a26ab519cbdf1e07af3",
-    "likes_count": 821,
+    "likes_count": 822,
     "created_at": "2018-09-07T15:44:03+09:00",
     "updated_at": "2020-01-31T19:01:04+09:00",
     "id": "sigmalist"
@@ -234,7 +234,7 @@
   {
     "title": "約3年かけてプログラマ向けニュース推薦アプリを作り直した話",
     "url": "https://qiita.com/ytanaka/items/6cfad69a4c000c05be40",
-    "likes_count": 669,
+    "likes_count": 670,
     "created_at": "2018-09-07T06:05:54+09:00",
     "updated_at": "2020-06-16T15:44:12+09:00",
     "id": "ytanaka"
@@ -330,7 +330,7 @@
   {
     "title": "【物体検出手法の歴史 : YOLOの紹介】",
     "url": "https://qiita.com/cv_carnavi/items/68dcda71e90321574a2b",
-    "likes_count": 495,
+    "likes_count": 496,
     "created_at": "2018-09-01T12:15:36+09:00",
     "updated_at": "2021-12-23T19:59:34+09:00",
     "id": "cv_carnavi"
@@ -592,19 +592,19 @@
     "id": "Maki-Daisuke"
   },
   {
+    "title": "【20分でデプロイ】AWS EC2にDjango+PostgreSQL+Nginx環境を構築してササッと公開",
+    "url": "https://qiita.com/tachibanayu24/items/b8d73cdfd4cbd42c5b1d",
+    "likes_count": 235,
+    "created_at": "2018-09-11T00:40:55+09:00",
+    "updated_at": "2019-10-03T18:21:38+09:00",
+    "id": "tachibanayu24"
+  },
+  {
     "title": "【PyCon JP 2018】発表資料まとめ",
     "url": "https://qiita.com/kobaboy/items/46ff9f19b9ea5638fa8e",
     "likes_count": 235,
     "created_at": "2018-09-23T14:45:53+09:00",
     "updated_at": "2018-09-25T13:13:07+09:00",
     "id": "kobaboy"
-  },
-  {
-    "title": "【20分でデプロイ】AWS EC2にDjango+PostgreSQL+Nginx環境を構築してササッと公開",
-    "url": "https://qiita.com/tachibanayu24/items/b8d73cdfd4cbd42c5b1d",
-    "likes_count": 234,
-    "created_at": "2018-09-11T00:40:55+09:00",
-    "updated_at": "2019-10-03T18:21:38+09:00",
-    "id": "tachibanayu24"
   }
 ]
