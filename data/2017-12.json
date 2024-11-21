@@ -90,7 +90,7 @@
   {
     "title": "Selenium webdriverよく使う操作メソッドまとめ",
     "url": "https://qiita.com/mochio/items/dc9935ee607895420186",
-    "likes_count": 1061,
+    "likes_count": 1060,
     "created_at": "2017-12-18T10:51:50+09:00",
     "updated_at": "2022-03-23T15:01:48+09:00",
     "id": "mochio"
@@ -162,7 +162,7 @@
   {
     "title": "アカデミックヤクザにキレられないためのLaTeX論文執筆メソッド",
     "url": "https://qiita.com/suigin/items/10960e516f2d44f6b6de",
-    "likes_count": 875,
+    "likes_count": 876,
     "created_at": "2017-12-22T00:03:45+09:00",
     "updated_at": "2018-03-05T16:54:15+09:00",
     "id": "suigin"
@@ -216,6 +216,14 @@
     "id": "shionhonda"
   },
   {
+    "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
+    "url": "https://qiita.com/bokuweb/items/1575337bef44ae82f4d3",
+    "likes_count": 772,
+    "created_at": "2017-12-18T10:54:24+09:00",
+    "updated_at": "2020-02-12T11:34:17+09:00",
+    "id": "bokuweb"
+  },
+  {
     "title": "systemctl コマンド",
     "url": "https://qiita.com/sinsengumi/items/24d726ec6c761fc75cc9",
     "likes_count": 771,
@@ -224,17 +232,9 @@
     "id": "sinsengumi"
   },
   {
-    "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
-    "url": "https://qiita.com/bokuweb/items/1575337bef44ae82f4d3",
-    "likes_count": 771,
-    "created_at": "2017-12-18T10:54:24+09:00",
-    "updated_at": "2020-02-12T11:34:17+09:00",
-    "id": "bokuweb"
-  },
-  {
     "title": "割と突き詰めてやったvim→vscode移行",
     "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
-    "likes_count": 766,
+    "likes_count": 765,
     "created_at": "2017-12-18T10:12:06+09:00",
     "updated_at": "2019-07-10T10:58:40+09:00",
     "id": "y-mattun"
@@ -258,7 +258,7 @@
   {
     "title": "Django データベース操作 についてのまとめ",
     "url": "https://qiita.com/okoppe8/items/66a8747cf179a538355b",
-    "likes_count": 738,
+    "likes_count": 737,
     "created_at": "2017-12-26T14:03:46+09:00",
     "updated_at": "2017-12-28T13:03:50+09:00",
     "id": "okoppe8"
@@ -648,20 +648,20 @@
     "id": "jirokun"
   },
   {
+    "title": "WebRTCでビデオチャットアプリを作ってみた！",
+    "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
+    "likes_count": 361,
+    "created_at": "2017-12-21T21:30:58+09:00",
+    "updated_at": "2019-01-06T14:01:57+09:00",
+    "id": "lighthouse"
+  },
+  {
     "title": "nvm(Node Version Manager)を使ってNode.jsをインストールする手順",
     "url": "https://qiita.com/ffggss/items/94f1c4c5d311db2ec71a",
     "likes_count": 361,
     "created_at": "2017-12-22T11:21:44+09:00",
     "updated_at": "2024-06-16T22:48:58+09:00",
     "id": "ffggss"
-  },
-  {
-    "title": "WebRTCでビデオチャットアプリを作ってみた！",
-    "url": "https://qiita.com/lighthouse/items/34bb8ccb6149bbfae427",
-    "likes_count": 360,
-    "created_at": "2017-12-21T21:30:58+09:00",
-    "updated_at": "2019-01-06T14:01:57+09:00",
-    "id": "lighthouse"
   },
   {
     "title": "Kaggleの練習問題（Regression）を解いてKagglerになる",
