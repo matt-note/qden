@@ -18,7 +18,7 @@
   {
     "title": "【決定版】スーパーわかりやすい最適化アルゴリズム -損失関数からAdamとニュートン法-",
     "url": "https://qiita.com/omiita/items/1735c1d048fe5f611f80",
-    "likes_count": 2296,
+    "likes_count": 2298,
     "created_at": "2019-12-30T12:19:11+09:00",
     "updated_at": "2024-06-11T13:47:18+09:00",
     "id": "omiita"
@@ -58,7 +58,7 @@
   {
     "title": "同じチームにいて最高に心強かったエンジニアの特徴をまとめてみた",
     "url": "https://qiita.com/jofuku/items/6420097fd5ff4c44c24d",
-    "likes_count": 2000,
+    "likes_count": 2001,
     "created_at": "2019-12-22T09:59:17+09:00",
     "updated_at": "2020-01-19T15:59:20+09:00",
     "id": "jofuku"
@@ -74,7 +74,7 @@
   {
     "title": "深層学習界の大前提Transformerの論文解説！",
     "url": "https://qiita.com/omiita/items/07e69aef6c156d23c538",
-    "likes_count": 1874,
+    "likes_count": 1875,
     "created_at": "2019-12-09T07:36:34+09:00",
     "updated_at": "2022-12-16T17:42:28+09:00",
     "id": "omiita"
@@ -90,7 +90,7 @@
   {
     "title": "個人開発したアプリが大コケしてるので失敗要因を分析してみた",
     "url": "https://qiita.com/aiiro_swift/items/fe27eae6e708b187d341",
-    "likes_count": 1485,
+    "likes_count": 1486,
     "created_at": "2019-12-12T03:46:09+09:00",
     "updated_at": "2019-12-19T02:35:45+09:00",
     "id": "aiiro_swift"
@@ -186,7 +186,7 @@
   {
     "title": "Qiitaのスパム狩りをしたらAutoMLに仕事を奪われた件",
     "url": "https://qiita.com/dcm_chida/items/0b687fe42b932e090a36",
-    "likes_count": 944,
+    "likes_count": 945,
     "created_at": "2019-12-01T10:59:59+09:00",
     "updated_at": "2019-12-24T03:29:26+09:00",
     "id": "dcm_chida"
@@ -234,7 +234,7 @@
   {
     "title": "Party Parrot とは 〜イカれたオウムの歴史を紐解く〜",
     "url": "https://qiita.com/ayatothos/items/0c3da3d48fe8ade705e6",
-    "likes_count": 756,
+    "likes_count": 758,
     "created_at": "2019-12-17T01:20:19+09:00",
     "updated_at": "2020-07-28T17:57:45+09:00",
     "id": "ayatothos"
@@ -314,7 +314,7 @@
   {
     "title": "ゴリゴリの文系がＡＩをほぼ独学した半年",
     "url": "https://qiita.com/kyamad/items/f9988fe89c7665e933b4",
-    "likes_count": 630,
+    "likes_count": 629,
     "created_at": "2019-12-27T19:50:42+09:00",
     "updated_at": "2023-12-08T11:54:10+09:00",
     "id": "kyamad"
@@ -338,7 +338,7 @@
   {
     "title": "ふりかえりを拡張する「ふりかえりチートシート」",
     "url": "https://qiita.com/viva_tweet_x/items/b06f56ce83038fc2bb8f",
-    "likes_count": 593,
+    "likes_count": 594,
     "created_at": "2019-12-04T21:49:42+09:00",
     "updated_at": "2019-12-04T21:49:42+09:00",
     "id": "viva_tweet_x"
@@ -488,20 +488,20 @@
     "id": "yoship1639"
   },
   {
+    "title": "そのリクエストパラメータ、クエリストリングに入れますか、それともボディに入れますか",
+    "url": "https://qiita.com/sakuraya/items/6f1030279a747bcce648",
+    "likes_count": 435,
+    "created_at": "2019-12-08T00:31:43+09:00",
+    "updated_at": "2019-12-08T00:42:00+09:00",
+    "id": "sakuraya"
+  },
+  {
     "title": "Ruby on Railsの現場でよく見る書き方【実例あり】",
     "url": "https://qiita.com/ryokky59/items/988f25fa1fb6b9aefa8e",
     "likes_count": 435,
     "created_at": "2019-12-14T09:25:17+09:00",
     "updated_at": "2019-12-16T09:30:27+09:00",
     "id": "ryokky59"
-  },
-  {
-    "title": "そのリクエストパラメータ、クエリストリングに入れますか、それともボディに入れますか",
-    "url": "https://qiita.com/sakuraya/items/6f1030279a747bcce648",
-    "likes_count": 434,
-    "created_at": "2019-12-08T00:31:43+09:00",
-    "updated_at": "2019-12-08T00:42:00+09:00",
-    "id": "sakuraya"
   },
   {
     "title": "Angular と Firebase で月間PV1億超えの PWA を作った話",
@@ -578,7 +578,7 @@
   {
     "title": "Laravelでドメイン駆動設計(DDD)を実践し、Eloquent Model依存の設計から脱却する",
     "url": "https://qiita.com/mejileben/items/302a9f502ca0801b1efb",
-    "likes_count": 371,
+    "likes_count": 372,
     "created_at": "2019-12-09T16:53:33+09:00",
     "updated_at": "2021-09-07T10:59:11+09:00",
     "id": "mejileben"
@@ -586,7 +586,7 @@
   {
     "title": "素敵なREADMEの書き方✨",
     "url": "https://qiita.com/koeri3/items/f85a617dcb6efebb2cab",
-    "likes_count": 366,
+    "likes_count": 367,
     "created_at": "2019-12-21T18:19:18+09:00",
     "updated_at": "2020-12-08T22:55:00+09:00",
     "id": "koeri3"
@@ -658,7 +658,7 @@
   {
     "title": "LaTeXの数式を映えさせる",
     "url": "https://qiita.com/t_kemmochi/items/483b8fcdb5db8d1f5d5e",
-    "likes_count": 328,
+    "likes_count": 329,
     "created_at": "2019-12-17T08:11:11+09:00",
     "updated_at": "2020-03-15T17:28:19+09:00",
     "id": "t_kemmochi"
