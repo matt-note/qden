@@ -218,7 +218,7 @@
   {
     "title": "Spring MVCのコントローラでの戻り値いろいろ",
     "url": "https://qiita.com/tag1216/items/3680b92cf96eb5a170f0",
-    "likes_count": 676,
+    "likes_count": 675,
     "created_at": "2014-12-17T22:18:43+09:00",
     "updated_at": "2014-12-17T22:21:08+09:00",
     "id": "tag1216"
@@ -354,7 +354,7 @@
   {
     "title": "RBMから考えるDeep Learning　～黒魔術を添えて～",
     "url": "https://qiita.com/t_Signull/items/f776aecb4909b7c5c116",
-    "likes_count": 538,
+    "likes_count": 539,
     "created_at": "2014-12-06T22:29:38+09:00",
     "updated_at": "2014-12-18T22:01:59+09:00",
     "id": "t_Signull"
@@ -648,6 +648,14 @@
     "id": "joker1007"
   },
   {
+    "title": "Goでnet/httpを使う時のこまごまとした注意",
+    "url": "https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18",
+    "likes_count": 312,
+    "created_at": "2014-12-22T03:06:15+09:00",
+    "updated_at": "2015-12-25T20:00:15+09:00",
+    "id": "ono_matope"
+  },
+  {
     "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",
     "url": "https://qiita.com/mkasahara/items/c029154b5436913b20e0",
     "likes_count": 308,
@@ -702,14 +710,6 @@
     "created_at": "2014-12-15T22:38:03+09:00",
     "updated_at": "2017-06-18T22:48:59+09:00",
     "id": "tbpgr"
-  },
-  {
-    "title": "SwiftでCoreData",
-    "url": "https://qiita.com/watanave/items/4da9f4bc97247f780af8",
-    "likes_count": 280,
-    "created_at": "2014-12-04T23:16:35+09:00",
-    "updated_at": "2014-12-04T23:16:35+09:00",
-    "id": "watanave"
   },
   {
     "title": "use-packageで可読性の高いinit.elを書く",
