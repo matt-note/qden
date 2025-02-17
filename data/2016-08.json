@@ -1,0 +1,506 @@
+[
+  {
+    "title": "日本の行政機関等が公開しているAPIについてのまとめ（2016年8月17日暫定版。随時更新）",
+    "url": "https://qiita.com/kimuraya/items/3cc6c84bf6eac30851f1",
+    "likes_count": 2445,
+    "created_at": "2016-08-17T20:48:24+09:00",
+    "updated_at": "2017-01-22T15:10:15+09:00",
+    "id": "kimuraya"
+  },
+  {
+    "title": "Windows Subsystem for Linux (WSL1) をインストールしてみよう！",
+    "url": "https://qiita.com/Aruneko/items/c79810b0b015bebf30bb",
+    "likes_count": 2225,
+    "created_at": "2016-08-03T10:58:15+09:00",
+    "updated_at": "2020-06-07T21:06:52+09:00",
+    "id": "Aruneko"
+  },
+  {
+    "title": "DI・DIコンテナ、ちゃんと理解出来てる・・？",
+    "url": "https://qiita.com/ritukiii/items/de30b2d944109521298f",
+    "likes_count": 2015,
+    "created_at": "2016-08-02T09:10:12+09:00",
+    "updated_at": "2017-02-03T16:30:10+09:00",
+    "id": "ritukiii"
+  },
+  {
+    "title": "CSSアニメーション 入門",
+    "url": "https://qiita.com/soarflat/items/4a302e0cafa21477707f",
+    "likes_count": 1681,
+    "created_at": "2016-08-19T00:50:02+09:00",
+    "updated_at": "2023-04-14T21:12:52+09:00",
+    "id": "soarflat"
+  },
+  {
+    "title": "【データ分析の必読10冊+差をつける10冊＋100冊超】データサイエンス、データ分析、機械学習関連の本",
+    "url": "https://qiita.com/aokikenichi/items/ae4df263f591e47528a6",
+    "likes_count": 1624,
+    "created_at": "2016-08-23T11:46:09+09:00",
+    "updated_at": "2023-08-26T23:33:28+09:00",
+    "id": "aokikenichi"
+  },
+  {
+    "title": "サーバからクライアントに送信する技術 - WebSocketを中心に",
+    "url": "https://qiita.com/yuba/items/00fc1892b296fb7b8de9",
+    "likes_count": 1591,
+    "created_at": "2016-08-24T17:54:24+09:00",
+    "updated_at": "2016-11-03T01:14:55+09:00",
+    "id": "yuba"
+  },
+  {
+    "title": "flexboxのバグに立ち向かう（flexboxバグまとめ）",
+    "url": "https://qiita.com/hashrock/items/189db03021b0f565ae27",
+    "likes_count": 1356,
+    "created_at": "2016-08-14T16:03:20+09:00",
+    "updated_at": "2017-10-10T11:45:44+09:00",
+    "id": "hashrock"
+  },
+  {
+    "title": " 「なぜDI(依存性注入)が必要なのか？」についてGoogleが解説しているページを翻訳した　",
+    "url": "https://qiita.com/mizunowanko/items/53eed059fc044c5aa5dc",
+    "likes_count": 1324,
+    "created_at": "2016-08-13T14:24:29+09:00",
+    "updated_at": "2016-08-14T09:25:39+09:00",
+    "id": "mizunowanko"
+  },
+  {
+    "title": "【PHP超入門】Cookieとセッションについて",
+    "url": "https://qiita.com/7968/items/ce03feb17c8eaa6e4672",
+    "likes_count": 1294,
+    "created_at": "2016-08-22T00:45:10+09:00",
+    "updated_at": "2024-02-21T16:29:21+09:00",
+    "id": "7968"
+  },
+  {
+    "title": "GitHubのソースコードをWebページとして公開する手順（GitHub Pages）",
+    "url": "https://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096",
+    "likes_count": 1251,
+    "created_at": "2016-08-18T10:27:52+09:00",
+    "updated_at": "2022-02-20T17:54:54+09:00",
+    "id": "tonkotsuboy_com"
+  },
+  {
+    "title": "TensorFlowを使った為替(FX)のトレードシステムを作るチュートリアル  ～システムのセットアップからトレードまで～",
+    "url": "https://qiita.com/jiji_platform/items/268377c542706e6f44b1",
+    "likes_count": 1028,
+    "created_at": "2016-08-16T16:56:59+09:00",
+    "updated_at": "2016-08-23T07:45:12+09:00",
+    "id": "jiji_platform"
+  },
+  {
+    "title": "step by stepで始めるwebpack",
+    "url": "https://qiita.com/howdy39/items/48d85c430f90a21075cd",
+    "likes_count": 1007,
+    "created_at": "2016-08-08T06:09:37+09:00",
+    "updated_at": "2019-01-21T18:26:36+09:00",
+    "id": "howdy39"
+  },
+  {
+    "title": "高機能ホスティングサービスNetlifyについて調べて使ってみた",
+    "url": "https://qiita.com/TakahiRoyte/items/b7c4d1581df1a17a93fb",
+    "likes_count": 918,
+    "created_at": "2016-08-18T12:28:51+09:00",
+    "updated_at": "2016-08-19T10:01:18+09:00",
+    "id": "TakahiRoyte"
+  },
+  {
+    "title": "bash: 標準出力、標準エラー出力をファイル、画面それぞれに出力する方法",
+    "url": "https://qiita.com/laikuaut/items/e1cc312ffc7ec2c872fc",
+    "likes_count": 903,
+    "created_at": "2016-08-28T05:10:13+09:00",
+    "updated_at": "2016-08-28T07:08:24+09:00",
+    "id": "laikuaut"
+  },
+  {
+    "title": "Service Workerの基本とそれを使ってできること",
+    "url": "https://qiita.com/y_fujieda/items/f9e765ac9d89ba241154",
+    "likes_count": 876,
+    "created_at": "2016-08-31T16:38:50+09:00",
+    "updated_at": "2016-08-31T16:38:50+09:00",
+    "id": "y_fujieda"
+  },
+  {
+    "title": "console.logまとめ 2016年夏",
+    "url": "https://qiita.com/ykyk1218/items/0f5858d077d43a49cfe2",
+    "likes_count": 841,
+    "created_at": "2016-08-18T13:25:15+09:00",
+    "updated_at": "2016-08-18T13:25:15+09:00",
+    "id": "ykyk1218"
+  },
+  {
+    "title": "初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ",
+    "url": "https://qiita.com/takanatsu/items/fc89de9bd11148da1438",
+    "likes_count": 806,
+    "created_at": "2016-08-25T23:46:02+09:00",
+    "updated_at": "2016-08-25T23:51:28+09:00",
+    "id": "takanatsu"
+  },
+  {
+    "title": "Anaconda で Python 環境をインストールする",
+    "url": "https://qiita.com/t2y/items/2a3eb58103e85d8064b6",
+    "likes_count": 799,
+    "created_at": "2016-08-20T18:03:59+09:00",
+    "updated_at": "2018-11-12T13:21:06+09:00",
+    "id": "t2y"
+  },
+  {
+    "title": "Seleniumアレルギーのための処方箋",
+    "url": "https://qiita.com/cognitom/items/27b7375bea653b414c8f",
+    "likes_count": 725,
+    "created_at": "2016-08-06T20:18:34+09:00",
+    "updated_at": "2017-02-05T03:16:47+09:00",
+    "id": "cognitom"
+  },
+  {
+    "title": "線形代数の基礎",
+    "url": "https://qiita.com/nognog/items/8279935a96b4ca5dd375",
+    "likes_count": 711,
+    "created_at": "2016-08-30T23:11:19+09:00",
+    "updated_at": "2020-08-23T02:47:09+09:00",
+    "id": "nognog"
+  },
+  {
+    "title": "[Deprecated] Go CodeReviewComments 日本語翻訳 #golang ",
+    "url": "https://qiita.com/knsh14/items/8b73b31822c109d4c497",
+    "likes_count": 698,
+    "created_at": "2016-08-18T10:48:47+09:00",
+    "updated_at": "2020-04-09T12:33:00+09:00",
+    "id": "knsh14"
+  },
+  {
+    "title": "ワイヤレスマウスを安価な物理ボタンとして使う",
+    "url": "https://qiita.com/uiu/items/a4158939e605b2b0c501",
+    "likes_count": 660,
+    "created_at": "2016-08-22T18:20:43+09:00",
+    "updated_at": "2016-08-22T18:23:08+09:00",
+    "id": "uiu"
+  },
+  {
+    "title": "language server protocolについて (前編)",
+    "url": "https://qiita.com/atsushieno/items/ce31df9bd88e98eec5c4",
+    "likes_count": 653,
+    "created_at": "2016-08-19T12:33:03+09:00",
+    "updated_at": "2021-05-15T14:49:58+09:00",
+    "id": "atsushieno"
+  },
+  {
+    "title": "Let's Encrypt で Nginx にSSLを設定する",
+    "url": "https://qiita.com/HeRo/items/f9eb8d8a08d4d5b63ee9",
+    "likes_count": 619,
+    "created_at": "2016-08-14T11:31:29+09:00",
+    "updated_at": "2021-06-13T13:31:11+09:00",
+    "id": "HeRo"
+  },
+  {
+    "title": "[Python] Plotlyでぐりぐり動かせるグラフを作る",
+    "url": "https://qiita.com/inoory/items/12028af62018bf367722",
+    "likes_count": 605,
+    "created_at": "2016-08-30T21:14:18+09:00",
+    "updated_at": "2020-07-08T18:58:25+09:00",
+    "id": "inoory"
+  },
+  {
+    "title": "k-meansの最適なクラスター数を調べる方法",
+    "url": "https://qiita.com/deaikei/items/11a10fde5bb47a2cf2c2",
+    "likes_count": 589,
+    "created_at": "2016-08-08T00:49:06+09:00",
+    "updated_at": "2016-08-08T09:11:03+09:00",
+    "id": "deaikei"
+  },
+  {
+    "title": "Optimizer : 深層学習における勾配法について",
+    "url": "https://qiita.com/tokkuman/items/1944c00415d129ca0ee9",
+    "likes_count": 587,
+    "created_at": "2016-08-20T01:50:05+09:00",
+    "updated_at": "2016-08-22T21:01:00+09:00",
+    "id": "tokkuman"
+  },
+  {
+    "title": "JavaScript中級TIPS",
+    "url": "https://qiita.com/mczkzk/items/c02d5180cf3a562cb7a8",
+    "likes_count": 574,
+    "created_at": "2016-08-08T17:23:19+09:00",
+    "updated_at": "2016-09-07T22:25:54+09:00",
+    "id": "mczkzk"
+  },
+  {
+    "title": "2020年まで使えるfont-familyおすすめゴシック体",
+    "url": "https://qiita.com/tsuka-rinorino/items/4181efd43d072e246519",
+    "likes_count": 570,
+    "created_at": "2016-08-04T10:43:39+09:00",
+    "updated_at": "2019-12-25T18:27:36+09:00",
+    "id": "tsuka-rinorino"
+  },
+  {
+    "title": "自社サービス採用へ。本気で作るReact+Reduxのプロジェクト構成",
+    "url": "https://qiita.com/yuinchirn/items/286353f5c80cc44f1caf",
+    "likes_count": 556,
+    "created_at": "2016-08-31T17:31:38+09:00",
+    "updated_at": "2016-08-31T17:31:38+09:00",
+    "id": "yuinchirn"
+  },
+  {
+    "title": "RxSwiftの機能カタログ",
+    "url": "https://qiita.com/k5n/items/e80ab6bff4bbb170122d",
+    "likes_count": 534,
+    "created_at": "2016-08-03T09:31:01+09:00",
+    "updated_at": "2017-06-03T20:55:05+09:00",
+    "id": "k5n"
+  },
+  {
+    "title": "氷解！データ分析、機械学習手法ってたくさんあるけどいつどれを使えばよいのか",
+    "url": "https://qiita.com/aokikenichi/items/688e66d10a944051039c",
+    "likes_count": 495,
+    "created_at": "2016-08-23T15:21:31+09:00",
+    "updated_at": "2020-07-19T12:00:00+09:00",
+    "id": "aokikenichi"
+  },
+  {
+    "title": ".ssh/configファイルでSSH接続を管理する",
+    "url": "https://qiita.com/0084ken/items/2e4e9ae44ec5e01328f1",
+    "likes_count": 493,
+    "created_at": "2016-08-09T13:11:27+09:00",
+    "updated_at": "2018-03-09T16:02:57+09:00",
+    "id": "0084ken"
+  },
+  {
+    "title": "最適化におけるPython（PuLP版）",
+    "url": "https://qiita.com/SaitoTsutomu/items/070ca9cb37c6b2b492f0",
+    "likes_count": 492,
+    "created_at": "2016-08-18T17:17:48+09:00",
+    "updated_at": "2024-09-19T17:49:40+09:00",
+    "id": "SaitoTsutomu"
+  },
+  {
+    "title": "Pythonでデスクトップアプリを作る with Electron",
+    "url": "https://qiita.com/yoshizaki_91/items/da9711c26e71522ad289",
+    "likes_count": 486,
+    "created_at": "2016-08-07T02:29:43+09:00",
+    "updated_at": "2017-03-16T14:18:12+09:00",
+    "id": "yoshizaki_91"
+  },
+  {
+    "title": "資料で使う技術/プロダクトロゴのリンク集",
+    "url": "https://qiita.com/tkit/items/932316c5f5f7b162b61e",
+    "likes_count": 485,
+    "created_at": "2016-08-11T17:05:59+09:00",
+    "updated_at": "2022-07-02T10:31:32+09:00",
+    "id": "tkit"
+  },
+  {
+    "title": "Google Sheets のデータを JSON 形式で取得する Web API をサクッと作る",
+    "url": "https://qiita.com/takatama/items/7aa1097aac453fff1d53",
+    "likes_count": 479,
+    "created_at": "2016-08-20T20:24:54+09:00",
+    "updated_at": "2021-03-07T10:47:40+09:00",
+    "id": "takatama"
+  },
+  {
+    "title": "UI考：なぜそのセルには押せる感があるのか",
+    "url": "https://qiita.com/usagimaru/items/2ce0fff22ef993662c11",
+    "likes_count": 478,
+    "created_at": "2016-08-31T16:42:00+09:00",
+    "updated_at": "2016-08-31T16:42:00+09:00",
+    "id": "usagimaru"
+  },
+  {
+    "title": "Rubyでディープラーニング",
+    "url": "https://qiita.com/elgoog/items/8e7102a87889950d060d",
+    "likes_count": 475,
+    "created_at": "2016-08-03T07:59:05+09:00",
+    "updated_at": "2016-08-30T00:28:10+09:00",
+    "id": "elgoog"
+  },
+  {
+    "title": "社内でCSSの新しい方針について話したメモ",
+    "url": "https://qiita.com/tenkei/items/c27e296376950fd8c2e9",
+    "likes_count": 459,
+    "created_at": "2016-08-18T17:27:15+09:00",
+    "updated_at": "2016-08-22T02:01:50+09:00",
+    "id": "tenkei"
+  },
+  {
+    "title": "AWSのALBがリリースされたので触ってnginxの機能の代わりになるか試してみた",
+    "url": "https://qiita.com/t_kawamura/items/1db78b60a94fc809911f",
+    "likes_count": 441,
+    "created_at": "2016-08-16T14:59:01+09:00",
+    "updated_at": "2016-09-09T16:51:54+09:00",
+    "id": "t_kawamura"
+  },
+  {
+    "title": "押下(おうか)にまつわる話",
+    "url": "https://qiita.com/yaju/items/0ceb6a0343561b4d208e",
+    "likes_count": 434,
+    "created_at": "2016-08-18T02:55:47+09:00",
+    "updated_at": "2021-03-18T20:45:50+09:00",
+    "id": "yaju"
+  },
+  {
+    "title": "例外、エラー、異常、そして",
+    "url": "https://qiita.com/yugui/items/28085697041966726964",
+    "likes_count": 432,
+    "created_at": "2016-08-31T18:01:52+09:00",
+    "updated_at": "2016-09-10T13:58:24+09:00",
+    "id": "yugui"
+  },
+  {
+    "title": "Laravelでテストコードを書くためのチュートリアル",
+    "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
+    "likes_count": 425,
+    "created_at": "2016-08-06T12:48:15+09:00",
+    "updated_at": "2016-08-06T12:48:15+09:00",
+    "id": "niisan-tokyo"
+  },
+  {
+    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
+    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
+    "likes_count": 423,
+    "created_at": "2016-08-30T17:27:15+09:00",
+    "updated_at": "2020-02-07T14:34:31+09:00",
+    "id": "t-a-run"
+  },
+  {
+    "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
+    "url": "https://qiita.com/ryo2132/items/63ced19601b3fa30e6de",
+    "likes_count": 408,
+    "created_at": "2016-08-12T10:26:11+09:00",
+    "updated_at": "2020-05-17T05:29:20+09:00",
+    "id": "ryo2132"
+  },
+  {
+    "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
+    "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
+    "likes_count": 397,
+    "created_at": "2016-08-04T23:10:37+09:00",
+    "updated_at": "2016-08-08T12:50:34+09:00",
+    "id": "mpyw"
+  },
+  {
+    "title": "講義まとめ：自然言語処理のための深層学習（CS224d）",
+    "url": "https://qiita.com/yoh_okuno/items/06155fe4666204caf944",
+    "likes_count": 383,
+    "created_at": "2016-08-22T23:51:46+09:00",
+    "updated_at": "2016-08-22T23:51:46+09:00",
+    "id": "yoh_okuno"
+  },
+  {
+    "title": "Jupyterのショートカットキー一覧を調べてみた",
+    "url": "https://qiita.com/masafumi_miya/items/6524dbd227705351a00c",
+    "likes_count": 382,
+    "created_at": "2016-08-07T23:16:26+09:00",
+    "updated_at": "2016-08-07T23:16:26+09:00",
+    "id": "masafumi_miya"
+  },
+  {
+    "title": "Github issue で質問してはいけない",
+    "url": "https://qiita.com/methane/items/78a90c6efb1a7c4da57d",
+    "likes_count": 380,
+    "created_at": "2016-08-08T12:03:10+09:00",
+    "updated_at": "2023-06-14T18:28:12+09:00",
+    "id": "methane"
+  },
+  {
+    "title": "bundler、bundle execについて　※自分用メモ",
+    "url": "https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8",
+    "likes_count": 376,
+    "created_at": "2016-08-08T10:06:03+09:00",
+    "updated_at": "2016-08-08T15:41:46+09:00",
+    "id": "dawn_628"
+  },
+  {
+    "title": "クラスタ数を自動推定するX-means法を調べてみた",
+    "url": "https://qiita.com/deaikei/items/8615362d320c76e2ce0b",
+    "likes_count": 352,
+    "created_at": "2016-08-21T18:48:58+09:00",
+    "updated_at": "2016-08-22T09:22:33+09:00",
+    "id": "deaikei"
+  },
+  {
+    "title": "Spring Boot解説第18回(基本編：Controllerとは)",
+    "url": "https://qiita.com/TEBASAKI/items/267c261db17f178e33eb",
+    "likes_count": 347,
+    "created_at": "2016-08-08T10:54:54+09:00",
+    "updated_at": "2017-06-22T20:01:30+09:00",
+    "id": "TEBASAKI"
+  },
+  {
+    "title": "Arelでクエリを書くのはやめた方が良い5つの理由",
+    "url": "https://qiita.com/jnchito/items/630b9f038c87298b5756",
+    "likes_count": 339,
+    "created_at": "2016-08-10T10:49:18+09:00",
+    "updated_at": "2017-06-01T05:27:19+09:00",
+    "id": "jnchito"
+  },
+  {
+    "title": "Gitの基礎",
+    "url": "https://qiita.com/satoshi1335/items/ead109412430a078feaa",
+    "likes_count": 314,
+    "created_at": "2016-08-14T02:12:21+09:00",
+    "updated_at": "2017-09-12T00:16:57+09:00",
+    "id": "satoshi1335"
+  },
+  {
+    "title": "[日本語訳]A successful Git branching model",
+    "url": "https://qiita.com/homhom44/items/9f13c646fa2619ae63d0",
+    "likes_count": 302,
+    "created_at": "2016-08-02T02:44:49+09:00",
+    "updated_at": "2016-08-02T02:47:37+09:00",
+    "id": "homhom44"
+  },
+  {
+    "title": "Pythonの環境構築 on Mac ( pyenv, virtualenv, anaconda, ipython notebook )",
+    "url": "https://qiita.com/shizuma/items/027167c6257f1c9d2a6f",
+    "likes_count": 295,
+    "created_at": "2016-08-13T17:35:17+09:00",
+    "updated_at": "2018-04-15T18:04:41+09:00",
+    "id": "shizuma"
+  },
+  {
+    "title": "Django入門にはDjango Girls Tutorialがおすすめ",
+    "url": "https://qiita.com/takechanman1228/items/d711e175b32f833c5e9c",
+    "likes_count": 287,
+    "created_at": "2016-08-12T23:28:52+09:00",
+    "updated_at": "2017-02-06T10:19:48+09:00",
+    "id": "takechanman1228"
+  },
+  {
+    "title": "pythonでバッチスクリプトを書くときの雛形",
+    "url": "https://qiita.com/fetaro/items/77cb5571c472eac85031",
+    "likes_count": 285,
+    "created_at": "2016-08-16T23:32:52+09:00",
+    "updated_at": "2021-08-04T09:43:49+09:00",
+    "id": "fetaro"
+  },
+  {
+    "title": "初心者に捧げる対話システムの作り方",
+    "url": "https://qiita.com/Hironsan/items/0373339388f460cebb08",
+    "likes_count": 280,
+    "created_at": "2016-08-24T10:11:24+09:00",
+    "updated_at": "2016-08-25T13:13:12+09:00",
+    "id": "Hironsan"
+  },
+  {
+    "title": "Linuxコマンドのソースコードを取得する方法：オリジナルコマンド作成前の勉強向け",
+    "url": "https://qiita.com/Nao1215/items/770429ada9fb463ae2ef",
+    "likes_count": 262,
+    "created_at": "2016-08-28T11:22:54+09:00",
+    "updated_at": "2019-06-01T23:05:11+09:00",
+    "id": "Nao1215"
+  },
+  {
+    "title": "ターミナルのよく使うコマンド",
+    "url": "https://qiita.com/ryo2132/items/b7e312b0eb50fc449841",
+    "likes_count": 251,
+    "created_at": "2016-08-11T11:44:08+09:00",
+    "updated_at": "2019-02-08T13:32:52+09:00",
+    "id": "ryo2132"
+  },
+  {
+    "title": "C言語で学ぶソケットAPI入門 第1回 サーバ編",
+    "url": "https://qiita.com/tajima_taso/items/2f0606db7764580cf295",
+    "likes_count": 237,
+    "created_at": "2016-08-16T09:30:38+09:00",
+    "updated_at": "2020-01-16T15:47:14+09:00",
+    "id": "tajima_taso"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "title": "要件定義～システム設計ができる人材になれる記事",
+    "url": "https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8",
+    "likes_count": 7276,
+    "created_at": "2020-01-11T09:04:24+09:00",
+    "updated_at": "2024-04-17T21:43:38+09:00",
+    "id": "Saku731"
+  },
+  {
+    "title": "良いコードの書き方",
+    "url": "https://qiita.com/alt_yamamoto/items/25eda376e6b947208996",
+    "likes_count": 5380,
+    "created_at": "2020-01-21T10:50:39+09:00",
+    "updated_at": "2023-01-24T10:21:13+09:00",
+    "id": "alt_yamamoto"
+  },
+  {
+    "title": "【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】",
+    "url": "https://qiita.com/keisukee/items/76ce249ed264b8acc5f8",
+    "likes_count": 2992,
+    "created_at": "2020-01-05T11:50:44+09:00",
+    "updated_at": "2021-10-31T14:17:12+09:00",
+    "id": "keisukee"
+  },
+  {
+    "title": "2020年の開発者が知っておくべき11の必須スキル",
+    "url": "https://qiita.com/rana_kualu/items/c79a16ff503c86b27483",
+    "likes_count": 2102,
+    "created_at": "2020-01-20T19:54:42+09:00",
+    "updated_at": "2022-10-23T12:27:35+09:00",
+    "id": "rana_kualu"
+  },
+  {
+    "title": "高校生がリアルタイム投票サイトを公開したらいきなり1万PVを記録した話",
+    "url": "https://qiita.com/akaoni_sohei/items/186121bd9994197aab50",
+    "likes_count": 1961,
+    "created_at": "2020-01-05T11:14:16+09:00",
+    "updated_at": "2020-02-11T12:25:59+09:00",
+    "id": "akaoni_sohei"
+  },
+  {
+    "title": "EC2でブログを立ち上げた途端に来た、怪しい攻撃たち",
+    "url": "https://qiita.com/KMim/items/60c1ce893c09872acd15",
+    "likes_count": 1799,
+    "created_at": "2020-01-15T12:39:21+09:00",
+    "updated_at": "2021-10-21T10:08:11+09:00",
+    "id": "KMim"
+  },
+  {
+    "title": "Vue.jsで作成された、ちょっと面白くて役立ちそうなサービス",
+    "url": "https://qiita.com/s-yoshiki/items/51150b37153b41df1da6",
+    "likes_count": 1523,
+    "created_at": "2020-01-29T08:43:49+09:00",
+    "updated_at": "2020-05-16T19:46:31+09:00",
+    "id": "s-yoshiki"
+  },
+  {
+    "title": "【GitHub】README.mdをカッコ可愛くデザインしてアプリの魅力を120%にする",
+    "url": "https://qiita.com/aocattleya/items/5f836e9c65ba3eb3af03",
+    "likes_count": 1489,
+    "created_at": "2020-01-09T18:55:08+09:00",
+    "updated_at": "2022-06-02T15:35:37+09:00",
+    "id": "aocattleya"
+  },
+  {
+    "title": "Python の __init__.py とは何なのか",
+    "url": "https://qiita.com/msi/items/d91ea3900373ff8b09d7",
+    "likes_count": 1404,
+    "created_at": "2020-01-17T22:20:31+09:00",
+    "updated_at": "2020-03-19T12:31:33+09:00",
+    "id": "msi"
+  },
+  {
+    "title": "Vue開発者のためのVue.jsベストプラクティス集15選",
+    "url": "https://qiita.com/mtoyopet/items/87a32d8e3497c5421727",
+    "likes_count": 1399,
+    "created_at": "2020-01-29T23:00:56+09:00",
+    "updated_at": "2020-02-25T12:03:18+09:00",
+    "id": "mtoyopet"
+  },
+  {
+    "title": " 【作業効率化】優秀すぎて課金してでも個人的に使ってるmacOSソフトウェアまとめ【5選】",
+    "url": "https://qiita.com/keisukee/items/b14ee87d7bd29511e580",
+    "likes_count": 1263,
+    "created_at": "2020-01-04T09:38:09+09:00",
+    "updated_at": "2021-10-31T14:16:59+09:00",
+    "id": "keisukee"
+  },
+  {
+    "title": "駆け出しエンジニアの頃に知ってたら超捗ってたlinux系コマンド・テクニックまとめ",
+    "url": "https://qiita.com/keisukee/items/a07743279ae86effe1ca",
+    "likes_count": 1173,
+    "created_at": "2020-01-19T09:30:12+09:00",
+    "updated_at": "2021-10-31T14:17:36+09:00",
+    "id": "keisukee"
+  },
+  {
+    "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【前編】",
+    "url": "https://qiita.com/e869120/items/518297c6816adb67f9a5",
+    "likes_count": 1126,
+    "created_at": "2020-01-26T17:13:39+09:00",
+    "updated_at": "2021-02-19T01:00:58+09:00",
+    "id": "e869120"
+  },
+  {
+    "title": "FFT（高速フーリエ変換）を完全に理解する話",
+    "url": "https://qiita.com/ageprocpp/items/0d63d4ed80de4a35fe79",
+    "likes_count": 1119,
+    "created_at": "2020-01-27T22:00:06+09:00",
+    "updated_at": "2020-02-06T19:13:07+09:00",
+    "id": "ageprocpp"
+  },
+  {
+    "title": "2020年現在 Web系企業で採用されてる技術についてまとめてみた",
+    "url": "https://qiita.com/inagacky/items/43cc0518ef11f1e4beb3",
+    "likes_count": 1066,
+    "created_at": "2020-01-22T10:43:23+09:00",
+    "updated_at": "2020-09-06T09:25:42+09:00",
+    "id": "inagacky"
+  },
+  {
+    "title": "React hooksを基礎から理解する (useState編)",
+    "url": "https://qiita.com/seira/items/f063e262b1d57d7e78b4",
+    "likes_count": 1024,
+    "created_at": "2020-01-26T20:56:47+09:00",
+    "updated_at": "2021-03-15T16:00:37+09:00",
+    "id": "seira"
+  },
+  {
+    "title": "もしものために，香川県からのアクセスを避ける",
+    "url": "https://qiita.com/ninomium/items/b1b215e7185920cd075c",
+    "likes_count": 959,
+    "created_at": "2020-01-22T22:51:13+09:00",
+    "updated_at": "2020-03-18T19:18:43+09:00",
+    "id": "ninomium"
+  },
+  {
+    "title": "Bashの邪悪なコマンド9選",
+    "url": "https://qiita.com/rana_kualu/items/be32f8302017b7aa2763",
+    "likes_count": 950,
+    "created_at": "2020-01-07T21:04:40+09:00",
+    "updated_at": "2020-01-08T19:36:19+09:00",
+    "id": "rana_kualu"
+  },
+  {
+    "title": "AWSアカウントを作成したら最初にやるべきこと -セキュリティ編-",
+    "url": "https://qiita.com/yanyansk/items/3a989b70d2d3d49eff16",
+    "likes_count": 887,
+    "created_at": "2020-01-15T14:14:30+09:00",
+    "updated_at": "2020-01-29T20:05:27+09:00",
+    "id": "yanyansk"
+  },
+  {
+    "title": "テストしやすい「純粋」な関数とは？",
+    "url": "https://qiita.com/Yametaro/items/3ec5a7d89afa1a0e9f15",
+    "likes_count": 881,
+    "created_at": "2020-01-19T00:30:03+09:00",
+    "updated_at": "2020-01-20T09:45:26+09:00",
+    "id": "Yametaro"
+  },
+  {
+    "title": "バッチ処理について考える",
+    "url": "https://qiita.com/koduki/items/e90ee1fea5aa75071d95",
+    "likes_count": 865,
+    "created_at": "2020-01-11T11:25:19+09:00",
+    "updated_at": "2023-08-17T18:40:37+09:00",
+    "id": "koduki"
+  },
+  {
+    "title": "APIの仕組みが分かる・使いこなせる人材になれる記事（Pythonコード付き）",
+    "url": "https://qiita.com/Saku731/items/6ae290f72e98723f165d",
+    "likes_count": 858,
+    "created_at": "2020-01-03T10:45:09+09:00",
+    "updated_at": "2023-11-18T10:21:27+09:00",
+    "id": "Saku731"
+  },
+  {
+    "title": "【入門】インフラやるなら知っておきたいトピックのリンク集",
+    "url": "https://qiita.com/tomoyk/items/ece0beed9c174c66ee6a",
+    "likes_count": 850,
+    "created_at": "2020-01-01T16:02:36+09:00",
+    "updated_at": "2021-11-27T10:11:35+09:00",
+    "id": "tomoyk"
+  },
+  {
+    "title": "【Firebase, Nuxt】リアルタイムなスライド共有サービスを作ってハッカソンで優勝した話",
+    "url": "https://qiita.com/ryotak3/items/8daee38fb909f7ba21e4",
+    "likes_count": 844,
+    "created_at": "2020-01-13T01:20:37+09:00",
+    "updated_at": "2020-01-17T19:48:55+09:00",
+    "id": "ryotak3"
+  },
+  {
+    "title": "機械学習による株価予測　いろはの”い”",
+    "url": "https://qiita.com/blog_UKI/items/25dc1c2559c61890a449",
+    "likes_count": 803,
+    "created_at": "2020-01-09T12:13:39+09:00",
+    "updated_at": "2020-01-09T12:13:39+09:00",
+    "id": "blog_UKI"
+  },
+  {
+    "title": "経年劣化に耐える ReactComponent の書き方",
+    "url": "https://qiita.com/Takepepe/items/41e3e7a2f612d7eb094a",
+    "likes_count": 773,
+    "created_at": "2020-01-16T19:01:04+09:00",
+    "updated_at": "2020-01-19T13:49:21+09:00",
+    "id": "Takepepe"
+  },
+  {
+    "title": "ラズパイでやらなければいけない４つのセキュリティ対策！",
+    "url": "https://qiita.com/nokonoko_1203/items/94a888444d5019f23a11",
+    "likes_count": 755,
+    "created_at": "2020-01-31T17:29:12+09:00",
+    "updated_at": "2020-06-11T07:52:08+09:00",
+    "id": "nokonoko_1203"
+  },
+  {
+    "title": "イラストで学ぶ Kubernetes",
+    "url": "https://qiita.com/baby-degu/items/ea95be49d1298b1c6a1b",
+    "likes_count": 754,
+    "created_at": "2020-01-05T17:11:12+09:00",
+    "updated_at": "2020-06-06T19:40:52+09:00",
+    "id": "baby-degu"
+  },
+  {
+    "title": "JavaScriptでvarが非推奨な理由を整理してみた",
+    "url": "https://qiita.com/ist-t-s/items/49ed558bd837452353b8",
+    "likes_count": 748,
+    "created_at": "2020-01-08T17:56:11+09:00",
+    "updated_at": "2020-05-02T22:05:18+09:00",
+    "id": "ist-t-s"
+  },
+  {
+    "title": "ginを最速でマスターしよう",
+    "url": "https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a",
+    "likes_count": 723,
+    "created_at": "2020-01-01T09:46:12+09:00",
+    "updated_at": "2021-09-16T14:42:11+09:00",
+    "id": "Syoitu"
+  },
+  {
+    "title": "TypeScriptを使って嬉しかったこと",
+    "url": "https://qiita.com/Yametaro/items/918083d9767ac5e74895",
+    "likes_count": 696,
+    "created_at": "2020-01-12T23:25:26+09:00",
+    "updated_at": "2020-01-25T10:11:51+09:00",
+    "id": "Yametaro"
+  },
+  {
+    "title": "【python】カジノを崩壊させたらしいモンテカルロ法をシミュレーションしてみた",
+    "url": "https://qiita.com/kagawa_shinjiiiii/items/ff49a8c7ccc682845a2a",
+    "likes_count": 688,
+    "created_at": "2020-01-13T00:54:59+09:00",
+    "updated_at": "2020-01-14T21:50:17+09:00",
+    "id": "kagawa_shinjiiiii"
+  },
+  {
+    "title": "VTuberのホームページをGitHubのプルリクだけで更新していったらどうなるのか？企画に参戦してみた",
+    "url": "https://qiita.com/unsoluble_sugar/items/120f0856d497ef96010e",
+    "likes_count": 683,
+    "created_at": "2020-01-18T20:11:45+09:00",
+    "updated_at": "2021-10-20T19:40:31+09:00",
+    "id": "unsoluble_sugar"
+  },
+  {
+    "title": "仕事の進め方の良し悪しを見える化したら、各自が自分で行動を改善してくれた話",
+    "url": "https://qiita.com/kojimadev/items/912f12c55542b795b60f",
+    "likes_count": 649,
+    "created_at": "2020-01-06T07:37:54+09:00",
+    "updated_at": "2020-01-06T07:38:48+09:00",
+    "id": "kojimadev"
+  },
+  {
+    "title": "【Google Apps Script, Slack】彼女にバレずにワクワクメールのメッセージに気付くために夜な夜な怪しげなスクリプトを組んだ話",
+    "url": "https://qiita.com/83k/items/6661486d37d12ff51dda",
+    "likes_count": 641,
+    "created_at": "2020-01-06T23:53:01+09:00",
+    "updated_at": "2020-01-09T09:33:09+09:00",
+    "id": "83k"
+  },
+  {
+    "title": "パラメータ数10億！最新の巨大画像認識モデル「BiT」爆誕 & 解説",
+    "url": "https://qiita.com/omiita/items/90abe0799cf3efe8d93d",
+    "likes_count": 590,
+    "created_at": "2020-01-15T07:51:21+09:00",
+    "updated_at": "2020-08-12T20:06:07+09:00",
+    "id": "omiita"
+  },
+  {
+    "title": "バックエンドエンジニアのためのVue.js、React、Angular入門",
+    "url": "https://qiita.com/BRSF/items/6a43d4cf56a9dd1a4d0c",
+    "likes_count": 589,
+    "created_at": "2020-01-24T11:20:43+09:00",
+    "updated_at": "2025-02-16T23:08:26+09:00",
+    "id": "BRSF"
+  },
+  {
+    "title": "Hack The Boxを楽しむためのKali Linuxチューニング",
+    "url": "https://qiita.com/v_avenger/items/c85d946ed2b6bf340a84",
+    "likes_count": 572,
+    "created_at": "2020-01-29T22:31:32+09:00",
+    "updated_at": "2021-06-26T13:28:14+09:00",
+    "id": "v_avenger"
+  },
+  {
+    "title": "「アプリケーションが壊れているのに検知できないテストコード」を書かないようにするための、べからず集",
+    "url": "https://qiita.com/jnchito/items/133d9953e1e7214e5357",
+    "likes_count": 569,
+    "created_at": "2020-01-29T09:41:54+09:00",
+    "updated_at": "2024-10-20T12:09:35+09:00",
+    "id": "jnchito"
+  },
+  {
+    "title": "【SRE Next 2020】発表資料まとめ",
+    "url": "https://qiita.com/Hassan/items/6f7fb1c206f77716ee2a",
+    "likes_count": 566,
+    "created_at": "2020-01-25T15:32:29+09:00",
+    "updated_at": "2020-01-29T17:48:52+09:00",
+    "id": "Hassan"
+  },
+  {
+    "title": "20 年代のフロントエンド",
+    "url": "https://qiita.com/mizchi/items/50937c7f702da566e989",
+    "likes_count": 554,
+    "created_at": "2020-01-30T18:47:54+09:00",
+    "updated_at": "2020-01-30T19:24:24+09:00",
+    "id": "mizchi"
+  },
+  {
+    "title": "MySQL データベースの負荷対策/パフォーマンスチューニング備忘録  インデックスの基礎〜実践",
+    "url": "https://qiita.com/marnie_ms4/items/576055abc355184c51a1",
+    "likes_count": 549,
+    "created_at": "2020-01-10T19:39:06+09:00",
+    "updated_at": "2020-10-28T20:23:44+09:00",
+    "id": "marnie_ms4"
+  },
+  {
+    "title": "[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する",
+    "url": "https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9",
+    "likes_count": 537,
+    "created_at": "2020-01-03T17:27:55+09:00",
+    "updated_at": "2020-11-10T02:36:37+09:00",
+    "id": "bee2"
+  },
+  {
+    "title": "VS CodeでDocker開発コンテナを便利に使おう",
+    "url": "https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0",
+    "likes_count": 524,
+    "created_at": "2020-01-17T21:18:30+09:00",
+    "updated_at": "2020-01-17T21:18:30+09:00",
+    "id": "Yuki_Oshima"
+  },
+  {
+    "title": "Pythonライブラリの「麻雀(mahjong)」って？？",
+    "url": "https://qiita.com/FJyusk56/items/8189bcca3849532d095f",
+    "likes_count": 522,
+    "created_at": "2020-01-19T02:41:22+09:00",
+    "updated_at": "2020-05-14T16:09:18+09:00",
+    "id": "FJyusk56"
+  },
+  {
+    "title": "useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計",
+    "url": "https://qiita.com/uhyo/items/cea1bd157453a85feebf",
+    "likes_count": 519,
+    "created_at": "2020-01-19T17:05:28+09:00",
+    "updated_at": "2020-01-21T20:33:07+09:00",
+    "id": "uhyo"
+  },
+  {
+    "title": "最短経路問題総特集！！！～BFSから拡張ダイクストラまで～",
+    "url": "https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e",
+    "likes_count": 498,
+    "created_at": "2020-01-18T16:57:24+09:00",
+    "updated_at": "2020-01-23T21:44:58+09:00",
+    "id": "ageprocpp"
+  },
+  {
+    "title": "「よいサンプルコード」ってどんなサンプルコード？ 〜Qiitaや技術ブログを書くときに気を付けること〜",
+    "url": "https://qiita.com/jnchito/items/da33f793de2e29e470f4",
+    "likes_count": 494,
+    "created_at": "2020-01-09T11:47:44+09:00",
+    "updated_at": "2023-11-19T16:31:27+09:00",
+    "id": "jnchito"
+  },
+  {
+    "title": "Gitにおけるブランチ戦略について調べてみた",
+    "url": "https://qiita.com/trsn_si/items/cfecbf7dff20c64628ea",
+    "likes_count": 489,
+    "created_at": "2020-01-26T22:37:06+09:00",
+    "updated_at": "2020-01-26T22:37:06+09:00",
+    "id": "trsn_si"
+  },
+  {
+    "title": "【AWS, GCP, Azure, OracleCloud, Firebase】無料で使えるクラウドのサーバリソースまとめ【2020年1月版】",
+    "url": "https://qiita.com/goyae/items/196221169391dd44125d",
+    "likes_count": 476,
+    "created_at": "2020-01-05T10:00:19+09:00",
+    "updated_at": "2020-01-15T23:42:46+09:00",
+    "id": "goyae"
+  },
+  {
+    "title": "スマホアプリ開発者のための2019年動向まとめ",
+    "url": "https://qiita.com/keidroid/items/ec6039accaa9d043b514",
+    "likes_count": 474,
+    "created_at": "2020-01-17T21:02:35+09:00",
+    "updated_at": "2021-02-02T17:17:56+09:00",
+    "id": "keidroid"
+  },
+  {
+    "title": "初の個人アプリを App Store に審査出したら 30 分足らずでリリースされてビビったからその全てをお伝えします",
+    "url": "https://qiita.com/lovee/items/67906ec593ebd91d608d",
+    "likes_count": 448,
+    "created_at": "2020-01-14T10:51:52+09:00",
+    "updated_at": "2022-03-30T02:43:44+09:00",
+    "id": "lovee"
+  },
+  {
+    "title": "Docker入門：Docker概要,基本操作,マウント,Dockerfile,マルチステージビルド",
+    "url": "https://qiita.com/shiro01/items/04ca672a93384b463701",
+    "likes_count": 425,
+    "created_at": "2020-01-11T13:59:43+09:00",
+    "updated_at": "2021-06-22T14:23:00+09:00",
+    "id": "shiro01"
+  },
+  {
+    "title": "何もない所から一瞬で、自然言語処理と係り受け解析をライブコーディングする手品を、LTでやってみた話",
+    "url": "https://qiita.com/youwht/items/b047225a6fc356fd56ee",
+    "likes_count": 420,
+    "created_at": "2020-01-26T13:28:43+09:00",
+    "updated_at": "2021-12-22T10:00:27+09:00",
+    "id": "youwht"
+  },
+  {
+    "title": "独学で0からプログラミングを始めて、成り上がるためには",
+    "url": "https://qiita.com/katy7/items/b28000cd74c10325ee5e",
+    "likes_count": 419,
+    "created_at": "2020-01-20T01:30:00+09:00",
+    "updated_at": "2020-07-20T18:07:45+09:00",
+    "id": "katy7"
+  },
+  {
+    "title": "TOMCAT殺害事件",
+    "url": "https://qiita.com/enoshiman/items/c9e9773c15d751f6e23c",
+    "likes_count": 418,
+    "created_at": "2020-01-09T08:07:53+09:00",
+    "updated_at": "2020-01-15T10:46:54+09:00",
+    "id": "enoshiman"
+  },
+  {
+    "title": "「圏論とプログラミング」発表スライドメモ",
+    "url": "https://qiita.com/inamiy/items/9af1da1faec22cd968f0",
+    "likes_count": 408,
+    "created_at": "2020-01-27T12:07:01+09:00",
+    "updated_at": "2020-01-29T22:54:50+09:00",
+    "id": "inamiy"
+  },
+  {
+    "title": "2020年流行するであろうwebデザインのトレンド",
+    "url": "https://qiita.com/sugar_tk/items/54562d8756b69774aecf",
+    "likes_count": 404,
+    "created_at": "2020-01-20T10:17:37+09:00",
+    "updated_at": "2020-01-29T12:33:46+09:00",
+    "id": "sugar_tk"
+  },
+  {
+    "title": "TypeScriptでReactに入門するチュートリアル",
+    "url": "https://qiita.com/yonetty/items/012be4c5c6258a609e35",
+    "likes_count": 401,
+    "created_at": "2020-01-02T16:30:48+09:00",
+    "updated_at": "2021-10-12T22:07:12+09:00",
+    "id": "yonetty"
+  },
+  {
+    "title": "notionバックエンドのzeit製ヘッドレスCMS“Notion Blog”が激アツ🔥",
+    "url": "https://qiita.com/serinuntius/items/d4b1e9ef53b59033f607",
+    "likes_count": 401,
+    "created_at": "2020-01-15T09:06:37+09:00",
+    "updated_at": "2020-01-15T09:07:20+09:00",
+    "id": "serinuntius"
+  },
+  {
+    "title": "Playwrightも知らないで開発してる君たちへ",
+    "url": "https://qiita.com/cc822jp/items/6f786a9ed104af1a382f",
+    "likes_count": 382,
+    "created_at": "2020-01-25T02:03:58+09:00",
+    "updated_at": "2020-05-23T03:02:50+09:00",
+    "id": "cc822jp"
+  },
+  {
+    "title": "高階関数、カリー化、部分適用",
+    "url": "https://qiita.com/nouka/items/d9f29db7b6a69baa650a",
+    "likes_count": 374,
+    "created_at": "2020-01-07T09:03:00+09:00",
+    "updated_at": "2020-01-07T09:03:00+09:00",
+    "id": "nouka"
+  },
+  {
+    "title": "SQLAlchemyの基本的な使い方",
+    "url": "https://qiita.com/arkuchy/items/75799665acd09520bed2",
+    "likes_count": 373,
+    "created_at": "2020-01-11T20:33:21+09:00",
+    "updated_at": "2021-08-14T12:08:32+09:00",
+    "id": "arkuchy"
+  },
+  {
+    "title": "AtCoder水色になりました",
+    "url": "https://qiita.com/pkodama/items/93ab0b654d2597e42ac3",
+    "likes_count": 371,
+    "created_at": "2020-01-27T18:33:13+09:00",
+    "updated_at": "2020-03-31T21:53:47+09:00",
+    "id": "pkodama"
+  },
+  {
+    "title": "厳選！C++ アルゴリズム実装に使える 25 の STL 機能【後編】",
+    "url": "https://qiita.com/e869120/items/702ca1c1ed6ff6770257",
+    "likes_count": 345,
+    "created_at": "2020-01-26T17:14:36+09:00",
+    "updated_at": "2021-02-19T00:02:32+09:00",
+    "id": "e869120"
+  },
+  {
+    "title": "PyTorchで学ぶGraph Convolutional Networks",
+    "url": "https://qiita.com/omiita/items/429136c2f4e228d745ed",
+    "likes_count": 340,
+    "created_at": "2020-01-07T09:44:56+09:00",
+    "updated_at": "2020-04-21T16:08:53+09:00",
+    "id": "omiita"
+  },
+  {
+    "title": "「効果検証入門」をPythonで書いた",
+    "url": "https://qiita.com/nekoumei/items/648726e89d05cba6f432",
+    "likes_count": 322,
+    "created_at": "2020-01-03T20:11:49+09:00",
+    "updated_at": "2021-09-11T19:37:59+09:00",
+    "id": "nekoumei"
+  },
+  {
+    "title": "Word2Vecを理解する",
+    "url": "https://qiita.com/g-k/items/69afa87c73654af49d36",
+    "likes_count": 322,
+    "created_at": "2020-01-13T21:58:05+09:00",
+    "updated_at": "2020-05-31T18:44:38+09:00",
+    "id": "g-k"
+  },
+  {
+    "title": "【Rails】form_with/form_forについて【入門】",
+    "url": "https://qiita.com/snskOgata/items/44d32a06045e6a52d11c",
+    "likes_count": 302,
+    "created_at": "2020-01-02T18:26:38+09:00",
+    "updated_at": "2020-01-12T17:32:02+09:00",
+    "id": "snskOgata"
+  },
+  {
+    "title": "【2020年1月】令和だし本格的にVSCodeのRemote Containerで、爆速の\"開発コンテナ\"始めよう",
+    "url": "https://qiita.com/koinori/items/084a0770c1f9e72e0c14",
+    "likes_count": 299,
+    "created_at": "2020-01-03T15:58:37+09:00",
+    "updated_at": "2020-01-06T19:15:39+09:00",
+    "id": "koinori"
+  },
+  {
+    "title": "「統計」と「機械学習」の違いの整理で多くの事業会社で「機械学習」が使えない理由が視えてきた！",
+    "url": "https://qiita.com/mnoda/items/ee074d6614cd0b40525d",
+    "likes_count": 295,
+    "created_at": "2020-01-17T13:14:49+09:00",
+    "updated_at": "2020-01-18T05:15:16+09:00",
+    "id": "mnoda"
+  },
+  {
+    "title": "Web Developer Roadmap 2020版が出ていたので2019版と比較",
+    "url": "https://qiita.com/hirotakasasaki/items/f93335857c17f6ceab9f",
+    "likes_count": 293,
+    "created_at": "2020-01-07T14:51:24+09:00",
+    "updated_at": "2020-03-27T11:33:51+09:00",
+    "id": "hirotakasasaki"
+  },
+  {
+    "title": "Pythonのフレームワークを理解するために必要な知識メモ",
+    "url": "https://qiita.com/karaage0703/items/e4328dade983e830748a",
+    "likes_count": 267,
+    "created_at": "2020-01-04T15:44:36+09:00",
+    "updated_at": "2022-12-27T00:11:58+09:00",
+    "id": "karaage0703"
+  },
+  {
+    "title": "未経験からweb系エンジニアになるための独学履歴~初めてのポートフォリオ作成記録 製作記録編~",
+    "url": "https://qiita.com/shitikakei/items/7b0e67af3a2258b53bb8",
+    "likes_count": 255,
+    "created_at": "2020-01-28T05:03:29+09:00",
+    "updated_at": "2020-02-10T02:54:34+09:00",
+    "id": "shitikakei"
+  },
+  {
+    "title": "Dockerを体系的に学び直してみた(導入編)",
+    "url": "https://qiita.com/_tsuru/items/182d2de3f3ce7bb63edb",
+    "likes_count": 222,
+    "created_at": "2020-01-30T12:07:42+09:00",
+    "updated_at": "2020-01-30T12:07:42+09:00",
+    "id": "_tsuru"
+  },
+  {
+    "title": "2020年に読むべきデータサイエンスに関する書籍",
+    "url": "https://qiita.com/baby-degu/items/fe47446dd0461abbdce5",
+    "likes_count": 209,
+    "created_at": "2020-01-13T17:34:12+09:00",
+    "updated_at": "2020-06-06T19:42:44+09:00",
+    "id": "baby-degu"
+  }
+]
