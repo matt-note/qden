@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3797,
+    "likes_count": 3798,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -58,7 +58,7 @@
   {
     "title": "「赤の他人」の対義語は「白い恋人」 これを自動生成したい物語",
     "url": "https://qiita.com/youwht/items/f21325ff62603e8664e6",
-    "likes_count": 2039,
+    "likes_count": 2040,
     "created_at": "2018-05-07T04:26:13+09:00",
     "updated_at": "2018-05-20T12:50:51+09:00",
     "id": "youwht"
@@ -130,7 +130,7 @@
   {
     "title": "しゃくとり法 (尺取り法) の解説と、それを用いる問題のまとめ",
     "url": "https://qiita.com/drken/items/ecd1a472d3a0e7db8dce",
-    "likes_count": 946,
+    "likes_count": 947,
     "created_at": "2018-05-28T08:39:07+09:00",
     "updated_at": "2020-11-30T00:02:40+09:00",
     "id": "drken"
@@ -154,10 +154,18 @@
   {
     "title": "忙しい研究者のためのテストコードとドキュメントの書き方",
     "url": "https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a",
-    "likes_count": 877,
+    "likes_count": 878,
     "created_at": "2018-05-25T21:52:09+09:00",
     "updated_at": "2023-10-27T14:33:46+09:00",
     "id": "hmkz"
+  },
+  {
+    "title": "特集！知らないと損をする計算量の話",
+    "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
+    "likes_count": 871,
+    "created_at": "2018-05-15T09:18:51+09:00",
+    "updated_at": "2020-03-16T14:27:35+09:00",
+    "id": "drken"
   },
   {
     "title": "コマンドでDockerコンテナを停止・削除、イメージの削除をする",
@@ -166,14 +174,6 @@
     "created_at": "2018-05-24T23:35:31+09:00",
     "updated_at": "2020-08-17T09:15:44+09:00",
     "id": "shisama"
-  },
-  {
-    "title": "特集！知らないと損をする計算量の話",
-    "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 868,
-    "created_at": "2018-05-15T09:18:51+09:00",
-    "updated_at": "2020-03-16T14:27:35+09:00",
-    "id": "drken"
   },
   {
     "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
@@ -610,7 +610,7 @@
   {
     "title": "Mac GitHub SSH接続設定",
     "url": "https://qiita.com/ucan-lab/items/e02f2d3a35f266631f24",
-    "likes_count": 306,
+    "likes_count": 307,
     "created_at": "2018-05-20T16:40:42+09:00",
     "updated_at": "2024-04-03T11:52:44+09:00",
     "id": "ucan-lab"
