@@ -2,7 +2,7 @@
   {
     "title": "質問は恥ではないし役に立つ",
     "url": "https://qiita.com/seki_uk/items/4001423b3cd3db0dada7",
-    "likes_count": 5825,
+    "likes_count": 5824,
     "created_at": "2016-12-13T20:58:56+09:00",
     "updated_at": "2016-12-13T21:07:40+09:00",
     "id": "seki_uk"
@@ -10,7 +10,7 @@
   {
     "title": "プログラミング勉強を加速させる7つの習慣",
     "url": "https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd",
-    "likes_count": 3991,
+    "likes_count": 3990,
     "created_at": "2016-12-16T00:02:32+09:00",
     "updated_at": "2022-04-09T10:11:53+09:00",
     "id": "YudaiTsukamoto"
@@ -34,7 +34,7 @@
   {
     "title": "業務でWebサービス開発をする際に気をつけたいこと（新卒向け）",
     "url": "https://qiita.com/zaru/items/71900d0e4b2afaaa955b",
-    "likes_count": 1822,
+    "likes_count": 1821,
     "created_at": "2016-12-25T03:26:11+09:00",
     "updated_at": "2017-07-03T13:29:04+09:00",
     "id": "zaru"
@@ -50,7 +50,7 @@
   {
     "title": "いまさら聞けないLinuxとメモリの基礎＆vmstatの詳しい使い方",
     "url": "https://qiita.com/kunihirotanaka/items/70d43d48757aea79de2d",
-    "likes_count": 1686,
+    "likes_count": 1687,
     "created_at": "2016-12-25T13:48:22+09:00",
     "updated_at": "2016-12-26T11:43:00+09:00",
     "id": "kunihirotanaka"
@@ -98,7 +98,7 @@
   {
     "title": "LinuxのI/OやCPUの負荷とロードアベレージの関係を詳しく見てみる",
     "url": "https://qiita.com/kunihirotanaka/items/21194f77713aa0663e3b",
-    "likes_count": 1172,
+    "likes_count": 1173,
     "created_at": "2016-12-28T10:13:50+09:00",
     "updated_at": "2016-12-29T00:03:57+09:00",
     "id": "kunihirotanaka"
@@ -106,7 +106,7 @@
   {
     "title": "Taskを極めろ！async/await完全攻略",
     "url": "https://qiita.com/acple@github/items/8f63aacb13de9954c5da",
-    "likes_count": 1134,
+    "likes_count": 1133,
     "created_at": "2016-12-09T23:56:21+09:00",
     "updated_at": "2016-12-10T17:19:56+09:00",
     "id": "acple@github"
@@ -154,7 +154,7 @@
   {
     "title": "C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう",
     "url": "https://qiita.com/agate-pris/items/05948b7d33f3e88b8967",
-    "likes_count": 854,
+    "likes_count": 853,
     "created_at": "2016-12-14T20:50:38+09:00",
     "updated_at": "2020-02-10T20:27:02+09:00",
     "id": "agate-pris"
@@ -274,7 +274,7 @@
   {
     "title": "難しいGitコマンドは、仕組みから理解してみよう",
     "url": "https://qiita.com/_ha1f/items/2dca1047c57d4f0bd465",
-    "likes_count": 665,
+    "likes_count": 664,
     "created_at": "2016-12-22T00:02:20+09:00",
     "updated_at": "2018-11-13T23:20:28+09:00",
     "id": "_ha1f"
@@ -290,7 +290,7 @@
   {
     "title": "原理原則で理解するDocker",
     "url": "https://qiita.com/tajima_taso/items/28938415846dcc2e83ff",
-    "likes_count": 648,
+    "likes_count": 647,
     "created_at": "2016-12-23T06:40:30+09:00",
     "updated_at": "2016-12-26T12:42:54+09:00",
     "id": "tajima_taso"
@@ -338,7 +338,7 @@
   {
     "title": "Goを学びたての人が誤解しがちなtypeと構造体について #golang",
     "url": "https://qiita.com/tenntenn/items/45c568d43e950292bc31",
-    "likes_count": 568,
+    "likes_count": 569,
     "created_at": "2016-12-06T16:03:07+09:00",
     "updated_at": "2019-11-24T08:22:12+09:00",
     "id": "tenntenn"
@@ -466,7 +466,7 @@
   {
     "title": "恥かどうかはともかく、そもそも逃げられない障害対応のお話",
     "url": "https://qiita.com/s_kozake/items/825348559e4b4e330fb5",
-    "likes_count": 447,
+    "likes_count": 446,
     "created_at": "2016-12-20T20:31:53+09:00",
     "updated_at": "2016-12-20T23:58:35+09:00",
     "id": "s_kozake"
@@ -656,14 +656,6 @@
     "id": "onhrs"
   },
   {
-    "title": "IPAの情報処理試験全区分合格したので整理してみた（アプリ屋の視点）",
-    "url": "https://qiita.com/tsukumin/items/245837a0f46ad5fdea29",
-    "likes_count": 328,
-    "created_at": "2016-12-10T19:20:53+09:00",
-    "updated_at": "2021-06-28T08:26:22+09:00",
-    "id": "tsukumin"
-  },
-  {
     "title": "【転職会議】クチコミをword2vecで自然言語処理して会社を分類してみる",
     "url": "https://qiita.com/naotaka1128/items/2c4551abfd40e43b0146",
     "likes_count": 328,
@@ -678,6 +670,14 @@
     "created_at": "2016-12-31T09:18:14+09:00",
     "updated_at": "2016-12-31T09:20:14+09:00",
     "id": "mizchi"
+  },
+  {
+    "title": "IPAの情報処理試験全区分合格したので整理してみた（アプリ屋の視点）",
+    "url": "https://qiita.com/tsukumin/items/245837a0f46ad5fdea29",
+    "likes_count": 327,
+    "created_at": "2016-12-10T19:20:53+09:00",
+    "updated_at": "2021-06-28T08:26:22+09:00",
+    "id": "tsukumin"
   },
   {
     "title": "AWS Lambda超入門",
@@ -778,7 +778,7 @@
   {
     "title": "【秘密鍵/公開鍵】コピペで出来る！鍵認証の設定方法",
     "url": "https://qiita.com/nnahito/items/dbe6fbfe347cd66ae7e6",
-    "likes_count": 233,
+    "likes_count": 232,
     "created_at": "2016-12-22T12:31:48+09:00",
     "updated_at": "2022-06-28T14:21:33+09:00",
     "id": "nnahito"
