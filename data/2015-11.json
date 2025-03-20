@@ -98,7 +98,7 @@
   {
     "title": "Bashの便利な構文だがよく忘れてしまうものの備忘録",
     "url": "https://qiita.com/Ping/items/57fd75465dfada76e633",
-    "likes_count": 1291,
+    "likes_count": 1290,
     "created_at": "2015-11-26T20:13:40+09:00",
     "updated_at": "2023-07-20T17:13:27+09:00",
     "id": "Ping"
@@ -274,7 +274,7 @@
   {
     "title": "【数学】「内積」の意味をグラフィカルに理解すると色々見えてくる",
     "url": "https://qiita.com/kenmatsu4/items/a144047c1b49aa8c7eb0",
-    "likes_count": 566,
+    "likes_count": 567,
     "created_at": "2015-11-21T14:16:24+09:00",
     "updated_at": "2023-11-29T16:30:07+09:00",
     "id": "kenmatsu4"
@@ -506,18 +506,10 @@
   {
     "title": "【JavaScript】日付処理",
     "url": "https://qiita.com/kazu56/items/cca24cfdca4553269cab",
-    "likes_count": 318,
+    "likes_count": 317,
     "created_at": "2015-11-30T21:57:57+09:00",
     "updated_at": "2017-03-15T01:24:11+09:00",
     "id": "kazu56"
-  },
-  {
-    "title": "DOMContentLoaded周りの処理を詳しく調べてみました",
-    "url": "https://qiita.com/mamosan/items/ff336b5cc0a1a95e03a7",
-    "likes_count": 315,
-    "created_at": "2015-11-01T21:22:20+09:00",
-    "updated_at": "2015-11-03T23:16:49+09:00",
-    "id": "mamosan"
   },
   {
     "title": "シンボリックリンクの使い方と落とし穴",
@@ -542,6 +534,14 @@
     "created_at": "2015-11-18T18:53:32+09:00",
     "updated_at": "2017-03-23T10:31:05+09:00",
     "id": "KojiOhki"
+  },
+  {
+    "title": "DOMContentLoaded周りの処理を詳しく調べてみました",
+    "url": "https://qiita.com/mamosan/items/ff336b5cc0a1a95e03a7",
+    "likes_count": 314,
+    "created_at": "2015-11-01T21:22:20+09:00",
+    "updated_at": "2015-11-03T23:16:49+09:00",
+    "id": "mamosan"
   },
   {
     "title": "Redux入門 6日目 ReduxとReactの連携(公式ドキュメント和訳)",

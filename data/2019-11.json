@@ -2,7 +2,7 @@
   {
     "title": "2020年のフロントエンドマスターになりたければこの9プロジェクトを作れ",
     "url": "https://qiita.com/rana_kualu/items/915345b8f3f870cfe2aa",
-    "likes_count": 3849,
+    "likes_count": 3848,
     "created_at": "2019-11-11T20:54:20+09:00",
     "updated_at": "2019-11-20T21:12:23+09:00",
     "id": "rana_kualu"
@@ -74,7 +74,7 @@
   {
     "title": "マリオカートのER図について考える",
     "url": "https://qiita.com/assu_ming/items/9d80320e6f778d83c61f",
-    "likes_count": 1314,
+    "likes_count": 1315,
     "created_at": "2019-11-01T09:15:12+09:00",
     "updated_at": "2023-06-10T11:32:46+09:00",
     "id": "assu_ming"
@@ -82,7 +82,7 @@
   {
     "title": "tsconfig.jsonの主要オプションを理解する",
     "url": "https://qiita.com/ryokkkke/items/390647a7c26933940470",
-    "likes_count": 1306,
+    "likes_count": 1305,
     "created_at": "2019-11-21T16:30:57+09:00",
     "updated_at": "2024-10-29T03:16:57+09:00",
     "id": "ryokkkke"
@@ -130,10 +130,18 @@
   {
     "title": "エンジニアが披露宴の余興を頼まれたら",
     "url": "https://qiita.com/keeey999/items/7ce7c4bc342ca2ec7319",
-    "likes_count": 1114,
+    "likes_count": 1115,
     "created_at": "2019-11-19T01:15:19+09:00",
     "updated_at": "2019-11-20T06:55:47+09:00",
     "id": "keeey999"
+  },
+  {
+    "title": "やさしい図解で学ぶ　ER図　表記法一覧",
+    "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
+    "likes_count": 1072,
+    "created_at": "2019-11-11T19:20:33+09:00",
+    "updated_at": "2020-03-02T12:18:46+09:00",
+    "id": "ramuneru"
   },
   {
     "title": "Slackはただのコミュニケーションツールじゃない、企業の技術を映す鏡だ",
@@ -142,14 +150,6 @@
     "created_at": "2019-11-17T14:28:19+09:00",
     "updated_at": "2020-10-13T16:47:54+09:00",
     "id": "KizashiTakata"
-  },
-  {
-    "title": "やさしい図解で学ぶ　ER図　表記法一覧",
-    "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
-    "likes_count": 1071,
-    "created_at": "2019-11-11T19:20:33+09:00",
-    "updated_at": "2020-03-02T12:18:46+09:00",
-    "id": "ramuneru"
   },
   {
     "title": "やさしい図解で学ぶ　中間テーブル　多対多　概念編 ",
@@ -162,7 +162,7 @@
   {
     "title": "ワイ「何で子コンポーネントに状態を持たせたらあかんの？」",
     "url": "https://qiita.com/Yametaro/items/38420265011ee8bc42a0",
-    "likes_count": 992,
+    "likes_count": 993,
     "created_at": "2019-11-22T01:09:18+09:00",
     "updated_at": "2019-12-28T08:24:15+09:00",
     "id": "Yametaro"
@@ -170,7 +170,7 @@
   {
     "title": "githubで最もやべー関数を発掘する",
     "url": "https://qiita.com/AngryMane/items/2be9016f82653c8cc07f",
-    "likes_count": 975,
+    "likes_count": 976,
     "created_at": "2019-11-10T19:19:11+09:00",
     "updated_at": "2019-11-10T19:19:11+09:00",
     "id": "AngryMane"
@@ -186,7 +186,7 @@
   {
     "title": "10分で理解する Selenium",
     "url": "https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a",
-    "likes_count": 873,
+    "likes_count": 874,
     "created_at": "2019-11-30T01:26:15+09:00",
     "updated_at": "2022-08-03T15:57:15+09:00",
     "id": "Chanmoro"
@@ -210,7 +210,7 @@
   {
     "title": "Nuxt.jsに飛びつく前に~Nuxt.jsを習得するための前提技術と、その勉強方法の紹介~",
     "url": "https://qiita.com/newt0/items/763b0c228a8451c68865",
-    "likes_count": 765,
+    "likes_count": 766,
     "created_at": "2019-11-26T01:23:49+09:00",
     "updated_at": "2024-05-20T12:32:37+09:00",
     "id": "newt0"
@@ -480,20 +480,20 @@
     "id": "kskinaba"
   },
   {
+    "title": "propsとstateのイメージをつかむ【はじめてのReact】",
+    "url": "https://qiita.com/rio_threehouse/items/7632f5a593cf218b9504",
+    "likes_count": 351,
+    "created_at": "2019-11-17T16:24:22+09:00",
+    "updated_at": "2023-03-28T10:22:31+09:00",
+    "id": "rio_threehouse"
+  },
+  {
     "title": "pythonのmatplotlibの使い方をまとめてみた",
     "url": "https://qiita.com/renesisu727/items/24fc4cd8fa2635b00a0d",
     "likes_count": 350,
     "created_at": "2019-11-13T11:52:52+09:00",
     "updated_at": "2022-03-01T00:33:07+09:00",
     "id": "renesisu727"
-  },
-  {
-    "title": "propsとstateのイメージをつかむ【はじめてのReact】",
-    "url": "https://qiita.com/rio_threehouse/items/7632f5a593cf218b9504",
-    "likes_count": 350,
-    "created_at": "2019-11-17T16:24:22+09:00",
-    "updated_at": "2023-03-28T10:22:31+09:00",
-    "id": "rio_threehouse"
   },
   {
     "title": "分報で各自の作業を可視化したら、メンバー間の協力が加速された話",
