@@ -2,7 +2,7 @@
   {
     "title": "初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」",
     "url": "https://qiita.com/jnchito/items/893c887fbf19e17d3ff9",
-    "likes_count": 3534,
+    "likes_count": 3533,
     "created_at": "2016-02-03T05:31:01+09:00",
     "updated_at": "2019-01-10T10:51:29+09:00",
     "id": "jnchito"
@@ -26,7 +26,7 @@
   {
     "title": "効率的に安全な Dockerfile を作るには",
     "url": "https://qiita.com/pottava/items/452bf80e334bc1fee69a",
-    "likes_count": 2034,
+    "likes_count": 2033,
     "created_at": "2016-02-07T12:48:50+09:00",
     "updated_at": "2018-03-09T21:07:09+09:00",
     "id": "pottava"
@@ -98,7 +98,7 @@
   {
     "title": "初心者歓迎！手と目で覚える正規表現入門・その２「微妙な違いを許容しつつ置換しよう」",
     "url": "https://qiita.com/jnchito/items/64c3fdc53766ac6f2008",
-    "likes_count": 1156,
+    "likes_count": 1155,
     "created_at": "2016-02-09T05:55:26+09:00",
     "updated_at": "2019-08-09T20:00:32+09:00",
     "id": "jnchito"
@@ -138,7 +138,7 @@
   {
     "title": "NeoBundle から dein.vim に乗り換えたら爆速だった話",
     "url": "https://qiita.com/delphinus/items/00ff2c0ba972c6e41542",
-    "likes_count": 901,
+    "likes_count": 900,
     "created_at": "2016-02-28T00:12:04+09:00",
     "updated_at": "2017-03-19T15:30:45+09:00",
     "id": "delphinus"
@@ -146,7 +146,7 @@
   {
     "title": "リアクティブプログラミングとは何だったのか",
     "url": "https://qiita.com/hiruberuto/items/39e4126f470d8b84b291",
-    "likes_count": 878,
+    "likes_count": 877,
     "created_at": "2016-02-12T00:35:45+09:00",
     "updated_at": "2019-04-13T00:07:37+09:00",
     "id": "hiruberuto"
@@ -250,7 +250,7 @@
   {
     "title": "初心者歓迎！手と目で覚える正規表現入門・その３「空白文字を自由自在に操ろう」",
     "url": "https://qiita.com/jnchito/items/6f0c885c1c4929092578",
-    "likes_count": 648,
+    "likes_count": 647,
     "created_at": "2016-02-16T05:38:45+09:00",
     "updated_at": "2023-09-12T10:06:25+09:00",
     "id": "jnchito"
@@ -296,20 +296,20 @@
     "id": "syossan27"
   },
   {
-    "title": "Rustのイテレータの網羅的かつ大雑把な紹介",
-    "url": "https://qiita.com/lo48576/items/34887794c146042aebf1",
-    "likes_count": 516,
-    "created_at": "2016-02-08T13:56:09+09:00",
-    "updated_at": "2023-02-25T06:59:47+09:00",
-    "id": "lo48576"
-  },
-  {
     "title": "npm-scripts で使える便利モジュールたち",
     "url": "https://qiita.com/mysticatea/items/12bb6579b9155fd74586",
     "likes_count": 515,
     "created_at": "2016-02-07T19:35:42+09:00",
     "updated_at": "2016-12-04T19:58:46+09:00",
     "id": "mysticatea"
+  },
+  {
+    "title": "Rustのイテレータの網羅的かつ大雑把な紹介",
+    "url": "https://qiita.com/lo48576/items/34887794c146042aebf1",
+    "likes_count": 515,
+    "created_at": "2016-02-08T13:56:09+09:00",
+    "updated_at": "2023-02-25T06:59:47+09:00",
+    "id": "lo48576"
   },
   {
     "title": "Alpine Linux で軽量な Docker イメージを作る",
@@ -530,7 +530,7 @@
   {
     "title": "dein.vimを使ってみる",
     "url": "https://qiita.com/yoza/items/2f8bd33a18225754f346",
-    "likes_count": 344,
+    "likes_count": 343,
     "created_at": "2016-02-22T23:57:25+09:00",
     "updated_at": "2016-07-06T16:29:27+09:00",
     "id": "yoza"

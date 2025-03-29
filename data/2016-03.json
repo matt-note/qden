@@ -58,7 +58,7 @@
   {
     "title": "sedでこういう時はどう書く?",
     "url": "https://qiita.com/hirohiro77/items/7fe2f68781c41777e507",
-    "likes_count": 1557,
+    "likes_count": 1556,
     "created_at": "2016-03-04T11:57:25+09:00",
     "updated_at": "2018-10-25T10:59:12+09:00",
     "id": "hirohiro77"
@@ -74,7 +74,7 @@
   {
     "title": "Chrome拡張の開発方法まとめ　その1：概念編",
     "url": "https://qiita.com/k7a/items/26d7a22233ecdf48fed8",
-    "likes_count": 1217,
+    "likes_count": 1216,
     "created_at": "2016-03-14T00:11:37+09:00",
     "updated_at": "2016-03-15T20:42:35+09:00",
     "id": "k7a"
@@ -146,7 +146,7 @@
   {
     "title": "sshした先に.bashrcや.vimrcを持って行きたい人のためのsshrc",
     "url": "https://qiita.com/ikuwow/items/ba4ca57fd67c06fd1b19",
-    "likes_count": 895,
+    "likes_count": 894,
     "created_at": "2016-03-13T19:19:26+09:00",
     "updated_at": "2019-11-24T11:21:43+09:00",
     "id": "ikuwow"
@@ -162,7 +162,7 @@
   {
     "title": "モナドはポケモン。数学が出てこないモナド入門",
     "url": "https://qiita.com/hiruberuto/items/8bbc0343bf794c368287",
-    "likes_count": 823,
+    "likes_count": 822,
     "created_at": "2016-03-11T13:14:08+09:00",
     "updated_at": "2020-09-22T10:30:15+09:00",
     "id": "hiruberuto"
@@ -242,7 +242,7 @@
   {
     "title": "grepでこういう時はどうする?",
     "url": "https://qiita.com/hirohiro77/items/771ffb64dddceabf69a3",
-    "likes_count": 616,
+    "likes_count": 615,
     "created_at": "2016-03-10T10:28:19+09:00",
     "updated_at": "2019-01-24T10:38:52+09:00",
     "id": "hirohiro77"
@@ -322,7 +322,7 @@
   {
     "title": "まだ CircleCI で消耗してるの？",
     "url": "https://qiita.com/KeithYokoma/items/b839ef3f5496a22f3e7a",
-    "likes_count": 491,
+    "likes_count": 490,
     "created_at": "2016-03-16T19:07:54+09:00",
     "updated_at": "2016-03-17T14:29:17+09:00",
     "id": "KeithYokoma"
@@ -442,7 +442,7 @@
   {
     "title": "NeoVim、そしてdein.vimへ",
     "url": "https://qiita.com/okamos/items/2259d5c770d51b88d75b",
-    "likes_count": 410,
+    "likes_count": 409,
     "created_at": "2016-03-06T00:35:12+09:00",
     "updated_at": "2017-05-28T16:23:58+09:00",
     "id": "okamos"
@@ -608,20 +608,20 @@
     "id": "yai"
   },
   {
-    "title": "dein.vimによるプラグイン管理のマイベストプラクティス",
-    "url": "https://qiita.com/kawaz/items/ee725f6214f91337b42b",
-    "likes_count": 337,
-    "created_at": "2016-03-29T00:33:36+09:00",
-    "updated_at": "2022-06-06T03:53:48+09:00",
-    "id": "kawaz"
-  },
-  {
     "title": "データサイエンティストに向けたコーディング環境Jupyter Notebookの勧め",
     "url": "https://qiita.com/y__sama/items/17aedf0c05187edd61c3",
     "likes_count": 336,
     "created_at": "2016-03-20T19:31:30+09:00",
     "updated_at": "2016-04-23T19:44:53+09:00",
     "id": "y__sama"
+  },
+  {
+    "title": "dein.vimによるプラグイン管理のマイベストプラクティス",
+    "url": "https://qiita.com/kawaz/items/ee725f6214f91337b42b",
+    "likes_count": 336,
+    "created_at": "2016-03-29T00:33:36+09:00",
+    "updated_at": "2022-06-06T03:53:48+09:00",
+    "id": "kawaz"
   },
   {
     "title": "Google Apps Script で Spreadsheet にアクセスする方法まとめ",

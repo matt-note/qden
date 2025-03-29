@@ -2,7 +2,7 @@
   {
     "title": "非デザイナーエンジニアが一人でWebサービスを作るときに便利なツール32選",
     "url": "https://qiita.com/okappy/items/119e31cae9aa9bd9da6d",
-    "likes_count": 6752,
+    "likes_count": 6751,
     "created_at": "2014-09-19T02:53:10+09:00",
     "updated_at": "2015-07-09T01:12:38+09:00",
     "id": "okappy"
@@ -58,7 +58,7 @@
   {
     "title": "Homebrew使い方まとめ",
     "url": "https://qiita.com/vintersnow/items/fca0be79cdc28bd2f5e4",
-    "likes_count": 1263,
+    "likes_count": 1262,
     "created_at": "2014-09-14T10:11:54+09:00",
     "updated_at": "2019-06-30T12:35:22+09:00",
     "id": "vintersnow"
@@ -106,18 +106,10 @@
   {
     "title": "QAエンジニア",
     "url": "https://qiita.com/jun2014/items/32ec77be1056f546aada",
-    "likes_count": 881,
+    "likes_count": 880,
     "created_at": "2014-09-27T01:14:29+09:00",
     "updated_at": "2025-03-27T23:01:37+09:00",
     "id": "jun2014"
-  },
-  {
-    "title": "Cコンパイラをスクラッチから開発してみた（日記）",
-    "url": "https://qiita.com/ruiu/items/4d471216b71ab48d8b74",
-    "likes_count": 826,
-    "created_at": "2014-09-07T05:42:21+09:00",
-    "updated_at": "2015-12-08T23:50:52+09:00",
-    "id": "ruiu"
   },
   {
     "title": "iPhone6/iPhone6 Plusの画面対応について",
@@ -126,6 +118,14 @@
     "created_at": "2014-09-10T21:05:23+09:00",
     "updated_at": "2014-09-12T00:05:49+09:00",
     "id": "uebo"
+  },
+  {
+    "title": "Cコンパイラをスクラッチから開発してみた（日記）",
+    "url": "https://qiita.com/ruiu/items/4d471216b71ab48d8b74",
+    "likes_count": 825,
+    "created_at": "2014-09-07T05:42:21+09:00",
+    "updated_at": "2015-12-08T23:50:52+09:00",
+    "id": "ruiu"
   },
   {
     "title": "WEB ページの読み込み時間を短くしよう",
@@ -138,7 +138,7 @@
   {
     "title": "システムの負荷の原因を切り分ける方法",
     "url": "https://qiita.com/k0kubun/items/8ab1dfa7c0359d8e618d",
-    "likes_count": 803,
+    "likes_count": 802,
     "created_at": "2014-09-08T22:46:12+09:00",
     "updated_at": "2014-09-08T22:52:51+09:00",
     "id": "k0kubun"
@@ -162,7 +162,7 @@
   {
     "title": "vim-plugin NERDTree で開発効率をアップする！",
     "url": "https://qiita.com/zwirky/items/0209579a635b4f9c95ee",
-    "likes_count": 725,
+    "likes_count": 724,
     "created_at": "2014-09-05T21:27:40+09:00",
     "updated_at": "2014-09-05T21:27:40+09:00",
     "id": "zwirky"
@@ -280,20 +280,20 @@
     "id": "koduki"
   },
   {
-    "title": "load averageを見てシステムの負荷を確認する",
-    "url": "https://qiita.com/k0kubun/items/8065f5cf2da7605c8043",
-    "likes_count": 488,
-    "created_at": "2014-09-08T21:08:18+09:00",
-    "updated_at": "2014-09-08T21:24:13+09:00",
-    "id": "k0kubun"
-  },
-  {
     "title": "初めてコードレビューされる人のためのpull requestとcommitの作り方",
     "url": "https://qiita.com/reikubonaga/items/e3b3b19c14d4ef4efb95",
     "likes_count": 487,
     "created_at": "2014-09-04T11:29:14+09:00",
     "updated_at": "2016-11-09T10:42:05+09:00",
     "id": "reikubonaga"
+  },
+  {
+    "title": "load averageを見てシステムの負荷を確認する",
+    "url": "https://qiita.com/k0kubun/items/8065f5cf2da7605c8043",
+    "likes_count": 487,
+    "created_at": "2014-09-08T21:08:18+09:00",
+    "updated_at": "2014-09-08T21:24:13+09:00",
+    "id": "k0kubun"
   },
   {
     "title": "Backbone.js 使い方メモ",
@@ -354,7 +354,7 @@
   {
     "title": "Rubyの文字列連結に関して知っておくべきこと",
     "url": "https://qiita.com/Kta-M/items/c7c2fb0b61b11d3a2c48",
-    "likes_count": 444,
+    "likes_count": 443,
     "created_at": "2014-09-29T07:24:45+09:00",
     "updated_at": "2019-02-27T08:35:54+09:00",
     "id": "Kta-M"
@@ -442,7 +442,7 @@
   {
     "title": "AltJSの選び方フローチャート",
     "url": "https://qiita.com/mizchi/items/c5f101cfab8fd456ca20",
-    "likes_count": 333,
+    "likes_count": 332,
     "created_at": "2014-09-11T13:42:44+09:00",
     "updated_at": "2014-09-11T14:50:12+09:00",
     "id": "mizchi"

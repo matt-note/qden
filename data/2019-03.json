@@ -130,7 +130,7 @@
   {
     "title": "VSCodeでなるべくマウスを使わない開発環境をがんばる",
     "url": "https://qiita.com/y-tsutsu/items/cfe89c0168f40a8fb353",
-    "likes_count": 1009,
+    "likes_count": 1008,
     "created_at": "2019-03-11T07:44:47+09:00",
     "updated_at": "2021-01-23T18:43:42+09:00",
     "id": "y-tsutsu"
@@ -282,7 +282,7 @@
   {
     "title": "Go / Gin で超簡単なWebアプリを作る",
     "url": "https://qiita.com/hyo_07/items/59c093dda143325b1859",
-    "likes_count": 626,
+    "likes_count": 625,
     "created_at": "2019-03-17T22:20:05+09:00",
     "updated_at": "2020-01-21T02:09:21+09:00",
     "id": "hyo_07"
@@ -314,7 +314,7 @@
   {
     "title": "JavaのGCの仕組みを整理する",
     "url": "https://qiita.com/e_tyubo/items/48398391a8ef0f24c1be",
-    "likes_count": 584,
+    "likes_count": 583,
     "created_at": "2019-03-31T11:59:37+09:00",
     "updated_at": "2019-03-31T12:00:49+09:00",
     "id": "e_tyubo"
@@ -354,7 +354,7 @@
   {
     "title": "Rust のエラーハンドリングはシンタックスシュガーが豊富で完全に初見殺しなので自信を持って使えるように整理してみたら完全に理解した",
     "url": "https://qiita.com/nirasan/items/321e7cc42e0e0f238254",
-    "likes_count": 542,
+    "likes_count": 541,
     "created_at": "2019-03-15T09:35:24+09:00",
     "updated_at": "2022-04-25T11:09:27+09:00",
     "id": "nirasan"
@@ -432,20 +432,20 @@
     "id": "yuki153"
   },
   {
+    "title": "Nginxのアーキテクチャを理解する",
+    "url": "https://qiita.com/kamihork/items/296ee689a8d48c2bebcd",
+    "likes_count": 448,
+    "created_at": "2019-03-06T01:23:01+09:00",
+    "updated_at": "2020-06-13T23:46:57+09:00",
+    "id": "kamihork"
+  },
+  {
     "title": "[git] gitconfigで会社用アカウントと個人用アカウントを楽に使い分けする",
     "url": "https://qiita.com/Ancient_Scapes/items/64f239f89d25a3b9f520",
     "likes_count": 448,
     "created_at": "2019-03-27T03:18:41+09:00",
     "updated_at": "2019-03-28T14:55:54+09:00",
     "id": "Ancient_Scapes"
-  },
-  {
-    "title": "Nginxのアーキテクチャを理解する",
-    "url": "https://qiita.com/kamihork/items/296ee689a8d48c2bebcd",
-    "likes_count": 447,
-    "created_at": "2019-03-06T01:23:01+09:00",
-    "updated_at": "2020-06-13T23:46:57+09:00",
-    "id": "kamihork"
   },
   {
     "title": "全言語で気をつけるべき、ファイル書き込み時のお作法",
@@ -570,7 +570,7 @@
   {
     "title": "【Rails】$rails db:rollbackしたい時の間違えない手順",
     "url": "https://qiita.com/s_tatsuki/items/3e1f119c91e21b8f0c33",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2019-03-14T13:16:42+09:00",
     "updated_at": "2021-11-19T10:15:10+09:00",
     "id": "s_tatsuki"

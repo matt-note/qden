@@ -42,7 +42,7 @@
   {
     "title": "Terraform職人入門: 日々の運用で学んだ知見を淡々とまとめる",
     "url": "https://qiita.com/minamijoyo/items/1f57c62bed781ab8f4d7",
-    "likes_count": 1376,
+    "likes_count": 1377,
     "created_at": "2017-12-08T11:06:27+09:00",
     "updated_at": "2024-11-01T23:07:07+09:00",
     "id": "minamijoyo"
@@ -114,7 +114,7 @@
   {
     "title": "Awesome Go : 素晴らしい Go のフレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/f31914f37dc6c53b2bce",
-    "likes_count": 965,
+    "likes_count": 964,
     "created_at": "2017-12-18T19:02:19+09:00",
     "updated_at": "2022-12-27T13:49:39+09:00",
     "id": "hatai"
@@ -170,7 +170,7 @@
   {
     "title": "Storybookがなぜ必要か？(Vue.js編)",
     "url": "https://qiita.com/masaakikunsan/items/dad8d84807918f3a43cb",
-    "likes_count": 870,
+    "likes_count": 869,
     "created_at": "2017-12-24T00:27:00+09:00",
     "updated_at": "2019-02-26T17:34:46+09:00",
     "id": "masaakikunsan"
@@ -234,7 +234,7 @@
   {
     "title": "ファミコンエミュレータの創り方　- Hello, World!編 -",
     "url": "https://qiita.com/bokuweb/items/1575337bef44ae82f4d3",
-    "likes_count": 776,
+    "likes_count": 775,
     "created_at": "2017-12-18T10:54:24+09:00",
     "updated_at": "2020-02-12T11:34:17+09:00",
     "id": "bokuweb"
@@ -242,7 +242,7 @@
   {
     "title": "割と突き詰めてやったvim→vscode移行",
     "url": "https://qiita.com/y-mattun/items/45776b7e1942edb2f727",
-    "likes_count": 765,
+    "likes_count": 764,
     "created_at": "2017-12-18T10:12:06+09:00",
     "updated_at": "2019-07-10T10:58:40+09:00",
     "id": "y-mattun"
@@ -346,7 +346,7 @@
   {
     "title": "次にJSガッツリ書くときはTypeScriptで",
     "url": "https://qiita.com/yuya_presto/items/f625da7b1a4d21c6ce7a",
-    "likes_count": 611,
+    "likes_count": 610,
     "created_at": "2017-12-26T18:52:16+09:00",
     "updated_at": "2020-06-27T01:29:19+09:00",
     "id": "yuya_presto"
@@ -402,7 +402,7 @@
   {
     "title": "新規Railsプロジェクトの作成手順まとめ",
     "url": "https://qiita.com/yuitnnn/items/b45bba658d86eabdbb26",
-    "likes_count": 541,
+    "likes_count": 542,
     "created_at": "2017-12-28T23:41:56+09:00",
     "updated_at": "2018-03-11T07:17:34+09:00",
     "id": "yuitnnn"
@@ -434,7 +434,7 @@
   {
     "title": ".bash_profileと.bashrcのまとめ",
     "url": "https://qiita.com/tockey/items/021b804b9957fe65e093",
-    "likes_count": 498,
+    "likes_count": 497,
     "created_at": "2017-12-25T22:56:03+09:00",
     "updated_at": "2022-05-16T22:31:37+09:00",
     "id": "tockey"
@@ -456,20 +456,20 @@
     "id": "yuku_t"
   },
   {
-    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
-    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
-    "likes_count": 485,
-    "created_at": "2017-12-13T01:28:27+09:00",
-    "updated_at": "2019-07-28T01:41:15+09:00",
-    "id": "tatsurou313"
-  },
-  {
     "title": "リスト内包表記の活用と悪用",
     "url": "https://qiita.com/KTakahiro1729/items/c9cb757473de50652374",
     "likes_count": 485,
     "created_at": "2017-12-13T23:41:13+09:00",
     "updated_at": "2021-08-15T17:37:25+09:00",
     "id": "KTakahiro1729"
+  },
+  {
+    "title": "Ruby on Rails のテストフレームワーク RSpec 事始め",
+    "url": "https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee",
+    "likes_count": 484,
+    "created_at": "2017-12-13T01:28:27+09:00",
+    "updated_at": "2019-07-28T01:41:15+09:00",
+    "id": "tatsurou313"
   },
   {
     "title": "LINE Messaging API でできることまとめ【送信編】",
@@ -578,7 +578,7 @@
   {
     "title": "組み込みLinuxデバイスドライバの作り方 (1)",
     "url": "https://qiita.com/iwatake2222/items/1fdd2e0faaaa868a2db2",
-    "likes_count": 393,
+    "likes_count": 392,
     "created_at": "2017-12-17T01:37:50+09:00",
     "updated_at": "2018-02-01T19:12:00+09:00",
     "id": "iwatake2222"
@@ -618,7 +618,7 @@
   {
     "title": "C++をこれから勉強する人のための道しるべ（C++03）",
     "url": "https://qiita.com/borerere/items/7dd02ba6dd8990b10e29",
-    "likes_count": 373,
+    "likes_count": 372,
     "created_at": "2017-12-18T20:08:38+09:00",
     "updated_at": "2019-04-17T15:10:58+09:00",
     "id": "borerere"
@@ -698,7 +698,7 @@
   {
     "title": "2017年版 SSH公開鍵認証で使用する秘密鍵ペアの作り方",
     "url": "https://qiita.com/wnoguchi/items/a72a042bb8159c35d056",
-    "likes_count": 325,
+    "likes_count": 326,
     "created_at": "2017-12-09T23:19:26+09:00",
     "updated_at": "2019-09-18T20:16:17+09:00",
     "id": "wnoguchi"
@@ -746,7 +746,7 @@
   {
     "title": "ＣＴＦを始めるときにおすすめな本とか",
     "url": "https://qiita.com/4hiziri/items/98b5e1f8b1824d0bc841",
-    "likes_count": 307,
+    "likes_count": 306,
     "created_at": "2017-12-12T01:40:32+09:00",
     "updated_at": "2018-09-20T00:23:38+09:00",
     "id": "4hiziri"
