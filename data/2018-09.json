@@ -1,0 +1,610 @@
+[
+  {
+    "title": "VSCodeのオススメ拡張機能 24 選   (とTipsをいくつか)",
+    "url": "https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234",
+    "likes_count": 5601,
+    "created_at": "2018-09-30T14:57:40+09:00",
+    "updated_at": "2020-02-09T01:38:33+09:00",
+    "id": "sensuikan1973"
+  },
+  {
+    "title": "Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary)",
+    "url": "https://qiita.com/wtetsu/items/c43232c6c44918e977c9",
+    "likes_count": 5003,
+    "created_at": "2018-09-05T00:06:08+09:00",
+    "updated_at": "2025-02-11T19:23:17+09:00",
+    "id": "wtetsu"
+  },
+  {
+    "title": "個人でも使える！おすすめAPI一覧",
+    "url": "https://qiita.com/mikan3rd/items/ba4737023f08bb2ca161",
+    "likes_count": 4543,
+    "created_at": "2018-09-17T21:12:27+09:00",
+    "updated_at": "2021-12-21T13:28:54+09:00",
+    "id": "mikan3rd"
+  },
+  {
+    "title": "実装クリーンアーキテクチャ",
+    "url": "https://qiita.com/nrslib/items/a5f902c4defc83bd46b8",
+    "likes_count": 3522,
+    "created_at": "2018-09-30T00:42:41+09:00",
+    "updated_at": "2020-12-13T21:44:21+09:00",
+    "id": "nrslib"
+  },
+  {
+    "title": "今から始めるReact入門 〜 React の基本",
+    "url": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
+    "likes_count": 2493,
+    "created_at": "2018-09-08T14:12:46+09:00",
+    "updated_at": "2021-04-30T23:50:34+09:00",
+    "id": "TsutomuNakamura"
+  },
+  {
+    "title": "なぜ我々はいまだに文字列でコメントを書いているのか",
+    "url": "https://qiita.com/tkrkt/items/2fc9a9a59ce679aab728",
+    "likes_count": 2177,
+    "created_at": "2018-09-20T21:19:45+09:00",
+    "updated_at": "2018-09-26T21:20:01+09:00",
+    "id": "tkrkt"
+  },
+  {
+    "title": "Reactで誰もがやりたかった10の機能。アプリ構想はあるけど作れない人の壁をぶっ壊す。",
+    "url": "https://qiita.com/y_kawase/items/8f1b5a303400a09c4923",
+    "likes_count": 2164,
+    "created_at": "2018-09-03T11:52:27+09:00",
+    "updated_at": "2019-04-21T16:22:29+09:00",
+    "id": "y_kawase"
+  },
+  {
+    "title": "オブジェクト指向が5000%理解できる記事",
+    "url": "https://qiita.com/it_hero_inc/items/b2f8e39d7cc23ad505f9",
+    "likes_count": 1910,
+    "created_at": "2018-09-22T01:04:00+09:00",
+    "updated_at": "2020-01-28T15:05:24+09:00",
+    "id": "it_hero_inc"
+  },
+  {
+    "title": "実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか",
+    "url": "https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e",
+    "likes_count": 1754,
+    "created_at": "2018-09-12T00:41:00+09:00",
+    "updated_at": "2018-09-22T13:41:27+09:00",
+    "id": "tsin1rou"
+  },
+  {
+    "title": "フリーランスエンジニアの単価を決める",
+    "url": "https://qiita.com/KazukiTanaka/items/130a2c477847b24e35ce",
+    "likes_count": 1545,
+    "created_at": "2018-09-03T11:20:09+09:00",
+    "updated_at": "2018-09-06T11:24:40+09:00",
+    "id": "KazukiTanaka"
+  },
+  {
+    "title": "2018年Vue.jsとVuexを使ってる人には必ず知っていてほしいドキュメントに書かれていないコンポーネントやストア、メンテナンスの際に役立つTips",
+    "url": "https://qiita.com/kahirokunn/items/512b9e502f8db49981f3",
+    "likes_count": 1401,
+    "created_at": "2018-09-13T11:30:34+09:00",
+    "updated_at": "2019-10-16T14:11:26+09:00",
+    "id": "kahirokunn"
+  },
+  {
+    "title": "Sequel Proを超えるGUIツールが出てきたぞ",
+    "url": "https://qiita.com/shunichi_com/items/b07ae8c678aa7c0e2ff6",
+    "likes_count": 1370,
+    "created_at": "2018-09-21T17:04:55+09:00",
+    "updated_at": "2019-06-26T14:29:35+09:00",
+    "id": "shunichi_com"
+  },
+  {
+    "title": "[Python] プログラム初心者のためのWebアプリ簡単作成法",
+    "url": "https://qiita.com/okoppe8/items/4cc0f87ea933749f5a49",
+    "likes_count": 1292,
+    "created_at": "2018-09-27T15:04:46+09:00",
+    "updated_at": "2018-09-28T14:14:51+09:00",
+    "id": "okoppe8"
+  },
+  {
+    "title": "Docker、ボリューム(Volume)について真面目に調べた",
+    "url": "https://qiita.com/gounx2/items/23b0dc8b8b95cc629f32",
+    "likes_count": 1098,
+    "created_at": "2018-09-28T01:01:49+09:00",
+    "updated_at": "2019-10-05T15:34:08+09:00",
+    "id": "gounx2"
+  },
+  {
+    "title": "Webページの高速化/最適化まとめ",
+    "url": "https://qiita.com/neer_chan/items/2c62fee08489ce30800b",
+    "likes_count": 1028,
+    "created_at": "2018-09-16T17:46:29+09:00",
+    "updated_at": "2018-09-24T04:44:51+09:00",
+    "id": "neer_chan"
+  },
+  {
+    "title": "プログラミングが大好きなWeb系エンジニアの50代以降のキャリアに関する考察",
+    "url": "https://qiita.com/poly_soft/items/dbca28f166d07070e8eb",
+    "likes_count": 1025,
+    "created_at": "2018-09-01T18:40:18+09:00",
+    "updated_at": "2019-03-11T19:38:20+09:00",
+    "id": "poly_soft"
+  },
+  {
+    "title": "OpenAPI (Swagger) 超入門",
+    "url": "https://qiita.com/teinen_qiita/items/e440ca7b1b52ec918f1b",
+    "likes_count": 1008,
+    "created_at": "2018-09-08T15:32:15+09:00",
+    "updated_at": "2019-08-16T13:36:50+09:00",
+    "id": "teinen_qiita"
+  },
+  {
+    "title": "深層強化学習アルゴリズムまとめ",
+    "url": "https://qiita.com/shionhonda/items/ec05aade07b5bea78081",
+    "likes_count": 984,
+    "created_at": "2018-09-19T14:08:40+09:00",
+    "updated_at": "2020-09-10T10:08:36+09:00",
+    "id": "shionhonda"
+  },
+  {
+    "title": "SSHの公開鍵認証における良くある誤解の話",
+    "url": "https://qiita.com/angel_p_57/items/2e3f3f8661de32a0d432",
+    "likes_count": 982,
+    "created_at": "2018-09-17T21:58:02+09:00",
+    "updated_at": "2018-09-17T21:58:02+09:00",
+    "id": "angel_p_57"
+  },
+  {
+    "title": "VSCodeでCSVをステキに見やすくする「Rainbow CSV」を紹介するよ",
+    "url": "https://qiita.com/0w0/items/07a481921a2ac09a049f",
+    "likes_count": 926,
+    "created_at": "2018-09-22T17:38:38+09:00",
+    "updated_at": "2018-09-22T17:38:38+09:00",
+    "id": "0w0"
+  },
+  {
+    "title": "機械学習／ディープラーニングにおけるバッチサイズ、イテレーション数、エポック数の決め方",
+    "url": "https://qiita.com/kenta1984/items/bad75a37d552510e4682",
+    "likes_count": 881,
+    "created_at": "2018-09-21T23:14:49+09:00",
+    "updated_at": "2025-02-16T17:03:27+09:00",
+    "id": "kenta1984"
+  },
+  {
+    "title": "Apache Kafkaの概要とアーキテクチャ",
+    "url": "https://qiita.com/sigmalist/items/5a26ab519cbdf1e07af3",
+    "likes_count": 829,
+    "created_at": "2018-09-07T15:44:03+09:00",
+    "updated_at": "2020-01-31T19:01:04+09:00",
+    "id": "sigmalist"
+  },
+  {
+    "title": "Twitter API 登録 (アカウント申請方法) から承認されるまでの手順まとめ　※2019年8月時点の情報 ",
+    "url": "https://qiita.com/kngsym2018/items/2524d21455aac111cdee",
+    "likes_count": 819,
+    "created_at": "2018-09-13T18:03:44+09:00",
+    "updated_at": "2019-08-04T17:13:51+09:00",
+    "id": "kngsym2018"
+  },
+  {
+    "title": "Nuxt.js, Firebase, Stripe をフル活用してサーバーレスでJAMStackなECサイトを2日で開発した話",
+    "url": "https://qiita.com/potato4d/items/13050d5934ff592dc539",
+    "likes_count": 811,
+    "created_at": "2018-09-10T12:48:20+09:00",
+    "updated_at": "2019-12-05T12:11:12+09:00",
+    "id": "potato4d"
+  },
+  {
+    "title": "[Pythonコーディング規約]PEP8を読み解く",
+    "url": "https://qiita.com/simonritchie/items/bb06a7521ae6560738a7",
+    "likes_count": 803,
+    "created_at": "2018-09-17T01:05:30+09:00",
+    "updated_at": "2020-12-12T20:58:41+09:00",
+    "id": "simonritchie"
+  },
+  {
+    "title": "Rubyによるデザインパターンまとめ",
+    "url": "https://qiita.com/yuji_ariyasu/items/588fef6062b3c7149509",
+    "likes_count": 786,
+    "created_at": "2018-09-10T10:52:19+09:00",
+    "updated_at": "2023-07-09T22:12:18+09:00",
+    "id": "yuji_ariyasu"
+  },
+  {
+    "title": "10年モノのインフラを3年がかりでカイゼンした",
+    "url": "https://qiita.com/sasasin/items/30585a3a117d64973645",
+    "likes_count": 777,
+    "created_at": "2018-09-17T19:47:30+09:00",
+    "updated_at": "2018-09-18T19:15:37+09:00",
+    "id": "sasasin"
+  },
+  {
+    "title": "Python3で競技プログラミングする時に知っておきたいtips（入力編）",
+    "url": "https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c",
+    "likes_count": 758,
+    "created_at": "2018-09-08T20:13:28+09:00",
+    "updated_at": "2019-04-14T12:14:48+09:00",
+    "id": "kyuna"
+  },
+  {
+    "title": "【AWS】アカウント契約の準拠法をワシントン州法から日本法に、管轄裁判所をワシントン州キング郡州裁判所から東京裁判所に変更する方法",
+    "url": "https://qiita.com/yokoyan/items/2e4cef0728aaf8d2e7d8",
+    "likes_count": 702,
+    "created_at": "2018-09-25T16:06:16+09:00",
+    "updated_at": "2018-09-27T21:27:35+09:00",
+    "id": "yokoyan"
+  },
+  {
+    "title": "約3年かけてプログラマ向けニュース推薦アプリを作り直した話",
+    "url": "https://qiita.com/ytanaka/items/6cfad69a4c000c05be40",
+    "likes_count": 669,
+    "created_at": "2018-09-07T06:05:54+09:00",
+    "updated_at": "2020-06-16T15:44:12+09:00",
+    "id": "ytanaka"
+  },
+  {
+    "title": "オブジェクト指向が0.05%も理解できない記事",
+    "url": "https://qiita.com/raccy/items/58254f842788707f8c53",
+    "likes_count": 663,
+    "created_at": "2018-09-28T07:30:06+09:00",
+    "updated_at": "2018-11-09T18:43:07+09:00",
+    "id": "raccy"
+  },
+  {
+    "title": "「Vueコンサルが教えたくない７つの真実」を勉強してみた",
+    "url": "https://qiita.com/shinobu_shiva/items/e0c458aa6c1e683a9881",
+    "likes_count": 653,
+    "created_at": "2018-09-20T04:32:24+09:00",
+    "updated_at": "2018-11-21T22:01:01+09:00",
+    "id": "shinobu_shiva"
+  },
+  {
+    "title": "あなたを死なせないためのプログラミング",
+    "url": "https://qiita.com/yossymura/items/b19d08235bdb44f06ae8",
+    "likes_count": 624,
+    "created_at": "2018-09-22T00:48:00+09:00",
+    "updated_at": "2020-05-10T06:09:28+09:00",
+    "id": "yossymura"
+  },
+  {
+    "title": "新卒入社後、約3年半で読んできた書籍たち",
+    "url": "https://qiita.com/turmericN/items/5c09ce3b634c73c118e7",
+    "likes_count": 617,
+    "created_at": "2018-09-09T11:07:57+09:00",
+    "updated_at": "2018-10-09T07:59:44+09:00",
+    "id": "turmericN"
+  },
+  {
+    "title": "最新のRegion CNN(R-CNN)を用いた物体検出入門 ~物体検出とは? R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN~",
+    "url": "https://qiita.com/arutema47/items/8ff629a1516f7fd485f9",
+    "likes_count": 595,
+    "created_at": "2018-09-17T10:57:35+09:00",
+    "updated_at": "2024-05-11T20:43:09+09:00",
+    "id": "arutema47"
+  },
+  {
+    "title": "英語のコーディング面接 (React) を受けた感想、やっておけば良かったと思ったことなど",
+    "url": "https://qiita.com/acro5piano/items/df53d695c84db83061da",
+    "likes_count": 578,
+    "created_at": "2018-09-19T00:10:09+09:00",
+    "updated_at": "2019-03-01T02:24:29+09:00",
+    "id": "acro5piano"
+  },
+  {
+    "title": "UIデザインは人の好奇心に依存している",
+    "url": "https://qiita.com/Mister_K/items/6b9bd54d6226e260c308",
+    "likes_count": 561,
+    "created_at": "2018-09-26T10:35:19+09:00",
+    "updated_at": "2018-09-26T10:35:19+09:00",
+    "id": "Mister_K"
+  },
+  {
+    "title": "フリーランスエンジニアの面談ってこんな感じ",
+    "url": "https://qiita.com/turmericN/items/e248d8ac30ca5c21650e",
+    "likes_count": 546,
+    "created_at": "2018-09-17T10:40:17+09:00",
+    "updated_at": "2018-10-09T08:00:27+09:00",
+    "id": "turmericN"
+  },
+  {
+    "title": "フリーランスエンジニアに関する5つの誤解",
+    "url": "https://qiita.com/poly_soft/items/c494f3df80738a3daf1c",
+    "likes_count": 545,
+    "created_at": "2018-09-15T18:37:05+09:00",
+    "updated_at": "2019-03-11T19:37:19+09:00",
+    "id": "poly_soft"
+  },
+  {
+    "title": "Chart.jsでグラフを描画してみた",
+    "url": "https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369",
+    "likes_count": 541,
+    "created_at": "2018-09-04T16:23:22+09:00",
+    "updated_at": "2022-10-11T11:21:00+09:00",
+    "id": "Haruka-Ogawa"
+  },
+  {
+    "title": "【物体検出手法の歴史 : YOLOの紹介】",
+    "url": "https://qiita.com/cv_carnavi/items/68dcda71e90321574a2b",
+    "likes_count": 505,
+    "created_at": "2018-09-01T12:15:36+09:00",
+    "updated_at": "2021-12-23T19:59:34+09:00",
+    "id": "cv_carnavi"
+  },
+  {
+    "title": "KotlinとJavaができる人向けDart速習",
+    "url": "https://qiita.com/kikuchy/items/2cce118d38fc15324b2b",
+    "likes_count": 504,
+    "created_at": "2018-09-18T19:47:13+09:00",
+    "updated_at": "2021-05-24T14:09:51+09:00",
+    "id": "kikuchy"
+  },
+  {
+    "title": "Jupyter/Pythonでデータ分析する人にお勧めしたい！便利なライブラリー「PixieDust」をザクッと紹介します",
+    "url": "https://qiita.com/ishida330/items/53f1b0df2247fab5c6dd",
+    "likes_count": 492,
+    "created_at": "2018-09-08T17:35:35+09:00",
+    "updated_at": "2018-09-08T17:49:49+09:00",
+    "id": "ishida330"
+  },
+  {
+    "title": "サイゼリヤ1000円ガチャをつくってみた(Heroku + Flask + LINEbot)",
+    "url": "https://qiita.com/marusho_summers/items/a2d3681fac863734ec8a",
+    "likes_count": 483,
+    "created_at": "2018-09-22T22:23:19+09:00",
+    "updated_at": "2022-11-01T00:58:46+09:00",
+    "id": "marusho_summers"
+  },
+  {
+    "title": "30分でできるRuby on RailsとGitHubやエディタまわりの環境構築",
+    "url": "https://qiita.com/_kanacan_/items/59f3959169c41a167b1e",
+    "likes_count": 472,
+    "created_at": "2018-09-11T00:03:02+09:00",
+    "updated_at": "2018-09-13T09:52:02+09:00",
+    "id": "_kanacan_"
+  },
+  {
+    "title": " 「ツイッターでつぶやけるボタン」を簡単に作成できるサービスをリリースしました【個人開発】",
+    "url": "https://qiita.com/retoruto_carry/items/d6a173701c8e40f0c294",
+    "likes_count": 467,
+    "created_at": "2018-09-10T18:09:26+09:00",
+    "updated_at": "2021-02-15T18:36:51+09:00",
+    "id": "retoruto_carry"
+  },
+  {
+    "title": "moffersで年収1200万円のオファーをゲットしたエンジニアの業務経歴を公開します",
+    "url": "https://qiita.com/poly_soft/items/f08460f559ed5e9304b5",
+    "likes_count": 459,
+    "created_at": "2018-09-22T14:36:45+09:00",
+    "updated_at": "2019-03-11T19:36:59+09:00",
+    "id": "poly_soft"
+  },
+  {
+    "title": "Ajax(非同期通信)についてわかりやすさ重視でまとめてみた(Rails使用のデモ付)",
+    "url": "https://qiita.com/motoki0208/items/409ccf256e84017ea307",
+    "likes_count": 449,
+    "created_at": "2018-09-02T21:04:01+09:00",
+    "updated_at": "2018-09-09T12:24:40+09:00",
+    "id": "motoki0208"
+  },
+  {
+    "title": "初心者がSSHについて学ぶ(´･ω･`)",
+    "url": "https://qiita.com/shobooon/items/70cc74cd20c8b5b4fe15",
+    "likes_count": 449,
+    "created_at": "2018-09-12T13:05:41+09:00",
+    "updated_at": "2021-10-20T10:17:28+09:00",
+    "id": "shobooon"
+  },
+  {
+    "title": "25歳初めてのフリーランスエンジニアの単価について",
+    "url": "https://qiita.com/turmericN/items/a73d005e8bf4700bbb37",
+    "likes_count": 442,
+    "created_at": "2018-09-03T23:31:06+09:00",
+    "updated_at": "2018-10-09T07:59:09+09:00",
+    "id": "turmericN"
+  },
+  {
+    "title": "JavaScript初心者にclassを伝える",
+    "url": "https://qiita.com/jpnykw/items/248f99c94c00c3d1aa27",
+    "likes_count": 440,
+    "created_at": "2018-09-15T20:25:44+09:00",
+    "updated_at": "2018-09-18T16:32:41+09:00",
+    "id": "jpnykw"
+  },
+  {
+    "title": "【Rails】find・find_by・whereについてまとめてみた",
+    "url": "https://qiita.com/nakayuu07/items/3d5e2f8784b6f18186f2",
+    "likes_count": 437,
+    "created_at": "2018-09-18T13:36:27+09:00",
+    "updated_at": "2020-02-13T14:31:53+09:00",
+    "id": "nakayuu07"
+  },
+  {
+    "title": "新しいExcelの一番の変更点は「スピル」？",
+    "url": "https://qiita.com/yosatonet/items/2fc441343d210a484789",
+    "likes_count": 436,
+    "created_at": "2018-09-28T01:22:08+09:00",
+    "updated_at": "2018-09-28T22:10:04+09:00",
+    "id": "yosatonet"
+  },
+  {
+    "title": "広告IDを使っている覚えがないのにGoogle Playからポリシー違反を通告されたけどFirebaseのせいだった",
+    "url": "https://qiita.com/Nkzn/items/326ad03e358b5d3fbafc",
+    "likes_count": 433,
+    "created_at": "2018-09-20T11:02:23+09:00",
+    "updated_at": "2018-09-28T13:32:09+09:00",
+    "id": "Nkzn"
+  },
+  {
+    "title": "今から始めるReact入門 〜 React Router",
+    "url": "https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2",
+    "likes_count": 429,
+    "created_at": "2018-09-09T19:21:12+09:00",
+    "updated_at": "2022-10-20T01:15:21+09:00",
+    "id": "TsutomuNakamura"
+  },
+  {
+    "title": "その設計、変更に強いですか?単体テストできますか?...そしてクリーンアーキテクチャ ",
+    "url": "https://qiita.com/Sekky0905/items/2436d669ff5d4491c527",
+    "likes_count": 426,
+    "created_at": "2018-09-25T20:33:02+09:00",
+    "updated_at": "2019-11-29T12:59:10+09:00",
+    "id": "Sekky0905"
+  },
+  {
+    "title": "SCSSの基本的な書き方",
+    "url": "https://qiita.com/nchhujimiyama/items/8a6aad5abead39d1352a",
+    "likes_count": 421,
+    "created_at": "2018-09-21T16:06:04+09:00",
+    "updated_at": "2020-02-15T22:45:11+09:00",
+    "id": "nchhujimiyama"
+  },
+  {
+    "title": "Google ColaboratoryのTPUを試してみる",
+    "url": "https://qiita.com/koshian2/items/25a6341c035e8a260a01",
+    "likes_count": 421,
+    "created_at": "2018-09-27T22:54:58+09:00",
+    "updated_at": "2018-11-22T18:54:55+09:00",
+    "id": "koshian2"
+  },
+  {
+    "title": "React開発環境構築2018",
+    "url": "https://qiita.com/tsin1rou/items/6e4ee70b309cc266dcc9",
+    "likes_count": 395,
+    "created_at": "2018-09-16T02:06:38+09:00",
+    "updated_at": "2018-10-02T11:03:20+09:00",
+    "id": "tsin1rou"
+  },
+  {
+    "title": "JavaScriptのオブジェクト指向が10%理解できる記事（実践編）",
+    "url": "https://qiita.com/uhyo/items/ab8e273e1eb71d02e29a",
+    "likes_count": 395,
+    "created_at": "2018-09-26T00:17:36+09:00",
+    "updated_at": "2018-09-26T11:26:17+09:00",
+    "id": "uhyo"
+  },
+  {
+    "title": "VS Code でEmmet使ったらHTML書くの速くなった～‼",
+    "url": "https://qiita.com/fumikomatsu/items/67876e6be3369b0e730c",
+    "likes_count": 391,
+    "created_at": "2018-09-21T14:18:21+09:00",
+    "updated_at": "2018-09-25T16:43:47+09:00",
+    "id": "fumikomatsu"
+  },
+  {
+    "title": "Webスクレイピングマスターが教える「スクレイピング対策」@09/16追記",
+    "url": "https://qiita.com/Azunyan1111/items/a1964c18e409fe6718fd",
+    "likes_count": 389,
+    "created_at": "2018-09-13T09:25:49+09:00",
+    "updated_at": "2018-09-22T09:24:57+09:00",
+    "id": "Azunyan1111"
+  },
+  {
+    "title": "Python×業務効率化 Automagicaでブラウザを自動で動かしてみた",
+    "url": "https://qiita.com/k_mayo_beam/items/0dd5bc768a1f8dd421fc",
+    "likes_count": 382,
+    "created_at": "2018-09-11T20:12:55+09:00",
+    "updated_at": "2018-09-12T07:55:33+09:00",
+    "id": "k_mayo_beam"
+  },
+  {
+    "title": "オブジェクト指向が5000%理解できる記事(実践編)",
+    "url": "https://qiita.com/it_hero_inc/items/fab2a6637f681221f687",
+    "likes_count": 376,
+    "created_at": "2018-09-24T14:09:36+09:00",
+    "updated_at": "2018-09-25T23:05:25+09:00",
+    "id": "it_hero_inc"
+  },
+  {
+    "title": "Dockerを使ってLaravel開発環境構築",
+    "url": "https://qiita.com/A-Kira/items/1c55ef689c0f91420e81",
+    "likes_count": 360,
+    "created_at": "2018-09-30T03:04:01+09:00",
+    "updated_at": "2021-08-19T09:42:12+09:00",
+    "id": "A-Kira"
+  },
+  {
+    "title": "圏論のオススメ勉強法（プログラマ向け）",
+    "url": "https://qiita.com/inamiy/items/922d4220bf407efa2dab",
+    "likes_count": 357,
+    "created_at": "2018-09-10T09:19:42+09:00",
+    "updated_at": "2018-09-21T13:35:57+09:00",
+    "id": "inamiy"
+  },
+  {
+    "title": "Railsで remote: true と js.erbを使って簡単にAjax(非同期通信)を実装しよう！(いいね機能のデモ付)",
+    "url": "https://qiita.com/motoki0208/items/45211df065e0c037d032",
+    "likes_count": 350,
+    "created_at": "2018-09-08T17:25:45+09:00",
+    "updated_at": "2018-09-19T14:11:37+09:00",
+    "id": "motoki0208"
+  },
+  {
+    "title": "Nuxt.js + Netlifyで爆速構築するサーバーレス開発入門",
+    "url": "https://qiita.com/isihigameKoudai/items/e3b136e9964f1d30d73d",
+    "likes_count": 350,
+    "created_at": "2018-09-27T03:15:09+09:00",
+    "updated_at": "2019-03-14T02:10:21+09:00",
+    "id": "isihigameKoudai"
+  },
+  {
+    "title": "webpack4対応webpack-dev-serverの主要な設定オプション(CLI,webpack.config.js)の意味と挙動",
+    "url": "https://qiita.com/riversun/items/d27f6d3ab7aaa119deab",
+    "likes_count": 327,
+    "created_at": "2018-09-16T19:33:44+09:00",
+    "updated_at": "2019-01-22T18:31:49+09:00",
+    "id": "riversun"
+  },
+  {
+    "title": "Sphinxの使い方．docstringを読み込んで仕様書を生成",
+    "url": "https://qiita.com/futakuchi0117/items/4d3997c1ca1323259844",
+    "likes_count": 326,
+    "created_at": "2018-09-02T23:22:43+09:00",
+    "updated_at": "2024-06-30T18:45:59+09:00",
+    "id": "futakuchi0117"
+  },
+  {
+    "title": "Firebase、Flamelink、Nuxt、Netlify、PWAを使ってJAMstackなブログを作る",
+    "url": "https://qiita.com/miyaoka/items/9774f0250953da419a58",
+    "likes_count": 316,
+    "created_at": "2018-09-18T10:06:50+09:00",
+    "updated_at": "2018-10-23T19:26:25+09:00",
+    "id": "miyaoka"
+  },
+  {
+    "title": "いまさらGit for Windowsのインストール、GitHubに接続してみた。",
+    "url": "https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00",
+    "likes_count": 311,
+    "created_at": "2018-09-13T15:01:37+09:00",
+    "updated_at": "2018-09-13T16:20:24+09:00",
+    "id": "manabu-watanabe"
+  },
+  {
+    "title": "【Python】スライス操作についてまとめ",
+    "url": "https://qiita.com/tanuk1647/items/276d2be36f5abb8ea52e",
+    "likes_count": 299,
+    "created_at": "2018-09-29T19:20:32+09:00",
+    "updated_at": "2022-04-20T20:54:52+09:00",
+    "id": "tanuk1647"
+  },
+  {
+    "title": "JavaScriptのオブジェクト指向は、逆の順番で学んだほうが理解しやすいと思うので…",
+    "url": "https://qiita.com/Maki-Daisuke/items/c10466ab9a5e826cf10e",
+    "likes_count": 247,
+    "created_at": "2018-09-29T04:20:47+09:00",
+    "updated_at": "2018-10-16T17:27:51+09:00",
+    "id": "Maki-Daisuke"
+  },
+  {
+    "title": "【20分でデプロイ】AWS EC2にDjango+PostgreSQL+Nginx環境を構築してササッと公開",
+    "url": "https://qiita.com/tachibanayu24/items/b8d73cdfd4cbd42c5b1d",
+    "likes_count": 237,
+    "created_at": "2018-09-11T00:40:55+09:00",
+    "updated_at": "2019-10-03T18:21:38+09:00",
+    "id": "tachibanayu24"
+  },
+  {
+    "title": "【PyCon JP 2018】発表資料まとめ",
+    "url": "https://qiita.com/kobaboy/items/46ff9f19b9ea5638fa8e",
+    "likes_count": 233,
+    "created_at": "2018-09-23T14:45:53+09:00",
+    "updated_at": "2018-09-25T13:13:07+09:00",
+    "id": "kobaboy"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Git submodule の基礎",
+    "url": "https://qiita.com/sotarok/items/0d525e568a6088f6f6bb",
+    "likes_count": 2799,
+    "created_at": "2012-06-06T23:58:30+09:00",
+    "updated_at": "2022-06-01T15:20:20+09:00",
+    "id": "sotarok"
+  },
+  {
+    "title": "変更を一時的に退避！キメろgit stash",
+    "url": "https://qiita.com/fukajun/items/41288806e4733cb9c342",
+    "likes_count": 1481,
+    "created_at": "2012-06-19T23:58:50+09:00",
+    "updated_at": "2012-06-20T12:12:45+09:00",
+    "id": "fukajun"
+  },
+  {
+    "title": "MacBookAirで使っている便利ツール",
+    "url": "https://qiita.com/syui/items/73a822970742b317aede",
+    "likes_count": 1335,
+    "created_at": "2012-06-09T00:16:48+09:00",
+    "updated_at": "2015-10-31T13:13:23+09:00",
+    "id": "syui"
+  },
+  {
+    "title": "gitで便利なエイリアス達",
+    "url": "https://qiita.com/peccul/items/90dd469e2f72babbc106",
+    "likes_count": 922,
+    "created_at": "2012-06-16T23:47:45+09:00",
+    "updated_at": "2020-03-10T23:26:21+09:00",
+    "id": "peccul"
+  },
+  {
+    "title": "git bisect で問題箇所を特定する",
+    "url": "https://qiita.com/usamik26/items/cce867b3b139ea5568a6",
+    "likes_count": 865,
+    "created_at": "2012-06-23T16:17:23+09:00",
+    "updated_at": "2022-11-20T23:21:33+09:00",
+    "id": "usamik26"
+  },
+  {
+    "title": "横着で神経質な私とあなたに贈るgit add -p",
+    "url": "https://qiita.com/crifff/items/1abf08bca4ce51db4775",
+    "likes_count": 802,
+    "created_at": "2012-06-26T16:12:09+09:00",
+    "updated_at": "2019-12-23T16:48:42+09:00",
+    "id": "crifff"
+  },
+  {
+    "title": "いざという時のためのgit reflog",
+    "url": "https://qiita.com/yaotti/items/e37c707938847aee671b",
+    "likes_count": 558,
+    "created_at": "2012-06-30T21:52:45+09:00",
+    "updated_at": "2012-07-01T17:10:07+09:00",
+    "id": "yaotti"
+  },
+  {
+    "title": "curlを捨ててhttpieを使おう",
+    "url": "https://qiita.com/yuku_t/items/5df06d50c4c349cc0c1b",
+    "likes_count": 405,
+    "created_at": "2012-06-08T23:24:45+09:00",
+    "updated_at": "2013-09-04T10:00:31+09:00",
+    "id": "yuku_t"
+  },
+  {
+    "title": "GitHubユーザーのためのhubコマンド",
+    "url": "https://qiita.com/yaotti/items/a4a7f3f9a38d7d3415e3",
+    "likes_count": 402,
+    "created_at": "2012-06-01T15:30:16+09:00",
+    "updated_at": "2017-02-13T18:48:05+09:00",
+    "id": "yaotti"
+  },
+  {
+    "title": "vimでペーストするときインデントさせない",
+    "url": "https://qiita.com/quwa/items/019250dbca167985fe32",
+    "likes_count": 390,
+    "created_at": "2012-06-05T18:00:05+09:00",
+    "updated_at": "2013-07-03T11:27:38+09:00",
+    "id": "quwa"
+  },
+  {
+    "title": "git でリモートのタグやブランチを削除する方法",
+    "url": "https://qiita.com/usamik26/items/7e53bae128bf130b8a32",
+    "likes_count": 384,
+    "created_at": "2012-06-21T13:09:04+09:00",
+    "updated_at": "2023-03-03T22:03:53+09:00",
+    "id": "usamik26"
+  },
+  {
+    "title": "Gitブランチ関連コマンド",
+    "url": "https://qiita.com/ayakix/items/55dc4a324a49ff200c2d",
+    "likes_count": 355,
+    "created_at": "2012-06-03T00:21:35+09:00",
+    "updated_at": "2012-06-03T00:21:35+09:00",
+    "id": "ayakix"
+  },
+  {
+    "title": "ウェブ開発で大切な3つの環境: 開発・ステージング・プロダクション",
+    "url": "https://qiita.com/suin/items/004679b27d4a1f8bcb36",
+    "likes_count": 326,
+    "created_at": "2012-06-25T01:57:31+09:00",
+    "updated_at": "2012-06-25T02:04:57+09:00",
+    "id": "suin"
+  },
+  {
+    "title": "deviseでfacebook,twitter認証",
+    "url": "https://qiita.com/mosa_siru/items/9f1faa509f4d3653a1b2",
+    "likes_count": 303,
+    "created_at": "2012-06-13T01:53:02+09:00",
+    "updated_at": "2013-01-09T17:25:24+09:00",
+    "id": "mosa_siru"
+  },
+  {
+    "title": "複数人での Git 開発に便利な 3 つのコマンド",
+    "url": "https://qiita.com/rosylilly/items/9648ad2c8aa53465372b",
+    "likes_count": 291,
+    "created_at": "2012-06-24T20:25:07+09:00",
+    "updated_at": "2012-06-24T20:28:37+09:00",
+    "id": "rosylilly"
+  }
+]

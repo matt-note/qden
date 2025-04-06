@@ -1,0 +1,626 @@
+[
+  {
+    "title": "エンジニアの情報収集法まとめ",
+    "url": "https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28",
+    "likes_count": 5940,
+    "created_at": "2015-06-01T01:10:02+09:00",
+    "updated_at": "2020-10-08T10:44:34+09:00",
+    "id": "nesheep5"
+  },
+  {
+    "title": "ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト",
+    "url": "https://qiita.com/kazukichi/items/7379b75fba2f90d3cf45",
+    "likes_count": 3978,
+    "created_at": "2015-06-03T20:05:15+09:00",
+    "updated_at": "2024-12-24T13:05:44+09:00",
+    "id": "kazukichi"
+  },
+  {
+    "title": "もう逃げない。HTMLのviewportをちゃんと理解する",
+    "url": "https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607",
+    "likes_count": 3519,
+    "created_at": "2015-06-11T00:20:30+09:00",
+    "updated_at": "2022-06-22T17:02:53+09:00",
+    "id": "ryounagaoka"
+  },
+  {
+    "title": "出来る限り短く説明するReactJS入門",
+    "url": "https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19",
+    "likes_count": 2093,
+    "created_at": "2015-06-21T23:39:15+09:00",
+    "updated_at": "2022-02-26T15:59:40+09:00",
+    "id": "rgbkids"
+  },
+  {
+    "title": "どこよりも分かりやすいSwiftの\"?\"と\"!\"",
+    "url": "https://qiita.com/maiki055/items/b24378a3707bd35a31a8",
+    "likes_count": 2073,
+    "created_at": "2015-06-22T20:32:43+09:00",
+    "updated_at": "2016-01-08T13:37:58+09:00",
+    "id": "maiki055"
+  },
+  {
+    "title": "iOSの開発でお気に入りのライブラリN選",
+    "url": "https://qiita.com/u651601f/items/08500df9246a6c208241",
+    "likes_count": 1833,
+    "created_at": "2015-06-18T15:49:52+09:00",
+    "updated_at": "2015-06-18T15:49:52+09:00",
+    "id": "u651601f"
+  },
+  {
+    "title": "Qiitaの数式チートシート",
+    "url": "https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada",
+    "likes_count": 1777,
+    "created_at": "2015-06-14T01:44:10+09:00",
+    "updated_at": "2023-11-20T14:33:57+09:00",
+    "id": "PlanetMeron"
+  },
+  {
+    "title": "【機械学習】ディープラーニング フレームワークChainerを試しながら解説してみる。",
+    "url": "https://qiita.com/kenmatsu4/items/7b8d24d4c5144a686412",
+    "likes_count": 1717,
+    "created_at": "2015-06-19T07:56:21+09:00",
+    "updated_at": "2015-09-27T00:01:30+09:00",
+    "id": "kenmatsu4"
+  },
+  {
+    "title": "【超おすすめ！！】Atomのパッケージ、テーマ、キーバインディング、設定を紹介してみる（※随時更新）",
+    "url": "https://qiita.com/snowsunny/items/f40c3291a580f3215797",
+    "likes_count": 1487,
+    "created_at": "2015-06-29T23:23:08+09:00",
+    "updated_at": "2022-06-11T09:35:09+09:00",
+    "id": "snowsunny"
+  },
+  {
+    "title": "実例で学ぶ、JOIN (NLJ) が遅くなる理屈と対処法",
+    "url": "https://qiita.com/yuku_t/items/208be188eef17699c7a5",
+    "likes_count": 1411,
+    "created_at": "2015-06-22T11:50:58+09:00",
+    "updated_at": "2015-07-13T09:58:53+09:00",
+    "id": "yuku_t"
+  },
+  {
+    "title": "PUT か POST か PATCH か？",
+    "url": "https://qiita.com/suin/items/d17bdfc8dba086d36115",
+    "likes_count": 1400,
+    "created_at": "2015-06-02T02:01:16+09:00",
+    "updated_at": "2020-03-12T13:16:54+09:00",
+    "id": "suin"
+  },
+  {
+    "title": "IT業界で横行する恥ずかしい英語発音",
+    "url": "https://qiita.com/ryounagaoka/items/290885ee3291b393fe1f",
+    "likes_count": 1252,
+    "created_at": "2015-06-12T02:03:36+09:00",
+    "updated_at": "2018-04-08T23:52:59+09:00",
+    "id": "ryounagaoka"
+  },
+  {
+    "title": "エンジニアの為の、アイデア効率化",
+    "url": "https://qiita.com/Reyurnible/items/342352a0b145a4736ae0",
+    "likes_count": 1232,
+    "created_at": "2015-06-11T13:59:09+09:00",
+    "updated_at": "2015-06-25T18:11:55+09:00",
+    "id": "Reyurnible"
+  },
+  {
+    "title": "jQueryを利用したDOM操作 要素の追加メソッドまとめ",
+    "url": "https://qiita.com/nekoneko-wanwan/items/227ccad5f8cc449e91e9",
+    "likes_count": 1060,
+    "created_at": "2015-06-29T17:23:12+09:00",
+    "updated_at": "2015-06-29T17:24:13+09:00",
+    "id": "nekoneko-wanwan"
+  },
+  {
+    "title": "~/.ssh/configについて",
+    "url": "https://qiita.com/passol78/items/2ad123e39efeb1a5286b",
+    "likes_count": 962,
+    "created_at": "2015-06-30T18:12:48+09:00",
+    "updated_at": "2018-06-25T23:21:19+09:00",
+    "id": "passol78"
+  },
+  {
+    "title": "リバースプロキシって何？触りだけ学んだサーバー/インフラ入門",
+    "url": "https://qiita.com/growsic/items/fead30272a5fa374ac7b",
+    "likes_count": 856,
+    "created_at": "2015-06-16T08:56:36+09:00",
+    "updated_at": "2015-06-16T08:56:36+09:00",
+    "id": "growsic"
+  },
+  {
+    "title": "良いコードを書く技術（まとめ）",
+    "url": "https://qiita.com/NoriakiOshita/items/e60ab5bb01b90d927ae5",
+    "likes_count": 855,
+    "created_at": "2015-06-18T23:40:21+09:00",
+    "updated_at": "2021-02-05T07:38:16+09:00",
+    "id": "NoriakiOshita"
+  },
+  {
+    "title": "新米エンジニア(アプリ・インフラエンジニア問わず)に知っておいてほしいトラブルシューティング入門 実践編",
+    "url": "https://qiita.com/keigodasu/items/1aeb32310e3feac231fa",
+    "likes_count": 833,
+    "created_at": "2015-06-19T03:36:36+09:00",
+    "updated_at": "2017-09-12T15:36:10+09:00",
+    "id": "keigodasu"
+  },
+  {
+    "title": "Swift・iOSアプリ開発情報の集め方",
+    "url": "https://qiita.com/mono0926/items/78c5409178a9e3be0fcc",
+    "likes_count": 817,
+    "created_at": "2015-06-24T11:39:06+09:00",
+    "updated_at": "2016-12-20T20:45:07+09:00",
+    "id": "mono0926"
+  },
+  {
+    "title": "RxJavaに3日で入門し、Androidアプリのリスト操作、非同期処理、変更通知の課題を解決した話",
+    "url": "https://qiita.com/yuya_presto/items/152fa80d073d865cfc90",
+    "likes_count": 795,
+    "created_at": "2015-06-29T02:53:05+09:00",
+    "updated_at": "2016-04-28T18:07:05+09:00",
+    "id": "yuya_presto"
+  },
+  {
+    "title": "なぜ iPhone の画像は Android の画像よりもずっと高品質なのか",
+    "url": "https://qiita.com/KeithYokoma/items/c7f32a77402410545edb",
+    "likes_count": 778,
+    "created_at": "2015-06-30T14:55:07+09:00",
+    "updated_at": "2015-06-30T14:55:07+09:00",
+    "id": "KeithYokoma"
+  },
+  {
+    "title": "Systemdを使ってさくっと自作コマンドをサービス化してみる",
+    "url": "https://qiita.com/DQNEO/items/0b5d0bc5d3cf407cb7ff",
+    "likes_count": 763,
+    "created_at": "2015-06-19T18:12:05+09:00",
+    "updated_at": "2015-06-19T23:59:57+09:00",
+    "id": "DQNEO"
+  },
+  {
+    "title": "言語別：パスワード向けの正規表現",
+    "url": "https://qiita.com/mpyw/items/886218e7b418dfed254b",
+    "likes_count": 704,
+    "created_at": "2015-06-20T14:20:26+09:00",
+    "updated_at": "2015-06-23T14:50:07+09:00",
+    "id": "mpyw"
+  },
+  {
+    "title": "Chocolateyを使った環境構築の時のメモ",
+    "url": "https://qiita.com/konta220/items/95b40b4647a737cb51aa",
+    "likes_count": 700,
+    "created_at": "2015-06-18T15:16:42+09:00",
+    "updated_at": "2020-11-10T21:33:47+09:00",
+    "id": "konta220"
+  },
+  {
+    "title": "ぼくのかんがえたさいきょうのElectron ",
+    "url": "https://qiita.com/Quramy/items/90d61ff37ca1b95a7f6d",
+    "likes_count": 690,
+    "created_at": "2015-06-19T03:42:44+09:00",
+    "updated_at": "2016-08-16T21:10:28+09:00",
+    "id": "Quramy"
+  },
+  {
+    "title": "JavaScript つい忘れてしまう配列のソート方法",
+    "url": "https://qiita.com/PianoScoreJP/items/f0ff7345229871039672",
+    "likes_count": 681,
+    "created_at": "2015-06-15T11:12:46+09:00",
+    "updated_at": "2015-06-15T15:01:10+09:00",
+    "id": "PianoScoreJP"
+  },
+  {
+    "title": "ssh公開鍵認証設定まとめ",
+    "url": "https://qiita.com/ir-yk/items/af8550fea92b5c5f7fca",
+    "likes_count": 664,
+    "created_at": "2015-06-30T21:40:35+09:00",
+    "updated_at": "2019-06-11T11:51:16+09:00",
+    "id": "ir-yk"
+  },
+  {
+    "title": "IT勉強会を探すために捗るサイトまとめ【9選】",
+    "url": "https://qiita.com/kobaboy/items/6c80511a10122aa87d02",
+    "likes_count": 638,
+    "created_at": "2015-06-02T13:37:53+09:00",
+    "updated_at": "2023-06-08T21:45:11+09:00",
+    "id": "kobaboy"
+  },
+  {
+    "title": "React.jsではなくRiot.jsを採用した話、運用中サービス『GAMY』でリニューアル",
+    "url": "https://qiita.com/narikei/items/1a7fbd7895cfb4220172",
+    "likes_count": 623,
+    "created_at": "2015-06-16T11:58:32+09:00",
+    "updated_at": "2016-10-13T12:03:28+09:00",
+    "id": "narikei"
+  },
+  {
+    "title": "誰でも無料でiPhoneの実機を使ってiOSアプリ開発する方法",
+    "url": "https://qiita.com/Night___/items/ebe4d55b10804db9700c",
+    "likes_count": 615,
+    "created_at": "2015-06-10T06:23:56+09:00",
+    "updated_at": "2015-07-29T11:13:35+09:00",
+    "id": "Night___"
+  },
+  {
+    "title": "【初心者向け】エイリアスの設定方法",
+    "url": "https://qiita.com/yutat93/items/b5bb9c0366f21bcbea62",
+    "likes_count": 588,
+    "created_at": "2015-06-19T16:07:05+09:00",
+    "updated_at": "2017-07-06T15:17:34+09:00",
+    "id": "yutat93"
+  },
+  {
+    "title": "JavaScript  忘れがちな　=== と == の違い",
+    "url": "https://qiita.com/PianoScoreJP/items/e43d70ec188c6fed73ed",
+    "likes_count": 564,
+    "created_at": "2015-06-16T00:02:27+09:00",
+    "updated_at": "2015-06-16T00:02:27+09:00",
+    "id": "PianoScoreJP"
+  },
+  {
+    "title": "AWS 月額料金チートシート",
+    "url": "https://qiita.com/jyotti/items/d47b52fa13d12476406f",
+    "likes_count": 521,
+    "created_at": "2015-06-08T18:24:16+09:00",
+    "updated_at": "2018-02-21T01:04:03+09:00",
+    "id": "jyotti"
+  },
+  {
+    "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
+    "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
+    "likes_count": 507,
+    "created_at": "2015-06-18T14:31:26+09:00",
+    "updated_at": "2020-02-03T08:43:46+09:00",
+    "id": "uzresk"
+  },
+  {
+    "title": "依存性注入(DI)の解説とやり方",
+    "url": "https://qiita.com/1000k/items/aef6aed46b0fc34cc15e",
+    "likes_count": 492,
+    "created_at": "2015-06-21T16:57:46+09:00",
+    "updated_at": "2017-11-28T22:04:50+09:00",
+    "id": "1000k"
+  },
+  {
+    "title": "iOSアプリの国際化対応の勘所とTips集(Swift版)",
+    "url": "https://qiita.com/mono0926/items/c41c1ce18b90b765a8f2",
+    "likes_count": 489,
+    "created_at": "2015-06-29T08:28:54+09:00",
+    "updated_at": "2020-06-17T07:48:21+09:00",
+    "id": "mono0926"
+  },
+  {
+    "title": "珍しいCSSプロパティたち",
+    "url": "https://qiita.com/rigani/items/7e46ed3040b1b7d50c98",
+    "likes_count": 484,
+    "created_at": "2015-06-11T00:21:14+09:00",
+    "updated_at": "2018-02-13T13:55:30+09:00",
+    "id": "rigani"
+  },
+  {
+    "title": "JavaScript初心者脱却への道のりを考える",
+    "url": "https://qiita.com/stkdev/items/cfe4678ac437cb2fdc9f",
+    "likes_count": 481,
+    "created_at": "2015-06-26T03:39:19+09:00",
+    "updated_at": "2016-01-11T02:14:44+09:00",
+    "id": "stkdev"
+  },
+  {
+    "title": "すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順",
+    "url": "https://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61",
+    "likes_count": 480,
+    "created_at": "2015-06-14T02:20:05+09:00",
+    "updated_at": "2022-06-22T17:02:16+09:00",
+    "id": "ryounagaoka"
+  },
+  {
+    "title": "Swift 2.0 の try, catch ファーストインプレッション",
+    "url": "https://qiita.com/koher/items/0c60b13ff0fe93220210",
+    "likes_count": 478,
+    "created_at": "2015-06-09T23:12:21+09:00",
+    "updated_at": "2015-12-08T10:08:35+09:00",
+    "id": "koher"
+  },
+  {
+    "title": "Android Support Library v22.2 の Design Support Libraryをひと通り使って罠を踏んだ",
+    "url": "https://qiita.com/matsujun/items/b03556ceab5cec258c2c",
+    "likes_count": 441,
+    "created_at": "2015-06-02T23:39:26+09:00",
+    "updated_at": "2015-06-12T09:32:34+09:00",
+    "id": "matsujun"
+  },
+  {
+    "title": "デキる人に見えるズルい仕事テクニック",
+    "url": "https://qiita.com/y_saeko/items/201a3006579f21c47ef4",
+    "likes_count": 433,
+    "created_at": "2015-06-02T13:49:01+09:00",
+    "updated_at": "2015-06-02T20:56:59+09:00",
+    "id": "y_saeko"
+  },
+  {
+    "title": "いいねと思った Rails メソッド 10",
+    "url": "https://qiita.com/pekepek/items/c57d4859e6e1ec8b1ad1",
+    "likes_count": 430,
+    "created_at": "2015-06-05T12:46:37+09:00",
+    "updated_at": "2015-06-09T06:42:19+09:00",
+    "id": "pekepek"
+  },
+  {
+    "title": "Boolean型のカラムを追加するときは必ずデフォルト値を設定しよう",
+    "url": "https://qiita.com/jnchito/items/a342b64cd998e5c4ef3d",
+    "likes_count": 428,
+    "created_at": "2015-06-10T07:55:27+09:00",
+    "updated_at": "2015-06-10T11:36:54+09:00",
+    "id": "jnchito"
+  },
+  {
+    "title": "Railsでdeviseひとつで複数モデルを管理しよう",
+    "url": "https://qiita.com/Yama-to/items/54ab4ce08e126ef7dade",
+    "likes_count": 423,
+    "created_at": "2015-06-27T22:31:44+09:00",
+    "updated_at": "2015-06-27T22:34:35+09:00",
+    "id": "Yama-to"
+  },
+  {
+    "title": "俺の最近のRailsのJS開発環境を教えてやる",
+    "url": "https://qiita.com/kozo002/items/a276569e85395fce801e",
+    "likes_count": 421,
+    "created_at": "2015-06-19T14:29:08+09:00",
+    "updated_at": "2015-06-19T14:29:08+09:00",
+    "id": "kozo002"
+  },
+  {
+    "title": "実用的な新機能が盛りだくさん！RSpec 3.3 完全ガイド",
+    "url": "https://qiita.com/jnchito/items/3a590480ee291a70027c",
+    "likes_count": 417,
+    "created_at": "2015-06-22T07:52:16+09:00",
+    "updated_at": "2015-06-23T07:20:19+09:00",
+    "id": "jnchito"
+  },
+  {
+    "title": "Haskellのビルドツール\"stack\"の紹介",
+    "url": "https://qiita.com/tanakh/items/6866d0f570d0547df026",
+    "likes_count": 409,
+    "created_at": "2015-06-25T03:09:14+09:00",
+    "updated_at": "2016-01-27T20:13:29+09:00",
+    "id": "tanakh"
+  },
+  {
+    "title": "ActiveRecordで生SQLを使いたいときに便利なメソッド達",
+    "url": "https://qiita.com/yut_h1979/items/4cb3d9a3b3fc87ca0435",
+    "likes_count": 407,
+    "created_at": "2015-06-28T10:43:57+09:00",
+    "updated_at": "2015-06-28T10:43:57+09:00",
+    "id": "yut_h1979"
+  },
+  {
+    "title": "PHPで学ぶオブジェクト指向",
+    "url": "https://qiita.com/ritukiii/items/a1979c3bcdcea9454d53",
+    "likes_count": 395,
+    "created_at": "2015-06-30T09:16:53+09:00",
+    "updated_at": "2017-05-16T10:35:44+09:00",
+    "id": "ritukiii"
+  },
+  {
+    "title": "BUNDLED WITH で Gemfile.lock が更新されてしまう件",
+    "url": "https://qiita.com/suu_g/items/2b1630b8015d51c5292e",
+    "likes_count": 382,
+    "created_at": "2015-06-16T01:38:42+09:00",
+    "updated_at": "2015-06-21T21:14:54+09:00",
+    "id": "suu_g"
+  },
+  {
+    "title": "Qiita/Github/Slack/Discord 絵文字一覧",
+    "url": "https://qiita.com/yamadashy/items/ae673f2bae8f1525b6af",
+    "likes_count": 382,
+    "created_at": "2015-06-16T22:26:16+09:00",
+    "updated_at": "2022-01-30T21:07:14+09:00",
+    "id": "yamadashy"
+  },
+  {
+    "title": "javascriptイディオム集",
+    "url": "https://qiita.com/cocottejs/items/cb2623316a0c82b603c4",
+    "likes_count": 373,
+    "created_at": "2015-06-16T07:50:53+09:00",
+    "updated_at": "2016-02-02T10:39:35+09:00",
+    "id": "cocottejs"
+  },
+  {
+    "title": "ニュートン法とは何か？？ニュートン法で解く方程式の近似解",
+    "url": "https://qiita.com/PlanetMeron/items/09d7eb204868e1a49f49",
+    "likes_count": 372,
+    "created_at": "2015-06-13T21:41:05+09:00",
+    "updated_at": "2022-07-20T12:16:07+09:00",
+    "id": "PlanetMeron"
+  },
+  {
+    "title": "Rubyのクラスメソッドとインスタンスメソッドの例",
+    "url": "https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07",
+    "likes_count": 368,
+    "created_at": "2015-06-30T23:23:51+09:00",
+    "updated_at": "2022-01-23T04:50:50+09:00",
+    "id": "tbpgr"
+  },
+  {
+    "title": "新米エンジニア(アプリ・インフラエンジニア問わず)に知っておいてほしいトラブルシューティング入門 はじめの一歩編",
+    "url": "https://qiita.com/keigodasu/items/a9af6512bf0ae942ca9f",
+    "likes_count": 366,
+    "created_at": "2015-06-15T15:22:23+09:00",
+    "updated_at": "2015-06-24T17:53:36+09:00",
+    "id": "keigodasu"
+  },
+  {
+    "title": "VisualStudio ショートカット（基本）",
+    "url": "https://qiita.com/kosei/items/9dd864092e31fb4fb1db",
+    "likes_count": 365,
+    "created_at": "2015-06-22T10:20:47+09:00",
+    "updated_at": "2018-02-09T15:34:24+09:00",
+    "id": "kosei"
+  },
+  {
+    "title": "FirebaseのRulesを理解する",
+    "url": "https://qiita.com/lacolaco/items/b068ab0cf19a26f0992d",
+    "likes_count": 365,
+    "created_at": "2015-06-26T14:59:55+09:00",
+    "updated_at": "2016-05-24T23:06:46+09:00",
+    "id": "lacolaco"
+  },
+  {
+    "title": "まずはここから！Linuxサーバでカジュアルに作業ログを取得する方法",
+    "url": "https://qiita.com/keigodasu/items/3eebbc079274ad8dd2c2",
+    "likes_count": 355,
+    "created_at": "2015-06-24T13:52:06+09:00",
+    "updated_at": "2015-06-25T08:33:55+09:00",
+    "id": "keigodasu"
+  },
+  {
+    "title": "Goでwebサーバー作るときに考えたこと",
+    "url": "https://qiita.com/taizo/items/e6597c66c3494d545686",
+    "likes_count": 348,
+    "created_at": "2015-06-27T09:55:51+09:00",
+    "updated_at": "2015-06-27T09:55:51+09:00",
+    "id": "taizo"
+  },
+  {
+    "title": "iOS 9の新しいWebビュー: SFSafariViewController",
+    "url": "https://qiita.com/mono0926/items/7a7114de4c9ca702abc7",
+    "likes_count": 342,
+    "created_at": "2015-06-10T10:52:36+09:00",
+    "updated_at": "2017-06-11T21:22:49+09:00",
+    "id": "mono0926"
+  },
+  {
+    "title": "声優の声を分類してみた",
+    "url": "https://qiita.com/1234224576/items/f785eef6eed68271be64",
+    "likes_count": 336,
+    "created_at": "2015-06-23T03:32:27+09:00",
+    "updated_at": "2015-06-23T03:57:50+09:00",
+    "id": "1234224576"
+  },
+  {
+    "title": "SCSSと付き合う上でやって(知って)よかったこと8選",
+    "url": "https://qiita.com/terrierscript/items/e996c42798bbb17add13",
+    "likes_count": 334,
+    "created_at": "2015-06-26T21:58:44+09:00",
+    "updated_at": "2016-02-20T00:37:01+09:00",
+    "id": "terrierscript"
+  },
+  {
+    "title": "いま話題のSublime Textのテーマやおすすめの設定・使用例を醸す",
+    "url": "https://qiita.com/saltyshiomix/items/15ebd75205a5334f6efc",
+    "likes_count": 317,
+    "created_at": "2015-06-15T09:05:05+09:00",
+    "updated_at": "2015-07-23T04:58:48+09:00",
+    "id": "saltyshiomix"
+  },
+  {
+    "title": "macでgit使いになるために抑えておきたいコマンド（基礎編）",
+    "url": "https://qiita.com/Yama-to/items/25b87e7089bc4803a538",
+    "likes_count": 317,
+    "created_at": "2015-06-25T22:14:12+09:00",
+    "updated_at": "2015-06-25T22:18:35+09:00",
+    "id": "Yama-to"
+  },
+  {
+    "title": "そろそろポリモーフィック関連について一言いっとくか",
+    "url": "https://qiita.com/joker1007/items/9da1e279424554df7bb8",
+    "likes_count": 310,
+    "created_at": "2015-06-02T16:43:17+09:00",
+    "updated_at": "2015-06-02T17:00:12+09:00",
+    "id": "joker1007"
+  },
+  {
+    "title": "初めて地図周りの技術に触れた時に作ったまとめ資料",
+    "url": "https://qiita.com/ma91n/items/7d256108920ff7afbf08",
+    "likes_count": 310,
+    "created_at": "2015-06-24T00:01:34+09:00",
+    "updated_at": "2015-07-22T09:31:49+09:00",
+    "id": "ma91n"
+  },
+  {
+    "title": "僕はこうやって画面設計書を作ってる（Webシステムにおける簡潔な画面設計書の例）",
+    "url": "https://qiita.com/usugita_san/items/80da897afb4c7edab8a5",
+    "likes_count": 289,
+    "created_at": "2015-06-23T15:54:40+09:00",
+    "updated_at": "2015-06-23T16:42:10+09:00",
+    "id": "usugita_san"
+  },
+  {
+    "title": "【iOS】UUIDの取得の最適化",
+    "url": "https://qiita.com/ashdik/items/1ecbcbddf6ae476bd253",
+    "likes_count": 288,
+    "created_at": "2015-06-27T19:25:51+09:00",
+    "updated_at": "2016-02-02T15:10:16+09:00",
+    "id": "ashdik"
+  },
+  {
+    "title": "HubotとTwilio APIを使ってSlackから電話をかけてピザを注文してみる",
+    "url": "https://qiita.com/hbkr/items/cab42902c3a63752a867",
+    "likes_count": 282,
+    "created_at": "2015-06-01T02:53:29+09:00",
+    "updated_at": "2015-06-01T15:00:42+09:00",
+    "id": "hbkr"
+  },
+  {
+    "title": "iOS9でカスタムURLスキームの遷移に失敗するときの注意点",
+    "url": "https://qiita.com/Night___/items/60355d21951cffbef51b",
+    "likes_count": 281,
+    "created_at": "2015-06-11T16:18:44+09:00",
+    "updated_at": "2015-06-19T01:35:16+09:00",
+    "id": "Night___"
+  },
+  {
+    "title": "Rails RSpecの基本 ~Controller編~",
+    "url": "https://qiita.com/shizuma/items/84e07e558abd6593df15",
+    "likes_count": 268,
+    "created_at": "2015-06-01T12:30:07+09:00",
+    "updated_at": "2015-06-01T12:30:07+09:00",
+    "id": "shizuma"
+  },
+  {
+    "title": "リーダブルコードまとめ",
+    "url": "https://qiita.com/fkrw/items/7646563a2b238fbcff9a",
+    "likes_count": 268,
+    "created_at": "2015-06-06T00:40:47+09:00",
+    "updated_at": "2015-06-06T00:46:06+09:00",
+    "id": "fkrw"
+  },
+  {
+    "title": "Linuxでユーザーをグループに追加する",
+    "url": "https://qiita.com/orangain/items/056db6ffc16d765a8187",
+    "likes_count": 267,
+    "created_at": "2015-06-24T22:19:35+09:00",
+    "updated_at": "2015-06-24T22:19:35+09:00",
+    "id": "orangain"
+  },
+  {
+    "title": "いちいちbundle execしたくない 決定版",
+    "url": "https://qiita.com/ymmtmdk/items/374d5319e8d5c9ab2ff4",
+    "likes_count": 263,
+    "created_at": "2015-06-05T18:56:28+09:00",
+    "updated_at": "2015-06-07T15:43:13+09:00",
+    "id": "ymmtmdk"
+  },
+  {
+    "title": "OpenSSLコマンドの備忘録",
+    "url": "https://qiita.com/takech9203/items/5206f8e2572e95209bbc",
+    "likes_count": 263,
+    "created_at": "2015-06-26T01:48:58+09:00",
+    "updated_at": "2015-06-26T01:56:19+09:00",
+    "id": "takech9203"
+  },
+  {
+    "title": "Go 言語に関するブックマーク",
+    "url": "https://qiita.com/spiegel-im-spiegel/items/98d49ac456485b007a15",
+    "likes_count": 253,
+    "created_at": "2015-06-16T10:55:06+09:00",
+    "updated_at": "2017-01-31T09:51:55+09:00",
+    "id": "spiegel-im-spiegel"
+  },
+  {
+    "title": "エンジニア目線でWordPressで何度も調べたり感心したりした事",
+    "url": "https://qiita.com/yousan/items/c925f0a241be02a55292",
+    "likes_count": 248,
+    "created_at": "2015-06-03T15:39:57+09:00",
+    "updated_at": "2020-10-21T23:06:58+09:00",
+    "id": "yousan"
+  }
+]
