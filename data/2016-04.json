@@ -10,7 +10,7 @@
   {
     "title": "Linuxの権限確認と変更(chmod)（超初心者向け）",
     "url": "https://qiita.com/shisama/items/5f4c4fa768642aad9e06",
-    "likes_count": 2724,
+    "likes_count": 2725,
     "created_at": "2016-04-25T02:35:23+09:00",
     "updated_at": "2019-09-16T21:18:04+09:00",
     "id": "shisama"
@@ -170,7 +170,7 @@
   {
     "title": "gitのremote urlを変更する(レポジトリ移行時)",
     "url": "https://qiita.com/minoringo/items/917e325892733e0d606e",
-    "likes_count": 811,
+    "likes_count": 812,
     "created_at": "2016-04-25T14:39:49+09:00",
     "updated_at": "2020-12-16T00:23:32+09:00",
     "id": "minoringo"
@@ -202,7 +202,7 @@
   {
     "title": "Linux screenコマンド使い方",
     "url": "https://qiita.com/hnishi/items/3190f2901f88e2594a5f",
-    "likes_count": 704,
+    "likes_count": 705,
     "created_at": "2016-04-06T08:44:32+09:00",
     "updated_at": "2023-01-12T21:01:14+09:00",
     "id": "hnishi"
@@ -362,7 +362,7 @@
   {
     "title": "SQL | 分かりにくい JOIN / INNER JOIN / OUTER JOIN / LEFT JOIN / RIGHT JOIN の違い",
     "url": "https://qiita.com/Yinaura/items/3ab6fc49ae55f52e2d55",
-    "likes_count": 456,
+    "likes_count": 457,
     "created_at": "2016-04-15T01:30:46+09:00",
     "updated_at": "2022-05-20T04:27:47+09:00",
     "id": "Yinaura"
@@ -566,6 +566,14 @@
     "created_at": "2016-04-10T00:08:29+09:00",
     "updated_at": "2018-08-07T19:10:00+09:00",
     "id": "yo1000"
+  },
+  {
+    "title": "僕がnpm installに-gをつけないわけ",
+    "url": "https://qiita.com/DeployCat/items/cd456d6bea72937464f8",
+    "likes_count": 337,
+    "created_at": "2016-04-13T20:20:27+09:00",
+    "updated_at": "2016-04-14T20:07:03+09:00",
+    "id": "DeployCat"
   },
   {
     "title": "JavaScript の原理：クロージャの真実",
