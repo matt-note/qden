@@ -328,20 +328,20 @@
     "id": "mima_ita"
   },
   {
-    "title": "Terraform簡易チュートリアル on AWS",
-    "url": "https://qiita.com/zembutsu/items/93e546df765f8b2c4f32",
-    "likes_count": 489,
-    "created_at": "2014-07-29T08:11:46+09:00",
-    "updated_at": "2014-07-30T08:41:14+09:00",
-    "id": "zembutsu"
-  },
-  {
     "title": "Javascriptのcall/apply関数のプロっぽい使い方 〜 JSおくのほそ道 #014",
     "url": "https://qiita.com/hosomichi/items/155af03120a330fd4437",
     "likes_count": 488,
     "created_at": "2014-07-10T09:33:23+09:00",
     "updated_at": "2014-09-14T18:10:53+09:00",
     "id": "hosomichi"
+  },
+  {
+    "title": "Terraform簡易チュートリアル on AWS",
+    "url": "https://qiita.com/zembutsu/items/93e546df765f8b2c4f32",
+    "likes_count": 488,
+    "created_at": "2014-07-29T08:11:46+09:00",
+    "updated_at": "2014-07-30T08:41:14+09:00",
+    "id": "zembutsu"
   },
   {
     "title": "新しいNTPクライアント＆サーバ、chrony",
@@ -418,7 +418,7 @@
   {
     "title": "Bundler概要",
     "url": "https://qiita.com/hisonl/items/162f70e612e8e96dba50",
-    "likes_count": 443,
+    "likes_count": 442,
     "created_at": "2014-07-23T11:21:36+09:00",
     "updated_at": "2014-07-23T18:54:31+09:00",
     "id": "hisonl"
