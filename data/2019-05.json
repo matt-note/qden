@@ -2,7 +2,7 @@
   {
     "title": "君には1時間でGitについて知ってもらう(with VSCode)",
     "url": "https://qiita.com/jesus_isao/items/63557eba36819faa4ad9",
-    "likes_count": 3797,
+    "likes_count": 3796,
     "created_at": "2019-05-09T12:14:40+09:00",
     "updated_at": "2025-03-19T16:01:11+09:00",
     "id": "jesus_isao"
@@ -58,7 +58,7 @@
   {
     "title": "東大松尾研から新たに無償公開されたDeep Learning講座「DL4US」が良い、という話",
     "url": "https://qiita.com/katsuki104/items/e0f81a9cacc3e5f4fcd7",
-    "likes_count": 1788,
+    "likes_count": 1787,
     "created_at": "2019-05-16T17:25:13+09:00",
     "updated_at": "2019-05-17T02:07:22+09:00",
     "id": "katsuki104"
@@ -66,7 +66,7 @@
   {
     "title": " 「写経」を自動化し、オートで功徳を積める仕組みを作ってみたのでございます。",
     "url": "https://qiita.com/youwht/items/616ccc062725fa050a34",
-    "likes_count": 1660,
+    "likes_count": 1659,
     "created_at": "2019-05-19T15:51:06+09:00",
     "updated_at": "2020-01-27T00:10:48+09:00",
     "id": "youwht"
@@ -122,7 +122,7 @@
   {
     "title": "【Vue.js】Web API通信のデザインパターン (個人的ベストプラクティス)",
     "url": "https://qiita.com/07JP27/items/0923cbe3b6435c19d761",
-    "likes_count": 1076,
+    "likes_count": 1075,
     "created_at": "2019-05-12T21:08:52+09:00",
     "updated_at": "2019-05-15T08:07:38+09:00",
     "id": "07JP27"
@@ -194,7 +194,7 @@
   {
     "title": "ReactとVueを改善したSvelteというライブラリーについて",
     "url": "https://qiita.com/so99ynoodles/items/a8144ced1a21467c6300",
-    "likes_count": 816,
+    "likes_count": 814,
     "created_at": "2019-05-17T14:05:12+09:00",
     "updated_at": "2023-05-18T16:25:07+09:00",
     "id": "so99ynoodles"
@@ -322,7 +322,7 @@
   {
     "title": "TailwindCSS入門 ~ Utility First + デザインシステムの構築 ~",
     "url": "https://qiita.com/edaoh/items/68461080515ec1012980",
-    "likes_count": 512,
+    "likes_count": 511,
     "created_at": "2019-05-26T13:14:34+09:00",
     "updated_at": "2020-06-09T21:21:30+09:00",
     "id": "edaoh"
@@ -378,7 +378,7 @@
   {
     "title": "アーキテクチャの「なぜ？」を記録する！ADRってなんぞや？",
     "url": "https://qiita.com/fuubit/items/dbb22435202acbe48849",
-    "likes_count": 450,
+    "likes_count": 451,
     "created_at": "2019-05-20T19:23:13+09:00",
     "updated_at": "2019-05-23T19:32:22+09:00",
     "id": "fuubit"
@@ -458,7 +458,7 @@
   {
     "title": "アニメーションで学ぶtmux入門 ～精選10機能～",
     "url": "https://qiita.com/KoyanagiHitoshi/items/318d4b8ef3b4e5b87390",
-    "likes_count": 370,
+    "likes_count": 371,
     "created_at": "2019-05-23T08:00:12+09:00",
     "updated_at": "2024-03-31T23:30:05+09:00",
     "id": "KoyanagiHitoshi"
@@ -466,7 +466,7 @@
   {
     "title": "フロントエンドでとても大切な3つのプラクティス",
     "url": "https://qiita.com/kahirokunn/items/3151bc35adf16ac720c0",
-    "likes_count": 368,
+    "likes_count": 367,
     "created_at": "2019-05-20T02:20:58+09:00",
     "updated_at": "2020-08-26T23:32:00+09:00",
     "id": "kahirokunn"
@@ -480,20 +480,20 @@
     "id": "sadnessOjisan"
   },
   {
-    "title": "きみたちは今まで何のためにRailsでMVCパターンを勉強してきたのか",
-    "url": "https://qiita.com/jnchito/items/e2b1c8904cd7b8e3ce50",
-    "likes_count": 363,
-    "created_at": "2019-05-20T10:44:21+09:00",
-    "updated_at": "2021-06-06T09:45:18+09:00",
-    "id": "jnchito"
-  },
-  {
     "title": "C++のvectorまとめ",
     "url": "https://qiita.com/ysuzuki19/items/df872d91c9c89cc31aee",
     "likes_count": 362,
     "created_at": "2019-05-02T16:53:51+09:00",
     "updated_at": "2022-03-03T23:25:45+09:00",
     "id": "ysuzuki19"
+  },
+  {
+    "title": "きみたちは今まで何のためにRailsでMVCパターンを勉強してきたのか",
+    "url": "https://qiita.com/jnchito/items/e2b1c8904cd7b8e3ce50",
+    "likes_count": 362,
+    "created_at": "2019-05-20T10:44:21+09:00",
+    "updated_at": "2021-06-06T09:45:18+09:00",
+    "id": "jnchito"
   },
   {
     "title": "混同行列(Confusion Matrix) とは 〜 2 値分類の機械学習のクラス分類について",
@@ -554,7 +554,7 @@
   {
     "title": "Vue.jsでファイルアップロードの実装--ついでにプレビュー機能も実装した話--",
     "url": "https://qiita.com/hikach/items/655729bc1893392dfd42",
-    "likes_count": 315,
+    "likes_count": 314,
     "created_at": "2019-05-11T13:16:52+09:00",
     "updated_at": "2019-05-11T13:32:22+09:00",
     "id": "hikach"
