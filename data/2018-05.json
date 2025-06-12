@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 6370,
+    "likes_count": 6371,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2023-10-03T23:41:43+09:00",
     "id": "jabba"
@@ -10,7 +10,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。",
     "url": "https://qiita.com/poly_soft/items/fb649573c19b7a5c0227",
-    "likes_count": 4998,
+    "likes_count": 4997,
     "created_at": "2018-05-27T19:01:10+09:00",
     "updated_at": "2019-03-11T19:38:49+09:00",
     "id": "poly_soft"
@@ -34,7 +34,7 @@
   {
     "title": "【保存版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法",
     "url": "https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d",
-    "likes_count": 2666,
+    "likes_count": 2667,
     "created_at": "2018-05-07T19:00:40+09:00",
     "updated_at": "2024-03-29T16:25:27+09:00",
     "id": "tani_AI_Academy"
@@ -42,7 +42,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2213,
+    "likes_count": 2214,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -50,7 +50,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 2133,
+    "likes_count": 2135,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -274,7 +274,7 @@
   {
     "title": "SSH公開鍵認証で接続するまで",
     "url": "https://qiita.com/kazokmr/items/754169cfa996b24fcbf5",
-    "likes_count": 667,
+    "likes_count": 668,
     "created_at": "2018-05-06T12:00:20+09:00",
     "updated_at": "2021-08-15T21:26:32+09:00",
     "id": "kazokmr"
@@ -384,20 +384,20 @@
     "id": "shtnkgm"
   },
   {
-    "title": "Promise と async/await の理解度をもう1段階上げる",
-    "url": "https://qiita.com/sotszk/items/f23199e864cba47455ce",
-    "likes_count": 510,
-    "created_at": "2018-05-01T01:52:27+09:00",
-    "updated_at": "2018-05-12T12:16:24+09:00",
-    "id": "sotszk"
-  },
-  {
     "title": "5000人に聞いた、2018年最先端のフロントエンド開発者が使ってるツールはこれだ",
     "url": "https://qiita.com/rana_kualu/items/8dc3f93a7176d9a0f05d",
     "likes_count": 510,
     "created_at": "2018-05-11T20:17:44+09:00",
     "updated_at": "2019-04-28T09:01:57+09:00",
     "id": "rana_kualu"
+  },
+  {
+    "title": "Promise と async/await の理解度をもう1段階上げる",
+    "url": "https://qiita.com/sotszk/items/f23199e864cba47455ce",
+    "likes_count": 509,
+    "created_at": "2018-05-01T01:52:27+09:00",
+    "updated_at": "2018-05-12T12:16:24+09:00",
+    "id": "sotszk"
   },
   {
     "title": "名前、電話番号、メールアドレス、郵便番号等の最適なmaxlengthはいくつか調べてみた",
@@ -488,20 +488,20 @@
     "id": "opengl-8080"
   },
   {
+    "title": "Dockerコマンド よく使うやつ",
+    "url": "https://qiita.com/Esfahan/items/52141a2ad741933d7d4c",
+    "likes_count": 396,
+    "created_at": "2018-05-07T16:57:11+09:00",
+    "updated_at": "2021-11-02T18:28:02+09:00",
+    "id": "Esfahan"
+  },
+  {
     "title": "すごいぞitertoolsくん",
     "url": "https://qiita.com/anmint/items/37ca0ded5e1d360b51f3",
     "likes_count": 396,
     "created_at": "2018-05-07T19:21:46+09:00",
     "updated_at": "2019-10-22T19:54:44+09:00",
     "id": "anmint"
-  },
-  {
-    "title": "Dockerコマンド よく使うやつ",
-    "url": "https://qiita.com/Esfahan/items/52141a2ad741933d7d4c",
-    "likes_count": 395,
-    "created_at": "2018-05-07T16:57:11+09:00",
-    "updated_at": "2021-11-02T18:28:02+09:00",
-    "id": "Esfahan"
   },
   {
     "title": "【コードある】Nuxt + WordPress  で  netlify 運用が爆速すぎて神だった",
