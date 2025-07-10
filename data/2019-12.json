@@ -10,7 +10,7 @@
   {
     "title": "【Webエンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた",
     "url": "https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f",
-    "likes_count": 2548,
+    "likes_count": 2547,
     "created_at": "2019-12-21T16:51:08+09:00",
     "updated_at": "2020-12-25T09:57:29+09:00",
     "id": "JunyaShibato"
@@ -66,7 +66,7 @@
   {
     "title": "社内slackにVIPチャンネルを作った話",
     "url": "https://qiita.com/peisuke/items/80984db8b47cd8243019",
-    "likes_count": 1947,
+    "likes_count": 1946,
     "created_at": "2019-12-03T02:35:54+09:00",
     "updated_at": "2019-12-03T15:44:57+09:00",
     "id": "peisuke"
@@ -90,7 +90,7 @@
   {
     "title": "個人開発したアプリが大コケしてるので失敗要因を分析してみた",
     "url": "https://qiita.com/aiiro_swift/items/fe27eae6e708b187d341",
-    "likes_count": 1488,
+    "likes_count": 1487,
     "created_at": "2019-12-12T03:46:09+09:00",
     "updated_at": "2019-12-19T02:35:45+09:00",
     "id": "aiiro_swift"
@@ -130,7 +130,7 @@
   {
     "title": "ようこそdotfilesの世界へ",
     "url": "https://qiita.com/yutkat/items/c6c7584d9795799ee164",
-    "likes_count": 1264,
+    "likes_count": 1263,
     "created_at": "2019-12-01T00:30:44+09:00",
     "updated_at": "2021-02-23T03:36:42+09:00",
     "id": "yutkat"
@@ -226,7 +226,7 @@
   {
     "title": "Party Parrot とは 〜イカれたオウムの歴史を紐解く〜",
     "url": "https://qiita.com/ayatothos/items/0c3da3d48fe8ade705e6",
-    "likes_count": 764,
+    "likes_count": 763,
     "created_at": "2019-12-17T01:20:19+09:00",
     "updated_at": "2020-07-28T17:57:45+09:00",
     "id": "ayatothos"
@@ -242,7 +242,7 @@
   {
     "title": "3000人に聞いた、2019年最先端のフロントエンド開発者が使ってるツールはこれだ",
     "url": "https://qiita.com/rana_kualu/items/8ae7a987b9468863a6f2",
-    "likes_count": 741,
+    "likes_count": 740,
     "created_at": "2019-12-16T06:25:50+09:00",
     "updated_at": "2019-12-16T06:25:50+09:00",
     "id": "rana_kualu"
@@ -424,20 +424,20 @@
     "id": "suke_masa"
   },
   {
-    "title": "AWS初学者が「うっかり課金」されがちなポイントとその対策まとめ",
-    "url": "https://qiita.com/Yuji-Ishibashi/items/bb1c0042fd16a9350c5a",
-    "likes_count": 491,
-    "created_at": "2019-12-01T09:17:57+09:00",
-    "updated_at": "2019-12-12T16:36:24+09:00",
-    "id": "Yuji-Ishibashi"
-  },
-  {
     "title": "メールというインターネットの闇とIPレピュテーション（だけど重要）(前編)",
     "url": "https://qiita.com/nfujita55a/items/5848fcfbbe6cbf7d98c3",
     "likes_count": 491,
     "created_at": "2019-12-12T20:14:41+09:00",
     "updated_at": "2019-12-21T01:22:19+09:00",
     "id": "nfujita55a"
+  },
+  {
+    "title": "AWS初学者が「うっかり課金」されがちなポイントとその対策まとめ",
+    "url": "https://qiita.com/Yuji-Ishibashi/items/bb1c0042fd16a9350c5a",
+    "likes_count": 490,
+    "created_at": "2019-12-01T09:17:57+09:00",
+    "updated_at": "2019-12-12T16:36:24+09:00",
+    "id": "Yuji-Ishibashi"
   },
   {
     "title": "VS Code ネタ詰め合わせ",
@@ -458,7 +458,7 @@
   {
     "title": "作業時間を簡単に可視化したい！！",
     "url": "https://qiita.com/tmk815/items/15b275ff21b89139da01",
-    "likes_count": 483,
+    "likes_count": 482,
     "created_at": "2019-12-10T17:42:18+09:00",
     "updated_at": "2019-12-13T10:59:17+09:00",
     "id": "tmk815"
@@ -648,20 +648,20 @@
     "id": "tsuka-rinorino"
   },
   {
-    "title": "crontabを捨てsystemdに定期実行を任せよう。",
-    "url": "https://qiita.com/narikei/items/ca4823c7f6790f0cbe0b",
-    "likes_count": 352,
-    "created_at": "2019-12-25T23:38:42+09:00",
-    "updated_at": "2019-12-25T23:45:18+09:00",
-    "id": "narikei"
-  },
-  {
     "title": "VSCodeの拡張機能でRailsと仲良くなる",
     "url": "https://qiita.com/hakshu/items/98ed12c32da97474b68d",
     "likes_count": 351,
     "created_at": "2019-12-19T06:17:49+09:00",
     "updated_at": "2019-12-20T09:58:21+09:00",
     "id": "hakshu"
+  },
+  {
+    "title": "crontabを捨てsystemdに定期実行を任せよう。",
+    "url": "https://qiita.com/narikei/items/ca4823c7f6790f0cbe0b",
+    "likes_count": 351,
+    "created_at": "2019-12-25T23:38:42+09:00",
+    "updated_at": "2019-12-25T23:45:18+09:00",
+    "id": "narikei"
   },
   {
     "title": "Unity Assembly Definition 完全に理解した",
