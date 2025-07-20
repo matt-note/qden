@@ -2,7 +2,7 @@
   {
     "title": "個人開発で月20万円を目指すための考え方",
     "url": "https://qiita.com/sakes9/items/d8a94271f994ab3c26d1",
-    "likes_count": 1413,
+    "likes_count": 1416,
     "created_at": "2025-05-07T08:47:17+09:00",
     "updated_at": "2025-05-08T10:05:05+09:00",
     "id": "sakes9"
@@ -42,7 +42,7 @@
   {
     "title": "AIを普段ガンガン利用する僕がAIを利用したプログラミング学習方法を考案してみた",
     "url": "https://qiita.com/kumai_yu/items/f3308bae8f8081e317c1",
-    "likes_count": 444,
+    "likes_count": 446,
     "created_at": "2025-05-06T09:43:00+09:00",
     "updated_at": "2025-05-06T09:43:00+09:00",
     "id": "kumai_yu"
@@ -50,7 +50,7 @@
   {
     "title": "AIエージェントを使って実際にアプリ開発→リリースした経験・知見を共有する",
     "url": "https://qiita.com/koher/items/503cd5a9811ab5683a85",
-    "likes_count": 422,
+    "likes_count": 423,
     "created_at": "2025-05-01T09:13:55+09:00",
     "updated_at": "2025-05-02T00:46:55+09:00",
     "id": "koher"
@@ -74,7 +74,7 @@
   {
     "title": "生成AIに「要件定義プロンプト」を作らせてみたら、未来が見えた話",
     "url": "https://qiita.com/rawajifu8752/items/759af7da8bc536f813a3",
-    "likes_count": 333,
+    "likes_count": 334,
     "created_at": "2025-05-23T15:42:34+09:00",
     "updated_at": "2025-06-01T17:30:34+09:00",
     "id": "rawajifu8752"
@@ -90,10 +90,18 @@
   {
     "title": "【図解解説】MCPを実装理解！Next.jsでAIアシスタントを開発するチュートリアル【Hono/TypeScript/Prisma】",
     "url": "https://qiita.com/Sicut_study/items/e0fbbbf51cdd54d76b1a",
-    "likes_count": 245,
+    "likes_count": 246,
     "created_at": "2025-05-11T17:09:13+09:00",
     "updated_at": "2025-05-14T08:29:33+09:00",
     "id": "Sicut_study"
+  },
+  {
+    "title": "【unsloth + Gemma3】RAG時代終了か？高精度・高速LLMモデルをローカルPCで爆速FTする！",
+    "url": "https://qiita.com/ryosuke_ohori/items/7b0f14d8f6e0668fd979",
+    "likes_count": 240,
+    "created_at": "2025-05-31T01:35:12+09:00",
+    "updated_at": "2025-05-31T09:14:24+09:00",
+    "id": "ryosuke_ohori"
   },
   {
     "title": "【図解】メールの仕組み",
@@ -102,13 +110,5 @@
     "created_at": "2025-05-07T09:03:52+09:00",
     "updated_at": "2025-05-12T09:38:24+09:00",
     "id": "gonzaemon"
-  },
-  {
-    "title": "【unsloth + Gemma3】RAG時代終了か？高精度・高速LLMモデルをローカルPCで爆速FTする！",
-    "url": "https://qiita.com/ryosuke_ohori/items/7b0f14d8f6e0668fd979",
-    "likes_count": 239,
-    "created_at": "2025-05-31T01:35:12+09:00",
-    "updated_at": "2025-05-31T09:14:24+09:00",
-    "id": "ryosuke_ohori"
   }
 ]
