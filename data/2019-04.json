@@ -106,7 +106,7 @@
   {
     "title": "冪等性とは「同じ操作を何度繰り返しても、同じ結果が得られる性質」のこと",
     "url": "https://qiita.com/suin/items/316cb8aaf8dfcf11abae",
-    "likes_count": 866,
+    "likes_count": 867,
     "created_at": "2019-04-01T21:14:04+09:00",
     "updated_at": "2020-03-12T13:21:18+09:00",
     "id": "suin"
@@ -114,7 +114,7 @@
   {
     "title": "コーディングテストに打ち勝つ",
     "url": "https://qiita.com/yohachi/items/e4bef4035da135a4808d",
-    "likes_count": 860,
+    "likes_count": 861,
     "created_at": "2019-04-18T22:21:07+09:00",
     "updated_at": "2019-04-18T22:21:26+09:00",
     "id": "yohachi"
@@ -320,20 +320,20 @@
     "id": "Brutus"
   },
   {
+    "title": "Pythonのselfとかinitを理解する",
+    "url": "https://qiita.com/ishigen/items/2d8b6e6398743f2c8110",
+    "likes_count": 422,
+    "created_at": "2019-04-28T13:17:18+09:00",
+    "updated_at": "2019-04-28T13:17:18+09:00",
+    "id": "ishigen"
+  },
+  {
     "title": "Visual Studio Codeで日本語化する方法[Windows]",
     "url": "https://qiita.com/nanamesincos/items/5c48ff88a4eeef0a8631",
     "likes_count": 421,
     "created_at": "2019-04-02T12:59:01+09:00",
     "updated_at": "2020-06-09T07:52:12+09:00",
     "id": "nanamesincos"
-  },
-  {
-    "title": "Pythonのselfとかinitを理解する",
-    "url": "https://qiita.com/ishigen/items/2d8b6e6398743f2c8110",
-    "likes_count": 421,
-    "created_at": "2019-04-28T13:17:18+09:00",
-    "updated_at": "2019-04-28T13:17:18+09:00",
-    "id": "ishigen"
   },
   {
     "title": "Docker で環境変数をホストからコンテナに渡す方法（ホスト OS 側からゲスト OS に渡す方法各種）",
