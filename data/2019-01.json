@@ -434,7 +434,7 @@
   {
     "title": "2019年にもなって未だに非同期I/Oを使わずPHP、Python、Ruby等でProcessを浪費しているサービスが増える理由とは！",
     "url": "https://qiita.com/YukiMiyatake/items/9904ed5b481e3f307bba",
-    "likes_count": 337,
+    "likes_count": 336,
     "created_at": "2019-01-11T03:16:48+09:00",
     "updated_at": "2019-01-14T10:22:08+09:00",
     "id": "YukiMiyatake"
@@ -472,20 +472,20 @@
     "id": "suin"
   },
   {
-    "title": "【Laravel】 認証や認可に関する補足資料",
-    "url": "https://qiita.com/mpyw/items/8c5413b99b8e299f7002",
-    "likes_count": 323,
-    "created_at": "2019-01-22T21:52:43+09:00",
-    "updated_at": "2019-11-23T01:26:24+09:00",
-    "id": "mpyw"
-  },
-  {
     "title": "ゲームを解く！Educational DP Contest K, L 問題の解説",
     "url": "https://qiita.com/drken/items/4e1bcf8413af16cb62da",
     "likes_count": 323,
     "created_at": "2019-01-27T15:17:31+09:00",
     "updated_at": "2022-02-16T19:15:02+09:00",
     "id": "drken"
+  },
+  {
+    "title": "【Laravel】 認証や認可に関する補足資料",
+    "url": "https://qiita.com/mpyw/items/8c5413b99b8e299f7002",
+    "likes_count": 322,
+    "created_at": "2019-01-22T21:52:43+09:00",
+    "updated_at": "2019-11-23T01:26:24+09:00",
+    "id": "mpyw"
   },
   {
     "title": "エラー監視には Sentry が超便利！",

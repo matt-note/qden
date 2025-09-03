@@ -314,7 +314,7 @@
   {
     "title": "みんなRailsのSTIを誤解してないか!?",
     "url": "https://qiita.com/yebihara/items/9ecb838893ad99be0561",
-    "likes_count": 583,
+    "likes_count": 582,
     "created_at": "2016-12-04T17:53:39+09:00",
     "updated_at": "2016-12-16T19:48:07+09:00",
     "id": "yebihara"
@@ -472,14 +472,6 @@
     "id": "m_mizutani"
   },
   {
-    "title": "【定番】 新しいWebサービスを開発・運営するときに使いたいサービス 【2016年末版】",
-    "url": "https://qiita.com/masuidrive/items/a74454e2c01a1943d1b3",
-    "likes_count": 445,
-    "created_at": "2016-12-03T13:28:15+09:00",
-    "updated_at": "2016-12-27T17:36:47+09:00",
-    "id": "masuidrive"
-  },
-  {
     "title": "恥かどうかはともかく、そもそも逃げられない障害対応のお話",
     "url": "https://qiita.com/s_kozake/items/825348559e4b4e330fb5",
     "likes_count": 445,
@@ -498,10 +490,18 @@
   {
     "title": "Rails5.1に向けてフロントエンド周りで起こっている革命まとめ",
     "url": "https://qiita.com/itkrt2y/items/7e999836f460fb9c005d",
-    "likes_count": 433,
+    "likes_count": 432,
     "created_at": "2016-12-03T15:00:07+09:00",
     "updated_at": "2017-05-04T18:55:04+09:00",
     "id": "itkrt2y"
+  },
+  {
+    "title": "GitHub に100MB超のファイルを置く -- git push に失敗してからの対処方法",
+    "url": "https://qiita.com/kanaya/items/ad52f25da32cb5aa19e6",
+    "likes_count": 432,
+    "created_at": "2016-12-08T12:25:23+09:00",
+    "updated_at": "2019-01-16T15:47:36+09:00",
+    "id": "kanaya"
   },
   {
     "title": "【Python入門】JSON形式データの扱い方",
