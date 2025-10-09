@@ -58,7 +58,7 @@
   {
     "title": "猫に仕事を邪魔されてみたかったので技術で実現した",
     "url": "https://qiita.com/ampersand/items/7180f657b3d0a0c05734",
-    "likes_count": 1420,
+    "likes_count": 1419,
     "created_at": "2018-12-20T08:18:47+09:00",
     "updated_at": "2018-12-26T17:45:32+09:00",
     "id": "ampersand"
@@ -74,7 +74,7 @@
   {
     "title": "おもしろいダジャレを入力すると布団が吹っ飛ぶ装置を作った",
     "url": "https://qiita.com/fujit33/items/dbfbd7a2aa3858067b6c",
-    "likes_count": 1221,
+    "likes_count": 1222,
     "created_at": "2018-12-19T13:03:14+09:00",
     "updated_at": "2019-01-09T21:58:39+09:00",
     "id": "fujit33"
@@ -106,7 +106,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 1125,
+    "likes_count": 1124,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -560,20 +560,20 @@
     "id": "taneba"
   },
   {
-    "title": "Rails の session を完全に理解した",
-    "url": "https://qiita.com/zettaittenani/items/a75f0da8f44cfe0f85c0",
-    "likes_count": 378,
-    "created_at": "2018-12-17T18:53:25+09:00",
-    "updated_at": "2019-07-16T19:31:36+09:00",
-    "id": "zettaittenani"
-  },
-  {
     "title": "Python3の標準入力やり方まとめ",
     "url": "https://qiita.com/yasu_teco/items/e8db933ac4f647166996",
-    "likes_count": 378,
+    "likes_count": 379,
     "created_at": "2018-12-24T08:18:57+09:00",
     "updated_at": "2018-12-24T08:18:57+09:00",
     "id": "yasu_teco"
+  },
+  {
+    "title": "Rails の session を完全に理解した",
+    "url": "https://qiita.com/zettaittenani/items/a75f0da8f44cfe0f85c0",
+    "likes_count": 377,
+    "created_at": "2018-12-17T18:53:25+09:00",
+    "updated_at": "2019-07-16T19:31:36+09:00",
+    "id": "zettaittenani"
   },
   {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
@@ -664,20 +664,20 @@
     "id": "riversun"
   },
   {
+    "title": "Git LFS をちょっと詳しく",
+    "url": "https://qiita.com/ikmski/items/5cc8b8832336b8d85429",
+    "likes_count": 330,
+    "created_at": "2018-12-20T12:43:22+09:00",
+    "updated_at": "2018-12-21T07:01:46+09:00",
+    "id": "ikmski"
+  },
+  {
     "title": "Python boto3 でAWSを自在に操ろう ~入門編~",
     "url": "https://qiita.com/kimihiro_n/items/f3ce86472152b2676004",
     "likes_count": 329,
     "created_at": "2018-12-11T14:29:08+09:00",
     "updated_at": "2019-07-22T16:45:39+09:00",
     "id": "kimihiro_n"
-  },
-  {
-    "title": "Git LFS をちょっと詳しく",
-    "url": "https://qiita.com/ikmski/items/5cc8b8832336b8d85429",
-    "likes_count": 329,
-    "created_at": "2018-12-20T12:43:22+09:00",
-    "updated_at": "2018-12-21T07:01:46+09:00",
-    "id": "ikmski"
   },
   {
     "title": "Railsでフォロー機能を作る方法",
