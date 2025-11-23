@@ -26,7 +26,7 @@
   {
     "title": "【保存版】Webフロントエンド基礎力（初心者向け）",
     "url": "https://qiita.com/teradonburi/items/43c52d7cffc318e9b1e9",
-    "likes_count": 2137,
+    "likes_count": 2139,
     "created_at": "2019-11-05T08:41:27+09:00",
     "updated_at": "2022-09-26T21:51:56+09:00",
     "id": "teradonburi"
@@ -122,7 +122,7 @@
   {
     "title": "やさしい図解で学ぶ　ER図　表記法一覧",
     "url": "https://qiita.com/ramuneru/items/32fbf3032b625f71b69d",
-    "likes_count": 1141,
+    "likes_count": 1140,
     "created_at": "2019-11-11T19:20:33+09:00",
     "updated_at": "2020-03-02T12:18:46+09:00",
     "id": "ramuneru"
@@ -306,7 +306,7 @@
   {
     "title": "【入門】はじめての Flutter",
     "url": "https://qiita.com/nskydiving/items/4fcf0dbad923d50601f9",
-    "likes_count": 551,
+    "likes_count": 550,
     "created_at": "2019-11-03T19:19:27+09:00",
     "updated_at": "2021-03-20T09:18:58+09:00",
     "id": "nskydiving"
@@ -352,14 +352,6 @@
     "id": "kscntt"
   },
   {
-    "title": "テストで個人的によく使うツール7選",
-    "url": "https://qiita.com/tsuemura/items/c16090a060bf504039cb",
-    "likes_count": 462,
-    "created_at": "2019-11-30T22:26:46+09:00",
-    "updated_at": "2019-12-01T07:00:36+09:00",
-    "id": "tsuemura"
-  },
-  {
     "title": "誤解されることが多い「テスト自動化」の範囲について",
     "url": "https://qiita.com/gevanni/items/ff9a27936a1a6df28b9a",
     "likes_count": 461,
@@ -368,20 +360,28 @@
     "id": "gevanni"
   },
   {
-    "title": "クロスプラットフォームフレームワーク比較（Flutter, React Native, Xamarin, Unity）",
-    "url": "https://qiita.com/nskydiving/items/c13c949cc17c6f980a67",
-    "likes_count": 461,
-    "created_at": "2019-11-14T08:18:04+09:00",
-    "updated_at": "2025-05-20T15:48:29+09:00",
-    "id": "nskydiving"
-  },
-  {
     "title": "AWS,Azure,GCPの3大クラウドのアーキテクト試験に合格してみての個人的比較",
     "url": "https://qiita.com/yomon8/items/f812079d0ce631f73d45",
     "likes_count": 461,
     "created_at": "2019-11-21T20:20:09+09:00",
     "updated_at": "2021-06-03T17:59:59+09:00",
     "id": "yomon8"
+  },
+  {
+    "title": "テストで個人的によく使うツール7選",
+    "url": "https://qiita.com/tsuemura/items/c16090a060bf504039cb",
+    "likes_count": 461,
+    "created_at": "2019-11-30T22:26:46+09:00",
+    "updated_at": "2019-12-01T07:00:36+09:00",
+    "id": "tsuemura"
+  },
+  {
+    "title": "クロスプラットフォームフレームワーク比較（Flutter, React Native, Xamarin, Unity）",
+    "url": "https://qiita.com/nskydiving/items/c13c949cc17c6f980a67",
+    "likes_count": 460,
+    "created_at": "2019-11-14T08:18:04+09:00",
+    "updated_at": "2025-05-20T15:48:29+09:00",
+    "id": "nskydiving"
   },
   {
     "title": "Goでヘキサゴナルアーキテクチャ",
