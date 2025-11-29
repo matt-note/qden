@@ -74,7 +74,7 @@
   {
     "title": "エンジニアなら知っておきたい lessコマンドtips 11選",
     "url": "https://qiita.com/ine1127/items/64b5b6cf52471c3fe59c",
-    "likes_count": 1584,
+    "likes_count": 1583,
     "created_at": "2015-09-12T01:44:56+09:00",
     "updated_at": "2015-09-15T00:00:44+09:00",
     "id": "ine1127"
@@ -114,7 +114,7 @@
   {
     "title": "Macのターミナルコマンド一覧（基本編）",
     "url": "https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3",
-    "likes_count": 1328,
+    "likes_count": 1329,
     "created_at": "2015-09-20T00:26:30+09:00",
     "updated_at": "2024-11-13T00:19:19+09:00",
     "id": "ryouzi"
@@ -226,7 +226,7 @@
   {
     "title": "Chainerで始めるニューラルネットワーク",
     "url": "https://qiita.com/icoxfog417/items/96ecaff323434c8d677b",
-    "likes_count": 670,
+    "likes_count": 669,
     "created_at": "2015-09-24T15:48:58+09:00",
     "updated_at": "2017-04-10T18:09:58+09:00",
     "id": "icoxfog417"
@@ -336,20 +336,20 @@
     "id": "tomoko523"
   },
   {
-    "title": "Docker ハンズオン - 基本コマンド編",
-    "url": "https://qiita.com/hihihiroro/items/6dda871dc2566801a6da",
-    "likes_count": 449,
-    "created_at": "2015-09-15T06:34:29+09:00",
-    "updated_at": "2018-03-06T15:06:48+09:00",
-    "id": "hihihiroro"
-  },
-  {
     "title": "CSSのメタ言語Sass(SCSS)、LESSの完全入門",
     "url": "https://qiita.com/ritukiii/items/67b3c50002b48c6186d6",
     "likes_count": 449,
     "created_at": "2015-09-24T08:33:53+09:00",
     "updated_at": "2015-09-24T08:33:53+09:00",
     "id": "ritukiii"
+  },
+  {
+    "title": "Docker ハンズオン - 基本コマンド編",
+    "url": "https://qiita.com/hihihiroro/items/6dda871dc2566801a6da",
+    "likes_count": 448,
+    "created_at": "2015-09-15T06:34:29+09:00",
+    "updated_at": "2018-03-06T15:06:48+09:00",
+    "id": "hihihiroro"
   },
   {
     "title": "メッセージングアプリSync開発の舞台裏(iOS)",
@@ -394,7 +394,7 @@
   {
     "title": "教師なし学習による異常値検知: マハラノビス距離 (理論編)",
     "url": "https://qiita.com/shopetan/items/ceb7744facc21c3881d2",
-    "likes_count": 379,
+    "likes_count": 378,
     "created_at": "2015-09-27T23:10:47+09:00",
     "updated_at": "2015-10-07T15:35:31+09:00",
     "id": "shopetan"
@@ -432,14 +432,6 @@
     "id": "taiponrock"
   },
   {
-    "title": "GASのExecution APIを使ってGASを外部からぶっ叩く",
-    "url": "https://qiita.com/soundTricker/items/1bcfc5c9e80d29a7ae4b",
-    "likes_count": 357,
-    "created_at": "2015-09-28T14:33:22+09:00",
-    "updated_at": "2015-09-28T14:34:35+09:00",
-    "id": "soundTricker"
-  },
-  {
     "title": "Railsにおける命名規則",
     "url": "https://qiita.com/gakkie/items/3afcd505c786364aa5fa",
     "likes_count": 356,
@@ -448,9 +440,17 @@
     "id": "gakkie"
   },
   {
+    "title": "GASのExecution APIを使ってGASを外部からぶっ叩く",
+    "url": "https://qiita.com/soundTricker/items/1bcfc5c9e80d29a7ae4b",
+    "likes_count": 356,
+    "created_at": "2015-09-28T14:33:22+09:00",
+    "updated_at": "2015-09-28T14:34:35+09:00",
+    "id": "soundTricker"
+  },
+  {
     "title": "インストール不要！WindowsでLinuxコマンドを使う",
     "url": "https://qiita.com/tetsuy/items/22cba0bc2048967b270a",
-    "likes_count": 346,
+    "likes_count": 345,
     "created_at": "2015-09-17T12:51:49+09:00",
     "updated_at": "2025-01-20T02:12:50+09:00",
     "id": "tetsuy"
@@ -482,7 +482,7 @@
   {
     "title": "C++ コーディングスタイルメモ",
     "url": "https://qiita.com/shirakawa4756/items/55b509fb56cb1bb0c9a4",
-    "likes_count": 335,
+    "likes_count": 334,
     "created_at": "2015-09-01T19:43:51+09:00",
     "updated_at": "2016-02-17T22:01:50+09:00",
     "id": "shirakawa4756"
