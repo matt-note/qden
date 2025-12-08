@@ -186,7 +186,7 @@
   {
     "title": "Let's Encrypt で Nginx にSSLを設定する",
     "url": "https://qiita.com/HeRo/items/f9eb8d8a08d4d5b63ee9",
-    "likes_count": 620,
+    "likes_count": 621,
     "created_at": "2016-08-14T11:31:29+09:00",
     "updated_at": "2021-06-13T13:31:11+09:00",
     "id": "HeRo"
@@ -344,20 +344,20 @@
     "id": "yugui"
   },
   {
+    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
+    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
+    "likes_count": 427,
+    "created_at": "2016-08-30T17:27:15+09:00",
+    "updated_at": "2020-02-07T14:34:31+09:00",
+    "id": "t-a-run"
+  },
+  {
     "title": "Laravelでテストコードを書くためのチュートリアル",
     "url": "https://qiita.com/niisan-tokyo/items/264d4e8584ed58536bf4",
     "likes_count": 426,
     "created_at": "2016-08-06T12:48:15+09:00",
     "updated_at": "2016-08-06T12:48:15+09:00",
     "id": "niisan-tokyo"
-  },
-  {
-    "title": "chmod? chown? よくわからんって人のための、ファイル権限系まとめ",
-    "url": "https://qiita.com/t-a-run/items/239ed690ece7a011804a",
-    "likes_count": 426,
-    "created_at": "2016-08-30T17:27:15+09:00",
-    "updated_at": "2020-02-07T14:34:31+09:00",
-    "id": "t-a-run"
   },
   {
     "title": "[laravel] controllerからviewへの変数の受け渡しとその展開方法",
@@ -370,7 +370,7 @@
   {
     "title": "お前は PHP 7 における Fatal Error / Catchable Fatal Error / Error / ErrorException / Exception の違いを言えるか？",
     "url": "https://qiita.com/mpyw/items/c69da9589e72ceac470c",
-    "likes_count": 402,
+    "likes_count": 403,
     "created_at": "2016-08-04T23:10:37+09:00",
     "updated_at": "2016-08-08T12:50:34+09:00",
     "id": "mpyw"
