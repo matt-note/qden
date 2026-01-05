@@ -98,7 +98,7 @@
   {
     "title": "3分でわかるXSSとCSRFの違い",
     "url": "https://qiita.com/wanko5296/items/142b5b82485b0196a2da",
-    "likes_count": 1136,
+    "likes_count": 1135,
     "created_at": "2018-12-16T11:15:20+09:00",
     "updated_at": "2019-02-16T20:31:57+09:00",
     "id": "wanko5296"
@@ -194,7 +194,7 @@
   {
     "title": "GitのHEADとは何者なのか",
     "url": "https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa",
-    "likes_count": 806,
+    "likes_count": 805,
     "created_at": "2018-12-09T23:59:10+09:00",
     "updated_at": "2021-10-19T10:39:11+09:00",
     "id": "ymzkjpx"
@@ -370,7 +370,7 @@
   {
     "title": "Go Modules",
     "url": "https://qiita.com/propella/items/e49bccc88f3cc2407745",
-    "likes_count": 499,
+    "likes_count": 498,
     "created_at": "2018-12-05T13:44:24+09:00",
     "updated_at": "2019-07-17T17:52:30+09:00",
     "id": "propella"
@@ -402,7 +402,7 @@
   {
     "title": "『Microservice Patterns』 まとめ",
     "url": "https://qiita.com/yasuabe2613/items/3bff44e662c922083264",
-    "likes_count": 464,
+    "likes_count": 465,
     "created_at": "2018-12-07T17:46:26+09:00",
     "updated_at": "2020-03-18T20:59:40+09:00",
     "id": "yasuabe2613"
@@ -576,20 +576,20 @@
     "id": "zettaittenani"
   },
   {
-    "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
-    "url": "https://qiita.com/okamu_/items/a8577431749b72869aa3",
-    "likes_count": 375,
-    "created_at": "2018-12-26T07:50:58+09:00",
-    "updated_at": "2019-12-26T14:39:03+09:00",
-    "id": "okamu_"
-  },
-  {
     "title": "SNS映えするWebアプリを...！FirebaseとVue.jsでSPAのOGP画像の動的生成をやってみたら案外楽だった",
     "url": "https://qiita.com/yuneco/items/5e526464939082862f5d",
     "likes_count": 374,
     "created_at": "2018-12-06T00:54:09+09:00",
     "updated_at": "2018-12-06T00:55:45+09:00",
     "id": "yuneco"
+  },
+  {
+    "title": "誰でも爆速でマッチングサービスが作れる方法と対策",
+    "url": "https://qiita.com/okamu_/items/a8577431749b72869aa3",
+    "likes_count": 374,
+    "created_at": "2018-12-26T07:50:58+09:00",
+    "updated_at": "2019-12-26T14:39:03+09:00",
+    "id": "okamu_"
   },
   {
     "title": "ネットワークやTCP/IPやHTTPの基本（初学者向け）",
@@ -674,7 +674,7 @@
   {
     "title": "Git LFS をちょっと詳しく",
     "url": "https://qiita.com/ikmski/items/5cc8b8832336b8d85429",
-    "likes_count": 330,
+    "likes_count": 331,
     "created_at": "2018-12-20T12:43:22+09:00",
     "updated_at": "2018-12-21T07:01:46+09:00",
     "id": "ikmski"
