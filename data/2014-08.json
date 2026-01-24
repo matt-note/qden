@@ -42,7 +42,7 @@
   {
     "title": "通信系のデバッグには Charles が便利",
     "url": "https://qiita.com/usagimaru/items/d340e87da98e62f99b60",
-    "likes_count": 1260,
+    "likes_count": 1259,
     "created_at": "2014-08-05T18:40:07+09:00",
     "updated_at": "2017-11-27T15:21:13+09:00",
     "id": "usagimaru"
@@ -66,7 +66,7 @@
   {
     "title": "インタフェースの実装パターン #golang",
     "url": "https://qiita.com/tenntenn/items/eac962a49c56b2b15ee8",
-    "likes_count": 1116,
+    "likes_count": 1115,
     "created_at": "2014-08-04T11:07:54+09:00",
     "updated_at": "2017-12-03T12:00:41+09:00",
     "id": "tenntenn"
@@ -146,7 +146,7 @@
   {
     "title": "Linuxファイルシステムをまとめてみました",
     "url": "https://qiita.com/sion_cojp/items/c8e015db39ddbf43012e",
-    "likes_count": 750,
+    "likes_count": 749,
     "created_at": "2014-08-14T01:00:10+09:00",
     "updated_at": "2015-09-11T14:07:39+09:00",
     "id": "sion_cojp"
@@ -162,7 +162,7 @@
   {
     "title": "開発者（個人）のためのJenkins - Git Plugin編",
     "url": "https://qiita.com/yasuhiroki/items/61a2be613fc7dcfc8682",
-    "likes_count": 701,
+    "likes_count": 700,
     "created_at": "2014-08-13T01:40:32+09:00",
     "updated_at": "2015-11-03T11:30:50+09:00",
     "id": "yasuhiroki"
@@ -314,7 +314,7 @@
   {
     "title": "iOS 8から位置情報を取得する方法が変わるよ",
     "url": "https://qiita.com/koogawa/items/6ec24ca3201977e9642b",
-    "likes_count": 464,
+    "likes_count": 463,
     "created_at": "2014-08-12T13:47:34+09:00",
     "updated_at": "2016-04-03T12:32:49+09:00",
     "id": "koogawa"
@@ -322,7 +322,7 @@
   {
     "title": "プロセス毎のメモリ消費量を調べたい時に使えるコマンド",
     "url": "https://qiita.com/white_aspara25/items/cfc835006ae356189df3",
-    "likes_count": 460,
+    "likes_count": 459,
     "created_at": "2014-08-17T20:01:33+09:00",
     "updated_at": "2019-05-23T00:33:25+09:00",
     "id": "white_aspara25"
@@ -498,7 +498,7 @@
   {
     "title": "Goでスレッド（goroutine）セーフなプログラムを書くために必ず注意しなければいけない点",
     "url": "https://qiita.com/ruiu/items/54f0dbdec0d48082a5b1",
-    "likes_count": 318,
+    "likes_count": 317,
     "created_at": "2014-08-31T14:14:57+09:00",
     "updated_at": "2015-12-08T23:52:14+09:00",
     "id": "ruiu"
@@ -520,20 +520,20 @@
     "id": "opengl-8080"
   },
   {
-    "title": " peco と alias -g で git に便利革命おきた",
-    "url": "https://qiita.com/Kuniwak/items/b711d6c3e402dfd9356b",
-    "likes_count": 300,
-    "created_at": "2014-08-13T08:24:03+09:00",
-    "updated_at": "2019-10-28T20:20:21+09:00",
-    "id": "Kuniwak"
-  },
-  {
     "title": "PHP開発でCIするならScrutinizer使ってみよう",
     "url": "https://qiita.com/k-motoyan/items/a63d7add9dc35ae8317a",
     "likes_count": 300,
     "created_at": "2014-08-24T20:44:39+09:00",
     "updated_at": "2014-08-25T14:00:16+09:00",
     "id": "k-motoyan"
+  },
+  {
+    "title": " peco と alias -g で git に便利革命おきた",
+    "url": "https://qiita.com/Kuniwak/items/b711d6c3e402dfd9356b",
+    "likes_count": 299,
+    "created_at": "2014-08-13T08:24:03+09:00",
+    "updated_at": "2019-10-28T20:20:21+09:00",
+    "id": "Kuniwak"
   },
   {
     "title": "画像ライブラリPicassoの使い方",
@@ -546,7 +546,7 @@
   {
     "title": "IT人材白書2014を読んだ",
     "url": "https://qiita.com/kenjihiranabe/items/05ac9fb741edc1ee5276",
-    "likes_count": 289,
+    "likes_count": 288,
     "created_at": "2014-08-10T21:57:20+09:00",
     "updated_at": "2014-08-11T19:08:24+09:00",
     "id": "kenjihiranabe"
@@ -570,7 +570,7 @@
   {
     "title": "【個人メモ】設定ファイルフォーマットにはTOMLがいいのかも",
     "url": "https://qiita.com/futoase/items/fd697a708fcbcee104de",
-    "likes_count": 281,
+    "likes_count": 280,
     "created_at": "2014-08-16T23:30:46+09:00",
     "updated_at": "2017-06-05T18:45:14+09:00",
     "id": "futoase"
@@ -578,7 +578,7 @@
   {
     "title": "【個人メモ】JSON Serverを使って手っ取り早くWebAPIのモックアップを作る",
     "url": "https://qiita.com/futoase/items/2859a60c8b240da70572",
-    "likes_count": 278,
+    "likes_count": 277,
     "created_at": "2014-08-02T17:59:42+09:00",
     "updated_at": "2014-09-06T17:49:33+09:00",
     "id": "futoase"

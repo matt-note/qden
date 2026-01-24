@@ -2,7 +2,7 @@
   {
     "title": "新人プログラマに正月休み中を使って読んでみてほしい技術書をセレクトしてみた。",
     "url": "https://qiita.com/hirokidaichi/items/d30714f0698dcff1200f",
-    "likes_count": 3166,
+    "likes_count": 3165,
     "created_at": "2014-12-18T21:49:50+09:00",
     "updated_at": "2018-02-20T09:54:50+09:00",
     "id": "hirokidaichi"
@@ -34,7 +34,7 @@
   {
     "title": "SEO嫌いにお送りするSEO策。これでもうSEOについてしばらく考えなくて良いぜ！！",
     "url": "https://qiita.com/taiyop/items/050c6749fb693dae8f82",
-    "likes_count": 1722,
+    "likes_count": 1721,
     "created_at": "2014-12-30T01:28:18+09:00",
     "updated_at": "2015-01-07T21:48:03+09:00",
     "id": "taiyop"
@@ -78,6 +78,14 @@
     "created_at": "2014-12-18T19:05:33+09:00",
     "updated_at": "2022-01-17T09:49:27+09:00",
     "id": "k-shogo"
+  },
+  {
+    "title": "今更だけどPromise入門",
+    "url": "https://qiita.com/koki_cheese/items/c559da338a3d307c9d88",
+    "likes_count": 1241,
+    "created_at": "2014-12-05T00:00:05+09:00",
+    "updated_at": "2014-12-05T12:10:26+09:00",
+    "id": "koki_cheese"
   },
   {
     "title": "マイクロソフトはどうやってBingをFPGAで実装したか",
@@ -218,7 +226,7 @@
   {
     "title": "【Vim入門】ノーマルVimで使えると便利かもなコマンド10つ",
     "url": "https://qiita.com/simeji/items/527478831eb561b06c17",
-    "likes_count": 663,
+    "likes_count": 662,
     "created_at": "2014-12-17T04:18:57+09:00",
     "updated_at": "2015-12-31T22:01:30+09:00",
     "id": "simeji"
@@ -250,7 +258,7 @@
   {
     "title": "zshの外部プラグインまとめ",
     "url": "https://qiita.com/mollifier/items/1220c0eeaa93e82f8afc",
-    "likes_count": 615,
+    "likes_count": 614,
     "created_at": "2014-12-25T00:15:28+09:00",
     "updated_at": "2015-03-10T00:02:36+09:00",
     "id": "mollifier"
@@ -282,7 +290,7 @@
   {
     "title": "Rubyの凄く面白い特徴をRailsのコードを例に解説",
     "url": "https://qiita.com/shinya_131/items/901b9c70642b1e1f9227",
-    "likes_count": 603,
+    "likes_count": 601,
     "created_at": "2014-12-06T23:47:56+09:00",
     "updated_at": "2014-12-08T22:52:17+09:00",
     "id": "shinya_131"
@@ -402,7 +410,7 @@
   {
     "title": "むずかしくないWPF",
     "url": "https://qiita.com/karno/items/f30f661b40d9adec6a6d",
-    "likes_count": 473,
+    "likes_count": 472,
     "created_at": "2014-12-12T20:31:59+09:00",
     "updated_at": "2016-02-02T21:47:33+09:00",
     "id": "karno"
@@ -410,7 +418,7 @@
   {
     "title": "本気で使う Docker",
     "url": "https://qiita.com/rosylilly/items/08f4c0771e2ca92a72aa",
-    "likes_count": 469,
+    "likes_count": 468,
     "created_at": "2014-12-25T23:33:09+09:00",
     "updated_at": "2014-12-31T21:36:00+09:00",
     "id": "rosylilly"
@@ -422,14 +430,6 @@
     "created_at": "2014-12-15T11:40:24+09:00",
     "updated_at": "2018-06-18T11:02:37+09:00",
     "id": "yunico-jp"
-  },
-  {
-    "title": "Makefileの関数",
-    "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
-    "likes_count": 454,
-    "created_at": "2014-12-24T21:58:53+09:00",
-    "updated_at": "2017-05-15T10:21:03+09:00",
-    "id": "chibi929"
   },
   {
     "title": "今こそ復習したい、iOSアプリのディレクトリ構成",
@@ -446,6 +446,14 @@
     "created_at": "2014-12-23T23:52:20+09:00",
     "updated_at": "2014-12-28T10:35:23+09:00",
     "id": "k_kinukawa"
+  },
+  {
+    "title": "Makefileの関数",
+    "url": "https://qiita.com/chibi929/items/b8c5f36434d5d3fbfa4a",
+    "likes_count": 453,
+    "created_at": "2014-12-24T21:58:53+09:00",
+    "updated_at": "2017-05-15T10:21:03+09:00",
+    "id": "chibi929"
   },
   {
     "title": "$(function(){}) と $(window).on('load',function(){}) の違い",
@@ -506,7 +514,7 @@
   {
     "title": "コストを下げろと言われたら~AWSでまずやること~",
     "url": "https://qiita.com/gucchon/items/33731a18e5b457f2bd34",
-    "likes_count": 412,
+    "likes_count": 411,
     "created_at": "2014-12-08T22:39:58+09:00",
     "updated_at": "2014-12-09T22:20:53+09:00",
     "id": "gucchon"
@@ -514,7 +522,7 @@
   {
     "title": "React.jsでPropやStateを使ってComponent間のやりとりをする",
     "url": "https://qiita.com/koba04/items/43200b6fd6e6f43f0d8d",
-    "likes_count": 407,
+    "likes_count": 406,
     "created_at": "2014-12-07T01:05:31+09:00",
     "updated_at": "2015-01-12T22:38:12+09:00",
     "id": "koba04"
@@ -646,14 +654,6 @@
     "created_at": "2014-12-05T16:38:05+09:00",
     "updated_at": "2014-12-06T18:42:26+09:00",
     "id": "joker1007"
-  },
-  {
-    "title": "Goでnet/httpを使う時のこまごまとした注意",
-    "url": "https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18",
-    "likes_count": 311,
-    "created_at": "2014-12-22T03:06:15+09:00",
-    "updated_at": "2015-12-25T20:00:15+09:00",
-    "id": "ono_matope"
   },
   {
     "title": "MobaXterm を ssh/mosh/X11 クライアントとして使う（Windows）",

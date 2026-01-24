@@ -10,7 +10,7 @@
   {
     "title": "初心者向け、「上手い」シェルスクリプトの書き方メモ",
     "url": "https://qiita.com/m-yamashita/items/889c116b92dc0bf4ea7d",
-    "likes_count": 4422,
+    "likes_count": 4423,
     "created_at": "2015-02-02T00:38:57+09:00",
     "updated_at": "2018-01-18T16:36:34+09:00",
     "id": "m-yamashita"
@@ -34,7 +34,7 @@
   {
     "title": "Markdownテキストでシーケンス図とフローチャートを描く",
     "url": "https://qiita.com/ka215/items/a709665cb34c505ccf1f",
-    "likes_count": 2340,
+    "likes_count": 2339,
     "created_at": "2015-02-26T15:55:03+09:00",
     "updated_at": "2022-04-20T11:03:58+09:00",
     "id": "ka215"
@@ -66,7 +66,7 @@
   {
     "title": "Railsバリデーションまとめ",
     "url": "https://qiita.com/h1kita/items/772b81a1cc066e67930e",
-    "likes_count": 1781,
+    "likes_count": 1782,
     "created_at": "2015-02-24T11:07:12+09:00",
     "updated_at": "2017-11-15T16:28:26+09:00",
     "id": "h1kita"
@@ -138,7 +138,7 @@
   {
     "title": "Riot.js 2.0 を触ってみた — まだReactで消耗しているの?",
     "url": "https://qiita.com/cognitom/items/fb1295f3f93911e9e92d",
-    "likes_count": 934,
+    "likes_count": 933,
     "created_at": "2015-02-03T03:24:50+09:00",
     "updated_at": "2015-11-26T13:29:04+09:00",
     "id": "cognitom"
@@ -170,7 +170,7 @@
   {
     "title": "リソースの一部更新におけるURL設計",
     "url": "https://qiita.com/necojackarc/items/fd53c96865d0ef7a02d8",
-    "likes_count": 748,
+    "likes_count": 747,
     "created_at": "2015-02-13T15:05:57+09:00",
     "updated_at": "2016-03-07T03:14:38+09:00",
     "id": "necojackarc"
@@ -186,7 +186,7 @@
   {
     "title": "【保存版】正規表現でエスケープが必要な文字一覧表",
     "url": "https://qiita.com/katsukii/items/1c1550f064b4686c04d4",
-    "likes_count": 727,
+    "likes_count": 726,
     "created_at": "2015-02-08T16:41:17+09:00",
     "updated_at": "2016-12-29T10:13:32+09:00",
     "id": "katsukii"
@@ -202,7 +202,7 @@
   {
     "title": "汚いcssを整形するWebアプリ「css2scss」でリファクタリングした際、「ヤバい」と感じた３つの機能と３つの点",
     "url": "https://qiita.com/kaga_mi/items/bf638dd64c7c09e93557",
-    "likes_count": 675,
+    "likes_count": 674,
     "created_at": "2015-02-10T20:47:41+09:00",
     "updated_at": "2016-07-28T18:36:03+09:00",
     "id": "kaga_mi"
@@ -224,20 +224,20 @@
     "id": "okamos"
   },
   {
-    "title": "Chef-soloからItamaeに完全移行した話",
-    "url": "https://qiita.com/toritori0318/items/00ea2a75c8321aaf9ef6",
-    "likes_count": 626,
-    "created_at": "2015-02-22T23:56:02+09:00",
-    "updated_at": "2016-04-24T23:46:59+09:00",
-    "id": "toritori0318"
-  },
-  {
     "title": "PHPのモダンな開発環境を紹介する",
     "url": "https://qiita.com/tadsan/items/a0a14e58aa4d88f19624",
     "likes_count": 625,
     "created_at": "2015-02-08T17:03:42+09:00",
     "updated_at": "2015-02-09T20:31:49+09:00",
     "id": "tadsan"
+  },
+  {
+    "title": "Chef-soloからItamaeに完全移行した話",
+    "url": "https://qiita.com/toritori0318/items/00ea2a75c8321aaf9ef6",
+    "likes_count": 625,
+    "created_at": "2015-02-22T23:56:02+09:00",
+    "updated_at": "2016-04-24T23:46:59+09:00",
+    "id": "toritori0318"
   },
   {
     "title": "Realm for Swift まとめ完全版",
@@ -386,7 +386,7 @@
   {
     "title": "ESLintについて",
     "url": "https://qiita.com/terrierscript/items/dcf48f56d8f484c0a1a8",
-    "likes_count": 387,
+    "likes_count": 386,
     "created_at": "2015-02-21T00:36:45+09:00",
     "updated_at": "2019-03-21T17:00:43+09:00",
     "id": "terrierscript"
@@ -400,20 +400,20 @@
     "id": "4cres"
   },
   {
-    "title": "あなたはだんだん、ファイルを読むのにlessコマンドを使いたくなる",
-    "url": "https://qiita.com/marrontan619/items/95e954972706f32be255",
-    "likes_count": 382,
-    "created_at": "2015-02-26T05:43:34+09:00",
-    "updated_at": "2022-11-22T16:18:55+09:00",
-    "id": "marrontan619"
-  },
-  {
     "title": "小さく始める JavaScript のテスト",
     "url": "https://qiita.com/Jxck/items/0f5437dd3ab48f1ffd6e",
     "likes_count": 381,
     "created_at": "2015-02-07T16:03:31+09:00",
     "updated_at": "2015-02-07T18:55:40+09:00",
     "id": "Jxck"
+  },
+  {
+    "title": "あなたはだんだん、ファイルを読むのにlessコマンドを使いたくなる",
+    "url": "https://qiita.com/marrontan619/items/95e954972706f32be255",
+    "likes_count": 381,
+    "created_at": "2015-02-26T05:43:34+09:00",
+    "updated_at": "2022-11-22T16:18:55+09:00",
+    "id": "marrontan619"
   },
   {
     "title": "Docker Machine リファレンス",
@@ -498,7 +498,7 @@
   {
     "title": "デザイナはWeb Componentsに夢を見るのか",
     "url": "https://qiita.com/cognitom/items/c5f17fd9b1c53c420232",
-    "likes_count": 297,
+    "likes_count": 296,
     "created_at": "2015-02-09T22:45:04+09:00",
     "updated_at": "2015-02-10T18:11:29+09:00",
     "id": "cognitom"
@@ -542,14 +542,6 @@
     "created_at": "2015-02-02T22:43:43+09:00",
     "updated_at": "2015-09-04T17:16:01+09:00",
     "id": "sawada_masahiko"
-  },
-  {
-    "title": "これからGo言語を書く人への三種の神器",
-    "url": "https://qiita.com/osamingo/items/d5ec42fb8587d857310a",
-    "likes_count": 275,
-    "created_at": "2015-02-09T23:15:32+09:00",
-    "updated_at": "2015-10-16T15:14:19+09:00",
-    "id": "osamingo"
   },
   {
     "title": "Railsのフォーム基本的な作成方法まとめ（form_forとかform_tag）",
