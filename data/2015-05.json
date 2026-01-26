@@ -98,7 +98,7 @@
   {
     "title": "docker-composeを使うと複数コンテナの管理が便利に",
     "url": "https://qiita.com/y_hokkey/items/d51e69c6ff4015e85fce",
-    "likes_count": 1250,
+    "likes_count": 1249,
     "created_at": "2015-05-23T14:40:31+09:00",
     "updated_at": "2018-04-16T12:47:55+09:00",
     "id": "y_hokkey"
@@ -122,7 +122,7 @@
   {
     "title": "Linuxリソースの監視・確認に関するコマンド逆引きメモ",
     "url": "https://qiita.com/rsooo/items/42f0902d42bab6ecf175",
-    "likes_count": 1077,
+    "likes_count": 1078,
     "created_at": "2015-05-24T10:55:51+09:00",
     "updated_at": "2020-04-27T15:00:02+09:00",
     "id": "rsooo"
@@ -258,7 +258,7 @@
   {
     "title": "gitでシンプルなデプロイ環境を作る",
     "url": "https://qiita.com/zaburo/items/8886be1a733aaf581045",
-    "likes_count": 549,
+    "likes_count": 548,
     "created_at": "2015-05-16T18:16:07+09:00",
     "updated_at": "2017-02-02T21:22:14+09:00",
     "id": "zaburo"
@@ -282,7 +282,7 @@
   {
     "title": "ROC曲線とは何か、アニメーションで理解する。",
     "url": "https://qiita.com/kenmatsu4/items/550b38f4fa31e9af6f4f",
-    "likes_count": 501,
+    "likes_count": 502,
     "created_at": "2015-05-09T16:17:12+09:00",
     "updated_at": "2023-12-19T23:25:50+09:00",
     "id": "kenmatsu4"
@@ -322,7 +322,7 @@
   {
     "title": "redis-cli コマンド操作まとめ",
     "url": "https://qiita.com/rubytomato@github/items/d66d932959d596876ab5",
-    "likes_count": 444,
+    "likes_count": 443,
     "created_at": "2015-05-24T16:37:36+09:00",
     "updated_at": "2021-01-15T23:53:55+09:00",
     "id": "rubytomato@github"
@@ -362,7 +362,7 @@
   {
     "title": "【PHP】特定の文字列を含むかのチェック",
     "url": "https://qiita.com/kazu56/items/2c72d187438de07c2503",
-    "likes_count": 413,
+    "likes_count": 412,
     "created_at": "2015-05-25T12:25:51+09:00",
     "updated_at": "2015-09-15T10:10:14+09:00",
     "id": "kazu56"
@@ -400,20 +400,20 @@
     "id": "takahirom"
   },
   {
-    "title": "S3 + Lambda + Cognitoを使って、簡単お問い合わせシステム構築",
-    "url": "https://qiita.com/takuma_yoshida/items/3bd3af8b09307d25981a",
-    "likes_count": 382,
-    "created_at": "2015-05-18T02:41:22+09:00",
-    "updated_at": "2017-06-05T09:34:16+09:00",
-    "id": "takuma_yoshida"
-  },
-  {
     "title": "FactoryGirlのtransientとtraitを活用する",
     "url": "https://qiita.com/joker1007/items/da63b8630351c1f3fe1d",
     "likes_count": 381,
     "created_at": "2015-05-05T21:04:54+09:00",
     "updated_at": "2015-05-05T21:04:54+09:00",
     "id": "joker1007"
+  },
+  {
+    "title": "S3 + Lambda + Cognitoを使って、簡単お問い合わせシステム構築",
+    "url": "https://qiita.com/takuma_yoshida/items/3bd3af8b09307d25981a",
+    "likes_count": 381,
+    "created_at": "2015-05-18T02:41:22+09:00",
+    "updated_at": "2017-06-05T09:34:16+09:00",
+    "id": "takuma_yoshida"
   },
   {
     "title": "XMLHttpRequest についてのメモ",
