@@ -2,7 +2,7 @@
   {
     "title": "httpsだからというだけで安全？調べたら怖くなってきたSSLの話!？",
     "url": "https://qiita.com/kuni-nakaji/items/5118b23bf2ea44fed96e",
-    "likes_count": 2494,
+    "likes_count": 2493,
     "created_at": "2014-03-14T16:18:11+09:00",
     "updated_at": "2022-11-14T23:44:02+09:00",
     "id": "kuni-nakaji"
@@ -18,7 +18,7 @@
   {
     "title": "ディレクトリ構成図を書くときに便利な記号",
     "url": "https://qiita.com/paty-fakename/items/c82ed27b4070feeceff6",
-    "likes_count": 2340,
+    "likes_count": 2341,
     "created_at": "2014-03-18T14:48:33+09:00",
     "updated_at": "2014-03-18T14:48:33+09:00",
     "id": "paty-fakename"
@@ -50,7 +50,7 @@
   {
     "title": "Chefを読んで実行するための全知識",
     "url": "https://qiita.com/TsuyoshiUshio@github/items/89030baca68b05a9783d",
-    "likes_count": 1050,
+    "likes_count": 1049,
     "created_at": "2014-03-16T18:42:33+09:00",
     "updated_at": "2014-03-27T01:28:30+09:00",
     "id": "TsuyoshiUshio@github"
@@ -58,7 +58,7 @@
   {
     "title": "CoreOS 入門",
     "url": "https://qiita.com/mopemope/items/fa9424b094aae3eac580",
-    "likes_count": 897,
+    "likes_count": 896,
     "created_at": "2014-03-31T14:06:57+09:00",
     "updated_at": "2014-04-02T11:37:56+09:00",
     "id": "mopemope"
@@ -96,20 +96,20 @@
     "id": "kuni-nakaji"
   },
   {
+    "title": "dotfilesをGitHubで管理",
+    "url": "https://qiita.com/okamos/items/7f5461814e8ed8916870",
+    "likes_count": 778,
+    "created_at": "2014-03-09T17:13:52+09:00",
+    "updated_at": "2016-10-26T14:05:02+09:00",
+    "id": "okamos"
+  },
+  {
     "title": "SublimeTextの教科書で紹介されてるプラグインまとめ",
     "url": "https://qiita.com/maccotsan/items/f320036e19f8d3b798c1",
     "likes_count": 778,
     "created_at": "2014-03-21T08:00:17+09:00",
     "updated_at": "2014-03-21T08:04:20+09:00",
     "id": "maccotsan"
-  },
-  {
-    "title": "dotfilesをGitHubで管理",
-    "url": "https://qiita.com/okamos/items/7f5461814e8ed8916870",
-    "likes_count": 777,
-    "created_at": "2014-03-09T17:13:52+09:00",
-    "updated_at": "2016-10-26T14:05:02+09:00",
-    "id": "okamos"
   },
   {
     "title": "何番目系の便利なCSSまとめ",
@@ -130,7 +130,7 @@
   {
     "title": "Docker で開発環境も使い捨てにしよう！",
     "url": "https://qiita.com/mopemope/items/495ab1f74bcbef0f88bb",
-    "likes_count": 671,
+    "likes_count": 670,
     "created_at": "2014-03-14T13:16:09+09:00",
     "updated_at": "2014-03-20T16:15:10+09:00",
     "id": "mopemope"
@@ -146,7 +146,7 @@
   {
     "title": "Docker でデータのポータビリティをあげ永続化しよう",
     "url": "https://qiita.com/mopemope/items/b05ff7f603a5ad74bf55",
-    "likes_count": 627,
+    "likes_count": 626,
     "created_at": "2014-03-27T10:28:03+09:00",
     "updated_at": "2018-03-22T09:59:15+09:00",
     "id": "mopemope"
@@ -154,7 +154,7 @@
   {
     "title": "Homebrewのインストールとrbenvのインストールまで Mac編",
     "url": "https://qiita.com/is-lab/items/e0443b79da117ed48294",
-    "likes_count": 614,
+    "likes_count": 613,
     "created_at": "2014-03-17T00:38:12+09:00",
     "updated_at": "2022-10-11T18:30:38+09:00",
     "id": "is-lab"
@@ -218,7 +218,7 @@
   {
     "title": "Google Apps Scriptの開発手法まとめ",
     "url": "https://qiita.com/soundTricker/items/4d04c97c499b22886dfd",
-    "likes_count": 541,
+    "likes_count": 540,
     "created_at": "2014-03-11T17:08:14+09:00",
     "updated_at": "2014-03-12T09:54:00+09:00",
     "id": "soundTricker"
@@ -282,7 +282,7 @@
   {
     "title": "私の Docker TIPS ",
     "url": "https://qiita.com/mopemope/items/181cb6c6c6f7cf9bbaa9",
-    "likes_count": 450,
+    "likes_count": 449,
     "created_at": "2014-03-20T13:47:51+09:00",
     "updated_at": "2018-03-22T09:59:35+09:00",
     "id": "mopemope"
@@ -314,7 +314,7 @@
   {
     "title": "次世代監視ツール Sensu リファレンス",
     "url": "https://qiita.com/spesnova/items/f9a8c9661861cc453ead",
-    "likes_count": 409,
+    "likes_count": 408,
     "created_at": "2014-03-31T11:53:52+09:00",
     "updated_at": "2019-03-18T15:08:51+09:00",
     "id": "spesnova"
@@ -546,7 +546,7 @@
   {
     "title": "Chefレシピ逆引きメモ",
     "url": "https://qiita.com/makoto_kw/items/53a84380559c087eb8fb",
-    "likes_count": 269,
+    "likes_count": 268,
     "created_at": "2014-03-04T01:02:52+09:00",
     "updated_at": "2014-11-11T19:06:07+09:00",
     "id": "makoto_kw"

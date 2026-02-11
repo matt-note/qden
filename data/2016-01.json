@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4199,
+    "likes_count": 4198,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -26,7 +26,7 @@
   {
     "title": "(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/f795fe3e661a3349a7ce",
-    "likes_count": 3338,
+    "likes_count": 3337,
     "created_at": "2016-01-08T14:56:09+09:00",
     "updated_at": "2021-10-08T20:24:15+09:00",
     "id": "naoki_mochizuki"
@@ -42,7 +42,7 @@
   {
     "title": "[Git] .gitignoreの仕様詳解",
     "url": "https://qiita.com/anqooqie/items/110957797b3d5280c44f",
-    "likes_count": 2949,
+    "likes_count": 2948,
     "created_at": "2016-01-16T23:27:50+09:00",
     "updated_at": "2018-10-25T16:49:31+09:00",
     "id": "anqooqie"
@@ -96,20 +96,20 @@
     "id": "umegaya"
   },
   {
-    "title": "開発におけるDocker導入のメリット",
-    "url": "https://qiita.com/minodisk/items/5ffd20588b995523756f",
-    "likes_count": 1112,
-    "created_at": "2016-01-14T15:20:25+09:00",
-    "updated_at": "2016-01-14T23:08:27+09:00",
-    "id": "minodisk"
-  },
-  {
     "title": "JavaScriptの同期、非同期、コールバック、プロミス辺りを整理してみる",
     "url": "https://qiita.com/YoshikiNakamura/items/732ded26c85a7f771a27",
     "likes_count": 1112,
     "created_at": "2016-01-27T23:28:04+09:00",
     "updated_at": "2018-10-25T20:39:56+09:00",
     "id": "YoshikiNakamura"
+  },
+  {
+    "title": "開発におけるDocker導入のメリット",
+    "url": "https://qiita.com/minodisk/items/5ffd20588b995523756f",
+    "likes_count": 1111,
+    "created_at": "2016-01-14T15:20:25+09:00",
+    "updated_at": "2016-01-14T23:08:27+09:00",
+    "id": "minodisk"
   },
   {
     "title": "Pythonでデータ分析するのに必要なツールのまとめ",
@@ -138,7 +138,7 @@
   {
     "title": "光の速さのWEBサーバー(nginx)をlet's encryptでSSL化及びHTTP/2化。ついでにセキュリティ評価をA＋にする。",
     "url": "https://qiita.com/varusan/items/ff835b669c0a7e110b09",
-    "likes_count": 984,
+    "likes_count": 983,
     "created_at": "2016-01-20T01:10:24+09:00",
     "updated_at": "2016-07-20T20:37:41+09:00",
     "id": "varusan"
@@ -210,7 +210,7 @@
   {
     "title": "ブランチの切り替えをしなくてよくなるコマンド git worktree がすごい！",
     "url": "https://qiita.com/shibukk/items/80430b54ecda7f36ca44",
-    "likes_count": 775,
+    "likes_count": 774,
     "created_at": "2016-01-12T20:20:30+09:00",
     "updated_at": "2020-09-25T17:22:23+09:00",
     "id": "shibukk"
@@ -314,7 +314,7 @@
   {
     "title": "Docker compose ことはじめハンズオン",
     "url": "https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a",
-    "likes_count": 545,
+    "likes_count": 544,
     "created_at": "2016-01-05T01:32:35+09:00",
     "updated_at": "2019-10-09T21:04:14+09:00",
     "id": "TsutomuNakamura"
@@ -402,7 +402,7 @@
   {
     "title": "(デプロイ編②)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで ",
     "url": "https://qiita.com/naoki_mochizuki/items/5a1757d222806cbe0cd1",
-    "likes_count": 445,
+    "likes_count": 444,
     "created_at": "2016-01-13T16:12:45+09:00",
     "updated_at": "2021-10-08T20:25:34+09:00",
     "id": "naoki_mochizuki"
@@ -610,7 +610,7 @@
   {
     "title": "Courseraの機械学習コースのススメ 前編",
     "url": "https://qiita.com/mono0926/items/2c39649d24b2e515f4b5",
-    "likes_count": 327,
+    "likes_count": 326,
     "created_at": "2016-01-02T21:49:07+09:00",
     "updated_at": "2016-12-22T11:04:05+09:00",
     "id": "mono0926"
@@ -762,7 +762,7 @@
   {
     "title": "Django でまず覚えたい TemplateView のパターン",
     "url": "https://qiita.com/ytyng/items/7cb3c3a5605974151678",
-    "likes_count": 269,
+    "likes_count": 268,
     "created_at": "2016-01-08T20:50:04+09:00",
     "updated_at": "2017-11-04T15:48:57+09:00",
     "id": "ytyng"
@@ -770,7 +770,7 @@
   {
     "title": "ffmpeg を使い、HTTP Live Streaming(HLS)をファイルに保存し、保存したファイルからストリーミングを行う方法について",
     "url": "https://qiita.com/uupaa/items/c76c76cb149470bf89f2",
-    "likes_count": 260,
+    "likes_count": 259,
     "created_at": "2016-01-12T21:05:56+09:00",
     "updated_at": "2018-03-18T00:25:41+09:00",
     "id": "uupaa"
