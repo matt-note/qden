@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 3098,
+    "likes_count": 3097,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -26,7 +26,7 @@
   {
     "title": "究極のIT系最新技術情報収集用Slackチーム公開 - モヒカンSlack -",
     "url": "https://qiita.com/kotakanbe@github/items/32cf4eb3de1741af26fb",
-    "likes_count": 2801,
+    "likes_count": 2800,
     "created_at": "2015-12-15T17:10:39+09:00",
     "updated_at": "2023-08-06T20:55:35+09:00",
     "id": "kotakanbe@github"
@@ -106,7 +106,7 @@
   {
     "title": "さいきょうの二重サブミット対策",
     "url": "https://qiita.com/syobochim/items/120109315f671918f28d",
-    "likes_count": 1301,
+    "likes_count": 1300,
     "created_at": "2015-12-23T00:06:40+09:00",
     "updated_at": "2015-12-23T11:28:45+09:00",
     "id": "syobochim"
@@ -130,7 +130,7 @@
   {
     "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発",
     "url": "https://qiita.com/nkjm/items/723990c518acfee6e473",
-    "likes_count": 1247,
+    "likes_count": 1246,
     "created_at": "2015-12-29T17:47:24+09:00",
     "updated_at": "2016-02-13T11:49:00+09:00",
     "id": "nkjm"
@@ -264,14 +264,6 @@
     "id": "fagai"
   },
   {
-    "title": "気をつけて！Git for Windowsにおける改行コード",
-    "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
-    "likes_count": 732,
-    "created_at": "2015-12-25T23:01:51+09:00",
-    "updated_at": "2018-12-11T08:34:12+09:00",
-    "id": "uggds"
-  },
-  {
     "title": "システム障害と僕達はいかにして戦えば良いのか、障害対応について考えた",
     "url": "https://qiita.com/zaru/items/edb49d8d2a2a6981789a",
     "likes_count": 731,
@@ -280,12 +272,12 @@
     "id": "zaru"
   },
   {
-    "title": "Googleの肩に乗ってShellコーディングしちゃおう",
-    "url": "https://qiita.com/ma91n/items/5f72ca668f1c58176644",
-    "likes_count": 730,
-    "created_at": "2015-12-15T02:55:41+09:00",
-    "updated_at": "2017-12-16T19:08:09+09:00",
-    "id": "ma91n"
+    "title": "気をつけて！Git for Windowsにおける改行コード",
+    "url": "https://qiita.com/uggds/items/00a1974ec4f115616580",
+    "likes_count": 731,
+    "created_at": "2015-12-25T23:01:51+09:00",
+    "updated_at": "2018-12-11T08:34:12+09:00",
+    "id": "uggds"
   },
   {
     "title": "SELECT文の評価順序の話",
@@ -294,6 +286,14 @@
     "created_at": "2015-12-27T15:28:38+09:00",
     "updated_at": "2018-12-27T19:20:20+09:00",
     "id": "suzukito"
+  },
+  {
+    "title": "Googleの肩に乗ってShellコーディングしちゃおう",
+    "url": "https://qiita.com/ma91n/items/5f72ca668f1c58176644",
+    "likes_count": 729,
+    "created_at": "2015-12-15T02:55:41+09:00",
+    "updated_at": "2017-12-16T19:08:09+09:00",
+    "id": "ma91n"
   },
   {
     "title": "JavaScript中級者への道【5. コールバック関数】",
@@ -514,7 +514,7 @@
   {
     "title": "slack の /remind 機能まとめ",
     "url": "https://qiita.com/takesato/items/335061d7945ebd5c23f7",
-    "likes_count": 410,
+    "likes_count": 409,
     "created_at": "2015-12-28T19:30:21+09:00",
     "updated_at": "2015-12-28T19:37:10+09:00",
     "id": "takesato"
@@ -530,7 +530,7 @@
   {
     "title": "OFFSETを使わない高速なページネーションの実現",
     "url": "https://qiita.com/mpyw/items/07c03600c2e38e91415e",
-    "likes_count": 396,
+    "likes_count": 395,
     "created_at": "2015-12-23T05:20:35+09:00",
     "updated_at": "2018-03-12T15:43:22+09:00",
     "id": "mpyw"
@@ -592,6 +592,14 @@
     "id": "izumin5210"
   },
   {
+    "title": "技術系の名言まとめ++",
+    "url": "https://qiita.com/kkyouhei/items/38ba41fb6b877f160e99",
+    "likes_count": 359,
+    "created_at": "2015-12-13T10:08:23+09:00",
+    "updated_at": "2016-10-03T13:49:51+09:00",
+    "id": "kkyouhei"
+  },
+  {
     "title": "Swift では Protocol を積極的に使おう",
     "url": "https://qiita.com/daichiro/items/2744c68fdb4bb53d0376",
     "likes_count": 359,
@@ -606,14 +614,6 @@
     "created_at": "2015-12-16T11:34:45+09:00",
     "updated_at": "2016-10-28T10:10:00+09:00",
     "id": "devopsCoordinator"
-  },
-  {
-    "title": "技術系の名言まとめ++",
-    "url": "https://qiita.com/kkyouhei/items/38ba41fb6b877f160e99",
-    "likes_count": 358,
-    "created_at": "2015-12-13T10:08:23+09:00",
-    "updated_at": "2016-10-03T13:49:51+09:00",
-    "id": "kkyouhei"
   },
   {
     "title": "Terraform と CI で実現するインフラのコード化と構築の自動化",
@@ -778,7 +778,7 @@
   {
     "title": "Visual StudioユーザーがReleaseビルドをするときに必ずやってほしい2つの設定",
     "url": "https://qiita.com/lainzero/items/27681ddc96638e33758b",
-    "likes_count": 270,
+    "likes_count": 269,
     "created_at": "2015-12-30T00:47:13+09:00",
     "updated_at": "2015-12-30T00:48:59+09:00",
     "id": "lainzero"
