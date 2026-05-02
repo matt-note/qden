@@ -18,7 +18,7 @@
   {
     "title": "再帰関数を学ぶと、どんな世界が広がるか",
     "url": "https://qiita.com/drken/items/23a4f604fa3f505dd5ad",
-    "likes_count": 2015,
+    "likes_count": 2014,
     "created_at": "2019-04-04T10:44:13+09:00",
     "updated_at": "2020-08-07T16:31:29+09:00",
     "id": "drken"
@@ -82,18 +82,10 @@
   {
     "title": "データの集計は、ExcelよりPython使ったほうが100倍早い（pandas-profiling, pixiedust）",
     "url": "https://qiita.com/pocket_kyoto/items/8d1fbcbca5d5dfd1dbd5",
-    "likes_count": 892,
+    "likes_count": 891,
     "created_at": "2019-04-26T21:57:04+09:00",
     "updated_at": "2019-04-26T21:57:04+09:00",
     "id": "pocket_kyoto"
-  },
-  {
-    "title": "深夜だから個人的なプログラミング学習方法を書くよ！",
-    "url": "https://qiita.com/tao_s/items/b6fb2303e36f5909cc62",
-    "likes_count": 889,
-    "created_at": "2019-04-24T05:29:35+09:00",
-    "updated_at": "2024-04-11T11:02:34+09:00",
-    "id": "tao_s"
   },
   {
     "title": "AtCoderで始めるPython入門",
@@ -102,6 +94,14 @@
     "created_at": "2019-04-04T14:41:04+09:00",
     "updated_at": "2025-07-27T23:28:39+09:00",
     "id": "KoyanagiHitoshi"
+  },
+  {
+    "title": "深夜だから個人的なプログラミング学習方法を書くよ！",
+    "url": "https://qiita.com/tao_s/items/b6fb2303e36f5909cc62",
+    "likes_count": 888,
+    "created_at": "2019-04-24T05:29:35+09:00",
+    "updated_at": "2024-04-11T11:02:34+09:00",
+    "id": "tao_s"
   },
   {
     "title": "冪等性とは「同じ操作を何度繰り返しても、同じ結果が得られる性質」のこと",
@@ -122,7 +122,7 @@
   {
     "title": "今からでも追いつける！　JavaScriptの「標準ライブラリ」を学ぶ",
     "url": "https://qiita.com/uhyo/items/acd645744fa61c805097",
-    "likes_count": 856,
+    "likes_count": 855,
     "created_at": "2019-04-14T23:14:17+09:00",
     "updated_at": "2019-08-14T19:55:47+09:00",
     "id": "uhyo"
@@ -274,7 +274,7 @@
   {
     "title": "「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜",
     "url": "https://qiita.com/drken/items/f2ea4b58b0d21621bd51",
-    "likes_count": 486,
+    "likes_count": 484,
     "created_at": "2019-04-22T10:20:44+09:00",
     "updated_at": "2020-02-02T12:06:05+09:00",
     "id": "drken"
@@ -354,7 +354,7 @@
   {
     "title": "C# パフォーマンス改善に使える新しめの機能たち 7.0〜",
     "url": "https://qiita.com/hadashiA/items/0c65a999422e7713ed3c",
-    "likes_count": 395,
+    "likes_count": 394,
     "created_at": "2019-04-10T15:32:01+09:00",
     "updated_at": "2019-04-17T12:02:20+09:00",
     "id": "hadashiA"
@@ -362,7 +362,7 @@
   {
     "title": "Matplotlibで綺麗な論文用のグラフを作る",
     "url": "https://qiita.com/MENDY/items/fe9b0c50383d8b2fd919",
-    "likes_count": 395,
+    "likes_count": 394,
     "created_at": "2019-04-12T17:49:12+09:00",
     "updated_at": "2020-01-21T19:40:59+09:00",
     "id": "MENDY"
@@ -410,7 +410,7 @@
   {
     "title": "1行もコードを書かずにネイティブアプリ（もどき）をリリースする7つのステップ",
     "url": "https://qiita.com/masanarih0ri/items/83f114b1bba0c0b9761e",
-    "likes_count": 317,
+    "likes_count": 316,
     "created_at": "2019-04-13T18:34:28+09:00",
     "updated_at": "2019-04-14T12:14:08+09:00",
     "id": "masanarih0ri"
