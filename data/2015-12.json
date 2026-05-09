@@ -584,6 +584,14 @@
     "id": "GushiSnow"
   },
   {
+    "title": "サーバサイドで複数Web APIを呼び出すときのデザインパターン",
+    "url": "https://qiita.com/kawasima/items/38a4594b197d4011e193",
+    "likes_count": 364,
+    "created_at": "2015-12-09T17:40:42+09:00",
+    "updated_at": "2015-12-09T17:40:42+09:00",
+    "id": "kawasima"
+  },
+  {
     "title": "Butter Knife、今までありがとう。 Data Binding、これからよろしく。",
     "url": "https://qiita.com/izumin5210/items/2784576d86ce6b9b51e6",
     "likes_count": 363,
@@ -642,7 +650,7 @@
   {
     "title": "Laravelのルーティングチートシート",
     "url": "https://qiita.com/fagai/items/a1bf55b6249aee03a624",
-    "likes_count": 330,
+    "likes_count": 329,
     "created_at": "2015-12-25T17:39:18+09:00",
     "updated_at": "2020-09-13T02:11:21+09:00",
     "id": "fagai"
@@ -790,13 +798,5 @@
     "created_at": "2015-12-13T13:37:16+09:00",
     "updated_at": "2015-12-15T12:20:35+09:00",
     "id": "twipg"
-  },
-  {
-    "title": "Google Apps Scriptでクレジットカード利用明細を毎月自動で奥さんにメール送信する",
-    "url": "https://qiita.com/takeruko/items/5fed0f7acc1a60d1df76",
-    "likes_count": 236,
-    "created_at": "2015-12-12T02:56:46+09:00",
-    "updated_at": "2015-12-12T13:05:25+09:00",
-    "id": "takeruko"
   }
 ]
