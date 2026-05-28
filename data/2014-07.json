@@ -2,7 +2,7 @@
   {
     "title": "何かのときにすっと出したい、プログラミングに関する法則・原則一覧",
     "url": "https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63",
-    "likes_count": 4538,
+    "likes_count": 4537,
     "created_at": "2014-07-21T23:44:04+09:00",
     "updated_at": "2018-02-21T17:53:55+09:00",
     "id": "hirokidaichi"
@@ -114,7 +114,7 @@
   {
     "title": "Go言語で幸せになれる10のテクニック",
     "url": "https://qiita.com/ksato9700/items/6228d4eb6d5b282f82f6",
-    "likes_count": 1139,
+    "likes_count": 1138,
     "created_at": "2014-07-20T13:26:43+09:00",
     "updated_at": "2023-02-26T17:05:30+09:00",
     "id": "ksato9700"
@@ -218,7 +218,7 @@
   {
     "title": "超絶初心者むけtcpdumpの使い方",
     "url": "https://qiita.com/tossh/items/4cd33693965ef231bd2a",
-    "likes_count": 610,
+    "likes_count": 609,
     "created_at": "2014-07-26T17:01:58+09:00",
     "updated_at": "2016-05-28T16:03:40+09:00",
     "id": "tossh"
@@ -386,7 +386,7 @@
   {
     "title": "Swiftで面倒なJSONの取り扱いをさらに10倍便利にするclass JSON ",
     "url": "https://qiita.com/dankogai/items/e3d9882f4d25bc44cc03",
-    "likes_count": 469,
+    "likes_count": 468,
     "created_at": "2014-07-16T06:04:01+09:00",
     "updated_at": "2016-01-29T15:22:19+09:00",
     "id": "dankogai"
@@ -608,14 +608,6 @@
     "id": "h3pei"
   },
   {
-    "title": "CSSでラジオボタンとチェックボックスにスタイルを当てる",
-    "url": "https://qiita.com/ryo620org/items/a7941774469a6229a64a",
-    "likes_count": 315,
-    "created_at": "2014-07-18T23:04:39+09:00",
-    "updated_at": "2016-06-13T12:57:49+09:00",
-    "id": "ryo620org"
-  },
-  {
     "title": "JavaのユニットテストにSpockを適用する",
     "url": "https://qiita.com/euno7/items/1e834d3d58da3e659f92",
     "likes_count": 315,
@@ -630,6 +622,14 @@
     "created_at": "2014-07-30T16:35:57+09:00",
     "updated_at": "2016-03-24T19:31:23+09:00",
     "id": "corin8823"
+  },
+  {
+    "title": "CSSでラジオボタンとチェックボックスにスタイルを当てる",
+    "url": "https://qiita.com/ryo620org/items/a7941774469a6229a64a",
+    "likes_count": 314,
+    "created_at": "2014-07-18T23:04:39+09:00",
+    "updated_at": "2016-06-13T12:57:49+09:00",
+    "id": "ryo620org"
   },
   {
     "title": "UnityのMecanimでキャラクターを動かす",
@@ -656,20 +656,20 @@
     "id": "kengop"
   },
   {
-    "title": "声に出して読みたいObjective-Cのライブラリ8種(2014.7)",
-    "url": "https://qiita.com/hayashi311/items/85f62d98f05bee23a312",
-    "likes_count": 301,
-    "created_at": "2014-07-09T00:10:30+09:00",
-    "updated_at": "2014-07-16T13:22:57+09:00",
-    "id": "hayashi311"
-  },
-  {
     "title": "Sequelizeを使用してデータベースを操作するための基本的な情報(2020.09更新）",
     "url": "https://qiita.com/mima_ita/items/014dcb42872f3a10855b",
     "likes_count": 300,
     "created_at": "2014-07-04T19:01:48+09:00",
     "updated_at": "2021-12-25T17:37:22+09:00",
     "id": "mima_ita"
+  },
+  {
+    "title": "声に出して読みたいObjective-Cのライブラリ8種(2014.7)",
+    "url": "https://qiita.com/hayashi311/items/85f62d98f05bee23a312",
+    "likes_count": 300,
+    "created_at": "2014-07-09T00:10:30+09:00",
+    "updated_at": "2014-07-16T13:22:57+09:00",
+    "id": "hayashi311"
   },
   {
     "title": "秀丸を10年使い続けた私が、MacVimと出会って困って訊いて調べて… 徒然備忘録",
