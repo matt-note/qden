@@ -2,7 +2,7 @@
   {
     "title": "GitHubで使われている実用英語コメント集",
     "url": "https://qiita.com/shikichee/items/a5f922a3ef3aa58a1839",
-    "likes_count": 4413,
+    "likes_count": 4412,
     "created_at": "2015-12-17T00:02:25+09:00",
     "updated_at": "2019-06-09T21:21:47+09:00",
     "id": "shikichee"
@@ -10,7 +10,7 @@
   {
     "title": "curl コマンド 使い方メモ",
     "url": "https://qiita.com/yasuhiroki/items/a569d3371a66e365316f",
-    "likes_count": 3222,
+    "likes_count": 3221,
     "created_at": "2015-12-20T01:24:12+09:00",
     "updated_at": "2025-02-22T23:20:04+09:00",
     "id": "yasuhiroki"
@@ -18,7 +18,7 @@
   {
     "title": "初心者向けシェルスクリプトの基本コマンドの紹介",
     "url": "https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337",
-    "likes_count": 3099,
+    "likes_count": 3098,
     "created_at": "2015-12-12T02:28:48+09:00",
     "updated_at": "2015-12-12T22:57:49+09:00",
     "id": "zayarwinttun"
@@ -330,7 +330,7 @@
   {
     "title": "Qiitaのマークダウンで色をつける方法[140色]",
     "url": "https://qiita.com/twipg/items/d8043cd4681a2780c160",
-    "likes_count": 639,
+    "likes_count": 637,
     "created_at": "2015-12-22T19:51:13+09:00",
     "updated_at": "2016-11-12T12:13:16+09:00",
     "id": "twipg"
@@ -600,14 +600,6 @@
     "id": "izumin5210"
   },
   {
-    "title": "技術系の名言まとめ++",
-    "url": "https://qiita.com/kkyouhei/items/38ba41fb6b877f160e99",
-    "likes_count": 359,
-    "created_at": "2015-12-13T10:08:23+09:00",
-    "updated_at": "2016-10-03T13:49:51+09:00",
-    "id": "kkyouhei"
-  },
-  {
     "title": "Swift では Protocol を積極的に使おう",
     "url": "https://qiita.com/daichiro/items/2744c68fdb4bb53d0376",
     "likes_count": 359,
@@ -622,6 +614,14 @@
     "created_at": "2015-12-16T11:34:45+09:00",
     "updated_at": "2016-10-28T10:10:00+09:00",
     "id": "devopsCoordinator"
+  },
+  {
+    "title": "技術系の名言まとめ++",
+    "url": "https://qiita.com/kkyouhei/items/38ba41fb6b877f160e99",
+    "likes_count": 358,
+    "created_at": "2015-12-13T10:08:23+09:00",
+    "updated_at": "2016-10-03T13:49:51+09:00",
+    "id": "kkyouhei"
   },
   {
     "title": "Terraform と CI で実現するインフラのコード化と構築の自動化",
