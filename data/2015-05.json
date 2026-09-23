@@ -18,7 +18,7 @@
   {
     "title": "WebAPIでエラーをどう表現すべき？15のサービスを調査してみた",
     "url": "https://qiita.com/suin/items/f7ac4de914e9f3f35884",
-    "likes_count": 3278,
+    "likes_count": 3277,
     "created_at": "2015-05-25T10:17:59+09:00",
     "updated_at": "2021-08-13T09:17:22+09:00",
     "id": "suin"
@@ -146,7 +146,7 @@
   {
     "title": "どのUNIXコマンドでも使える正規表現",
     "url": "https://qiita.com/richmikan@github/items/b6fb641e5b2b9af3522e",
-    "likes_count": 938,
+    "likes_count": 937,
     "created_at": "2015-05-07T03:01:47+09:00",
     "updated_at": "2017-02-09T04:47:23+09:00",
     "id": "richmikan@github"
@@ -154,7 +154,7 @@
   {
     "title": "RSpecのletを使うのはどんなときか？（翻訳）",
     "url": "https://qiita.com/jnchito/items/cdd9eef2ed193267c651",
-    "likes_count": 804,
+    "likes_count": 803,
     "created_at": "2015-05-11T09:33:49+09:00",
     "updated_at": "2015-05-11T10:05:20+09:00",
     "id": "jnchito"
@@ -162,7 +162,7 @@
   {
     "title": "カーディナリティについてまとめてみた",
     "url": "https://qiita.com/soyanchu/items/034be19a2e3cb87b2efb",
-    "likes_count": 795,
+    "likes_count": 794,
     "created_at": "2015-05-12T11:48:17+09:00",
     "updated_at": "2015-05-12T11:48:17+09:00",
     "id": "soyanchu"
@@ -400,20 +400,20 @@
     "id": "takahirom"
   },
   {
-    "title": "FactoryGirlのtransientとtraitを活用する",
-    "url": "https://qiita.com/joker1007/items/da63b8630351c1f3fe1d",
-    "likes_count": 381,
-    "created_at": "2015-05-05T21:04:54+09:00",
-    "updated_at": "2015-05-05T21:04:54+09:00",
-    "id": "joker1007"
-  },
-  {
     "title": "S3 + Lambda + Cognitoを使って、簡単お問い合わせシステム構築",
     "url": "https://qiita.com/takuma_yoshida/items/3bd3af8b09307d25981a",
     "likes_count": 381,
     "created_at": "2015-05-18T02:41:22+09:00",
     "updated_at": "2017-06-05T09:34:16+09:00",
     "id": "takuma_yoshida"
+  },
+  {
+    "title": "FactoryGirlのtransientとtraitを活用する",
+    "url": "https://qiita.com/joker1007/items/da63b8630351c1f3fe1d",
+    "likes_count": 380,
+    "created_at": "2015-05-05T21:04:54+09:00",
+    "updated_at": "2015-05-05T21:04:54+09:00",
+    "id": "joker1007"
   },
   {
     "title": "XMLHttpRequest についてのメモ",

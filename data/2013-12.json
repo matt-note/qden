@@ -58,7 +58,7 @@
   {
     "title": "iOS実機のSSL通信をプロキシによって傍受したり改ざんする方法",
     "url": "https://qiita.com/yimajo/items/c67cb711851f747c35e5",
-    "likes_count": 747,
+    "likes_count": 746,
     "created_at": "2013-12-16T11:19:00+09:00",
     "updated_at": "2014-02-21T13:40:03+09:00",
     "id": "yimajo"
@@ -98,7 +98,7 @@
   {
     "title": "Go の Test に対する考え方",
     "url": "https://qiita.com/Jxck/items/8717a5982547cfa54ebc",
-    "likes_count": 601,
+    "likes_count": 600,
     "created_at": "2013-12-09T22:38:39+09:00",
     "updated_at": "2013-12-10T16:46:31+09:00",
     "id": "Jxck"
@@ -194,7 +194,7 @@
   {
     "title": "tmuxで大量のサーバーを操る最高の方法",
     "url": "https://qiita.com/catatsuy/items/3aa7bd49399bba66d8f1",
-    "likes_count": 400,
+    "likes_count": 399,
     "created_at": "2013-12-28T17:50:38+09:00",
     "updated_at": "2013-12-28T17:50:38+09:00",
     "id": "catatsuy"
@@ -258,7 +258,7 @@
   {
     "title": "modern.IEのWindows 7で日本語の表示と入力をできるようにする",
     "url": "https://qiita.com/hnakamur/items/5f2f9e817dd0de60abb2",
-    "likes_count": 313,
+    "likes_count": 312,
     "created_at": "2013-12-26T11:29:36+09:00",
     "updated_at": "2014-09-08T20:43:10+09:00",
     "id": "hnakamur"
@@ -320,20 +320,20 @@
     "id": "yaotti"
   },
   {
-    "title": "RSpecの最新の動向・RSpec 3へのアップグレードガイド",
-    "url": "https://qiita.com/yujinakayama/items/a1d31b2caa35642e8e69",
-    "likes_count": 287,
-    "created_at": "2013-12-06T23:40:38+09:00",
-    "updated_at": "2015-09-10T06:25:13+09:00",
-    "id": "yujinakayama"
-  },
-  {
     "title": "AngularJSのパフォーマンス改善入門",
     "url": "https://qiita.com/zoetro/items/5156aef51222e81dd022",
     "likes_count": 287,
     "created_at": "2013-12-11T00:22:56+09:00",
     "updated_at": "2013-12-11T00:22:56+09:00",
     "id": "zoetro"
+  },
+  {
+    "title": "RSpecの最新の動向・RSpec 3へのアップグレードガイド",
+    "url": "https://qiita.com/yujinakayama/items/a1d31b2caa35642e8e69",
+    "likes_count": 286,
+    "created_at": "2013-12-06T23:40:38+09:00",
+    "updated_at": "2015-09-10T06:25:13+09:00",
+    "id": "yujinakayama"
   },
   {
     "title": "AngularJS+NodeJS+MongoDB+OAuthでWebサービスを作る",
