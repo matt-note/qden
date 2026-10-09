@@ -42,7 +42,7 @@
   {
     "title": "Repositoryパターンのアンチパターン",
     "url": "https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf",
-    "likes_count": 2233,
+    "likes_count": 2232,
     "created_at": "2018-05-18T18:00:05+09:00",
     "updated_at": "2022-07-05T23:31:13+09:00",
     "id": "mikesorae"
@@ -50,7 +50,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 2155,
+    "likes_count": 2153,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -66,7 +66,7 @@
   {
     "title": "2018年の最先端バックエンドエンジニアになろう",
     "url": "https://qiita.com/rana_kualu/items/19ab559dddbca6674417",
-    "likes_count": 1933,
+    "likes_count": 1932,
     "created_at": "2018-05-22T20:44:08+09:00",
     "updated_at": "2018-11-25T14:16:11+09:00",
     "id": "rana_kualu"
@@ -74,7 +74,7 @@
   {
     "title": "Dockerについてなるべくわかりやすく説明する",
     "url": "https://qiita.com/rawHam/items/80ba13d2d2d56dba411e",
-    "likes_count": 1500,
+    "likes_count": 1499,
     "created_at": "2018-05-12T19:51:25+09:00",
     "updated_at": "2019-09-13T09:56:44+09:00",
     "id": "rawHam"
@@ -82,7 +82,7 @@
   {
     "title": "就活のためにWEBサービスを作ったら、転職できた以上の価値をもたらしてくれた話",
     "url": "https://qiita.com/kd9951/items/92cc7bb14c1fbfcb6dab",
-    "likes_count": 1329,
+    "likes_count": 1328,
     "created_at": "2018-05-09T00:15:17+09:00",
     "updated_at": "2018-05-10T20:10:23+09:00",
     "id": "kd9951"
@@ -178,7 +178,7 @@
   {
     "title": "「PATH を通す」の意味をできるだけわかりやすく説明する試み",
     "url": "https://qiita.com/sta/items/63e1048025d1830d12fd",
-    "likes_count": 830,
+    "likes_count": 829,
     "created_at": "2018-05-25T08:20:43+09:00",
     "updated_at": "2018-05-25T20:59:22+09:00",
     "id": "sta"
@@ -224,20 +224,20 @@
     "id": "skotaro"
   },
   {
-    "title": "Pythonのlambdaって分かりやすい",
-    "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
-    "likes_count": 721,
-    "created_at": "2018-05-20T14:33:53+09:00",
-    "updated_at": "2022-10-16T15:21:49+09:00",
-    "id": "nagataaaas"
-  },
-  {
     "title": "Webブラウザの作り方",
     "url": "https://qiita.com/uint256_t/items/01308b46ea839ba4a919",
     "likes_count": 720,
     "created_at": "2018-05-13T18:38:55+09:00",
     "updated_at": "2018-05-17T19:49:14+09:00",
     "id": "uint256_t"
+  },
+  {
+    "title": "Pythonのlambdaって分かりやすい",
+    "url": "https://qiita.com/nagataaaas/items/531b1fc5ce42a791c7df",
+    "likes_count": 720,
+    "created_at": "2018-05-20T14:33:53+09:00",
+    "updated_at": "2022-10-16T15:21:49+09:00",
+    "id": "nagataaaas"
   },
   {
     "title": "Python3.7からは「Data Classes」がクラス定義のスタンダードになるかもしれない",
@@ -322,7 +322,7 @@
   {
     "title": "皆さんはどんな方法で情報収集してますか？私はこんな感じです。",
     "url": "https://qiita.com/niwatoliver/items/edfc3d1ff1270756b52a",
-    "likes_count": 579,
+    "likes_count": 578,
     "created_at": "2018-05-11T11:20:01+09:00",
     "updated_at": "2018-05-11T13:53:49+09:00",
     "id": "niwatoliver"
@@ -354,7 +354,7 @@
   {
     "title": "ソシャゲエンジニアの自分が開発MacBookにインストールしているアプリやら設定やら",
     "url": "https://qiita.com/west-hiroaki/items/9560f0504c3bdfe970f5",
-    "likes_count": 544,
+    "likes_count": 543,
     "created_at": "2018-05-20T23:29:08+09:00",
     "updated_at": "2018-05-20T23:30:00+09:00",
     "id": "west-hiroaki"
@@ -362,7 +362,7 @@
   {
     "title": "外部キー制約について",
     "url": "https://qiita.com/SLEAZOIDS/items/d6fb9c2d131c3fdd1387",
-    "likes_count": 541,
+    "likes_count": 540,
     "created_at": "2018-05-12T22:58:19+09:00",
     "updated_at": "2019-06-04T15:42:01+09:00",
     "id": "SLEAZOIDS"
@@ -482,7 +482,7 @@
   {
     "title": "Gradle の compile, api, implementation とかについて",
     "url": "https://qiita.com/opengl-8080/items/6ad642e0b016465891de",
-    "likes_count": 413,
+    "likes_count": 412,
     "created_at": "2018-05-25T22:17:55+09:00",
     "updated_at": "2018-05-25T22:17:55+09:00",
     "id": "opengl-8080"
@@ -498,7 +498,7 @@
   {
     "title": "Dockerコマンド よく使うやつ",
     "url": "https://qiita.com/Esfahan/items/52141a2ad741933d7d4c",
-    "likes_count": 398,
+    "likes_count": 397,
     "created_at": "2018-05-07T16:57:11+09:00",
     "updated_at": "2021-11-02T18:28:02+09:00",
     "id": "Esfahan"
