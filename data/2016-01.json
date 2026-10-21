@@ -10,7 +10,7 @@
   {
     "title": "AWSアカウントを取得したら速攻でやっておくべき初期設定まとめ",
     "url": "https://qiita.com/tmknom/items/303db2d1d928db720888",
-    "likes_count": 4203,
+    "likes_count": 4200,
     "created_at": "2016-01-21T21:29:56+09:00",
     "updated_at": "2020-04-26T13:17:51+09:00",
     "id": "tmknom"
@@ -26,7 +26,7 @@
   {
     "title": "(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで",
     "url": "https://qiita.com/naoki_mochizuki/items/f795fe3e661a3349a7ce",
-    "likes_count": 3328,
+    "likes_count": 3327,
     "created_at": "2016-01-08T14:56:09+09:00",
     "updated_at": "2021-10-08T20:24:15+09:00",
     "id": "naoki_mochizuki"
@@ -122,7 +122,7 @@
   {
     "title": "Apacheセキュリティ設定",
     "url": "https://qiita.com/bezeklik/items/1c4145652661cf5b2271",
-    "likes_count": 1055,
+    "likes_count": 1054,
     "created_at": "2016-01-18T00:59:29+09:00",
     "updated_at": "2024-06-23T16:09:12+09:00",
     "id": "bezeklik"
@@ -226,7 +226,7 @@
   {
     "title": "マテリアルデザインについて少し調べる",
     "url": "https://qiita.com/nogson/items/804dd3a879f482fb7018",
-    "likes_count": 754,
+    "likes_count": 753,
     "created_at": "2016-01-30T17:13:04+09:00",
     "updated_at": "2017-05-30T18:12:34+09:00",
     "id": "nogson"
@@ -450,7 +450,7 @@
   {
     "title": "brew tapとは",
     "url": "https://qiita.com/sammrai/items/85ed5e914d424fbf9fd6",
-    "likes_count": 387,
+    "likes_count": 386,
     "created_at": "2016-01-07T22:05:56+09:00",
     "updated_at": "2025-02-21T20:18:11+09:00",
     "id": "sammrai"
@@ -602,7 +602,7 @@
   {
     "title": "DockerのVolume機能について実験してみたことをまとめます",
     "url": "https://qiita.com/namutaka/items/f6a574f75f0997a1bb1d",
-    "likes_count": 329,
+    "likes_count": 328,
     "created_at": "2016-01-04T01:31:49+09:00",
     "updated_at": "2017-12-22T17:08:59+09:00",
     "id": "namutaka"
@@ -640,20 +640,20 @@
     "id": "nekoneko-wanwan"
   },
   {
-    "title": "PHPでファイルを開いて読み込む",
-    "url": "https://qiita.com/tadsan/items/bbc23ee596d55159f044",
-    "likes_count": 322,
-    "created_at": "2016-01-08T07:52:13+09:00",
-    "updated_at": "2016-08-21T04:05:27+09:00",
-    "id": "tadsan"
-  },
-  {
     "title": "[Python]Numpyの参照、抽出、結合",
     "url": "https://qiita.com/supersaiakujin/items/d63c73bb7b5aac43898a",
     "likes_count": 321,
     "created_at": "2016-01-04T23:40:35+09:00",
     "updated_at": "2018-10-05T12:46:11+09:00",
     "id": "supersaiakujin"
+  },
+  {
+    "title": "PHPでファイルを開いて読み込む",
+    "url": "https://qiita.com/tadsan/items/bbc23ee596d55159f044",
+    "likes_count": 321,
+    "created_at": "2016-01-08T07:52:13+09:00",
+    "updated_at": "2016-08-21T04:05:27+09:00",
+    "id": "tadsan"
   },
   {
     "title": "SSH通信って、結局何してるの？",
