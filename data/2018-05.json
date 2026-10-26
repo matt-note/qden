@@ -2,7 +2,7 @@
   {
     "title": "開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する",
     "url": "https://qiita.com/jabba/items/1a49e860a09a613b09d4",
-    "likes_count": 6496,
+    "likes_count": 6495,
     "created_at": "2018-05-09T18:22:55+09:00",
     "updated_at": "2023-10-03T23:41:43+09:00",
     "id": "jabba"
@@ -18,7 +18,7 @@
   {
     "title": "計算量オーダーの求め方を総整理！  〜 どこから log が出て来るか 〜",
     "url": "https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0",
-    "likes_count": 3892,
+    "likes_count": 3891,
     "created_at": "2018-05-10T09:19:30+09:00",
     "updated_at": "2021-09-03T23:27:49+09:00",
     "id": "drken"
@@ -50,7 +50,7 @@
   {
     "title": "【初心者向け】テストコードの方針を考える（何をテストすべきか？どんなテストを書くべきか？）",
     "url": "https://qiita.com/jnchito/items/2a5d3e15761fd413657a",
-    "likes_count": 2162,
+    "likes_count": 2161,
     "created_at": "2018-05-22T10:26:17+09:00",
     "updated_at": "2023-01-29T10:28:02+09:00",
     "id": "jnchito"
@@ -154,7 +154,7 @@
   {
     "title": "特集！知らないと損をする計算量の話",
     "url": "https://qiita.com/drken/items/18b3b3db5735241465ef",
-    "likes_count": 883,
+    "likes_count": 882,
     "created_at": "2018-05-15T09:18:51+09:00",
     "updated_at": "2020-03-16T14:27:35+09:00",
     "id": "drken"
@@ -186,7 +186,7 @@
   {
     "title": "【エンジニアリング組織論への招待】を10~15分で読めるように1万文字程度でまとめてみた",
     "url": "https://qiita.com/kamesennin/items/89d479112554a6f9d038",
-    "likes_count": 812,
+    "likes_count": 811,
     "created_at": "2018-05-01T18:10:35+09:00",
     "updated_at": "2022-05-12T14:22:04+09:00",
     "id": "kamesennin"
@@ -250,7 +250,7 @@
   {
     "title": "なぜrailsの本番環境ではUnicorn,Nginxを使うのか? 　~ Rack,Unicorn,Nginxの連携について ~【Ruby On Railsでwebサービス運営】",
     "url": "https://qiita.com/fritz22/items/fcb81753eaf381b4b33c",
-    "likes_count": 706,
+    "likes_count": 705,
     "created_at": "2018-05-13T17:45:13+09:00",
     "updated_at": "2019-11-13T11:26:42+09:00",
     "id": "fritz22"
@@ -378,7 +378,7 @@
   {
     "title": "iOSアプリ開発でのキャッシュ削除方法まとめ",
     "url": "https://qiita.com/shtnkgm/items/c96a58579ec406194fa8",
-    "likes_count": 528,
+    "likes_count": 527,
     "created_at": "2018-05-21T00:02:30+09:00",
     "updated_at": "2018-12-13T21:47:28+09:00",
     "id": "shtnkgm"
@@ -400,20 +400,20 @@
     "id": "yukiyoshimura"
   },
   {
-    "title": "名前、電話番号、メールアドレス、郵便番号等の最適なmaxlengthはいくつか調べてみた",
-    "url": "https://qiita.com/kyogom/items/49fe51044d57e3b19929",
-    "likes_count": 506,
-    "created_at": "2018-05-05T20:18:38+09:00",
-    "updated_at": "2023-07-15T06:57:45+09:00",
-    "id": "kyogom"
-  },
-  {
     "title": "Promise と async/await の理解度をもう1段階上げる",
     "url": "https://qiita.com/sotszk/items/f23199e864cba47455ce",
     "likes_count": 505,
     "created_at": "2018-05-01T01:52:27+09:00",
     "updated_at": "2018-05-12T12:16:24+09:00",
     "id": "sotszk"
+  },
+  {
+    "title": "名前、電話番号、メールアドレス、郵便番号等の最適なmaxlengthはいくつか調べてみた",
+    "url": "https://qiita.com/kyogom/items/49fe51044d57e3b19929",
+    "likes_count": 505,
+    "created_at": "2018-05-05T20:18:38+09:00",
+    "updated_at": "2023-07-15T06:57:45+09:00",
+    "id": "kyogom"
   },
   {
     "title": "SpringBootに入門する為の助走本",
@@ -426,7 +426,7 @@
   {
     "title": "【企業サイト構築用】Webページコーディングガイドライン",
     "url": "https://qiita.com/kgsi/items/d8aa2424b86c0dc0d3f9",
-    "likes_count": 490,
+    "likes_count": 489,
     "created_at": "2018-05-17T02:16:11+09:00",
     "updated_at": "2020-01-20T13:49:54+09:00",
     "id": "kgsi"
@@ -618,7 +618,7 @@
   {
     "title": "Git 初期設定",
     "url": "https://qiita.com/ucan-lab/items/aadbedcacbc2ac86a2b3",
-    "likes_count": 300,
+    "likes_count": 299,
     "created_at": "2018-05-20T16:29:56+09:00",
     "updated_at": "2024-04-26T12:15:35+09:00",
     "id": "ucan-lab"
