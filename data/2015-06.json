@@ -34,7 +34,7 @@
   {
     "title": "どこよりも分かりやすいSwiftの\"?\"と\"!\"",
     "url": "https://qiita.com/maiki055/items/b24378a3707bd35a31a8",
-    "likes_count": 2069,
+    "likes_count": 2068,
     "created_at": "2015-06-22T20:32:43+09:00",
     "updated_at": "2016-01-08T13:37:58+09:00",
     "id": "maiki055"
@@ -42,7 +42,7 @@
   {
     "title": "iOSの開発でお気に入りのライブラリN選",
     "url": "https://qiita.com/u651601f/items/08500df9246a6c208241",
-    "likes_count": 1829,
+    "likes_count": 1828,
     "created_at": "2015-06-18T15:49:52+09:00",
     "updated_at": "2015-06-18T15:49:52+09:00",
     "id": "u651601f"
@@ -138,7 +138,7 @@
   {
     "title": "Swift・iOSアプリ開発情報の集め方",
     "url": "https://qiita.com/mono0926/items/78c5409178a9e3be0fcc",
-    "likes_count": 816,
+    "likes_count": 815,
     "created_at": "2015-06-24T11:39:06+09:00",
     "updated_at": "2016-12-20T20:45:07+09:00",
     "id": "mono0926"
@@ -146,7 +146,7 @@
   {
     "title": "RxJavaに3日で入門し、Androidアプリのリスト操作、非同期処理、変更通知の課題を解決した話",
     "url": "https://qiita.com/yuya_presto/items/152fa80d073d865cfc90",
-    "likes_count": 792,
+    "likes_count": 791,
     "created_at": "2015-06-29T02:53:05+09:00",
     "updated_at": "2016-04-28T18:07:05+09:00",
     "id": "yuya_presto"
@@ -226,7 +226,7 @@
   {
     "title": "誰でも無料でiPhoneの実機を使ってiOSアプリ開発する方法",
     "url": "https://qiita.com/Night___/items/ebe4d55b10804db9700c",
-    "likes_count": 613,
+    "likes_count": 612,
     "created_at": "2015-06-10T06:23:56+09:00",
     "updated_at": "2015-07-29T11:13:35+09:00",
     "id": "Night___"
@@ -258,7 +258,7 @@
   {
     "title": "日々プロキシで苦しむ人の為のプロキシ設定まとめ",
     "url": "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce",
-    "likes_count": 511,
+    "likes_count": 510,
     "created_at": "2015-06-18T14:31:26+09:00",
     "updated_at": "2020-02-03T08:43:46+09:00",
     "id": "uzresk"
@@ -288,20 +288,20 @@
     "id": "rigani"
   },
   {
-    "title": "JavaScript初心者脱却への道のりを考える",
-    "url": "https://qiita.com/stkdev/items/cfe4678ac437cb2fdc9f",
-    "likes_count": 481,
-    "created_at": "2015-06-26T03:39:19+09:00",
-    "updated_at": "2016-01-11T02:14:44+09:00",
-    "id": "stkdev"
-  },
-  {
     "title": "すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順",
     "url": "https://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61",
     "likes_count": 480,
     "created_at": "2015-06-14T02:20:05+09:00",
     "updated_at": "2022-06-22T17:02:16+09:00",
     "id": "ryounagaoka"
+  },
+  {
+    "title": "JavaScript初心者脱却への道のりを考える",
+    "url": "https://qiita.com/stkdev/items/cfe4678ac437cb2fdc9f",
+    "likes_count": 480,
+    "created_at": "2015-06-26T03:39:19+09:00",
+    "updated_at": "2016-01-11T02:14:44+09:00",
+    "id": "stkdev"
   },
   {
     "title": "Swift 2.0 の try, catch ファーストインプレッション",
@@ -402,7 +402,7 @@
   {
     "title": "Qiita/Github/Slack/Discord 絵文字一覧",
     "url": "https://qiita.com/yamadashy/items/ae673f2bae8f1525b6af",
-    "likes_count": 381,
+    "likes_count": 380,
     "created_at": "2015-06-16T22:26:16+09:00",
     "updated_at": "2022-01-30T21:07:14+09:00",
     "id": "yamadashy"
@@ -562,7 +562,7 @@
   {
     "title": "iOS9でカスタムURLスキームの遷移に失敗するときの注意点",
     "url": "https://qiita.com/Night___/items/60355d21951cffbef51b",
-    "likes_count": 279,
+    "likes_count": 278,
     "created_at": "2015-06-11T16:18:44+09:00",
     "updated_at": "2015-06-19T01:35:16+09:00",
     "id": "Night___"
@@ -590,14 +590,6 @@
     "created_at": "2015-06-24T22:19:35+09:00",
     "updated_at": "2015-06-24T22:19:35+09:00",
     "id": "orangain"
-  },
-  {
-    "title": "いちいちbundle execしたくない 決定版",
-    "url": "https://qiita.com/ymmtmdk/items/374d5319e8d5c9ab2ff4",
-    "likes_count": 263,
-    "created_at": "2015-06-05T18:56:28+09:00",
-    "updated_at": "2015-06-07T15:43:13+09:00",
-    "id": "ymmtmdk"
   },
   {
     "title": "OpenSSLコマンドの備忘録",
