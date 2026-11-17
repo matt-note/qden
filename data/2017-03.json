@@ -2,7 +2,7 @@
   {
     "title": "外国人が語る：英語でクラスやメソッド等の名付け方",
     "url": "https://qiita.com/gazayas/items/3d352d1b6ec9a225c6f6",
-    "likes_count": 1869,
+    "likes_count": 1868,
     "created_at": "2017-03-01T17:01:14+09:00",
     "updated_at": "2024-01-09T10:51:48+09:00",
     "id": "gazayas"
@@ -18,7 +18,7 @@
   {
     "title": "いまさら聞けないPWAとAMP",
     "url": "https://qiita.com/edwardkenfox/items/4c0b9550ffa48c1f0445",
-    "likes_count": 1393,
+    "likes_count": 1392,
     "created_at": "2017-03-11T20:20:05+09:00",
     "updated_at": "2020-04-05T14:41:28+09:00",
     "id": "edwardkenfox"
@@ -34,7 +34,7 @@
   {
     "title": "全てのWindowsユーザを幸せにするツールたち",
     "url": "https://qiita.com/shuheilocale/items/a1800805c237fa07f2cd",
-    "likes_count": 1025,
+    "likes_count": 1024,
     "created_at": "2017-03-16T16:17:33+09:00",
     "updated_at": "2017-04-28T13:47:11+09:00",
     "id": "shuheilocale"
@@ -66,7 +66,7 @@
   {
     "title": "docker container / image コマンド新旧比較",
     "url": "https://qiita.com/zembutsu/items/6e1ad18f0d548ce6c266",
-    "likes_count": 798,
+    "likes_count": 797,
     "created_at": "2017-03-15T13:29:13+09:00",
     "updated_at": "2017-03-16T00:44:41+09:00",
     "id": "zembutsu"
@@ -74,7 +74,7 @@
   {
     "title": "JavaScript,jQueryの爆速コーディング、デバッグ方法論の勧め～実践向け逆引き(windows,chrome向け)～",
     "url": "https://qiita.com/shgkt/items/0054670269e1d3aa49b8",
-    "likes_count": 786,
+    "likes_count": 785,
     "created_at": "2017-03-29T21:09:22+09:00",
     "updated_at": "2017-05-17T17:19:30+09:00",
     "id": "shgkt"
@@ -106,7 +106,7 @@
   {
     "title": "今時のフロントエンド開発2017 (1. 愚痴編)",
     "url": "https://qiita.com/hiroiku/items/783a972bace33002455c",
-    "likes_count": 639,
+    "likes_count": 638,
     "created_at": "2017-03-27T18:19:21+09:00",
     "updated_at": "2021-05-24T18:59:21+09:00",
     "id": "hiroiku"
@@ -114,7 +114,7 @@
   {
     "title": "AWS でいままで起きた大規模障害を振り返る",
     "url": "https://qiita.com/saitotak/items/07931343bcb703b101f8",
-    "likes_count": 627,
+    "likes_count": 626,
     "created_at": "2017-03-02T20:49:32+09:00",
     "updated_at": "2018-03-16T23:34:43+09:00",
     "id": "saitotak"
@@ -122,7 +122,7 @@
   {
     "title": "何度も同じコマンド調べ直すのやめませんか？",
     "url": "https://qiita.com/knqyf263/items/01ff865bbab2f5e48d1e",
-    "likes_count": 623,
+    "likes_count": 622,
     "created_at": "2017-03-14T07:23:37+09:00",
     "updated_at": "2017-07-05T17:53:53+09:00",
     "id": "knqyf263"
@@ -130,7 +130,7 @@
   {
     "title": "bashのそれって実はこういう書き方できるよ一覧",
     "url": "https://qiita.com/hasegit/items/d9392b6dbfea89bc329f",
-    "likes_count": 614,
+    "likes_count": 613,
     "created_at": "2017-03-06T03:29:43+09:00",
     "updated_at": "2017-03-21T01:37:41+09:00",
     "id": "hasegit"
@@ -138,7 +138,7 @@
   {
     "title": "IE11のバグまとめ",
     "url": "https://qiita.com/sawadays0118/items/bd0731878e9eb49c03f5",
-    "likes_count": 605,
+    "likes_count": 604,
     "created_at": "2017-03-10T21:53:34+09:00",
     "updated_at": "2017-05-12T22:11:13+09:00",
     "id": "sawadays0118"
@@ -192,14 +192,6 @@
     "id": "nishina555"
   },
   {
-    "title": "なぜあなたのPull Requestは読まれないのか",
-    "url": "https://qiita.com/SpicyCoffee/items/b580afe3a86fabf61b1c",
-    "likes_count": 467,
-    "created_at": "2017-03-11T19:23:58+09:00",
-    "updated_at": "2017-03-13T12:03:49+09:00",
-    "id": "SpicyCoffee"
-  },
-  {
     "title": "実践Pytorch",
     "url": "https://qiita.com/perrying/items/857df46bb6cdc3047bd8",
     "likes_count": 467,
@@ -208,9 +200,17 @@
     "id": "perrying"
   },
   {
+    "title": "なぜあなたのPull Requestは読まれないのか",
+    "url": "https://qiita.com/SpicyCoffee/items/b580afe3a86fabf61b1c",
+    "likes_count": 466,
+    "created_at": "2017-03-11T19:23:58+09:00",
+    "updated_at": "2017-03-13T12:03:49+09:00",
+    "id": "SpicyCoffee"
+  },
+  {
     "title": "若手エンジニアを不幸にしないための開発の「べからず」集　組織運営編",
     "url": "https://qiita.com/nonbiri15/items/d6f06e9b53be343c0b61",
-    "likes_count": 452,
+    "likes_count": 451,
     "created_at": "2017-03-03T00:45:26+09:00",
     "updated_at": "2020-07-27T22:41:35+09:00",
     "id": "nonbiri15"
@@ -234,7 +234,7 @@
   {
     "title": "そのベンダープレフィックス、いつまでつけてるの？",
     "url": "https://qiita.com/amamamaou/items/42197e443134478befaf",
-    "likes_count": 412,
+    "likes_count": 411,
     "created_at": "2017-03-21T12:14:35+09:00",
     "updated_at": "2020-01-21T15:20:52+09:00",
     "id": "amamamaou"
@@ -250,7 +250,7 @@
   {
     "title": "ある美女が，どの大学にいそうかを CNN で判別する",
     "url": "https://qiita.com/pika_shi/items/3c8ab1a8ecc655b33851",
-    "likes_count": 378,
+    "likes_count": 377,
     "created_at": "2017-03-21T07:50:38+09:00",
     "updated_at": "2017-03-21T07:50:38+09:00",
     "id": "pika_shi"
@@ -290,7 +290,7 @@
   {
     "title": " 原理原則で理解するbashの仕組み",
     "url": "https://qiita.com/tajima_taso/items/149ca77a2401bf9bf026",
-    "likes_count": 350,
+    "likes_count": 349,
     "created_at": "2017-03-21T09:44:09+09:00",
     "updated_at": "2017-05-11T17:27:28+09:00",
     "id": "tajima_taso"
@@ -298,7 +298,7 @@
   {
     "title": "axios、async/awaitを使ったHTTPリクエスト(Web APIを実行)",
     "url": "https://qiita.com/shisama/items/61cdcc09dc69fd8d3127",
-    "likes_count": 349,
+    "likes_count": 348,
     "created_at": "2017-03-12T01:43:22+09:00",
     "updated_at": "2019-02-11T09:37:29+09:00",
     "id": "shisama"
@@ -322,7 +322,7 @@
   {
     "title": "MacにPython3をインストールし環境構築【決定版】",
     "url": "https://qiita.com/7110/items/1aa5968022373e99ae28",
-    "likes_count": 336,
+    "likes_count": 335,
     "created_at": "2017-03-18T13:27:49+09:00",
     "updated_at": "2020-05-10T21:29:15+09:00",
     "id": "7110"
@@ -330,7 +330,7 @@
   {
     "title": "MacのTerminalでのショートカットキー ",
     "url": "https://qiita.com/orangeboy/items/a51730ec2d157bf064d6",
-    "likes_count": 319,
+    "likes_count": 318,
     "created_at": "2017-03-01T13:15:46+09:00",
     "updated_at": "2017-03-26T17:41:32+09:00",
     "id": "orangeboy"
@@ -386,7 +386,7 @@
   {
     "title": "小〜中規模サイトのフロントエンド・コーディング規約　CSS・JavaScript編",
     "url": "https://qiita.com/d2cid-kimura/items/1ed0e93f3eea26080cf4",
-    "likes_count": 279,
+    "likes_count": 278,
     "created_at": "2017-03-14T14:55:22+09:00",
     "updated_at": "2021-03-16T17:23:51+09:00",
     "id": "d2cid-kimura"
@@ -410,7 +410,7 @@
   {
     "title": "Macおすすめ作業効率向上アプリ",
     "url": "https://qiita.com/blue0513/items/3e81d629dbada17a3b69",
-    "likes_count": 235,
+    "likes_count": 234,
     "created_at": "2017-03-24T03:09:36+09:00",
     "updated_at": "2017-04-07T02:13:14+09:00",
     "id": "blue0513"

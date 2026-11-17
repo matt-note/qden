@@ -2,7 +2,7 @@
   {
     "title": "2017年のフロントエンドエンジニアならこの程度は知ってて当然だよな？",
     "url": "https://qiita.com/rana_kualu/items/cad8dbbe5f5a1f1b3ba1",
-    "likes_count": 2891,
+    "likes_count": 2890,
     "created_at": "2017-02-14T20:49:51+09:00",
     "updated_at": "2019-03-07T19:46:57+09:00",
     "id": "rana_kualu"
@@ -10,7 +10,7 @@
   {
     "title": "webpack 4 入門",
     "url": "https://qiita.com/soarflat/items/28bf799f7e0335b68186",
-    "likes_count": 2375,
+    "likes_count": 2374,
     "created_at": "2017-02-02T03:21:09+09:00",
     "updated_at": "2023-04-14T21:12:21+09:00",
     "id": "soarflat"
@@ -18,7 +18,7 @@
   {
     "title": "Awesome Python：素晴らしい Python フレームワーク・ライブラリ・ソフトウェア・リソースの数々",
     "url": "https://qiita.com/hatai/items/34c91d4ee0b54bd7cb8b",
-    "likes_count": 1621,
+    "likes_count": 1620,
     "created_at": "2017-02-01T19:47:28+09:00",
     "updated_at": "2020-05-31T22:48:15+09:00",
     "id": "hatai"
@@ -26,7 +26,7 @@
   {
     "title": "実装を引き受ける前に詰めておくべきWebフロントエンドの想定漏れチェックシート",
     "url": "https://qiita.com/y_hokkey/items/de88447bd31d9379b80a",
-    "likes_count": 1187,
+    "likes_count": 1186,
     "created_at": "2017-02-04T16:58:28+09:00",
     "updated_at": "2017-10-31T14:37:35+09:00",
     "id": "y_hokkey"
@@ -90,7 +90,7 @@
   {
     "title": "Awesome JavaScript  : 素晴らしい JavaScript ライブラリ・リソースの数々",
     "url": "https://qiita.com/hatai/items/5bf899bfe8f5d86d2096",
-    "likes_count": 698,
+    "likes_count": 697,
     "created_at": "2017-02-03T18:06:04+09:00",
     "updated_at": "2020-06-12T17:08:21+09:00",
     "id": "hatai"
@@ -130,7 +130,7 @@
   {
     "title": "HTTPメソッド(CRUD)についてまとめた",
     "url": "https://qiita.com/fukuma_biz/items/a9e8d18467fe3e04068e",
-    "likes_count": 564,
+    "likes_count": 563,
     "created_at": "2017-02-24T01:32:00+09:00",
     "updated_at": "2020-07-31T18:00:56+09:00",
     "id": "fukuma_biz"
@@ -138,7 +138,7 @@
   {
     "title": "Awesome Java : 素晴しい Java フレームワーク・ライブラリ・ソフトウェアの数々",
     "url": "https://qiita.com/hatai/items/7868996e3eb5fa55f11a",
-    "likes_count": 563,
+    "likes_count": 562,
     "created_at": "2017-02-07T18:22:21+09:00",
     "updated_at": "2020-07-26T16:44:42+09:00",
     "id": "hatai"
@@ -152,14 +152,6 @@
     "id": "kuboon"
   },
   {
-    "title": "[社内新人向け]Gitで使ってほしくないコマンド",
-    "url": "https://qiita.com/zaramme/items/029d0f9b099e5f929e87",
-    "likes_count": 532,
-    "created_at": "2017-02-20T19:44:54+09:00",
-    "updated_at": "2017-03-01T08:59:58+09:00",
-    "id": "zaramme"
-  },
-  {
     "title": "Stripe Billing 101",
     "url": "https://qiita.com/y_toku/items/235b5e7ee00792edcbbf",
     "likes_count": 532,
@@ -168,9 +160,17 @@
     "id": "y_toku"
   },
   {
+    "title": "[社内新人向け]Gitで使ってほしくないコマンド",
+    "url": "https://qiita.com/zaramme/items/029d0f9b099e5f929e87",
+    "likes_count": 531,
+    "created_at": "2017-02-20T19:44:54+09:00",
+    "updated_at": "2017-03-01T08:59:58+09:00",
+    "id": "zaramme"
+  },
+  {
     "title": "なぜ機械学習にPythonが選ばれるのか",
     "url": "https://qiita.com/yaju/items/5502115d7e3d06e6bbdd",
-    "likes_count": 523,
+    "likes_count": 522,
     "created_at": "2017-02-13T00:40:14+09:00",
     "updated_at": "2026-10-25T16:51:47+09:00",
     "id": "yaju"
@@ -192,14 +192,6 @@
     "id": "keitakurita"
   },
   {
-    "title": "オレだよオレオレ認証局で証明書つくる",
-    "url": "https://qiita.com/ll_kuma_ll/items/13c962a6a74874af39c6",
-    "likes_count": 481,
-    "created_at": "2017-02-10T01:03:24+09:00",
-    "updated_at": "2019-12-18T18:26:37+09:00",
-    "id": "ll_kuma_ll"
-  },
-  {
     "title": "コミットは作業ログではない！",
     "url": "https://qiita.com/suzuki-hoge/items/cc91877ce69527ced692",
     "likes_count": 481,
@@ -208,9 +200,17 @@
     "id": "suzuki-hoge"
   },
   {
+    "title": "オレだよオレオレ認証局で証明書つくる",
+    "url": "https://qiita.com/ll_kuma_ll/items/13c962a6a74874af39c6",
+    "likes_count": 480,
+    "created_at": "2017-02-10T01:03:24+09:00",
+    "updated_at": "2019-12-18T18:26:37+09:00",
+    "id": "ll_kuma_ll"
+  },
+  {
     "title": "PythonのslackbotライブラリでSlackボットを作る",
     "url": "https://qiita.com/sukesuke/items/1ac92251def87357fdf6",
-    "likes_count": 478,
+    "likes_count": 477,
     "created_at": "2017-02-01T14:57:07+09:00",
     "updated_at": "2017-06-10T20:51:27+09:00",
     "id": "sukesuke"
@@ -226,7 +226,7 @@
   {
     "title": "Ruby初心者を脱した人が悩みがちな、ちょっと特殊な記法・演算子・イディオム",
     "url": "https://qiita.com/nashirox/items/0c885edf7d78fd5a83f1",
-    "likes_count": 465,
+    "likes_count": 464,
     "created_at": "2017-02-07T21:47:13+09:00",
     "updated_at": "2017-05-24T19:45:52+09:00",
     "id": "nashirox"
@@ -258,7 +258,7 @@
   {
     "title": "Gulpで始めるwebpack 4入門",
     "url": "https://qiita.com/tonkotsuboy_com/items/2d4f3862e6d05dc0bea1",
-    "likes_count": 427,
+    "likes_count": 426,
     "created_at": "2017-02-08T13:20:46+09:00",
     "updated_at": "2018-07-24T13:28:21+09:00",
     "id": "tonkotsuboy_com"
@@ -266,7 +266,7 @@
   {
     "title": "Awesome Node.js : 素晴しい Node.js フレームワーク・ライブラリ・ソフトウェア・リソースの数々",
     "url": "https://qiita.com/hatai/items/61030176a254cbe7ff2b",
-    "likes_count": 416,
+    "likes_count": 415,
     "created_at": "2017-02-17T17:52:44+09:00",
     "updated_at": "2019-11-01T14:08:58+09:00",
     "id": "hatai"
@@ -330,7 +330,7 @@
   {
     "title": "[ Markdownでスライド作成 ] 5種類くらいツールを試してみた結果",
     "url": "https://qiita.com/ykhirao/items/74a23f812dd5d22b3b88",
-    "likes_count": 336,
+    "likes_count": 335,
     "created_at": "2017-02-23T18:46:05+09:00",
     "updated_at": "2019-12-25T14:59:38+09:00",
     "id": "ykhirao"
@@ -346,7 +346,7 @@
   {
     "title": "フロントエンド知らない私のwebpack入門 その1",
     "url": "https://qiita.com/knjname/items/b8ca62c12238ade9c263",
-    "likes_count": 323,
+    "likes_count": 322,
     "created_at": "2017-02-02T14:27:11+09:00",
     "updated_at": "2019-12-10T17:15:05+09:00",
     "id": "knjname"
@@ -418,7 +418,7 @@
   {
     "title": "JavaScriptの文字列マッチングまとめ(indexOf, lastIndexOf)",
     "url": "https://qiita.com/aqril_1132/items/9f69575bfbcf24bdf7b5",
-    "likes_count": 274,
+    "likes_count": 273,
     "created_at": "2017-02-26T11:43:13+09:00",
     "updated_at": "2017-09-22T09:17:24+09:00",
     "id": "aqril_1132"
@@ -426,7 +426,7 @@
   {
     "title": "Kibanaで簡単! サクサク ビジュアライズしよう！",
     "url": "https://qiita.com/kitfactory/items/9c2f990d87e33fab828a",
-    "likes_count": 270,
+    "likes_count": 269,
     "created_at": "2017-02-25T19:23:17+09:00",
     "updated_at": "2017-02-25T22:37:13+09:00",
     "id": "kitfactory"
